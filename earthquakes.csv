@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T05:24:00.000Z,12 October 2025 - 05:24 AM,11.15,123.98,027,1.4,012km N 02° E of City Of Bogo (Cebu),012,N 02° E,City Of Bogo (Cebu)
+2025-10-12T05:21:00.000Z,12 October 2025 - 05:21 AM,11.55,124.33,023,1.6,008km S 76° W of Naval (Biliran),008,S 76° W,Naval (Biliran)
+2025-10-12T05:16:00.000Z,12 October 2025 - 05:16 AM,07.54,126.69,025,1.8,040km N 24° E of Manay (Davao Oriental),040,N 24° E,Manay (Davao Oriental)
+2025-10-12T05:14:00.000Z,12 October 2025 - 05:14 AM,11.12,124.02,033,2.0,010km N 27° E of City Of Bogo (Cebu),010,N 27° E,City Of Bogo (Cebu)
+2025-10-12T05:04:00.000Z,12 October 2025 - 05:04 AM,07.06,126.98,024,4.8,052km S 71° E of Manay (Davao Oriental),052,S 71° E,Manay (Davao Oriental)
+2025-10-12T05:03:00.000Z,12 October 2025 - 05:03 AM,07.28,127.42,095,2.7,097km N 86° E of Manay (Davao Oriental),097,N 86° E,Manay (Davao Oriental)
 2025-10-12T04:56:00.000Z,12 October 2025 - 04:56 AM,07.72,126.85,003,2.8,036km N 63° E of Baganga (Davao Oriental),036,N 63° E,Baganga (Davao Oriental)
 2025-10-12T04:48:00.000Z,12 October 2025 - 04:48 AM,11.22,124.15,041,2.0,026km N 46° E of City Of Bogo (Cebu),026,N 46° E,City Of Bogo (Cebu)
 2025-10-12T04:42:00.000Z,12 October 2025 - 04:42 AM,07.20,126.93,010,3.0,043km S 89° E of Manay (Davao Oriental),043,S 89° E,Manay (Davao Oriental)
