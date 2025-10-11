@@ -2,13 +2,18 @@ name: Scrape PHIVOLCS
 
 on:
     schedule:
-        - cron: '*/5 * * * *' # Every 30 minutes
+        - cron: '*/30 * * * *' # Every 30 minutes
     workflow_dispatch:
 jobs:
     run:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
+
+            - name: Go to folder
+              run: |
+                ls
+                cd earthquake-tracker
 
             - name: Set up Python
               uses: actions/setup-python@v4
