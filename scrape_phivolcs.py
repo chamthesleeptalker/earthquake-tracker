@@ -121,14 +121,21 @@ def save_new_records(headers, records):
     if not new_records:
         print("No new records to save.")
         return
-    write_header = not os.path.exists(CSV_FILE)
+    # write_header = not os.path.exists(CSV_FILE)
+
+    existing_rows=[]
+    with open(CSV_FILE, "r", newline="", encoding="utf-8") as f:
+        reader = list(csv.DictReader(f))
+        existing_rows = reader
+
+    # Combine: new records first, then old ones
+    all_rows = new_records + existing_rows
     # print(headers)
     # print([h.encode("utf-8").strip().decode('utf-8', errors='ignore') for h in headers])
-    with open(CSV_FILE, "a", newline="", encoding="utf-8") as f:
+    with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=headers)
-        if write_header:
-            writer.writeheader()
-        writer.writerows(new_records)
+        writer.writeheader()
+        writer.writerows(all_rows)
     print(f"Saved {len(new_records)} new records.")
 
 def run():
