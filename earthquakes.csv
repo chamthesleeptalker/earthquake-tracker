@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T07:21:00.000Z,12 October 2025 - 07:21 AM,11.02,123.91,002,2.4,008km S 66° W of City Of Bogo (Cebu),008,S 66° W,City Of Bogo (Cebu)
+2025-10-12T07:20:00.000Z,12 October 2025 - 07:20 AM,07.16,126.90,027,2.3,040km S 83° E of Manay (Davao Oriental),040,S 83° E,Manay (Davao Oriental)
+2025-10-12T07:16:00.000Z,12 October 2025 - 07:16 AM,11.15,124.07,008,2.3,015km N 41° E of City Of Bogo (Cebu),015,N 41° E,City Of Bogo (Cebu)
+2025-10-12T07:11:00.000Z,12 October 2025 - 07:11 AM,13.11,120.59,027,3.0,013km S 01° W of Mamburao (Occidental Mindoro),013,S 01° W,Mamburao (Occidental Mindoro)
 2025-10-12T07:04:00.000Z,12 October 2025 - 07:04 AM,03.69,126.40,014,4.1,219km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),219,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-12T07:02:00.000Z,12 October 2025 - 07:02 AM,11.05,124.01,002,2.2,004km S 51° E of City Of Bogo (Cebu),004,S 51° E,City Of Bogo (Cebu)
 2025-10-12T07:00:00.000Z,12 October 2025 - 07:00 AM,07.69,126.59,017,1.8,013km N 13° E of Baganga (Davao Oriental),013,N 13° E,Baganga (Davao Oriental)
