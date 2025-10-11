@@ -10,18 +10,15 @@ jobs:
         steps:
             - uses: actions/checkout@v3
 
-            - name: Go to folder
-              run: |
-                ls
-                cd earthquake-tracker
-
             - name: Set up Python
               uses: actions/setup-python@v4
               with:
                 python-version: '3.10'
                 
             - name: Install dependencies
-              run: python scrape_philvolcs.py
+              run: |
+                pip install -r requirements.txt
+                python scrape_philvolcs.py
 
             - name: Commit updated CSV
               run: |
