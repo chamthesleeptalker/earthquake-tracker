@@ -28,4 +28,9 @@ jobs:
                 git config user.email "action@github.com"
                 git add earthquakes.csv
                 git commit -m "Update earthquake data" || echo "No changes to commit"
-                git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+            
+            - name: Push changes
+              uses: ad-m/github-push-action@master
+              with:
+                github_token: ${{ secrets.GITHUB_TOKEN }}
+                branch: ${{ github.ref }}
