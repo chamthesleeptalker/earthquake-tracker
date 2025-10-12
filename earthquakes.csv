@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T07:12:00.000Z,13 October 2025 - 07:12 AM,11.03,123.99,002,2.1,002km S 22° E of City Of Bogo (Cebu),002,S 22° E,City Of Bogo (Cebu)
+2025-10-13T07:09:00.000Z,13 October 2025 - 07:09 AM,11.02,124.02,004,3.1,005km S 64° E of City Of Bogo (Cebu),005,S 64° E,City Of Bogo (Cebu)
 2025-10-13T07:04:00.000Z,13 October 2025 - 07:04 AM,11.21,124.13,033,2.4,024km N 43° E of City Of Bogo (Cebu),024,N 43° E,City Of Bogo (Cebu)
 2025-10-13T06:53:00.000Z,13 October 2025 - 06:53 AM,10.92,123.88,001,2.4,018km S 36° W of City Of Bogo (Cebu),018,S 36° W,City Of Bogo (Cebu)
 2025-10-13T06:23:00.000Z,13 October 2025 - 06:23 AM,11.19,124.20,033,2.5,029km N 57° E of City Of Bogo (Cebu),029,N 57° E,City Of Bogo (Cebu)
