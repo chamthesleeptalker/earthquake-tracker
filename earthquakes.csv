@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T10:37:00.000Z,12 October 2025 - 10:37 AM,06.49,125.89,028,2.4,027km S 48° W of Governor Generoso (Davao Oriental),027,S 48° W,Governor Generoso (Davao Oriental)
+2025-10-12T10:27:00.000Z,12 October 2025 - 10:27 AM,07.85,126.77,014,2.5,036km N 80° E of Cateel (Davao Oriental),036,N 80° E,Cateel (Davao Oriental)
+2025-10-12T10:23:00.000Z,12 October 2025 - 10:23 AM,13.64,120.20,015,2.2,011km S 30° W of Looc (Occidental Mindoro),011,S 30° W,Looc (Occidental Mindoro)
+2025-10-12T10:04:00.000Z,12 October 2025 - 10:04 AM,11.07,124.08,007,2.1,012km N 77° E of City Of Bogo (Cebu),012,N 77° E,City Of Bogo (Cebu)
+2025-10-12T09:48:00.000Z,12 October 2025 - 09:48 AM,07.07,126.86,028,2.6,039km S 66° E of Manay (Davao Oriental),039,S 66° E,Manay (Davao Oriental)
+2025-10-12T09:25:00.000Z,12 October 2025 - 09:25 AM,07.13,127.00,025,3.6,052km S 79° E of Manay (Davao Oriental),052,S 79° E,Manay (Davao Oriental)
 2025-10-12T09:01:00.000Z,12 October 2025 - 09:01 AM,13.99,120.52,114,1.7,015km S 50° W of Nasugbu (Batangas),015,S 50° W,Nasugbu (Batangas)
 2025-10-12T08:59:00.000Z,12 October 2025 - 08:59 AM,11.12,124.07,011,2.2,013km N 52° E of City Of Bogo (Cebu),013,N 52° E,City Of Bogo (Cebu)
 2025-10-12T08:47:00.000Z,12 October 2025 - 08:47 AM,07.37,127.04,009,2.9,053km N 84° E of Caraga (Davao Oriental),053,N 84° E,Caraga (Davao Oriental)
