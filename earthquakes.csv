@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T12:59:00.000Z,12 October 2025 - 12:59 PM,07.11,126.64,033,2.8,015km S 44° E of Manay (Davao Oriental),015,S 44° E,Manay (Davao Oriental)
 2025-10-12T11:44:00.000Z,12 October 2025 - 11:44 AM,13.43,120.58,024,1.6,013km N 86° E of Paluan (Occidental Mindoro),013,N 86° E,Paluan (Occidental Mindoro)
 2025-10-12T11:37:00.000Z,12 October 2025 - 11:37 AM,07.07,126.84,008,3.1,037km S 65° E of Manay (Davao Oriental),037,S 65° E,Manay (Davao Oriental)
 2025-10-12T11:21:00.000Z,12 October 2025 - 11:21 AM,07.05,127.15,006,2.8,070km S 75° E of Manay (Davao Oriental),070,S 75° E,Manay (Davao Oriental)
