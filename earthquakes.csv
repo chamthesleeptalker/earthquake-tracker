@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T22:21:00.000Z,12 October 2025 - 10:21 PM,13.52,120.33,001,2.0,018km N 50° W of Paluan (Occidental Mindoro),018,N 50° W,Paluan (Occidental Mindoro)
+2025-10-12T22:06:00.000Z,12 October 2025 - 10:06 PM,11.15,124.04,030,1.8,013km N 30° E of City Of Bogo (Cebu),013,N 30° E,City Of Bogo (Cebu)
 2025-10-12T22:04:00.000Z,12 October 2025 - 10:04 PM,07.41,126.86,022,1.8,042km N 59° E of Manay (Davao Oriental),042,N 59° E,Manay (Davao Oriental)
 2025-10-12T21:58:00.000Z,12 October 2025 - 09:58 PM,14.74,119.06,029,3.0,111km S 78° W of San Antonio (Zambales),111,S 78° W,San Antonio (Zambales)
 2025-10-12T21:56:00.000Z,12 October 2025 - 09:56 PM,08.95,126.33,030,1.5,005km N 42° E of Cagwait (Surigao Del Sur),005,N 42° E,Cagwait (Surigao Del Sur)
