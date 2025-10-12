@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T11:21:00.000Z,12 October 2025 - 11:21 AM,07.05,127.15,006,2.8,070km S 75° E of Manay (Davao Oriental),070,S 75° E,Manay (Davao Oriental)
+2025-10-12T11:16:00.000Z,12 October 2025 - 11:16 AM,11.30,123.86,013,2.9,031km N 24° W of City Of Bogo (Cebu),031,N 24° W,City Of Bogo (Cebu)
+2025-10-12T10:59:00.000Z,12 October 2025 - 10:59 AM,07.12,127.12,023,2.9,065km S 81° E of Manay (Davao Oriental),065,S 81° E,Manay (Davao Oriental)
+2025-10-12T10:49:00.000Z,12 October 2025 - 10:49 AM,11.10,124.15,033,1.9,020km N 74° E of City Of Bogo (Cebu),020,N 74° E,City Of Bogo (Cebu)
 2025-10-12T10:37:00.000Z,12 October 2025 - 10:37 AM,06.49,125.89,028,2.4,027km S 48° W of Governor Generoso (Davao Oriental),027,S 48° W,Governor Generoso (Davao Oriental)
 2025-10-12T10:27:00.000Z,12 October 2025 - 10:27 AM,07.85,126.77,014,2.5,036km N 80° E of Cateel (Davao Oriental),036,N 80° E,Cateel (Davao Oriental)
 2025-10-12T10:23:00.000Z,12 October 2025 - 10:23 AM,13.64,120.20,015,2.2,011km S 30° W of Looc (Occidental Mindoro),011,S 30° W,Looc (Occidental Mindoro)
