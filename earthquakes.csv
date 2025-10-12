@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T23:18:00.000Z,12 October 2025 - 11:18 PM,11.09,124.04,005,2.8,008km N 54° E of City Of Bogo (Cebu),008,N 54° E,City Of Bogo (Cebu)
+2025-10-12T23:14:00.000Z,12 October 2025 - 11:14 PM,11.02,124.02,034,1.5,005km S 63° E of City Of Bogo (Cebu),005,S 63° E,City Of Bogo (Cebu)
+2025-10-12T23:13:00.000Z,12 October 2025 - 11:13 PM,07.97,126.83,016,2.3,046km N 65° E of Cateel (Davao Oriental),046,N 65° E,Cateel (Davao Oriental)
+2025-10-12T23:13:00.000Z,12 October 2025 - 11:13 PM,10.88,123.84,005,2.2,025km S 40° W of City Of Bogo (Cebu),025,S 40° W,City Of Bogo (Cebu)
+2025-10-12T23:02:00.000Z,12 October 2025 - 11:02 PM,11.18,124.10,008,2.4,020km N 42° E of City Of Bogo (Cebu),020,N 42° E,City Of Bogo (Cebu)
 2025-10-12T23:01:00.000Z,12 October 2025 - 11:01 PM,07.24,126.75,023,2.5,024km N 82° E of Manay (Davao Oriental),024,N 82° E,Manay (Davao Oriental)
 2025-10-12T23:00:00.000Z,12 October 2025 - 11:00 PM,13.78,122.80,009,1.9,004km S 14° E of Ragay (Camarines Sur),004,S 14° E,Ragay (Camarines Sur)
 2025-10-12T22:58:00.000Z,12 October 2025 - 10:58 PM,11.23,124.01,013,1.2,020km N 08° E of City Of Bogo (Cebu),020,N 08° E,City Of Bogo (Cebu)
