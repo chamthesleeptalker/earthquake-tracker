@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T18:03:00.000Z,12 October 2025 - 06:03 PM,11.16,123.99,020,2.1,012km N 08° E of City Of Bogo (Cebu),012,N 08° E,City Of Bogo (Cebu)
+2025-10-12T17:59:00.000Z,12 October 2025 - 05:59 PM,11.24,123.94,015,2.2,022km N 12° W of City Of Bogo (Cebu),022,N 12° W,City Of Bogo (Cebu)
+2025-10-12T17:51:00.000Z,12 October 2025 - 05:51 PM,11.10,124.12,001,3.6,016km N 69° E of City Of Bogo (Cebu),016,N 69° E,City Of Bogo (Cebu)
+2025-10-12T17:44:00.000Z,12 October 2025 - 05:44 PM,08.98,126.41,026,4.2,013km N 60° E of Cagwait (Surigao Del Sur),013,N 60° E,Cagwait (Surigao Del Sur)
+2025-10-12T17:35:00.000Z,12 October 2025 - 05:35 PM,07.34,126.62,010,2.4,017km N 31° E of Manay (Davao Oriental),017,N 31° E,Manay (Davao Oriental)
 2025-10-12T17:15:00.000Z,12 October 2025 - 05:15 PM,07.17,126.86,020,2.8,036km S 83° E of Manay (Davao Oriental),036,S 83° E,Manay (Davao Oriental)
 2025-10-12T17:07:00.000Z,12 October 2025 - 05:07 PM,07.24,126.97,026,3.3,048km N 87° E of Manay (Davao Oriental),048,N 87° E,Manay (Davao Oriental)
 2025-10-12T16:58:00.000Z,12 October 2025 - 04:58 PM,16.57,120.22,020,2.4,012km S 62° W of City Of San Fernando (La Union),012,S 62° W,City Of San Fernando (La Union)
