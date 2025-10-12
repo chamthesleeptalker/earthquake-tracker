@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T23:01:00.000Z,12 October 2025 - 11:01 PM,07.24,126.75,023,2.5,024km N 82° E of Manay (Davao Oriental),024,N 82° E,Manay (Davao Oriental)
+2025-10-12T23:00:00.000Z,12 October 2025 - 11:00 PM,13.78,122.80,009,1.9,004km S 14° E of Ragay (Camarines Sur),004,S 14° E,Ragay (Camarines Sur)
+2025-10-12T22:58:00.000Z,12 October 2025 - 10:58 PM,11.23,124.01,013,1.2,020km N 08° E of City Of Bogo (Cebu),020,N 08° E,City Of Bogo (Cebu)
+2025-10-12T22:58:00.000Z,12 October 2025 - 10:58 PM,07.23,127.00,011,3.4,051km N 88° E of Manay (Davao Oriental),051,N 88° E,Manay (Davao Oriental)
+2025-10-12T22:53:00.000Z,12 October 2025 - 10:53 PM,11.16,124.13,033,2.2,021km N 52° E of City Of Bogo (Cebu),021,N 52° E,City Of Bogo (Cebu)
+2025-10-12T22:48:00.000Z,12 October 2025 - 10:48 PM,11.09,124.05,033,1.7,009km N 61° E of City Of Bogo (Cebu),009,N 61° E,City Of Bogo (Cebu)
+2025-10-12T22:43:00.000Z,12 October 2025 - 10:43 PM,07.19,126.87,010,4.5,036km S 86° E of Manay (Davao Oriental),036,S 86° E,Manay (Davao Oriental)
+2025-10-12T22:30:00.000Z,12 October 2025 - 10:30 PM,16.83,120.23,013,2.6,017km S 81° W of Luna (La Union),017,S 81° W,Luna (La Union)
+2025-10-12T22:28:00.000Z,12 October 2025 - 10:28 PM,11.13,124.11,033,2.0,017km N 57° E of City Of Bogo (Cebu),017,N 57° E,City Of Bogo (Cebu)
 2025-10-12T22:21:00.000Z,12 October 2025 - 10:21 PM,13.52,120.33,001,2.0,018km N 50° W of Paluan (Occidental Mindoro),018,N 50° W,Paluan (Occidental Mindoro)
 2025-10-12T22:06:00.000Z,12 October 2025 - 10:06 PM,11.15,124.04,030,1.8,013km N 30° E of City Of Bogo (Cebu),013,N 30° E,City Of Bogo (Cebu)
 2025-10-12T22:04:00.000Z,12 October 2025 - 10:04 PM,07.41,126.86,022,1.8,042km N 59° E of Manay (Davao Oriental),042,N 59° E,Manay (Davao Oriental)
