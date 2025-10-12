@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T16:04:00.000Z,12 October 2025 - 04:04 PM,07.34,127.00,013,2.4,052km N 75° E of Manay (Davao Oriental),052,N 75° E,Manay (Davao Oriental)
+2025-10-12T15:48:00.000Z,12 October 2025 - 03:48 PM,11.19,124.14,034,1.5,024km N 48° E of City Of Bogo (Cebu),024,N 48° E,City Of Bogo (Cebu)
+2025-10-12T15:41:00.000Z,12 October 2025 - 03:41 PM,11.25,124.10,009,2.9,027km N 31° E of City Of Bogo (Cebu),027,N 31° E,City Of Bogo (Cebu)
+2025-10-12T15:40:00.000Z,12 October 2025 - 03:40 PM,11.21,124.15,009,2.3,026km N 45° E of City Of Bogo (Cebu),026,N 45° E,City Of Bogo (Cebu)
+2025-10-12T15:35:00.000Z,12 October 2025 - 03:35 PM,11.17,124.18,034,2.1,026km N 58° E of City Of Bogo (Cebu),026,N 58° E,City Of Bogo (Cebu)
 2025-10-12T15:22:00.000Z,12 October 2025 - 03:22 PM,07.25,126.81,005,2.5,031km N 81° E of Manay (Davao Oriental),031,N 81° E,Manay (Davao Oriental)
 2025-10-12T14:56:00.000Z,12 October 2025 - 02:56 PM,08.82,127.31,012,4.0,112km S 85° E of Cagwait (Surigao Del Sur),112,S 85° E,Cagwait (Surigao Del Sur)
 2025-10-12T14:50:00.000Z,12 October 2025 - 02:50 PM,10.74,125.38,068,2.8,034km N 45° E of Silago (Southern Leyte),034,N 45° E,Silago (Southern Leyte)
