@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T05:18:00.000Z,13 October 2025 - 05:18 AM,11.14,124.10,032,2.0,017km N 52° E of City Of Bogo (Cebu),017,N 52° E,City Of Bogo (Cebu)
+2025-10-13T05:10:00.000Z,13 October 2025 - 05:10 AM,11.02,123.96,018,2.5,004km S 28° W of City Of Bogo (Cebu),004,S 28° W,City Of Bogo (Cebu)
 2025-10-13T05:02:00.000Z,13 October 2025 - 05:02 AM,11.26,123.50,029,2.8,040km N 32° E of City Of Cadiz (Negros Occidental),040,N 32° E,City Of Cadiz (Negros Occidental)
 2025-10-13T05:00:00.000Z,13 October 2025 - 05:00 AM,11.06,123.94,019,1.8,004km N 66° W of City Of Bogo (Cebu),004,N 66° W,City Of Bogo (Cebu)
 2025-10-13T04:50:00.000Z,13 October 2025 - 04:50 AM,07.32,127.11,011,2.7,064km N 79° E of Manay (Davao Oriental),064,N 79° E,Manay (Davao Oriental)
