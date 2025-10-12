@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T04:26:00.000Z,13 October 2025 - 04:26 AM,08.82,125.67,033,2.5,003km S 88° W of Sibagat (Agusan Del Sur),003,S 88° W,Sibagat (Agusan Del Sur)
+2025-10-13T04:20:00.000Z,13 October 2025 - 04:20 AM,11.01,123.90,032,2.2,009km S 62° W of City Of Bogo (Cebu),009,S 62° W,City Of Bogo (Cebu)
+2025-10-13T04:18:00.000Z,13 October 2025 - 04:18 AM,07.31,126.98,017,3.0,049km N 77° E of Manay (Davao Oriental),049,N 77° E,Manay (Davao Oriental)
+2025-10-13T04:18:00.000Z,13 October 2025 - 04:18 AM,11.02,123.92,028,2.1,007km S 71° W of City Of Bogo (Cebu),007,S 71° W,City Of Bogo (Cebu)
+2025-10-13T04:17:00.000Z,13 October 2025 - 04:17 AM,11.06,123.92,032,2.3,007km N 73° W of City Of Bogo (Cebu),007,N 73° W,City Of Bogo (Cebu)
+2025-10-13T04:10:00.000Z,13 October 2025 - 04:10 AM,10.96,123.96,005,2.4,009km S 10° W of City Of Bogo (Cebu),009,S 10° W,City Of Bogo (Cebu)
+2025-10-13T04:07:00.000Z,13 October 2025 - 04:07 AM,09.89,126.24,024,2.2,015km N 39° E of General Luna (Surigao Del Norte),015,N 39° E,General Luna (Surigao Del Norte)
 2025-10-13T03:49:00.000Z,13 October 2025 - 03:49 AM,07.37,127.02,020,4.3,056km N 72° E of Manay (Davao Oriental),056,N 72° E,Manay (Davao Oriental)
 2025-10-13T03:49:00.000Z,13 October 2025 - 03:49 AM,11.00,123.96,010,4.1,005km S 22° W of City Of Bogo (Cebu),005,S 22° W,City Of Bogo (Cebu)
 2025-10-13T03:45:00.000Z,13 October 2025 - 03:45 AM,11.16,124.07,030,2.4,015km N 38° E of City Of Bogo (Cebu),015,N 38° E,City Of Bogo (Cebu)
