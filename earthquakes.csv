@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-12T20:55:00.000Z,12 October 2025 - 08:55 PM,06.52,125.93,032,2.4,022km S 49° W of Governor Generoso (Davao Oriental),022,S 49° W,Governor Generoso (Davao Oriental)
+2025-10-12T20:40:00.000Z,12 October 2025 - 08:40 PM,10.96,123.85,020,2.2,017km S 56° W of City Of Bogo (Cebu),017,S 56° W,City Of Bogo (Cebu)
+2025-10-12T20:39:00.000Z,12 October 2025 - 08:39 PM,10.90,123.88,006,3.5,019km S 33° W of City Of Bogo (Cebu),019,S 33° W,City Of Bogo (Cebu)
+2025-10-12T20:35:00.000Z,12 October 2025 - 08:35 PM,11.13,123.93,008,1.2,010km N 31° W of City Of Bogo (Cebu),010,N 31° W,City Of Bogo (Cebu)
 2025-10-12T20:19:00.000Z,12 October 2025 - 08:19 PM,13.43,120.28,006,3.0,020km N 85° W of Paluan (Occidental Mindoro),020,N 85° W,Paluan (Occidental Mindoro)
 2025-10-12T20:13:00.000Z,12 October 2025 - 08:13 PM,06.74,126.30,021,2.2,025km S 21° E of City Of Mati (Davao Oriental),025,S 21° E,City Of Mati (Davao Oriental)
 2025-10-12T20:10:00.000Z,12 October 2025 - 08:10 PM,05.77,124.32,009,3.3,037km S 32° W of Maitum (Sarangani),037,S 32° W,Maitum (Sarangani)
