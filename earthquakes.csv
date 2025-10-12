@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T03:21:00.000Z,13 October 2025 - 03:21 AM,07.10,127.12,019,3.1,066km S 79° E of Manay (Davao Oriental),066,S 79° E,Manay (Davao Oriental)
+2025-10-13T03:18:00.000Z,13 October 2025 - 03:18 AM,11.03,124.04,007,4.2,006km S 78° E of City Of Bogo (Cebu),006,S 78° E,City Of Bogo (Cebu)
+2025-10-13T03:12:00.000Z,13 October 2025 - 03:12 AM,11.03,123.97,021,3.0,003km S 33° W of City Of Bogo (Cebu),003,S 33° W,City Of Bogo (Cebu)
+2025-10-13T03:11:00.000Z,13 October 2025 - 03:11 AM,10.96,123.96,011,1.6,010km S 13° W of City Of Bogo (Cebu),010,S 13° W,City Of Bogo (Cebu)
+2025-10-13T03:06:00.000Z,13 October 2025 - 03:06 AM,18.82,121.46,020,2.6,010km S 68° E of Fuga Island (Aparri) (Cagayan),010,S 68° E,Fuga Island (Aparri) (Cagayan)
+2025-10-13T03:05:00.000Z,13 October 2025 - 03:05 AM,07.02,126.85,024,3.5,040km S 58° E of Manay (Davao Oriental),040,S 58° E,Manay (Davao Oriental)
+2025-10-13T03:03:00.000Z,13 October 2025 - 03:03 AM,11.00,123.97,007,2.3,006km S 12° W of City Of Bogo (Cebu),006,S 12° W,City Of Bogo (Cebu)
 2025-10-13T02:58:00.000Z,13 October 2025 - 02:58 AM,11.13,123.94,034,2.6,010km N 23° W of City Of Bogo (Cebu),010,N 23° W,City Of Bogo (Cebu)
 2025-10-13T02:55:00.000Z,13 October 2025 - 02:55 AM,11.03,123.99,007,2.3,002km S 27° E of City Of Bogo (Cebu),002,S 27° E,City Of Bogo (Cebu)
 2025-10-13T02:51:00.000Z,13 October 2025 - 02:51 AM,13.45,120.20,018,2.8,029km N 82° W of Paluan (Occidental Mindoro),029,N 82° W,Paluan (Occidental Mindoro)
