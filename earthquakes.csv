@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T23:10:00.000Z,13 October 2025 - 11:10 PM,11.12,124.08,033,1.9,014km N 56° E of City Of Bogo (Cebu),014,N 56° E,City Of Bogo (Cebu)
+2025-10-13T22:52:00.000Z,13 October 2025 - 10:52 PM,10.97,123.99,031,2.0,009km S 07° E of City Of Bogo (Cebu),009,S 07° E,City Of Bogo (Cebu)
+2025-10-13T23:06:00.000Z,13 October 2025 - 11:06 PM,11.02,123.98,035,2.0,003km S 07° E of City Of Bogo (Cebu),003,S 07° E,City Of Bogo (Cebu)
+2025-10-13T22:52:00.000Z,13 October 2025 - 10:52 PM,10.97,123.99,031,2.0,009km S 07° E of City Of Bogo (Cebu),009,S 07° E,City Of Bogo (Cebu)
+2025-10-13T22:46:00.000Z,13 October 2025 - 10:46 PM,11.08,124.04,029,2.1,008km N 58° E of City Of Bogo (Cebu),008,N 58° E,City Of Bogo (Cebu)
+2025-10-13T22:38:00.000Z,13 October 2025 - 10:38 PM,07.94,127.34,081,2.4,095km N 65° E of Baganga (Davao Oriental),095,N 65° E,Baganga (Davao Oriental)
+2025-10-13T22:35:00.000Z,13 October 2025 - 10:35 PM,07.12,125.96,041,1.9,007km S 84° E of Pantukan (Davao De Oro),007,S 84° E,Pantukan (Davao De Oro)
+2025-10-13T22:35:00.000Z,13 October 2025 - 10:35 PM,07.95,126.22,007,1.5,019km N 62° W of Boston (Davao Oriental),019,N 62° W,Boston (Davao Oriental)
+2025-10-13T22:35:00.000Z,13 October 2025 - 10:35 PM,11.89,125.39,032,2.0,004km S 68° W of Taft (Eastern Samar),004,S 68° W,Taft (Eastern Samar)
 2025-10-13T22:25:00.000Z,13 October 2025 - 10:25 PM,11.00,124.06,002,2.0,010km S 60° E of City Of Bogo (Cebu),010,S 60° E,City Of Bogo (Cebu)
 2025-10-13T22:21:00.000Z,13 October 2025 - 10:21 PM,11.00,124.05,031,2.3,010km S 57° E of City Of Bogo (Cebu),010,S 57° E,City Of Bogo (Cebu)
 2025-10-13T22:19:00.000Z,13 October 2025 - 10:19 PM,11.01,123.94,006,2.4,006km S 51° W of City Of Bogo (Cebu),006,S 51° W,City Of Bogo (Cebu)
