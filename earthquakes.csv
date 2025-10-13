@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T05:46:00.000Z,14 October 2025 - 05:46 AM,11.12,123.97,009,2.3,008km N 08° W of City Of Bogo (Cebu),008,N 08° W,City Of Bogo (Cebu)
+2025-10-14T05:31:00.000Z,14 October 2025 - 05:31 AM,11.12,124.05,027,1.8,011km N 43° E of City Of Bogo (Cebu),011,N 43° E,City Of Bogo (Cebu)
+2025-10-14T05:30:00.000Z,14 October 2025 - 05:30 AM,06.97,126.76,021,2.3,036km S 43° E of Manay (Davao Oriental),036,S 43° E,Manay (Davao Oriental)
 2025-10-14T05:21:00.000Z,14 October 2025 - 05:21 AM,10.23,125.91,015,2.8,027km N 30° W of Santa Monica (Surigao Del Norte),027,N 30° W,Santa Monica (Surigao Del Norte)
 2025-10-14T05:12:00.000Z,14 October 2025 - 05:12 AM,11.87,125.79,006,3.2,037km N 81° E of Sulat (Eastern Samar),037,N 81° E,Sulat (Eastern Samar)
 2025-10-14T05:08:00.000Z,14 October 2025 - 05:08 AM,07.33,126.80,018,3.2,032km N 67° E of Manay (Davao Oriental),032,N 67° E,Manay (Davao Oriental)
