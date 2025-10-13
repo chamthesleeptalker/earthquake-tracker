@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T22:25:00.000Z,13 October 2025 - 10:25 PM,11.00,124.06,002,2.0,010km S 60° E of City Of Bogo (Cebu),010,S 60° E,City Of Bogo (Cebu)
+2025-10-13T22:21:00.000Z,13 October 2025 - 10:21 PM,11.00,124.05,031,2.3,010km S 57° E of City Of Bogo (Cebu),010,S 57° E,City Of Bogo (Cebu)
+2025-10-13T22:19:00.000Z,13 October 2025 - 10:19 PM,11.01,123.94,006,2.4,006km S 51° W of City Of Bogo (Cebu),006,S 51° W,City Of Bogo (Cebu)
+2025-10-13T22:16:00.000Z,13 October 2025 - 10:16 PM,10.91,124.01,003,2.0,015km S 12° E of City Of Bogo (Cebu),015,S 12° E,City Of Bogo (Cebu)
+2025-10-13T22:13:00.000Z,13 October 2025 - 10:13 PM,11.09,124.02,033,2.0,007km N 41° E of City Of Bogo (Cebu),007,N 41° E,City Of Bogo (Cebu)
+2025-10-13T22:11:00.000Z,13 October 2025 - 10:11 PM,11.01,123.97,005,2.3,004km S 13° W of City Of Bogo (Cebu),004,S 13° W,City Of Bogo (Cebu)
 2025-10-13T22:09:00.000Z,13 October 2025 - 10:09 PM,10.98,123.96,028,2.0,008km S 18° W of City Of Bogo (Cebu),008,S 18° W,City Of Bogo (Cebu)
 2025-10-13T22:07:00.000Z,13 October 2025 - 10:07 PM,07.00,126.94,010,3.4,050km S 62° E of Manay (Davao Oriental),050,S 62° E,Manay (Davao Oriental)
 2025-10-13T22:03:00.000Z,13 October 2025 - 10:03 PM,13.99,120.50,084,2.0,017km S 73° W of Lian (Batangas),017,S 73° W,Lian (Batangas)
