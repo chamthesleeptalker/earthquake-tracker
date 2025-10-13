@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T01:08:00.000Z,14 October 2025 - 01:08 AM,07.08,127.00,010,4.2,052km S 74° E of Manay (Davao Oriental),052,S 74° E,Manay (Davao Oriental)
+2025-10-14T01:04:00.000Z,14 October 2025 - 01:04 AM,11.12,123.94,018,1.9,010km N 27° W of City Of Bogo (Cebu),010,N 27° W,City Of Bogo (Cebu)
+2025-10-14T01:00:00.000Z,14 October 2025 - 01:00 AM,07.54,127.35,017,2.7,087km S 87° E of Baganga (Davao Oriental),087,S 87° E,Baganga (Davao Oriental)
+2025-10-14T00:57:00.000Z,14 October 2025 - 12:57 AM,11.13,124.04,022,1.6,011km N 36° E of City Of Bogo (Cebu),011,N 36° E,City Of Bogo (Cebu)
+2025-10-14T01:54:00.000Z,14 October 2025 - 01:54 AM,13.78,122.86,005,2.0,006km S 82° W of Lupi (Camarines Sur),006,S 82° W,Lupi (Camarines Sur)
+2025-10-14T00:51:00.000Z,14 October 2025 - 12:51 AM,13.65,120.29,013,2.2,009km S 32° E of Looc (Occidental Mindoro),009,S 32° E,Looc (Occidental Mindoro)
+2025-10-14T00:50:00.000Z,14 October 2025 - 12:50 AM,11.16,123.98,031,1.7,013km N 01° W of City Of Bogo (Cebu),013,N 01° W,City Of Bogo (Cebu)
+2025-10-14T00:42:00.000Z,14 October 2025 - 12:42 AM,07.62,126.00,033,1.7,004km N 57° E of Nabunturan (Davao De Oro),004,N 57° E,Nabunturan (Davao De Oro)
+2025-10-14T00:36:00.000Z,14 October 2025 - 12:36 AM,10.89,124.00,002,3.3,017km S 08° E of City Of Bogo (Cebu),017,S 08° E,City Of Bogo (Cebu)
 2025-10-14T00:31:00.000Z,14 October 2025 - 12:31 AM,11.17,123.97,031,1.7,014km N 04° W of City Of Bogo (Cebu),014,N 04° W,City Of Bogo (Cebu)
 2025-10-14T00:29:00.000Z,14 October 2025 - 12:29 AM,09.02,126.20,047,1.8,015km N 45° W of Cagwait (Surigao Del Sur),015,N 45° W,Cagwait (Surigao Del Sur)
 2025-10-14T00:16:00.000Z,14 October 2025 - 12:16 AM,14.01,120.50,075,2.0,016km S 64° W of Nasugbu (Batangas),016,S 64° W,Nasugbu (Batangas)
