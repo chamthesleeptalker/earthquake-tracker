@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T05:21:00.000Z,14 October 2025 - 05:21 AM,10.23,125.91,015,2.8,027km N 30° W of Santa Monica (Surigao Del Norte),027,N 30° W,Santa Monica (Surigao Del Norte)
+2025-10-14T05:12:00.000Z,14 October 2025 - 05:12 AM,11.87,125.79,006,3.2,037km N 81° E of Sulat (Eastern Samar),037,N 81° E,Sulat (Eastern Samar)
+2025-10-14T05:08:00.000Z,14 October 2025 - 05:08 AM,07.33,126.80,018,3.2,032km N 67° E of Manay (Davao Oriental),032,N 67° E,Manay (Davao Oriental)
+2025-10-14T05:05:00.000Z,14 October 2025 - 05:05 AM,10.87,123.90,002,2.2,021km S 25° W of City Of Bogo (Cebu),021,S 25° W,City Of Bogo (Cebu)
+2025-10-14T05:04:00.000Z,14 October 2025 - 05:04 AM,07.48,126.09,003,3.5,009km S 37° W of New Bataan (Davao De Oro),009,S 37° W,New Bataan (Davao De Oro)
 2025-10-14T05:02:00.000Z,14 October 2025 - 05:02 AM,11.04,124.00,028,1.8,006km N 36° E of City Of Bogo (Cebu),006,N 36° E,City Of Bogo (Cebu)
 2025-10-14T04:45:00.000Z,14 October 2025 - 04:45 AM,07.30,126.70,010,2.4,024km N 60° E of Manay (Davao Oriental),024,N 60° E,Manay (Davao Oriental)
 2025-10-14T04:43:00.000Z,14 October 2025 - 04:43 AM,07.12,126.84,021,2.7,035km S 74° E of Manay (Davao Oriental),035,S 74° E,Manay (Davao Oriental)
