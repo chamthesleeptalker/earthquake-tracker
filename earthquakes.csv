@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T13:31:00.000Z,13 October 2025 - 01:31 PM,07.40,126.84,031,3.6,039km N 57° E of Manay (Davao Oriental),039,N 57° E,Manay (Davao Oriental)
+2025-10-13T13:08:00.000Z,13 October 2025 - 01:08 PM,13.60,120.77,005,3.1,013km S 60° W of Tingloy (Batangas),013,S 60° W,Tingloy (Batangas)
 2025-10-13T13:06:00.000Z,13 October 2025 - 01:06 PM,11.11,124.00,034,1.7,007km N 19° E of City Of Bogo (Cebu),007,N 19° E,City Of Bogo (Cebu)
 2025-10-13T12:56:00.000Z,13 October 2025 - 12:56 PM,07.27,126.92,034,2.1,043km N 80° E of Manay (Davao Oriental),043,N 80° E,Manay (Davao Oriental)
 2025-10-13T12:47:00.000Z,13 October 2025 - 12:47 PM,07.31,127.00,018,4.0,052km N 77° E of Manay (Davao Oriental),052,N 77° E,Manay (Davao Oriental)
