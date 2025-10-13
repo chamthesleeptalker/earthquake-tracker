@@ -139,6 +139,17 @@ def segment_earthquake_data(data):
     past_24h = df[df["datetime_iso"] >= latest_time - timedelta(hours=24)]
     past_7d = df[df["datetime_iso"] >= latest_time - timedelta(days=7)]
 
+    # Format datetime_iso
+    def format_datetime_column(df_segment):
+        df_segment = df_segment.copy()
+        df_segment["datetime_iso"] = df_segment["datetime_iso"].dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+        return df_segment
+
+    past_hour = format_datetime_column(past_hour)
+    today = format_datetime_column(today)
+    past_24h = format_datetime_column(past_24h)
+    past_7d = format_datetime_column(past_7d)
+
     # Save to CSV Files
     output_files = {
         "earthquakes_past_hour.csv": past_hour,
