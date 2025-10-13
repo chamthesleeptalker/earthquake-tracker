@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T18:31:00.000Z,13 October 2025 - 06:31 PM,10.97,124.06,032,1.4,012km S 46° E of City Of Bogo (Cebu),012,S 46° E,City Of Bogo (Cebu)
+2025-10-13T18:28:00.000Z,13 October 2025 - 06:28 PM,11.01,124.01,006,1.8,005km S 39° E of City Of Bogo (Cebu),005,S 39° E,City Of Bogo (Cebu)
+2025-10-13T18:23:00.000Z,13 October 2025 - 06:23 PM,10.07,125.10,031,1.4,007km N 78° W of San Francisco (Southern Leyte),007,N 78° W,San Francisco (Southern Leyte)
+2025-10-13T18:15:00.000Z,13 October 2025 - 06:15 PM,11.12,124.04,033,2.0,011km N 39° E of City Of Bogo (Cebu),011,N 39° E,City Of Bogo (Cebu)
+2025-10-13T18:12:00.000Z,13 October 2025 - 06:12 PM,11.03,124.03,007,3.2,006km S 66° E of City Of Bogo (Cebu),006,S 66° E,City Of Bogo (Cebu)
 2025-10-13T18:01:00.000Z,13 October 2025 - 06:01 PM,10.90,123.91,001,2.0,020km S 27° W of City Of Bogo (Cebu),020,S 27° W,City Of Bogo (Cebu)
 2025-10-13T18:01:00.000Z,13 October 2025 - 06:01 PM,11.14,124.16,005,1.9,022km N 62° E of City Of Bogo (Cebu),022,N 62° E,City Of Bogo (Cebu)
 2025-10-13T17:42:00.000Z,13 October 2025 - 05:42 PM,08.12,126.54,031,1.4,017km N 55° E of Lingig (Surigao Del Sur),017,N 55° E,Lingig (Surigao Del Sur)
