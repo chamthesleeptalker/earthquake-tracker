@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T03:26:00.000Z,14 October 2025 - 03:26 AM,10.86,123.93,002,2.2,021km S 16° W of City Of Bogo (Cebu),021,S 16° W,City Of Bogo (Cebu)
+2025-10-14T03:20:00.000Z,14 October 2025 - 03:20 AM,08.73,126.95,003,3.4,075km S 73° E of Cagwait (Surigao Del Sur),075,S 73° E,Cagwait (Surigao Del Sur)
+2025-10-14T03:20:00.000Z,14 October 2025 - 03:20 AM,08.73,126.95,003,3.4,075km S 73° E of Cagwait (Surigao Del Sur),075,S 73° E,Cagwait (Surigao Del Sur)
+2025-10-14T03:18:00.000Z,14 October 2025 - 03:18 AM,11.17,124.02,032,1.7,015km N 18° E of City Of Bogo (Cebu),015,N 18° E,City Of Bogo (Cebu)
+2025-10-14T03:18:00.000Z,14 October 2025 - 03:18 AM,07.29,126.69,024,2.3,019km N 63° E of Manay (Davao Oriental),019,N 63° E,Manay (Davao Oriental)
+2025-10-14T03:11:00.000Z,14 October 2025 - 03:11 AM,12.83,123.45,034,1.7,017km S 62° W of Donsol (Sorsogon),017,S 62° W,Donsol (Sorsogon)
+2025-10-14T03:06:00.000Z,14 October 2025 - 03:06 AM,07.16,126.67,019,1.8,016km S 69° E of Manay (Davao Oriental),016,S 69° E,Manay (Davao Oriental)
+2025-10-14T03:04:00.000Z,14 October 2025 - 03:04 AM,10.97,123.94,004,2.1,009km S 29° W of City Of Bogo (Cebu),009,S 29° W,City Of Bogo (Cebu)
 2025-10-14T02:58:00.000Z,14 October 2025 - 02:58 AM,12.48,125.36,034,2.3,011km N 89° E of Mapanas (Northern Samar),011,N 89° E,Mapanas (Northern Samar)
 2025-10-14T03:01:00.000Z,14 October 2025 - 03:01 AM,07.34,127.26,031,2.1,081km N 80° E of Manay (Davao Oriental),081,N 80° E,Manay (Davao Oriental)
 2025-10-14T02:54:00.000Z,14 October 2025 - 02:54 AM,11.10,123.94,032,2.0,007km N 40° W of City Of Bogo (Cebu),007,N 40° W,City Of Bogo (Cebu)
