@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-13T18:55:00.000Z,13 October 2025 - 06:55 PM,11.28,124.06,033,1.6,028km N 18° E of City Of Bogo (Cebu),028,N 18° E,City Of Bogo (Cebu)
+2025-10-13T18:49:00.000Z,13 October 2025 - 06:49 PM,13.55,120.10,033,1.6,025km S 41° W of Looc (Occidental Mindoro),025,S 41° W,Looc (Occidental Mindoro)
+2025-10-13T18:44:00.000Z,13 October 2025 - 06:44 PM,10.39,126.58,016,2.4,069km N 53° E of Burgos (Surigao Del Norte),069,N 53° E,Burgos (Surigao Del Norte)
+2025-10-13T18:41:00.000Z,13 October 2025 - 06:41 PM,11.07,123.97,027,1.5,002km N 17° W of City Of Bogo (Cebu),002,N 17° W,City Of Bogo (Cebu)
 2025-10-13T18:31:00.000Z,13 October 2025 - 06:31 PM,10.97,124.06,032,1.4,012km S 46° E of City Of Bogo (Cebu),012,S 46° E,City Of Bogo (Cebu)
 2025-10-13T18:28:00.000Z,13 October 2025 - 06:28 PM,11.01,124.01,006,1.8,005km S 39° E of City Of Bogo (Cebu),005,S 39° E,City Of Bogo (Cebu)
 2025-10-13T18:23:00.000Z,13 October 2025 - 06:23 PM,10.07,125.10,031,1.4,007km N 78° W of San Francisco (Southern Leyte),007,N 78° W,San Francisco (Southern Leyte)
