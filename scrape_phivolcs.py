@@ -185,6 +185,13 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
         average_magnitude
     ]
 
+    summary_titles = [
+        "Strongest Event",
+        "Most Active Region",
+        "Average Depth (km)",
+        "Average Magnitude"
+    ]
+
     # Write summary stats to CSV with 'figures' and 'values' columns
     summary_csv = "earthquake_summary_stats.csv"
     if os.path.exists(summary_csv):
@@ -194,9 +201,9 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
     with open(summary_csv, "w", newline="", encoding="utf-8") as f:
         print(f"Creating new file '{summary_csv}'.")
         writer = csv.writer(f)
-        writer.writerow(["figures", "values"])
-        for header, value in zip(summary_headers, summary_values):
-            writer.writerow([header, value])
+        writer.writerow(["figures", "values", "titles"])
+        for header, value, titles in zip(summary_headers, summary_values, summary_titles):
+            writer.writerow([header, value, titles])
     print(f"Saved summary stats to {summary_csv}")
 
      # Prepare summary stats for CSV
@@ -215,6 +222,13 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
         total_7d,
     ]
 
+    temporal_titles = [
+        "in the Past Hour",
+        "today",
+        "in the Past 24 Hours",
+        "in the Past 7 Days",
+    ]
+
     # Write summary stats to CSV with 'figures' and 'values' columns
     temporal_csv = "earthquake_temporal_stats.csv"
     if os.path.exists(temporal_csv):
@@ -224,11 +238,10 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
     with open(temporal_csv, "w", newline="", encoding="utf-8") as f:
         print(f"Creating new file '{temporal_csv}'.")
         writer = csv.writer(f)
-        writer.writerow(["figures", "values"])
-        for header, value in zip(temporal_headers, temporal_values):
-            writer.writerow([header, value])
+        writer.writerow(["figures", "values", "titles"])
+        for header, value, titles in zip(temporal_headers, temporal_values, temporal_titles):
+            writer.writerow([header, value, titles])
     print(f"Saved summary stats to {temporal_csv}")
-
 
 
     # Save to CSV Files
