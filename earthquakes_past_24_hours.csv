@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T06:30:00.000Z,15 October 2025 - 06:30 AM,07.34,126.93,008,2.3,045km N 71° E of Manay (Davao Oriental),045,N 71° E,Manay (Davao Oriental)
+2025-10-15T06:27:00.000Z,15 October 2025 - 06:27 AM,11.14,124.07,010,2.1,014km N 43° E of City Of Bogo (Cebu),014,N 43° E,City Of Bogo (Cebu)
 2025-10-15T06:05:00.000Z,15 October 2025 - 06:05 AM,07.25,126.79,015,2.4,028km N 80° E of Manay (Davao Oriental),028,N 80° E,Manay (Davao Oriental)
 2025-10-15T05:48:00.000Z,15 October 2025 - 05:48 AM,07.46,127.11,013,2.8,069km N 66° E of Manay (Davao Oriental),069,N 66° E,Manay (Davao Oriental)
 2025-10-15T05:29:00.000Z,15 October 2025 - 05:29 AM,11.15,123.95,009,2.7,012km N 16° W of City Of Bogo (Cebu),012,N 16° W,City Of Bogo (Cebu)
@@ -180,7 +182,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T06:39:00.000Z,14 October 2025 - 06:39 AM,07.64,126.56,028,2.0,007km N 02° W of Baganga (Davao Oriental),007,N 02° W,Baganga (Davao Oriental)
 2025-10-14T06:34:00.000Z,14 October 2025 - 06:34 AM,11.22,124.07,032,1.6,021km N 27° E of City Of Bogo (Cebu),021,N 27° E,City Of Bogo (Cebu)
 2025-10-14T06:30:00.000Z,14 October 2025 - 06:30 AM,08.87,126.50,024,3.3,023km S 77° E of Cagwait (Surigao Del Sur),023,S 77° E,Cagwait (Surigao Del Sur)
-2025-10-14T06:25:00.000Z,14 October 2025 - 06:25 AM,05.11,126.20,093,2.8,091km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),091,S 63° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-10-14T06:12:00.000Z,14 October 2025 - 06:12 AM,09.08,126.40,023,3.2,021km N 32° E of Cagwait (Surigao Del Sur),021,N 32° E,Cagwait (Surigao Del Sur)
-2025-10-14T06:11:00.000Z,14 October 2025 - 06:11 AM,14.07,120.41,130,3.2,024km S 90° W of Nasugbu (Batangas),024,S 90° W,Nasugbu (Batangas)
-2025-10-14T06:10:00.000Z,14 October 2025 - 06:10 AM,11.12,124.03,029,1.8,010km N 33° E of City Of Bogo (Cebu),010,N 33° E,City Of Bogo (Cebu)
