@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T16:17:00.000Z,14 October 2025 - 04:17 PM,07.12,126.87,020,3.0,038km S 74° E of Manay (Davao Oriental),038,S 74° E,Manay (Davao Oriental)
+2025-10-14T16:10:00.000Z,14 October 2025 - 04:10 PM,12.48,124.63,024,1.7,003km S 24° W of Catarman (Northern Samar),003,S 24° W,Catarman (Northern Samar)
 2025-10-14T16:06:00.000Z,14 October 2025 - 04:06 PM,07.46,127.26,026,2.5,078km S 81° E of Baganga (Davao Oriental),078,S 81° E,Baganga (Davao Oriental)
 2025-10-14T15:49:00.000Z,14 October 2025 - 03:49 PM,07.23,126.80,027,2.5,028km N 86° E of Manay (Davao Oriental),028,N 86° E,Manay (Davao Oriental)
 2025-10-14T15:47:00.000Z,14 October 2025 - 03:47 PM,10.82,125.27,012,2.4,030km N 75° E of Abuyog (Leyte),030,N 75° E,Abuyog (Leyte)
