@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T02:37:00.000Z,15 October 2025 - 02:37 AM,10.96,123.90,012,2.9,013km S 40° W of City Of Bogo (Cebu),013,S 40° W,City Of Bogo (Cebu)
+2025-10-15T02:35:00.000Z,15 October 2025 - 02:35 AM,09.78,125.94,011,2.0,011km S 20° W of Del Carmen (Surigao Del Norte),011,S 20° W,Del Carmen (Surigao Del Norte)
+2025-10-15T02:17:00.000Z,15 October 2025 - 02:17 AM,07.41,127.28,018,4.6,085km N 75° E of Manay (Davao Oriental),085,N 75° E,Manay (Davao Oriental)
 2025-10-15T02:18:00.000Z,15 October 2025 - 02:18 AM,07.19,127.65,071,4.6,122km S 88° E of Manay (Davao Oriental),122,S 88° E,Manay (Davao Oriental)
 2025-10-15T02:09:00.000Z,15 October 2025 - 02:09 AM,07.21,126.62,010,2.2,009km S 89° E of Manay (Davao Oriental),009,S 89° E,Manay (Davao Oriental)
 2025-10-15T02:07:00.000Z,15 October 2025 - 02:07 AM,06.62,127.22,018,2.6,099km S 49° E of Manay (Davao Oriental),099,S 49° E,Manay (Davao Oriental)
