@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T07:25:00.000Z,15 October 2025 - 07:25 AM,11.08,124.01,019,2.5,005km N 46° E of City Of Bogo (Cebu),005,N 46° E,City Of Bogo (Cebu)
+2025-10-15T07:03:00.000Z,15 October 2025 - 07:03 AM,07.25,126.77,017,2.4,025km N 81° E of Manay (Davao Oriental),025,N 81° E,Manay (Davao Oriental)
 2025-10-15T07:01:00.000Z,15 October 2025 - 07:01 AM,05.36,126.11,047,3.4,072km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),072,S 80° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-15T06:53:00.000Z,15 October 2025 - 06:53 AM,07.30,126.94,011,3.8,045km N 78° E of Manay (Davao Oriental),045,N 78° E,Manay (Davao Oriental)
 2025-10-15T06:48:00.000Z,15 October 2025 - 06:48 AM,10.54,122.32,010,4.4,013km S 1° W of Guimbal (Iloilo),013,S 1° W,Guimbal (Iloilo)
