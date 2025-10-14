@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T07:01:00.000Z,15 October 2025 - 07:01 AM,05.36,126.11,047,3.4,072km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),072,S 80° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-10-15T06:53:00.000Z,15 October 2025 - 06:53 AM,07.30,126.94,011,3.8,045km N 78° E of Manay (Davao Oriental),045,N 78° E,Manay (Davao Oriental)
+2025-10-15T06:48:00.000Z,15 October 2025 - 06:48 AM,10.54,122.32,010,4.4,013km S 1° W of Guimbal (Iloilo),013,S 1° W,Guimbal (Iloilo)
 2025-10-15T06:30:00.000Z,15 October 2025 - 06:30 AM,07.34,126.93,008,2.3,045km N 71° E of Manay (Davao Oriental),045,N 71° E,Manay (Davao Oriental)
 2025-10-15T06:27:00.000Z,15 October 2025 - 06:27 AM,11.14,124.07,010,2.1,014km N 43° E of City Of Bogo (Cebu),014,N 43° E,City Of Bogo (Cebu)
 2025-10-15T06:05:00.000Z,15 October 2025 - 06:05 AM,07.25,126.79,015,2.4,028km N 80° E of Manay (Davao Oriental),028,N 80° E,Manay (Davao Oriental)
@@ -1572,8 +1575,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-08T07:34:00.000Z,08 October 2025 - 07:34 AM,11.17,124.16,007,1.9,024km N 54° E of City Of Bogo (Cebu),024,N 54° E,City Of Bogo (Cebu)
 2025-10-08T07:23:00.000Z,08 October 2025 - 07:23 AM,11.12,123.95,007,2.4,009km N 23° W of City Of Bogo (Cebu),009,N 23° W,City Of Bogo (Cebu)
 2025-10-08T07:19:00.000Z,08 October 2025 - 07:19 AM,10.97,123.95,006,3.9,010km S 21° W of City Of Bogo (Cebu),010,S 21° W,City Of Bogo (Cebu)
-2025-10-08T06:57:00.000Z,08 October 2025 - 06:57 AM,11.07,124.17,031,2.0,021km N 81° E of City Of Bogo (Cebu),021,N 81° E,City Of Bogo (Cebu)
-2025-10-08T06:50:00.000Z,08 October 2025 - 06:50 AM,13.91,120.45,061,1.6,021km N 65° W of Calatagan (Batangas),021,N 65° W,Calatagan (Batangas)
-2025-10-08T06:50:00.000Z,08 October 2025 - 06:50 AM,11.04,124.08,002,2.5,011km S 84° E of City Of Bogo (Cebu),011,S 84° E,City Of Bogo (Cebu)
-2025-10-08T06:41:00.000Z,08 October 2025 - 06:41 AM,16.48,122.09,010,2.0,016km N 52° W of Dilasag (Aurora),016,N 52° W,Dilasag (Aurora)
-2025-10-08T06:35:00.000Z,08 October 2025 - 06:35 AM,10.95,124.03,015,2.2,012km S 25° E of City Of Bogo (Cebu),012,S 25° E,City Of Bogo (Cebu)

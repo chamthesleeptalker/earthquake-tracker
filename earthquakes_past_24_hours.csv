@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T07:01:00.000Z,15 October 2025 - 07:01 AM,05.36,126.11,047,3.4,072km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),072,S 80° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-10-15T06:53:00.000Z,15 October 2025 - 06:53 AM,07.30,126.94,011,3.8,045km N 78° E of Manay (Davao Oriental),045,N 78° E,Manay (Davao Oriental)
+2025-10-15T06:48:00.000Z,15 October 2025 - 06:48 AM,10.54,122.32,010,4.4,013km S 1° W of Guimbal (Iloilo),013,S 1° W,Guimbal (Iloilo)
 2025-10-15T06:30:00.000Z,15 October 2025 - 06:30 AM,07.34,126.93,008,2.3,045km N 71° E of Manay (Davao Oriental),045,N 71° E,Manay (Davao Oriental)
 2025-10-15T06:27:00.000Z,15 October 2025 - 06:27 AM,11.14,124.07,010,2.1,014km N 43° E of City Of Bogo (Cebu),014,N 43° E,City Of Bogo (Cebu)
 2025-10-15T06:05:00.000Z,15 October 2025 - 06:05 AM,07.25,126.79,015,2.4,028km N 80° E of Manay (Davao Oriental),028,N 80° E,Manay (Davao Oriental)
@@ -177,8 +180,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T07:30:00.000Z,14 October 2025 - 07:30 AM,07.20,126.79,022,2.1,028km S 87° E of Manay (Davao Oriental),028,S 87° E,Manay (Davao Oriental)
 2025-10-14T07:20:00.000Z,14 October 2025 - 07:20 AM,07.38,126.86,008,2.8,040km N 63° E of Manay (Davao Oriental),040,N 63° E,Manay (Davao Oriental)
 2025-10-14T07:11:00.000Z,14 October 2025 - 07:11 AM,10.89,123.87,001,1.8,021km S 35° W of City Of Bogo (Cebu),021,S 35° W,City Of Bogo (Cebu)
-2025-10-14T07:00:00.000Z,14 October 2025 - 07:00 AM,08.86,126.43,023,2.2,016km S 67° E of Cagwait (Surigao Del Sur),016,S 67° E,Cagwait (Surigao Del Sur)
-2025-10-14T06:58:00.000Z,14 October 2025 - 06:58 AM,11.09,123.96,035,1.8,005km N 30° W of City Of Bogo (Cebu),005,N 30° W,City Of Bogo (Cebu)
-2025-10-14T06:39:00.000Z,14 October 2025 - 06:39 AM,07.64,126.56,028,2.0,007km N 02° W of Baganga (Davao Oriental),007,N 02° W,Baganga (Davao Oriental)
-2025-10-14T06:34:00.000Z,14 October 2025 - 06:34 AM,11.22,124.07,032,1.6,021km N 27° E of City Of Bogo (Cebu),021,N 27° E,City Of Bogo (Cebu)
-2025-10-14T06:30:00.000Z,14 October 2025 - 06:30 AM,08.87,126.50,024,3.3,023km S 77° E of Cagwait (Surigao Del Sur),023,S 77° E,Cagwait (Surigao Del Sur)
