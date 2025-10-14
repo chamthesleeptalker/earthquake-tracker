@@ -310,10 +310,10 @@ def segment_earthquake_data(data):
 
     # Save to CSV Files
     output_files = {
-        "earthquakes_past_hour.csv": past_hour,
-        "earthquakes_today.csv": today,
-        "earthquakes_past_24_hours.csv": past_24h,
-        "earthquakes_past_7_days.csv": past_7d,
+        EARTHQUAKE_PAST_HOUR_CSV_FILE: past_hour,
+        EARTHQUAKE_TODAY_CSV_FILE: today,
+        EARTHQUAKE_PAST_24_HOURS_CSV_FILE: past_24h,
+        EARTHQUAKE_PAST_7_DAYS_CSV_FILE: past_7d,
     }
 
     # Save to CSV Files (overwrite if existing)
@@ -356,8 +356,6 @@ def save_new_records(headers, records):
         writer.writeheader()
         writer.writerows(all_rows)
     print(f"Saved {len(new_records)} new records.")
-
-    segment_earthquake_data(all_rows)
 
 def run():
     html = fetch_html()
