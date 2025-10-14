@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T13:28:00.000Z,14 October 2025 - 01:28 PM,13.06,124.13,097,4.0,007km N 72° W of Prieto Diaz (Sorsogon),007,N 72° W,Prieto Diaz (Sorsogon)
+2025-10-14T13:19:00.000Z,14 October 2025 - 01:19 PM,07.17,127.02,021,3.3,053km S 85° E of Manay (Davao Oriental),053,S 85° E,Manay (Davao Oriental)
+2025-10-14T13:16:00.000Z,14 October 2025 - 01:16 PM,11.15,124.02,033,1.5,012km N 22° E of City Of Bogo (Cebu),012,N 22° E,City Of Bogo (Cebu)
 2025-10-14T12:59:00.000Z,14 October 2025 - 12:59 PM,07.20,126.62,006,2.1,009km S 82° E of Manay (Davao Oriental),009,S 82° E,Manay (Davao Oriental)
 2025-10-14T12:44:00.000Z,14 October 2025 - 12:44 PM,07.40,126.98,015,3.2,053km N 66° E of Manay (Davao Oriental),053,N 66° E,Manay (Davao Oriental)
 2025-10-14T12:10:00.000Z,14 October 2025 - 12:10 PM,11.06,123.98,031,1.7,002km N 12° W of City Of Bogo (Cebu),002,N 12° W,City Of Bogo (Cebu)
