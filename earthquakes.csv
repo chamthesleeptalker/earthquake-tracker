@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T12:06:00.000Z,14 October 2025 - 12:06 PM,07.34,127.39,010,4.3,094km N 81° E of Manay (Davao Oriental),094,N 81° E,Manay (Davao Oriental)
+2025-10-14T12:00:00.000Z,14 October 2025 - 12:00 PM,07.27,127.38,015,3.2,093km N 86° E of Manay (Davao Oriental),093,N 86° E,Manay (Davao Oriental)
+2025-10-14T11:55:00.000Z,14 October 2025 - 11:55 AM,18.33,122.19,009,2.6,015km S 19° E of Santa Ana (Cagayan),015,S 19° E,Santa Ana (Cagayan)
+2025-10-14T11:40:00.000Z,14 October 2025 - 11:40 AM,07.36,127.25,017,2.2,080km N 78° E of Manay (Davao Oriental),080,N 78° E,Manay (Davao Oriental)
+2025-10-14T11:24:00.000Z,14 October 2025 - 11:24 AM,10.85,123.92,011,2.4,022km S 17° W of City Of Bogo (Cebu),022,S 17° W,City Of Bogo (Cebu)
+2025-10-14T11:18:00.000Z,14 October 2025 - 11:18 AM,11.08,124.04,033,1.7,008km N 64° E of City Of Bogo (Cebu),008,N 64° E,City Of Bogo (Cebu)
 2025-10-14T11:10:00.000Z,14 October 2025 - 11:10 AM,11.27,124.01,005,2.3,024km N 07° E of City Of Bogo (Cebu),024,N 07° E,City Of Bogo (Cebu)
 2025-10-14T10:54:00.000Z,14 October 2025 - 10:54 AM,13.58,120.67,130,2.2,016km N 21° W of Abra De Ilog (Occidental Mindoro),016,N 21° W,Abra De Ilog (Occidental Mindoro)
 2025-10-14T10:51:00.000Z,14 October 2025 - 10:51 AM,07.40,127.22,024,4.1,079km N 74° E of Manay (Davao Oriental),079,N 74° E,Manay (Davao Oriental)
