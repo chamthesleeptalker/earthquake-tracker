@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T04:58:00.000Z,15 October 2025 - 04:58 AM,11.07,124.19,033,2.0,023km N 84° E of City Of Bogo (Cebu),023,N 84° E,City Of Bogo (Cebu)
+2025-10-15T04:50:00.000Z,15 October 2025 - 04:50 AM,07.29,126.89,008,2.7,040km N 78° E of Manay (Davao Oriental),040,N 78° E,Manay (Davao Oriental)
+2025-10-15T04:46:00.000Z,15 October 2025 - 04:46 AM,07.68,126.69,033,1.5,055km N 18° E of Manay (Davao Oriental),055,N 18° E,Manay (Davao Oriental)
+2025-10-15T04:44:00.000Z,15 October 2025 - 04:44 AM,07.41,127.10,013,2.6,066km N 71° E of Manay (Davao Oriental),066,N 71° E,Manay (Davao Oriental)
 2025-10-15T04:19:00.000Z,15 October 2025 - 04:19 AM,10.96,123.98,029,2.3,009km S 03° W of City Of Bogo (Cebu),009,S 03° W,City Of Bogo (Cebu)
 2025-10-15T04:07:00.000Z,15 October 2025 - 04:07 AM,11.07,124.08,029,2.1,012km N 76° E of City Of Bogo (Cebu),012,N 76° E,City Of Bogo (Cebu)
 2025-10-15T04:03:00.000Z,15 October 2025 - 04:03 AM,07.32,126.92,008,2.8,044km N 73° E of Manay (Davao Oriental),044,N 73° E,Manay (Davao Oriental)
@@ -1580,9 +1584,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-08T05:03:00.000Z,08 October 2025 - 05:03 AM,11.13,124.24,031,1.7,030km N 71° E of City Of Bogo (Cebu),030,N 71° E,City Of Bogo (Cebu)
 2025-10-08T05:03:00.000Z,08 October 2025 - 05:03 AM,11.13,124.24,031,1.7,030km N 71° E of City Of Bogo (Cebu),030,N 71° E,City Of Bogo (Cebu)
 2025-10-08T05:03:00.000Z,08 October 2025 - 05:03 AM,18.35,120.62,022,2.0,002km N 10° W of Pasuquin (Ilocos Norte),002,N 10° W,Pasuquin (Ilocos Norte)
-2025-10-08T04:50:00.000Z,08 October 2025 - 04:50 AM,11.14,123.99,031,1.4,011km N 05° E of City Of Bogo (Cebu),011,N 05° E,City Of Bogo (Cebu)
-2025-10-08T04:47:00.000Z,08 October 2025 - 04:47 AM,10.99,123.99,005,2.1,007km S 14° E of City Of Bogo (Cebu),007,S 14° E,City Of Bogo (Cebu)
-2025-10-08T04:34:00.000Z,08 October 2025 - 04:34 AM,11.07,124.10,024,1.6,013km N 77° E of City Of Bogo (Cebu),013,N 77° E,City Of Bogo (Cebu)
-2025-10-08T04:33:00.000Z,08 October 2025 - 04:33 AM,06.32,124.39,020,2.0,017km S 28° E of Senator Ninoy Aquino (Sultan Kudarat),017,S 28° E,Senator Ninoy Aquino (Sultan Kudarat)
-2025-10-08T04:28:00.000Z,08 October 2025 - 04:28 AM,11.10,124.30,034,1.6,036km N 80° E of City Of Bogo (Cebu),036,N 80° E,City Of Bogo (Cebu)
-2025-10-08T04:23:00.000Z,08 October 2025 - 04:23 AM,13.50,120.60,053,2.3,015km N 66° W of Abra De Ilog (Occidental Mindoro),015,N 66° W,Abra De Ilog (Occidental Mindoro)
