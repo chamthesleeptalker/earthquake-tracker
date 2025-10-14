@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T00:30:00.000Z,15 October 2025 - 12:30 AM,10.86,125.31,002,2.0,029km S 17° W of Balangiga (Eastern Samar),029,S 17° W,Balangiga (Eastern Samar)
+2025-10-15T00:30:00.000Z,15 October 2025 - 12:30 AM,07.39,126.70,010,2.2,026km N 41° E of Manay (Davao Oriental),026,N 41° E,Manay (Davao Oriental)
+2025-10-15T00:25:00.000Z,15 October 2025 - 12:25 AM,11.04,124.05,018,2.1,008km S 88° E of City Of Bogo (Cebu),008,S 88° E,City Of Bogo (Cebu)
+2025-10-15T00:21:00.000Z,15 October 2025 - 12:21 AM,07.27,126.89,013,2.3,039km N 80° E of Manay (Davao Oriental),039,N 80° E,Manay (Davao Oriental)
+2025-10-15T00:18:00.000Z,15 October 2025 - 12:18 AM,07.21,126.80,018,4.3,028km S 89° E of Manay (Davao Oriental),028,S 89° E,Manay (Davao Oriental)
 2025-10-15T00:08:00.000Z,15 October 2025 - 12:08 AM,07.44,127.49,014,2.9,108km N 77° E of Manay (Davao Oriental),108,N 77° E,Manay (Davao Oriental)
 2025-10-15T00:04:00.000Z,15 October 2025 - 12:04 AM,10.81,125.49,045,2.4,036km S 46° W of Guiuan (Eastern Samar),036,S 46° W,Guiuan (Eastern Samar)
 2025-10-15T00:00:00.000Z,15 October 2025 - 12:00 AM,07.38,127.32,010,4.2,088km N 77° E of Manay (Davao Oriental),088,N 77° E,Manay (Davao Oriental)
@@ -201,6 +206,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T00:42:00.000Z,14 October 2025 - 12:42 AM,07.62,126.00,033,1.7,004km N 57° E of Nabunturan (Davao De Oro),004,N 57° E,Nabunturan (Davao De Oro)
 2025-10-14T00:36:00.000Z,14 October 2025 - 12:36 AM,10.89,124.00,002,3.3,017km S 08° E of City Of Bogo (Cebu),017,S 08° E,City Of Bogo (Cebu)
 2025-10-14T00:31:00.000Z,14 October 2025 - 12:31 AM,11.17,123.97,031,1.7,014km N 04° W of City Of Bogo (Cebu),014,N 04° W,City Of Bogo (Cebu)
-2025-10-14T00:29:00.000Z,14 October 2025 - 12:29 AM,09.02,126.20,047,1.8,015km N 45° W of Cagwait (Surigao Del Sur),015,N 45° W,Cagwait (Surigao Del Sur)
-2025-10-14T00:16:00.000Z,14 October 2025 - 12:16 AM,14.01,120.50,075,2.0,016km S 64° W of Nasugbu (Batangas),016,S 64° W,Nasugbu (Batangas)
-2025-10-14T00:13:00.000Z,14 October 2025 - 12:13 AM,11.16,124.12,003,2.4,020km N 49° E of City Of Bogo (Cebu),020,N 49° E,City Of Bogo (Cebu)
