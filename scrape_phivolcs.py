@@ -199,9 +199,8 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
         average_magnitude
     ]
 
-    # Write summary stats to CSV
+    # Write summary stats to CSV with 'figures' and 'values' columns
     summary_csv = "earthquake_summary_stats.csv"
-
     if os.path.exists(summary_csv):
         print(f"'{summary_csv}' exists — replacing old file.")
         os.remove(summary_csv)
@@ -209,9 +208,9 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
     with open(summary_csv, "w", newline="", encoding="utf-8") as f:
         print(f"Creating new file '{summary_csv}'.")
         writer = csv.writer(f)
-        writer.writerow(summary_headers)
-        writer.writerow(summary_values)
-    
+        writer.writerow(["figures", "values"])
+        for header, value in zip(summary_headers, summary_values):
+            writer.writerow([header, value])
     print(f"Saved summary stats to {summary_csv}")
 
     # Save to CSV Files
