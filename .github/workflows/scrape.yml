@@ -26,7 +26,7 @@ jobs:
               run: |
                 git config user.name "GitHub Action"
                 git config user.email "action@github.com"
-                git add earthquakes.csv
+                git add *.csv || echo "No CSV files to add"
                 git commit -m "Update earthquake data" || echo "No changes to commit"
             
             - name: Push changes
