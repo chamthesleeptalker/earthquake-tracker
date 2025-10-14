@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T19:15:00.000Z,14 October 2025 - 07:15 PM,10.96,123.94,007,2.5,010km S 23° W of City Of Bogo (Cebu),010,S 23° W,City Of Bogo (Cebu)
+2025-10-14T19:11:00.000Z,14 October 2025 - 07:11 PM,10.92,123.94,005,2.9,015km S 18° W of City Of Bogo (Cebu),015,S 18° W,City Of Bogo (Cebu)
 2025-10-14T19:00:00.000Z,14 October 2025 - 07:00 PM,11.18,124.17,013,2.1,026km N 54° E of City Of Bogo (Cebu),026,N 54° E,City Of Bogo (Cebu)
 2025-10-14T18:52:00.000Z,14 October 2025 - 06:52 PM,06.71,127.26,027,3.5,097km S 55° E of Manay (Davao Oriental),097,S 55° E,Manay (Davao Oriental)
 2025-10-14T18:46:00.000Z,14 October 2025 - 06:46 PM,10.82,124.20,023,2.5,035km S 44° E of City Of Bogo (Cebu),035,S 44° E,City Of Bogo (Cebu)
@@ -1581,5 +1583,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-07T19:52:00.000Z,07 October 2025 - 07:52 PM,11.22,123.91,018,1.6,020km N 21° W of City Of Bogo (Cebu),020,N 21° W,City Of Bogo (Cebu)
 2025-10-07T19:51:00.000Z,07 October 2025 - 07:51 PM,11.05,124.03,024,1.4,005km N 87° E of City Of Bogo (Cebu),005,N 87° E,City Of Bogo (Cebu)
 2025-10-07T19:50:00.000Z,07 October 2025 - 07:50 PM,11.16,123.97,029,1.7,012km N 03° W of City Of Bogo (Cebu),012,N 03° W,City Of Bogo (Cebu)
-2025-10-07T19:07:00.000Z,07 October 2025 - 07:07 PM,11.13,124.09,033,2.3,015km N 51° E of City Of Bogo (Cebu),015,N 51° E,City Of Bogo (Cebu)
-2025-10-07T19:03:00.000Z,07 October 2025 - 07:03 PM,06.85,125.10,035,2.0,012km S 05° E of Makilala (Cotabato),012,S 05° E,Makilala (Cotabato)
