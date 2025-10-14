@@ -306,8 +306,6 @@ def segment_earthquake_data(data):
     past_24h = format_datetime_column(past_24h)
     past_7d = format_datetime_column(past_7d)
 
-    generate_summary_stats(past_hour, today, past_24h, past_7d)
-
     # Save to CSV Files
     output_files = {
         EARTHQUAKE_PAST_HOUR_CSV_FILE: past_hour,
@@ -325,7 +323,7 @@ def segment_earthquake_data(data):
         subset.to_csv(filename, index=False, mode="w")
         print(f"Saved {len(subset)} entries to {filename}")
 
-    
+    generate_summary_stats(past_hour, today, past_24h, past_7d)
 
     print("\nSegmentation complete.")
 
