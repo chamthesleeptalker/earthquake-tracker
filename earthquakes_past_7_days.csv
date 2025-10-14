@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T03:00:00.000Z,15 October 2025 - 03:00 AM,07.40,127.32,005,3.7,089km N 77° E of Manay (Davao Oriental),089,N 77° E,Manay (Davao Oriental)
+2025-10-15T02:55:00.000Z,15 October 2025 - 02:55 AM,12.30,123.88,017,2.3,012km N 12° E of Dimasalang (Masbate),012,N 12° E,Dimasalang (Masbate)
+2025-10-15T02:50:00.000Z,15 October 2025 - 02:50 AM,07.18,126.90,021,4.3,040km S 84° E of Manay (Davao Oriental),040,S 84° E,Manay (Davao Oriental)
+2025-10-15T02:44:00.000Z,15 October 2025 - 02:44 AM,11.32,124.09,033,2.4,032km N 22° E of City Of Bogo (Cebu),032,N 22° E,City Of Bogo (Cebu)
 2025-10-15T02:37:00.000Z,15 October 2025 - 02:37 AM,10.96,123.90,012,2.9,013km S 40° W of City Of Bogo (Cebu),013,S 40° W,City Of Bogo (Cebu)
 2025-10-15T02:35:00.000Z,15 October 2025 - 02:35 AM,09.78,125.94,011,2.0,011km S 20° W of Del Carmen (Surigao Del Norte),011,S 20° W,Del Carmen (Surigao Del Norte)
 2025-10-15T02:17:00.000Z,15 October 2025 - 02:17 AM,07.41,127.28,018,4.6,085km N 75° E of Manay (Davao Oriental),085,N 75° E,Manay (Davao Oriental)
@@ -1592,6 +1596,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-08T03:11:00.000Z,08 October 2025 - 03:11 AM,11.11,123.93,002,2.8,009km N 41° W of City Of Bogo (Cebu),009,N 41° W,City Of Bogo (Cebu)
 2025-10-08T03:03:00.000Z,08 October 2025 - 03:03 AM,10.91,124.10,002,2.3,020km S 42° E of City Of Bogo (Cebu),020,S 42° E,City Of Bogo (Cebu)
 2025-10-08T03:00:00.000Z,08 October 2025 - 03:00 AM,10.90,123.86,001,2.5,021km S 39° W of City Of Bogo (Cebu),021,S 39° W,City Of Bogo (Cebu)
-2025-10-08T02:53:00.000Z,08 October 2025 - 02:53 AM,11.10,124.07,030,2.2,011km N 60° E of City Of Bogo (Cebu),011,N 60° E,City Of Bogo (Cebu)
-2025-10-08T02:51:00.000Z,08 October 2025 - 02:51 AM,13.82,122.70,031,1.7,009km N 89° W of Ragay (Camarines Sur),009,N 89° W,Ragay (Camarines Sur)
-2025-10-08T02:43:00.000Z,08 October 2025 - 02:43 AM,10.88,123.90,001,2.0,020km S 26° W of City Of Bogo (Cebu),020,S 26° W,City Of Bogo (Cebu)

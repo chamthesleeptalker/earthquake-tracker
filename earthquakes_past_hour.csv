@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T03:00:00.000Z,15 October 2025 - 03:00 AM,07.40,127.32,005,3.7,089km N 77° E of Manay (Davao Oriental),089,N 77° E,Manay (Davao Oriental)
+2025-10-15T02:55:00.000Z,15 October 2025 - 02:55 AM,12.30,123.88,017,2.3,012km N 12° E of Dimasalang (Masbate),012,N 12° E,Dimasalang (Masbate)
+2025-10-15T02:50:00.000Z,15 October 2025 - 02:50 AM,07.18,126.90,021,4.3,040km S 84° E of Manay (Davao Oriental),040,S 84° E,Manay (Davao Oriental)
+2025-10-15T02:44:00.000Z,15 October 2025 - 02:44 AM,11.32,124.09,033,2.4,032km N 22° E of City Of Bogo (Cebu),032,N 22° E,City Of Bogo (Cebu)
 2025-10-15T02:37:00.000Z,15 October 2025 - 02:37 AM,10.96,123.90,012,2.9,013km S 40° W of City Of Bogo (Cebu),013,S 40° W,City Of Bogo (Cebu)
 2025-10-15T02:35:00.000Z,15 October 2025 - 02:35 AM,09.78,125.94,011,2.0,011km S 20° W of Del Carmen (Surigao Del Norte),011,S 20° W,Del Carmen (Surigao Del Norte)
 2025-10-15T02:17:00.000Z,15 October 2025 - 02:17 AM,07.41,127.28,018,4.6,085km N 75° E of Manay (Davao Oriental),085,N 75° E,Manay (Davao Oriental)
@@ -6,7 +10,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-15T02:09:00.000Z,15 October 2025 - 02:09 AM,07.21,126.62,010,2.2,009km S 89° E of Manay (Davao Oriental),009,S 89° E,Manay (Davao Oriental)
 2025-10-15T02:07:00.000Z,15 October 2025 - 02:07 AM,06.62,127.22,018,2.6,099km S 49° E of Manay (Davao Oriental),099,S 49° E,Manay (Davao Oriental)
 2025-10-15T02:05:00.000Z,15 October 2025 - 02:05 AM,07.06,126.95,011,2.5,049km S 70° E of Manay (Davao Oriental),049,S 70° E,Manay (Davao Oriental)
-2025-10-15T01:59:00.000Z,15 October 2025 - 01:59 AM,07.36,126.69,019,2.7,023km N 45° E of Manay (Davao Oriental),023,N 45° E,Manay (Davao Oriental)
-2025-10-15T01:59:00.000Z,15 October 2025 - 01:59 AM,11.17,124.09,026,1.5,018km N 42° E of City Of Bogo (Cebu),018,N 42° E,City Of Bogo (Cebu)
-2025-10-15T01:58:00.000Z,15 October 2025 - 01:58 AM,07.33,126.75,019,2.2,026km N 61° E of Manay (Davao Oriental),026,N 61° E,Manay (Davao Oriental)
-2025-10-15T01:50:00.000Z,15 October 2025 - 01:50 AM,07.31,126.88,013,2.6,039km N 73° E of Manay (Davao Oriental),039,N 73° E,Manay (Davao Oriental)
