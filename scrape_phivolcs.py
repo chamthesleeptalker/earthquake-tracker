@@ -158,8 +158,13 @@ def segment_earthquake_data(data):
         "earthquakes_past_7_days.csv": past_7d,
     }
 
+    # === Save to CSV Files (overwrite if existing) ===
     for filename, subset in output_files.items():
-        subset.to_csv(filename, index=False)
+        if os.path.exists(filename):
+            print(f"'{filename}' exists — replacing old file.")
+            os.remove(filename)
+
+        subset.to_csv(filename, index=False, mode="w")
         print(f"Saved {len(subset)} entries to {filename}")
 
     print("\nSegmentation complete.")
