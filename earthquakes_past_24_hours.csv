@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T22:49:00.000Z,14 October 2025 - 10:49 PM,15.99,119.99,047,1.9,011km S 32° E of Mabini (Pangasinan),011,S 32° E,Mabini (Pangasinan)
+2025-10-14T22:46:00.000Z,14 October 2025 - 10:46 PM,20.06,121.37,032,2.9,061km S 60° W of Sabtang (Batanes),061,S 60° W,Sabtang (Batanes)
 2025-10-14T22:33:00.000Z,14 October 2025 - 10:33 PM,09.84,126.12,033,1.8,007km N 32° W of General Luna (Surigao Del Norte),007,N 32° W,General Luna (Surigao Del Norte)
 2025-10-14T22:31:00.000Z,14 October 2025 - 10:31 PM,13.69,120.61,123,1.6,016km S 07° W of Calatagan (Batangas),016,S 07° W,Calatagan (Batangas)
 2025-10-14T22:23:00.000Z,14 October 2025 - 10:23 PM,08.06,125.95,032,1.6,002km S 34° W of Veruela (Agusan Del Sur),002,S 34° W,Veruela (Agusan Del Sur)
@@ -206,8 +208,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-13T22:52:00.000Z,13 October 2025 - 10:52 PM,10.97,123.99,031,2.0,009km S 07° E of City Of Bogo (Cebu),009,S 07° E,City Of Bogo (Cebu)
 2025-10-13T23:06:00.000Z,13 October 2025 - 11:06 PM,11.02,123.98,035,2.0,003km S 07° E of City Of Bogo (Cebu),003,S 07° E,City Of Bogo (Cebu)
 2025-10-13T22:52:00.000Z,13 October 2025 - 10:52 PM,10.97,123.99,031,2.0,009km S 07° E of City Of Bogo (Cebu),009,S 07° E,City Of Bogo (Cebu)
-2025-10-13T22:46:00.000Z,13 October 2025 - 10:46 PM,11.08,124.04,029,2.1,008km N 58° E of City Of Bogo (Cebu),008,N 58° E,City Of Bogo (Cebu)
-2025-10-13T22:38:00.000Z,13 October 2025 - 10:38 PM,07.94,127.34,081,2.4,095km N 65° E of Baganga (Davao Oriental),095,N 65° E,Baganga (Davao Oriental)
-2025-10-13T22:35:00.000Z,13 October 2025 - 10:35 PM,07.12,125.96,041,1.9,007km S 84° E of Pantukan (Davao De Oro),007,S 84° E,Pantukan (Davao De Oro)
-2025-10-13T22:35:00.000Z,13 October 2025 - 10:35 PM,07.95,126.22,007,1.5,019km N 62° W of Boston (Davao Oriental),019,N 62° W,Boston (Davao Oriental)
-2025-10-13T22:35:00.000Z,13 October 2025 - 10:35 PM,11.89,125.39,032,2.0,004km S 68° W of Taft (Eastern Samar),004,S 68° W,Taft (Eastern Samar)
