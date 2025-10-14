@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T23:30:00.000Z,14 October 2025 - 11:30 PM,11.18,124.15,007,2.4,024km N 51° E of City Of Bogo (Cebu),024,N 51° E,City Of Bogo (Cebu)
+2025-10-14T23:22:00.000Z,14 October 2025 - 11:22 PM,11.11,124.02,034,2.1,008km N 32° E of City Of Bogo (Cebu),008,N 32° E,City Of Bogo (Cebu)
+2025-10-14T23:21:00.000Z,14 October 2025 - 11:21 PM,10.94,123.92,018,2.1,013km S 30° W of City Of Bogo (Cebu),013,S 30° W,City Of Bogo (Cebu)
+2025-10-14T23:13:00.000Z,14 October 2025 - 11:13 PM,11.17,123.97,009,2.2,014km N 04° W of City Of Bogo (Cebu),014,N 04° W,City Of Bogo (Cebu)
 2025-10-14T22:49:00.000Z,14 October 2025 - 10:49 PM,15.99,119.99,047,1.9,011km S 32° E of Mabini (Pangasinan),011,S 32° E,Mabini (Pangasinan)
 2025-10-14T22:46:00.000Z,14 October 2025 - 10:46 PM,20.06,121.37,032,2.9,061km S 60° W of Sabtang (Batanes),061,S 60° W,Sabtang (Batanes)
 2025-10-14T22:33:00.000Z,14 October 2025 - 10:33 PM,09.84,126.12,033,1.8,007km N 32° W of General Luna (Surigao Del Norte),007,N 32° W,General Luna (Surigao Del Norte)
