@@ -1,2 +1,12 @@
-total_1h,total_today,total_24h,total_7d,strongest_event_magnitude,strongest_event_ref_location,strongest_event_location,strongest_event_depth,most_active_region,average_depth,average_magnitude
-9,91,224,1566,7.4,Manay (Davao Oriental),048km N 89° E of Manay (Davao Oriental),023,City Of Bogo (Cebu),21.36,2.41
+figures,values
+total_1h,13
+total_today,108
+total_24h,220
+total_7d,1572
+strongest_event_magnitude,7.4
+strongest_event_ref_location,Manay (Davao Oriental)
+strongest_event_location,048km N 89° E of Manay (Davao Oriental)
+strongest_event_depth,023
+most_active_region,Manay (Davao Oriental)
+average_depth,21.35
+average_magnitude,2.42
