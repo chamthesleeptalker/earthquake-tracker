@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T00:54:00.000Z,15 October 2025 - 12:54 AM,11.19,123.98,029,1.8,016km N 01° W of City Of Bogo (Cebu),016,N 01° W,City Of Bogo (Cebu)
+2025-10-15T00:48:00.000Z,15 October 2025 - 12:48 AM,11.05,124.06,006,2.1,009km N 85° E of City Of Bogo (Cebu),009,N 85° E,City Of Bogo (Cebu)
 2025-10-15T00:30:00.000Z,15 October 2025 - 12:30 AM,10.86,125.31,002,2.0,029km S 17° W of Balangiga (Eastern Samar),029,S 17° W,Balangiga (Eastern Samar)
 2025-10-15T00:30:00.000Z,15 October 2025 - 12:30 AM,07.39,126.70,010,2.2,026km N 41° E of Manay (Davao Oriental),026,N 41° E,Manay (Davao Oriental)
 2025-10-15T00:25:00.000Z,15 October 2025 - 12:25 AM,11.04,124.05,018,2.1,008km S 88° E of City Of Bogo (Cebu),008,S 88° E,City Of Bogo (Cebu)
