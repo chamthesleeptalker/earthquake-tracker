@@ -179,7 +179,7 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
 
     # Extract values for the summary row
     summary_values = [
-        f'Magnitude { strongest_event["mag"] if strongest_event is not None else None }<br>Depth: {strongest_event["depth_km"] if strongest_event is not None else None} km<br><br>Location: {strongest_event["location"] if strongest_event is not None else None} <br> ',
+        f'<p id="strongest_event">Magnitude: { strongest_event["mag"] if strongest_event is not None else None }<br>Depth: {strongest_event["depth_km"] if strongest_event is not None else None} km<br> {strongest_event["location"] if strongest_event is not None else None}</p>',
         most_active_region,
         average_depth,
         average_magnitude
