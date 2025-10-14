@@ -1,5 +1,5 @@
 figures,values,titles
-strongest_event,Magnitude 7.4<br>Depth: 023 km<br><br>Location: 048km N 89° E of Manay (Davao Oriental) <br> ,Strongest Event
+strongest_event,"<p id=""strongest_event"">Magnitude: 7.4<br>Depth: 023 km<br> 048km N 89° E of Manay (Davao Oriental)</p>",Strongest Event
 most_active_region,Manay (Davao Oriental),Most Active Region
-average_depth,21.42,Average Depth (km)
+average_depth,21.38,Average Depth (km)
 average_magnitude,2.43,Average Magnitude
