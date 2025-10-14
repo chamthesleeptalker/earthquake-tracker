@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T01:29:00.000Z,15 October 2025 - 01:29 AM,07.32,127.13,007,2.8,067km N 79° E of Manay (Davao Oriental),067,N 79° E,Manay (Davao Oriental)
+2025-10-15T01:23:00.000Z,15 October 2025 - 01:23 AM,07.22,127.41,010,5.1,096km N 89° E of Manay (Davao Oriental),096,N 89° E,Manay (Davao Oriental)
+2025-10-15T01:15:00.000Z,15 October 2025 - 01:15 AM,11.15,123.97,029,2.0,011km N 04° W of City Of Bogo (Cebu),011,N 04° W,City Of Bogo (Cebu)
+2025-10-15T01:11:00.000Z,15 October 2025 - 01:11 AM,07.52,126.68,023,3.2,037km N 24° E of Manay (Davao Oriental),037,N 24° E,Manay (Davao Oriental)
 2025-10-15T00:54:00.000Z,15 October 2025 - 12:54 AM,11.19,123.98,029,1.8,016km N 01° W of City Of Bogo (Cebu),016,N 01° W,City Of Bogo (Cebu)
 2025-10-15T00:48:00.000Z,15 October 2025 - 12:48 AM,11.05,124.06,006,2.1,009km N 85° E of City Of Bogo (Cebu),009,N 85° E,City Of Bogo (Cebu)
 2025-10-15T00:30:00.000Z,15 October 2025 - 12:30 AM,10.86,125.31,002,2.0,029km S 17° W of Balangiga (Eastern Samar),029,S 17° W,Balangiga (Eastern Samar)
