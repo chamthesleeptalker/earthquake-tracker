@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-14T17:32:00.000Z,14 October 2025 - 05:32 PM,13.72,120.61,110,1.9,013km S 12° W of Calatagan (Batangas),013,S 12° W,Calatagan (Batangas)
+2025-10-14T17:24:00.000Z,14 October 2025 - 05:24 PM,10.98,123.99,024,2.7,007km S 13° E of City Of Bogo (Cebu),007,S 13° E,City Of Bogo (Cebu)
+2025-10-14T17:11:00.000Z,14 October 2025 - 05:11 PM,07.18,127.02,005,3.0,053km S 86° E of Manay (Davao Oriental),053,S 86° E,Manay (Davao Oriental)
 2025-10-14T16:58:00.000Z,14 October 2025 - 04:58 PM,06.99,126.72,010,4.6,031km S 39° E of Manay (Davao Oriental),031,S 39° E,Manay (Davao Oriental)
 2025-10-14T16:17:00.000Z,14 October 2025 - 04:17 PM,07.12,126.87,020,3.0,038km S 74° E of Manay (Davao Oriental),038,S 74° E,Manay (Davao Oriental)
 2025-10-14T16:10:00.000Z,14 October 2025 - 04:10 PM,12.48,124.63,024,1.7,003km S 24° W of Catarman (Northern Samar),003,S 24° W,Catarman (Northern Samar)
