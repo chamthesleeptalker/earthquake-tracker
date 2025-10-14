@@ -7,7 +7,16 @@ import pandas as pd
 from datetime import timedelta
 
 URL = "https://earthquake.phivolcs.dost.gov.ph/"
-CSV_FILE = "earthquakes.csv"
+EARTHQUAKE_CSV_FILE = "earthquakes.csv"
+EARTHQUAKE_PAST_HOUR_CSV_FILE = "earthquakes_past_hour.csv"
+EARTHQUAKE_TODAY_CSV_FILE = "earthquakes_today.csv"
+EARTHQUAKE_PAST_7_DAYS_CSV_FILE = "earthquakes_past_7_days.csv"
+EARTHQUAKE_PAST_24_HOURS_CSV_FILE = "earthquakes_past_24_hours.csv"
+EARTHQUAKE_SUMMARY_CSV_FILE = "earthquake_summary_stats.csv"
+EARTHQUAKE_TEMPORAL_CSV_FILE = "earthquake_temporal_stats.csv"
+TOP_TEN_EVENTS_CSV_FILE = "top_ten_events.csv"
+TOP_TEN_LOCATIONS_CSV_FILE = "top_ten_locations.csv"
+
 
 COLUMN_MAP = {
     "Date - Time (Philippine Time)": "datetime_ph",
@@ -105,9 +114,9 @@ def parse_table(html):
 
 def load_existing_timestamps():
     print(f'load_existing_timestamps_def')
-    if not os.path.exists(CSV_FILE):
+    if not os.path.exists(EARTHQUAKE_CSV_FILE):
         return set()
-    with open(CSV_FILE, "r", encoding="utf-8") as f:
+    with open(EARTHQUAKE_CSV_FILE, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         return {row["datetime_iso"] for row in reader}
     
@@ -193,18 +202,17 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
     ]
 
     # Write summary stats to CSV with 'figures' and 'values' columns
-    summary_csv = "earthquake_summary_stats.csv"
-    if os.path.exists(summary_csv):
-        print(f"'{summary_csv}' exists — replacing old file.")
-        os.remove(summary_csv)
+    if os.path.exists(EARTHQUAKE_SUMMARY_CSV_FILE):
+        print(f"'{EARTHQUAKE_SUMMARY_CSV_FILE}' exists — replacing old file.")
+        os.remove(EARTHQUAKE_SUMMARY_CSV_FILE)
 
-    with open(summary_csv, "w", newline="", encoding="utf-8") as f:
-        print(f"Creating new file '{summary_csv}'.")
+    with open(EARTHQUAKE_SUMMARY_CSV_FILE, "w", newline="", encoding="utf-8") as f:
+        print(f"Creating new file '{EARTHQUAKE_SUMMARY_CSV_FILE}'.")
         writer = csv.writer(f)
         writer.writerow(["figures", "values", "titles"])
         for header, value, titles in zip(summary_headers, summary_values, summary_titles):
             writer.writerow([header, value, titles])
-    print(f"Saved summary stats to {summary_csv}")
+    print(f"Saved summary stats to {EARTHQUAKE_SUMMARY_CSV_FILE}")
 
      # Prepare summary stats for CSV
     temporal_headers = [
@@ -230,24 +238,24 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
     ]
 
     # Write summary stats to CSV with 'figures' and 'values' columns
-    temporal_csv = "earthquake_temporal_stats.csv"
-    if os.path.exists(temporal_csv):
-        print(f"'{temporal_csv}' exists — replacing old file.")
-        os.remove(temporal_csv)
+    
+    if os.path.exists(EARTHQUAKE_TEMPORAL_CSV_FILE):
+        print(f"'{EARTHQUAKE_TEMPORAL_CSV_FILE}' exists — replacing old file.")
+        os.remove(EARTHQUAKE_TEMPORAL_CSV_FILE)
 
-    with open(temporal_csv, "w", newline="", encoding="utf-8") as f:
-        print(f"Creating new file '{temporal_csv}'.")
+    with open(EARTHQUAKE_TEMPORAL_CSV_FILE, "w", newline="", encoding="utf-8") as f:
+        print(f"Creating new file '{EARTHQUAKE_TEMPORAL_CSV_FILE}'.")
         writer = csv.writer(f)
         writer.writerow(["figures", "values", "titles"])
         for header, value, titles in zip(temporal_headers, temporal_values, temporal_titles):
             writer.writerow([header, value, titles])
-    print(f"Saved summary stats to {temporal_csv}")
+    print(f"Saved summary stats to {EARTHQUAKE_TEMPORAL_CSV_FILE}")
 
 
     # Save to CSV Files
     output_files = {
-        "top_ten_events.csv": top_10_events,
-        "top_ten_locations.csv": top_10_locations_df,
+        TOP_TEN_EVENTS_CSV_FILE: top_10_events,
+        TOP_TEN_LOCATIONS_CSV_FILE: top_10_locations_df,
     }
 
     # Save to CSV Files (overwrite if existing)
@@ -332,7 +340,7 @@ def save_new_records(headers, records):
         return
 
     existing_rows=[]
-    with open(CSV_FILE, "r", newline="", encoding="utf-8") as f:
+    with open(EARTHQUAKE_CSV_FILE, "r", newline="", encoding="utf-8") as f:
         reader = list(csv.DictReader(f))
         existing_rows = reader
 
@@ -343,7 +351,7 @@ def save_new_records(headers, records):
     segment_earthquake_data(all_rows)
 
     # Write: Create the main earthquake csv
-    with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
+    with open(EARTHQUAKE_CSV_FILE, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=headers)
         writer.writeheader()
         writer.writerows(all_rows)
