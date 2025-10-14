@@ -158,7 +158,7 @@ def segment_earthquake_data(data):
         "earthquakes_past_7_days.csv": past_7d,
     }
 
-    # === Save to CSV Files (overwrite if existing) ===
+    # Save to CSV Files (overwrite if existing)
     for filename, subset in output_files.items():
         if os.path.exists(filename):
             print(f"'{filename}' exists — replacing old file.")
@@ -168,6 +168,93 @@ def segment_earthquake_data(data):
         print(f"Saved {len(subset)} entries to {filename}")
 
     print("\nSegmentation complete.")
+
+def generate_summary_stats(past_hour, today, past_24h, past_7d):
+    """ Generates summary statistics from segmented earthquake data.
+    Each parameter is a DataFrame corresponding to a time segment."""
+    
+    # Overview
+    # Total (1h)
+    total_1h = len(past_hour)
+    # Total (today)
+    total_today  = len(today)
+    # Total (24h)
+    total_24h = len(past_24h)
+    # Total (7d)            
+    total_7d = len(past_7d) 
+
+    # Key insights (7 days)
+    # Strongest event
+    strongest_event = past_7d.loc[past_7d['magnitude'].idxmax()] if not past_7d.empty else None
+    # Most active region
+    most_active_region = past_7d['reference_location'].mode()[0] if not past_7d.empty else None
+    # Average depth 
+    average_depth = past_7d['depth_km'].mean() if not past_7d.empty else None
+    # Average magnitude
+    average_magnitude = past_7d['magnitude'].mean() if not past_7d.empty else None
+
+
+    # Top 10 Seismic events (7 days)
+    top_10_events = past_7d.nlargest(10, 'magnitude') if not past_7d.empty else pd.DataFrame()
+    # Top 10 Locations (7 days)
+    top_10_locations = past_7d['reference_location'].value_counts().head(10) if not past_7d.empty else pd.Series()
+
+    # Prepare summary stats for CSV
+    summary_headers = [
+        "total_1h",
+        "total_today",
+        "total_24h",
+        "total_7d",
+        "strongest_event_magnitude",
+        "strongest_event_location",
+        "most_active_region",
+        "average_depth",
+        "average_magnitude"
+    ]
+
+    # Extract values for the summary row
+    summary_values = [
+        total_1h,
+        total_today,
+        total_24h,
+        total_7d,
+        strongest_event["magnitude"] if strongest_event is not None else None,
+        strongest_event["reference_location"] if strongest_event is not None else None,
+        most_active_region,
+        average_depth,
+        average_magnitude
+    ]
+
+    # Write summary stats to CSV
+    summary_csv = "earthquake_summary_stats.csv"
+
+    with open(summary_csv, "w", newline="", encoding="utf-8") as f:
+        if os.path.exists(summary_csv):
+            print(f"'{summary_csv}' exists — replacing old file.")
+            os.remove(summary_csv)
+        
+        print(f"Creating new file '{summary_csv}'.")
+        writer = csv.writer(f)
+        writer.writerow(summary_headers)
+        writer.writerow(summary_values)
+    
+    print(f"Saved summary stats to {summary_csv}")
+
+    # Save to CSV Files
+    output_files = {
+        "top_ten_events.csv": top_10_events,
+        "top_ten_locations.csv": top_10_locations,
+    }
+
+    # Save to CSV Files (overwrite if existing)
+    for filename, subset in output_files.items():
+        if os.path.exists(filename):
+            print(f"'{filename}' exists — replacing old file.")
+            os.remove(filename)
+
+        subset.to_csv(filename, index=False, mode="w")
+        print(f"Saved {len(subset)} entries to {filename}")
+
 
 def save_new_records(headers, records):
     print(f'save_new_records_def')
