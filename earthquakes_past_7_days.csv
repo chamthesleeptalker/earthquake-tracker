@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T04:19:00.000Z,15 October 2025 - 04:19 AM,10.96,123.98,029,2.3,009km S 03° W of City Of Bogo (Cebu),009,S 03° W,City Of Bogo (Cebu)
 2025-10-15T04:07:00.000Z,15 October 2025 - 04:07 AM,11.07,124.08,029,2.1,012km N 76° E of City Of Bogo (Cebu),012,N 76° E,City Of Bogo (Cebu)
 2025-10-15T04:03:00.000Z,15 October 2025 - 04:03 AM,07.32,126.92,008,2.8,044km N 73° E of Manay (Davao Oriental),044,N 73° E,Manay (Davao Oriental)
 2025-10-15T03:49:00.000Z,15 October 2025 - 03:49 AM,08.29,127.58,044,2.5,132km N 78° E of Lingig (Surigao Del Sur),132,N 78° E,Lingig (Surigao Del Sur)
@@ -1585,7 +1586,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-08T04:33:00.000Z,08 October 2025 - 04:33 AM,06.32,124.39,020,2.0,017km S 28° E of Senator Ninoy Aquino (Sultan Kudarat),017,S 28° E,Senator Ninoy Aquino (Sultan Kudarat)
 2025-10-08T04:28:00.000Z,08 October 2025 - 04:28 AM,11.10,124.30,034,1.6,036km N 80° E of City Of Bogo (Cebu),036,N 80° E,City Of Bogo (Cebu)
 2025-10-08T04:23:00.000Z,08 October 2025 - 04:23 AM,13.50,120.60,053,2.3,015km N 66° W of Abra De Ilog (Occidental Mindoro),015,N 66° W,Abra De Ilog (Occidental Mindoro)
-2025-10-08T04:17:00.000Z,08 October 2025 - 04:17 AM,05.97,126.24,104,3.2,066km S 67° E of Don Marcelino (Davao Occidental),066,S 67° E,Don Marcelino (Davao Occidental)
-2025-10-08T04:17:00.000Z,08 October 2025 - 04:17 AM,11.09,124.05,030,2.3,009km N 56° E of City Of Bogo (Cebu),009,N 56° E,City Of Bogo (Cebu)
-2025-10-08T04:14:00.000Z,08 October 2025 - 04:14 AM,12.45,121.13,009,2.4,013km N 31° E of San Jose (Occidental Mindoro),013,N 31° E,San Jose (Occidental Mindoro)
-2025-10-08T04:10:00.000Z,08 October 2025 - 04:10 AM,11.18,124.09,025,2.5,019km N 40° E of City Of Bogo (Cebu),019,N 40° E,City Of Bogo (Cebu)

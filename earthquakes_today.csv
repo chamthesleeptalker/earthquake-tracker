@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T04:19:00.000Z,15 October 2025 - 04:19 AM,10.96,123.98,029,2.3,009km S 03° W of City Of Bogo (Cebu),009,S 03° W,City Of Bogo (Cebu)
 2025-10-15T04:07:00.000Z,15 October 2025 - 04:07 AM,11.07,124.08,029,2.1,012km N 76° E of City Of Bogo (Cebu),012,N 76° E,City Of Bogo (Cebu)
 2025-10-15T04:03:00.000Z,15 October 2025 - 04:03 AM,07.32,126.92,008,2.8,044km N 73° E of Manay (Davao Oriental),044,N 73° E,Manay (Davao Oriental)
 2025-10-15T03:49:00.000Z,15 October 2025 - 03:49 AM,08.29,127.58,044,2.5,132km N 78° E of Lingig (Surigao Del Sur),132,N 78° E,Lingig (Surigao Del Sur)
