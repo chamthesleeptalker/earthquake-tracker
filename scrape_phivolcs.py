@@ -171,14 +171,7 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
 
     # Prepare summary stats for CSV
     summary_headers = [
-        "total_1h",
-        "total_today",
-        "total_24h",
-        "total_7d",
-        "strongest_event_magnitude",
-        "strongest_event_ref_location",
-        "strongest_event_location",
-        "strongest_event_depth",
+        "strongest_event",
         "most_active_region",
         "average_depth",
         "average_magnitude"
@@ -186,14 +179,7 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
 
     # Extract values for the summary row
     summary_values = [
-        total_1h,
-        total_today,
-        total_24h,
-        total_7d,
-        strongest_event["mag"] if strongest_event is not None else None,
-        strongest_event["reference_location"] if strongest_event is not None else None,
-        strongest_event["location"] if strongest_event is not None else None,
-        strongest_event["depth_km"] if strongest_event is not None else None,
+        f'Magnitude { strongest_event["mag"] if strongest_event is not None else None }<br>Depth: {strongest_event["depth_km"] if strongest_event is not None else None} km<br><br>Location: {strongest_event["location"] if strongest_event is not None else None} <br> ',
         most_active_region,
         average_depth,
         average_magnitude
@@ -212,6 +198,38 @@ def generate_summary_stats(past_hour, today, past_24h, past_7d):
         for header, value in zip(summary_headers, summary_values):
             writer.writerow([header, value])
     print(f"Saved summary stats to {summary_csv}")
+
+     # Prepare summary stats for CSV
+    temporal_headers = [
+        "total_1h",
+        "total_today",
+        "total_24h",
+        "total_7d",
+    ]
+
+    # Extract values for the summary row
+    temporal_values = [
+        total_1h,
+        total_today,
+        total_24h,
+        total_7d,
+    ]
+
+    # Write summary stats to CSV with 'figures' and 'values' columns
+    temporal_csv = "earthquake_temporal_stats.csv"
+    if os.path.exists(temporal_csv):
+        print(f"'{temporal_csv}' exists — replacing old file.")
+        os.remove(temporal_csv)
+
+    with open(temporal_csv, "w", newline="", encoding="utf-8") as f:
+        print(f"Creating new file '{temporal_csv}'.")
+        writer = csv.writer(f)
+        writer.writerow(["figures", "values"])
+        for header, value in zip(temporal_headers, temporal_values):
+            writer.writerow([header, value])
+    print(f"Saved summary stats to {temporal_csv}")
+
+
 
     # Save to CSV Files
     output_files = {
