@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T06:41:00.000Z,16 October 2025 - 06:41 AM,07.35,126.77,019,3.9,029km N 58° E of Manay (Davao Oriental),029,N 58° E,Manay (Davao Oriental)
+2025-10-16T06:34:00.000Z,16 October 2025 - 06:34 AM,08.99,126.21,067,2.1,005km S 42° W of Tago (Surigao Del Sur),005,S 42° W,Tago (Surigao Del Sur)
+2025-10-16T06:32:00.000Z,16 October 2025 - 06:32 AM,08.79,126.13,021,2.2,011km N 62° W of San Agustin (Surigao Del Sur),011,N 62° W,San Agustin (Surigao Del Sur)
 2025-10-16T06:16:00.000Z,16 October 2025 - 06:16 AM,10.89,123.96,004,2.4,018km S 08° W of City Of Bogo (Cebu),018,S 08° W,City Of Bogo (Cebu)
 2025-10-16T05:45:00.000Z,16 October 2025 - 05:45 AM,06.73,126.99,023,2.6,073km S 43° E of Manay (Davao Oriental),073,S 43° E,Manay (Davao Oriental)
 2025-10-16T05:32:00.000Z,16 October 2025 - 05:32 AM,06.18,125.88,149,3.2,021km S 85° E of Don Marcelino (Davao Occidental),021,S 85° E,Don Marcelino (Davao Occidental)
