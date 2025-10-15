@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T10:23:00.000Z,15 October 2025 - 10:23 AM,07.40,126.85,006,2.9,040km N 58° E of Manay (Davao Oriental),040,N 58° E,Manay (Davao Oriental)
+2025-10-15T10:21:00.000Z,15 October 2025 - 10:21 AM,15.71,121.14,034,2.0,004km N 88° E of Rizal (Nueva Ecija),004,N 88° E,Rizal (Nueva Ecija)
+2025-10-15T10:10:00.000Z,15 October 2025 - 10:10 AM,11.15,124.07,032,1.3,015km N 41° E of City Of Bogo (Cebu),015,N 41° E,City Of Bogo (Cebu)
+2025-10-15T09:56:00.000Z,15 October 2025 - 09:56 AM,11.09,124.03,033,1.5,008km N 48° E of City Of Bogo (Cebu),008,N 48° E,City Of Bogo (Cebu)
+2025-10-15T09:38:00.000Z,15 October 2025 - 09:38 AM,07.22,126.70,017,2.2,018km N 87° E of Manay (Davao Oriental),018,N 87° E,Manay (Davao Oriental)
+2025-10-15T09:19:00.000Z,15 October 2025 - 09:19 AM,11.23,124.00,031,2.5,021km N 07° E of City Of Bogo (Cebu),021,N 07° E,City Of Bogo (Cebu)
+2025-10-15T09:17:00.000Z,15 October 2025 - 09:17 AM,09.97,125.79,031,1.5,014km N 72° E of Cagdianao (Dinagat Islands),014,N 72° E,Cagdianao (Dinagat Islands)
 2025-10-15T09:04:00.000Z,15 October 2025 - 09:04 AM,07.09,126.88,004,3.0,041km S 70° E of Manay (Davao Oriental),041,S 70° E,Manay (Davao Oriental)
 2025-10-15T08:58:00.000Z,15 October 2025 - 08:58 AM,07.38,126.77,012,2.7,032km N 53° E of Manay (Davao Oriental),032,N 53° E,Manay (Davao Oriental)
 2025-10-15T08:38:00.000Z,15 October 2025 - 08:38 AM,07.34,126.76,020,2.3,028km N 61° E of Manay (Davao Oriental),028,N 61° E,Manay (Davao Oriental)
