@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T05:45:00.000Z,16 October 2025 - 05:45 AM,06.73,126.99,023,2.6,073km S 43° E of Manay (Davao Oriental),073,S 43° E,Manay (Davao Oriental)
+2025-10-16T05:32:00.000Z,16 October 2025 - 05:32 AM,06.18,125.88,149,3.2,021km S 85° E of Don Marcelino (Davao Occidental),021,S 85° E,Don Marcelino (Davao Occidental)
 2025-10-16T04:59:00.000Z,16 October 2025 - 04:59 AM,11.04,124.15,004,1.9,018km S 89° E of City Of Bogo (Cebu),018,S 89° E,City Of Bogo (Cebu)
 2025-10-16T04:54:00.000Z,16 October 2025 - 04:54 AM,13.71,122.64,033,1.6,017km N 26° E of San Narciso (Quezon),017,N 26° E,San Narciso (Quezon)
 2025-10-16T04:31:00.000Z,16 October 2025 - 04:31 AM,07.02,127.03,023,3.1,058km S 69° E of Manay (Davao Oriental),058,S 69° E,Manay (Davao Oriental)
