@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T07:14:00.000Z,16 October 2025 - 07:14 AM,12.34,124.65,112,2.1,018km S 06° E of Catarman (Northern Samar),018,S 06° E,Catarman (Northern Samar)
+2025-10-16T07:13:00.000Z,16 October 2025 - 07:13 AM,09.77,126.21,033,2.0,006km S 73° E of General Luna (Surigao Del Norte),006,S 73° E,General Luna (Surigao Del Norte)
+2025-10-16T07:10:00.000Z,16 October 2025 - 07:10 AM,06.77,127.15,001,2.5,083km S 54° E of Manay (Davao Oriental),083,S 54° E,Manay (Davao Oriental)
+2025-10-16T07:08:00.000Z,16 October 2025 - 07:08 AM,11.13,124.10,031,1.8,017km N 54° E of City Of Bogo (Cebu),017,N 54° E,City Of Bogo (Cebu)
 2025-10-16T06:41:00.000Z,16 October 2025 - 06:41 AM,07.35,126.77,019,3.9,029km N 58° E of Manay (Davao Oriental),029,N 58° E,Manay (Davao Oriental)
 2025-10-16T06:34:00.000Z,16 October 2025 - 06:34 AM,08.99,126.21,067,2.1,005km S 42° W of Tago (Surigao Del Sur),005,S 42° W,Tago (Surigao Del Sur)
 2025-10-16T06:32:00.000Z,16 October 2025 - 06:32 AM,08.79,126.13,021,2.2,011km N 62° W of San Agustin (Surigao Del Sur),011,N 62° W,San Agustin (Surigao Del Sur)
@@ -157,7 +161,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-15T07:42:00.000Z,15 October 2025 - 07:42 AM,09.93,126.25,016,2.1,017km N 66° E of Pilar (Surigao Del Norte),017,N 66° E,Pilar (Surigao Del Norte)
 2025-10-15T07:32:00.000Z,15 October 2025 - 07:32 AM,10.04,126.36,009,4.2,031km N 85° E of Burgos (Surigao Del Norte),031,N 85° E,Burgos (Surigao Del Norte)
 2025-10-15T07:25:00.000Z,15 October 2025 - 07:25 AM,11.08,124.01,019,2.5,005km N 46° E of City Of Bogo (Cebu),005,N 46° E,City Of Bogo (Cebu)
-2025-10-15T07:03:00.000Z,15 October 2025 - 07:03 AM,07.25,126.77,017,2.4,025km N 81° E of Manay (Davao Oriental),025,N 81° E,Manay (Davao Oriental)
-2025-10-15T07:01:00.000Z,15 October 2025 - 07:01 AM,05.36,126.11,047,3.4,072km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),072,S 80° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-10-15T06:53:00.000Z,15 October 2025 - 06:53 AM,07.30,126.94,011,3.8,045km N 78° E of Manay (Davao Oriental),045,N 78° E,Manay (Davao Oriental)
-2025-10-15T06:48:00.000Z,15 October 2025 - 06:48 AM,10.54,122.32,010,4.4,013km S 1° W of Guimbal (Iloilo),013,S 1° W,Guimbal (Iloilo)
