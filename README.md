@@ -7,6 +7,7 @@ This project provides the following functionality:
 - Stores the events (in this repo there’s a sample `earthquakes.csv` file).  
 - Provides a `scrape_phivolcs.py` script to automate retrieval of new events.  
 - Has a `requirements.txt` listing dependencies needed.
+- Current dash is using Flourish. View it here https://public.flourish.studio/visualisation/25593812
 
 ## 📂 Repository Structure  
 - `scrape_phivolcs.py` – main Python script to fetch new earthquake data.  
@@ -47,18 +48,10 @@ This project provides the following functionality:
 - Lightweight: Easy to run, minimal dependencies.  
 - Extensible: You could adapt the scraper to other sources (USGS, etc) or expand into dashboards.
 
-## 🔧 Customization & Extensions  
+## 🔧 Next steps
 Here are some ways you can build on this project:  
 - **Add more data sources**: Extend to scrape from the USGS earthquake API, or other global feeds.  
 - **Alerting**: Automatically send email, SMS or push notification when an event above a threshold magnitude occurs.  
-- **Visualization**: Create a dashboard (e.g., using Plotly, Streamlit) to plot events on a map, analyze depth vs magnitude, etc.  
 - **Storage**: Instead of CSV, store events in a database (PostgreSQL, SQLite) for long‑term historical analysis.  
 - **Automation**: Use GitHub Actions (already partially set up) or cron to run the scraper automatically on a schedule.
 
-## 📋 Sample Data Format  
-Here’s an example of what a row in `earthquakes.csv` might look like:  
-```
-date_time, location, magnitude, depth, …  
-2025‑10‑12 04:35:12, San Fernando, La Union, Philippines, 4.3, 10 km  
-```
-Each column will correspond to the parsed attributes from PHIVOLCS feed.
