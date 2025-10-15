@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T22:36:00.000Z,15 October 2025 - 10:36 PM,10.94,124.04,031,1.6,013km S 29° E of City Of Bogo (Cebu),013,S 29° E,City Of Bogo (Cebu)
+2025-10-15T22:14:00.000Z,15 October 2025 - 10:14 PM,11.20,124.17,008,2.2,027km N 50° E of City Of Bogo (Cebu),027,N 50° E,City Of Bogo (Cebu)
 2025-10-15T22:07:00.000Z,15 October 2025 - 10:07 PM,11.09,124.00,033,2.3,005km N 31° E of City Of Bogo (Cebu),005,N 31° E,City Of Bogo (Cebu)
 2025-10-15T21:53:00.000Z,15 October 2025 - 09:53 PM,11.20,124.62,008,2.5,007km N 71° E of Kananga (Leyte),007,N 71° E,Kananga (Leyte)
 2025-10-15T21:47:00.000Z,15 October 2025 - 09:47 PM,05.40,125.97,006,3.3,056km S 82° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),056,S 82° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)

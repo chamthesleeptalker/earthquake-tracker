@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T22:36:00.000Z,15 October 2025 - 10:36 PM,10.94,124.04,031,1.6,013km S 29° E of City Of Bogo (Cebu),013,S 29° E,City Of Bogo (Cebu)
+2025-10-15T22:14:00.000Z,15 October 2025 - 10:14 PM,11.20,124.17,008,2.2,027km N 50° E of City Of Bogo (Cebu),027,N 50° E,City Of Bogo (Cebu)
 2025-10-15T22:07:00.000Z,15 October 2025 - 10:07 PM,11.09,124.00,033,2.3,005km N 31° E of City Of Bogo (Cebu),005,N 31° E,City Of Bogo (Cebu)
 2025-10-15T21:53:00.000Z,15 October 2025 - 09:53 PM,11.20,124.62,008,2.5,007km N 71° E of Kananga (Leyte),007,N 71° E,Kananga (Leyte)
 2025-10-15T21:47:00.000Z,15 October 2025 - 09:47 PM,05.40,125.97,006,3.3,056km S 82° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),056,S 82° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -150,10 +152,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T23:13:00.000Z,14 October 2025 - 11:13 PM,11.17,123.97,009,2.2,014km N 04° W of City Of Bogo (Cebu),014,N 04° W,City Of Bogo (Cebu)
 2025-10-14T22:49:00.000Z,14 October 2025 - 10:49 PM,15.99,119.99,047,1.9,011km S 32° E of Mabini (Pangasinan),011,S 32° E,Mabini (Pangasinan)
 2025-10-14T22:46:00.000Z,14 October 2025 - 10:46 PM,20.06,121.37,032,2.9,061km S 60° W of Sabtang (Batanes),061,S 60° W,Sabtang (Batanes)
-2025-10-14T22:33:00.000Z,14 October 2025 - 10:33 PM,09.84,126.12,033,1.8,007km N 32° W of General Luna (Surigao Del Norte),007,N 32° W,General Luna (Surigao Del Norte)
-2025-10-14T22:31:00.000Z,14 October 2025 - 10:31 PM,13.69,120.61,123,1.6,016km S 07° W of Calatagan (Batangas),016,S 07° W,Calatagan (Batangas)
-2025-10-14T22:23:00.000Z,14 October 2025 - 10:23 PM,08.06,125.95,032,1.6,002km S 34° W of Veruela (Agusan Del Sur),002,S 34° W,Veruela (Agusan Del Sur)
-2025-10-14T22:19:00.000Z,14 October 2025 - 10:19 PM,11.02,124.05,019,2.1,008km S 68° E of City Of Bogo (Cebu),008,S 68° E,City Of Bogo (Cebu)
-2025-10-14T22:15:00.000Z,14 October 2025 - 10:15 PM,06.74,126.68,025,2.7,054km S 17° E of Manay (Davao Oriental),054,S 17° E,Manay (Davao Oriental)
-2025-10-14T22:14:00.000Z,14 October 2025 - 10:14 PM,11.02,124.01,011,2.3,004km S 49° E of City Of Bogo (Cebu),004,S 49° E,City Of Bogo (Cebu)
-2025-10-14T22:08:00.000Z,14 October 2025 - 10:08 PM,10.74,125.23,034,1.9,024km S 89° E of Abuyog (Leyte),024,S 89° E,Abuyog (Leyte)

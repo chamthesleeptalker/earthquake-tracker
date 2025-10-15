@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T22:36:00.000Z,15 October 2025 - 10:36 PM,10.94,124.04,031,1.6,013km S 29° E of City Of Bogo (Cebu),013,S 29° E,City Of Bogo (Cebu)
+2025-10-15T22:14:00.000Z,15 October 2025 - 10:14 PM,11.20,124.17,008,2.2,027km N 50° E of City Of Bogo (Cebu),027,N 50° E,City Of Bogo (Cebu)
 2025-10-15T22:07:00.000Z,15 October 2025 - 10:07 PM,11.09,124.00,033,2.3,005km N 31° E of City Of Bogo (Cebu),005,N 31° E,City Of Bogo (Cebu)
 2025-10-15T21:53:00.000Z,15 October 2025 - 09:53 PM,11.20,124.62,008,2.5,007km N 71° E of Kananga (Leyte),007,N 71° E,Kananga (Leyte)
 2025-10-15T21:47:00.000Z,15 October 2025 - 09:47 PM,05.40,125.97,006,3.3,056km S 82° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),056,S 82° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -1584,10 +1586,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-08T22:59:00.000Z,08 October 2025 - 10:59 PM,11.26,123.96,034,1.1,024km N 05° W of City Of Bogo (Cebu),024,N 05° W,City Of Bogo (Cebu)
 2025-10-08T22:54:00.000Z,08 October 2025 - 10:54 PM,10.85,123.95,006,2.2,022km S 09° W of City Of Bogo (Cebu),022,S 09° W,City Of Bogo (Cebu)
 2025-10-08T22:42:00.000Z,08 October 2025 - 10:42 PM,10.91,124.05,004,1.8,020km S 18° E of City Of Bogo (Cebu),020,S 18° E,City Of Bogo (Cebu)
-2025-10-08T22:32:00.000Z,08 October 2025 - 10:32 PM,11.13,124.16,004,2.2,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)
-2025-10-08T22:29:00.000Z,08 October 2025 - 10:29 PM,09.08,126.46,033,3.7,023km N 58° E of Bayabas (Surigao Del Sur),023,N 58° E,Bayabas (Surigao Del Sur)
-2025-10-08T22:28:00.000Z,08 October 2025 - 10:28 PM,06.67,126.78,021,1.8,056km S 41° E of Tarragona (Davao Oriental),056,S 41° E,Tarragona (Davao Oriental)
-2025-10-08T22:23:00.000Z,08 October 2025 - 10:23 PM,14.00,120.42,076,2.4,024km S 70° W of Nasugbu (Batangas),024,S 70° W,Nasugbu (Batangas)
-2025-10-08T22:18:00.000Z,08 October 2025 - 10:18 PM,13.30,120.91,024,2.1,019km S 38° W of San Teodoro (Oriental Mindoro),019,S 38° W,San Teodoro (Oriental Mindoro)
-2025-10-08T22:13:00.000Z,08 October 2025 - 10:13 PM,11.07,124.06,026,1.6,009km N 70° E of City Of Bogo (Cebu),009,N 70° E,City Of Bogo (Cebu)
-2025-10-08T22:09:00.000Z,08 October 2025 - 10:09 PM,06.23,124.63,023,1.5,009km N 88° W of Lake Sebu (South Cotabato),009,N 88° W,Lake Sebu (South Cotabato)
