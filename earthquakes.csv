@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-15T09:04:00.000Z,15 October 2025 - 09:04 AM,07.09,126.88,004,3.0,041km S 70° E of Manay (Davao Oriental),041,S 70° E,Manay (Davao Oriental)
+2025-10-15T08:58:00.000Z,15 October 2025 - 08:58 AM,07.38,126.77,012,2.7,032km N 53° E of Manay (Davao Oriental),032,N 53° E,Manay (Davao Oriental)
+2025-10-15T08:38:00.000Z,15 October 2025 - 08:38 AM,07.34,126.76,020,2.3,028km N 61° E of Manay (Davao Oriental),028,N 61° E,Manay (Davao Oriental)
+2025-10-15T08:36:00.000Z,15 October 2025 - 08:36 AM,11.13,124.01,033,1.6,010km N 17° E of City Of Bogo (Cebu),010,N 17° E,City Of Bogo (Cebu)
+2025-10-15T08:26:00.000Z,15 October 2025 - 08:26 AM,09.77,125.88,002,2.3,015km S 43° W of Del Carmen (Surigao Del Norte),015,S 43° W,Del Carmen (Surigao Del Norte)
+2025-10-15T08:03:00.000Z,15 October 2025 - 08:03 AM,10.89,123.92,005,3.0,018km S 20° W of City Of Bogo (Cebu),018,S 20° W,City Of Bogo (Cebu)
+2025-10-15T07:42:00.000Z,15 October 2025 - 07:42 AM,09.93,126.25,016,2.1,017km N 66° E of Pilar (Surigao Del Norte),017,N 66° E,Pilar (Surigao Del Norte)
+2025-10-15T07:32:00.000Z,15 October 2025 - 07:32 AM,10.04,126.36,009,4.2,031km N 85° E of Burgos (Surigao Del Norte),031,N 85° E,Burgos (Surigao Del Norte)
 2025-10-15T07:25:00.000Z,15 October 2025 - 07:25 AM,11.08,124.01,019,2.5,005km N 46° E of City Of Bogo (Cebu),005,N 46° E,City Of Bogo (Cebu)
 2025-10-15T07:03:00.000Z,15 October 2025 - 07:03 AM,07.25,126.77,017,2.4,025km N 81° E of Manay (Davao Oriental),025,N 81° E,Manay (Davao Oriental)
 2025-10-15T07:01:00.000Z,15 October 2025 - 07:01 AM,05.36,126.11,047,3.4,072km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),072,S 80° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
