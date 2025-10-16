@@ -1,9 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-10-16T07:14:00.000Z,16 October 2025 - 07:14 AM,12.34,124.65,112,2.1,018km S 06° E of Catarman (Northern Samar),018,S 06° E,Catarman (Northern Samar)
-2025-10-16T07:13:00.000Z,16 October 2025 - 07:13 AM,09.77,126.21,033,2.0,006km S 73° E of General Luna (Surigao Del Norte),006,S 73° E,General Luna (Surigao Del Norte)
-2025-10-16T07:10:00.000Z,16 October 2025 - 07:10 AM,06.77,127.15,001,2.5,083km S 54° E of Manay (Davao Oriental),083,S 54° E,Manay (Davao Oriental)
-2025-10-16T07:08:00.000Z,16 October 2025 - 07:08 AM,11.13,124.10,031,1.8,017km N 54° E of City Of Bogo (Cebu),017,N 54° E,City Of Bogo (Cebu)
-2025-10-16T06:41:00.000Z,16 October 2025 - 06:41 AM,07.35,126.77,019,3.9,029km N 58° E of Manay (Davao Oriental),029,N 58° E,Manay (Davao Oriental)
-2025-10-16T06:34:00.000Z,16 October 2025 - 06:34 AM,08.99,126.21,067,2.1,005km S 42° W of Tago (Surigao Del Sur),005,S 42° W,Tago (Surigao Del Sur)
-2025-10-16T06:32:00.000Z,16 October 2025 - 06:32 AM,08.79,126.13,021,2.2,011km N 62° W of San Agustin (Surigao Del Sur),011,N 62° W,San Agustin (Surigao Del Sur)
-2025-10-16T06:16:00.000Z,16 October 2025 - 06:16 AM,10.89,123.96,004,2.4,018km S 08° W of City Of Bogo (Cebu),018,S 08° W,City Of Bogo (Cebu)
+2025-10-16T09:10:00.000Z,16 October 2025 - 09:10 AM,07.49,127.19,023,2.9,079km N 67° E of Manay (Davao Oriental),079,N 67° E,Manay (Davao Oriental)
+2025-10-16T08:56:00.000Z,16 October 2025 - 08:56 AM,08.16,127.05,001,2.8,072km N 79° E of Lingig (Surigao Del Sur),072,N 79° E,Lingig (Surigao Del Sur)
+2025-10-16T08:40:00.000Z,16 October 2025 - 08:40 AM,08.75,126.75,024,2.6,053km S 69° E of Cagwait (Surigao Del Sur),053,S 69° E,Cagwait (Surigao Del Sur)
+2025-10-16T08:33:00.000Z,16 October 2025 - 08:33 AM,11.24,123.91,004,2.2,023km N 19° W of City Of Bogo (Cebu),023,N 19° W,City Of Bogo (Cebu)
