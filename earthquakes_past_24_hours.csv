@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T11:25:00.000Z,16 October 2025 - 11:25 AM,11.08,124.15,009,2.6,018km N 79° E of City Of Bogo (Cebu),018,N 79° E,City Of Bogo (Cebu)
+2025-10-16T11:24:00.000Z,16 October 2025 - 11:24 AM,15.92,120.00,032,1.5,015km S 60° E of Dasol (Pangasinan),015,S 60° E,Dasol (Pangasinan)
+2025-10-16T10:42:00.000Z,16 October 2025 - 10:42 AM,06.95,126.72,025,2.5,035km S 36° E of Manay (Davao Oriental),035,S 36° E,Manay (Davao Oriental)
 2025-10-16T10:28:00.000Z,16 October 2025 - 10:28 AM,11.19,124.14,004,2.3,024km N 46° E of City Of Bogo (Cebu),024,N 46° E,City Of Bogo (Cebu)
 2025-10-16T10:27:00.000Z,16 October 2025 - 10:27 AM,16.84,121.48,016,2.2,012km S 68° W of San Mateo (Isabela),012,S 68° W,San Mateo (Isabela)
 2025-10-16T10:27:00.000Z,16 October 2025 - 10:27 AM,05.28,126.34,112,2.7,099km S 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),099,S 78° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -165,4 +168,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-15T12:14:00.000Z,15 October 2025 - 12:14 PM,11.17,124.14,003,2.6,022km N 52° E of City Of Bogo (Cebu),022,N 52° E,City Of Bogo (Cebu)
 2025-10-15T11:45:00.000Z,15 October 2025 - 11:45 AM,13.59,120.62,089,1.3,020km N 34° W of Abra De Ilog (Occidental Mindoro),020,N 34° W,Abra De Ilog (Occidental Mindoro)
 2025-10-15T11:37:00.000Z,15 October 2025 - 11:37 AM,15.87,120.06,011,2.3,017km N 72° E of Infanta (Pangasinan),017,N 72° E,Infanta (Pangasinan)
-2025-10-15T11:04:00.000Z,15 October 2025 - 11:04 AM,06.98,127.02,017,3.0,059km S 64° E of Manay (Davao Oriental),059,S 64° E,Manay (Davao Oriental)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T11:25:00.000Z,16 October 2025 - 11:25 AM,11.08,124.15,009,2.6,018km N 79° E of City Of Bogo (Cebu),018,N 79° E,City Of Bogo (Cebu)
+2025-10-16T11:24:00.000Z,16 October 2025 - 11:24 AM,15.92,120.00,032,1.5,015km S 60° E of Dasol (Pangasinan),015,S 60° E,Dasol (Pangasinan)
+2025-10-16T10:42:00.000Z,16 October 2025 - 10:42 AM,06.95,126.72,025,2.5,035km S 36° E of Manay (Davao Oriental),035,S 36° E,Manay (Davao Oriental)
 2025-10-16T10:28:00.000Z,16 October 2025 - 10:28 AM,11.19,124.14,004,2.3,024km N 46° E of City Of Bogo (Cebu),024,N 46° E,City Of Bogo (Cebu)
 2025-10-16T10:27:00.000Z,16 October 2025 - 10:27 AM,16.84,121.48,016,2.2,012km S 68° W of San Mateo (Isabela),012,S 68° W,San Mateo (Isabela)
 2025-10-16T10:27:00.000Z,16 October 2025 - 10:27 AM,05.28,126.34,112,2.7,099km S 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),099,S 78° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -1615,6 +1618,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-09T12:16:00.000Z,09 October 2025 - 12:16 PM,16.34,120.54,012,2.0,006km S 22° W of Tuba (Benguet),006,S 22° W,Tuba (Benguet)
 2025-10-09T12:12:00.000Z,09 October 2025 - 12:12 PM,18.82,121.81,001,2.8,012km S 31° W of Camiguin Island (Calayan) (Cagayan),012,S 31° W,Camiguin Island (Calayan) (Cagayan)
 2025-10-09T12:12:00.000Z,09 October 2025 - 12:12 PM,11.21,124.10,032,1.3,023km N 36° E of City Of Bogo (Cebu),023,N 36° E,City Of Bogo (Cebu)
-2025-10-09T10:46:00.000Z,09 October 2025 - 10:46 AM,10.98,124.03,020,1.8,009km S 36° E of City Of Bogo (Cebu),009,S 36° E,City Of Bogo (Cebu)
-2025-10-09T10:37:00.000Z,09 October 2025 - 10:37 AM,11.10,124.12,006,2.4,016km N 71° E of City Of Bogo (Cebu),016,N 71° E,City Of Bogo (Cebu)
-2025-10-09T10:30:00.000Z,09 October 2025 - 10:30 AM,16.34,120.42,012,4.4,005km N 70° W of Pugo (La Union),005,N 70° W,Pugo (La Union)
