@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T05:52:00.000Z,17 October 2025 - 05:52 AM,10.86,123.91,002,1.7,022km S 19° W of City Of Bogo (Cebu),022,S 19° W,City Of Bogo (Cebu)
+2025-10-17T05:41:00.000Z,17 October 2025 - 05:41 AM,07.65,126.46,029,1.9,050km N 10° W of Manay (Davao Oriental),050,N 10° W,Manay (Davao Oriental)
+2025-10-17T05:39:00.000Z,17 October 2025 - 05:39 AM,11.18,124.02,030,1.4,015km N 17° E of City Of Bogo (Cebu),015,N 17° E,City Of Bogo (Cebu)
+2025-10-17T05:28:00.000Z,17 October 2025 - 05:28 AM,13.28,120.27,006,3.2,026km S 53° W of Paluan (Occidental Mindoro),026,S 53° W,Paluan (Occidental Mindoro)
 2025-10-17T05:27:00.000Z,17 October 2025 - 05:27 AM,11.22,124.17,006,2.1,028km N 46° E of City Of Bogo (Cebu),028,N 46° E,City Of Bogo (Cebu)
 2025-10-17T05:08:00.000Z,17 October 2025 - 05:08 AM,07.28,126.67,029,2.0,016km N 61° E of Manay (Davao Oriental),016,N 61° E,Manay (Davao Oriental)
 2025-10-17T05:06:00.000Z,17 October 2025 - 05:06 AM,05.74,125.88,103,2.6,032km S 53° E of Jose Abad Santos (Davao Occidental),032,S 53° E,Jose Abad Santos (Davao Occidental)
@@ -123,5 +127,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-16T06:34:00.000Z,16 October 2025 - 06:34 AM,08.99,126.21,067,2.1,005km S 42° W of Tago (Surigao Del Sur),005,S 42° W,Tago (Surigao Del Sur)
 2025-10-16T06:32:00.000Z,16 October 2025 - 06:32 AM,08.79,126.13,021,2.2,011km N 62° W of San Agustin (Surigao Del Sur),011,N 62° W,San Agustin (Surigao Del Sur)
 2025-10-16T06:16:00.000Z,16 October 2025 - 06:16 AM,10.89,123.96,004,2.4,018km S 08° W of City Of Bogo (Cebu),018,S 08° W,City Of Bogo (Cebu)
-2025-10-16T05:45:00.000Z,16 October 2025 - 05:45 AM,06.73,126.99,023,2.6,073km S 43° E of Manay (Davao Oriental),073,S 43° E,Manay (Davao Oriental)
-2025-10-16T05:32:00.000Z,16 October 2025 - 05:32 AM,06.18,125.88,149,3.2,021km S 85° E of Don Marcelino (Davao Occidental),021,S 85° E,Don Marcelino (Davao Occidental)
