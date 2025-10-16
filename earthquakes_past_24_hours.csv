@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T16:28:00.000Z,16 October 2025 - 04:28 PM,11.15,123.96,029,1.6,012km N 09° W of City Of Bogo (Cebu),012,N 09° W,City Of Bogo (Cebu)
 2025-10-16T16:05:00.000Z,16 October 2025 - 04:05 PM,05.41,125.61,186,3.1,017km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),017,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-16T15:47:00.000Z,16 October 2025 - 03:47 PM,11.16,124.20,034,1.9,027km N 63° E of City Of Bogo (Cebu),027,N 63° E,City Of Bogo (Cebu)
 2025-10-16T15:40:00.000Z,16 October 2025 - 03:40 PM,10.91,123.96,007,3.0,015km S 07° W of City Of Bogo (Cebu),015,S 07° W,City Of Bogo (Cebu)
@@ -158,4 +159,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-15T16:57:00.000Z,15 October 2025 - 04:57 PM,07.14,126.81,009,3.9,031km S 76° E of Manay (Davao Oriental),031,S 76° E,Manay (Davao Oriental)
 2025-10-15T16:52:00.000Z,15 October 2025 - 04:52 PM,06.68,125.70,022,3.6,029km N 61° E of Santa Maria (Davao Occidental),029,N 61° E,Santa Maria (Davao Occidental)
 2025-10-15T16:45:00.000Z,15 October 2025 - 04:45 PM,08.98,126.33,031,2.3,008km N 26° E of Cagwait (Surigao Del Sur),008,N 26° E,Cagwait (Surigao Del Sur)
-2025-10-15T16:11:00.000Z,15 October 2025 - 04:11 PM,07.37,126.68,019,2.9,024km N 43° E of Manay (Davao Oriental),024,N 43° E,Manay (Davao Oriental)
