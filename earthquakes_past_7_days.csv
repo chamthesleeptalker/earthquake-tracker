@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T01:53:00.000Z,17 October 2025 - 01:53 AM,11.09,124.09,002,2.3,013km N 69° E of City Of Bogo (Cebu),013,N 69° E,City Of Bogo (Cebu)
+2025-10-17T01:42:00.000Z,17 October 2025 - 01:42 AM,11.08,124.06,012,3.4,010km N 64° E of City Of Bogo (Cebu),010,N 64° E,City Of Bogo (Cebu)
+2025-10-17T01:39:00.000Z,17 October 2025 - 01:39 AM,04.79,127.22,067,3.1,208km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),208,S 69° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-17T01:31:00.000Z,17 October 2025 - 01:31 AM,11.25,124.18,008,3.2,031km N 45° E of City Of Bogo (Cebu),031,N 45° E,City Of Bogo (Cebu)
 2025-10-17T01:27:00.000Z,17 October 2025 - 01:27 AM,11.18,124.03,005,2.4,016km N 22° E of City Of Bogo (Cebu),016,N 22° E,City Of Bogo (Cebu)
 2025-10-17T01:24:00.000Z,17 October 2025 - 01:24 AM,06.99,126.76,019,3.3,035km S 44° E of Manay (Davao Oriental),035,S 44° E,Manay (Davao Oriental)
@@ -1629,4 +1632,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-10T02:15:00.000Z,10 October 2025 - 02:15 AM,10.96,123.91,008,1.9,012km S 38° W of City Of Bogo (Cebu),012,S 38° W,City Of Bogo (Cebu)
 2025-10-10T01:57:00.000Z,10 October 2025 - 01:57 AM,11.18,123.97,013,2.1,015km N 04° W of City Of Bogo (Cebu),015,N 04° W,City Of Bogo (Cebu)
 2025-10-10T01:55:00.000Z,10 October 2025 - 01:55 AM,04.37,128.01,081,3.5,307km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),307,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-10-10T01:47:00.000Z,10 October 2025 - 01:47 AM,11.18,124.11,006,1.8,020km N 43° E of City Of Bogo (Cebu),020,N 43° E,City Of Bogo (Cebu)
