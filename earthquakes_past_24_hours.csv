@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T22:15:00.000Z,16 October 2025 - 10:15 PM,11.08,124.04,023,2.0,007km N 62° E of City Of Bogo (Cebu),007,N 62° E,City Of Bogo (Cebu)
 2025-10-16T22:07:00.000Z,16 October 2025 - 10:07 PM,08.07,123.23,024,1.9,010km N 61° W of Midsalip (Zamboanga Del Sur),010,N 61° W,Midsalip (Zamboanga Del Sur)
 2025-10-16T22:07:00.000Z,16 October 2025 - 10:07 PM,07.66,126.72,024,1.5,020km N 63° E of Baganga (Davao Oriental),020,N 63° E,Baganga (Davao Oriental)
 2025-10-16T22:06:00.000Z,16 October 2025 - 10:06 PM,13.22,120.85,037,1.7,021km N 43° E of Santa Cruz (Occidental Mindoro),021,N 43° E,Santa Cruz (Occidental Mindoro)
@@ -142,5 +143,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-15T23:08:00.000Z,15 October 2025 - 11:08 PM,11.16,124.04,021,2.1,014km N 26° E of City Of Bogo (Cebu),014,N 26° E,City Of Bogo (Cebu)
 2025-10-15T22:41:00.000Z,15 October 2025 - 10:41 PM,11.15,124.11,002,2.4,018km N 53° E of City Of Bogo (Cebu),018,N 53° E,City Of Bogo (Cebu)
 2025-10-15T22:36:00.000Z,15 October 2025 - 10:36 PM,10.94,124.04,031,1.6,013km S 29° E of City Of Bogo (Cebu),013,S 29° E,City Of Bogo (Cebu)
-2025-10-15T22:14:00.000Z,15 October 2025 - 10:14 PM,11.20,124.17,008,2.2,027km N 50° E of City Of Bogo (Cebu),027,N 50° E,City Of Bogo (Cebu)
-2025-10-15T22:07:00.000Z,15 October 2025 - 10:07 PM,11.09,124.00,033,2.3,005km N 31° E of City Of Bogo (Cebu),005,N 31° E,City Of Bogo (Cebu)
