@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T23:30:00.000Z,16 October 2025 - 11:30 PM,11.06,123.98,031,1.4,001km North of City Of Bogo (Cebu),001,North of City,Bogo (Cebu)
 2025-10-16T23:08:00.000Z,16 October 2025 - 11:08 PM,11.11,123.84,032,2.6,016km N 65° W of City Of Bogo (Cebu),016,N 65° W,City Of Bogo (Cebu)
 2025-10-16T23:01:00.000Z,16 October 2025 - 11:01 PM,10.98,123.92,021,2.0,010km S 41° W of City Of Bogo (Cebu),010,S 41° W,City Of Bogo (Cebu)
 2025-10-16T22:50:00.000Z,16 October 2025 - 10:50 PM,08.31,125.92,009,1.9,012km S 51° W of Rosario (Agusan Del Sur),012,S 51° W,Rosario (Agusan Del Sur)
