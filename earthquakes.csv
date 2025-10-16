@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T02:38:00.000Z,17 October 2025 - 02:38 AM,11.07,123.99,009,2.0,002km N 22° E of City Of Bogo (Cebu),002,N 22° E,City Of Bogo (Cebu)
+2025-10-17T02:21:00.000Z,17 October 2025 - 02:21 AM,07.37,126.86,038,1.8,039km N 63° E of Manay (Davao Oriental),039,N 63° E,Manay (Davao Oriental)
+2025-10-17T02:20:00.000Z,17 October 2025 - 02:20 AM,11.16,123.98,023,2.7,013km N 02° E of City Of Bogo (Cebu),013,N 02° E,City Of Bogo (Cebu)
+2025-10-17T02:16:00.000Z,17 October 2025 - 02:16 AM,10.98,124.06,025,2.1,012km S 50° E of City Of Bogo (Cebu),012,S 50° E,City Of Bogo (Cebu)
 2025-10-17T01:53:00.000Z,17 October 2025 - 01:53 AM,11.09,124.09,002,2.3,013km N 69° E of City Of Bogo (Cebu),013,N 69° E,City Of Bogo (Cebu)
 2025-10-17T01:42:00.000Z,17 October 2025 - 01:42 AM,11.08,124.06,012,3.4,010km N 64° E of City Of Bogo (Cebu),010,N 64° E,City Of Bogo (Cebu)
 2025-10-17T01:39:00.000Z,17 October 2025 - 01:39 AM,04.79,127.22,067,3.1,208km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),208,S 69° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
