@@ -1,8 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T01:01:00.000Z,17 October 2025 - 01:01 AM,09.59,125.53,033,1.5,006km N 09° E of Mainit (Surigao Del Norte),006,N 09° E,Mainit (Surigao Del Norte)
+2025-10-17T01:04:00.000Z,17 October 2025 - 01:04 AM,16.65,119.75,031,3.0,033km N 28° W of Bolinao (Pangasinan),033,N 28° W,Bolinao (Pangasinan)
+2025-10-17T00:52:00.000Z,17 October 2025 - 12:52 AM,11.09,124.05,029,2.1,009km N 56° E of City Of Bogo (Cebu),009,N 56° E,City Of Bogo (Cebu)
+2025-10-17T00:52:00.000Z,17 October 2025 - 12:52 AM,14.01,120.51,116,1.9,015km S 61° W of Nasugbu (Batangas),015,S 61° W,Nasugbu (Batangas)
+2025-10-17T00:43:00.000Z,17 October 2025 - 12:43 AM,07.32,127.24,061,3.1,079km N 81° E of Manay (Davao Oriental),079,N 81° E,Manay (Davao Oriental)
 2025-10-17T00:28:00.000Z,17 October 2025 - 12:28 AM,11.13,124.12,007,2.0,018km N 61° E of City Of Bogo (Cebu),018,N 61° E,City Of Bogo (Cebu)
 2025-10-17T00:20:00.000Z,17 October 2025 - 12:20 AM,11.12,124.02,033,2.0,009km N 27° E of City Of Bogo (Cebu),009,N 27° E,City Of Bogo (Cebu)
 2025-10-17T00:17:00.000Z,17 October 2025 - 12:17 AM,17.87,120.82,036,1.7,016km N 02° W of Tineg (Abra),016,N 02° W,Tineg (Abra)
 2025-10-17T00:13:00.000Z,17 October 2025 - 12:13 AM,07.63,126.08,033,1.6,004km S 10° W of Compostela (Davao De Oro),004,S 10° W,Compostela (Davao De Oro)
-2025-10-16T23:59:00.000Z,16 October 2025 - 11:59 PM,13.58,120.58,031,2.0,022km N 46° W of Abra De Ilog (Occidental Mindoro),022,N 46° W,Abra De Ilog (Occidental Mindoro)
-2025-10-16T23:47:00.000Z,16 October 2025 - 11:47 PM,10.99,124.00,032,1.6,006km S 18° E of City Of Bogo (Cebu),006,S 18° E,City Of Bogo (Cebu)
-2025-10-16T23:30:00.000Z,16 October 2025 - 11:30 PM,11.06,123.98,031,1.4,001km North of City Of Bogo (Cebu),001,North of City,Bogo (Cebu)
