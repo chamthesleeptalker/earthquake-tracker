@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T23:59:00.000Z,16 October 2025 - 11:59 PM,13.58,120.58,031,2.0,022km N 46° W of Abra De Ilog (Occidental Mindoro),022,N 46° W,Abra De Ilog (Occidental Mindoro)
+2025-10-16T23:47:00.000Z,16 October 2025 - 11:47 PM,10.99,124.00,032,1.6,006km S 18° E of City Of Bogo (Cebu),006,S 18° E,City Of Bogo (Cebu)
 2025-10-16T23:30:00.000Z,16 October 2025 - 11:30 PM,11.06,123.98,031,1.4,001km North of City Of Bogo (Cebu),001,North of City,Bogo (Cebu)
 2025-10-16T23:08:00.000Z,16 October 2025 - 11:08 PM,11.11,123.84,032,2.6,016km N 65° W of City Of Bogo (Cebu),016,N 65° W,City Of Bogo (Cebu)
 2025-10-16T23:01:00.000Z,16 October 2025 - 11:01 PM,10.98,123.92,021,2.0,010km S 41° W of City Of Bogo (Cebu),010,S 41° W,City Of Bogo (Cebu)
