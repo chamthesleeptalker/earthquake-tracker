@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-16T19:02:00.000Z,16 October 2025 - 07:02 PM,13.07,120.69,010,3.9,003km S 65° W of Santa Cruz (Occidental Mindoro),003,S 65° W,Santa Cruz (Occidental Mindoro)
 2025-10-16T18:27:00.000Z,16 October 2025 - 06:27 PM,07.36,127.76,033,3.1,135km N 83° E of Manay (Davao Oriental),135,N 83° E,Manay (Davao Oriental)
 2025-10-16T18:17:00.000Z,16 October 2025 - 06:17 PM,11.28,124.06,030,1.3,027km N 18° E of City Of Bogo (Cebu),027,N 18° E,City Of Bogo (Cebu)
 2025-10-16T18:04:00.000Z,16 October 2025 - 06:04 PM,07.34,126.74,015,2.9,026km N 56° E of Manay (Davao Oriental),026,N 56° E,Manay (Davao Oriental)
@@ -153,5 +154,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-15T19:32:00.000Z,15 October 2025 - 07:32 PM,07.15,127.09,019,3.7,061km S 83° E of Manay (Davao Oriental),061,S 83° E,Manay (Davao Oriental)
 2025-10-15T19:10:00.000Z,15 October 2025 - 07:10 PM,10.88,125.20,012,2.7,020km S 67° E of Dulag (Leyte),020,S 67° E,Dulag (Leyte)
 2025-10-15T19:15:00.000Z,15 October 2025 - 07:15 PM,10.95,123.98,003,2.3,010km S 02° W of City Of Bogo (Cebu),010,S 02° W,City Of Bogo (Cebu)
-2025-10-15T18:58:00.000Z,15 October 2025 - 06:58 PM,07.39,126.72,010,4.3,028km N 45° E of Manay (Davao Oriental),028,N 45° E,Manay (Davao Oriental)
-2025-10-15T18:37:00.000Z,15 October 2025 - 06:37 PM,10.83,125.27,009,1.8,030km N 73° E of Abuyog (Leyte),030,N 73° E,Abuyog (Leyte)
