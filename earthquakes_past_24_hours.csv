@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T22:34:00.000Z,17 October 2025 - 10:34 PM,09.66,126.27,035,1.4,018km S 42° E of General Luna (Surigao Del Norte),018,S 42° E,General Luna (Surigao Del Norte)
+2025-10-17T22:17:00.000Z,17 October 2025 - 10:17 PM,09.62,126.26,031,1.6,021km S 32° E of General Luna (Surigao Del Norte),021,S 32° E,General Luna (Surigao Del Norte)
+2025-10-17T22:10:00.000Z,17 October 2025 - 10:10 PM,09.65,125.99,018,1.8,004km N 33° E of Socorro (Surigao Del Norte),004,N 33° E,Socorro (Surigao Del Norte)
 2025-10-17T22:05:00.000Z,17 October 2025 - 10:05 PM,11.16,123.83,023,1.7,020km N 52° W of City Of Bogo (Cebu),020,N 52° W,City Of Bogo (Cebu)
 2025-10-17T22:04:00.000Z,17 October 2025 - 10:04 PM,11.05,124.05,010,2.4,008km S 89° E of City Of Bogo (Cebu),008,S 89° E,City Of Bogo (Cebu)
 2025-10-17T21:49:00.000Z,17 October 2025 - 09:49 PM,06.94,127.38,014,3.9,097km S 72° E of Manay (Davao Oriental),097,S 72° E,Manay (Davao Oriental)
@@ -252,7 +255,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-16T23:01:00.000Z,16 October 2025 - 11:01 PM,10.98,123.92,021,2.0,010km S 41° W of City Of Bogo (Cebu),010,S 41° W,City Of Bogo (Cebu)
 2025-10-16T22:50:00.000Z,16 October 2025 - 10:50 PM,08.31,125.92,009,1.9,012km S 51° W of Rosario (Agusan Del Sur),012,S 51° W,Rosario (Agusan Del Sur)
 2025-10-16T22:49:00.000Z,16 October 2025 - 10:49 PM,11.00,124.00,003,1.8,006km S 24° E of City Of Bogo (Cebu),006,S 24° E,City Of Bogo (Cebu)
-2025-10-16T22:15:00.000Z,16 October 2025 - 10:15 PM,11.08,124.04,023,2.0,007km N 62° E of City Of Bogo (Cebu),007,N 62° E,City Of Bogo (Cebu)
-2025-10-16T22:07:00.000Z,16 October 2025 - 10:07 PM,08.07,123.23,024,1.9,010km N 61° W of Midsalip (Zamboanga Del Sur),010,N 61° W,Midsalip (Zamboanga Del Sur)
-2025-10-16T22:07:00.000Z,16 October 2025 - 10:07 PM,07.66,126.72,024,1.5,020km N 63° E of Baganga (Davao Oriental),020,N 63° E,Baganga (Davao Oriental)
-2025-10-16T22:06:00.000Z,16 October 2025 - 10:06 PM,13.22,120.85,037,1.7,021km N 43° E of Santa Cruz (Occidental Mindoro),021,N 43° E,Santa Cruz (Occidental Mindoro)
