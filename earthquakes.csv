@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T19:20:00.000Z,17 October 2025 - 07:20 PM,09.70,126.32,026,3.2,020km S 64° E of General Luna (Surigao Del Norte),020,S 64° E,General Luna (Surigao Del Norte)
+2025-10-17T19:18:00.000Z,17 October 2025 - 07:18 PM,07.55,126.71,024,1.6,016km S 81° E of Baganga (Davao Oriental),016,S 81° E,Baganga (Davao Oriental)
 2025-10-17T19:01:00.000Z,17 October 2025 - 07:01 PM,09.63,126.15,032,1.7,017km S 04° W of General Luna (Surigao Del Norte),017,S 04° W,General Luna (Surigao Del Norte)
 2025-10-17T18:59:00.000Z,17 October 2025 - 06:59 PM,09.66,126.23,033,1.5,015km S 30° E of General Luna (Surigao Del Norte),015,S 30° E,General Luna (Surigao Del Norte)
 2025-10-17T18:55:00.000Z,17 October 2025 - 06:55 PM,09.38,122.49,025,2.1,017km S 79° W of Basay (Negros Oriental),017,S 79° W,Basay (Negros Oriental)
