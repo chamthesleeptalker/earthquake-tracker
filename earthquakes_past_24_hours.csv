@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T02:39:00.000Z,18 October 2025 - 02:39 AM,09.59,126.23,033,1.9,023km S 20° E of General Luna (Surigao Del Norte),023,S 20° E,General Luna (Surigao Del Norte)
+2025-10-18T02:31:00.000Z,18 October 2025 - 02:31 AM,09.53,126.08,002,1.6,016km S 51° E of Socorro (Surigao Del Norte),016,S 51° E,Socorro (Surigao Del Norte)
+2025-10-18T02:27:00.000Z,18 October 2025 - 02:27 AM,18.61,120.72,003,2.7,009km N 51° W of Pagudpud (Ilocos Norte),009,N 51° W,Pagudpud (Ilocos Norte)
 2025-10-18T02:15:00.000Z,18 October 2025 - 02:15 AM,09.67,126.12,028,1.8,013km S 16° W of General Luna (Surigao Del Norte),013,S 16° W,General Luna (Surigao Del Norte)
 2025-10-18T02:09:00.000Z,18 October 2025 - 02:09 AM,11.13,124.07,035,1.4,014km N 46° E of City Of Bogo (Cebu),014,N 46° E,City Of Bogo (Cebu)
 2025-10-18T02:08:00.000Z,18 October 2025 - 02:08 AM,09.62,126.09,029,2.0,019km S 22° W of General Luna (Surigao Del Norte),019,S 22° W,General Luna (Surigao Del Norte)
@@ -282,7 +285,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-17T02:53:00.000Z,17 October 2025 - 02:53 AM,10.97,124.05,028,2.2,012km S 44° E of City Of Bogo (Cebu),012,S 44° E,City Of Bogo (Cebu)
 2025-10-17T02:49:00.000Z,17 October 2025 - 02:49 AM,18.73,119.91,016,2.4,082km N 73° W of Burgos (Ilocos Norte),082,N 73° W,Burgos (Ilocos Norte)
 2025-10-17T02:43:00.000Z,17 October 2025 - 02:43 AM,15.22,122.04,002,3.4,040km N 37° E of Panukulan (Quezon),040,N 37° E,Panukulan (Quezon)
-2025-10-17T02:38:00.000Z,17 October 2025 - 02:38 AM,11.07,123.99,009,2.0,002km N 22° E of City Of Bogo (Cebu),002,N 22° E,City Of Bogo (Cebu)
-2025-10-17T02:21:00.000Z,17 October 2025 - 02:21 AM,07.37,126.86,038,1.8,039km N 63° E of Manay (Davao Oriental),039,N 63° E,Manay (Davao Oriental)
-2025-10-17T02:20:00.000Z,17 October 2025 - 02:20 AM,11.16,123.98,023,2.7,013km N 02° E of City Of Bogo (Cebu),013,N 02° E,City Of Bogo (Cebu)
-2025-10-17T02:16:00.000Z,17 October 2025 - 02:16 AM,10.98,124.06,025,2.1,012km S 50° E of City Of Bogo (Cebu),012,S 50° E,City Of Bogo (Cebu)
