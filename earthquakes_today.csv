@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T19:01:00.000Z,17 October 2025 - 07:01 PM,09.63,126.15,032,1.7,017km S 04° W of General Luna (Surigao Del Norte),017,S 04° W,General Luna (Surigao Del Norte)
+2025-10-17T18:59:00.000Z,17 October 2025 - 06:59 PM,09.66,126.23,033,1.5,015km S 30° E of General Luna (Surigao Del Norte),015,S 30° E,General Luna (Surigao Del Norte)
+2025-10-17T18:55:00.000Z,17 October 2025 - 06:55 PM,09.38,122.49,025,2.1,017km S 79° W of Basay (Negros Oriental),017,S 79° W,Basay (Negros Oriental)
+2025-10-17T18:54:00.000Z,17 October 2025 - 06:54 PM,18.88,120.46,001,2.3,045km N 26° W of Burgos (Ilocos Norte),045,N 26° W,Burgos (Ilocos Norte)
+2025-10-17T18:51:00.000Z,17 October 2025 - 06:51 PM,09.67,126.20,034,1.7,014km S 18° E of General Luna (Surigao Del Norte),014,S 18° E,General Luna (Surigao Del Norte)
+2025-10-17T18:45:00.000Z,17 October 2025 - 06:45 PM,18.65,120.68,010,4.2,015km N 49° W of Pagudpud (Ilocos Norte),015,N 49° W,Pagudpud (Ilocos Norte)
+2025-10-17T18:44:00.000Z,17 October 2025 - 06:44 PM,09.58,126.18,033,1.6,023km S 06° E of General Luna (Surigao Del Norte),023,S 06° E,General Luna (Surigao Del Norte)
 2025-10-17T18:26:00.000Z,17 October 2025 - 06:26 PM,09.63,126.17,027,2.4,017km S 04° E of General Luna (Surigao Del Norte),017,S 04° E,General Luna (Surigao Del Norte)
 2025-10-17T18:25:00.000Z,17 October 2025 - 06:25 PM,07.14,126.88,030,2.5,039km S 78° E of Manay (Davao Oriental),039,S 78° E,Manay (Davao Oriental)
 2025-10-17T18:25:00.000Z,17 October 2025 - 06:25 PM,09.61,126.25,033,1.8,022km S 28° E of General Luna (Surigao Del Norte),022,S 28° E,General Luna (Surigao Del Norte)
