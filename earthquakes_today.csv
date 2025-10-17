@@ -1,2 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T00:30:00.000Z,18 October 2025 - 12:30 AM,08.92,126.22,043,1.8,009km N 87° W of Cagwait (Surigao Del Sur),009,N 87° W,Cagwait (Surigao Del Sur)
+2025-10-18T00:29:00.000Z,18 October 2025 - 12:29 AM,19.23,120.46,015,2.3,081km N 13° W of Burgos (Ilocos Norte),081,N 13° W,Burgos (Ilocos Norte)
+2025-10-18T00:25:00.000Z,18 October 2025 - 12:25 AM,09.76,126.52,009,2.3,040km S 87° E of General Luna (Surigao Del Norte),040,S 87° E,General Luna (Surigao Del Norte)
+2025-10-18T00:20:00.000Z,18 October 2025 - 12:20 AM,11.15,124.10,024,2.1,017km N 49° E of City Of Bogo (Cebu),017,N 49° E,City Of Bogo (Cebu)
+2025-10-18T00:14:00.000Z,18 October 2025 - 12:14 AM,18.62,120.64,010,2.9,017km N 67° W of Pagudpud (Ilocos Norte),017,N 67° W,Pagudpud (Ilocos Norte)
 2025-10-18T00:02:00.000Z,18 October 2025 - 12:02 AM,09.87,126.19,044,4.1,010km N 18° E of General Luna (Surigao Del Norte),010,N 18° E,General Luna (Surigao Del Norte)
