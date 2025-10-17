@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T02:59:00.000Z,18 October 2025 - 02:59 AM,10.95,123.93,008,2.3,012km S 27° W of City Of Bogo (Cebu),012,S 27° W,City Of Bogo (Cebu)
+2025-10-18T02:52:00.000Z,18 October 2025 - 02:52 AM,07.00,126.74,017,3.0,033km S 44° E of Manay (Davao Oriental),033,S 44° E,Manay (Davao Oriental)
+2025-10-18T02:49:00.000Z,18 October 2025 - 02:49 AM,06.95,126.49,027,2.5,029km S 11° W of Manay (Davao Oriental),029,S 11° W,Manay (Davao Oriental)
+2025-10-18T02:48:00.000Z,18 October 2025 - 02:48 AM,07.41,127.40,013,2.1,098km N 77° E of Manay (Davao Oriental),098,N 77° E,Manay (Davao Oriental)
+2025-10-18T02:46:00.000Z,18 October 2025 - 02:46 AM,07.07,127.05,019,3.2,058km S 74° E of Manay (Davao Oriental),058,S 74° E,Manay (Davao Oriental)
+2025-10-18T02:40:00.000Z,18 October 2025 - 02:40 AM,09.64,126.14,034,1.5,016km S 08° W of General Luna (Surigao Del Norte),016,S 08° W,General Luna (Surigao Del Norte)
 2025-10-18T02:39:00.000Z,18 October 2025 - 02:39 AM,09.59,126.23,033,1.9,023km S 20° E of General Luna (Surigao Del Norte),023,S 20° E,General Luna (Surigao Del Norte)
 2025-10-18T02:31:00.000Z,18 October 2025 - 02:31 AM,09.53,126.08,002,1.6,016km S 51° E of Socorro (Surigao Del Norte),016,S 51° E,Socorro (Surigao Del Norte)
 2025-10-18T02:27:00.000Z,18 October 2025 - 02:27 AM,18.61,120.72,003,2.7,009km N 51° W of Pagudpud (Ilocos Norte),009,N 51° W,Pagudpud (Ilocos Norte)
@@ -281,7 +287,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-17T03:18:00.000Z,17 October 2025 - 03:18 AM,06.97,126.67,027,3.3,030km S 28° E of Manay (Davao Oriental),030,S 28° E,Manay (Davao Oriental)
 2025-10-17T03:16:00.000Z,17 October 2025 - 03:16 AM,10.85,123.85,005,2.2,026km S 33° W of City Of Bogo (Cebu),026,S 33° W,City Of Bogo (Cebu)
 2025-10-17T03:00:00.000Z,17 October 2025 - 03:00 AM,08.15,126.74,032,1.3,038km N 72° E of Lingig (Surigao Del Sur),038,N 72° E,Lingig (Surigao Del Sur)
-2025-10-17T02:54:00.000Z,17 October 2025 - 02:54 AM,11.13,123.95,014,1.7,010km N 20° W of City Of Bogo (Cebu),010,N 20° W,City Of Bogo (Cebu)
-2025-10-17T02:53:00.000Z,17 October 2025 - 02:53 AM,10.97,124.05,028,2.2,012km S 44° E of City Of Bogo (Cebu),012,S 44° E,City Of Bogo (Cebu)
-2025-10-17T02:49:00.000Z,17 October 2025 - 02:49 AM,18.73,119.91,016,2.4,082km N 73° W of Burgos (Ilocos Norte),082,N 73° W,Burgos (Ilocos Norte)
-2025-10-17T02:43:00.000Z,17 October 2025 - 02:43 AM,15.22,122.04,002,3.4,040km N 37° E of Panukulan (Quezon),040,N 37° E,Panukulan (Quezon)
