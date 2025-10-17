@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T17:12:00.000Z,17 October 2025 - 05:12 PM,09.63,126.15,032,1.7,017km S 03° W of General Luna (Surigao Del Norte),017,S 03° W,General Luna (Surigao Del Norte)
+2025-10-17T17:08:00.000Z,17 October 2025 - 05:08 PM,10.97,123.97,002,2.6,008km S 09° W of City Of Bogo (Cebu),008,S 09° W,City Of Bogo (Cebu)
+2025-10-17T17:11:00.000Z,17 October 2025 - 05:11 PM,18.60,120.61,010,2.0,019km N 77° W of Pagudpud (Ilocos Norte),019,N 77° W,Pagudpud (Ilocos Norte)
+2025-10-17T17:01:00.000Z,17 October 2025 - 05:01 PM,18.70,120.66,011,1.4,020km N 41° W of Pagudpud (Ilocos Norte),020,N 41° W,Pagudpud (Ilocos Norte)
+2025-10-17T16:59:00.000Z,17 October 2025 - 04:59 PM,07.47,126.79,027,3.7,040km N 44° E of Manay (Davao Oriental),040,N 44° E,Manay (Davao Oriental)
 2025-10-17T16:31:00.000Z,17 October 2025 - 04:31 PM,18.61,120.67,010,5.0,013km N 66° W of Pagudpud (Ilocos Norte),013,N 66° W,Pagudpud (Ilocos Norte)
 2025-10-17T16:27:00.000Z,17 October 2025 - 04:27 PM,09.66,126.21,033,2.2,015km S 21° E of General Luna (Surigao Del Norte),015,S 21° E,General Luna (Surigao Del Norte)
 2025-10-17T16:27:00.000Z,17 October 2025 - 04:27 PM,18.38,120.59,012,2.5,006km N 26° W of Pasuquin (Ilocos Norte),006,N 26° W,Pasuquin (Ilocos Norte)
