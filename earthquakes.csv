@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T22:05:00.000Z,17 October 2025 - 10:05 PM,11.16,123.83,023,1.7,020km N 52° W of City Of Bogo (Cebu),020,N 52° W,City Of Bogo (Cebu)
+2025-10-17T22:04:00.000Z,17 October 2025 - 10:04 PM,11.05,124.05,010,2.4,008km S 89° E of City Of Bogo (Cebu),008,S 89° E,City Of Bogo (Cebu)
+2025-10-17T21:49:00.000Z,17 October 2025 - 09:49 PM,06.94,127.38,014,3.9,097km S 72° E of Manay (Davao Oriental),097,S 72° E,Manay (Davao Oriental)
+2025-10-17T21:41:00.000Z,17 October 2025 - 09:41 PM,09.66,126.18,032,1.6,014km S 09° E of General Luna (Surigao Del Norte),014,S 09° E,General Luna (Surigao Del Norte)
+2025-10-17T21:34:00.000Z,17 October 2025 - 09:34 PM,10.91,124.01,023,1.8,016km S 13° E of City Of Bogo (Cebu),016,S 13° E,City Of Bogo (Cebu)
+2025-10-17T18:16:00.000Z,17 October 2025 - 06:16 PM,07.06,127.14,015,4.0,068km S 75° E of Manay (Davao Oriental),068,S 75° E,Manay (Davao Oriental)
 2025-10-17T21:27:00.000Z,17 October 2025 - 09:27 PM,07.18,127.00,010,3.9,050km S 86° E of Manay (Davao Oriental),050,S 86° E,Manay (Davao Oriental)
 2025-10-17T21:24:00.000Z,17 October 2025 - 09:24 PM,06.68,125.30,131,1.5,001km S 06° E of Hagonoy (Davao Del Sur),001,S 06° E,Hagonoy (Davao Del Sur)
 2025-10-17T21:17:00.000Z,17 October 2025 - 09:17 PM,07.30,126.30,032,2.2,028km N 69° W of Manay (Davao Oriental),028,N 69° W,Manay (Davao Oriental)
