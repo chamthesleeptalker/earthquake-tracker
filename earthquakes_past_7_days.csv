@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T16:43:00.000Z,18 October 2025 - 04:43 PM,09.72,126.36,030,3.2,023km S 72° E of General Luna (Surigao Del Norte),023,S 72° E,General Luna (Surigao Del Norte)
 2025-10-18T16:30:00.000Z,18 October 2025 - 04:30 PM,13.74,120.57,096,1.6,013km S 34° W of Calatagan (Batangas),013,S 34° W,Calatagan (Batangas)
 2025-10-18T16:01:00.000Z,18 October 2025 - 04:01 PM,06.99,127.54,032,2.6,113km S 78° E of Manay (Davao Oriental),113,S 78° E,Manay (Davao Oriental)
 2025-10-18T15:19:00.000Z,18 October 2025 - 03:19 PM,11.24,124.11,011,2.4,025km N 34° E of City Of Bogo (Cebu),025,N 34° E,City Of Bogo (Cebu)
@@ -1436,5 +1437,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-11T16:55:00.000Z,11 October 2025 - 04:55 PM,07.46,125.81,016,2.1,003km N 38° W of City Of Tagum (Davao Del Norte),003,N 38° W,City Of Tagum (Davao Del Norte)
 2025-10-11T16:53:00.000Z,11 October 2025 - 04:53 PM,07.44,127.18,019,3.1,076km N 70° E of Manay (Davao Oriental),076,N 70° E,Manay (Davao Oriental)
 2025-10-11T16:51:00.000Z,11 October 2025 - 04:51 PM,07.28,126.65,017,2.5,014km N 55° E of Manay (Davao Oriental),014,N 55° E,Manay (Davao Oriental)
-2025-10-11T16:41:00.000Z,11 October 2025 - 04:41 PM,06.72,127.15,019,3.6,087km S 51° E of Manay (Davao Oriental),087,S 51° E,Manay (Davao Oriental)
-2025-10-11T16:38:00.000Z,11 October 2025 - 04:38 PM,11.13,124.11,002,2.0,018km N 56° E of City Of Bogo (Cebu),018,N 56° E,City Of Bogo (Cebu)
