@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T14:23:00.000Z,18 October 2025 - 02:23 PM,11.15,124.07,010,2.3,016km N 41° E of City Of Bogo (Cebu),016,N 41° E,City Of Bogo (Cebu)
 2025-10-18T14:12:00.000Z,18 October 2025 - 02:12 PM,08.95,126.56,010,3.9,028km N 82° E of Cagwait (Surigao Del Sur),028,N 82° E,Cagwait (Surigao Del Sur)
 2025-10-18T14:04:00.000Z,18 October 2025 - 02:04 PM,08.29,126.93,016,2.9,064km N 64° E of Lingig (Surigao Del Sur),064,N 64° E,Lingig (Surigao Del Sur)
 2025-10-18T13:57:00.000Z,18 October 2025 - 01:57 PM,09.62,126.14,020,3.5,018km S 5° W of General Luna (Surigao Del Norte),018,S 5° W,General Luna (Surigao Del Norte)
@@ -1452,7 +1453,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-11T14:44:00.000Z,11 October 2025 - 02:44 PM,07.20,126.97,020,2.3,048km S 89° E of Manay (Davao Oriental),048,S 89° E,Manay (Davao Oriental)
 2025-10-11T14:40:00.000Z,11 October 2025 - 02:40 PM,07.42,126.82,025,1.2,038km N 53° E of Manay (Davao Oriental),038,N 53° E,Manay (Davao Oriental)
 2025-10-11T14:36:00.000Z,11 October 2025 - 02:36 PM,07.28,126.56,016,2.2,009km N 17° E of Manay (Davao Oriental),009,N 17° E,Manay (Davao Oriental)
-2025-10-11T14:17:00.000Z,11 October 2025 - 02:17 PM,13.83,119.98,019,2.3,016km S 80° W of Lubang (Occidental Mindoro),016,S 80° W,Lubang (Occidental Mindoro)
-2025-10-11T14:17:00.000Z,11 October 2025 - 02:17 PM,07.05,126.82,020,3.3,036km S 61° E of Manay (Davao Oriental),036,S 61° E,Manay (Davao Oriental)
-2025-10-11T14:16:00.000Z,11 October 2025 - 02:16 PM,07.04,126.97,033,1.5,051km S 68° E of Manay (Davao Oriental),051,S 68° E,Manay (Davao Oriental)
-2025-10-11T14:14:00.000Z,11 October 2025 - 02:14 PM,07.61,126.44,064,1.0,014km N 72° W of Baganga (Davao Oriental),014,N 72° W,Baganga (Davao Oriental)
