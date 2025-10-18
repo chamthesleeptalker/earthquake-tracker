@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T13:17:00.000Z,18 October 2025 - 01:17 PM,09.67,125.95,035,1.9,026km S 61° W of General Luna (Surigao Del Norte),026,S 61° W,General Luna (Surigao Del Norte)
 2025-10-18T12:59:00.000Z,18 October 2025 - 12:59 PM,10.90,123.89,010,4.2,018km S 31° W of City Of Bogo (Cebu),018,S 31° W,City Of Bogo (Cebu)
 2025-10-18T12:49:00.000Z,18 October 2025 - 12:49 PM,08.94,126.51,027,3.0,023km N 85° E of Cagwait (Surigao Del Sur),023,N 85° E,Cagwait (Surigao Del Sur)
 2025-10-18T12:31:00.000Z,18 October 2025 - 12:31 PM,11.15,124.06,019,2.3,015km N 38° E of City Of Bogo (Cebu),015,N 38° E,City Of Bogo (Cebu)
@@ -223,8 +224,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-17T13:49:00.000Z,17 October 2025 - 01:49 PM,09.62,126.19,033,2.2,018km S 12° E of General Luna (Surigao Del Norte),018,S 12° E,General Luna (Surigao Del Norte)
 2025-10-17T13:35:00.000Z,17 October 2025 - 01:35 PM,09.69,126.17,046,1.5,010km S 06° E of General Luna (Surigao Del Norte),010,S 06° E,General Luna (Surigao Del Norte)
 2025-10-17T13:33:00.000Z,17 October 2025 - 01:33 PM,09.62,126.25,033,1.5,021km S 29° E of General Luna (Surigao Del Norte),021,S 29° E,General Luna (Surigao Del Norte)
-2025-10-17T13:16:00.000Z,17 October 2025 - 01:16 PM,09.60,126.25,033,1.4,023km S 28° E of General Luna (Surigao Del Norte),023,S 28° E,General Luna (Surigao Del Norte)
-2025-10-17T13:12:00.000Z,17 October 2025 - 01:12 PM,09.63,126.24,033,1.9,019km S 29° E of General Luna (Surigao Del Norte),019,S 29° E,General Luna (Surigao Del Norte)
-2025-10-17T13:06:00.000Z,17 October 2025 - 01:06 PM,09.71,126.17,030,2.4,008km S 10° E of General Luna (Surigao Del Norte),008,S 10° E,General Luna (Surigao Del Norte)
-2025-10-17T13:02:00.000Z,17 October 2025 - 01:02 PM,12.57,125.31,014,2.4,012km N 28° E of Mapanas (Northern Samar),012,N 28° E,Mapanas (Northern Samar)
-2025-10-17T12:59:00.000Z,17 October 2025 - 12:59 PM,11.16,123.97,033,1.5,013km N 03° W of City Of Bogo (Cebu),013,N 03° W,City Of Bogo (Cebu)
