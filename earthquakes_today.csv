@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T00:19:00.000Z,19 October 2025 - 12:19 AM,12.99,122.70,006,3.1,034km S 63° W of San Pascual (Masbate),034,S 63° W,San Pascual (Masbate)
+2025-10-19T00:15:00.000Z,19 October 2025 - 12:15 AM,11.32,124.62,008,2.8,004km N 42° W of Capoocan (Leyte),004,N 42° W,Capoocan (Leyte)
+2025-10-19T00:14:00.000Z,19 October 2025 - 12:14 AM,07.15,126.97,015,2.9,048km S 82° E of Manay (Davao Oriental),048,S 82° E,Manay (Davao Oriental)
+2025-10-19T00:13:00.000Z,19 October 2025 - 12:13 AM,09.62,126.23,033,1.5,019km S 25° E of General Luna (Surigao Del Norte),019,S 25° E,General Luna (Surigao Del Norte)
 2025-10-19T00:00:00.000Z,19 October 2025 - 12:00 AM,08.83,126.51,030,2.7,025km S 68° E of Cagwait (Surigao Del Sur),025,S 68° E,Cagwait (Surigao Del Sur)
