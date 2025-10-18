@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T05:14:00.000Z,19 October 2025 - 05:14 AM,11.16,124.16,005,3.1,023km N 57° E of City Of Bogo (Cebu),023,N 57° E,City Of Bogo (Cebu)
 2025-10-19T05:03:00.000Z,19 October 2025 - 05:03 AM,09.94,124.15,003,2.2,007km N 62° E of Sagbayan (Bohol),007,N 62° E,Sagbayan (Bohol)
 2025-10-19T04:56:00.000Z,19 October 2025 - 04:56 AM,09.64,126.22,033,1.2,018km S 25° E of General Luna (Surigao Del Norte),018,S 25° E,General Luna (Surigao Del Norte)
 2025-10-19T04:47:00.000Z,19 October 2025 - 04:47 AM,09.81,126.13,030,2.4,004km N 44° W of General Luna (Surigao Del Norte),004,N 44° W,General Luna (Surigao Del Norte)
