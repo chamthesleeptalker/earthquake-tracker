@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T03:02:00.000Z,19 October 2025 - 03:02 AM,06.53,126.88,024,2.5,084km S 26° E of Manay (Davao Oriental),084,S 26° E,Manay (Davao Oriental)
+2025-10-19T03:00:00.000Z,19 October 2025 - 03:00 AM,08.79,126.47,025,2.6,023km S 53° E of Cagwait (Surigao Del Sur),023,S 53° E,Cagwait (Surigao Del Sur)
 2025-10-19T02:35:00.000Z,19 October 2025 - 02:35 AM,07.39,126.76,010,4.5,031km N 50° E of Manay (Davao Oriental),031,N 50° E,Manay (Davao Oriental)
 2025-10-19T02:30:00.000Z,19 October 2025 - 02:30 AM,08.97,126.23,048,2.3,009km N 51° W of Cagwait (Surigao Del Sur),009,N 51° W,Cagwait (Surigao Del Sur)
 2025-10-19T02:24:00.000Z,19 October 2025 - 02:24 AM,07.20,126.78,020,3.0,027km S 87° E of Manay (Davao Oriental),027,S 87° E,Manay (Davao Oriental)
@@ -136,10 +138,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-18T03:19:00.000Z,18 October 2025 - 03:19 AM,12.42,120.85,034,1.8,014km S 71° W of Rizal (Occidental Mindoro),014,S 71° W,Rizal (Occidental Mindoro)
 2025-10-18T03:06:00.000Z,18 October 2025 - 03:06 AM,09.70,126.12,028,2.2,010km S 26° W of General Luna (Surigao Del Norte),010,S 26° W,General Luna (Surigao Del Norte)
 2025-10-18T03:05:00.000Z,18 October 2025 - 03:05 AM,11.21,124.11,023,2.2,023km N 39° E of City Of Bogo (Cebu),023,N 39° E,City Of Bogo (Cebu)
-2025-10-18T02:59:00.000Z,18 October 2025 - 02:59 AM,10.95,123.93,008,2.3,012km S 27° W of City Of Bogo (Cebu),012,S 27° W,City Of Bogo (Cebu)
-2025-10-18T02:52:00.000Z,18 October 2025 - 02:52 AM,07.00,126.74,017,3.0,033km S 44° E of Manay (Davao Oriental),033,S 44° E,Manay (Davao Oriental)
-2025-10-18T02:49:00.000Z,18 October 2025 - 02:49 AM,06.95,126.49,027,2.5,029km S 11° W of Manay (Davao Oriental),029,S 11° W,Manay (Davao Oriental)
-2025-10-18T02:48:00.000Z,18 October 2025 - 02:48 AM,07.41,127.40,013,2.1,098km N 77° E of Manay (Davao Oriental),098,N 77° E,Manay (Davao Oriental)
-2025-10-18T02:46:00.000Z,18 October 2025 - 02:46 AM,07.07,127.05,019,3.2,058km S 74° E of Manay (Davao Oriental),058,S 74° E,Manay (Davao Oriental)
-2025-10-18T02:40:00.000Z,18 October 2025 - 02:40 AM,09.64,126.14,034,1.5,016km S 08° W of General Luna (Surigao Del Norte),016,S 08° W,General Luna (Surigao Del Norte)
-2025-10-18T02:39:00.000Z,18 October 2025 - 02:39 AM,09.59,126.23,033,1.9,023km S 20° E of General Luna (Surigao Del Norte),023,S 20° E,General Luna (Surigao Del Norte)
