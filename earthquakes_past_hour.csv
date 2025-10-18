@@ -1,9 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-10-18T18:50:00.000Z,18 October 2025 - 06:50 PM,18.60,120.71,010,4.7,009km N 62° W of Pagudpud (Ilocos Norte),009,N 62° W,Pagudpud (Ilocos Norte)
-2025-10-18T18:40:00.000Z,18 October 2025 - 06:40 PM,09.65,126.22,033,2.0,017km S 26° E of General Luna (Surigao Del Norte),017,S 26° E,General Luna (Surigao Del Norte)
-2025-10-18T18:38:00.000Z,18 October 2025 - 06:38 PM,11.15,123.97,019,2.3,012km N 03° W of City Of Bogo (Cebu),012,N 03° W,City Of Bogo (Cebu)
-2025-10-18T18:32:00.000Z,18 October 2025 - 06:32 PM,11.14,124.09,019,1.9,015km N 50° E of City Of Bogo (Cebu),015,N 50° E,City Of Bogo (Cebu)
-2025-10-18T18:28:00.000Z,18 October 2025 - 06:28 PM,07.44,126.83,034,3.8,041km N 52° E of Manay (Davao Oriental),041,N 52° E,Manay (Davao Oriental)
-2025-10-18T18:25:00.000Z,18 October 2025 - 06:25 PM,07.41,126.84,024,2.5,040km N 57° E of Manay (Davao Oriental),040,N 57° E,Manay (Davao Oriental)
-2025-10-18T18:15:00.000Z,18 October 2025 - 06:15 PM,09.60,126.17,031,2.2,020km S 03° E of General Luna (Surigao Del Norte),020,S 03° E,General Luna (Surigao Del Norte)
-2025-10-18T17:54:00.000Z,18 October 2025 - 05:54 PM,11.08,124.11,027,2.1,015km N 76° E of City Of Bogo (Cebu),015,N 76° E,City Of Bogo (Cebu)
+2025-10-18T20:07:00.000Z,18 October 2025 - 08:07 PM,09.54,126.19,030,2.0,027km S 07° E of General Luna (Surigao Del Norte),027,S 07° E,General Luna (Surigao Del Norte)
+2025-10-18T19:49:00.000Z,18 October 2025 - 07:49 PM,09.67,126.12,022,2.7,013km S 17° W of General Luna (Surigao Del Norte),013,S 17° W,General Luna (Surigao Del Norte)
+2025-10-18T19:48:00.000Z,18 October 2025 - 07:48 PM,18.70,120.80,009,2.5,016km N 03° E of Pagudpud (Ilocos Norte),016,N 03° E,Pagudpud (Ilocos Norte)
