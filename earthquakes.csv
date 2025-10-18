@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T10:02:00.000Z,18 October 2025 - 10:02 AM,18.56,120.69,001,2.4,010km N 89° W of Pagudpud (Ilocos Norte),010,N 89° W,Pagudpud (Ilocos Norte)
+2025-10-18T09:11:00.000Z,18 October 2025 - 09:11 AM,06.95,126.49,001,2.0,030km S 11° W of Manay (Davao Oriental),030,S 11° W,Manay (Davao Oriental)
+2025-10-18T09:11:00.000Z,18 October 2025 - 09:11 AM,09.77,126.16,025,3.1,002km S 08° E of General Luna (Surigao Del Norte),002,S 08° E,General Luna (Surigao Del Norte)
 2025-10-18T09:03:00.000Z,18 October 2025 - 09:03 AM,06.63,126.40,037,1.9,036km S 87° E of Governor Generoso (Davao Oriental),036,S 87° E,Governor Generoso (Davao Oriental)
 2025-10-18T08:20:00.000Z,18 October 2025 - 08:20 AM,09.70,126.12,028,2.2,010km S 24° W of General Luna (Surigao Del Norte),010,S 24° W,General Luna (Surigao Del Norte)
 2025-10-18T08:03:00.000Z,18 October 2025 - 08:03 AM,09.63,126.24,028,2.2,019km S 30° E of General Luna (Surigao Del Norte),019,S 30° E,General Luna (Surigao Del Norte)
