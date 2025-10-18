@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-18T09:03:00.000Z,18 October 2025 - 09:03 AM,06.63,126.40,037,1.9,036km S 87° E of Governor Generoso (Davao Oriental),036,S 87° E,Governor Generoso (Davao Oriental)
+2025-10-18T08:20:00.000Z,18 October 2025 - 08:20 AM,09.70,126.12,028,2.2,010km S 24° W of General Luna (Surigao Del Norte),010,S 24° W,General Luna (Surigao Del Norte)
+2025-10-18T08:03:00.000Z,18 October 2025 - 08:03 AM,09.63,126.24,028,2.2,019km S 30° E of General Luna (Surigao Del Norte),019,S 30° E,General Luna (Surigao Del Norte)
+2025-10-18T07:54:00.000Z,18 October 2025 - 07:54 AM,09.71,126.12,027,3.5,008km S 26° W of General Luna (Surigao Del Norte),008,S 26° W,General Luna (Surigao Del Norte)
+2025-10-18T07:28:00.000Z,18 October 2025 - 07:28 AM,11.03,124.02,002,2.4,004km S 71° E of City Of Bogo (Cebu),004,S 71° E,City Of Bogo (Cebu)
 2025-10-18T07:08:00.000Z,18 October 2025 - 07:08 AM,06.90,126.81,011,2.5,045km S 41° E of Manay (Davao Oriental),045,S 41° E,Manay (Davao Oriental)
 2025-10-18T06:54:00.000Z,18 October 2025 - 06:54 AM,11.05,124.07,031,1.8,010km N 85° E of City Of Bogo (Cebu),010,N 85° E,City Of Bogo (Cebu)
 2025-10-18T06:38:00.000Z,18 October 2025 - 06:38 AM,13.73,122.86,002,2.0,008km S 39° W of Lupi (Camarines Sur),008,S 39° W,Lupi (Camarines Sur)
