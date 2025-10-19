@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T19:20:00.000Z,19 October 2025 - 07:20 PM,08.85,126.23,031,1.8,011km S 46° W of Cagwait (Surigao Del Sur),011,S 46° W,Cagwait (Surigao Del Sur)
+2025-10-19T19:17:00.000Z,19 October 2025 - 07:17 PM,07.03,127.00,032,2.7,055km S 68° E of Manay (Davao Oriental),055,S 68° E,Manay (Davao Oriental)
+2025-10-19T19:13:00.000Z,19 October 2025 - 07:13 PM,10.97,123.91,010,2.9,012km S 44° W of City Of Bogo (Cebu),012,S 44° W,City Of Bogo (Cebu)
+2025-10-19T19:08:00.000Z,19 October 2025 - 07:08 PM,15.46,121.38,026,2.0,005km N 80° E of Gabaldon (Nueva Ecija),005,N 80° E,Gabaldon (Nueva Ecija)
+2025-10-19T19:06:00.000Z,19 October 2025 - 07:06 PM,10.91,123.92,003,3.8,016km S 22° W of City Of Bogo (Cebu),016,S 22° W,City Of Bogo (Cebu)
 2025-10-19T18:54:00.000Z,19 October 2025 - 06:54 PM,09.67,126.22,031,2.2,015km S 30° E of General Luna (Surigao Del Norte),015,S 30° E,General Luna (Surigao Del Norte)
 2025-10-19T18:46:00.000Z,19 October 2025 - 06:46 PM,08.83,126.46,026,2.4,020km S 60° E of Cagwait (Surigao Del Sur),020,S 60° E,Cagwait (Surigao Del Sur)
 2025-10-19T18:21:00.000Z,19 October 2025 - 06:21 PM,09.62,126.25,034,1.7,020km S 30° E of General Luna (Surigao Del Norte),020,S 30° E,General Luna (Surigao Del Norte)
