@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T02:31:00.000Z,20 October 2025 - 02:31 AM,08.86,126.40,031,2.1,012km S 57° E of Cagwait (Surigao Del Sur),012,S 57° E,Cagwait (Surigao Del Sur)
 2025-10-20T01:58:00.000Z,20 October 2025 - 01:58 AM,07.46,126.61,024,2.1,029km N 17° E of Manay (Davao Oriental),029,N 17° E,Manay (Davao Oriental)
 2025-10-20T01:46:00.000Z,20 October 2025 - 01:46 AM,12.42,124.80,034,1.5,012km S 29° E of Mondragon (Northern Samar),012,S 29° E,Mondragon (Northern Samar)
 2025-10-20T01:37:00.000Z,20 October 2025 - 01:37 AM,13.97,124.06,029,2.2,008km S 76° W of Caramoran (Catanduanes),008,S 76° W,Caramoran (Catanduanes)
@@ -1300,9 +1301,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-13T02:34:00.000Z,13 October 2025 - 02:34 AM,11.08,123.97,029,2.8,004km N 12° W of City Of Bogo (Cebu),004,N 12° W,City Of Bogo (Cebu)
 2025-10-13T02:36:00.000Z,13 October 2025 - 02:36 AM,10.99,123.88,022,1.5,012km S 60° W of City Of Bogo (Cebu),012,S 60° W,City Of Bogo (Cebu)
 2025-10-13T02:32:00.000Z,13 October 2025 - 02:32 AM,10.93,123.91,008,2.1,015km S 29° W of City Of Bogo (Cebu),015,S 29° W,City Of Bogo (Cebu)
-2025-10-13T02:28:00.000Z,13 October 2025 - 02:28 AM,11.02,124.00,013,2.3,003km S 40° E of City Of Bogo (Cebu),003,S 40° E,City Of Bogo (Cebu)
-2025-10-13T02:24:00.000Z,13 October 2025 - 02:24 AM,10.96,123.92,010,3.4,011km S 34° W of City Of Bogo (Cebu),011,S 34° W,City Of Bogo (Cebu)
-2025-10-13T02:10:00.000Z,13 October 2025 - 02:10 AM,11.05,123.95,013,2.7,004km N 79° W of City Of Bogo (Cebu),004,N 79° W,City Of Bogo (Cebu)
-2025-10-13T02:01:00.000Z,13 October 2025 - 02:01 AM,10.99,123.95,003,2.9,008km S 20° W of City Of Bogo (Cebu),008,S 20° W,City Of Bogo (Cebu)
-2025-10-13T01:58:00.000Z,13 October 2025 - 01:58 AM,11.00,123.92,009,3.0,008km S 55° W of City Of Bogo (Cebu),008,S 55° W,City Of Bogo (Cebu)
-2025-10-13T01:58:00.000Z,13 October 2025 - 01:58 AM,11.00,123.92,009,3.0,008km S 55° W of City Of Bogo (Cebu),008,S 55° W,City Of Bogo (Cebu)
