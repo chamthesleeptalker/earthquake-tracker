@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T00:25:00.000Z,20 October 2025 - 12:25 AM,08.86,126.52,033,2.0,025km S 76° E of Cagwait (Surigao Del Sur),025,S 76° E,Cagwait (Surigao Del Sur)
+2025-10-20T00:14:00.000Z,20 October 2025 - 12:14 AM,08.83,126.43,027,2.0,018km S 56° E of Cagwait (Surigao Del Sur),018,S 56° E,Cagwait (Surigao Del Sur)
 2025-10-20T00:08:00.000Z,20 October 2025 - 12:08 AM,08.78,126.41,028,2.9,019km S 38° E of Cagwait (Surigao Del Sur),019,S 38° E,Cagwait (Surigao Del Sur)
 2025-10-20T00:01:00.000Z,20 October 2025 - 12:01 AM,10.98,123.97,018,2.1,007km S 07° W of City Of Bogo (Cebu),007,S 07° W,City Of Bogo (Cebu)
 2025-10-19T23:59:00.000Z,19 October 2025 - 11:59 PM,11.20,124.13,035,1.8,024km N 42° E of City Of Bogo (Cebu),024,N 42° E,City Of Bogo (Cebu)
