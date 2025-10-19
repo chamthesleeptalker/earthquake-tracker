@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T12:12:00.000Z,19 October 2025 - 12:12 PM,09.63,126.21,029,2.3,018km S 19° E of General Luna (Surigao Del Norte),018,S 19° E,General Luna (Surigao Del Norte)
+2025-10-19T11:49:00.000Z,19 October 2025 - 11:49 AM,09.62,126.22,031,2.2,019km S 22° E of General Luna (Surigao Del Norte),019,S 22° E,General Luna (Surigao Del Norte)
 2025-10-19T11:11:00.000Z,19 October 2025 - 11:11 AM,11.09,124.15,033,2.2,019km N 76° E of City Of Bogo (Cebu),019,N 76° E,City Of Bogo (Cebu)
 2025-10-19T10:54:00.000Z,19 October 2025 - 10:54 AM,10.92,123.97,002,2.6,014km S 03° W of City Of Bogo (Cebu),014,S 03° W,City Of Bogo (Cebu)
 2025-10-19T10:40:00.000Z,19 October 2025 - 10:40 AM,09.65,126.16,033,1.4,015km S 01° W of General Luna (Surigao Del Norte),015,S 01° W,General Luna (Surigao Del Norte)
@@ -1317,7 +1319,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-12T13:24:00.000Z,12 October 2025 - 01:24 PM,10.59,123.06,024,2.0,003km S 42° E of Murcia (Negros Occidental),003,S 42° E,Murcia (Negros Occidental)
 2025-10-12T13:19:00.000Z,12 October 2025 - 01:19 PM,11.18,124.10,033,2.2,020km N 41° E of City Of Bogo (Cebu),020,N 41° E,City Of Bogo (Cebu)
 2025-10-12T12:59:00.000Z,12 October 2025 - 12:59 PM,07.11,126.64,033,2.8,015km S 44° E of Manay (Davao Oriental),015,S 44° E,Manay (Davao Oriental)
-2025-10-12T11:44:00.000Z,12 October 2025 - 11:44 AM,13.43,120.58,024,1.6,013km N 86° E of Paluan (Occidental Mindoro),013,N 86° E,Paluan (Occidental Mindoro)
-2025-10-12T11:37:00.000Z,12 October 2025 - 11:37 AM,07.07,126.84,008,3.1,037km S 65° E of Manay (Davao Oriental),037,S 65° E,Manay (Davao Oriental)
-2025-10-12T11:21:00.000Z,12 October 2025 - 11:21 AM,07.05,127.15,006,2.8,070km S 75° E of Manay (Davao Oriental),070,S 75° E,Manay (Davao Oriental)
-2025-10-12T11:16:00.000Z,12 October 2025 - 11:16 AM,11.30,123.86,013,2.9,031km N 24° W of City Of Bogo (Cebu),031,N 24° W,City Of Bogo (Cebu)
