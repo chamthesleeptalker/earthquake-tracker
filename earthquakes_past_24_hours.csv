@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T14:12:00.000Z,19 October 2025 - 02:12 PM,11.14,124.16,009,2.7,022km N 63° E of City Of Bogo (Cebu),022,N 63° E,City Of Bogo (Cebu)
 2025-10-19T13:30:00.000Z,19 October 2025 - 01:30 PM,08.83,126.36,026,1.8,011km S 34° E of Cagwait (Surigao Del Sur),011,S 34° E,Cagwait (Surigao Del Sur)
 2025-10-19T13:24:00.000Z,19 October 2025 - 01:24 PM,12.23,125.39,010,4.1,004km S 25° E of Arteche (Eastern Samar),004,S 25° E,Arteche (Eastern Samar)
 2025-10-19T13:16:00.000Z,19 October 2025 - 01:16 PM,09.68,126.12,030,1.9,012km S 19° W of General Luna (Surigao Del Norte),012,S 19° W,General Luna (Surigao Del Norte)
@@ -129,8 +130,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-18T15:13:00.000Z,18 October 2025 - 03:13 PM,10.90,124.03,003,2.6,017km S 19° E of City Of Bogo (Cebu),017,S 19° E,City Of Bogo (Cebu)
 2025-10-18T14:23:00.000Z,18 October 2025 - 02:23 PM,11.15,124.07,010,2.3,016km N 41° E of City Of Bogo (Cebu),016,N 41° E,City Of Bogo (Cebu)
 2025-10-18T14:12:00.000Z,18 October 2025 - 02:12 PM,08.95,126.56,010,3.9,028km N 82° E of Cagwait (Surigao Del Sur),028,N 82° E,Cagwait (Surigao Del Sur)
-2025-10-18T14:04:00.000Z,18 October 2025 - 02:04 PM,08.29,126.93,016,2.9,064km N 64° E of Lingig (Surigao Del Sur),064,N 64° E,Lingig (Surigao Del Sur)
-2025-10-18T13:57:00.000Z,18 October 2025 - 01:57 PM,09.62,126.14,020,3.5,018km S 5° W of General Luna (Surigao Del Norte),018,S 5° W,General Luna (Surigao Del Norte)
-2025-10-18T13:48:00.000Z,18 October 2025 - 01:48 PM,08.34,126.85,003,3.2,056km S 87° E of Hinatuan (Surigao Del Sur),056,S 87° E,Hinatuan (Surigao Del Sur)
-2025-10-18T13:34:00.000Z,18 October 2025 - 01:34 PM,07.31,126.30,001,2.4,029km N 67° W of Manay (Davao Oriental),029,N 67° W,Manay (Davao Oriental)
-2025-10-18T13:32:00.000Z,18 October 2025 - 01:32 PM,07.46,126.81,022,2.3,040km N 47° E of Manay (Davao Oriental),040,N 47° E,Manay (Davao Oriental)
