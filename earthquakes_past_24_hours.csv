@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T05:27:00.000Z,20 October 2025 - 05:27 AM,07.34,126.62,032,1.9,017km N 32° E of Manay (Davao Oriental),017,N 32° E,Manay (Davao Oriental)
+2025-10-20T05:20:00.000Z,20 October 2025 - 05:20 AM,11.00,123.90,030,1.8,010km S 61° W of City Of Bogo (Cebu),010,S 61° W,City Of Bogo (Cebu)
+2025-10-20T05:15:00.000Z,20 October 2025 - 05:15 AM,07.39,126.59,033,2.0,021km N 15° E of Manay (Davao Oriental),021,N 15° E,Manay (Davao Oriental)
+2025-10-20T05:11:00.000Z,20 October 2025 - 05:11 AM,08.82,126.44,027,2.2,019km S 56° E of Cagwait (Surigao Del Sur),019,S 56° E,Cagwait (Surigao Del Sur)
+2025-10-20T05:09:00.000Z,20 October 2025 - 05:09 AM,08.82,126.41,025,2.1,016km S 47° E of Cagwait (Surigao Del Sur),016,S 47° E,Cagwait (Surigao Del Sur)
 2025-10-20T05:07:00.000Z,20 October 2025 - 05:07 AM,09.64,126.25,033,1.6,018km S 32° E of General Luna (Surigao Del Norte),018,S 32° E,General Luna (Surigao Del Norte)
 2025-10-20T05:04:00.000Z,20 October 2025 - 05:04 AM,11.15,124.04,027,3.5,013km N 33° E of City Of Bogo (Cebu),013,N 33° E,City Of Bogo (Cebu)
 2025-10-20T05:01:00.000Z,20 October 2025 - 05:01 AM,10.86,123.86,011,2.0,025km S 31° W of City Of Bogo (Cebu),025,S 31° W,City Of Bogo (Cebu)
@@ -177,4 +182,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T05:48:00.000Z,19 October 2025 - 05:48 AM,09.60,126.26,032,3.3,023km S 29° E of General Luna (Surigao Del Norte),023,S 29° E,General Luna (Surigao Del Norte)
 2025-10-19T05:32:00.000Z,19 October 2025 - 05:32 AM,09.62,126.21,032,1.9,019km S 17° E of General Luna (Surigao Del Norte),019,S 17° E,General Luna (Surigao Del Norte)
 2025-10-19T05:28:00.000Z,19 October 2025 - 05:28 AM,07.00,125.81,022,2.5,014km S 53° E of Island Garden City Of Samal (Davao Del Norte),014,S 53° E,Island Garden City Of Samal (Davao Del Norte)
-2025-10-19T05:14:00.000Z,19 October 2025 - 05:14 AM,11.16,124.16,005,3.1,023km N 57° E of City Of Bogo (Cebu),023,N 57° E,City Of Bogo (Cebu)
