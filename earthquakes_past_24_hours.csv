@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T01:23:00.000Z,20 October 2025 - 01:23 AM,08.85,126.51,033,1.9,025km S 72° E of Cagwait (Surigao Del Sur),025,S 72° E,Cagwait (Surigao Del Sur)
+2025-10-20T01:12:00.000Z,20 October 2025 - 01:12 AM,06.49,126.47,029,2.7,048km S 68° E of Governor Generoso (Davao Oriental),048,S 68° E,Governor Generoso (Davao Oriental)
+2025-10-20T01:07:00.000Z,20 October 2025 - 01:07 AM,07.74,126.96,025,2.4,048km N 68° E of Baganga (Davao Oriental),048,N 68° E,Baganga (Davao Oriental)
 2025-10-20T01:03:00.000Z,20 October 2025 - 01:03 AM,08.92,126.13,033,2.2,019km S 89° W of Cagwait (Surigao Del Sur),019,S 89° W,Cagwait (Surigao Del Sur)
 2025-10-20T01:00:00.000Z,20 October 2025 - 01:00 AM,07.11,126.78,020,3.1,028km S 67° E of Manay (Davao Oriental),028,S 67° E,Manay (Davao Oriental)
 2025-10-20T00:55:00.000Z,20 October 2025 - 12:55 AM,11.19,124.09,019,1.8,020km N 36° E of City Of Bogo (Cebu),020,N 36° E,City Of Bogo (Cebu)
@@ -158,7 +161,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T01:34:00.000Z,19 October 2025 - 01:34 AM,08.89,126.50,034,2.1,022km S 80° E of Cagwait (Surigao Del Sur),022,S 80° E,Cagwait (Surigao Del Sur)
 2025-10-19T01:29:00.000Z,19 October 2025 - 01:29 AM,08.78,126.53,030,1.8,030km S 58° E of Cagwait (Surigao Del Sur),030,S 58° E,Cagwait (Surigao Del Sur)
 2025-10-19T01:26:00.000Z,19 October 2025 - 01:26 AM,07.05,125.64,024,3.0,009km S 67° W of Island Garden City Of Samal (Davao Del Norte),009,S 67° W,Island Garden City Of Samal (Davao Del Norte)
-2025-10-19T01:20:00.000Z,19 October 2025 - 01:20 AM,08.86,126.39,029,1.4,012km S 58° E of Cagwait (Surigao Del Sur),012,S 58° E,Cagwait (Surigao Del Sur)
-2025-10-19T01:19:00.000Z,19 October 2025 - 01:19 AM,08.82,126.44,029,1.4,018km S 54° E of Cagwait (Surigao Del Sur),018,S 54° E,Cagwait (Surigao Del Sur)
-2025-10-19T01:18:00.000Z,19 October 2025 - 01:18 AM,08.81,126.44,028,1.9,020km S 51° E of Cagwait (Surigao Del Sur),020,S 51° E,Cagwait (Surigao Del Sur)
-2025-10-19T01:17:00.000Z,19 October 2025 - 01:17 AM,08.88,126.44,031,1.9,016km S 74° E of Cagwait (Surigao Del Sur),016,S 74° E,Cagwait (Surigao Del Sur)
