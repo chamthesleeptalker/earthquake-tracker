@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T16:52:00.000Z,19 October 2025 - 04:52 PM,09.68,126.25,029,2.2,015km S 41° E of General Luna (Surigao Del Norte),015,S 41° E,General Luna (Surigao Del Norte)
+2025-10-19T16:42:00.000Z,19 October 2025 - 04:42 PM,10.79,124.01,033,1.8,028km S 08° E of City Of Bogo (Cebu),028,S 08° E,City Of Bogo (Cebu)
 2025-10-19T16:20:00.000Z,19 October 2025 - 04:20 PM,07.24,126.69,023,2.7,017km N 78° E of Manay (Davao Oriental),017,N 78° E,Manay (Davao Oriental)
 2025-10-19T15:57:00.000Z,19 October 2025 - 03:57 PM,08.29,125.94,010,4.2,013km N 26° W of Bunawan (Agusan Del Sur),013,N 26° W,Bunawan (Agusan Del Sur)
 2025-10-19T15:28:00.000Z,19 October 2025 - 03:28 PM,06.48,126.86,175,4.3,077km S 36° E of Tarragona (Davao Oriental),077,S 36° E,Tarragona (Davao Oriental)
@@ -1313,8 +1315,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-12T17:15:00.000Z,12 October 2025 - 05:15 PM,07.17,126.86,020,2.8,036km S 83° E of Manay (Davao Oriental),036,S 83° E,Manay (Davao Oriental)
 2025-10-12T17:07:00.000Z,12 October 2025 - 05:07 PM,07.24,126.97,026,3.3,048km N 87° E of Manay (Davao Oriental),048,N 87° E,Manay (Davao Oriental)
 2025-10-12T16:58:00.000Z,12 October 2025 - 04:58 PM,16.57,120.22,020,2.4,012km S 62° W of City Of San Fernando (La Union),012,S 62° W,City Of San Fernando (La Union)
-2025-10-12T16:37:00.000Z,12 October 2025 - 04:37 PM,07.32,126.87,028,2.9,038km N 71° E of Manay (Davao Oriental),038,N 71° E,Manay (Davao Oriental)
-2025-10-12T16:33:00.000Z,12 October 2025 - 04:33 PM,06.77,126.94,023,2.6,066km S 42° E of Manay (Davao Oriental),066,S 42° E,Manay (Davao Oriental)
-2025-10-12T16:30:00.000Z,12 October 2025 - 04:30 PM,10.45,123.00,003,2.4,009km N 74° E of City Of La Carlota (Negros Occidental),009,N 74° E,City Of La Carlota (Negros Occidental)
-2025-10-12T16:27:00.000Z,12 October 2025 - 04:27 PM,07.24,126.81,026,3.3,031km N 83° E of Manay (Davao Oriental),031,N 83° E,Manay (Davao Oriental)
-2025-10-12T16:20:00.000Z,12 October 2025 - 04:20 PM,11.04,124.07,003,2.3,010km S 87° E of City Of Bogo (Cebu),010,S 87° E,City Of Bogo (Cebu)
