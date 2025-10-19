@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T23:05:00.000Z,19 October 2025 - 11:05 PM,08.82,126.42,019,4.3,016km S 50° E of Cagwait (Surigao Del Sur),016,S 50° E,Cagwait (Surigao Del Sur)
+2025-10-19T23:04:00.000Z,19 October 2025 - 11:04 PM,12.23,120.89,028,1.8,024km S 55° W of San Jose (Occidental Mindoro),024,S 55° W,San Jose (Occidental Mindoro)
+2025-10-19T22:56:00.000Z,19 October 2025 - 10:56 PM,11.10,124.00,020,2.4,006km N 20° E of City Of Bogo (Cebu),006,N 20° E,City Of Bogo (Cebu)
+2025-10-19T22:45:00.000Z,19 October 2025 - 10:45 PM,09.33,126.16,033,2.5,007km N 32° W of Cortes (Surigao Del Sur),007,N 32° W,Cortes (Surigao Del Sur)
+2025-10-19T22:43:00.000Z,19 October 2025 - 10:43 PM,11.17,124.01,005,2.0,014km N 12° E of City Of Bogo (Cebu),014,N 12° E,City Of Bogo (Cebu)
 2025-10-19T22:27:00.000Z,19 October 2025 - 10:27 PM,09.65,126.21,033,1.6,015km S 21° E of General Luna (Surigao Del Norte),015,S 21° E,General Luna (Surigao Del Norte)
 2025-10-19T22:22:00.000Z,19 October 2025 - 10:22 PM,11.20,123.97,017,1.9,017km N 04° W of City Of Bogo (Cebu),017,N 04° W,City Of Bogo (Cebu)
 2025-10-19T22:14:00.000Z,19 October 2025 - 10:14 PM,11.03,124.13,007,2.1,016km S 85° E of City Of Bogo (Cebu),016,S 85° E,City Of Bogo (Cebu)
