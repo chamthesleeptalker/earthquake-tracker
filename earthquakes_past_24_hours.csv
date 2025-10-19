@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T18:21:00.000Z,19 October 2025 - 06:21 PM,09.62,126.25,034,1.7,020km S 30° E of General Luna (Surigao Del Norte),020,S 30° E,General Luna (Surigao Del Norte)
+2025-10-19T18:19:00.000Z,19 October 2025 - 06:19 PM,11.02,124.15,029,2.2,019km S 81° E of City Of Bogo (Cebu),019,S 81° E,City Of Bogo (Cebu)
+2025-10-19T18:17:00.000Z,19 October 2025 - 06:17 PM,06.34,124.77,004,3.8,005km S 39° E of Surallah (South Cotabato),005,S 39° E,Surallah (South Cotabato)
+2025-10-19T18:13:00.000Z,19 October 2025 - 06:13 PM,18.34,120.68,004,2.4,019km S 12° E of Burgos (Ilocos Norte),019,S 12° E,Burgos (Ilocos Norte)
 2025-10-19T18:05:00.000Z,19 October 2025 - 06:05 PM,11.65,125.50,038,1.7,009km N 59° E of City Of Borongan (Eastern Samar),009,N 59° E,City Of Borongan (Eastern Samar)
 2025-10-19T18:03:00.000Z,19 October 2025 - 06:03 PM,13.54,120.57,032,1.8,018km N 40° E of Paluan (Occidental Mindoro),018,N 40° E,Paluan (Occidental Mindoro)
 2025-10-19T17:59:00.000Z,19 October 2025 - 05:59 PM,07.30,125.97,025,2.1,013km S 88° E of Mabini (Davao De Oro),013,S 88° E,Mabini (Davao De Oro)
@@ -149,4 +153,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-18T18:32:00.000Z,18 October 2025 - 06:32 PM,11.14,124.09,019,1.9,015km N 50° E of City Of Bogo (Cebu),015,N 50° E,City Of Bogo (Cebu)
 2025-10-18T18:28:00.000Z,18 October 2025 - 06:28 PM,07.44,126.83,034,3.8,041km N 52° E of Manay (Davao Oriental),041,N 52° E,Manay (Davao Oriental)
 2025-10-18T18:25:00.000Z,18 October 2025 - 06:25 PM,07.41,126.84,024,2.5,040km N 57° E of Manay (Davao Oriental),040,N 57° E,Manay (Davao Oriental)
-2025-10-18T18:15:00.000Z,18 October 2025 - 06:15 PM,09.60,126.17,031,2.2,020km S 03° E of General Luna (Surigao Del Norte),020,S 03° E,General Luna (Surigao Del Norte)
