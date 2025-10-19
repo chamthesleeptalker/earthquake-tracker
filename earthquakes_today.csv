@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T04:29:00.000Z,20 October 2025 - 04:29 AM,18.57,120.70,002,2.4,008km N 64° W of Bangui (Ilocos Norte),008,N 64° W,Bangui (Ilocos Norte)
+2025-10-20T04:26:00.000Z,20 October 2025 - 04:26 AM,08.93,126.44,025,2.0,015km N 85° E of Cagwait (Surigao Del Sur),015,N 85° E,Cagwait (Surigao Del Sur)
+2025-10-20T04:24:00.000Z,20 October 2025 - 04:24 AM,08.76,126.35,023,2.1,007km S 58° E of Marihatag (Surigao Del Sur),007,S 58° E,Marihatag (Surigao Del Sur)
+2025-10-20T04:19:00.000Z,20 October 2025 - 04:19 AM,09.61,126.18,033,2.2,019km S 09° E of General Luna (Surigao Del Norte),019,S 09° E,General Luna (Surigao Del Norte)
+2025-10-20T04:09:00.000Z,20 October 2025 - 04:09 AM,11.16,124.11,027,2.0,019km N 50° E of City Of Bogo (Cebu),019,N 50° E,City Of Bogo (Cebu)
+2025-10-20T04:08:00.000Z,20 October 2025 - 04:08 AM,10.52,124.27,002,2.2,018km S 41° W of San Francisco (Cebu),018,S 41° W,San Francisco (Cebu)
 2025-10-20T03:59:00.000Z,20 October 2025 - 03:59 AM,08.80,126.40,025,1.7,017km S 39° E of Cagwait (Surigao Del Sur),017,S 39° E,Cagwait (Surigao Del Sur)
 2025-10-20T03:57:00.000Z,20 October 2025 - 03:57 AM,08.80,126.47,027,1.9,023km S 56° E of Cagwait (Surigao Del Sur),023,S 56° E,Cagwait (Surigao Del Sur)
 2025-10-20T03:47:00.000Z,20 October 2025 - 03:47 AM,08.83,126.46,028,1.8,020km S 60° E of Cagwait (Surigao Del Sur),020,S 60° E,Cagwait (Surigao Del Sur)
