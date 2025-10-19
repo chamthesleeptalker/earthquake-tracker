@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T15:57:00.000Z,19 October 2025 - 03:57 PM,08.29,125.94,010,4.2,013km N 26° W of Bunawan (Agusan Del Sur),013,N 26° W,Bunawan (Agusan Del Sur)
+2025-10-19T15:28:00.000Z,19 October 2025 - 03:28 PM,06.48,126.86,175,4.3,077km S 36° E of Tarragona (Davao Oriental),077,S 36° E,Tarragona (Davao Oriental)
 2025-10-19T15:27:00.000Z,19 October 2025 - 03:27 PM,08.98,126.46,027,1.9,019km N 69° E of Cagwait (Surigao Del Sur),019,N 69° E,Cagwait (Surigao Del Sur)
 2025-10-19T15:19:00.000Z,19 October 2025 - 03:19 PM,08.92,126.25,001,3.3,006km West of Cagwait (Surigao Del Sur),006,West of Cagwait,Del Sur)
 2025-10-19T15:18:00.000Z,19 October 2025 - 03:18 PM,07.23,125.92,009,1.5,012km S 40° E of Mabini (Davao De Oro),012,S 40° E,Mabini (Davao De Oro)
@@ -1316,7 +1318,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-12T16:27:00.000Z,12 October 2025 - 04:27 PM,07.24,126.81,026,3.3,031km N 83° E of Manay (Davao Oriental),031,N 83° E,Manay (Davao Oriental)
 2025-10-12T16:20:00.000Z,12 October 2025 - 04:20 PM,11.04,124.07,003,2.3,010km S 87° E of City Of Bogo (Cebu),010,S 87° E,City Of Bogo (Cebu)
 2025-10-12T16:04:00.000Z,12 October 2025 - 04:04 PM,07.34,127.00,013,2.4,052km N 75° E of Manay (Davao Oriental),052,N 75° E,Manay (Davao Oriental)
-2025-10-12T15:48:00.000Z,12 October 2025 - 03:48 PM,11.19,124.14,034,1.5,024km N 48° E of City Of Bogo (Cebu),024,N 48° E,City Of Bogo (Cebu)
-2025-10-12T15:41:00.000Z,12 October 2025 - 03:41 PM,11.25,124.10,009,2.9,027km N 31° E of City Of Bogo (Cebu),027,N 31° E,City Of Bogo (Cebu)
-2025-10-12T15:40:00.000Z,12 October 2025 - 03:40 PM,11.21,124.15,009,2.3,026km N 45° E of City Of Bogo (Cebu),026,N 45° E,City Of Bogo (Cebu)
-2025-10-12T15:35:00.000Z,12 October 2025 - 03:35 PM,11.17,124.18,034,2.1,026km N 58° E of City Of Bogo (Cebu),026,N 58° E,City Of Bogo (Cebu)

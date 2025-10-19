@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-19T15:57:00.000Z,19 October 2025 - 03:57 PM,08.29,125.94,010,4.2,013km N 26° W of Bunawan (Agusan Del Sur),013,N 26° W,Bunawan (Agusan Del Sur)
+2025-10-19T15:28:00.000Z,19 October 2025 - 03:28 PM,06.48,126.86,175,4.3,077km S 36° E of Tarragona (Davao Oriental),077,S 36° E,Tarragona (Davao Oriental)
 2025-10-19T15:27:00.000Z,19 October 2025 - 03:27 PM,08.98,126.46,027,1.9,019km N 69° E of Cagwait (Surigao Del Sur),019,N 69° E,Cagwait (Surigao Del Sur)
 2025-10-19T15:19:00.000Z,19 October 2025 - 03:19 PM,08.92,126.25,001,3.3,006km West of Cagwait (Surigao Del Sur),006,West of Cagwait,Del Sur)
 2025-10-19T15:18:00.000Z,19 October 2025 - 03:18 PM,07.23,125.92,009,1.5,012km S 40° E of Mabini (Davao De Oro),012,S 40° E,Mabini (Davao De Oro)
