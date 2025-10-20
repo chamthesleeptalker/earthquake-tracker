@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T19:04:00.000Z,20 October 2025 - 07:04 PM,07.19,127.34,025,2.5,088km S 88° E of Manay (Davao Oriental),088,S 88° E,Manay (Davao Oriental)
+2025-10-20T18:48:00.000Z,20 October 2025 - 06:48 PM,18.77,120.50,011,3.7,032km N 29° W of Burgos (Ilocos Norte),032,N 29° W,Burgos (Ilocos Norte)
 2025-10-20T18:29:00.000Z,20 October 2025 - 06:29 PM,10.91,123.94,001,2.2,016km S 15° W of City Of Bogo (Cebu),016,S 15° W,City Of Bogo (Cebu)
 2025-10-20T18:28:00.000Z,20 October 2025 - 06:28 PM,09.62,126.28,032,1.7,023km S 37° E of General Luna (Surigao Del Norte),023,S 37° E,General Luna (Surigao Del Norte)
 2025-10-20T18:13:00.000Z,20 October 2025 - 06:13 PM,11.04,124.05,003,2.6,008km S 84° E of City Of Bogo (Cebu),008,S 84° E,City Of Bogo (Cebu)
