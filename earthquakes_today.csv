@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T09:09:00.000Z,20 October 2025 - 09:09 AM,10.09,122.47,033,2.2,022km N 53° W of Cauayan (Negros Occidental),022,N 53° W,Cauayan (Negros Occidental)
+2025-10-20T09:04:00.000Z,20 October 2025 - 09:04 AM,09.68,126.15,032,2.5,012km S 05° W of General Luna (Surigao Del Norte),012,S 05° W,General Luna (Surigao Del Norte)
+2025-10-20T08:53:00.000Z,20 October 2025 - 08:53 AM,11.12,124.01,021,2.5,009km N 23° E of City Of Bogo (Cebu),009,N 23° E,City Of Bogo (Cebu)
+2025-10-20T08:53:00.000Z,20 October 2025 - 08:53 AM,06.83,127.25,003,3.0,089km S 62° E of Manay (Davao Oriental),089,S 62° E,Manay (Davao Oriental)
+2025-10-20T08:21:00.000Z,20 October 2025 - 08:21 AM,09.66,126.20,032,1.8,014km S 21° E of General Luna (Surigao Del Norte),014,S 21° E,General Luna (Surigao Del Norte)
+2025-10-20T08:15:00.000Z,20 October 2025 - 08:15 AM,06.96,126.72,025,2.6,034km S 36° E of Manay (Davao Oriental),034,S 36° E,Manay (Davao Oriental)
+2025-10-20T08:12:00.000Z,20 October 2025 - 08:12 AM,11.10,124.05,021,1.6,010km N 54° E of City Of Bogo (Cebu),010,N 54° E,City Of Bogo (Cebu)
+2025-10-20T08:11:00.000Z,20 October 2025 - 08:11 AM,11.19,124.30,003,2.6,010km S 77° W of Villaba (Leyte),010,S 77° W,Villaba (Leyte)
 2025-10-20T07:05:00.000Z,20 October 2025 - 07:05 AM,08.86,126.38,025,2.3,010km S 54° E of Cagwait (Surigao Del Sur),010,S 54° E,Cagwait (Surigao Del Sur)
 2025-10-20T07:01:00.000Z,20 October 2025 - 07:01 AM,09.71,126.20,029,3.0,009km S 31° E of General Luna (Surigao Del Norte),009,S 31° E,General Luna (Surigao Del Norte)
 2025-10-20T06:57:00.000Z,20 October 2025 - 06:57 AM,10.95,123.92,002,2.6,013km S 32° W of City Of Bogo (Cebu),013,S 32° W,City Of Bogo (Cebu)
