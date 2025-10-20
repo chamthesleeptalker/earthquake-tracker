@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T21:32:00.000Z,20 October 2025 - 09:32 PM,06.86,127.77,014,4.0,141km S 74° E of Manay (Davao Oriental),141,S 74° E,Manay (Davao Oriental)
+2025-10-20T21:20:00.000Z,20 October 2025 - 09:20 PM,07.52,127.24,023,2.5,084km N 66° E of Manay (Davao Oriental),084,N 66° E,Manay (Davao Oriental)
 2025-10-20T21:18:00.000Z,20 October 2025 - 09:18 PM,07.57,127.08,016,2.4,072km N 56° E of Manay (Davao Oriental),072,N 56° E,Manay (Davao Oriental)
 2025-10-20T21:18:00.000Z,20 October 2025 - 09:18 PM,14.00,120.49,075,1.9,018km S 78° W of Lian (Batangas),018,S 78° W,Lian (Batangas)
 2025-10-20T21:05:00.000Z,20 October 2025 - 09:05 PM,06.78,127.29,016,2.5,095km S 60° E of Manay (Davao Oriental),095,S 60° E,Manay (Davao Oriental)
@@ -165,4 +167,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T21:47:00.000Z,19 October 2025 - 09:47 PM,07.13,126.81,010,4.1,031km S 73° E of Manay (Davao Oriental),031,S 73° E,Manay (Davao Oriental)
 2025-10-19T21:35:00.000Z,19 October 2025 - 09:35 PM,18.45,120.74,007,3.3,012km S 57° E of Burgos (Ilocos Norte),012,S 57° E,Burgos (Ilocos Norte)
 2025-10-19T21:33:00.000Z,19 October 2025 - 09:33 PM,18.54,120.70,010,3.8,006km N 62° E of Burgos (Ilocos Norte),006,N 62° E,Burgos (Ilocos Norte)
-2025-10-19T21:23:00.000Z,19 October 2025 - 09:23 PM,10.74,124.17,013,2.4,017km N 82° E of Catmon (Cebu),017,N 82° E,Catmon (Cebu)
