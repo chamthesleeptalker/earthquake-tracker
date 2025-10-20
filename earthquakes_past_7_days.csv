@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T05:47:00.000Z,21 October 2025 - 05:47 AM,08.85,126.42,030,2.2,015km S 60° E of Cagwait (Surigao Del Sur),015,S 60° E,Cagwait (Surigao Del Sur)
+2025-10-21T05:43:00.000Z,21 October 2025 - 05:43 AM,15.64,119.72,021,2.5,023km N 86° W of Candelaria (Zambales),023,N 86° W,Candelaria (Zambales)
+2025-10-21T05:32:00.000Z,21 October 2025 - 05:32 AM,07.13,126.84,028,4.3,035km S 74° E of Manay (Davao Oriental),035,S 74° E,Manay (Davao Oriental)
+2025-10-21T05:32:00.000Z,21 October 2025 - 05:32 AM,11.11,124.08,028,1.5,013km N 59° E of City Of Bogo (Cebu),013,N 59° E,City Of Bogo (Cebu)
 2025-10-21T05:29:00.000Z,21 October 2025 - 05:29 AM,09.57,126.22,019,1.9,025km S 17° E of General Luna (Surigao Del Norte),025,S 17° E,General Luna (Surigao Del Norte)
 2025-10-21T05:22:00.000Z,21 October 2025 - 05:22 AM,11.03,123.81,020,2.4,018km S 83° W of City Of Bogo (Cebu),018,S 83° W,City Of Bogo (Cebu)
 2025-10-21T04:27:00.000Z,21 October 2025 - 04:27 AM,11.07,124.04,033,1.9,007km N 66° E of City Of Bogo (Cebu),007,N 66° E,City Of Bogo (Cebu)
@@ -1222,6 +1226,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T06:12:00.000Z,14 October 2025 - 06:12 AM,09.08,126.40,023,3.2,021km N 32° E of Cagwait (Surigao Del Sur),021,N 32° E,Cagwait (Surigao Del Sur)
 2025-10-14T06:11:00.000Z,14 October 2025 - 06:11 AM,14.07,120.41,130,3.2,024km S 90° W of Nasugbu (Batangas),024,S 90° W,Nasugbu (Batangas)
 2025-10-14T06:10:00.000Z,14 October 2025 - 06:10 AM,11.12,124.03,029,1.8,010km N 33° E of City Of Bogo (Cebu),010,N 33° E,City Of Bogo (Cebu)
-2025-10-14T05:46:00.000Z,14 October 2025 - 05:46 AM,11.12,123.97,009,2.3,008km N 08° W of City Of Bogo (Cebu),008,N 08° W,City Of Bogo (Cebu)
-2025-10-14T05:31:00.000Z,14 October 2025 - 05:31 AM,11.12,124.05,027,1.8,011km N 43° E of City Of Bogo (Cebu),011,N 43° E,City Of Bogo (Cebu)
-2025-10-14T05:30:00.000Z,14 October 2025 - 05:30 AM,06.97,126.76,021,2.3,036km S 43° E of Manay (Davao Oriental),036,S 43° E,Manay (Davao Oriental)

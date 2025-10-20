@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T05:47:00.000Z,21 October 2025 - 05:47 AM,08.85,126.42,030,2.2,015km S 60° E of Cagwait (Surigao Del Sur),015,S 60° E,Cagwait (Surigao Del Sur)
+2025-10-21T05:43:00.000Z,21 October 2025 - 05:43 AM,15.64,119.72,021,2.5,023km N 86° W of Candelaria (Zambales),023,N 86° W,Candelaria (Zambales)
+2025-10-21T05:32:00.000Z,21 October 2025 - 05:32 AM,07.13,126.84,028,4.3,035km S 74° E of Manay (Davao Oriental),035,S 74° E,Manay (Davao Oriental)
+2025-10-21T05:32:00.000Z,21 October 2025 - 05:32 AM,11.11,124.08,028,1.5,013km N 59° E of City Of Bogo (Cebu),013,N 59° E,City Of Bogo (Cebu)
 2025-10-21T05:29:00.000Z,21 October 2025 - 05:29 AM,09.57,126.22,019,1.9,025km S 17° E of General Luna (Surigao Del Norte),025,S 17° E,General Luna (Surigao Del Norte)
 2025-10-21T05:22:00.000Z,21 October 2025 - 05:22 AM,11.03,123.81,020,2.4,018km S 83° W of City Of Bogo (Cebu),018,S 83° W,City Of Bogo (Cebu)
 2025-10-21T04:27:00.000Z,21 October 2025 - 04:27 AM,11.07,124.04,033,1.9,007km N 66° E of City Of Bogo (Cebu),007,N 66° E,City Of Bogo (Cebu)
@@ -146,4 +150,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-20T06:08:00.000Z,20 October 2025 - 06:08 AM,08.82,126.40,032,1.7,016km S 45° E of Cagwait (Surigao Del Sur),016,S 45° E,Cagwait (Surigao Del Sur)
 2025-10-20T05:47:00.000Z,20 October 2025 - 05:47 AM,11.23,124.14,029,2.4,027km N 40° E of City Of Bogo (Cebu),027,N 40° E,City Of Bogo (Cebu)
 2025-10-20T05:47:00.000Z,20 October 2025 - 05:47 AM,08.82,126.46,027,1.9,020km S 59° E of Cagwait (Surigao Del Sur),020,S 59° E,Cagwait (Surigao Del Sur)
-2025-10-20T05:37:00.000Z,20 October 2025 - 05:37 AM,11.15,124.01,032,2.4,012km N 17° E of City Of Bogo (Cebu),012,N 17° E,City Of Bogo (Cebu)
