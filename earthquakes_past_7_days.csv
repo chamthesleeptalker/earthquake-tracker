@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T11:39:00.000Z,20 October 2025 - 11:39 AM,11.17,124.18,008,2.1,025km N 58° E of City Of Bogo (Cebu),025,N 58° E,City Of Bogo (Cebu)
+2025-10-20T11:26:00.000Z,20 October 2025 - 11:26 AM,07.17,126.43,031,2.3,013km S 71° W of Manay (Davao Oriental),013,S 71° W,Manay (Davao Oriental)
+2025-10-20T11:26:00.000Z,20 October 2025 - 11:26 AM,10.96,123.86,008,2.9,016km S 53° W of City Of Bogo (Cebu),016,S 53° W,City Of Bogo (Cebu)
+2025-10-20T11:25:00.000Z,20 October 2025 - 11:25 AM,07.35,126.76,029,1.5,029km N 58° E of Manay (Davao Oriental),029,N 58° E,Manay (Davao Oriental)
+2025-10-20T10:53:00.000Z,20 October 2025 - 10:53 AM,10.98,123.98,006,2.9,008km S 02° E of City Of Bogo (Cebu),008,S 02° E,City Of Bogo (Cebu)
 2025-10-20T10:47:00.000Z,20 October 2025 - 10:47 AM,08.84,126.20,026,2.2,015km S 52° W of Cagwait (Surigao Del Sur),015,S 52° W,Cagwait (Surigao Del Sur)
 2025-10-20T10:46:00.000Z,20 October 2025 - 10:46 AM,12.35,124.73,011,1.9,012km N 63° E of Lope De Vega (Northern Samar),012,N 63° E,Lope De Vega (Northern Samar)
 2025-10-20T10:43:00.000Z,20 October 2025 - 10:43 AM,18.11,119.62,010,4.5,092km N 84° W of Currimao (Ilocos Norte),092,N 84° W,Currimao (Ilocos Norte)
@@ -1279,8 +1284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-13T11:51:00.000Z,13 October 2025 - 11:51 AM,13.59,120.85,004,2.0,015km N 48° W of Puerto Galera (Oriental Mindoro),015,N 48° W,Puerto Galera (Oriental Mindoro)
 2025-10-13T11:45:00.000Z,13 October 2025 - 11:45 AM,10.96,123.90,003,2.6,014km S 42° W of City Of Bogo (Cebu),014,S 42° W,City Of Bogo (Cebu)
 2025-10-13T11:39:00.000Z,13 October 2025 - 11:39 AM,06.95,127.29,037,2.4,088km S 71° E of Manay (Davao Oriental),088,S 71° E,Manay (Davao Oriental)
-2025-10-13T11:28:00.000Z,13 October 2025 - 11:28 AM,07.27,126.84,032,2.7,034km N 79° E of Manay (Davao Oriental),034,N 79° E,Manay (Davao Oriental)
-2025-10-13T11:22:00.000Z,13 October 2025 - 11:22 AM,13.55,120.82,033,1.3,016km N 69° W of Puerto Galera (Oriental Mindoro),016,N 69° W,Puerto Galera (Oriental Mindoro)
-2025-10-13T11:13:00.000Z,13 October 2025 - 11:13 AM,13.51,120.91,009,2.8,005km N 77° W of Puerto Galera (Oriental Mindoro),005,N 77° W,Puerto Galera (Oriental Mindoro)
-2025-10-13T11:03:00.000Z,13 October 2025 - 11:03 AM,10.01,126.21,028,2.1,014km S 87° E of Burgos (Surigao Del Norte),014,S 87° E,Burgos (Surigao Del Norte)
-2025-10-13T11:01:00.000Z,13 October 2025 - 11:01 AM,11.10,124.02,033,2.0,008km N 36° E of City Of Bogo (Cebu),008,N 36° E,City Of Bogo (Cebu)
