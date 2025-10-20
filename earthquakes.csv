@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T23:26:00.000Z,20 October 2025 - 11:26 PM,07.17,125.51,027,2.7,023km S 55° W of City Of Panabo (Davao Del Norte),023,S 55° W,City Of Panabo (Davao Del Norte)
+2025-10-20T23:26:00.000Z,20 October 2025 - 11:26 PM,12.55,123.50,024,3.0,009km N 03° E of Baleno (Masbate),009,N 03° E,Baleno (Masbate)
+2025-10-20T23:18:00.000Z,20 October 2025 - 11:18 PM,09.60,126.16,032,2.4,020km S 01° E of General Luna (Surigao Del Norte),020,S 01° E,General Luna (Surigao Del Norte)
+2025-10-20T23:17:00.000Z,20 October 2025 - 11:17 PM,07.24,126.69,024,1.6,017km N 78° E of Manay (Davao Oriental),017,N 78° E,Manay (Davao Oriental)
 2025-10-20T23:07:00.000Z,20 October 2025 - 11:07 PM,11.50,121.98,021,3.1,012km N 43° W of Culasi (Antique),012,N 43° W,Culasi (Antique)
 2025-10-20T23:05:00.000Z,20 October 2025 - 11:05 PM,08.91,126.36,027,2.7,007km S 82° E of Cagwait (Surigao Del Sur),007,S 82° E,Cagwait (Surigao Del Sur)
 2025-10-20T22:57:00.000Z,20 October 2025 - 10:57 PM,07.05,126.89,020,3.0,042km S 65° E of Manay (Davao Oriental),042,S 65° E,Manay (Davao Oriental)
