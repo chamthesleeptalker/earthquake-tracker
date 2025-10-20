@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T00:38:00.000Z,21 October 2025 - 12:38 AM,12.39,124.49,023,2.2,015km S 01° E of San Jose (Northern Samar),015,S 01° E,San Jose (Northern Samar)
+2025-10-21T00:16:00.000Z,21 October 2025 - 12:16 AM,06.83,127.46,038,3.2,110km S 68° E of Manay (Davao Oriental),110,S 68° E,Manay (Davao Oriental)
+2025-10-21T00:15:00.000Z,21 October 2025 - 12:15 AM,11.05,123.98,020,2.6,001km N 31° E of City Of Bogo (Cebu),001,N 31° E,City Of Bogo (Cebu)
 2025-10-21T00:11:00.000Z,21 October 2025 - 12:11 AM,11.00,123.99,033,2.3,005km S 13° E of City Of Bogo (Cebu),005,S 13° E,City Of Bogo (Cebu)
 2025-10-21T00:06:00.000Z,21 October 2025 - 12:06 AM,11.14,124.03,026,2.1,012km N 30° E of City Of Bogo (Cebu),012,N 30° E,City Of Bogo (Cebu)
