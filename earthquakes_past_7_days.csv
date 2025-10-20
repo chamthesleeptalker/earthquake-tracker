@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T18:05:00.000Z,20 October 2025 - 06:05 PM,09.60,126.23,034,1.6,022km S 21° E of General Luna (Surigao Del Norte),022,S 21° E,General Luna (Surigao Del Norte)
+2025-10-20T17:48:00.000Z,20 October 2025 - 05:48 PM,07.53,126.58,017,2.0,036km N 08° E of Manay (Davao Oriental),036,N 08° E,Manay (Davao Oriental)
+2025-10-20T17:43:00.000Z,20 October 2025 - 05:43 PM,11.18,124.13,033,1.7,022km N 48° E of City Of Bogo (Cebu),022,N 48° E,City Of Bogo (Cebu)
+2025-10-20T17:37:00.000Z,20 October 2025 - 05:37 PM,11.04,123.97,026,2.0,001km S 73° W of City Of Bogo (Cebu),001,S 73° W,City Of Bogo (Cebu)
 2025-10-20T17:28:00.000Z,20 October 2025 - 05:28 PM,11.01,124.07,015,2.1,011km S 70° E of City Of Bogo (Cebu),011,S 70° E,City Of Bogo (Cebu)
 2025-10-20T17:32:00.000Z,20 October 2025 - 05:32 PM,11.09,124.05,046,2.0,009km N 56° E of City Of Bogo (Cebu),009,N 56° E,City Of Bogo (Cebu)
 2025-10-20T17:32:00.000Z,20 October 2025 - 05:32 PM,11.09,124.05,046,2.0,009km N 56° E of City Of Bogo (Cebu),009,N 56° E,City Of Bogo (Cebu)
@@ -1270,9 +1274,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-13T18:23:00.000Z,13 October 2025 - 06:23 PM,10.07,125.10,031,1.4,007km N 78° W of San Francisco (Southern Leyte),007,N 78° W,San Francisco (Southern Leyte)
 2025-10-13T18:15:00.000Z,13 October 2025 - 06:15 PM,11.12,124.04,033,2.0,011km N 39° E of City Of Bogo (Cebu),011,N 39° E,City Of Bogo (Cebu)
 2025-10-13T18:12:00.000Z,13 October 2025 - 06:12 PM,11.03,124.03,007,3.2,006km S 66° E of City Of Bogo (Cebu),006,S 66° E,City Of Bogo (Cebu)
-2025-10-13T18:01:00.000Z,13 October 2025 - 06:01 PM,10.90,123.91,001,2.0,020km S 27° W of City Of Bogo (Cebu),020,S 27° W,City Of Bogo (Cebu)
-2025-10-13T18:01:00.000Z,13 October 2025 - 06:01 PM,11.14,124.16,005,1.9,022km N 62° E of City Of Bogo (Cebu),022,N 62° E,City Of Bogo (Cebu)
-2025-10-13T17:42:00.000Z,13 October 2025 - 05:42 PM,08.12,126.54,031,1.4,017km N 55° E of Lingig (Surigao Del Sur),017,N 55° E,Lingig (Surigao Del Sur)
-2025-10-13T17:39:00.000Z,13 October 2025 - 05:39 PM,07.36,126.78,002,2.6,031km N 58° E of Manay (Davao Oriental),031,N 58° E,Manay (Davao Oriental)
-2025-10-13T17:38:00.000Z,13 October 2025 - 05:38 PM,07.27,126.62,020,1.9,011km N 51° E of Manay (Davao Oriental),011,N 51° E,Manay (Davao Oriental)
-2025-10-13T17:36:00.000Z,13 October 2025 - 05:36 PM,11.06,124.06,034,1.9,009km N 83° E of City Of Bogo (Cebu),009,N 83° E,City Of Bogo (Cebu)
