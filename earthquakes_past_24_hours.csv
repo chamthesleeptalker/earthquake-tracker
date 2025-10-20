@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-20T13:00:00.000Z,20 October 2025 - 01:00 PM,11.05,124.15,034,2.0,019km N 89° E of City Of Bogo (Cebu),019,N 89° E,City Of Bogo (Cebu)
 2025-10-20T12:27:00.000Z,20 October 2025 - 12:27 PM,08.37,127.28,009,3.2,102km N 69° E of Lingig (Surigao Del Sur),102,N 69° E,Lingig (Surigao Del Sur)
 2025-10-20T12:20:00.000Z,20 October 2025 - 12:20 PM,09.59,126.25,033,2.1,024km S 24° E of General Luna (Surigao Del Norte),024,S 24° E,General Luna (Surigao Del Norte)
 2025-10-20T11:39:00.000Z,20 October 2025 - 11:39 AM,11.17,124.18,008,2.1,025km N 58° E of City Of Bogo (Cebu),025,N 58° E,City Of Bogo (Cebu)
@@ -182,5 +183,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T13:30:00.000Z,19 October 2025 - 01:30 PM,08.83,126.36,026,1.8,011km S 34° E of Cagwait (Surigao Del Sur),011,S 34° E,Cagwait (Surigao Del Sur)
 2025-10-19T13:24:00.000Z,19 October 2025 - 01:24 PM,12.23,125.39,010,4.1,004km S 25° E of Arteche (Eastern Samar),004,S 25° E,Arteche (Eastern Samar)
 2025-10-19T13:16:00.000Z,19 October 2025 - 01:16 PM,09.68,126.12,030,1.9,012km S 19° W of General Luna (Surigao Del Norte),012,S 19° W,General Luna (Surigao Del Norte)
-2025-10-19T12:58:00.000Z,19 October 2025 - 12:58 PM,11.14,124.12,008,2.0,019km N 55° E of City Of Bogo (Cebu),019,N 55° E,City Of Bogo (Cebu)
-2025-10-19T12:31:00.000Z,19 October 2025 - 12:31 PM,09.65,126.24,033,1.6,017km S 30° E of General Luna (Surigao Del Norte),017,S 30° E,General Luna (Surigao Del Norte)
