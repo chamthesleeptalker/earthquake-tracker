@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T02:41:00.000Z,21 October 2025 - 02:41 AM,07.20,127.36,023,2.6,091km S 89° E of Manay (Davao Oriental),091,S 89° E,Manay (Davao Oriental)
+2025-10-21T02:34:00.000Z,21 October 2025 - 02:34 AM,12.38,119.85,009,2.8,029km N 18° W of Busuanga (Palawan),029,N 18° W,Busuanga (Palawan)
+2025-10-21T02:34:00.000Z,21 October 2025 - 02:34 AM,18.64,120.68,010,2.4,014km N 52° W of Pagudpud (Ilocos Norte),014,N 52° W,Pagudpud (Ilocos Norte)
 2025-10-21T02:18:00.000Z,21 October 2025 - 02:18 AM,09.53,126.16,031,2.1,028km S 01° E of General Luna (Surigao Del Norte),028,S 01° E,General Luna (Surigao Del Norte)
 2025-10-21T02:16:00.000Z,21 October 2025 - 02:16 AM,11.00,124.03,033,2.0,008km S 43° E of City Of Bogo (Cebu),008,S 43° E,City Of Bogo (Cebu)
 2025-10-21T02:01:00.000Z,21 October 2025 - 02:01 AM,06.63,125.96,034,1.5,012km S 80° W of Governor Generoso (Davao Oriental),012,S 80° W,Governor Generoso (Davao Oriental)
@@ -167,4 +170,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-20T02:45:00.000Z,20 October 2025 - 02:45 AM,09.72,126.26,029,2.8,013km S 57° E of General Luna (Surigao Del Norte),013,S 57° E,General Luna (Surigao Del Norte)
 2025-10-20T02:43:00.000Z,20 October 2025 - 02:43 AM,05.24,125.27,032,2.0,025km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-20T02:41:00.000Z,20 October 2025 - 02:41 AM,09.00,126.48,031,2.6,022km N 64° E of Cagwait (Surigao Del Sur),022,N 64° E,Cagwait (Surigao Del Sur)
-2025-10-20T02:31:00.000Z,20 October 2025 - 02:31 AM,08.86,126.40,031,2.1,012km S 57° E of Cagwait (Surigao Del Sur),012,S 57° E,Cagwait (Surigao Del Sur)
