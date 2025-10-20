@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T03:25:00.000Z,21 October 2025 - 03:25 AM,11.00,124.00,033,2.3,006km S 29° E of City Of Bogo (Cebu),006,S 29° E,City Of Bogo (Cebu)
+2025-10-21T03:22:00.000Z,21 October 2025 - 03:22 AM,07.06,127.15,001,3.1,069km S 76° E of Manay (Davao Oriental),069,S 76° E,Manay (Davao Oriental)
+2025-10-21T03:09:00.000Z,21 October 2025 - 03:09 AM,09.64,126.14,033,2.1,016km S 08° W of General Luna (Surigao Del Norte),016,S 08° W,General Luna (Surigao Del Norte)
 2025-10-21T03:00:00.000Z,21 October 2025 - 03:00 AM,07.34,126.72,004,3.3,024km N 56° E of Manay (Davao Oriental),024,N 56° E,Manay (Davao Oriental)
 2025-10-21T02:52:00.000Z,21 October 2025 - 02:52 AM,11.01,124.06,033,2.1,010km S 67° E of City Of Bogo (Cebu),010,S 67° E,City Of Bogo (Cebu)
 2025-10-21T02:49:00.000Z,21 October 2025 - 02:49 AM,06.91,126.17,027,3.0,007km S 51° W of City Of Mati (Davao Oriental),007,S 51° W,City Of Mati (Davao Oriental)
