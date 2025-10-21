@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T17:23:00.000Z,21 October 2025 - 05:23 PM,09.63,126.16,033,1.5,017km S 02° E of General Luna (Surigao Del Norte),017,S 02° E,General Luna (Surigao Del Norte)
 2025-10-21T17:07:00.000Z,21 October 2025 - 05:07 PM,11.14,124.19,010,4.4,025km N 66° E of City Of Bogo (Cebu),025,N 66° E,City Of Bogo (Cebu)
 2025-10-21T16:34:00.000Z,21 October 2025 - 04:34 PM,09.63,126.21,034,2.1,018km S 18° E of General Luna (Surigao Del Norte),018,S 18° E,General Luna (Surigao Del Norte)
 2025-10-21T16:11:00.000Z,21 October 2025 - 04:11 PM,07.30,127.25,096,2.9,079km N 83° E of Manay (Davao Oriental),079,N 83° E,Manay (Davao Oriental)
@@ -1182,4 +1183,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T17:57:00.000Z,14 October 2025 - 05:57 PM,10.98,123.85,018,2.4,016km S 65° W of City Of Bogo (Cebu),016,S 65° W,City Of Bogo (Cebu)
 2025-10-14T17:32:00.000Z,14 October 2025 - 05:32 PM,13.72,120.61,110,1.9,013km S 12° W of Calatagan (Batangas),013,S 12° W,Calatagan (Batangas)
 2025-10-14T17:24:00.000Z,14 October 2025 - 05:24 PM,10.98,123.99,024,2.7,007km S 13° E of City Of Bogo (Cebu),007,S 13° E,City Of Bogo (Cebu)
-2025-10-14T17:11:00.000Z,14 October 2025 - 05:11 PM,07.18,127.02,005,3.0,053km S 86° E of Manay (Davao Oriental),053,S 86° E,Manay (Davao Oriental)
