@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T01:05:00.000Z,22 October 2025 - 01:05 AM,07.12,126.82,025,2.3,033km S 72° E of Manay (Davao Oriental),033,S 72° E,Manay (Davao Oriental)
+2025-10-22T01:03:00.000Z,22 October 2025 - 01:03 AM,07.35,127.35,012,2.8,087km N 80° E of Manay (Davao Oriental),087,N 80° E,Manay (Davao Oriental)
+2025-10-22T01:02:00.000Z,22 October 2025 - 01:02 AM,09.65,126.17,028,2.0,015km S 07° E of General Luna (Surigao Del Norte),015,S 07° E,General Luna (Surigao Del Norte)
+2025-10-22T00:41:00.000Z,22 October 2025 - 12:41 AM,11.11,124.12,003,1.8,017km N 66° E of City Of Bogo (Cebu),017,N 66° E,City Of Bogo (Cebu)
+2025-10-22T00:41:00.000Z,22 October 2025 - 12:41 AM,09.19,126.74,013,2.2,057km N 58° E of Cagwait (Surigao Del Sur),057,N 58° E,Cagwait (Surigao Del Sur)
 2025-10-22T00:32:00.000Z,22 October 2025 - 12:32 AM,14.27,123.07,008,1.7,018km N 19° E of Mercedes (Camarines Norte),018,N 19° E,Mercedes (Camarines Norte)
 2025-10-22T00:24:00.000Z,22 October 2025 - 12:24 AM,09.95,126.52,065,1.5,044km N 64° E of General Luna (Surigao Del Norte),044,N 64° E,General Luna (Surigao Del Norte)
 2025-10-22T00:20:00.000Z,22 October 2025 - 12:20 AM,12.69,123.57,006,1.8,012km N 64° W of Monreal (Masbate),012,N 64° W,Monreal (Masbate)
