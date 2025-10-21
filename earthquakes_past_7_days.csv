@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T19:02:00.000Z,21 October 2025 - 07:02 PM,13.47,120.76,033,1.5,005km N 58° E of Abra De Ilog (Occidental Mindoro),005,N 58° E,Abra De Ilog (Occidental Mindoro)
+2025-10-21T18:55:00.000Z,21 October 2025 - 06:55 PM,08.55,126.83,027,1.6,071km S 55° E of Cagwait (Surigao Del Sur),071,S 55° E,Cagwait (Surigao Del Sur)
 2025-10-21T18:24:00.000Z,21 October 2025 - 06:24 PM,11.16,124.19,010,2.4,027km N 61° E of City Of Bogo (Cebu),027,N 61° E,City Of Bogo (Cebu)
 2025-10-21T17:51:00.000Z,21 October 2025 - 05:51 PM,13.67,120.92,023,2.1,006km N 80° E of Tingloy (Batangas),006,N 80° E,Tingloy (Batangas)
 2025-10-21T17:23:00.000Z,21 October 2025 - 05:23 PM,09.63,126.16,033,1.5,017km S 02° E of General Luna (Surigao Del Norte),017,S 02° E,General Luna (Surigao Del Norte)
@@ -1174,9 +1176,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T19:31:00.000Z,14 October 2025 - 07:31 PM,11.20,124.04,029,1.9,019km N 22° E of City Of Bogo (Cebu),019,N 22° E,City Of Bogo (Cebu)
 2025-10-14T19:15:00.000Z,14 October 2025 - 07:15 PM,10.96,123.94,007,2.5,010km S 23° W of City Of Bogo (Cebu),010,S 23° W,City Of Bogo (Cebu)
 2025-10-14T19:11:00.000Z,14 October 2025 - 07:11 PM,10.92,123.94,005,2.9,015km S 18° W of City Of Bogo (Cebu),015,S 18° W,City Of Bogo (Cebu)
-2025-10-14T19:00:00.000Z,14 October 2025 - 07:00 PM,11.18,124.17,013,2.1,026km N 54° E of City Of Bogo (Cebu),026,N 54° E,City Of Bogo (Cebu)
-2025-10-14T18:52:00.000Z,14 October 2025 - 06:52 PM,06.71,127.26,027,3.5,097km S 55° E of Manay (Davao Oriental),097,S 55° E,Manay (Davao Oriental)
-2025-10-14T18:46:00.000Z,14 October 2025 - 06:46 PM,10.82,124.20,023,2.5,035km S 44° E of City Of Bogo (Cebu),035,S 44° E,City Of Bogo (Cebu)
-2025-10-14T18:40:00.000Z,14 October 2025 - 06:40 PM,11.04,124.10,007,2.3,013km S 87° E of City Of Bogo (Cebu),013,S 87° E,City Of Bogo (Cebu)
-2025-10-14T18:29:00.000Z,14 October 2025 - 06:29 PM,10.90,123.91,001,2.8,017km S 26° W of City Of Bogo (Cebu),017,S 26° W,City Of Bogo (Cebu)
-2025-10-14T18:28:00.000Z,14 October 2025 - 06:28 PM,11.10,124.04,017,1.6,009km N 47° E of City Of Bogo (Cebu),009,N 47° E,City Of Bogo (Cebu)
