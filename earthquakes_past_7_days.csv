@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-21T16:34:00.000Z,21 October 2025 - 04:34 PM,09.63,126.21,034,2.1,018km S 18° E of General Luna (Surigao Del Norte),018,S 18° E,General Luna (Surigao Del Norte)
+2025-10-21T16:11:00.000Z,21 October 2025 - 04:11 PM,07.30,127.25,096,2.9,079km N 83° E of Manay (Davao Oriental),079,N 83° E,Manay (Davao Oriental)
 2025-10-21T16:06:00.000Z,21 October 2025 - 04:06 PM,10.38,126.29,001,3.1,047km N 31° E of Burgos (Surigao Del Norte),047,N 31° E,Burgos (Surigao Del Norte)
 2025-10-21T16:03:00.000Z,21 October 2025 - 04:03 PM,08.88,126.47,024,2.1,019km S 78° E of Cagwait (Surigao Del Sur),019,S 78° E,Cagwait (Surigao Del Sur)
 2025-10-21T15:54:00.000Z,21 October 2025 - 03:54 PM,06.39,125.92,053,3.0,033km N 49° E of Don Marcelino (Davao Occidental),033,N 49° E,Don Marcelino (Davao Occidental)
@@ -1181,6 +1183,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-14T17:24:00.000Z,14 October 2025 - 05:24 PM,10.98,123.99,024,2.7,007km S 13° E of City Of Bogo (Cebu),007,S 13° E,City Of Bogo (Cebu)
 2025-10-14T17:11:00.000Z,14 October 2025 - 05:11 PM,07.18,127.02,005,3.0,053km S 86° E of Manay (Davao Oriental),053,S 86° E,Manay (Davao Oriental)
 2025-10-14T16:58:00.000Z,14 October 2025 - 04:58 PM,06.99,126.72,010,4.6,031km S 39° E of Manay (Davao Oriental),031,S 39° E,Manay (Davao Oriental)
-2025-10-14T16:17:00.000Z,14 October 2025 - 04:17 PM,07.12,126.87,020,3.0,038km S 74° E of Manay (Davao Oriental),038,S 74° E,Manay (Davao Oriental)
-2025-10-14T16:10:00.000Z,14 October 2025 - 04:10 PM,12.48,124.63,024,1.7,003km S 24° W of Catarman (Northern Samar),003,S 24° W,Catarman (Northern Samar)
-2025-10-14T16:06:00.000Z,14 October 2025 - 04:06 PM,07.46,127.26,026,2.5,078km S 81° E of Baganga (Davao Oriental),078,S 81° E,Baganga (Davao Oriental)
