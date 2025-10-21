@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T00:06:00.000Z,22 October 2025 - 12:06 AM,10.79,122.89,013,2.0,009km S 81° W of City Of Silay (Negros Occidental),009,S 81° W,City Of Silay (Negros Occidental)
+2025-10-21T23:56:00.000Z,21 October 2025 - 11:56 PM,11.13,123.83,032,2.1,018km N 61° W of City Of Bogo (Cebu),018,N 61° W,City Of Bogo (Cebu)
 2025-10-21T23:34:00.000Z,21 October 2025 - 11:34 PM,09.67,126.20,033,1.8,014km S 20° E of General Luna (Surigao Del Norte),014,S 20° E,General Luna (Surigao Del Norte)
 2025-10-21T23:21:00.000Z,21 October 2025 - 11:21 PM,09.21,125.88,034,1.4,011km S 58° W of Madrid (Surigao Del Sur),011,S 58° W,Madrid (Surigao Del Sur)
 2025-10-21T23:15:00.000Z,21 October 2025 - 11:15 PM,09.73,126.11,030,2.2,007km S 43° W of General Luna (Surigao Del Norte),007,S 43° W,General Luna (Surigao Del Norte)
