@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T05:03:00.000Z,22 October 2025 - 05:03 AM,10.51,123.68,034,1.9,004km N 85° W of Balamban (Cebu),004,N 85° W,Balamban (Cebu)
 2025-10-22T04:09:00.000Z,22 October 2025 - 04:09 AM,05.97,126.08,134,2.1,048km N 83° E of Jose Abad Santos (Davao Occidental),048,N 83° E,Jose Abad Santos (Davao Occidental)
 2025-10-22T03:57:00.000Z,22 October 2025 - 03:57 AM,07.58,122.14,011,2.7,001km S 16° W of Sirawai (Zamboanga Del Norte),001,S 16° W,Sirawai (Zamboanga Del Norte)
 2025-10-22T03:57:00.000Z,22 October 2025 - 03:57 AM,17.66,120.40,003,2.9,003km N 33° W of Santo Domingo (Ilocos Sur),003,N 33° W,Santo Domingo (Ilocos Sur)
@@ -96,5 +97,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T05:32:00.000Z,21 October 2025 - 05:32 AM,11.11,124.08,028,1.5,013km N 59° E of City Of Bogo (Cebu),013,N 59° E,City Of Bogo (Cebu)
 2025-10-21T05:29:00.000Z,21 October 2025 - 05:29 AM,09.57,126.22,019,1.9,025km S 17° E of General Luna (Surigao Del Norte),025,S 17° E,General Luna (Surigao Del Norte)
 2025-10-21T05:22:00.000Z,21 October 2025 - 05:22 AM,11.03,123.81,020,2.4,018km S 83° W of City Of Bogo (Cebu),018,S 83° W,City Of Bogo (Cebu)
-2025-10-21T04:27:00.000Z,21 October 2025 - 04:27 AM,11.07,124.04,033,1.9,007km N 66° E of City Of Bogo (Cebu),007,N 66° E,City Of Bogo (Cebu)
-2025-10-21T04:15:00.000Z,21 October 2025 - 04:15 AM,18.70,120.49,007,2.3,027km N 38° W of Burgos (Ilocos Norte),027,N 38° W,Burgos (Ilocos Norte)
