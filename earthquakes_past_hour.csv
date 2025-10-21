@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T01:52:00.000Z,22 October 2025 - 01:52 AM,12.96,126.09,010,4.5,105km N 59° E of Mapanas (Northern Samar),105,N 59° E,Mapanas (Northern Samar)
+2025-10-22T01:45:00.000Z,22 October 2025 - 01:45 AM,10.93,123.96,020,2.0,013km S 11° W of City Of Bogo (Cebu),013,S 11° W,City Of Bogo (Cebu)
+2025-10-22T01:38:00.000Z,22 October 2025 - 01:38 AM,08.82,126.48,029,2.2,023km S 60° E of Cagwait (Surigao Del Sur),023,S 60° E,Cagwait (Surigao Del Sur)
 2025-10-22T01:23:00.000Z,22 October 2025 - 01:23 AM,07.35,126.78,020,2.2,030km N 59° E of Manay (Davao Oriental),030,N 59° E,Manay (Davao Oriental)
 2025-10-22T01:23:00.000Z,22 October 2025 - 01:23 AM,07.41,126.52,005,1.7,022km N 06° W of Manay (Davao Oriental),022,N 06° W,Manay (Davao Oriental)
 2025-10-22T01:21:00.000Z,22 October 2025 - 01:21 AM,09.64,126.31,031,2.8,023km S 46° E of General Luna (Surigao Del Norte),023,S 46° E,General Luna (Surigao Del Norte)
@@ -7,7 +10,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T01:05:00.000Z,22 October 2025 - 01:05 AM,07.12,126.82,025,2.3,033km S 72° E of Manay (Davao Oriental),033,S 72° E,Manay (Davao Oriental)
 2025-10-22T01:03:00.000Z,22 October 2025 - 01:03 AM,07.35,127.35,012,2.8,087km N 80° E of Manay (Davao Oriental),087,N 80° E,Manay (Davao Oriental)
 2025-10-22T01:02:00.000Z,22 October 2025 - 01:02 AM,09.65,126.17,028,2.0,015km S 07° E of General Luna (Surigao Del Norte),015,S 07° E,General Luna (Surigao Del Norte)
-2025-10-22T00:41:00.000Z,22 October 2025 - 12:41 AM,11.11,124.12,003,1.8,017km N 66° E of City Of Bogo (Cebu),017,N 66° E,City Of Bogo (Cebu)
-2025-10-22T00:41:00.000Z,22 October 2025 - 12:41 AM,09.19,126.74,013,2.2,057km N 58° E of Cagwait (Surigao Del Sur),057,N 58° E,Cagwait (Surigao Del Sur)
-2025-10-22T00:32:00.000Z,22 October 2025 - 12:32 AM,14.27,123.07,008,1.7,018km N 19° E of Mercedes (Camarines Norte),018,N 19° E,Mercedes (Camarines Norte)
-2025-10-22T00:24:00.000Z,22 October 2025 - 12:24 AM,09.95,126.52,065,1.5,044km N 64° E of General Luna (Surigao Del Norte),044,N 64° E,General Luna (Surigao Del Norte)

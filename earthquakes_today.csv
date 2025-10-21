@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T01:52:00.000Z,22 October 2025 - 01:52 AM,12.96,126.09,010,4.5,105km N 59° E of Mapanas (Northern Samar),105,N 59° E,Mapanas (Northern Samar)
+2025-10-22T01:45:00.000Z,22 October 2025 - 01:45 AM,10.93,123.96,020,2.0,013km S 11° W of City Of Bogo (Cebu),013,S 11° W,City Of Bogo (Cebu)
+2025-10-22T01:38:00.000Z,22 October 2025 - 01:38 AM,08.82,126.48,029,2.2,023km S 60° E of Cagwait (Surigao Del Sur),023,S 60° E,Cagwait (Surigao Del Sur)
 2025-10-22T01:23:00.000Z,22 October 2025 - 01:23 AM,07.35,126.78,020,2.2,030km N 59° E of Manay (Davao Oriental),030,N 59° E,Manay (Davao Oriental)
 2025-10-22T01:23:00.000Z,22 October 2025 - 01:23 AM,07.41,126.52,005,1.7,022km N 06° W of Manay (Davao Oriental),022,N 06° W,Manay (Davao Oriental)
 2025-10-22T01:21:00.000Z,22 October 2025 - 01:21 AM,09.64,126.31,031,2.8,023km S 46° E of General Luna (Surigao Del Norte),023,S 46° E,General Luna (Surigao Del Norte)
