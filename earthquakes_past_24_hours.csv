@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T02:34:00.000Z,22 October 2025 - 02:34 AM,13.59,120.36,002,2.0,039km S 41° E of Lubang (Occidental Mindoro),039,S 41° E,Lubang (Occidental Mindoro)
+2025-10-22T02:33:00.000Z,22 October 2025 - 02:33 AM,16.15,122.26,007,1.9,021km S 47° E of Casiguran (Aurora),021,S 47° E,Casiguran (Aurora)
+2025-10-22T02:31:00.000Z,22 October 2025 - 02:31 AM,07.28,126.91,004,1.8,042km N 79° E of Manay (Davao Oriental),042,N 79° E,Manay (Davao Oriental)
+2025-10-22T02:27:00.000Z,22 October 2025 - 02:27 AM,07.17,126.72,020,1.9,020km S 76° E of Manay (Davao Oriental),020,S 76° E,Manay (Davao Oriental)
 2025-10-22T01:52:00.000Z,22 October 2025 - 01:52 AM,12.96,126.09,010,4.5,105km N 59° E of Mapanas (Northern Samar),105,N 59° E,Mapanas (Northern Samar)
 2025-10-22T01:45:00.000Z,22 October 2025 - 01:45 AM,10.93,123.96,020,2.0,013km S 11° W of City Of Bogo (Cebu),013,S 11° W,City Of Bogo (Cebu)
 2025-10-22T01:38:00.000Z,22 October 2025 - 01:38 AM,08.82,126.48,029,2.2,023km S 60° E of Cagwait (Surigao Del Sur),023,S 60° E,Cagwait (Surigao Del Sur)
@@ -98,6 +102,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T02:41:00.000Z,21 October 2025 - 02:41 AM,07.20,127.36,023,2.6,091km S 89° E of Manay (Davao Oriental),091,S 89° E,Manay (Davao Oriental)
 2025-10-21T02:34:00.000Z,21 October 2025 - 02:34 AM,12.38,119.85,009,2.8,029km N 18° W of Busuanga (Palawan),029,N 18° W,Busuanga (Palawan)
 2025-10-21T02:34:00.000Z,21 October 2025 - 02:34 AM,18.64,120.68,010,2.4,014km N 52° W of Pagudpud (Ilocos Norte),014,N 52° W,Pagudpud (Ilocos Norte)
-2025-10-21T02:18:00.000Z,21 October 2025 - 02:18 AM,09.53,126.16,031,2.1,028km S 01° E of General Luna (Surigao Del Norte),028,S 01° E,General Luna (Surigao Del Norte)
-2025-10-21T02:16:00.000Z,21 October 2025 - 02:16 AM,11.00,124.03,033,2.0,008km S 43° E of City Of Bogo (Cebu),008,S 43° E,City Of Bogo (Cebu)
-2025-10-21T02:01:00.000Z,21 October 2025 - 02:01 AM,06.63,125.96,034,1.5,012km S 80° W of Governor Generoso (Davao Oriental),012,S 80° W,Governor Generoso (Davao Oriental)
