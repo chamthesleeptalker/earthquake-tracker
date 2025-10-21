@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-10-22T05:03:00.000Z,22 October 2025 - 05:03 AM,10.51,123.68,034,1.9,004km N 85° W of Balamban (Cebu),004,N 85° W,Balamban (Cebu)
-2025-10-22T04:09:00.000Z,22 October 2025 - 04:09 AM,05.97,126.08,134,2.1,048km N 83° E of Jose Abad Santos (Davao Occidental),048,N 83° E,Jose Abad Santos (Davao Occidental)
+2025-10-22T06:06:00.000Z,22 October 2025 - 06:06 AM,11.15,124.02,033,1.8,012km N 21° E of City Of Bogo (Cebu),012,N 21° E,City Of Bogo (Cebu)
+2025-10-22T06:05:00.000Z,22 October 2025 - 06:05 AM,07.96,126.38,132,1.7,009km S 24° W of Lingig (Surigao Del Sur),009,S 24° W,Lingig (Surigao Del Sur)
+2025-10-22T05:37:00.000Z,22 October 2025 - 05:37 AM,13.65,120.63,092,1.9,020km S 01° W of Calatagan (Batangas),020,S 01° W,Calatagan (Batangas)
+2025-10-22T05:35:00.000Z,22 October 2025 - 05:35 AM,07.87,125.18,043,2.0,011km S 72° E of City Of Valencia (Bukidnon),011,S 72° E,City Of Valencia (Bukidnon)
