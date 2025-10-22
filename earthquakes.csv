@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T23:29:00.000Z,22 October 2025 - 11:29 PM,11.14,124.07,029,2.8,014km N 44° E of City Of Bogo (Cebu),014,N 44° E,City Of Bogo (Cebu)
+2025-10-22T23:26:00.000Z,22 October 2025 - 11:26 PM,13.73,122.83,011,1.8,011km S 51° W of Lupi (Camarines Sur),011,S 51° W,Lupi (Camarines Sur)
 2025-10-22T22:32:00.000Z,22 October 2025 - 10:32 PM,11.06,123.90,036,2.1,009km N 77° W of City Of Bogo (Cebu),009,N 77° W,City Of Bogo (Cebu)
 2025-10-22T22:24:00.000Z,22 October 2025 - 10:24 PM,09.63,126.19,036,1.8,017km S 13° E of General Luna (Surigao Del Norte),017,S 13° E,General Luna (Surigao Del Norte)
 2025-10-22T21:31:00.000Z,22 October 2025 - 09:31 PM,10.99,123.95,021,2.1,007km S 27° W of City Of Bogo (Cebu),007,S 27° W,City Of Bogo (Cebu)
