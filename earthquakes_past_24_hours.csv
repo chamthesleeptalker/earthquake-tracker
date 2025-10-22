@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T17:25:00.000Z,22 October 2025 - 05:25 PM,13.46,123.40,033,2.6,004km N 73° E of Baao (Camarines Sur),004,N 73° E,Baao (Camarines Sur)
+2025-10-22T17:21:00.000Z,22 October 2025 - 05:21 PM,10.99,123.98,002,2.7,007km S 02° W of City Of Bogo (Cebu),007,S 02° W,City Of Bogo (Cebu)
 2025-10-22T16:57:00.000Z,22 October 2025 - 04:57 PM,10.99,123.98,035,2.6,007km S 04° W of City Of Bogo (Cebu),007,S 04° W,City Of Bogo (Cebu)
 2025-10-22T16:32:00.000Z,22 October 2025 - 04:32 PM,11.38,124.29,018,2.1,007km S 68° W of San Isidro (Leyte),007,S 68° W,San Isidro (Leyte)
 2025-10-22T16:29:00.000Z,22 October 2025 - 04:29 PM,07.27,127.43,002,3.1,098km N 86° E of Manay (Davao Oriental),098,N 86° E,Manay (Davao Oriental)
@@ -96,5 +98,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T18:55:00.000Z,21 October 2025 - 06:55 PM,08.55,126.83,027,1.6,071km S 55° E of Cagwait (Surigao Del Sur),071,S 55° E,Cagwait (Surigao Del Sur)
 2025-10-21T18:24:00.000Z,21 October 2025 - 06:24 PM,11.16,124.19,010,2.4,027km N 61° E of City Of Bogo (Cebu),027,N 61° E,City Of Bogo (Cebu)
 2025-10-21T17:51:00.000Z,21 October 2025 - 05:51 PM,13.67,120.92,023,2.1,006km N 80° E of Tingloy (Batangas),006,N 80° E,Tingloy (Batangas)
-2025-10-21T17:23:00.000Z,21 October 2025 - 05:23 PM,09.63,126.16,033,1.5,017km S 02° E of General Luna (Surigao Del Norte),017,S 02° E,General Luna (Surigao Del Norte)
-2025-10-21T17:07:00.000Z,21 October 2025 - 05:07 PM,11.14,124.19,010,4.4,025km N 66° E of City Of Bogo (Cebu),025,N 66° E,City Of Bogo (Cebu)
