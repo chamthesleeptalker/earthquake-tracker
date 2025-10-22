@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T06:01:00.000Z,23 October 2025 - 06:01 AM,11.14,123.96,019,2.6,011km N 13° W of City Of Bogo (Cebu),011,N 13° W,City Of Bogo (Cebu)
+2025-10-23T06:00:00.000Z,23 October 2025 - 06:00 AM,05.10,125.47,041,3.1,036km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2025-10-23T05:54:00.000Z,23 October 2025 - 05:54 AM,13.76,123.24,007,2.3,006km N 31° E of Calabanga (Camarines Sur),006,N 31° E,Calabanga (Camarines Sur)
+2025-10-23T05:36:00.000Z,23 October 2025 - 05:36 AM,09.64,126.17,025,2.0,016km S 04° E of General Luna (Surigao Del Norte),016,S 04° E,General Luna (Surigao Del Norte)
 2025-10-23T05:17:00.000Z,23 October 2025 - 05:17 AM,10.90,123.92,002,2.0,018km S 21° W of City Of Bogo (Cebu),018,S 21° W,City Of Bogo (Cebu)
 2025-10-23T05:06:00.000Z,23 October 2025 - 05:06 AM,09.63,126.25,031,1.7,019km S 31° E of General Luna (Surigao Del Norte),019,S 31° E,General Luna (Surigao Del Norte)
 2025-10-23T04:17:00.000Z,23 October 2025 - 04:17 AM,09.58,126.24,033,1.4,024km S 21° E of General Luna (Surigao Del Norte),024,S 21° E,General Luna (Surigao Del Norte)
@@ -1066,5 +1070,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-16T06:34:00.000Z,16 October 2025 - 06:34 AM,08.99,126.21,067,2.1,005km S 42° W of Tago (Surigao Del Sur),005,S 42° W,Tago (Surigao Del Sur)
 2025-10-16T06:32:00.000Z,16 October 2025 - 06:32 AM,08.79,126.13,021,2.2,011km N 62° W of San Agustin (Surigao Del Sur),011,N 62° W,San Agustin (Surigao Del Sur)
 2025-10-16T06:16:00.000Z,16 October 2025 - 06:16 AM,10.89,123.96,004,2.4,018km S 08° W of City Of Bogo (Cebu),018,S 08° W,City Of Bogo (Cebu)
-2025-10-16T05:45:00.000Z,16 October 2025 - 05:45 AM,06.73,126.99,023,2.6,073km S 43° E of Manay (Davao Oriental),073,S 43° E,Manay (Davao Oriental)
-2025-10-16T05:32:00.000Z,16 October 2025 - 05:32 AM,06.18,125.88,149,3.2,021km S 85° E of Don Marcelino (Davao Occidental),021,S 85° E,Don Marcelino (Davao Occidental)
