@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T13:08:00.000Z,22 October 2025 - 01:08 PM,09.64,126.02,033,2.3,022km S 44° W of General Luna (Surigao Del Norte),022,S 44° W,General Luna (Surigao Del Norte)
+2025-10-22T12:58:00.000Z,22 October 2025 - 12:58 PM,09.71,126.24,028,2.2,012km S 47° E of General Luna (Surigao Del Norte),012,S 47° E,General Luna (Surigao Del Norte)
 2025-10-22T12:05:00.000Z,22 October 2025 - 12:05 PM,11.20,124.02,001,2.1,017km N 16° E of City Of Bogo (Cebu),017,N 16° E,City Of Bogo (Cebu)
 2025-10-22T11:52:00.000Z,22 October 2025 - 11:52 AM,11.15,123.97,005,2.6,011km N 08° W of City Of Bogo (Cebu),011,N 08° W,City Of Bogo (Cebu)
 2025-10-22T11:33:00.000Z,22 October 2025 - 11:33 AM,12.56,124.75,030,2.1,004km N 03° E of Mondragon (Northern Samar),004,N 03° E,Mondragon (Northern Samar)
