@@ -1,7 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-10-22T07:21:00.000Z,22 October 2025 - 07:21 AM,11.13,124.01,019,1.6,010km N 22° E of City Of Bogo (Cebu),010,N 22° E,City Of Bogo (Cebu)
-2025-10-22T07:09:00.000Z,22 October 2025 - 07:09 AM,09.75,126.57,015,2.3,045km S 86° E of General Luna (Surigao Del Norte),045,S 86° E,General Luna (Surigao Del Norte)
-2025-10-22T06:45:00.000Z,22 October 2025 - 06:45 AM,10.86,123.87,003,2.5,024km S 29° W of City Of Bogo (Cebu),024,S 29° W,City Of Bogo (Cebu)
-2025-10-22T06:38:00.000Z,22 October 2025 - 06:38 AM,11.12,124.28,001,2.3,034km N 77° E of City Of Bogo (Cebu),034,N 77° E,City Of Bogo (Cebu)
-2025-10-22T06:29:00.000Z,22 October 2025 - 06:29 AM,11.20,123.91,002,3.3,018km N 25° W of City Of Bogo (Cebu),018,N 25° W,City Of Bogo (Cebu)
-2025-10-22T06:23:00.000Z,22 October 2025 - 06:23 AM,11.25,123.94,009,2.3,022km N 10° W of City Of Bogo (Cebu),022,N 10° W,City Of Bogo (Cebu)
+2025-10-22T09:00:00.000Z,22 October 2025 - 09:00 AM,11.26,124.08,033,2.3,026km N 26° E of City Of Bogo (Cebu),026,N 26° E,City Of Bogo (Cebu)
+2025-10-22T08:56:00.000Z,22 October 2025 - 08:56 AM,11.12,124.11,005,2.8,017km N 62° E of City Of Bogo (Cebu),017,N 62° E,City Of Bogo (Cebu)
+2025-10-22T08:18:00.000Z,22 October 2025 - 08:18 AM,11.04,124.03,008,2.4,005km S 86° E of City Of Bogo (Cebu),005,S 86° E,City Of Bogo (Cebu)
