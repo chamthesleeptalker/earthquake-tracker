@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T18:33:00.000Z,22 October 2025 - 06:33 PM,07.40,126.24,026,3.2,016km N 56° E of Maragusan (Davao De Oro),016,N 56° E,Maragusan (Davao De Oro)
+2025-10-22T18:19:00.000Z,22 October 2025 - 06:19 PM,08.82,126.42,029,1.6,017km S 52° E of Cagwait (Surigao Del Sur),017,S 52° E,Cagwait (Surigao Del Sur)
+2025-10-22T18:18:00.000Z,22 October 2025 - 06:18 PM,13.72,120.62,108,1.8,013km S 04° W of Calatagan (Batangas),013,S 04° W,Calatagan (Batangas)
 2025-10-22T18:09:00.000Z,22 October 2025 - 06:09 PM,10.53,122.19,006,2.2,014km S 22° W of Miagao (Iloilo),014,S 22° W,Miagao (Iloilo)
 2025-10-22T18:00:00.000Z,22 October 2025 - 06:00 PM,10.67,122.18,006,2.2,007km N 62° W of Miagao (Iloilo),007,N 62° W,Miagao (Iloilo)
 2025-10-22T17:53:00.000Z,22 October 2025 - 05:53 PM,08.14,126.76,013,2.9,040km N 74° E of Lingig (Surigao Del Sur),040,N 74° E,Lingig (Surigao Del Sur)
@@ -100,4 +103,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T19:27:00.000Z,21 October 2025 - 07:27 PM,04.01,123.11,576,4.3,271km S 26° W of Palimbang (Sultan Kudarat),271,S 26° W,Palimbang (Sultan Kudarat)
 2025-10-21T19:02:00.000Z,21 October 2025 - 07:02 PM,13.47,120.76,033,1.5,005km N 58° E of Abra De Ilog (Occidental Mindoro),005,N 58° E,Abra De Ilog (Occidental Mindoro)
 2025-10-21T18:55:00.000Z,21 October 2025 - 06:55 PM,08.55,126.83,027,1.6,071km S 55° E of Cagwait (Surigao Del Sur),071,S 55° E,Cagwait (Surigao Del Sur)
-2025-10-21T18:24:00.000Z,21 October 2025 - 06:24 PM,11.16,124.19,010,2.4,027km N 61° E of City Of Bogo (Cebu),027,N 61° E,City Of Bogo (Cebu)
