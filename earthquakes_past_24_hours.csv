@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T15:06:00.000Z,22 October 2025 - 03:06 PM,18.65,120.59,005,3.2,017km N 19° W of Burgos (Ilocos Norte),017,N 19° W,Burgos (Ilocos Norte)
+2025-10-22T14:47:00.000Z,22 October 2025 - 02:47 PM,11.17,123.75,026,2.2,004km N 86° E of Bantayan (Cebu),004,N 86° E,Bantayan (Cebu)
 2025-10-22T14:09:00.000Z,22 October 2025 - 02:09 PM,03.53,125.73,046,3.5,211km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),211,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-22T13:52:00.000Z,22 October 2025 - 01:52 PM,09.59,126.23,029,1.7,022km S 21° E of General Luna (Surigao Del Norte),022,S 21° E,General Luna (Surigao Del Norte)
 2025-10-22T13:39:00.000Z,22 October 2025 - 01:39 PM,13.76,120.58,086,2.0,009km S 34° W of Calatagan (Batangas),009,S 34° W,Calatagan (Batangas)
@@ -100,6 +102,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T15:32:00.000Z,21 October 2025 - 03:32 PM,07.21,126.63,004,3.1,010km East of Manay (Davao Oriental),010,East of Manay,Oriental)
 2025-10-21T15:16:00.000Z,21 October 2025 - 03:16 PM,08.80,126.38,024,2.3,015km S 32° E of Cagwait (Surigao Del Sur),015,S 32° E,Cagwait (Surigao Del Sur)
 2025-10-21T15:07:00.000Z,21 October 2025 - 03:07 PM,07.94,126.73,015,2.8,037km S 72° E of Lingig (Surigao Del Sur),037,S 72° E,Lingig (Surigao Del Sur)
-2025-10-21T15:04:00.000Z,21 October 2025 - 03:04 PM,11.14,124.18,007,2.4,025km N 64° E of City Of Bogo (Cebu),025,N 64° E,City Of Bogo (Cebu)
-2025-10-21T14:24:00.000Z,21 October 2025 - 02:24 PM,16.41,119.80,025,3.3,010km N 78° W of Bolinao (Pangasinan),010,N 78° W,Bolinao (Pangasinan)
-2025-10-21T14:15:00.000Z,21 October 2025 - 02:15 PM,08.84,126.21,032,2.7,013km S 47° W of Cagwait (Surigao Del Sur),013,S 47° W,Cagwait (Surigao Del Sur)

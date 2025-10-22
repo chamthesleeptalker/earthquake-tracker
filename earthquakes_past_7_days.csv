@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T15:06:00.000Z,22 October 2025 - 03:06 PM,18.65,120.59,005,3.2,017km N 19° W of Burgos (Ilocos Norte),017,N 19° W,Burgos (Ilocos Norte)
+2025-10-22T14:47:00.000Z,22 October 2025 - 02:47 PM,11.17,123.75,026,2.2,004km N 86° E of Bantayan (Cebu),004,N 86° E,Bantayan (Cebu)
 2025-10-22T14:09:00.000Z,22 October 2025 - 02:09 PM,03.53,125.73,046,3.5,211km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),211,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-22T13:52:00.000Z,22 October 2025 - 01:52 PM,09.59,126.23,029,1.7,022km S 21° E of General Luna (Surigao Del Norte),022,S 21° E,General Luna (Surigao Del Norte)
 2025-10-22T13:39:00.000Z,22 October 2025 - 01:39 PM,13.76,120.58,086,2.0,009km S 34° W of Calatagan (Batangas),009,S 34° W,Calatagan (Batangas)
@@ -1122,8 +1124,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-15T15:55:00.000Z,15 October 2025 - 03:55 PM,11.14,124.12,010,4.6,019km N 56° E of City Of Bogo (Cebu),019,N 56° E,City Of Bogo (Cebu)
 2025-10-15T15:44:00.000Z,15 October 2025 - 03:44 PM,07.11,127.13,010,4.9,066km S 80° E of Manay (Davao Oriental),066,S 80° E,Manay (Davao Oriental)
 2025-10-15T15:08:00.000Z,15 October 2025 - 03:08 PM,07.33,126.48,025,2.5,015km N 27° W of Manay (Davao Oriental),015,N 27° W,Manay (Davao Oriental)
-2025-10-15T14:45:00.000Z,15 October 2025 - 02:45 PM,07.20,126.88,026,2.2,038km S 89° E of Manay (Davao Oriental),038,S 89° E,Manay (Davao Oriental)
-2025-10-15T14:40:00.000Z,15 October 2025 - 02:40 PM,11.12,123.96,024,2.0,008km N 14° W of City Of Bogo (Cebu),008,N 14° W,City Of Bogo (Cebu)
-2025-10-15T14:38:00.000Z,15 October 2025 - 02:38 PM,11.02,124.10,004,1.9,014km S 76° E of City Of Bogo (Cebu),014,S 76° E,City Of Bogo (Cebu)
-2025-10-15T14:23:00.000Z,15 October 2025 - 02:23 PM,10.83,125.36,010,4.3,031km S 5° W of Balangiga (Eastern Samar),031,S 5° W,Balangiga (Eastern Samar)
-2025-10-15T14:20:00.000Z,15 October 2025 - 02:20 PM,12.13,125.12,037,1.5,013km N 50° E of San Jose De Buan (Samar),013,N 50° E,San Jose De Buan (Samar)
