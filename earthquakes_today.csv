@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T22:32:00.000Z,22 October 2025 - 10:32 PM,11.06,123.90,036,2.1,009km N 77° W of City Of Bogo (Cebu),009,N 77° W,City Of Bogo (Cebu)
+2025-10-22T22:24:00.000Z,22 October 2025 - 10:24 PM,09.63,126.19,036,1.8,017km S 13° E of General Luna (Surigao Del Norte),017,S 13° E,General Luna (Surigao Del Norte)
 2025-10-22T21:31:00.000Z,22 October 2025 - 09:31 PM,10.99,123.95,021,2.1,007km S 27° W of City Of Bogo (Cebu),007,S 27° W,City Of Bogo (Cebu)
 2025-10-22T21:31:00.000Z,22 October 2025 - 09:31 PM,13.50,121.53,026,1.8,032km N 53° E of Naujan (Oriental Mindoro),032,N 53° E,Naujan (Oriental Mindoro)
 2025-10-22T21:22:00.000Z,22 October 2025 - 09:22 PM,08.79,126.63,012,3.6,039km S 69° E of Cagwait (Surigao Del Sur),039,S 69° E,Cagwait (Surigao Del Sur)
