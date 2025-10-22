@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T02:34:00.000Z,23 October 2025 - 02:34 AM,10.94,123.77,002,2.7,026km S 63° W of City Of Bogo (Cebu),026,S 63° W,City Of Bogo (Cebu)
 2025-10-23T02:02:00.000Z,23 October 2025 - 02:02 AM,15.92,121.88,011,2.4,026km S 19° W of Dinalungan (Aurora),026,S 19° W,Dinalungan (Aurora)
 2025-10-23T01:50:00.000Z,23 October 2025 - 01:50 AM,11.13,124.10,003,2.4,016km N 57° E of City Of Bogo (Cebu),016,N 57° E,City Of Bogo (Cebu)
 2025-10-23T01:44:00.000Z,23 October 2025 - 01:44 AM,11.21,123.97,007,1.7,018km N 05° W of City Of Bogo (Cebu),018,N 05° W,City Of Bogo (Cebu)
@@ -1079,10 +1080,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-16T02:49:00.000Z,16 October 2025 - 02:49 AM,10.46,123.09,004,2.1,017km S 19° E of Murcia (Negros Occidental),017,S 19° E,Murcia (Negros Occidental)
 2025-10-16T02:47:00.000Z,16 October 2025 - 02:47 AM,07.32,126.86,030,1.9,038km N 71° E of Manay (Davao Oriental),038,N 71° E,Manay (Davao Oriental)
 2025-10-16T02:43:00.000Z,16 October 2025 - 02:43 AM,09.88,126.65,001,2.3,056km N 79° E of General Luna (Surigao Del Norte),056,N 79° E,General Luna (Surigao Del Norte)
-2025-10-16T02:31:00.000Z,16 October 2025 - 02:31 AM,07.18,127.06,017,3.0,058km S 87° E of Manay (Davao Oriental),058,S 87° E,Manay (Davao Oriental)
-2025-10-16T02:25:00.000Z,16 October 2025 - 02:25 AM,10.93,123.95,011,2.1,013km S 13° W of City Of Bogo (Cebu),013,S 13° W,City Of Bogo (Cebu)
-2025-10-16T02:21:00.000Z,16 October 2025 - 02:21 AM,19.89,121.73,069,2.5,046km N 25° W of Babuyan Island (Calayan) (Cagayan),046,N 25° W,Babuyan Island (Calayan) (Cagayan)
-2025-10-16T02:21:00.000Z,16 October 2025 - 02:21 AM,11.14,124.11,008,2.7,018km N 53° E of City Of Bogo (Cebu),018,N 53° E,City Of Bogo (Cebu)
-2025-10-16T02:17:00.000Z,16 October 2025 - 02:17 AM,09.65,126.15,002,2.9,016km S 35° E of Dapa (Surigao Del Norte),016,S 35° E,Dapa (Surigao Del Norte)
-2025-10-16T02:09:00.000Z,16 October 2025 - 02:09 AM,15.55,119.88,024,5.0,008km N 77° W of Masinloc (Zambales),008,N 77° W,Masinloc (Zambales)
-2025-10-16T02:04:00.000Z,16 October 2025 - 02:04 AM,15.55,120.02,016,3.2,008km N 73° E of Masinloc (Zambales),008,N 73° E,Masinloc (Zambales)
