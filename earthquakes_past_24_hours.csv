@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T05:17:00.000Z,23 October 2025 - 05:17 AM,10.90,123.92,002,2.0,018km S 21° W of City Of Bogo (Cebu),018,S 21° W,City Of Bogo (Cebu)
+2025-10-23T05:06:00.000Z,23 October 2025 - 05:06 AM,09.63,126.25,031,1.7,019km S 31° E of General Luna (Surigao Del Norte),019,S 31° E,General Luna (Surigao Del Norte)
 2025-10-23T04:17:00.000Z,23 October 2025 - 04:17 AM,09.58,126.24,033,1.4,024km S 21° E of General Luna (Surigao Del Norte),024,S 21° E,General Luna (Surigao Del Norte)
 2025-10-23T04:10:00.000Z,23 October 2025 - 04:10 AM,11.15,123.94,010,2.1,012km N 19° W of City Of Bogo (Cebu),012,N 19° W,City Of Bogo (Cebu)
 2025-10-23T04:07:00.000Z,23 October 2025 - 04:07 AM,07.40,126.67,011,2.8,025km N 34° E of Manay (Davao Oriental),025,N 34° E,Manay (Davao Oriental)
@@ -91,4 +93,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T06:05:00.000Z,22 October 2025 - 06:05 AM,07.96,126.38,132,1.7,009km S 24° W of Lingig (Surigao Del Sur),009,S 24° W,Lingig (Surigao Del Sur)
 2025-10-22T05:37:00.000Z,22 October 2025 - 05:37 AM,13.65,120.63,092,1.9,020km S 01° W of Calatagan (Batangas),020,S 01° W,Calatagan (Batangas)
 2025-10-22T05:35:00.000Z,22 October 2025 - 05:35 AM,07.87,125.18,043,2.0,011km S 72° E of City Of Valencia (Bukidnon),011,S 72° E,City Of Valencia (Bukidnon)
-2025-10-22T05:03:00.000Z,22 October 2025 - 05:03 AM,10.51,123.68,034,1.9,004km N 85° W of Balamban (Cebu),004,N 85° W,Balamban (Cebu)
