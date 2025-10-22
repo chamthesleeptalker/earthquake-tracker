@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T14:09:00.000Z,22 October 2025 - 02:09 PM,03.53,125.73,046,3.5,211km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),211,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2025-10-22T13:52:00.000Z,22 October 2025 - 01:52 PM,09.59,126.23,029,1.7,022km S 21° E of General Luna (Surigao Del Norte),022,S 21° E,General Luna (Surigao Del Norte)
+2025-10-22T13:39:00.000Z,22 October 2025 - 01:39 PM,13.76,120.58,086,2.0,009km S 34° W of Calatagan (Batangas),009,S 34° W,Calatagan (Batangas)
 2025-10-22T13:21:00.000Z,22 October 2025 - 01:21 PM,09.64,126.21,031,2.2,017km S 19° E of General Luna (Surigao Del Norte),017,S 19° E,General Luna (Surigao Del Norte)
 2025-10-22T13:08:00.000Z,22 October 2025 - 01:08 PM,09.64,126.02,033,2.3,022km S 44° W of General Luna (Surigao Del Norte),022,S 44° W,General Luna (Surigao Del Norte)
 2025-10-22T12:58:00.000Z,22 October 2025 - 12:58 PM,09.71,126.24,028,2.2,012km S 47° E of General Luna (Surigao Del Norte),012,S 47° E,General Luna (Surigao Del Norte)
@@ -100,4 +103,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T15:04:00.000Z,21 October 2025 - 03:04 PM,11.14,124.18,007,2.4,025km N 64° E of City Of Bogo (Cebu),025,N 64° E,City Of Bogo (Cebu)
 2025-10-21T14:24:00.000Z,21 October 2025 - 02:24 PM,16.41,119.80,025,3.3,010km N 78° W of Bolinao (Pangasinan),010,N 78° W,Bolinao (Pangasinan)
 2025-10-21T14:15:00.000Z,21 October 2025 - 02:15 PM,08.84,126.21,032,2.7,013km S 47° W of Cagwait (Surigao Del Sur),013,S 47° W,Cagwait (Surigao Del Sur)
-2025-10-21T14:01:00.000Z,21 October 2025 - 02:01 PM,09.70,126.18,033,1.7,010km S 14° E of General Luna (Surigao Del Norte),010,S 14° E,General Luna (Surigao Del Norte)
