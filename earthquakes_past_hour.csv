@@ -1,7 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T07:25:00.000Z,23 October 2025 - 07:25 AM,10.98,123.99,016,2.3,008km S 07° E of City Of Bogo (Cebu),008,S 07° E,City Of Bogo (Cebu)
+2025-10-23T07:12:00.000Z,23 October 2025 - 07:12 AM,08.95,126.82,003,2.3,057km N 86° E of Cagwait (Surigao Del Sur),057,N 86° E,Cagwait (Surigao Del Sur)
+2025-10-23T07:11:00.000Z,23 October 2025 - 07:11 AM,09.66,126.22,034,1.2,015km S 28° E of General Luna (Surigao Del Norte),015,S 28° E,General Luna (Surigao Del Norte)
 2025-10-23T06:58:00.000Z,23 October 2025 - 06:58 AM,10.94,123.89,002,2.3,016km S 40° W of City Of Bogo (Cebu),016,S 40° W,City Of Bogo (Cebu)
 2025-10-23T06:49:00.000Z,23 October 2025 - 06:49 AM,08.09,122.92,025,1.7,007km S 06° W of Leon B. Postigo (Zamboanga Del Norte),007,S 06° W,Leon B. Postigo (Zamboanga Del Norte)
 2025-10-23T06:35:00.000Z,23 October 2025 - 06:35 AM,11.14,124.00,032,2.3,011km N 12° E of City Of Bogo (Cebu),011,N 12° E,City Of Bogo (Cebu)
 2025-10-23T06:29:00.000Z,23 October 2025 - 06:29 AM,11.10,123.98,029,1.8,006km N 04° E of City Of Bogo (Cebu),006,N 04° E,City Of Bogo (Cebu)
-2025-10-23T06:01:00.000Z,23 October 2025 - 06:01 AM,11.14,123.96,019,2.6,011km N 13° W of City Of Bogo (Cebu),011,N 13° W,City Of Bogo (Cebu)
-2025-10-23T06:00:00.000Z,23 October 2025 - 06:00 AM,05.10,125.47,041,3.1,036km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
