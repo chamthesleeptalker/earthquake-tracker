@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T00:09:00.000Z,23 October 2025 - 12:09 AM,16.13,120.72,025,2.0,008km N 32° W of San Nicolas (Pangasinan),008,N 32° W,San Nicolas (Pangasinan)
+2025-10-23T00:03:00.000Z,23 October 2025 - 12:03 AM,07.80,126.43,029,2.1,003km N 76° W of Cateel (Davao Oriental),003,N 76° W,Cateel (Davao Oriental)
+2025-10-23T00:02:00.000Z,23 October 2025 - 12:02 AM,11.10,123.98,028,1.5,006km N 03° E of City Of Bogo (Cebu),006,N 03° E,City Of Bogo (Cebu)
 2025-10-22T23:29:00.000Z,22 October 2025 - 11:29 PM,11.14,124.07,029,2.8,014km N 44° E of City Of Bogo (Cebu),014,N 44° E,City Of Bogo (Cebu)
 2025-10-22T23:26:00.000Z,22 October 2025 - 11:26 PM,13.73,122.83,011,1.8,011km S 51° W of Lupi (Camarines Sur),011,S 51° W,Lupi (Camarines Sur)
 2025-10-22T22:32:00.000Z,22 October 2025 - 10:32 PM,11.06,123.90,036,2.1,009km N 77° W of City Of Bogo (Cebu),009,N 77° W,City Of Bogo (Cebu)
@@ -101,6 +104,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T00:20:00.000Z,22 October 2025 - 12:20 AM,12.69,123.57,006,1.8,012km N 64° W of Monreal (Masbate),012,N 64° W,Monreal (Masbate)
 2025-10-22T00:19:00.000Z,22 October 2025 - 12:19 AM,09.65,126.17,033,1.5,015km S 06° E of General Luna (Surigao Del Norte),015,S 06° E,General Luna (Surigao Del Norte)
 2025-10-22T00:19:00.000Z,22 October 2025 - 12:19 AM,11.10,124.13,033,1.8,017km N 69° E of City Of Bogo (Cebu),017,N 69° E,City Of Bogo (Cebu)
-2025-10-22T00:06:00.000Z,22 October 2025 - 12:06 AM,10.79,122.89,013,2.0,009km S 81° W of City Of Silay (Negros Occidental),009,S 81° W,City Of Silay (Negros Occidental)
-2025-10-21T23:56:00.000Z,21 October 2025 - 11:56 PM,11.13,123.83,032,2.1,018km N 61° W of City Of Bogo (Cebu),018,N 61° W,City Of Bogo (Cebu)
-2025-10-21T23:34:00.000Z,21 October 2025 - 11:34 PM,09.67,126.20,033,1.8,014km S 20° E of General Luna (Surigao Del Norte),014,S 20° E,General Luna (Surigao Del Norte)
