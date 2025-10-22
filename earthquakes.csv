@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T16:32:00.000Z,22 October 2025 - 04:32 PM,11.38,124.29,018,2.1,007km S 68° W of San Isidro (Leyte),007,S 68° W,San Isidro (Leyte)
+2025-10-22T16:29:00.000Z,22 October 2025 - 04:29 PM,07.27,127.43,002,3.1,098km N 86° E of Manay (Davao Oriental),098,N 86° E,Manay (Davao Oriental)
 2025-10-22T15:42:00.000Z,22 October 2025 - 03:42 PM,09.48,126.03,001,2.3,016km N 37° E of Carrascal (Surigao Del Sur),016,N 37° E,Carrascal (Surigao Del Sur)
 2025-10-22T15:16:00.000Z,22 October 2025 - 03:16 PM,13.14,120.45,017,1.8,018km S 59° W of Mamburao (Occidental Mindoro),018,S 59° W,Mamburao (Occidental Mindoro)
 2025-10-22T15:08:00.000Z,22 October 2025 - 03:08 PM,09.58,126.17,034,2.1,022km S 16° E of General Luna (Surigao Del Norte),022,S 16° E,General Luna (Surigao Del Norte)
