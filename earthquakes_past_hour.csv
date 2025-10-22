@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T12:05:00.000Z,22 October 2025 - 12:05 PM,11.20,124.02,001,2.1,017km N 16° E of City Of Bogo (Cebu),017,N 16° E,City Of Bogo (Cebu)
+2025-10-22T11:52:00.000Z,22 October 2025 - 11:52 AM,11.15,123.97,005,2.6,011km N 08° W of City Of Bogo (Cebu),011,N 08° W,City Of Bogo (Cebu)
 2025-10-22T11:33:00.000Z,22 October 2025 - 11:33 AM,12.56,124.75,030,2.1,004km N 03° E of Mondragon (Northern Samar),004,N 03° E,Mondragon (Northern Samar)
 2025-10-22T11:30:00.000Z,22 October 2025 - 11:30 AM,11.15,123.96,012,1.8,012km N 09° W of City Of Bogo (Cebu),012,N 09° W,City Of Bogo (Cebu)
