@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-22T18:09:00.000Z,22 October 2025 - 06:09 PM,10.53,122.19,006,2.2,014km S 22° W of Miagao (Iloilo),014,S 22° W,Miagao (Iloilo)
+2025-10-22T18:00:00.000Z,22 October 2025 - 06:00 PM,10.67,122.18,006,2.2,007km N 62° W of Miagao (Iloilo),007,N 62° W,Miagao (Iloilo)
+2025-10-22T17:53:00.000Z,22 October 2025 - 05:53 PM,08.14,126.76,013,2.9,040km N 74° E of Lingig (Surigao Del Sur),040,N 74° E,Lingig (Surigao Del Sur)
+2025-10-22T17:41:00.000Z,22 October 2025 - 05:41 PM,10.90,123.88,005,2.5,019km S 34° W of City Of Bogo (Cebu),019,S 34° W,City Of Bogo (Cebu)
 2025-10-22T17:25:00.000Z,22 October 2025 - 05:25 PM,13.46,123.40,033,2.6,004km N 73° E of Baao (Camarines Sur),004,N 73° E,Baao (Camarines Sur)
 2025-10-22T17:21:00.000Z,22 October 2025 - 05:21 PM,10.99,123.98,002,2.7,007km S 02° W of City Of Bogo (Cebu),007,S 02° W,City Of Bogo (Cebu)
 2025-10-22T16:57:00.000Z,22 October 2025 - 04:57 PM,10.99,123.98,035,2.6,007km S 04° W of City Of Bogo (Cebu),007,S 04° W,City Of Bogo (Cebu)
