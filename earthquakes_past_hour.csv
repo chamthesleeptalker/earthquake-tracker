@@ -1,8 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T01:07:00.000Z,24 October 2025 - 01:07 AM,11.10,123.97,001,1.9,006km N 08° W of City Of Bogo (Cebu),006,N 08° W,City Of Bogo (Cebu)
+2025-10-24T01:01:00.000Z,24 October 2025 - 01:01 AM,10.78,123.52,001,2.6,007km S 17° E of City Of Escalante (Negros Occidental),007,S 17° E,City Of Escalante (Negros Occidental)
+2025-10-24T00:58:00.000Z,24 October 2025 - 12:58 AM,08.92,126.52,020,2.8,024km S 90° E of Cagwait (Surigao Del Sur),024,S 90° E,Cagwait (Surigao Del Sur)
+2025-10-24T00:53:00.000Z,24 October 2025 - 12:53 AM,08.18,126.75,012,1.8,041km N 68° E of Lingig (Surigao Del Sur),041,N 68° E,Lingig (Surigao Del Sur)
+2025-10-24T00:52:00.000Z,24 October 2025 - 12:52 AM,08.55,126.11,001,2.9,002km N 26° W of Barobo (Surigao Del Sur),002,N 26° W,Barobo (Surigao Del Sur)
 2025-10-24T00:33:00.000Z,24 October 2025 - 12:33 AM,07.19,126.71,026,2.4,018km S 84° E of Manay (Davao Oriental),018,S 84° E,Manay (Davao Oriental)
 2025-10-24T00:32:00.000Z,24 October 2025 - 12:32 AM,10.90,123.92,005,2.3,018km S 23° W of City Of Bogo (Cebu),018,S 23° W,City Of Bogo (Cebu)
 2025-10-24T00:23:00.000Z,24 October 2025 - 12:23 AM,07.12,126.84,029,2.4,034km S 74° E of Manay (Davao Oriental),034,S 74° E,Manay (Davao Oriental)
-2025-10-23T23:50:00.000Z,23 October 2025 - 11:50 PM,19.13,121.29,012,2.8,009km N 76° E of Dalupiri Island (Calayan) (Cagayan),009,N 76° E,Dalupiri Island (Calayan) (Cagayan)
-2025-10-23T23:48:00.000Z,23 October 2025 - 11:48 PM,10.63,124.84,007,1.7,007km S 44° E of City Of Baybay (Leyte),007,S 44° E,City Of Baybay (Leyte)
-2025-10-23T23:38:00.000Z,23 October 2025 - 11:38 PM,11.14,124.02,007,2.2,011km N 24° E of City Of Bogo (Cebu),011,N 24° E,City Of Bogo (Cebu)
-2025-10-23T23:34:00.000Z,23 October 2025 - 11:34 PM,10.88,123.85,001,2.6,023km S 39° W of City Of Bogo (Cebu),023,S 39° W,City Of Bogo (Cebu)
