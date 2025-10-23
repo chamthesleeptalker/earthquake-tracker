@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T01:23:00.000Z,24 October 2025 - 01:23 AM,09.60,126.16,030,2.6,020km S 02° E of General Luna (Surigao Del Norte),020,S 02° E,General Luna (Surigao Del Norte)
+2025-10-24T01:20:00.000Z,24 October 2025 - 01:20 AM,13.10,123.30,006,2.0,018km N 72° W of Pio Duran (Albay),018,N 72° W,Pio Duran (Albay)
 2025-10-24T01:07:00.000Z,24 October 2025 - 01:07 AM,11.10,123.97,001,1.9,006km N 08° W of City Of Bogo (Cebu),006,N 08° W,City Of Bogo (Cebu)
 2025-10-24T01:01:00.000Z,24 October 2025 - 01:01 AM,10.78,123.52,001,2.6,007km S 17° E of City Of Escalante (Negros Occidental),007,S 17° E,City Of Escalante (Negros Occidental)
 2025-10-24T00:58:00.000Z,24 October 2025 - 12:58 AM,08.92,126.52,020,2.8,024km S 90° E of Cagwait (Surigao Del Sur),024,S 90° E,Cagwait (Surigao Del Sur)
