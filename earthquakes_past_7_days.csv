@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T23:50:00.000Z,23 October 2025 - 11:50 PM,19.13,121.29,012,2.8,009km N 76° E of Dalupiri Island (Calayan) (Cagayan),009,N 76° E,Dalupiri Island (Calayan) (Cagayan)
+2025-10-23T23:48:00.000Z,23 October 2025 - 11:48 PM,10.63,124.84,007,1.7,007km S 44° E of City Of Baybay (Leyte),007,S 44° E,City Of Baybay (Leyte)
+2025-10-23T23:38:00.000Z,23 October 2025 - 11:38 PM,11.14,124.02,007,2.2,011km N 24° E of City Of Bogo (Cebu),011,N 24° E,City Of Bogo (Cebu)
+2025-10-23T23:34:00.000Z,23 October 2025 - 11:34 PM,10.88,123.85,001,2.6,023km S 39° W of City Of Bogo (Cebu),023,S 39° W,City Of Bogo (Cebu)
 2025-10-23T23:28:00.000Z,23 October 2025 - 11:28 PM,18.54,120.74,004,2.0,003km N 88° W of Bangui (Ilocos Norte),003,N 88° W,Bangui (Ilocos Norte)
 2025-10-23T23:26:00.000Z,23 October 2025 - 11:26 PM,08.19,127.00,002,2.8,067km N 75° E of Lingig (Surigao Del Sur),067,N 75° E,Lingig (Surigao Del Sur)
 2025-10-23T23:19:00.000Z,23 October 2025 - 11:19 PM,11.22,123.93,030,3.0,020km N 15° W of City Of Bogo (Cebu),020,N 15° W,City Of Bogo (Cebu)
@@ -1054,5 +1058,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-17T00:17:00.000Z,17 October 2025 - 12:17 AM,17.87,120.82,036,1.7,016km N 02° W of Tineg (Abra),016,N 02° W,Tineg (Abra)
 2025-10-17T00:13:00.000Z,17 October 2025 - 12:13 AM,07.63,126.08,033,1.6,004km S 10° W of Compostela (Davao De Oro),004,S 10° W,Compostela (Davao De Oro)
 2025-10-16T23:59:00.000Z,16 October 2025 - 11:59 PM,13.58,120.58,031,2.0,022km N 46° W of Abra De Ilog (Occidental Mindoro),022,N 46° W,Abra De Ilog (Occidental Mindoro)
-2025-10-16T23:47:00.000Z,16 October 2025 - 11:47 PM,10.99,124.00,032,1.6,006km S 18° E of City Of Bogo (Cebu),006,S 18° E,City Of Bogo (Cebu)
-2025-10-16T23:30:00.000Z,16 October 2025 - 11:30 PM,11.06,123.98,031,1.4,001km North of City Of Bogo (Cebu),001,North of City,Bogo (Cebu)
