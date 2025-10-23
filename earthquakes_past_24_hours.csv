@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T16:25:00.000Z,23 October 2025 - 04:25 PM,13.28,120.27,022,2.4,026km S 54° W of Paluan (Occidental Mindoro),026,S 54° W,Paluan (Occidental Mindoro)
 2025-10-23T15:25:00.000Z,23 October 2025 - 03:25 PM,11.00,123.99,003,3.0,005km S 13° E of City Of Bogo (Cebu),005,S 13° E,City Of Bogo (Cebu)
 2025-10-23T15:05:00.000Z,23 October 2025 - 03:05 PM,09.00,126.48,024,2.2,022km N 67° E of Cagwait (Surigao Del Sur),022,N 67° E,Cagwait (Surigao Del Sur)
 2025-10-23T14:24:00.000Z,23 October 2025 - 02:24 PM,07.20,126.77,010,4.5,025km S 87° E of Manay (Davao Oriental),025,S 87° E,Manay (Davao Oriental)
@@ -95,4 +96,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T16:57:00.000Z,22 October 2025 - 04:57 PM,10.99,123.98,035,2.6,007km S 04° W of City Of Bogo (Cebu),007,S 04° W,City Of Bogo (Cebu)
 2025-10-22T16:32:00.000Z,22 October 2025 - 04:32 PM,11.38,124.29,018,2.1,007km S 68° W of San Isidro (Leyte),007,S 68° W,San Isidro (Leyte)
 2025-10-22T16:29:00.000Z,22 October 2025 - 04:29 PM,07.27,127.43,002,3.1,098km N 86° E of Manay (Davao Oriental),098,N 86° E,Manay (Davao Oriental)
-2025-10-22T15:42:00.000Z,22 October 2025 - 03:42 PM,09.48,126.03,001,2.3,016km N 37° E of Carrascal (Surigao Del Sur),016,N 37° E,Carrascal (Surigao Del Sur)
