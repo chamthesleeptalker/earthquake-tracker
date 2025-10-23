@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T00:33:00.000Z,24 October 2025 - 12:33 AM,07.19,126.71,026,2.4,018km S 84° E of Manay (Davao Oriental),018,S 84° E,Manay (Davao Oriental)
+2025-10-24T00:32:00.000Z,24 October 2025 - 12:32 AM,10.90,123.92,005,2.3,018km S 23° W of City Of Bogo (Cebu),018,S 23° W,City Of Bogo (Cebu)
+2025-10-24T00:23:00.000Z,24 October 2025 - 12:23 AM,07.12,126.84,029,2.4,034km S 74° E of Manay (Davao Oriental),034,S 74° E,Manay (Davao Oriental)
 2025-10-23T23:50:00.000Z,23 October 2025 - 11:50 PM,19.13,121.29,012,2.8,009km N 76° E of Dalupiri Island (Calayan) (Cagayan),009,N 76° E,Dalupiri Island (Calayan) (Cagayan)
 2025-10-23T23:48:00.000Z,23 October 2025 - 11:48 PM,10.63,124.84,007,1.7,007km S 44° E of City Of Baybay (Leyte),007,S 44° E,City Of Baybay (Leyte)
 2025-10-23T23:38:00.000Z,23 October 2025 - 11:38 PM,11.14,124.02,007,2.2,011km N 24° E of City Of Bogo (Cebu),011,N 24° E,City Of Bogo (Cebu)
@@ -1053,8 +1056,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-17T00:52:00.000Z,17 October 2025 - 12:52 AM,11.09,124.05,029,2.1,009km N 56° E of City Of Bogo (Cebu),009,N 56° E,City Of Bogo (Cebu)
 2025-10-17T00:52:00.000Z,17 October 2025 - 12:52 AM,14.01,120.51,116,1.9,015km S 61° W of Nasugbu (Batangas),015,S 61° W,Nasugbu (Batangas)
 2025-10-17T00:43:00.000Z,17 October 2025 - 12:43 AM,07.32,127.24,061,3.1,079km N 81° E of Manay (Davao Oriental),079,N 81° E,Manay (Davao Oriental)
-2025-10-17T00:28:00.000Z,17 October 2025 - 12:28 AM,11.13,124.12,007,2.0,018km N 61° E of City Of Bogo (Cebu),018,N 61° E,City Of Bogo (Cebu)
-2025-10-17T00:20:00.000Z,17 October 2025 - 12:20 AM,11.12,124.02,033,2.0,009km N 27° E of City Of Bogo (Cebu),009,N 27° E,City Of Bogo (Cebu)
-2025-10-17T00:17:00.000Z,17 October 2025 - 12:17 AM,17.87,120.82,036,1.7,016km N 02° W of Tineg (Abra),016,N 02° W,Tineg (Abra)
-2025-10-17T00:13:00.000Z,17 October 2025 - 12:13 AM,07.63,126.08,033,1.6,004km S 10° W of Compostela (Davao De Oro),004,S 10° W,Compostela (Davao De Oro)
-2025-10-16T23:59:00.000Z,16 October 2025 - 11:59 PM,13.58,120.58,031,2.0,022km N 46° W of Abra De Ilog (Occidental Mindoro),022,N 46° W,Abra De Ilog (Occidental Mindoro)
