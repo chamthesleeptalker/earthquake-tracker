@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T21:10:00.000Z,23 October 2025 - 09:10 PM,07.07,126.85,025,3.1,038km S 65° E of Manay (Davao Oriental),038,S 65° E,Manay (Davao Oriental)
+2025-10-23T21:01:00.000Z,23 October 2025 - 09:01 PM,15.92,119.48,025,2.5,040km S 58° W of Agno (Pangasinan),040,S 58° W,Agno (Pangasinan)
+2025-10-23T20:53:00.000Z,23 October 2025 - 08:53 PM,11.00,123.84,024,2.8,016km S 71° W of City Of Bogo (Cebu),016,S 71° W,City Of Bogo (Cebu)
 2025-10-23T20:15:00.000Z,23 October 2025 - 08:15 PM,11.13,124.07,004,1.9,013km N 49° E of City Of Bogo (Cebu),013,N 49° E,City Of Bogo (Cebu)
 2025-10-23T20:15:00.000Z,23 October 2025 - 08:15 PM,09.69,125.75,021,2.2,012km N 29° E of Gigaquit (Surigao Del Norte),012,N 29° E,Gigaquit (Surigao Del Norte)
 2025-10-23T19:29:00.000Z,23 October 2025 - 07:29 PM,12.22,119.79,036,2.4,019km N 59° W of Busuanga (Palawan),019,N 59° W,Busuanga (Palawan)
@@ -81,7 +84,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T21:31:00.000Z,22 October 2025 - 09:31 PM,13.50,121.53,026,1.8,032km N 53° E of Naujan (Oriental Mindoro),032,N 53° E,Naujan (Oriental Mindoro)
 2025-10-22T21:22:00.000Z,22 October 2025 - 09:22 PM,08.79,126.63,012,3.6,039km S 69° E of Cagwait (Surigao Del Sur),039,S 69° E,Cagwait (Surigao Del Sur)
 2025-10-22T21:19:00.000Z,22 October 2025 - 09:19 PM,11.12,124.17,006,2.4,022km N 69° E of City Of Bogo (Cebu),022,N 69° E,City Of Bogo (Cebu)
-2025-10-22T20:52:00.000Z,22 October 2025 - 08:52 PM,07.19,126.57,016,3.1,004km S 57° E of Manay (Davao Oriental),004,S 57° E,Manay (Davao Oriental)
-2025-10-22T20:46:00.000Z,22 October 2025 - 08:46 PM,07.35,127.32,035,3.2,088km N 80° E of Manay (Davao Oriental),088,N 80° E,Manay (Davao Oriental)
-2025-10-22T20:40:00.000Z,22 October 2025 - 08:40 PM,10.99,123.97,013,2.6,006km S 10° W of City Of Bogo (Cebu),006,S 10° W,City Of Bogo (Cebu)
-2025-10-22T20:15:00.000Z,22 October 2025 - 08:15 PM,09.68,126.14,032,2.0,012km S 10° W of General Luna (Surigao Del Norte),012,S 10° W,General Luna (Surigao Del Norte)
