@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T13:01:00.000Z,23 October 2025 - 01:01 PM,11.05,123.95,017,2.6,003km N 82° W of City Of Bogo (Cebu),003,N 82° W,City Of Bogo (Cebu)
+2025-10-23T12:55:00.000Z,23 October 2025 - 12:55 PM,06.53,124.04,027,2.6,003km S 21° W of Kalamansig (Sultan Kudarat),003,S 21° W,Kalamansig (Sultan Kudarat)
 2025-10-23T12:01:00.000Z,23 October 2025 - 12:01 PM,16.59,120.74,033,1.6,005km S 36° W of Atok (Benguet),005,S 36° W,Atok (Benguet)
 2025-10-23T11:56:00.000Z,23 October 2025 - 11:56 AM,11.13,124.15,005,2.0,020km N 63° E of City Of Bogo (Cebu),020,N 63° E,City Of Bogo (Cebu)
 2025-10-23T11:46:00.000Z,23 October 2025 - 11:46 AM,09.59,126.20,033,1.2,022km S 13° E of General Luna (Surigao Del Norte),022,S 13° E,General Luna (Surigao Del Norte)
@@ -100,5 +102,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T13:39:00.000Z,22 October 2025 - 01:39 PM,13.76,120.58,086,2.0,009km S 34° W of Calatagan (Batangas),009,S 34° W,Calatagan (Batangas)
 2025-10-22T13:21:00.000Z,22 October 2025 - 01:21 PM,09.64,126.21,031,2.2,017km S 19° E of General Luna (Surigao Del Norte),017,S 19° E,General Luna (Surigao Del Norte)
 2025-10-22T13:08:00.000Z,22 October 2025 - 01:08 PM,09.64,126.02,033,2.3,022km S 44° W of General Luna (Surigao Del Norte),022,S 44° W,General Luna (Surigao Del Norte)
-2025-10-22T12:58:00.000Z,22 October 2025 - 12:58 PM,09.71,126.24,028,2.2,012km S 47° E of General Luna (Surigao Del Norte),012,S 47° E,General Luna (Surigao Del Norte)
-2025-10-22T12:05:00.000Z,22 October 2025 - 12:05 PM,11.20,124.02,001,2.1,017km N 16° E of City Of Bogo (Cebu),017,N 16° E,City Of Bogo (Cebu)
