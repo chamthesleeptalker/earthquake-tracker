@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T23:28:00.000Z,23 October 2025 - 11:28 PM,18.54,120.74,004,2.0,003km N 88° W of Bangui (Ilocos Norte),003,N 88° W,Bangui (Ilocos Norte)
+2025-10-23T23:26:00.000Z,23 October 2025 - 11:26 PM,08.19,127.00,002,2.8,067km N 75° E of Lingig (Surigao Del Sur),067,N 75° E,Lingig (Surigao Del Sur)
+2025-10-23T23:19:00.000Z,23 October 2025 - 11:19 PM,11.22,123.93,030,3.0,020km N 15° W of City Of Bogo (Cebu),020,N 15° W,City Of Bogo (Cebu)
+2025-10-23T23:13:00.000Z,23 October 2025 - 11:13 PM,09.69,126.20,029,2.3,011km S 27° E of General Luna (Surigao Del Norte),011,S 27° E,General Luna (Surigao Del Norte)
 2025-10-23T23:05:00.000Z,23 October 2025 - 11:05 PM,10.56,124.83,002,2.3,012km N 57° E of Inopacan (Leyte),012,N 57° E,Inopacan (Leyte)
 2025-10-23T23:01:00.000Z,23 October 2025 - 11:01 PM,11.03,124.09,002,2.3,012km S 79° E of City Of Bogo (Cebu),012,S 79° E,City Of Bogo (Cebu)
 2025-10-23T22:56:00.000Z,23 October 2025 - 10:56 PM,08.65,126.75,007,2.0,058km S 60° E of Cagwait (Surigao Del Sur),058,S 60° E,Cagwait (Surigao Del Sur)
@@ -8,4 +12,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-23T22:38:00.000Z,23 October 2025 - 10:38 PM,11.18,123.86,008,2.5,019km N 41° W of City Of Bogo (Cebu),019,N 41° W,City Of Bogo (Cebu)
 2025-10-23T22:38:00.000Z,23 October 2025 - 10:38 PM,11.18,123.86,008,2.5,019km N 41° W of City Of Bogo (Cebu),019,N 41° W,City Of Bogo (Cebu)
 2025-10-23T22:32:00.000Z,23 October 2025 - 10:32 PM,11.11,123.96,002,3.2,007km N 15° W of City Of Bogo (Cebu),007,N 15° W,City Of Bogo (Cebu)
-2025-10-23T22:16:00.000Z,23 October 2025 - 10:16 PM,09.69,126.27,027,2.2,016km S 48° E of General Luna (Surigao Del Norte),016,S 48° E,General Luna (Surigao Del Norte)

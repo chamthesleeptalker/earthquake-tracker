@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T23:28:00.000Z,23 October 2025 - 11:28 PM,18.54,120.74,004,2.0,003km N 88° W of Bangui (Ilocos Norte),003,N 88° W,Bangui (Ilocos Norte)
+2025-10-23T23:26:00.000Z,23 October 2025 - 11:26 PM,08.19,127.00,002,2.8,067km N 75° E of Lingig (Surigao Del Sur),067,N 75° E,Lingig (Surigao Del Sur)
+2025-10-23T23:19:00.000Z,23 October 2025 - 11:19 PM,11.22,123.93,030,3.0,020km N 15° W of City Of Bogo (Cebu),020,N 15° W,City Of Bogo (Cebu)
+2025-10-23T23:13:00.000Z,23 October 2025 - 11:13 PM,09.69,126.20,029,2.3,011km S 27° E of General Luna (Surigao Del Norte),011,S 27° E,General Luna (Surigao Del Norte)
 2025-10-23T23:05:00.000Z,23 October 2025 - 11:05 PM,10.56,124.83,002,2.3,012km N 57° E of Inopacan (Leyte),012,N 57° E,Inopacan (Leyte)
 2025-10-23T23:01:00.000Z,23 October 2025 - 11:01 PM,11.03,124.09,002,2.3,012km S 79° E of City Of Bogo (Cebu),012,S 79° E,City Of Bogo (Cebu)
 2025-10-23T22:56:00.000Z,23 October 2025 - 10:56 PM,08.65,126.75,007,2.0,058km S 60° E of Cagwait (Surigao Del Sur),058,S 60° E,Cagwait (Surigao Del Sur)
@@ -89,4 +93,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-23T00:03:00.000Z,23 October 2025 - 12:03 AM,07.80,126.43,029,2.1,003km N 76° W of Cateel (Davao Oriental),003,N 76° W,Cateel (Davao Oriental)
 2025-10-23T00:02:00.000Z,23 October 2025 - 12:02 AM,11.10,123.98,028,1.5,006km N 03° E of City Of Bogo (Cebu),006,N 03° E,City Of Bogo (Cebu)
 2025-10-22T23:29:00.000Z,22 October 2025 - 11:29 PM,11.14,124.07,029,2.8,014km N 44° E of City Of Bogo (Cebu),014,N 44° E,City Of Bogo (Cebu)
-2025-10-22T23:26:00.000Z,22 October 2025 - 11:26 PM,13.73,122.83,011,1.8,011km S 51° W of Lupi (Camarines Sur),011,S 51° W,Lupi (Camarines Sur)
