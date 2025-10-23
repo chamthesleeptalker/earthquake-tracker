@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-23T17:53:00.000Z,23 October 2025 - 05:53 PM,09.73,126.40,028,2.3,027km S 78° E of General Luna (Surigao Del Norte),027,S 78° E,General Luna (Surigao Del Norte)
 2025-10-23T17:28:00.000Z,23 October 2025 - 05:28 PM,05.77,126.36,108,2.6,080km S 79° E of Jose Abad Santos (Davao Occidental),080,S 79° E,Jose Abad Santos (Davao Occidental)
 2025-10-23T17:18:00.000Z,23 October 2025 - 05:18 PM,15.05,120.02,032,1.5,006km S 74° W of San Felipe (Zambales),006,S 74° W,San Felipe (Zambales)
 2025-10-23T16:55:00.000Z,23 October 2025 - 04:55 PM,07.19,127.12,072,2.3,064km S 88° E of Manay (Davao Oriental),064,S 88° E,Manay (Davao Oriental)
@@ -93,4 +94,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T18:09:00.000Z,22 October 2025 - 06:09 PM,10.53,122.19,006,2.2,014km S 22° W of Miagao (Iloilo),014,S 22° W,Miagao (Iloilo)
 2025-10-22T18:00:00.000Z,22 October 2025 - 06:00 PM,10.67,122.18,006,2.2,007km N 62° W of Miagao (Iloilo),007,N 62° W,Miagao (Iloilo)
 2025-10-22T17:53:00.000Z,22 October 2025 - 05:53 PM,08.14,126.76,013,2.9,040km N 74° E of Lingig (Surigao Del Sur),040,N 74° E,Lingig (Surigao Del Sur)
-2025-10-22T17:41:00.000Z,22 October 2025 - 05:41 PM,10.90,123.88,005,2.5,019km S 34° W of City Of Bogo (Cebu),019,S 34° W,City Of Bogo (Cebu)
