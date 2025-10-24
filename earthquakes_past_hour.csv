@@ -1,7 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T07:07:00.000Z,25 October 2025 - 07:07 AM,07.33,126.72,003,2.3,024km N 56° E of Manay (Davao Oriental),024,N 56° E,Manay (Davao Oriental)
 2025-10-25T06:23:00.000Z,25 October 2025 - 06:23 AM,11.00,123.90,001,3.0,011km S 60° W of City Of Bogo (Cebu),011,S 60° W,City Of Bogo (Cebu)
-2025-10-25T05:57:00.000Z,25 October 2025 - 05:57 AM,09.63,126.16,027,2.4,017km S 01° E of General Luna (Surigao Del Norte),017,S 01° E,General Luna (Surigao Del Norte)
-2025-10-25T05:50:00.000Z,25 October 2025 - 05:50 AM,13.19,120.87,041,1.7,020km N 54° E of Santa Cruz (Occidental Mindoro),020,N 54° E,Santa Cruz (Occidental Mindoro)
-2025-10-25T05:43:00.000Z,25 October 2025 - 05:43 AM,09.70,126.28,027,3.0,017km S 55° E of General Luna (Surigao Del Norte),017,S 55° E,General Luna (Surigao Del Norte)
-2025-10-25T05:34:00.000Z,25 October 2025 - 05:34 AM,19.55,122.28,002,3.3,039km N 84° E of Babuyan Island (Calayan) (Cagayan),039,N 84° E,Babuyan Island (Calayan) (Cagayan)
-2025-10-25T05:28:00.000Z,25 October 2025 - 05:28 AM,07.96,126.99,011,2.5,062km N 73° E of Cateel (Davao Oriental),062,N 73° E,Cateel (Davao Oriental)
