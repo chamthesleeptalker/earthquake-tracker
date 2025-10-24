@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T18:01:00.000Z,24 October 2025 - 06:01 PM,11.11,124.16,011,1.6,021km N 69° E of City Of Bogo (Cebu),021,N 69° E,City Of Bogo (Cebu)
+2025-10-24T17:53:00.000Z,24 October 2025 - 05:53 PM,05.97,126.72,006,2.8,105km S 44° E of Governor Generoso (Davao Oriental),105,S 44° E,Governor Generoso (Davao Oriental)
 2025-10-24T17:25:00.000Z,24 October 2025 - 05:25 PM,08.75,126.64,029,2.1,042km S 63° E of Cagwait (Surigao Del Sur),042,S 63° E,Cagwait (Surigao Del Sur)
 2025-10-24T17:23:00.000Z,24 October 2025 - 05:23 PM,08.83,126.46,027,2.2,020km S 59° E of Cagwait (Surigao Del Sur),020,S 59° E,Cagwait (Surigao Del Sur)
 2025-10-24T17:13:00.000Z,24 October 2025 - 05:13 PM,09.63,126.16,037,2.2,017km South of General Luna (Surigao Del Norte),017,South of General,(Surigao Del Norte)
