@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T01:03:00.000Z,25 October 2025 - 01:03 AM,12.56,120.66,001,2.6,030km S 88° W of Calintaan (Occidental Mindoro),030,S 88° W,Calintaan (Occidental Mindoro)
+2025-10-25T00:59:00.000Z,25 October 2025 - 12:59 AM,11.00,123.91,014,2.1,010km S 56° W of City Of Bogo (Cebu),010,S 56° W,City Of Bogo (Cebu)
 2025-10-25T00:34:00.000Z,25 October 2025 - 12:34 AM,10.99,123.98,010,3.7,006km S 0° E of City Of Bogo (Cebu),006,S 0° E,City Of Bogo (Cebu)
 2025-10-25T00:17:00.000Z,25 October 2025 - 12:17 AM,09.91,126.28,016,2.2,019km N 44° E of General Luna (Surigao Del Norte),019,N 44° E,General Luna (Surigao Del Norte)
 2025-10-25T00:05:00.000Z,25 October 2025 - 12:05 AM,07.87,126.80,017,5.1,039km N 77° E of Cateel (Davao Oriental),039,N 77° E,Cateel (Davao Oriental)
-2025-10-24T23:40:00.000Z,24 October 2025 - 11:40 PM,13.04,121.20,031,1.4,017km S 30° W of Victoria (Oriental Mindoro),017,S 30° W,Victoria (Oriental Mindoro)
