@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T00:34:00.000Z,25 October 2025 - 12:34 AM,10.99,123.98,010,3.7,006km S 0° E of City Of Bogo (Cebu),006,S 0° E,City Of Bogo (Cebu)
+2025-10-25T00:17:00.000Z,25 October 2025 - 12:17 AM,09.91,126.28,016,2.2,019km N 44° E of General Luna (Surigao Del Norte),019,N 44° E,General Luna (Surigao Del Norte)
 2025-10-25T00:05:00.000Z,25 October 2025 - 12:05 AM,07.87,126.80,017,5.1,039km N 77° E of Cateel (Davao Oriental),039,N 77° E,Cateel (Davao Oriental)
