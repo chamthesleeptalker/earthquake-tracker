@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T05:28:00.000Z,25 October 2025 - 05:28 AM,07.96,126.99,011,2.5,062km N 73° E of Cateel (Davao Oriental),062,N 73° E,Cateel (Davao Oriental)
 2025-10-25T05:01:00.000Z,25 October 2025 - 05:01 AM,07.35,126.63,013,2.4,019km N 32° E of Manay (Davao Oriental),019,N 32° E,Manay (Davao Oriental)
 2025-10-25T04:53:00.000Z,25 October 2025 - 04:53 AM,07.32,126.95,025,2.7,047km N 75° E of Manay (Davao Oriental),047,N 75° E,Manay (Davao Oriental)
 2025-10-25T04:45:00.000Z,25 October 2025 - 04:45 AM,07.19,126.81,030,3.0,030km S 86° E of Manay (Davao Oriental),030,S 86° E,Manay (Davao Oriental)
