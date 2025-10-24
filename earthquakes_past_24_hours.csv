@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T06:23:00.000Z,25 October 2025 - 06:23 AM,11.00,123.90,001,3.0,011km S 60° W of City Of Bogo (Cebu),011,S 60° W,City Of Bogo (Cebu)
 2025-10-25T05:57:00.000Z,25 October 2025 - 05:57 AM,09.63,126.16,027,2.4,017km S 01° E of General Luna (Surigao Del Norte),017,S 01° E,General Luna (Surigao Del Norte)
 2025-10-25T05:50:00.000Z,25 October 2025 - 05:50 AM,13.19,120.87,041,1.7,020km N 54° E of Santa Cruz (Occidental Mindoro),020,N 54° E,Santa Cruz (Occidental Mindoro)
 2025-10-25T05:43:00.000Z,25 October 2025 - 05:43 AM,09.70,126.28,027,3.0,017km S 55° E of General Luna (Surigao Del Norte),017,S 55° E,General Luna (Surigao Del Norte)
@@ -116,5 +117,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T07:18:00.000Z,24 October 2025 - 07:18 AM,07.27,126.53,007,3.1,006km N 10° W of Manay (Davao Oriental),006,N 10° W,Manay (Davao Oriental)
 2025-10-24T07:17:00.000Z,24 October 2025 - 07:17 AM,07.24,126.52,010,2.1,004km N 28° W of Manay (Davao Oriental),004,N 28° W,Manay (Davao Oriental)
 2025-10-24T06:35:00.000Z,24 October 2025 - 06:35 AM,14.04,119.95,033,1.7,028km N 43° W of Lubang (Occidental Mindoro),028,N 43° W,Lubang (Occidental Mindoro)
-2025-10-24T06:21:00.000Z,24 October 2025 - 06:21 AM,11.10,123.90,026,2.3,010km N 55° W of City Of Bogo (Cebu),010,N 55° W,City Of Bogo (Cebu)
-2025-10-24T06:14:00.000Z,24 October 2025 - 06:14 AM,05.65,127.39,010,4.9,183km S 52° E of Governor Generoso (Davao Oriental),183,S 52° E,Governor Generoso (Davao Oriental)
