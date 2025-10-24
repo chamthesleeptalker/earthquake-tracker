@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T05:01:00.000Z,25 October 2025 - 05:01 AM,07.35,126.63,013,2.4,019km N 32° E of Manay (Davao Oriental),019,N 32° E,Manay (Davao Oriental)
+2025-10-25T04:53:00.000Z,25 October 2025 - 04:53 AM,07.32,126.95,025,2.7,047km N 75° E of Manay (Davao Oriental),047,N 75° E,Manay (Davao Oriental)
+2025-10-25T04:45:00.000Z,25 October 2025 - 04:45 AM,07.19,126.81,030,3.0,030km S 86° E of Manay (Davao Oriental),030,S 86° E,Manay (Davao Oriental)
+2025-10-25T04:42:00.000Z,25 October 2025 - 04:42 AM,10.83,125.84,025,2.8,016km N 54° E of Homonhon Island (Guiuan) (Eastern Samar),016,N 54° E,Homonhon Island (Guiuan) (Eastern Samar)
+2025-10-25T04:37:00.000Z,25 October 2025 - 04:37 AM,07.18,127.56,015,4.4,112km S 88° E of Manay (Davao Oriental),112,S 88° E,Manay (Davao Oriental)
+2025-10-25T04:35:00.000Z,25 October 2025 - 04:35 AM,13.77,120.76,030,1.4,016km S 65° E of Calatagan (Batangas),016,S 65° E,Calatagan (Batangas)
+2025-10-25T04:34:00.000Z,25 October 2025 - 04:34 AM,13.42,123.47,020,1.9,005km S 77° W of Buhi (Camarines Sur),005,S 77° W,Buhi (Camarines Sur)
+2025-10-25T04:34:00.000Z,25 October 2025 - 04:34 AM,07.17,125.43,046,2.7,029km S 65° W of City Of Panabo (Davao Del Norte),029,S 65° W,City Of Panabo (Davao Del Norte)
 2025-10-25T04:21:00.000Z,25 October 2025 - 04:21 AM,07.24,126.77,016,2.3,025km N 83° E of Manay (Davao Oriental),025,N 83° E,Manay (Davao Oriental)
 2025-10-25T04:13:00.000Z,25 October 2025 - 04:13 AM,11.16,124.00,008,2.1,013km N 12° E of City Of Bogo (Cebu),013,N 12° E,City Of Bogo (Cebu)
 2025-10-25T04:08:00.000Z,25 October 2025 - 04:08 AM,15.98,119.75,029,2.9,014km S 85° W of Dasol (Pangasinan),014,S 85° W,Dasol (Pangasinan)
