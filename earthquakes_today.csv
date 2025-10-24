@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T10:55:00.000Z,24 October 2025 - 10:55 AM,05.66,127.45,083,3.7,199km S 30° E of Manay (Davao Oriental),199,S 30° E,Manay (Davao Oriental)
 2025-10-24T10:23:00.000Z,24 October 2025 - 10:23 AM,12.37,123.79,017,1.8,006km S 06° E of Batuan (Masbate),006,S 06° E,Batuan (Masbate)
 2025-10-24T10:03:00.000Z,24 October 2025 - 10:03 AM,07.26,126.61,006,2.6,010km N 53° E of Manay (Davao Oriental),010,N 53° E,Manay (Davao Oriental)
 2025-10-24T09:59:00.000Z,24 October 2025 - 09:59 AM,07.06,127.61,026,2.4,120km S 82° E of Manay (Davao Oriental),120,S 82° E,Manay (Davao Oriental)
