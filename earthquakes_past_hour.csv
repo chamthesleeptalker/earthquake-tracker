@@ -1,9 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-10-24T15:52:00.000Z,24 October 2025 - 03:52 PM,07.31,126.86,026,4.2,038km N 73° E of Manay (Davao Oriental),038,N 73° E,Manay (Davao Oriental)
-2025-10-24T15:47:00.000Z,24 October 2025 - 03:47 PM,08.17,122.96,032,1.6,005km N 61° E of Leon B. Postigo (Zamboanga Del Norte),005,N 61° E,Leon B. Postigo (Zamboanga Del Norte)
-2025-10-24T15:47:00.000Z,24 October 2025 - 03:47 PM,08.32,125.60,001,1.7,022km N 74° W of La Paz (Agusan Del Sur),022,N 74° W,La Paz (Agusan Del Sur)
-2025-10-24T15:45:00.000Z,24 October 2025 - 03:45 PM,07.21,127.44,028,3.6,099km N 90° E of Manay (Davao Oriental),099,N 90° E,Manay (Davao Oriental)
-2025-10-24T15:34:00.000Z,24 October 2025 - 03:34 PM,05.62,126.31,065,3.1,080km S 66° E of Jose Abad Santos (Davao Occidental),080,S 66° E,Jose Abad Santos (Davao Occidental)
-2025-10-24T15:23:00.000Z,24 October 2025 - 03:23 PM,09.63,126.12,013,2.4,017km S 12° W of General Luna (Surigao Del Norte),017,S 12° W,General Luna (Surigao Del Norte)
-2025-10-24T15:06:00.000Z,24 October 2025 - 03:06 PM,09.65,126.19,030,2.4,015km S 14° E of General Luna (Surigao Del Norte),015,S 14° E,General Luna (Surigao Del Norte)
-2025-10-24T14:59:00.000Z,24 October 2025 - 02:59 PM,11.02,124.09,032,2.3,012km S 74° E of City Of Bogo (Cebu),012,S 74° E,City Of Bogo (Cebu)
+2025-10-24T17:25:00.000Z,24 October 2025 - 05:25 PM,08.75,126.64,029,2.1,042km S 63° E of Cagwait (Surigao Del Sur),042,S 63° E,Cagwait (Surigao Del Sur)
+2025-10-24T17:23:00.000Z,24 October 2025 - 05:23 PM,08.83,126.46,027,2.2,020km S 59° E of Cagwait (Surigao Del Sur),020,S 59° E,Cagwait (Surigao Del Sur)
+2025-10-24T17:13:00.000Z,24 October 2025 - 05:13 PM,09.63,126.16,037,2.2,017km South of General Luna (Surigao Del Norte),017,South of General,(Surigao Del Norte)

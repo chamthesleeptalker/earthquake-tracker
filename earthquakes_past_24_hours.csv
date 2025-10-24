@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T17:25:00.000Z,24 October 2025 - 05:25 PM,08.75,126.64,029,2.1,042km S 63° E of Cagwait (Surigao Del Sur),042,S 63° E,Cagwait (Surigao Del Sur)
+2025-10-24T17:23:00.000Z,24 October 2025 - 05:23 PM,08.83,126.46,027,2.2,020km S 59° E of Cagwait (Surigao Del Sur),020,S 59° E,Cagwait (Surigao Del Sur)
+2025-10-24T17:13:00.000Z,24 October 2025 - 05:13 PM,09.63,126.16,037,2.2,017km South of General Luna (Surigao Del Norte),017,South of General,(Surigao Del Norte)
 2025-10-24T15:52:00.000Z,24 October 2025 - 03:52 PM,07.31,126.86,026,4.2,038km N 73° E of Manay (Davao Oriental),038,N 73° E,Manay (Davao Oriental)
 2025-10-24T15:47:00.000Z,24 October 2025 - 03:47 PM,08.17,122.96,032,1.6,005km N 61° E of Leon B. Postigo (Zamboanga Del Norte),005,N 61° E,Leon B. Postigo (Zamboanga Del Norte)
 2025-10-24T15:47:00.000Z,24 October 2025 - 03:47 PM,08.32,125.60,001,1.7,022km N 74° W of La Paz (Agusan Del Sur),022,N 74° W,La Paz (Agusan Del Sur)
@@ -22,7 +25,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T09:57:00.000Z,24 October 2025 - 09:57 AM,09.65,126.14,032,1.6,015km S 05° W of General Luna (Surigao Del Norte),015,S 05° W,General Luna (Surigao Del Norte)
 2025-10-24T09:33:00.000Z,24 October 2025 - 09:33 AM,09.65,126.14,033,2.7,015km S 08° W of General Luna (Surigao Del Norte),015,S 08° W,General Luna (Surigao Del Norte)
 2025-10-24T09:33:00.000Z,24 October 2025 - 09:33 AM,06.26,124.84,032,2.6,006km N 16° E of T'boli (South Cotabato),006,N 16° E,T'boli (South Cotabato)
-2025-10-23T16:56:00.000Z,23 October 2025 - 04:56 PM,07.25,126.59,020,2.3,007km N 47° E of Manay (Davao Oriental),007,N 47° E,Manay (Davao Oriental)
 2025-10-24T09:00:00.000Z,24 October 2025 - 09:00 AM,10.90,123.83,001,3.1,010km N 31° W of Tabuelan (Cebu),010,N 31° W,Tabuelan (Cebu)
 2025-10-24T08:43:00.000Z,24 October 2025 - 08:43 AM,09.65,126.19,034,1.9,015km S 12° E of General Luna (Surigao Del Norte),015,S 12° E,General Luna (Surigao Del Norte)
 2025-10-24T08:06:00.000Z,24 October 2025 - 08:06 AM,11.05,124.10,031,1.8,013km N 88° E of City Of Bogo (Cebu),013,N 88° E,City Of Bogo (Cebu)
@@ -99,6 +101,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-23T18:33:00.000Z,23 October 2025 - 06:33 PM,08.80,126.33,032,2.1,013km S 12° E of Cagwait (Surigao Del Sur),013,S 12° E,Cagwait (Surigao Del Sur)
 2025-10-23T17:53:00.000Z,23 October 2025 - 05:53 PM,09.73,126.40,028,2.3,027km S 78° E of General Luna (Surigao Del Norte),027,S 78° E,General Luna (Surigao Del Norte)
 2025-10-23T17:28:00.000Z,23 October 2025 - 05:28 PM,05.77,126.36,108,2.6,080km S 79° E of Jose Abad Santos (Davao Occidental),080,S 79° E,Jose Abad Santos (Davao Occidental)
-2025-10-23T17:18:00.000Z,23 October 2025 - 05:18 PM,15.05,120.02,032,1.5,006km S 74° W of San Felipe (Zambales),006,S 74° W,San Felipe (Zambales)
-2025-10-23T16:55:00.000Z,23 October 2025 - 04:55 PM,07.19,127.12,072,2.3,064km S 88° E of Manay (Davao Oriental),064,S 88° E,Manay (Davao Oriental)
-2025-10-23T16:25:00.000Z,23 October 2025 - 04:25 PM,13.28,120.27,022,2.4,026km S 54° W of Paluan (Occidental Mindoro),026,S 54° W,Paluan (Occidental Mindoro)
