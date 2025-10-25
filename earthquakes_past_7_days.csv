@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T04:08:00.000Z,26 October 2025 - 04:08 AM,06.04,125.07,023,1.4,022km N 22° E of Maasim (Sarangani),022,N 22° E,Maasim (Sarangani)
+2025-10-26T04:08:00.000Z,26 October 2025 - 04:08 AM,06.04,125.07,023,1.4,022km N 22° E of Maasim (Sarangani),022,N 22° E,Maasim (Sarangani)
+2025-10-26T03:43:00.000Z,26 October 2025 - 03:43 AM,10.87,123.93,001,2.4,020km S 16° W of City Of Bogo (Cebu),020,S 16° W,City Of Bogo (Cebu)
+2025-10-26T03:38:00.000Z,26 October 2025 - 03:38 AM,10.98,123.92,020,2.2,010km S 40° W of City Of Bogo (Cebu),010,S 40° W,City Of Bogo (Cebu)
+2025-10-26T03:38:00.000Z,26 October 2025 - 03:38 AM,10.98,123.92,020,2.2,010km S 40° W of City Of Bogo (Cebu),010,S 40° W,City Of Bogo (Cebu)
 2025-10-26T03:16:00.000Z,26 October 2025 - 03:16 AM,11.12,123.93,029,1.9,010km N 31° W of City Of Bogo (Cebu),010,N 31° W,City Of Bogo (Cebu)
 2025-10-26T03:03:00.000Z,26 October 2025 - 03:03 AM,11.21,124.14,032,1.8,025km N 44° E of City Of Bogo (Cebu),025,N 44° E,City Of Bogo (Cebu)
 2025-10-26T03:01:00.000Z,26 October 2025 - 03:01 AM,10.94,123.95,005,2.9,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
@@ -843,8 +848,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T04:47:00.000Z,19 October 2025 - 04:47 AM,09.81,126.13,030,2.4,004km N 44° W of General Luna (Surigao Del Norte),004,N 44° W,General Luna (Surigao Del Norte)
 2025-10-19T04:39:00.000Z,19 October 2025 - 04:39 AM,10.90,123.96,013,2.3,016km S 08° W of City Of Bogo (Cebu),016,S 08° W,City Of Bogo (Cebu)
 2025-10-19T04:38:00.000Z,19 October 2025 - 04:38 AM,07.46,127.10,017,2.3,068km N 66° E of Manay (Davao Oriental),068,N 66° E,Manay (Davao Oriental)
-2025-10-19T04:05:00.000Z,19 October 2025 - 04:05 AM,07.30,127.00,003,2.8,051km N 79° E of Manay (Davao Oriental),051,N 79° E,Manay (Davao Oriental)
-2025-10-19T04:02:00.000Z,19 October 2025 - 04:02 AM,09.57,126.19,028,2.9,024km S 10° E of General Luna (Surigao Del Norte),024,S 10° E,General Luna (Surigao Del Norte)
-2025-10-19T03:52:00.000Z,19 October 2025 - 03:52 AM,09.65,126.14,020,3.1,015km S 06° W of General Luna (Surigao Del Norte),015,S 06° W,General Luna (Surigao Del Norte)
-2025-10-19T03:48:00.000Z,19 October 2025 - 03:48 AM,08.89,126.47,034,2.2,019km S 79° E of Cagwait (Surigao Del Sur),019,S 79° E,Cagwait (Surigao Del Sur)
-2025-10-19T03:20:00.000Z,19 October 2025 - 03:20 AM,18.67,120.66,002,3.0,018km N 04° E of Burgos (Ilocos Norte),018,N 04° E,Burgos (Ilocos Norte)
