@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T17:58:00.000Z,25 October 2025 - 05:58 PM,11.16,124.09,020,2.2,017km N 43° E of City Of Bogo (Cebu),017,N 43° E,City Of Bogo (Cebu)
+2025-10-25T17:34:00.000Z,25 October 2025 - 05:34 PM,11.01,126.25,145,2.8,058km S 87° E of Guiuan (Eastern Samar),058,S 87° E,Guiuan (Eastern Samar)
 2025-10-25T16:49:00.000Z,25 October 2025 - 04:49 PM,11.11,124.09,003,3.2,014km N 62° E of City Of Bogo (Cebu),014,N 62° E,City Of Bogo (Cebu)
 2025-10-25T15:43:00.000Z,25 October 2025 - 03:43 PM,07.31,126.87,020,3.8,038km N 74° E of Manay (Davao Oriental),038,N 74° E,Manay (Davao Oriental)
 2025-10-25T15:31:00.000Z,25 October 2025 - 03:31 PM,09.54,126.15,024,1.7,027km S 01° W of General Luna (Surigao Del Norte),027,S 01° W,General Luna (Surigao Del Norte)
@@ -108,7 +110,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T18:39:00.000Z,24 October 2025 - 06:39 PM,08.11,126.51,034,1.7,013km N 53° E of Lingig (Surigao Del Sur),013,N 53° E,Lingig (Surigao Del Sur)
 2025-10-24T18:24:00.000Z,24 October 2025 - 06:24 PM,18.43,122.05,029,2.0,010km S 74° W of Santa Ana (Cagayan),010,S 74° W,Santa Ana (Cagayan)
 2025-10-24T18:01:00.000Z,24 October 2025 - 06:01 PM,11.11,124.16,011,1.6,021km N 69° E of City Of Bogo (Cebu),021,N 69° E,City Of Bogo (Cebu)
-2025-10-24T17:53:00.000Z,24 October 2025 - 05:53 PM,05.97,126.72,006,2.8,105km S 44° E of Governor Generoso (Davao Oriental),105,S 44° E,Governor Generoso (Davao Oriental)
-2025-10-24T17:25:00.000Z,24 October 2025 - 05:25 PM,08.75,126.64,029,2.1,042km S 63° E of Cagwait (Surigao Del Sur),042,S 63° E,Cagwait (Surigao Del Sur)
-2025-10-24T17:23:00.000Z,24 October 2025 - 05:23 PM,08.83,126.46,027,2.2,020km S 59° E of Cagwait (Surigao Del Sur),020,S 59° E,Cagwait (Surigao Del Sur)
-2025-10-24T17:13:00.000Z,24 October 2025 - 05:13 PM,09.63,126.16,037,2.2,017km South of General Luna (Surigao Del Norte),017,South of General,(Surigao Del Norte)
