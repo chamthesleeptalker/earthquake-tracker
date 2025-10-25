@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T12:51:00.000Z,25 October 2025 - 12:51 PM,08.81,126.47,029,1.6,022km S 57° E of Cagwait (Surigao Del Sur),022,S 57° E,Cagwait (Surigao Del Sur)
+2025-10-25T12:51:00.000Z,25 October 2025 - 12:51 PM,10.96,123.89,003,1.7,013km S 45° W of City Of Bogo (Cebu),013,S 45° W,City Of Bogo (Cebu)
+2025-10-25T12:40:00.000Z,25 October 2025 - 12:40 PM,11.04,123.91,035,2.1,008km S 81° W of City Of Bogo (Cebu),008,S 81° W,City Of Bogo (Cebu)
+2025-10-25T12:39:00.000Z,25 October 2025 - 12:39 PM,09.62,126.21,032,1.7,018km S 17° E of General Luna (Surigao Del Norte),018,S 17° E,General Luna (Surigao Del Norte)
 2025-10-25T12:25:00.000Z,25 October 2025 - 12:25 PM,15.04,120.05,049,2.8,003km S 53° W of San Felipe (Zambales),003,S 53° W,San Felipe (Zambales)
 2025-10-25T12:00:00.000Z,25 October 2025 - 12:00 PM,07.39,126.52,012,2.1,020km N 07° W of Manay (Davao Oriental),020,N 07° W,Manay (Davao Oriental)
 2025-10-25T11:43:00.000Z,25 October 2025 - 11:43 AM,07.11,126.68,015,2.3,019km S 55° E of Manay (Davao Oriental),019,S 55° E,Manay (Davao Oriental)
@@ -109,5 +113,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T14:43:00.000Z,24 October 2025 - 02:43 PM,11.11,124.05,022,2.4,011km N 50° E of City Of Bogo (Cebu),011,N 50° E,City Of Bogo (Cebu)
 2025-10-24T14:36:00.000Z,24 October 2025 - 02:36 PM,08.01,126.45,033,1.6,006km S 51° E of Lingig (Surigao Del Sur),006,S 51° E,Lingig (Surigao Del Sur)
 2025-10-24T13:02:00.000Z,24 October 2025 - 01:02 PM,08.17,126.73,020,2.2,038km N 67° E of Lingig (Surigao Del Sur),038,N 67° E,Lingig (Surigao Del Sur)
-2025-10-24T12:48:00.000Z,24 October 2025 - 12:48 PM,09.61,126.01,008,2.3,025km S 40° W of General Luna (Surigao Del Norte),025,S 40° W,General Luna (Surigao Del Norte)
-2025-10-24T12:37:00.000Z,24 October 2025 - 12:37 PM,07.39,126.81,022,4.0,036km N 57° E of Manay (Davao Oriental),036,N 57° E,Manay (Davao Oriental)
