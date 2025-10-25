@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T19:23:00.000Z,25 October 2025 - 07:23 PM,07.11,126.67,009,2.2,018km S 53° E of Manay (Davao Oriental),018,S 53° E,Manay (Davao Oriental)
+2025-10-25T19:22:00.000Z,25 October 2025 - 07:22 PM,09.67,126.17,032,2.1,013km S 08° E of General Luna (Surigao Del Norte),013,S 08° E,General Luna (Surigao Del Norte)
+2025-10-25T19:14:00.000Z,25 October 2025 - 07:14 PM,08.34,126.65,033,1.7,035km S 85° E of Hinatuan (Surigao Del Sur),035,S 85° E,Hinatuan (Surigao Del Sur)
+2025-10-25T19:12:00.000Z,25 October 2025 - 07:12 PM,09.63,126.11,034,2.3,018km S 16° W of General Luna (Surigao Del Norte),018,S 16° W,General Luna (Surigao Del Norte)
+2025-10-25T19:02:00.000Z,25 October 2025 - 07:02 PM,11.19,123.93,030,2.3,016km N 18° W of City Of Bogo (Cebu),016,N 18° W,City Of Bogo (Cebu)
+2025-10-25T19:02:00.000Z,25 October 2025 - 07:02 PM,07.78,126.55,009,2.0,011km S 82° E of Cateel (Davao Oriental),011,S 82° E,Cateel (Davao Oriental)
 2025-10-25T18:50:00.000Z,25 October 2025 - 06:50 PM,09.73,126.09,028,3.0,010km S 53° W of General Luna (Surigao Del Norte),010,S 53° W,General Luna (Surigao Del Norte)
 2025-10-25T18:42:00.000Z,25 October 2025 - 06:42 PM,04.51,127.06,018,3.4,206km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),206,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-25T17:58:00.000Z,25 October 2025 - 05:58 PM,11.16,124.09,020,2.2,017km N 43° E of City Of Bogo (Cebu),017,N 43° E,City Of Bogo (Cebu)
@@ -857,4 +863,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-18T20:07:00.000Z,18 October 2025 - 08:07 PM,09.54,126.19,030,2.0,027km S 07° E of General Luna (Surigao Del Norte),027,S 07° E,General Luna (Surigao Del Norte)
 2025-10-18T19:49:00.000Z,18 October 2025 - 07:49 PM,09.67,126.12,022,2.7,013km S 17° W of General Luna (Surigao Del Norte),013,S 17° W,General Luna (Surigao Del Norte)
 2025-10-18T19:48:00.000Z,18 October 2025 - 07:48 PM,18.70,120.80,009,2.5,016km N 03° E of Pagudpud (Ilocos Norte),016,N 03° E,Pagudpud (Ilocos Norte)
-2025-10-18T18:50:00.000Z,18 October 2025 - 06:50 PM,18.60,120.71,010,4.7,009km N 62° W of Pagudpud (Ilocos Norte),009,N 62° W,Pagudpud (Ilocos Norte)
