@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T01:21:00.000Z,26 October 2025 - 01:21 AM,11.09,124.09,002,2.7,013km N 67° E of City Of Bogo (Cebu),013,N 67° E,City Of Bogo (Cebu)
 2025-10-26T01:04:00.000Z,26 October 2025 - 01:04 AM,11.12,123.98,028,1.8,008km N 02° E of City Of Bogo (Cebu),008,N 02° E,City Of Bogo (Cebu)
 2025-10-26T00:55:00.000Z,26 October 2025 - 12:55 AM,08.88,126.66,006,2.1,039km S 84° E of Cagwait (Surigao Del Sur),039,S 84° E,Cagwait (Surigao Del Sur)
 2025-10-26T00:41:00.000Z,26 October 2025 - 12:41 AM,08.13,122.37,032,2.3,017km N 13° W of Gutalac (Zamboanga Del Norte),017,N 13° W,Gutalac (Zamboanga Del Norte)
@@ -116,5 +117,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T01:33:00.000Z,25 October 2025 - 01:33 AM,09.66,126.29,026,2.3,020km S 47° E of General Luna (Surigao Del Norte),020,S 47° E,General Luna (Surigao Del Norte)
 2025-10-25T01:28:00.000Z,25 October 2025 - 01:28 AM,13.76,120.44,120,2.5,021km N 77° E of Looc (Occidental Mindoro),021,N 77° E,Looc (Occidental Mindoro)
 2025-10-25T01:25:00.000Z,25 October 2025 - 01:25 AM,16.55,121.05,010,1.9,003km N 51° E of Ambaguio (Nueva Vizcaya),003,N 51° E,Ambaguio (Nueva Vizcaya)
-2025-10-25T01:18:00.000Z,25 October 2025 - 01:18 AM,11.01,124.08,033,1.8,011km S 70° E of City Of Bogo (Cebu),011,S 70° E,City Of Bogo (Cebu)
-2025-10-25T01:16:00.000Z,25 October 2025 - 01:16 AM,11.11,123.78,023,2.5,023km N 72° W of City Of Bogo (Cebu),023,N 72° W,City Of Bogo (Cebu)

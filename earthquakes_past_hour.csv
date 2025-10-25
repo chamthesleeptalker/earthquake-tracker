@@ -1,8 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T01:21:00.000Z,26 October 2025 - 01:21 AM,11.09,124.09,002,2.7,013km N 67° E of City Of Bogo (Cebu),013,N 67° E,City Of Bogo (Cebu)
 2025-10-26T01:04:00.000Z,26 October 2025 - 01:04 AM,11.12,123.98,028,1.8,008km N 02° E of City Of Bogo (Cebu),008,N 02° E,City Of Bogo (Cebu)
 2025-10-26T00:55:00.000Z,26 October 2025 - 12:55 AM,08.88,126.66,006,2.1,039km S 84° E of Cagwait (Surigao Del Sur),039,S 84° E,Cagwait (Surigao Del Sur)
 2025-10-26T00:41:00.000Z,26 October 2025 - 12:41 AM,08.13,122.37,032,2.3,017km N 13° W of Gutalac (Zamboanga Del Norte),017,N 13° W,Gutalac (Zamboanga Del Norte)
 2025-10-26T00:24:00.000Z,26 October 2025 - 12:24 AM,09.94,125.41,029,2.1,015km N 77° E of San Ricardo (Southern Leyte),015,N 77° E,San Ricardo (Southern Leyte)
-2025-10-26T00:20:00.000Z,26 October 2025 - 12:20 AM,10.95,123.88,008,3.1,015km S 46° W of City Of Bogo (Cebu),015,S 46° W,City Of Bogo (Cebu)
-2025-10-26T00:15:00.000Z,26 October 2025 - 12:15 AM,09.88,126.05,026,2.0,006km N 66° W of Pilar (Surigao Del Norte),006,N 66° W,Pilar (Surigao Del Norte)
-2025-10-26T00:06:00.000Z,26 October 2025 - 12:06 AM,08.97,127.13,021,2.7,091km N 87° E of Cagwait (Surigao Del Sur),091,N 87° E,Cagwait (Surigao Del Sur)
