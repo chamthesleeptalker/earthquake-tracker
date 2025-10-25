@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T14:11:00.000Z,25 October 2025 - 02:11 PM,12.93,124.05,011,2.5,006km S 31° E of City Of Sorsogon (Sorsogon),006,S 31° E,City Of Sorsogon (Sorsogon)
+2025-10-25T13:43:00.000Z,25 October 2025 - 01:43 PM,11.06,124.04,006,3.2,006km N 80° E of City Of Bogo (Cebu),006,N 80° E,City Of Bogo (Cebu)
 2025-10-25T12:51:00.000Z,25 October 2025 - 12:51 PM,08.81,126.47,029,1.6,022km S 57° E of Cagwait (Surigao Del Sur),022,S 57° E,Cagwait (Surigao Del Sur)
 2025-10-25T12:51:00.000Z,25 October 2025 - 12:51 PM,10.96,123.89,003,1.7,013km S 45° W of City Of Bogo (Cebu),013,S 45° W,City Of Bogo (Cebu)
 2025-10-25T12:40:00.000Z,25 October 2025 - 12:40 PM,11.04,123.91,035,2.1,008km S 81° W of City Of Bogo (Cebu),008,S 81° W,City Of Bogo (Cebu)
