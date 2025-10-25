@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T15:43:00.000Z,25 October 2025 - 03:43 PM,07.31,126.87,020,3.8,038km N 74° E of Manay (Davao Oriental),038,N 74° E,Manay (Davao Oriental)
+2025-10-25T15:31:00.000Z,25 October 2025 - 03:31 PM,09.54,126.15,024,1.7,027km S 01° W of General Luna (Surigao Del Norte),027,S 01° W,General Luna (Surigao Del Norte)
 2025-10-25T14:54:00.000Z,25 October 2025 - 02:54 PM,12.90,124.02,010,2.5,004km N 25° E of Casiguran (Sorsogon),004,N 25° E,Casiguran (Sorsogon)
 2025-10-25T14:34:00.000Z,25 October 2025 - 02:34 PM,12.98,121.21,004,4.4,023km S 70° W of Socorro (Oriental Mindoro),023,S 70° W,Socorro (Oriental Mindoro)
 2025-10-25T14:16:00.000Z,25 October 2025 - 02:16 PM,10.72,125.52,021,2.2,023km S 84° W of Homonhon Island (Guiuan) (Eastern Samar),023,S 84° W,Homonhon Island (Guiuan) (Eastern Samar)
@@ -863,5 +865,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-18T16:43:00.000Z,18 October 2025 - 04:43 PM,09.72,126.36,030,3.2,023km S 72° E of General Luna (Surigao Del Norte),023,S 72° E,General Luna (Surigao Del Norte)
 2025-10-18T16:30:00.000Z,18 October 2025 - 04:30 PM,13.74,120.57,096,1.6,013km S 34° W of Calatagan (Batangas),013,S 34° W,Calatagan (Batangas)
 2025-10-18T16:01:00.000Z,18 October 2025 - 04:01 PM,06.99,127.54,032,2.6,113km S 78° E of Manay (Davao Oriental),113,S 78° E,Manay (Davao Oriental)
-2025-10-18T15:19:00.000Z,18 October 2025 - 03:19 PM,11.24,124.11,011,2.4,025km N 34° E of City Of Bogo (Cebu),025,N 34° E,City Of Bogo (Cebu)
-2025-10-18T15:13:00.000Z,18 October 2025 - 03:13 PM,10.90,124.03,003,2.6,017km S 19° E of City Of Bogo (Cebu),017,S 19° E,City Of Bogo (Cebu)
