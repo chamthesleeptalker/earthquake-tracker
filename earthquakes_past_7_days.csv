@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T02:02:00.000Z,26 October 2025 - 02:02 AM,09.51,126.25,033,1.8,031km S 18° E of General Luna (Surigao Del Norte),031,S 18° E,General Luna (Surigao Del Norte)
+2025-10-26T01:52:00.000Z,26 October 2025 - 01:52 AM,17.80,120.66,022,2.1,010km N 29° W of Lagayan (Abra),010,N 29° W,Lagayan (Abra)
+2025-10-26T01:45:00.000Z,26 October 2025 - 01:45 AM,09.77,122.29,010,2.8,015km N 89° W of City Of Sipalay (Negros Occidental),015,N 89° W,City Of Sipalay (Negros Occidental)
 2025-10-26T01:21:00.000Z,26 October 2025 - 01:21 AM,11.09,124.09,002,2.7,013km N 67° E of City Of Bogo (Cebu),013,N 67° E,City Of Bogo (Cebu)
 2025-10-26T01:04:00.000Z,26 October 2025 - 01:04 AM,11.12,123.98,028,1.8,008km N 02° E of City Of Bogo (Cebu),008,N 02° E,City Of Bogo (Cebu)
 2025-10-26T00:55:00.000Z,26 October 2025 - 12:55 AM,08.88,126.66,006,2.1,039km S 84° E of Cagwait (Surigao Del Sur),039,S 84° E,Cagwait (Surigao Del Sur)
@@ -848,8 +851,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T02:20:00.000Z,19 October 2025 - 02:20 AM,15.41,121.86,028,1.9,050km S 40° E of Baler (Aurora),050,S 40° E,Baler (Aurora)
 2025-10-19T02:15:00.000Z,19 October 2025 - 02:15 AM,07.23,126.97,023,2.5,047km N 87° E of Manay (Davao Oriental),047,N 87° E,Manay (Davao Oriental)
 2025-10-19T02:06:00.000Z,19 October 2025 - 02:06 AM,11.17,123.98,032,1.7,013km N 01° E of City Of Bogo (Cebu),013,N 01° E,City Of Bogo (Cebu)
-2025-10-19T01:55:00.000Z,19 October 2025 - 01:55 AM,08.77,126.53,030,2.0,030km S 57° E of Cagwait (Surigao Del Sur),030,S 57° E,Cagwait (Surigao Del Sur)
-2025-10-19T01:49:00.000Z,19 October 2025 - 01:49 AM,07.30,126.66,012,3.2,016km N 54° E of Manay (Davao Oriental),016,N 54° E,Manay (Davao Oriental)
-2025-10-19T01:34:00.000Z,19 October 2025 - 01:34 AM,08.89,126.50,034,2.1,022km S 80° E of Cagwait (Surigao Del Sur),022,S 80° E,Cagwait (Surigao Del Sur)
-2025-10-19T01:29:00.000Z,19 October 2025 - 01:29 AM,08.78,126.53,030,1.8,030km S 58° E of Cagwait (Surigao Del Sur),030,S 58° E,Cagwait (Surigao Del Sur)
-2025-10-19T01:26:00.000Z,19 October 2025 - 01:26 AM,07.05,125.64,024,3.0,009km S 67° W of Island Garden City Of Samal (Davao Del Norte),009,S 67° W,Island Garden City Of Samal (Davao Del Norte)
