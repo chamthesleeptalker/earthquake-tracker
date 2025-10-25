@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T05:02:00.000Z,26 October 2025 - 05:02 AM,09.60,126.17,033,1.8,020km S 05° E of General Luna (Surigao Del Norte),020,S 05° E,General Luna (Surigao Del Norte)
+2025-10-26T04:59:00.000Z,26 October 2025 - 04:59 AM,07.15,126.72,015,2.2,021km S 70° E of Manay (Davao Oriental),021,S 70° E,Manay (Davao Oriental)
+2025-10-26T04:51:00.000Z,26 October 2025 - 04:51 AM,11.01,123.95,028,2.1,005km S 33° W of City Of Bogo (Cebu),005,S 33° W,City Of Bogo (Cebu)
+2025-10-26T04:39:00.000Z,26 October 2025 - 04:39 AM,11.14,124.00,016,2.1,010km N 10° E of City Of Bogo (Cebu),010,N 10° E,City Of Bogo (Cebu)
+2025-10-26T04:36:00.000Z,26 October 2025 - 04:36 AM,11.21,124.03,031,1.9,019km N 19° E of City Of Bogo (Cebu),019,N 19° E,City Of Bogo (Cebu)
 2025-10-26T04:27:00.000Z,26 October 2025 - 04:27 AM,11.19,123.96,009,1.9,016km N 07° W of City Of Bogo (Cebu),016,N 07° W,City Of Bogo (Cebu)
 2025-10-26T04:09:00.000Z,26 October 2025 - 04:09 AM,11.20,123.95,020,2.1,017km N 10° W of City Of Bogo (Cebu),017,N 10° W,City Of Bogo (Cebu)
 2025-10-26T04:08:00.000Z,26 October 2025 - 04:08 AM,06.04,125.07,023,1.4,022km N 22° E of Maasim (Sarangani),022,N 22° E,Maasim (Sarangani)
