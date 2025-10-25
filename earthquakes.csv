@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T12:25:00.000Z,25 October 2025 - 12:25 PM,15.04,120.05,049,2.8,003km S 53° W of San Felipe (Zambales),003,S 53° W,San Felipe (Zambales)
 2025-10-25T12:00:00.000Z,25 October 2025 - 12:00 PM,07.39,126.52,012,2.1,020km N 07° W of Manay (Davao Oriental),020,N 07° W,Manay (Davao Oriental)
 2025-10-25T11:43:00.000Z,25 October 2025 - 11:43 AM,07.11,126.68,015,2.3,019km S 55° E of Manay (Davao Oriental),019,S 55° E,Manay (Davao Oriental)
 2025-10-25T10:42:00.000Z,25 October 2025 - 10:42 AM,07.20,126.67,044,1.9,015km S 86° E of Manay (Davao Oriental),015,S 86° E,Manay (Davao Oriental)
