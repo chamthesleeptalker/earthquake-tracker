@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T21:20:00.000Z,25 October 2025 - 09:20 PM,11.04,123.97,024,1.9,001km S 56° W of City Of Bogo (Cebu),001,S 56° W,City Of Bogo (Cebu)
+2025-10-25T21:18:00.000Z,25 October 2025 - 09:18 PM,11.29,124.09,032,2.1,029km N 25° E of City Of Bogo (Cebu),029,N 25° E,City Of Bogo (Cebu)
+2025-10-25T21:18:00.000Z,25 October 2025 - 09:18 PM,09.68,126.21,034,1.7,013km S 26° E of General Luna (Surigao Del Norte),013,S 26° E,General Luna (Surigao Del Norte)
 2025-10-25T21:10:00.000Z,25 October 2025 - 09:10 PM,11.00,123.92,032,1.9,009km S 49° W of City Of Bogo (Cebu),009,S 49° W,City Of Bogo (Cebu)
 2025-10-25T21:08:00.000Z,25 October 2025 - 09:08 PM,11.05,124.03,030,1.8,006km N 81° E of City Of Bogo (Cebu),006,N 81° E,City Of Bogo (Cebu)
 2025-10-25T20:59:00.000Z,25 October 2025 - 08:59 PM,15.29,119.31,018,2.5,066km S 76° W of Palauig (Zambales),066,S 76° W,Palauig (Zambales)

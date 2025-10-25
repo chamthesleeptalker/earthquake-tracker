@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T21:20:00.000Z,25 October 2025 - 09:20 PM,11.04,123.97,024,1.9,001km S 56° W of City Of Bogo (Cebu),001,S 56° W,City Of Bogo (Cebu)
+2025-10-25T21:18:00.000Z,25 October 2025 - 09:18 PM,11.29,124.09,032,2.1,029km N 25° E of City Of Bogo (Cebu),029,N 25° E,City Of Bogo (Cebu)
+2025-10-25T21:18:00.000Z,25 October 2025 - 09:18 PM,09.68,126.21,034,1.7,013km S 26° E of General Luna (Surigao Del Norte),013,S 26° E,General Luna (Surigao Del Norte)
 2025-10-25T21:10:00.000Z,25 October 2025 - 09:10 PM,11.00,123.92,032,1.9,009km S 49° W of City Of Bogo (Cebu),009,S 49° W,City Of Bogo (Cebu)
 2025-10-25T21:08:00.000Z,25 October 2025 - 09:08 PM,11.05,124.03,030,1.8,006km N 81° E of City Of Bogo (Cebu),006,N 81° E,City Of Bogo (Cebu)
 2025-10-25T20:59:00.000Z,25 October 2025 - 08:59 PM,15.29,119.31,018,2.5,066km S 76° W of Palauig (Zambales),066,S 76° W,Palauig (Zambales)
@@ -111,5 +114,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T21:39:00.000Z,24 October 2025 - 09:39 PM,08.78,126.42,025,2.0,014km S 80° E of Marihatag (Surigao Del Sur),014,S 80° E,Marihatag (Surigao Del Sur)
 2025-10-24T21:37:00.000Z,24 October 2025 - 09:37 PM,13.69,120.47,115,2.9,023km S 47° W of Calatagan (Batangas),023,S 47° W,Calatagan (Batangas)
 2025-10-24T21:22:00.000Z,24 October 2025 - 09:22 PM,11.06,124.12,013,1.7,015km N 86° E of City Of Bogo (Cebu),015,N 86° E,City Of Bogo (Cebu)
-2025-10-24T21:19:00.000Z,24 October 2025 - 09:19 PM,09.50,123.91,007,2.4,013km S 02° W of Baclayon (Bohol),013,S 02° W,Baclayon (Bohol)
-2025-10-24T21:13:00.000Z,24 October 2025 - 09:13 PM,17.62,121.03,003,1.7,006km N 24° E of Malibcong (Abra),006,N 24° E,Malibcong (Abra)
