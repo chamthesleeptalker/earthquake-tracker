@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2025-10-20T19:35:00.000Z,20 October 2025 - 07:35 PM,06.98,127.45,10,5.7,103km S 75° E of Manay (Davao Oriental),103,S 75° E,Manay (Davao Oriental)
-2025-10-18T20:31:00.000Z,18 October 2025 - 08:31 PM,08.85,126.50,20,5.6,023km S 71° E of Cagwait (Surigao Del Sur),023,S 71° E,Cagwait (Surigao Del Sur)
 2025-10-25T00:05:00.000Z,25 October 2025 - 12:05 AM,07.87,126.80,17,5.1,039km N 77° E of Cateel (Davao Oriental),039,N 77° E,Cateel (Davao Oriental)
 2025-10-24T06:14:00.000Z,24 October 2025 - 06:14 AM,05.65,127.39,10,4.9,183km S 52° E of Governor Generoso (Davao Oriental),183,S 52° E,Governor Generoso (Davao Oriental)
 2025-10-24T21:59:00.000Z,24 October 2025 - 09:59 PM,11.00,123.99,10,4.8,005km S 13° E of City Of Bogo (Cebu),005,S 13° E,City Of Bogo (Cebu)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T01:52:00.000Z,22 October 2025 - 01:52 AM,12.96,126.09,10,4.5,105km N 59° E of Mapanas (Northern Samar),105,N 59° E,Mapanas (Northern Samar)
 2025-10-20T10:43:00.000Z,20 October 2025 - 10:43 AM,18.11,119.62,10,4.5,092km N 84° W of Currimao (Ilocos Norte),092,N 84° W,Currimao (Ilocos Norte)
 2025-10-19T02:35:00.000Z,19 October 2025 - 02:35 AM,07.39,126.76,10,4.5,031km N 50° E of Manay (Davao Oriental),031,N 50° E,Manay (Davao Oriental)
+2025-10-25T14:34:00.000Z,25 October 2025 - 02:34 PM,12.98,121.21,4,4.4,023km S 70° W of Socorro (Oriental Mindoro),023,S 70° W,Socorro (Oriental Mindoro)
