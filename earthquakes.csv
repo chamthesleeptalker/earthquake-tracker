@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T21:50:00.000Z,25 October 2025 - 09:50 PM,13.57,120.60,005,1.8,019km N 46° W of Abra De Ilog (Occidental Mindoro),019,N 46° W,Abra De Ilog (Occidental Mindoro)
+2025-10-25T21:45:00.000Z,25 October 2025 - 09:45 PM,11.06,123.85,017,2.6,015km N 86° W of City Of Bogo (Cebu),015,N 86° W,City Of Bogo (Cebu)
+2025-10-25T21:39:00.000Z,25 October 2025 - 09:39 PM,16.89,119.94,020,2.8,047km N 84° W of Luna (La Union),047,N 84° W,Luna (La Union)
+2025-10-25T21:31:00.000Z,25 October 2025 - 09:31 PM,08.08,126.51,024,1.8,012km N 67° E of Lingig (Surigao Del Sur),012,N 67° E,Lingig (Surigao Del Sur)
 2025-10-25T21:20:00.000Z,25 October 2025 - 09:20 PM,11.04,123.97,024,1.9,001km S 56° W of City Of Bogo (Cebu),001,S 56° W,City Of Bogo (Cebu)
 2025-10-25T21:18:00.000Z,25 October 2025 - 09:18 PM,11.29,124.09,032,2.1,029km N 25° E of City Of Bogo (Cebu),029,N 25° E,City Of Bogo (Cebu)
 2025-10-25T21:18:00.000Z,25 October 2025 - 09:18 PM,09.68,126.21,034,1.7,013km S 26° E of General Luna (Surigao Del Norte),013,S 26° E,General Luna (Surigao Del Norte)
