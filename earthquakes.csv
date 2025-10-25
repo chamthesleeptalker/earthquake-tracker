@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T02:23:00.000Z,26 October 2025 - 02:23 AM,13.35,120.60,012,1.8,014km N 03° E of Mamburao (Occidental Mindoro),014,N 03° E,Mamburao (Occidental Mindoro)
+2025-10-26T02:23:00.000Z,26 October 2025 - 02:23 AM,11.33,124.11,026,2.0,034km N 24° E of City Of Bogo (Cebu),034,N 24° E,City Of Bogo (Cebu)
 2025-10-26T02:02:00.000Z,26 October 2025 - 02:02 AM,09.51,126.25,033,1.8,031km S 18° E of General Luna (Surigao Del Norte),031,S 18° E,General Luna (Surigao Del Norte)
 2025-10-26T01:52:00.000Z,26 October 2025 - 01:52 AM,17.80,120.66,022,2.1,010km N 29° W of Lagayan (Abra),010,N 29° W,Lagayan (Abra)
 2025-10-26T01:45:00.000Z,26 October 2025 - 01:45 AM,09.77,122.29,010,2.8,015km N 89° W of City Of Sipalay (Negros Occidental),015,N 89° W,City Of Sipalay (Negros Occidental)
