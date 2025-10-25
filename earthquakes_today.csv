@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-25T23:26:00.000Z,25 October 2025 - 11:26 PM,09.89,125.67,046,1.4,004km S 03° E of Cagdianao (Dinagat Islands),004,S 03° E,Cagdianao (Dinagat Islands)
+2025-10-25T23:19:00.000Z,25 October 2025 - 11:19 PM,07.23,126.82,011,2.4,031km N 86° E of Manay (Davao Oriental),031,N 86° E,Manay (Davao Oriental)
+2025-10-25T23:10:00.000Z,25 October 2025 - 11:10 PM,11.13,123.98,033,2.0,009km N 01° E of City Of Bogo (Cebu),009,N 01° E,City Of Bogo (Cebu)
 2025-10-25T23:06:00.000Z,25 October 2025 - 11:06 PM,08.73,126.50,012,2.6,030km S 46° E of Cagwait (Surigao Del Sur),030,S 46° E,Cagwait (Surigao Del Sur)
 2025-10-25T23:00:00.000Z,25 October 2025 - 11:00 PM,13.50,120.51,035,1.6,011km N 29° E of Paluan (Occidental Mindoro),011,N 29° E,Paluan (Occidental Mindoro)
 2025-10-25T22:52:00.000Z,25 October 2025 - 10:52 PM,10.91,123.95,016,2.0,015km S 12° W of City Of Bogo (Cebu),015,S 12° W,City Of Bogo (Cebu)
