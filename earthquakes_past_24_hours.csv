@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T03:16:00.000Z,26 October 2025 - 03:16 AM,11.12,123.93,029,1.9,010km N 31° W of City Of Bogo (Cebu),010,N 31° W,City Of Bogo (Cebu)
+2025-10-26T03:03:00.000Z,26 October 2025 - 03:03 AM,11.21,124.14,032,1.8,025km N 44° E of City Of Bogo (Cebu),025,N 44° E,City Of Bogo (Cebu)
 2025-10-26T03:01:00.000Z,26 October 2025 - 03:01 AM,10.94,123.95,005,2.9,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
 2025-10-26T03:01:00.000Z,26 October 2025 - 03:01 AM,10.94,123.95,005,2.9,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
 2025-10-26T02:23:00.000Z,26 October 2025 - 02:23 AM,13.35,120.60,012,1.8,014km N 03° E of Mamburao (Occidental Mindoro),014,N 03° E,Mamburao (Occidental Mindoro)
@@ -102,4 +104,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T03:49:00.000Z,25 October 2025 - 03:49 AM,07.13,127.50,020,3.4,106km S 85° E of Manay (Davao Oriental),106,S 85° E,Manay (Davao Oriental)
 2025-10-25T03:39:00.000Z,25 October 2025 - 03:39 AM,10.48,125.27,010,1.7,012km N 41° E of Hinunangan (Southern Leyte),012,N 41° E,Hinunangan (Southern Leyte)
 2025-10-25T03:20:00.000Z,25 October 2025 - 03:20 AM,12.71,123.44,010,2.3,026km N 72° W of Monreal (Masbate),026,N 72° W,Monreal (Masbate)
-2025-10-25T03:03:00.000Z,25 October 2025 - 03:03 AM,10.97,123.99,012,2.0,009km S 09° E of City Of Bogo (Cebu),009,S 09° E,City Of Bogo (Cebu)
