@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T10:24:00.000Z,26 October 2025 - 10:24 AM,10.20,124.02,036,1.3,010km S 55° E of Cordova (Cebu),010,S 55° E,Cordova (Cebu)
+2025-10-26T10:16:00.000Z,26 October 2025 - 10:16 AM,11.10,124.32,029,2.5,009km N 55° W of Palompon (Leyte),009,N 55° W,Palompon (Leyte)
+2025-10-26T09:53:00.000Z,26 October 2025 - 09:53 AM,13.59,120.69,103,1.8,016km N 14° W of Abra De Ilog (Occidental Mindoro),016,N 14° W,Abra De Ilog (Occidental Mindoro)
 2025-10-26T09:03:00.000Z,26 October 2025 - 09:03 AM,08.81,126.48,022,2.4,023km S 59° E of Cagwait (Surigao Del Sur),023,S 59° E,Cagwait (Surigao Del Sur)
 2025-10-26T08:52:00.000Z,26 October 2025 - 08:52 AM,09.60,126.23,032,2.0,022km S 21° E of General Luna (Surigao Del Norte),022,S 21° E,General Luna (Surigao Del Norte)
 2025-10-26T08:47:00.000Z,26 October 2025 - 08:47 AM,06.92,127.27,002,3.1,086km S 68° E of Manay (Davao Oriental),086,S 68° E,Manay (Davao Oriental)
