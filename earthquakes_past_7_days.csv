@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T22:04:00.000Z,26 October 2025 - 10:04 PM,09.46,126.18,025,2.1,021km N 03° W of Cortes (Surigao Del Sur),021,N 03° W,Cortes (Surigao Del Sur)
+2025-10-26T22:02:00.000Z,26 October 2025 - 10:02 PM,11.10,124.04,005,1.6,009km N 46° E of City Of Bogo (Cebu),009,N 46° E,City Of Bogo (Cebu)
+2025-10-26T21:42:00.000Z,26 October 2025 - 09:42 PM,09.57,126.15,005,2.1,023km S 01° W of General Luna (Surigao Del Norte),023,S 01° W,General Luna (Surigao Del Norte)
+2025-10-26T21:42:00.000Z,26 October 2025 - 09:42 PM,14.90,121.81,028,2.0,004km S 14° W of Panukulan (Quezon),004,S 14° W,Panukulan (Quezon)
 2025-10-26T21:28:00.000Z,26 October 2025 - 09:28 PM,07.34,126.90,015,2.4,043km N 70° E of Manay (Davao Oriental),043,N 70° E,Manay (Davao Oriental)
 2025-10-26T01:44:00.000Z,26 October 2025 - 01:44 AM,09.67,122.14,010,2.8,034km S 70° W of City Of Sipalay (Negros Occidental),034,S 70° W,City Of Sipalay (Negros Occidental)
 2025-10-26T21:10:00.000Z,26 October 2025 - 09:10 PM,18.22,120.86,059,1.4,009km N 22° E of Carasi (Ilocos Norte),009,N 22° E,Carasi (Ilocos Norte)
@@ -829,6 +833,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T22:22:00.000Z,19 October 2025 - 10:22 PM,11.20,123.97,017,1.9,017km N 04° W of City Of Bogo (Cebu),017,N 04° W,City Of Bogo (Cebu)
 2025-10-19T22:14:00.000Z,19 October 2025 - 10:14 PM,11.03,124.13,007,2.1,016km S 85° E of City Of Bogo (Cebu),016,S 85° E,City Of Bogo (Cebu)
 2025-10-19T22:12:00.000Z,19 October 2025 - 10:12 PM,11.11,123.98,021,1.9,007km N 01° E of City Of Bogo (Cebu),007,N 01° E,City Of Bogo (Cebu)
-2025-10-19T21:47:00.000Z,19 October 2025 - 09:47 PM,07.13,126.81,010,4.1,031km S 73° E of Manay (Davao Oriental),031,S 73° E,Manay (Davao Oriental)
-2025-10-19T21:35:00.000Z,19 October 2025 - 09:35 PM,18.45,120.74,007,3.3,012km S 57° E of Burgos (Ilocos Norte),012,S 57° E,Burgos (Ilocos Norte)
-2025-10-19T21:33:00.000Z,19 October 2025 - 09:33 PM,18.54,120.70,010,3.8,006km N 62° E of Burgos (Ilocos Norte),006,N 62° E,Burgos (Ilocos Norte)
