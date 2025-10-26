@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T23:21:00.000Z,26 October 2025 - 11:21 PM,13.77,120.53,072,3.4,013km S 61° W of Calatagan (Batangas),013,S 61° W,Calatagan (Batangas)
+2025-10-26T23:12:00.000Z,26 October 2025 - 11:12 PM,11.16,123.95,009,2.1,012km N 13° W of City Of Bogo (Cebu),012,N 13° W,City Of Bogo (Cebu)
 2025-10-26T23:03:00.000Z,26 October 2025 - 11:03 PM,11.10,123.94,003,2.6,007km N 31° W of City Of Bogo (Cebu),007,N 31° W,City Of Bogo (Cebu)
 2025-10-26T22:48:00.000Z,26 October 2025 - 10:48 PM,11.08,124.12,032,2.3,016km N 78° E of City Of Bogo (Cebu),016,N 78° E,City Of Bogo (Cebu)
 2025-10-26T22:48:00.000Z,26 October 2025 - 10:48 PM,11.08,124.08,034,2.0,012km N 71° E of City Of Bogo (Cebu),012,N 71° E,City Of Bogo (Cebu)
