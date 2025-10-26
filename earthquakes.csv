@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T22:22:00.000Z,26 October 2025 - 10:22 PM,11.10,122.61,032,1.5,005km S 59° W of City Of Passi (Iloilo),005,S 59° W,City Of Passi (Iloilo)
+2025-10-26T22:10:00.000Z,26 October 2025 - 10:10 PM,06.68,127.02,010,3.3,079km S 42° E of Manay (Davao Oriental),079,S 42° E,Manay (Davao Oriental)
+2025-10-26T22:05:00.000Z,26 October 2025 - 10:05 PM,05.90,127.00,087,4.2,132km S 51° E of Governor Generoso (Davao Oriental),132,S 51° E,Governor Generoso (Davao Oriental)
 2025-10-26T22:04:00.000Z,26 October 2025 - 10:04 PM,09.46,126.18,025,2.1,021km N 03° W of Cortes (Surigao Del Sur),021,N 03° W,Cortes (Surigao Del Sur)
 2025-10-26T22:02:00.000Z,26 October 2025 - 10:02 PM,11.10,124.04,005,1.6,009km N 46° E of City Of Bogo (Cebu),009,N 46° E,City Of Bogo (Cebu)
 2025-10-26T21:42:00.000Z,26 October 2025 - 09:42 PM,09.57,126.15,005,2.1,023km S 01° W of General Luna (Surigao Del Norte),023,S 01° W,General Luna (Surigao Del Norte)
