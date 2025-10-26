@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T03:15:00.000Z,27 October 2025 - 03:15 AM,07.02,127.10,007,3.5,065km S 71° E of Manay (Davao Oriental),065,S 71° E,Manay (Davao Oriental)
+2025-10-27T03:10:00.000Z,27 October 2025 - 03:10 AM,12.66,121.09,009,1.9,019km N 57° E of Calintaan (Occidental Mindoro),019,N 57° E,Calintaan (Occidental Mindoro)
 2025-10-27T03:03:00.000Z,27 October 2025 - 03:03 AM,11.20,124.02,013,2.4,017km N 16° E of City Of Bogo (Cebu),017,N 16° E,City Of Bogo (Cebu)
 2025-10-27T02:57:00.000Z,27 October 2025 - 02:57 AM,06.99,126.72,033,3.5,031km S 40° E of Manay (Davao Oriental),031,S 40° E,Manay (Davao Oriental)
 2025-10-27T02:50:00.000Z,27 October 2025 - 02:50 AM,07.36,126.79,022,3.3,033km N 59° E of Manay (Davao Oriental),033,N 59° E,Manay (Davao Oriental)
