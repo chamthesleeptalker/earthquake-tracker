@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T02:32:00.000Z,27 October 2025 - 02:32 AM,12.09,120.68,033,1.8,051km S 55° W of San Jose (Occidental Mindoro),051,S 55° W,San Jose (Occidental Mindoro)
+2025-10-27T02:26:00.000Z,27 October 2025 - 02:26 AM,08.72,124.63,038,1.7,016km N 62° W of Jasaan (Misamis Oriental),016,N 62° W,Jasaan (Misamis Oriental)
 2025-10-27T02:14:00.000Z,27 October 2025 - 02:14 AM,16.82,121.48,024,1.9,007km N 56° W of Ramon (Isabela),007,N 56° W,Ramon (Isabela)
 2025-10-27T02:02:00.000Z,27 October 2025 - 02:02 AM,09.92,124.20,027,1.9,012km N 84° E of Sagbayan (Bohol),012,N 84° E,Sagbayan (Bohol)
 2025-10-27T01:50:00.000Z,27 October 2025 - 01:50 AM,07.35,127.31,003,3.6,086km N 80° E of Manay (Davao Oriental),086,N 80° E,Manay (Davao Oriental)
