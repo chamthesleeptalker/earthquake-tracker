@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T15:07:00.000Z,26 October 2025 - 03:07 PM,11.12,124.15,005,2.2,021km N 68° E of City Of Bogo (Cebu),021,N 68° E,City Of Bogo (Cebu)
 2025-10-26T14:40:00.000Z,26 October 2025 - 02:40 PM,15.15,120.01,001,2.3,005km S 79° W of Cabangan (Zambales),005,S 79° W,Cabangan (Zambales)
 2025-10-26T14:11:00.000Z,26 October 2025 - 02:11 PM,11.29,124.00,029,1.6,028km N 04° E of City Of Bogo (Cebu),028,N 04° E,City Of Bogo (Cebu)
 2025-10-26T13:41:00.000Z,26 October 2025 - 01:41 PM,06.53,126.20,132,3.3,020km S 45° E of Governor Generoso (Davao Oriental),020,S 45° E,Governor Generoso (Davao Oriental)
@@ -845,4 +846,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T15:15:00.000Z,19 October 2025 - 03:15 PM,12.18,125.36,003,3.0,016km S 89° W of San Policarpo (Eastern Samar),016,S 89° W,San Policarpo (Eastern Samar)
 2025-10-19T15:14:00.000Z,19 October 2025 - 03:14 PM,07.98,126.97,002,2.4,061km N 70° E of Cateel (Davao Oriental),061,N 70° E,Cateel (Davao Oriental)
 2025-10-19T15:12:00.000Z,19 October 2025 - 03:12 PM,08.82,126.37,027,1.6,014km S 34° E of Cagwait (Surigao Del Sur),014,S 34° E,Cagwait (Surigao Del Sur)
-2025-10-19T15:01:00.000Z,19 October 2025 - 03:01 PM,11.12,124.01,028,1.9,009km N 23° E of City Of Bogo (Cebu),009,N 23° E,City Of Bogo (Cebu)
