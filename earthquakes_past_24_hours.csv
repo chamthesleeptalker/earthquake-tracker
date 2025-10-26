@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T00:06:00.000Z,27 October 2025 - 12:06 AM,15.32,120.08,034,1.4,007km N 56° E of Botolan (Zambales),007,N 56° E,Botolan (Zambales)
+2025-10-26T23:49:00.000Z,26 October 2025 - 11:49 PM,13.00,124.54,015,2.1,038km S 83° E of Prieto Diaz (Sorsogon),038,S 83° E,Prieto Diaz (Sorsogon)
+2025-10-26T23:37:00.000Z,26 October 2025 - 11:37 PM,14.93,119.70,014,3.9,042km S 87° W of San Antonio (Zambales),042,S 87° W,San Antonio (Zambales)
 2025-10-26T23:21:00.000Z,26 October 2025 - 11:21 PM,13.77,120.53,072,3.4,013km S 61° W of Calatagan (Batangas),013,S 61° W,Calatagan (Batangas)
 2025-10-26T23:12:00.000Z,26 October 2025 - 11:12 PM,11.16,123.95,009,2.1,012km N 13° W of City Of Bogo (Cebu),012,N 13° W,City Of Bogo (Cebu)
 2025-10-26T23:03:00.000Z,26 October 2025 - 11:03 PM,11.10,123.94,003,2.6,007km N 31° W of City Of Bogo (Cebu),007,N 31° W,City Of Bogo (Cebu)
@@ -118,7 +121,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T00:20:00.000Z,26 October 2025 - 12:20 AM,10.95,123.88,008,3.1,015km S 46° W of City Of Bogo (Cebu),015,S 46° W,City Of Bogo (Cebu)
 2025-10-26T00:15:00.000Z,26 October 2025 - 12:15 AM,09.88,126.05,026,2.0,006km N 66° W of Pilar (Surigao Del Norte),006,N 66° W,Pilar (Surigao Del Norte)
 2025-10-26T00:06:00.000Z,26 October 2025 - 12:06 AM,08.97,127.13,021,2.7,091km N 87° E of Cagwait (Surigao Del Sur),091,N 87° E,Cagwait (Surigao Del Sur)
-2025-10-26T00:03:00.000Z,26 October 2025 - 12:03 AM,11.16,124.11,001,2.0,019km N 48° E of City Of Bogo (Cebu),019,N 48° E,City Of Bogo (Cebu)
-2025-10-25T23:54:00.000Z,25 October 2025 - 11:54 PM,18.65,119.98,018,2.4,072km N 77° W of Burgos (Ilocos Norte),072,N 77° W,Burgos (Ilocos Norte)
-2025-10-25T23:35:00.000Z,25 October 2025 - 11:35 PM,11.10,124.16,005,2.0,021km N 74° E of City Of Bogo (Cebu),021,N 74° E,City Of Bogo (Cebu)
-2025-10-25T23:26:00.000Z,25 October 2025 - 11:26 PM,09.89,125.67,046,1.4,004km S 03° E of Cagdianao (Dinagat Islands),004,S 03° E,Cagdianao (Dinagat Islands)

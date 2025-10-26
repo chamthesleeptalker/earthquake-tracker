@@ -1,8 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T00:06:00.000Z,27 October 2025 - 12:06 AM,15.32,120.08,034,1.4,007km N 56° E of Botolan (Zambales),007,N 56° E,Botolan (Zambales)
+2025-10-26T23:49:00.000Z,26 October 2025 - 11:49 PM,13.00,124.54,015,2.1,038km S 83° E of Prieto Diaz (Sorsogon),038,S 83° E,Prieto Diaz (Sorsogon)
+2025-10-26T23:37:00.000Z,26 October 2025 - 11:37 PM,14.93,119.70,014,3.9,042km S 87° W of San Antonio (Zambales),042,S 87° W,San Antonio (Zambales)
 2025-10-26T23:21:00.000Z,26 October 2025 - 11:21 PM,13.77,120.53,072,3.4,013km S 61° W of Calatagan (Batangas),013,S 61° W,Calatagan (Batangas)
 2025-10-26T23:12:00.000Z,26 October 2025 - 11:12 PM,11.16,123.95,009,2.1,012km N 13° W of City Of Bogo (Cebu),012,N 13° W,City Of Bogo (Cebu)
-2025-10-26T23:03:00.000Z,26 October 2025 - 11:03 PM,11.10,123.94,003,2.6,007km N 31° W of City Of Bogo (Cebu),007,N 31° W,City Of Bogo (Cebu)
-2025-10-26T22:48:00.000Z,26 October 2025 - 10:48 PM,11.08,124.12,032,2.3,016km N 78° E of City Of Bogo (Cebu),016,N 78° E,City Of Bogo (Cebu)
-2025-10-26T22:48:00.000Z,26 October 2025 - 10:48 PM,11.08,124.08,034,2.0,012km N 71° E of City Of Bogo (Cebu),012,N 71° E,City Of Bogo (Cebu)
-2025-10-26T22:33:00.000Z,26 October 2025 - 10:33 PM,10.84,123.86,001,2.4,026km S 30° W of City Of Bogo (Cebu),026,S 30° W,City Of Bogo (Cebu)
-2025-10-26T22:22:00.000Z,26 October 2025 - 10:22 PM,11.10,122.61,032,1.5,005km S 59° W of City Of Passi (Iloilo),005,S 59° W,City Of Passi (Iloilo)
