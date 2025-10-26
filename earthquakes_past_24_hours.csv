@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T16:09:00.000Z,26 October 2025 - 04:09 PM,09.59,126.23,032,1.5,023km S 20° E of General Luna (Surigao Del Norte),023,S 20° E,General Luna (Surigao Del Norte)
+2025-10-26T15:55:00.000Z,26 October 2025 - 03:55 PM,10.41,126.31,003,2.5,050km N 31° E of Burgos (Surigao Del Norte),050,N 31° E,Burgos (Surigao Del Norte)
+2025-10-26T15:41:00.000Z,26 October 2025 - 03:41 PM,07.35,126.86,015,2.9,038km N 66° E of Manay (Davao Oriental),038,N 66° E,Manay (Davao Oriental)
+2025-10-26T15:37:00.000Z,26 October 2025 - 03:37 PM,13.04,121.31,007,1.5,010km S 79° W of Socorro (Oriental Mindoro),010,S 79° W,Socorro (Oriental Mindoro)
 2025-10-26T15:14:00.000Z,26 October 2025 - 03:14 PM,13.55,121.11,028,1.9,004km N 64° E of Verde Island (Batangas City) (Batangas),004,N 64° E,Verde Island (Batangas City) (Batangas)
 2025-10-26T15:07:00.000Z,26 October 2025 - 03:07 PM,11.12,124.15,005,2.2,021km N 68° E of City Of Bogo (Cebu),021,N 68° E,City Of Bogo (Cebu)
 2025-10-26T14:40:00.000Z,26 October 2025 - 02:40 PM,15.15,120.01,001,2.3,005km S 79° W of Cabangan (Zambales),005,S 79° W,Cabangan (Zambales)
@@ -111,5 +115,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T17:58:00.000Z,25 October 2025 - 05:58 PM,11.16,124.09,020,2.2,017km N 43° E of City Of Bogo (Cebu),017,N 43° E,City Of Bogo (Cebu)
 2025-10-25T17:34:00.000Z,25 October 2025 - 05:34 PM,11.01,126.25,145,2.8,058km S 87° E of Guiuan (Eastern Samar),058,S 87° E,Guiuan (Eastern Samar)
 2025-10-25T16:49:00.000Z,25 October 2025 - 04:49 PM,11.11,124.09,003,3.2,014km N 62° E of City Of Bogo (Cebu),014,N 62° E,City Of Bogo (Cebu)
-2025-10-25T15:43:00.000Z,25 October 2025 - 03:43 PM,07.31,126.87,020,3.8,038km N 74° E of Manay (Davao Oriental),038,N 74° E,Manay (Davao Oriental)
-2025-10-25T15:31:00.000Z,25 October 2025 - 03:31 PM,09.54,126.15,024,1.7,027km S 01° W of General Luna (Surigao Del Norte),027,S 01° W,General Luna (Surigao Del Norte)
