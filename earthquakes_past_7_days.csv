@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T19:02:00.000Z,26 October 2025 - 07:02 PM,09.48,123.91,032,1.9,015km S 18° W of Alburquerque (Bohol),015,S 18° W,Alburquerque (Bohol)
+2025-10-26T18:56:00.000Z,26 October 2025 - 06:56 PM,11.05,124.02,001,1.8,005km N 83° E of City Of Bogo (Cebu),005,N 83° E,City Of Bogo (Cebu)
+2025-10-26T18:48:00.000Z,26 October 2025 - 06:48 PM,11.81,125.70,007,2.6,027km S 88° E of Sulat (Eastern Samar),027,S 88° E,Sulat (Eastern Samar)
+2025-10-26T18:46:00.000Z,26 October 2025 - 06:46 PM,05.27,126.95,061,3.3,161km S 64° E of Jose Abad Santos (Davao Occidental),161,S 64° E,Jose Abad Santos (Davao Occidental)
+2025-10-26T18:41:00.000Z,26 October 2025 - 06:41 PM,05.93,126.45,023,3.7,089km S 70° E of Don Marcelino (Davao Occidental),089,S 70° E,Don Marcelino (Davao Occidental)
 2025-10-26T18:25:00.000Z,26 October 2025 - 06:25 PM,05.74,126.83,009,3.4,128km S 40° E of Governor Generoso (Davao Oriental),128,S 40° E,Governor Generoso (Davao Oriental)
 2025-10-26T18:17:00.000Z,26 October 2025 - 06:17 PM,09.83,126.19,026,1.8,006km N 37° E of General Luna (Surigao Del Norte),006,N 37° E,General Luna (Surigao Del Norte)
 2025-10-26T18:12:00.000Z,26 October 2025 - 06:12 PM,11.78,125.41,028,3.4,006km N 60° W of San Julian (Eastern Samar),006,N 60° W,San Julian (Eastern Samar)
@@ -833,5 +838,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T19:13:00.000Z,19 October 2025 - 07:13 PM,10.97,123.91,010,2.9,012km S 44° W of City Of Bogo (Cebu),012,S 44° W,City Of Bogo (Cebu)
 2025-10-19T19:08:00.000Z,19 October 2025 - 07:08 PM,15.46,121.38,026,2.0,005km N 80° E of Gabaldon (Nueva Ecija),005,N 80° E,Gabaldon (Nueva Ecija)
 2025-10-19T19:06:00.000Z,19 October 2025 - 07:06 PM,10.91,123.92,003,3.8,016km S 22° W of City Of Bogo (Cebu),016,S 22° W,City Of Bogo (Cebu)
-2025-10-19T18:54:00.000Z,19 October 2025 - 06:54 PM,09.67,126.22,031,2.2,015km S 30° E of General Luna (Surigao Del Norte),015,S 30° E,General Luna (Surigao Del Norte)
-2025-10-19T18:46:00.000Z,19 October 2025 - 06:46 PM,08.83,126.46,026,2.4,020km S 60° E of Cagwait (Surigao Del Sur),020,S 60° E,Cagwait (Surigao Del Sur)
