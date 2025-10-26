@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T17:29:00.000Z,26 October 2025 - 05:29 PM,10.00,126.53,025,3.4,048km N 60° E of General Luna (Surigao Del Norte),048,N 60° E,General Luna (Surigao Del Norte)
+2025-10-26T17:23:00.000Z,26 October 2025 - 05:23 PM,09.93,126.29,031,2.8,022km N 42° E of General Luna (Surigao Del Norte),022,N 42° E,General Luna (Surigao Del Norte)
+2025-10-26T17:07:00.000Z,26 October 2025 - 05:07 PM,08.89,126.49,021,2.2,020km S 81° E of Cagwait (Surigao Del Sur),020,S 81° E,Cagwait (Surigao Del Sur)
 2025-10-26T17:04:00.000Z,26 October 2025 - 05:04 PM,11.05,124.02,014,2.4,004km N 82° E of City Of Bogo (Cebu),004,N 82° E,City Of Bogo (Cebu)
 2025-10-26T17:03:00.000Z,26 October 2025 - 05:03 PM,15.62,119.99,029,2.4,007km S 83° E of Candelaria (Zambales),007,S 83° E,Candelaria (Zambales)
 2025-10-26T17:02:00.000Z,26 October 2025 - 05:02 PM,11.16,124.68,003,2.7,013km S 79° E of Kananga (Leyte),013,S 79° E,Kananga (Leyte)
@@ -837,8 +840,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-19T17:44:00.000Z,19 October 2025 - 05:44 PM,07.55,126.39,050,2.1,019km S 83° W of Baganga (Davao Oriental),019,S 83° W,Baganga (Davao Oriental)
 2025-10-19T17:33:00.000Z,19 October 2025 - 05:33 PM,09.65,126.21,031,2.4,015km S 23° E of General Luna (Surigao Del Norte),015,S 23° E,General Luna (Surigao Del Norte)
 2025-10-19T17:32:00.000Z,19 October 2025 - 05:32 PM,10.65,122.17,003,2.9,007km N 78° W of Miagao (Iloilo),007,N 78° W,Miagao (Iloilo)
-2025-10-19T17:26:00.000Z,19 October 2025 - 05:26 PM,09.63,126.17,013,2.9,018km S 54° W of General Luna (Surigao Del Norte),018,S 54° W,General Luna (Surigao Del Norte)
-2025-10-19T17:19:00.000Z,19 October 2025 - 05:19 PM,18.73,120.48,010,3.8,030km N 37° W of Burgos (Ilocos Norte),030,N 37° W,Burgos (Ilocos Norte)
-2025-10-19T17:19:00.000Z,19 October 2025 - 05:19 PM,12.88,124.71,013,2.5,040km N 07° W of Mondragon (Northern Samar),040,N 07° W,Mondragon (Northern Samar)
-2025-10-19T17:14:00.000Z,19 October 2025 - 05:14 PM,09.63,126.23,032,1.7,019km S 26° E of General Luna (Surigao Del Norte),019,S 26° E,General Luna (Surigao Del Norte)
-2025-10-19T17:07:00.000Z,19 October 2025 - 05:07 PM,11.06,124.04,009,3.2,007km N 75° E of City Of Bogo (Cebu),007,N 75° E,City Of Bogo (Cebu)

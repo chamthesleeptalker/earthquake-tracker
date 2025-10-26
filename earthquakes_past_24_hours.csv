@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-26T17:29:00.000Z,26 October 2025 - 05:29 PM,10.00,126.53,025,3.4,048km N 60° E of General Luna (Surigao Del Norte),048,N 60° E,General Luna (Surigao Del Norte)
+2025-10-26T17:23:00.000Z,26 October 2025 - 05:23 PM,09.93,126.29,031,2.8,022km N 42° E of General Luna (Surigao Del Norte),022,N 42° E,General Luna (Surigao Del Norte)
+2025-10-26T17:07:00.000Z,26 October 2025 - 05:07 PM,08.89,126.49,021,2.2,020km S 81° E of Cagwait (Surigao Del Sur),020,S 81° E,Cagwait (Surigao Del Sur)
 2025-10-26T17:04:00.000Z,26 October 2025 - 05:04 PM,11.05,124.02,014,2.4,004km N 82° E of City Of Bogo (Cebu),004,N 82° E,City Of Bogo (Cebu)
 2025-10-26T17:03:00.000Z,26 October 2025 - 05:03 PM,15.62,119.99,029,2.4,007km S 83° E of Candelaria (Zambales),007,S 83° E,Candelaria (Zambales)
 2025-10-26T17:02:00.000Z,26 October 2025 - 05:02 PM,11.16,124.68,003,2.7,013km S 79° E of Kananga (Leyte),013,S 79° E,Kananga (Leyte)
