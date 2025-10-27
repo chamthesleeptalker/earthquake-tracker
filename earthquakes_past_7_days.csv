@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T22:50:00.000Z,27 October 2025 - 10:50 PM,15.42,119.78,021,2.1,014km S 84° W of Palauig (Zambales),014,S 84° W,Palauig (Zambales)
+2025-10-27T22:39:00.000Z,27 October 2025 - 10:39 PM,07.13,126.89,032,2.5,040km S 77° E of Manay (Davao Oriental),040,S 77° E,Manay (Davao Oriental)
+2025-10-27T22:37:00.000Z,27 October 2025 - 10:37 PM,11.21,124.08,025,1.8,020km N 31° E of City Of Bogo (Cebu),020,N 31° E,City Of Bogo (Cebu)
 2025-10-27T22:27:00.000Z,27 October 2025 - 10:27 PM,07.25,126.74,008,2.5,023km N 80° E of Manay (Davao Oriental),023,N 80° E,Manay (Davao Oriental)
 2025-10-27T22:07:00.000Z,27 October 2025 - 10:07 PM,15.55,119.87,029,2.7,009km N 78° W of Masinloc (Zambales),009,N 78° W,Masinloc (Zambales)
 2025-10-27T22:06:00.000Z,27 October 2025 - 10:06 PM,07.39,127.37,010,2.6,093km N 78° E of Manay (Davao Oriental),093,N 78° E,Manay (Davao Oriental)
@@ -766,7 +769,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-20T23:05:00.000Z,20 October 2025 - 11:05 PM,08.91,126.36,027,2.7,007km S 82° E of Cagwait (Surigao Del Sur),007,S 82° E,Cagwait (Surigao Del Sur)
 2025-10-20T22:57:00.000Z,20 October 2025 - 10:57 PM,07.05,126.89,020,3.0,042km S 65° E of Manay (Davao Oriental),042,S 65° E,Manay (Davao Oriental)
 2025-10-20T22:55:00.000Z,20 October 2025 - 10:55 PM,18.18,122.17,013,2.7,020km S 65° E of Gonzaga (Cagayan),020,S 65° E,Gonzaga (Cagayan)
-2025-10-20T22:46:00.000Z,20 October 2025 - 10:46 PM,08.77,126.51,029,2.1,028km S 54° E of Cagwait (Surigao Del Sur),028,S 54° E,Cagwait (Surigao Del Sur)
-2025-10-20T22:42:00.000Z,20 October 2025 - 10:42 PM,09.97,126.11,019,1.8,021km N 13° W of General Luna (Surigao Del Norte),021,N 13° W,General Luna (Surigao Del Norte)
-2025-10-20T22:35:00.000Z,20 October 2025 - 10:35 PM,10.93,123.87,001,2.5,018km S 43° W of City Of Bogo (Cebu),018,S 43° W,City Of Bogo (Cebu)
-2025-10-20T22:33:00.000Z,20 October 2025 - 10:33 PM,13.63,120.29,005,2.3,011km S 26° E of Looc (Occidental Mindoro),011,S 26° E,Looc (Occidental Mindoro)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T22:50:00.000Z,27 October 2025 - 10:50 PM,15.42,119.78,021,2.1,014km S 84° W of Palauig (Zambales),014,S 84° W,Palauig (Zambales)
+2025-10-27T22:39:00.000Z,27 October 2025 - 10:39 PM,07.13,126.89,032,2.5,040km S 77° E of Manay (Davao Oriental),040,S 77° E,Manay (Davao Oriental)
+2025-10-27T22:37:00.000Z,27 October 2025 - 10:37 PM,11.21,124.08,025,1.8,020km N 31° E of City Of Bogo (Cebu),020,N 31° E,City Of Bogo (Cebu)
 2025-10-27T22:27:00.000Z,27 October 2025 - 10:27 PM,07.25,126.74,008,2.5,023km N 80° E of Manay (Davao Oriental),023,N 80° E,Manay (Davao Oriental)
 2025-10-27T22:07:00.000Z,27 October 2025 - 10:07 PM,15.55,119.87,029,2.7,009km N 78° W of Masinloc (Zambales),009,N 78° W,Masinloc (Zambales)
 2025-10-27T22:06:00.000Z,27 October 2025 - 10:06 PM,07.39,127.37,010,2.6,093km N 78° E of Manay (Davao Oriental),093,N 78° E,Manay (Davao Oriental)
