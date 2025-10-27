@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T05:18:00.000Z,28 October 2025 - 05:18 AM,11.09,124.04,031,1.8,009km N 53° E of City Of Bogo (Cebu),009,N 53° E,City Of Bogo (Cebu)
 2025-10-28T04:38:00.000Z,28 October 2025 - 04:38 AM,18.63,120.78,017,1.9,007km N 09° W of Pagudpud (Ilocos Norte),007,N 09° W,Pagudpud (Ilocos Norte)
 2025-10-28T03:59:00.000Z,28 October 2025 - 03:59 AM,11.16,124.18,017,2.0,025km N 60° E of City Of Bogo (Cebu),025,N 60° E,City Of Bogo (Cebu)
 2025-10-28T03:55:00.000Z,28 October 2025 - 03:55 AM,11.21,124.22,004,1.8,032km N 55° E of City Of Bogo (Cebu),032,N 55° E,City Of Bogo (Cebu)
@@ -108,4 +109,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T06:24:00.000Z,27 October 2025 - 06:24 AM,10.98,124.06,034,1.5,011km S 49° E of City Of Bogo (Cebu),011,S 49° E,City Of Bogo (Cebu)
 2025-10-27T05:50:00.000Z,27 October 2025 - 05:50 AM,11.08,124.07,023,2.1,010km N 71° E of City Of Bogo (Cebu),010,N 71° E,City Of Bogo (Cebu)
 2025-10-27T05:26:00.000Z,27 October 2025 - 05:26 AM,07.17,127.01,018,2.7,052km S 85° E of Manay (Davao Oriental),052,S 85° E,Manay (Davao Oriental)
-2025-10-27T05:11:00.000Z,27 October 2025 - 05:11 AM,06.88,126.42,040,3.4,024km S 70° E of City Of Mati (Davao Oriental),024,S 70° E,City Of Mati (Davao Oriental)
