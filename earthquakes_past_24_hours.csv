@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T02:29:00.000Z,28 October 2025 - 02:29 AM,09.65,126.21,033,1.7,016km S 23° E of General Luna (Surigao Del Norte),016,S 23° E,General Luna (Surigao Del Norte)
 2025-10-28T01:59:00.000Z,28 October 2025 - 01:59 AM,11.10,123.99,027,2.1,006km N 06° E of City Of Bogo (Cebu),006,N 06° E,City Of Bogo (Cebu)
 2025-10-28T01:53:00.000Z,28 October 2025 - 01:53 AM,08.70,126.19,028,1.9,026km S 26° W of Cagwait (Surigao Del Sur),026,S 26° W,Cagwait (Surigao Del Sur)
 2025-10-28T01:49:00.000Z,28 October 2025 - 01:49 AM,07.41,126.85,001,2.5,041km N 56° E of Manay (Davao Oriental),041,N 56° E,Manay (Davao Oriental)
@@ -105,6 +106,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T02:48:00.000Z,27 October 2025 - 02:48 AM,11.04,124.07,005,3.2,010km S 88° E of City Of Bogo (Cebu),010,S 88° E,City Of Bogo (Cebu)
 2025-10-27T02:45:00.000Z,27 October 2025 - 02:45 AM,05.11,127.51,115,3.8,225km S 67° E of Jose Abad Santos (Davao Occidental),225,S 67° E,Jose Abad Santos (Davao Occidental)
 2025-10-27T02:32:00.000Z,27 October 2025 - 02:32 AM,12.09,120.68,033,1.8,051km S 55° W of San Jose (Occidental Mindoro),051,S 55° W,San Jose (Occidental Mindoro)
-2025-10-27T02:26:00.000Z,27 October 2025 - 02:26 AM,08.72,124.63,038,1.7,016km N 62° W of Jasaan (Misamis Oriental),016,N 62° W,Jasaan (Misamis Oriental)
-2025-10-27T02:14:00.000Z,27 October 2025 - 02:14 AM,16.82,121.48,024,1.9,007km N 56° W of Ramon (Isabela),007,N 56° W,Ramon (Isabela)
-2025-10-27T02:02:00.000Z,27 October 2025 - 02:02 AM,09.92,124.20,027,1.9,012km N 84° E of Sagbayan (Bohol),012,N 84° E,Sagbayan (Bohol)
