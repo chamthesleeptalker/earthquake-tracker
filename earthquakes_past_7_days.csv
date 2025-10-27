@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T19:24:00.000Z,27 October 2025 - 07:24 PM,09.66,126.23,030,2.5,016km S 29° E of General Luna (Surigao Del Norte),016,S 29° E,General Luna (Surigao Del Norte)
+2025-10-27T19:24:00.000Z,27 October 2025 - 07:24 PM,09.66,126.23,030,2.5,016km S 29° E of General Luna (Surigao Del Norte),016,S 29° E,General Luna (Surigao Del Norte)
 2025-10-27T18:59:00.000Z,27 October 2025 - 06:59 PM,09.67,126.17,032,1.8,013km S 07° E of General Luna (Surigao Del Norte),013,S 07° E,General Luna (Surigao Del Norte)
 2025-10-27T18:46:00.000Z,27 October 2025 - 06:46 PM,16.20,120.84,018,2.5,017km N 29° E of San Nicolas (Pangasinan),017,N 29° E,San Nicolas (Pangasinan)
 2025-10-27T18:35:00.000Z,27 October 2025 - 06:35 PM,09.74,126.33,033,1.8,020km S 75° E of General Luna (Surigao Del Norte),020,S 75° E,General Luna (Surigao Del Norte)
@@ -765,5 +767,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-20T20:05:00.000Z,20 October 2025 - 08:05 PM,07.29,126.78,021,3.3,028km N 71° E of Manay (Davao Oriental),028,N 71° E,Manay (Davao Oriental)
 2025-10-20T19:40:00.000Z,20 October 2025 - 07:40 PM,07.01,127.08,025,4.3,064km S 69° E of Manay (Davao Oriental),064,S 69° E,Manay (Davao Oriental)
 2025-10-20T19:35:00.000Z,20 October 2025 - 07:35 PM,06.98,127.45,010,5.7,103km S 75° E of Manay (Davao Oriental),103,S 75° E,Manay (Davao Oriental)
-2025-10-20T19:10:00.000Z,20 October 2025 - 07:10 PM,10.27,126.75,026,2.4,085km N 51° E of General Luna (Surigao Del Norte),085,N 51° E,General Luna (Surigao Del Norte)
-2025-10-20T19:04:00.000Z,20 October 2025 - 07:04 PM,07.19,127.34,025,2.5,088km S 88° E of Manay (Davao Oriental),088,S 88° E,Manay (Davao Oriental)
