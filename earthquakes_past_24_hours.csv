@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T03:06:00.000Z,28 October 2025 - 03:06 AM,11.16,123.99,021,1.9,013km N 03° E of City Of Bogo (Cebu),013,N 03° E,City Of Bogo (Cebu)
+2025-10-28T03:02:00.000Z,28 October 2025 - 03:02 AM,11.03,123.96,030,2.5,002km S 51° W of City Of Bogo (Cebu),002,S 51° W,City Of Bogo (Cebu)
+2025-10-28T02:40:00.000Z,28 October 2025 - 02:40 AM,06.93,127.30,011,2.9,088km S 69° E of Manay (Davao Oriental),088,S 69° E,Manay (Davao Oriental)
 2025-10-28T02:29:00.000Z,28 October 2025 - 02:29 AM,09.65,126.21,033,1.7,016km S 23° E of General Luna (Surigao Del Norte),016,S 23° E,General Luna (Surigao Del Norte)
 2025-10-28T01:59:00.000Z,28 October 2025 - 01:59 AM,11.10,123.99,027,2.1,006km N 06° E of City Of Bogo (Cebu),006,N 06° E,City Of Bogo (Cebu)
 2025-10-28T01:53:00.000Z,28 October 2025 - 01:53 AM,08.70,126.19,028,1.9,026km S 26° W of Cagwait (Surigao Del Sur),026,S 26° W,Cagwait (Surigao Del Sur)
@@ -100,9 +103,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T04:21:00.000Z,27 October 2025 - 04:21 AM,07.39,126.84,024,2.5,039km N 59° E of Manay (Davao Oriental),039,N 59° E,Manay (Davao Oriental)
 2025-10-27T03:15:00.000Z,27 October 2025 - 03:15 AM,07.02,127.10,007,3.5,065km S 71° E of Manay (Davao Oriental),065,S 71° E,Manay (Davao Oriental)
 2025-10-27T03:10:00.000Z,27 October 2025 - 03:10 AM,12.66,121.09,009,1.9,019km N 57° E of Calintaan (Occidental Mindoro),019,N 57° E,Calintaan (Occidental Mindoro)
-2025-10-27T03:03:00.000Z,27 October 2025 - 03:03 AM,11.20,124.02,013,2.4,017km N 16° E of City Of Bogo (Cebu),017,N 16° E,City Of Bogo (Cebu)
-2025-10-27T02:57:00.000Z,27 October 2025 - 02:57 AM,06.99,126.72,033,3.5,031km S 40° E of Manay (Davao Oriental),031,S 40° E,Manay (Davao Oriental)
-2025-10-27T02:50:00.000Z,27 October 2025 - 02:50 AM,07.36,126.79,022,3.3,033km N 59° E of Manay (Davao Oriental),033,N 59° E,Manay (Davao Oriental)
-2025-10-27T02:48:00.000Z,27 October 2025 - 02:48 AM,11.04,124.07,005,3.2,010km S 88° E of City Of Bogo (Cebu),010,S 88° E,City Of Bogo (Cebu)
-2025-10-27T02:45:00.000Z,27 October 2025 - 02:45 AM,05.11,127.51,115,3.8,225km S 67° E of Jose Abad Santos (Davao Occidental),225,S 67° E,Jose Abad Santos (Davao Occidental)
-2025-10-27T02:32:00.000Z,27 October 2025 - 02:32 AM,12.09,120.68,033,1.8,051km S 55° W of San Jose (Occidental Mindoro),051,S 55° W,San Jose (Occidental Mindoro)
