@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T14:58:00.000Z,27 October 2025 - 02:58 PM,09.50,125.89,079,2.5,016km S 33° W of Socorro (Surigao Del Norte),016,S 33° W,Socorro (Surigao Del Norte)
+2025-10-27T14:55:00.000Z,27 October 2025 - 02:55 PM,18.44,120.84,011,2.0,006km S 69° W of Adams (Ilocos Norte),006,S 69° W,Adams (Ilocos Norte)
+2025-10-27T14:27:00.000Z,27 October 2025 - 02:27 PM,07.20,126.78,013,2.4,026km S 88° E of Manay (Davao Oriental),026,S 88° E,Manay (Davao Oriental)
 2025-10-27T14:12:00.000Z,27 October 2025 - 02:12 PM,11.48,124.05,029,2.5,026km N 13° E of Daanbantayan (Cebu),026,N 13° E,Daanbantayan (Cebu)
 2025-10-27T13:53:00.000Z,27 October 2025 - 01:53 PM,09.90,126.05,032,1.6,018km N 44° W of General Luna (Surigao Del Norte),018,N 44° W,General Luna (Surigao Del Norte)
 2025-10-27T12:49:00.000Z,27 October 2025 - 12:49 PM,10.98,123.98,005,2.9,007km S 03° E of City Of Bogo (Cebu),007,S 03° E,City Of Bogo (Cebu)
@@ -105,4 +108,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T15:37:00.000Z,26 October 2025 - 03:37 PM,13.04,121.31,007,1.5,010km S 79° W of Socorro (Oriental Mindoro),010,S 79° W,Socorro (Oriental Mindoro)
 2025-10-26T15:14:00.000Z,26 October 2025 - 03:14 PM,13.55,121.11,028,1.9,004km N 64° E of Verde Island (Batangas City) (Batangas),004,N 64° E,Verde Island (Batangas City) (Batangas)
 2025-10-26T15:07:00.000Z,26 October 2025 - 03:07 PM,11.12,124.15,005,2.2,021km N 68° E of City Of Bogo (Cebu),021,N 68° E,City Of Bogo (Cebu)
-2025-10-26T14:40:00.000Z,26 October 2025 - 02:40 PM,15.15,120.01,001,2.3,005km S 79° W of Cabangan (Zambales),005,S 79° W,Cabangan (Zambales)
