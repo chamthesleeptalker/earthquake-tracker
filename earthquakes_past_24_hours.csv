@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T18:59:00.000Z,27 October 2025 - 06:59 PM,09.67,126.17,032,1.8,013km S 07° E of General Luna (Surigao Del Norte),013,S 07° E,General Luna (Surigao Del Norte)
+2025-10-27T18:46:00.000Z,27 October 2025 - 06:46 PM,16.20,120.84,018,2.5,017km N 29° E of San Nicolas (Pangasinan),017,N 29° E,San Nicolas (Pangasinan)
 2025-10-27T18:35:00.000Z,27 October 2025 - 06:35 PM,09.74,126.33,033,1.8,020km S 75° E of General Luna (Surigao Del Norte),020,S 75° E,General Luna (Surigao Del Norte)
 2025-10-27T18:25:00.000Z,27 October 2025 - 06:25 PM,13.99,122.91,001,2.0,007km S 40° E of San Lorenzo Ruiz (Camarines Norte),007,S 40° E,San Lorenzo Ruiz (Camarines Norte)
 2025-10-27T18:07:00.000Z,27 October 2025 - 06:07 PM,13.35,121.71,018,1.8,018km S 52° W of Boac (Marinduque),018,S 52° W,Boac (Marinduque)
@@ -98,7 +100,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T19:54:00.000Z,26 October 2025 - 07:54 PM,07.27,126.75,021,2.5,024km N 74° E of Manay (Davao Oriental),024,N 74° E,Manay (Davao Oriental)
 2025-10-26T19:40:00.000Z,26 October 2025 - 07:40 PM,11.23,124.15,009,1.4,027km N 43° E of City Of Bogo (Cebu),027,N 43° E,City Of Bogo (Cebu)
 2025-10-26T19:02:00.000Z,26 October 2025 - 07:02 PM,09.48,123.91,032,1.9,015km S 18° W of Alburquerque (Bohol),015,S 18° W,Alburquerque (Bohol)
-2025-10-26T18:56:00.000Z,26 October 2025 - 06:56 PM,11.05,124.02,001,1.8,005km N 83° E of City Of Bogo (Cebu),005,N 83° E,City Of Bogo (Cebu)
-2025-10-26T18:48:00.000Z,26 October 2025 - 06:48 PM,11.81,125.70,007,2.6,027km S 88° E of Sulat (Eastern Samar),027,S 88° E,Sulat (Eastern Samar)
-2025-10-26T18:46:00.000Z,26 October 2025 - 06:46 PM,05.27,126.95,061,3.3,161km S 64° E of Jose Abad Santos (Davao Occidental),161,S 64° E,Jose Abad Santos (Davao Occidental)
-2025-10-26T18:41:00.000Z,26 October 2025 - 06:41 PM,05.93,126.45,023,3.7,089km S 70° E of Don Marcelino (Davao Occidental),089,S 70° E,Don Marcelino (Davao Occidental)
