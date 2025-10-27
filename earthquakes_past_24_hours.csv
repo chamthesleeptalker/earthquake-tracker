@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T00:10:00.000Z,28 October 2025 - 12:10 AM,09.58,126.21,020,1.8,023km S 14° E of General Luna (Surigao Del Norte),023,S 14° E,General Luna (Surigao Del Norte)
 2025-10-27T23:22:00.000Z,27 October 2025 - 11:22 PM,11.07,124.09,011,1.6,012km N 79° E of City Of Bogo (Cebu),012,N 79° E,City Of Bogo (Cebu)
 2025-10-27T23:19:00.000Z,27 October 2025 - 11:19 PM,11.38,124.31,012,2.0,008km S 23° W of Cabucgayan (Biliran),008,S 23° W,Cabucgayan (Biliran)
 2025-10-27T23:17:00.000Z,27 October 2025 - 11:17 PM,11.10,124.01,027,1.9,007km N 29° E of City Of Bogo (Cebu),007,N 29° E,City Of Bogo (Cebu)
@@ -99,6 +100,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T00:50:00.000Z,27 October 2025 - 12:50 AM,10.98,124.12,036,1.8,017km S 66° E of City Of Bogo (Cebu),017,S 66° E,City Of Bogo (Cebu)
 2025-10-27T00:25:00.000Z,27 October 2025 - 12:25 AM,07.39,126.52,037,1.5,020km N 06° W of Manay (Davao Oriental),020,N 06° W,Manay (Davao Oriental)
 2025-10-27T00:17:00.000Z,27 October 2025 - 12:17 AM,10.18,125.31,030,2.8,011km S 28° E of Anahawan (Southern Leyte),011,S 28° E,Anahawan (Southern Leyte)
-2025-10-27T00:06:00.000Z,27 October 2025 - 12:06 AM,15.32,120.08,034,1.4,007km N 56° E of Botolan (Zambales),007,N 56° E,Botolan (Zambales)
-2025-10-26T23:49:00.000Z,26 October 2025 - 11:49 PM,13.00,124.54,015,2.1,038km S 83° E of Prieto Diaz (Sorsogon),038,S 83° E,Prieto Diaz (Sorsogon)
-2025-10-26T23:37:00.000Z,26 October 2025 - 11:37 PM,14.93,119.70,014,3.9,042km S 87° W of San Antonio (Zambales),042,S 87° W,San Antonio (Zambales)
