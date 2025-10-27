@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T18:35:00.000Z,27 October 2025 - 06:35 PM,09.74,126.33,033,1.8,020km S 75° E of General Luna (Surigao Del Norte),020,S 75° E,General Luna (Surigao Del Norte)
+2025-10-27T18:25:00.000Z,27 October 2025 - 06:25 PM,13.99,122.91,001,2.0,007km S 40° E of San Lorenzo Ruiz (Camarines Norte),007,S 40° E,San Lorenzo Ruiz (Camarines Norte)
 2025-10-27T18:07:00.000Z,27 October 2025 - 06:07 PM,13.35,121.71,018,1.8,018km S 52° W of Boac (Marinduque),018,S 52° W,Boac (Marinduque)
 2025-10-27T17:57:00.000Z,27 October 2025 - 05:57 PM,06.88,127.27,050,2.4,089km S 66° E of Manay (Davao Oriental),089,S 66° E,Manay (Davao Oriental)
 2025-10-27T17:23:00.000Z,27 October 2025 - 05:23 PM,09.56,125.91,003,1.8,009km S 43° W of Socorro (Surigao Del Norte),009,S 43° W,Socorro (Surigao Del Norte)
@@ -100,6 +102,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T18:48:00.000Z,26 October 2025 - 06:48 PM,11.81,125.70,007,2.6,027km S 88° E of Sulat (Eastern Samar),027,S 88° E,Sulat (Eastern Samar)
 2025-10-26T18:46:00.000Z,26 October 2025 - 06:46 PM,05.27,126.95,061,3.3,161km S 64° E of Jose Abad Santos (Davao Occidental),161,S 64° E,Jose Abad Santos (Davao Occidental)
 2025-10-26T18:41:00.000Z,26 October 2025 - 06:41 PM,05.93,126.45,023,3.7,089km S 70° E of Don Marcelino (Davao Occidental),089,S 70° E,Don Marcelino (Davao Occidental)
-2025-10-26T18:25:00.000Z,26 October 2025 - 06:25 PM,05.74,126.83,009,3.4,128km S 40° E of Governor Generoso (Davao Oriental),128,S 40° E,Governor Generoso (Davao Oriental)
-2025-10-26T18:17:00.000Z,26 October 2025 - 06:17 PM,09.83,126.19,026,1.8,006km N 37° E of General Luna (Surigao Del Norte),006,N 37° E,General Luna (Surigao Del Norte)
-2025-10-26T18:12:00.000Z,26 October 2025 - 06:12 PM,11.78,125.41,028,3.4,006km N 60° W of San Julian (Eastern Samar),006,N 60° W,San Julian (Eastern Samar)
