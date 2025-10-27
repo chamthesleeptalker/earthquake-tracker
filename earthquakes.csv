@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-27T17:23:00.000Z,27 October 2025 - 05:23 PM,09.56,125.91,003,1.8,009km S 43° W of Socorro (Surigao Del Norte),009,S 43° W,Socorro (Surigao Del Norte)
 2025-10-27T17:10:00.000Z,27 October 2025 - 05:10 PM,08.79,125.86,016,2.5,014km N 54° E of City Of Bayugan (Agusan Del Sur),014,N 54° E,City Of Bayugan (Agusan Del Sur)
 2025-10-27T17:03:00.000Z,27 October 2025 - 05:03 PM,11.01,123.99,001,2.8,004km S 10° E of City Of Bogo (Cebu),004,S 10° E,City Of Bogo (Cebu)
 2025-10-27T16:40:00.000Z,27 October 2025 - 04:40 PM,13.32,121.66,003,2.8,024km S 54° W of Boac (Marinduque),024,S 54° W,Boac (Marinduque)
