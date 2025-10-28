@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T13:12:00.000Z,28 October 2025 - 01:12 PM,14.12,121.23,033,1.8,006km S 04° E of Los Baños (Laguna),006,S 04° E,Los BaÃ±os (Laguna)
 2025-10-28T12:42:00.000Z,28 October 2025 - 12:42 PM,07.37,127.17,032,2.2,072km N 75° E of Manay (Davao Oriental),072,N 75° E,Manay (Davao Oriental)
 2025-10-28T12:34:00.000Z,28 October 2025 - 12:34 PM,14.10,121.24,005,3.2,003km N 10° W of Alaminos (Laguna),003,N 10° W,Alaminos (Laguna)
 2025-10-28T12:31:00.000Z,28 October 2025 - 12:31 PM,07.42,127.04,022,2.2,060km N 67° E of Manay (Davao Oriental),060,N 67° E,Manay (Davao Oriental)
@@ -732,5 +733,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T14:15:00.000Z,21 October 2025 - 02:15 PM,08.84,126.21,032,2.7,013km S 47° W of Cagwait (Surigao Del Sur),013,S 47° W,Cagwait (Surigao Del Sur)
 2025-10-21T14:01:00.000Z,21 October 2025 - 02:01 PM,09.70,126.18,033,1.7,010km S 14° E of General Luna (Surigao Del Norte),010,S 14° E,General Luna (Surigao Del Norte)
 2025-10-21T13:20:00.000Z,21 October 2025 - 01:20 PM,13.24,120.86,034,2.0,024km N 41° E of Santa Cruz (Occidental Mindoro),024,N 41° E,Santa Cruz (Occidental Mindoro)
-2025-10-21T13:06:00.000Z,21 October 2025 - 01:06 PM,11.15,124.05,031,1.9,014km N 34° E of City Of Bogo (Cebu),014,N 34° E,City Of Bogo (Cebu)
-2025-10-21T12:43:00.000Z,21 October 2025 - 12:43 PM,07.16,126.85,030,3.2,034km S 81° E of Manay (Davao Oriental),034,S 81° E,Manay (Davao Oriental)
