@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T00:15:00.000Z,29 October 2025 - 12:15 AM,11.23,123.91,005,1.8,022km N 20° W of City Of Bogo (Cebu),022,N 20° W,City Of Bogo (Cebu)
+2025-10-29T00:07:00.000Z,29 October 2025 - 12:07 AM,06.89,126.80,025,2.3,046km S 39° E of Manay (Davao Oriental),046,S 39° E,Manay (Davao Oriental)
 2025-10-28T23:11:00.000Z,28 October 2025 - 11:11 PM,07.25,127.53,029,2.9,107km S 85° E of Caraga (Davao Oriental),107,S 85° E,Caraga (Davao Oriental)
 2025-10-28T22:32:00.000Z,28 October 2025 - 10:32 PM,11.06,123.90,025,2.5,009km N 78° W of City Of Bogo (Cebu),009,N 78° W,City Of Bogo (Cebu)
 2025-10-28T22:28:00.000Z,28 October 2025 - 10:28 PM,13.07,125.38,029,2.3,065km N 26° E of Palapag (Northern Samar),065,N 26° E,Palapag (Northern Samar)

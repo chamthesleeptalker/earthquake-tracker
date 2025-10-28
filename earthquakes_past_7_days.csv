@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T00:15:00.000Z,29 October 2025 - 12:15 AM,11.23,123.91,005,1.8,022km N 20° W of City Of Bogo (Cebu),022,N 20° W,City Of Bogo (Cebu)
+2025-10-29T00:07:00.000Z,29 October 2025 - 12:07 AM,06.89,126.80,025,2.3,046km S 39° E of Manay (Davao Oriental),046,S 39° E,Manay (Davao Oriental)
 2025-10-28T23:11:00.000Z,28 October 2025 - 11:11 PM,07.25,127.53,029,2.9,107km S 85° E of Caraga (Davao Oriental),107,S 85° E,Caraga (Davao Oriental)
 2025-10-28T22:32:00.000Z,28 October 2025 - 10:32 PM,11.06,123.90,025,2.5,009km N 78° W of City Of Bogo (Cebu),009,N 78° W,City Of Bogo (Cebu)
 2025-10-28T22:28:00.000Z,28 October 2025 - 10:28 PM,13.07,125.38,029,2.3,065km N 26° E of Palapag (Northern Samar),065,N 26° E,Palapag (Northern Samar)
@@ -735,8 +737,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T00:20:00.000Z,22 October 2025 - 12:20 AM,12.69,123.57,006,1.8,012km N 64° W of Monreal (Masbate),012,N 64° W,Monreal (Masbate)
 2025-10-22T00:19:00.000Z,22 October 2025 - 12:19 AM,09.65,126.17,033,1.5,015km S 06° E of General Luna (Surigao Del Norte),015,S 06° E,General Luna (Surigao Del Norte)
 2025-10-22T00:19:00.000Z,22 October 2025 - 12:19 AM,11.10,124.13,033,1.8,017km N 69° E of City Of Bogo (Cebu),017,N 69° E,City Of Bogo (Cebu)
-2025-10-22T00:06:00.000Z,22 October 2025 - 12:06 AM,10.79,122.89,013,2.0,009km S 81° W of City Of Silay (Negros Occidental),009,S 81° W,City Of Silay (Negros Occidental)
-2025-10-21T23:56:00.000Z,21 October 2025 - 11:56 PM,11.13,123.83,032,2.1,018km N 61° W of City Of Bogo (Cebu),018,N 61° W,City Of Bogo (Cebu)
-2025-10-21T23:34:00.000Z,21 October 2025 - 11:34 PM,09.67,126.20,033,1.8,014km S 20° E of General Luna (Surigao Del Norte),014,S 20° E,General Luna (Surigao Del Norte)
-2025-10-21T23:21:00.000Z,21 October 2025 - 11:21 PM,09.21,125.88,034,1.4,011km S 58° W of Madrid (Surigao Del Sur),011,S 58° W,Madrid (Surigao Del Sur)
-2025-10-21T23:15:00.000Z,21 October 2025 - 11:15 PM,09.73,126.11,030,2.2,007km S 43° W of General Luna (Surigao Del Norte),007,S 43° W,General Luna (Surigao Del Norte)
