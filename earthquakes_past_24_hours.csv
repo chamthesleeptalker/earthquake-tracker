@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T15:21:00.000Z,28 October 2025 - 03:21 PM,17.05,120.50,012,1.9,007km S 54° E of Santa Cruz (Ilocos Sur),007,S 54° E,Santa Cruz (Ilocos Sur)
+2025-10-28T15:19:00.000Z,28 October 2025 - 03:19 PM,07.49,123.24,020,1.5,008km S 67° E of Vincenzo A. Sagun (Zamboanga Del Sur),008,S 67° E,Vincenzo A. Sagun (Zamboanga Del Sur)
 2025-10-28T14:54:00.000Z,28 October 2025 - 02:54 PM,08.72,126.37,032,2.0,023km S 20° E of Cagwait (Surigao Del Sur),023,S 20° E,Cagwait (Surigao Del Sur)
 2025-10-28T14:54:00.000Z,28 October 2025 - 02:54 PM,11.02,123.99,006,2.6,004km S 18° E of City Of Bogo (Cebu),004,S 18° E,City Of Bogo (Cebu)
 2025-10-28T14:49:00.000Z,28 October 2025 - 02:49 PM,15.48,119.93,034,1.7,006km N 19° E of Palauig (Zambales),006,N 19° E,Palauig (Zambales)
@@ -92,5 +94,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T16:23:00.000Z,27 October 2025 - 04:23 PM,08.01,126.27,029,2.3,015km S 80° W of Lingig (Surigao Del Sur),015,S 80° W,Lingig (Surigao Del Sur)
 2025-10-27T15:45:00.000Z,27 October 2025 - 03:45 PM,13.57,120.65,156,2.0,016km N 32° W of Abra De Ilog (Occidental Mindoro),016,N 32° W,Abra De Ilog (Occidental Mindoro)
 2025-10-27T15:44:00.000Z,27 October 2025 - 03:44 PM,11.09,124.13,034,2.0,017km N 76° E of City Of Bogo (Cebu),017,N 76° E,City Of Bogo (Cebu)
-2025-10-27T14:58:00.000Z,27 October 2025 - 02:58 PM,09.50,125.89,079,2.5,016km S 33° W of Socorro (Surigao Del Norte),016,S 33° W,Socorro (Surigao Del Norte)
-2025-10-27T14:55:00.000Z,27 October 2025 - 02:55 PM,18.44,120.84,011,2.0,006km S 69° W of Adams (Ilocos Norte),006,S 69° W,Adams (Ilocos Norte)
