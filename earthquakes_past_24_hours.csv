@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T05:00:00.000Z,29 October 2025 - 05:00 AM,07.16,126.78,005,3.6,027km S 77° E of Manay (Davao Oriental),027,S 77° E,Manay (Davao Oriental)
+2025-10-29T04:56:00.000Z,29 October 2025 - 04:56 AM,09.62,126.15,033,2.1,018km S 01° W of General Luna (Surigao Del Norte),018,S 01° W,General Luna (Surigao Del Norte)
+2025-10-29T04:55:00.000Z,29 October 2025 - 04:55 AM,08.07,126.20,024,2.1,015km N 74° E of Trento (Agusan Del Sur),015,N 74° E,Trento (Agusan Del Sur)
+2025-10-29T04:34:00.000Z,29 October 2025 - 04:34 AM,10.98,123.92,005,2.0,010km S 42° W of City Of Bogo (Cebu),010,S 42° W,City Of Bogo (Cebu)
 2025-10-29T04:21:00.000Z,29 October 2025 - 04:21 AM,11.15,123.96,026,1.4,012km N 12° W of City Of Bogo (Cebu),012,N 12° W,City Of Bogo (Cebu)
 2025-10-29T04:17:00.000Z,29 October 2025 - 04:17 AM,11.08,124.06,004,2.0,009km N 70° E of City Of Bogo (Cebu),009,N 70° E,City Of Bogo (Cebu)
 2025-10-29T04:10:00.000Z,29 October 2025 - 04:10 AM,10.85,123.76,027,2.6,013km N 75° W of Tabuelan (Cebu),013,N 75° W,Tabuelan (Cebu)
@@ -75,4 +79,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-28T06:10:00.000Z,28 October 2025 - 06:10 AM,10.18,124.92,028,1.9,009km N 75° W of Malitbog (Southern Leyte),009,N 75° W,Malitbog (Southern Leyte)
 2025-10-28T05:36:00.000Z,28 October 2025 - 05:36 AM,11.11,123.97,029,2.1,007km N 10° W of City Of Bogo (Cebu),007,N 10° W,City Of Bogo (Cebu)
 2025-10-28T05:18:00.000Z,28 October 2025 - 05:18 AM,11.09,124.04,031,1.8,009km N 53° E of City Of Bogo (Cebu),009,N 53° E,City Of Bogo (Cebu)
-2025-10-28T04:38:00.000Z,28 October 2025 - 04:38 AM,18.63,120.78,017,1.9,007km N 09° W of Pagudpud (Ilocos Norte),007,N 09° W,Pagudpud (Ilocos Norte)
