@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T11:31:00.000Z,28 October 2025 - 11:31 AM,14.12,121.21,033,2.0,006km S 10° W of Los Baños (Laguna),006,S 10° W,Los BaÃ±os (Laguna)
+2025-10-28T11:28:00.000Z,28 October 2025 - 11:28 AM,14.15,121.19,032,1.5,004km S 50° W of Los Baños (Laguna),004,S 50° W,Los BaÃ±os (Laguna)
 2025-10-28T11:12:00.000Z,28 October 2025 - 11:12 AM,10.75,123.81,029,1.9,003km N 45° W of Tuburan (Cebu),003,N 45° W,Tuburan (Cebu)
 2025-10-28T09:09:00.000Z,28 October 2025 - 09:09 AM,11.18,124.15,012,2.1,024km N 50° E of City Of Bogo (Cebu),024,N 50° E,City Of Bogo (Cebu)
 2025-10-28T08:08:00.000Z,28 October 2025 - 08:08 AM,11.05,123.98,027,2.0,001km N 45° E of City Of Bogo (Cebu),001,N 45° E,City Of Bogo (Cebu)
