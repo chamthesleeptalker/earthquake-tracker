@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T09:09:00.000Z,28 October 2025 - 09:09 AM,11.18,124.15,012,2.1,024km N 50° E of City Of Bogo (Cebu),024,N 50° E,City Of Bogo (Cebu)
+2025-10-28T08:08:00.000Z,28 October 2025 - 08:08 AM,11.05,123.98,027,2.0,001km N 45° E of City Of Bogo (Cebu),001,N 45° E,City Of Bogo (Cebu)
+2025-10-28T08:04:00.000Z,28 October 2025 - 08:04 AM,11.07,124.00,031,2.3,004km N 39° E of City Of Bogo (Cebu),004,N 39° E,City Of Bogo (Cebu)
 2025-10-28T06:10:00.000Z,28 October 2025 - 06:10 AM,10.18,124.92,028,1.9,009km N 75° W of Malitbog (Southern Leyte),009,N 75° W,Malitbog (Southern Leyte)
 2025-10-28T05:36:00.000Z,28 October 2025 - 05:36 AM,11.11,123.97,029,2.1,007km N 10° W of City Of Bogo (Cebu),007,N 10° W,City Of Bogo (Cebu)
 2025-10-28T05:18:00.000Z,28 October 2025 - 05:18 AM,11.09,124.04,031,1.8,009km N 53° E of City Of Bogo (Cebu),009,N 53° E,City Of Bogo (Cebu)
@@ -99,13 +102,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T10:04:00.000Z,27 October 2025 - 10:04 AM,06.07,126.23,109,2.6,061km S 77° E of Don Marcelino (Davao Occidental),061,S 77° E,Don Marcelino (Davao Occidental)
 2025-10-27T09:31:00.000Z,27 October 2025 - 09:31 AM,07.14,126.73,022,2.6,023km S 69° E of Manay (Davao Oriental),023,S 69° E,Manay (Davao Oriental)
 2025-10-27T09:26:00.000Z,27 October 2025 - 09:26 AM,08.86,126.51,027,2.5,023km S 75° E of Cagwait (Surigao Del Sur),023,S 75° E,Cagwait (Surigao Del Sur)
-2025-10-27T09:08:00.000Z,27 October 2025 - 09:08 AM,08.97,126.34,030,4.6,007km N 36° E of Cagwait (Surigao Del Sur),007,N 36° E,Cagwait (Surigao Del Sur)
-2025-10-27T09:00:00.000Z,27 October 2025 - 09:00 AM,16.41,120.79,034,2.0,014km N 66° E of Itogon (Benguet),014,N 66° E,Itogon (Benguet)
-2025-10-27T08:52:00.000Z,27 October 2025 - 08:52 AM,16.41,120.80,032,1.5,014km N 66° E of Itogon (Benguet),014,N 66° E,Itogon (Benguet)
-2025-10-27T08:32:00.000Z,27 October 2025 - 08:32 AM,18.77,120.50,008,2.9,032km N 27° W of Burgos (Ilocos Norte),032,N 27° W,Burgos (Ilocos Norte)
-2025-10-27T08:25:00.000Z,27 October 2025 - 08:25 AM,07.42,127.07,012,3.0,063km N 69° E of Manay (Davao Oriental),063,N 69° E,Manay (Davao Oriental)
-2025-10-27T08:21:00.000Z,27 October 2025 - 08:21 AM,16.40,120.60,019,1.4,010km N 63° W of Itogon (Benguet),010,N 63° W,Itogon (Benguet)
-2025-10-27T08:20:00.000Z,27 October 2025 - 08:20 AM,16.47,120.81,033,1.4,018km N 51° E of Itogon (Benguet),018,N 51° E,Itogon (Benguet)
-2025-10-27T07:28:00.000Z,27 October 2025 - 07:28 AM,07.10,125.43,011,2.1,020km N 79° W of City Of Davao,020,N 79° W,City Of Davao
-2025-10-27T06:38:00.000Z,27 October 2025 - 06:38 AM,07.13,126.72,142,2.8,028km S 37° E of Caraga (Davao Oriental),028,S 37° E,Caraga (Davao Oriental)
-2025-10-27T06:24:00.000Z,27 October 2025 - 06:24 AM,10.98,124.06,034,1.5,011km S 49° E of City Of Bogo (Cebu),011,S 49° E,City Of Bogo (Cebu)
