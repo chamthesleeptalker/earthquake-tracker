@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T19:05:00.000Z,28 October 2025 - 07:05 PM,11.15,124.12,014,1.7,020km N 53° E of City Of Bogo (Cebu),020,N 53° E,City Of Bogo (Cebu)
+2025-10-28T19:03:00.000Z,28 October 2025 - 07:03 PM,11.82,125.58,008,2.6,013km N 88° E of Sulat (Eastern Samar),013,N 88° E,Sulat (Eastern Samar)
+2025-10-28T18:37:00.000Z,28 October 2025 - 06:37 PM,05.43,124.96,033,2.6,047km S 04° W of Maasim (Sarangani),047,S 04° W,Maasim (Sarangani)
+2025-10-28T18:33:00.000Z,28 October 2025 - 06:33 PM,07.17,123.28,003,3.2,031km S 06° W of Pitogo (Zamboanga Del Sur),031,S 06° W,Pitogo (Zamboanga Del Sur)
 2025-10-28T18:32:00.000Z,28 October 2025 - 06:32 PM,06.88,126.28,032,1.6,011km S 43° E of City Of Mati (Davao Oriental),011,S 43° E,City Of Mati (Davao Oriental)
 2025-10-28T18:32:00.000Z,28 October 2025 - 06:32 PM,06.88,126.28,032,1.6,011km S 43° E of City Of Mati (Davao Oriental),011,S 43° E,City Of Mati (Davao Oriental)
 2025-10-28T18:28:00.000Z,28 October 2025 - 06:28 PM,09.69,126.31,026,3.1,019km S 58° E of General Luna (Surigao Del Norte),019,S 58° E,General Luna (Surigao Del Norte)
@@ -85,6 +89,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T19:29:00.000Z,27 October 2025 - 07:29 PM,14.04,122.79,034,1.5,009km N 87° W of San Lorenzo Ruiz (Camarines Norte),009,N 87° W,San Lorenzo Ruiz (Camarines Norte)
 2025-10-27T19:24:00.000Z,27 October 2025 - 07:24 PM,09.66,126.23,030,2.5,016km S 29° E of General Luna (Surigao Del Norte),016,S 29° E,General Luna (Surigao Del Norte)
 2025-10-27T19:24:00.000Z,27 October 2025 - 07:24 PM,09.66,126.23,030,2.5,016km S 29° E of General Luna (Surigao Del Norte),016,S 29° E,General Luna (Surigao Del Norte)
-2025-10-27T18:59:00.000Z,27 October 2025 - 06:59 PM,09.67,126.17,032,1.8,013km S 07° E of General Luna (Surigao Del Norte),013,S 07° E,General Luna (Surigao Del Norte)
-2025-10-27T18:46:00.000Z,27 October 2025 - 06:46 PM,16.20,120.84,018,2.5,017km N 29° E of San Nicolas (Pangasinan),017,N 29° E,San Nicolas (Pangasinan)
-2025-10-27T18:35:00.000Z,27 October 2025 - 06:35 PM,09.74,126.33,033,1.8,020km S 75° E of General Luna (Surigao Del Norte),020,S 75° E,General Luna (Surigao Del Norte)
