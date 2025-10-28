@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T21:10:00.000Z,28 October 2025 - 09:10 PM,07.28,126.73,012,2.8,022km N 70° E of Manay (Davao Oriental),022,N 70° E,Manay (Davao Oriental)
+2025-10-28T20:55:00.000Z,28 October 2025 - 08:55 PM,09.66,126.16,029,1.9,013km S 03° E of General Luna (Surigao Del Norte),013,S 03° E,General Luna (Surigao Del Norte)
+2025-10-28T20:48:00.000Z,28 October 2025 - 08:48 PM,11.18,124.18,008,2.2,026km N 56° E of City Of Bogo (Cebu),026,N 56° E,City Of Bogo (Cebu)
+2025-10-28T20:42:00.000Z,28 October 2025 - 08:42 PM,09.64,126.21,034,1.7,017km S 21° E of General Luna (Surigao Del Norte),017,S 21° E,General Luna (Surigao Del Norte)
 2025-10-28T20:27:00.000Z,28 October 2025 - 08:27 PM,10.95,124.03,006,2.2,012km S 26° E of City Of Bogo (Cebu),012,S 26° E,City Of Bogo (Cebu)
 2025-10-28T19:52:00.000Z,28 October 2025 - 07:52 PM,07.60,126.59,020,2.0,043km N 08° E of Manay (Davao Oriental),043,N 08° E,Manay (Davao Oriental)
 2025-10-28T19:46:00.000Z,28 October 2025 - 07:46 PM,07.13,124.29,053,1.5,009km N 78° W of Kabuntalan (Maguindanao Del Norte),009,N 78° W,Kabuntalan (Maguindanao Del Norte)
@@ -734,6 +738,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T21:38:00.000Z,21 October 2025 - 09:38 PM,16.89,120.66,094,2.2,013km S 38° W of Cervantes (Ilocos Sur),013,S 38° W,Cervantes (Ilocos Sur)
 2025-10-21T21:33:00.000Z,21 October 2025 - 09:33 PM,07.42,127.38,013,2.9,096km N 76° E of Manay (Davao Oriental),096,N 76° E,Manay (Davao Oriental)
 2025-10-21T21:23:00.000Z,21 October 2025 - 09:23 PM,11.13,124.12,007,2.0,018km N 59° E of City Of Bogo (Cebu),018,N 59° E,City Of Bogo (Cebu)
-2025-10-21T20:38:00.000Z,21 October 2025 - 08:38 PM,09.64,126.20,035,1.4,016km S 16° E of General Luna (Surigao Del Norte),016,S 16° E,General Luna (Surigao Del Norte)
-2025-10-21T20:33:00.000Z,21 October 2025 - 08:33 PM,07.03,126.47,021,2.4,022km S 20° W of Manay (Davao Oriental),022,S 20° W,Manay (Davao Oriental)
-2025-10-21T20:27:00.000Z,21 October 2025 - 08:27 PM,08.81,126.49,031,2.1,024km S 60° E of Cagwait (Surigao Del Sur),024,S 60° E,Cagwait (Surigao Del Sur)
