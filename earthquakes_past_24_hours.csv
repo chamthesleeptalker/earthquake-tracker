@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T23:11:00.000Z,28 October 2025 - 11:11 PM,07.25,127.53,029,2.9,107km S 85° E of Caraga (Davao Oriental),107,S 85° E,Caraga (Davao Oriental)
 2025-10-28T22:32:00.000Z,28 October 2025 - 10:32 PM,11.06,123.90,025,2.5,009km N 78° W of City Of Bogo (Cebu),009,N 78° W,City Of Bogo (Cebu)
 2025-10-28T22:28:00.000Z,28 October 2025 - 10:28 PM,13.07,125.38,029,2.3,065km N 26° E of Palapag (Northern Samar),065,N 26° E,Palapag (Northern Samar)
 2025-10-28T22:27:00.000Z,28 October 2025 - 10:27 PM,11.00,124.08,033,1.6,012km S 67° E of City Of Bogo (Cebu),012,S 67° E,City Of Bogo (Cebu)
@@ -87,6 +88,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T23:19:00.000Z,27 October 2025 - 11:19 PM,11.38,124.31,012,2.0,008km S 23° W of Cabucgayan (Biliran),008,S 23° W,Cabucgayan (Biliran)
 2025-10-27T23:17:00.000Z,27 October 2025 - 11:17 PM,11.10,124.01,027,1.9,007km N 29° E of City Of Bogo (Cebu),007,N 29° E,City Of Bogo (Cebu)
 2025-10-27T23:13:00.000Z,27 October 2025 - 11:13 PM,09.54,126.31,020,2.2,032km S 31° E of General Luna (Surigao Del Norte),032,S 31° E,General Luna (Surigao Del Norte)
-2025-10-27T22:50:00.000Z,27 October 2025 - 10:50 PM,15.42,119.78,021,2.1,014km S 84° W of Palauig (Zambales),014,S 84° W,Palauig (Zambales)
-2025-10-27T22:39:00.000Z,27 October 2025 - 10:39 PM,07.13,126.89,032,2.5,040km S 77° E of Manay (Davao Oriental),040,S 77° E,Manay (Davao Oriental)
-2025-10-27T22:37:00.000Z,27 October 2025 - 10:37 PM,11.21,124.08,025,1.8,020km N 31° E of City Of Bogo (Cebu),020,N 31° E,City Of Bogo (Cebu)
