@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T04:08:00.000Z,29 October 2025 - 04:08 AM,09.60,126.24,031,1.6,022km S 23° E of General Luna (Surigao Del Norte),022,S 23° E,General Luna (Surigao Del Norte)
+2025-10-29T03:47:00.000Z,29 October 2025 - 03:47 AM,11.00,124.03,006,3.3,007km S 45° E of City Of Bogo (Cebu),007,S 45° E,City Of Bogo (Cebu)
+2025-10-29T03:33:00.000Z,29 October 2025 - 03:33 AM,17.98,120.65,025,1.7,001km N 69° W of Banna (Ilocos Norte),001,N 69° W,Banna (Ilocos Norte)
 2025-10-29T03:20:00.000Z,29 October 2025 - 03:20 AM,10.92,123.91,001,2.0,016km S 29° W of City Of Bogo (Cebu),016,S 29° W,City Of Bogo (Cebu)
 2025-10-29T03:16:00.000Z,29 October 2025 - 03:16 AM,07.83,126.48,021,2.1,005km N 29° E of Cateel (Davao Oriental),005,N 29° E,Cateel (Davao Oriental)
 2025-10-29T03:11:00.000Z,29 October 2025 - 03:11 AM,11.20,124.36,016,1.9,004km S 79° W of Villaba (Leyte),004,S 79° W,Villaba (Leyte)
@@ -718,9 +721,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T05:35:00.000Z,22 October 2025 - 05:35 AM,07.87,125.18,043,2.0,011km S 72° E of City Of Valencia (Bukidnon),011,S 72° E,City Of Valencia (Bukidnon)
 2025-10-22T05:03:00.000Z,22 October 2025 - 05:03 AM,10.51,123.68,034,1.9,004km N 85° W of Balamban (Cebu),004,N 85° W,Balamban (Cebu)
 2025-10-22T04:09:00.000Z,22 October 2025 - 04:09 AM,05.97,126.08,134,2.1,048km N 83° E of Jose Abad Santos (Davao Occidental),048,N 83° E,Jose Abad Santos (Davao Occidental)
-2025-10-22T03:57:00.000Z,22 October 2025 - 03:57 AM,07.58,122.14,011,2.7,001km S 16° W of Sirawai (Zamboanga Del Norte),001,S 16° W,Sirawai (Zamboanga Del Norte)
-2025-10-22T03:57:00.000Z,22 October 2025 - 03:57 AM,17.66,120.40,003,2.9,003km N 33° W of Santo Domingo (Ilocos Sur),003,N 33° W,Santo Domingo (Ilocos Sur)
-2025-10-22T03:54:00.000Z,22 October 2025 - 03:54 AM,05.72,126.46,061,3.2,093km S 77° E of Jose Abad Santos (Davao Occidental),093,S 77° E,Jose Abad Santos (Davao Occidental)
-2025-10-22T03:53:00.000Z,22 October 2025 - 03:53 AM,10.97,124.03,028,2.0,010km S 33° E of City Of Bogo (Cebu),010,S 33° E,City Of Bogo (Cebu)
-2025-10-22T03:43:00.000Z,22 October 2025 - 03:43 AM,09.76,126.18,032,2.5,003km S 37° E of General Luna (Surigao Del Norte),003,S 37° E,General Luna (Surigao Del Norte)
-2025-10-22T03:20:00.000Z,22 October 2025 - 03:20 AM,07.23,126.76,022,1.8,024km N 85° E of Manay (Davao Oriental),024,N 85° E,Manay (Davao Oriental)
