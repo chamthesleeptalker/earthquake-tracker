@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-28T21:35:00.000Z,28 October 2025 - 09:35 PM,17.64,122.31,010,2.1,029km N 16° E of Maconacon (Isabela),029,N 16° E,Maconacon (Isabela)
+2025-10-28T21:21:00.000Z,28 October 2025 - 09:21 PM,17.67,122.37,018,2.9,035km N 25° E of Maconacon (Isabela),035,N 25° E,Maconacon (Isabela)
 2025-10-28T21:10:00.000Z,28 October 2025 - 09:10 PM,07.28,126.73,012,2.8,022km N 70° E of Manay (Davao Oriental),022,N 70° E,Manay (Davao Oriental)
 2025-10-28T20:55:00.000Z,28 October 2025 - 08:55 PM,09.66,126.16,029,1.9,013km S 03° E of General Luna (Surigao Del Norte),013,S 03° E,General Luna (Surigao Del Norte)
 2025-10-28T20:48:00.000Z,28 October 2025 - 08:48 PM,11.18,124.18,008,2.2,026km N 56° E of City Of Bogo (Cebu),026,N 56° E,City Of Bogo (Cebu)
@@ -736,5 +738,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-21T22:23:00.000Z,21 October 2025 - 10:23 PM,05.31,125.55,020,2.8,018km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-21T22:11:00.000Z,21 October 2025 - 10:11 PM,11.20,124.18,015,1.9,028km N 51° E of City Of Bogo (Cebu),028,N 51° E,City Of Bogo (Cebu)
 2025-10-21T21:38:00.000Z,21 October 2025 - 09:38 PM,16.89,120.66,094,2.2,013km S 38° W of Cervantes (Ilocos Sur),013,S 38° W,Cervantes (Ilocos Sur)
-2025-10-21T21:33:00.000Z,21 October 2025 - 09:33 PM,07.42,127.38,013,2.9,096km N 76° E of Manay (Davao Oriental),096,N 76° E,Manay (Davao Oriental)
-2025-10-21T21:23:00.000Z,21 October 2025 - 09:23 PM,11.13,124.12,007,2.0,018km N 59° E of City Of Bogo (Cebu),018,N 59° E,City Of Bogo (Cebu)
