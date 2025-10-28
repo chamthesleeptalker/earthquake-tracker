@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T07:28:00.000Z,29 October 2025 - 07:28 AM,09.54,126.44,006,2.5,041km S 49° E of General Luna (Surigao Del Norte),041,S 49° E,General Luna (Surigao Del Norte)
+2025-10-29T07:04:00.000Z,29 October 2025 - 07:04 AM,08.90,126.45,021,2.2,017km S 84° E of Cagwait (Surigao Del Sur),017,S 84° E,Cagwait (Surigao Del Sur)
 2025-10-29T07:01:00.000Z,29 October 2025 - 07:01 AM,09.01,126.55,010,4.7,029km N 69° E of Cagwait (Surigao Del Sur),029,N 69° E,Cagwait (Surigao Del Sur)
 2025-10-29T06:34:00.000Z,29 October 2025 - 06:34 AM,08.38,126.14,129,2.5,022km N 85° W of Hinatuan (Surigao Del Sur),022,N 85° W,Hinatuan (Surigao Del Sur)
 2025-10-29T06:24:00.000Z,29 October 2025 - 06:24 AM,07.23,127.18,005,2.9,069km N 88° E of Manay (Davao Oriental),069,N 88° E,Manay (Davao Oriental)
@@ -722,5 +724,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T07:53:00.000Z,22 October 2025 - 07:53 AM,06.94,127.35,011,3.0,094km S 71° E of Manay (Davao Oriental),094,S 71° E,Manay (Davao Oriental)
 2025-10-22T07:43:00.000Z,22 October 2025 - 07:43 AM,08.92,126.48,019,3.8,019km N 89° E of Cagwait (Surigao Del Sur),019,N 89° E,Cagwait (Surigao Del Sur)
 2025-10-22T07:36:00.000Z,22 October 2025 - 07:36 AM,19.07,121.11,015,2.4,011km S 69° W of Dalupiri Island (Calayan) (Cagayan),011,S 69° W,Dalupiri Island (Calayan) (Cagayan)
-2025-10-22T07:21:00.000Z,22 October 2025 - 07:21 AM,11.13,124.01,019,1.6,010km N 22° E of City Of Bogo (Cebu),010,N 22° E,City Of Bogo (Cebu)
-2025-10-22T07:09:00.000Z,22 October 2025 - 07:09 AM,09.75,126.57,015,2.3,045km S 86° E of General Luna (Surigao Del Norte),045,S 86° E,General Luna (Surigao Del Norte)
