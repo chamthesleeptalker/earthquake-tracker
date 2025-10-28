@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T02:15:00.000Z,29 October 2025 - 02:15 AM,15.45,121.79,003,3.0,041km S 43° E of San Luis (Aurora),041,S 43° E,San Luis (Aurora)
+2025-10-29T02:13:00.000Z,29 October 2025 - 02:13 AM,15.48,121.75,003,3.2,036km S 33° E of Baler (Aurora),036,S 33° E,Baler (Aurora)
 2025-10-29T01:20:00.000Z,29 October 2025 - 01:20 AM,09.65,126.21,032,2.2,020km S 64° E of General Luna (Surigao Del Norte),020,S 64° E,General Luna (Surigao Del Norte)
 2025-10-29T01:19:00.000Z,29 October 2025 - 01:19 AM,11.06,123.98,024,1.8,001km N 11° W of City Of Bogo (Cebu),001,N 11° W,City Of Bogo (Cebu)
-2025-10-29T00:54:00.000Z,29 October 2025 - 12:54 AM,15.78,121.47,006,4.0,009km N 43° W of San Luis (Aurora),009,N 43° W,San Luis (Aurora)
-2025-10-29T00:52:00.000Z,29 October 2025 - 12:52 AM,09.63,126.26,032,1.9,020km S 33° E of General Luna (Surigao Del Norte),020,S 33° E,General Luna (Surigao Del Norte)
-2025-10-29T00:24:00.000Z,29 October 2025 - 12:24 AM,15.46,121.80,003,3.0,041km S 37° E of Baler (Aurora),041,S 37° E,Baler (Aurora)
