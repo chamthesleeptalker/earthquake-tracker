@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T03:21:00.000Z,30 October 2025 - 03:21 AM,07.10,126.85,032,2.2,037km S 71° E of Manay (Davao Oriental),037,S 71° E,Manay (Davao Oriental)
+2025-10-30T03:13:00.000Z,30 October 2025 - 03:13 AM,07.02,126.75,027,2.4,032km S 47° E of Manay (Davao Oriental),032,S 47° E,Manay (Davao Oriental)
 2025-10-30T02:51:00.000Z,30 October 2025 - 02:51 AM,07.32,126.92,022,2.5,044km N 74° E of Manay (Davao Oriental),044,N 74° E,Manay (Davao Oriental)
 2025-10-30T02:43:00.000Z,30 October 2025 - 02:43 AM,11.17,124.03,028,1.9,015km N 24° E of City Of Bogo (Cebu),015,N 24° E,City Of Bogo (Cebu)
 2025-10-30T02:25:00.000Z,30 October 2025 - 02:25 AM,11.17,124.13,008,2.2,021km N 50° E of City Of Bogo (Cebu),021,N 50° E,City Of Bogo (Cebu)
@@ -92,7 +94,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-29T04:08:00.000Z,29 October 2025 - 04:08 AM,09.60,126.24,031,1.6,022km S 23° E of General Luna (Surigao Del Norte),022,S 23° E,General Luna (Surigao Del Norte)
 2025-10-29T03:47:00.000Z,29 October 2025 - 03:47 AM,11.00,124.03,006,3.3,007km S 45° E of City Of Bogo (Cebu),007,S 45° E,City Of Bogo (Cebu)
 2025-10-29T03:33:00.000Z,29 October 2025 - 03:33 AM,17.98,120.65,025,1.7,001km N 69° W of Banna (Ilocos Norte),001,N 69° W,Banna (Ilocos Norte)
-2025-10-29T03:20:00.000Z,29 October 2025 - 03:20 AM,10.92,123.91,001,2.0,016km S 29° W of City Of Bogo (Cebu),016,S 29° W,City Of Bogo (Cebu)
-2025-10-29T03:16:00.000Z,29 October 2025 - 03:16 AM,07.83,126.48,021,2.1,005km N 29° E of Cateel (Davao Oriental),005,N 29° E,Cateel (Davao Oriental)
-2025-10-29T03:11:00.000Z,29 October 2025 - 03:11 AM,11.20,124.36,016,1.9,004km S 79° W of Villaba (Leyte),004,S 79° W,Villaba (Leyte)
-2025-10-29T03:10:00.000Z,29 October 2025 - 03:10 AM,13.52,120.75,002,3.2,009km N 20° E of Abra De Ilog (Occidental Mindoro),009,N 20° E,Abra De Ilog (Occidental Mindoro)
