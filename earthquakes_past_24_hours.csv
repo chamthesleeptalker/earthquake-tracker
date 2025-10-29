@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T14:16:00.000Z,29 October 2025 - 02:16 PM,10.12,125.73,035,1.5,015km N 68° E of Basilisa (Dinagat Islands),015,N 68° E,Basilisa (Dinagat Islands)
+2025-10-29T13:39:00.000Z,29 October 2025 - 01:39 PM,13.34,121.69,007,2.0,021km S 54° W of Boac (Marinduque),021,S 54° W,Boac (Marinduque)
 2025-10-29T12:24:00.000Z,29 October 2025 - 12:24 PM,09.01,126.48,012,2.1,022km N 64° E of Cagwait (Surigao Del Sur),022,N 64° E,Cagwait (Surigao Del Sur)
 2025-10-29T11:48:00.000Z,29 October 2025 - 11:48 AM,09.63,126.21,033,1.5,017km S 18° E of General Luna (Surigao Del Norte),017,S 18° E,General Luna (Surigao Del Norte)
 2025-10-29T11:42:00.000Z,29 October 2025 - 11:42 AM,13.71,120.90,029,2.0,006km S 44° W of Mabini (Batangas),006,S 44° W,Mabini (Batangas)
@@ -83,10 +85,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-28T14:49:00.000Z,28 October 2025 - 02:49 PM,15.48,119.93,034,1.7,006km N 19° E of Palauig (Zambales),006,N 19° E,Palauig (Zambales)
 2025-10-28T14:49:00.000Z,28 October 2025 - 02:49 PM,07.44,127.12,020,2.5,069km N 69° E of Manay (Davao Oriental),069,N 69° E,Manay (Davao Oriental)
 2025-10-28T14:30:00.000Z,28 October 2025 - 02:30 PM,07.36,127.27,010,4.1,082km N 78° E of Manay (Davao Oriental),082,N 78° E,Manay (Davao Oriental)
-2025-10-28T14:11:00.000Z,28 October 2025 - 02:11 PM,07.16,127.01,018,2.5,052km S 84° E of Manay (Davao Oriental),052,S 84° E,Manay (Davao Oriental)
-2025-10-28T14:09:00.000Z,28 October 2025 - 02:09 PM,09.45,125.60,021,2.2,003km S 80° E of Kitcharao (Agusan Del Norte),003,S 80° E,Kitcharao (Agusan Del Norte)
-2025-10-28T13:55:00.000Z,28 October 2025 - 01:55 PM,09.47,125.55,016,3.2,003km N 82° W of Alegria (Surigao Del Norte),003,N 82° W,Alegria (Surigao Del Norte)
-2025-10-28T13:12:00.000Z,28 October 2025 - 01:12 PM,14.12,121.23,033,1.8,006km S 04° E of Los Baños (Laguna),006,S 04° E,Los BaÃ±os (Laguna)
-2025-10-28T12:42:00.000Z,28 October 2025 - 12:42 PM,07.37,127.17,032,2.2,072km N 75° E of Manay (Davao Oriental),072,N 75° E,Manay (Davao Oriental)
-2025-10-28T12:34:00.000Z,28 October 2025 - 12:34 PM,14.10,121.24,005,3.2,003km N 10° W of Alaminos (Laguna),003,N 10° W,Alaminos (Laguna)
-2025-10-28T12:31:00.000Z,28 October 2025 - 12:31 PM,07.42,127.04,022,2.2,060km N 67° E of Manay (Davao Oriental),060,N 67° E,Manay (Davao Oriental)
