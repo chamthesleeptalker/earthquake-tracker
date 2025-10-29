@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T20:52:00.000Z,29 October 2025 - 08:52 PM,11.00,124.03,027,1.9,008km S 43° E of City Of Bogo (Cebu),008,S 43° E,City Of Bogo (Cebu)
+2025-10-29T20:51:00.000Z,29 October 2025 - 08:51 PM,11.11,124.16,007,1.5,020km N 70° E of City Of Bogo (Cebu),020,N 70° E,City Of Bogo (Cebu)
 2025-10-29T20:21:00.000Z,29 October 2025 - 08:21 PM,09.08,122.59,021,3.4,037km S 09° W of Basay (Negros Oriental),037,S 09° W,Basay (Negros Oriental)
 2025-10-29T20:16:00.000Z,29 October 2025 - 08:16 PM,13.33,121.72,019,2.0,013km N 88° W of Gasan (Marinduque),013,N 88° W,Gasan (Marinduque)
 2025-10-29T20:08:00.000Z,29 October 2025 - 08:08 PM,14.64,120.09,034,2.4,019km S 77° W of Morong (Bataan),019,S 77° W,Morong (Bataan)
