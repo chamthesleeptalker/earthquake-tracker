@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T12:24:00.000Z,29 October 2025 - 12:24 PM,09.01,126.48,012,2.1,022km N 64° E of Cagwait (Surigao Del Sur),022,N 64° E,Cagwait (Surigao Del Sur)
 2025-10-29T11:48:00.000Z,29 October 2025 - 11:48 AM,09.63,126.21,033,1.5,017km S 18° E of General Luna (Surigao Del Norte),017,S 18° E,General Luna (Surigao Del Norte)
 2025-10-29T11:42:00.000Z,29 October 2025 - 11:42 AM,13.71,120.90,029,2.0,006km S 44° W of Mabini (Batangas),006,S 44° W,Mabini (Batangas)
 2025-10-29T11:33:00.000Z,29 October 2025 - 11:33 AM,05.90,125.64,077,2.7,001km S 17° W of Jose Abad Santos (Davao Occidental),001,S 17° W,Jose Abad Santos (Davao Occidental)
