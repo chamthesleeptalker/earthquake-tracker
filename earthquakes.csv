@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T18:28:00.000Z,29 October 2025 - 06:28 PM,07.12,126.69,022,2.5,019km S 60° E of Manay (Davao Oriental),019,S 60° E,Manay (Davao Oriental)
+2025-10-29T18:21:00.000Z,29 October 2025 - 06:21 PM,11.02,123.99,015,2.5,004km S 21° E of City Of Bogo (Cebu),004,S 21° E,City Of Bogo (Cebu)
+2025-10-29T18:14:00.000Z,29 October 2025 - 06:14 PM,09.83,126.16,027,2.0,005km N 07° E of General Luna (Surigao Del Norte),005,N 07° E,General Luna (Surigao Del Norte)
 2025-10-29T17:55:00.000Z,29 October 2025 - 05:55 PM,13.53,120.62,089,1.6,015km N 53° W of Abra De Ilog (Occidental Mindoro),015,N 53° W,Abra De Ilog (Occidental Mindoro)
 2025-10-29T17:48:00.000Z,29 October 2025 - 05:48 PM,11.12,124.10,034,2.0,015km N 59° E of City Of Bogo (Cebu),015,N 59° E,City Of Bogo (Cebu)
 2025-10-29T17:37:00.000Z,29 October 2025 - 05:37 PM,07.27,126.73,022,2.3,022km N 73° E of Manay (Davao Oriental),022,N 73° E,Manay (Davao Oriental)
