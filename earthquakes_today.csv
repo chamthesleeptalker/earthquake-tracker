@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T23:10:00.000Z,29 October 2025 - 11:10 PM,13.45,121.59,032,1.5,027km N 90° W of Boac (Marinduque),027,N 90° W,Boac (Marinduque)
+2025-10-29T23:00:00.000Z,29 October 2025 - 11:00 PM,13.51,120.77,033,1.4,009km N 30° E of Abra De Ilog (Occidental Mindoro),009,N 30° E,Abra De Ilog (Occidental Mindoro)
+2025-10-29T22:48:00.000Z,29 October 2025 - 10:48 PM,06.21,126.19,039,2.7,051km S 15° E of Governor Generoso (Davao Oriental),051,S 15° E,Governor Generoso (Davao Oriental)
+2025-10-29T22:46:00.000Z,29 October 2025 - 10:46 PM,13.67,120.58,090,1.5,019km S 16° W of Calatagan (Batangas),019,S 16° W,Calatagan (Batangas)
 2025-10-29T22:39:00.000Z,29 October 2025 - 10:39 PM,11.17,124.04,033,1.5,015km N 26° E of City Of Bogo (Cebu),015,N 26° E,City Of Bogo (Cebu)
 2025-10-29T22:12:00.000Z,29 October 2025 - 10:12 PM,10.92,123.81,005,3.6,023km S 52° W of City Of Bogo (Cebu),023,S 52° W,City Of Bogo (Cebu)
 2025-10-29T22:07:00.000Z,29 October 2025 - 10:07 PM,11.02,124.03,005,3.6,006km S 65° E of City Of Bogo (Cebu),006,S 65° E,City Of Bogo (Cebu)
