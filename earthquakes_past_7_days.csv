@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T15:26:00.000Z,29 October 2025 - 03:26 PM,09.06,126.33,041,2.0,016km N 13° E of Cagwait (Surigao Del Sur),016,N 13° E,Cagwait (Surigao Del Sur)
+2025-10-29T15:18:00.000Z,29 October 2025 - 03:18 PM,18.64,120.71,007,2.6,012km N 44° W of Pagudpud (Ilocos Norte),012,N 44° W,Pagudpud (Ilocos Norte)
+2025-10-29T15:20:00.000Z,29 October 2025 - 03:20 PM,07.36,127.36,033,2.2,092km N 79° E of Manay (Davao Oriental),092,N 79° E,Manay (Davao Oriental)
 2025-10-29T14:25:00.000Z,29 October 2025 - 02:25 PM,10.92,123.93,003,2.0,015km S 22° W of City Of Bogo (Cebu),015,S 22° W,City Of Bogo (Cebu)
 2025-10-29T14:16:00.000Z,29 October 2025 - 02:16 PM,10.12,125.73,035,1.5,015km N 68° E of Basilisa (Dinagat Islands),015,N 68° E,Basilisa (Dinagat Islands)
 2025-10-29T13:39:00.000Z,29 October 2025 - 01:39 PM,13.34,121.69,007,2.0,021km S 54° W of Boac (Marinduque),021,S 54° W,Boac (Marinduque)
@@ -713,7 +716,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T16:32:00.000Z,22 October 2025 - 04:32 PM,11.38,124.29,018,2.1,007km S 68° W of San Isidro (Leyte),007,S 68° W,San Isidro (Leyte)
 2025-10-22T16:29:00.000Z,22 October 2025 - 04:29 PM,07.27,127.43,002,3.1,098km N 86° E of Manay (Davao Oriental),098,N 86° E,Manay (Davao Oriental)
 2025-10-22T15:42:00.000Z,22 October 2025 - 03:42 PM,09.48,126.03,001,2.3,016km N 37° E of Carrascal (Surigao Del Sur),016,N 37° E,Carrascal (Surigao Del Sur)
-2025-10-22T15:16:00.000Z,22 October 2025 - 03:16 PM,13.14,120.45,017,1.8,018km S 59° W of Mamburao (Occidental Mindoro),018,S 59° W,Mamburao (Occidental Mindoro)
-2025-10-22T15:08:00.000Z,22 October 2025 - 03:08 PM,09.58,126.17,034,2.1,022km S 16° E of General Luna (Surigao Del Norte),022,S 16° E,General Luna (Surigao Del Norte)
-2025-10-22T15:06:00.000Z,22 October 2025 - 03:06 PM,18.65,120.59,005,3.2,017km N 19° W of Burgos (Ilocos Norte),017,N 19° W,Burgos (Ilocos Norte)
-2025-10-22T14:47:00.000Z,22 October 2025 - 02:47 PM,11.17,123.75,026,2.2,004km N 86° E of Bantayan (Cebu),004,N 86° E,Bantayan (Cebu)
