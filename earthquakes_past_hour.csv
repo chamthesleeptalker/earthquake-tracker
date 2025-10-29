@@ -1,8 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-10-30T06:01:00.000Z,30 October 2025 - 06:01 AM,11.09,123.96,013,2.0,006km N 23° W of City Of Bogo (Cebu),006,N 23° W,City Of Bogo (Cebu)
-2025-10-30T05:37:00.000Z,30 October 2025 - 05:37 AM,11.29,125.60,011,1.8,007km S 19° W of Hernani (Eastern Samar),007,S 19° W,Hernani (Eastern Samar)
-2025-10-30T05:30:00.000Z,30 October 2025 - 05:30 AM,12.99,124.51,012,2.0,035km S 80° E of Prieto Diaz (Sorsogon),035,S 80° E,Prieto Diaz (Sorsogon)
-2025-10-30T05:29:00.000Z,30 October 2025 - 05:29 AM,11.02,123.96,003,2.3,003km S 40° W of City Of Bogo (Cebu),003,S 40° W,City Of Bogo (Cebu)
-2025-10-30T05:28:00.000Z,30 October 2025 - 05:28 AM,12.43,124.65,035,2.2,008km S 10° E of Catarman (Northern Samar),008,S 10° E,Catarman (Northern Samar)
-2025-10-30T05:23:00.000Z,30 October 2025 - 05:23 AM,10.96,123.82,012,2.1,019km S 61° W of City Of Bogo (Cebu),019,S 61° W,City Of Bogo (Cebu)
-2025-10-30T05:23:00.000Z,30 October 2025 - 05:23 AM,10.96,123.82,012,2.1,019km S 61° W of City Of Bogo (Cebu),019,S 61° W,City Of Bogo (Cebu)
+2025-10-30T07:05:00.000Z,30 October 2025 - 07:05 AM,10.99,124.00,004,1.8,007km S 19° E of City Of Bogo (Cebu),007,S 19° E,City Of Bogo (Cebu)
+2025-10-30T07:02:00.000Z,30 October 2025 - 07:02 AM,13.05,124.51,002,3.6,034km N 88° E of Prieto Diaz (Sorsogon),034,N 88° E,Prieto Diaz (Sorsogon)
