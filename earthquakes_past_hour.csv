@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-10-29T09:29:00.000Z,29 October 2025 - 09:29 AM,09.60,126.17,030,1.5,021km S 04° E of General Luna (Surigao Del Norte),021,S 04° E,General Luna (Surigao Del Norte)
-2025-10-29T09:02:00.000Z,29 October 2025 - 09:02 AM,14.01,120.53,114,1.5,013km S 77° W of Lian (Batangas),013,S 77° W,Lian (Batangas)
+2025-10-29T11:42:00.000Z,29 October 2025 - 11:42 AM,13.71,120.90,029,2.0,006km S 44° W of Mabini (Batangas),006,S 44° W,Mabini (Batangas)
+2025-10-29T11:33:00.000Z,29 October 2025 - 11:33 AM,05.90,125.64,077,2.7,001km S 17° W of Jose Abad Santos (Davao Occidental),001,S 17° W,Jose Abad Santos (Davao Occidental)
+2025-10-29T10:54:00.000Z,29 October 2025 - 10:54 AM,10.74,123.66,014,1.4,016km N 80° E of Toboso (Negros Occidental),016,N 80° E,Toboso (Negros Occidental)
