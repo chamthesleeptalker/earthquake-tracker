@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T01:18:00.000Z,30 October 2025 - 01:18 AM,10.99,123.84,031,1.9,016km S 68° W of City Of Bogo (Cebu),016,S 68° W,City Of Bogo (Cebu)
 2025-10-30T00:25:00.000Z,30 October 2025 - 12:25 AM,11.18,124.15,011,2.4,024km N 53° E of City Of Bogo (Cebu),024,N 53° E,City Of Bogo (Cebu)
 2025-10-30T00:07:00.000Z,30 October 2025 - 12:07 AM,09.67,126.13,030,2.3,013km S 12° W of General Luna (Surigao Del Norte),013,S 12° W,General Luna (Surigao Del Norte)
 2025-10-30T00:01:00.000Z,30 October 2025 - 12:01 AM,08.56,124.56,001,2.6,013km N 47° W of City Of Cagayan De Oro (Misamis Oriental),013,N 47° W,City Of Cagayan De Oro (Misamis Oriental)
@@ -724,7 +725,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-23T01:31:00.000Z,23 October 2025 - 01:31 AM,11.16,124.13,007,3.0,020km N 56° E of City Of Bogo (Cebu),020,N 56° E,City Of Bogo (Cebu)
 2025-10-23T01:30:00.000Z,23 October 2025 - 01:30 AM,13.57,120.80,007,2.6,013km S 39° W of Tingloy (Batangas),013,S 39° W,Tingloy (Batangas)
 2025-10-23T01:29:00.000Z,23 October 2025 - 01:29 AM,06.83,127.52,029,2.4,116km S 69° E of Manay (Davao Oriental),116,S 69° E,Manay (Davao Oriental)
-2025-10-23T01:10:00.000Z,23 October 2025 - 01:10 AM,07.33,126.67,017,3.0,019km N 47° E of Manay (Davao Oriental),019,N 47° E,Manay (Davao Oriental)
-2025-10-23T01:07:00.000Z,23 October 2025 - 01:07 AM,09.41,125.67,030,2.3,011km S 69° E of Kitcharao (Agusan Del Norte),011,S 69° E,Kitcharao (Agusan Del Norte)
-2025-10-23T00:45:00.000Z,23 October 2025 - 12:45 AM,11.26,123.99,022,2.6,024km N 04° E of City Of Bogo (Cebu),024,N 04° E,City Of Bogo (Cebu)
-2025-10-23T00:31:00.000Z,23 October 2025 - 12:31 AM,18.84,120.50,014,2.4,039km N 23° W of Burgos (Ilocos Norte),039,N 23° W,Burgos (Ilocos Norte)
