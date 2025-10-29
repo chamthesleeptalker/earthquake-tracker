@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T16:15:00.000Z,29 October 2025 - 04:15 PM,11.05,124.08,003,2.0,011km N 87° E of City Of Bogo (Cebu),011,N 87° E,City Of Bogo (Cebu)
+2025-10-29T16:08:00.000Z,29 October 2025 - 04:08 PM,10.69,124.16,009,1.6,016km S 78° E of Catmon (Cebu),016,S 78° E,Catmon (Cebu)
+2025-10-29T16:01:00.000Z,29 October 2025 - 04:01 PM,10.88,123.92,002,2.4,019km S 19° W of City Of Bogo (Cebu),019,S 19° W,City Of Bogo (Cebu)
+2025-10-29T15:45:00.000Z,29 October 2025 - 03:45 PM,09.62,126.05,035,1.6,021km S 34° W of General Luna (Surigao Del Norte),021,S 34° W,General Luna (Surigao Del Norte)
+2025-10-29T15:33:00.000Z,29 October 2025 - 03:33 PM,07.29,126.68,016,2.0,018km N 61° E of Manay (Davao Oriental),018,N 61° E,Manay (Davao Oriental)
+2025-10-29T15:28:00.000Z,29 October 2025 - 03:28 PM,09.71,126.60,010,2.0,049km S 80° E of General Luna (Surigao Del Norte),049,S 80° E,General Luna (Surigao Del Norte)
 2025-10-29T15:26:00.000Z,29 October 2025 - 03:26 PM,09.06,126.33,041,2.0,016km N 13° E of Cagwait (Surigao Del Sur),016,N 13° E,Cagwait (Surigao Del Sur)
 2025-10-29T15:18:00.000Z,29 October 2025 - 03:18 PM,18.64,120.71,007,2.6,012km N 44° W of Pagudpud (Ilocos Norte),012,N 44° W,Pagudpud (Ilocos Norte)
 2025-10-29T15:20:00.000Z,29 October 2025 - 03:20 PM,07.36,127.36,033,2.2,092km N 79° E of Manay (Davao Oriental),092,N 79° E,Manay (Davao Oriental)
@@ -715,4 +721,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-22T16:57:00.000Z,22 October 2025 - 04:57 PM,10.99,123.98,035,2.6,007km S 04° W of City Of Bogo (Cebu),007,S 04° W,City Of Bogo (Cebu)
 2025-10-22T16:32:00.000Z,22 October 2025 - 04:32 PM,11.38,124.29,018,2.1,007km S 68° W of San Isidro (Leyte),007,S 68° W,San Isidro (Leyte)
 2025-10-22T16:29:00.000Z,22 October 2025 - 04:29 PM,07.27,127.43,002,3.1,098km N 86° E of Manay (Davao Oriental),098,N 86° E,Manay (Davao Oriental)
-2025-10-22T15:42:00.000Z,22 October 2025 - 03:42 PM,09.48,126.03,001,2.3,016km N 37° E of Carrascal (Surigao Del Sur),016,N 37° E,Carrascal (Surigao Del Sur)
