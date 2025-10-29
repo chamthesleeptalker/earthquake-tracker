@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-29T09:02:00.000Z,29 October 2025 - 09:02 AM,14.01,120.53,114,1.5,013km S 77° W of Lian (Batangas),013,S 77° W,Lian (Batangas)
+2025-10-29T08:26:00.000Z,29 October 2025 - 08:26 AM,10.88,123.70,023,2.0,036km S 59° W of City Of Bogo (Cebu),036,S 59° W,City Of Bogo (Cebu)
+2025-10-29T07:53:00.000Z,29 October 2025 - 07:53 AM,10.76,123.74,001,2.8,009km N 70° W of Tuburan (Cebu),009,N 70° W,Tuburan (Cebu)
+2025-10-29T07:40:00.000Z,29 October 2025 - 07:40 AM,10.79,123.75,009,2.6,010km N 49° W of Tuburan (Cebu),010,N 49° W,Tuburan (Cebu)
 2025-10-29T07:28:00.000Z,29 October 2025 - 07:28 AM,09.54,126.44,006,2.5,041km S 49° E of General Luna (Surigao Del Norte),041,S 49° E,General Luna (Surigao Del Norte)
 2025-10-29T07:04:00.000Z,29 October 2025 - 07:04 AM,08.90,126.45,021,2.2,017km S 84° E of Cagwait (Surigao Del Sur),017,S 84° E,Cagwait (Surigao Del Sur)
 2025-10-29T07:01:00.000Z,29 October 2025 - 07:01 AM,09.01,126.55,010,4.7,029km N 69° E of Cagwait (Surigao Del Sur),029,N 69° E,Cagwait (Surigao Del Sur)
