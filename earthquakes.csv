@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T00:07:00.000Z,30 October 2025 - 12:07 AM,09.67,126.13,030,2.3,013km S 12° W of General Luna (Surigao Del Norte),013,S 12° W,General Luna (Surigao Del Norte)
+2025-10-30T00:01:00.000Z,30 October 2025 - 12:01 AM,08.56,124.56,001,2.6,013km N 47° W of City Of Cagayan De Oro (Misamis Oriental),013,N 47° W,City Of Cagayan De Oro (Misamis Oriental)
+2025-10-29T23:42:00.000Z,29 October 2025 - 11:42 PM,11.11,124.09,008,2.3,014km N 59° E of City Of Bogo (Cebu),014,N 59° E,City Of Bogo (Cebu)
 2025-10-29T23:10:00.000Z,29 October 2025 - 11:10 PM,13.45,121.59,032,1.5,027km N 90° W of Boac (Marinduque),027,N 90° W,Boac (Marinduque)
 2025-10-29T23:00:00.000Z,29 October 2025 - 11:00 PM,13.51,120.77,033,1.4,009km N 30° E of Abra De Ilog (Occidental Mindoro),009,N 30° E,Abra De Ilog (Occidental Mindoro)
 2025-10-29T22:48:00.000Z,29 October 2025 - 10:48 PM,06.21,126.19,039,2.7,051km S 15° E of Governor Generoso (Davao Oriental),051,S 15° E,Governor Generoso (Davao Oriental)
