@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T10:39:00.000Z,30 October 2025 - 10:39 AM,09.80,126.14,023,1.8,002km N 45° W of General Luna (Surigao Del Norte),002,N 45° W,General Luna (Surigao Del Norte)
+2025-10-30T10:37:00.000Z,30 October 2025 - 10:37 AM,11.15,124.17,008,2.2,024km N 62° E of City Of Bogo (Cebu),024,N 62° E,City Of Bogo (Cebu)
+2025-10-30T10:32:00.000Z,30 October 2025 - 10:32 AM,09.66,126.24,034,2.0,017km S 33° E of General Luna (Surigao Del Norte),017,S 33° E,General Luna (Surigao Del Norte)
+2025-10-30T10:06:00.000Z,30 October 2025 - 10:06 AM,09.88,124.19,033,1.5,007km N 09° W of Carmen (Bohol),007,N 09° W,Carmen (Bohol)
+2025-10-30T09:47:00.000Z,30 October 2025 - 09:47 AM,16.92,120.63,110,2.2,011km N 70° E of Alilem (Ilocos Sur),011,N 70° E,Alilem (Ilocos Sur)
+2025-10-30T09:46:00.000Z,30 October 2025 - 09:46 AM,10.98,123.98,007,2.2,008km S 02° W of City Of Bogo (Cebu),008,S 02° W,City Of Bogo (Cebu)
 2025-10-30T09:07:00.000Z,30 October 2025 - 09:07 AM,04.78,125.32,032,3.5,071km S 09° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),071,S 09° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-30T08:18:00.000Z,30 October 2025 - 08:18 AM,10.80,122.83,033,1.6,013km S 81° E of Dumangas (Iloilo),013,S 81° E,Dumangas (Iloilo)
 2025-10-30T08:17:00.000Z,30 October 2025 - 08:17 AM,11.17,123.99,028,1.8,013km N 04° E of City Of Bogo (Cebu),013,N 04° E,City Of Bogo (Cebu)
@@ -91,4 +97,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-29T11:42:00.000Z,29 October 2025 - 11:42 AM,13.71,120.90,029,2.0,006km S 44° W of Mabini (Batangas),006,S 44° W,Mabini (Batangas)
 2025-10-29T11:33:00.000Z,29 October 2025 - 11:33 AM,05.90,125.64,077,2.7,001km S 17° W of Jose Abad Santos (Davao Occidental),001,S 17° W,Jose Abad Santos (Davao Occidental)
 2025-10-29T10:54:00.000Z,29 October 2025 - 10:54 AM,10.74,123.66,014,1.4,016km N 80° E of Toboso (Negros Occidental),016,N 80° E,Toboso (Negros Occidental)
-2025-10-29T09:29:00.000Z,29 October 2025 - 09:29 AM,09.60,126.17,030,1.5,021km S 04° E of General Luna (Surigao Del Norte),021,S 04° E,General Luna (Surigao Del Norte)
