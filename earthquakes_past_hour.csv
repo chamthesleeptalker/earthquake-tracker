@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T04:08:00.000Z,31 October 2025 - 04:08 AM,09.41,126.39,029,2.1,026km N 57° E of Cortes (Surigao Del Sur),026,N 57° E,Cortes (Surigao Del Sur)
+2025-10-31T03:37:00.000Z,31 October 2025 - 03:37 AM,11.06,124.01,001,2.4,003km N 69° E of City Of Bogo (Cebu),003,N 69° E,City Of Bogo (Cebu)
 2025-10-31T03:28:00.000Z,31 October 2025 - 03:28 AM,09.63,126.15,030,2.3,016km S 02° W of General Luna (Surigao Del Norte),016,S 02° W,General Luna (Surigao Del Norte)
 2025-10-31T03:26:00.000Z,31 October 2025 - 03:26 AM,11.10,124.15,032,1.4,019km N 73° E of City Of Bogo (Cebu),019,N 73° E,City Of Bogo (Cebu)
 2025-10-31T03:24:00.000Z,31 October 2025 - 03:24 AM,16.92,120.16,027,2.5,024km N 73° W of Luna (La Union),024,N 73° W,Luna (La Union)
 2025-10-31T03:09:00.000Z,31 October 2025 - 03:09 AM,05.62,127.34,101,3.1,181km S 51° E of Governor Generoso (Davao Oriental),181,S 51° E,Governor Generoso (Davao Oriental)
-2025-10-31T02:49:00.000Z,31 October 2025 - 02:49 AM,08.97,126.53,022,2.1,025km N 78° E of Cagwait (Surigao Del Sur),025,N 78° E,Cagwait (Surigao Del Sur)
