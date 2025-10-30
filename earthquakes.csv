@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T16:15:00.000Z,30 October 2025 - 04:15 PM,13.94,119.86,080,2.2,030km N 73° W of Lubang (Occidental Mindoro),030,N 73° W,Lubang (Occidental Mindoro)
 2025-10-30T16:12:00.000Z,30 October 2025 - 04:12 PM,07.61,126.62,026,2.6,045km N 11° E of Manay (Davao Oriental),045,N 11° E,Manay (Davao Oriental)
 2025-10-30T15:32:00.000Z,30 October 2025 - 03:32 PM,09.75,126.08,028,2.0,009km S 68° W of General Luna (Surigao Del Norte),009,S 68° W,General Luna (Surigao Del Norte)
 2025-10-30T15:31:00.000Z,30 October 2025 - 03:31 PM,09.63,126.17,030,2.2,017km S 05° E of General Luna (Surigao Del Norte),017,S 05° E,General Luna (Surigao Del Norte)
