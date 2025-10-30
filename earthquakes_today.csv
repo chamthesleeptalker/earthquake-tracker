@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T17:26:00.000Z,30 October 2025 - 05:26 PM,11.17,124.14,002,3.3,022km N 52° E of City Of Bogo (Cebu),022,N 52° E,City Of Bogo (Cebu)
 2025-10-30T16:52:00.000Z,30 October 2025 - 04:52 PM,11.13,124.10,028,2.2,016km N 56° E of City Of Bogo (Cebu),016,N 56° E,City Of Bogo (Cebu)
 2025-10-30T12:37:00.000Z,30 October 2025 - 12:37 PM,10.39,125.27,005,2.7,005km N 21° E of Hinundayan (Southern Leyte),005,N 21° E,Hinundayan (Southern Leyte)
 2025-10-30T03:32:00.000Z,30 October 2025 - 03:32 AM,11.09,123.95,006,2.2,006km N 33° W of City Of Bogo (Cebu),006,N 33° W,City Of Bogo (Cebu)
