@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T16:52:00.000Z,30 October 2025 - 04:52 PM,11.13,124.10,028,2.2,016km N 56° E of City Of Bogo (Cebu),016,N 56° E,City Of Bogo (Cebu)
+2025-10-30T12:37:00.000Z,30 October 2025 - 12:37 PM,10.39,125.27,005,2.7,005km N 21° E of Hinundayan (Southern Leyte),005,N 21° E,Hinundayan (Southern Leyte)
+2025-10-30T03:32:00.000Z,30 October 2025 - 03:32 AM,11.09,123.95,006,2.2,006km N 33° W of City Of Bogo (Cebu),006,N 33° W,City Of Bogo (Cebu)
 2025-10-30T16:15:00.000Z,30 October 2025 - 04:15 PM,13.94,119.86,080,2.2,030km N 73° W of Lubang (Occidental Mindoro),030,N 73° W,Lubang (Occidental Mindoro)
 2025-10-30T16:12:00.000Z,30 October 2025 - 04:12 PM,07.61,126.62,026,2.6,045km N 11° E of Manay (Davao Oriental),045,N 11° E,Manay (Davao Oriental)
 2025-10-30T15:32:00.000Z,30 October 2025 - 03:32 PM,09.75,126.08,028,2.0,009km S 68° W of General Luna (Surigao Del Norte),009,S 68° W,General Luna (Surigao Del Norte)
@@ -718,4 +721,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-23T17:28:00.000Z,23 October 2025 - 05:28 PM,05.77,126.36,108,2.6,080km S 79° E of Jose Abad Santos (Davao Occidental),080,S 79° E,Jose Abad Santos (Davao Occidental)
 2025-10-23T17:18:00.000Z,23 October 2025 - 05:18 PM,15.05,120.02,032,1.5,006km S 74° W of San Felipe (Zambales),006,S 74° W,San Felipe (Zambales)
 2025-10-23T16:55:00.000Z,23 October 2025 - 04:55 PM,07.19,127.12,072,2.3,064km S 88° E of Manay (Davao Oriental),064,S 88° E,Manay (Davao Oriental)
-2025-10-23T16:25:00.000Z,23 October 2025 - 04:25 PM,13.28,120.27,022,2.4,026km S 54° W of Paluan (Occidental Mindoro),026,S 54° W,Paluan (Occidental Mindoro)

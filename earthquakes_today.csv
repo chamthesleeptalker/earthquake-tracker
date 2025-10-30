@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T16:52:00.000Z,30 October 2025 - 04:52 PM,11.13,124.10,028,2.2,016km N 56° E of City Of Bogo (Cebu),016,N 56° E,City Of Bogo (Cebu)
+2025-10-30T12:37:00.000Z,30 October 2025 - 12:37 PM,10.39,125.27,005,2.7,005km N 21° E of Hinundayan (Southern Leyte),005,N 21° E,Hinundayan (Southern Leyte)
+2025-10-30T03:32:00.000Z,30 October 2025 - 03:32 AM,11.09,123.95,006,2.2,006km N 33° W of City Of Bogo (Cebu),006,N 33° W,City Of Bogo (Cebu)
 2025-10-30T16:15:00.000Z,30 October 2025 - 04:15 PM,13.94,119.86,080,2.2,030km N 73° W of Lubang (Occidental Mindoro),030,N 73° W,Lubang (Occidental Mindoro)
 2025-10-30T16:12:00.000Z,30 October 2025 - 04:12 PM,07.61,126.62,026,2.6,045km N 11° E of Manay (Davao Oriental),045,N 11° E,Manay (Davao Oriental)
 2025-10-30T15:32:00.000Z,30 October 2025 - 03:32 PM,09.75,126.08,028,2.0,009km S 68° W of General Luna (Surigao Del Norte),009,S 68° W,General Luna (Surigao Del Norte)
