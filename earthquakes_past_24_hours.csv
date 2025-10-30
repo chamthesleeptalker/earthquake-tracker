@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T22:01:00.000Z,30 October 2025 - 10:01 PM,07.15,126.84,015,3.1,034km S 78° E of Manay (Davao Oriental),034,S 78° E,Manay (Davao Oriental)
+2025-10-30T21:57:00.000Z,30 October 2025 - 09:57 PM,07.16,127.13,018,3.9,065km S 85° E of Manay (Davao Oriental),065,S 85° E,Manay (Davao Oriental)
+2025-10-30T21:49:00.000Z,30 October 2025 - 09:49 PM,07.37,127.41,028,2.8,097km N 80° E of Manay (Davao Oriental),097,N 80° E,Manay (Davao Oriental)
+2025-10-30T21:44:00.000Z,30 October 2025 - 09:44 PM,09.60,126.23,034,1.8,022km S 21° E of General Luna (Surigao Del Norte),022,S 21° E,General Luna (Surigao Del Norte)
 2025-10-30T21:31:00.000Z,30 October 2025 - 09:31 PM,07.36,127.34,004,3.1,089km N 79° E of Manay (Davao Oriental),089,N 79° E,Manay (Davao Oriental)
 2025-10-30T21:31:00.000Z,30 October 2025 - 09:31 PM,09.27,126.55,001,1.6,039km S 89° E of Cortes (Surigao Del Sur),039,S 89° E,Cortes (Surigao Del Sur)
 2025-10-30T21:23:00.000Z,30 October 2025 - 09:23 PM,07.89,126.92,011,2.4,052km N 77° E of Cateel (Davao Oriental),052,N 77° E,Cateel (Davao Oriental)
@@ -96,7 +100,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-29T22:07:00.000Z,29 October 2025 - 10:07 PM,11.02,124.03,005,3.6,006km S 65° E of City Of Bogo (Cebu),006,S 65° E,City Of Bogo (Cebu)
 2025-10-29T22:04:00.000Z,29 October 2025 - 10:04 PM,07.48,126.70,031,3.2,035km N 31° E of Manay (Davao Oriental),035,N 31° E,Manay (Davao Oriental)
 2025-10-29T22:01:00.000Z,29 October 2025 - 10:01 PM,11.10,123.93,028,2.6,008km N 44° W of City Of Bogo (Cebu),008,N 44° W,City Of Bogo (Cebu)
-2025-10-29T21:49:00.000Z,29 October 2025 - 09:49 PM,11.01,124.00,006,1.8,004km S 26° E of City Of Bogo (Cebu),004,S 26° E,City Of Bogo (Cebu)
-2025-10-29T21:47:00.000Z,29 October 2025 - 09:47 PM,11.10,124.09,016,2.4,013km N 64° E of City Of Bogo (Cebu),013,N 64° E,City Of Bogo (Cebu)
-2025-10-29T21:40:00.000Z,29 October 2025 - 09:40 PM,13.83,120.58,077,1.4,005km S 84° W of Calatagan (Batangas),005,S 84° W,Calatagan (Batangas)
-2025-10-29T21:39:00.000Z,29 October 2025 - 09:39 PM,11.25,124.27,006,2.0,014km N 74° W of Villaba (Leyte),014,N 74° W,Villaba (Leyte)
