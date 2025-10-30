@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T06:43:00.000Z,31 October 2025 - 06:43 AM,10.87,123.64,006,2.9,016km N 81° E of City Of Escalante (Negros Occidental),016,N 81° E,City Of Escalante (Negros Occidental)
+2025-10-31T06:39:00.000Z,31 October 2025 - 06:39 AM,07.26,126.86,027,2.4,035km N 82° E of Manay (Davao Oriental),035,N 82° E,Manay (Davao Oriental)
 2025-10-31T06:20:00.000Z,31 October 2025 - 06:20 AM,16.95,120.48,012,1.4,005km N 61° E of Tagudin (Ilocos Sur),005,N 61° E,Tagudin (Ilocos Sur)
 2025-10-31T06:18:00.000Z,31 October 2025 - 06:18 AM,06.90,125.76,024,1.8,021km S 14° E of Island Garden City Of Samal (Davao Del Norte),021,S 14° E,Island Garden City Of Samal (Davao Del Norte)
 2025-10-31T06:14:00.000Z,31 October 2025 - 06:14 AM,05.20,126.53,110,3.5,121km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),121,S 76° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -722,5 +724,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T07:21:00.000Z,24 October 2025 - 07:21 AM,16.09,119.91,033,2.1,004km N 59° W of Mabini (Pangasinan),004,N 59° W,Mabini (Pangasinan)
 2025-10-24T07:18:00.000Z,24 October 2025 - 07:18 AM,07.27,126.53,007,3.1,006km N 10° W of Manay (Davao Oriental),006,N 10° W,Manay (Davao Oriental)
 2025-10-24T07:17:00.000Z,24 October 2025 - 07:17 AM,07.24,126.52,010,2.1,004km N 28° W of Manay (Davao Oriental),004,N 28° W,Manay (Davao Oriental)
-2025-10-24T06:35:00.000Z,24 October 2025 - 06:35 AM,14.04,119.95,033,1.7,028km N 43° W of Lubang (Occidental Mindoro),028,N 43° W,Lubang (Occidental Mindoro)
-2025-10-24T06:21:00.000Z,24 October 2025 - 06:21 AM,11.10,123.90,026,2.3,010km N 55° W of City Of Bogo (Cebu),010,N 55° W,City Of Bogo (Cebu)
