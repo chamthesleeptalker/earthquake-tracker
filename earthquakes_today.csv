@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T23:47:00.000Z,30 October 2025 - 11:47 PM,16.11,119.91,012,2.4,005km N 31° W of Mabini (Pangasinan),005,N 31° W,Mabini (Pangasinan)
+2025-10-30T23:34:00.000Z,30 October 2025 - 11:34 PM,07.16,127.19,032,2.4,072km S 85° E of Manay (Davao Oriental),072,S 85° E,Manay (Davao Oriental)
 2025-10-30T23:25:00.000Z,30 October 2025 - 11:25 PM,07.28,127.02,010,2.7,053km N 82° E of Manay (Davao Oriental),053,N 82° E,Manay (Davao Oriental)
 2025-10-30T23:04:00.000Z,30 October 2025 - 11:04 PM,11.02,124.13,001,1.7,016km S 81° E of City Of Bogo (Cebu),016,S 81° E,City Of Bogo (Cebu)
 2025-10-30T22:44:00.000Z,30 October 2025 - 10:44 PM,11.18,124.12,010,2.2,022km N 46° E of City Of Bogo (Cebu),022,N 46° E,City Of Bogo (Cebu)

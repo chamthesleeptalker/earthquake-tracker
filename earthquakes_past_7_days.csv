@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-30T23:47:00.000Z,30 October 2025 - 11:47 PM,16.11,119.91,012,2.4,005km N 31° W of Mabini (Pangasinan),005,N 31° W,Mabini (Pangasinan)
+2025-10-30T23:34:00.000Z,30 October 2025 - 11:34 PM,07.16,127.19,032,2.4,072km S 85° E of Manay (Davao Oriental),072,S 85° E,Manay (Davao Oriental)
 2025-10-30T23:25:00.000Z,30 October 2025 - 11:25 PM,07.28,127.02,010,2.7,053km N 82° E of Manay (Davao Oriental),053,N 82° E,Manay (Davao Oriental)
 2025-10-30T23:04:00.000Z,30 October 2025 - 11:04 PM,11.02,124.13,001,1.7,016km S 81° E of City Of Bogo (Cebu),016,S 81° E,City Of Bogo (Cebu)
 2025-10-30T22:44:00.000Z,30 October 2025 - 10:44 PM,11.18,124.12,010,2.2,022km N 46° E of City Of Bogo (Cebu),022,N 46° E,City Of Bogo (Cebu)
@@ -733,7 +735,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T00:23:00.000Z,24 October 2025 - 12:23 AM,07.12,126.84,029,2.4,034km S 74° E of Manay (Davao Oriental),034,S 74° E,Manay (Davao Oriental)
 2025-10-23T23:50:00.000Z,23 October 2025 - 11:50 PM,19.13,121.29,012,2.8,009km N 76° E of Dalupiri Island (Calayan) (Cagayan),009,N 76° E,Dalupiri Island (Calayan) (Cagayan)
 2025-10-23T23:48:00.000Z,23 October 2025 - 11:48 PM,10.63,124.84,007,1.7,007km S 44° E of City Of Baybay (Leyte),007,S 44° E,City Of Baybay (Leyte)
-2025-10-23T23:38:00.000Z,23 October 2025 - 11:38 PM,11.14,124.02,007,2.2,011km N 24° E of City Of Bogo (Cebu),011,N 24° E,City Of Bogo (Cebu)
-2025-10-23T23:34:00.000Z,23 October 2025 - 11:34 PM,10.88,123.85,001,2.6,023km S 39° W of City Of Bogo (Cebu),023,S 39° W,City Of Bogo (Cebu)
-2025-10-23T23:28:00.000Z,23 October 2025 - 11:28 PM,18.54,120.74,004,2.0,003km N 88° W of Bangui (Ilocos Norte),003,N 88° W,Bangui (Ilocos Norte)
-2025-10-23T23:26:00.000Z,23 October 2025 - 11:26 PM,08.19,127.00,002,2.8,067km N 75° E of Lingig (Surigao Del Sur),067,N 75° E,Lingig (Surigao Del Sur)
