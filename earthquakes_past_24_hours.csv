@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T07:08:00.000Z,31 October 2025 - 07:08 AM,11.23,124.07,020,1.9,023km N 26° E of City Of Bogo (Cebu),023,N 26° E,City Of Bogo (Cebu)
 2025-10-31T06:43:00.000Z,31 October 2025 - 06:43 AM,10.87,123.64,006,2.9,016km N 81° E of City Of Escalante (Negros Occidental),016,N 81° E,City Of Escalante (Negros Occidental)
 2025-10-31T06:39:00.000Z,31 October 2025 - 06:39 AM,07.26,126.86,027,2.4,035km N 82° E of Manay (Davao Oriental),035,N 82° E,Manay (Davao Oriental)
 2025-10-31T06:20:00.000Z,31 October 2025 - 06:20 AM,16.95,120.48,012,1.4,005km N 61° E of Tagudin (Ilocos Sur),005,N 61° E,Tagudin (Ilocos Sur)
@@ -101,5 +102,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-30T08:02:00.000Z,30 October 2025 - 08:02 AM,11.18,124.01,011,2.0,015km N 13° E of City Of Bogo (Cebu),015,N 13° E,City Of Bogo (Cebu)
 2025-10-30T07:48:00.000Z,30 October 2025 - 07:48 AM,10.75,123.77,006,2.3,007km N 73° W of Tuburan (Cebu),007,N 73° W,Tuburan (Cebu)
 2025-10-30T07:21:00.000Z,30 October 2025 - 07:21 AM,10.87,123.81,024,3.0,027km S 43° W of City Of Bogo (Cebu),027,S 43° W,City Of Bogo (Cebu)
-2025-10-30T07:05:00.000Z,30 October 2025 - 07:05 AM,10.99,124.00,004,1.8,007km S 19° E of City Of Bogo (Cebu),007,S 19° E,City Of Bogo (Cebu)
-2025-10-30T07:02:00.000Z,30 October 2025 - 07:02 AM,13.05,124.51,002,3.6,034km N 88° E of Prieto Diaz (Sorsogon),034,N 88° E,Prieto Diaz (Sorsogon)
