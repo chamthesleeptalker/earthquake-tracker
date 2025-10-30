@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T01:29:00.000Z,31 October 2025 - 01:29 AM,10.60,126.38,029,2.3,072km N 27° E of Burgos (Surigao Del Norte),072,N 27° E,Burgos (Surigao Del Norte)
+2025-10-31T01:24:00.000Z,31 October 2025 - 01:24 AM,18.14,119.69,004,3.0,085km N 81° W of Currimao (Ilocos Norte),085,N 81° W,Currimao (Ilocos Norte)
+2025-10-31T01:15:00.000Z,31 October 2025 - 01:15 AM,18.83,120.97,034,1.9,027km N 26° W of Claveria (Cagayan),027,N 26° W,Claveria (Cagayan)
+2025-10-31T01:13:00.000Z,31 October 2025 - 01:13 AM,16.33,120.13,059,2.1,020km N 76° E of Anda (Pangasinan),020,N 76° E,Anda (Pangasinan)
 2025-10-31T01:01:00.000Z,31 October 2025 - 01:01 AM,16.00,119.67,030,2.0,019km S 47° W of Agno (Pangasinan),019,S 47° W,Agno (Pangasinan)
 2025-10-31T00:45:00.000Z,31 October 2025 - 12:45 AM,11.04,123.91,007,2.1,007km S 81° W of City Of Bogo (Cebu),007,S 81° W,City Of Bogo (Cebu)
 2025-10-31T00:36:00.000Z,31 October 2025 - 12:36 AM,08.04,127.38,025,3.2,104km N 61° E of Baganga (Davao Oriental),104,N 61° E,Baganga (Davao Oriental)
@@ -101,4 +105,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-30T02:02:00.000Z,30 October 2025 - 02:02 AM,11.11,124.02,027,2.3,008km N 35° E of City Of Bogo (Cebu),008,N 35° E,City Of Bogo (Cebu)
 2025-10-30T01:52:00.000Z,30 October 2025 - 01:52 AM,03.65,124.20,433,4.8,237km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),237,S 35° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-30T01:34:00.000Z,30 October 2025 - 01:34 AM,08.93,126.45,027,3.1,017km N 87° E of Cagwait (Surigao Del Sur),017,N 87° E,Cagwait (Surigao Del Sur)
-2025-10-30T01:18:00.000Z,30 October 2025 - 01:18 AM,10.99,123.84,031,1.9,016km S 68° W of City Of Bogo (Cebu),016,S 68° W,City Of Bogo (Cebu)
