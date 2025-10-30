@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T05:46:00.000Z,31 October 2025 - 05:46 AM,10.62,123.75,007,2.3,007km N 32° E of Asturias (Cebu),007,N 32° E,Asturias (Cebu)
+2025-10-31T05:33:00.000Z,31 October 2025 - 05:33 AM,11.14,124.14,032,2.0,020km N 60° E of City Of Bogo (Cebu),020,N 60° E,City Of Bogo (Cebu)
 2025-10-31T05:18:00.000Z,31 October 2025 - 05:18 AM,07.11,126.96,027,2.0,048km S 76° E of Manay (Davao Oriental),048,S 76° E,Manay (Davao Oriental)
 2025-10-31T04:45:00.000Z,31 October 2025 - 04:45 AM,13.89,120.32,049,1.8,020km N 21° E of Looc (Occidental Mindoro),020,N 21° E,Looc (Occidental Mindoro)
 2025-10-31T04:28:00.000Z,31 October 2025 - 04:28 AM,10.80,124.15,022,1.7,033km S 35° E of City Of Bogo (Cebu),033,S 35° E,City Of Bogo (Cebu)
@@ -720,7 +722,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T06:35:00.000Z,24 October 2025 - 06:35 AM,14.04,119.95,033,1.7,028km N 43° W of Lubang (Occidental Mindoro),028,N 43° W,Lubang (Occidental Mindoro)
 2025-10-24T06:21:00.000Z,24 October 2025 - 06:21 AM,11.10,123.90,026,2.3,010km N 55° W of City Of Bogo (Cebu),010,N 55° W,City Of Bogo (Cebu)
 2025-10-24T06:14:00.000Z,24 October 2025 - 06:14 AM,05.65,127.39,010,4.9,183km S 52° E of Governor Generoso (Davao Oriental),183,S 52° E,Governor Generoso (Davao Oriental)
-2025-10-24T05:36:00.000Z,24 October 2025 - 05:36 AM,13.37,120.51,032,1.8,007km S 46° E of Paluan (Occidental Mindoro),007,S 46° E,Paluan (Occidental Mindoro)
-2025-10-24T05:34:00.000Z,24 October 2025 - 05:34 AM,07.19,126.83,015,3.3,032km S 87° E of Manay (Davao Oriental),032,S 87° E,Manay (Davao Oriental)
-2025-10-24T05:24:00.000Z,24 October 2025 - 05:24 AM,11.19,124.35,003,2.0,005km S 69° W of Villaba (Leyte),005,S 69° W,Villaba (Leyte)
-2025-10-24T05:19:00.000Z,24 October 2025 - 05:19 AM,09.64,126.22,033,1.5,017km S 25° E of General Luna (Surigao Del Norte),017,S 25° E,General Luna (Surigao Del Norte)
