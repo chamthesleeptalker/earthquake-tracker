@@ -1,5 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T01:01:00.000Z,31 October 2025 - 01:01 AM,16.00,119.67,030,2.0,019km S 47° W of Agno (Pangasinan),019,S 47° W,Agno (Pangasinan)
+2025-10-31T00:45:00.000Z,31 October 2025 - 12:45 AM,11.04,123.91,007,2.1,007km S 81° W of City Of Bogo (Cebu),007,S 81° W,City Of Bogo (Cebu)
+2025-10-31T00:36:00.000Z,31 October 2025 - 12:36 AM,08.04,127.38,025,3.2,104km N 61° E of Baganga (Davao Oriental),104,N 61° E,Baganga (Davao Oriental)
 2025-10-31T00:21:00.000Z,31 October 2025 - 12:21 AM,09.59,126.16,032,2.0,021km S 01° E of General Luna (Surigao Del Norte),021,S 01° E,General Luna (Surigao Del Norte)
-2025-10-30T23:47:00.000Z,30 October 2025 - 11:47 PM,16.11,119.91,012,2.4,005km N 31° W of Mabini (Pangasinan),005,N 31° W,Mabini (Pangasinan)
-2025-10-30T23:34:00.000Z,30 October 2025 - 11:34 PM,07.16,127.19,032,2.4,072km S 85° E of Manay (Davao Oriental),072,S 85° E,Manay (Davao Oriental)
-2025-10-30T23:25:00.000Z,30 October 2025 - 11:25 PM,07.28,127.02,010,2.7,053km N 82° E of Manay (Davao Oriental),053,N 82° E,Manay (Davao Oriental)
