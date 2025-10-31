@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T03:58:00.000Z,01 November 2025 - 03:58 AM,07.43,127.47,024,3.8,105km N 77° E of Manay (Davao Oriental),105,N 77° E,Manay (Davao Oriental)
+2025-11-01T03:35:00.000Z,01 November 2025 - 03:35 AM,09.78,126.10,026,2.0,006km S 84° W of General Luna (Surigao Del Norte),006,S 84° W,General Luna (Surigao Del Norte)
+2025-11-01T03:33:00.000Z,01 November 2025 - 03:33 AM,18.68,120.96,030,1.6,014km N 14° W of Santa Praxedes (Cagayan),014,N 14° W,Santa Praxedes (Cagayan)
 2025-11-01T03:28:00.000Z,01 November 2025 - 03:28 AM,11.05,124.06,039,1.9,009km N 85° E of City Of Bogo (Cebu),009,N 85° E,City Of Bogo (Cebu)
 2025-11-01T03:27:00.000Z,01 November 2025 - 03:27 AM,16.67,121.78,004,1.8,007km S 23° W of San Guillermo (Isabela),007,S 23° W,San Guillermo (Isabela)
 2025-11-01T03:23:00.000Z,01 November 2025 - 03:23 AM,10.95,123.84,020,1.9,019km S 55° W of City Of Bogo (Cebu),019,S 55° W,City Of Bogo (Cebu)
@@ -104,5 +107,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T04:28:00.000Z,31 October 2025 - 04:28 AM,10.80,124.15,022,1.7,033km S 35° E of City Of Bogo (Cebu),033,S 35° E,City Of Bogo (Cebu)
 2025-10-31T04:11:00.000Z,31 October 2025 - 04:11 AM,02.77,125.86,145,4.1,296km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),296,S 10° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-31T04:08:00.000Z,31 October 2025 - 04:08 AM,09.41,126.39,029,2.1,026km N 57° E of Cortes (Surigao Del Sur),026,N 57° E,Cortes (Surigao Del Sur)
-2025-10-31T03:37:00.000Z,31 October 2025 - 03:37 AM,11.06,124.01,001,2.4,003km N 69° E of City Of Bogo (Cebu),003,N 69° E,City Of Bogo (Cebu)
-2025-10-31T03:28:00.000Z,31 October 2025 - 03:28 AM,09.63,126.15,030,2.3,016km S 02° W of General Luna (Surigao Del Norte),016,S 02° W,General Luna (Surigao Del Norte)

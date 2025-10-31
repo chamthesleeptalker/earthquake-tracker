@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T03:58:00.000Z,01 November 2025 - 03:58 AM,07.43,127.47,024,3.8,105km N 77° E of Manay (Davao Oriental),105,N 77° E,Manay (Davao Oriental)
+2025-11-01T03:35:00.000Z,01 November 2025 - 03:35 AM,09.78,126.10,026,2.0,006km S 84° W of General Luna (Surigao Del Norte),006,S 84° W,General Luna (Surigao Del Norte)
+2025-11-01T03:33:00.000Z,01 November 2025 - 03:33 AM,18.68,120.96,030,1.6,014km N 14° W of Santa Praxedes (Cagayan),014,N 14° W,Santa Praxedes (Cagayan)
 2025-11-01T03:28:00.000Z,01 November 2025 - 03:28 AM,11.05,124.06,039,1.9,009km N 85° E of City Of Bogo (Cebu),009,N 85° E,City Of Bogo (Cebu)
 2025-11-01T03:27:00.000Z,01 November 2025 - 03:27 AM,16.67,121.78,004,1.8,007km S 23° W of San Guillermo (Isabela),007,S 23° W,San Guillermo (Isabela)
 2025-11-01T03:23:00.000Z,01 November 2025 - 03:23 AM,10.95,123.84,020,1.9,019km S 55° W of City Of Bogo (Cebu),019,S 55° W,City Of Bogo (Cebu)
