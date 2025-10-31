@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T18:45:00.000Z,31 October 2025 - 06:45 PM,07.90,126.59,014,1.7,019km N 50° E of Cateel (Davao Oriental),019,N 50° E,Cateel (Davao Oriental)
 2025-10-31T18:31:00.000Z,31 October 2025 - 06:31 PM,12.29,125.50,015,2.6,012km N 02° W of San Policarpo (Eastern Samar),012,N 02° W,San Policarpo (Eastern Samar)
 2025-10-31T18:14:00.000Z,31 October 2025 - 06:14 PM,06.94,123.71,010,4.0,036km S 67° W of Datu Blah T. Sinsuat (Maguindanao),036,S 67° W,Datu Blah T. Sinsuat (Maguindanao)
 2025-10-31T18:10:00.000Z,31 October 2025 - 06:10 PM,11.12,124.13,009,2.3,018km N 65° E of City Of Bogo (Cebu),018,N 65° E,City Of Bogo (Cebu)
@@ -104,5 +105,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-30T19:06:00.000Z,30 October 2025 - 07:06 PM,13.69,123.14,032,1.6,005km S 37° E of Cabusao (Camarines Sur),005,S 37° E,Cabusao (Camarines Sur)
 2025-10-30T19:05:00.000Z,30 October 2025 - 07:05 PM,09.64,126.19,034,1.9,017km S 13° E of General Luna (Surigao Del Norte),017,S 13° E,General Luna (Surigao Del Norte)
 2025-10-30T19:04:00.000Z,30 October 2025 - 07:04 PM,06.10,126.74,035,2.1,096km S 51° E of Governor Generoso (Davao Oriental),096,S 51° E,Governor Generoso (Davao Oriental)
-2025-10-30T18:42:00.000Z,30 October 2025 - 06:42 PM,11.15,123.96,020,2.1,012km N 09° W of City Of Bogo (Cebu),012,N 09° W,City Of Bogo (Cebu)
-2025-10-30T18:37:00.000Z,30 October 2025 - 06:37 PM,11.01,124.10,032,1.8,013km S 74° E of City Of Bogo (Cebu),013,S 74° E,City Of Bogo (Cebu)
