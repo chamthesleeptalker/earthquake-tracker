@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T01:17:00.000Z,01 November 2025 - 01:17 AM,07.17,126.93,014,2.3,044km S 85° E of Manay (Davao Oriental),044,S 85° E,Manay (Davao Oriental)
 2025-11-01T01:02:00.000Z,01 November 2025 - 01:02 AM,17.47,120.33,051,2.4,010km S 33° W of Caoayan (Ilocos Sur),010,S 33° W,Caoayan (Ilocos Sur)
 2025-11-01T00:52:00.000Z,01 November 2025 - 12:52 AM,11.07,124.07,008,2.3,011km N 73° E of City Of Bogo (Cebu),011,N 73° E,City Of Bogo (Cebu)
 2025-11-01T00:40:00.000Z,01 November 2025 - 12:40 AM,09.06,126.53,025,2.0,029km N 69° E of Bayabas (Surigao Del Sur),029,N 69° E,Bayabas (Surigao Del Sur)
@@ -104,5 +105,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T01:33:00.000Z,31 October 2025 - 01:33 AM,06.94,127.28,001,3.2,086km S 70° E of Manay (Davao Oriental),086,S 70° E,Manay (Davao Oriental)
 2025-10-31T01:29:00.000Z,31 October 2025 - 01:29 AM,10.60,126.38,029,2.3,072km N 27° E of Burgos (Surigao Del Norte),072,N 27° E,Burgos (Surigao Del Norte)
 2025-10-31T01:24:00.000Z,31 October 2025 - 01:24 AM,18.14,119.69,004,3.0,085km N 81° W of Currimao (Ilocos Norte),085,N 81° W,Currimao (Ilocos Norte)
-2025-10-31T01:15:00.000Z,31 October 2025 - 01:15 AM,18.83,120.97,034,1.9,027km N 26° W of Claveria (Cagayan),027,N 26° W,Claveria (Cagayan)
-2025-10-31T01:13:00.000Z,31 October 2025 - 01:13 AM,16.33,120.13,059,2.1,020km N 76° E of Anda (Pangasinan),020,N 76° E,Anda (Pangasinan)
