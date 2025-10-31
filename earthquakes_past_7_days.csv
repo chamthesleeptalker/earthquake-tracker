@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T17:28:00.000Z,31 October 2025 - 05:28 PM,07.35,127.31,024,3.1,087km N 79° E of Manay (Davao Oriental),087,N 79° E,Manay (Davao Oriental)
+2025-10-31T16:57:00.000Z,31 October 2025 - 04:57 PM,12.33,125.61,010,4.7,020km N 34° E of San Policarpo (Eastern Samar),020,N 34° E,San Policarpo (Eastern Samar)
 2025-10-31T17:00:00.000Z,31 October 2025 - 05:00 PM,12.38,125.62,011,3.3,025km N 28° E of San Policarpo (Eastern Samar),025,N 28° E,San Policarpo (Eastern Samar)
 2025-10-31T13:19:00.000Z,31 October 2025 - 01:19 PM,07.99,126.39,017,1.9,006km S 22° W of Lingig (Surigao Del Sur),006,S 22° W,Lingig (Surigao Del Sur)
 2025-10-31T16:30:00.000Z,31 October 2025 - 04:30 PM,09.28,126.21,012,2.0,002km East of Cortes (Surigao Del Sur),002,East of Cortes,Del Sur)
@@ -723,6 +725,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T18:24:00.000Z,24 October 2025 - 06:24 PM,18.43,122.05,029,2.0,010km S 74° W of Santa Ana (Cagayan),010,S 74° W,Santa Ana (Cagayan)
 2025-10-24T18:01:00.000Z,24 October 2025 - 06:01 PM,11.11,124.16,011,1.6,021km N 69° E of City Of Bogo (Cebu),021,N 69° E,City Of Bogo (Cebu)
 2025-10-24T17:53:00.000Z,24 October 2025 - 05:53 PM,05.97,126.72,006,2.8,105km S 44° E of Governor Generoso (Davao Oriental),105,S 44° E,Governor Generoso (Davao Oriental)
-2025-10-24T17:25:00.000Z,24 October 2025 - 05:25 PM,08.75,126.64,029,2.1,042km S 63° E of Cagwait (Surigao Del Sur),042,S 63° E,Cagwait (Surigao Del Sur)
-2025-10-24T17:23:00.000Z,24 October 2025 - 05:23 PM,08.83,126.46,027,2.2,020km S 59° E of Cagwait (Surigao Del Sur),020,S 59° E,Cagwait (Surigao Del Sur)
-2025-10-24T17:13:00.000Z,24 October 2025 - 05:13 PM,09.63,126.16,037,2.2,017km South of General Luna (Surigao Del Norte),017,South of General,(Surigao Del Norte)
