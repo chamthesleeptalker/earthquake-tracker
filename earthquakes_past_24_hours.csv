@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T11:17:00.000Z,31 October 2025 - 11:17 AM,09.80,123.93,025,2.0,004km N 65° E of Antequera (Bohol),004,N 65° E,Antequera (Bohol)
+2025-10-31T10:55:00.000Z,31 October 2025 - 10:55 AM,11.45,124.48,001,1.7,002km S 33° E of Biliran (Biliran),002,S 33° E,Biliran (Biliran)
+2025-10-31T10:46:00.000Z,31 October 2025 - 10:46 AM,06.19,124.64,004,2.1,009km S 64° W of Lake Sebu (South Cotabato),009,S 64° W,Lake Sebu (South Cotabato)
 2025-10-31T10:38:00.000Z,31 October 2025 - 10:38 AM,11.06,123.98,008,1.9,001km N 05° E of City Of Bogo (Cebu),001,N 05° E,City Of Bogo (Cebu)
 2025-10-31T10:29:00.000Z,31 October 2025 - 10:29 AM,08.80,126.26,024,1.8,005km N 83° W of Marihatag (Surigao Del Sur),005,N 83° W,Marihatag (Surigao Del Sur)
 2025-10-31T10:27:00.000Z,31 October 2025 - 10:27 AM,11.20,123.94,009,2.3,018km N 13° W of City Of Bogo (Cebu),018,N 13° W,City Of Bogo (Cebu)
@@ -103,5 +106,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-30T12:04:00.000Z,30 October 2025 - 12:04 PM,11.03,123.95,034,1.8,003km S 65° W of City Of Bogo (Cebu),003,S 65° W,City Of Bogo (Cebu)
 2025-10-30T12:01:00.000Z,30 October 2025 - 12:01 PM,11.02,124.10,032,2.5,013km S 79° E of City Of Bogo (Cebu),013,S 79° E,City Of Bogo (Cebu)
 2025-10-30T11:40:00.000Z,30 October 2025 - 11:40 AM,11.00,124.03,005,2.4,007km S 45° E of City Of Bogo (Cebu),007,S 45° E,City Of Bogo (Cebu)
-2025-10-30T10:55:00.000Z,30 October 2025 - 10:55 AM,07.55,126.78,030,1.9,046km N 35° E of Manay (Davao Oriental),046,N 35° E,Manay (Davao Oriental)
-2025-10-30T10:39:00.000Z,30 October 2025 - 10:39 AM,09.80,126.14,023,1.8,002km N 45° W of General Luna (Surigao Del Norte),002,N 45° W,General Luna (Surigao Del Norte)
