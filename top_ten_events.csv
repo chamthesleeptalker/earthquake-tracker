@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2025-10-26T08:25:00.000Z,26 October 2025 - 08:25 AM,06.98,127.33,10,5.3,090km S 73° E of Manay (Davao Oriental),090,S 73° E,Manay (Davao Oriental)
+2025-11-01T05:21:00.000Z,01 November 2025 - 05:21 AM,06.14,127.54,10,5.2,157km S 50° E of Tarragona (Davao Oriental),157,S 50° E,Tarragona (Davao Oriental)
+2025-11-01T05:27:00.000Z,01 November 2025 - 05:27 AM,06.95,127.08,10,5.1,066km S 64° E of Manay (Davao Oriental),066,S 64° E,Manay (Davao Oriental)
 2025-10-30T01:52:00.000Z,30 October 2025 - 01:52 AM,03.65,124.20,433,4.8,237km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),237,S 35° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-31T16:57:00.000Z,31 October 2025 - 04:57 PM,12.33,125.61,10,4.7,020km N 34° E of San Policarpo (Eastern Samar),020,N 34° E,San Policarpo (Eastern Samar)
 2025-10-29T07:01:00.000Z,29 October 2025 - 07:01 AM,09.01,126.55,10,4.7,029km N 69° E of Cagwait (Surigao Del Sur),029,N 69° E,Cagwait (Surigao Del Sur)
@@ -7,5 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T04:28:00.000Z,01 November 2025 - 04:28 AM,06.17,127.63,10,4.5,163km S 53° E of Tarragona (Davao Oriental),163,S 53° E,Tarragona (Davao Oriental)
 2025-10-25T14:34:00.000Z,25 October 2025 - 02:34 PM,12.98,121.21,4,4.4,023km S 70° W of Socorro (Oriental Mindoro),023,S 70° W,Socorro (Oriental Mindoro)
 2025-10-31T12:06:00.000Z,31 October 2025 - 12:06 PM,04.88,126.33,37,4.3,115km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),115,S 56° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-10-26T19:57:00.000Z,26 October 2025 - 07:57 PM,02.46,126.39,4,4.3,343km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),343,S 18° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-01T04:44:00.000Z,01 November 2025 - 04:44 AM,06.12,127.39,17,4.2,146km S 45° E of Tarragona (Davao Oriental),146,S 45° E,Tarragona (Davao Oriental)
