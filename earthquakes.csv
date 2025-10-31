@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T02:15:00.000Z,01 November 2025 - 02:15 AM,07.04,125.00,002,1.6,011km N 71° W of City Of Kidapawan (Cotabato),011,N 71° W,City Of Kidapawan (Cotabato)
+2025-11-01T01:49:00.000Z,01 November 2025 - 01:49 AM,10.90,123.90,002,2.3,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
+2025-10-16T07:57:00.000Z,16 October 2025 - 07:57 AM,11.15,123.98,016,1.7,012km N 01° W of City Of Bogo (Cebu),012,N 01° W,City Of Bogo (Cebu)
 2025-11-01T01:17:00.000Z,01 November 2025 - 01:17 AM,07.17,126.93,014,2.3,044km S 85° E of Manay (Davao Oriental),044,S 85° E,Manay (Davao Oriental)
 2025-11-01T01:02:00.000Z,01 November 2025 - 01:02 AM,17.47,120.33,051,2.4,010km S 33° W of Caoayan (Ilocos Sur),010,S 33° W,Caoayan (Ilocos Sur)
 2025-11-01T00:52:00.000Z,01 November 2025 - 12:52 AM,11.07,124.07,008,2.3,011km N 73° E of City Of Bogo (Cebu),011,N 73° E,City Of Bogo (Cebu)
