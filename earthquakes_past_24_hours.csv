@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T07:10:00.000Z,01 November 2025 - 07:10 AM,07.44,126.63,001,2.5,027km N 21° E of Manay (Davao Oriental),027,N 21° E,Manay (Davao Oriental)
+2025-11-01T07:07:00.000Z,01 November 2025 - 07:07 AM,20.10,121.21,014,2.8,074km S 69° W of Sabtang (Batanes),074,S 69° W,Sabtang (Batanes)
 2025-11-01T06:46:00.000Z,01 November 2025 - 06:46 AM,14.17,120.44,110,2.2,023km N 63° W of Nasugbu (Batangas),023,N 63° W,Nasugbu (Batangas)
 2025-11-01T06:37:00.000Z,01 November 2025 - 06:37 AM,06.35,127.81,077,3.4,170km S 63° E of Tarragona (Davao Oriental),170,S 63° E,Tarragona (Davao Oriental)
 2025-11-01T06:20:00.000Z,01 November 2025 - 06:20 AM,11.19,124.18,020,1.3,027km N 54° E of City Of Bogo (Cebu),027,N 54° E,City Of Bogo (Cebu)
@@ -111,4 +113,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T08:33:00.000Z,31 October 2025 - 08:33 AM,09.01,126.44,016,1.7,019km N 57° E of Cagwait (Surigao Del Sur),019,N 57° E,Cagwait (Surigao Del Sur)
 2025-10-31T08:12:00.000Z,31 October 2025 - 08:12 AM,07.94,122.18,027,2.4,015km N 15° E of Baliguian (Zamboanga Del Norte),015,N 15° E,Baliguian (Zamboanga Del Norte)
 2025-10-31T07:48:00.000Z,31 October 2025 - 07:48 AM,09.67,126.19,034,1.5,013km S 16° E of General Luna (Surigao Del Norte),013,S 16° E,General Luna (Surigao Del Norte)
-2025-10-31T07:08:00.000Z,31 October 2025 - 07:08 AM,11.23,124.07,020,1.9,023km N 26° E of City Of Bogo (Cebu),023,N 26° E,City Of Bogo (Cebu)
