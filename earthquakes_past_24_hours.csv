@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T03:03:00.000Z,01 November 2025 - 03:03 AM,11.30,124.20,035,1.5,018km S 88° W of Tabango (Leyte),018,S 88° W,Tabango (Leyte)
+2025-11-01T03:00:00.000Z,01 November 2025 - 03:00 AM,07.39,127.35,002,3.4,086km N 85° E of Caraga (Davao Oriental),086,N 85° E,Caraga (Davao Oriental)
+2025-11-01T02:57:00.000Z,01 November 2025 - 02:57 AM,13.19,124.14,032,1.3,001km N 78° E of Rapu-rapu (Albay),001,N 78° E,Rapu-rapu (Albay)
+2025-11-01T02:48:00.000Z,01 November 2025 - 02:48 AM,10.97,124.05,001,1.5,011km S 41° E of City Of Bogo (Cebu),011,S 41° E,City Of Bogo (Cebu)
 2025-11-01T02:20:00.000Z,01 November 2025 - 02:20 AM,10.83,123.91,002,2.1,025km S 18° W of City Of Bogo (Cebu),025,S 18° W,City Of Bogo (Cebu)
 2025-11-01T02:15:00.000Z,01 November 2025 - 02:15 AM,07.04,125.00,002,1.6,011km N 71° W of City Of Kidapawan (Cotabato),011,N 71° W,City Of Kidapawan (Cotabato)
 2025-11-01T01:49:00.000Z,01 November 2025 - 01:49 AM,10.90,123.90,002,2.3,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
@@ -100,4 +104,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T03:26:00.000Z,31 October 2025 - 03:26 AM,11.10,124.15,032,1.4,019km N 73° E of City Of Bogo (Cebu),019,N 73° E,City Of Bogo (Cebu)
 2025-10-31T03:24:00.000Z,31 October 2025 - 03:24 AM,16.92,120.16,027,2.5,024km N 73° W of Luna (La Union),024,N 73° W,Luna (La Union)
 2025-10-31T03:09:00.000Z,31 October 2025 - 03:09 AM,05.62,127.34,101,3.1,181km S 51° E of Governor Generoso (Davao Oriental),181,S 51° E,Governor Generoso (Davao Oriental)
-2025-10-31T02:49:00.000Z,31 October 2025 - 02:49 AM,08.97,126.53,022,2.1,025km N 78° E of Cagwait (Surigao Del Sur),025,N 78° E,Cagwait (Surigao Del Sur)
