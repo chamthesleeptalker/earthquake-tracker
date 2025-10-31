@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T17:00:00.000Z,31 October 2025 - 05:00 PM,12.38,125.62,011,3.3,025km N 28° E of San Policarpo (Eastern Samar),025,N 28° E,San Policarpo (Eastern Samar)
+2025-10-31T13:19:00.000Z,31 October 2025 - 01:19 PM,07.99,126.39,017,1.9,006km S 22° W of Lingig (Surigao Del Sur),006,S 22° W,Lingig (Surigao Del Sur)
 2025-10-31T16:30:00.000Z,31 October 2025 - 04:30 PM,09.28,126.21,012,2.0,002km East of Cortes (Surigao Del Sur),002,East of Cortes,Del Sur)
 2025-10-31T16:30:00.000Z,31 October 2025 - 04:30 PM,09.28,126.21,012,2.0,002km East of Cortes (Surigao Del Sur),002,East of Cortes,Del Sur)
 2025-10-31T16:03:00.000Z,31 October 2025 - 04:03 PM,07.44,127.39,049,3.0,097km N 75° E of Manay (Davao Oriental),097,N 75° E,Manay (Davao Oriental)
@@ -104,4 +106,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-30T17:40:00.000Z,30 October 2025 - 05:40 PM,15.93,121.95,005,2.1,024km S 03° W of Dinalungan (Aurora),024,S 03° W,Dinalungan (Aurora)
 2025-10-30T17:40:00.000Z,30 October 2025 - 05:40 PM,11.13,124.18,009,1.8,024km N 66° E of City Of Bogo (Cebu),024,N 66° E,City Of Bogo (Cebu)
 2025-10-30T17:26:00.000Z,30 October 2025 - 05:26 PM,11.17,124.14,002,3.3,022km N 52° E of City Of Bogo (Cebu),022,N 52° E,City Of Bogo (Cebu)
-2025-10-30T16:52:00.000Z,30 October 2025 - 04:52 PM,11.13,124.10,028,2.2,016km N 56° E of City Of Bogo (Cebu),016,N 56° E,City Of Bogo (Cebu)
