@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T18:31:00.000Z,31 October 2025 - 06:31 PM,12.29,125.50,015,2.6,012km N 02° W of San Policarpo (Eastern Samar),012,N 02° W,San Policarpo (Eastern Samar)
+2025-10-31T18:14:00.000Z,31 October 2025 - 06:14 PM,06.94,123.71,010,4.0,036km S 67° W of Datu Blah T. Sinsuat (Maguindanao),036,S 67° W,Datu Blah T. Sinsuat (Maguindanao)
 2025-10-31T18:10:00.000Z,31 October 2025 - 06:10 PM,11.12,124.13,009,2.3,018km N 65° E of City Of Bogo (Cebu),018,N 65° E,City Of Bogo (Cebu)
 2025-10-31T17:49:00.000Z,31 October 2025 - 05:49 PM,07.19,125.63,058,2.8,011km S 23° W of City Of Panabo (Davao Del Norte),011,S 23° W,City Of Panabo (Davao Del Norte)
 2025-10-31T17:33:00.000Z,31 October 2025 - 05:33 PM,12.17,125.42,010,2.6,010km S 87° W of San Policarpo (Eastern Samar),010,S 87° W,San Policarpo (Eastern Samar)
