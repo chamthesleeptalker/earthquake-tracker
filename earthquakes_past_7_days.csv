@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-31T22:52:00.000Z,31 October 2025 - 10:52 PM,07.51,126.77,029,1.8,042km N 37° E of Manay (Davao Oriental),042,N 37° E,Manay (Davao Oriental)
 2025-10-31T22:26:00.000Z,31 October 2025 - 10:26 PM,06.21,127.44,013,3.2,149km S 42° E of Manay (Davao Oriental),149,S 42° E,Manay (Davao Oriental)
 2025-10-31T22:11:00.000Z,31 October 2025 - 10:11 PM,13.65,120.62,104,2.3,021km S 03° W of Calatagan (Batangas),021,S 03° W,Calatagan (Batangas)
 2025-10-31T22:11:00.000Z,31 October 2025 - 10:11 PM,17.99,120.24,012,2.5,026km N 74° W of Badoc (Ilocos Norte),026,N 74° W,Badoc (Ilocos Norte)
@@ -715,5 +716,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-24T23:17:00.000Z,24 October 2025 - 11:17 PM,08.32,125.96,035,2.1,008km S 33° W of Rosario (Agusan Del Sur),008,S 33° W,Rosario (Agusan Del Sur)
 2025-10-24T23:18:00.000Z,24 October 2025 - 11:18 PM,10.98,123.99,006,2.1,008km S 10° E of City Of Bogo (Cebu),008,S 10° E,City Of Bogo (Cebu)
 2025-10-24T22:55:00.000Z,24 October 2025 - 10:55 PM,09.71,126.22,032,1.4,011km S 40° E of General Luna (Surigao Del Norte),011,S 40° E,General Luna (Surigao Del Norte)
-2025-10-24T22:51:00.000Z,24 October 2025 - 10:51 PM,07.16,127.59,010,4.1,114km S 80° E of Caraga (Davao Oriental),114,S 80° E,Caraga (Davao Oriental)
-2025-10-24T22:37:00.000Z,24 October 2025 - 10:37 PM,10.29,123.03,027,2.1,004km S 23° E of La Castellana (Negros Occidental),004,S 23° E,La Castellana (Negros Occidental)
