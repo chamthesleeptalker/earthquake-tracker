@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T06:02:00.000Z,01 November 2025 - 06:02 AM,05.90,127.82,005,4.5,198km S 50° E of Tarragona (Davao Oriental),198,S 50° E,Tarragona (Davao Oriental)
+2025-11-01T05:51:00.000Z,01 November 2025 - 05:51 AM,06.17,127.54,015,4.2,155km S 51° E of Tarragona (Davao Oriental),155,S 51° E,Tarragona (Davao Oriental)
+2025-11-01T05:48:00.000Z,01 November 2025 - 05:48 AM,11.18,124.09,006,2.5,020km N 40° E of City Of Bogo (Cebu),020,N 40° E,City Of Bogo (Cebu)
+2025-11-01T05:39:00.000Z,01 November 2025 - 05:39 AM,06.18,127.35,012,4.2,135km S 46° E of Tarragona (Davao Oriental),135,S 46° E,Tarragona (Davao Oriental)
+2025-11-01T05:37:00.000Z,01 November 2025 - 05:37 AM,06.26,127.33,018,2.9,131km S 48° E of Tarragona (Davao Oriental),131,S 48° E,Tarragona (Davao Oriental)
 2025-11-01T05:27:00.000Z,01 November 2025 - 05:27 AM,06.95,127.08,010,5.1,066km S 64° E of Manay (Davao Oriental),066,S 64° E,Manay (Davao Oriental)
 2025-11-01T05:21:00.000Z,01 November 2025 - 05:21 AM,06.14,127.54,010,5.2,157km S 50° E of Tarragona (Davao Oriental),157,S 50° E,Tarragona (Davao Oriental)
 2025-11-01T05:18:00.000Z,01 November 2025 - 05:18 AM,06.44,126.44,033,2.4,047km S 59° E of Governor Generoso (Davao Oriental),047,S 59° E,Governor Generoso (Davao Oriental)
@@ -109,5 +114,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T06:20:00.000Z,31 October 2025 - 06:20 AM,16.95,120.48,012,1.4,005km N 61° E of Tagudin (Ilocos Sur),005,N 61° E,Tagudin (Ilocos Sur)
 2025-10-31T06:18:00.000Z,31 October 2025 - 06:18 AM,06.90,125.76,024,1.8,021km S 14° E of Island Garden City Of Samal (Davao Del Norte),021,S 14° E,Island Garden City Of Samal (Davao Del Norte)
 2025-10-31T06:14:00.000Z,31 October 2025 - 06:14 AM,05.20,126.53,110,3.5,121km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),121,S 76° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-10-31T05:46:00.000Z,31 October 2025 - 05:46 AM,10.62,123.75,007,2.3,007km N 32° E of Asturias (Cebu),007,N 32° E,Asturias (Cebu)
-2025-10-31T05:33:00.000Z,31 October 2025 - 05:33 AM,11.14,124.14,032,2.0,020km N 60° E of City Of Bogo (Cebu),020,N 60° E,City Of Bogo (Cebu)
