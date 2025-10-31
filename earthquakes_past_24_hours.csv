@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T01:02:00.000Z,01 November 2025 - 01:02 AM,17.47,120.33,051,2.4,010km S 33° W of Caoayan (Ilocos Sur),010,S 33° W,Caoayan (Ilocos Sur)
+2025-11-01T00:52:00.000Z,01 November 2025 - 12:52 AM,11.07,124.07,008,2.3,011km N 73° E of City Of Bogo (Cebu),011,N 73° E,City Of Bogo (Cebu)
+2025-11-01T00:40:00.000Z,01 November 2025 - 12:40 AM,09.06,126.53,025,2.0,029km N 69° E of Bayabas (Surigao Del Sur),029,N 69° E,Bayabas (Surigao Del Sur)
+2025-11-01T00:39:00.000Z,01 November 2025 - 12:39 AM,16.52,120.25,073,1.8,008km S 84° W of Bauang (La Union),008,S 84° W,Bauang (La Union)
 2025-11-01T00:33:00.000Z,01 November 2025 - 12:33 AM,11.03,124.06,003,2.3,009km S 77° E of City Of Bogo (Cebu),009,S 77° E,City Of Bogo (Cebu)
 2025-11-01T00:32:00.000Z,01 November 2025 - 12:32 AM,11.01,124.04,001,2.0,007km S 56° E of City Of Bogo (Cebu),007,S 56° E,City Of Bogo (Cebu)
 2025-11-01T00:30:00.000Z,01 November 2025 - 12:30 AM,07.56,127.15,028,2.1,065km S 89° E of Baganga (Davao Oriental),065,S 89° E,Baganga (Davao Oriental)
@@ -102,6 +106,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T01:24:00.000Z,31 October 2025 - 01:24 AM,18.14,119.69,004,3.0,085km N 81° W of Currimao (Ilocos Norte),085,N 81° W,Currimao (Ilocos Norte)
 2025-10-31T01:15:00.000Z,31 October 2025 - 01:15 AM,18.83,120.97,034,1.9,027km N 26° W of Claveria (Cagayan),027,N 26° W,Claveria (Cagayan)
 2025-10-31T01:13:00.000Z,31 October 2025 - 01:13 AM,16.33,120.13,059,2.1,020km N 76° E of Anda (Pangasinan),020,N 76° E,Anda (Pangasinan)
-2025-10-31T01:01:00.000Z,31 October 2025 - 01:01 AM,16.00,119.67,030,2.0,019km S 47° W of Agno (Pangasinan),019,S 47° W,Agno (Pangasinan)
-2025-10-31T00:45:00.000Z,31 October 2025 - 12:45 AM,11.04,123.91,007,2.1,007km S 81° W of City Of Bogo (Cebu),007,S 81° W,City Of Bogo (Cebu)
-2025-10-31T00:36:00.000Z,31 October 2025 - 12:36 AM,08.04,127.38,025,3.2,104km N 61° E of Baganga (Davao Oriental),104,N 61° E,Baganga (Davao Oriental)

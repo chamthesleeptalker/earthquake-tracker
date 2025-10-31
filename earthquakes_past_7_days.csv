@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T01:02:00.000Z,01 November 2025 - 01:02 AM,17.47,120.33,051,2.4,010km S 33° W of Caoayan (Ilocos Sur),010,S 33° W,Caoayan (Ilocos Sur)
+2025-11-01T00:52:00.000Z,01 November 2025 - 12:52 AM,11.07,124.07,008,2.3,011km N 73° E of City Of Bogo (Cebu),011,N 73° E,City Of Bogo (Cebu)
+2025-11-01T00:40:00.000Z,01 November 2025 - 12:40 AM,09.06,126.53,025,2.0,029km N 69° E of Bayabas (Surigao Del Sur),029,N 69° E,Bayabas (Surigao Del Sur)
+2025-11-01T00:39:00.000Z,01 November 2025 - 12:39 AM,16.52,120.25,073,1.8,008km S 84° W of Bauang (La Union),008,S 84° W,Bauang (La Union)
 2025-11-01T00:33:00.000Z,01 November 2025 - 12:33 AM,11.03,124.06,003,2.3,009km S 77° E of City Of Bogo (Cebu),009,S 77° E,City Of Bogo (Cebu)
 2025-11-01T00:32:00.000Z,01 November 2025 - 12:32 AM,11.01,124.04,001,2.0,007km S 56° E of City Of Bogo (Cebu),007,S 56° E,City Of Bogo (Cebu)
 2025-11-01T00:30:00.000Z,01 November 2025 - 12:30 AM,07.56,127.15,028,2.1,065km S 89° E of Baganga (Davao Oriental),065,S 89° E,Baganga (Davao Oriental)
@@ -728,5 +732,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T01:18:00.000Z,25 October 2025 - 01:18 AM,11.01,124.08,033,1.8,011km S 70° E of City Of Bogo (Cebu),011,S 70° E,City Of Bogo (Cebu)
 2025-10-25T01:16:00.000Z,25 October 2025 - 01:16 AM,11.11,123.78,023,2.5,023km N 72° W of City Of Bogo (Cebu),023,N 72° W,City Of Bogo (Cebu)
 2025-10-25T01:03:00.000Z,25 October 2025 - 01:03 AM,12.56,120.66,001,2.6,030km S 88° W of Calintaan (Occidental Mindoro),030,S 88° W,Calintaan (Occidental Mindoro)
-2025-10-25T00:59:00.000Z,25 October 2025 - 12:59 AM,11.00,123.91,014,2.1,010km S 56° W of City Of Bogo (Cebu),010,S 56° W,City Of Bogo (Cebu)
-2025-10-25T00:34:00.000Z,25 October 2025 - 12:34 AM,10.99,123.98,010,3.7,006km S 0° E of City Of Bogo (Cebu),006,S 0° E,City Of Bogo (Cebu)
