@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T04:28:00.000Z,01 November 2025 - 04:28 AM,06.17,127.63,010,4.5,163km S 53° E of Tarragona (Davao Oriental),163,S 53° E,Tarragona (Davao Oriental)
+2025-11-01T04:19:00.000Z,01 November 2025 - 04:19 AM,09.74,126.09,027,1.9,008km S 58° W of General Luna (Surigao Del Norte),008,S 58° W,General Luna (Surigao Del Norte)
 2025-11-01T03:58:00.000Z,01 November 2025 - 03:58 AM,07.43,127.47,024,3.8,105km N 77° E of Manay (Davao Oriental),105,N 77° E,Manay (Davao Oriental)
 2025-11-01T03:35:00.000Z,01 November 2025 - 03:35 AM,09.78,126.10,026,2.0,006km S 84° W of General Luna (Surigao Del Norte),006,S 84° W,General Luna (Surigao Del Norte)
 2025-11-01T03:33:00.000Z,01 November 2025 - 03:33 AM,18.68,120.96,030,1.6,014km N 14° W of Santa Praxedes (Cagayan),014,N 14° W,Santa Praxedes (Cagayan)
@@ -716,6 +718,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T04:35:00.000Z,25 October 2025 - 04:35 AM,13.77,120.76,030,1.4,016km S 65° E of Calatagan (Batangas),016,S 65° E,Calatagan (Batangas)
 2025-10-25T04:34:00.000Z,25 October 2025 - 04:34 AM,13.42,123.47,020,1.9,005km S 77° W of Buhi (Camarines Sur),005,S 77° W,Buhi (Camarines Sur)
 2025-10-25T04:34:00.000Z,25 October 2025 - 04:34 AM,07.17,125.43,046,2.7,029km S 65° W of City Of Panabo (Davao Del Norte),029,S 65° W,City Of Panabo (Davao Del Norte)
-2025-10-25T04:21:00.000Z,25 October 2025 - 04:21 AM,07.24,126.77,016,2.3,025km N 83° E of Manay (Davao Oriental),025,N 83° E,Manay (Davao Oriental)
-2025-10-25T04:13:00.000Z,25 October 2025 - 04:13 AM,11.16,124.00,008,2.1,013km N 12° E of City Of Bogo (Cebu),013,N 12° E,City Of Bogo (Cebu)
-2025-10-25T04:08:00.000Z,25 October 2025 - 04:08 AM,15.98,119.75,029,2.9,014km S 85° W of Dasol (Pangasinan),014,S 85° W,Dasol (Pangasinan)
