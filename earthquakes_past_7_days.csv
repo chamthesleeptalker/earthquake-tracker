@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T18:57:00.000Z,01 November 2025 - 06:57 PM,15.08,119.86,034,1.9,022km S 67° W of Cabangan (Zambales),022,S 67° W,Cabangan (Zambales)
+2025-11-01T18:35:00.000Z,01 November 2025 - 06:35 PM,11.12,124.07,033,1.9,013km N 48° E of City Of Bogo (Cebu),013,N 48° E,City Of Bogo (Cebu)
 2025-11-01T18:28:00.000Z,01 November 2025 - 06:28 PM,16.49,121.03,013,2.6,004km S 03° E of Ambaguio (Nueva Vizcaya),004,S 03° E,Ambaguio (Nueva Vizcaya)
 2025-11-01T18:25:00.000Z,01 November 2025 - 06:25 PM,10.97,123.99,005,3.5,009km S 05° E of City Of Bogo (Cebu),009,S 05° E,City Of Bogo (Cebu)
 2025-11-01T18:09:00.000Z,01 November 2025 - 06:09 PM,06.28,127.26,011,3.5,124km S 47° E of Tarragona (Davao Oriental),124,S 47° E,Tarragona (Davao Oriental)
@@ -728,5 +730,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T19:12:00.000Z,25 October 2025 - 07:12 PM,09.63,126.11,034,2.3,018km S 16° W of General Luna (Surigao Del Norte),018,S 16° W,General Luna (Surigao Del Norte)
 2025-10-25T19:02:00.000Z,25 October 2025 - 07:02 PM,11.19,123.93,030,2.3,016km N 18° W of City Of Bogo (Cebu),016,N 18° W,City Of Bogo (Cebu)
 2025-10-25T19:02:00.000Z,25 October 2025 - 07:02 PM,07.78,126.55,009,2.0,011km S 82° E of Cateel (Davao Oriental),011,S 82° E,Cateel (Davao Oriental)
-2025-10-25T18:50:00.000Z,25 October 2025 - 06:50 PM,09.73,126.09,028,3.0,010km S 53° W of General Luna (Surigao Del Norte),010,S 53° W,General Luna (Surigao Del Norte)
-2025-10-25T18:42:00.000Z,25 October 2025 - 06:42 PM,04.51,127.06,018,3.4,206km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),206,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
