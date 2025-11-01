@@ -1,8 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-01T12:05:00.000Z,01 November 2025 - 12:05 PM,06.18,127.53,005,3.6,154km S 51° E of Tarragona (Davao Oriental),154,S 51° E,Tarragona (Davao Oriental)
-2025-11-01T12:03:00.000Z,01 November 2025 - 12:03 PM,06.22,127.34,012,3.6,134km S 47° E of Tarragona (Davao Oriental),134,S 47° E,Tarragona (Davao Oriental)
-2025-11-01T11:55:00.000Z,01 November 2025 - 11:55 AM,11.16,124.03,030,1.8,014km N 24° E of City Of Bogo (Cebu),014,N 24° E,City Of Bogo (Cebu)
-2025-11-01T11:50:00.000Z,01 November 2025 - 11:50 AM,11.13,124.02,033,1.5,010km N 24° E of City Of Bogo (Cebu),010,N 24° E,City Of Bogo (Cebu)
-2025-11-01T11:44:00.000Z,01 November 2025 - 11:44 AM,11.27,124.16,019,1.9,032km N 38° E of City Of Bogo (Cebu),032,N 38° E,City Of Bogo (Cebu)
-2025-11-01T11:31:00.000Z,01 November 2025 - 11:31 AM,11.24,124.15,001,1.8,028km N 40° E of City Of Bogo (Cebu),028,N 40° E,City Of Bogo (Cebu)
-2025-11-01T11:15:00.000Z,01 November 2025 - 11:15 AM,09.76,124.55,025,1.7,004km N 52° W of Anda (Bohol),004,N 52° W,Anda (Bohol)
+2025-11-01T13:06:00.000Z,01 November 2025 - 01:06 PM,11.12,124.07,004,2.9,013km N 49° E of City Of Bogo (Cebu),013,N 49° E,City Of Bogo (Cebu)
+2025-11-01T12:49:00.000Z,01 November 2025 - 12:49 PM,06.12,127.64,013,3.2,167km S 52° E of Tarragona (Davao Oriental),167,S 52° E,Tarragona (Davao Oriental)
+2025-11-01T12:29:00.000Z,01 November 2025 - 12:29 PM,06.36,127.23,015,3.0,115km S 49° E of Tarragona (Davao Oriental),115,S 49° E,Tarragona (Davao Oriental)
