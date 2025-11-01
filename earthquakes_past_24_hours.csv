@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T11:31:00.000Z,01 November 2025 - 11:31 AM,11.24,124.15,001,1.8,028km N 40° E of City Of Bogo (Cebu),028,N 40° E,City Of Bogo (Cebu)
+2025-11-01T11:15:00.000Z,01 November 2025 - 11:15 AM,09.76,124.55,025,1.7,004km N 52° W of Anda (Bohol),004,N 52° W,Anda (Bohol)
+2025-11-01T11:01:00.000Z,01 November 2025 - 11:01 AM,08.38,127.11,003,3.0,084km N 89° E of Hinatuan (Surigao Del Sur),084,N 89° E,Hinatuan (Surigao Del Sur)
 2025-11-01T10:23:00.000Z,01 November 2025 - 10:23 AM,06.22,127.22,011,3.2,126km S 43° E of Tarragona (Davao Oriental),126,S 43° E,Tarragona (Davao Oriental)
 2025-11-01T10:02:00.000Z,01 November 2025 - 10:02 AM,13.64,120.40,029,1.5,019km S 61° E of Looc (Occidental Mindoro),019,S 61° E,Looc (Occidental Mindoro)
 2025-11-01T09:38:00.000Z,01 November 2025 - 09:38 AM,11.07,124.02,033,1.9,005km N 62° E of City Of Bogo (Cebu),005,N 62° E,City Of Bogo (Cebu)
@@ -109,10 +112,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T12:06:00.000Z,31 October 2025 - 12:06 PM,10.95,123.91,002,3.1,014km S 36° W of City Of Bogo (Cebu),014,S 36° W,City Of Bogo (Cebu)
 2025-10-31T12:06:00.000Z,31 October 2025 - 12:06 PM,04.88,126.33,037,4.3,115km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),115,S 56° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-31T11:42:00.000Z,31 October 2025 - 11:42 AM,11.22,124.14,027,1.9,026km N 42° E of City Of Bogo (Cebu),026,N 42° E,City Of Bogo (Cebu)
-2025-10-31T11:17:00.000Z,31 October 2025 - 11:17 AM,09.80,123.93,025,2.0,004km N 65° E of Antequera (Bohol),004,N 65° E,Antequera (Bohol)
-2025-10-31T10:55:00.000Z,31 October 2025 - 10:55 AM,11.45,124.48,001,1.7,002km S 33° E of Biliran (Biliran),002,S 33° E,Biliran (Biliran)
-2025-10-31T10:46:00.000Z,31 October 2025 - 10:46 AM,06.19,124.64,004,2.1,009km S 64° W of Lake Sebu (South Cotabato),009,S 64° W,Lake Sebu (South Cotabato)
-2025-10-31T10:38:00.000Z,31 October 2025 - 10:38 AM,11.06,123.98,008,1.9,001km N 05° E of City Of Bogo (Cebu),001,N 05° E,City Of Bogo (Cebu)
-2025-10-31T10:29:00.000Z,31 October 2025 - 10:29 AM,08.80,126.26,024,1.8,005km N 83° W of Marihatag (Surigao Del Sur),005,N 83° W,Marihatag (Surigao Del Sur)
-2025-10-31T10:27:00.000Z,31 October 2025 - 10:27 AM,11.20,123.94,009,2.3,018km N 13° W of City Of Bogo (Cebu),018,N 13° W,City Of Bogo (Cebu)
-2025-10-31T10:23:00.000Z,31 October 2025 - 10:23 AM,10.99,124.21,023,2.4,026km S 76° E of City Of Bogo (Cebu),026,S 76° E,City Of Bogo (Cebu)
