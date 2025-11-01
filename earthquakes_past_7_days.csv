@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T02:58:00.000Z,02 November 2025 - 02:58 AM,16.57,122.05,010,2.4,023km N 79° W of Dinapigue (Isabela),023,N 79° W,Dinapigue (Isabela)
+2025-11-02T02:55:00.000Z,02 November 2025 - 02:55 AM,10.94,123.90,009,2.0,015km S 34° W of City Of Bogo (Cebu),015,S 34° W,City Of Bogo (Cebu)
+2025-11-02T02:42:00.000Z,02 November 2025 - 02:42 AM,06.64,126.68,006,2.4,052km S 29° E of Tarragona (Davao Oriental),052,S 29° E,Tarragona (Davao Oriental)
+2025-11-02T02:41:00.000Z,02 November 2025 - 02:41 AM,06.50,126.37,014,2.3,037km S 63° E of Governor Generoso (Davao Oriental),037,S 63° E,Governor Generoso (Davao Oriental)
+2025-11-02T02:35:00.000Z,02 November 2025 - 02:35 AM,11.20,124.08,029,1.9,020km N 33° E of City Of Bogo (Cebu),020,N 33° E,City Of Bogo (Cebu)
 2025-11-02T02:23:00.000Z,02 November 2025 - 02:23 AM,13.49,124.48,014,2.4,022km S 32° E of Baras (Catanduanes),022,S 32° E,Baras (Catanduanes)
 2025-11-02T02:21:00.000Z,02 November 2025 - 02:21 AM,13.52,124.48,014,2.3,019km S 36° E of Baras (Catanduanes),019,S 36° E,Baras (Catanduanes)
 2025-11-02T02:21:00.000Z,02 November 2025 - 02:21 AM,11.24,124.25,008,2.0,015km S 62° W of Tabango (Leyte),015,S 62° W,Tabango (Leyte)
@@ -714,5 +719,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T03:03:00.000Z,26 October 2025 - 03:03 AM,11.21,124.14,032,1.8,025km N 44° E of City Of Bogo (Cebu),025,N 44° E,City Of Bogo (Cebu)
 2025-10-26T03:01:00.000Z,26 October 2025 - 03:01 AM,10.94,123.95,005,2.9,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
 2025-10-26T03:01:00.000Z,26 October 2025 - 03:01 AM,10.94,123.95,005,2.9,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
-2025-10-26T02:23:00.000Z,26 October 2025 - 02:23 AM,13.35,120.60,012,1.8,014km N 03° E of Mamburao (Occidental Mindoro),014,N 03° E,Mamburao (Occidental Mindoro)
-2025-10-26T02:23:00.000Z,26 October 2025 - 02:23 AM,11.33,124.11,026,2.0,034km N 24° E of City Of Bogo (Cebu),034,N 24° E,City Of Bogo (Cebu)
