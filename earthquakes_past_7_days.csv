@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T00:25:00.000Z,02 November 2025 - 12:25 AM,13.76,120.43,052,1.3,020km N 76° E of Looc (Occidental Mindoro),020,N 76° E,Looc (Occidental Mindoro)
+2025-11-02T00:18:00.000Z,02 November 2025 - 12:18 AM,09.84,126.50,025,1.8,039km N 81° E of General Luna (Surigao Del Norte),039,N 81° E,General Luna (Surigao Del Norte)
+2025-11-02T00:15:00.000Z,02 November 2025 - 12:15 AM,11.00,122.11,025,2.4,002km S 73° W of Valderrama (Antique),002,S 73° W,Valderrama (Antique)
 2025-11-02T00:08:00.000Z,02 November 2025 - 12:08 AM,16.50,121.01,009,1.7,004km S 30° W of Ambaguio (Nueva Vizcaya),004,S 30° W,Ambaguio (Nueva Vizcaya)
 2025-11-01T23:53:00.000Z,01 November 2025 - 11:53 PM,07.33,126.59,002,2.0,015km N 23° E of Manay (Davao Oriental),015,N 23° E,Manay (Davao Oriental)
 2025-11-01T23:42:00.000Z,01 November 2025 - 11:42 PM,10.98,124.03,003,2.3,009km S 40° E of City Of Bogo (Cebu),009,S 40° E,City Of Bogo (Cebu)
@@ -708,6 +711,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T01:04:00.000Z,26 October 2025 - 01:04 AM,11.12,123.98,028,1.8,008km N 02° E of City Of Bogo (Cebu),008,N 02° E,City Of Bogo (Cebu)
 2025-10-26T00:55:00.000Z,26 October 2025 - 12:55 AM,08.88,126.66,006,2.1,039km S 84° E of Cagwait (Surigao Del Sur),039,S 84° E,Cagwait (Surigao Del Sur)
 2025-10-26T00:41:00.000Z,26 October 2025 - 12:41 AM,08.13,122.37,032,2.3,017km N 13° W of Gutalac (Zamboanga Del Norte),017,N 13° W,Gutalac (Zamboanga Del Norte)
-2025-10-26T00:24:00.000Z,26 October 2025 - 12:24 AM,09.94,125.41,029,2.1,015km N 77° E of San Ricardo (Southern Leyte),015,N 77° E,San Ricardo (Southern Leyte)
-2025-10-26T00:20:00.000Z,26 October 2025 - 12:20 AM,10.95,123.88,008,3.1,015km S 46° W of City Of Bogo (Cebu),015,S 46° W,City Of Bogo (Cebu)
-2025-10-26T00:15:00.000Z,26 October 2025 - 12:15 AM,09.88,126.05,026,2.0,006km N 66° W of Pilar (Surigao Del Norte),006,N 66° W,Pilar (Surigao Del Norte)
