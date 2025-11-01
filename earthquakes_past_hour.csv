@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T03:12:00.000Z,02 November 2025 - 03:12 AM,08.44,125.89,070,2.5,012km S 49° W of San Francisco (Agusan Del Sur),012,S 49° W,San Francisco (Agusan Del Sur)
 2025-11-02T02:58:00.000Z,02 November 2025 - 02:58 AM,16.57,122.05,010,2.4,023km N 79° W of Dinapigue (Isabela),023,N 79° W,Dinapigue (Isabela)
 2025-11-02T02:55:00.000Z,02 November 2025 - 02:55 AM,10.94,123.90,009,2.0,015km S 34° W of City Of Bogo (Cebu),015,S 34° W,City Of Bogo (Cebu)
 2025-11-02T02:42:00.000Z,02 November 2025 - 02:42 AM,06.64,126.68,006,2.4,052km S 29° E of Tarragona (Davao Oriental),052,S 29° E,Tarragona (Davao Oriental)
@@ -9,4 +10,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T02:21:00.000Z,02 November 2025 - 02:21 AM,11.24,124.25,008,2.0,015km S 62° W of Tabango (Leyte),015,S 62° W,Tabango (Leyte)
 2025-11-02T02:18:00.000Z,02 November 2025 - 02:18 AM,09.08,125.85,008,2.4,024km S 32° W of Madrid (Surigao Del Sur),024,S 32° W,Madrid (Surigao Del Sur)
 2025-11-02T02:15:00.000Z,02 November 2025 - 02:15 AM,10.93,123.88,007,4.1,016km S 39° W of City Of Bogo (Cebu),016,S 39° W,City Of Bogo (Cebu)
-2025-11-02T02:07:00.000Z,02 November 2025 - 02:07 AM,11.14,124.02,023,1.6,011km N 21° E of City Of Bogo (Cebu),011,N 21° E,City Of Bogo (Cebu)

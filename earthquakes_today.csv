@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T03:12:00.000Z,02 November 2025 - 03:12 AM,08.44,125.89,070,2.5,012km S 49° W of San Francisco (Agusan Del Sur),012,S 49° W,San Francisco (Agusan Del Sur)
 2025-11-02T02:58:00.000Z,02 November 2025 - 02:58 AM,16.57,122.05,010,2.4,023km N 79° W of Dinapigue (Isabela),023,N 79° W,Dinapigue (Isabela)
 2025-11-02T02:55:00.000Z,02 November 2025 - 02:55 AM,10.94,123.90,009,2.0,015km S 34° W of City Of Bogo (Cebu),015,S 34° W,City Of Bogo (Cebu)
 2025-11-02T02:42:00.000Z,02 November 2025 - 02:42 AM,06.64,126.68,006,2.4,052km S 29° E of Tarragona (Davao Oriental),052,S 29° E,Tarragona (Davao Oriental)
