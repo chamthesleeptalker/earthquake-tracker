@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T23:10:00.000Z,01 November 2025 - 11:10 PM,07.41,127.07,015,2.6,063km N 69° E of Manay (Davao Oriental),063,N 69° E,Manay (Davao Oriental)
 2025-11-01T22:59:00.000Z,01 November 2025 - 10:59 PM,07.90,126.24,031,1.5,016km N 78° W of Boston (Davao Oriental),016,N 78° W,Boston (Davao Oriental)
 2025-11-01T22:21:00.000Z,01 November 2025 - 10:21 PM,10.69,124.14,009,1.7,014km S 74° E of Catmon (Cebu),014,S 74° E,Catmon (Cebu)
 2025-11-01T22:18:00.000Z,01 November 2025 - 10:18 PM,10.93,123.94,006,2.0,014km S 20° W of City Of Bogo (Cebu),014,S 20° W,City Of Bogo (Cebu)
