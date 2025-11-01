@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T18:28:00.000Z,01 November 2025 - 06:28 PM,16.49,121.03,013,2.6,004km S 03° E of Ambaguio (Nueva Vizcaya),004,S 03° E,Ambaguio (Nueva Vizcaya)
+2025-11-01T18:25:00.000Z,01 November 2025 - 06:25 PM,10.97,123.99,005,3.5,009km S 05° E of City Of Bogo (Cebu),009,S 05° E,City Of Bogo (Cebu)
+2025-11-01T18:09:00.000Z,01 November 2025 - 06:09 PM,06.28,127.26,011,3.5,124km S 47° E of Tarragona (Davao Oriental),124,S 47° E,Tarragona (Davao Oriental)
+2025-11-01T18:07:00.000Z,01 November 2025 - 06:07 PM,06.31,127.28,010,2.3,123km S 48° E of Tarragona (Davao Oriental),123,S 48° E,Tarragona (Davao Oriental)
 2025-11-01T17:19:00.000Z,01 November 2025 - 05:19 PM,08.83,126.46,033,2.2,020km S 62° E of Cagwait (Surigao Del Sur),020,S 62° E,Cagwait (Surigao Del Sur)
 2025-11-01T16:59:00.000Z,01 November 2025 - 04:59 PM,15.73,121.93,019,1.9,039km S 85° E of Baler (Aurora),039,S 85° E,Baler (Aurora)
 2025-11-01T16:23:00.000Z,01 November 2025 - 04:23 PM,13.77,120.56,089,2.1,010km S 46° W of Calatagan (Batangas),010,S 46° W,Calatagan (Batangas)
@@ -726,5 +730,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T19:02:00.000Z,25 October 2025 - 07:02 PM,07.78,126.55,009,2.0,011km S 82° E of Cateel (Davao Oriental),011,S 82° E,Cateel (Davao Oriental)
 2025-10-25T18:50:00.000Z,25 October 2025 - 06:50 PM,09.73,126.09,028,3.0,010km S 53° W of General Luna (Surigao Del Norte),010,S 53° W,General Luna (Surigao Del Norte)
 2025-10-25T18:42:00.000Z,25 October 2025 - 06:42 PM,04.51,127.06,018,3.4,206km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),206,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-10-25T17:58:00.000Z,25 October 2025 - 05:58 PM,11.16,124.09,020,2.2,017km N 43° E of City Of Bogo (Cebu),017,N 43° E,City Of Bogo (Cebu)
-2025-10-25T17:34:00.000Z,25 October 2025 - 05:34 PM,11.01,126.25,145,2.8,058km S 87° E of Guiuan (Eastern Samar),058,S 87° E,Guiuan (Eastern Samar)
