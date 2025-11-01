@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T02:07:00.000Z,02 November 2025 - 02:07 AM,11.14,124.02,023,1.6,011km N 21° E of City Of Bogo (Cebu),011,N 21° E,City Of Bogo (Cebu)
+2025-11-02T01:56:00.000Z,02 November 2025 - 01:56 AM,11.11,124.07,009,1.7,013km N 55° E of City Of Bogo (Cebu),013,N 55° E,City Of Bogo (Cebu)
+2025-11-02T01:47:00.000Z,02 November 2025 - 01:47 AM,10.95,123.82,006,2.8,020km S 58° W of City Of Bogo (Cebu),020,S 58° W,City Of Bogo (Cebu)
+2025-11-02T01:40:00.000Z,02 November 2025 - 01:40 AM,07.34,126.80,025,1.9,033km N 64° E of Manay (Davao Oriental),033,N 64° E,Manay (Davao Oriental)
+2025-11-02T01:39:00.000Z,02 November 2025 - 01:39 AM,10.94,123.82,004,3.3,018km S 58° W of City Of Bogo (Cebu),018,S 58° W,City Of Bogo (Cebu)
 2025-11-02T01:03:00.000Z,02 November 2025 - 01:03 AM,07.02,125.58,025,2.2,016km S 67° W of Island Garden City Of Samal (Davao Del Norte),016,S 67° W,Island Garden City Of Samal (Davao Del Norte)
 2025-11-02T00:51:00.000Z,02 November 2025 - 12:51 AM,07.05,124.29,004,2.2,004km N 43° W of Datu Odin Sinsuat (Maguindanao Del Norte),004,N 43° W,Datu Odin Sinsuat (Maguindanao Del Norte)
 2025-11-02T00:37:00.000Z,02 November 2025 - 12:37 AM,10.16,122.04,009,3.0,032km S 22° E of Anini-y (Antique),032,S 22° E,Anini-y (Antique)
@@ -15,7 +20,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T22:59:00.000Z,01 November 2025 - 10:59 PM,07.90,126.24,031,1.5,016km N 78° W of Boston (Davao Oriental),016,N 78° W,Boston (Davao Oriental)
 2025-11-01T22:21:00.000Z,01 November 2025 - 10:21 PM,10.69,124.14,009,1.7,014km S 74° E of Catmon (Cebu),014,S 74° E,Catmon (Cebu)
 2025-11-01T22:18:00.000Z,01 November 2025 - 10:18 PM,10.93,123.94,006,2.0,014km S 20° W of City Of Bogo (Cebu),014,S 20° W,City Of Bogo (Cebu)
-2025-11-01T01:39:00.000Z,01 November 2025 - 01:39 AM,11.06,123.99,006,3.1,002km N 34° E of City Of Bogo (Cebu),002,N 34° E,City Of Bogo (Cebu)
 2025-11-01T21:17:00.000Z,01 November 2025 - 09:17 PM,08.84,126.39,024,1.9,013km S 49° E of Cagwait (Surigao Del Sur),013,S 49° E,Cagwait (Surigao Del Sur)
 2025-11-01T20:53:00.000Z,01 November 2025 - 08:53 PM,13.50,120.75,003,2.3,007km N 27° E of Abra De Ilog (Occidental Mindoro),007,N 27° E,Abra De Ilog (Occidental Mindoro)
 2025-11-01T20:33:00.000Z,01 November 2025 - 08:33 PM,11.37,124.10,033,2.0,038km N 20° E of City Of Bogo (Cebu),038,N 20° E,City Of Bogo (Cebu)
@@ -96,5 +100,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T02:48:00.000Z,01 November 2025 - 02:48 AM,10.97,124.05,001,1.5,011km S 41° E of City Of Bogo (Cebu),011,S 41° E,City Of Bogo (Cebu)
 2025-11-01T02:20:00.000Z,01 November 2025 - 02:20 AM,10.83,123.91,002,2.1,025km S 18° W of City Of Bogo (Cebu),025,S 18° W,City Of Bogo (Cebu)
 2025-11-01T02:15:00.000Z,01 November 2025 - 02:15 AM,07.04,125.00,002,1.6,011km N 71° W of City Of Kidapawan (Cotabato),011,N 71° W,City Of Kidapawan (Cotabato)
-2025-11-01T01:49:00.000Z,01 November 2025 - 01:49 AM,10.90,123.90,002,2.3,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
-2025-11-01T01:17:00.000Z,01 November 2025 - 01:17 AM,07.17,126.93,014,2.3,044km S 85° E of Manay (Davao Oriental),044,S 85° E,Manay (Davao Oriental)
