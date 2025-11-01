@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T05:21:00.000Z,02 November 2025 - 05:21 AM,07.38,126.74,022,2.2,029km N 51° E of Manay (Davao Oriental),029,N 51° E,Manay (Davao Oriental)
+2025-11-02T05:18:00.000Z,02 November 2025 - 05:18 AM,07.10,126.59,042,1.9,014km S 22° E of Manay (Davao Oriental),014,S 22° E,Manay (Davao Oriental)
+2025-11-02T05:07:00.000Z,02 November 2025 - 05:07 AM,12.33,120.78,033,1.7,025km S 56° W of Rizal (Occidental Mindoro),025,S 56° W,Rizal (Occidental Mindoro)
 2025-11-02T05:06:00.000Z,02 November 2025 - 05:06 AM,06.60,126.90,125,2.9,071km S 45° E of Tarragona (Davao Oriental),071,S 45° E,Tarragona (Davao Oriental)
 2025-11-02T04:21:00.000Z,02 November 2025 - 04:21 AM,06.42,126.98,046,2.3,091km S 40° E of Tarragona (Davao Oriental),091,S 40° E,Tarragona (Davao Oriental)
 2025-11-02T03:48:00.000Z,02 November 2025 - 03:48 AM,13.19,122.69,012,2.0,015km S 08° E of San Andres (Quezon),015,S 08° E,San Andres (Quezon)
@@ -95,5 +98,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T05:37:00.000Z,01 November 2025 - 05:37 AM,06.26,127.33,018,2.9,131km S 48° E of Tarragona (Davao Oriental),131,S 48° E,Tarragona (Davao Oriental)
 2025-11-01T05:27:00.000Z,01 November 2025 - 05:27 AM,06.95,127.08,010,5.1,066km S 64° E of Manay (Davao Oriental),066,S 64° E,Manay (Davao Oriental)
 2025-11-01T05:21:00.000Z,01 November 2025 - 05:21 AM,06.14,127.54,010,5.2,157km S 50° E of Tarragona (Davao Oriental),157,S 50° E,Tarragona (Davao Oriental)
-2025-11-01T05:18:00.000Z,01 November 2025 - 05:18 AM,06.44,126.44,033,2.4,047km S 59° E of Governor Generoso (Davao Oriental),047,S 59° E,Governor Generoso (Davao Oriental)
-2025-11-01T05:11:00.000Z,01 November 2025 - 05:11 AM,06.31,127.25,016,3.6,121km S 47° E of Tarragona (Davao Oriental),121,S 47° E,Tarragona (Davao Oriental)
