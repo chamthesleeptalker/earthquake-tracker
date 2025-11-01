@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T06:42:00.000Z,02 November 2025 - 06:42 AM,05.36,127.20,018,3.6,201km S 70° E of Jose Abad Santos (Davao Occidental),201,S 70° E,Jose Abad Santos (Davao Occidental)
 2025-11-02T06:17:00.000Z,02 November 2025 - 06:17 AM,06.20,127.34,016,3.4,136km S 47° E of Tarragona (Davao Oriental),136,S 47° E,Tarragona (Davao Oriental)
 2025-11-02T06:09:00.000Z,02 November 2025 - 06:09 AM,13.91,120.49,049,1.4,018km N 61° W of Calatagan (Batangas),018,N 61° W,Calatagan (Batangas)
 2025-11-02T06:04:00.000Z,02 November 2025 - 06:04 AM,13.71,120.61,086,1.8,014km S 11° W of Calatagan (Batangas),014,S 11° W,Calatagan (Batangas)
@@ -710,5 +711,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T06:54:00.000Z,26 October 2025 - 06:54 AM,09.64,126.11,006,2.0,016km S 17° W of General Luna (Surigao Del Norte),016,S 17° W,General Luna (Surigao Del Norte)
 2025-10-26T06:44:00.000Z,26 October 2025 - 06:44 AM,09.63,126.18,028,2.0,017km S 07° E of General Luna (Surigao Del Norte),017,S 07° E,General Luna (Surigao Del Norte)
 2025-10-26T06:42:00.000Z,26 October 2025 - 06:42 AM,11.10,124.03,004,3.2,008km N 46° E of City Of Bogo (Cebu),008,N 46° E,City Of Bogo (Cebu)
-2025-10-26T06:32:00.000Z,26 October 2025 - 06:32 AM,08.82,126.44,033,2.2,018km S 55° E of Cagwait (Surigao Del Sur),018,S 55° E,Cagwait (Surigao Del Sur)
-2025-10-26T06:29:00.000Z,26 October 2025 - 06:29 AM,11.11,123.94,033,1.8,008km N 32° W of City Of Bogo (Cebu),008,N 32° W,City Of Bogo (Cebu)
