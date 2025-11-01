@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T16:59:00.000Z,01 November 2025 - 04:59 PM,15.73,121.93,019,1.9,039km S 85° E of Baler (Aurora),039,S 85° E,Baler (Aurora)
 2025-11-01T16:23:00.000Z,01 November 2025 - 04:23 PM,13.77,120.56,089,2.1,010km S 46° W of Calatagan (Batangas),010,S 46° W,Calatagan (Batangas)
 2025-11-01T16:12:00.000Z,01 November 2025 - 04:12 PM,11.15,123.84,001,1.8,019km N 54° W of City Of Bogo (Cebu),019,N 54° W,City Of Bogo (Cebu)
 2025-11-01T15:58:00.000Z,01 November 2025 - 03:58 PM,06.88,126.88,010,2.5,052km S 45° E of Manay (Davao Oriental),052,S 45° E,Manay (Davao Oriental)
@@ -726,4 +727,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T18:42:00.000Z,25 October 2025 - 06:42 PM,04.51,127.06,018,3.4,206km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),206,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-10-25T17:58:00.000Z,25 October 2025 - 05:58 PM,11.16,124.09,020,2.2,017km N 43° E of City Of Bogo (Cebu),017,N 43° E,City Of Bogo (Cebu)
 2025-10-25T17:34:00.000Z,25 October 2025 - 05:34 PM,11.01,126.25,145,2.8,058km S 87° E of Guiuan (Eastern Samar),058,S 87° E,Guiuan (Eastern Samar)
-2025-10-25T16:49:00.000Z,25 October 2025 - 04:49 PM,11.11,124.09,003,3.2,014km N 62° E of City Of Bogo (Cebu),014,N 62° E,City Of Bogo (Cebu)
