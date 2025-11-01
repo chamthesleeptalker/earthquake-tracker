@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T10:23:00.000Z,01 November 2025 - 10:23 AM,06.22,127.22,011,3.2,126km S 43° E of Tarragona (Davao Oriental),126,S 43° E,Tarragona (Davao Oriental)
+2025-11-01T10:02:00.000Z,01 November 2025 - 10:02 AM,13.64,120.40,029,1.5,019km S 61° E of Looc (Occidental Mindoro),019,S 61° E,Looc (Occidental Mindoro)
+2025-11-01T09:38:00.000Z,01 November 2025 - 09:38 AM,11.07,124.02,033,1.9,005km N 62° E of City Of Bogo (Cebu),005,N 62° E,City Of Bogo (Cebu)
+2025-11-01T09:36:00.000Z,01 November 2025 - 09:36 AM,11.05,123.98,033,2.1,000km N 63° W of City Of Bogo (Cebu),000,N 63° W,City Of Bogo (Cebu)
+2025-11-01T09:30:00.000Z,01 November 2025 - 09:30 AM,11.08,124.03,022,1.7,007km N 56° E of City Of Bogo (Cebu),007,N 56° E,City Of Bogo (Cebu)
 2025-11-01T09:00:00.000Z,01 November 2025 - 09:00 AM,07.49,126.74,027,2.8,038km N 36° E of Manay (Davao Oriental),038,N 36° E,Manay (Davao Oriental)
 2025-11-01T08:59:00.000Z,01 November 2025 - 08:59 AM,07.49,126.76,025,1.6,040km N 38° E of Manay (Davao Oriental),040,N 38° E,Manay (Davao Oriental)
 2025-11-01T08:49:00.000Z,01 November 2025 - 08:49 AM,07.45,126.76,010,4.6,036km N 42° E of Manay (Davao Oriental),036,N 42° E,Manay (Davao Oriental)
