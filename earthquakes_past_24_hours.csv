@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T22:59:00.000Z,01 November 2025 - 10:59 PM,07.90,126.24,031,1.5,016km N 78° W of Boston (Davao Oriental),016,N 78° W,Boston (Davao Oriental)
 2025-11-01T22:21:00.000Z,01 November 2025 - 10:21 PM,10.69,124.14,009,1.7,014km S 74° E of Catmon (Cebu),014,S 74° E,Catmon (Cebu)
 2025-11-01T22:18:00.000Z,01 November 2025 - 10:18 PM,10.93,123.94,006,2.0,014km S 20° W of City Of Bogo (Cebu),014,S 20° W,City Of Bogo (Cebu)
 2025-11-01T01:39:00.000Z,01 November 2025 - 01:39 AM,11.06,123.99,006,3.1,002km N 34° E of City Of Bogo (Cebu),002,N 34° E,City Of Bogo (Cebu)
@@ -111,5 +112,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T23:20:00.000Z,31 October 2025 - 11:20 PM,11.08,124.12,029,1.6,016km N 78° E of City Of Bogo (Cebu),016,N 78° E,City Of Bogo (Cebu)
 2025-10-31T23:18:00.000Z,31 October 2025 - 11:18 PM,10.02,122.35,014,2.6,029km N 19° W of City Of Sipalay (Negros Occidental),029,N 19° W,City Of Sipalay (Negros Occidental)
 2025-10-31T23:14:00.000Z,31 October 2025 - 11:14 PM,06.23,127.38,005,3.3,143km S 41° E of Manay (Davao Oriental),143,S 41° E,Manay (Davao Oriental)
-2025-10-31T22:52:00.000Z,31 October 2025 - 10:52 PM,07.51,126.77,029,1.8,042km N 37° E of Manay (Davao Oriental),042,N 37° E,Manay (Davao Oriental)
-2025-10-31T22:26:00.000Z,31 October 2025 - 10:26 PM,06.21,127.44,013,3.2,149km S 42° E of Manay (Davao Oriental),149,S 42° E,Manay (Davao Oriental)
