@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T19:21:00.000Z,01 November 2025 - 07:21 PM,11.09,123.99,030,2.0,005km N 16° E of City Of Bogo (Cebu),005,N 16° E,City Of Bogo (Cebu)
 2025-11-01T18:57:00.000Z,01 November 2025 - 06:57 PM,15.08,119.86,034,1.9,022km S 67° W of Cabangan (Zambales),022,S 67° W,Cabangan (Zambales)
 2025-11-01T18:35:00.000Z,01 November 2025 - 06:35 PM,11.12,124.07,033,1.9,013km N 48° E of City Of Bogo (Cebu),013,N 48° E,City Of Bogo (Cebu)
 2025-11-01T18:28:00.000Z,01 November 2025 - 06:28 PM,16.49,121.03,013,2.6,004km S 03° E of Ambaguio (Nueva Vizcaya),004,S 03° E,Ambaguio (Nueva Vizcaya)
@@ -726,7 +727,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-25T19:29:00.000Z,25 October 2025 - 07:29 PM,11.09,123.89,042,2.5,011km N 63° W of City Of Bogo (Cebu),011,N 63° W,City Of Bogo (Cebu)
 2025-10-25T19:23:00.000Z,25 October 2025 - 07:23 PM,07.11,126.67,009,2.2,018km S 53° E of Manay (Davao Oriental),018,S 53° E,Manay (Davao Oriental)
 2025-10-25T19:22:00.000Z,25 October 2025 - 07:22 PM,09.67,126.17,032,2.1,013km S 08° E of General Luna (Surigao Del Norte),013,S 08° E,General Luna (Surigao Del Norte)
-2025-10-25T19:14:00.000Z,25 October 2025 - 07:14 PM,08.34,126.65,033,1.7,035km S 85° E of Hinatuan (Surigao Del Sur),035,S 85° E,Hinatuan (Surigao Del Sur)
-2025-10-25T19:12:00.000Z,25 October 2025 - 07:12 PM,09.63,126.11,034,2.3,018km S 16° W of General Luna (Surigao Del Norte),018,S 16° W,General Luna (Surigao Del Norte)
-2025-10-25T19:02:00.000Z,25 October 2025 - 07:02 PM,11.19,123.93,030,2.3,016km N 18° W of City Of Bogo (Cebu),016,N 18° W,City Of Bogo (Cebu)
-2025-10-25T19:02:00.000Z,25 October 2025 - 07:02 PM,07.78,126.55,009,2.0,011km S 82° E of Cateel (Davao Oriental),011,S 82° E,Cateel (Davao Oriental)
