@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T02:23:00.000Z,02 November 2025 - 02:23 AM,13.49,124.48,014,2.4,022km S 32° E of Baras (Catanduanes),022,S 32° E,Baras (Catanduanes)
+2025-11-02T02:21:00.000Z,02 November 2025 - 02:21 AM,13.52,124.48,014,2.3,019km S 36° E of Baras (Catanduanes),019,S 36° E,Baras (Catanduanes)
+2025-11-02T02:21:00.000Z,02 November 2025 - 02:21 AM,11.24,124.25,008,2.0,015km S 62° W of Tabango (Leyte),015,S 62° W,Tabango (Leyte)
+2025-11-02T02:18:00.000Z,02 November 2025 - 02:18 AM,09.08,125.85,008,2.4,024km S 32° W of Madrid (Surigao Del Sur),024,S 32° W,Madrid (Surigao Del Sur)
+2025-11-02T02:15:00.000Z,02 November 2025 - 02:15 AM,10.93,123.88,007,4.1,016km S 39° W of City Of Bogo (Cebu),016,S 39° W,City Of Bogo (Cebu)
 2025-11-02T02:07:00.000Z,02 November 2025 - 02:07 AM,11.14,124.02,023,1.6,011km N 21° E of City Of Bogo (Cebu),011,N 21° E,City Of Bogo (Cebu)
 2025-11-02T01:56:00.000Z,02 November 2025 - 01:56 AM,11.11,124.07,009,1.7,013km N 55° E of City Of Bogo (Cebu),013,N 55° E,City Of Bogo (Cebu)
 2025-11-02T01:47:00.000Z,02 November 2025 - 01:47 AM,10.95,123.82,006,2.8,020km S 58° W of City Of Bogo (Cebu),020,S 58° W,City Of Bogo (Cebu)
