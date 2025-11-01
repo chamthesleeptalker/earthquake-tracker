@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-01T13:24:00.000Z,01 November 2025 - 01:24 PM,11.10,124.12,005,2.3,016km N 67° E of City Of Bogo (Cebu),016,N 67° E,City Of Bogo (Cebu)
-2025-11-01T13:06:00.000Z,01 November 2025 - 01:06 PM,11.12,124.07,004,2.9,013km N 49° E of City Of Bogo (Cebu),013,N 49° E,City Of Bogo (Cebu)
-2025-11-01T12:49:00.000Z,01 November 2025 - 12:49 PM,06.12,127.64,013,3.2,167km S 52° E of Tarragona (Davao Oriental),167,S 52° E,Tarragona (Davao Oriental)
-2025-11-01T12:29:00.000Z,01 November 2025 - 12:29 PM,06.36,127.23,015,3.0,115km S 49° E of Tarragona (Davao Oriental),115,S 49° E,Tarragona (Davao Oriental)
+2025-11-01T14:57:00.000Z,01 November 2025 - 02:57 PM,13.70,120.67,117,2.0,015km S 14° E of Calatagan (Batangas),015,S 14° E,Calatagan (Batangas)
+2025-11-01T14:57:00.000Z,01 November 2025 - 02:57 PM,20.17,121.99,140,4.4,021km S 16° E of Uyugan (Batanes),021,S 16° E,Uyugan (Batanes)
+2025-11-01T14:49:00.000Z,01 November 2025 - 02:49 PM,19.70,121.50,012,2.9,048km N 65° W of Babuyan Island (Calayan) (Cagayan),048,N 65° W,Babuyan Island (Calayan) (Cagayan)
