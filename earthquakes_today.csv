@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T06:17:00.000Z,02 November 2025 - 06:17 AM,06.20,127.34,016,3.4,136km S 47° E of Tarragona (Davao Oriental),136,S 47° E,Tarragona (Davao Oriental)
+2025-11-02T06:09:00.000Z,02 November 2025 - 06:09 AM,13.91,120.49,049,1.4,018km N 61° W of Calatagan (Batangas),018,N 61° W,Calatagan (Batangas)
 2025-11-02T06:04:00.000Z,02 November 2025 - 06:04 AM,13.71,120.61,086,1.8,014km S 11° W of Calatagan (Batangas),014,S 11° W,Calatagan (Batangas)
 2025-11-02T05:38:00.000Z,02 November 2025 - 05:38 AM,06.25,127.43,015,2.8,139km S 51° E of Tarragona (Davao Oriental),139,S 51° E,Tarragona (Davao Oriental)
 2025-11-02T05:32:00.000Z,02 November 2025 - 05:32 AM,10.74,124.18,002,1.9,018km N 83° E of Catmon (Cebu),018,N 83° E,Catmon (Cebu)
