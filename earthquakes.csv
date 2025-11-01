@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-01T09:00:00.000Z,01 November 2025 - 09:00 AM,07.49,126.74,027,2.8,038km N 36° E of Manay (Davao Oriental),038,N 36° E,Manay (Davao Oriental)
+2025-11-01T08:59:00.000Z,01 November 2025 - 08:59 AM,07.49,126.76,025,1.6,040km N 38° E of Manay (Davao Oriental),040,N 38° E,Manay (Davao Oriental)
+2025-11-01T08:49:00.000Z,01 November 2025 - 08:49 AM,07.45,126.76,010,4.6,036km N 42° E of Manay (Davao Oriental),036,N 42° E,Manay (Davao Oriental)
+2025-11-01T08:33:00.000Z,01 November 2025 - 08:33 AM,13.52,120.68,021,1.4,009km N 32° W of Abra De Ilog (Occidental Mindoro),009,N 32° W,Abra De Ilog (Occidental Mindoro)
+2025-11-01T08:24:00.000Z,01 November 2025 - 08:24 AM,09.64,126.14,033,2.4,016km S 08° W of General Luna (Surigao Del Norte),016,S 08° W,General Luna (Surigao Del Norte)
+2025-11-01T07:47:00.000Z,01 November 2025 - 07:47 AM,09.65,126.23,033,2.2,017km S 29° E of General Luna (Surigao Del Norte),017,S 29° E,General Luna (Surigao Del Norte)
+2025-11-01T07:43:00.000Z,01 November 2025 - 07:43 AM,06.22,127.37,020,3.4,137km S 48° E of Tarragona (Davao Oriental),137,S 48° E,Tarragona (Davao Oriental)
+2025-11-01T07:39:00.000Z,01 November 2025 - 07:39 AM,09.03,126.50,034,2.2,025km N 61° E of Cagwait (Surigao Del Sur),025,N 61° E,Cagwait (Surigao Del Sur)
 2025-11-01T07:10:00.000Z,01 November 2025 - 07:10 AM,07.44,126.63,001,2.5,027km N 21° E of Manay (Davao Oriental),027,N 21° E,Manay (Davao Oriental)
 2025-11-01T07:07:00.000Z,01 November 2025 - 07:07 AM,20.10,121.21,014,2.8,074km S 69° W of Sabtang (Batanes),074,S 69° W,Sabtang (Batanes)
 2025-11-01T06:46:00.000Z,01 November 2025 - 06:46 AM,14.17,120.44,110,2.2,023km N 63° W of Nasugbu (Batangas),023,N 63° W,Nasugbu (Batangas)
