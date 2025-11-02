@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T07:17:00.000Z,03 November 2025 - 07:17 AM,09.94,126.35,003,2.6,028km N 51° E of General Luna (Surigao Del Norte),028,N 51° E,General Luna (Surigao Del Norte)
 2025-11-03T06:01:00.000Z,03 November 2025 - 06:01 AM,09.16,125.90,010,3.1,013km S 32° W of Madrid (Surigao Del Sur),013,S 32° W,Madrid (Surigao Del Sur)
 2025-11-03T05:58:00.000Z,03 November 2025 - 05:58 AM,11.16,124.19,008,1.5,026km N 62° E of City Of Bogo (Cebu),026,N 62° E,City Of Bogo (Cebu)
 2025-11-03T05:41:00.000Z,03 November 2025 - 05:41 AM,05.82,126.41,054,2.8,086km S 83° E of Jose Abad Santos (Davao Occidental),086,S 83° E,Jose Abad Santos (Davao Occidental)
@@ -683,5 +684,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T08:21:00.000Z,27 October 2025 - 08:21 AM,16.40,120.60,019,1.4,010km N 63° W of Itogon (Benguet),010,N 63° W,Itogon (Benguet)
 2025-10-27T08:20:00.000Z,27 October 2025 - 08:20 AM,16.47,120.81,033,1.4,018km N 51° E of Itogon (Benguet),018,N 51° E,Itogon (Benguet)
 2025-10-27T07:28:00.000Z,27 October 2025 - 07:28 AM,07.10,125.43,011,2.1,020km N 79° W of City Of Davao,020,N 79° W,City Of Davao
-2025-10-27T06:38:00.000Z,27 October 2025 - 06:38 AM,07.13,126.72,142,2.8,028km S 37° E of Caraga (Davao Oriental),028,S 37° E,Caraga (Davao Oriental)
-2025-10-27T06:24:00.000Z,27 October 2025 - 06:24 AM,10.98,124.06,034,1.5,011km S 49° E of City Of Bogo (Cebu),011,S 49° E,City Of Bogo (Cebu)
