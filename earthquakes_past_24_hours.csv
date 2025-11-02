@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T03:06:00.000Z,03 November 2025 - 03:06 AM,09.70,122.74,061,5.6,018km S 36° E of Candoni (Negros Occidental),018,S 36° E,Candoni (Negros Occidental)
 2025-11-03T02:26:00.000Z,03 November 2025 - 02:26 AM,11.05,124.08,004,2.1,011km N 89° E of City Of Bogo (Cebu),011,N 89° E,City Of Bogo (Cebu)
 2025-11-03T02:25:00.000Z,03 November 2025 - 02:25 AM,10.99,123.95,004,1.8,007km S 32° W of City Of Bogo (Cebu),007,S 32° W,City Of Bogo (Cebu)
 2025-11-03T02:17:00.000Z,03 November 2025 - 02:17 AM,08.52,126.36,003,2.6,017km N 08° E of Hinatuan (Surigao Del Sur),017,N 08° E,Hinatuan (Surigao Del Sur)
@@ -84,8 +85,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T03:42:00.000Z,02 November 2025 - 03:42 AM,11.17,124.19,003,2.3,027km N 59° E of City Of Bogo (Cebu),027,N 59° E,City Of Bogo (Cebu)
 2025-11-02T03:28:00.000Z,02 November 2025 - 03:28 AM,13.65,124.37,030,1.5,001km S 04° E of Baras (Catanduanes),001,S 04° E,Baras (Catanduanes)
 2025-11-02T03:12:00.000Z,02 November 2025 - 03:12 AM,08.44,125.89,070,2.5,012km S 49° W of San Francisco (Agusan Del Sur),012,S 49° W,San Francisco (Agusan Del Sur)
-2025-11-02T02:58:00.000Z,02 November 2025 - 02:58 AM,16.57,122.05,010,2.4,023km N 79° W of Dinapigue (Isabela),023,N 79° W,Dinapigue (Isabela)
-2025-11-02T02:55:00.000Z,02 November 2025 - 02:55 AM,10.94,123.90,009,2.0,015km S 34° W of City Of Bogo (Cebu),015,S 34° W,City Of Bogo (Cebu)
-2025-11-02T02:42:00.000Z,02 November 2025 - 02:42 AM,06.64,126.68,006,2.4,052km S 29° E of Tarragona (Davao Oriental),052,S 29° E,Tarragona (Davao Oriental)
-2025-11-02T02:41:00.000Z,02 November 2025 - 02:41 AM,06.50,126.37,014,2.3,037km S 63° E of Governor Generoso (Davao Oriental),037,S 63° E,Governor Generoso (Davao Oriental)
-2025-11-02T02:35:00.000Z,02 November 2025 - 02:35 AM,11.20,124.08,029,1.9,020km N 33° E of City Of Bogo (Cebu),020,N 33° E,City Of Bogo (Cebu)
