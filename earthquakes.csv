@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T22:06:00.000Z,02 November 2025 - 10:06 PM,18.59,120.42,011,2.6,026km N 70° W of Burgos (Ilocos Norte),026,N 70° W,Burgos (Ilocos Norte)
+2025-11-02T22:03:00.000Z,02 November 2025 - 10:03 PM,08.58,126.68,011,1.6,045km N 58° E of Hinatuan (Surigao Del Sur),045,N 58° E,Hinatuan (Surigao Del Sur)
+2025-11-02T22:02:00.000Z,02 November 2025 - 10:02 PM,09.65,126.25,034,2.0,018km S 37° E of General Luna (Surigao Del Norte),018,S 37° E,General Luna (Surigao Del Norte)
 2025-11-02T20:52:00.000Z,02 November 2025 - 08:52 PM,06.26,127.36,014,3.4,139km S 41° E of Manay (Davao Oriental),139,S 41° E,Manay (Davao Oriental)
 2025-11-02T20:43:00.000Z,02 November 2025 - 08:43 PM,13.53,120.76,033,1.4,010km N 18° E of Abra De Ilog (Occidental Mindoro),010,N 18° E,Abra De Ilog (Occidental Mindoro)
 2025-11-02T20:28:00.000Z,02 November 2025 - 08:28 PM,07.44,127.18,023,3.1,075km N 70° E of Manay (Davao Oriental),075,N 70° E,Manay (Davao Oriental)
