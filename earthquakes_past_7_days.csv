@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T02:26:00.000Z,03 November 2025 - 02:26 AM,11.05,124.08,004,2.1,011km N 89° E of City Of Bogo (Cebu),011,N 89° E,City Of Bogo (Cebu)
+2025-11-03T02:25:00.000Z,03 November 2025 - 02:25 AM,10.99,123.95,004,1.8,007km S 32° W of City Of Bogo (Cebu),007,S 32° W,City Of Bogo (Cebu)
+2025-11-03T02:17:00.000Z,03 November 2025 - 02:17 AM,08.52,126.36,003,2.6,017km N 08° E of Hinatuan (Surigao Del Sur),017,N 08° E,Hinatuan (Surigao Del Sur)
 2025-11-03T02:12:00.000Z,03 November 2025 - 02:12 AM,11.10,123.97,003,1.5,006km N 12° W of City Of Bogo (Cebu),006,N 12° W,City Of Bogo (Cebu)
 2025-11-03T01:48:00.000Z,03 November 2025 - 01:48 AM,10.26,123.61,001,2.3,003km S 65° E of Pinamungajan (Cebu),003,S 65° E,Pinamungajan (Cebu)
 2025-11-03T01:47:00.000Z,03 November 2025 - 01:47 AM,11.11,124.11,009,1.6,015km N 63° E of City Of Bogo (Cebu),015,N 63° E,City Of Bogo (Cebu)
@@ -685,4 +688,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T02:45:00.000Z,27 October 2025 - 02:45 AM,05.11,127.51,115,3.8,225km S 67° E of Jose Abad Santos (Davao Occidental),225,S 67° E,Jose Abad Santos (Davao Occidental)
 2025-10-27T02:32:00.000Z,27 October 2025 - 02:32 AM,12.09,120.68,033,1.8,051km S 55° W of San Jose (Occidental Mindoro),051,S 55° W,San Jose (Occidental Mindoro)
 2025-10-27T02:26:00.000Z,27 October 2025 - 02:26 AM,08.72,124.63,038,1.7,016km N 62° W of Jasaan (Misamis Oriental),016,N 62° W,Jasaan (Misamis Oriental)
-2025-10-27T02:14:00.000Z,27 October 2025 - 02:14 AM,16.82,121.48,024,1.9,007km N 56° W of Ramon (Isabela),007,N 56° W,Ramon (Isabela)
