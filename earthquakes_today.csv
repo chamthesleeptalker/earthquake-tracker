@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T09:12:00.000Z,02 November 2025 - 09:12 AM,07.17,127.00,007,2.5,051km S 85° E of Manay (Davao Oriental),051,S 85° E,Manay (Davao Oriental)
+2025-11-02T07:43:00.000Z,02 November 2025 - 07:43 AM,05.88,127.00,102,3.0,134km S 50° E of Governor Generoso (Davao Oriental),134,S 50° E,Governor Generoso (Davao Oriental)
+2025-11-02T07:42:00.000Z,02 November 2025 - 07:42 AM,05.40,126.42,022,3.1,103km S 57° E of Jose Abad Santos (Davao Occidental),103,S 57° E,Jose Abad Santos (Davao Occidental)
 2025-11-02T07:22:00.000Z,02 November 2025 - 07:22 AM,11.14,124.09,031,2.0,016km N 49° E of City Of Bogo (Cebu),016,N 49° E,City Of Bogo (Cebu)
 2025-11-02T06:42:00.000Z,02 November 2025 - 06:42 AM,05.36,127.20,018,3.6,201km S 70° E of Jose Abad Santos (Davao Occidental),201,S 70° E,Jose Abad Santos (Davao Occidental)
 2025-11-02T06:17:00.000Z,02 November 2025 - 06:17 AM,06.20,127.34,016,3.4,136km S 47° E of Tarragona (Davao Oriental),136,S 47° E,Tarragona (Davao Oriental)
