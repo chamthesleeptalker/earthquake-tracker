@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T16:07:00.000Z,02 November 2025 - 04:07 PM,09.78,126.50,008,2.1,038km S 90° E of General Luna (Surigao Del Norte),038,S 90° E,General Luna (Surigao Del Norte)
+2025-11-02T15:45:00.000Z,02 November 2025 - 03:45 PM,10.92,123.95,002,2.1,014km S 11° W of City Of Bogo (Cebu),014,S 11° W,City Of Bogo (Cebu)
 2025-11-02T15:24:00.000Z,02 November 2025 - 03:24 PM,12.46,125.16,007,2.8,011km S 80° W of Mapanas (Northern Samar),011,S 80° W,Mapanas (Northern Samar)
 2025-11-02T14:47:00.000Z,02 November 2025 - 02:47 PM,10.96,123.99,002,2.4,010km S 10° E of City Of Bogo (Cebu),010,S 10° E,City Of Bogo (Cebu)
 2025-11-02T14:23:00.000Z,02 November 2025 - 02:23 PM,12.93,120.88,002,2.2,014km N 49° E of Sablayan (Occidental Mindoro),014,N 49° E,Sablayan (Occidental Mindoro)
@@ -82,4 +84,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T16:59:00.000Z,01 November 2025 - 04:59 PM,15.73,121.93,019,1.9,039km S 85° E of Baler (Aurora),039,S 85° E,Baler (Aurora)
 2025-11-01T16:23:00.000Z,01 November 2025 - 04:23 PM,13.77,120.56,089,2.1,010km S 46° W of Calatagan (Batangas),010,S 46° W,Calatagan (Batangas)
 2025-11-01T16:12:00.000Z,01 November 2025 - 04:12 PM,11.15,123.84,001,1.8,019km N 54° W of City Of Bogo (Cebu),019,N 54° W,City Of Bogo (Cebu)
-2025-11-01T15:58:00.000Z,01 November 2025 - 03:58 PM,06.88,126.88,010,2.5,052km S 45° E of Manay (Davao Oriental),052,S 45° E,Manay (Davao Oriental)
