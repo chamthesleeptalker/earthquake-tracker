@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T18:46:00.000Z,02 November 2025 - 06:46 PM,09.56,126.09,003,2.9,025km S 17° W of General Luna (Surigao Del Norte),025,S 17° W,General Luna (Surigao Del Norte)
 2025-11-02T18:29:00.000Z,02 November 2025 - 06:29 PM,11.35,123.74,001,2.3,043km N 39° W of City Of Bogo (Cebu),043,N 39° W,City Of Bogo (Cebu)
 2025-11-02T18:23:00.000Z,02 November 2025 - 06:23 PM,11.26,123.78,006,1.9,032km N 43° W of City Of Bogo (Cebu),032,N 43° W,City Of Bogo (Cebu)
 2025-11-02T18:13:00.000Z,02 November 2025 - 06:13 PM,11.27,123.73,009,2.5,036km N 48° W of City Of Bogo (Cebu),036,N 48° W,City Of Bogo (Cebu)
