@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T11:52:00.000Z,02 November 2025 - 11:52 AM,13.05,122.63,002,2.9,030km S 10° W of San Andres (Quezon),030,S 10° W,San Andres (Quezon)
 2025-11-02T11:19:00.000Z,02 November 2025 - 11:19 AM,09.66,126.23,033,1.6,016km S 31° E of General Luna (Surigao Del Norte),016,S 31° E,General Luna (Surigao Del Norte)
 2025-11-02T10:42:00.000Z,02 November 2025 - 10:42 AM,09.17,126.32,023,3.2,028km N 04° E of Cagwait (Surigao Del Sur),028,N 04° E,Cagwait (Surigao Del Sur)
 2025-11-02T10:38:00.000Z,02 November 2025 - 10:38 AM,13.03,122.60,008,2.5,034km S 14° W of San Andres (Quezon),034,S 14° W,San Andres (Quezon)
@@ -82,6 +83,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T12:05:00.000Z,01 November 2025 - 12:05 PM,06.18,127.53,005,3.6,154km S 51° E of Tarragona (Davao Oriental),154,S 51° E,Tarragona (Davao Oriental)
 2025-11-01T12:03:00.000Z,01 November 2025 - 12:03 PM,06.22,127.34,012,3.6,134km S 47° E of Tarragona (Davao Oriental),134,S 47° E,Tarragona (Davao Oriental)
 2025-11-01T11:55:00.000Z,01 November 2025 - 11:55 AM,11.16,124.03,030,1.8,014km N 24° E of City Of Bogo (Cebu),014,N 24° E,City Of Bogo (Cebu)
-2025-11-01T11:50:00.000Z,01 November 2025 - 11:50 AM,11.13,124.02,033,1.5,010km N 24° E of City Of Bogo (Cebu),010,N 24° E,City Of Bogo (Cebu)
-2025-11-01T11:44:00.000Z,01 November 2025 - 11:44 AM,11.27,124.16,019,1.9,032km N 38° E of City Of Bogo (Cebu),032,N 38° E,City Of Bogo (Cebu)
-2025-11-01T11:31:00.000Z,01 November 2025 - 11:31 AM,11.24,124.15,001,1.8,028km N 40° E of City Of Bogo (Cebu),028,N 40° E,City Of Bogo (Cebu)
