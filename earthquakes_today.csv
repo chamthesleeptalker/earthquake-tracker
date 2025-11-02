@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T20:07:00.000Z,02 November 2025 - 08:07 PM,09.15,125.90,010,2.6,014km S 28° W of Madrid (Surigao Del Sur),014,S 28° W,Madrid (Surigao Del Sur)
+2025-11-02T20:04:00.000Z,02 November 2025 - 08:04 PM,04.43,125.61,133,3.6,110km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),110,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-02T19:56:00.000Z,02 November 2025 - 07:56 PM,11.19,124.14,007,2.3,024km N 46° E of City Of Bogo (Cebu),024,N 46° E,City Of Bogo (Cebu)
+2025-11-02T19:50:00.000Z,02 November 2025 - 07:50 PM,09.65,126.22,027,2.3,017km S 26° E of General Luna (Surigao Del Norte),017,S 26° E,General Luna (Surigao Del Norte)
+2025-11-02T19:45:00.000Z,02 November 2025 - 07:45 PM,11.14,123.97,033,1.4,010km N 09° W of City Of Bogo (Cebu),010,N 09° W,City Of Bogo (Cebu)
 2025-11-02T19:09:00.000Z,02 November 2025 - 07:09 PM,11.03,123.98,005,1.7,002km S 10° E of City Of Bogo (Cebu),002,S 10° E,City Of Bogo (Cebu)
 2025-11-02T18:46:00.000Z,02 November 2025 - 06:46 PM,09.56,126.09,003,2.9,025km S 17° W of General Luna (Surigao Del Norte),025,S 17° W,General Luna (Surigao Del Norte)
 2025-11-02T18:29:00.000Z,02 November 2025 - 06:29 PM,11.35,123.74,001,2.3,043km N 39° W of City Of Bogo (Cebu),043,N 39° W,City Of Bogo (Cebu)
