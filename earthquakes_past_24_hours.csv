@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T01:16:00.000Z,03 November 2025 - 01:16 AM,13.55,120.52,004,2.5,016km N 23° E of Paluan (Occidental Mindoro),016,N 23° E,Paluan (Occidental Mindoro)
+2025-11-03T01:16:00.000Z,03 November 2025 - 01:16 AM,06.78,127.26,015,2.7,094km S 72° E of Tarragona (Davao Oriental),094,S 72° E,Tarragona (Davao Oriental)
 2025-11-03T00:58:00.000Z,03 November 2025 - 12:58 AM,15.64,120.15,012,1.4,023km S 43° W of Mangatarem (Pangasinan),023,S 43° W,Mangatarem (Pangasinan)
 2025-11-03T00:34:00.000Z,03 November 2025 - 12:34 AM,05.17,127.30,060,4.1,201km S 66° E of Jose Abad Santos (Davao Occidental),201,S 66° E,Jose Abad Santos (Davao Occidental)
 2025-11-03T00:13:00.000Z,03 November 2025 - 12:13 AM,06.34,127.26,029,2.5,120km S 49° E of Tarragona (Davao Oriental),120,S 49° E,Tarragona (Davao Oriental)
@@ -87,4 +89,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T01:47:00.000Z,02 November 2025 - 01:47 AM,10.95,123.82,006,2.8,020km S 58° W of City Of Bogo (Cebu),020,S 58° W,City Of Bogo (Cebu)
 2025-11-02T01:40:00.000Z,02 November 2025 - 01:40 AM,07.34,126.80,025,1.9,033km N 64° E of Manay (Davao Oriental),033,N 64° E,Manay (Davao Oriental)
 2025-11-02T01:39:00.000Z,02 November 2025 - 01:39 AM,10.94,123.82,004,3.3,018km S 58° W of City Of Bogo (Cebu),018,S 58° W,City Of Bogo (Cebu)
-2025-11-02T01:03:00.000Z,02 November 2025 - 01:03 AM,07.02,125.58,025,2.2,016km S 67° W of Island Garden City Of Samal (Davao Del Norte),016,S 67° W,Island Garden City Of Samal (Davao Del Norte)
