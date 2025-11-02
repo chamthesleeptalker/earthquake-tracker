@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T04:04:00.000Z,03 November 2025 - 04:04 AM,10.46,125.01,004,1.8,009km N 20° E of Sogod (Southern Leyte),009,N 20° E,Sogod (Southern Leyte)
+2025-11-03T04:00:00.000Z,03 November 2025 - 04:00 AM,05.60,125.30,019,2.3,024km N 53° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),024,N 53° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-03T03:54:00.000Z,03 November 2025 - 03:54 AM,07.41,126.96,020,2.4,051km N 65° E of Manay (Davao Oriental),051,N 65° E,Manay (Davao Oriental)
 2025-11-03T03:06:00.000Z,03 November 2025 - 03:06 AM,09.70,122.74,061,5.6,018km S 36° E of Candoni (Negros Occidental),018,S 36° E,Candoni (Negros Occidental)
 2025-11-03T02:26:00.000Z,03 November 2025 - 02:26 AM,11.05,124.08,004,2.1,011km N 89° E of City Of Bogo (Cebu),011,N 89° E,City Of Bogo (Cebu)
 2025-11-03T02:25:00.000Z,03 November 2025 - 02:25 AM,10.99,123.95,004,1.8,007km S 32° W of City Of Bogo (Cebu),007,S 32° W,City Of Bogo (Cebu)
@@ -42,7 +45,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T17:41:00.000Z,02 November 2025 - 05:41 PM,06.30,127.00,004,3.6,103km S 36° E of Tarragona (Davao Oriental),103,S 36° E,Tarragona (Davao Oriental)
 2025-11-02T17:37:00.000Z,02 November 2025 - 05:37 PM,11.30,123.77,011,1.8,036km N 40° W of City Of Bogo (Cebu),036,N 40° W,City Of Bogo (Cebu)
 2025-11-02T17:30:00.000Z,02 November 2025 - 05:30 PM,11.31,123.75,005,2.4,039km N 40° W of City Of Bogo (Cebu),039,N 40° W,City Of Bogo (Cebu)
-2025-11-02T03:29:00.000Z,02 November 2025 - 03:29 AM,14.61,121.60,033,1.3,007km S 06° W of Real (Quezon),007,S 06° W,Real (Quezon)
 2025-11-02T16:32:00.000Z,02 November 2025 - 04:32 PM,18.99,121.30,010,4.4,016km S 38° E of Dalupiri Island (Calayan) (Cagayan),016,S 38° E,Dalupiri Island (Calayan) (Cagayan)
 2025-11-02T16:26:00.000Z,02 November 2025 - 04:26 PM,07.06,126.95,013,2.7,048km S 70° E of Manay (Davao Oriental),048,S 70° E,Manay (Davao Oriental)
 2025-11-02T16:15:00.000Z,02 November 2025 - 04:15 PM,10.94,123.94,012,2.8,013km S 18° W of City Of Bogo (Cebu),013,S 18° W,City Of Bogo (Cebu)
@@ -81,7 +83,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T05:07:00.000Z,02 November 2025 - 05:07 AM,12.33,120.78,033,1.7,025km S 56° W of Rizal (Occidental Mindoro),025,S 56° W,Rizal (Occidental Mindoro)
 2025-11-02T05:06:00.000Z,02 November 2025 - 05:06 AM,06.60,126.90,125,2.9,071km S 45° E of Tarragona (Davao Oriental),071,S 45° E,Tarragona (Davao Oriental)
 2025-11-02T04:21:00.000Z,02 November 2025 - 04:21 AM,06.42,126.98,046,2.3,091km S 40° E of Tarragona (Davao Oriental),091,S 40° E,Tarragona (Davao Oriental)
-2025-11-02T03:48:00.000Z,02 November 2025 - 03:48 AM,13.19,122.69,012,2.0,015km S 08° E of San Andres (Quezon),015,S 08° E,San Andres (Quezon)
-2025-11-02T03:42:00.000Z,02 November 2025 - 03:42 AM,11.17,124.19,003,2.3,027km N 59° E of City Of Bogo (Cebu),027,N 59° E,City Of Bogo (Cebu)
-2025-11-02T03:28:00.000Z,02 November 2025 - 03:28 AM,13.65,124.37,030,1.5,001km S 04° E of Baras (Catanduanes),001,S 04° E,Baras (Catanduanes)
-2025-11-02T03:12:00.000Z,02 November 2025 - 03:12 AM,08.44,125.89,070,2.5,012km S 49° W of San Francisco (Agusan Del Sur),012,S 49° W,San Francisco (Agusan Del Sur)
