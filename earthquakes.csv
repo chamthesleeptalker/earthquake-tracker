@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T00:08:00.000Z,03 November 2025 - 12:08 AM,11.16,124.04,016,2.0,015km N 29° E of City Of Bogo (Cebu),015,N 29° E,City Of Bogo (Cebu)
+2025-11-03T00:02:00.000Z,03 November 2025 - 12:02 AM,11.26,123.80,004,2.4,030km N 40° W of City Of Bogo (Cebu),030,N 40° W,City Of Bogo (Cebu)
+2025-11-02T23:49:00.000Z,02 November 2025 - 11:49 PM,11.30,123.80,009,2.0,034km N 34° W of City Of Bogo (Cebu),034,N 34° W,City Of Bogo (Cebu)
 2025-11-02T04:22:00.000Z,02 November 2025 - 04:22 AM,06.62,126.63,018,2.4,051km S 23° E of Tarragona (Davao Oriental),051,S 23° E,Tarragona (Davao Oriental)
 2025-11-02T22:38:00.000Z,02 November 2025 - 10:38 PM,11.16,124.13,034,1.4,021km N 53° E of City Of Bogo (Cebu),021,N 53° E,City Of Bogo (Cebu)
 2025-11-02T22:36:00.000Z,02 November 2025 - 10:36 PM,10.32,123.58,012,2.7,005km N 02° W of Pinamungajan (Cebu),005,N 02° W,Pinamungajan (Cebu)

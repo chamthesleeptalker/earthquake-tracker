@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T00:08:00.000Z,03 November 2025 - 12:08 AM,11.16,124.04,016,2.0,015km N 29° E of City Of Bogo (Cebu),015,N 29° E,City Of Bogo (Cebu)
+2025-11-03T00:02:00.000Z,03 November 2025 - 12:02 AM,11.26,123.80,004,2.4,030km N 40° W of City Of Bogo (Cebu),030,N 40° W,City Of Bogo (Cebu)
+2025-11-02T23:49:00.000Z,02 November 2025 - 11:49 PM,11.30,123.80,009,2.0,034km N 34° W of City Of Bogo (Cebu),034,N 34° W,City Of Bogo (Cebu)
 2025-11-02T04:22:00.000Z,02 November 2025 - 04:22 AM,06.62,126.63,018,2.4,051km S 23° E of Tarragona (Davao Oriental),051,S 23° E,Tarragona (Davao Oriental)
 2025-11-02T22:38:00.000Z,02 November 2025 - 10:38 PM,11.16,124.13,034,1.4,021km N 53° E of City Of Bogo (Cebu),021,N 53° E,City Of Bogo (Cebu)
 2025-11-02T22:36:00.000Z,02 November 2025 - 10:36 PM,10.32,123.58,012,2.7,005km N 02° W of Pinamungajan (Cebu),005,N 02° W,Pinamungajan (Cebu)
@@ -88,10 +91,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T00:18:00.000Z,02 November 2025 - 12:18 AM,09.84,126.50,025,1.8,039km N 81° E of General Luna (Surigao Del Norte),039,N 81° E,General Luna (Surigao Del Norte)
 2025-11-02T00:15:00.000Z,02 November 2025 - 12:15 AM,11.00,122.11,025,2.4,002km S 73° W of Valderrama (Antique),002,S 73° W,Valderrama (Antique)
 2025-11-02T00:08:00.000Z,02 November 2025 - 12:08 AM,16.50,121.01,009,1.7,004km S 30° W of Ambaguio (Nueva Vizcaya),004,S 30° W,Ambaguio (Nueva Vizcaya)
-2025-11-01T23:53:00.000Z,01 November 2025 - 11:53 PM,07.33,126.59,002,2.0,015km N 23° E of Manay (Davao Oriental),015,N 23° E,Manay (Davao Oriental)
-2025-11-01T23:42:00.000Z,01 November 2025 - 11:42 PM,10.98,124.03,003,2.3,009km S 40° E of City Of Bogo (Cebu),009,S 40° E,City Of Bogo (Cebu)
-2025-11-01T23:39:00.000Z,01 November 2025 - 11:39 PM,09.66,126.23,033,1.8,015km S 30° E of General Luna (Surigao Del Norte),015,S 30° E,General Luna (Surigao Del Norte)
-2025-11-01T23:38:00.000Z,01 November 2025 - 11:38 PM,09.68,126.18,034,2.4,012km S 13° E of General Luna (Surigao Del Norte),012,S 13° E,General Luna (Surigao Del Norte)
-2025-11-01T23:29:00.000Z,01 November 2025 - 11:29 PM,13.52,120.31,008,2.0,020km N 54° W of Paluan (Occidental Mindoro),020,N 54° W,Paluan (Occidental Mindoro)
-2025-11-01T23:10:00.000Z,01 November 2025 - 11:10 PM,07.41,127.07,015,2.6,063km N 69° E of Manay (Davao Oriental),063,N 69° E,Manay (Davao Oriental)
-2025-11-01T22:59:00.000Z,01 November 2025 - 10:59 PM,07.90,126.24,031,1.5,016km N 78° W of Boston (Davao Oriental),016,N 78° W,Boston (Davao Oriental)
