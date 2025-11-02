@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T18:29:00.000Z,02 November 2025 - 06:29 PM,11.35,123.74,001,2.3,043km N 39° W of City Of Bogo (Cebu),043,N 39° W,City Of Bogo (Cebu)
+2025-11-02T18:23:00.000Z,02 November 2025 - 06:23 PM,11.26,123.78,006,1.9,032km N 43° W of City Of Bogo (Cebu),032,N 43° W,City Of Bogo (Cebu)
+2025-11-02T18:13:00.000Z,02 November 2025 - 06:13 PM,11.27,123.73,009,2.5,036km N 48° W of City Of Bogo (Cebu),036,N 48° W,City Of Bogo (Cebu)
 2025-11-02T17:59:00.000Z,02 November 2025 - 05:59 PM,11.18,123.97,013,1.5,015km N 05° W of City Of Bogo (Cebu),015,N 05° W,City Of Bogo (Cebu)
 2025-11-02T17:41:00.000Z,02 November 2025 - 05:41 PM,06.30,127.00,004,3.6,103km S 36° E of Tarragona (Davao Oriental),103,S 36° E,Tarragona (Davao Oriental)
 2025-11-02T17:37:00.000Z,02 November 2025 - 05:37 PM,11.30,123.77,011,1.8,036km N 40° W of City Of Bogo (Cebu),036,N 40° W,City Of Bogo (Cebu)
@@ -689,8 +692,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T18:48:00.000Z,26 October 2025 - 06:48 PM,11.81,125.70,007,2.6,027km S 88° E of Sulat (Eastern Samar),027,S 88° E,Sulat (Eastern Samar)
 2025-10-26T18:46:00.000Z,26 October 2025 - 06:46 PM,05.27,126.95,061,3.3,161km S 64° E of Jose Abad Santos (Davao Occidental),161,S 64° E,Jose Abad Santos (Davao Occidental)
 2025-10-26T18:41:00.000Z,26 October 2025 - 06:41 PM,05.93,126.45,023,3.7,089km S 70° E of Don Marcelino (Davao Occidental),089,S 70° E,Don Marcelino (Davao Occidental)
-2025-10-26T18:25:00.000Z,26 October 2025 - 06:25 PM,05.74,126.83,009,3.4,128km S 40° E of Governor Generoso (Davao Oriental),128,S 40° E,Governor Generoso (Davao Oriental)
-2025-10-26T18:17:00.000Z,26 October 2025 - 06:17 PM,09.83,126.19,026,1.8,006km N 37° E of General Luna (Surigao Del Norte),006,N 37° E,General Luna (Surigao Del Norte)
-2025-10-26T18:12:00.000Z,26 October 2025 - 06:12 PM,11.78,125.41,028,3.4,006km N 60° W of San Julian (Eastern Samar),006,N 60° W,San Julian (Eastern Samar)
-2025-10-26T18:02:00.000Z,26 October 2025 - 06:02 PM,08.27,124.92,020,1.9,009km S 47° W of Sumilao (Bukidnon),009,S 47° W,Sumilao (Bukidnon)
-2025-10-26T18:00:00.000Z,26 October 2025 - 06:00 PM,10.38,126.26,008,2.8,045km N 27° E of Burgos (Surigao Del Norte),045,N 27° E,Burgos (Surigao Del Norte)

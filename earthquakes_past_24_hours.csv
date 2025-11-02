@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T18:29:00.000Z,02 November 2025 - 06:29 PM,11.35,123.74,001,2.3,043km N 39° W of City Of Bogo (Cebu),043,N 39° W,City Of Bogo (Cebu)
+2025-11-02T18:23:00.000Z,02 November 2025 - 06:23 PM,11.26,123.78,006,1.9,032km N 43° W of City Of Bogo (Cebu),032,N 43° W,City Of Bogo (Cebu)
+2025-11-02T18:13:00.000Z,02 November 2025 - 06:13 PM,11.27,123.73,009,2.5,036km N 48° W of City Of Bogo (Cebu),036,N 48° W,City Of Bogo (Cebu)
 2025-11-02T17:59:00.000Z,02 November 2025 - 05:59 PM,11.18,123.97,013,1.5,015km N 05° W of City Of Bogo (Cebu),015,N 05° W,City Of Bogo (Cebu)
 2025-11-02T17:41:00.000Z,02 November 2025 - 05:41 PM,06.30,127.00,004,3.6,103km S 36° E of Tarragona (Davao Oriental),103,S 36° E,Tarragona (Davao Oriental)
 2025-11-02T17:37:00.000Z,02 November 2025 - 05:37 PM,11.30,123.77,011,1.8,036km N 40° W of City Of Bogo (Cebu),036,N 40° W,City Of Bogo (Cebu)
@@ -86,7 +89,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T19:21:00.000Z,01 November 2025 - 07:21 PM,11.09,123.99,030,2.0,005km N 16° E of City Of Bogo (Cebu),005,N 16° E,City Of Bogo (Cebu)
 2025-11-01T18:57:00.000Z,01 November 2025 - 06:57 PM,15.08,119.86,034,1.9,022km S 67° W of Cabangan (Zambales),022,S 67° W,Cabangan (Zambales)
 2025-11-01T18:35:00.000Z,01 November 2025 - 06:35 PM,11.12,124.07,033,1.9,013km N 48° E of City Of Bogo (Cebu),013,N 48° E,City Of Bogo (Cebu)
-2025-11-01T18:28:00.000Z,01 November 2025 - 06:28 PM,16.49,121.03,013,2.6,004km S 03° E of Ambaguio (Nueva Vizcaya),004,S 03° E,Ambaguio (Nueva Vizcaya)
-2025-11-01T18:25:00.000Z,01 November 2025 - 06:25 PM,10.97,123.99,005,3.5,009km S 05° E of City Of Bogo (Cebu),009,S 05° E,City Of Bogo (Cebu)
-2025-11-01T18:09:00.000Z,01 November 2025 - 06:09 PM,06.28,127.26,011,3.5,124km S 47° E of Tarragona (Davao Oriental),124,S 47° E,Tarragona (Davao Oriental)
-2025-11-01T18:07:00.000Z,01 November 2025 - 06:07 PM,06.31,127.28,010,2.3,123km S 48° E of Tarragona (Davao Oriental),123,S 48° E,Tarragona (Davao Oriental)
