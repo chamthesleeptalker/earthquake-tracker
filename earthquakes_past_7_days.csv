@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-02T15:24:00.000Z,02 November 2025 - 03:24 PM,12.46,125.16,007,2.8,011km S 80° W of Mapanas (Northern Samar),011,S 80° W,Mapanas (Northern Samar)
+2025-11-02T14:47:00.000Z,02 November 2025 - 02:47 PM,10.96,123.99,002,2.4,010km S 10° E of City Of Bogo (Cebu),010,S 10° E,City Of Bogo (Cebu)
+2025-11-02T14:23:00.000Z,02 November 2025 - 02:23 PM,12.93,120.88,002,2.2,014km N 49° E of Sablayan (Occidental Mindoro),014,N 49° E,Sablayan (Occidental Mindoro)
 2025-11-02T14:07:00.000Z,02 November 2025 - 02:07 PM,07.32,126.94,009,2.3,045km N 74° E of Manay (Davao Oriental),045,N 74° E,Manay (Davao Oriental)
 2025-11-02T14:07:00.000Z,02 November 2025 - 02:07 PM,07.32,126.94,009,2.3,045km N 74° E of Manay (Davao Oriental),045,N 74° E,Manay (Davao Oriental)
 2025-11-02T13:08:00.000Z,02 November 2025 - 01:08 PM,10.94,123.91,001,2.2,014km S 31° W of City Of Bogo (Cebu),014,S 31° W,City Of Bogo (Cebu)
@@ -692,7 +695,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-26T15:55:00.000Z,26 October 2025 - 03:55 PM,10.41,126.31,003,2.5,050km N 31° E of Burgos (Surigao Del Norte),050,N 31° E,Burgos (Surigao Del Norte)
 2025-10-26T15:41:00.000Z,26 October 2025 - 03:41 PM,07.35,126.86,015,2.9,038km N 66° E of Manay (Davao Oriental),038,N 66° E,Manay (Davao Oriental)
 2025-10-26T15:37:00.000Z,26 October 2025 - 03:37 PM,13.04,121.31,007,1.5,010km S 79° W of Socorro (Oriental Mindoro),010,S 79° W,Socorro (Oriental Mindoro)
-2025-10-26T15:14:00.000Z,26 October 2025 - 03:14 PM,13.55,121.11,028,1.9,004km N 64° E of Verde Island (Batangas City) (Batangas),004,N 64° E,Verde Island (Batangas City) (Batangas)
-2025-10-26T15:07:00.000Z,26 October 2025 - 03:07 PM,11.12,124.15,005,2.2,021km N 68° E of City Of Bogo (Cebu),021,N 68° E,City Of Bogo (Cebu)
-2025-10-26T14:40:00.000Z,26 October 2025 - 02:40 PM,15.15,120.01,001,2.3,005km S 79° W of Cabangan (Zambales),005,S 79° W,Cabangan (Zambales)
-2025-10-26T14:11:00.000Z,26 October 2025 - 02:11 PM,11.29,124.00,029,1.6,028km N 04° E of City Of Bogo (Cebu),028,N 04° E,City Of Bogo (Cebu)
