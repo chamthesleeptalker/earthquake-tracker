@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T18:14:00.000Z,03 November 2025 - 06:14 PM,10.73,124.09,010,2.9,025km S 66° E of Tabuelan (Cebu),025,S 66° E,Tabuelan (Cebu)
+2025-11-03T18:11:00.000Z,03 November 2025 - 06:11 PM,11.02,123.95,014,2.7,004km S 47° W of City Of Bogo (Cebu),004,S 47° W,City Of Bogo (Cebu)
+2025-11-03T18:04:00.000Z,03 November 2025 - 06:04 PM,09.67,126.21,028,2.3,014km S 26° E of General Luna (Surigao Del Norte),014,S 26° E,General Luna (Surigao Del Norte)
+2025-11-03T18:01:00.000Z,03 November 2025 - 06:01 PM,08.37,125.94,024,2.9,007km S 79° W of Rosario (Agusan Del Sur),007,S 79° W,Rosario (Agusan Del Sur)
 2025-11-03T16:18:00.000Z,03 November 2025 - 04:18 PM,09.96,126.36,007,3.3,028km N 48° E of General Luna (Surigao Del Norte),028,N 48° E,General Luna (Surigao Del Norte)
 2025-11-03T16:10:00.000Z,03 November 2025 - 04:10 PM,07.26,126.62,011,2.8,011km N 60° E of Manay (Davao Oriental),011,N 60° E,Manay (Davao Oriental)
 2025-11-03T15:03:00.000Z,03 November 2025 - 03:03 PM,14.32,120.47,131,2.4,013km S 08° W of Mariveles (Bataan),013,S 08° W,Mariveles (Bataan)
