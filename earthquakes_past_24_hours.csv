@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T18:47:00.000Z,03 November 2025 - 06:47 PM,11.08,124.08,009,2.1,011km N 70° E of City Of Bogo (Cebu),011,N 70° E,City Of Bogo (Cebu)
 2025-11-03T18:14:00.000Z,03 November 2025 - 06:14 PM,10.73,124.09,010,2.9,025km S 66° E of Tabuelan (Cebu),025,S 66° E,Tabuelan (Cebu)
 2025-11-03T18:11:00.000Z,03 November 2025 - 06:11 PM,11.02,123.95,014,2.7,004km S 47° W of City Of Bogo (Cebu),004,S 47° W,City Of Bogo (Cebu)
 2025-11-03T18:04:00.000Z,03 November 2025 - 06:04 PM,09.67,126.21,028,2.3,014km S 26° E of General Luna (Surigao Del Norte),014,S 26° E,General Luna (Surigao Del Norte)
@@ -73,6 +74,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T19:50:00.000Z,02 November 2025 - 07:50 PM,09.65,126.22,027,2.3,017km S 26° E of General Luna (Surigao Del Norte),017,S 26° E,General Luna (Surigao Del Norte)
 2025-11-02T19:45:00.000Z,02 November 2025 - 07:45 PM,11.14,123.97,033,1.4,010km N 09° W of City Of Bogo (Cebu),010,N 09° W,City Of Bogo (Cebu)
 2025-11-02T19:09:00.000Z,02 November 2025 - 07:09 PM,11.03,123.98,005,1.7,002km S 10° E of City Of Bogo (Cebu),002,S 10° E,City Of Bogo (Cebu)
-2025-11-02T18:46:00.000Z,02 November 2025 - 06:46 PM,09.56,126.09,003,2.9,025km S 17° W of General Luna (Surigao Del Norte),025,S 17° W,General Luna (Surigao Del Norte)
-2025-11-02T18:29:00.000Z,02 November 2025 - 06:29 PM,11.35,123.74,001,2.3,043km N 39° W of City Of Bogo (Cebu),043,N 39° W,City Of Bogo (Cebu)
-2025-11-02T18:23:00.000Z,02 November 2025 - 06:23 PM,11.26,123.78,006,1.9,032km N 43° W of City Of Bogo (Cebu),032,N 43° W,City Of Bogo (Cebu)
