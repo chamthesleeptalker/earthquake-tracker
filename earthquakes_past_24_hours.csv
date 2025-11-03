@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T12:59:00.000Z,03 November 2025 - 12:59 PM,07.42,126.93,032,2.3,049km N 62° E of Manay (Davao Oriental),049,N 62° E,Manay (Davao Oriental)
+2025-11-03T12:58:00.000Z,03 November 2025 - 12:58 PM,13.73,120.58,082,1.2,012km S 27° W of Calatagan (Batangas),012,S 27° W,Calatagan (Batangas)
+2025-11-03T12:56:00.000Z,03 November 2025 - 12:56 PM,13.68,120.66,118,1.8,017km S 09° E of Calatagan (Batangas),017,S 09° E,Calatagan (Batangas)
+2025-11-03T12:55:00.000Z,03 November 2025 - 12:55 PM,05.88,124.27,015,2.5,032km S 51° W of Maitum (Sarangani),032,S 51° W,Maitum (Sarangani)
+2025-11-03T12:49:00.000Z,03 November 2025 - 12:49 PM,07.28,126.94,016,2.6,045km N 80° E of Manay (Davao Oriental),045,N 80° E,Manay (Davao Oriental)
 2025-11-03T12:32:00.000Z,03 November 2025 - 12:32 PM,04.80,125.14,057,3.1,075km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),075,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-03T12:22:00.000Z,03 November 2025 - 12:22 PM,04.70,125.21,049,3.9,082km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),082,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-03T12:21:00.000Z,03 November 2025 - 12:21 PM,04.44,125.49,001,3.8,107km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),107,S 04° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -77,6 +82,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T14:07:00.000Z,02 November 2025 - 02:07 PM,07.32,126.94,009,2.3,045km N 74° E of Manay (Davao Oriental),045,N 74° E,Manay (Davao Oriental)
 2025-11-02T14:07:00.000Z,02 November 2025 - 02:07 PM,07.32,126.94,009,2.3,045km N 74° E of Manay (Davao Oriental),045,N 74° E,Manay (Davao Oriental)
 2025-11-02T13:08:00.000Z,02 November 2025 - 01:08 PM,10.94,123.91,001,2.2,014km S 31° W of City Of Bogo (Cebu),014,S 31° W,City Of Bogo (Cebu)
-2025-11-02T12:52:00.000Z,02 November 2025 - 12:52 PM,10.99,124.01,010,2.2,008km S 28° E of City Of Bogo (Cebu),008,S 28° E,City Of Bogo (Cebu)
-2025-11-02T12:44:00.000Z,02 November 2025 - 12:44 PM,11.32,123.73,002,2.0,041km N 42° W of City Of Bogo (Cebu),041,N 42° W,City Of Bogo (Cebu)
-2025-11-02T12:44:00.000Z,02 November 2025 - 12:44 PM,07.92,126.30,019,1.4,010km N 54° W of Boston (Davao Oriental),010,N 54° W,Boston (Davao Oriental)

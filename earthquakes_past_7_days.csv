@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T12:59:00.000Z,03 November 2025 - 12:59 PM,07.42,126.93,032,2.3,049km N 62° E of Manay (Davao Oriental),049,N 62° E,Manay (Davao Oriental)
+2025-11-03T12:58:00.000Z,03 November 2025 - 12:58 PM,13.73,120.58,082,1.2,012km S 27° W of Calatagan (Batangas),012,S 27° W,Calatagan (Batangas)
+2025-11-03T12:56:00.000Z,03 November 2025 - 12:56 PM,13.68,120.66,118,1.8,017km S 09° E of Calatagan (Batangas),017,S 09° E,Calatagan (Batangas)
+2025-11-03T12:55:00.000Z,03 November 2025 - 12:55 PM,05.88,124.27,015,2.5,032km S 51° W of Maitum (Sarangani),032,S 51° W,Maitum (Sarangani)
+2025-11-03T12:49:00.000Z,03 November 2025 - 12:49 PM,07.28,126.94,016,2.6,045km N 80° E of Manay (Davao Oriental),045,N 80° E,Manay (Davao Oriental)
 2025-11-03T12:32:00.000Z,03 November 2025 - 12:32 PM,04.80,125.14,057,3.1,075km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),075,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-03T12:22:00.000Z,03 November 2025 - 12:22 PM,04.70,125.21,049,3.9,082km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),082,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-03T12:21:00.000Z,03 November 2025 - 12:21 PM,04.44,125.49,001,3.8,107km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),107,S 04° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -667,6 +672,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T14:27:00.000Z,27 October 2025 - 02:27 PM,07.20,126.78,013,2.4,026km S 88° E of Manay (Davao Oriental),026,S 88° E,Manay (Davao Oriental)
 2025-10-27T14:12:00.000Z,27 October 2025 - 02:12 PM,11.48,124.05,029,2.5,026km N 13° E of Daanbantayan (Cebu),026,N 13° E,Daanbantayan (Cebu)
 2025-10-27T13:53:00.000Z,27 October 2025 - 01:53 PM,09.90,126.05,032,1.6,018km N 44° W of General Luna (Surigao Del Norte),018,N 44° W,General Luna (Surigao Del Norte)
-2025-10-27T12:49:00.000Z,27 October 2025 - 12:49 PM,10.98,123.98,005,2.9,007km S 03° E of City Of Bogo (Cebu),007,S 03° E,City Of Bogo (Cebu)
 2025-10-27T13:18:00.000Z,27 October 2025 - 01:18 PM,09.65,126.13,029,1.8,014km S 11° W of General Luna (Surigao Del Norte),014,S 11° W,General Luna (Surigao Del Norte)
-2025-10-27T12:44:00.000Z,27 October 2025 - 12:44 PM,07.33,126.88,018,2.4,040km N 71° E of Manay (Davao Oriental),040,N 71° E,Manay (Davao Oriental)
