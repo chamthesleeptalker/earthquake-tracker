@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T21:59:00.000Z,03 November 2025 - 09:59 PM,11.31,123.76,007,2.9,038km N 40° W of City Of Bogo (Cebu),038,N 40° W,City Of Bogo (Cebu)
 2025-11-03T19:20:00.000Z,03 November 2025 - 07:20 PM,10.69,124.97,001,2.4,008km S 41° W of Abuyog (Leyte),008,S 41° W,Abuyog (Leyte)
 2025-11-03T19:20:00.000Z,03 November 2025 - 07:20 PM,10.69,124.97,001,2.4,008km S 41° W of Abuyog (Leyte),008,S 41° W,Abuyog (Leyte)
 2025-11-03T18:47:00.000Z,03 November 2025 - 06:47 PM,11.08,124.08,009,2.1,011km N 70° E of City Of Bogo (Cebu),011,N 70° E,City Of Bogo (Cebu)
