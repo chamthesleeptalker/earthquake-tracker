@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-04T05:01:00.000Z,04 November 2025 - 05:01 AM,09.75,126.28,015,3.0,014km S 73° E of General Luna (Surigao Del Norte),014,S 73° E,General Luna (Surigao Del Norte)
 2025-11-04T03:50:00.000Z,04 November 2025 - 03:50 AM,09.68,122.62,019,1.4,017km S 10° W of Candoni (Negros Occidental),017,S 10° W,Candoni (Negros Occidental)
 2025-11-04T03:22:00.000Z,04 November 2025 - 03:22 AM,13.51,120.03,027,3.3,033km S 46° W of Looc (Occidental Mindoro),033,S 46° W,Looc (Occidental Mindoro)
 2025-11-04T03:21:00.000Z,04 November 2025 - 03:21 AM,06.05,126.10,016,2.6,053km N 73° E of Jose Abad Santos (Davao Occidental),053,N 73° E,Jose Abad Santos (Davao Occidental)
@@ -620,8 +621,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-28T06:10:00.000Z,28 October 2025 - 06:10 AM,10.18,124.92,028,1.9,009km N 75° W of Malitbog (Southern Leyte),009,N 75° W,Malitbog (Southern Leyte)
 2025-10-28T05:36:00.000Z,28 October 2025 - 05:36 AM,11.11,123.97,029,2.1,007km N 10° W of City Of Bogo (Cebu),007,N 10° W,City Of Bogo (Cebu)
 2025-10-28T05:18:00.000Z,28 October 2025 - 05:18 AM,11.09,124.04,031,1.8,009km N 53° E of City Of Bogo (Cebu),009,N 53° E,City Of Bogo (Cebu)
-2025-10-28T04:38:00.000Z,28 October 2025 - 04:38 AM,18.63,120.78,017,1.9,007km N 09° W of Pagudpud (Ilocos Norte),007,N 09° W,Pagudpud (Ilocos Norte)
-2025-10-28T03:59:00.000Z,28 October 2025 - 03:59 AM,11.16,124.18,017,2.0,025km N 60° E of City Of Bogo (Cebu),025,N 60° E,City Of Bogo (Cebu)
-2025-10-28T03:55:00.000Z,28 October 2025 - 03:55 AM,11.21,124.22,004,1.8,032km N 55° E of City Of Bogo (Cebu),032,N 55° E,City Of Bogo (Cebu)
-2025-10-28T03:52:00.000Z,28 October 2025 - 03:52 AM,11.30,124.13,036,1.8,033km N 30° E of City Of Bogo (Cebu),033,N 30° E,City Of Bogo (Cebu)
-2025-10-28T03:50:00.000Z,28 October 2025 - 03:50 AM,09.54,125.66,043,2.1,007km S 16° E of Bacuag (Surigao Del Norte),007,S 16° E,Bacuag (Surigao Del Norte)
