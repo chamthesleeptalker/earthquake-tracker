@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T16:10:00.000Z,03 November 2025 - 04:10 PM,07.26,126.62,011,2.8,011km N 60° E of Manay (Davao Oriental),011,N 60° E,Manay (Davao Oriental)
 2025-11-03T15:03:00.000Z,03 November 2025 - 03:03 PM,14.32,120.47,131,2.4,013km S 08° W of Mariveles (Bataan),013,S 08° W,Mariveles (Bataan)
 2025-11-03T14:54:00.000Z,03 November 2025 - 02:54 PM,07.32,126.82,027,2.4,034km N 69° E of Manay (Davao Oriental),034,N 69° E,Manay (Davao Oriental)
 2025-11-03T14:46:00.000Z,03 November 2025 - 02:46 PM,07.61,124.55,005,2.2,020km S 81° W of Wao (Lanao Del Sur),020,S 81° W,Wao (Lanao Del Sur)
@@ -80,6 +81,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T16:15:00.000Z,02 November 2025 - 04:15 PM,10.94,123.94,012,2.8,013km S 18° W of City Of Bogo (Cebu),013,S 18° W,City Of Bogo (Cebu)
 2025-11-02T16:15:00.000Z,02 November 2025 - 04:15 PM,10.94,123.94,012,2.8,013km S 18° W of City Of Bogo (Cebu),013,S 18° W,City Of Bogo (Cebu)
 2025-11-02T16:13:00.000Z,02 November 2025 - 04:13 PM,10.93,123.96,004,3.3,013km S 11° W of City Of Bogo (Cebu),013,S 11° W,City Of Bogo (Cebu)
-2025-11-02T16:07:00.000Z,02 November 2025 - 04:07 PM,09.78,126.50,008,2.1,038km S 90° E of General Luna (Surigao Del Norte),038,S 90° E,General Luna (Surigao Del Norte)
-2025-11-02T15:45:00.000Z,02 November 2025 - 03:45 PM,10.92,123.95,002,2.1,014km S 11° W of City Of Bogo (Cebu),014,S 11° W,City Of Bogo (Cebu)
-2025-11-02T15:24:00.000Z,02 November 2025 - 03:24 PM,12.46,125.16,007,2.8,011km S 80° W of Mapanas (Northern Samar),011,S 80° W,Mapanas (Northern Samar)

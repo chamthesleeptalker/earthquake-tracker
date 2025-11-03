@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T16:10:00.000Z,03 November 2025 - 04:10 PM,07.26,126.62,011,2.8,011km N 60° E of Manay (Davao Oriental),011,N 60° E,Manay (Davao Oriental)
 2025-11-03T15:03:00.000Z,03 November 2025 - 03:03 PM,14.32,120.47,131,2.4,013km S 08° W of Mariveles (Bataan),013,S 08° W,Mariveles (Bataan)
 2025-11-03T14:54:00.000Z,03 November 2025 - 02:54 PM,07.32,126.82,027,2.4,034km N 69° E of Manay (Davao Oriental),034,N 69° E,Manay (Davao Oriental)
 2025-11-03T14:46:00.000Z,03 November 2025 - 02:46 PM,07.61,124.55,005,2.2,020km S 81° W of Wao (Lanao Del Sur),020,S 81° W,Wao (Lanao Del Sur)
@@ -671,5 +672,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-27T16:38:00.000Z,27 October 2025 - 04:38 PM,07.22,126.98,033,2.6,048km N 89° E of Manay (Davao Oriental),048,N 89° E,Manay (Davao Oriental)
 2025-10-27T16:35:00.000Z,27 October 2025 - 04:35 PM,11.19,124.08,009,2.4,019km N 35° E of City Of Bogo (Cebu),019,N 35° E,City Of Bogo (Cebu)
 2025-10-27T16:23:00.000Z,27 October 2025 - 04:23 PM,08.01,126.27,029,2.3,015km S 80° W of Lingig (Surigao Del Sur),015,S 80° W,Lingig (Surigao Del Sur)
-2025-10-27T15:45:00.000Z,27 October 2025 - 03:45 PM,13.57,120.65,156,2.0,016km N 32° W of Abra De Ilog (Occidental Mindoro),016,N 32° W,Abra De Ilog (Occidental Mindoro)
-2025-10-27T15:44:00.000Z,27 October 2025 - 03:44 PM,11.09,124.13,034,2.0,017km N 76° E of City Of Bogo (Cebu),017,N 76° E,City Of Bogo (Cebu)

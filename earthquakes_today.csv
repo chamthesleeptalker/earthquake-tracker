@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-03T16:10:00.000Z,03 November 2025 - 04:10 PM,07.26,126.62,011,2.8,011km N 60° E of Manay (Davao Oriental),011,N 60° E,Manay (Davao Oriental)
 2025-11-03T15:03:00.000Z,03 November 2025 - 03:03 PM,14.32,120.47,131,2.4,013km S 08° W of Mariveles (Bataan),013,S 08° W,Mariveles (Bataan)
 2025-11-03T14:54:00.000Z,03 November 2025 - 02:54 PM,07.32,126.82,027,2.4,034km N 69° E of Manay (Davao Oriental),034,N 69° E,Manay (Davao Oriental)
 2025-11-03T14:46:00.000Z,03 November 2025 - 02:46 PM,07.61,124.55,005,2.2,020km S 81° W of Wao (Lanao Del Sur),020,S 81° W,Wao (Lanao Del Sur)
