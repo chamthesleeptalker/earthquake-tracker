@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-04T05:48:00.000Z,04 November 2025 - 05:48 AM,08.83,126.38,004,1.5,013km S 42° E of Cagwait (Surigao Del Sur),013,S 42° E,Cagwait (Surigao Del Sur)
+2025-11-04T05:47:00.000Z,04 November 2025 - 05:47 AM,09.68,126.36,017,2.5,025km S 64° E of General Luna (Surigao Del Norte),025,S 64° E,General Luna (Surigao Del Norte)
 2025-11-04T05:17:00.000Z,04 November 2025 - 05:17 AM,13.77,121.81,031,1.6,019km S 66° W of Unisan (Quezon),019,S 66° W,Unisan (Quezon)
 2025-11-04T05:01:00.000Z,04 November 2025 - 05:01 AM,09.75,126.28,015,3.0,014km S 73° E of General Luna (Surigao Del Norte),014,S 73° E,General Luna (Surigao Del Norte)
 2025-11-04T03:50:00.000Z,04 November 2025 - 03:50 AM,09.68,122.62,019,1.4,017km S 10° W of Candoni (Negros Occidental),017,S 10° W,Candoni (Negros Occidental)
