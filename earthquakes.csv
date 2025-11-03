@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-04T03:22:00.000Z,04 November 2025 - 03:22 AM,13.51,120.03,027,3.3,033km S 46° W of Looc (Occidental Mindoro),033,S 46° W,Looc (Occidental Mindoro)
+2025-11-04T03:21:00.000Z,04 November 2025 - 03:21 AM,06.05,126.10,016,2.6,053km N 73° E of Jose Abad Santos (Davao Occidental),053,N 73° E,Jose Abad Santos (Davao Occidental)
 2025-11-04T02:51:00.000Z,04 November 2025 - 02:51 AM,12.31,125.55,012,3.0,015km N 16° E of San Policarpo (Eastern Samar),015,N 16° E,San Policarpo (Eastern Samar)
 2025-11-04T02:43:00.000Z,04 November 2025 - 02:43 AM,04.98,125.37,015,3.4,048km S 06° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),048,S 06° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-03T00:12:00.000Z,03 November 2025 - 12:12 AM,06.08,127.63,013,2.6,169km S 51° E of Tarragona (Davao Oriental),169,S 51° E,Tarragona (Davao Oriental)
