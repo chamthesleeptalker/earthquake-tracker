@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T05:25:00.000Z,05 November 2025 - 05:25 AM,18.50,120.93,034,2.1,006km N 37° E of Adams (Ilocos Norte),006,N 37° E,Adams (Ilocos Norte)
+2025-11-05T05:20:00.000Z,05 November 2025 - 05:20 AM,07.28,126.86,025,2.1,036km N 77° E of Manay (Davao Oriental),036,N 77° E,Manay (Davao Oriental)
+2025-11-05T05:16:00.000Z,05 November 2025 - 05:16 AM,09.24,126.93,005,2.7,077km N 67° E of Bayabas (Surigao Del Sur),077,N 67° E,Bayabas (Surigao Del Sur)
+2025-11-05T05:10:00.000Z,05 November 2025 - 05:10 AM,11.42,125.89,010,3.4,031km N 75° E of Hernani (Eastern Samar),031,N 75° E,Hernani (Eastern Samar)
 2025-11-05T05:02:00.000Z,05 November 2025 - 05:02 AM,11.44,125.73,013,2.7,016km N 51° E of Hernani (Eastern Samar),016,N 51° E,Hernani (Eastern Samar)
 2025-11-05T04:47:00.000Z,05 November 2025 - 04:47 AM,14.51,119.64,020,2.8,068km S 45° W of San Antonio (Zambales),068,S 45° W,San Antonio (Zambales)
 2025-11-05T04:19:00.000Z,05 November 2025 - 04:19 AM,09.71,125.77,033,2.2,015km N 30° E of Gigaquit (Surigao Del Norte),015,N 30° E,Gigaquit (Surigao Del Norte)
@@ -40,4 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T06:54:00.000Z,04 November 2025 - 06:54 AM,09.75,123.70,012,2.0,012km S 59° W of Loon (Bohol),012,S 59° W,Loon (Bohol)
 2025-11-04T05:48:00.000Z,04 November 2025 - 05:48 AM,08.83,126.38,004,1.5,013km S 42° E of Cagwait (Surigao Del Sur),013,S 42° E,Cagwait (Surigao Del Sur)
 2025-11-04T05:47:00.000Z,04 November 2025 - 05:47 AM,09.68,126.36,017,2.5,025km S 64° E of General Luna (Surigao Del Norte),025,S 64° E,General Luna (Surigao Del Norte)
-2025-11-04T05:17:00.000Z,04 November 2025 - 05:17 AM,13.77,121.81,031,1.6,019km S 66° W of Unisan (Quezon),019,S 66° W,Unisan (Quezon)

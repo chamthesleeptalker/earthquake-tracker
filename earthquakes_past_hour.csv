@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T05:25:00.000Z,05 November 2025 - 05:25 AM,18.50,120.93,034,2.1,006km N 37° E of Adams (Ilocos Norte),006,N 37° E,Adams (Ilocos Norte)
+2025-11-05T05:20:00.000Z,05 November 2025 - 05:20 AM,07.28,126.86,025,2.1,036km N 77° E of Manay (Davao Oriental),036,N 77° E,Manay (Davao Oriental)
+2025-11-05T05:16:00.000Z,05 November 2025 - 05:16 AM,09.24,126.93,005,2.7,077km N 67° E of Bayabas (Surigao Del Sur),077,N 67° E,Bayabas (Surigao Del Sur)
+2025-11-05T05:10:00.000Z,05 November 2025 - 05:10 AM,11.42,125.89,010,3.4,031km N 75° E of Hernani (Eastern Samar),031,N 75° E,Hernani (Eastern Samar)
 2025-11-05T05:02:00.000Z,05 November 2025 - 05:02 AM,11.44,125.73,013,2.7,016km N 51° E of Hernani (Eastern Samar),016,N 51° E,Hernani (Eastern Samar)
 2025-11-05T04:47:00.000Z,05 November 2025 - 04:47 AM,14.51,119.64,020,2.8,068km S 45° W of San Antonio (Zambales),068,S 45° W,San Antonio (Zambales)
-2025-11-05T04:19:00.000Z,05 November 2025 - 04:19 AM,09.71,125.77,033,2.2,015km N 30° E of Gigaquit (Surigao Del Norte),015,N 30° E,Gigaquit (Surigao Del Norte)
