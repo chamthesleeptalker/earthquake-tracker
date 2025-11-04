@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-04T15:47:00.000Z,04 November 2025 - 03:47 PM,07.50,126.71,027,2.4,037km N 30° E of Manay (Davao Oriental),037,N 30° E,Manay (Davao Oriental)
+2025-11-04T15:33:00.000Z,04 November 2025 - 03:33 PM,07.24,126.94,017,2.5,045km N 86° E of Manay (Davao Oriental),045,N 86° E,Manay (Davao Oriental)
 2025-11-04T13:40:00.000Z,04 November 2025 - 01:40 PM,08.86,126.18,035,2.2,014km N 62° W of Marihatag (Surigao Del Sur),014,N 62° W,Marihatag (Surigao Del Sur)
 2025-11-04T12:31:00.000Z,04 November 2025 - 12:31 PM,06.12,125.39,107,2.5,011km N 79° E of Alabel (Sarangani),011,N 79° E,Alabel (Sarangani)
 2025-11-04T12:29:00.000Z,04 November 2025 - 12:29 PM,12.79,121.06,030,1.8,031km S 80° E of Sablayan (Occidental Mindoro),031,S 80° E,Sablayan (Occidental Mindoro)
@@ -30,8 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-03T18:01:00.000Z,03 November 2025 - 06:01 PM,08.37,125.94,024,2.9,007km S 79° W of Rosario (Agusan Del Sur),007,S 79° W,Rosario (Agusan Del Sur)
 2025-11-03T16:18:00.000Z,03 November 2025 - 04:18 PM,09.96,126.36,007,3.3,028km N 48° E of General Luna (Surigao Del Norte),028,N 48° E,General Luna (Surigao Del Norte)
 2025-11-03T16:10:00.000Z,03 November 2025 - 04:10 PM,07.26,126.62,011,2.8,011km N 60° E of Manay (Davao Oriental),011,N 60° E,Manay (Davao Oriental)
-2025-11-03T15:03:00.000Z,03 November 2025 - 03:03 PM,14.32,120.47,131,2.4,013km S 08° W of Mariveles (Bataan),013,S 08° W,Mariveles (Bataan)
-2025-11-03T14:54:00.000Z,03 November 2025 - 02:54 PM,07.32,126.82,027,2.4,034km N 69° E of Manay (Davao Oriental),034,N 69° E,Manay (Davao Oriental)
-2025-11-03T14:46:00.000Z,03 November 2025 - 02:46 PM,07.61,124.55,005,2.2,020km S 81° W of Wao (Lanao Del Sur),020,S 81° W,Wao (Lanao Del Sur)
-2025-11-03T14:21:00.000Z,03 November 2025 - 02:21 PM,04.96,125.35,032,2.9,051km S 09° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 09° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-03T14:20:00.000Z,03 November 2025 - 02:20 PM,04.59,125.38,027,4.5,091km S 03° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),091,S 03° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
