@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T05:02:00.000Z,05 November 2025 - 05:02 AM,11.44,125.73,013,2.7,016km N 51° E of Hernani (Eastern Samar),016,N 51° E,Hernani (Eastern Samar)
+2025-11-05T04:47:00.000Z,05 November 2025 - 04:47 AM,14.51,119.64,020,2.8,068km S 45° W of San Antonio (Zambales),068,S 45° W,San Antonio (Zambales)
 2025-11-05T04:19:00.000Z,05 November 2025 - 04:19 AM,09.71,125.77,033,2.2,015km N 30° E of Gigaquit (Surigao Del Norte),015,N 30° E,Gigaquit (Surigao Del Norte)
 2025-11-05T03:40:00.000Z,05 November 2025 - 03:40 AM,16.48,119.84,015,3.3,012km N 28° W of Bolinao (Pangasinan),012,N 28° W,Bolinao (Pangasinan)
 2025-11-05T03:22:00.000Z,05 November 2025 - 03:22 AM,16.36,120.96,018,2.1,008km N 88° E of Kayapa (Nueva Vizcaya),008,N 88° E,Kayapa (Nueva Vizcaya)
