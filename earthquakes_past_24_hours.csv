@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T06:26:00.000Z,05 November 2025 - 06:26 AM,08.03,126.54,031,1.7,014km S 86° E of Lingig (Surigao Del Sur),014,S 86° E,Lingig (Surigao Del Sur)
 2025-11-05T05:25:00.000Z,05 November 2025 - 05:25 AM,18.50,120.93,034,2.1,006km N 37° E of Adams (Ilocos Norte),006,N 37° E,Adams (Ilocos Norte)
 2025-11-05T05:20:00.000Z,05 November 2025 - 05:20 AM,07.28,126.86,025,2.1,036km N 77° E of Manay (Davao Oriental),036,N 77° E,Manay (Davao Oriental)
 2025-11-05T05:16:00.000Z,05 November 2025 - 05:16 AM,09.24,126.93,005,2.7,077km N 67° E of Bayabas (Surigao Del Sur),077,N 67° E,Bayabas (Surigao Del Sur)
@@ -42,5 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T09:31:00.000Z,04 November 2025 - 09:31 AM,07.19,126.93,026,2.7,043km S 87° E of Manay (Davao Oriental),043,S 87° E,Manay (Davao Oriental)
 2025-11-04T08:11:00.000Z,04 November 2025 - 08:11 AM,09.36,122.22,011,2.1,038km S 46° W of Hinoba-an (Negros Occidental),038,S 46° W,Hinoba-an (Negros Occidental)
 2025-11-04T06:54:00.000Z,04 November 2025 - 06:54 AM,09.75,123.70,012,2.0,012km S 59° W of Loon (Bohol),012,S 59° W,Loon (Bohol)
-2025-11-04T05:48:00.000Z,04 November 2025 - 05:48 AM,08.83,126.38,004,1.5,013km S 42° E of Cagwait (Surigao Del Sur),013,S 42° E,Cagwait (Surigao Del Sur)
-2025-11-04T05:47:00.000Z,04 November 2025 - 05:47 AM,09.68,126.36,017,2.5,025km S 64° E of General Luna (Surigao Del Norte),025,S 64° E,General Luna (Surigao Del Norte)
