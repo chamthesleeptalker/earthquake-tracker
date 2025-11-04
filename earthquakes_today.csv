@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-04T19:11:00.000Z,04 November 2025 - 07:11 PM,16.30,121.76,032,2.4,009km S 64° E of Maddela (Quirino),009,S 64° E,Maddela (Quirino)
 2025-11-04T18:59:00.000Z,04 November 2025 - 06:59 PM,11.26,124.30,028,2.1,009km S 53° W of Tabango (Leyte),009,S 53° W,Tabango (Leyte)
 2025-11-04T18:56:00.000Z,04 November 2025 - 06:56 PM,10.94,123.92,001,2.2,014km S 27° W of City Of Bogo (Cebu),014,S 27° W,City Of Bogo (Cebu)
 2025-11-04T18:24:00.000Z,04 November 2025 - 06:24 PM,09.15,126.38,020,4.0,021km N 48° E of Tago (Surigao Del Sur),021,N 48° E,Tago (Surigao Del Sur)
