@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-04T08:11:00.000Z,04 November 2025 - 08:11 AM,09.36,122.22,011,2.1,038km S 46° W of Hinoba-an (Negros Occidental),038,S 46° W,Hinoba-an (Negros Occidental)
 2025-11-04T06:54:00.000Z,04 November 2025 - 06:54 AM,09.75,123.70,012,2.0,012km S 59° W of Loon (Bohol),012,S 59° W,Loon (Bohol)
 2025-11-04T05:48:00.000Z,04 November 2025 - 05:48 AM,08.83,126.38,004,1.5,013km S 42° E of Cagwait (Surigao Del Sur),013,S 42° E,Cagwait (Surigao Del Sur)
 2025-11-04T05:47:00.000Z,04 November 2025 - 05:47 AM,09.68,126.36,017,2.5,025km S 64° E of General Luna (Surigao Del Norte),025,S 64° E,General Luna (Surigao Del Norte)
