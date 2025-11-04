@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T06:46:00.000Z,05 November 2025 - 06:46 AM,14.56,119.68,020,2.6,062km S 46° W of San Antonio (Zambales),062,S 46° W,San Antonio (Zambales)
+2025-11-05T06:28:00.000Z,05 November 2025 - 06:28 AM,10.97,123.89,002,1.9,015km S 45° W of City Of Bogo (Cebu),015,S 45° W,City Of Bogo (Cebu)
 2025-11-05T06:26:00.000Z,05 November 2025 - 06:26 AM,08.03,126.54,031,1.7,014km S 86° E of Lingig (Surigao Del Sur),014,S 86° E,Lingig (Surigao Del Sur)
 2025-11-05T05:25:00.000Z,05 November 2025 - 05:25 AM,18.50,120.93,034,2.1,006km N 37° E of Adams (Ilocos Norte),006,N 37° E,Adams (Ilocos Norte)
 2025-11-05T05:20:00.000Z,05 November 2025 - 05:20 AM,07.28,126.86,025,2.1,036km N 77° E of Manay (Davao Oriental),036,N 77° E,Manay (Davao Oriental)
@@ -581,4 +583,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-29T07:28:00.000Z,29 October 2025 - 07:28 AM,09.54,126.44,006,2.5,041km S 49° E of General Luna (Surigao Del Norte),041,S 49° E,General Luna (Surigao Del Norte)
 2025-10-29T07:04:00.000Z,29 October 2025 - 07:04 AM,08.90,126.45,021,2.2,017km S 84° E of Cagwait (Surigao Del Sur),017,S 84° E,Cagwait (Surigao Del Sur)
 2025-10-29T07:01:00.000Z,29 October 2025 - 07:01 AM,09.01,126.55,010,4.7,029km N 69° E of Cagwait (Surigao Del Sur),029,N 69° E,Cagwait (Surigao Del Sur)
-2025-10-29T06:34:00.000Z,29 October 2025 - 06:34 AM,08.38,126.14,129,2.5,022km N 85° W of Hinatuan (Surigao Del Sur),022,N 85° W,Hinatuan (Surigao Del Sur)
