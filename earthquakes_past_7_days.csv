@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-04T22:30:00.000Z,04 November 2025 - 10:30 PM,05.69,125.39,079,4.2,025km N 20° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 20° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-04T22:17:00.000Z,04 November 2025 - 10:17 PM,08.38,125.62,025,1.9,018km S 44° W of San Luis (Agusan Del Sur),018,S 44° W,San Luis (Agusan Del Sur)
+2025-11-04T22:08:00.000Z,04 November 2025 - 10:08 PM,07.26,126.85,022,2.6,034km N 81° E of Manay (Davao Oriental),034,N 81° E,Manay (Davao Oriental)
 2025-11-04T21:41:00.000Z,04 November 2025 - 09:41 PM,10.81,125.37,022,1.6,033km S 02° W of Balangiga (Eastern Samar),033,S 02° W,Balangiga (Eastern Samar)
 2025-11-04T21:22:00.000Z,04 November 2025 - 09:22 PM,09.66,126.21,033,2.4,014km S 24° E of General Luna (Surigao Del Norte),014,S 24° E,General Luna (Surigao Del Norte)
 2025-11-04T21:15:00.000Z,04 November 2025 - 09:15 PM,07.35,126.90,022,3.8,042km N 69° E of Manay (Davao Oriental),042,N 69° E,Manay (Davao Oriental)
@@ -592,9 +595,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-29T00:07:00.000Z,29 October 2025 - 12:07 AM,06.89,126.80,025,2.3,046km S 39° E of Manay (Davao Oriental),046,S 39° E,Manay (Davao Oriental)
 2025-10-28T23:11:00.000Z,28 October 2025 - 11:11 PM,07.25,127.53,029,2.9,107km S 85° E of Caraga (Davao Oriental),107,S 85° E,Caraga (Davao Oriental)
 2025-10-28T22:32:00.000Z,28 October 2025 - 10:32 PM,11.06,123.90,025,2.5,009km N 78° W of City Of Bogo (Cebu),009,N 78° W,City Of Bogo (Cebu)
-2025-10-28T22:28:00.000Z,28 October 2025 - 10:28 PM,13.07,125.38,029,2.3,065km N 26° E of Palapag (Northern Samar),065,N 26° E,Palapag (Northern Samar)
-2025-10-28T22:27:00.000Z,28 October 2025 - 10:27 PM,11.00,124.08,033,1.6,012km S 67° E of City Of Bogo (Cebu),012,S 67° E,City Of Bogo (Cebu)
-2025-10-28T22:17:00.000Z,28 October 2025 - 10:17 PM,10.94,123.96,019,2.6,012km S 12° W of City Of Bogo (Cebu),012,S 12° W,City Of Bogo (Cebu)
-2025-10-28T22:02:00.000Z,28 October 2025 - 10:02 PM,08.00,126.64,021,1.9,025km S 81° E of Lingig (Surigao Del Sur),025,S 81° E,Lingig (Surigao Del Sur)
-2025-10-28T21:49:00.000Z,28 October 2025 - 09:49 PM,07.37,123.18,007,1.6,016km S 06° E of Vincenzo A. Sagun (Zamboanga Del Sur),016,S 06° E,Vincenzo A. Sagun (Zamboanga Del Sur)
-2025-10-28T21:49:00.000Z,28 October 2025 - 09:49 PM,11.09,123.94,025,2.4,007km N 42° W of City Of Bogo (Cebu),007,N 42° W,City Of Bogo (Cebu)
