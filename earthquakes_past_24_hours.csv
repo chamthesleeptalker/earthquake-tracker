@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T01:05:00.000Z,06 November 2025 - 01:05 AM,14.29,120.22,069,2.1,033km S 60° W of Mariveles (Bataan),033,S 60° W,Mariveles (Bataan)
+2025-11-06T01:00:00.000Z,06 November 2025 - 01:00 AM,14.50,124.04,002,3.1,053km N 15° W of Pandan (Catanduanes),053,N 15° W,Pandan (Catanduanes)
 2025-11-06T00:36:00.000Z,06 November 2025 - 12:36 AM,09.73,125.53,028,3.0,007km N 59° W of Taganaan (Surigao Del Norte),007,N 59° W,Taganaan (Surigao Del Norte)
 2025-11-06T00:38:00.000Z,06 November 2025 - 12:38 AM,04.48,125.45,010,4.5,103km S 1° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),103,S 1° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-06T00:08:00.000Z,06 November 2025 - 12:08 AM,10.93,123.91,007,2.1,015km S 32° W of City Of Bogo (Cebu),015,S 32° W,City Of Bogo (Cebu)
@@ -43,4 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-05T01:55:00.000Z,05 November 2025 - 01:55 AM,05.47,125.06,032,2.6,041km N 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),041,N 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-05T01:42:00.000Z,05 November 2025 - 01:42 AM,11.01,124.02,010,2.1,007km S 47° E of City Of Bogo (Cebu),007,S 47° E,City Of Bogo (Cebu)
 2025-11-05T01:42:00.000Z,05 November 2025 - 01:42 AM,11.01,124.02,010,2.1,007km S 47° E of City Of Bogo (Cebu),007,S 47° E,City Of Bogo (Cebu)
-2025-11-05T00:46:00.000Z,05 November 2025 - 12:46 AM,05.28,126.29,058,3.5,097km S 81° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),097,S 81° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
