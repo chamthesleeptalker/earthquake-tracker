@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T00:36:00.000Z,06 November 2025 - 12:36 AM,09.73,125.53,028,3.0,007km N 59° W of Taganaan (Surigao Del Norte),007,N 59° W,Taganaan (Surigao Del Norte)
+2025-11-06T00:38:00.000Z,06 November 2025 - 12:38 AM,04.48,125.45,010,4.5,103km S 1° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),103,S 1° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-06T00:08:00.000Z,06 November 2025 - 12:08 AM,10.93,123.91,007,2.1,015km S 32° W of City Of Bogo (Cebu),015,S 32° W,City Of Bogo (Cebu)
 2025-11-05T22:55:00.000Z,05 November 2025 - 10:55 PM,18.47,120.71,009,1.9,009km S 36° W of Bangui (Ilocos Norte),009,S 36° W,Bangui (Ilocos Norte)
 2025-11-05T22:35:00.000Z,05 November 2025 - 10:35 PM,11.11,123.93,006,3.0,009km N 36° W of City Of Bogo (Cebu),009,N 36° W,City Of Bogo (Cebu)
