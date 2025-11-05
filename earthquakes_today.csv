@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T21:11:00.000Z,05 November 2025 - 09:11 PM,13.93,120.17,001,2.0,010km N 34° E of Lubang (Occidental Mindoro),010,N 34° E,Lubang (Occidental Mindoro)
+2025-11-05T20:52:00.000Z,05 November 2025 - 08:52 PM,16.23,121.69,013,2.0,009km S 89° E of Nagtipunan (Quirino),009,S 89° E,Nagtipunan (Quirino)
 2025-11-05T01:43:00.000Z,05 November 2025 - 01:43 AM,10.96,123.96,002,2.1,009km S 11° W of City Of Bogo (Cebu),009,S 11° W,City Of Bogo (Cebu)
 2025-11-05T19:16:00.000Z,05 November 2025 - 07:16 PM,20.07,122.11,026,2.5,036km S 29° E of Uyugan (Batanes),036,S 29° E,Uyugan (Batanes)
 2025-11-05T19:09:00.000Z,05 November 2025 - 07:09 PM,12.84,124.72,012,2.1,036km N 05° W of Mondragon (Northern Samar),036,N 05° W,Mondragon (Northern Samar)
