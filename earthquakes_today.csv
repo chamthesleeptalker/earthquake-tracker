@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T05:55:00.000Z,06 November 2025 - 05:55 AM,10.81,124.10,008,2.0,008km S 69° E of Borbon (Cebu),008,S 69° E,Borbon (Cebu)
+2025-11-06T05:36:00.000Z,06 November 2025 - 05:36 AM,07.98,126.43,033,1.5,007km S 20° E of Lingig (Surigao Del Sur),007,S 20° E,Lingig (Surigao Del Sur)
+2025-11-06T05:33:00.000Z,06 November 2025 - 05:33 AM,11.05,121.12,033,1.6,022km N 21° E of Magsaysay (Palawan),022,N 21° E,Magsaysay (Palawan)
 2025-11-06T04:34:00.000Z,06 November 2025 - 04:34 AM,10.95,123.96,012,2.3,011km S 12° W of City Of Bogo (Cebu),011,S 12° W,City Of Bogo (Cebu)
 2025-11-06T04:25:00.000Z,06 November 2025 - 04:25 AM,08.91,126.42,022,2.3,013km S 86° E of Cagwait (Surigao Del Sur),013,S 86° E,Cagwait (Surigao Del Sur)
 2025-11-06T04:22:00.000Z,06 November 2025 - 04:22 AM,10.34,126.09,010,4.4,035km N 2° E of Burgos (Surigao Del Norte),035,N 2° E,Burgos (Surigao Del Norte)
