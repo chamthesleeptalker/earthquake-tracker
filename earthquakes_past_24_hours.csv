@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T02:06:00.000Z,06 November 2025 - 02:06 AM,07.55,127.39,009,3.5,092km S 88° E of Baganga (Davao Oriental),092,S 88° E,Baganga (Davao Oriental)
+2025-11-06T01:36:00.000Z,06 November 2025 - 01:36 AM,09.70,126.26,032,2.0,015km S 50° E of General Luna (Surigao Del Norte),015,S 50° E,General Luna (Surigao Del Norte)
 2025-11-06T01:08:00.000Z,06 November 2025 - 01:08 AM,08.78,126.49,026,2.3,025km S 53° E of Cagwait (Surigao Del Sur),025,S 53° E,Cagwait (Surigao Del Sur)
 2025-11-06T01:05:00.000Z,06 November 2025 - 01:05 AM,14.29,120.22,069,2.1,033km S 60° W of Mariveles (Bataan),033,S 60° W,Mariveles (Bataan)
 2025-11-06T01:00:00.000Z,06 November 2025 - 01:00 AM,14.50,124.04,002,3.1,053km N 15° W of Pandan (Catanduanes),053,N 15° W,Pandan (Catanduanes)
@@ -13,7 +15,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-05T21:36:00.000Z,05 November 2025 - 09:36 PM,07.23,127.02,009,3.4,053km N 87° E of Manay (Davao Oriental),053,N 87° E,Manay (Davao Oriental)
 2025-11-05T21:11:00.000Z,05 November 2025 - 09:11 PM,13.93,120.17,001,2.0,010km N 34° E of Lubang (Occidental Mindoro),010,N 34° E,Lubang (Occidental Mindoro)
 2025-11-05T20:52:00.000Z,05 November 2025 - 08:52 PM,16.23,121.69,013,2.0,009km S 89° E of Nagtipunan (Quirino),009,S 89° E,Nagtipunan (Quirino)
-2025-11-05T01:43:00.000Z,05 November 2025 - 01:43 AM,10.96,123.96,002,2.1,009km S 11° W of City Of Bogo (Cebu),009,S 11° W,City Of Bogo (Cebu)
 2025-11-05T19:16:00.000Z,05 November 2025 - 07:16 PM,20.07,122.11,026,2.5,036km S 29° E of Uyugan (Batanes),036,S 29° E,Uyugan (Batanes)
 2025-11-05T19:09:00.000Z,05 November 2025 - 07:09 PM,12.84,124.72,012,2.1,036km N 05° W of Mondragon (Northern Samar),036,N 05° W,Mondragon (Northern Samar)
 2025-11-05T18:13:00.000Z,05 November 2025 - 06:13 PM,10.91,123.94,001,2.0,016km S 17° W of City Of Bogo (Cebu),016,S 17° W,City Of Bogo (Cebu)
@@ -43,6 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-05T03:40:00.000Z,05 November 2025 - 03:40 AM,16.48,119.84,015,3.3,012km N 28° W of Bolinao (Pangasinan),012,N 28° W,Bolinao (Pangasinan)
 2025-11-05T03:22:00.000Z,05 November 2025 - 03:22 AM,16.36,120.96,018,2.1,008km N 88° E of Kayapa (Nueva Vizcaya),008,N 88° E,Kayapa (Nueva Vizcaya)
 2025-11-05T03:10:00.000Z,05 November 2025 - 03:10 AM,09.12,126.36,019,2.5,017km N 51° E of Tago (Surigao Del Sur),017,N 51° E,Tago (Surigao Del Sur)
-2025-11-05T01:55:00.000Z,05 November 2025 - 01:55 AM,05.47,125.06,032,2.6,041km N 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),041,N 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-05T01:42:00.000Z,05 November 2025 - 01:42 AM,11.01,124.02,010,2.1,007km S 47° E of City Of Bogo (Cebu),007,S 47° E,City Of Bogo (Cebu)
-2025-11-05T01:42:00.000Z,05 November 2025 - 01:42 AM,11.01,124.02,010,2.1,007km S 47° E of City Of Bogo (Cebu),007,S 47° E,City Of Bogo (Cebu)

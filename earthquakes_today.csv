@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T02:06:00.000Z,06 November 2025 - 02:06 AM,07.55,127.39,009,3.5,092km S 88° E of Baganga (Davao Oriental),092,S 88° E,Baganga (Davao Oriental)
+2025-11-06T01:36:00.000Z,06 November 2025 - 01:36 AM,09.70,126.26,032,2.0,015km S 50° E of General Luna (Surigao Del Norte),015,S 50° E,General Luna (Surigao Del Norte)
 2025-11-06T01:08:00.000Z,06 November 2025 - 01:08 AM,08.78,126.49,026,2.3,025km S 53° E of Cagwait (Surigao Del Sur),025,S 53° E,Cagwait (Surigao Del Sur)
 2025-11-06T01:05:00.000Z,06 November 2025 - 01:05 AM,14.29,120.22,069,2.1,033km S 60° W of Mariveles (Bataan),033,S 60° W,Mariveles (Bataan)
 2025-11-06T01:00:00.000Z,06 November 2025 - 01:00 AM,14.50,124.04,002,3.1,053km N 15° W of Pandan (Catanduanes),053,N 15° W,Pandan (Catanduanes)
