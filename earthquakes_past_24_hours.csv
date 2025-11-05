@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T19:16:00.000Z,05 November 2025 - 07:16 PM,20.07,122.11,026,2.5,036km S 29° E of Uyugan (Batanes),036,S 29° E,Uyugan (Batanes)
+2025-11-05T19:09:00.000Z,05 November 2025 - 07:09 PM,12.84,124.72,012,2.1,036km N 05° W of Mondragon (Northern Samar),036,N 05° W,Mondragon (Northern Samar)
 2025-11-05T18:13:00.000Z,05 November 2025 - 06:13 PM,10.91,123.94,001,2.0,016km S 17° W of City Of Bogo (Cebu),016,S 17° W,City Of Bogo (Cebu)
 2025-11-05T18:12:00.000Z,05 November 2025 - 06:12 PM,09.04,126.50,024,2.3,025km N 72° E of Bayabas (Surigao Del Sur),025,N 72° E,Bayabas (Surigao Del Sur)
 2025-11-05T18:01:00.000Z,05 November 2025 - 06:01 PM,10.29,123.11,012,1.9,004km N 61° E of Moises Padilla (Negros Occidental),004,N 61° E,Moises Padilla (Negros Occidental)
@@ -43,7 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T20:48:00.000Z,04 November 2025 - 08:48 PM,04.82,125.82,015,3.4,075km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),075,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-04T20:12:00.000Z,04 November 2025 - 08:12 PM,10.87,123.07,033,1.8,004km South of City Of Victorias (Negros Occidental),004,South of City,Victorias (Negros Occidental)
 2025-11-04T19:36:00.000Z,04 November 2025 - 07:36 PM,07.62,126.59,018,2.8,006km N 35° E of Baganga (Davao Oriental),006,N 35° E,Baganga (Davao Oriental)
-2025-11-04T19:11:00.000Z,04 November 2025 - 07:11 PM,16.30,121.76,032,2.4,009km S 64° E of Maddela (Quirino),009,S 64° E,Maddela (Quirino)
-2025-11-04T18:59:00.000Z,04 November 2025 - 06:59 PM,11.26,124.30,028,2.1,009km S 53° W of Tabango (Leyte),009,S 53° W,Tabango (Leyte)
-2025-11-04T18:56:00.000Z,04 November 2025 - 06:56 PM,10.94,123.92,001,2.2,014km S 27° W of City Of Bogo (Cebu),014,S 27° W,City Of Bogo (Cebu)
-2025-11-04T18:24:00.000Z,04 November 2025 - 06:24 PM,09.15,126.38,020,4.0,021km N 48° E of Tago (Surigao Del Sur),021,N 48° E,Tago (Surigao Del Sur)
