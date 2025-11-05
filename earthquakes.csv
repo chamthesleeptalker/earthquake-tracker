@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T22:19:00.000Z,05 November 2025 - 10:19 PM,17.27,120.77,033,1.8,005km N 75° E of Tubo (Abra),005,N 75° E,Tubo (Abra)
 2025-11-05T21:46:00.000Z,05 November 2025 - 09:46 PM,08.88,126.27,031,2.2,006km S 40° W of Cagwait (Surigao Del Sur),006,S 40° W,Cagwait (Surigao Del Sur)
 2025-11-05T21:47:00.000Z,05 November 2025 - 09:47 PM,10.97,123.90,005,3.8,012km S 45° W of City Of Bogo (Cebu),012,S 45° W,City Of Bogo (Cebu)
 2025-11-05T21:36:00.000Z,05 November 2025 - 09:36 PM,07.23,127.02,009,3.4,053km N 87° E of Manay (Davao Oriental),053,N 87° E,Manay (Davao Oriental)
