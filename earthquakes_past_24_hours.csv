@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T04:25:00.000Z,06 November 2025 - 04:25 AM,08.91,126.42,022,2.3,013km S 86° E of Cagwait (Surigao Del Sur),013,S 86° E,Cagwait (Surigao Del Sur)
+2025-11-06T04:22:00.000Z,06 November 2025 - 04:22 AM,10.34,126.09,010,4.4,035km N 2° E of Burgos (Surigao Del Norte),035,N 2° E,Burgos (Surigao Del Norte)
 2025-11-06T03:49:00.000Z,06 November 2025 - 03:49 AM,13.58,120.64,098,1.8,018km N 30° W of Abra De Ilog (Occidental Mindoro),018,N 30° W,Abra De Ilog (Occidental Mindoro)
 2025-11-06T03:40:00.000Z,06 November 2025 - 03:40 AM,10.88,123.87,001,2.3,022km S 33° W of City Of Bogo (Cebu),022,S 33° W,City Of Bogo (Cebu)
 2025-11-06T02:06:00.000Z,06 November 2025 - 02:06 AM,07.55,127.39,009,3.5,092km S 88° E of Baganga (Davao Oriental),092,S 88° E,Baganga (Davao Oriental)
@@ -42,4 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-05T05:10:00.000Z,05 November 2025 - 05:10 AM,11.42,125.89,010,3.4,031km N 75° E of Hernani (Eastern Samar),031,N 75° E,Hernani (Eastern Samar)
 2025-11-05T05:02:00.000Z,05 November 2025 - 05:02 AM,11.44,125.73,013,2.7,016km N 51° E of Hernani (Eastern Samar),016,N 51° E,Hernani (Eastern Samar)
 2025-11-05T04:47:00.000Z,05 November 2025 - 04:47 AM,14.51,119.64,020,2.8,068km S 45° W of San Antonio (Zambales),068,S 45° W,San Antonio (Zambales)
-2025-11-05T04:19:00.000Z,05 November 2025 - 04:19 AM,09.71,125.77,033,2.2,015km N 30° E of Gigaquit (Surigao Del Norte),015,N 30° E,Gigaquit (Surigao Del Norte)
