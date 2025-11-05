@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T00:08:00.000Z,06 November 2025 - 12:08 AM,10.93,123.91,007,2.1,015km S 32° W of City Of Bogo (Cebu),015,S 32° W,City Of Bogo (Cebu)
 2025-11-05T22:55:00.000Z,05 November 2025 - 10:55 PM,18.47,120.71,009,1.9,009km S 36° W of Bangui (Ilocos Norte),009,S 36° W,Bangui (Ilocos Norte)
 2025-11-05T22:35:00.000Z,05 November 2025 - 10:35 PM,11.11,123.93,006,3.0,009km N 36° W of City Of Bogo (Cebu),009,N 36° W,City Of Bogo (Cebu)
 2025-11-05T22:19:00.000Z,05 November 2025 - 10:19 PM,17.27,120.77,033,1.8,005km N 75° E of Tubo (Abra),005,N 75° E,Tubo (Abra)
