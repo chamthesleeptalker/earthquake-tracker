@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T21:46:00.000Z,05 November 2025 - 09:46 PM,08.88,126.27,031,2.2,006km S 40° W of Cagwait (Surigao Del Sur),006,S 40° W,Cagwait (Surigao Del Sur)
+2025-11-05T21:47:00.000Z,05 November 2025 - 09:47 PM,10.97,123.90,005,3.8,012km S 45° W of City Of Bogo (Cebu),012,S 45° W,City Of Bogo (Cebu)
+2025-11-05T21:36:00.000Z,05 November 2025 - 09:36 PM,07.23,127.02,009,3.4,053km N 87° E of Manay (Davao Oriental),053,N 87° E,Manay (Davao Oriental)
 2025-11-05T21:11:00.000Z,05 November 2025 - 09:11 PM,13.93,120.17,001,2.0,010km N 34° E of Lubang (Occidental Mindoro),010,N 34° E,Lubang (Occidental Mindoro)
 2025-11-05T20:52:00.000Z,05 November 2025 - 08:52 PM,16.23,121.69,013,2.0,009km S 89° E of Nagtipunan (Quirino),009,S 89° E,Nagtipunan (Quirino)
 2025-11-05T01:43:00.000Z,05 November 2025 - 01:43 AM,10.96,123.96,002,2.1,009km S 11° W of City Of Bogo (Cebu),009,S 11° W,City Of Bogo (Cebu)
@@ -42,6 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T22:30:00.000Z,04 November 2025 - 10:30 PM,05.69,125.39,079,4.2,025km N 20° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 20° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-04T22:17:00.000Z,04 November 2025 - 10:17 PM,08.38,125.62,025,1.9,018km S 44° W of San Luis (Agusan Del Sur),018,S 44° W,San Luis (Agusan Del Sur)
 2025-11-04T22:08:00.000Z,04 November 2025 - 10:08 PM,07.26,126.85,022,2.6,034km N 81° E of Manay (Davao Oriental),034,N 81° E,Manay (Davao Oriental)
-2025-11-04T21:41:00.000Z,04 November 2025 - 09:41 PM,10.81,125.37,022,1.6,033km S 02° W of Balangiga (Eastern Samar),033,S 02° W,Balangiga (Eastern Samar)
-2025-11-04T21:22:00.000Z,04 November 2025 - 09:22 PM,09.66,126.21,033,2.4,014km S 24° E of General Luna (Surigao Del Norte),014,S 24° E,General Luna (Surigao Del Norte)
-2025-11-04T21:15:00.000Z,04 November 2025 - 09:15 PM,07.35,126.90,022,3.8,042km N 69° E of Manay (Davao Oriental),042,N 69° E,Manay (Davao Oriental)
