@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-05T11:03:00.000Z,05 November 2025 - 11:03 AM,11.06,124.05,009,1.5,008km N 76° E of City Of Bogo (Cebu),008,N 76° E,City Of Bogo (Cebu)
+2025-11-05T10:54:00.000Z,05 November 2025 - 10:54 AM,13.59,121.23,009,2.1,006km S 17° E of Lobo (Batangas),006,S 17° E,Lobo (Batangas)
 2025-11-05T10:22:00.000Z,05 November 2025 - 10:22 AM,07.05,127.19,010,4.1,073km S 76° E of Manay (Davao Oriental),073,S 76° E,Manay (Davao Oriental)
 2025-11-05T10:00:00.000Z,05 November 2025 - 10:00 AM,10.97,123.93,003,2.7,010km S 31° W of City Of Bogo (Cebu),010,S 31° W,City Of Bogo (Cebu)
 2025-11-05T09:58:00.000Z,05 November 2025 - 09:58 AM,13.67,120.86,057,1.9,002km N 60° W of Tingloy (Batangas),002,N 60° W,Tingloy (Batangas)
@@ -579,4 +581,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-29T11:48:00.000Z,29 October 2025 - 11:48 AM,09.63,126.21,033,1.5,017km S 18° E of General Luna (Surigao Del Norte),017,S 18° E,General Luna (Surigao Del Norte)
 2025-10-29T11:42:00.000Z,29 October 2025 - 11:42 AM,13.71,120.90,029,2.0,006km S 44° W of Mabini (Batangas),006,S 44° W,Mabini (Batangas)
 2025-10-29T11:33:00.000Z,29 October 2025 - 11:33 AM,05.90,125.64,077,2.7,001km S 17° W of Jose Abad Santos (Davao Occidental),001,S 17° W,Jose Abad Santos (Davao Occidental)
-2025-10-29T10:54:00.000Z,29 October 2025 - 10:54 AM,10.74,123.66,014,1.4,016km N 80° E of Toboso (Negros Occidental),016,N 80° E,Toboso (Negros Occidental)
