@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T18:22:00.000Z,06 November 2025 - 06:22 PM,09.61,126.41,008,1.9,033km S 55° E of General Luna (Surigao Del Norte),033,S 55° E,General Luna (Surigao Del Norte)
+2025-11-06T18:18:00.000Z,06 November 2025 - 06:18 PM,11.00,123.95,004,2.7,006km S 28° W of City Of Bogo (Cebu),006,S 28° W,City Of Bogo (Cebu)
 2025-11-06T18:04:00.000Z,06 November 2025 - 06:04 PM,14.49,123.96,015,2.7,054km N 25° W of Pandan (Catanduanes),054,N 25° W,Pandan (Catanduanes)
 2025-11-06T17:18:00.000Z,06 November 2025 - 05:18 PM,11.13,124.12,004,3.2,018km N 59° E of City Of Bogo (Cebu),018,N 59° E,City Of Bogo (Cebu)
 2025-11-06T16:29:00.000Z,06 November 2025 - 04:29 PM,10.41,125.14,006,2.1,006km N 76° W of Hinunangan (Southern Leyte),006,N 76° W,Hinunangan (Southern Leyte)
@@ -41,5 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-05T20:52:00.000Z,05 November 2025 - 08:52 PM,16.23,121.69,013,2.0,009km S 89° E of Nagtipunan (Quirino),009,S 89° E,Nagtipunan (Quirino)
 2025-11-05T19:16:00.000Z,05 November 2025 - 07:16 PM,20.07,122.11,026,2.5,036km S 29° E of Uyugan (Batanes),036,S 29° E,Uyugan (Batanes)
 2025-11-05T19:09:00.000Z,05 November 2025 - 07:09 PM,12.84,124.72,012,2.1,036km N 05° W of Mondragon (Northern Samar),036,N 05° W,Mondragon (Northern Samar)
-2025-11-05T18:13:00.000Z,05 November 2025 - 06:13 PM,10.91,123.94,001,2.0,016km S 17° W of City Of Bogo (Cebu),016,S 17° W,City Of Bogo (Cebu)
-2025-11-05T18:12:00.000Z,05 November 2025 - 06:12 PM,09.04,126.50,024,2.3,025km N 72° E of Bayabas (Surigao Del Sur),025,N 72° E,Bayabas (Surigao Del Sur)
