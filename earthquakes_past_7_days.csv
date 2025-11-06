@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T03:10:00.000Z,07 November 2025 - 03:10 AM,14.41,121.80,033,1.2,017km N 06° W of Cagbalete Island (Mauban) (Quezon),017,N 06° W,Cagbalete Island (Mauban) (Quezon)
+2025-11-07T03:00:00.000Z,07 November 2025 - 03:00 AM,11.10,124.04,031,1.4,009km N 45° E of City Of Bogo (Cebu),009,N 45° E,City Of Bogo (Cebu)
+2025-11-07T02:42:00.000Z,07 November 2025 - 02:42 AM,20.86,120.84,005,3.0,104km N 86° W of Itbayat (Batanes),104,N 86° W,Itbayat (Batanes)
 2025-11-07T02:41:00.000Z,07 November 2025 - 02:41 AM,14.21,120.43,108,2.0,025km S 15° W of Mariveles (Bataan),025,S 15° W,Mariveles (Bataan)
 2025-11-07T02:28:00.000Z,07 November 2025 - 02:28 AM,07.83,126.38,036,1.5,005km S 11° E of Boston (Davao Oriental),005,S 11° E,Boston (Davao Oriental)
 2025-11-07T01:50:00.000Z,07 November 2025 - 01:50 AM,08.41,125.89,032,1.7,012km S 68° E of Talacogon (Agusan Del Sur),012,S 68° E,Talacogon (Agusan Del Sur)
@@ -486,5 +489,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T03:28:00.000Z,31 October 2025 - 03:28 AM,09.63,126.15,030,2.3,016km S 02° W of General Luna (Surigao Del Norte),016,S 02° W,General Luna (Surigao Del Norte)
 2025-10-31T03:26:00.000Z,31 October 2025 - 03:26 AM,11.10,124.15,032,1.4,019km N 73° E of City Of Bogo (Cebu),019,N 73° E,City Of Bogo (Cebu)
 2025-10-31T03:24:00.000Z,31 October 2025 - 03:24 AM,16.92,120.16,027,2.5,024km N 73° W of Luna (La Union),024,N 73° W,Luna (La Union)
-2025-10-31T03:09:00.000Z,31 October 2025 - 03:09 AM,05.62,127.34,101,3.1,181km S 51° E of Governor Generoso (Davao Oriental),181,S 51° E,Governor Generoso (Davao Oriental)
-2025-10-31T02:49:00.000Z,31 October 2025 - 02:49 AM,08.97,126.53,022,2.1,025km N 78° E of Cagwait (Surigao Del Sur),025,N 78° E,Cagwait (Surigao Del Sur)
