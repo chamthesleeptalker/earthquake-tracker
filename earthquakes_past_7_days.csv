@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T02:41:00.000Z,07 November 2025 - 02:41 AM,14.21,120.43,108,2.0,025km S 15° W of Mariveles (Bataan),025,S 15° W,Mariveles (Bataan)
+2025-11-07T02:28:00.000Z,07 November 2025 - 02:28 AM,07.83,126.38,036,1.5,005km S 11° E of Boston (Davao Oriental),005,S 11° E,Boston (Davao Oriental)
 2025-11-07T01:50:00.000Z,07 November 2025 - 01:50 AM,08.41,125.89,032,1.7,012km S 68° E of Talacogon (Agusan Del Sur),012,S 68° E,Talacogon (Agusan Del Sur)
 2025-11-07T01:23:00.000Z,07 November 2025 - 01:23 AM,14.99,120.07,020,2.3,003km S 25° W of San Narciso (Zambales),003,S 25° W,San Narciso (Zambales)
 2025-11-07T01:19:00.000Z,07 November 2025 - 01:19 AM,09.07,126.54,020,2.1,031km N 57° E of Cagwait (Surigao Del Sur),031,N 57° E,Cagwait (Surigao Del Sur)
@@ -486,5 +488,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T03:24:00.000Z,31 October 2025 - 03:24 AM,16.92,120.16,027,2.5,024km N 73° W of Luna (La Union),024,N 73° W,Luna (La Union)
 2025-10-31T03:09:00.000Z,31 October 2025 - 03:09 AM,05.62,127.34,101,3.1,181km S 51° E of Governor Generoso (Davao Oriental),181,S 51° E,Governor Generoso (Davao Oriental)
 2025-10-31T02:49:00.000Z,31 October 2025 - 02:49 AM,08.97,126.53,022,2.1,025km N 78° E of Cagwait (Surigao Del Sur),025,N 78° E,Cagwait (Surigao Del Sur)
-2025-10-31T02:00:00.000Z,31 October 2025 - 02:00 AM,10.89,123.97,002,2.0,018km S 02° W of City Of Bogo (Cebu),018,S 02° W,City Of Bogo (Cebu)
-2025-10-31T01:55:00.000Z,31 October 2025 - 01:55 AM,11.18,123.98,012,2.0,014km N 01° W of City Of Bogo (Cebu),014,N 01° W,City Of Bogo (Cebu)
