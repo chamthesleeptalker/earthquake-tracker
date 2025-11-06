@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T22:51:00.000Z,06 November 2025 - 10:51 PM,11.12,123.94,007,2.5,009km N 28° W of City Of Bogo (Cebu),009,N 28° W,City Of Bogo (Cebu)
 2025-11-06T22:27:00.000Z,06 November 2025 - 10:27 PM,12.19,125.42,014,2.6,006km N 27° W of Oras (Eastern Samar),006,N 27° W,Oras (Eastern Samar)
 2025-11-06T22:23:00.000Z,06 November 2025 - 10:23 PM,11.01,123.98,032,1.8,005km S 01° W of City Of Bogo (Cebu),005,S 01° W,City Of Bogo (Cebu)
 2025-11-06T22:23:00.000Z,06 November 2025 - 10:23 PM,09.68,126.18,033,1.4,012km S 14° E of General Luna (Surigao Del Norte),012,S 14° E,General Luna (Surigao Del Norte)
@@ -492,9 +493,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-30T23:34:00.000Z,30 October 2025 - 11:34 PM,07.16,127.19,032,2.4,072km S 85° E of Manay (Davao Oriental),072,S 85° E,Manay (Davao Oriental)
 2025-10-30T23:25:00.000Z,30 October 2025 - 11:25 PM,07.28,127.02,010,2.7,053km N 82° E of Manay (Davao Oriental),053,N 82° E,Manay (Davao Oriental)
 2025-10-30T23:04:00.000Z,30 October 2025 - 11:04 PM,11.02,124.13,001,1.7,016km S 81° E of City Of Bogo (Cebu),016,S 81° E,City Of Bogo (Cebu)
-2025-10-30T22:44:00.000Z,30 October 2025 - 10:44 PM,11.18,124.12,010,2.2,022km N 46° E of City Of Bogo (Cebu),022,N 46° E,City Of Bogo (Cebu)
-2025-10-30T22:41:00.000Z,30 October 2025 - 10:41 PM,09.64,126.18,031,2.0,016km S 09° E of General Luna (Surigao Del Norte),016,S 09° E,General Luna (Surigao Del Norte)
-2025-10-30T22:40:00.000Z,30 October 2025 - 10:40 PM,17.92,120.36,030,2.6,012km S 88° W of Badoc (Ilocos Norte),012,S 88° W,Badoc (Ilocos Norte)
-2025-10-30T22:40:00.000Z,30 October 2025 - 10:40 PM,07.93,125.91,030,2.0,015km S 65° W of Santa Josefa (Agusan Del Sur),015,S 65° W,Santa Josefa (Agusan Del Sur)
-2025-10-30T22:37:00.000Z,30 October 2025 - 10:37 PM,09.60,126.15,036,1.8,020km S 02° W of General Luna (Surigao Del Norte),020,S 02° W,General Luna (Surigao Del Norte)
-2025-10-30T22:36:00.000Z,30 October 2025 - 10:36 PM,13.08,124.14,089,2.2,007km N 52° W of Prieto Diaz (Sorsogon),007,N 52° W,Prieto Diaz (Sorsogon)

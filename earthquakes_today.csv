@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T22:51:00.000Z,06 November 2025 - 10:51 PM,11.12,123.94,007,2.5,009km N 28° W of City Of Bogo (Cebu),009,N 28° W,City Of Bogo (Cebu)
 2025-11-06T22:27:00.000Z,06 November 2025 - 10:27 PM,12.19,125.42,014,2.6,006km N 27° W of Oras (Eastern Samar),006,N 27° W,Oras (Eastern Samar)
 2025-11-06T22:23:00.000Z,06 November 2025 - 10:23 PM,11.01,123.98,032,1.8,005km S 01° W of City Of Bogo (Cebu),005,S 01° W,City Of Bogo (Cebu)
 2025-11-06T22:23:00.000Z,06 November 2025 - 10:23 PM,09.68,126.18,033,1.4,012km S 14° E of General Luna (Surigao Del Norte),012,S 14° E,General Luna (Surigao Del Norte)
