@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T01:23:00.000Z,07 November 2025 - 01:23 AM,14.99,120.07,020,2.3,003km S 25° W of San Narciso (Zambales),003,S 25° W,San Narciso (Zambales)
+2025-11-07T01:19:00.000Z,07 November 2025 - 01:19 AM,09.07,126.54,020,2.1,031km N 57° E of Cagwait (Surigao Del Sur),031,N 57° E,Cagwait (Surigao Del Sur)
 2025-11-07T01:05:00.000Z,07 November 2025 - 01:05 AM,07.13,126.79,024,2.3,029km S 73° E of Manay (Davao Oriental),029,S 73° E,Manay (Davao Oriental)
 2025-11-07T00:40:00.000Z,07 November 2025 - 12:40 AM,14.78,120.03,038,1.8,020km S 19° W of San Antonio (Zambales),020,S 19° W,San Antonio (Zambales)
