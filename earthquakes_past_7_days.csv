@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T16:29:00.000Z,06 November 2025 - 04:29 PM,10.41,125.14,006,2.1,006km N 76° W of Hinunangan (Southern Leyte),006,N 76° W,Hinunangan (Southern Leyte)
 2025-11-06T16:07:00.000Z,06 November 2025 - 04:07 PM,13.76,120.56,087,1.9,011km S 45° W of Calatagan (Batangas),011,S 45° W,Calatagan (Batangas)
 2025-11-06T15:57:00.000Z,06 November 2025 - 03:57 PM,07.31,126.81,010,5.1,031km N 69° E of Manay (Davao Oriental),031,N 69° E,Manay (Davao Oriental)
 2025-11-06T15:45:00.000Z,06 November 2025 - 03:45 PM,13.99,120.43,062,1.9,024km S 66° W of Nasugbu (Batangas),024,S 66° W,Nasugbu (Batangas)
@@ -515,5 +516,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-30T17:40:00.000Z,30 October 2025 - 05:40 PM,11.13,124.18,009,1.8,024km N 66° E of City Of Bogo (Cebu),024,N 66° E,City Of Bogo (Cebu)
 2025-10-30T17:26:00.000Z,30 October 2025 - 05:26 PM,11.17,124.14,002,3.3,022km N 52° E of City Of Bogo (Cebu),022,N 52° E,City Of Bogo (Cebu)
 2025-10-30T16:52:00.000Z,30 October 2025 - 04:52 PM,11.13,124.10,028,2.2,016km N 56° E of City Of Bogo (Cebu),016,N 56° E,City Of Bogo (Cebu)
-2025-10-30T16:15:00.000Z,30 October 2025 - 04:15 PM,13.94,119.86,080,2.2,030km N 73° W of Lubang (Occidental Mindoro),030,N 73° W,Lubang (Occidental Mindoro)
-2025-10-30T16:12:00.000Z,30 October 2025 - 04:12 PM,07.61,126.62,026,2.6,045km N 11° E of Manay (Davao Oriental),045,N 11° E,Manay (Davao Oriental)
