@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T10:11:00.000Z,06 November 2025 - 10:11 AM,08.52,122.52,054,2.7,047km N 21° W of Liloy (Zamboanga Del Norte),047,N 21° W,Liloy (Zamboanga Del Norte)
 2025-11-06T06:36:00.000Z,06 November 2025 - 06:36 AM,11.10,123.90,001,3.5,011km N 54° W of City Of Bogo (Cebu),011,N 54° W,City Of Bogo (Cebu)
 2025-11-06T05:55:00.000Z,06 November 2025 - 05:55 AM,10.81,124.10,008,2.0,008km S 69° E of Borbon (Cebu),008,S 69° E,Borbon (Cebu)
 2025-11-06T05:36:00.000Z,06 November 2025 - 05:36 AM,07.98,126.43,033,1.5,007km S 20° E of Lingig (Surigao Del Sur),007,S 20° E,Lingig (Surigao Del Sur)
