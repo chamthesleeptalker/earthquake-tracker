@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T12:35:00.000Z,06 November 2025 - 12:35 PM,09.60,126.07,003,2.7,022km S 24° W of General Luna (Surigao Del Norte),022,S 24° W,General Luna (Surigao Del Norte)
 2025-11-06T10:53:00.000Z,06 November 2025 - 10:53 AM,15.66,120.07,030,1.9,015km N 76° E of Candelaria (Zambales),015,N 76° E,Candelaria (Zambales)
 2025-11-06T10:47:00.000Z,06 November 2025 - 10:47 AM,14.57,120.27,022,2.6,013km S 02° E of Morong (Bataan),013,S 02° E,Morong (Bataan)
 2025-11-06T10:11:00.000Z,06 November 2025 - 10:11 AM,08.52,122.52,054,2.7,047km N 21° W of Liloy (Zamboanga Del Norte),047,N 21° W,Liloy (Zamboanga Del Norte)
