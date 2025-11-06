@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T01:05:00.000Z,07 November 2025 - 01:05 AM,07.13,126.79,024,2.3,029km S 73° E of Manay (Davao Oriental),029,S 73° E,Manay (Davao Oriental)
 2025-11-07T00:40:00.000Z,07 November 2025 - 12:40 AM,14.78,120.03,038,1.8,020km S 19° W of San Antonio (Zambales),020,S 19° W,San Antonio (Zambales)
 2025-11-06T23:58:00.000Z,06 November 2025 - 11:58 PM,12.83,120.92,006,2.2,016km S 85° E of Sablayan (Occidental Mindoro),016,S 85° E,Sablayan (Occidental Mindoro)
 2025-11-06T23:42:00.000Z,06 November 2025 - 11:42 PM,04.21,125.95,155,3.6,145km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),145,S 24° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
