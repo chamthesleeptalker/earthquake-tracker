@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T00:40:00.000Z,07 November 2025 - 12:40 AM,14.78,120.03,038,1.8,020km S 19° W of San Antonio (Zambales),020,S 19° W,San Antonio (Zambales)
 2025-11-06T23:58:00.000Z,06 November 2025 - 11:58 PM,12.83,120.92,006,2.2,016km S 85° E of Sablayan (Occidental Mindoro),016,S 85° E,Sablayan (Occidental Mindoro)
 2025-11-06T23:42:00.000Z,06 November 2025 - 11:42 PM,04.21,125.95,155,3.6,145km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),145,S 24° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-06T23:16:00.000Z,06 November 2025 - 11:16 PM,06.16,120.58,001,2.6,015km S 03° W of Pangutaran (Sulu),015,S 03° W,Pangutaran (Sulu)
@@ -47,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T01:08:00.000Z,06 November 2025 - 01:08 AM,08.78,126.49,026,2.3,025km S 53° E of Cagwait (Surigao Del Sur),025,S 53° E,Cagwait (Surigao Del Sur)
 2025-11-06T01:05:00.000Z,06 November 2025 - 01:05 AM,14.29,120.22,069,2.1,033km S 60° W of Mariveles (Bataan),033,S 60° W,Mariveles (Bataan)
 2025-11-06T01:00:00.000Z,06 November 2025 - 01:00 AM,14.50,124.04,002,3.1,053km N 15° W of Pandan (Catanduanes),053,N 15° W,Pandan (Catanduanes)
-2025-11-06T00:36:00.000Z,06 November 2025 - 12:36 AM,09.73,125.53,028,3.0,007km N 59° W of Taganaan (Surigao Del Norte),007,N 59° W,Taganaan (Surigao Del Norte)
-2025-11-06T00:38:00.000Z,06 November 2025 - 12:38 AM,04.48,125.45,010,4.5,103km S 1° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),103,S 1° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-06T00:08:00.000Z,06 November 2025 - 12:08 AM,10.93,123.91,007,2.1,015km S 32° W of City Of Bogo (Cebu),015,S 32° W,City Of Bogo (Cebu)

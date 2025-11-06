@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T00:40:00.000Z,07 November 2025 - 12:40 AM,14.78,120.03,038,1.8,020km S 19° W of San Antonio (Zambales),020,S 19° W,San Antonio (Zambales)
 2025-11-06T23:58:00.000Z,06 November 2025 - 11:58 PM,12.83,120.92,006,2.2,016km S 85° E of Sablayan (Occidental Mindoro),016,S 85° E,Sablayan (Occidental Mindoro)
 2025-11-06T23:42:00.000Z,06 November 2025 - 11:42 PM,04.21,125.95,155,3.6,145km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),145,S 24° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-06T23:16:00.000Z,06 November 2025 - 11:16 PM,06.16,120.58,001,2.6,015km S 03° W of Pangutaran (Sulu),015,S 03° W,Pangutaran (Sulu)
@@ -492,5 +493,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-31T01:13:00.000Z,31 October 2025 - 01:13 AM,16.33,120.13,059,2.1,020km N 76° E of Anda (Pangasinan),020,N 76° E,Anda (Pangasinan)
 2025-10-31T01:01:00.000Z,31 October 2025 - 01:01 AM,16.00,119.67,030,2.0,019km S 47° W of Agno (Pangasinan),019,S 47° W,Agno (Pangasinan)
 2025-10-31T00:45:00.000Z,31 October 2025 - 12:45 AM,11.04,123.91,007,2.1,007km S 81° W of City Of Bogo (Cebu),007,S 81° W,City Of Bogo (Cebu)
-2025-10-31T00:36:00.000Z,31 October 2025 - 12:36 AM,08.04,127.38,025,3.2,104km N 61° E of Baganga (Davao Oriental),104,N 61° E,Baganga (Davao Oriental)
-2025-10-31T00:21:00.000Z,31 October 2025 - 12:21 AM,09.59,126.16,032,2.0,021km S 01° E of General Luna (Surigao Del Norte),021,S 01° E,General Luna (Surigao Del Norte)
