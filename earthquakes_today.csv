@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-06T17:18:00.000Z,06 November 2025 - 05:18 PM,11.13,124.12,004,3.2,018km N 59° E of City Of Bogo (Cebu),018,N 59° E,City Of Bogo (Cebu)
 2025-11-06T16:29:00.000Z,06 November 2025 - 04:29 PM,10.41,125.14,006,2.1,006km N 76° W of Hinunangan (Southern Leyte),006,N 76° W,Hinunangan (Southern Leyte)
 2025-11-06T16:07:00.000Z,06 November 2025 - 04:07 PM,13.76,120.56,087,1.9,011km S 45° W of Calatagan (Batangas),011,S 45° W,Calatagan (Batangas)
 2025-11-06T15:57:00.000Z,06 November 2025 - 03:57 PM,07.31,126.81,010,5.1,031km N 69° E of Manay (Davao Oriental),031,N 69° E,Manay (Davao Oriental)
