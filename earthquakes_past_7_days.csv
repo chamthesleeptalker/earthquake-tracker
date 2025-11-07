@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T06:59:00.000Z,08 November 2025 - 06:59 AM,10.32,123.59,012,1.8,010km S 46° W of City Of Toledo (Cebu),010,S 46° W,City Of Toledo (Cebu)
 2025-11-08T06:00:00.000Z,08 November 2025 - 06:00 AM,15.99,119.82,035,1.5,007km S 89° W of Dasol (Pangasinan),007,S 89° W,Dasol (Pangasinan)
 2025-11-08T05:58:00.000Z,08 November 2025 - 05:58 AM,11.09,124.18,009,2.1,022km N 77° E of City Of Bogo (Cebu),022,N 77° E,City Of Bogo (Cebu)
 2025-11-08T05:04:00.000Z,08 November 2025 - 05:04 AM,07.95,124.58,002,2.5,021km N 33° W of Amai Manabilang (Lanao Del Sur),021,N 33° W,Amai Manabilang (Lanao Del Sur)
@@ -446,7 +447,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T07:39:00.000Z,01 November 2025 - 07:39 AM,09.03,126.50,034,2.2,025km N 61° E of Cagwait (Surigao Del Sur),025,N 61° E,Cagwait (Surigao Del Sur)
 2025-11-01T07:10:00.000Z,01 November 2025 - 07:10 AM,07.44,126.63,001,2.5,027km N 21° E of Manay (Davao Oriental),027,N 21° E,Manay (Davao Oriental)
 2025-11-01T07:07:00.000Z,01 November 2025 - 07:07 AM,20.10,121.21,014,2.8,074km S 69° W of Sabtang (Batanes),074,S 69° W,Sabtang (Batanes)
-2025-11-01T06:46:00.000Z,01 November 2025 - 06:46 AM,14.17,120.44,110,2.2,023km N 63° W of Nasugbu (Batangas),023,N 63° W,Nasugbu (Batangas)
-2025-11-01T06:37:00.000Z,01 November 2025 - 06:37 AM,06.35,127.81,077,3.4,170km S 63° E of Tarragona (Davao Oriental),170,S 63° E,Tarragona (Davao Oriental)
-2025-11-01T06:20:00.000Z,01 November 2025 - 06:20 AM,11.19,124.18,020,1.3,027km N 54° E of City Of Bogo (Cebu),027,N 54° E,City Of Bogo (Cebu)
-2025-11-01T06:02:00.000Z,01 November 2025 - 06:02 AM,05.90,127.82,005,4.5,198km S 50° E of Tarragona (Davao Oriental),198,S 50° E,Tarragona (Davao Oriental)
