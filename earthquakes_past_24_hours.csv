@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T14:18:00.000Z,07 November 2025 - 02:18 PM,15.97,119.89,002,2.9,003km S 11° E of Dasol (Pangasinan),003,S 11° E,Dasol (Pangasinan)
+2025-11-07T14:14:00.000Z,07 November 2025 - 02:14 PM,16.01,119.81,011,3.1,008km N 70° W of Dasol (Pangasinan),008,N 70° W,Dasol (Pangasinan)
+2025-11-07T13:38:00.000Z,07 November 2025 - 01:38 PM,16.07,120.03,041,1.7,009km S 88° E of Mabini (Pangasinan),009,S 88° E,Mabini (Pangasinan)
 2025-11-07T13:23:00.000Z,07 November 2025 - 01:23 PM,15.99,119.84,010,4.7,004km S 89° W of Dasol (Pangasinan),004,S 89° W,Dasol (Pangasinan)
 2025-11-07T13:21:00.000Z,07 November 2025 - 01:21 PM,07.48,126.73,032,2.3,036km N 35° E of Manay (Davao Oriental),036,N 35° E,Manay (Davao Oriental)
 2025-11-07T13:12:00.000Z,07 November 2025 - 01:12 PM,11.07,124.10,030,2.2,014km N 79° E of City Of Bogo (Cebu),014,N 79° E,City Of Bogo (Cebu)
@@ -63,4 +66,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T15:45:00.000Z,06 November 2025 - 03:45 PM,13.99,120.43,062,1.9,024km S 66° W of Nasugbu (Batangas),024,S 66° W,Nasugbu (Batangas)
 2025-11-06T15:29:00.000Z,06 November 2025 - 03:29 PM,09.59,126.28,033,1.8,025km S 31° E of General Luna (Surigao Del Norte),025,S 31° E,General Luna (Surigao Del Norte)
 2025-11-06T15:01:00.000Z,06 November 2025 - 03:01 PM,10.06,125.84,032,1.6,021km N 59° W of San Benito (Surigao Del Norte),021,N 59° W,San Benito (Surigao Del Norte)
-2025-11-06T13:44:00.000Z,06 November 2025 - 01:44 PM,06.68,126.74,011,2.1,063km S 21° E of Manay (Davao Oriental),063,S 21° E,Manay (Davao Oriental)
