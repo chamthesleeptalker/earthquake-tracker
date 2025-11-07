@@ -1,7 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T01:19:00.000Z,08 November 2025 - 01:19 AM,11.16,124.18,002,2.1,025km N 60° E of City Of Bogo (Cebu),025,N 60° E,City Of Bogo (Cebu)
+2025-11-08T01:15:00.000Z,08 November 2025 - 01:15 AM,11.17,123.96,013,2.2,014km N 08° W of City Of Bogo (Cebu),014,N 08° W,City Of Bogo (Cebu)
+2025-11-08T01:05:00.000Z,08 November 2025 - 01:05 AM,16.01,120.01,007,2.4,014km N 82° E of Dasol (Pangasinan),014,N 82° E,Dasol (Pangasinan)
+2025-11-08T01:05:00.000Z,08 November 2025 - 01:05 AM,16.01,120.01,007,2.4,014km N 82° E of Dasol (Pangasinan),014,N 82° E,Dasol (Pangasinan)
+2025-11-08T01:04:00.000Z,08 November 2025 - 01:04 AM,15.97,119.74,031,1.5,015km S 81° W of Dasol (Pangasinan),015,S 81° W,Dasol (Pangasinan)
 2025-11-08T00:45:00.000Z,08 November 2025 - 12:45 AM,12.09,120.69,006,2.3,051km S 37° W of Rizal (Occidental Mindoro),051,S 37° W,Rizal (Occidental Mindoro)
 2025-11-08T00:43:00.000Z,08 November 2025 - 12:43 AM,05.44,125.85,083,3.2,042km S 85° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),042,S 85° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-08T00:41:00.000Z,08 November 2025 - 12:41 AM,12.12,120.69,011,2.5,048km S 38° W of Rizal (Occidental Mindoro),048,S 38° W,Rizal (Occidental Mindoro)
 2025-11-08T00:31:00.000Z,08 November 2025 - 12:31 AM,11.09,123.97,001,1.6,005km N 13° W of City Of Bogo (Cebu),005,N 13° W,City Of Bogo (Cebu)
 2025-11-08T00:25:00.000Z,08 November 2025 - 12:25 AM,11.17,123.93,009,3.0,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
-2025-11-08T00:18:00.000Z,08 November 2025 - 12:18 AM,15.51,122.49,024,2.3,089km N 19° E of Patnanungan (Quezon),089,N 19° E,Patnanungan (Quezon)

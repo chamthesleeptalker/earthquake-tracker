@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T01:19:00.000Z,08 November 2025 - 01:19 AM,11.16,124.18,002,2.1,025km N 60° E of City Of Bogo (Cebu),025,N 60° E,City Of Bogo (Cebu)
+2025-11-08T01:15:00.000Z,08 November 2025 - 01:15 AM,11.17,123.96,013,2.2,014km N 08° W of City Of Bogo (Cebu),014,N 08° W,City Of Bogo (Cebu)
+2025-11-08T01:05:00.000Z,08 November 2025 - 01:05 AM,16.01,120.01,007,2.4,014km N 82° E of Dasol (Pangasinan),014,N 82° E,Dasol (Pangasinan)
+2025-11-08T01:05:00.000Z,08 November 2025 - 01:05 AM,16.01,120.01,007,2.4,014km N 82° E of Dasol (Pangasinan),014,N 82° E,Dasol (Pangasinan)
+2025-11-08T01:04:00.000Z,08 November 2025 - 01:04 AM,15.97,119.74,031,1.5,015km S 81° W of Dasol (Pangasinan),015,S 81° W,Dasol (Pangasinan)
 2025-11-08T00:45:00.000Z,08 November 2025 - 12:45 AM,12.09,120.69,006,2.3,051km S 37° W of Rizal (Occidental Mindoro),051,S 37° W,Rizal (Occidental Mindoro)
 2025-11-08T00:43:00.000Z,08 November 2025 - 12:43 AM,05.44,125.85,083,3.2,042km S 85° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),042,S 85° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-08T00:41:00.000Z,08 November 2025 - 12:41 AM,12.12,120.69,011,2.5,048km S 38° W of Rizal (Occidental Mindoro),048,S 38° W,Rizal (Occidental Mindoro)
@@ -74,4 +79,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T01:50:00.000Z,07 November 2025 - 01:50 AM,08.41,125.89,032,1.7,012km S 68° E of Talacogon (Agusan Del Sur),012,S 68° E,Talacogon (Agusan Del Sur)
 2025-11-07T01:23:00.000Z,07 November 2025 - 01:23 AM,14.99,120.07,020,2.3,003km S 25° W of San Narciso (Zambales),003,S 25° W,San Narciso (Zambales)
 2025-11-07T01:19:00.000Z,07 November 2025 - 01:19 AM,09.07,126.54,020,2.1,031km N 57° E of Cagwait (Surigao Del Sur),031,N 57° E,Cagwait (Surigao Del Sur)
-2025-11-07T01:05:00.000Z,07 November 2025 - 01:05 AM,07.13,126.79,024,2.3,029km S 73° E of Manay (Davao Oriental),029,S 73° E,Manay (Davao Oriental)
