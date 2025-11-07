@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T08:59:00.000Z,07 November 2025 - 08:59 AM,09.59,126.17,036,1.9,021km S 03° E of General Luna (Surigao Del Norte),021,S 03° E,General Luna (Surigao Del Norte)
+2025-11-07T08:07:00.000Z,07 November 2025 - 08:07 AM,12.84,120.35,028,2.4,046km S 89° W of Sablayan (Occidental Mindoro),046,S 89° W,Sablayan (Occidental Mindoro)
+2025-11-07T07:44:00.000Z,07 November 2025 - 07:44 AM,14.29,121.75,032,2.3,009km N 62° W of Cagbalete Island (Mauban) (Quezon),009,N 62° W,Cagbalete Island (Mauban) (Quezon)
+2025-11-07T07:30:00.000Z,07 November 2025 - 07:30 AM,10.88,123.86,003,3.9,022km S 36° W of City Of Bogo (Cebu),022,S 36° W,City Of Bogo (Cebu)
+2025-11-07T07:30:00.000Z,07 November 2025 - 07:30 AM,11.02,123.95,001,1.4,004km S 47° W of City Of Bogo (Cebu),004,S 47° W,City Of Bogo (Cebu)
 2025-11-07T07:26:00.000Z,07 November 2025 - 07:26 AM,10.99,123.92,033,2.8,009km S 46° W of City Of Bogo (Cebu),009,S 46° W,City Of Bogo (Cebu)
 2025-11-07T06:58:00.000Z,07 November 2025 - 06:58 AM,14.54,121.70,033,2.2,018km S 37° E of Real (Quezon),018,S 37° E,Real (Quezon)
 2025-11-07T05:29:00.000Z,07 November 2025 - 05:29 AM,14.35,121.72,033,2.4,015km N 45° W of Cagbalete Island (Mauban) (Quezon),015,N 45° W,Cagbalete Island (Mauban) (Quezon)
