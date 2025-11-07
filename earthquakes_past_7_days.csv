@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T05:04:00.000Z,08 November 2025 - 05:04 AM,07.95,124.58,002,2.5,021km N 33° W of Amai Manabilang (Lanao Del Sur),021,N 33° W,Amai Manabilang (Lanao Del Sur)
 2025-11-08T04:55:00.000Z,08 November 2025 - 04:55 AM,10.58,122.22,013,2.0,007km S 12° W of Miagao (Iloilo),007,S 12° W,Miagao (Iloilo)
 2025-11-08T04:52:00.000Z,08 November 2025 - 04:52 AM,05.98,124.49,030,2.2,009km S 03° W of Maitum (Sarangani),009,S 03° W,Maitum (Sarangani)
 2025-11-08T04:39:00.000Z,08 November 2025 - 04:39 AM,09.21,125.62,007,2.9,009km S 44° E of Santiago (Agusan Del Norte),009,S 44° E,Santiago (Agusan Del Norte)
@@ -455,4 +456,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T05:21:00.000Z,01 November 2025 - 05:21 AM,06.14,127.54,010,5.2,157km S 50° E of Tarragona (Davao Oriental),157,S 50° E,Tarragona (Davao Oriental)
 2025-11-01T05:18:00.000Z,01 November 2025 - 05:18 AM,06.44,126.44,033,2.4,047km S 59° E of Governor Generoso (Davao Oriental),047,S 59° E,Governor Generoso (Davao Oriental)
 2025-11-01T05:11:00.000Z,01 November 2025 - 05:11 AM,06.31,127.25,016,3.6,121km S 47° E of Tarragona (Davao Oriental),121,S 47° E,Tarragona (Davao Oriental)
-2025-11-01T05:03:00.000Z,01 November 2025 - 05:03 AM,07.26,125.73,034,3.1,007km S 66° E of City Of Panabo (Davao Del Norte),007,S 66° E,City Of Panabo (Davao Del Norte)
