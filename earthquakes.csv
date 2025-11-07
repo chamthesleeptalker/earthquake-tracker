@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T10:42:00.000Z,07 November 2025 - 10:42 AM,09.68,126.25,033,1.9,015km S 42° E of General Luna (Surigao Del Norte),015,S 42° E,General Luna (Surigao Del Norte)
+2025-11-07T10:43:00.000Z,07 November 2025 - 10:43 AM,11.31,124.48,007,3.1,006km S 06° W of Leyte (Leyte),006,S 06° W,Leyte (Leyte)
+2025-11-07T10:27:00.000Z,07 November 2025 - 10:27 AM,05.99,126.20,141,3.8,061km S 68° E of Don Marcelino (Davao Occidental),061,S 68° E,Don Marcelino (Davao Occidental)
+2025-11-07T10:06:00.000Z,07 November 2025 - 10:06 AM,06.83,126.75,028,2.7,048km S 29° E of Manay (Davao Oriental),048,S 29° E,Manay (Davao Oriental)
+2025-11-07T09:53:00.000Z,07 November 2025 - 09:53 AM,06.96,126.99,032,2.8,058km S 61° E of Manay (Davao Oriental),058,S 61° E,Manay (Davao Oriental)
 2025-11-07T08:59:00.000Z,07 November 2025 - 08:59 AM,09.59,126.17,036,1.9,021km S 03° E of General Luna (Surigao Del Norte),021,S 03° E,General Luna (Surigao Del Norte)
 2025-11-07T08:07:00.000Z,07 November 2025 - 08:07 AM,12.84,120.35,028,2.4,046km S 89° W of Sablayan (Occidental Mindoro),046,S 89° W,Sablayan (Occidental Mindoro)
 2025-11-07T07:44:00.000Z,07 November 2025 - 07:44 AM,14.29,121.75,032,2.3,009km N 62° W of Cagbalete Island (Mauban) (Quezon),009,N 62° W,Cagbalete Island (Mauban) (Quezon)
