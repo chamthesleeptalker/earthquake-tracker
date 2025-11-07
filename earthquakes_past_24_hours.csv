@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T00:31:00.000Z,08 November 2025 - 12:31 AM,11.09,123.97,001,1.6,005km N 13° W of City Of Bogo (Cebu),005,N 13° W,City Of Bogo (Cebu)
+2025-11-08T00:25:00.000Z,08 November 2025 - 12:25 AM,11.17,123.93,009,3.0,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
+2025-11-08T00:18:00.000Z,08 November 2025 - 12:18 AM,15.51,122.49,024,2.3,089km N 19° E of Patnanungan (Quezon),089,N 19° E,Patnanungan (Quezon)
 2025-11-07T23:36:00.000Z,07 November 2025 - 11:36 PM,12.15,121.46,004,2.3,024km S 33° E of Bulalacao (Oriental Mindoro),024,S 33° E,Bulalacao (Oriental Mindoro)
 2025-11-07T23:28:00.000Z,07 November 2025 - 11:28 PM,15.98,119.83,034,2.3,006km S 83° W of Dasol (Pangasinan),006,S 83° W,Dasol (Pangasinan)
 2025-11-07T22:51:00.000Z,07 November 2025 - 10:51 PM,10.86,123.87,010,3.5,023km S 30° W of City Of Bogo (Cebu),023,S 30° W,City Of Bogo (Cebu)
@@ -70,5 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T01:19:00.000Z,07 November 2025 - 01:19 AM,09.07,126.54,020,2.1,031km N 57° E of Cagwait (Surigao Del Sur),031,N 57° E,Cagwait (Surigao Del Sur)
 2025-11-07T01:05:00.000Z,07 November 2025 - 01:05 AM,07.13,126.79,024,2.3,029km S 73° E of Manay (Davao Oriental),029,S 73° E,Manay (Davao Oriental)
 2025-11-07T00:40:00.000Z,07 November 2025 - 12:40 AM,14.78,120.03,038,1.8,020km S 19° W of San Antonio (Zambales),020,S 19° W,San Antonio (Zambales)
-2025-11-06T23:58:00.000Z,06 November 2025 - 11:58 PM,12.83,120.92,006,2.2,016km S 85° E of Sablayan (Occidental Mindoro),016,S 85° E,Sablayan (Occidental Mindoro)
-2025-11-06T23:42:00.000Z,06 November 2025 - 11:42 PM,04.21,125.95,155,3.6,145km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),145,S 24° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
