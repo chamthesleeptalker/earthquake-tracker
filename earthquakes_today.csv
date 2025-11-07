@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T15:22:00.000Z,07 November 2025 - 03:22 PM,16.06,119.99,034,2.1,006km S 76° E of Mabini (Pangasinan),006,S 76° E,Mabini (Pangasinan)
 2025-11-07T14:59:00.000Z,07 November 2025 - 02:59 PM,11.12,124.09,010,4.2,014km N 56° E of City Of Bogo (Cebu),014,N 56° E,City Of Bogo (Cebu)
 2025-11-07T14:28:00.000Z,07 November 2025 - 02:28 PM,06.34,127.09,015,3.1,106km S 42° E of Tarragona (Davao Oriental),106,S 42° E,Tarragona (Davao Oriental)
 2025-11-07T14:21:00.000Z,07 November 2025 - 02:21 PM,16.06,119.95,033,1.8,011km N 45° E of Dasol (Pangasinan),011,N 45° E,Dasol (Pangasinan)
