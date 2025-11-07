@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T06:00:00.000Z,08 November 2025 - 06:00 AM,15.99,119.82,035,1.5,007km S 89° W of Dasol (Pangasinan),007,S 89° W,Dasol (Pangasinan)
+2025-11-08T05:58:00.000Z,08 November 2025 - 05:58 AM,11.09,124.18,009,2.1,022km N 77° E of City Of Bogo (Cebu),022,N 77° E,City Of Bogo (Cebu)
 2025-11-08T05:04:00.000Z,08 November 2025 - 05:04 AM,07.95,124.58,002,2.5,021km N 33° W of Amai Manabilang (Lanao Del Sur),021,N 33° W,Amai Manabilang (Lanao Del Sur)
 2025-11-08T04:55:00.000Z,08 November 2025 - 04:55 AM,10.58,122.22,013,2.0,007km S 12° W of Miagao (Iloilo),007,S 12° W,Miagao (Iloilo)
 2025-11-08T04:52:00.000Z,08 November 2025 - 04:52 AM,05.98,124.49,030,2.2,009km S 03° W of Maitum (Sarangani),009,S 03° W,Maitum (Sarangani)
@@ -448,11 +450,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T06:37:00.000Z,01 November 2025 - 06:37 AM,06.35,127.81,077,3.4,170km S 63° E of Tarragona (Davao Oriental),170,S 63° E,Tarragona (Davao Oriental)
 2025-11-01T06:20:00.000Z,01 November 2025 - 06:20 AM,11.19,124.18,020,1.3,027km N 54° E of City Of Bogo (Cebu),027,N 54° E,City Of Bogo (Cebu)
 2025-11-01T06:02:00.000Z,01 November 2025 - 06:02 AM,05.90,127.82,005,4.5,198km S 50° E of Tarragona (Davao Oriental),198,S 50° E,Tarragona (Davao Oriental)
-2025-11-01T05:51:00.000Z,01 November 2025 - 05:51 AM,06.17,127.54,015,4.2,155km S 51° E of Tarragona (Davao Oriental),155,S 51° E,Tarragona (Davao Oriental)
-2025-11-01T05:48:00.000Z,01 November 2025 - 05:48 AM,11.18,124.09,006,2.5,020km N 40° E of City Of Bogo (Cebu),020,N 40° E,City Of Bogo (Cebu)
-2025-11-01T05:39:00.000Z,01 November 2025 - 05:39 AM,06.18,127.35,012,4.2,135km S 46° E of Tarragona (Davao Oriental),135,S 46° E,Tarragona (Davao Oriental)
-2025-11-01T05:37:00.000Z,01 November 2025 - 05:37 AM,06.26,127.33,018,2.9,131km S 48° E of Tarragona (Davao Oriental),131,S 48° E,Tarragona (Davao Oriental)
-2025-11-01T05:27:00.000Z,01 November 2025 - 05:27 AM,06.95,127.08,010,5.1,066km S 64° E of Manay (Davao Oriental),066,S 64° E,Manay (Davao Oriental)
-2025-11-01T05:21:00.000Z,01 November 2025 - 05:21 AM,06.14,127.54,010,5.2,157km S 50° E of Tarragona (Davao Oriental),157,S 50° E,Tarragona (Davao Oriental)
-2025-11-01T05:18:00.000Z,01 November 2025 - 05:18 AM,06.44,126.44,033,2.4,047km S 59° E of Governor Generoso (Davao Oriental),047,S 59° E,Governor Generoso (Davao Oriental)
-2025-11-01T05:11:00.000Z,01 November 2025 - 05:11 AM,06.31,127.25,016,3.6,121km S 47° E of Tarragona (Davao Oriental),121,S 47° E,Tarragona (Davao Oriental)

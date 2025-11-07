@@ -1,11 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2025-11-03T03:06:00.000Z,03 November 2025 - 03:06 AM,09.70,122.74,61,5.6,018km S 36° E of Candoni (Negros Occidental),018,S 36° E,Candoni (Negros Occidental)
-2025-11-01T05:21:00.000Z,01 November 2025 - 05:21 AM,06.14,127.54,10,5.2,157km S 50° E of Tarragona (Davao Oriental),157,S 50° E,Tarragona (Davao Oriental)
 2025-11-06T15:57:00.000Z,06 November 2025 - 03:57 PM,07.31,126.81,10,5.1,031km N 69° E of Manay (Davao Oriental),031,N 69° E,Manay (Davao Oriental)
-2025-11-01T05:27:00.000Z,01 November 2025 - 05:27 AM,06.95,127.08,10,5.1,066km S 64° E of Manay (Davao Oriental),066,S 64° E,Manay (Davao Oriental)
 2025-11-04T23:58:00.000Z,04 November 2025 - 11:58 PM,02.01,126.59,171,4.9,398km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),398,S 19° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-03T12:14:00.000Z,03 November 2025 - 12:14 PM,04.67,125.45,10,4.8,082km S 2° E of Sarangani (Davao Occidental),082,S 2° E,Sarangani (Davao Occidental)
 2025-11-07T18:25:00.000Z,07 November 2025 - 06:25 PM,17.91,122.75,10,4.7,079km N 44° E of Maconacon (Isabela),079,N 44° E,Maconacon (Isabela)
 2025-11-07T13:23:00.000Z,07 November 2025 - 01:23 PM,15.99,119.84,10,4.7,004km S 89° W of Dasol (Pangasinan),004,S 89° W,Dasol (Pangasinan)
 2025-11-01T08:49:00.000Z,01 November 2025 - 08:49 AM,07.45,126.76,10,4.6,036km N 42° E of Manay (Davao Oriental),036,N 42° E,Manay (Davao Oriental)
 2025-11-06T00:38:00.000Z,06 November 2025 - 12:38 AM,04.48,125.45,10,4.5,103km S 1° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),103,S 1° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-03T14:20:00.000Z,03 November 2025 - 02:20 PM,04.59,125.38,27,4.5,091km S 03° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),091,S 03° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-01T06:02:00.000Z,01 November 2025 - 06:02 AM,05.90,127.82,5,4.5,198km S 50° E of Tarragona (Davao Oriental),198,S 50° E,Tarragona (Davao Oriental)
