@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T23:36:00.000Z,07 November 2025 - 11:36 PM,12.15,121.46,004,2.3,024km S 33° E of Bulalacao (Oriental Mindoro),024,S 33° E,Bulalacao (Oriental Mindoro)
 2025-11-07T23:28:00.000Z,07 November 2025 - 11:28 PM,15.98,119.83,034,2.3,006km S 83° W of Dasol (Pangasinan),006,S 83° W,Dasol (Pangasinan)
 2025-11-07T22:51:00.000Z,07 November 2025 - 10:51 PM,10.86,123.87,010,3.5,023km S 30° W of City Of Bogo (Cebu),023,S 30° W,City Of Bogo (Cebu)
 2025-11-07T22:34:00.000Z,07 November 2025 - 10:34 PM,11.83,125.32,046,2.1,013km S 52° W of Taft (Eastern Samar),013,S 52° W,Taft (Eastern Samar)
