@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T12:37:00.000Z,07 November 2025 - 12:37 PM,12.11,125.09,029,2.2,009km N 46° E of San Jose De Buan (Samar),009,N 46° E,San Jose De Buan (Samar)
+2025-11-07T12:36:00.000Z,07 November 2025 - 12:36 PM,06.92,126.40,030,2.2,016km S 21° W of Tarragona (Davao Oriental),016,S 21° W,Tarragona (Davao Oriental)
 2025-11-07T11:51:00.000Z,07 November 2025 - 11:51 AM,18.76,121.50,081,2.7,017km S 55° E of Fuga Island (Aparri) (Cagayan),017,S 55° E,Fuga Island (Aparri) (Cagayan)
 2025-11-07T11:34:00.000Z,07 November 2025 - 11:34 AM,11.17,123.96,007,3.0,014km N 09° W of City Of Bogo (Cebu),014,N 09° W,City Of Bogo (Cebu)
 2025-11-07T11:23:00.000Z,07 November 2025 - 11:23 AM,14.11,120.60,112,1.6,006km N 37° W of Nasugbu (Batangas),006,N 37° W,Nasugbu (Batangas)
@@ -60,4 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T15:01:00.000Z,06 November 2025 - 03:01 PM,10.06,125.84,032,1.6,021km N 59° W of San Benito (Surigao Del Norte),021,N 59° W,San Benito (Surigao Del Norte)
 2025-11-06T13:44:00.000Z,06 November 2025 - 01:44 PM,06.68,126.74,011,2.1,063km S 21° E of Manay (Davao Oriental),063,S 21° E,Manay (Davao Oriental)
 2025-11-06T13:09:00.000Z,06 November 2025 - 01:09 PM,11.10,124.07,037,1.4,011km N 61° E of City Of Bogo (Cebu),011,N 61° E,City Of Bogo (Cebu)
-2025-11-06T12:35:00.000Z,06 November 2025 - 12:35 PM,09.60,126.07,003,2.7,022km S 24° W of General Luna (Surigao Del Norte),022,S 24° W,General Luna (Surigao Del Norte)
