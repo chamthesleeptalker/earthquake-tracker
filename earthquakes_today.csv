@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-07T17:28:00.000Z,07 November 2025 - 05:28 PM,16.02,119.83,025,1.8,006km S 41° W of Burgos (Pangasinan),006,S 41° W,Burgos (Pangasinan)
+2025-11-07T17:10:00.000Z,07 November 2025 - 05:10 PM,15.66,121.62,029,1.6,013km S 28° E of Baler (Aurora),013,S 28° E,Baler (Aurora)
 2025-11-07T15:47:00.000Z,07 November 2025 - 03:47 PM,11.16,124.11,003,2.7,019km N 49° E of City Of Bogo (Cebu),019,N 49° E,City Of Bogo (Cebu)
 2025-11-07T15:45:00.000Z,07 November 2025 - 03:45 PM,08.97,125.93,046,1.9,012km N 76° W of San Miguel (Surigao Del Sur),012,N 76° W,San Miguel (Surigao Del Sur)
 2025-11-07T15:38:00.000Z,07 November 2025 - 03:38 PM,16.02,119.88,009,2.7,004km N 02° E of Dasol (Pangasinan),004,N 02° E,Dasol (Pangasinan)
