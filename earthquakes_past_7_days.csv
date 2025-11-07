@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T07:16:00.000Z,08 November 2025 - 07:16 AM,13.20,120.28,033,2.8,031km S 39° W of Paluan (Occidental Mindoro),031,S 39° W,Paluan (Occidental Mindoro)
 2025-11-08T06:59:00.000Z,08 November 2025 - 06:59 AM,10.32,123.59,012,1.8,010km S 46° W of City Of Toledo (Cebu),010,S 46° W,City Of Toledo (Cebu)
 2025-11-08T06:00:00.000Z,08 November 2025 - 06:00 AM,15.99,119.82,035,1.5,007km S 89° W of Dasol (Pangasinan),007,S 89° W,Dasol (Pangasinan)
 2025-11-08T05:58:00.000Z,08 November 2025 - 05:58 AM,11.09,124.18,009,2.1,022km N 77° E of City Of Bogo (Cebu),022,N 77° E,City Of Bogo (Cebu)
@@ -445,5 +446,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T07:47:00.000Z,01 November 2025 - 07:47 AM,09.65,126.23,033,2.2,017km S 29° E of General Luna (Surigao Del Norte),017,S 29° E,General Luna (Surigao Del Norte)
 2025-11-01T07:43:00.000Z,01 November 2025 - 07:43 AM,06.22,127.37,020,3.4,137km S 48° E of Tarragona (Davao Oriental),137,S 48° E,Tarragona (Davao Oriental)
 2025-11-01T07:39:00.000Z,01 November 2025 - 07:39 AM,09.03,126.50,034,2.2,025km N 61° E of Cagwait (Surigao Del Sur),025,N 61° E,Cagwait (Surigao Del Sur)
-2025-11-01T07:10:00.000Z,01 November 2025 - 07:10 AM,07.44,126.63,001,2.5,027km N 21° E of Manay (Davao Oriental),027,N 21° E,Manay (Davao Oriental)
-2025-11-01T07:07:00.000Z,01 November 2025 - 07:07 AM,20.10,121.21,014,2.8,074km S 69° W of Sabtang (Batanes),074,S 69° W,Sabtang (Batanes)
