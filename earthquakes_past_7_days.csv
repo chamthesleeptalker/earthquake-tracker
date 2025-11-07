@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T02:22:00.000Z,08 November 2025 - 02:22 AM,07.42,126.65,025,3.9,027km N 28° E of Manay (Davao Oriental),027,N 28° E,Manay (Davao Oriental)
 2025-11-08T02:14:00.000Z,08 November 2025 - 02:14 AM,11.15,123.95,006,2.5,011km N 17° W of City Of Bogo (Cebu),011,N 17° W,City Of Bogo (Cebu)
 2025-11-08T02:12:00.000Z,08 November 2025 - 02:12 AM,18.93,119.99,007,3.2,083km N 56° W of Burgos (Ilocos Norte),083,N 56° W,Burgos (Ilocos Norte)
 2025-11-08T02:10:00.000Z,08 November 2025 - 02:10 AM,11.14,123.93,005,3.1,012km N 28° W of City Of Bogo (Cebu),012,N 28° W,City Of Bogo (Cebu)
@@ -464,5 +465,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T03:00:00.000Z,01 November 2025 - 03:00 AM,07.39,127.35,002,3.4,086km N 85° E of Caraga (Davao Oriental),086,N 85° E,Caraga (Davao Oriental)
 2025-11-01T02:57:00.000Z,01 November 2025 - 02:57 AM,13.19,124.14,032,1.3,001km N 78° E of Rapu-rapu (Albay),001,N 78° E,Rapu-rapu (Albay)
 2025-11-01T02:48:00.000Z,01 November 2025 - 02:48 AM,10.97,124.05,001,1.5,011km S 41° E of City Of Bogo (Cebu),011,S 41° E,City Of Bogo (Cebu)
-2025-11-01T02:20:00.000Z,01 November 2025 - 02:20 AM,10.83,123.91,002,2.1,025km S 18° W of City Of Bogo (Cebu),025,S 18° W,City Of Bogo (Cebu)
-2025-11-01T02:15:00.000Z,01 November 2025 - 02:15 AM,07.04,125.00,002,1.6,011km N 71° W of City Of Kidapawan (Cotabato),011,N 71° W,City Of Kidapawan (Cotabato)

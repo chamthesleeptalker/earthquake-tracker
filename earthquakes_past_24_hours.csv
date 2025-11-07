@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T02:22:00.000Z,08 November 2025 - 02:22 AM,07.42,126.65,025,3.9,027km N 28° E of Manay (Davao Oriental),027,N 28° E,Manay (Davao Oriental)
 2025-11-08T02:14:00.000Z,08 November 2025 - 02:14 AM,11.15,123.95,006,2.5,011km N 17° W of City Of Bogo (Cebu),011,N 17° W,City Of Bogo (Cebu)
 2025-11-08T02:12:00.000Z,08 November 2025 - 02:12 AM,18.93,119.99,007,3.2,083km N 56° W of Burgos (Ilocos Norte),083,N 56° W,Burgos (Ilocos Norte)
 2025-11-08T02:10:00.000Z,08 November 2025 - 02:10 AM,11.14,123.93,005,3.1,012km N 28° W of City Of Bogo (Cebu),012,N 28° W,City Of Bogo (Cebu)
