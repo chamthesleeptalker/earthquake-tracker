@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T02:14:00.000Z,08 November 2025 - 02:14 AM,11.15,123.95,006,2.5,011km N 17° W of City Of Bogo (Cebu),011,N 17° W,City Of Bogo (Cebu)
+2025-11-08T02:12:00.000Z,08 November 2025 - 02:12 AM,18.93,119.99,007,3.2,083km N 56° W of Burgos (Ilocos Norte),083,N 56° W,Burgos (Ilocos Norte)
+2025-11-08T02:10:00.000Z,08 November 2025 - 02:10 AM,11.14,123.93,005,3.1,012km N 28° W of City Of Bogo (Cebu),012,N 28° W,City Of Bogo (Cebu)
+2025-11-08T01:41:00.000Z,08 November 2025 - 01:41 AM,10.53,125.06,027,2.0,012km N 88° W of Silago (Southern Leyte),012,N 88° W,Silago (Southern Leyte)
+2025-11-08T01:38:00.000Z,08 November 2025 - 01:38 AM,11.00,124.03,001,2.6,008km S 50° E of City Of Bogo (Cebu),008,S 50° E,City Of Bogo (Cebu)
 2025-11-08T01:19:00.000Z,08 November 2025 - 01:19 AM,11.16,124.18,002,2.1,025km N 60° E of City Of Bogo (Cebu),025,N 60° E,City Of Bogo (Cebu)
 2025-11-08T01:15:00.000Z,08 November 2025 - 01:15 AM,11.17,123.96,013,2.2,014km N 08° W of City Of Bogo (Cebu),014,N 08° W,City Of Bogo (Cebu)
 2025-11-08T01:05:00.000Z,08 November 2025 - 01:05 AM,16.01,120.01,007,2.4,014km N 82° E of Dasol (Pangasinan),014,N 82° E,Dasol (Pangasinan)
@@ -76,6 +81,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T02:42:00.000Z,07 November 2025 - 02:42 AM,20.86,120.84,005,3.0,104km N 86° W of Itbayat (Batanes),104,N 86° W,Itbayat (Batanes)
 2025-11-07T02:41:00.000Z,07 November 2025 - 02:41 AM,14.21,120.43,108,2.0,025km S 15° W of Mariveles (Bataan),025,S 15° W,Mariveles (Bataan)
 2025-11-07T02:28:00.000Z,07 November 2025 - 02:28 AM,07.83,126.38,036,1.5,005km S 11° E of Boston (Davao Oriental),005,S 11° E,Boston (Davao Oriental)
-2025-11-07T01:50:00.000Z,07 November 2025 - 01:50 AM,08.41,125.89,032,1.7,012km S 68° E of Talacogon (Agusan Del Sur),012,S 68° E,Talacogon (Agusan Del Sur)
-2025-11-07T01:23:00.000Z,07 November 2025 - 01:23 AM,14.99,120.07,020,2.3,003km S 25° W of San Narciso (Zambales),003,S 25° W,San Narciso (Zambales)
-2025-11-07T01:19:00.000Z,07 November 2025 - 01:19 AM,09.07,126.54,020,2.1,031km N 57° E of Cagwait (Surigao Del Sur),031,N 57° E,Cagwait (Surigao Del Sur)

@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T02:14:00.000Z,08 November 2025 - 02:14 AM,11.15,123.95,006,2.5,011km N 17° W of City Of Bogo (Cebu),011,N 17° W,City Of Bogo (Cebu)
+2025-11-08T02:12:00.000Z,08 November 2025 - 02:12 AM,18.93,119.99,007,3.2,083km N 56° W of Burgos (Ilocos Norte),083,N 56° W,Burgos (Ilocos Norte)
+2025-11-08T02:10:00.000Z,08 November 2025 - 02:10 AM,11.14,123.93,005,3.1,012km N 28° W of City Of Bogo (Cebu),012,N 28° W,City Of Bogo (Cebu)
+2025-11-08T01:41:00.000Z,08 November 2025 - 01:41 AM,10.53,125.06,027,2.0,012km N 88° W of Silago (Southern Leyte),012,N 88° W,Silago (Southern Leyte)
+2025-11-08T01:38:00.000Z,08 November 2025 - 01:38 AM,11.00,124.03,001,2.6,008km S 50° E of City Of Bogo (Cebu),008,S 50° E,City Of Bogo (Cebu)
 2025-11-08T01:19:00.000Z,08 November 2025 - 01:19 AM,11.16,124.18,002,2.1,025km N 60° E of City Of Bogo (Cebu),025,N 60° E,City Of Bogo (Cebu)
 2025-11-08T01:15:00.000Z,08 November 2025 - 01:15 AM,11.17,123.96,013,2.2,014km N 08° W of City Of Bogo (Cebu),014,N 08° W,City Of Bogo (Cebu)
 2025-11-08T01:05:00.000Z,08 November 2025 - 01:05 AM,16.01,120.01,007,2.4,014km N 82° E of Dasol (Pangasinan),014,N 82° E,Dasol (Pangasinan)
@@ -381,7 +386,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T22:59:00.000Z,01 November 2025 - 10:59 PM,07.90,126.24,031,1.5,016km N 78° W of Boston (Davao Oriental),016,N 78° W,Boston (Davao Oriental)
 2025-11-01T22:21:00.000Z,01 November 2025 - 10:21 PM,10.69,124.14,009,1.7,014km S 74° E of Catmon (Cebu),014,S 74° E,Catmon (Cebu)
 2025-11-01T22:18:00.000Z,01 November 2025 - 10:18 PM,10.93,123.94,006,2.0,014km S 20° W of City Of Bogo (Cebu),014,S 20° W,City Of Bogo (Cebu)
-2025-11-01T01:39:00.000Z,01 November 2025 - 01:39 AM,11.06,123.99,006,3.1,002km N 34° E of City Of Bogo (Cebu),002,N 34° E,City Of Bogo (Cebu)
 2025-11-01T21:17:00.000Z,01 November 2025 - 09:17 PM,08.84,126.39,024,1.9,013km S 49° E of Cagwait (Surigao Del Sur),013,S 49° E,Cagwait (Surigao Del Sur)
 2025-11-01T20:53:00.000Z,01 November 2025 - 08:53 PM,13.50,120.75,003,2.3,007km N 27° E of Abra De Ilog (Occidental Mindoro),007,N 27° E,Abra De Ilog (Occidental Mindoro)
 2025-11-01T20:33:00.000Z,01 November 2025 - 08:33 PM,11.37,124.10,033,2.0,038km N 20° E of City Of Bogo (Cebu),038,N 20° E,City Of Bogo (Cebu)
@@ -462,4 +466,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T02:48:00.000Z,01 November 2025 - 02:48 AM,10.97,124.05,001,1.5,011km S 41° E of City Of Bogo (Cebu),011,S 41° E,City Of Bogo (Cebu)
 2025-11-01T02:20:00.000Z,01 November 2025 - 02:20 AM,10.83,123.91,002,2.1,025km S 18° W of City Of Bogo (Cebu),025,S 18° W,City Of Bogo (Cebu)
 2025-11-01T02:15:00.000Z,01 November 2025 - 02:15 AM,07.04,125.00,002,1.6,011km N 71° W of City Of Kidapawan (Cotabato),011,N 71° W,City Of Kidapawan (Cotabato)
-2025-11-01T01:49:00.000Z,01 November 2025 - 01:49 AM,10.90,123.90,002,2.3,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
