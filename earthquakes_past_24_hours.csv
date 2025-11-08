@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T03:00:00.000Z,09 November 2025 - 03:00 AM,07.08,126.90,006,2.3,043km S 69° E of Manay (Davao Oriental),043,S 69° E,Manay (Davao Oriental)
 2025-11-09T01:54:00.000Z,09 November 2025 - 01:54 AM,18.41,120.74,015,2.6,015km S 11° W of Bangui (Ilocos Norte),015,S 11° W,Bangui (Ilocos Norte)
 2025-11-09T01:40:00.000Z,09 November 2025 - 01:40 AM,06.59,125.21,012,2.8,006km S 53° W of Kiblawan (Davao Del Sur),006,S 53° W,Kiblawan (Davao Del Sur)
 2025-11-09T00:39:00.000Z,09 November 2025 - 12:39 AM,10.00,122.36,010,2.2,027km N 16° W of City Of Sipalay (Negros Occidental),027,N 16° W,City Of Sipalay (Negros Occidental)
@@ -35,9 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-08T04:39:00.000Z,08 November 2025 - 04:39 AM,09.21,125.62,007,2.9,009km S 44° E of Santiago (Agusan Del Norte),009,S 44° E,Santiago (Agusan Del Norte)
 2025-11-08T04:35:00.000Z,08 November 2025 - 04:35 AM,15.54,119.92,032,1.4,004km N 82° W of Masinloc (Zambales),004,N 82° W,Masinloc (Zambales)
 2025-11-08T03:09:00.000Z,08 November 2025 - 03:09 AM,16.02,119.93,031,1.5,007km N 55° E of Dasol (Pangasinan),007,N 55° E,Dasol (Pangasinan)
-2025-11-08T02:51:00.000Z,08 November 2025 - 02:51 AM,08.38,125.70,054,1.6,012km S 53° W of Talacogon (Agusan Del Sur),012,S 53° W,Talacogon (Agusan Del Sur)
-2025-11-08T02:39:00.000Z,08 November 2025 - 02:39 AM,11.18,123.96,010,2.2,015km N 08° W of City Of Bogo (Cebu),015,N 08° W,City Of Bogo (Cebu)
-2025-11-08T02:22:00.000Z,08 November 2025 - 02:22 AM,07.42,126.65,025,3.9,027km N 28° E of Manay (Davao Oriental),027,N 28° E,Manay (Davao Oriental)
-2025-11-08T02:14:00.000Z,08 November 2025 - 02:14 AM,11.15,123.95,006,2.5,011km N 17° W of City Of Bogo (Cebu),011,N 17° W,City Of Bogo (Cebu)
-2025-11-08T02:12:00.000Z,08 November 2025 - 02:12 AM,18.93,119.99,007,3.2,083km N 56° W of Burgos (Ilocos Norte),083,N 56° W,Burgos (Ilocos Norte)
-2025-11-08T02:10:00.000Z,08 November 2025 - 02:10 AM,11.14,123.93,005,3.1,012km N 28° W of City Of Bogo (Cebu),012,N 28° W,City Of Bogo (Cebu)
