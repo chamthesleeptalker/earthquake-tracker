@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T15:38:00.000Z,08 November 2025 - 03:38 PM,11.22,124.12,011,2.3,024km N 38° E of City Of Bogo (Cebu),024,N 38° E,City Of Bogo (Cebu)
 2025-11-08T14:46:00.000Z,08 November 2025 - 02:46 PM,10.72,124.97,003,3.0,006km S 57° W of Abuyog (Leyte),006,S 57° W,Abuyog (Leyte)
 2025-11-08T14:03:00.000Z,08 November 2025 - 02:03 PM,06.54,125.83,147,2.9,028km N 60° E of Malita (Davao Occidental),028,N 60° E,Malita (Davao Occidental)
 2025-11-08T10:20:00.000Z,08 November 2025 - 10:20 AM,10.80,122.84,025,2.1,014km S 80° E of Dumangas (Iloilo),014,S 80° E,Dumangas (Iloilo)
@@ -63,5 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T15:47:00.000Z,07 November 2025 - 03:47 PM,11.16,124.11,003,2.7,019km N 49° E of City Of Bogo (Cebu),019,N 49° E,City Of Bogo (Cebu)
 2025-11-07T15:45:00.000Z,07 November 2025 - 03:45 PM,08.97,125.93,046,1.9,012km N 76° W of San Miguel (Surigao Del Sur),012,N 76° W,San Miguel (Surigao Del Sur)
 2025-11-07T15:38:00.000Z,07 November 2025 - 03:38 PM,16.02,119.88,009,2.7,004km N 02° E of Dasol (Pangasinan),004,N 02° E,Dasol (Pangasinan)
-2025-11-07T15:22:00.000Z,07 November 2025 - 03:22 PM,16.06,119.99,034,2.1,006km S 76° E of Mabini (Pangasinan),006,S 76° E,Mabini (Pangasinan)
-2025-11-07T14:59:00.000Z,07 November 2025 - 02:59 PM,11.12,124.09,010,4.2,014km N 56° E of City Of Bogo (Cebu),014,N 56° E,City Of Bogo (Cebu)
