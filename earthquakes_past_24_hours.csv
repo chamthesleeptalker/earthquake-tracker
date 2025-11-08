@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T00:16:00.000Z,09 November 2025 - 12:16 AM,04.80,125.06,051,3.1,079km S 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),079,S 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-08T23:35:00.000Z,08 November 2025 - 11:35 PM,13.74,120.49,044,2.1,019km S 56° W of Calatagan (Batangas),019,S 56° W,Calatagan (Batangas)
 2025-11-08T22:04:00.000Z,08 November 2025 - 10:04 PM,06.75,126.77,020,3.5,057km S 26° E of Manay (Davao Oriental),057,S 26° E,Manay (Davao Oriental)
 2025-11-08T21:50:00.000Z,08 November 2025 - 09:50 PM,10.93,123.90,004,2.3,015km S 33° W of City Of Bogo (Cebu),015,S 33° W,City Of Bogo (Cebu)
@@ -50,4 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-08T00:31:00.000Z,08 November 2025 - 12:31 AM,11.09,123.97,001,1.6,005km N 13° W of City Of Bogo (Cebu),005,N 13° W,City Of Bogo (Cebu)
 2025-11-08T00:25:00.000Z,08 November 2025 - 12:25 AM,11.17,123.93,009,3.0,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
 2025-11-08T00:18:00.000Z,08 November 2025 - 12:18 AM,15.51,122.49,024,2.3,089km N 19° E of Patnanungan (Quezon),089,N 19° E,Patnanungan (Quezon)
-2025-11-07T23:36:00.000Z,07 November 2025 - 11:36 PM,12.15,121.46,004,2.3,024km S 33° E of Bulalacao (Oriental Mindoro),024,S 33° E,Bulalacao (Oriental Mindoro)
