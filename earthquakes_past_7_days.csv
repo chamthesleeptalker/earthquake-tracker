@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T03:21:00.000Z,09 November 2025 - 03:21 AM,07.41,126.84,030,2.0,031km N 74° E of Caraga (Davao Oriental),031,N 74° E,Caraga (Davao Oriental)
+2025-11-09T03:08:00.000Z,09 November 2025 - 03:08 AM,09.84,126.28,008,3.2,015km N 64° E of General Luna (Surigao Del Norte),015,N 64° E,General Luna (Surigao Del Norte)
 2025-11-09T03:00:00.000Z,09 November 2025 - 03:00 AM,07.08,126.90,006,2.3,043km S 69° E of Manay (Davao Oriental),043,S 69° E,Manay (Davao Oriental)
 2025-11-09T01:54:00.000Z,09 November 2025 - 01:54 AM,18.41,120.74,015,2.6,015km S 11° W of Bangui (Ilocos Norte),015,S 11° W,Bangui (Ilocos Norte)
 2025-11-09T01:40:00.000Z,09 November 2025 - 01:40 AM,06.59,125.21,012,2.8,006km S 53° W of Kiblawan (Davao Del Sur),006,S 53° W,Kiblawan (Davao Del Sur)
@@ -394,4 +396,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-02T03:48:00.000Z,02 November 2025 - 03:48 AM,13.19,122.69,012,2.0,015km S 08° E of San Andres (Quezon),015,S 08° E,San Andres (Quezon)
 2025-11-02T03:42:00.000Z,02 November 2025 - 03:42 AM,11.17,124.19,003,2.3,027km N 59° E of City Of Bogo (Cebu),027,N 59° E,City Of Bogo (Cebu)
 2025-11-02T03:28:00.000Z,02 November 2025 - 03:28 AM,13.65,124.37,030,1.5,001km S 04° E of Baras (Catanduanes),001,S 04° E,Baras (Catanduanes)
-2025-11-02T03:12:00.000Z,02 November 2025 - 03:12 AM,08.44,125.89,070,2.5,012km S 49° W of San Francisco (Agusan Del Sur),012,S 49° W,San Francisco (Agusan Del Sur)
