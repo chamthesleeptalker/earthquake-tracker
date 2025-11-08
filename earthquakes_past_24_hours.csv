@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T14:46:00.000Z,08 November 2025 - 02:46 PM,10.72,124.97,003,3.0,006km S 57° W of Abuyog (Leyte),006,S 57° W,Abuyog (Leyte)
 2025-11-08T14:03:00.000Z,08 November 2025 - 02:03 PM,06.54,125.83,147,2.9,028km N 60° E of Malita (Davao Occidental),028,N 60° E,Malita (Davao Occidental)
 2025-11-08T10:20:00.000Z,08 November 2025 - 10:20 AM,10.80,122.84,025,2.1,014km S 80° E of Dumangas (Iloilo),014,S 80° E,Dumangas (Iloilo)
 2025-11-08T10:00:00.000Z,08 November 2025 - 10:00 AM,11.16,123.95,009,2.8,013km N 13° W of City Of Bogo (Cebu),013,N 13° W,City Of Bogo (Cebu)
@@ -64,7 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T15:38:00.000Z,07 November 2025 - 03:38 PM,16.02,119.88,009,2.7,004km N 02° E of Dasol (Pangasinan),004,N 02° E,Dasol (Pangasinan)
 2025-11-07T15:22:00.000Z,07 November 2025 - 03:22 PM,16.06,119.99,034,2.1,006km S 76° E of Mabini (Pangasinan),006,S 76° E,Mabini (Pangasinan)
 2025-11-07T14:59:00.000Z,07 November 2025 - 02:59 PM,11.12,124.09,010,4.2,014km N 56° E of City Of Bogo (Cebu),014,N 56° E,City Of Bogo (Cebu)
-2025-11-07T14:28:00.000Z,07 November 2025 - 02:28 PM,06.34,127.09,015,3.1,106km S 42° E of Tarragona (Davao Oriental),106,S 42° E,Tarragona (Davao Oriental)
-2025-11-07T14:21:00.000Z,07 November 2025 - 02:21 PM,16.06,119.95,033,1.8,011km N 45° E of Dasol (Pangasinan),011,N 45° E,Dasol (Pangasinan)
-2025-11-07T14:18:00.000Z,07 November 2025 - 02:18 PM,15.97,119.89,002,2.9,003km S 11° E of Dasol (Pangasinan),003,S 11° E,Dasol (Pangasinan)
-2025-11-07T14:14:00.000Z,07 November 2025 - 02:14 PM,16.01,119.81,011,3.1,008km N 70° W of Dasol (Pangasinan),008,N 70° W,Dasol (Pangasinan)
