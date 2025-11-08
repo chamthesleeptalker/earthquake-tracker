@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T22:04:00.000Z,08 November 2025 - 10:04 PM,06.75,126.77,020,3.5,057km S 26° E of Manay (Davao Oriental),057,S 26° E,Manay (Davao Oriental)
 2025-11-08T21:50:00.000Z,08 November 2025 - 09:50 PM,10.93,123.90,004,2.3,015km S 33° W of City Of Bogo (Cebu),015,S 33° W,City Of Bogo (Cebu)
 2025-11-08T21:02:00.000Z,08 November 2025 - 09:02 PM,09.42,126.29,030,2.1,019km N 35° E of Cortes (Surigao Del Sur),019,N 35° E,Cortes (Surigao Del Sur)
 2025-11-08T20:55:00.000Z,08 November 2025 - 08:55 PM,10.97,123.92,009,2.5,011km S 40° W of City Of Bogo (Cebu),011,S 40° W,City Of Bogo (Cebu)
@@ -52,4 +53,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T23:28:00.000Z,07 November 2025 - 11:28 PM,15.98,119.83,034,2.3,006km S 83° W of Dasol (Pangasinan),006,S 83° W,Dasol (Pangasinan)
 2025-11-07T22:51:00.000Z,07 November 2025 - 10:51 PM,10.86,123.87,010,3.5,023km S 30° W of City Of Bogo (Cebu),023,S 30° W,City Of Bogo (Cebu)
 2025-11-07T22:34:00.000Z,07 November 2025 - 10:34 PM,11.83,125.32,046,2.1,013km S 52° W of Taft (Eastern Samar),013,S 52° W,Taft (Eastern Samar)
-2025-11-07T21:51:00.000Z,07 November 2025 - 09:51 PM,16.00,119.79,018,2.2,010km N 85° W of Dasol (Pangasinan),010,N 85° W,Dasol (Pangasinan)
