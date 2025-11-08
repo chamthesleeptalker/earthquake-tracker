@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T19:08:00.000Z,08 November 2025 - 07:08 PM,09.22,125.65,013,2.2,012km S 63° E of Santiago (Agusan Del Norte),012,S 63° E,Santiago (Agusan Del Norte)
 2025-11-08T18:40:00.000Z,08 November 2025 - 06:40 PM,13.54,120.59,037,1.4,018km N 54° W of Abra De Ilog (Occidental Mindoro),018,N 54° W,Abra De Ilog (Occidental Mindoro)
 2025-11-08T18:16:00.000Z,08 November 2025 - 06:16 PM,08.36,126.52,011,2.3,020km S 89° E of Hinatuan (Surigao Del Sur),020,S 89° E,Hinatuan (Surigao Del Sur)
 2025-11-08T17:43:00.000Z,08 November 2025 - 05:43 PM,07.58,126.68,010,4.4,013km N 87° E of Baganga (Davao Oriental),013,N 87° E,Baganga (Davao Oriental)
@@ -419,4 +420,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-01T20:11:00.000Z,01 November 2025 - 08:11 PM,11.28,124.58,002,2.6,007km S 78° W of Capoocan (Leyte),007,S 78° W,Capoocan (Leyte)
 2025-11-01T19:28:00.000Z,01 November 2025 - 07:28 PM,07.49,126.58,033,1.8,031km N 09° E of Manay (Davao Oriental),031,N 09° E,Manay (Davao Oriental)
 2025-11-01T19:21:00.000Z,01 November 2025 - 07:21 PM,11.09,123.99,030,2.0,005km N 16° E of City Of Bogo (Cebu),005,N 16° E,City Of Bogo (Cebu)
-2025-11-01T18:57:00.000Z,01 November 2025 - 06:57 PM,15.08,119.86,034,1.9,022km S 67° W of Cabangan (Zambales),022,S 67° W,Cabangan (Zambales)
