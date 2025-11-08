@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T05:00:00.000Z,09 November 2025 - 05:00 AM,15.75,121.84,018,2.5,030km S 88° E of Baler (Aurora),030,S 88° E,Baler (Aurora)
 2025-11-09T03:40:00.000Z,09 November 2025 - 03:40 AM,11.18,123.92,009,2.3,016km N 23° W of City Of Bogo (Cebu),016,N 23° W,City Of Bogo (Cebu)
 2025-11-09T03:21:00.000Z,09 November 2025 - 03:21 AM,07.41,126.84,030,2.0,031km N 74° E of Caraga (Davao Oriental),031,N 74° E,Caraga (Davao Oriental)
 2025-11-09T03:08:00.000Z,09 November 2025 - 03:08 AM,09.84,126.28,008,3.2,015km N 64° E of General Luna (Surigao Del Norte),015,N 64° E,General Luna (Surigao Del Norte)
