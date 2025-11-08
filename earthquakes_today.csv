@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-08T20:20:00.000Z,08 November 2025 - 08:20 PM,07.05,126.59,024,2.2,015km N 89° E of Tarragona (Davao Oriental),015,N 89° E,Tarragona (Davao Oriental)
+2025-11-08T20:03:00.000Z,08 November 2025 - 08:03 PM,10.05,122.51,008,2.0,015km N 58° W of Cauayan (Negros Occidental),015,N 58° W,Cauayan (Negros Occidental)
 2025-11-08T19:08:00.000Z,08 November 2025 - 07:08 PM,09.22,125.65,013,2.2,012km S 63° E of Santiago (Agusan Del Norte),012,S 63° E,Santiago (Agusan Del Norte)
 2025-11-08T18:40:00.000Z,08 November 2025 - 06:40 PM,13.54,120.59,037,1.4,018km N 54° W of Abra De Ilog (Occidental Mindoro),018,N 54° W,Abra De Ilog (Occidental Mindoro)
 2025-11-08T18:16:00.000Z,08 November 2025 - 06:16 PM,08.36,126.52,011,2.3,020km S 89° E of Hinatuan (Surigao Del Sur),020,S 89° E,Hinatuan (Surigao Del Sur)
