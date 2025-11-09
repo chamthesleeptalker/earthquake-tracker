@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-10T01:24:00.000Z,10 November 2025 - 01:24 AM,06.93,126.85,155,3.3,046km S 49° E of Manay (Davao Oriental),046,S 49° E,Manay (Davao Oriental)
 2025-11-10T00:47:00.000Z,10 November 2025 - 12:47 AM,04.91,126.87,014,3.0,167km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),167,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-10T00:36:00.000Z,10 November 2025 - 12:36 AM,06.05,126.00,140,2.4,038km S 64° E of Don Marcelino (Davao Occidental),038,S 64° E,Don Marcelino (Davao Occidental)
 2025-11-10T00:28:00.000Z,10 November 2025 - 12:28 AM,08.56,126.30,091,2.5,019km N 55° E of Tagbina (Surigao Del Sur),019,N 55° E,Tagbina (Surigao Del Sur)
@@ -348,6 +349,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-03T01:32:00.000Z,03 November 2025 - 01:32 AM,12.80,119.73,033,2.0,077km N 17° W of Busuanga (Palawan),077,N 17° W,Busuanga (Palawan)
 2025-11-03T01:32:00.000Z,03 November 2025 - 01:32 AM,09.59,126.16,003,1.6,022km S 01° W of General Luna (Surigao Del Norte),022,S 01° W,General Luna (Surigao Del Norte)
 2025-11-03T01:30:00.000Z,03 November 2025 - 01:30 AM,17.35,121.41,020,1.3,014km S 25° W of City Of Tabuk (Kalinga),014,S 25° W,City Of Tabuk (Kalinga)
-2025-11-03T01:16:00.000Z,03 November 2025 - 01:16 AM,13.55,120.52,004,2.5,016km N 23° E of Paluan (Occidental Mindoro),016,N 23° E,Paluan (Occidental Mindoro)
-2025-11-03T01:16:00.000Z,03 November 2025 - 01:16 AM,06.78,127.26,015,2.7,094km S 72° E of Tarragona (Davao Oriental),094,S 72° E,Tarragona (Davao Oriental)
-2025-11-03T00:58:00.000Z,03 November 2025 - 12:58 AM,15.64,120.15,012,1.4,023km S 43° W of Mangatarem (Pangasinan),023,S 43° W,Mangatarem (Pangasinan)
