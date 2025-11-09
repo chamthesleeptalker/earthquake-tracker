@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T13:10:00.000Z,09 November 2025 - 01:10 PM,11.04,124.02,021,2.0,004km East of City Of Bogo (Cebu),004,East of City,Bogo (Cebu)
+2025-11-09T12:53:00.000Z,09 November 2025 - 12:53 PM,06.43,125.74,009,1.7,014km N 83° E of Malita (Davao Occidental),014,N 83° E,Malita (Davao Occidental)
 2025-11-09T12:28:00.000Z,09 November 2025 - 12:28 PM,11.11,124.09,008,2.5,014km N 59° E of City Of Bogo (Cebu),014,N 59° E,City Of Bogo (Cebu)
