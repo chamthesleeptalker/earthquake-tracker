@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T23:55:00.000Z,09 November 2025 - 11:55 PM,07.76,122.45,034,1.9,011km N 08° W of Roseller Lim (Zamboanga Sibugay),011,N 08° W,Roseller Lim (Zamboanga Sibugay)
+2025-11-09T23:46:00.000Z,09 November 2025 - 11:46 PM,07.21,126.78,026,1.9,027km S 90° E of Manay (Davao Oriental),027,S 90° E,Manay (Davao Oriental)
+2025-11-09T23:38:00.000Z,09 November 2025 - 11:38 PM,10.91,123.99,024,2.3,015km S 06° E of City Of Bogo (Cebu),015,S 06° E,City Of Bogo (Cebu)
 2025-11-09T22:39:00.000Z,09 November 2025 - 10:39 PM,10.88,123.88,006,3.1,021km S 31° W of City Of Bogo (Cebu),021,S 31° W,City Of Bogo (Cebu)
 2025-11-09T21:30:00.000Z,09 November 2025 - 09:30 PM,10.31,123.16,013,2.3,010km N 66° E of Moises Padilla (Negros Occidental),010,N 66° E,Moises Padilla (Negros Occidental)
 2025-11-09T21:02:00.000Z,09 November 2025 - 09:02 PM,05.94,124.73,019,3.4,012km S 65° E of Kiamba (Sarangani),012,S 65° E,Kiamba (Sarangani)
@@ -350,4 +353,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-03T00:13:00.000Z,03 November 2025 - 12:13 AM,06.34,127.26,029,2.5,120km S 49° E of Tarragona (Davao Oriental),120,S 49° E,Tarragona (Davao Oriental)
 2025-11-03T00:08:00.000Z,03 November 2025 - 12:08 AM,11.16,124.04,016,2.0,015km N 29° E of City Of Bogo (Cebu),015,N 29° E,City Of Bogo (Cebu)
 2025-11-03T00:02:00.000Z,03 November 2025 - 12:02 AM,11.26,123.80,004,2.4,030km N 40° W of City Of Bogo (Cebu),030,N 40° W,City Of Bogo (Cebu)
-2025-11-02T23:49:00.000Z,02 November 2025 - 11:49 PM,11.30,123.80,009,2.0,034km N 34° W of City Of Bogo (Cebu),034,N 34° W,City Of Bogo (Cebu)
