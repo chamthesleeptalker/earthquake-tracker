@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-10T00:28:00.000Z,10 November 2025 - 12:28 AM,08.56,126.30,091,2.5,019km N 55° E of Tagbina (Surigao Del Sur),019,N 55° E,Tagbina (Surigao Del Sur)
 2025-11-09T23:55:00.000Z,09 November 2025 - 11:55 PM,07.76,122.45,034,1.9,011km N 08° W of Roseller Lim (Zamboanga Sibugay),011,N 08° W,Roseller Lim (Zamboanga Sibugay)
 2025-11-09T23:46:00.000Z,09 November 2025 - 11:46 PM,07.21,126.78,026,1.9,027km S 90° E of Manay (Davao Oriental),027,S 90° E,Manay (Davao Oriental)
 2025-11-09T23:38:00.000Z,09 November 2025 - 11:38 PM,10.91,123.99,024,2.3,015km S 06° E of City Of Bogo (Cebu),015,S 06° E,City Of Bogo (Cebu)
@@ -29,4 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-09T01:54:00.000Z,09 November 2025 - 01:54 AM,18.41,120.74,015,2.6,015km S 11° W of Bangui (Ilocos Norte),015,S 11° W,Bangui (Ilocos Norte)
 2025-11-09T01:40:00.000Z,09 November 2025 - 01:40 AM,06.59,125.21,012,2.8,006km S 53° W of Kiblawan (Davao Del Sur),006,S 53° W,Kiblawan (Davao Del Sur)
 2025-11-09T00:39:00.000Z,09 November 2025 - 12:39 AM,10.00,122.36,010,2.2,027km N 16° W of City Of Sipalay (Negros Occidental),027,N 16° W,City Of Sipalay (Negros Occidental)
-2025-11-09T00:16:00.000Z,09 November 2025 - 12:16 AM,04.80,125.06,051,3.1,079km S 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),079,S 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
