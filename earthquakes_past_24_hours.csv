@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T14:31:00.000Z,09 November 2025 - 02:31 PM,07.28,126.86,025,2.8,036km N 77° E of Manay (Davao Oriental),036,N 77° E,Manay (Davao Oriental)
 2025-11-09T13:10:00.000Z,09 November 2025 - 01:10 PM,11.04,124.02,021,2.0,004km East of City Of Bogo (Cebu),004,East of City,Bogo (Cebu)
 2025-11-09T12:53:00.000Z,09 November 2025 - 12:53 PM,06.43,125.74,009,1.7,014km N 83° E of Malita (Davao Occidental),014,N 83° E,Malita (Davao Occidental)
 2025-11-09T12:28:00.000Z,09 November 2025 - 12:28 PM,11.11,124.09,008,2.5,014km N 59° E of City Of Bogo (Cebu),014,N 59° E,City Of Bogo (Cebu)
@@ -33,4 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-08T16:43:00.000Z,08 November 2025 - 04:43 PM,08.73,127.08,016,3.0,088km S 76° E of Cagwait (Surigao Del Sur),088,S 76° E,Cagwait (Surigao Del Sur)
 2025-11-08T15:38:00.000Z,08 November 2025 - 03:38 PM,11.22,124.12,011,2.3,024km N 38° E of City Of Bogo (Cebu),024,N 38° E,City Of Bogo (Cebu)
 2025-11-08T14:46:00.000Z,08 November 2025 - 02:46 PM,10.72,124.97,003,3.0,006km S 57° W of Abuyog (Leyte),006,S 57° W,Abuyog (Leyte)
-2025-11-08T14:03:00.000Z,08 November 2025 - 02:03 PM,06.54,125.83,147,2.9,028km N 60° E of Malita (Davao Occidental),028,N 60° E,Malita (Davao Occidental)
