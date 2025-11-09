@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T22:39:00.000Z,09 November 2025 - 10:39 PM,10.88,123.88,006,3.1,021km S 31° W of City Of Bogo (Cebu),021,S 31° W,City Of Bogo (Cebu)
 2025-11-09T21:30:00.000Z,09 November 2025 - 09:30 PM,10.31,123.16,013,2.3,010km N 66° E of Moises Padilla (Negros Occidental),010,N 66° E,Moises Padilla (Negros Occidental)
 2025-11-09T21:02:00.000Z,09 November 2025 - 09:02 PM,05.94,124.73,019,3.4,012km S 65° E of Kiamba (Sarangani),012,S 65° E,Kiamba (Sarangani)
 2025-11-09T20:27:00.000Z,09 November 2025 - 08:27 PM,07.28,126.85,013,3.5,035km N 77° E of Manay (Davao Oriental),035,N 77° E,Manay (Davao Oriental)
@@ -350,9 +351,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-03T00:08:00.000Z,03 November 2025 - 12:08 AM,11.16,124.04,016,2.0,015km N 29° E of City Of Bogo (Cebu),015,N 29° E,City Of Bogo (Cebu)
 2025-11-03T00:02:00.000Z,03 November 2025 - 12:02 AM,11.26,123.80,004,2.4,030km N 40° W of City Of Bogo (Cebu),030,N 40° W,City Of Bogo (Cebu)
 2025-11-02T23:49:00.000Z,02 November 2025 - 11:49 PM,11.30,123.80,009,2.0,034km N 34° W of City Of Bogo (Cebu),034,N 34° W,City Of Bogo (Cebu)
-2025-11-02T22:38:00.000Z,02 November 2025 - 10:38 PM,11.16,124.13,034,1.4,021km N 53° E of City Of Bogo (Cebu),021,N 53° E,City Of Bogo (Cebu)
-2025-11-02T22:36:00.000Z,02 November 2025 - 10:36 PM,10.32,123.58,012,2.7,005km N 02° W of Pinamungajan (Cebu),005,N 02° W,Pinamungajan (Cebu)
-2025-11-02T22:31:00.000Z,02 November 2025 - 10:31 PM,08.44,124.69,017,2.2,006km S 54° E of City Of Cagayan De Oro (Misamis Oriental),006,S 54° E,City Of Cagayan De Oro (Misamis Oriental)
-2025-11-02T22:06:00.000Z,02 November 2025 - 10:06 PM,18.59,120.42,011,2.6,026km N 70° W of Burgos (Ilocos Norte),026,N 70° W,Burgos (Ilocos Norte)
-2025-11-02T22:03:00.000Z,02 November 2025 - 10:03 PM,08.58,126.68,011,1.6,045km N 58° E of Hinatuan (Surigao Del Sur),045,N 58° E,Hinatuan (Surigao Del Sur)
-2025-11-02T22:02:00.000Z,02 November 2025 - 10:02 PM,09.65,126.25,034,2.0,018km S 37° E of General Luna (Surigao Del Norte),018,S 37° E,General Luna (Surigao Del Norte)
