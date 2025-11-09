@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-09T11:06:00.000Z,09 November 2025 - 11:06 AM,11.11,124.21,005,1.7,026km N 76° E of City Of Bogo (Cebu),026,N 76° E,City Of Bogo (Cebu)
 2025-11-09T09:57:00.000Z,09 November 2025 - 09:57 AM,10.88,123.81,002,2.2,027km S 41° W of City Of Bogo (Cebu),027,S 41° W,City Of Bogo (Cebu)
 2025-11-09T08:52:00.000Z,09 November 2025 - 08:52 AM,11.14,124.13,002,2.3,019km N 57° E of City Of Bogo (Cebu),019,N 57° E,City Of Bogo (Cebu)
 2025-11-09T06:55:00.000Z,09 November 2025 - 06:55 AM,11.13,123.91,004,2.0,012km N 37° W of City Of Bogo (Cebu),012,N 37° W,City Of Bogo (Cebu)
@@ -30,5 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-08T15:38:00.000Z,08 November 2025 - 03:38 PM,11.22,124.12,011,2.3,024km N 38° E of City Of Bogo (Cebu),024,N 38° E,City Of Bogo (Cebu)
 2025-11-08T14:46:00.000Z,08 November 2025 - 02:46 PM,10.72,124.97,003,3.0,006km S 57° W of Abuyog (Leyte),006,S 57° W,Abuyog (Leyte)
 2025-11-08T14:03:00.000Z,08 November 2025 - 02:03 PM,06.54,125.83,147,2.9,028km N 60° E of Malita (Davao Occidental),028,N 60° E,Malita (Davao Occidental)
-2025-11-08T10:20:00.000Z,08 November 2025 - 10:20 AM,10.80,122.84,025,2.1,014km S 80° E of Dumangas (Iloilo),014,S 80° E,Dumangas (Iloilo)
-2025-11-08T10:00:00.000Z,08 November 2025 - 10:00 AM,11.16,123.95,009,2.8,013km N 13° W of City Of Bogo (Cebu),013,N 13° W,City Of Bogo (Cebu)
