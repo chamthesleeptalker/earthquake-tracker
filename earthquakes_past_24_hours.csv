@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-10T02:57:00.000Z,10 November 2025 - 02:57 AM,10.87,123.95,010,4.1,019km S 9° W of City Of Bogo (Cebu),019,S 9° W,City Of Bogo (Cebu)
+2025-11-10T02:43:00.000Z,10 November 2025 - 02:43 AM,07.42,125.83,018,2.3,002km S 05° E of City Of Tagum (Davao Del Norte),002,S 05° E,City Of Tagum (Davao Del Norte)
+2025-11-10T02:41:00.000Z,10 November 2025 - 02:41 AM,08.98,126.31,030,2.5,007km N 05° E of Cagwait (Surigao Del Sur),007,N 05° E,Cagwait (Surigao Del Sur)
 2025-11-10T01:24:00.000Z,10 November 2025 - 01:24 AM,06.93,126.85,155,3.3,046km S 49° E of Manay (Davao Oriental),046,S 49° E,Manay (Davao Oriental)
 2025-11-10T00:47:00.000Z,10 November 2025 - 12:47 AM,04.91,126.87,014,3.0,167km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),167,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-10T00:36:00.000Z,10 November 2025 - 12:36 AM,06.05,126.00,140,2.4,038km S 64° E of Don Marcelino (Davao Occidental),038,S 64° E,Don Marcelino (Davao Occidental)
@@ -30,5 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-09T03:21:00.000Z,09 November 2025 - 03:21 AM,07.41,126.84,030,2.0,031km N 74° E of Caraga (Davao Oriental),031,N 74° E,Caraga (Davao Oriental)
 2025-11-09T03:08:00.000Z,09 November 2025 - 03:08 AM,09.84,126.28,008,3.2,015km N 64° E of General Luna (Surigao Del Norte),015,N 64° E,General Luna (Surigao Del Norte)
 2025-11-09T03:00:00.000Z,09 November 2025 - 03:00 AM,07.08,126.90,006,2.3,043km S 69° E of Manay (Davao Oriental),043,S 69° E,Manay (Davao Oriental)
-2025-11-09T01:54:00.000Z,09 November 2025 - 01:54 AM,18.41,120.74,015,2.6,015km S 11° W of Bangui (Ilocos Norte),015,S 11° W,Bangui (Ilocos Norte)
-2025-11-09T01:40:00.000Z,09 November 2025 - 01:40 AM,06.59,125.21,012,2.8,006km S 53° W of Kiblawan (Davao Del Sur),006,S 53° W,Kiblawan (Davao Del Sur)
