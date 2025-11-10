@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-10T12:09:00.000Z,10 November 2025 - 12:09 PM,06.68,125.71,047,2.0,030km N 62° E of Santa Maria (Davao Occidental),030,N 62° E,Santa Maria (Davao Occidental)
 2025-11-10T11:00:00.000Z,10 November 2025 - 11:00 AM,11.33,125.64,010,2.5,003km S 57° E of Hernani (Eastern Samar),003,S 57° E,Hernani (Eastern Samar)
 2025-11-10T09:16:00.000Z,10 November 2025 - 09:16 AM,08.39,125.88,012,3.2,012km S 57° E of Talacogon (Agusan Del Sur),012,S 57° E,Talacogon (Agusan Del Sur)
 2025-11-10T08:57:00.000Z,10 November 2025 - 08:57 AM,11.15,124.06,032,1.4,014km N 39° E of City Of Bogo (Cebu),014,N 39° E,City Of Bogo (Cebu)
