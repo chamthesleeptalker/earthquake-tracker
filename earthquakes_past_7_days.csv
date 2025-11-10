@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T03:55:00.000Z,11 November 2025 - 03:55 AM,07.01,126.68,010,2.5,027km S 36° E of Manay (Davao Oriental),027,S 36° E,Manay (Davao Oriental)
+2025-11-11T03:49:00.000Z,11 November 2025 - 03:49 AM,10.26,125.98,036,1.8,028km N 14° W of Santa Monica (Surigao Del Norte),028,N 14° W,Santa Monica (Surigao Del Norte)
+2025-11-11T03:47:00.000Z,11 November 2025 - 03:47 AM,09.65,126.18,034,1.9,015km S 11° E of General Luna (Surigao Del Norte),015,S 11° E,General Luna (Surigao Del Norte)
 2025-11-11T03:07:00.000Z,11 November 2025 - 03:07 AM,05.66,125.52,037,2.4,021km N 16° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 16° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-11T01:53:00.000Z,11 November 2025 - 01:53 AM,05.32,126.53,059,2.9,118km S 56° E of Jose Abad Santos (Davao Occidental),118,S 56° E,Jose Abad Santos (Davao Occidental)
 2025-11-11T01:18:00.000Z,11 November 2025 - 01:18 AM,05.65,125.09,030,2.3,022km S 34° W of Glan (Sarangani),022,S 34° W,Glan (Sarangani)
@@ -320,6 +323,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T05:47:00.000Z,04 November 2025 - 05:47 AM,09.68,126.36,017,2.5,025km S 64° E of General Luna (Surigao Del Norte),025,S 64° E,General Luna (Surigao Del Norte)
 2025-11-04T05:17:00.000Z,04 November 2025 - 05:17 AM,13.77,121.81,031,1.6,019km S 66° W of Unisan (Quezon),019,S 66° W,Unisan (Quezon)
 2025-11-04T05:01:00.000Z,04 November 2025 - 05:01 AM,09.75,126.28,015,3.0,014km S 73° E of General Luna (Surigao Del Norte),014,S 73° E,General Luna (Surigao Del Norte)
-2025-11-04T03:50:00.000Z,04 November 2025 - 03:50 AM,09.68,122.62,019,1.4,017km S 10° W of Candoni (Negros Occidental),017,S 10° W,Candoni (Negros Occidental)
-2025-11-04T03:22:00.000Z,04 November 2025 - 03:22 AM,13.51,120.03,027,3.3,033km S 46° W of Looc (Occidental Mindoro),033,S 46° W,Looc (Occidental Mindoro)
-2025-11-04T03:21:00.000Z,04 November 2025 - 03:21 AM,06.05,126.10,016,2.6,053km N 73° E of Jose Abad Santos (Davao Occidental),053,N 73° E,Jose Abad Santos (Davao Occidental)

@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T03:55:00.000Z,11 November 2025 - 03:55 AM,07.01,126.68,010,2.5,027km S 36° E of Manay (Davao Oriental),027,S 36° E,Manay (Davao Oriental)
+2025-11-11T03:49:00.000Z,11 November 2025 - 03:49 AM,10.26,125.98,036,1.8,028km N 14° W of Santa Monica (Surigao Del Norte),028,N 14° W,Santa Monica (Surigao Del Norte)
+2025-11-11T03:47:00.000Z,11 November 2025 - 03:47 AM,09.65,126.18,034,1.9,015km S 11° E of General Luna (Surigao Del Norte),015,S 11° E,General Luna (Surigao Del Norte)
 2025-11-11T03:07:00.000Z,11 November 2025 - 03:07 AM,05.66,125.52,037,2.4,021km N 16° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 16° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
