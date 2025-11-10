@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-10T08:57:00.000Z,10 November 2025 - 08:57 AM,11.15,124.06,032,1.4,014km N 39° E of City Of Bogo (Cebu),014,N 39° E,City Of Bogo (Cebu)
+2025-11-10T08:29:00.000Z,10 November 2025 - 08:29 AM,08.26,124.70,001,2.2,006km S 12° E of Baungon (Bukidnon),006,S 12° E,Baungon (Bukidnon)
+2025-11-10T07:45:00.000Z,10 November 2025 - 07:45 AM,07.84,126.73,024,4.1,031km N 79° E of Cateel (Davao Oriental),031,N 79° E,Cateel (Davao Oriental)
 2025-11-10T06:57:00.000Z,10 November 2025 - 06:57 AM,06.92,123.77,006,2.7,032km S 59° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),032,S 59° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-11-10T06:24:00.000Z,10 November 2025 - 06:24 AM,10.86,123.91,010,2.2,022km S 21° W of City Of Bogo (Cebu),022,S 21° W,City Of Bogo (Cebu)
 2025-11-10T05:50:00.000Z,10 November 2025 - 05:50 AM,11.12,123.96,006,2.6,008km N 13° W of City Of Bogo (Cebu),008,N 13° W,City Of Bogo (Cebu)
