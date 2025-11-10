@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-10T18:04:00.000Z,10 November 2025 - 06:04 PM,11.14,123.97,007,1.8,011km N 03° W of City Of Bogo (Cebu),011,N 03° W,City Of Bogo (Cebu)
+2025-11-10T17:34:00.000Z,10 November 2025 - 05:34 PM,06.57,126.58,039,2.3,055km S 16° E of Tarragona (Davao Oriental),055,S 16° E,Tarragona (Davao Oriental)
 2025-11-09T23:39:00.000Z,09 November 2025 - 11:39 PM,10.89,123.98,019,2.3,017km S 01° E of City Of Bogo (Cebu),017,S 01° E,City Of Bogo (Cebu)
 2025-11-10T16:49:00.000Z,10 November 2025 - 04:49 PM,08.81,125.11,009,2.8,001km S 39° E of City Of Gingoog (Misamis Oriental),001,S 39° E,City Of Gingoog (Misamis Oriental)
 2025-11-10T16:47:00.000Z,10 November 2025 - 04:47 PM,13.89,120.56,090,1.6,010km N 54° W of Calatagan (Batangas),010,N 54° W,Calatagan (Batangas)
@@ -324,4 +326,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-03T18:14:00.000Z,03 November 2025 - 06:14 PM,10.73,124.09,010,2.9,025km S 66° E of Tabuelan (Cebu),025,S 66° E,Tabuelan (Cebu)
 2025-11-03T18:11:00.000Z,03 November 2025 - 06:11 PM,11.02,123.95,014,2.7,004km S 47° W of City Of Bogo (Cebu),004,S 47° W,City Of Bogo (Cebu)
 2025-11-03T18:04:00.000Z,03 November 2025 - 06:04 PM,09.67,126.21,028,2.3,014km S 26° E of General Luna (Surigao Del Norte),014,S 26° E,General Luna (Surigao Del Norte)
-2025-11-03T18:01:00.000Z,03 November 2025 - 06:01 PM,08.37,125.94,024,2.9,007km S 79° W of Rosario (Agusan Del Sur),007,S 79° W,Rosario (Agusan Del Sur)
