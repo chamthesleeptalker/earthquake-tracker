@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T00:12:00.000Z,11 November 2025 - 12:12 AM,10.95,123.92,001,2.6,013km S 30° W of City Of Bogo (Cebu),013,S 30° W,City Of Bogo (Cebu)
+2025-11-10T23:39:00.000Z,10 November 2025 - 11:39 PM,07.25,123.63,007,2.5,034km S 46° E of Tabina (Zamboanga Del Sur),034,S 46° E,Tabina (Zamboanga Del Sur)
 2025-11-10T21:14:00.000Z,10 November 2025 - 09:14 PM,09.65,126.15,029,2.1,015km S 03° W of General Luna (Surigao Del Norte),015,S 03° W,General Luna (Surigao Del Norte)
 2025-11-10T21:02:00.000Z,10 November 2025 - 09:02 PM,07.58,126.54,021,2.4,003km N 72° W of Baganga (Davao Oriental),003,N 72° W,Baganga (Davao Oriental)
 2025-11-10T19:37:00.000Z,10 November 2025 - 07:37 PM,11.07,124.11,002,2.5,014km N 78° E of City Of Bogo (Cebu),014,N 78° E,City Of Bogo (Cebu)
