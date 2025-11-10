@@ -1,10 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-10T21:14:00.000Z,10 November 2025 - 09:14 PM,09.65,126.15,029,2.1,015km S 03° W of General Luna (Surigao Del Norte),015,S 03° W,General Luna (Surigao Del Norte)
+2025-11-10T21:02:00.000Z,10 November 2025 - 09:02 PM,07.58,126.54,021,2.4,003km N 72° W of Baganga (Davao Oriental),003,N 72° W,Baganga (Davao Oriental)
+2025-11-10T19:37:00.000Z,10 November 2025 - 07:37 PM,11.07,124.11,002,2.5,014km N 78° E of City Of Bogo (Cebu),014,N 78° E,City Of Bogo (Cebu)
 2025-11-10T18:04:00.000Z,10 November 2025 - 06:04 PM,11.14,123.97,007,1.8,011km N 03° W of City Of Bogo (Cebu),011,N 03° W,City Of Bogo (Cebu)
 2025-11-10T17:34:00.000Z,10 November 2025 - 05:34 PM,06.57,126.58,039,2.3,055km S 16° E of Tarragona (Davao Oriental),055,S 16° E,Tarragona (Davao Oriental)
 2025-11-09T23:39:00.000Z,09 November 2025 - 11:39 PM,10.89,123.98,019,2.3,017km S 01° E of City Of Bogo (Cebu),017,S 01° E,City Of Bogo (Cebu)
 2025-11-10T16:49:00.000Z,10 November 2025 - 04:49 PM,08.81,125.11,009,2.8,001km S 39° E of City Of Gingoog (Misamis Oriental),001,S 39° E,City Of Gingoog (Misamis Oriental)
 2025-11-10T16:47:00.000Z,10 November 2025 - 04:47 PM,13.89,120.56,090,1.6,010km N 54° W of Calatagan (Batangas),010,N 54° W,Calatagan (Batangas)
-2025-11-09T20:26:00.000Z,09 November 2025 - 08:26 PM,07.22,127.06,015,3.5,057km N 89° E of Manay (Davao Oriental),057,N 89° E,Manay (Davao Oriental)
 2025-11-10T16:12:00.000Z,10 November 2025 - 04:12 PM,15.48,122.06,021,1.8,062km S 60° E of Baler (Aurora),062,S 60° E,Baler (Aurora)
 2025-11-10T15:38:00.000Z,10 November 2025 - 03:38 PM,13.83,120.44,053,2.1,020km West of Calatagan (Batangas),020,West of Calatagan,
 2025-11-10T15:16:00.000Z,10 November 2025 - 03:16 PM,06.19,126.26,112,2.4,055km S 22° E of Governor Generoso (Davao Oriental),055,S 22° E,Governor Generoso (Davao Oriental)
@@ -34,8 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-09T23:38:00.000Z,09 November 2025 - 11:38 PM,10.91,123.99,024,2.3,015km S 06° E of City Of Bogo (Cebu),015,S 06° E,City Of Bogo (Cebu)
 2025-11-09T22:39:00.000Z,09 November 2025 - 10:39 PM,10.88,123.88,006,3.1,021km S 31° W of City Of Bogo (Cebu),021,S 31° W,City Of Bogo (Cebu)
 2025-11-09T21:30:00.000Z,09 November 2025 - 09:30 PM,10.31,123.16,013,2.3,010km N 66° E of Moises Padilla (Negros Occidental),010,N 66° E,Moises Padilla (Negros Occidental)
-2025-11-09T21:02:00.000Z,09 November 2025 - 09:02 PM,05.94,124.73,019,3.4,012km S 65° E of Kiamba (Sarangani),012,S 65° E,Kiamba (Sarangani)
-2025-11-09T20:27:00.000Z,09 November 2025 - 08:27 PM,07.28,126.85,013,3.5,035km N 77° E of Manay (Davao Oriental),035,N 77° E,Manay (Davao Oriental)
-2025-11-09T20:19:00.000Z,09 November 2025 - 08:19 PM,10.38,123.18,007,2.4,005km S 66° W of City Of Canlaon (Negros Oriental),005,S 66° W,City Of Canlaon (Negros Oriental)
-2025-11-09T20:05:00.000Z,09 November 2025 - 08:05 PM,11.07,124.12,003,2.0,015km N 82° E of City Of Bogo (Cebu),015,N 82° E,City Of Bogo (Cebu)
-2025-11-09T19:52:00.000Z,09 November 2025 - 07:52 PM,12.78,123.02,014,3.2,028km S 61° W of Claveria (Masbate),028,S 61° W,Claveria (Masbate)
