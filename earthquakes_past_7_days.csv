@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T05:29:00.000Z,11 November 2025 - 05:29 AM,07.51,126.83,028,2.4,046km N 44° E of Manay (Davao Oriental),046,N 44° E,Manay (Davao Oriental)
+2025-11-11T05:28:00.000Z,11 November 2025 - 05:28 AM,10.92,123.95,003,2.8,014km S 11° W of City Of Bogo (Cebu),014,S 11° W,City Of Bogo (Cebu)
+2025-11-11T05:11:00.000Z,11 November 2025 - 05:11 AM,10.97,123.88,007,3.2,014km S 52° W of City Of Bogo (Cebu),014,S 52° W,City Of Bogo (Cebu)
 2025-11-11T04:57:00.000Z,11 November 2025 - 04:57 AM,12.26,125.47,016,1.8,010km N 22° W of San Policarpo (Eastern Samar),010,N 22° W,San Policarpo (Eastern Samar)
 2025-11-11T04:55:00.000Z,11 November 2025 - 04:55 AM,11.13,123.95,007,2.2,009km N 19° W of City Of Bogo (Cebu),009,N 19° W,City Of Bogo (Cebu)
 2025-11-11T04:42:00.000Z,11 November 2025 - 04:42 AM,11.16,123.90,004,2.8,015km N 36° W of City Of Bogo (Cebu),015,N 36° W,City Of Bogo (Cebu)
@@ -325,5 +328,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T06:54:00.000Z,04 November 2025 - 06:54 AM,09.75,123.70,012,2.0,012km S 59° W of Loon (Bohol),012,S 59° W,Loon (Bohol)
 2025-11-04T05:48:00.000Z,04 November 2025 - 05:48 AM,08.83,126.38,004,1.5,013km S 42° E of Cagwait (Surigao Del Sur),013,S 42° E,Cagwait (Surigao Del Sur)
 2025-11-04T05:47:00.000Z,04 November 2025 - 05:47 AM,09.68,126.36,017,2.5,025km S 64° E of General Luna (Surigao Del Norte),025,S 64° E,General Luna (Surigao Del Norte)
-2025-11-04T05:17:00.000Z,04 November 2025 - 05:17 AM,13.77,121.81,031,1.6,019km S 66° W of Unisan (Quezon),019,S 66° W,Unisan (Quezon)
-2025-11-04T05:01:00.000Z,04 November 2025 - 05:01 AM,09.75,126.28,015,3.0,014km S 73° E of General Luna (Surigao Del Norte),014,S 73° E,General Luna (Surigao Del Norte)

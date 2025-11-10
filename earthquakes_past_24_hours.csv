@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T05:29:00.000Z,11 November 2025 - 05:29 AM,07.51,126.83,028,2.4,046km N 44° E of Manay (Davao Oriental),046,N 44° E,Manay (Davao Oriental)
+2025-11-11T05:28:00.000Z,11 November 2025 - 05:28 AM,10.92,123.95,003,2.8,014km S 11° W of City Of Bogo (Cebu),014,S 11° W,City Of Bogo (Cebu)
+2025-11-11T05:11:00.000Z,11 November 2025 - 05:11 AM,10.97,123.88,007,3.2,014km S 52° W of City Of Bogo (Cebu),014,S 52° W,City Of Bogo (Cebu)
 2025-11-11T04:57:00.000Z,11 November 2025 - 04:57 AM,12.26,125.47,016,1.8,010km N 22° W of San Policarpo (Eastern Samar),010,N 22° W,San Policarpo (Eastern Samar)
 2025-11-11T04:55:00.000Z,11 November 2025 - 04:55 AM,11.13,123.95,007,2.2,009km N 19° W of City Of Bogo (Cebu),009,N 19° W,City Of Bogo (Cebu)
 2025-11-11T04:42:00.000Z,11 November 2025 - 04:42 AM,11.16,123.90,004,2.8,015km N 36° W of City Of Bogo (Cebu),015,N 36° W,City Of Bogo (Cebu)
