@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T02:12:00.000Z,12 November 2025 - 02:12 AM,09.86,125.74,033,1.4,011km S 48° E of Cagdianao (Dinagat Islands),011,S 48° E,Cagdianao (Dinagat Islands)
+2025-11-12T02:12:00.000Z,12 November 2025 - 02:12 AM,09.86,125.74,033,1.4,011km S 48° E of Cagdianao (Dinagat Islands),011,S 48° E,Cagdianao (Dinagat Islands)
+2025-11-12T02:05:00.000Z,12 November 2025 - 02:05 AM,09.61,126.26,030,1.7,022km S 32° E of General Luna (Surigao Del Norte),022,S 32° E,General Luna (Surigao Del Norte)
+2025-11-12T02:02:00.000Z,12 November 2025 - 02:02 AM,09.12,126.72,013,2.6,051km N 64° E of Cagwait (Surigao Del Sur),051,N 64° E,Cagwait (Surigao Del Sur)
+2025-11-12T01:59:00.000Z,12 November 2025 - 01:59 AM,12.61,121.23,033,1.3,031km N 85° W of Roxas (Oriental Mindoro),031,N 85° W,Roxas (Oriental Mindoro)
 2025-11-12T01:05:00.000Z,12 November 2025 - 01:05 AM,11.12,124.08,007,2.9,013km N 52° E of City Of Bogo (Cebu),013,N 52° E,City Of Bogo (Cebu)
 2025-11-12T01:02:00.000Z,12 November 2025 - 01:02 AM,05.89,126.07,027,2.3,047km S 86° E of Jose Abad Santos (Davao Occidental),047,S 86° E,Jose Abad Santos (Davao Occidental)
 2025-11-12T00:53:00.000Z,12 November 2025 - 12:53 AM,07.36,126.75,022,2.1,028km N 55° E of Manay (Davao Oriental),028,N 55° E,Manay (Davao Oriental)
@@ -68,6 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T03:49:00.000Z,11 November 2025 - 03:49 AM,10.26,125.98,036,1.8,028km N 14° W of Santa Monica (Surigao Del Norte),028,N 14° W,Santa Monica (Surigao Del Norte)
 2025-11-11T03:47:00.000Z,11 November 2025 - 03:47 AM,09.65,126.18,034,1.9,015km S 11° E of General Luna (Surigao Del Norte),015,S 11° E,General Luna (Surigao Del Norte)
 2025-11-11T03:07:00.000Z,11 November 2025 - 03:07 AM,05.66,125.52,037,2.4,021km N 16° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 16° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-11T01:53:00.000Z,11 November 2025 - 01:53 AM,05.32,126.53,059,2.9,118km S 56° E of Jose Abad Santos (Davao Occidental),118,S 56° E,Jose Abad Santos (Davao Occidental)
-2025-11-11T01:18:00.000Z,11 November 2025 - 01:18 AM,05.65,125.09,030,2.3,022km S 34° W of Glan (Sarangani),022,S 34° W,Glan (Sarangani)
-2025-11-11T01:16:00.000Z,11 November 2025 - 01:16 AM,13.55,120.59,002,2.2,019km N 50° W of Abra De Ilog (Occidental Mindoro),019,N 50° W,Abra De Ilog (Occidental Mindoro)

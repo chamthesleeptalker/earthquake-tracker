@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T02:12:00.000Z,12 November 2025 - 02:12 AM,09.86,125.74,033,1.4,011km S 48° E of Cagdianao (Dinagat Islands),011,S 48° E,Cagdianao (Dinagat Islands)
+2025-11-12T02:12:00.000Z,12 November 2025 - 02:12 AM,09.86,125.74,033,1.4,011km S 48° E of Cagdianao (Dinagat Islands),011,S 48° E,Cagdianao (Dinagat Islands)
+2025-11-12T02:05:00.000Z,12 November 2025 - 02:05 AM,09.61,126.26,030,1.7,022km S 32° E of General Luna (Surigao Del Norte),022,S 32° E,General Luna (Surigao Del Norte)
+2025-11-12T02:02:00.000Z,12 November 2025 - 02:02 AM,09.12,126.72,013,2.6,051km N 64° E of Cagwait (Surigao Del Sur),051,N 64° E,Cagwait (Surigao Del Sur)
+2025-11-12T01:59:00.000Z,12 November 2025 - 01:59 AM,12.61,121.23,033,1.3,031km N 85° W of Roxas (Oriental Mindoro),031,N 85° W,Roxas (Oriental Mindoro)
 2025-11-12T01:05:00.000Z,12 November 2025 - 01:05 AM,11.12,124.08,007,2.9,013km N 52° E of City Of Bogo (Cebu),013,N 52° E,City Of Bogo (Cebu)
 2025-11-12T01:02:00.000Z,12 November 2025 - 01:02 AM,05.89,126.07,027,2.3,047km S 86° E of Jose Abad Santos (Davao Occidental),047,S 86° E,Jose Abad Santos (Davao Occidental)
 2025-11-12T00:53:00.000Z,12 November 2025 - 12:53 AM,07.36,126.75,022,2.1,028km N 55° E of Manay (Davao Oriental),028,N 55° E,Manay (Davao Oriental)
