@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T19:19:00.000Z,11 November 2025 - 07:19 PM,10.90,123.89,004,1.7,019km S 29° W of City Of Bogo (Cebu),019,S 29° W,City Of Bogo (Cebu)
+2025-11-11T19:08:00.000Z,11 November 2025 - 07:08 PM,10.94,123.91,003,2.4,014km S 31° W of City Of Bogo (Cebu),014,S 31° W,City Of Bogo (Cebu)
+2025-11-11T19:07:00.000Z,11 November 2025 - 07:07 PM,11.70,124.28,003,2.5,009km N 76° W of Kawayan (Biliran),009,N 76° W,Kawayan (Biliran)
+2025-11-11T19:05:00.000Z,11 November 2025 - 07:05 PM,10.91,123.90,004,2.5,017km S 30° W of City Of Bogo (Cebu),017,S 30° W,City Of Bogo (Cebu)
 2025-11-11T19:02:00.000Z,11 November 2025 - 07:02 PM,10.92,123.91,004,3.1,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
 2025-11-11T18:29:00.000Z,11 November 2025 - 06:29 PM,08.53,124.72,004,2.3,004km S 81° W of Tagoloan (Misamis Oriental),004,S 81° W,Tagoloan (Misamis Oriental)
 2025-11-11T03:46:00.000Z,11 November 2025 - 03:46 AM,09.64,126.16,050,1.9,016km S 03° E of General Luna (Surigao Del Norte),016,S 03° E,General Luna (Surigao Del Norte)
@@ -333,4 +337,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T20:48:00.000Z,04 November 2025 - 08:48 PM,04.82,125.82,015,3.4,075km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),075,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-04T20:12:00.000Z,04 November 2025 - 08:12 PM,10.87,123.07,033,1.8,004km South of City Of Victorias (Negros Occidental),004,South of City,Victorias (Negros Occidental)
 2025-11-04T19:36:00.000Z,04 November 2025 - 07:36 PM,07.62,126.59,018,2.8,006km N 35° E of Baganga (Davao Oriental),006,N 35° E,Baganga (Davao Oriental)
-2025-11-04T19:11:00.000Z,04 November 2025 - 07:11 PM,16.30,121.76,032,2.4,009km S 64° E of Maddela (Quirino),009,S 64° E,Maddela (Quirino)
