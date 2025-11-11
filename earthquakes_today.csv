@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T09:25:00.000Z,11 November 2025 - 09:25 AM,06.66,127.56,032,3.0,128km S 62° E of Manay (Davao Oriental),128,S 62° E,Manay (Davao Oriental)
 2025-11-11T09:06:00.000Z,11 November 2025 - 09:06 AM,11.16,124.11,010,2.2,019km N 49° E of City Of Bogo (Cebu),019,N 49° E,City Of Bogo (Cebu)
 2025-11-11T08:57:00.000Z,11 November 2025 - 08:57 AM,07.63,126.13,006,2.4,007km S 50° E of Compostela (Davao De Oro),007,S 50° E,Compostela (Davao De Oro)
 2025-11-11T08:04:00.000Z,11 November 2025 - 08:04 AM,11.07,124.13,003,2.4,017km N 83° E of City Of Bogo (Cebu),017,N 83° E,City Of Bogo (Cebu)
