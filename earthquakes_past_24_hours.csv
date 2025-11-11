@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T21:27:00.000Z,11 November 2025 - 09:27 PM,11.33,124.03,032,1.4,032km N 11° E of City Of Bogo (Cebu),032,N 11° E,City Of Bogo (Cebu)
+2025-11-11T06:39:00.000Z,11 November 2025 - 06:39 AM,10.29,125.96,020,2.3,031km N 16° W of Santa Monica (Surigao Del Norte),031,N 16° W,Santa Monica (Surigao Del Norte)
 2025-11-11T21:10:00.000Z,11 November 2025 - 09:10 PM,10.86,123.98,001,1.9,020km S 02° E of City Of Bogo (Cebu),020,S 02° E,City Of Bogo (Cebu)
 2025-11-11T20:42:00.000Z,11 November 2025 - 08:42 PM,18.10,120.91,001,1.9,011km S 66° E of Carasi (Ilocos Norte),011,S 66° E,Carasi (Ilocos Norte)
 2025-11-11T19:54:00.000Z,11 November 2025 - 07:54 PM,11.11,123.95,009,2.1,008km N 22° W of City Of Bogo (Cebu),008,N 22° W,City Of Bogo (Cebu)
@@ -47,4 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T01:16:00.000Z,11 November 2025 - 01:16 AM,13.55,120.59,002,2.2,019km N 50° W of Abra De Ilog (Occidental Mindoro),019,N 50° W,Abra De Ilog (Occidental Mindoro)
 2025-11-11T00:12:00.000Z,11 November 2025 - 12:12 AM,10.95,123.92,001,2.6,013km S 30° W of City Of Bogo (Cebu),013,S 30° W,City Of Bogo (Cebu)
 2025-11-10T23:39:00.000Z,10 November 2025 - 11:39 PM,07.25,123.63,007,2.5,034km S 46° E of Tabina (Zamboanga Del Sur),034,S 46° E,Tabina (Zamboanga Del Sur)
-2025-11-10T21:14:00.000Z,10 November 2025 - 09:14 PM,09.65,126.15,029,2.1,015km S 03° W of General Luna (Surigao Del Norte),015,S 03° W,General Luna (Surigao Del Norte)
