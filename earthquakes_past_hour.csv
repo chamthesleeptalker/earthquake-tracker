@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T12:38:00.000Z,11 November 2025 - 12:38 PM,11.11,124.04,007,2.5,010km N 42° E of City Of Bogo (Cebu),010,N 42° E,City Of Bogo (Cebu)
+2025-11-11T12:36:00.000Z,11 November 2025 - 12:36 PM,08.03,125.98,032,1.6,006km S 30° E of Veruela (Agusan Del Sur),006,S 30° E,Veruela (Agusan Del Sur)
 2025-11-11T12:03:00.000Z,11 November 2025 - 12:03 PM,10.48,123.41,093,2.1,001km South of City Of San Carlos (Negros Occidental),001,South of City,San Carlos (Negros Occidental)
-2025-11-11T11:26:00.000Z,11 November 2025 - 11:26 AM,09.67,126.23,035,1.9,015km S 34° E of General Luna (Surigao Del Norte),015,S 34° E,General Luna (Surigao Del Norte)
