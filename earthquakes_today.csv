@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T21:10:00.000Z,11 November 2025 - 09:10 PM,10.86,123.98,001,1.9,020km S 02° E of City Of Bogo (Cebu),020,S 02° E,City Of Bogo (Cebu)
+2025-11-11T20:42:00.000Z,11 November 2025 - 08:42 PM,18.10,120.91,001,1.9,011km S 66° E of Carasi (Ilocos Norte),011,S 66° E,Carasi (Ilocos Norte)
 2025-11-11T19:54:00.000Z,11 November 2025 - 07:54 PM,11.11,123.95,009,2.1,008km N 22° W of City Of Bogo (Cebu),008,N 22° W,City Of Bogo (Cebu)
 2025-11-11T19:41:00.000Z,11 November 2025 - 07:41 PM,11.16,124.01,033,1.7,013km N 17° E of City Of Bogo (Cebu),013,N 17° E,City Of Bogo (Cebu)
 2025-11-11T19:41:00.000Z,11 November 2025 - 07:41 PM,11.16,124.01,033,1.7,013km N 17° E of City Of Bogo (Cebu),013,N 17° E,City Of Bogo (Cebu)
