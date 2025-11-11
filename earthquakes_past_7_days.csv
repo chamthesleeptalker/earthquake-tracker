@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T11:26:00.000Z,11 November 2025 - 11:26 AM,09.67,126.23,035,1.9,015km S 34° E of General Luna (Surigao Del Norte),015,S 34° E,General Luna (Surigao Del Norte)
+2025-11-10T16:33:00.000Z,10 November 2025 - 04:33 PM,02.96,127.67,083,3.5,369km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),369,S 43° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-11T09:25:00.000Z,11 November 2025 - 09:25 AM,06.66,127.56,032,3.0,128km S 62° E of Manay (Davao Oriental),128,S 62° E,Manay (Davao Oriental)
 2025-11-11T09:06:00.000Z,11 November 2025 - 09:06 AM,11.16,124.11,010,2.2,019km N 49° E of City Of Bogo (Cebu),019,N 49° E,City Of Bogo (Cebu)
 2025-11-11T08:57:00.000Z,11 November 2025 - 08:57 AM,07.63,126.13,006,2.4,007km S 50° E of Compostela (Davao De Oro),007,S 50° E,Compostela (Davao De Oro)
@@ -334,6 +336,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T12:31:00.000Z,04 November 2025 - 12:31 PM,06.12,125.39,107,2.5,011km N 79° E of Alabel (Sarangani),011,N 79° E,Alabel (Sarangani)
 2025-11-04T12:29:00.000Z,04 November 2025 - 12:29 PM,12.79,121.06,030,1.8,031km S 80° E of Sablayan (Occidental Mindoro),031,S 80° E,Sablayan (Occidental Mindoro)
 2025-11-04T11:44:00.000Z,04 November 2025 - 11:44 AM,13.60,120.91,039,2.0,012km N 24° W of Puerto Galera (Oriental Mindoro),012,N 24° W,Puerto Galera (Oriental Mindoro)
-2025-11-04T10:16:00.000Z,04 November 2025 - 10:16 AM,07.24,126.84,019,2.4,033km N 85° E of Manay (Davao Oriental),033,N 85° E,Manay (Davao Oriental)
-2025-11-04T10:15:00.000Z,04 November 2025 - 10:15 AM,11.09,124.22,039,1.8,027km N 79° E of City Of Bogo (Cebu),027,N 79° E,City Of Bogo (Cebu)
-2025-11-04T09:31:00.000Z,04 November 2025 - 09:31 AM,07.19,126.93,026,2.7,043km S 87° E of Manay (Davao Oriental),043,S 87° E,Manay (Davao Oriental)
