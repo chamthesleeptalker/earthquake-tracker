@@ -1,6 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-12T04:01:00.000Z,12 November 2025 - 04:01 AM,11.44,124.47,015,3.1,003km S 17° W of Biliran (Biliran),003,S 17° W,Biliran (Biliran)
-2025-11-12T03:51:00.000Z,12 November 2025 - 03:51 AM,06.84,124.99,001,2.6,013km N 84° E of Tulunan (Cotabato),013,N 84° E,Tulunan (Cotabato)
-2025-11-12T03:37:00.000Z,12 November 2025 - 03:37 AM,10.78,123.83,017,1.6,006km S 46° W of Tabuelan (Cebu),006,S 46° W,Tabuelan (Cebu)
-2025-11-12T03:29:00.000Z,12 November 2025 - 03:29 AM,11.06,124.02,017,2.1,005km N 76° E of City Of Bogo (Cebu),005,N 76° E,City Of Bogo (Cebu)
-2025-11-12T03:21:00.000Z,12 November 2025 - 03:21 AM,16.85,121.00,007,2.9,001km N 30° W of Hungduan (Ifugao),001,N 30° W,Hungduan (Ifugao)
+2025-11-12T05:03:00.000Z,12 November 2025 - 05:03 AM,16.92,119.90,021,3.5,051km N 82° W of Luna (La Union),051,N 82° W,Luna (La Union)

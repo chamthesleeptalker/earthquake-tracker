@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T05:03:00.000Z,12 November 2025 - 05:03 AM,16.92,119.90,021,3.5,051km N 82° W of Luna (La Union),051,N 82° W,Luna (La Union)
 2025-11-12T04:01:00.000Z,12 November 2025 - 04:01 AM,11.44,124.47,015,3.1,003km S 17° W of Biliran (Biliran),003,S 17° W,Biliran (Biliran)
 2025-11-12T03:51:00.000Z,12 November 2025 - 03:51 AM,06.84,124.99,001,2.6,013km N 84° E of Tulunan (Cotabato),013,N 84° E,Tulunan (Cotabato)
 2025-11-12T03:37:00.000Z,12 November 2025 - 03:37 AM,10.78,123.83,017,1.6,006km S 46° W of Tabuelan (Cebu),006,S 46° W,Tabuelan (Cebu)
@@ -70,7 +71,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T05:29:00.000Z,11 November 2025 - 05:29 AM,07.51,126.83,028,2.4,046km N 44° E of Manay (Davao Oriental),046,N 44° E,Manay (Davao Oriental)
 2025-11-11T05:28:00.000Z,11 November 2025 - 05:28 AM,10.92,123.95,003,2.8,014km S 11° W of City Of Bogo (Cebu),014,S 11° W,City Of Bogo (Cebu)
 2025-11-11T05:11:00.000Z,11 November 2025 - 05:11 AM,10.97,123.88,007,3.2,014km S 52° W of City Of Bogo (Cebu),014,S 52° W,City Of Bogo (Cebu)
-2025-11-11T04:57:00.000Z,11 November 2025 - 04:57 AM,12.26,125.47,016,1.8,010km N 22° W of San Policarpo (Eastern Samar),010,N 22° W,San Policarpo (Eastern Samar)
-2025-11-11T04:55:00.000Z,11 November 2025 - 04:55 AM,11.13,123.95,007,2.2,009km N 19° W of City Of Bogo (Cebu),009,N 19° W,City Of Bogo (Cebu)
-2025-11-11T04:42:00.000Z,11 November 2025 - 04:42 AM,11.16,123.90,004,2.8,015km N 36° W of City Of Bogo (Cebu),015,N 36° W,City Of Bogo (Cebu)
-2025-11-11T04:30:00.000Z,11 November 2025 - 04:30 AM,15.70,121.98,013,2.7,046km S 82° E of Baler (Aurora),046,S 82° E,Baler (Aurora)
