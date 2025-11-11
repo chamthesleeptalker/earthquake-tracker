@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-11T22:02:00.000Z,11 November 2025 - 10:02 PM,10.77,126.55,007,3.1,091km N 88° E of Homonhon Island (Guiuan) (Eastern Samar),091,N 88° E,Homonhon Island (Guiuan) (Eastern Samar)
+2025-11-11T21:54:00.000Z,11 November 2025 - 09:54 PM,11.05,123.89,027,1.9,009km N 87° W of City Of Bogo (Cebu),009,N 87° W,City Of Bogo (Cebu)
+2025-11-11T21:45:00.000Z,11 November 2025 - 09:45 PM,09.67,126.22,033,2.2,014km S 32° E of General Luna (Surigao Del Norte),014,S 32° E,General Luna (Surigao Del Norte)
 2025-11-11T21:27:00.000Z,11 November 2025 - 09:27 PM,11.33,124.03,032,1.4,032km N 11° E of City Of Bogo (Cebu),032,N 11° E,City Of Bogo (Cebu)
 2025-11-11T06:39:00.000Z,11 November 2025 - 06:39 AM,10.29,125.96,020,2.3,031km N 16° W of Santa Monica (Surigao Del Norte),031,N 16° W,Santa Monica (Surigao Del Norte)
 2025-11-11T21:10:00.000Z,11 November 2025 - 09:10 PM,10.86,123.98,001,1.9,020km S 02° E of City Of Bogo (Cebu),020,S 02° E,City Of Bogo (Cebu)
@@ -337,4 +340,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-04T22:30:00.000Z,04 November 2025 - 10:30 PM,05.69,125.39,079,4.2,025km N 20° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 20° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-04T22:17:00.000Z,04 November 2025 - 10:17 PM,08.38,125.62,025,1.9,018km S 44° W of San Luis (Agusan Del Sur),018,S 44° W,San Luis (Agusan Del Sur)
 2025-11-04T22:08:00.000Z,04 November 2025 - 10:08 PM,07.26,126.85,022,2.6,034km N 81° E of Manay (Davao Oriental),034,N 81° E,Manay (Davao Oriental)
-2025-11-04T21:41:00.000Z,04 November 2025 - 09:41 PM,10.81,125.37,022,1.6,033km S 02° W of Balangiga (Eastern Samar),033,S 02° W,Balangiga (Eastern Samar)
