@@ -1,5 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-12T13:49:00.000Z,12 November 2025 - 01:49 PM,09.28,125.56,002,2.8,001km N 05° W of Santiago (Agusan Del Norte),001,N 05° W,Santiago (Agusan Del Norte)
-2025-11-12T13:15:00.000Z,12 November 2025 - 01:15 PM,09.25,126.18,022,2.0,003km S 26° W of Cortes (Surigao Del Sur),003,S 26° W,Cortes (Surigao Del Sur)
-2025-11-12T13:15:00.000Z,12 November 2025 - 01:15 PM,11.14,124.08,028,2.0,015km N 46° E of City Of Bogo (Cebu),015,N 46° E,City Of Bogo (Cebu)
-2025-11-12T12:50:00.000Z,12 November 2025 - 12:50 PM,07.71,126.41,023,1.8,010km S 29° W of Cateel (Davao Oriental),010,S 29° W,Cateel (Davao Oriental)
+2025-11-12T15:23:00.000Z,12 November 2025 - 03:23 PM,11.10,123.90,001,2.7,010km N 55° W of City Of Bogo (Cebu),010,N 55° W,City Of Bogo (Cebu)
