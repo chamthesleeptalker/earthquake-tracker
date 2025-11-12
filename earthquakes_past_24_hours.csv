@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T12:50:00.000Z,12 November 2025 - 12:50 PM,07.71,126.41,023,1.8,010km S 29° W of Cateel (Davao Oriental),010,S 29° W,Cateel (Davao Oriental)
 2025-11-12T12:27:00.000Z,12 November 2025 - 12:27 PM,05.91,127.33,032,3.0,159km S 38° E of Tarragona (Davao Oriental),159,S 38° E,Tarragona (Davao Oriental)
 2025-11-12T12:24:00.000Z,12 November 2025 - 12:24 PM,07.10,126.56,020,2.9,012km S 13° E of Manay (Davao Oriental),012,S 13° E,Manay (Davao Oriental)
 2025-11-12T12:16:00.000Z,12 November 2025 - 12:16 PM,05.41,126.63,059,2.9,122km S 63° E of Jose Abad Santos (Davao Occidental),122,S 63° E,Jose Abad Santos (Davao Occidental)
@@ -69,5 +70,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T15:23:00.000Z,11 November 2025 - 03:23 PM,10.17,122.29,003,2.8,042km N 60° W of Cauayan (Negros Occidental),042,N 60° W,Cauayan (Negros Occidental)
 2025-11-11T14:24:00.000Z,11 November 2025 - 02:24 PM,05.99,125.52,080,2.5,016km N 60° W of Jose Abad Santos (Davao Occidental),016,N 60° W,Jose Abad Santos (Davao Occidental)
 2025-11-11T14:04:00.000Z,11 November 2025 - 02:04 PM,11.07,124.06,027,1.9,009km N 75° E of City Of Bogo (Cebu),009,N 75° E,City Of Bogo (Cebu)
-2025-11-11T12:38:00.000Z,11 November 2025 - 12:38 PM,11.11,124.04,007,2.5,010km N 42° E of City Of Bogo (Cebu),010,N 42° E,City Of Bogo (Cebu)
-2025-11-11T12:36:00.000Z,11 November 2025 - 12:36 PM,08.03,125.98,032,1.6,006km S 30° E of Veruela (Agusan Del Sur),006,S 30° E,Veruela (Agusan Del Sur)
