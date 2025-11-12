@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T02:56:00.000Z,13 November 2025 - 02:56 AM,10.92,123.96,003,2.0,014km S 10° W of City Of Bogo (Cebu),014,S 10° W,City Of Bogo (Cebu)
 2025-11-13T01:27:00.000Z,13 November 2025 - 01:27 AM,12.52,121.35,010,2.7,009km S 89° W of Mansalay (Oriental Mindoro),009,S 89° W,Mansalay (Oriental Mindoro)
 2025-11-13T01:19:00.000Z,13 November 2025 - 01:19 AM,16.50,122.27,015,3.1,003km S 14° E of Dinapigue (Isabela),003,S 14° E,Dinapigue (Isabela)
 2025-11-13T01:05:00.000Z,13 November 2025 - 01:05 AM,14.24,124.25,001,3.4,024km N 21° E of Pandan (Catanduanes),024,N 21° E,Pandan (Catanduanes)
