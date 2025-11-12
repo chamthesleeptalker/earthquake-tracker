@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T04:49:00.000Z,13 November 2025 - 04:49 AM,11.14,124.15,011,2.1,022km N 61° E of City Of Bogo (Cebu),022,N 61° E,City Of Bogo (Cebu)
+2025-11-13T04:36:00.000Z,13 November 2025 - 04:36 AM,10.07,125.19,027,2.0,004km N 73° E of San Francisco (Southern Leyte),004,N 73° E,San Francisco (Southern Leyte)
+2025-11-13T04:31:00.000Z,13 November 2025 - 04:31 AM,11.08,123.94,027,3.2,006km N 49° W of City Of Bogo (Cebu),006,N 49° W,City Of Bogo (Cebu)
 2025-11-13T04:27:00.000Z,13 November 2025 - 04:27 AM,18.08,121.32,114,2.2,016km N 68° E of Kabugao (Apayao),016,N 68° E,Kabugao (Apayao)
 2025-11-13T04:26:00.000Z,13 November 2025 - 04:26 AM,11.11,124.08,010,2.1,013km N 56° E of City Of Bogo (Cebu),013,N 56° E,City Of Bogo (Cebu)
 2025-11-13T04:14:00.000Z,13 November 2025 - 04:14 AM,12.18,124.91,065,1.5,005km N 37° E of Matuguinao (Samar),005,N 37° E,Matuguinao (Samar)
@@ -369,4 +372,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T05:55:00.000Z,06 November 2025 - 05:55 AM,10.81,124.10,008,2.0,008km S 69° E of Borbon (Cebu),008,S 69° E,Borbon (Cebu)
 2025-11-06T05:36:00.000Z,06 November 2025 - 05:36 AM,07.98,126.43,033,1.5,007km S 20° E of Lingig (Surigao Del Sur),007,S 20° E,Lingig (Surigao Del Sur)
 2025-11-06T05:33:00.000Z,06 November 2025 - 05:33 AM,11.05,121.12,033,1.6,022km N 21° E of Magsaysay (Palawan),022,N 21° E,Magsaysay (Palawan)
-2025-11-06T04:34:00.000Z,06 November 2025 - 04:34 AM,10.95,123.96,012,2.3,011km S 12° W of City Of Bogo (Cebu),011,S 12° W,City Of Bogo (Cebu)
