@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-12T22:49:00.000Z,12 November 2025 - 10:49 PM,11.19,124.01,030,2.1,017km N 12° E of City Of Bogo (Cebu),017,N 12° E,City Of Bogo (Cebu)
-2025-11-12T21:52:00.000Z,12 November 2025 - 09:52 PM,09.59,126.02,032,1.6,006km S 65° E of Socorro (Surigao Del Norte),006,S 65° E,Socorro (Surigao Del Norte)
+2025-11-13T00:10:00.000Z,13 November 2025 - 12:10 AM,14.25,120.39,101,1.8,023km S 29° W of Mariveles (Bataan),023,S 29° W,Mariveles (Bataan)
+2025-11-12T23:50:00.000Z,12 November 2025 - 11:50 PM,13.83,120.73,033,1.7,010km S 86° E of Calatagan (Batangas),010,S 86° E,Calatagan (Batangas)
+2025-11-12T23:45:00.000Z,12 November 2025 - 11:45 PM,13.60,120.59,018,2.7,023km N 41° W of Abra De Ilog (Occidental Mindoro),023,N 41° W,Abra De Ilog (Occidental Mindoro)
