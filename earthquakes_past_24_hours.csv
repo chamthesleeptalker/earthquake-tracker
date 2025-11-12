@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T19:12:00.000Z,12 November 2025 - 07:12 PM,15.11,123.07,001,2.1,071km N 10° E of Tinaga Island (Vinzons) (Camarines Norte),071,N 10° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-11-12T18:49:00.000Z,12 November 2025 - 06:49 PM,10.18,126.17,032,1.6,021km N 30° E of Burgos (Surigao Del Norte),021,N 30° E,Burgos (Surigao Del Norte)
 2025-11-12T17:19:00.000Z,12 November 2025 - 05:19 PM,09.65,126.19,036,1.7,015km S 15° E of General Luna (Surigao Del Norte),015,S 15° E,General Luna (Surigao Del Norte)
 2025-11-12T17:02:00.000Z,12 November 2025 - 05:02 PM,17.55,120.15,022,2.7,023km S 80° W of Santa Catalina (Ilocos Sur),023,S 80° W,Santa Catalina (Ilocos Sur)
@@ -74,7 +75,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T19:41:00.000Z,11 November 2025 - 07:41 PM,11.16,124.01,033,1.7,013km N 17° E of City Of Bogo (Cebu),013,N 17° E,City Of Bogo (Cebu)
 2025-11-11T19:41:00.000Z,11 November 2025 - 07:41 PM,11.16,124.01,033,1.7,013km N 17° E of City Of Bogo (Cebu),013,N 17° E,City Of Bogo (Cebu)
 2025-11-11T19:19:00.000Z,11 November 2025 - 07:19 PM,10.90,123.89,004,1.7,019km S 29° W of City Of Bogo (Cebu),019,S 29° W,City Of Bogo (Cebu)
-2025-11-11T19:08:00.000Z,11 November 2025 - 07:08 PM,10.94,123.91,003,2.4,014km S 31° W of City Of Bogo (Cebu),014,S 31° W,City Of Bogo (Cebu)
-2025-11-11T19:07:00.000Z,11 November 2025 - 07:07 PM,11.70,124.28,003,2.5,009km N 76° W of Kawayan (Biliran),009,N 76° W,Kawayan (Biliran)
-2025-11-11T19:05:00.000Z,11 November 2025 - 07:05 PM,10.91,123.90,004,2.5,017km S 30° W of City Of Bogo (Cebu),017,S 30° W,City Of Bogo (Cebu)
-2025-11-11T19:02:00.000Z,11 November 2025 - 07:02 PM,10.92,123.91,004,3.1,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
