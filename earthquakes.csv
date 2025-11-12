@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T12:27:00.000Z,12 November 2025 - 12:27 PM,05.91,127.33,032,3.0,159km S 38° E of Tarragona (Davao Oriental),159,S 38° E,Tarragona (Davao Oriental)
+2025-11-12T12:24:00.000Z,12 November 2025 - 12:24 PM,07.10,126.56,020,2.9,012km S 13° E of Manay (Davao Oriental),012,S 13° E,Manay (Davao Oriental)
+2025-11-12T12:16:00.000Z,12 November 2025 - 12:16 PM,05.41,126.63,059,2.9,122km S 63° E of Jose Abad Santos (Davao Occidental),122,S 63° E,Jose Abad Santos (Davao Occidental)
 2025-11-12T12:13:00.000Z,12 November 2025 - 12:13 PM,16.92,120.20,023,2.3,021km N 69° W of Luna (La Union),021,N 69° W,Luna (La Union)
 2025-11-12T11:37:00.000Z,12 November 2025 - 11:37 AM,13.13,121.28,027,2.0,005km S 03° E of Victoria (Oriental Mindoro),005,S 03° E,Victoria (Oriental Mindoro)
 2025-11-12T11:23:00.000Z,12 November 2025 - 11:23 AM,09.05,126.36,030,2.7,016km N 23° E of Cagwait (Surigao Del Sur),016,N 23° E,Cagwait (Surigao Del Sur)
