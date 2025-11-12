@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T04:14:00.000Z,13 November 2025 - 04:14 AM,12.18,124.91,065,1.5,005km N 37° E of Matuguinao (Samar),005,N 37° E,Matuguinao (Samar)
+2025-11-13T04:06:00.000Z,13 November 2025 - 04:06 AM,10.96,124.00,016,2.2,010km S 10° E of City Of Bogo (Cebu),010,S 10° E,City Of Bogo (Cebu)
+2025-11-13T03:37:00.000Z,13 November 2025 - 03:37 AM,18.35,120.57,002,3.1,006km N 76° W of Pasuquin (Ilocos Norte),006,N 76° W,Pasuquin (Ilocos Norte)
+2025-11-13T03:33:00.000Z,13 November 2025 - 03:33 AM,11.10,123.94,006,2.7,008km N 37° W of City Of Bogo (Cebu),008,N 37° W,City Of Bogo (Cebu)
 2025-11-13T02:56:00.000Z,13 November 2025 - 02:56 AM,10.92,123.96,003,2.0,014km S 10° W of City Of Bogo (Cebu),014,S 10° W,City Of Bogo (Cebu)
 2025-11-13T01:27:00.000Z,13 November 2025 - 01:27 AM,12.52,121.35,010,2.7,009km S 89° W of Mansalay (Oriental Mindoro),009,S 89° W,Mansalay (Oriental Mindoro)
 2025-11-13T01:19:00.000Z,13 November 2025 - 01:19 AM,16.50,122.27,015,3.1,003km S 14° E of Dinapigue (Isabela),003,S 14° E,Dinapigue (Isabela)
@@ -366,5 +370,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T04:34:00.000Z,06 November 2025 - 04:34 AM,10.95,123.96,012,2.3,011km S 12° W of City Of Bogo (Cebu),011,S 12° W,City Of Bogo (Cebu)
 2025-11-06T04:25:00.000Z,06 November 2025 - 04:25 AM,08.91,126.42,022,2.3,013km S 86° E of Cagwait (Surigao Del Sur),013,S 86° E,Cagwait (Surigao Del Sur)
 2025-11-06T04:22:00.000Z,06 November 2025 - 04:22 AM,10.34,126.09,010,4.4,035km N 2° E of Burgos (Surigao Del Norte),035,N 2° E,Burgos (Surigao Del Norte)
-2025-11-06T03:49:00.000Z,06 November 2025 - 03:49 AM,13.58,120.64,098,1.8,018km N 30° W of Abra De Ilog (Occidental Mindoro),018,N 30° W,Abra De Ilog (Occidental Mindoro)
-2025-11-06T03:40:00.000Z,06 November 2025 - 03:40 AM,10.88,123.87,001,2.3,022km S 33° W of City Of Bogo (Cebu),022,S 33° W,City Of Bogo (Cebu)
