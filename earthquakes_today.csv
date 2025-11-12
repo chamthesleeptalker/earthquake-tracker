@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T10:47:00.000Z,12 November 2025 - 10:47 AM,08.17,125.93,033,1.2,007km S 82° W of Bunawan (Agusan Del Sur),007,S 82° W,Bunawan (Agusan Del Sur)
+2025-11-12T10:34:00.000Z,12 November 2025 - 10:34 AM,06.05,126.01,138,3.1,039km S 66° E of Don Marcelino (Davao Occidental),039,S 66° E,Don Marcelino (Davao Occidental)
+2025-11-12T10:29:00.000Z,12 November 2025 - 10:29 AM,09.78,126.05,030,2.6,012km S 89° W of General Luna (Surigao Del Norte),012,S 89° W,General Luna (Surigao Del Norte)
+2025-11-12T09:18:00.000Z,12 November 2025 - 09:18 AM,07.46,126.81,026,3.2,041km N 48° E of Manay (Davao Oriental),041,N 48° E,Manay (Davao Oriental)
 2025-11-12T09:05:00.000Z,12 November 2025 - 09:05 AM,10.92,123.98,027,1.9,014km S 01° W of City Of Bogo (Cebu),014,S 01° W,City Of Bogo (Cebu)
 2025-11-12T08:53:00.000Z,12 November 2025 - 08:53 AM,09.65,126.15,033,1.3,014km S 05° W of General Luna (Surigao Del Norte),014,S 05° W,General Luna (Surigao Del Norte)
 2025-11-12T08:09:00.000Z,12 November 2025 - 08:09 AM,11.12,124.11,002,2.1,016km N 61° E of City Of Bogo (Cebu),016,N 61° E,City Of Bogo (Cebu)
