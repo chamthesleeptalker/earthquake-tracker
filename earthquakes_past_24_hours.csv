@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T12:13:00.000Z,12 November 2025 - 12:13 PM,16.92,120.20,023,2.3,021km N 69° W of Luna (La Union),021,N 69° W,Luna (La Union)
+2025-11-12T11:37:00.000Z,12 November 2025 - 11:37 AM,13.13,121.28,027,2.0,005km S 03° E of Victoria (Oriental Mindoro),005,S 03° E,Victoria (Oriental Mindoro)
 2025-11-12T11:23:00.000Z,12 November 2025 - 11:23 AM,09.05,126.36,030,2.7,016km N 23° E of Cagwait (Surigao Del Sur),016,N 23° E,Cagwait (Surigao Del Sur)
 2025-11-12T10:51:00.000Z,12 November 2025 - 10:51 AM,11.13,124.09,032,1.9,016km N 52° E of City Of Bogo (Cebu),016,N 52° E,City Of Bogo (Cebu)
 2025-11-12T10:47:00.000Z,12 November 2025 - 10:47 AM,08.17,125.93,033,1.2,007km S 82° W of Bunawan (Agusan Del Sur),007,S 82° W,Bunawan (Agusan Del Sur)
@@ -66,5 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T14:04:00.000Z,11 November 2025 - 02:04 PM,11.07,124.06,027,1.9,009km N 75° E of City Of Bogo (Cebu),009,N 75° E,City Of Bogo (Cebu)
 2025-11-11T12:38:00.000Z,11 November 2025 - 12:38 PM,11.11,124.04,007,2.5,010km N 42° E of City Of Bogo (Cebu),010,N 42° E,City Of Bogo (Cebu)
 2025-11-11T12:36:00.000Z,11 November 2025 - 12:36 PM,08.03,125.98,032,1.6,006km S 30° E of Veruela (Agusan Del Sur),006,S 30° E,Veruela (Agusan Del Sur)
-2025-11-11T12:03:00.000Z,11 November 2025 - 12:03 PM,10.48,123.41,093,2.1,001km South of City Of San Carlos (Negros Occidental),001,South of City,San Carlos (Negros Occidental)
-2025-11-11T11:26:00.000Z,11 November 2025 - 11:26 AM,09.67,126.23,035,1.9,015km S 34° E of General Luna (Surigao Del Norte),015,S 34° E,General Luna (Surigao Del Norte)
