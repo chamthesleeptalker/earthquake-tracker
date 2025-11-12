@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T05:08:00.000Z,13 November 2025 - 05:08 AM,13.04,121.30,034,2.1,011km S 82° W of Socorro (Oriental Mindoro),011,S 82° W,Socorro (Oriental Mindoro)
 2025-11-13T04:49:00.000Z,13 November 2025 - 04:49 AM,11.14,124.15,011,2.1,022km N 61° E of City Of Bogo (Cebu),022,N 61° E,City Of Bogo (Cebu)
 2025-11-13T04:36:00.000Z,13 November 2025 - 04:36 AM,10.07,125.19,027,2.0,004km N 73° E of San Francisco (Southern Leyte),004,N 73° E,San Francisco (Southern Leyte)
 2025-11-13T04:31:00.000Z,13 November 2025 - 04:31 AM,11.08,123.94,027,3.2,006km N 49° W of City Of Bogo (Cebu),006,N 49° W,City Of Bogo (Cebu)
