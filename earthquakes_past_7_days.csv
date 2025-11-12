@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-12T20:12:00.000Z,12 November 2025 - 08:12 PM,13.61,120.67,107,1.8,019km N 18° W of Abra De Ilog (Occidental Mindoro),019,N 18° W,Abra De Ilog (Occidental Mindoro)
+2025-11-12T20:02:00.000Z,12 November 2025 - 08:02 PM,20.46,120.98,015,4.8,094km N 82° W of Sabtang (Batanes),094,N 82° W,Sabtang (Batanes)
+2025-11-12T20:02:00.000Z,12 November 2025 - 08:02 PM,20.46,120.98,015,4.8,094km N 82° W of Sabtang (Batanes),094,N 82° W,Sabtang (Batanes)
 2025-11-12T19:12:00.000Z,12 November 2025 - 07:12 PM,15.11,123.07,001,2.1,071km N 10° E of Tinaga Island (Vinzons) (Camarines Norte),071,N 10° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-11-12T18:49:00.000Z,12 November 2025 - 06:49 PM,10.18,126.17,032,1.6,021km N 30° E of Burgos (Surigao Del Norte),021,N 30° E,Burgos (Surigao Del Norte)
 2025-11-12T17:19:00.000Z,12 November 2025 - 05:19 PM,09.65,126.19,036,1.7,015km S 15° E of General Luna (Surigao Del Norte),015,S 15° E,General Luna (Surigao Del Norte)
@@ -365,4 +368,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-05T21:36:00.000Z,05 November 2025 - 09:36 PM,07.23,127.02,009,3.4,053km N 87° E of Manay (Davao Oriental),053,N 87° E,Manay (Davao Oriental)
 2025-11-05T21:11:00.000Z,05 November 2025 - 09:11 PM,13.93,120.17,001,2.0,010km N 34° E of Lubang (Occidental Mindoro),010,N 34° E,Lubang (Occidental Mindoro)
 2025-11-05T20:52:00.000Z,05 November 2025 - 08:52 PM,16.23,121.69,013,2.0,009km S 89° E of Nagtipunan (Quirino),009,S 89° E,Nagtipunan (Quirino)
-2025-11-05T19:16:00.000Z,05 November 2025 - 07:16 PM,20.07,122.11,026,2.5,036km S 29° E of Uyugan (Batanes),036,S 29° E,Uyugan (Batanes)
