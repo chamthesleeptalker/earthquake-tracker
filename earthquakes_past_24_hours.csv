@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T07:01:00.000Z,14 November 2025 - 07:01 AM,08.40,126.17,030,2.0,007km S 06° E of Tagbina (Surigao Del Sur),007,S 06° E,Tagbina (Surigao Del Sur)
+2025-11-14T05:54:00.000Z,14 November 2025 - 05:54 AM,09.59,126.12,008,3.3,022km S 10° W of General Luna (Surigao Del Norte),022,S 10° W,General Luna (Surigao Del Norte)
 2025-11-14T05:57:00.000Z,14 November 2025 - 05:57 AM,07.71,127.18,010,3.4,069km N 78° E of Baganga (Davao Oriental),069,N 78° E,Baganga (Davao Oriental)
 2025-11-14T05:41:00.000Z,14 November 2025 - 05:41 AM,11.34,125.63,046,2.7,002km S 54° E of Hernani (Eastern Samar),002,S 54° E,Hernani (Eastern Samar)
 2025-11-14T05:37:00.000Z,14 November 2025 - 05:37 AM,09.62,126.15,033,1.4,018km S 01° W of General Luna (Surigao Del Norte),018,S 01° W,General Luna (Surigao Del Norte)
@@ -71,6 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T10:13:00.000Z,13 November 2025 - 10:13 AM,11.15,124.15,027,2.1,021km N 58° E of City Of Bogo (Cebu),021,N 58° E,City Of Bogo (Cebu)
 2025-11-13T09:36:00.000Z,13 November 2025 - 09:36 AM,09.60,126.17,033,1.9,020km S 03° E of General Luna (Surigao Del Norte),020,S 03° E,General Luna (Surigao Del Norte)
 2025-11-13T08:19:00.000Z,13 November 2025 - 08:19 AM,10.96,123.96,016,2.2,010km S 13° W of City Of Bogo (Cebu),010,S 13° W,City Of Bogo (Cebu)
-2025-11-13T06:20:00.000Z,13 November 2025 - 06:20 AM,12.53,121.41,006,2.3,003km N 78° W of Mansalay (Oriental Mindoro),003,N 78° W,Mansalay (Oriental Mindoro)
-2025-11-13T06:17:00.000Z,13 November 2025 - 06:17 AM,10.97,123.94,005,2.5,010km S 25° W of City Of Bogo (Cebu),010,S 25° W,City Of Bogo (Cebu)
-2025-11-13T06:09:00.000Z,13 November 2025 - 06:09 AM,10.98,124.01,007,2.3,008km S 26° E of City Of Bogo (Cebu),008,S 26° E,City Of Bogo (Cebu)
