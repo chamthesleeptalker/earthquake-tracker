@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T16:33:00.000Z,13 November 2025 - 04:33 PM,07.39,126.87,026,2.7,042km N 61° E of Manay (Davao Oriental),042,N 61° E,Manay (Davao Oriental)
+2025-11-13T16:30:00.000Z,13 November 2025 - 04:30 PM,17.14,120.31,022,2.4,015km S 77° W of City Of Candon (Ilocos Sur),015,S 77° W,City Of Candon (Ilocos Sur)
+2025-11-13T16:16:00.000Z,13 November 2025 - 04:16 PM,10.98,124.17,005,2.7,022km S 72° E of City Of Bogo (Cebu),022,S 72° E,City Of Bogo (Cebu)
 2025-11-13T15:42:00.000Z,13 November 2025 - 03:42 PM,18.65,121.13,009,2.2,007km N 47° E of Claveria (Cagayan),007,N 47° E,Claveria (Cagayan)
 2025-11-13T14:27:00.000Z,13 November 2025 - 02:27 PM,14.79,123.03,001,2.0,036km N 15° E of Tinaga Island (Vinzons) (Camarines Norte),036,N 15° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-11-13T14:23:00.000Z,13 November 2025 - 02:23 PM,11.13,124.16,003,2.3,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)
@@ -55,5 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-12T17:02:00.000Z,12 November 2025 - 05:02 PM,17.55,120.15,022,2.7,023km S 80° W of Santa Catalina (Ilocos Sur),023,S 80° W,Santa Catalina (Ilocos Sur)
 2025-11-12T16:54:00.000Z,12 November 2025 - 04:54 PM,07.31,126.31,024,2.0,021km S 88° E of Maragusan (Davao De Oro),021,S 88° E,Maragusan (Davao De Oro)
 2025-11-12T16:40:00.000Z,12 November 2025 - 04:40 PM,07.32,126.82,017,3.7,033km N 68° E of Manay (Davao Oriental),033,N 68° E,Manay (Davao Oriental)
-2025-11-12T16:10:00.000Z,12 November 2025 - 04:10 PM,05.92,126.23,054,3.0,065km N 89° E of Jose Abad Santos (Davao Occidental),065,N 89° E,Jose Abad Santos (Davao Occidental)
-2025-11-12T15:45:00.000Z,12 November 2025 - 03:45 PM,07.94,122.43,031,1.9,006km S 27° E of Gutalac (Zamboanga Del Norte),006,S 27° E,Gutalac (Zamboanga Del Norte)

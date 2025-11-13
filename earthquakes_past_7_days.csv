@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T16:33:00.000Z,13 November 2025 - 04:33 PM,07.39,126.87,026,2.7,042km N 61° E of Manay (Davao Oriental),042,N 61° E,Manay (Davao Oriental)
+2025-11-13T16:30:00.000Z,13 November 2025 - 04:30 PM,17.14,120.31,022,2.4,015km S 77° W of City Of Candon (Ilocos Sur),015,S 77° W,City Of Candon (Ilocos Sur)
+2025-11-13T16:16:00.000Z,13 November 2025 - 04:16 PM,10.98,124.17,005,2.7,022km S 72° E of City Of Bogo (Cebu),022,S 72° E,City Of Bogo (Cebu)
 2025-11-13T15:42:00.000Z,13 November 2025 - 03:42 PM,18.65,121.13,009,2.2,007km N 47° E of Claveria (Cagayan),007,N 47° E,Claveria (Cagayan)
 2025-11-13T14:27:00.000Z,13 November 2025 - 02:27 PM,14.79,123.03,001,2.0,036km N 15° E of Tinaga Island (Vinzons) (Camarines Norte),036,N 15° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-11-13T14:23:00.000Z,13 November 2025 - 02:23 PM,11.13,124.16,003,2.3,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)
@@ -377,7 +380,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T18:18:00.000Z,06 November 2025 - 06:18 PM,11.00,123.95,004,2.7,006km S 28° W of City Of Bogo (Cebu),006,S 28° W,City Of Bogo (Cebu)
 2025-11-06T18:04:00.000Z,06 November 2025 - 06:04 PM,14.49,123.96,015,2.7,054km N 25° W of Pandan (Catanduanes),054,N 25° W,Pandan (Catanduanes)
 2025-11-06T17:18:00.000Z,06 November 2025 - 05:18 PM,11.13,124.12,004,3.2,018km N 59° E of City Of Bogo (Cebu),018,N 59° E,City Of Bogo (Cebu)
-2025-11-06T16:29:00.000Z,06 November 2025 - 04:29 PM,10.41,125.14,006,2.1,006km N 76° W of Hinunangan (Southern Leyte),006,N 76° W,Hinunangan (Southern Leyte)
-2025-11-06T16:07:00.000Z,06 November 2025 - 04:07 PM,13.76,120.56,087,1.9,011km S 45° W of Calatagan (Batangas),011,S 45° W,Calatagan (Batangas)
-2025-11-06T15:57:00.000Z,06 November 2025 - 03:57 PM,07.31,126.81,010,5.1,031km N 69° E of Manay (Davao Oriental),031,N 69° E,Manay (Davao Oriental)
-2025-11-06T15:45:00.000Z,06 November 2025 - 03:45 PM,13.99,120.43,062,1.9,024km S 66° W of Nasugbu (Batangas),024,S 66° W,Nasugbu (Batangas)
