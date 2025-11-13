@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T02:55:00.000Z,14 November 2025 - 02:55 AM,10.24,126.42,010,2.3,045km N 57° E of Burgos (Surigao Del Norte),045,N 57° E,Burgos (Surigao Del Norte)
+2025-11-14T02:46:00.000Z,14 November 2025 - 02:46 AM,07.18,126.92,012,2.6,043km S 68° E of Caraga (Davao Oriental),043,S 68° E,Caraga (Davao Oriental)
 2025-11-14T02:40:00.000Z,14 November 2025 - 02:40 AM,09.38,125.83,082,1.7,013km N 83° W of Carrascal (Surigao Del Sur),013,N 83° W,Carrascal (Surigao Del Sur)
 2025-11-14T02:37:00.000Z,14 November 2025 - 02:37 AM,19.00,121.20,013,2.9,012km S 06° W of Dalupiri Island (Calayan) (Cagayan),012,S 06° W,Dalupiri Island (Calayan) (Cagayan)
 2025-11-14T02:34:00.000Z,14 November 2025 - 02:34 AM,10.54,125.03,002,2.4,014km N 86° W of Silago (Southern Leyte),014,N 86° W,Silago (Southern Leyte)

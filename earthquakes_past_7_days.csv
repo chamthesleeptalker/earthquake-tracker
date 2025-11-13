@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T02:55:00.000Z,14 November 2025 - 02:55 AM,10.24,126.42,010,2.3,045km N 57° E of Burgos (Surigao Del Norte),045,N 57° E,Burgos (Surigao Del Norte)
+2025-11-14T02:46:00.000Z,14 November 2025 - 02:46 AM,07.18,126.92,012,2.6,043km S 68° E of Caraga (Davao Oriental),043,S 68° E,Caraga (Davao Oriental)
 2025-11-14T02:40:00.000Z,14 November 2025 - 02:40 AM,09.38,125.83,082,1.7,013km N 83° W of Carrascal (Surigao Del Sur),013,N 83° W,Carrascal (Surigao Del Sur)
 2025-11-14T02:37:00.000Z,14 November 2025 - 02:37 AM,19.00,121.20,013,2.9,012km S 06° W of Dalupiri Island (Calayan) (Cagayan),012,S 06° W,Dalupiri Island (Calayan) (Cagayan)
 2025-11-14T02:34:00.000Z,14 November 2025 - 02:34 AM,10.54,125.03,002,2.4,014km N 86° W of Silago (Southern Leyte),014,N 86° W,Silago (Southern Leyte)
@@ -389,5 +391,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T03:18:00.000Z,07 November 2025 - 03:18 AM,16.00,119.81,033,2.4,008km N 86° W of Dasol (Pangasinan),008,N 86° W,Dasol (Pangasinan)
 2025-11-07T03:10:00.000Z,07 November 2025 - 03:10 AM,14.41,121.80,033,1.2,017km N 06° W of Cagbalete Island (Mauban) (Quezon),017,N 06° W,Cagbalete Island (Mauban) (Quezon)
 2025-11-07T03:00:00.000Z,07 November 2025 - 03:00 AM,11.10,124.04,031,1.4,009km N 45° E of City Of Bogo (Cebu),009,N 45° E,City Of Bogo (Cebu)
-2025-11-07T02:42:00.000Z,07 November 2025 - 02:42 AM,20.86,120.84,005,3.0,104km N 86° W of Itbayat (Batanes),104,N 86° W,Itbayat (Batanes)
-2025-11-07T02:41:00.000Z,07 November 2025 - 02:41 AM,14.21,120.43,108,2.0,025km S 15° W of Mariveles (Bataan),025,S 15° W,Mariveles (Bataan)
