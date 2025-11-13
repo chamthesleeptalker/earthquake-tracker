@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T03:17:00.000Z,14 November 2025 - 03:17 AM,13.71,120.24,013,1.4,001km S 60° W of Looc (Occidental Mindoro),001,S 60° W,Looc (Occidental Mindoro)
+2025-11-14T03:12:00.000Z,14 November 2025 - 03:12 AM,09.81,126.41,001,2.5,028km N 83° E of General Luna (Surigao Del Norte),028,N 83° E,General Luna (Surigao Del Norte)
+2025-11-14T03:03:00.000Z,14 November 2025 - 03:03 AM,09.26,125.19,017,2.1,027km N 02° E of Magsaysay (Misamis Oriental),027,N 02° E,Magsaysay (Misamis Oriental)
+2025-11-14T02:29:00.000Z,14 November 2025 - 02:29 AM,09.42,122.75,034,1.5,012km N 82° E of Basay (Negros Oriental),012,N 82° E,Basay (Negros Oriental)
+2025-11-14T01:21:00.000Z,14 November 2025 - 01:21 AM,10.94,123.93,001,2.5,013km S 24° W of City Of Bogo (Cebu),013,S 24° W,City Of Bogo (Cebu)
 2025-11-14T02:55:00.000Z,14 November 2025 - 02:55 AM,10.24,126.42,010,2.3,045km N 57° E of Burgos (Surigao Del Norte),045,N 57° E,Burgos (Surigao Del Norte)
 2025-11-14T02:46:00.000Z,14 November 2025 - 02:46 AM,07.18,126.92,012,2.6,043km S 68° E of Caraga (Davao Oriental),043,S 68° E,Caraga (Davao Oriental)
 2025-11-14T02:40:00.000Z,14 November 2025 - 02:40 AM,09.38,125.83,082,1.7,013km N 83° W of Carrascal (Surigao Del Sur),013,N 83° W,Carrascal (Surigao Del Sur)
@@ -389,5 +394,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T05:12:00.000Z,07 November 2025 - 05:12 AM,16.07,119.92,001,2.5,002km S 82° W of Mabini (Pangasinan),002,S 82° W,Mabini (Pangasinan)
 2025-11-07T03:27:00.000Z,07 November 2025 - 03:27 AM,09.62,126.08,012,2.7,020km S 24° W of General Luna (Surigao Del Norte),020,S 24° W,General Luna (Surigao Del Norte)
 2025-11-07T03:18:00.000Z,07 November 2025 - 03:18 AM,16.00,119.81,033,2.4,008km N 86° W of Dasol (Pangasinan),008,N 86° W,Dasol (Pangasinan)
-2025-11-07T03:10:00.000Z,07 November 2025 - 03:10 AM,14.41,121.80,033,1.2,017km N 06° W of Cagbalete Island (Mauban) (Quezon),017,N 06° W,Cagbalete Island (Mauban) (Quezon)
-2025-11-07T03:00:00.000Z,07 November 2025 - 03:00 AM,11.10,124.04,031,1.4,009km N 45° E of City Of Bogo (Cebu),009,N 45° E,City Of Bogo (Cebu)
