@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T04:10:00.000Z,14 November 2025 - 04:10 AM,17.55,122.35,075,2.3,022km N 34° E of Maconacon (Isabela),022,N 34° E,Maconacon (Isabela)
 2025-11-14T03:17:00.000Z,14 November 2025 - 03:17 AM,13.71,120.24,013,1.4,001km S 60° W of Looc (Occidental Mindoro),001,S 60° W,Looc (Occidental Mindoro)
 2025-11-14T03:12:00.000Z,14 November 2025 - 03:12 AM,09.81,126.41,001,2.5,028km N 83° E of General Luna (Surigao Del Norte),028,N 83° E,General Luna (Surigao Del Norte)
 2025-11-14T03:03:00.000Z,14 November 2025 - 03:03 AM,09.26,125.19,017,2.1,027km N 02° E of Magsaysay (Misamis Oriental),027,N 02° E,Magsaysay (Misamis Oriental)
@@ -75,6 +76,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T04:27:00.000Z,13 November 2025 - 04:27 AM,18.08,121.32,114,2.2,016km N 68° E of Kabugao (Apayao),016,N 68° E,Kabugao (Apayao)
 2025-11-13T04:26:00.000Z,13 November 2025 - 04:26 AM,11.11,124.08,010,2.1,013km N 56° E of City Of Bogo (Cebu),013,N 56° E,City Of Bogo (Cebu)
 2025-11-13T04:14:00.000Z,13 November 2025 - 04:14 AM,12.18,124.91,065,1.5,005km N 37° E of Matuguinao (Samar),005,N 37° E,Matuguinao (Samar)
-2025-11-13T04:06:00.000Z,13 November 2025 - 04:06 AM,10.96,124.00,016,2.2,010km S 10° E of City Of Bogo (Cebu),010,S 10° E,City Of Bogo (Cebu)
-2025-11-13T03:37:00.000Z,13 November 2025 - 03:37 AM,18.35,120.57,002,3.1,006km N 76° W of Pasuquin (Ilocos Norte),006,N 76° W,Pasuquin (Ilocos Norte)
-2025-11-13T03:33:00.000Z,13 November 2025 - 03:33 AM,11.10,123.94,006,2.7,008km N 37° W of City Of Bogo (Cebu),008,N 37° W,City Of Bogo (Cebu)
