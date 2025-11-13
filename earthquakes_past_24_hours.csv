@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T00:39:00.000Z,14 November 2025 - 12:39 AM,11.30,124.58,004,2.7,007km N 80° W of Capoocan (Leyte),007,N 80° W,Capoocan (Leyte)
 2025-11-14T00:34:00.000Z,14 November 2025 - 12:34 AM,07.03,126.92,033,1.5,046km S 65° E of Manay (Davao Oriental),046,S 65° E,Manay (Davao Oriental)
 2025-11-14T00:27:00.000Z,14 November 2025 - 12:27 AM,07.55,124.64,002,1.9,014km S 45° W of Wao (Lanao Del Sur),014,S 45° W,Wao (Lanao Del Sur)
 2025-11-14T00:09:00.000Z,14 November 2025 - 12:09 AM,15.60,120.02,027,1.4,010km S 74° E of Candelaria (Zambales),010,S 74° E,Candelaria (Zambales)
@@ -62,4 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T01:27:00.000Z,13 November 2025 - 01:27 AM,12.52,121.35,010,2.7,009km S 89° W of Mansalay (Oriental Mindoro),009,S 89° W,Mansalay (Oriental Mindoro)
 2025-11-13T01:19:00.000Z,13 November 2025 - 01:19 AM,16.50,122.27,015,3.1,003km S 14° E of Dinapigue (Isabela),003,S 14° E,Dinapigue (Isabela)
 2025-11-13T01:05:00.000Z,13 November 2025 - 01:05 AM,14.24,124.25,001,3.4,024km N 21° E of Pandan (Catanduanes),024,N 21° E,Pandan (Catanduanes)
-2025-11-13T00:36:00.000Z,13 November 2025 - 12:36 AM,10.89,124.01,020,2.1,017km S 12° E of City Of Bogo (Cebu),017,S 12° E,City Of Bogo (Cebu)
