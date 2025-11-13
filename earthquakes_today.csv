@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T01:30:00.000Z,14 November 2025 - 01:30 AM,11.01,124.04,003,2.2,008km S 57° E of City Of Bogo (Cebu),008,S 57° E,City Of Bogo (Cebu)
+2025-11-14T01:11:00.000Z,14 November 2025 - 01:11 AM,07.86,126.00,007,2.4,007km N 60° W of Monkayo (Davao De Oro),007,N 60° W,Monkayo (Davao De Oro)
 2025-11-14T00:39:00.000Z,14 November 2025 - 12:39 AM,11.30,124.58,004,2.7,007km N 80° W of Capoocan (Leyte),007,N 80° W,Capoocan (Leyte)
 2025-11-14T00:34:00.000Z,14 November 2025 - 12:34 AM,07.03,126.92,033,1.5,046km S 65° E of Manay (Davao Oriental),046,S 65° E,Manay (Davao Oriental)
 2025-11-14T00:27:00.000Z,14 November 2025 - 12:27 AM,07.55,124.64,002,1.9,014km S 45° W of Wao (Lanao Del Sur),014,S 45° W,Wao (Lanao Del Sur)
