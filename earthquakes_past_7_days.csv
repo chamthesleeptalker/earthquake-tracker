@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T11:31:00.000Z,13 November 2025 - 11:31 AM,04.27,128.10,137,4.0,320km S 65° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),320,S 65° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-13T11:17:00.000Z,13 November 2025 - 11:17 AM,11.22,124.22,034,2.2,032km N 54° E of City Of Bogo (Cebu),032,N 54° E,City Of Bogo (Cebu)
 2025-11-13T10:40:00.000Z,13 November 2025 - 10:40 AM,11.23,124.16,033,2.3,029km N 44° E of City Of Bogo (Cebu),029,N 44° E,City Of Bogo (Cebu)
 2025-11-13T10:13:00.000Z,13 November 2025 - 10:13 AM,11.15,124.15,027,2.1,021km N 58° E of City Of Bogo (Cebu),021,N 58° E,City Of Bogo (Cebu)
 2025-11-13T09:36:00.000Z,13 November 2025 - 09:36 AM,09.60,126.17,033,1.9,020km S 03° E of General Luna (Surigao Del Norte),020,S 03° E,General Luna (Surigao Del Norte)
@@ -373,5 +375,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T13:44:00.000Z,06 November 2025 - 01:44 PM,06.68,126.74,011,2.1,063km S 21° E of Manay (Davao Oriental),063,S 21° E,Manay (Davao Oriental)
 2025-11-06T13:09:00.000Z,06 November 2025 - 01:09 PM,11.10,124.07,037,1.4,011km N 61° E of City Of Bogo (Cebu),011,N 61° E,City Of Bogo (Cebu)
 2025-11-06T12:35:00.000Z,06 November 2025 - 12:35 PM,09.60,126.07,003,2.7,022km S 24° W of General Luna (Surigao Del Norte),022,S 24° W,General Luna (Surigao Del Norte)
-2025-11-06T10:53:00.000Z,06 November 2025 - 10:53 AM,15.66,120.07,030,1.9,015km N 76° E of Candelaria (Zambales),015,N 76° E,Candelaria (Zambales)
-2025-11-06T10:47:00.000Z,06 November 2025 - 10:47 AM,14.57,120.27,022,2.6,013km S 02° E of Morong (Bataan),013,S 02° E,Morong (Bataan)
