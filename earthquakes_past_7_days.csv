@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T15:42:00.000Z,13 November 2025 - 03:42 PM,18.65,121.13,009,2.2,007km N 47° E of Claveria (Cagayan),007,N 47° E,Claveria (Cagayan)
 2025-11-13T14:27:00.000Z,13 November 2025 - 02:27 PM,14.79,123.03,001,2.0,036km N 15° E of Tinaga Island (Vinzons) (Camarines Norte),036,N 15° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-11-13T14:23:00.000Z,13 November 2025 - 02:23 PM,11.13,124.16,003,2.3,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)
 2025-11-13T13:58:00.000Z,13 November 2025 - 01:58 PM,07.17,126.90,013,2.4,040km S 84° E of Manay (Davao Oriental),040,S 84° E,Manay (Davao Oriental)
@@ -380,5 +381,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-06T16:07:00.000Z,06 November 2025 - 04:07 PM,13.76,120.56,087,1.9,011km S 45° W of Calatagan (Batangas),011,S 45° W,Calatagan (Batangas)
 2025-11-06T15:57:00.000Z,06 November 2025 - 03:57 PM,07.31,126.81,010,5.1,031km N 69° E of Manay (Davao Oriental),031,N 69° E,Manay (Davao Oriental)
 2025-11-06T15:45:00.000Z,06 November 2025 - 03:45 PM,13.99,120.43,062,1.9,024km S 66° W of Nasugbu (Batangas),024,S 66° W,Nasugbu (Batangas)
-2025-11-06T15:29:00.000Z,06 November 2025 - 03:29 PM,09.59,126.28,033,1.8,025km S 31° E of General Luna (Surigao Del Norte),025,S 31° E,General Luna (Surigao Del Norte)
-2025-11-06T15:01:00.000Z,06 November 2025 - 03:01 PM,10.06,125.84,032,1.6,021km N 59° W of San Benito (Surigao Del Norte),021,N 59° W,San Benito (Surigao Del Norte)
