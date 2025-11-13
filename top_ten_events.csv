@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T17:57:00.000Z,13 November 2025 - 05:57 PM,16.51,120.27,10,4.8,007km S 74° W of Bauang (La Union),007,S 74° W,Bauang (La Union)
 2025-11-12T20:02:00.000Z,12 November 2025 - 08:02 PM,20.46,120.98,15,4.8,094km N 82° W of Sabtang (Batanes),094,N 82° W,Sabtang (Batanes)
 2025-11-12T20:02:00.000Z,12 November 2025 - 08:02 PM,20.46,120.98,15,4.8,094km N 82° W of Sabtang (Batanes),094,N 82° W,Sabtang (Batanes)
 2025-11-07T18:25:00.000Z,07 November 2025 - 06:25 PM,17.91,122.75,10,4.7,079km N 44° E of Maconacon (Isabela),079,N 44° E,Maconacon (Isabela)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T23:51:00.000Z,11 November 2025 - 11:51 PM,11.04,124.03,10,4.2,005km S 82° E of City Of Bogo (Cebu),005,S 82° E,City Of Bogo (Cebu)
 2025-11-07T14:59:00.000Z,07 November 2025 - 02:59 PM,11.12,124.09,10,4.2,014km N 56° E of City Of Bogo (Cebu),014,N 56° E,City Of Bogo (Cebu)
 2025-11-11T22:46:00.000Z,11 November 2025 - 10:46 PM,11.05,124.02,6,4.1,005km S 84° E of City Of Bogo (Cebu),005,S 84° E,City Of Bogo (Cebu)
-2025-11-10T07:45:00.000Z,10 November 2025 - 07:45 AM,07.84,126.73,24,4.1,031km N 79° E of Cateel (Davao Oriental),031,N 79° E,Cateel (Davao Oriental)
