@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-13T20:59:00.000Z,13 November 2025 - 08:59 PM,11.07,124.05,005,2.5,008km N 74° E of City Of Bogo (Cebu),008,N 74° E,City Of Bogo (Cebu)
+2025-11-13T20:54:00.000Z,13 November 2025 - 08:54 PM,10.13,126.13,023,1.9,014km N 24° E of Burgos (Surigao Del Norte),014,N 24° E,Burgos (Surigao Del Norte)
+2025-11-13T20:51:00.000Z,13 November 2025 - 08:51 PM,16.16,119.96,029,1.8,002km West of City Of Alaminos (Pangasinan),002,West of City,Alaminos (Pangasinan)
+2025-11-13T20:35:00.000Z,13 November 2025 - 08:35 PM,09.16,126.75,011,2.0,055km N 68° E of Bayabas (Surigao Del Sur),055,N 68° E,Bayabas (Surigao Del Sur)
 2025-11-13T19:38:00.000Z,13 November 2025 - 07:38 PM,13.76,120.56,092,1.6,011km S 46° W of Calatagan (Batangas),011,S 46° W,Calatagan (Batangas)
 2025-11-13T19:12:00.000Z,13 November 2025 - 07:12 PM,07.73,127.33,025,3.2,087km N 78° E of Baganga (Davao Oriental),087,N 78° E,Baganga (Davao Oriental)
 2025-11-13T19:07:00.000Z,13 November 2025 - 07:07 PM,07.85,126.94,015,1.8,052km N 55° E of Baganga (Davao Oriental),052,N 55° E,Baganga (Davao Oriental)
@@ -60,6 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-12T21:29:00.000Z,12 November 2025 - 09:29 PM,09.96,126.18,033,1.4,011km N 77° E of San Isidro (Surigao Del Norte),011,N 77° E,San Isidro (Surigao Del Norte)
 2025-11-12T21:21:00.000Z,12 November 2025 - 09:21 PM,09.80,126.58,013,1.7,046km N 88° E of General Luna (Surigao Del Norte),046,N 88° E,General Luna (Surigao Del Norte)
 2025-11-12T21:17:00.000Z,12 November 2025 - 09:17 PM,08.68,126.24,033,1.7,008km S 18° E of San Agustin (Surigao Del Sur),008,S 18° E,San Agustin (Surigao Del Sur)
-2025-11-12T20:12:00.000Z,12 November 2025 - 08:12 PM,13.61,120.67,107,1.8,019km N 18° W of Abra De Ilog (Occidental Mindoro),019,N 18° W,Abra De Ilog (Occidental Mindoro)
-2025-11-12T20:02:00.000Z,12 November 2025 - 08:02 PM,20.46,120.98,015,4.8,094km N 82° W of Sabtang (Batanes),094,N 82° W,Sabtang (Batanes)
-2025-11-12T20:02:00.000Z,12 November 2025 - 08:02 PM,20.46,120.98,015,4.8,094km N 82° W of Sabtang (Batanes),094,N 82° W,Sabtang (Batanes)
