@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T07:42:00.000Z,14 November 2025 - 07:42 AM,10.34,125.08,008,2.3,006km N 28° E of Libagon (Southern Leyte),006,N 28° E,Libagon (Southern Leyte)
 2025-11-14T07:25:00.000Z,14 November 2025 - 07:25 AM,11.09,124.06,002,3.0,010km N 60° E of City Of Bogo (Cebu),010,N 60° E,City Of Bogo (Cebu)
 2025-11-14T07:01:00.000Z,14 November 2025 - 07:01 AM,08.40,126.17,030,2.0,007km S 06° E of Tagbina (Surigao Del Sur),007,S 06° E,Tagbina (Surigao Del Sur)
 2025-11-14T05:54:00.000Z,14 November 2025 - 05:54 AM,09.59,126.12,008,3.3,022km S 10° W of General Luna (Surigao Del Norte),022,S 10° W,General Luna (Surigao Del Norte)
