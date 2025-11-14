@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T23:38:00.000Z,14 November 2025 - 11:38 PM,07.40,124.57,012,1.6,003km N 40° E of Alamada (Cotabato),003,N 40° E,Alamada (Cotabato)
 2025-11-14T23:23:00.000Z,14 November 2025 - 11:23 PM,05.76,126.49,060,2.7,095km S 80° E of Jose Abad Santos (Davao Occidental),095,S 80° E,Jose Abad Santos (Davao Occidental)
 2025-11-14T23:10:00.000Z,14 November 2025 - 11:10 PM,20.09,121.24,010,2.9,072km S 67° W of Sabtang (Batanes),072,S 67° W,Sabtang (Batanes)
 2025-11-14T23:10:00.000Z,14 November 2025 - 11:10 PM,20.09,121.24,010,2.9,072km S 67° W of Sabtang (Batanes),072,S 67° W,Sabtang (Batanes)
@@ -391,5 +392,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-08T00:31:00.000Z,08 November 2025 - 12:31 AM,11.09,123.97,001,1.6,005km N 13° W of City Of Bogo (Cebu),005,N 13° W,City Of Bogo (Cebu)
 2025-11-08T00:25:00.000Z,08 November 2025 - 12:25 AM,11.17,123.93,009,3.0,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
 2025-11-08T00:18:00.000Z,08 November 2025 - 12:18 AM,15.51,122.49,024,2.3,089km N 19° E of Patnanungan (Quezon),089,N 19° E,Patnanungan (Quezon)
-2025-11-07T23:36:00.000Z,07 November 2025 - 11:36 PM,12.15,121.46,004,2.3,024km S 33° E of Bulalacao (Oriental Mindoro),024,S 33° E,Bulalacao (Oriental Mindoro)
-2025-11-07T23:28:00.000Z,07 November 2025 - 11:28 PM,15.98,119.83,034,2.3,006km S 83° W of Dasol (Pangasinan),006,S 83° W,Dasol (Pangasinan)
