@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T21:16:00.000Z,14 November 2025 - 09:16 PM,18.77,121.36,015,2.2,009km S 05° W of Fuga Island (Aparri) (Cagayan),009,S 05° W,Fuga Island (Aparri) (Cagayan)
+2025-11-14T21:13:00.000Z,14 November 2025 - 09:13 PM,10.06,126.41,002,2.4,038km N 82° E of Burgos (Surigao Del Norte),038,N 82° E,Burgos (Surigao Del Norte)
+2025-11-14T21:11:00.000Z,14 November 2025 - 09:11 PM,07.97,126.38,053,1.9,009km S 28° W of Lingig (Surigao Del Sur),009,S 28° W,Lingig (Surigao Del Sur)
 2025-11-14T19:21:00.000Z,14 November 2025 - 07:21 PM,11.01,123.80,012,1.9,020km S 78° W of City Of Bogo (Cebu),020,S 78° W,City Of Bogo (Cebu)
 2025-11-14T19:04:00.000Z,14 November 2025 - 07:04 PM,05.71,126.19,125,2.5,065km S 69° E of Jose Abad Santos (Davao Occidental),065,S 69° E,Jose Abad Santos (Davao Occidental)
 2025-11-14T18:40:00.000Z,14 November 2025 - 06:40 PM,10.28,126.97,007,2.6,105km N 59° E of General Luna (Surigao Del Norte),105,N 59° E,General Luna (Surigao Del Norte)
@@ -73,8 +76,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T22:45:00.000Z,13 November 2025 - 10:45 PM,13.78,123.26,002,2.0,009km N 32° E of Calabanga (Camarines Sur),009,N 32° E,Calabanga (Camarines Sur)
 2025-11-13T22:35:00.000Z,13 November 2025 - 10:35 PM,09.60,126.13,013,2.4,021km S 07° W of General Luna (Surigao Del Norte),021,S 07° W,General Luna (Surigao Del Norte)
 2025-11-13T21:57:00.000Z,13 November 2025 - 09:57 PM,08.68,126.62,021,2.1,037km S 70° E of Marihatag (Surigao Del Sur),037,S 70° E,Marihatag (Surigao Del Sur)
-2025-11-13T20:59:00.000Z,13 November 2025 - 08:59 PM,11.07,124.05,005,2.5,008km N 74° E of City Of Bogo (Cebu),008,N 74° E,City Of Bogo (Cebu)
-2025-11-13T20:54:00.000Z,13 November 2025 - 08:54 PM,10.13,126.13,023,1.9,014km N 24° E of Burgos (Surigao Del Norte),014,N 24° E,Burgos (Surigao Del Norte)
-2025-11-13T20:51:00.000Z,13 November 2025 - 08:51 PM,16.16,119.96,029,1.8,002km West of City Of Alaminos (Pangasinan),002,West of City,Alaminos (Pangasinan)
-2025-11-13T20:35:00.000Z,13 November 2025 - 08:35 PM,09.16,126.75,011,2.0,055km N 68° E of Bayabas (Surigao Del Sur),055,N 68° E,Bayabas (Surigao Del Sur)
-2025-11-13T19:38:00.000Z,13 November 2025 - 07:38 PM,13.76,120.56,092,1.6,011km S 46° W of Calatagan (Batangas),011,S 46° W,Calatagan (Batangas)
