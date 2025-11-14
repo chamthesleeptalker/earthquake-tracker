@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T18:30:00.000Z,14 November 2025 - 06:30 PM,10.16,126.55,017,2.7,055km N 73° E of Burgos (Surigao Del Norte),055,N 73° E,Burgos (Surigao Del Norte)
+2025-11-14T18:20:00.000Z,14 November 2025 - 06:20 PM,10.21,126.70,021,3.1,072km N 73° E of Burgos (Surigao Del Norte),072,N 73° E,Burgos (Surigao Del Norte)
 2025-11-14T17:52:00.000Z,14 November 2025 - 05:52 PM,11.04,124.04,007,3.1,007km S 86° E of City Of Bogo (Cebu),007,S 86° E,City Of Bogo (Cebu)
 2025-11-14T17:42:00.000Z,14 November 2025 - 05:42 PM,12.22,125.34,002,2.1,006km S 34° W of Arteche (Eastern Samar),006,S 34° W,Arteche (Eastern Samar)
-2025-11-14T17:00:00.000Z,14 November 2025 - 05:00 PM,12.25,125.60,010,4.0,012km N 52° E of San Policarpo (Eastern Samar),012,N 52° E,San Policarpo (Eastern Samar)
