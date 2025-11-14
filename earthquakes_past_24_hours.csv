@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T19:21:00.000Z,14 November 2025 - 07:21 PM,11.01,123.80,012,1.9,020km S 78° W of City Of Bogo (Cebu),020,S 78° W,City Of Bogo (Cebu)
+2025-11-14T19:04:00.000Z,14 November 2025 - 07:04 PM,05.71,126.19,125,2.5,065km S 69° E of Jose Abad Santos (Davao Occidental),065,S 69° E,Jose Abad Santos (Davao Occidental)
 2025-11-14T18:40:00.000Z,14 November 2025 - 06:40 PM,10.28,126.97,007,2.6,105km N 59° E of General Luna (Surigao Del Norte),105,N 59° E,General Luna (Surigao Del Norte)
 2025-11-14T18:48:00.000Z,14 November 2025 - 06:48 PM,11.04,124.06,004,3.4,008km S 85° E of City Of Bogo (Cebu),008,S 85° E,City Of Bogo (Cebu)
 2025-11-14T18:35:00.000Z,14 November 2025 - 06:35 PM,09.63,126.15,031,1.3,017km S 03° W of General Luna (Surigao Del Norte),017,S 03° W,General Luna (Surigao Del Norte)
@@ -76,5 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T20:51:00.000Z,13 November 2025 - 08:51 PM,16.16,119.96,029,1.8,002km West of City Of Alaminos (Pangasinan),002,West of City,Alaminos (Pangasinan)
 2025-11-13T20:35:00.000Z,13 November 2025 - 08:35 PM,09.16,126.75,011,2.0,055km N 68° E of Bayabas (Surigao Del Sur),055,N 68° E,Bayabas (Surigao Del Sur)
 2025-11-13T19:38:00.000Z,13 November 2025 - 07:38 PM,13.76,120.56,092,1.6,011km S 46° W of Calatagan (Batangas),011,S 46° W,Calatagan (Batangas)
-2025-11-13T19:12:00.000Z,13 November 2025 - 07:12 PM,07.73,127.33,025,3.2,087km N 78° E of Baganga (Davao Oriental),087,N 78° E,Baganga (Davao Oriental)
-2025-11-13T19:07:00.000Z,13 November 2025 - 07:07 PM,07.85,126.94,015,1.8,052km N 55° E of Baganga (Davao Oriental),052,N 55° E,Baganga (Davao Oriental)
