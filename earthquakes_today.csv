@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T07:23:00.000Z,15 November 2025 - 07:23 AM,09.63,122.68,092,3.2,023km S 11° E of Candoni (Negros Occidental),023,S 11° E,Candoni (Negros Occidental)
 2025-11-15T06:05:00.000Z,15 November 2025 - 06:05 AM,07.61,126.36,009,2.3,022km S 28° W of Cateel (Davao Oriental),022,S 28° W,Cateel (Davao Oriental)
 2025-11-15T05:48:00.000Z,15 November 2025 - 05:48 AM,11.11,124.03,018,1.9,009km N 42° E of City Of Bogo (Cebu),009,N 42° E,City Of Bogo (Cebu)
 2025-11-15T05:10:00.000Z,15 November 2025 - 05:10 AM,14.52,120.41,175,2.4,010km S 08° E of Bagac (Bataan),010,S 08° E,Bagac (Bataan)
