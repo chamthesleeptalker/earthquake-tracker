@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T06:05:00.000Z,15 November 2025 - 06:05 AM,07.61,126.36,009,2.3,022km S 28° W of Cateel (Davao Oriental),022,S 28° W,Cateel (Davao Oriental)
+2025-11-15T05:48:00.000Z,15 November 2025 - 05:48 AM,11.11,124.03,018,1.9,009km N 42° E of City Of Bogo (Cebu),009,N 42° E,City Of Bogo (Cebu)
 2025-11-15T05:10:00.000Z,15 November 2025 - 05:10 AM,14.52,120.41,175,2.4,010km S 08° E of Bagac (Bataan),010,S 08° E,Bagac (Bataan)
 2025-11-15T05:04:00.000Z,15 November 2025 - 05:04 AM,11.02,124.10,033,1.9,013km S 77° E of City Of Bogo (Cebu),013,S 77° E,City Of Bogo (Cebu)
 2025-11-15T04:51:00.000Z,15 November 2025 - 04:51 AM,10.98,123.94,012,2.0,009km S 30° W of City Of Bogo (Cebu),009,S 30° W,City Of Bogo (Cebu)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T06:05:00.000Z,15 November 2025 - 06:05 AM,07.61,126.36,009,2.3,022km S 28° W of Cateel (Davao Oriental),022,S 28° W,Cateel (Davao Oriental)
+2025-11-15T05:48:00.000Z,15 November 2025 - 05:48 AM,11.11,124.03,018,1.9,009km N 42° E of City Of Bogo (Cebu),009,N 42° E,City Of Bogo (Cebu)
 2025-11-15T05:10:00.000Z,15 November 2025 - 05:10 AM,14.52,120.41,175,2.4,010km S 08° E of Bagac (Bataan),010,S 08° E,Bagac (Bataan)
 2025-11-15T05:04:00.000Z,15 November 2025 - 05:04 AM,11.02,124.10,033,1.9,013km S 77° E of City Of Bogo (Cebu),013,S 77° E,City Of Bogo (Cebu)
 2025-11-15T04:51:00.000Z,15 November 2025 - 04:51 AM,10.98,123.94,012,2.0,009km S 30° W of City Of Bogo (Cebu),009,S 30° W,City Of Bogo (Cebu)
@@ -64,8 +66,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T07:42:00.000Z,14 November 2025 - 07:42 AM,10.34,125.08,008,2.3,006km N 28° E of Libagon (Southern Leyte),006,N 28° E,Libagon (Southern Leyte)
 2025-11-14T07:25:00.000Z,14 November 2025 - 07:25 AM,11.09,124.06,002,3.0,010km N 60° E of City Of Bogo (Cebu),010,N 60° E,City Of Bogo (Cebu)
 2025-11-14T07:01:00.000Z,14 November 2025 - 07:01 AM,08.40,126.17,030,2.0,007km S 06° E of Tagbina (Surigao Del Sur),007,S 06° E,Tagbina (Surigao Del Sur)
-2025-11-14T05:54:00.000Z,14 November 2025 - 05:54 AM,09.59,126.12,008,3.3,022km S 10° W of General Luna (Surigao Del Norte),022,S 10° W,General Luna (Surigao Del Norte)
-2025-11-14T05:57:00.000Z,14 November 2025 - 05:57 AM,07.71,127.18,010,3.4,069km N 78° E of Baganga (Davao Oriental),069,N 78° E,Baganga (Davao Oriental)
-2025-11-14T05:41:00.000Z,14 November 2025 - 05:41 AM,11.34,125.63,046,2.7,002km S 54° E of Hernani (Eastern Samar),002,S 54° E,Hernani (Eastern Samar)
-2025-11-14T05:37:00.000Z,14 November 2025 - 05:37 AM,09.62,126.15,033,1.4,018km S 01° W of General Luna (Surigao Del Norte),018,S 01° W,General Luna (Surigao Del Norte)
-2025-11-14T05:11:00.000Z,14 November 2025 - 05:11 AM,10.95,123.92,018,2.1,013km S 31° W of City Of Bogo (Cebu),013,S 31° W,City Of Bogo (Cebu)
