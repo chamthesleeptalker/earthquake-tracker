@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T13:13:00.000Z,14 November 2025 - 01:13 PM,11.14,124.01,018,2.1,011km N 15° E of City Of Bogo (Cebu),011,N 15° E,City Of Bogo (Cebu)
+2025-11-14T13:09:00.000Z,14 November 2025 - 01:09 PM,10.92,124.11,029,1.6,020km S 45° E of City Of Bogo (Cebu),020,S 45° E,City Of Bogo (Cebu)
 2025-11-14T13:05:00.000Z,14 November 2025 - 01:05 PM,13.64,120.58,088,1.8,022km S 13° W of Calatagan (Batangas),022,S 13° W,Calatagan (Batangas)
 2025-11-14T12:42:00.000Z,14 November 2025 - 12:42 PM,07.22,127.02,027,2.2,054km N 89° E of Manay (Davao Oriental),054,N 89° E,Manay (Davao Oriental)
 2025-11-14T12:42:00.000Z,14 November 2025 - 12:42 PM,07.22,127.02,027,2.2,054km N 89° E of Manay (Davao Oriental),054,N 89° E,Manay (Davao Oriental)
@@ -394,4 +396,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T13:38:00.000Z,07 November 2025 - 01:38 PM,16.07,120.03,041,1.7,009km S 88° E of Mabini (Pangasinan),009,S 88° E,Mabini (Pangasinan)
 2025-11-07T13:23:00.000Z,07 November 2025 - 01:23 PM,15.99,119.84,010,4.7,004km S 89° W of Dasol (Pangasinan),004,S 89° W,Dasol (Pangasinan)
 2025-11-07T13:21:00.000Z,07 November 2025 - 01:21 PM,07.48,126.73,032,2.3,036km N 35° E of Manay (Davao Oriental),036,N 35° E,Manay (Davao Oriental)
-2025-11-07T13:12:00.000Z,07 November 2025 - 01:12 PM,11.07,124.10,030,2.2,014km N 79° E of City Of Bogo (Cebu),014,N 79° E,City Of Bogo (Cebu)
