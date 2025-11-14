@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T17:52:00.000Z,14 November 2025 - 05:52 PM,11.04,124.04,007,3.1,007km S 86° E of City Of Bogo (Cebu),007,S 86° E,City Of Bogo (Cebu)
+2025-11-14T17:42:00.000Z,14 November 2025 - 05:42 PM,12.22,125.34,002,2.1,006km S 34° W of Arteche (Eastern Samar),006,S 34° W,Arteche (Eastern Samar)
 2025-11-14T17:00:00.000Z,14 November 2025 - 05:00 PM,12.25,125.60,010,4.0,012km N 52° E of San Policarpo (Eastern Samar),012,N 52° E,San Policarpo (Eastern Samar)
 2025-11-14T16:32:00.000Z,14 November 2025 - 04:32 PM,11.09,124.08,029,1.9,012km N 66° E of City Of Bogo (Cebu),012,N 66° E,City Of Bogo (Cebu)
 2025-11-14T16:25:00.000Z,14 November 2025 - 04:25 PM,12.26,125.40,009,2.3,015km N 52° W of San Policarpo (Eastern Samar),015,N 52° W,San Policarpo (Eastern Samar)
@@ -389,6 +391,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T18:25:00.000Z,07 November 2025 - 06:25 PM,17.91,122.75,010,4.7,079km N 44° E of Maconacon (Isabela),079,N 44° E,Maconacon (Isabela)
 2025-11-07T18:10:00.000Z,07 November 2025 - 06:10 PM,15.97,119.77,025,2.5,014km S 45° W of Burgos (Pangasinan),014,S 45° W,Burgos (Pangasinan)
 2025-11-07T17:58:00.000Z,07 November 2025 - 05:58 PM,06.35,127.21,013,2.9,114km S 47° E of Tarragona (Davao Oriental),114,S 47° E,Tarragona (Davao Oriental)
-2025-11-07T17:29:00.000Z,07 November 2025 - 05:29 PM,16.07,119.84,033,1.7,003km N 61° W of Burgos (Pangasinan),003,N 61° W,Burgos (Pangasinan)
-2025-11-07T17:28:00.000Z,07 November 2025 - 05:28 PM,16.02,119.83,025,1.8,006km S 41° W of Burgos (Pangasinan),006,S 41° W,Burgos (Pangasinan)
-2025-11-07T17:10:00.000Z,07 November 2025 - 05:10 PM,15.66,121.62,029,1.6,013km S 28° E of Baler (Aurora),013,S 28° E,Baler (Aurora)
