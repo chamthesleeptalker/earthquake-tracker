@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-14T11:16:00.000Z,14 November 2025 - 11:16 AM,06.57,125.74,165,2.3,022km N 41° E of Malita (Davao Occidental),022,N 41° E,Malita (Davao Occidental)
+2025-11-14T11:15:00.000Z,14 November 2025 - 11:15 AM,13.89,120.55,083,1.8,012km N 54° W of Calatagan (Batangas),012,N 54° W,Calatagan (Batangas)
+2025-11-14T11:15:00.000Z,14 November 2025 - 11:15 AM,13.89,120.55,083,1.8,012km N 54° W of Calatagan (Batangas),012,N 54° W,Calatagan (Batangas)
+2025-11-14T10:59:00.000Z,14 November 2025 - 10:59 AM,11.12,124.01,022,1.2,009km N 22° E of City Of Bogo (Cebu),009,N 22° E,City Of Bogo (Cebu)
+2025-11-14T10:58:00.000Z,14 November 2025 - 10:58 AM,11.11,124.05,019,2.0,010km N 49° E of City Of Bogo (Cebu),010,N 49° E,City Of Bogo (Cebu)
 2025-11-14T10:43:00.000Z,14 November 2025 - 10:43 AM,05.86,125.94,151,2.9,033km S 79° E of Jose Abad Santos (Davao Occidental),033,S 79° E,Jose Abad Santos (Davao Occidental)
 2025-11-14T10:40:00.000Z,14 November 2025 - 10:40 AM,07.21,126.61,011,2.1,007km N 87° E of Manay (Davao Oriental),007,N 87° E,Manay (Davao Oriental)
 2025-11-14T10:19:00.000Z,14 November 2025 - 10:19 AM,06.38,126.43,130,2.5,049km S 52° E of Governor Generoso (Davao Oriental),049,S 52° E,Governor Generoso (Davao Oriental)
@@ -393,5 +398,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-07T11:34:00.000Z,07 November 2025 - 11:34 AM,11.17,123.96,007,3.0,014km N 09° W of City Of Bogo (Cebu),014,N 09° W,City Of Bogo (Cebu)
 2025-11-07T11:23:00.000Z,07 November 2025 - 11:23 AM,14.11,120.60,112,1.6,006km N 37° W of Nasugbu (Batangas),006,N 37° W,Nasugbu (Batangas)
 2025-11-07T11:17:00.000Z,07 November 2025 - 11:17 AM,11.15,123.96,009,2.0,011km N 09° W of City Of Bogo (Cebu),011,N 09° W,City Of Bogo (Cebu)
-2025-11-07T11:10:00.000Z,07 November 2025 - 11:10 AM,07.94,124.60,006,2.5,020km N 29° W of Amai Manabilang (Lanao Del Sur),020,N 29° W,Amai Manabilang (Lanao Del Sur)
-2025-11-07T10:43:00.000Z,07 November 2025 - 10:43 AM,11.31,124.48,007,3.1,006km S 06° W of Leyte (Leyte),006,S 06° W,Leyte (Leyte)
