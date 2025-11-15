@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T18:55:00.000Z,15 November 2025 - 06:55 PM,11.14,123.97,007,1.9,010km N 06° W of City Of Bogo (Cebu),010,N 06° W,City Of Bogo (Cebu)
+2025-11-15T18:38:00.000Z,15 November 2025 - 06:38 PM,13.59,120.93,031,1.5,010km N 16° W of Puerto Galera (Oriental Mindoro),010,N 16° W,Puerto Galera (Oriental Mindoro)
+2025-11-15T18:37:00.000Z,15 November 2025 - 06:37 PM,10.02,122.47,008,2.1,018km N 74° W of Cauayan (Negros Occidental),018,N 74° W,Cauayan (Negros Occidental)
+2025-11-15T18:35:00.000Z,15 November 2025 - 06:35 PM,10.94,123.98,030,1.9,012km S 02° E of City Of Bogo (Cebu),012,S 02° E,City Of Bogo (Cebu)
 2025-11-15T18:27:00.000Z,15 November 2025 - 06:27 PM,11.16,123.94,011,2.5,014km N 19° W of City Of Bogo (Cebu),014,N 19° W,City Of Bogo (Cebu)
 2025-11-15T18:13:00.000Z,15 November 2025 - 06:13 PM,11.18,123.97,013,1.9,014km N 05° W of City Of Bogo (Cebu),014,N 05° W,City Of Bogo (Cebu)
 2025-11-15T17:31:00.000Z,15 November 2025 - 05:31 PM,11.12,123.95,005,2.0,008km N 24° W of City Of Bogo (Cebu),008,N 24° W,City Of Bogo (Cebu)
