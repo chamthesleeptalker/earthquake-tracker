@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T11:27:00.000Z,15 November 2025 - 11:27 AM,08.78,126.25,033,1.3,016km S 20° W of Cagwait (Surigao Del Sur),016,S 20° W,Cagwait (Surigao Del Sur)
 2025-11-15T09:45:00.000Z,15 November 2025 - 09:45 AM,06.48,126.77,036,2.8,072km S 29° E of Tarragona (Davao Oriental),072,S 29° E,Tarragona (Davao Oriental)
 2025-11-15T09:22:00.000Z,15 November 2025 - 09:22 AM,08.68,126.64,013,1.9,039km S 71° E of Marihatag (Surigao Del Sur),039,S 71° E,Marihatag (Surigao Del Sur)
 2025-11-14T17:41:00.000Z,14 November 2025 - 05:41 PM,09.11,123.94,034,1.8,033km S 74° E of Maria (Siquijor),033,S 74° E,Maria (Siquijor)
@@ -380,6 +381,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-08T15:38:00.000Z,08 November 2025 - 03:38 PM,11.22,124.12,011,2.3,024km N 38° E of City Of Bogo (Cebu),024,N 38° E,City Of Bogo (Cebu)
 2025-11-08T14:46:00.000Z,08 November 2025 - 02:46 PM,10.72,124.97,003,3.0,006km S 57° W of Abuyog (Leyte),006,S 57° W,Abuyog (Leyte)
 2025-11-08T14:03:00.000Z,08 November 2025 - 02:03 PM,06.54,125.83,147,2.9,028km N 60° E of Malita (Davao Occidental),028,N 60° E,Malita (Davao Occidental)
-2025-11-08T10:20:00.000Z,08 November 2025 - 10:20 AM,10.80,122.84,025,2.1,014km S 80° E of Dumangas (Iloilo),014,S 80° E,Dumangas (Iloilo)
-2025-11-08T10:00:00.000Z,08 November 2025 - 10:00 AM,11.16,123.95,009,2.8,013km N 13° W of City Of Bogo (Cebu),013,N 13° W,City Of Bogo (Cebu)
-2025-11-08T09:54:00.000Z,08 November 2025 - 09:54 AM,13.02,121.24,002,1.5,017km S 16° W of Victoria (Oriental Mindoro),017,S 16° W,Victoria (Oriental Mindoro)
