@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T14:42:00.000Z,15 November 2025 - 02:42 PM,10.16,124.78,025,2.3,007km N 60° W of City Of Maasin  (Southern Leyte),007,N 60° W,City Of Maasin  (Southern Leyte)
 2025-11-15T13:54:00.000Z,15 November 2025 - 01:54 PM,08.91,126.49,019,3.5,021km S 88° E of Cagwait (Surigao Del Sur),021,S 88° E,Cagwait (Surigao Del Sur)
 2025-11-15T13:33:00.000Z,15 November 2025 - 01:33 PM,03.62,127.08,010,5.7,270km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),270,S 43° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-15T13:19:00.000Z,15 November 2025 - 01:19 PM,11.14,123.97,031,1.8,010km N 04° W of City Of Bogo (Cebu),010,N 04° W,City Of Bogo (Cebu)
@@ -59,5 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T15:57:00.000Z,14 November 2025 - 03:57 PM,05.69,125.31,017,2.9,019km S 39° E of Glan (Sarangani),019,S 39° E,Glan (Sarangani)
 2025-11-14T15:16:00.000Z,14 November 2025 - 03:16 PM,12.18,125.44,010,4.2,007km N 89° W of San Policarpo (Eastern Samar),007,N 89° W,San Policarpo (Eastern Samar)
 2025-11-14T14:58:00.000Z,14 November 2025 - 02:58 PM,12.37,125.78,014,4.0,036km N 55° E of San Policarpo (Eastern Samar),036,N 55° E,San Policarpo (Eastern Samar)
-2025-11-14T14:25:00.000Z,14 November 2025 - 02:25 PM,12.27,125.46,019,2.5,009km S 89° E of Arteche (Eastern Samar),009,S 89° E,Arteche (Eastern Samar)
-2025-11-14T14:08:00.000Z,14 November 2025 - 02:08 PM,13.68,120.54,032,1.4,020km S 30° W of Calatagan (Batangas),020,S 30° W,Calatagan (Batangas)
