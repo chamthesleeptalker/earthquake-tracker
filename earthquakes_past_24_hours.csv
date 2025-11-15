@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T01:21:00.000Z,16 November 2025 - 01:21 AM,16.89,120.78,005,2.2,004km N 27° W of Mankayan (Benguet),004,N 27° W,Mankayan (Benguet)
 2025-11-16T00:58:00.000Z,16 November 2025 - 12:58 AM,13.78,120.56,094,1.6,010km S 56° W of Calatagan (Batangas),010,S 56° W,Calatagan (Batangas)
 2025-11-16T00:45:00.000Z,16 November 2025 - 12:45 AM,13.70,120.62,101,1.8,015km S 05° W of Calatagan (Batangas),015,S 05° W,Calatagan (Batangas)
 2025-11-16T00:05:00.000Z,16 November 2025 - 12:05 AM,16.50,120.74,012,1.5,010km N 84° W of Bokod (Benguet),010,N 84° W,Bokod (Benguet)
@@ -59,4 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T01:59:00.000Z,15 November 2025 - 01:59 AM,09.63,126.15,032,1.7,017km S 04° W of General Luna (Surigao Del Norte),017,S 04° W,General Luna (Surigao Del Norte)
 2025-11-15T01:58:00.000Z,15 November 2025 - 01:58 AM,11.15,125.57,026,2.5,005km S 85° E of Quinapondan (Eastern Samar),005,S 85° E,Quinapondan (Eastern Samar)
 2025-11-15T01:26:00.000Z,15 November 2025 - 01:26 AM,11.03,123.92,018,2.6,007km S 71° W of City Of Bogo (Cebu),007,S 71° W,City Of Bogo (Cebu)
-2025-11-15T01:13:00.000Z,15 November 2025 - 01:13 AM,10.72,124.25,027,1.8,016km N 61° W of San Francisco (Cebu),016,N 61° W,San Francisco (Cebu)
