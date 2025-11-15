@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T09:05:00.000Z,15 November 2025 - 09:05 AM,16.16,119.98,034,2.1,001km N 21° E of City Of Alaminos (Pangasinan),001,N 21° E,City Of Alaminos (Pangasinan)
+2025-11-15T08:22:00.000Z,15 November 2025 - 08:22 AM,06.75,126.09,027,3.2,009km S 04° E of San Isidro (Davao Oriental),009,S 04° E,San Isidro (Davao Oriental)
+2025-11-15T08:03:00.000Z,15 November 2025 - 08:03 AM,10.95,123.98,010,2.7,010km S 01° E of City Of Bogo (Cebu),010,S 01° E,City Of Bogo (Cebu)
 2025-11-15T07:23:00.000Z,15 November 2025 - 07:23 AM,09.63,122.68,092,3.2,023km S 11° E of Candoni (Negros Occidental),023,S 11° E,Candoni (Negros Occidental)
 2025-11-15T06:05:00.000Z,15 November 2025 - 06:05 AM,07.61,126.36,009,2.3,022km S 28° W of Cateel (Davao Oriental),022,S 28° W,Cateel (Davao Oriental)
 2025-11-15T05:48:00.000Z,15 November 2025 - 05:48 AM,11.11,124.03,018,1.9,009km N 42° E of City Of Bogo (Cebu),009,N 42° E,City Of Bogo (Cebu)
@@ -64,5 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T10:14:00.000Z,14 November 2025 - 10:14 AM,07.83,127.22,006,2.3,078km N 68° E of Baganga (Davao Oriental),078,N 68° E,Baganga (Davao Oriental)
 2025-11-14T09:53:00.000Z,14 November 2025 - 09:53 AM,13.75,120.84,004,3.0,010km N 20° W of Tingloy (Batangas),010,N 20° W,Tingloy (Batangas)
 2025-11-14T09:42:00.000Z,14 November 2025 - 09:42 AM,13.76,120.84,005,2.6,011km N 82° W of Mabini (Batangas),011,N 82° W,Mabini (Batangas)
-2025-11-14T07:42:00.000Z,14 November 2025 - 07:42 AM,10.34,125.08,008,2.3,006km N 28° E of Libagon (Southern Leyte),006,N 28° E,Libagon (Southern Leyte)
-2025-11-14T07:25:00.000Z,14 November 2025 - 07:25 AM,11.09,124.06,002,3.0,010km N 60° E of City Of Bogo (Cebu),010,N 60° E,City Of Bogo (Cebu)
