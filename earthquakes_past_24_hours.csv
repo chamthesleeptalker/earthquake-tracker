@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T09:45:00.000Z,15 November 2025 - 09:45 AM,06.48,126.77,036,2.8,072km S 29° E of Tarragona (Davao Oriental),072,S 29° E,Tarragona (Davao Oriental)
+2025-11-15T09:22:00.000Z,15 November 2025 - 09:22 AM,08.68,126.64,013,1.9,039km S 71° E of Marihatag (Surigao Del Sur),039,S 71° E,Marihatag (Surigao Del Sur)
+2025-11-14T17:41:00.000Z,14 November 2025 - 05:41 PM,09.11,123.94,034,1.8,033km S 74° E of Maria (Siquijor),033,S 74° E,Maria (Siquijor)
 2025-11-15T09:05:00.000Z,15 November 2025 - 09:05 AM,16.16,119.98,034,2.1,001km N 21° E of City Of Alaminos (Pangasinan),001,N 21° E,City Of Alaminos (Pangasinan)
 2025-11-15T08:22:00.000Z,15 November 2025 - 08:22 AM,06.75,126.09,027,3.2,009km S 04° E of San Isidro (Davao Oriental),009,S 04° E,San Isidro (Davao Oriental)
 2025-11-15T08:03:00.000Z,15 November 2025 - 08:03 AM,10.95,123.98,010,2.7,010km S 01° E of City Of Bogo (Cebu),010,S 01° E,City Of Bogo (Cebu)
@@ -66,4 +69,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T10:19:00.000Z,14 November 2025 - 10:19 AM,06.38,126.43,130,2.5,049km S 52° E of Governor Generoso (Davao Oriental),049,S 52° E,Governor Generoso (Davao Oriental)
 2025-11-14T10:14:00.000Z,14 November 2025 - 10:14 AM,07.83,127.22,006,2.3,078km N 68° E of Baganga (Davao Oriental),078,N 68° E,Baganga (Davao Oriental)
 2025-11-14T09:53:00.000Z,14 November 2025 - 09:53 AM,13.75,120.84,004,3.0,010km N 20° W of Tingloy (Batangas),010,N 20° W,Tingloy (Batangas)
-2025-11-14T09:42:00.000Z,14 November 2025 - 09:42 AM,13.76,120.84,005,2.6,011km N 82° W of Mabini (Batangas),011,N 82° W,Mabini (Batangas)
