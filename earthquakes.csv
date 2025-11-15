@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T20:11:00.000Z,15 November 2025 - 08:11 PM,07.25,126.84,024,2.4,033km N 82° E of Manay (Davao Oriental),033,N 82° E,Manay (Davao Oriental)
+2025-11-15T19:31:00.000Z,15 November 2025 - 07:31 PM,17.99,121.53,033,1.7,011km S 43° W of Lasam (Cagayan),011,S 43° W,Lasam (Cagayan)
 2025-11-15T19:12:00.000Z,15 November 2025 - 07:12 PM,16.26,122.17,036,2.1,005km S 73° E of Casiguran (Aurora),005,S 73° E,Casiguran (Aurora)
 2025-11-15T18:55:00.000Z,15 November 2025 - 06:55 PM,11.14,123.97,007,1.9,010km N 06° W of City Of Bogo (Cebu),010,N 06° W,City Of Bogo (Cebu)
 2025-11-15T18:38:00.000Z,15 November 2025 - 06:38 PM,13.59,120.93,031,1.5,010km N 16° W of Puerto Galera (Oriental Mindoro),010,N 16° W,Puerto Galera (Oriental Mindoro)
