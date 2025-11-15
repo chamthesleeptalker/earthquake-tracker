@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T23:22:00.000Z,15 November 2025 - 11:22 PM,07.23,126.93,034,1.9,043km N 87° E of Manay (Davao Oriental),043,N 87° E,Manay (Davao Oriental)
 2025-11-15T23:05:00.000Z,15 November 2025 - 11:05 PM,07.87,126.52,024,1.9,011km N 43° E of Cateel (Davao Oriental),011,N 43° E,Cateel (Davao Oriental)
 2025-11-15T22:59:00.000Z,15 November 2025 - 10:59 PM,07.42,126.84,013,3.4,041km N 55° E of Manay (Davao Oriental),041,N 55° E,Manay (Davao Oriental)
 2025-11-15T22:02:00.000Z,15 November 2025 - 10:02 PM,18.08,120.78,016,1.8,002km S 52° E of Solsona (Ilocos Norte),002,S 52° E,Solsona (Ilocos Norte)
@@ -12,7 +13,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T20:55:00.000Z,15 November 2025 - 08:55 PM,07.23,126.88,019,2.3,037km N 87° E of Manay (Davao Oriental),037,N 87° E,Manay (Davao Oriental)
 2025-11-15T20:47:00.000Z,15 November 2025 - 08:47 PM,11.44,125.70,014,2.6,014km N 42° E of Hernani (Eastern Samar),014,N 42° E,Hernani (Eastern Samar)
 2025-11-14T23:24:00.000Z,14 November 2025 - 11:24 PM,05.86,126.30,072,3.1,073km S 86° E of Jose Abad Santos (Davao Occidental),073,S 86° E,Jose Abad Santos (Davao Occidental)
-2025-11-14T23:11:00.000Z,14 November 2025 - 11:11 PM,19.86,121.23,015,3.3,085km S 52° W of Sabtang (Batanes),085,S 52° W,Sabtang (Batanes)
 2025-11-15T20:11:00.000Z,15 November 2025 - 08:11 PM,07.25,126.84,024,2.4,033km N 82° E of Manay (Davao Oriental),033,N 82° E,Manay (Davao Oriental)
 2025-11-15T19:31:00.000Z,15 November 2025 - 07:31 PM,17.99,121.53,033,1.7,011km S 43° W of Lasam (Cagayan),011,S 43° W,Lasam (Cagayan)
 2025-11-15T19:12:00.000Z,15 November 2025 - 07:12 PM,16.26,122.17,036,2.1,005km S 73° E of Casiguran (Aurora),005,S 73° E,Casiguran (Aurora)
@@ -62,6 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T00:15:00.000Z,15 November 2025 - 12:15 AM,09.26,126.34,024,2.6,016km S 82° E of Cortes (Surigao Del Sur),016,S 82° E,Cortes (Surigao Del Sur)
 2025-11-14T23:38:00.000Z,14 November 2025 - 11:38 PM,07.40,124.57,012,1.6,003km N 40° E of Alamada (Cotabato),003,N 40° E,Alamada (Cotabato)
 2025-11-14T23:23:00.000Z,14 November 2025 - 11:23 PM,05.76,126.49,060,2.7,095km S 80° E of Jose Abad Santos (Davao Occidental),095,S 80° E,Jose Abad Santos (Davao Occidental)
-2025-11-14T23:10:00.000Z,14 November 2025 - 11:10 PM,20.09,121.24,010,2.9,072km S 67° W of Sabtang (Batanes),072,S 67° W,Sabtang (Batanes)
-2025-11-14T23:10:00.000Z,14 November 2025 - 11:10 PM,20.09,121.24,010,2.9,072km S 67° W of Sabtang (Batanes),072,S 67° W,Sabtang (Batanes)
-2025-11-14T23:08:00.000Z,14 November 2025 - 11:08 PM,10.88,123.88,002,1.9,021km S 30° W of City Of Bogo (Cebu),021,S 30° W,City Of Bogo (Cebu)

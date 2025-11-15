@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-15T23:22:00.000Z,15 November 2025 - 11:22 PM,07.23,126.93,034,1.9,043km N 87° E of Manay (Davao Oriental),043,N 87° E,Manay (Davao Oriental)
 2025-11-15T23:05:00.000Z,15 November 2025 - 11:05 PM,07.87,126.52,024,1.9,011km N 43° E of Cateel (Davao Oriental),011,N 43° E,Cateel (Davao Oriental)
 2025-11-15T22:59:00.000Z,15 November 2025 - 10:59 PM,07.42,126.84,013,3.4,041km N 55° E of Manay (Davao Oriental),041,N 55° E,Manay (Davao Oriental)
 2025-11-15T22:02:00.000Z,15 November 2025 - 10:02 PM,18.08,120.78,016,1.8,002km S 52° E of Solsona (Ilocos Norte),002,S 52° E,Solsona (Ilocos Norte)
