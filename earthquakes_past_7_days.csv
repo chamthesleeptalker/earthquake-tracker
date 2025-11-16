@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T06:00:00.000Z,17 November 2025 - 06:00 AM,11.11,123.86,033,2.5,015km N 60° W of City Of Bogo (Cebu),015,N 60° W,City Of Bogo (Cebu)
+2025-11-17T05:55:00.000Z,17 November 2025 - 05:55 AM,13.70,120.66,101,1.6,015km S 11° E of Calatagan (Batangas),015,S 11° E,Calatagan (Batangas)
+2025-11-17T05:36:00.000Z,17 November 2025 - 05:36 AM,09.21,126.07,034,1.5,003km S 30° E of Lanuza (Surigao Del Sur),003,S 30° E,Lanuza (Surigao Del Sur)
+2025-11-17T05:36:00.000Z,17 November 2025 - 05:36 AM,10.44,121.69,003,2.8,025km N 87° W of Anini-y (Antique),025,N 87° W,Anini-y (Antique)
 2025-11-17T05:22:00.000Z,17 November 2025 - 05:22 AM,10.93,123.92,001,2.9,015km S 26° W of City Of Bogo (Cebu),015,S 26° W,City Of Bogo (Cebu)
 2025-11-17T05:05:00.000Z,17 November 2025 - 05:05 AM,11.56,124.18,005,2.2,023km S 78° W of Almeria (Biliran),023,S 78° W,Almeria (Biliran)
 2025-11-17T04:01:00.000Z,17 November 2025 - 04:01 AM,11.05,124.10,004,1.3,014km N 88° E of City Of Bogo (Cebu),014,N 88° E,City Of Bogo (Cebu)
@@ -442,4 +446,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-10T07:45:00.000Z,10 November 2025 - 07:45 AM,07.84,126.73,024,4.1,031km N 79° E of Cateel (Davao Oriental),031,N 79° E,Cateel (Davao Oriental)
 2025-11-10T06:57:00.000Z,10 November 2025 - 06:57 AM,06.92,123.77,006,2.7,032km S 59° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),032,S 59° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-11-10T06:24:00.000Z,10 November 2025 - 06:24 AM,10.86,123.91,010,2.2,022km S 21° W of City Of Bogo (Cebu),022,S 21° W,City Of Bogo (Cebu)
-2025-11-10T05:50:00.000Z,10 November 2025 - 05:50 AM,11.12,123.96,006,2.6,008km N 13° W of City Of Bogo (Cebu),008,N 13° W,City Of Bogo (Cebu)
