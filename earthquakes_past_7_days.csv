@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T16:10:00.000Z,16 November 2025 - 04:10 PM,11.10,124.10,031,1.5,014km N 65° E of City Of Bogo (Cebu),014,N 65° E,City Of Bogo (Cebu)
 2025-11-16T15:09:00.000Z,16 November 2025 - 03:09 PM,11.14,123.96,010,2.2,010km N 11° W of City Of Bogo (Cebu),010,N 11° W,City Of Bogo (Cebu)
 2025-11-16T14:35:00.000Z,16 November 2025 - 02:35 PM,06.39,126.31,030,4.3,039km S 42° E of Governor Generoso (Davao Oriental),039,S 42° E,Governor Generoso (Davao Oriental)
 2025-11-16T13:56:00.000Z,16 November 2025 - 01:56 PM,09.65,126.20,035,1.7,016km S 19° E of General Luna (Surigao Del Norte),016,S 19° E,General Luna (Surigao Del Norte)
@@ -421,4 +422,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-09T20:19:00.000Z,09 November 2025 - 08:19 PM,10.38,123.18,007,2.4,005km S 66° W of City Of Canlaon (Negros Oriental),005,S 66° W,City Of Canlaon (Negros Oriental)
 2025-11-09T20:05:00.000Z,09 November 2025 - 08:05 PM,11.07,124.12,003,2.0,015km N 82° E of City Of Bogo (Cebu),015,N 82° E,City Of Bogo (Cebu)
 2025-11-09T19:52:00.000Z,09 November 2025 - 07:52 PM,12.78,123.02,014,3.2,028km S 61° W of Claveria (Masbate),028,S 61° W,Claveria (Masbate)
-2025-11-09T15:11:00.000Z,09 November 2025 - 03:11 PM,13.78,120.55,090,2.2,010km S 58° W of Calatagan (Batangas),010,S 58° W,Calatagan (Batangas)
