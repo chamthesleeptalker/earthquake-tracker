@@ -1,6 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T04:01:00.000Z,17 November 2025 - 04:01 AM,11.05,124.10,004,1.3,014km N 88° E of City Of Bogo (Cebu),014,N 88° E,City Of Bogo (Cebu)
+2025-11-17T03:54:00.000Z,17 November 2025 - 03:54 AM,11.01,123.93,032,2.9,006km S 55° W of City Of Bogo (Cebu),006,S 55° W,City Of Bogo (Cebu)
+2025-11-17T03:54:00.000Z,17 November 2025 - 03:54 AM,13.65,120.65,112,1.9,020km S 05° E of Calatagan (Batangas),020,S 05° E,Calatagan (Batangas)
+2025-11-17T03:49:00.000Z,17 November 2025 - 03:49 AM,11.28,125.65,040,1.7,009km S 27° E of Hernani (Eastern Samar),009,S 27° E,Hernani (Eastern Samar)
+2025-11-17T03:38:00.000Z,17 November 2025 - 03:38 AM,07.37,127.02,014,1.6,056km N 71° E of Manay (Davao Oriental),056,N 71° E,Manay (Davao Oriental)
+2025-11-17T03:37:00.000Z,17 November 2025 - 03:37 AM,07.33,126.34,035,1.9,024km N 86° E of Maragusan (Davao De Oro),024,N 86° E,Maragusan (Davao De Oro)
+2025-11-17T03:27:00.000Z,17 November 2025 - 03:27 AM,11.18,124.09,007,4.0,019km N 39° E of City Of Bogo (Cebu),019,N 39° E,City Of Bogo (Cebu)
 2025-11-17T03:28:00.000Z,17 November 2025 - 03:28 AM,11.18,124.08,010,3.9,018km N 37° E of City Of Bogo (Cebu),018,N 37° E,City Of Bogo (Cebu)
 2025-11-17T03:24:00.000Z,17 November 2025 - 03:24 AM,11.28,124.07,033,1.9,028km N 22° E of City Of Bogo (Cebu),028,N 22° E,City Of Bogo (Cebu)
 2025-11-17T03:17:00.000Z,17 November 2025 - 03:17 AM,16.06,119.95,034,2.2,002km S 51° E of Mabini (Pangasinan),002,S 51° E,Mabini (Pangasinan)
-2025-11-17T02:51:00.000Z,17 November 2025 - 02:51 AM,13.27,120.59,004,1.9,005km N 09° W of Mamburao (Occidental Mindoro),005,N 09° W,Mamburao (Occidental Mindoro)
-2025-11-17T02:42:00.000Z,17 November 2025 - 02:42 AM,07.89,126.78,028,1.9,038km N 73° E of Cateel (Davao Oriental),038,N 73° E,Cateel (Davao Oriental)
