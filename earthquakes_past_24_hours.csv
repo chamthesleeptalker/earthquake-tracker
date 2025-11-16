@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T03:28:00.000Z,17 November 2025 - 03:28 AM,11.18,124.08,010,3.9,018km N 37° E of City Of Bogo (Cebu),018,N 37° E,City Of Bogo (Cebu)
+2025-11-17T03:24:00.000Z,17 November 2025 - 03:24 AM,11.28,124.07,033,1.9,028km N 22° E of City Of Bogo (Cebu),028,N 22° E,City Of Bogo (Cebu)
+2025-11-17T03:17:00.000Z,17 November 2025 - 03:17 AM,16.06,119.95,034,2.2,002km S 51° E of Mabini (Pangasinan),002,S 51° E,Mabini (Pangasinan)
 2025-11-17T02:51:00.000Z,17 November 2025 - 02:51 AM,13.27,120.59,004,1.9,005km N 09° W of Mamburao (Occidental Mindoro),005,N 09° W,Mamburao (Occidental Mindoro)
 2025-11-17T02:42:00.000Z,17 November 2025 - 02:42 AM,07.89,126.78,028,1.9,038km N 73° E of Cateel (Davao Oriental),038,N 73° E,Cateel (Davao Oriental)
 2025-11-17T02:15:00.000Z,17 November 2025 - 02:15 AM,08.02,126.85,011,2.2,048km S 88° E of Lingig (Surigao Del Sur),048,S 88° E,Lingig (Surigao Del Sur)
@@ -53,5 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T04:08:00.000Z,16 November 2025 - 04:08 AM,08.99,126.31,030,2.2,004km N 47° E of Bayabas (Surigao Del Sur),004,N 47° E,Bayabas (Surigao Del Sur)
 2025-11-16T04:08:00.000Z,16 November 2025 - 04:08 AM,08.99,126.31,030,2.2,004km N 47° E of Bayabas (Surigao Del Sur),004,N 47° E,Bayabas (Surigao Del Sur)
 2025-11-16T04:07:00.000Z,16 November 2025 - 04:07 AM,08.95,126.30,056,1.6,003km S 40° E of Bayabas (Surigao Del Sur),003,S 40° E,Bayabas (Surigao Del Sur)
-2025-11-16T03:09:00.000Z,16 November 2025 - 03:09 AM,15.25,119.92,032,1.5,010km S 38° W of Iba (Zambales),010,S 38° W,Iba (Zambales)
-2025-11-16T02:59:00.000Z,16 November 2025 - 02:59 AM,07.13,126.53,012,2.6,009km S 06° W of Manay (Davao Oriental),009,S 06° W,Manay (Davao Oriental)
