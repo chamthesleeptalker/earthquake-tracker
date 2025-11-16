@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T02:06:00.000Z,17 November 2025 - 02:06 AM,12.20,124.45,026,2.5,022km S 60° W of Lope De Vega (Northern Samar),022,S 60° W,Lope De Vega (Northern Samar)
+2025-11-17T01:43:00.000Z,17 November 2025 - 01:43 AM,11.07,123.95,007,3.4,004km N 46° W of City Of Bogo (Cebu),004,N 46° W,City Of Bogo (Cebu)
 2025-11-17T01:11:00.000Z,17 November 2025 - 01:11 AM,06.94,127.20,023,3.7,078km S 68° E of Manay (Davao Oriental),078,S 68° E,Manay (Davao Oriental)
 2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,06.92,126.10,037,2.6,010km N 78° E of Lupon (Davao Oriental),010,N 78° E,Lupon (Davao Oriental)
 2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,10.93,124.76,001,2.7,007km N 75° E of Albuera (Leyte),007,N 75° E,Albuera (Leyte)
@@ -53,6 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T02:24:00.000Z,16 November 2025 - 02:24 AM,09.62,126.22,034,1.5,020km S 22° E of General Luna (Surigao Del Norte),020,S 22° E,General Luna (Surigao Del Norte)
 2025-11-16T02:23:00.000Z,16 November 2025 - 02:23 AM,13.54,120.18,020,2.1,021km S 22° W of Looc (Occidental Mindoro),021,S 22° W,Looc (Occidental Mindoro)
 2025-11-16T02:22:00.000Z,16 November 2025 - 02:22 AM,13.68,120.69,108,1.6,018km S 20° E of Calatagan (Batangas),018,S 20° E,Calatagan (Batangas)
-2025-11-16T01:40:00.000Z,16 November 2025 - 01:40 AM,07.23,126.66,031,1.8,014km N 83° E of Manay (Davao Oriental),014,N 83° E,Manay (Davao Oriental)
-2025-11-16T01:37:00.000Z,16 November 2025 - 01:37 AM,07.99,126.04,029,2.2,001km N 45° E of Santa Josefa (Agusan Del Sur),001,N 45° E,Santa Josefa (Agusan Del Sur)
-2025-11-16T01:21:00.000Z,16 November 2025 - 01:21 AM,16.89,120.78,005,2.2,004km N 27° W of Mankayan (Benguet),004,N 27° W,Mankayan (Benguet)
