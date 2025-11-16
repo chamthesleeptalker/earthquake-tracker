@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,06.92,126.10,037,2.6,010km N 78° E of Lupon (Davao Oriental),010,N 78° E,Lupon (Davao Oriental)
+2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,10.93,124.76,001,2.7,007km N 75° E of Albuera (Leyte),007,N 75° E,Albuera (Leyte)
 2025-11-16T23:54:00.000Z,16 November 2025 - 11:54 PM,13.69,120.62,086,1.7,016km S 06° W of Calatagan (Batangas),016,S 06° W,Calatagan (Batangas)
 2025-11-16T23:47:00.000Z,16 November 2025 - 11:47 PM,08.90,126.52,017,2.0,024km S 85° E of Cagwait (Surigao Del Sur),024,S 85° E,Cagwait (Surigao Del Sur)
 2025-11-16T23:35:00.000Z,16 November 2025 - 11:35 PM,10.05,126.41,067,1.4,037km N 84° E of Burgos (Surigao Del Norte),037,N 84° E,Burgos (Surigao Del Norte)
@@ -55,4 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T01:21:00.000Z,16 November 2025 - 01:21 AM,16.89,120.78,005,2.2,004km N 27° W of Mankayan (Benguet),004,N 27° W,Mankayan (Benguet)
 2025-11-16T00:58:00.000Z,16 November 2025 - 12:58 AM,13.78,120.56,094,1.6,010km S 56° W of Calatagan (Batangas),010,S 56° W,Calatagan (Batangas)
 2025-11-16T00:45:00.000Z,16 November 2025 - 12:45 AM,13.70,120.62,101,1.8,015km S 05° W of Calatagan (Batangas),015,S 05° W,Calatagan (Batangas)
-2025-11-16T00:05:00.000Z,16 November 2025 - 12:05 AM,16.50,120.74,012,1.5,010km N 84° W of Bokod (Benguet),010,N 84° W,Bokod (Benguet)
