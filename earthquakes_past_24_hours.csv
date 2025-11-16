@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T19:54:00.000Z,16 November 2025 - 07:54 PM,15.58,121.96,017,2.2,047km S 66° E of Baler (Aurora),047,S 66° E,Baler (Aurora)
+2025-11-16T19:52:00.000Z,16 November 2025 - 07:52 PM,14.92,120.03,032,1.5,007km S 66° W of San Antonio (Zambales),007,S 66° W,San Antonio (Zambales)
 2025-11-16T19:03:00.000Z,16 November 2025 - 07:03 PM,09.27,122.73,002,2.4,014km S 27° W of City Of Bayawan (Negros Oriental),014,S 27° W,City Of Bayawan (Negros Oriental)
 2025-11-16T18:40:00.000Z,16 November 2025 - 06:40 PM,07.74,124.42,007,2.3,012km S 40° E of Ganassi (Lanao Del Sur),012,S 40° E,Ganassi (Lanao Del Sur)
 2025-11-16T18:17:00.000Z,16 November 2025 - 06:17 PM,06.52,126.76,044,2.6,068km S 30° E of Tarragona (Davao Oriental),068,S 30° E,Tarragona (Davao Oriental)
@@ -59,5 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T20:55:00.000Z,15 November 2025 - 08:55 PM,07.23,126.88,019,2.3,037km N 87° E of Manay (Davao Oriental),037,N 87° E,Manay (Davao Oriental)
 2025-11-15T20:47:00.000Z,15 November 2025 - 08:47 PM,11.44,125.70,014,2.6,014km N 42° E of Hernani (Eastern Samar),014,N 42° E,Hernani (Eastern Samar)
 2025-11-15T20:11:00.000Z,15 November 2025 - 08:11 PM,07.25,126.84,024,2.4,033km N 82° E of Manay (Davao Oriental),033,N 82° E,Manay (Davao Oriental)
-2025-11-15T19:31:00.000Z,15 November 2025 - 07:31 PM,17.99,121.53,033,1.7,011km S 43° W of Lasam (Cagayan),011,S 43° W,Lasam (Cagayan)
-2025-11-15T19:12:00.000Z,15 November 2025 - 07:12 PM,16.26,122.17,036,2.1,005km S 73° E of Casiguran (Aurora),005,S 73° E,Casiguran (Aurora)
