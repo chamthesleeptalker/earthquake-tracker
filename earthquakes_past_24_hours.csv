@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T19:03:00.000Z,16 November 2025 - 07:03 PM,09.27,122.73,002,2.4,014km S 27° W of City Of Bayawan (Negros Oriental),014,S 27° W,City Of Bayawan (Negros Oriental)
+2025-11-16T18:40:00.000Z,16 November 2025 - 06:40 PM,07.74,124.42,007,2.3,012km S 40° E of Ganassi (Lanao Del Sur),012,S 40° E,Ganassi (Lanao Del Sur)
 2025-11-16T18:17:00.000Z,16 November 2025 - 06:17 PM,06.52,126.76,044,2.6,068km S 30° E of Tarragona (Davao Oriental),068,S 30° E,Tarragona (Davao Oriental)
 2025-11-16T18:02:00.000Z,16 November 2025 - 06:02 PM,11.16,123.96,012,2.3,013km N 09° W of City Of Bogo (Cebu),013,N 09° W,City Of Bogo (Cebu)
 2025-11-16T16:54:00.000Z,16 November 2025 - 04:54 PM,11.13,123.89,001,2.1,013km N 46° W of City Of Bogo (Cebu),013,N 46° W,City Of Bogo (Cebu)
@@ -59,8 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T20:11:00.000Z,15 November 2025 - 08:11 PM,07.25,126.84,024,2.4,033km N 82° E of Manay (Davao Oriental),033,N 82° E,Manay (Davao Oriental)
 2025-11-15T19:31:00.000Z,15 November 2025 - 07:31 PM,17.99,121.53,033,1.7,011km S 43° W of Lasam (Cagayan),011,S 43° W,Lasam (Cagayan)
 2025-11-15T19:12:00.000Z,15 November 2025 - 07:12 PM,16.26,122.17,036,2.1,005km S 73° E of Casiguran (Aurora),005,S 73° E,Casiguran (Aurora)
-2025-11-15T18:55:00.000Z,15 November 2025 - 06:55 PM,11.14,123.97,007,1.9,010km N 06° W of City Of Bogo (Cebu),010,N 06° W,City Of Bogo (Cebu)
-2025-11-15T18:38:00.000Z,15 November 2025 - 06:38 PM,13.59,120.93,031,1.5,010km N 16° W of Puerto Galera (Oriental Mindoro),010,N 16° W,Puerto Galera (Oriental Mindoro)
-2025-11-15T18:37:00.000Z,15 November 2025 - 06:37 PM,10.02,122.47,008,2.1,018km N 74° W of Cauayan (Negros Occidental),018,N 74° W,Cauayan (Negros Occidental)
-2025-11-15T18:35:00.000Z,15 November 2025 - 06:35 PM,10.94,123.98,030,1.9,012km S 02° E of City Of Bogo (Cebu),012,S 02° E,City Of Bogo (Cebu)
-2025-11-15T18:27:00.000Z,15 November 2025 - 06:27 PM,11.16,123.94,011,2.5,014km N 19° W of City Of Bogo (Cebu),014,N 19° W,City Of Bogo (Cebu)

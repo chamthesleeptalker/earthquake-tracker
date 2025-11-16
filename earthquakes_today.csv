@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T19:03:00.000Z,16 November 2025 - 07:03 PM,09.27,122.73,002,2.4,014km S 27° W of City Of Bayawan (Negros Oriental),014,S 27° W,City Of Bayawan (Negros Oriental)
+2025-11-16T18:40:00.000Z,16 November 2025 - 06:40 PM,07.74,124.42,007,2.3,012km S 40° E of Ganassi (Lanao Del Sur),012,S 40° E,Ganassi (Lanao Del Sur)
 2025-11-16T18:17:00.000Z,16 November 2025 - 06:17 PM,06.52,126.76,044,2.6,068km S 30° E of Tarragona (Davao Oriental),068,S 30° E,Tarragona (Davao Oriental)
 2025-11-16T18:02:00.000Z,16 November 2025 - 06:02 PM,11.16,123.96,012,2.3,013km N 09° W of City Of Bogo (Cebu),013,N 09° W,City Of Bogo (Cebu)
 2025-11-16T16:54:00.000Z,16 November 2025 - 04:54 PM,11.13,123.89,001,2.1,013km N 46° W of City Of Bogo (Cebu),013,N 46° W,City Of Bogo (Cebu)
