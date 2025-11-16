@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T06:53:00.000Z,17 November 2025 - 06:53 AM,09.89,125.42,025,2.2,013km N 01° W of San Francisco (Surigao Del Norte),013,N 01° W,San Francisco (Surigao Del Norte)
 2025-11-17T06:00:00.000Z,17 November 2025 - 06:00 AM,11.11,123.86,033,2.5,015km N 60° W of City Of Bogo (Cebu),015,N 60° W,City Of Bogo (Cebu)
 2025-11-17T05:55:00.000Z,17 November 2025 - 05:55 AM,13.70,120.66,101,1.6,015km S 11° E of Calatagan (Batangas),015,S 11° E,Calatagan (Batangas)
 2025-11-17T05:36:00.000Z,17 November 2025 - 05:36 AM,09.21,126.07,034,1.5,003km S 30° E of Lanuza (Surigao Del Sur),003,S 30° E,Lanuza (Surigao Del Sur)
@@ -59,4 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T07:45:00.000Z,16 November 2025 - 07:45 AM,11.13,124.05,022,1.3,013km N 40° E of City Of Bogo (Cebu),013,N 40° E,City Of Bogo (Cebu)
 2025-11-16T07:20:00.000Z,16 November 2025 - 07:20 AM,11.16,123.91,002,2.7,015km N 30° W of City Of Bogo (Cebu),015,N 30° W,City Of Bogo (Cebu)
 2025-11-16T07:10:00.000Z,16 November 2025 - 07:10 AM,11.15,123.96,011,2.2,012km N 12° W of City Of Bogo (Cebu),012,N 12° W,City Of Bogo (Cebu)
-2025-11-16T06:43:00.000Z,16 November 2025 - 06:43 AM,12.81,121.26,007,1.8,022km S 73° W of Bansud (Oriental Mindoro),022,S 73° W,Bansud (Oriental Mindoro)
