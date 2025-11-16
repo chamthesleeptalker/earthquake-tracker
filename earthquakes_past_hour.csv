@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T16:32:00.000Z,16 November 2025 - 04:32 PM,17.60,120.57,005,2.6,002km N 08° E of Langiden (Abra),002,N 08° E,Langiden (Abra)
+2025-11-16T16:25:00.000Z,16 November 2025 - 04:25 PM,17.65,120.60,009,2.2,006km N 18° W of Bangued (Abra),006,N 18° W,Bangued (Abra)
+2025-11-16T16:15:00.000Z,16 November 2025 - 04:15 PM,11.13,123.95,005,2.8,010km N 19° W of City Of Bogo (Cebu),010,N 19° W,City Of Bogo (Cebu)
 2025-11-16T16:10:00.000Z,16 November 2025 - 04:10 PM,11.10,124.10,031,1.5,014km N 65° E of City Of Bogo (Cebu),014,N 65° E,City Of Bogo (Cebu)
