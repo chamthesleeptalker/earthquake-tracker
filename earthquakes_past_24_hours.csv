@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T23:54:00.000Z,16 November 2025 - 11:54 PM,13.69,120.62,086,1.7,016km S 06° W of Calatagan (Batangas),016,S 06° W,Calatagan (Batangas)
+2025-11-16T23:47:00.000Z,16 November 2025 - 11:47 PM,08.90,126.52,017,2.0,024km S 85° E of Cagwait (Surigao Del Sur),024,S 85° E,Cagwait (Surigao Del Sur)
+2025-11-16T23:35:00.000Z,16 November 2025 - 11:35 PM,10.05,126.41,067,1.4,037km N 84° E of Burgos (Surigao Del Norte),037,N 84° E,Burgos (Surigao Del Norte)
 2025-11-16T23:21:00.000Z,16 November 2025 - 11:21 PM,11.44,125.17,006,1.8,021km N 32° E of Basey (Samar),021,N 32° E,Basey (Samar)
 2025-11-16T23:09:00.000Z,16 November 2025 - 11:09 PM,13.12,120.04,035,1.6,056km S 54° W of Paluan (Occidental Mindoro),056,S 54° W,Paluan (Occidental Mindoro)
 2025-11-16T23:01:00.000Z,16 November 2025 - 11:01 PM,11.72,125.31,019,2.0,016km S 76° W of San Julian (Eastern Samar),016,S 76° W,San Julian (Eastern Samar)
@@ -53,4 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T00:58:00.000Z,16 November 2025 - 12:58 AM,13.78,120.56,094,1.6,010km S 56° W of Calatagan (Batangas),010,S 56° W,Calatagan (Batangas)
 2025-11-16T00:45:00.000Z,16 November 2025 - 12:45 AM,13.70,120.62,101,1.8,015km S 05° W of Calatagan (Batangas),015,S 05° W,Calatagan (Batangas)
 2025-11-16T00:05:00.000Z,16 November 2025 - 12:05 AM,16.50,120.74,012,1.5,010km N 84° W of Bokod (Benguet),010,N 84° W,Bokod (Benguet)
-2025-11-15T23:22:00.000Z,15 November 2025 - 11:22 PM,07.23,126.93,034,1.9,043km N 87° E of Manay (Davao Oriental),043,N 87° E,Manay (Davao Oriental)
