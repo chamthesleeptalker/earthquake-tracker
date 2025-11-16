@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T02:51:00.000Z,17 November 2025 - 02:51 AM,13.27,120.59,004,1.9,005km N 09° W of Mamburao (Occidental Mindoro),005,N 09° W,Mamburao (Occidental Mindoro)
+2025-11-17T02:42:00.000Z,17 November 2025 - 02:42 AM,07.89,126.78,028,1.9,038km N 73° E of Cateel (Davao Oriental),038,N 73° E,Cateel (Davao Oriental)
 2025-11-17T02:15:00.000Z,17 November 2025 - 02:15 AM,08.02,126.85,011,2.2,048km S 88° E of Lingig (Surigao Del Sur),048,S 88° E,Lingig (Surigao Del Sur)
 2025-11-17T02:06:00.000Z,17 November 2025 - 02:06 AM,12.20,124.45,026,2.5,022km S 60° W of Lope De Vega (Northern Samar),022,S 60° W,Lope De Vega (Northern Samar)
 2025-11-17T01:43:00.000Z,17 November 2025 - 01:43 AM,11.07,123.95,007,3.4,004km N 46° W of City Of Bogo (Cebu),004,N 46° W,City Of Bogo (Cebu)
@@ -53,6 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T04:07:00.000Z,16 November 2025 - 04:07 AM,08.95,126.30,056,1.6,003km S 40° E of Bayabas (Surigao Del Sur),003,S 40° E,Bayabas (Surigao Del Sur)
 2025-11-16T03:09:00.000Z,16 November 2025 - 03:09 AM,15.25,119.92,032,1.5,010km S 38° W of Iba (Zambales),010,S 38° W,Iba (Zambales)
 2025-11-16T02:59:00.000Z,16 November 2025 - 02:59 AM,07.13,126.53,012,2.6,009km S 06° W of Manay (Davao Oriental),009,S 06° W,Manay (Davao Oriental)
-2025-11-16T02:24:00.000Z,16 November 2025 - 02:24 AM,09.62,126.22,034,1.5,020km S 22° E of General Luna (Surigao Del Norte),020,S 22° E,General Luna (Surigao Del Norte)
-2025-11-16T02:23:00.000Z,16 November 2025 - 02:23 AM,13.54,120.18,020,2.1,021km S 22° W of Looc (Occidental Mindoro),021,S 22° W,Looc (Occidental Mindoro)
-2025-11-16T02:22:00.000Z,16 November 2025 - 02:22 AM,13.68,120.69,108,1.6,018km S 20° E of Calatagan (Batangas),018,S 20° E,Calatagan (Batangas)
