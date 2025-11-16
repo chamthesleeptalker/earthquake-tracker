@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-16T15:09:00.000Z,16 November 2025 - 03:09 PM,11.14,123.96,010,2.2,010km N 11° W of City Of Bogo (Cebu),010,N 11° W,City Of Bogo (Cebu)
 2025-11-16T14:35:00.000Z,16 November 2025 - 02:35 PM,06.39,126.31,030,4.3,039km S 42° E of Governor Generoso (Davao Oriental),039,S 42° E,Governor Generoso (Davao Oriental)
 2025-11-16T13:56:00.000Z,16 November 2025 - 01:56 PM,09.65,126.20,035,1.7,016km S 19° E of General Luna (Surigao Del Norte),016,S 19° E,General Luna (Surigao Del Norte)
 2025-11-16T13:42:00.000Z,16 November 2025 - 01:42 PM,19.31,121.36,006,2.6,013km N 66° W of Calayan (Cagayan),013,N 66° W,Calayan (Cagayan)
@@ -66,4 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T16:04:00.000Z,15 November 2025 - 04:04 PM,11.16,123.98,012,2.7,012km N 01° W of City Of Bogo (Cebu),012,N 01° W,City Of Bogo (Cebu)
 2025-11-15T15:59:00.000Z,15 November 2025 - 03:59 PM,11.17,123.94,011,2.6,014km N 18° W of City Of Bogo (Cebu),014,N 18° W,City Of Bogo (Cebu)
 2025-11-15T15:38:00.000Z,15 November 2025 - 03:38 PM,11.12,123.94,010,4.8,009km N 28° W of City Of Bogo (Cebu),009,N 28° W,City Of Bogo (Cebu)
-2025-11-15T14:42:00.000Z,15 November 2025 - 02:42 PM,10.16,124.78,025,2.3,007km N 60° W of City Of Maasin  (Southern Leyte),007,N 60° W,City Of Maasin  (Southern Leyte)
