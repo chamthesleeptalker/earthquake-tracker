@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T01:31:00.000Z,18 November 2025 - 01:31 AM,13.65,120.64,103,1.4,020km S 02° E of Calatagan (Batangas),020,S 02° E,Calatagan (Batangas)
+2025-11-18T01:14:00.000Z,18 November 2025 - 01:14 AM,11.14,123.93,006,2.7,011km N 28° W of City Of Bogo (Cebu),011,N 28° W,City Of Bogo (Cebu)
 2025-11-18T01:02:00.000Z,18 November 2025 - 01:02 AM,11.01,124.02,003,3.4,006km S 42° E of City Of Bogo (Cebu),006,S 42° E,City Of Bogo (Cebu)
 2025-11-18T00:56:00.000Z,18 November 2025 - 12:56 AM,17.49,122.49,028,2.3,027km N 49° E of Divilacan (Isabela),027,N 49° E,Divilacan (Isabela)
