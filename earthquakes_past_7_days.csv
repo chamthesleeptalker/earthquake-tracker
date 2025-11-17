@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T03:54:00.000Z,18 November 2025 - 03:54 AM,08.44,125.78,033,1.7,001km S 53° W of Talacogon (Agusan Del Sur),001,S 53° W,Talacogon (Agusan Del Sur)
 2025-11-18T02:50:00.000Z,18 November 2025 - 02:50 AM,06.95,127.57,027,3.3,117km S 76° E of Manay (Davao Oriental),117,S 76° E,Manay (Davao Oriental)
 2025-11-18T02:46:00.000Z,18 November 2025 - 02:46 AM,09.37,122.40,019,2.2,026km S 17° W of Hinoba-an (Negros Occidental),026,S 17° W,Hinoba-an (Negros Occidental)
 2025-11-18T02:32:00.000Z,18 November 2025 - 02:32 AM,11.04,124.10,010,1.6,013km S 87° E of City Of Bogo (Cebu),013,S 87° E,City Of Bogo (Cebu)
@@ -434,7 +435,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T19:05:00.000Z,11 November 2025 - 07:05 PM,10.91,123.90,004,2.5,017km S 30° W of City Of Bogo (Cebu),017,S 30° W,City Of Bogo (Cebu)
 2025-11-11T19:02:00.000Z,11 November 2025 - 07:02 PM,10.92,123.91,004,3.1,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
 2025-11-11T18:29:00.000Z,11 November 2025 - 06:29 PM,08.53,124.72,004,2.3,004km S 81° W of Tagoloan (Misamis Oriental),004,S 81° W,Tagoloan (Misamis Oriental)
-2025-11-11T03:46:00.000Z,11 November 2025 - 03:46 AM,09.64,126.16,050,1.9,016km S 03° E of General Luna (Surigao Del Norte),016,S 03° E,General Luna (Surigao Del Norte)
 2025-11-11T15:23:00.000Z,11 November 2025 - 03:23 PM,10.17,122.29,003,2.8,042km N 60° W of Cauayan (Negros Occidental),042,N 60° W,Cauayan (Negros Occidental)
 2025-11-11T14:24:00.000Z,11 November 2025 - 02:24 PM,05.99,125.52,080,2.5,016km N 60° W of Jose Abad Santos (Davao Occidental),016,N 60° W,Jose Abad Santos (Davao Occidental)
 2025-11-11T14:04:00.000Z,11 November 2025 - 02:04 PM,11.07,124.06,027,1.9,009km N 75° E of City Of Bogo (Cebu),009,N 75° E,City Of Bogo (Cebu)
@@ -463,6 +463,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T04:42:00.000Z,11 November 2025 - 04:42 AM,11.16,123.90,004,2.8,015km N 36° W of City Of Bogo (Cebu),015,N 36° W,City Of Bogo (Cebu)
 2025-11-11T04:30:00.000Z,11 November 2025 - 04:30 AM,15.70,121.98,013,2.7,046km S 82° E of Baler (Aurora),046,S 82° E,Baler (Aurora)
 2025-11-11T03:55:00.000Z,11 November 2025 - 03:55 AM,07.01,126.68,010,2.5,027km S 36° E of Manay (Davao Oriental),027,S 36° E,Manay (Davao Oriental)
-2025-11-11T03:49:00.000Z,11 November 2025 - 03:49 AM,10.26,125.98,036,1.8,028km N 14° W of Santa Monica (Surigao Del Norte),028,N 14° W,Santa Monica (Surigao Del Norte)
-2025-11-11T03:47:00.000Z,11 November 2025 - 03:47 AM,09.65,126.18,034,1.9,015km S 11° E of General Luna (Surigao Del Norte),015,S 11° E,General Luna (Surigao Del Norte)
-2025-11-11T03:07:00.000Z,11 November 2025 - 03:07 AM,05.66,125.52,037,2.4,021km N 16° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 16° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
