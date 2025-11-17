@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T21:20:00.000Z,17 November 2025 - 09:20 PM,15.44,121.89,011,2.3,049km S 45° E of Baler (Aurora),049,S 45° E,Baler (Aurora)
+2025-11-17T21:09:00.000Z,17 November 2025 - 09:09 PM,08.69,126.22,036,1.5,006km S 01° E of San Agustin (Surigao Del Sur),006,S 01° E,San Agustin (Surigao Del Sur)
+2025-11-17T21:08:00.000Z,17 November 2025 - 09:08 PM,07.91,127.09,014,1.9,068km N 58° E of Baganga (Davao Oriental),068,N 58° E,Baganga (Davao Oriental)
+2025-11-17T20:47:00.000Z,17 November 2025 - 08:47 PM,07.28,126.68,027,2.5,017km N 64° E of Manay (Davao Oriental),017,N 64° E,Manay (Davao Oriental)
 2025-11-17T20:22:00.000Z,17 November 2025 - 08:22 PM,07.04,126.82,055,2.4,036km S 58° E of Manay (Davao Oriental),036,S 58° E,Manay (Davao Oriental)
 2025-11-17T19:37:00.000Z,17 November 2025 - 07:37 PM,07.38,127.25,011,4.0,081km N 77° E of Manay (Davao Oriental),081,N 77° E,Manay (Davao Oriental)
 2025-11-17T19:27:00.000Z,17 November 2025 - 07:27 PM,09.66,126.24,034,2.1,016km S 33° E of General Luna (Surigao Del Norte),016,S 33° E,General Luna (Surigao Del Norte)

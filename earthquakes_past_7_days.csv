@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T21:20:00.000Z,17 November 2025 - 09:20 PM,15.44,121.89,011,2.3,049km S 45° E of Baler (Aurora),049,S 45° E,Baler (Aurora)
+2025-11-17T21:09:00.000Z,17 November 2025 - 09:09 PM,08.69,126.22,036,1.5,006km S 01° E of San Agustin (Surigao Del Sur),006,S 01° E,San Agustin (Surigao Del Sur)
+2025-11-17T21:08:00.000Z,17 November 2025 - 09:08 PM,07.91,127.09,014,1.9,068km N 58° E of Baganga (Davao Oriental),068,N 58° E,Baganga (Davao Oriental)
+2025-11-17T20:47:00.000Z,17 November 2025 - 08:47 PM,07.28,126.68,027,2.5,017km N 64° E of Manay (Davao Oriental),017,N 64° E,Manay (Davao Oriental)
 2025-11-17T20:22:00.000Z,17 November 2025 - 08:22 PM,07.04,126.82,055,2.4,036km S 58° E of Manay (Davao Oriental),036,S 58° E,Manay (Davao Oriental)
 2025-11-17T19:37:00.000Z,17 November 2025 - 07:37 PM,07.38,127.25,011,4.0,081km N 77° E of Manay (Davao Oriental),081,N 77° E,Manay (Davao Oriental)
 2025-11-17T19:27:00.000Z,17 November 2025 - 07:27 PM,09.66,126.24,034,2.1,016km S 33° E of General Luna (Surigao Del Norte),016,S 33° E,General Luna (Surigao Del Norte)
@@ -447,5 +451,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T01:16:00.000Z,11 November 2025 - 01:16 AM,13.55,120.59,002,2.2,019km N 50° W of Abra De Ilog (Occidental Mindoro),019,N 50° W,Abra De Ilog (Occidental Mindoro)
 2025-11-11T00:12:00.000Z,11 November 2025 - 12:12 AM,10.95,123.92,001,2.6,013km S 30° W of City Of Bogo (Cebu),013,S 30° W,City Of Bogo (Cebu)
 2025-11-10T23:39:00.000Z,10 November 2025 - 11:39 PM,07.25,123.63,007,2.5,034km S 46° E of Tabina (Zamboanga Del Sur),034,S 46° E,Tabina (Zamboanga Del Sur)
-2025-11-10T21:14:00.000Z,10 November 2025 - 09:14 PM,09.65,126.15,029,2.1,015km S 03° W of General Luna (Surigao Del Norte),015,S 03° W,General Luna (Surigao Del Norte)
-2025-11-10T21:02:00.000Z,10 November 2025 - 09:02 PM,07.58,126.54,021,2.4,003km N 72° W of Baganga (Davao Oriental),003,N 72° W,Baganga (Davao Oriental)
