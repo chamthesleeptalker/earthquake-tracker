@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T07:23:00.000Z,18 November 2025 - 07:23 AM,09.97,126.14,013,3.6,007km N 58° E of San Isidro (Surigao Del Norte),007,N 58° E,San Isidro (Surigao Del Norte)
 2025-11-18T07:03:00.000Z,18 November 2025 - 07:03 AM,11.25,124.18,004,2.0,031km N 45° E of City Of Bogo (Cebu),031,N 45° E,City Of Bogo (Cebu)
 2025-11-18T06:09:00.000Z,18 November 2025 - 06:09 AM,11.11,123.94,003,2.7,008km N 31° W of City Of Bogo (Cebu),008,N 31° W,City Of Bogo (Cebu)
 2025-11-18T05:55:00.000Z,18 November 2025 - 05:55 AM,10.98,123.95,002,2.0,008km S 20° W of City Of Bogo (Cebu),008,S 20° W,City Of Bogo (Cebu)
