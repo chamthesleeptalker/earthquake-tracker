@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T12:55:00.000Z,17 November 2025 - 12:55 PM,07.45,126.83,026,2.9,042km N 51° E of Manay (Davao Oriental),042,N 51° E,Manay (Davao Oriental)
+2025-11-17T12:52:00.000Z,17 November 2025 - 12:52 PM,09.98,124.23,006,1.8,004km N 23° E of Danao (Bohol),004,N 23° E,Danao (Bohol)
 2025-11-17T12:09:00.000Z,17 November 2025 - 12:09 PM,08.05,123.20,033,1.3,013km N 78° W of Midsalip (Zamboanga Del Sur),013,N 78° W,Midsalip (Zamboanga Del Sur)
 2025-11-17T12:09:00.000Z,17 November 2025 - 12:09 PM,08.05,123.20,033,1.3,013km N 78° W of Midsalip (Zamboanga Del Sur),013,N 78° W,Midsalip (Zamboanga Del Sur)
 2025-11-17T11:59:00.000Z,17 November 2025 - 11:59 AM,07.30,126.92,028,2.3,043km N 77° E of Manay (Davao Oriental),043,N 77° E,Manay (Davao Oriental)
@@ -447,4 +449,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-10T14:38:00.000Z,10 November 2025 - 02:38 PM,07.48,126.77,030,3.1,039km N 41° E of Manay (Davao Oriental),039,N 41° E,Manay (Davao Oriental)
 2025-11-10T14:38:00.000Z,10 November 2025 - 02:38 PM,07.48,126.77,030,3.1,039km N 41° E of Manay (Davao Oriental),039,N 41° E,Manay (Davao Oriental)
 2025-11-10T14:38:00.000Z,10 November 2025 - 02:38 PM,07.48,126.77,030,3.1,039km N 41° E of Manay (Davao Oriental),039,N 41° E,Manay (Davao Oriental)
-2025-11-10T12:09:00.000Z,10 November 2025 - 12:09 PM,06.68,125.71,047,2.0,030km N 62° E of Santa Maria (Davao Occidental),030,N 62° E,Santa Maria (Davao Occidental)
