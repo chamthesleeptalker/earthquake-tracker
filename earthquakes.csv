@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T01:02:00.000Z,18 November 2025 - 01:02 AM,11.01,124.02,003,3.4,006km S 42° E of City Of Bogo (Cebu),006,S 42° E,City Of Bogo (Cebu)
+2025-11-18T00:56:00.000Z,18 November 2025 - 12:56 AM,17.49,122.49,028,2.3,027km N 49° E of Divilacan (Isabela),027,N 49° E,Divilacan (Isabela)
 2025-11-17T23:08:00.000Z,17 November 2025 - 11:08 PM,11.16,124.15,002,2.3,023km N 56° E of City Of Bogo (Cebu),023,N 56° E,City Of Bogo (Cebu)
 2025-11-17T22:50:00.000Z,17 November 2025 - 10:50 PM,12.81,121.27,031,2.1,021km S 74° W of Bansud (Oriental Mindoro),021,S 74° W,Bansud (Oriental Mindoro)
 2025-11-17T22:27:00.000Z,17 November 2025 - 10:27 PM,18.21,120.85,005,2.6,009km N 21° E of Carasi (Ilocos Norte),009,N 21° E,Carasi (Ilocos Norte)
