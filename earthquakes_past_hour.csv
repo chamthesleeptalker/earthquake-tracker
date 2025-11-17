@@ -1,3 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T05:04:00.000Z,18 November 2025 - 05:04 AM,06.63,126.38,032,2.9,035km S 85° E of Governor Generoso (Davao Oriental),035,S 85° E,Governor Generoso (Davao Oriental)
+2025-11-18T04:56:00.000Z,18 November 2025 - 04:56 AM,08.28,126.59,033,2.3,029km S 70° E of Hinatuan (Surigao Del Sur),029,S 70° E,Hinatuan (Surigao Del Sur)
+2025-11-18T04:48:00.000Z,18 November 2025 - 04:48 AM,16.02,120.56,110,2.5,002km N 38° W of City Of Urdaneta (Pangasinan),002,N 38° W,City Of Urdaneta (Pangasinan)
+2025-11-18T04:47:00.000Z,18 November 2025 - 04:47 AM,18.89,120.58,033,2.9,043km N 09° W of Burgos (Ilocos Norte),043,N 09° W,Burgos (Ilocos Norte)
+2025-11-18T04:35:00.000Z,18 November 2025 - 04:35 AM,09.65,126.22,034,2.1,016km S 26° E of General Luna (Surigao Del Norte),016,S 26° E,General Luna (Surigao Del Norte)
+2025-11-18T04:33:00.000Z,18 November 2025 - 04:33 AM,09.73,126.09,028,1.9,009km S 54° W of General Luna (Surigao Del Norte),009,S 54° W,General Luna (Surigao Del Norte)
+2025-11-18T04:32:00.000Z,18 November 2025 - 04:32 AM,11.12,124.00,011,2.4,009km N 18° E of City Of Bogo (Cebu),009,N 18° E,City Of Bogo (Cebu)
+2025-11-18T04:31:00.000Z,18 November 2025 - 04:31 AM,13.96,120.47,019,1.4,022km N 51° W of Calatagan (Batangas),022,N 51° W,Calatagan (Batangas)
 2025-11-18T04:18:00.000Z,18 November 2025 - 04:18 AM,13.73,120.62,100,1.6,012km S 04° W of Calatagan (Batangas),012,S 04° W,Calatagan (Batangas)
-2025-11-18T03:54:00.000Z,18 November 2025 - 03:54 AM,08.44,125.78,033,1.7,001km S 53° W of Talacogon (Agusan Del Sur),001,S 53° W,Talacogon (Agusan Del Sur)
