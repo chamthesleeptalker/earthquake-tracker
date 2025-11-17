@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T20:22:00.000Z,17 November 2025 - 08:22 PM,07.04,126.82,055,2.4,036km S 58° E of Manay (Davao Oriental),036,S 58° E,Manay (Davao Oriental)
+2025-11-17T19:37:00.000Z,17 November 2025 - 07:37 PM,07.38,127.25,011,4.0,081km N 77° E of Manay (Davao Oriental),081,N 77° E,Manay (Davao Oriental)
 2025-11-17T19:27:00.000Z,17 November 2025 - 07:27 PM,09.66,126.24,034,2.1,016km S 33° E of General Luna (Surigao Del Norte),016,S 33° E,General Luna (Surigao Del Norte)
 2025-11-17T19:20:00.000Z,17 November 2025 - 07:20 PM,11.05,124.04,004,2.3,007km N 86° E of City Of Bogo (Cebu),007,N 86° E,City Of Bogo (Cebu)
 2025-11-17T18:34:00.000Z,17 November 2025 - 06:34 PM,07.38,126.66,032,1.8,023km N 35° E of Manay (Davao Oriental),023,N 35° E,Manay (Davao Oriental)
@@ -447,4 +449,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-10T23:39:00.000Z,10 November 2025 - 11:39 PM,07.25,123.63,007,2.5,034km S 46° E of Tabina (Zamboanga Del Sur),034,S 46° E,Tabina (Zamboanga Del Sur)
 2025-11-10T21:14:00.000Z,10 November 2025 - 09:14 PM,09.65,126.15,029,2.1,015km S 03° W of General Luna (Surigao Del Norte),015,S 03° W,General Luna (Surigao Del Norte)
 2025-11-10T21:02:00.000Z,10 November 2025 - 09:02 PM,07.58,126.54,021,2.4,003km N 72° W of Baganga (Davao Oriental),003,N 72° W,Baganga (Davao Oriental)
-2025-11-10T19:37:00.000Z,10 November 2025 - 07:37 PM,11.07,124.11,002,2.5,014km N 78° E of City Of Bogo (Cebu),014,N 78° E,City Of Bogo (Cebu)
