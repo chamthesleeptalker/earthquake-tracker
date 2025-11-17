@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T22:27:00.000Z,17 November 2025 - 10:27 PM,18.21,120.85,005,2.6,009km N 21° E of Carasi (Ilocos Norte),009,N 21° E,Carasi (Ilocos Norte)
+2025-11-17T22:24:00.000Z,17 November 2025 - 10:24 PM,11.12,124.03,026,1.8,010km N 34° E of City Of Bogo (Cebu),010,N 34° E,City Of Bogo (Cebu)
+2025-11-17T22:10:00.000Z,17 November 2025 - 10:10 PM,11.08,124.13,035,2.3,017km N 79° E of City Of Bogo (Cebu),017,N 79° E,City Of Bogo (Cebu)
 2025-11-17T21:58:00.000Z,17 November 2025 - 09:58 PM,11.00,124.11,004,2.1,015km S 71° E of City Of Bogo (Cebu),015,S 71° E,City Of Bogo (Cebu)
 2025-11-17T21:54:00.000Z,17 November 2025 - 09:54 PM,09.78,126.12,033,1.8,005km S 82° W of General Luna (Surigao Del Norte),005,S 82° W,General Luna (Surigao Del Norte)
 2025-11-17T21:52:00.000Z,17 November 2025 - 09:52 PM,15.42,121.80,023,2.2,045km S 34° E of Baler (Aurora),045,S 34° E,Baler (Aurora)
@@ -62,5 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T23:21:00.000Z,16 November 2025 - 11:21 PM,11.44,125.17,006,1.8,021km N 32° E of Basey (Samar),021,N 32° E,Basey (Samar)
 2025-11-16T23:09:00.000Z,16 November 2025 - 11:09 PM,13.12,120.04,035,1.6,056km S 54° W of Paluan (Occidental Mindoro),056,S 54° W,Paluan (Occidental Mindoro)
 2025-11-16T23:01:00.000Z,16 November 2025 - 11:01 PM,11.72,125.31,019,2.0,016km S 76° W of San Julian (Eastern Samar),016,S 76° W,San Julian (Eastern Samar)
-2025-11-16T22:16:00.000Z,16 November 2025 - 10:16 PM,09.65,126.18,029,2.9,015km S 09° E of General Luna (Surigao Del Norte),015,S 09° E,General Luna (Surigao Del Norte)
-2025-11-16T22:13:00.000Z,16 November 2025 - 10:13 PM,16.03,120.03,023,1.8,008km S 58° W of Sual (Pangasinan),008,S 58° W,Sual (Pangasinan)
