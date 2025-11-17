@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T05:27:00.000Z,18 November 2025 - 05:27 AM,05.17,121.95,046,3.1,101km S 11° E of Banguingui (Sulu),101,S 11° E,Banguingui (Sulu)
 2025-11-18T05:04:00.000Z,18 November 2025 - 05:04 AM,06.63,126.38,032,2.9,035km S 85° E of Governor Generoso (Davao Oriental),035,S 85° E,Governor Generoso (Davao Oriental)
 2025-11-18T04:56:00.000Z,18 November 2025 - 04:56 AM,08.28,126.59,033,2.3,029km S 70° E of Hinatuan (Surigao Del Sur),029,S 70° E,Hinatuan (Surigao Del Sur)
 2025-11-18T04:48:00.000Z,18 November 2025 - 04:48 AM,16.02,120.56,110,2.5,002km N 38° W of City Of Urdaneta (Pangasinan),002,N 38° W,City Of Urdaneta (Pangasinan)
@@ -466,4 +467,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T05:31:00.000Z,11 November 2025 - 05:31 AM,11.13,124.00,016,1.8,009km N 11° E of City Of Bogo (Cebu),009,N 11° E,City Of Bogo (Cebu)
 2025-11-11T05:29:00.000Z,11 November 2025 - 05:29 AM,07.51,126.83,028,2.4,046km N 44° E of Manay (Davao Oriental),046,N 44° E,Manay (Davao Oriental)
 2025-11-11T05:28:00.000Z,11 November 2025 - 05:28 AM,10.92,123.95,003,2.8,014km S 11° W of City Of Bogo (Cebu),014,S 11° W,City Of Bogo (Cebu)
-2025-11-11T05:11:00.000Z,11 November 2025 - 05:11 AM,10.97,123.88,007,3.2,014km S 52° W of City Of Bogo (Cebu),014,S 52° W,City Of Bogo (Cebu)
