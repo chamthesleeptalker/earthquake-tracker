@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T10:49:00.000Z,17 November 2025 - 10:49 AM,07.93,126.75,020,2.2,036km N 66° E of Cateel (Davao Oriental),036,N 66° E,Cateel (Davao Oriental)
 2025-11-17T08:46:00.000Z,17 November 2025 - 08:46 AM,16.11,120.71,033,2.1,007km N 42° E of San Manuel (Pangasinan),007,N 42° E,San Manuel (Pangasinan)
 2025-11-17T07:50:00.000Z,17 November 2025 - 07:50 AM,09.96,126.56,015,3.1,048km N 66° E of General Luna (Surigao Del Norte),048,N 66° E,General Luna (Surigao Del Norte)
 2025-11-17T06:53:00.000Z,17 November 2025 - 06:53 AM,09.89,125.42,025,2.2,013km N 01° W of San Francisco (Surigao Del Norte),013,N 01° W,San Francisco (Surigao Del Norte)
@@ -53,5 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T11:22:00.000Z,16 November 2025 - 11:22 AM,11.15,123.94,008,1.4,012km N 20° W of City Of Bogo (Cebu),012,N 20° W,City Of Bogo (Cebu)
 2025-11-16T11:22:00.000Z,16 November 2025 - 11:22 AM,07.68,122.16,007,1.4,011km N 10° E of Sirawai (Zamboanga Del Norte),011,N 10° E,Sirawai (Zamboanga Del Norte)
 2025-11-16T11:11:00.000Z,16 November 2025 - 11:11 AM,07.46,122.25,001,1.7,018km S 43° E of Sirawai (Zamboanga Del Norte),018,S 43° E,Sirawai (Zamboanga Del Norte)
-2025-11-16T10:40:00.000Z,16 November 2025 - 10:40 AM,07.23,126.55,009,2.1,003km N 31° E of Manay (Davao Oriental),003,N 31° E,Manay (Davao Oriental)
-2025-11-16T10:36:00.000Z,16 November 2025 - 10:36 AM,11.06,124.02,024,2.1,005km N 75° E of City Of Bogo (Cebu),005,N 75° E,City Of Bogo (Cebu)
