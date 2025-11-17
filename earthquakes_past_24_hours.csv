@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T02:50:00.000Z,18 November 2025 - 02:50 AM,06.95,127.57,027,3.3,117km S 76° E of Manay (Davao Oriental),117,S 76° E,Manay (Davao Oriental)
+2025-11-18T02:46:00.000Z,18 November 2025 - 02:46 AM,09.37,122.40,019,2.2,026km S 17° W of Hinoba-an (Negros Occidental),026,S 17° W,Hinoba-an (Negros Occidental)
 2025-11-18T02:32:00.000Z,18 November 2025 - 02:32 AM,11.04,124.10,010,1.6,013km S 87° E of City Of Bogo (Cebu),013,S 87° E,City Of Bogo (Cebu)
 2025-11-18T02:25:00.000Z,18 November 2025 - 02:25 AM,10.15,126.03,033,2.1,014km N 05° W of Santa Monica (Surigao Del Norte),014,N 05° W,Santa Monica (Surigao Del Norte)
 2025-11-18T02:02:00.000Z,18 November 2025 - 02:02 AM,15.84,119.68,017,2.4,025km N 87° W of Infanta (Pangasinan),025,N 87° W,Infanta (Pangasinan)
@@ -63,4 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T03:24:00.000Z,17 November 2025 - 03:24 AM,11.28,124.07,033,1.9,028km N 22° E of City Of Bogo (Cebu),028,N 22° E,City Of Bogo (Cebu)
 2025-11-17T03:17:00.000Z,17 November 2025 - 03:17 AM,16.06,119.95,034,2.2,002km S 51° E of Mabini (Pangasinan),002,S 51° E,Mabini (Pangasinan)
 2025-11-17T02:51:00.000Z,17 November 2025 - 02:51 AM,13.27,120.59,004,1.9,005km N 09° W of Mamburao (Occidental Mindoro),005,N 09° W,Mamburao (Occidental Mindoro)
-2025-11-17T02:42:00.000Z,17 November 2025 - 02:42 AM,07.89,126.78,028,1.9,038km N 73° E of Cateel (Davao Oriental),038,N 73° E,Cateel (Davao Oriental)
