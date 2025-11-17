@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T05:55:00.000Z,18 November 2025 - 05:55 AM,10.98,123.95,002,2.0,008km S 20° W of City Of Bogo (Cebu),008,S 20° W,City Of Bogo (Cebu)
+2025-11-18T05:52:00.000Z,18 November 2025 - 05:52 AM,05.89,126.02,140,3.4,041km S 86° E of Jose Abad Santos (Davao Occidental),041,S 86° E,Jose Abad Santos (Davao Occidental)
 2025-11-18T05:27:00.000Z,18 November 2025 - 05:27 AM,05.17,121.95,046,3.1,101km S 11° E of Banguingui (Sulu),101,S 11° E,Banguingui (Sulu)
 2025-11-18T05:04:00.000Z,18 November 2025 - 05:04 AM,06.63,126.38,032,2.9,035km S 85° E of Governor Generoso (Davao Oriental),035,S 85° E,Governor Generoso (Davao Oriental)
 2025-11-18T04:56:00.000Z,18 November 2025 - 04:56 AM,08.28,126.59,033,2.3,029km S 70° E of Hinatuan (Surigao Del Sur),029,S 70° E,Hinatuan (Surigao Del Sur)
@@ -61,5 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T06:53:00.000Z,17 November 2025 - 06:53 AM,09.89,125.42,025,2.2,013km N 01° W of San Francisco (Surigao Del Norte),013,N 01° W,San Francisco (Surigao Del Norte)
 2025-11-17T06:00:00.000Z,17 November 2025 - 06:00 AM,11.11,123.86,033,2.5,015km N 60° W of City Of Bogo (Cebu),015,N 60° W,City Of Bogo (Cebu)
 2025-11-17T05:55:00.000Z,17 November 2025 - 05:55 AM,13.70,120.66,101,1.6,015km S 11° E of Calatagan (Batangas),015,S 11° E,Calatagan (Batangas)
-2025-11-17T05:36:00.000Z,17 November 2025 - 05:36 AM,09.21,126.07,034,1.5,003km S 30° E of Lanuza (Surigao Del Sur),003,S 30° E,Lanuza (Surigao Del Sur)
-2025-11-17T05:36:00.000Z,17 November 2025 - 05:36 AM,10.44,121.69,003,2.8,025km N 87° W of Anini-y (Antique),025,N 87° W,Anini-y (Antique)
