@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-17T16:26:00.000Z,17 November 2025 - 04:26 PM,11.17,124.09,005,2.0,019km N 42° E of City Of Bogo (Cebu),019,N 42° E,City Of Bogo (Cebu)
 2025-11-17T16:11:00.000Z,17 November 2025 - 04:11 PM,09.62,126.20,033,1.4,018km S 16° E of General Luna (Surigao Del Norte),018,S 16° E,General Luna (Surigao Del Norte)
 2025-11-17T15:39:00.000Z,17 November 2025 - 03:39 PM,15.42,119.77,024,2.2,015km S 83° W of Palauig (Zambales),015,S 83° W,Palauig (Zambales)
 2025-11-17T14:54:00.000Z,17 November 2025 - 02:54 PM,09.64,126.21,032,1.3,017km S 19° E of General Luna (Surigao Del Norte),017,S 19° E,General Luna (Surigao Del Norte)
@@ -57,5 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T18:02:00.000Z,16 November 2025 - 06:02 PM,11.16,123.96,012,2.3,013km N 09° W of City Of Bogo (Cebu),013,N 09° W,City Of Bogo (Cebu)
 2025-11-16T16:54:00.000Z,16 November 2025 - 04:54 PM,11.13,123.89,001,2.1,013km N 46° W of City Of Bogo (Cebu),013,N 46° W,City Of Bogo (Cebu)
 2025-11-16T16:32:00.000Z,16 November 2025 - 04:32 PM,17.60,120.57,005,2.6,002km N 08° E of Langiden (Abra),002,N 08° E,Langiden (Abra)
-2025-11-16T16:25:00.000Z,16 November 2025 - 04:25 PM,17.65,120.60,009,2.2,006km N 18° W of Bangued (Abra),006,N 18° W,Bangued (Abra)
-2025-11-16T16:15:00.000Z,16 November 2025 - 04:15 PM,11.13,123.95,005,2.8,010km N 19° W of City Of Bogo (Cebu),010,N 19° W,City Of Bogo (Cebu)
