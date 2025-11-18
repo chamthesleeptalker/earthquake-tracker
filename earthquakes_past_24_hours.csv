@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T00:07:00.000Z,19 November 2025 - 12:07 AM,18.30,120.76,009,2.5,014km N 56° E of Vintar (Ilocos Norte),014,N 56° E,Vintar (Ilocos Norte)
+2025-11-18T23:43:00.000Z,18 November 2025 - 11:43 PM,09.09,126.14,028,2.1,004km N 68° W of City Of Tandag (Surigao Del Sur),004,N 68° W,City Of Tandag (Surigao Del Sur)
 2025-11-18T23:12:00.000Z,18 November 2025 - 11:12 PM,09.67,126.28,026,3.6,018km S 47° E of General Luna (Surigao Del Norte),018,S 47° E,General Luna (Surigao Del Norte)
 2025-11-18T23:08:00.000Z,18 November 2025 - 11:08 PM,07.38,127.11,024,2.3,066km N 74° E of Manay (Davao Oriental),066,N 74° E,Manay (Davao Oriental)
 2025-11-18T23:02:00.000Z,18 November 2025 - 11:02 PM,11.19,124.07,033,1.6,018km N 31° E of City Of Bogo (Cebu),018,N 31° E,City Of Bogo (Cebu)
