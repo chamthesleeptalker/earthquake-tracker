@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T18:06:00.000Z,18 November 2025 - 06:06 PM,12.70,125.79,028,1.8,063km N 67° E of Mapanas (Northern Samar),063,N 67° E,Mapanas (Northern Samar)
+2025-11-18T17:51:00.000Z,18 November 2025 - 05:51 PM,06.77,124.20,011,1.8,011km S 35° E of South Upi (Maguindanao Del Sur),011,S 35° E,South Upi (Maguindanao Del Sur)
 2025-11-18T17:10:00.000Z,18 November 2025 - 05:10 PM,15.30,119.81,032,1.5,018km S 80° W of Iba (Zambales),018,S 80° W,Iba (Zambales)
 2025-11-18T16:56:00.000Z,18 November 2025 - 04:56 PM,07.37,126.64,020,1.6,021km N 32° E of Manay (Davao Oriental),021,N 32° E,Manay (Davao Oriental)
 2025-11-18T16:32:00.000Z,18 November 2025 - 04:32 PM,11.24,124.02,028,1.3,022km N 12° E of City Of Bogo (Cebu),022,N 12° E,City Of Bogo (Cebu)
@@ -75,4 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T19:20:00.000Z,17 November 2025 - 07:20 PM,11.05,124.04,004,2.3,007km N 86° E of City Of Bogo (Cebu),007,N 86° E,City Of Bogo (Cebu)
 2025-11-17T18:34:00.000Z,17 November 2025 - 06:34 PM,07.38,126.66,032,1.8,023km N 35° E of Manay (Davao Oriental),023,N 35° E,Manay (Davao Oriental)
 2025-11-17T18:11:00.000Z,17 November 2025 - 06:11 PM,11.04,124.05,033,2.0,008km S 87° E of City Of Bogo (Cebu),008,S 87° E,City Of Bogo (Cebu)
-2025-11-17T17:54:00.000Z,17 November 2025 - 05:54 PM,13.59,120.64,112,4.2,018km N 30° W of Abra De Ilog (Occidental Mindoro),018,N 30° W,Abra De Ilog (Occidental Mindoro)
