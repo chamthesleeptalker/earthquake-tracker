@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T10:29:00.000Z,18 November 2025 - 10:29 AM,07.17,127.19,045,2.5,072km S 87° E of Manay (Davao Oriental),072,S 87° E,Manay (Davao Oriental)
+2025-11-18T09:28:00.000Z,18 November 2025 - 09:28 AM,13.41,124.99,033,2.5,072km S 68° E of Baras (Catanduanes),072,S 68° E,Baras (Catanduanes)
 2025-11-18T08:35:00.000Z,18 November 2025 - 08:35 AM,12.13,124.30,033,2.1,018km N 58° E of Tagapul-an (Samar),018,N 58° E,Tagapul-an (Samar)
 2025-11-18T08:30:00.000Z,18 November 2025 - 08:30 AM,09.63,126.26,033,1.4,020km S 33° E of General Luna (Surigao Del Norte),020,S 33° E,General Luna (Surigao Del Norte)
 2025-11-18T08:28:00.000Z,18 November 2025 - 08:28 AM,09.56,126.18,002,3.2,025km S 05° E of General Luna (Surigao Del Norte),025,S 05° E,General Luna (Surigao Del Norte)
@@ -464,6 +466,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T12:36:00.000Z,11 November 2025 - 12:36 PM,08.03,125.98,032,1.6,006km S 30° E of Veruela (Agusan Del Sur),006,S 30° E,Veruela (Agusan Del Sur)
 2025-11-11T12:03:00.000Z,11 November 2025 - 12:03 PM,10.48,123.41,093,2.1,001km South of City Of San Carlos (Negros Occidental),001,South of City,San Carlos (Negros Occidental)
 2025-11-11T11:26:00.000Z,11 November 2025 - 11:26 AM,09.67,126.23,035,1.9,015km S 34° E of General Luna (Surigao Del Norte),015,S 34° E,General Luna (Surigao Del Norte)
-2025-11-11T09:25:00.000Z,11 November 2025 - 09:25 AM,06.66,127.56,032,3.0,128km S 62° E of Manay (Davao Oriental),128,S 62° E,Manay (Davao Oriental)
-2025-11-11T09:06:00.000Z,11 November 2025 - 09:06 AM,11.16,124.11,010,2.2,019km N 49° E of City Of Bogo (Cebu),019,N 49° E,City Of Bogo (Cebu)
-2025-11-11T08:57:00.000Z,11 November 2025 - 08:57 AM,07.63,126.13,006,2.4,007km S 50° E of Compostela (Davao De Oro),007,S 50° E,Compostela (Davao De Oro)
