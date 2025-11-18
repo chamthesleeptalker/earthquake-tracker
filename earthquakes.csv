@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T08:35:00.000Z,18 November 2025 - 08:35 AM,12.13,124.30,033,2.1,018km N 58° E of Tagapul-an (Samar),018,N 58° E,Tagapul-an (Samar)
+2025-11-18T08:30:00.000Z,18 November 2025 - 08:30 AM,09.63,126.26,033,1.4,020km S 33° E of General Luna (Surigao Del Norte),020,S 33° E,General Luna (Surigao Del Norte)
+2025-11-18T08:28:00.000Z,18 November 2025 - 08:28 AM,09.56,126.18,002,3.2,025km S 05° E of General Luna (Surigao Del Norte),025,S 05° E,General Luna (Surigao Del Norte)
+2025-11-18T08:26:00.000Z,18 November 2025 - 08:26 AM,08.26,122.76,029,2.2,016km N 01° W of Salug (Zamboanga Del Norte),016,N 01° W,Salug (Zamboanga Del Norte)
+2025-11-18T08:18:00.000Z,18 November 2025 - 08:18 AM,13.72,120.56,090,1.7,014km S 32° W of Calatagan (Batangas),014,S 32° W,Calatagan (Batangas)
+2025-11-18T08:18:00.000Z,18 November 2025 - 08:18 AM,07.34,127.22,032,2.3,077km N 79° E of Manay (Davao Oriental),077,N 79° E,Manay (Davao Oriental)
+2025-11-18T08:16:00.000Z,18 November 2025 - 08:16 AM,14.07,120.46,111,1.4,019km S 88° W of Nasugbu (Batangas),019,S 88° W,Nasugbu (Batangas)
+2025-11-18T07:47:00.000Z,18 November 2025 - 07:47 AM,07.44,127.18,023,3.2,075km N 71° E of Manay (Davao Oriental),075,N 71° E,Manay (Davao Oriental)
 2025-11-18T07:23:00.000Z,18 November 2025 - 07:23 AM,09.97,126.14,013,3.6,007km N 58° E of San Isidro (Surigao Del Norte),007,N 58° E,San Isidro (Surigao Del Norte)
 2025-11-18T07:03:00.000Z,18 November 2025 - 07:03 AM,11.25,124.18,004,2.0,031km N 45° E of City Of Bogo (Cebu),031,N 45° E,City Of Bogo (Cebu)
 2025-11-18T06:09:00.000Z,18 November 2025 - 06:09 AM,11.11,123.94,003,2.7,008km N 31° W of City Of Bogo (Cebu),008,N 31° W,City Of Bogo (Cebu)
