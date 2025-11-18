@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T20:09:00.000Z,18 November 2025 - 08:09 PM,09.79,122.52,027,1.8,010km N 77° E of City Of Sipalay (Negros Occidental),010,N 77° E,City Of Sipalay (Negros Occidental)
+2025-11-18T20:07:00.000Z,18 November 2025 - 08:07 PM,11.16,123.95,011,2.0,013km N 13° W of City Of Bogo (Cebu),013,N 13° W,City Of Bogo (Cebu)
+2025-11-18T19:58:00.000Z,18 November 2025 - 07:58 PM,11.12,123.98,011,2.3,008km N 03° W of City Of Bogo (Cebu),008,N 03° W,City Of Bogo (Cebu)
+2025-11-18T19:56:00.000Z,18 November 2025 - 07:56 PM,05.21,126.14,103,2.7,080km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),080,S 69° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-18T19:36:00.000Z,18 November 2025 - 07:36 PM,11.12,123.93,005,4.2,009km N 33° W of City Of Bogo (Cebu),009,N 33° W,City Of Bogo (Cebu)
 2025-11-18T19:01:00.000Z,18 November 2025 - 07:01 PM,11.18,124.18,008,2.2,026km N 56° E of City Of Bogo (Cebu),026,N 56° E,City Of Bogo (Cebu)
 2025-11-18T18:48:00.000Z,18 November 2025 - 06:48 PM,09.55,125.80,034,1.5,008km S 71° E of Claver (Surigao Del Norte),008,S 71° E,Claver (Surigao Del Norte)
 2025-11-18T18:32:00.000Z,18 November 2025 - 06:32 PM,06.96,126.11,024,2.5,012km N 86° W of City Of Mati (Davao Oriental),012,N 86° W,City Of Mati (Davao Oriental)
