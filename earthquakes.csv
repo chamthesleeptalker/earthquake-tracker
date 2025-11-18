@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T14:15:00.000Z,18 November 2025 - 02:15 PM,13.68,120.63,100,1.4,017km S 01° E of Calatagan (Batangas),017,S 01° E,Calatagan (Batangas)
+2025-11-18T13:59:00.000Z,18 November 2025 - 01:59 PM,06.11,124.67,031,2.1,013km S 20° W of Lake Sebu (South Cotabato),013,S 20° W,Lake Sebu (South Cotabato)
+2025-11-18T13:54:00.000Z,18 November 2025 - 01:54 PM,11.01,124.03,030,1.6,007km S 52° E of City Of Bogo (Cebu),007,S 52° E,City Of Bogo (Cebu)
+2025-11-18T13:45:00.000Z,18 November 2025 - 01:45 PM,11.15,121.20,012,2.1,028km S 89° E of Agutaya (Palawan),028,S 89° E,Agutaya (Palawan)
 2025-11-18T12:46:00.000Z,18 November 2025 - 12:46 PM,06.82,127.37,022,3.1,101km S 65° E of Manay (Davao Oriental),101,S 65° E,Manay (Davao Oriental)
 2025-11-18T12:40:00.000Z,18 November 2025 - 12:40 PM,06.90,127.17,024,4.3,078km S 64° E of Manay (Davao Oriental),078,S 64° E,Manay (Davao Oriental)
 2025-11-18T12:17:00.000Z,18 November 2025 - 12:17 PM,08.75,126.23,036,1.6,020km S 23° W of Cagwait (Surigao Del Sur),020,S 23° W,Cagwait (Surigao Del Sur)
