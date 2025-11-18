@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-18T15:50:00.000Z,18 November 2025 - 03:50 PM,18.13,120.21,006,2.5,031km N 66° W of Currimao (Ilocos Norte),031,N 66° W,Currimao (Ilocos Norte)
 2025-11-18T14:31:00.000Z,18 November 2025 - 02:31 PM,12.44,124.79,030,2.7,010km S 26° E of Mondragon (Northern Samar),010,S 26° E,Mondragon (Northern Samar)
 2025-11-18T14:15:00.000Z,18 November 2025 - 02:15 PM,13.68,120.63,100,1.4,017km S 01° E of Calatagan (Batangas),017,S 01° E,Calatagan (Batangas)
 2025-11-18T13:59:00.000Z,18 November 2025 - 01:59 PM,06.11,124.67,031,2.1,013km S 20° W of Lake Sebu (South Cotabato),013,S 20° W,Lake Sebu (South Cotabato)
@@ -475,4 +476,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-11T19:05:00.000Z,11 November 2025 - 07:05 PM,10.91,123.90,004,2.5,017km S 30° W of City Of Bogo (Cebu),017,S 30° W,City Of Bogo (Cebu)
 2025-11-11T19:02:00.000Z,11 November 2025 - 07:02 PM,10.92,123.91,004,3.1,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
 2025-11-11T18:29:00.000Z,11 November 2025 - 06:29 PM,08.53,124.72,004,2.3,004km S 81° W of Tagoloan (Misamis Oriental),004,S 81° W,Tagoloan (Misamis Oriental)
-2025-11-11T15:23:00.000Z,11 November 2025 - 03:23 PM,10.17,122.29,003,2.8,042km N 60° W of Cauayan (Negros Occidental),042,N 60° W,Cauayan (Negros Occidental)
