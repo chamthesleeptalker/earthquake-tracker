@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T22:51:00.000Z,19 November 2025 - 10:51 PM,07.00,125.02,033,2.0,007km S 87° W of City Of Kidapawan (Cotabato),007,S 87° W,City Of Kidapawan (Cotabato)
+2025-11-19T22:41:00.000Z,19 November 2025 - 10:41 PM,09.62,126.15,034,1.6,018km S 02° W of General Luna (Surigao Del Norte),018,S 02° W,General Luna (Surigao Del Norte)
 2025-11-19T22:37:00.000Z,19 November 2025 - 10:37 PM,10.01,126.18,017,2.3,011km S 84° E of Burgos (Surigao Del Norte),011,S 84° E,Burgos (Surigao Del Norte)
 2025-11-19T22:33:00.000Z,19 November 2025 - 10:33 PM,09.64,126.14,032,1.6,016km S 05° W of General Luna (Surigao Del Norte),016,S 05° W,General Luna (Surigao Del Norte)
 2025-11-19T22:29:00.000Z,19 November 2025 - 10:29 PM,09.64,126.18,034,1.2,016km S 11° E of General Luna (Surigao Del Norte),016,S 11° E,General Luna (Surigao Del Norte)
@@ -468,4 +470,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T00:10:00.000Z,13 November 2025 - 12:10 AM,14.25,120.39,101,1.8,023km S 29° W of Mariveles (Bataan),023,S 29° W,Mariveles (Bataan)
 2025-11-12T23:50:00.000Z,12 November 2025 - 11:50 PM,13.83,120.73,033,1.7,010km S 86° E of Calatagan (Batangas),010,S 86° E,Calatagan (Batangas)
 2025-11-12T23:45:00.000Z,12 November 2025 - 11:45 PM,13.60,120.59,018,2.7,023km N 41° W of Abra De Ilog (Occidental Mindoro),023,N 41° W,Abra De Ilog (Occidental Mindoro)
-2025-11-12T22:49:00.000Z,12 November 2025 - 10:49 PM,11.19,124.01,030,2.1,017km N 12° E of City Of Bogo (Cebu),017,N 12° E,City Of Bogo (Cebu)
