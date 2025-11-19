@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T16:26:00.000Z,19 November 2025 - 04:26 PM,10.30,123.57,011,3.4,004km N 24° W of Pinamungajan (Cebu),004,N 24° W,Pinamungajan (Cebu)
+2025-11-19T16:26:00.000Z,19 November 2025 - 04:26 PM,11.14,123.92,006,2.0,012km N 31° W of City Of Bogo (Cebu),012,N 31° W,City Of Bogo (Cebu)
 2025-11-19T15:05:00.000Z,19 November 2025 - 03:05 PM,09.59,126.10,022,1.6,015km S 78° E of Socorro (Surigao Del Norte),015,S 78° E,Socorro (Surigao Del Norte)
 2025-11-19T14:27:00.000Z,19 November 2025 - 02:27 PM,09.66,126.36,033,2.2,027km S 59° E of General Luna (Surigao Del Norte),027,S 59° E,General Luna (Surigao Del Norte)
 2025-11-19T13:43:00.000Z,19 November 2025 - 01:43 PM,06.64,126.68,035,2.4,053km S 30° E of Tarragona (Davao Oriental),053,S 30° E,Tarragona (Davao Oriental)
@@ -53,4 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-18T17:10:00.000Z,18 November 2025 - 05:10 PM,15.30,119.81,032,1.5,018km S 80° W of Iba (Zambales),018,S 80° W,Iba (Zambales)
 2025-11-18T16:56:00.000Z,18 November 2025 - 04:56 PM,07.37,126.64,020,1.6,021km N 32° E of Manay (Davao Oriental),021,N 32° E,Manay (Davao Oriental)
 2025-11-18T16:32:00.000Z,18 November 2025 - 04:32 PM,11.24,124.02,028,1.3,022km N 12° E of City Of Bogo (Cebu),022,N 12° E,City Of Bogo (Cebu)
-2025-11-18T15:50:00.000Z,18 November 2025 - 03:50 PM,18.13,120.21,006,2.5,031km N 66° W of Currimao (Ilocos Norte),031,N 66° W,Currimao (Ilocos Norte)

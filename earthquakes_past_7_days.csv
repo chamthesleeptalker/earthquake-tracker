@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T16:26:00.000Z,19 November 2025 - 04:26 PM,10.30,123.57,011,3.4,004km N 24° W of Pinamungajan (Cebu),004,N 24° W,Pinamungajan (Cebu)
+2025-11-19T16:26:00.000Z,19 November 2025 - 04:26 PM,11.14,123.92,006,2.0,012km N 31° W of City Of Bogo (Cebu),012,N 31° W,City Of Bogo (Cebu)
 2025-11-19T15:05:00.000Z,19 November 2025 - 03:05 PM,09.59,126.10,022,1.6,015km S 78° E of Socorro (Surigao Del Norte),015,S 78° E,Socorro (Surigao Del Norte)
 2025-11-19T14:27:00.000Z,19 November 2025 - 02:27 PM,09.66,126.36,033,2.2,027km S 59° E of General Luna (Surigao Del Norte),027,S 59° E,General Luna (Surigao Del Norte)
 2025-11-19T13:43:00.000Z,19 November 2025 - 01:43 PM,06.64,126.68,035,2.4,053km S 30° E of Tarragona (Davao Oriental),053,S 30° E,Tarragona (Davao Oriental)
@@ -456,6 +458,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-12T17:02:00.000Z,12 November 2025 - 05:02 PM,17.55,120.15,022,2.7,023km S 80° W of Santa Catalina (Ilocos Sur),023,S 80° W,Santa Catalina (Ilocos Sur)
 2025-11-12T16:54:00.000Z,12 November 2025 - 04:54 PM,07.31,126.31,024,2.0,021km S 88° E of Maragusan (Davao De Oro),021,S 88° E,Maragusan (Davao De Oro)
 2025-11-12T16:40:00.000Z,12 November 2025 - 04:40 PM,07.32,126.82,017,3.7,033km N 68° E of Manay (Davao Oriental),033,N 68° E,Manay (Davao Oriental)
-2025-11-12T16:10:00.000Z,12 November 2025 - 04:10 PM,05.92,126.23,054,3.0,065km N 89° E of Jose Abad Santos (Davao Occidental),065,N 89° E,Jose Abad Santos (Davao Occidental)
-2025-11-12T15:45:00.000Z,12 November 2025 - 03:45 PM,07.94,122.43,031,1.9,006km S 27° E of Gutalac (Zamboanga Del Norte),006,S 27° E,Gutalac (Zamboanga Del Norte)
-2025-11-12T15:23:00.000Z,12 November 2025 - 03:23 PM,11.10,123.90,001,2.7,010km N 55° W of City Of Bogo (Cebu),010,N 55° W,City Of Bogo (Cebu)
