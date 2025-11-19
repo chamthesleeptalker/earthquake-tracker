@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T19:28:00.000Z,19 November 2025 - 07:28 PM,07.11,125.89,027,1.7,002km S 28° W of Pantukan (Davao De Oro),002,S 28° W,Pantukan (Davao De Oro)
+2025-11-19T19:27:00.000Z,19 November 2025 - 07:27 PM,08.01,126.00,023,1.7,004km N 57° W of Santa Josefa (Agusan Del Sur),004,N 57° W,Santa Josefa (Agusan Del Sur)
+2025-11-19T19:15:00.000Z,19 November 2025 - 07:15 PM,08.00,126.00,021,1.6,003km N 63° W of Santa Josefa (Agusan Del Sur),003,N 63° W,Santa Josefa (Agusan Del Sur)
+2025-11-19T19:10:00.000Z,19 November 2025 - 07:10 PM,10.97,123.93,007,2.7,010km S 35° W of City Of Bogo (Cebu),010,S 35° W,City Of Bogo (Cebu)
 2025-11-19T18:54:00.000Z,19 November 2025 - 06:54 PM,11.07,124.07,024,2.3,010km N 77° E of City Of Bogo (Cebu),010,N 77° E,City Of Bogo (Cebu)
 2025-11-19T18:53:00.000Z,19 November 2025 - 06:53 PM,10.89,123.95,007,2.1,018km S 09° W of City Of Bogo (Cebu),018,S 09° W,City Of Bogo (Cebu)
 2025-11-19T18:54:00.000Z,19 November 2025 - 06:54 PM,11.07,124.07,024,2.3,010km N 77° E of City Of Bogo (Cebu),010,N 77° E,City Of Bogo (Cebu)
