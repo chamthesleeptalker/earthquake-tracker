@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T18:54:00.000Z,19 November 2025 - 06:54 PM,11.07,124.07,024,2.3,010km N 77° E of City Of Bogo (Cebu),010,N 77° E,City Of Bogo (Cebu)
+2025-11-19T18:53:00.000Z,19 November 2025 - 06:53 PM,10.89,123.95,007,2.1,018km S 09° W of City Of Bogo (Cebu),018,S 09° W,City Of Bogo (Cebu)
+2025-11-19T18:54:00.000Z,19 November 2025 - 06:54 PM,11.07,124.07,024,2.3,010km N 77° E of City Of Bogo (Cebu),010,N 77° E,City Of Bogo (Cebu)
+2025-11-19T18:41:00.000Z,19 November 2025 - 06:41 PM,07.34,126.81,028,2.7,033km N 64° E of Manay (Davao Oriental),033,N 64° E,Manay (Davao Oriental)
 2025-11-19T17:45:00.000Z,19 November 2025 - 05:45 PM,11.04,123.96,013,1.9,003km S 85° W of City Of Bogo (Cebu),003,S 85° W,City Of Bogo (Cebu)
 2025-11-19T17:41:00.000Z,19 November 2025 - 05:41 PM,06.88,124.96,003,2.4,010km N 61° E of Tulunan (Cotabato),010,N 61° E,Tulunan (Cotabato)
 2025-11-19T17:27:00.000Z,19 November 2025 - 05:27 PM,11.04,124.01,001,2.1,003km S 84° E of City Of Bogo (Cebu),003,S 84° E,City Of Bogo (Cebu)
@@ -52,7 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-18T19:56:00.000Z,18 November 2025 - 07:56 PM,05.21,126.14,103,2.7,080km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),080,S 69° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-18T19:36:00.000Z,18 November 2025 - 07:36 PM,11.12,123.93,005,4.2,009km N 33° W of City Of Bogo (Cebu),009,N 33° W,City Of Bogo (Cebu)
 2025-11-18T19:01:00.000Z,18 November 2025 - 07:01 PM,11.18,124.18,008,2.2,026km N 56° E of City Of Bogo (Cebu),026,N 56° E,City Of Bogo (Cebu)
-2025-11-18T18:48:00.000Z,18 November 2025 - 06:48 PM,09.55,125.80,034,1.5,008km S 71° E of Claver (Surigao Del Norte),008,S 71° E,Claver (Surigao Del Norte)
-2025-11-18T18:32:00.000Z,18 November 2025 - 06:32 PM,06.96,126.11,024,2.5,012km N 86° W of City Of Mati (Davao Oriental),012,N 86° W,City Of Mati (Davao Oriental)
-2025-11-18T18:06:00.000Z,18 November 2025 - 06:06 PM,12.70,125.79,028,1.8,063km N 67° E of Mapanas (Northern Samar),063,N 67° E,Mapanas (Northern Samar)
-2025-11-18T17:51:00.000Z,18 November 2025 - 05:51 PM,06.77,124.20,011,1.8,011km S 35° E of South Upi (Maguindanao Del Sur),011,S 35° E,South Upi (Maguindanao Del Sur)
