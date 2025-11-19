@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T09:13:00.000Z,19 November 2025 - 09:13 AM,09.66,126.21,032,1.8,015km S 23° E of General Luna (Surigao Del Norte),015,S 23° E,General Luna (Surigao Del Norte)
+2025-11-19T08:50:00.000Z,19 November 2025 - 08:50 AM,05.91,126.41,136,2.4,084km N 90° E of Jose Abad Santos (Davao Occidental),084,N 90° E,Jose Abad Santos (Davao Occidental)
 2025-11-19T04:41:00.000Z,19 November 2025 - 04:41 AM,11.15,124.08,011,1.5,016km N 44° E of City Of Bogo (Cebu),016,N 44° E,City Of Bogo (Cebu)
 2025-11-19T04:23:00.000Z,19 November 2025 - 04:23 AM,11.00,124.06,032,2.3,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
 2025-11-19T04:23:00.000Z,19 November 2025 - 04:23 AM,11.00,124.06,032,2.3,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
