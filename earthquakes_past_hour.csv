@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-20T01:06:00.000Z,20 November 2025 - 01:06 AM,09.10,126.23,039,1.6,007km N 70° E of City Of Tandag (Surigao Del Sur),007,N 70° E,City Of Tandag (Surigao Del Sur)
-2025-11-20T00:21:00.000Z,20 November 2025 - 12:21 AM,08.01,125.97,033,2.1,007km N 63° W of Santa Josefa (Agusan Del Sur),007,N 63° W,Santa Josefa (Agusan Del Sur)
-2025-11-20T00:12:00.000Z,20 November 2025 - 12:12 AM,09.64,126.43,033,1.5,034km S 63° E of General Luna (Surigao Del Norte),034,S 63° E,General Luna (Surigao Del Norte)
-2025-11-20T00:06:00.000Z,20 November 2025 - 12:06 AM,11.01,123.99,021,2.0,004km S 14° E of City Of Bogo (Cebu),004,S 14° E,City Of Bogo (Cebu)
+2025-11-20T02:16:00.000Z,20 November 2025 - 02:16 AM,15.80,121.73,019,1.4,019km N 76° E of Baler (Aurora),019,N 76° E,Baler (Aurora)
+2025-11-20T02:08:00.000Z,20 November 2025 - 02:08 AM,15.72,121.94,015,1.9,040km S 84° E of Baler (Aurora),040,S 84° E,Baler (Aurora)
+2025-11-20T01:58:00.000Z,20 November 2025 - 01:58 AM,15.71,121.89,019,2.1,036km S 82° E of Baler (Aurora),036,S 82° E,Baler (Aurora)
+2025-11-20T01:46:00.000Z,20 November 2025 - 01:46 AM,11.22,123.93,013,2.7,020km N 15° W of City Of Bogo (Cebu),020,N 15° W,City Of Bogo (Cebu)
+2025-11-20T01:43:00.000Z,20 November 2025 - 01:43 AM,15.71,121.96,013,4.1,043km S 83° E of Baler (Aurora),043,S 83° E,Baler (Aurora)
