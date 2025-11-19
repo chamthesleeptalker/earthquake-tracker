@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-19T21:12:00.000Z,19 November 2025 - 09:12 PM,13.82,120.48,054,1.6,016km S 86° W of Calatagan (Batangas),016,S 86° W,Calatagan (Batangas)
+2025-11-19T20:55:00.000Z,19 November 2025 - 08:55 PM,09.65,126.15,031,1.5,015km S 01° W of General Luna (Surigao Del Norte),015,S 01° W,General Luna (Surigao Del Norte)
+2025-11-19T20:27:00.000Z,19 November 2025 - 08:27 PM,11.07,123.99,001,1.7,003km N 33° E of City Of Bogo (Cebu),003,N 33° E,City Of Bogo (Cebu)
 2025-11-19T20:08:00.000Z,19 November 2025 - 08:08 PM,12.56,121.23,032,2.0,024km N 79° W of Mansalay (Oriental Mindoro),024,N 79° W,Mansalay (Oriental Mindoro)
 2025-11-19T20:03:00.000Z,19 November 2025 - 08:03 PM,07.39,127.16,027,3.1,071km N 73° E of Manay (Davao Oriental),071,N 73° E,Manay (Davao Oriental)
 2025-11-19T20:00:00.000Z,19 November 2025 - 08:00 PM,13.64,119.94,167,2.0,032km S 39° W of Lubang (Occidental Mindoro),032,S 39° W,Lubang (Occidental Mindoro)
