@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T00:12:00.000Z,20 November 2025 - 12:12 AM,09.64,126.43,033,1.5,034km S 63° E of General Luna (Surigao Del Norte),034,S 63° E,General Luna (Surigao Del Norte)
+2025-11-20T00:06:00.000Z,20 November 2025 - 12:06 AM,11.01,123.99,021,2.0,004km S 14° E of City Of Bogo (Cebu),004,S 14° E,City Of Bogo (Cebu)
 2025-11-19T23:28:00.000Z,19 November 2025 - 11:28 PM,10.40,121.79,004,2.0,015km S 78° W of Anini-y (Antique),015,S 78° W,Anini-y (Antique)
 2025-11-19T23:15:00.000Z,19 November 2025 - 11:15 PM,09.59,126.24,031,1.6,023km S 23° E of General Luna (Surigao Del Norte),023,S 23° E,General Luna (Surigao Del Norte)
 2025-11-19T23:13:00.000Z,19 November 2025 - 11:13 PM,03.06,127.11,102,4.0,321km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),321,S 36° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -470,6 +472,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T00:36:00.000Z,13 November 2025 - 12:36 AM,10.89,124.01,020,2.1,017km S 12° E of City Of Bogo (Cebu),017,S 12° E,City Of Bogo (Cebu)
 2025-11-13T00:16:00.000Z,13 November 2025 - 12:16 AM,11.00,120.78,010,2.4,029km N 57° W of Cuyo (Palawan),029,N 57° W,Cuyo (Palawan)
 2025-11-13T00:15:00.000Z,13 November 2025 - 12:15 AM,11.12,124.11,006,2.7,016km N 62° E of City Of Bogo (Cebu),016,N 62° E,City Of Bogo (Cebu)
-2025-11-13T00:10:00.000Z,13 November 2025 - 12:10 AM,14.25,120.39,101,1.8,023km S 29° W of Mariveles (Bataan),023,S 29° W,Mariveles (Bataan)
-2025-11-12T23:50:00.000Z,12 November 2025 - 11:50 PM,13.83,120.73,033,1.7,010km S 86° E of Calatagan (Batangas),010,S 86° E,Calatagan (Batangas)
-2025-11-12T23:45:00.000Z,12 November 2025 - 11:45 PM,13.60,120.59,018,2.7,023km N 41° W of Abra De Ilog (Occidental Mindoro),023,N 41° W,Abra De Ilog (Occidental Mindoro)
