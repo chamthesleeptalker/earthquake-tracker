@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T02:34:00.000Z,20 November 2025 - 02:34 AM,13.72,120.58,081,1.2,014km S 23° W of Calatagan (Batangas),014,S 23° W,Calatagan (Batangas)
+2025-11-20T02:26:00.000Z,20 November 2025 - 02:26 AM,09.04,126.33,033,1.8,009km N 30° E of Bayabas (Surigao Del Sur),009,N 30° E,Bayabas (Surigao Del Sur)
 2025-11-20T02:16:00.000Z,20 November 2025 - 02:16 AM,15.80,121.73,019,1.4,019km N 76° E of Baler (Aurora),019,N 76° E,Baler (Aurora)
 2025-11-20T02:08:00.000Z,20 November 2025 - 02:08 AM,15.72,121.94,015,1.9,040km S 84° E of Baler (Aurora),040,S 84° E,Baler (Aurora)
 2025-11-20T01:58:00.000Z,20 November 2025 - 01:58 AM,15.71,121.89,019,2.1,036km S 82° E of Baler (Aurora),036,S 82° E,Baler (Aurora)
@@ -62,4 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T02:51:00.000Z,19 November 2025 - 02:51 AM,11.13,123.95,005,2.8,010km N 18° W of City Of Bogo (Cebu),010,N 18° W,City Of Bogo (Cebu)
 2025-11-19T02:49:00.000Z,19 November 2025 - 02:49 AM,13.00,121.50,033,1.4,004km N 42° E of Gloria (Oriental Mindoro),004,N 42° E,Gloria (Oriental Mindoro)
 2025-11-19T02:44:00.000Z,19 November 2025 - 02:44 AM,13.67,121.57,132,1.6,025km S 47° E of San Juan (Batangas),025,S 47° E,San Juan (Batangas)
-2025-11-19T02:29:00.000Z,19 November 2025 - 02:29 AM,11.17,123.98,003,3.1,013km N 01° W of City Of Bogo (Cebu),013,N 01° W,City Of Bogo (Cebu)
