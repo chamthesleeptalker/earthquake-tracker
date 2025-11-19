@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T01:06:00.000Z,20 November 2025 - 01:06 AM,09.10,126.23,039,1.6,007km N 70° E of City Of Tandag (Surigao Del Sur),007,N 70° E,City Of Tandag (Surigao Del Sur)
 2025-11-20T00:21:00.000Z,20 November 2025 - 12:21 AM,08.01,125.97,033,2.1,007km N 63° W of Santa Josefa (Agusan Del Sur),007,N 63° W,Santa Josefa (Agusan Del Sur)
 2025-11-20T00:12:00.000Z,20 November 2025 - 12:12 AM,09.64,126.43,033,1.5,034km S 63° E of General Luna (Surigao Del Norte),034,S 63° E,General Luna (Surigao Del Norte)
 2025-11-20T00:06:00.000Z,20 November 2025 - 12:06 AM,11.01,123.99,021,2.0,004km S 14° E of City Of Bogo (Cebu),004,S 14° E,City Of Bogo (Cebu)
@@ -59,6 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T02:29:00.000Z,19 November 2025 - 02:29 AM,11.17,123.98,003,3.1,013km N 01° W of City Of Bogo (Cebu),013,N 01° W,City Of Bogo (Cebu)
 2025-11-19T02:03:00.000Z,19 November 2025 - 02:03 AM,11.27,124.29,008,2.0,014km N 58° W of Villaba (Leyte),014,N 58° W,Villaba (Leyte)
 2025-11-19T01:07:00.000Z,19 November 2025 - 01:07 AM,11.01,123.84,008,2.4,016km S 76° W of City Of Bogo (Cebu),016,S 76° W,City Of Bogo (Cebu)
-2025-11-19T01:03:00.000Z,19 November 2025 - 01:03 AM,13.74,120.56,093,1.8,013km S 38° W of Calatagan (Batangas),013,S 38° W,Calatagan (Batangas)
-2025-11-19T00:58:00.000Z,19 November 2025 - 12:58 AM,11.27,124.13,023,1.6,030km N 33° E of City Of Bogo (Cebu),030,N 33° E,City Of Bogo (Cebu)
-2025-11-19T00:46:00.000Z,19 November 2025 - 12:46 AM,11.12,124.09,004,1.9,015km N 56° E of City Of Bogo (Cebu),015,N 56° E,City Of Bogo (Cebu)
