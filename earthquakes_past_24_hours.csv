@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T23:58:00.000Z,20 November 2025 - 11:58 PM,09.67,126.31,033,1.5,021km S 54° E of General Luna (Surigao Del Norte),021,S 54° E,General Luna (Surigao Del Norte)
 2025-11-20T23:07:00.000Z,20 November 2025 - 11:07 PM,09.74,126.14,026,2.8,005km S 21° W of General Luna (Surigao Del Norte),005,S 21° W,General Luna (Surigao Del Norte)
 2025-11-20T22:16:00.000Z,20 November 2025 - 10:16 PM,15.91,119.75,028,1.6,016km S 57° W of Dasol (Pangasinan),016,S 57° W,Dasol (Pangasinan)
 2025-11-20T22:15:00.000Z,20 November 2025 - 10:15 PM,13.83,120.48,081,2.9,017km S 88° W of Calatagan (Batangas),017,S 88° W,Calatagan (Batangas)
@@ -58,6 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-20T00:21:00.000Z,20 November 2025 - 12:21 AM,08.01,125.97,033,2.1,007km N 63° W of Santa Josefa (Agusan Del Sur),007,N 63° W,Santa Josefa (Agusan Del Sur)
 2025-11-20T00:12:00.000Z,20 November 2025 - 12:12 AM,09.64,126.43,033,1.5,034km S 63° E of General Luna (Surigao Del Norte),034,S 63° E,General Luna (Surigao Del Norte)
 2025-11-20T00:06:00.000Z,20 November 2025 - 12:06 AM,11.01,123.99,021,2.0,004km S 14° E of City Of Bogo (Cebu),004,S 14° E,City Of Bogo (Cebu)
-2025-11-19T23:28:00.000Z,19 November 2025 - 11:28 PM,10.40,121.79,004,2.0,015km S 78° W of Anini-y (Antique),015,S 78° W,Anini-y (Antique)
-2025-11-19T23:15:00.000Z,19 November 2025 - 11:15 PM,09.59,126.24,031,1.6,023km S 23° E of General Luna (Surigao Del Norte),023,S 23° E,General Luna (Surigao Del Norte)
-2025-11-19T23:13:00.000Z,19 November 2025 - 11:13 PM,03.06,127.11,102,4.0,321km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),321,S 36° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
