@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,14.71,120.40,094,1.6,011km N 03° W of Bagac (Bataan),011,N 03° W,Bagac (Bataan)
+2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,11.18,124.03,024,1.8,016km N 21° E of City Of Bogo (Cebu),016,N 21° E,City Of Bogo (Cebu)
+2025-11-21T00:16:00.000Z,21 November 2025 - 12:16 AM,09.55,125.94,035,1.5,008km S 21° W of Socorro (Surigao Del Norte),008,S 21° W,Socorro (Surigao Del Norte)
 2025-11-20T23:58:00.000Z,20 November 2025 - 11:58 PM,09.67,126.31,033,1.5,021km S 54° E of General Luna (Surigao Del Norte),021,S 54° E,General Luna (Surigao Del Norte)
 2025-11-20T23:07:00.000Z,20 November 2025 - 11:07 PM,09.74,126.14,026,2.8,005km S 21° W of General Luna (Surigao Del Norte),005,S 21° W,General Luna (Surigao Del Norte)
 2025-11-20T22:16:00.000Z,20 November 2025 - 10:16 PM,15.91,119.75,028,1.6,016km S 57° W of Dasol (Pangasinan),016,S 57° W,Dasol (Pangasinan)
@@ -466,4 +469,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T00:39:00.000Z,14 November 2025 - 12:39 AM,11.30,124.58,004,2.7,007km N 80° W of Capoocan (Leyte),007,N 80° W,Capoocan (Leyte)
 2025-11-14T00:34:00.000Z,14 November 2025 - 12:34 AM,07.03,126.92,033,1.5,046km S 65° E of Manay (Davao Oriental),046,S 65° E,Manay (Davao Oriental)
 2025-11-14T00:27:00.000Z,14 November 2025 - 12:27 AM,07.55,124.64,002,1.9,014km S 45° W of Wao (Lanao Del Sur),014,S 45° W,Wao (Lanao Del Sur)
-2025-11-14T00:09:00.000Z,14 November 2025 - 12:09 AM,15.60,120.02,027,1.4,010km S 74° E of Candelaria (Zambales),010,S 74° E,Candelaria (Zambales)
