@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T23:07:00.000Z,20 November 2025 - 11:07 PM,09.74,126.14,026,2.8,005km S 21° W of General Luna (Surigao Del Norte),005,S 21° W,General Luna (Surigao Del Norte)
 2025-11-20T22:16:00.000Z,20 November 2025 - 10:16 PM,15.91,119.75,028,1.6,016km S 57° W of Dasol (Pangasinan),016,S 57° W,Dasol (Pangasinan)
 2025-11-20T22:15:00.000Z,20 November 2025 - 10:15 PM,13.83,120.48,081,2.9,017km S 88° W of Calatagan (Batangas),017,S 88° W,Calatagan (Batangas)
 2025-11-20T22:10:00.000Z,20 November 2025 - 10:10 PM,12.99,122.79,024,1.8,025km S 53° W of San Pascual (Masbate),025,S 53° W,San Pascual (Masbate)
@@ -468,7 +469,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T23:48:00.000Z,13 November 2025 - 11:48 PM,15.64,119.91,025,2.1,002km N 60° W of Candelaria (Zambales),002,N 60° W,Candelaria (Zambales)
 2025-11-13T23:34:00.000Z,13 November 2025 - 11:34 PM,11.18,123.98,020,2.4,014km N 01° E of City Of Bogo (Cebu),014,N 01° E,City Of Bogo (Cebu)
 2025-11-13T23:14:00.000Z,13 November 2025 - 11:14 PM,06.68,125.17,019,2.5,006km S 61° W of Matanao (Davao Del Sur),006,S 61° W,Matanao (Davao Del Sur)
-2025-11-13T22:48:00.000Z,13 November 2025 - 10:48 PM,10.98,123.93,040,2.1,009km S 34° W of City Of Bogo (Cebu),009,S 34° W,City Of Bogo (Cebu)
-2025-11-13T22:45:00.000Z,13 November 2025 - 10:45 PM,13.78,123.26,002,2.0,009km N 32° E of Calabanga (Camarines Sur),009,N 32° E,Calabanga (Camarines Sur)
-2025-11-13T22:45:00.000Z,13 November 2025 - 10:45 PM,13.78,123.26,002,2.0,009km N 32° E of Calabanga (Camarines Sur),009,N 32° E,Calabanga (Camarines Sur)
-2025-11-13T22:35:00.000Z,13 November 2025 - 10:35 PM,09.60,126.13,013,2.4,021km S 07° W of General Luna (Surigao Del Norte),021,S 07° W,General Luna (Surigao Del Norte)
