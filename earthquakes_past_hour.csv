@@ -1,6 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-21T00:52:00.000Z,21 November 2025 - 12:52 AM,11.25,126.09,013,2.6,046km N 60° E of Guiuan (Eastern Samar),046,N 60° E,Guiuan (Eastern Samar)
-2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,14.71,120.40,094,1.6,011km N 03° W of Bagac (Bataan),011,N 03° W,Bagac (Bataan)
-2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,11.18,124.03,024,1.8,016km N 21° E of City Of Bogo (Cebu),016,N 21° E,City Of Bogo (Cebu)
-2025-11-21T00:16:00.000Z,21 November 2025 - 12:16 AM,09.55,125.94,035,1.5,008km S 21° W of Socorro (Surigao Del Norte),008,S 21° W,Socorro (Surigao Del Norte)
-2025-11-20T23:58:00.000Z,20 November 2025 - 11:58 PM,09.67,126.31,033,1.5,021km S 54° E of General Luna (Surigao Del Norte),021,S 54° E,General Luna (Surigao Del Norte)
+2025-11-21T01:53:00.000Z,21 November 2025 - 01:53 AM,07.14,126.79,025,2.3,029km S 74° E of Manay (Davao Oriental),029,S 74° E,Manay (Davao Oriental)
+2025-11-21T01:44:00.000Z,21 November 2025 - 01:44 AM,09.98,126.44,019,2.4,038km N 54° E of General Luna (Surigao Del Norte),038,N 54° E,General Luna (Surigao Del Norte)

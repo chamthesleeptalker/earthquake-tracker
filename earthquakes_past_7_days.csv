@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-21T01:53:00.000Z,21 November 2025 - 01:53 AM,07.14,126.79,025,2.3,029km S 74° E of Manay (Davao Oriental),029,S 74° E,Manay (Davao Oriental)
+2025-11-21T01:44:00.000Z,21 November 2025 - 01:44 AM,09.98,126.44,019,2.4,038km N 54° E of General Luna (Surigao Del Norte),038,N 54° E,General Luna (Surigao Del Norte)
 2025-11-21T00:52:00.000Z,21 November 2025 - 12:52 AM,11.25,126.09,013,2.6,046km N 60° E of Guiuan (Eastern Samar),046,N 60° E,Guiuan (Eastern Samar)
 2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,14.71,120.40,094,1.6,011km N 03° W of Bagac (Bataan),011,N 03° W,Bagac (Bataan)
 2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,11.18,124.03,024,1.8,016km N 21° E of City Of Bogo (Cebu),016,N 21° E,City Of Bogo (Cebu)
@@ -452,7 +454,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T03:12:00.000Z,14 November 2025 - 03:12 AM,09.81,126.41,001,2.5,028km N 83° E of General Luna (Surigao Del Norte),028,N 83° E,General Luna (Surigao Del Norte)
 2025-11-14T03:03:00.000Z,14 November 2025 - 03:03 AM,09.26,125.19,017,2.1,027km N 02° E of Magsaysay (Misamis Oriental),027,N 02° E,Magsaysay (Misamis Oriental)
 2025-11-14T02:29:00.000Z,14 November 2025 - 02:29 AM,09.42,122.75,034,1.5,012km N 82° E of Basay (Negros Oriental),012,N 82° E,Basay (Negros Oriental)
-2025-11-14T01:21:00.000Z,14 November 2025 - 01:21 AM,10.94,123.93,001,2.5,013km S 24° W of City Of Bogo (Cebu),013,S 24° W,City Of Bogo (Cebu)
 2025-11-14T02:55:00.000Z,14 November 2025 - 02:55 AM,10.24,126.42,010,2.3,045km N 57° E of Burgos (Surigao Del Norte),045,N 57° E,Burgos (Surigao Del Norte)
 2025-11-14T02:46:00.000Z,14 November 2025 - 02:46 AM,07.18,126.92,012,2.6,043km S 68° E of Caraga (Davao Oriental),043,S 68° E,Caraga (Davao Oriental)
 2025-11-14T02:40:00.000Z,14 November 2025 - 02:40 AM,09.38,125.83,082,1.7,013km N 83° W of Carrascal (Surigao Del Sur),013,N 83° W,Carrascal (Surigao Del Sur)
@@ -462,8 +463,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T02:06:00.000Z,14 November 2025 - 02:06 AM,08.81,126.51,029,1.8,023km N 86° E of Marihatag (Surigao Del Sur),023,N 86° E,Marihatag (Surigao Del Sur)
 2025-11-14T02:02:00.000Z,14 November 2025 - 02:02 AM,06.75,125.16,022,1.8,000km S 27° E of Magsaysay (Davao Del Sur),000,S 27° E,Magsaysay (Davao Del Sur)
 2025-11-14T01:58:00.000Z,14 November 2025 - 01:58 AM,11.04,124.06,002,2.8,009km S 87° E of City Of Bogo (Cebu),009,S 87° E,City Of Bogo (Cebu)
-2025-11-14T01:44:00.000Z,14 November 2025 - 01:44 AM,16.49,120.32,009,2.6,005km S 13° W of Bauang (La Union),005,S 13° W,Bauang (La Union)
-2025-11-14T01:42:00.000Z,14 November 2025 - 01:42 AM,11.06,124.08,005,2.2,011km N 81° E of City Of Bogo (Cebu),011,N 81° E,City Of Bogo (Cebu)
-2025-11-14T01:42:00.000Z,14 November 2025 - 01:42 AM,13.67,120.53,036,2.3,021km S 31° W of Calatagan (Batangas),021,S 31° W,Calatagan (Batangas)
-2025-11-14T01:30:00.000Z,14 November 2025 - 01:30 AM,11.01,124.04,003,2.2,008km S 57° E of City Of Bogo (Cebu),008,S 57° E,City Of Bogo (Cebu)
-2025-11-14T01:11:00.000Z,14 November 2025 - 01:11 AM,07.86,126.00,007,2.4,007km N 60° W of Monkayo (Davao De Oro),007,N 60° W,Monkayo (Davao De Oro)
