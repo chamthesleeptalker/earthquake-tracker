@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T11:11:00.000Z,20 November 2025 - 11:11 AM,11.03,123.96,031,1.8,002km S 50° W of City Of Bogo (Cebu),002,S 50° W,City Of Bogo (Cebu)
+2025-11-20T11:11:00.000Z,20 November 2025 - 11:11 AM,07.04,127.06,002,3.2,061km S 72° E of Manay (Davao Oriental),061,S 72° E,Manay (Davao Oriental)
+2025-11-20T10:45:00.000Z,20 November 2025 - 10:45 AM,11.11,124.01,027,2.0,007km N 25° E of City Of Bogo (Cebu),007,N 25° E,City Of Bogo (Cebu)
 2025-11-20T10:07:00.000Z,20 November 2025 - 10:07 AM,09.99,126.15,033,1.6,009km S 66° E of Burgos (Surigao Del Norte),009,S 66° E,Burgos (Surigao Del Norte)
 2025-11-20T08:25:00.000Z,20 November 2025 - 08:25 AM,13.71,120.63,139,1.7,014km S 03° W of Calatagan (Batangas),014,S 03° W,Calatagan (Batangas)
 2025-11-20T08:22:00.000Z,20 November 2025 - 08:22 AM,12.80,122.87,005,1.8,039km S 18° W of San Pascual (Masbate),039,S 18° W,San Pascual (Masbate)
@@ -475,5 +478,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T12:07:00.000Z,13 November 2025 - 12:07 PM,07.34,126.59,004,2.9,015km N 20° E of Manay (Davao Oriental),015,N 20° E,Manay (Davao Oriental)
 2025-11-13T11:31:00.000Z,13 November 2025 - 11:31 AM,04.27,128.10,137,4.0,320km S 65° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),320,S 65° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-13T11:17:00.000Z,13 November 2025 - 11:17 AM,11.22,124.22,034,2.2,032km N 54° E of City Of Bogo (Cebu),032,N 54° E,City Of Bogo (Cebu)
-2025-11-13T10:40:00.000Z,13 November 2025 - 10:40 AM,11.23,124.16,033,2.3,029km N 44° E of City Of Bogo (Cebu),029,N 44° E,City Of Bogo (Cebu)
-2025-11-13T10:13:00.000Z,13 November 2025 - 10:13 AM,11.15,124.15,027,2.1,021km N 58° E of City Of Bogo (Cebu),021,N 58° E,City Of Bogo (Cebu)
