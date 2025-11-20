@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T14:21:00.000Z,20 November 2025 - 02:21 PM,11.05,123.95,005,1.8,003km N 88° W of City Of Bogo (Cebu),003,N 88° W,City Of Bogo (Cebu)
 2025-11-20T12:48:00.000Z,20 November 2025 - 12:48 PM,11.07,124.10,024,1.7,013km N 77° E of City Of Bogo (Cebu),013,N 77° E,City Of Bogo (Cebu)
 2025-11-20T12:42:00.000Z,20 November 2025 - 12:42 PM,16.33,122.16,017,2.2,008km N 33° E of Casiguran (Aurora),008,N 33° E,Casiguran (Aurora)
 2025-11-20T12:30:00.000Z,20 November 2025 - 12:30 PM,11.20,124.18,011,1.7,028km N 53° E of City Of Bogo (Cebu),028,N 53° E,City Of Bogo (Cebu)
@@ -475,9 +476,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T15:42:00.000Z,13 November 2025 - 03:42 PM,18.65,121.13,009,2.2,007km N 47° E of Claveria (Cagayan),007,N 47° E,Claveria (Cagayan)
 2025-11-13T14:27:00.000Z,13 November 2025 - 02:27 PM,14.79,123.03,001,2.0,036km N 15° E of Tinaga Island (Vinzons) (Camarines Norte),036,N 15° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-11-13T14:23:00.000Z,13 November 2025 - 02:23 PM,11.13,124.16,003,2.3,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)
-2025-11-13T13:58:00.000Z,13 November 2025 - 01:58 PM,07.17,126.90,013,2.4,040km S 84° E of Manay (Davao Oriental),040,S 84° E,Manay (Davao Oriental)
-2025-11-13T13:58:00.000Z,13 November 2025 - 01:58 PM,07.17,126.90,013,2.4,040km S 84° E of Manay (Davao Oriental),040,S 84° E,Manay (Davao Oriental)
-2025-11-13T13:58:00.000Z,13 November 2025 - 01:58 PM,10.90,123.81,002,2.7,024km S 49° W of City Of Bogo (Cebu),024,S 49° W,City Of Bogo (Cebu)
-2025-11-13T13:32:00.000Z,13 November 2025 - 01:32 PM,11.04,123.85,031,2.1,015km S 88° W of City Of Bogo (Cebu),015,S 88° W,City Of Bogo (Cebu)
-2025-11-13T13:32:00.000Z,13 November 2025 - 01:32 PM,11.04,123.85,031,2.1,015km S 88° W of City Of Bogo (Cebu),015,S 88° W,City Of Bogo (Cebu)
-2025-11-13T13:32:00.000Z,13 November 2025 - 01:32 PM,11.04,123.85,031,2.1,015km S 88° W of City Of Bogo (Cebu),015,S 88° W,City Of Bogo (Cebu)

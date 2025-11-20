@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T14:21:00.000Z,20 November 2025 - 02:21 PM,11.05,123.95,005,1.8,003km N 88° W of City Of Bogo (Cebu),003,N 88° W,City Of Bogo (Cebu)
 2025-11-20T12:48:00.000Z,20 November 2025 - 12:48 PM,11.07,124.10,024,1.7,013km N 77° E of City Of Bogo (Cebu),013,N 77° E,City Of Bogo (Cebu)
 2025-11-20T12:42:00.000Z,20 November 2025 - 12:42 PM,16.33,122.16,017,2.2,008km N 33° E of Casiguran (Aurora),008,N 33° E,Casiguran (Aurora)
 2025-11-20T12:30:00.000Z,20 November 2025 - 12:30 PM,11.20,124.18,011,1.7,028km N 53° E of City Of Bogo (Cebu),028,N 53° E,City Of Bogo (Cebu)
