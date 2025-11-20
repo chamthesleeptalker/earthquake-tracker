@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T18:35:00.000Z,20 November 2025 - 06:35 PM,10.89,123.97,007,1.7,017km S 03° W of City Of Bogo (Cebu),017,S 03° W,City Of Bogo (Cebu)
+2025-11-20T18:12:00.000Z,20 November 2025 - 06:12 PM,05.66,126.62,027,2.7,112km S 76° E of Jose Abad Santos (Davao Occidental),112,S 76° E,Jose Abad Santos (Davao Occidental)
 2025-11-20T18:03:00.000Z,20 November 2025 - 06:03 PM,14.24,120.30,001,1.5,030km S 44° W of Mariveles (Bataan),030,S 44° W,Mariveles (Bataan)
 2025-11-20T17:27:00.000Z,20 November 2025 - 05:27 PM,13.98,120.55,104,1.4,019km N 29° W of Calatagan (Batangas),019,N 29° W,Calatagan (Batangas)
 2025-11-20T15:56:00.000Z,20 November 2025 - 03:56 PM,18.91,121.47,014,3.1,012km N 61° E of Fuga Island (Aparri) (Cagayan),012,N 61° E,Fuga Island (Aparri) (Cagayan)
@@ -468,9 +470,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-13T19:12:00.000Z,13 November 2025 - 07:12 PM,07.73,127.33,025,3.2,087km N 78° E of Baganga (Davao Oriental),087,N 78° E,Baganga (Davao Oriental)
 2025-11-13T19:07:00.000Z,13 November 2025 - 07:07 PM,07.85,126.94,015,1.8,052km N 55° E of Baganga (Davao Oriental),052,N 55° E,Baganga (Davao Oriental)
 2025-11-13T18:42:00.000Z,13 November 2025 - 06:42 PM,07.77,127.16,010,4.3,070km N 72° E of Baganga (Davao Oriental),070,N 72° E,Baganga (Davao Oriental)
-2025-11-13T18:33:00.000Z,13 November 2025 - 06:33 PM,11.73,125.51,019,2.6,007km S 64° E of San Julian (Eastern Samar),007,S 64° E,San Julian (Eastern Samar)
-2025-11-13T18:30:00.000Z,13 November 2025 - 06:30 PM,11.02,124.00,008,2.0,004km S 41° E of City Of Bogo (Cebu),004,S 41° E,City Of Bogo (Cebu)
-2025-11-13T18:26:00.000Z,13 November 2025 - 06:26 PM,07.41,126.79,013,2.9,036km N 52° E of Manay (Davao Oriental),036,N 52° E,Manay (Davao Oriental)
-2025-11-13T18:26:00.000Z,13 November 2025 - 06:26 PM,07.41,126.79,013,2.9,036km N 52° E of Manay (Davao Oriental),036,N 52° E,Manay (Davao Oriental)
-2025-11-13T18:19:00.000Z,13 November 2025 - 06:19 PM,09.52,126.34,031,2.2,035km S 34° E of General Luna (Surigao Del Norte),035,S 34° E,General Luna (Surigao Del Norte)
-2025-11-13T18:33:00.000Z,13 November 2025 - 06:33 PM,16.51,120.30,014,4.6,004km S 49° W of Bauang (La Union),004,S 49° W,Bauang (La Union)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T18:35:00.000Z,20 November 2025 - 06:35 PM,10.89,123.97,007,1.7,017km S 03° W of City Of Bogo (Cebu),017,S 03° W,City Of Bogo (Cebu)
+2025-11-20T18:12:00.000Z,20 November 2025 - 06:12 PM,05.66,126.62,027,2.7,112km S 76° E of Jose Abad Santos (Davao Occidental),112,S 76° E,Jose Abad Santos (Davao Occidental)
 2025-11-20T18:03:00.000Z,20 November 2025 - 06:03 PM,14.24,120.30,001,1.5,030km S 44° W of Mariveles (Bataan),030,S 44° W,Mariveles (Bataan)
 2025-11-20T17:27:00.000Z,20 November 2025 - 05:27 PM,13.98,120.55,104,1.4,019km N 29° W of Calatagan (Batangas),019,N 29° W,Calatagan (Batangas)
 2025-11-20T15:56:00.000Z,20 November 2025 - 03:56 PM,18.91,121.47,014,3.1,012km N 61° E of Fuga Island (Aparri) (Cagayan),012,N 61° E,Fuga Island (Aparri) (Cagayan)
