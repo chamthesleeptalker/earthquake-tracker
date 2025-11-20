@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-21T05:18:00.000Z,21 November 2025 - 05:18 AM,11.16,124.01,029,1.7,013km N 13° E of City Of Bogo (Cebu),013,N 13° E,City Of Bogo (Cebu)
 2025-11-21T05:06:00.000Z,21 November 2025 - 05:06 AM,11.14,123.94,004,1.5,012km N 23° W of City Of Bogo (Cebu),012,N 23° W,City Of Bogo (Cebu)
 2025-11-21T04:43:00.000Z,21 November 2025 - 04:43 AM,16.92,119.90,023,2.9,052km N 82° W of Luna (La Union),052,N 82° W,Luna (La Union)
 2025-11-21T04:37:00.000Z,21 November 2025 - 04:37 AM,15.72,121.95,010,5.0,041km S 84° E of Baler (Aurora),041,S 84° E,Baler (Aurora)
@@ -456,4 +457,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T05:57:00.000Z,14 November 2025 - 05:57 AM,07.71,127.18,010,3.4,069km N 78° E of Baganga (Davao Oriental),069,N 78° E,Baganga (Davao Oriental)
 2025-11-14T05:41:00.000Z,14 November 2025 - 05:41 AM,11.34,125.63,046,2.7,002km S 54° E of Hernani (Eastern Samar),002,S 54° E,Hernani (Eastern Samar)
 2025-11-14T05:37:00.000Z,14 November 2025 - 05:37 AM,09.62,126.15,033,1.4,018km S 01° W of General Luna (Surigao Del Norte),018,S 01° W,General Luna (Surigao Del Norte)
-2025-11-14T05:11:00.000Z,14 November 2025 - 05:11 AM,10.95,123.92,018,2.1,013km S 31° W of City Of Bogo (Cebu),013,S 31° W,City Of Bogo (Cebu)
