@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T12:30:00.000Z,20 November 2025 - 12:30 PM,11.20,124.18,011,1.7,028km N 53° E of City Of Bogo (Cebu),028,N 53° E,City Of Bogo (Cebu)
+2025-11-20T12:24:00.000Z,20 November 2025 - 12:24 PM,11.12,123.97,042,1.6,009km N 09° W of City Of Bogo (Cebu),009,N 09° W,City Of Bogo (Cebu)
+2025-11-20T12:19:00.000Z,20 November 2025 - 12:19 PM,01.96,127.09,155,4.9,424km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),424,S 26° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-20T12:04:00.000Z,20 November 2025 - 12:04 PM,07.40,124.16,022,1.8,012km N 78° W of Parang (Maguindanao Del Norte),012,N 78° W,Parang (Maguindanao Del Norte)
 2025-11-20T11:38:00.000Z,20 November 2025 - 11:38 AM,19.16,121.26,005,3.1,008km N 44° E of Dalupiri Island (Calayan) (Cagayan),008,N 44° E,Dalupiri Island (Calayan) (Cagayan)
 2025-11-20T11:11:00.000Z,20 November 2025 - 11:11 AM,11.03,123.96,031,1.8,002km S 50° W of City Of Bogo (Cebu),002,S 50° W,City Of Bogo (Cebu)
