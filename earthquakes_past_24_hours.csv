@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-20T22:16:00.000Z,20 November 2025 - 10:16 PM,15.91,119.75,028,1.6,016km S 57° W of Dasol (Pangasinan),016,S 57° W,Dasol (Pangasinan)
+2025-11-20T22:15:00.000Z,20 November 2025 - 10:15 PM,13.83,120.48,081,2.9,017km S 88° W of Calatagan (Batangas),017,S 88° W,Calatagan (Batangas)
+2025-11-20T22:10:00.000Z,20 November 2025 - 10:10 PM,12.99,122.79,024,1.8,025km S 53° W of San Pascual (Masbate),025,S 53° W,San Pascual (Masbate)
 2025-11-20T21:55:00.000Z,20 November 2025 - 09:55 PM,07.09,127.10,017,2.4,064km S 78° E of Manay (Davao Oriental),064,S 78° E,Manay (Davao Oriental)
 2025-11-20T21:55:00.000Z,20 November 2025 - 09:55 PM,08.39,125.98,032,1.7,003km N 74° W of Rosario (Agusan Del Sur),003,N 74° W,Rosario (Agusan Del Sur)
 2025-11-20T21:29:00.000Z,20 November 2025 - 09:29 PM,07.94,126.00,033,2.5,006km S 31° W of Santa Josefa (Agusan Del Sur),006,S 31° W,Santa Josefa (Agusan Del Sur)
@@ -64,5 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T22:29:00.000Z,19 November 2025 - 10:29 PM,09.64,126.18,034,1.2,016km S 11° E of General Luna (Surigao Del Norte),016,S 11° E,General Luna (Surigao Del Norte)
 2025-11-19T22:26:00.000Z,19 November 2025 - 10:26 PM,07.35,126.69,024,1.8,023km N 48° E of Manay (Davao Oriental),023,N 48° E,Manay (Davao Oriental)
 2025-11-19T22:17:00.000Z,19 November 2025 - 10:17 PM,09.66,126.11,034,2.7,014km S 21° W of General Luna (Surigao Del Norte),014,S 21° W,General Luna (Surigao Del Norte)
-2025-11-19T22:09:00.000Z,19 November 2025 - 10:09 PM,11.03,124.09,031,1.4,012km S 83° E of City Of Bogo (Cebu),012,S 83° E,City Of Bogo (Cebu)
-2025-11-19T21:59:00.000Z,19 November 2025 - 09:59 PM,08.89,126.21,043,1.8,011km S 72° W of Cagwait (Surigao Del Sur),011,S 72° W,Cagwait (Surigao Del Sur)
