@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T00:15:00.000Z,22 November 2025 - 12:15 AM,17.29,121.06,028,1.6,009km N 72° W of Tinglayan (Kalinga),009,N 72° W,Tinglayan (Kalinga)
 2025-11-21T23:22:00.000Z,21 November 2025 - 11:22 PM,11.02,123.95,023,1.7,004km S 52° W of City Of Bogo (Cebu),004,S 52° W,City Of Bogo (Cebu)
 2025-11-21T22:41:00.000Z,21 November 2025 - 10:41 PM,16.92,121.63,027,2.0,005km S 51° W of Cabatuan (Isabela),005,S 51° W,Cabatuan (Isabela)
 2025-11-21T22:35:00.000Z,21 November 2025 - 10:35 PM,15.74,121.93,010,2.7,040km S 87° E of Baler (Aurora),040,S 87° E,Baler (Aurora)
@@ -52,4 +53,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,14.71,120.40,094,1.6,011km N 03° W of Bagac (Bataan),011,N 03° W,Bagac (Bataan)
 2025-11-21T00:20:00.000Z,21 November 2025 - 12:20 AM,11.18,124.03,024,1.8,016km N 21° E of City Of Bogo (Cebu),016,N 21° E,City Of Bogo (Cebu)
 2025-11-21T00:16:00.000Z,21 November 2025 - 12:16 AM,09.55,125.94,035,1.5,008km S 21° W of Socorro (Surigao Del Norte),008,S 21° W,Socorro (Surigao Del Norte)
-2025-11-20T23:58:00.000Z,20 November 2025 - 11:58 PM,09.67,126.31,033,1.5,021km S 54° E of General Luna (Surigao Del Norte),021,S 54° E,General Luna (Surigao Del Norte)
