@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-21T18:28:00.000Z,21 November 2025 - 06:28 PM,11.11,124.02,025,1.5,009km N 31° E of City Of Bogo (Cebu),009,N 31° E,City Of Bogo (Cebu)
 2025-11-21T17:59:00.000Z,21 November 2025 - 05:59 PM,15.71,121.96,017,1.7,042km S 82° E of Baler (Aurora),042,S 82° E,Baler (Aurora)
 2025-11-21T17:57:00.000Z,21 November 2025 - 05:57 PM,10.95,123.87,001,2.2,016km S 49° W of City Of Bogo (Cebu),016,S 49° W,City Of Bogo (Cebu)
 2025-11-21T17:47:00.000Z,21 November 2025 - 05:47 PM,15.76,121.88,004,3.0,034km N 89° E of Baler (Aurora),034,N 89° E,Baler (Aurora)
