@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-21T22:35:00.000Z,21 November 2025 - 10:35 PM,15.74,121.93,010,2.7,040km S 87° E of Baler (Aurora),040,S 87° E,Baler (Aurora)
+2025-11-21T22:27:00.000Z,21 November 2025 - 10:27 PM,15.55,120.13,041,1.9,018km N 85° E of Masinloc (Zambales),018,N 85° E,Masinloc (Zambales)
+2025-11-21T22:18:00.000Z,21 November 2025 - 10:18 PM,15.78,121.86,007,2.1,032km N 87° E of Baler (Aurora),032,N 87° E,Baler (Aurora)
+2025-11-21T22:17:00.000Z,21 November 2025 - 10:17 PM,15.73,121.90,012,2.9,036km S 85° E of Baler (Aurora),036,S 85° E,Baler (Aurora)
 2025-11-21T21:43:00.000Z,21 November 2025 - 09:43 PM,09.06,126.21,042,1.6,005km S 74° E of City Of Tandag (Surigao Del Sur),005,S 74° E,City Of Tandag (Surigao Del Sur)
 2025-11-21T21:35:00.000Z,21 November 2025 - 09:35 PM,15.73,121.96,017,1.7,042km S 85° E of Baler (Aurora),042,S 85° E,Baler (Aurora)
 2025-11-21T20:54:00.000Z,21 November 2025 - 08:54 PM,09.65,126.23,034,2.2,017km S 28° E of General Luna (Surigao Del Norte),017,S 28° E,General Luna (Surigao Del Norte)
@@ -442,6 +446,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T22:47:00.000Z,14 November 2025 - 10:47 PM,12.41,125.88,013,3.5,048km N 58° E of San Policarpo (Eastern Samar),048,N 58° E,San Policarpo (Eastern Samar)
 2025-11-14T22:40:00.000Z,14 November 2025 - 10:40 PM,09.47,122.52,015,2.5,015km N 62° W of Basay (Negros Oriental),015,N 62° W,Basay (Negros Oriental)
 2025-11-14T22:37:00.000Z,14 November 2025 - 10:37 PM,07.30,126.60,033,1.7,012km N 34° E of Manay (Davao Oriental),012,N 34° E,Manay (Davao Oriental)
-2025-11-14T22:25:00.000Z,14 November 2025 - 10:25 PM,10.92,123.97,010,2.4,014km S 03° W of City Of Bogo (Cebu),014,S 03° W,City Of Bogo (Cebu)
-2025-11-14T22:10:00.000Z,14 November 2025 - 10:10 PM,11.17,124.03,032,1.5,014km N 21° E of City Of Bogo (Cebu),014,N 21° E,City Of Bogo (Cebu)
-2025-11-14T22:03:00.000Z,14 November 2025 - 10:03 PM,07.01,126.75,133,2.7,033km S 47° E of Manay (Davao Oriental),033,S 47° E,Manay (Davao Oriental)

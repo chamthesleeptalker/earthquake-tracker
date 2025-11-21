@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-21T22:35:00.000Z,21 November 2025 - 10:35 PM,15.74,121.93,010,2.7,040km S 87° E of Baler (Aurora),040,S 87° E,Baler (Aurora)
+2025-11-21T22:27:00.000Z,21 November 2025 - 10:27 PM,15.55,120.13,041,1.9,018km N 85° E of Masinloc (Zambales),018,N 85° E,Masinloc (Zambales)
+2025-11-21T22:18:00.000Z,21 November 2025 - 10:18 PM,15.78,121.86,007,2.1,032km N 87° E of Baler (Aurora),032,N 87° E,Baler (Aurora)
+2025-11-21T22:17:00.000Z,21 November 2025 - 10:17 PM,15.73,121.90,012,2.9,036km S 85° E of Baler (Aurora),036,S 85° E,Baler (Aurora)
 2025-11-21T21:43:00.000Z,21 November 2025 - 09:43 PM,09.06,126.21,042,1.6,005km S 74° E of City Of Tandag (Surigao Del Sur),005,S 74° E,City Of Tandag (Surigao Del Sur)
 2025-11-21T21:35:00.000Z,21 November 2025 - 09:35 PM,15.73,121.96,017,1.7,042km S 85° E of Baler (Aurora),042,S 85° E,Baler (Aurora)
 2025-11-21T20:54:00.000Z,21 November 2025 - 08:54 PM,09.65,126.23,034,2.2,017km S 28° E of General Luna (Surigao Del Norte),017,S 28° E,General Luna (Surigao Del Norte)
@@ -48,8 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T00:16:00.000Z,21 November 2025 - 12:16 AM,09.55,125.94,035,1.5,008km S 21° W of Socorro (Surigao Del Norte),008,S 21° W,Socorro (Surigao Del Norte)
 2025-11-20T23:58:00.000Z,20 November 2025 - 11:58 PM,09.67,126.31,033,1.5,021km S 54° E of General Luna (Surigao Del Norte),021,S 54° E,General Luna (Surigao Del Norte)
 2025-11-20T23:07:00.000Z,20 November 2025 - 11:07 PM,09.74,126.14,026,2.8,005km S 21° W of General Luna (Surigao Del Norte),005,S 21° W,General Luna (Surigao Del Norte)
-2025-11-20T22:16:00.000Z,20 November 2025 - 10:16 PM,15.91,119.75,028,1.6,016km S 57° W of Dasol (Pangasinan),016,S 57° W,Dasol (Pangasinan)
-2025-11-20T22:15:00.000Z,20 November 2025 - 10:15 PM,13.83,120.48,081,2.9,017km S 88° W of Calatagan (Batangas),017,S 88° W,Calatagan (Batangas)
-2025-11-20T22:10:00.000Z,20 November 2025 - 10:10 PM,12.99,122.79,024,1.8,025km S 53° W of San Pascual (Masbate),025,S 53° W,San Pascual (Masbate)
-2025-11-20T21:55:00.000Z,20 November 2025 - 09:55 PM,07.09,127.10,017,2.4,064km S 78° E of Manay (Davao Oriental),064,S 78° E,Manay (Davao Oriental)
-2025-11-20T21:55:00.000Z,20 November 2025 - 09:55 PM,08.39,125.98,032,1.7,003km N 74° W of Rosario (Agusan Del Sur),003,N 74° W,Rosario (Agusan Del Sur)
