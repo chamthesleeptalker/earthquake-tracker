@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T04:20:00.000Z,22 November 2025 - 04:20 AM,15.73,121.93,011,1.7,040km S 85° E of Baler (Aurora),040,S 85° E,Baler (Aurora)
+2025-11-22T04:14:00.000Z,22 November 2025 - 04:14 AM,06.59,125.28,006,1.8,004km S 41° E of Kiblawan (Davao Del Sur),004,S 41° E,Kiblawan (Davao Del Sur)
 2025-11-22T03:48:00.000Z,22 November 2025 - 03:48 AM,16.41,120.27,015,1.9,008km S 76° W of Caba (La Union),008,S 76° W,Caba (La Union)
 2025-11-22T03:33:00.000Z,22 November 2025 - 03:33 AM,09.22,126.31,027,2.7,014km S 66° E of Cortes (Surigao Del Sur),014,S 66° E,Cortes (Surigao Del Sur)
 2025-11-22T03:13:00.000Z,22 November 2025 - 03:13 AM,08.50,126.91,022,2.1,081km S 56° E of Cagwait (Surigao Del Sur),081,S 56° E,Cagwait (Surigao Del Sur)

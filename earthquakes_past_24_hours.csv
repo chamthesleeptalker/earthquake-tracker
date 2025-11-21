@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T04:20:00.000Z,22 November 2025 - 04:20 AM,15.73,121.93,011,1.7,040km S 85° E of Baler (Aurora),040,S 85° E,Baler (Aurora)
+2025-11-22T04:14:00.000Z,22 November 2025 - 04:14 AM,06.59,125.28,006,1.8,004km S 41° E of Kiblawan (Davao Del Sur),004,S 41° E,Kiblawan (Davao Del Sur)
 2025-11-22T03:48:00.000Z,22 November 2025 - 03:48 AM,16.41,120.27,015,1.9,008km S 76° W of Caba (La Union),008,S 76° W,Caba (La Union)
 2025-11-22T03:33:00.000Z,22 November 2025 - 03:33 AM,09.22,126.31,027,2.7,014km S 66° E of Cortes (Surigao Del Sur),014,S 66° E,Cortes (Surigao Del Sur)
 2025-11-22T03:13:00.000Z,22 November 2025 - 03:13 AM,08.50,126.91,022,2.1,081km S 56° E of Cagwait (Surigao Del Sur),081,S 56° E,Cagwait (Surigao Del Sur)
@@ -54,6 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T05:06:00.000Z,21 November 2025 - 05:06 AM,11.14,123.94,004,1.5,012km N 23° W of City Of Bogo (Cebu),012,N 23° W,City Of Bogo (Cebu)
 2025-11-21T04:43:00.000Z,21 November 2025 - 04:43 AM,16.92,119.90,023,2.9,052km N 82° W of Luna (La Union),052,N 82° W,Luna (La Union)
 2025-11-21T04:37:00.000Z,21 November 2025 - 04:37 AM,15.72,121.95,010,5.0,041km S 84° E of Baler (Aurora),041,S 84° E,Baler (Aurora)
-2025-11-21T04:01:00.000Z,21 November 2025 - 04:01 AM,11.08,124.00,031,2.0,005km N 36° E of City Of Bogo (Cebu),005,N 36° E,City Of Bogo (Cebu)
-2025-11-21T04:01:00.000Z,21 November 2025 - 04:01 AM,09.65,126.13,030,1.9,015km S 11° W of General Luna (Surigao Del Norte),015,S 11° W,General Luna (Surigao Del Norte)
-2025-11-21T03:56:00.000Z,21 November 2025 - 03:56 AM,13.73,120.60,099,1.7,012km S 16° W of Calatagan (Batangas),012,S 16° W,Calatagan (Batangas)
