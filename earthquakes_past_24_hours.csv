@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T05:23:00.000Z,22 November 2025 - 05:23 AM,07.79,127.08,014,2.7,062km N 67° E of Baganga (Davao Oriental),062,N 67° E,Baganga (Davao Oriental)
+2025-11-22T05:16:00.000Z,22 November 2025 - 05:16 AM,10.90,123.97,003,2.4,016km S 03° W of City Of Bogo (Cebu),016,S 03° W,City Of Bogo (Cebu)
 2025-11-22T04:20:00.000Z,22 November 2025 - 04:20 AM,15.73,121.93,011,1.7,040km S 85° E of Baler (Aurora),040,S 85° E,Baler (Aurora)
 2025-11-22T04:14:00.000Z,22 November 2025 - 04:14 AM,06.59,125.28,006,1.8,004km S 41° E of Kiblawan (Davao Del Sur),004,S 41° E,Kiblawan (Davao Del Sur)
 2025-11-22T03:48:00.000Z,22 November 2025 - 03:48 AM,16.41,120.27,015,1.9,008km S 76° W of Caba (La Union),008,S 76° W,Caba (La Union)
@@ -52,7 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T06:09:00.000Z,21 November 2025 - 06:09 AM,08.54,125.56,054,2.3,018km S 32° W of Esperanza (Agusan Del Sur),018,S 32° W,Esperanza (Agusan Del Sur)
 2025-11-21T05:45:00.000Z,21 November 2025 - 05:45 AM,04.93,125.19,035,2.7,059km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),059,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-21T05:42:00.000Z,21 November 2025 - 05:42 AM,15.76,121.90,005,2.4,036km S 89° E of Baler (Aurora),036,S 89° E,Baler (Aurora)
-2025-11-21T05:18:00.000Z,21 November 2025 - 05:18 AM,11.16,124.01,029,1.7,013km N 13° E of City Of Bogo (Cebu),013,N 13° E,City Of Bogo (Cebu)
-2025-11-21T05:06:00.000Z,21 November 2025 - 05:06 AM,11.14,123.94,004,1.5,012km N 23° W of City Of Bogo (Cebu),012,N 23° W,City Of Bogo (Cebu)
-2025-11-21T04:43:00.000Z,21 November 2025 - 04:43 AM,16.92,119.90,023,2.9,052km N 82° W of Luna (La Union),052,N 82° W,Luna (La Union)
-2025-11-21T04:37:00.000Z,21 November 2025 - 04:37 AM,15.72,121.95,010,5.0,041km S 84° E of Baler (Aurora),041,S 84° E,Baler (Aurora)
