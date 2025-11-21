@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-21T17:59:00.000Z,21 November 2025 - 05:59 PM,15.71,121.96,017,1.7,042km S 82° E of Baler (Aurora),042,S 82° E,Baler (Aurora)
+2025-11-21T17:57:00.000Z,21 November 2025 - 05:57 PM,10.95,123.87,001,2.2,016km S 49° W of City Of Bogo (Cebu),016,S 49° W,City Of Bogo (Cebu)
+2025-11-21T17:47:00.000Z,21 November 2025 - 05:47 PM,15.76,121.88,004,3.0,034km N 89° E of Baler (Aurora),034,N 89° E,Baler (Aurora)
+2025-11-21T17:43:00.000Z,21 November 2025 - 05:43 PM,08.25,123.38,020,2.1,011km N 18° E of Dumingag (Zamboanga Del Sur),011,N 18° E,Dumingag (Zamboanga Del Sur)
+2025-11-21T17:39:00.000Z,21 November 2025 - 05:39 PM,09.61,126.09,010,2.8,014km S 85° E of Socorro (Surigao Del Norte),014,S 85° E,Socorro (Surigao Del Norte)
 2025-11-21T17:16:00.000Z,21 November 2025 - 05:16 PM,06.99,127.00,011,2.5,057km S 65° E of Manay (Davao Oriental),057,S 65° E,Manay (Davao Oriental)
 2025-11-21T16:19:00.000Z,21 November 2025 - 04:19 PM,07.88,126.79,020,1.8,039km N 75° E of Cateel (Davao Oriental),039,N 75° E,Cateel (Davao Oriental)
 2025-11-21T15:15:00.000Z,21 November 2025 - 03:15 PM,11.15,123.98,009,2.3,006km N 46° W of City Of Bogo (Cebu),006,N 46° W,City Of Bogo (Cebu)
@@ -397,7 +402,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T11:27:00.000Z,15 November 2025 - 11:27 AM,08.78,126.25,033,1.3,016km S 20° W of Cagwait (Surigao Del Sur),016,S 20° W,Cagwait (Surigao Del Sur)
 2025-11-15T09:45:00.000Z,15 November 2025 - 09:45 AM,06.48,126.77,036,2.8,072km S 29° E of Tarragona (Davao Oriental),072,S 29° E,Tarragona (Davao Oriental)
 2025-11-15T09:22:00.000Z,15 November 2025 - 09:22 AM,08.68,126.64,013,1.9,039km S 71° E of Marihatag (Surigao Del Sur),039,S 71° E,Marihatag (Surigao Del Sur)
-2025-11-14T17:41:00.000Z,14 November 2025 - 05:41 PM,09.11,123.94,034,1.8,033km S 74° E of Maria (Siquijor),033,S 74° E,Maria (Siquijor)
 2025-11-15T09:05:00.000Z,15 November 2025 - 09:05 AM,16.16,119.98,034,2.1,001km N 21° E of City Of Alaminos (Pangasinan),001,N 21° E,City Of Alaminos (Pangasinan)
 2025-11-15T08:22:00.000Z,15 November 2025 - 08:22 AM,06.75,126.09,027,3.2,009km S 04° E of San Isidro (Davao Oriental),009,S 04° E,San Isidro (Davao Oriental)
 2025-11-15T08:03:00.000Z,15 November 2025 - 08:03 AM,10.95,123.98,010,2.7,010km S 01° E of City Of Bogo (Cebu),010,S 01° E,City Of Bogo (Cebu)
@@ -440,5 +444,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-14T18:35:00.000Z,14 November 2025 - 06:35 PM,09.63,126.15,031,1.3,017km S 03° W of General Luna (Surigao Del Norte),017,S 03° W,General Luna (Surigao Del Norte)
 2025-11-14T18:30:00.000Z,14 November 2025 - 06:30 PM,10.16,126.55,017,2.7,055km N 73° E of Burgos (Surigao Del Norte),055,N 73° E,Burgos (Surigao Del Norte)
 2025-11-14T18:20:00.000Z,14 November 2025 - 06:20 PM,10.21,126.70,021,3.1,072km N 73° E of Burgos (Surigao Del Norte),072,N 73° E,Burgos (Surigao Del Norte)
-2025-11-14T17:52:00.000Z,14 November 2025 - 05:52 PM,11.04,124.04,007,3.1,007km S 86° E of City Of Bogo (Cebu),007,S 86° E,City Of Bogo (Cebu)
-2025-11-14T17:42:00.000Z,14 November 2025 - 05:42 PM,12.22,125.34,002,2.1,006km S 34° W of Arteche (Eastern Samar),006,S 34° W,Arteche (Eastern Samar)
