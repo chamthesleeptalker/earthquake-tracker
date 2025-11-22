@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T14:47:00.000Z,22 November 2025 - 02:47 PM,14.22,120.25,064,1.6,035km S 48° W of Mariveles (Bataan),035,S 48° W,Mariveles (Bataan)
 2025-11-22T14:09:00.000Z,22 November 2025 - 02:09 PM,11.60,124.37,008,2.6,003km S 17° W of Almeria (Biliran),003,S 17° W,Almeria (Biliran)
 2025-11-22T13:44:00.000Z,22 November 2025 - 01:44 PM,07.40,126.70,020,2.4,027km N 40° E of Manay (Davao Oriental),027,N 40° E,Manay (Davao Oriental)
 2025-11-22T13:29:00.000Z,22 November 2025 - 01:29 PM,09.65,126.28,032,2.0,020km S 41° E of General Luna (Surigao Del Norte),020,S 41° E,General Luna (Surigao Del Norte)
@@ -55,6 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T17:16:00.000Z,21 November 2025 - 05:16 PM,06.99,127.00,011,2.5,057km S 65° E of Manay (Davao Oriental),057,S 65° E,Manay (Davao Oriental)
 2025-11-21T16:19:00.000Z,21 November 2025 - 04:19 PM,07.88,126.79,020,1.8,039km N 75° E of Cateel (Davao Oriental),039,N 75° E,Cateel (Davao Oriental)
 2025-11-21T15:15:00.000Z,21 November 2025 - 03:15 PM,11.15,123.98,009,2.3,006km N 46° W of City Of Bogo (Cebu),006,N 46° W,City Of Bogo (Cebu)
-2025-11-21T14:43:00.000Z,21 November 2025 - 02:43 PM,11.38,124.45,027,2.6,004km N 72° W of Leyte (Leyte),004,N 72° W,Leyte (Leyte)
-2025-11-21T14:31:00.000Z,21 November 2025 - 02:31 PM,15.24,119.88,034,1.5,014km S 49° W of Iba (Zambales),014,S 49° W,Iba (Zambales)
-2025-11-21T14:17:00.000Z,21 November 2025 - 02:17 PM,11.02,124.02,002,2.5,005km S 49° E of City Of Bogo (Cebu),005,S 49° E,City Of Bogo (Cebu)
