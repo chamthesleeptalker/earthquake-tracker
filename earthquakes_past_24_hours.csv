@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T15:18:00.000Z,22 November 2025 - 03:18 PM,09.59,125.28,036,1.3,014km S 77° W of Malimono (Surigao Del Norte),014,S 77° W,Malimono (Surigao Del Norte)
+2025-11-22T15:09:00.000Z,22 November 2025 - 03:09 PM,16.73,119.96,018,2.0,038km N 11° E of Bolinao (Pangasinan),038,N 11° E,Bolinao (Pangasinan)
 2025-11-22T14:47:00.000Z,22 November 2025 - 02:47 PM,14.22,120.25,064,1.6,035km S 48° W of Mariveles (Bataan),035,S 48° W,Mariveles (Bataan)
 2025-11-22T14:09:00.000Z,22 November 2025 - 02:09 PM,11.60,124.37,008,2.6,003km S 17° W of Almeria (Biliran),003,S 17° W,Almeria (Biliran)
 2025-11-22T13:44:00.000Z,22 November 2025 - 01:44 PM,07.40,126.70,020,2.4,027km N 40° E of Manay (Davao Oriental),027,N 40° E,Manay (Davao Oriental)
@@ -55,4 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T17:39:00.000Z,21 November 2025 - 05:39 PM,09.61,126.09,010,2.8,014km S 85° E of Socorro (Surigao Del Norte),014,S 85° E,Socorro (Surigao Del Norte)
 2025-11-21T17:16:00.000Z,21 November 2025 - 05:16 PM,06.99,127.00,011,2.5,057km S 65° E of Manay (Davao Oriental),057,S 65° E,Manay (Davao Oriental)
 2025-11-21T16:19:00.000Z,21 November 2025 - 04:19 PM,07.88,126.79,020,1.8,039km N 75° E of Cateel (Davao Oriental),039,N 75° E,Cateel (Davao Oriental)
-2025-11-21T15:15:00.000Z,21 November 2025 - 03:15 PM,11.15,123.98,009,2.3,006km N 46° W of City Of Bogo (Cebu),006,N 46° W,City Of Bogo (Cebu)
