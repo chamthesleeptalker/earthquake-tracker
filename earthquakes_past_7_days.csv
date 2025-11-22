@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T12:25:00.000Z,22 November 2025 - 12:25 PM,13.53,120.73,111,1.8,010km North of Abra De Ilog (Occidental Mindoro),010,North of Abra,Ilog (Occidental Mindoro)
 2025-11-22T11:30:00.000Z,22 November 2025 - 11:30 AM,12.55,124.77,033,1.9,004km N 24° E of Mondragon (Northern Samar),004,N 24° E,Mondragon (Northern Samar)
 2025-11-22T10:37:00.000Z,22 November 2025 - 10:37 AM,11.15,123.89,007,2.7,016km N 40° W of City Of Bogo (Cebu),016,N 40° W,City Of Bogo (Cebu)
 2025-11-22T10:31:00.000Z,22 November 2025 - 10:31 AM,19.00,121.33,001,2.2,017km S 48° E of Dalupiri Island (Calayan) (Cagayan),017,S 48° E,Dalupiri Island (Calayan) (Cagayan)
@@ -438,5 +439,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T13:33:00.000Z,15 November 2025 - 01:33 PM,03.62,127.08,010,5.7,270km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),270,S 43° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-15T13:19:00.000Z,15 November 2025 - 01:19 PM,11.14,123.97,031,1.8,010km N 04° W of City Of Bogo (Cebu),010,N 04° W,City Of Bogo (Cebu)
 2025-11-15T13:12:00.000Z,15 November 2025 - 01:12 PM,09.09,126.32,031,2.4,019km N 06° E of Cagwait (Surigao Del Sur),019,N 06° E,Cagwait (Surigao Del Sur)
-2025-11-15T12:05:00.000Z,15 November 2025 - 12:05 PM,07.50,124.88,007,1.4,007km N 79° W of Damulog (Bukidnon),007,N 79° W,Damulog (Bukidnon)
-2025-11-15T11:33:00.000Z,15 November 2025 - 11:33 AM,11.04,124.06,003,2.1,008km S 88° E of City Of Bogo (Cebu),008,S 88° E,City Of Bogo (Cebu)
