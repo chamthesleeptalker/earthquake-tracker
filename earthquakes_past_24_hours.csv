@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T23:17:00.000Z,22 November 2025 - 11:17 PM,04.05,127.07,034,4.4,237km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),237,S 51° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-22T22:18:00.000Z,22 November 2025 - 10:18 PM,15.80,122.01,024,1.6,038km S 09° E of Dinalungan (Aurora),038,S 09° E,Dinalungan (Aurora)
 2025-11-22T22:17:00.000Z,22 November 2025 - 10:17 PM,15.71,122.03,013,2.4,048km S 09° E of Dinalungan (Aurora),048,S 09° E,Dinalungan (Aurora)
 2025-11-22T21:05:00.000Z,22 November 2025 - 09:05 PM,09.52,126.10,004,2.3,030km S 13° W of General Luna (Surigao Del Norte),030,S 13° W,General Luna (Surigao Del Norte)
@@ -49,7 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T00:20:00.000Z,22 November 2025 - 12:20 AM,15.74,121.95,019,2.0,042km S 87° E of Baler (Aurora),042,S 87° E,Baler (Aurora)
 2025-11-22T00:15:00.000Z,22 November 2025 - 12:15 AM,17.29,121.06,028,1.6,009km N 72° W of Tinglayan (Kalinga),009,N 72° W,Tinglayan (Kalinga)
 2025-11-21T23:22:00.000Z,21 November 2025 - 11:22 PM,11.02,123.95,023,1.7,004km S 52° W of City Of Bogo (Cebu),004,S 52° W,City Of Bogo (Cebu)
-2025-11-21T22:41:00.000Z,21 November 2025 - 10:41 PM,16.92,121.63,027,2.0,005km S 51° W of Cabatuan (Isabela),005,S 51° W,Cabatuan (Isabela)
-2025-11-21T22:35:00.000Z,21 November 2025 - 10:35 PM,15.74,121.93,010,2.7,040km S 87° E of Baler (Aurora),040,S 87° E,Baler (Aurora)
-2025-11-21T22:27:00.000Z,21 November 2025 - 10:27 PM,15.55,120.13,041,1.9,018km N 85° E of Masinloc (Zambales),018,N 85° E,Masinloc (Zambales)
-2025-11-21T22:18:00.000Z,21 November 2025 - 10:18 PM,15.78,121.86,007,2.1,032km N 87° E of Baler (Aurora),032,N 87° E,Baler (Aurora)
