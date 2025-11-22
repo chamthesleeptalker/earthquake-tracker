@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T06:21:00.000Z,23 November 2025 - 06:21 AM,13.09,124.62,004,2.3,047km N 84° E of Prieto Diaz (Sorsogon),047,N 84° E,Prieto Diaz (Sorsogon)
 2025-11-23T05:17:00.000Z,23 November 2025 - 05:17 AM,11.70,125.93,007,2.1,051km N 41° E of Hernani (Eastern Samar),051,N 41° E,Hernani (Eastern Samar)
 2025-11-23T05:29:00.000Z,23 November 2025 - 05:29 AM,09.66,126.23,032,1.8,016km S 31° E of General Luna (Surigao Del Norte),016,S 31° E,General Luna (Surigao Del Norte)
 2025-11-23T05:24:00.000Z,23 November 2025 - 05:24 AM,05.82,126.21,023,3.0,063km S 81° E of Jose Abad Santos (Davao Occidental),063,S 81° E,Jose Abad Santos (Davao Occidental)
@@ -418,4 +419,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T07:20:00.000Z,16 November 2025 - 07:20 AM,11.16,123.91,002,2.7,015km N 30° W of City Of Bogo (Cebu),015,N 30° W,City Of Bogo (Cebu)
 2025-11-16T07:10:00.000Z,16 November 2025 - 07:10 AM,11.15,123.96,011,2.2,012km N 12° W of City Of Bogo (Cebu),012,N 12° W,City Of Bogo (Cebu)
 2025-11-16T06:43:00.000Z,16 November 2025 - 06:43 AM,12.81,121.26,007,1.8,022km S 73° W of Bansud (Oriental Mindoro),022,S 73° W,Bansud (Oriental Mindoro)
-2025-11-16T05:45:00.000Z,16 November 2025 - 05:45 AM,02.24,122.47,033,3.7,394km S 34° E of South Ubian (Tawi-tawi),394,S 34° E,South Ubian (Tawi-tawi)
