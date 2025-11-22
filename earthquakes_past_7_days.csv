@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T02:38:00.000Z,23 November 2025 - 02:38 AM,07.68,127.19,007,2.6,070km N 80° E of Baganga (Davao Oriental),070,N 80° E,Baganga (Davao Oriental)
 2025-11-23T01:32:00.000Z,23 November 2025 - 01:32 AM,10.97,123.94,017,3.1,009km S 31° W of City Of Bogo (Cebu),009,S 31° W,City Of Bogo (Cebu)
 2025-11-23T01:18:00.000Z,23 November 2025 - 01:18 AM,18.18,120.74,005,3.9,003km N 57° E of Piddig (Ilocos Norte),003,N 57° E,Piddig (Ilocos Norte)
 2025-11-23T00:40:00.000Z,23 November 2025 - 12:40 AM,06.55,126.31,019,2.0,029km S 67° E of Governor Generoso (Davao Oriental),029,S 67° E,Governor Generoso (Davao Oriental)
@@ -421,8 +422,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T04:07:00.000Z,16 November 2025 - 04:07 AM,08.95,126.30,056,1.6,003km S 40° E of Bayabas (Surigao Del Sur),003,S 40° E,Bayabas (Surigao Del Sur)
 2025-11-16T03:09:00.000Z,16 November 2025 - 03:09 AM,15.25,119.92,032,1.5,010km S 38° W of Iba (Zambales),010,S 38° W,Iba (Zambales)
 2025-11-16T02:59:00.000Z,16 November 2025 - 02:59 AM,07.13,126.53,012,2.6,009km S 06° W of Manay (Davao Oriental),009,S 06° W,Manay (Davao Oriental)
-2025-11-16T02:24:00.000Z,16 November 2025 - 02:24 AM,09.62,126.22,034,1.5,020km S 22° E of General Luna (Surigao Del Norte),020,S 22° E,General Luna (Surigao Del Norte)
-2025-11-16T02:23:00.000Z,16 November 2025 - 02:23 AM,13.54,120.18,020,2.1,021km S 22° W of Looc (Occidental Mindoro),021,S 22° W,Looc (Occidental Mindoro)
-2025-11-16T02:22:00.000Z,16 November 2025 - 02:22 AM,13.68,120.69,108,1.6,018km S 20° E of Calatagan (Batangas),018,S 20° E,Calatagan (Batangas)
-2025-11-16T01:40:00.000Z,16 November 2025 - 01:40 AM,07.23,126.66,031,1.8,014km N 83° E of Manay (Davao Oriental),014,N 83° E,Manay (Davao Oriental)
-2025-11-16T01:37:00.000Z,16 November 2025 - 01:37 AM,07.99,126.04,029,2.2,001km N 45° E of Santa Josefa (Agusan Del Sur),001,N 45° E,Santa Josefa (Agusan Del Sur)
