@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T08:28:00.000Z,22 November 2025 - 08:28 AM,07.20,126.84,016,3.2,033km S 87° E of Manay (Davao Oriental),033,S 87° E,Manay (Davao Oriental)
+2025-11-22T08:00:00.000Z,22 November 2025 - 08:00 AM,06.49,125.66,201,4.5,010km N 33° E of Malita (Davao Occidental),010,N 33° E,Malita (Davao Occidental)
+2025-11-22T07:45:00.000Z,22 November 2025 - 07:45 AM,07.14,126.85,019,2.2,035km S 77° E of Manay (Davao Oriental),035,S 77° E,Manay (Davao Oriental)
 2025-11-22T07:11:00.000Z,22 November 2025 - 07:11 AM,09.55,126.17,030,2.0,025km S 02° E of General Luna (Surigao Del Norte),025,S 02° E,General Luna (Surigao Del Norte)
 2025-11-22T05:23:00.000Z,22 November 2025 - 05:23 AM,07.79,127.08,014,2.7,062km N 67° E of Baganga (Davao Oriental),062,N 67° E,Baganga (Davao Oriental)
 2025-11-22T05:16:00.000Z,22 November 2025 - 05:16 AM,10.90,123.97,003,2.4,016km S 03° W of City Of Bogo (Cebu),016,S 03° W,City Of Bogo (Cebu)
