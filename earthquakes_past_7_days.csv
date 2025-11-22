@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T14:09:00.000Z,22 November 2025 - 02:09 PM,11.60,124.37,008,2.6,003km S 17° W of Almeria (Biliran),003,S 17° W,Almeria (Biliran)
+2025-11-22T13:44:00.000Z,22 November 2025 - 01:44 PM,07.40,126.70,020,2.4,027km N 40° E of Manay (Davao Oriental),027,N 40° E,Manay (Davao Oriental)
 2025-11-22T13:29:00.000Z,22 November 2025 - 01:29 PM,09.65,126.28,032,2.0,020km S 41° E of General Luna (Surigao Del Norte),020,S 41° E,General Luna (Surigao Del Norte)
 2025-11-22T12:25:00.000Z,22 November 2025 - 12:25 PM,13.53,120.73,111,1.8,010km North of Abra De Ilog (Occidental Mindoro),010,North of Abra,Ilog (Occidental Mindoro)
 2025-11-22T11:30:00.000Z,22 November 2025 - 11:30 AM,12.55,124.77,033,1.9,004km N 24° E of Mondragon (Northern Samar),004,N 24° E,Mondragon (Northern Samar)
@@ -436,5 +438,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-15T15:59:00.000Z,15 November 2025 - 03:59 PM,11.17,123.94,011,2.6,014km N 18° W of City Of Bogo (Cebu),014,N 18° W,City Of Bogo (Cebu)
 2025-11-15T15:38:00.000Z,15 November 2025 - 03:38 PM,11.12,123.94,010,4.8,009km N 28° W of City Of Bogo (Cebu),009,N 28° W,City Of Bogo (Cebu)
 2025-11-15T14:42:00.000Z,15 November 2025 - 02:42 PM,10.16,124.78,025,2.3,007km N 60° W of City Of Maasin  (Southern Leyte),007,N 60° W,City Of Maasin  (Southern Leyte)
-2025-11-15T13:54:00.000Z,15 November 2025 - 01:54 PM,08.91,126.49,019,3.5,021km S 88° E of Cagwait (Surigao Del Sur),021,S 88° E,Cagwait (Surigao Del Sur)
-2025-11-15T13:33:00.000Z,15 November 2025 - 01:33 PM,03.62,127.08,010,5.7,270km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),270,S 43° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
