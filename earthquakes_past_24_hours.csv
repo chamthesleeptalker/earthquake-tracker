@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T10:37:00.000Z,22 November 2025 - 10:37 AM,11.15,123.89,007,2.7,016km N 40° W of City Of Bogo (Cebu),016,N 40° W,City Of Bogo (Cebu)
+2025-11-22T10:31:00.000Z,22 November 2025 - 10:31 AM,19.00,121.33,001,2.2,017km S 48° E of Dalupiri Island (Calayan) (Cagayan),017,S 48° E,Dalupiri Island (Calayan) (Cagayan)
+2025-11-22T10:11:00.000Z,22 November 2025 - 10:11 AM,07.20,126.67,023,2.0,014km S 87° E of Manay (Davao Oriental),014,S 87° E,Manay (Davao Oriental)
+2025-11-22T09:59:00.000Z,22 November 2025 - 09:59 AM,14.85,119.88,008,2.9,025km S 65° W of San Antonio (Zambales),025,S 65° W,San Antonio (Zambales)
 2025-11-22T08:28:00.000Z,22 November 2025 - 08:28 AM,07.20,126.84,016,3.2,033km S 87° E of Manay (Davao Oriental),033,S 87° E,Manay (Davao Oriental)
 2025-11-22T08:00:00.000Z,22 November 2025 - 08:00 AM,06.49,125.66,201,4.5,010km N 33° E of Malita (Davao Occidental),010,N 33° E,Malita (Davao Occidental)
 2025-11-22T07:45:00.000Z,22 November 2025 - 07:45 AM,07.14,126.85,019,2.2,035km S 77° E of Manay (Davao Oriental),035,S 77° E,Manay (Davao Oriental)
@@ -53,4 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T13:38:00.000Z,21 November 2025 - 01:38 PM,07.41,126.68,008,3.0,015km N 55° E of Caraga (Davao Oriental),015,N 55° E,Caraga (Davao Oriental)
 2025-11-21T13:20:00.000Z,21 November 2025 - 01:20 PM,09.56,126.35,033,1.8,033km S 40° E of General Luna (Surigao Del Norte),033,S 40° E,General Luna (Surigao Del Norte)
 2025-11-21T10:45:00.000Z,21 November 2025 - 10:45 AM,17.69,120.21,028,2.1,020km N 55° W of Santa Catalina (Ilocos Sur),020,N 55° W,Santa Catalina (Ilocos Sur)
-2025-11-21T08:55:00.000Z,21 November 2025 - 08:55 AM,05.50,126.24,008,3.0,080km S 55° E of Jose Abad Santos (Davao Occidental),080,S 55° E,Jose Abad Santos (Davao Occidental)
