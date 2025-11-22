@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-22T21:05:00.000Z,22 November 2025 - 09:05 PM,09.52,126.10,004,2.3,030km S 13° W of General Luna (Surigao Del Norte),030,S 13° W,General Luna (Surigao Del Norte)
+2025-11-22T20:51:00.000Z,22 November 2025 - 08:51 PM,10.33,126.14,033,2.0,035km N 13° E of Burgos (Surigao Del Norte),035,N 13° E,Burgos (Surigao Del Norte)
+2025-11-22T20:41:00.000Z,22 November 2025 - 08:41 PM,13.24,120.79,032,1.9,019km N 23° E of Santa Cruz (Occidental Mindoro),019,N 23° E,Santa Cruz (Occidental Mindoro)
+2025-11-22T20:38:00.000Z,22 November 2025 - 08:38 PM,05.69,126.60,029,2.8,108km S 77° E of Jose Abad Santos (Davao Occidental),108,S 77° E,Jose Abad Santos (Davao Occidental)
+2025-11-22T20:34:00.000Z,22 November 2025 - 08:34 PM,07.21,126.95,009,2.7,045km S 89° E of Manay (Davao Oriental),045,S 89° E,Manay (Davao Oriental)
 2025-11-22T19:57:00.000Z,22 November 2025 - 07:57 PM,05.63,126.19,062,3.7,068km S 62° E of Jose Abad Santos (Davao Occidental),068,S 62° E,Jose Abad Santos (Davao Occidental)
 2025-11-22T19:28:00.000Z,22 November 2025 - 07:28 PM,06.00,126.09,139,2.2,049km S 64° E of Don Marcelino (Davao Occidental),049,S 64° E,Don Marcelino (Davao Occidental)
 2025-11-22T19:00:00.000Z,22 November 2025 - 07:00 PM,04.46,126.58,016,4.6,166km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),166,S 51° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -49,7 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T22:17:00.000Z,21 November 2025 - 10:17 PM,15.73,121.90,012,2.9,036km S 85° E of Baler (Aurora),036,S 85° E,Baler (Aurora)
 2025-11-21T21:43:00.000Z,21 November 2025 - 09:43 PM,09.06,126.21,042,1.6,005km S 74° E of City Of Tandag (Surigao Del Sur),005,S 74° E,City Of Tandag (Surigao Del Sur)
 2025-11-21T21:35:00.000Z,21 November 2025 - 09:35 PM,15.73,121.96,017,1.7,042km S 85° E of Baler (Aurora),042,S 85° E,Baler (Aurora)
-2025-11-21T20:54:00.000Z,21 November 2025 - 08:54 PM,09.65,126.23,034,2.2,017km S 28° E of General Luna (Surigao Del Norte),017,S 28° E,General Luna (Surigao Del Norte)
-2025-11-21T20:36:00.000Z,21 November 2025 - 08:36 PM,11.17,123.96,013,2.4,014km N 10° W of City Of Bogo (Cebu),014,N 10° W,City Of Bogo (Cebu)
-2025-11-21T20:16:00.000Z,21 November 2025 - 08:16 PM,15.71,122.00,005,2.1,048km S 84° E of Baler (Aurora),048,S 84° E,Baler (Aurora)
-2025-11-21T20:03:00.000Z,21 November 2025 - 08:03 PM,15.73,121.97,010,3.6,043km S 85° E of Baler (Aurora),043,S 85° E,Baler (Aurora)
