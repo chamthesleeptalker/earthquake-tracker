@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T02:25:00.000Z,24 November 2025 - 02:25 AM,09.02,126.22,046,2.0,014km N 39° W of Cagwait (Surigao Del Sur),014,N 39° W,Cagwait (Surigao Del Sur)
 2025-11-24T02:15:00.000Z,24 November 2025 - 02:15 AM,17.81,121.08,018,1.8,021km N 42° E of Lacub (Abra),021,N 42° E,Lacub (Abra)
 2025-11-24T02:12:00.000Z,24 November 2025 - 02:12 AM,11.08,124.12,001,2.9,016km N 76° E of City Of Bogo (Cebu),016,N 76° E,City Of Bogo (Cebu)
 2025-11-24T01:32:00.000Z,24 November 2025 - 01:32 AM,11.14,124.14,006,1.9,021km N 60° E of City Of Bogo (Cebu),021,N 60° E,City Of Bogo (Cebu)
@@ -413,4 +414,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T03:17:00.000Z,17 November 2025 - 03:17 AM,16.06,119.95,034,2.2,002km S 51° E of Mabini (Pangasinan),002,S 51° E,Mabini (Pangasinan)
 2025-11-17T02:51:00.000Z,17 November 2025 - 02:51 AM,13.27,120.59,004,1.9,005km N 09° W of Mamburao (Occidental Mindoro),005,N 09° W,Mamburao (Occidental Mindoro)
 2025-11-17T02:42:00.000Z,17 November 2025 - 02:42 AM,07.89,126.78,028,1.9,038km N 73° E of Cateel (Davao Oriental),038,N 73° E,Cateel (Davao Oriental)
-2025-11-17T02:15:00.000Z,17 November 2025 - 02:15 AM,08.02,126.85,011,2.2,048km S 88° E of Lingig (Surigao Del Sur),048,S 88° E,Lingig (Surigao Del Sur)
