@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T01:30:00.000Z,24 November 2025 - 01:30 AM,07.06,127.16,032,2.5,071km S 76° E of Manay (Davao Oriental),071,S 76° E,Manay (Davao Oriental)
+2025-11-24T01:28:00.000Z,24 November 2025 - 01:28 AM,18.80,121.96,011,2.3,016km S 37° E of Camiguin Island (Calayan) (Cagayan),016,S 37° E,Camiguin Island (Calayan) (Cagayan)
+2025-11-24T01:26:00.000Z,24 November 2025 - 01:26 AM,07.66,123.36,001,2.4,005km N 28° E of Dinas (Zamboanga Del Sur),005,N 28° E,Dinas (Zamboanga Del Sur)
 2025-11-24T00:24:00.000Z,24 November 2025 - 12:24 AM,06.48,124.13,020,2.3,012km S 47° E of Kalamansig (Sultan Kudarat),012,S 47° E,Kalamansig (Sultan Kudarat)
 2025-11-24T00:16:00.000Z,24 November 2025 - 12:16 AM,11.08,124.00,034,2.0,005km N 33° E of City Of Bogo (Cebu),005,N 33° E,City Of Bogo (Cebu)
 2025-11-23T22:39:00.000Z,23 November 2025 - 10:39 PM,11.00,124.06,032,2.2,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
@@ -410,6 +413,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T02:15:00.000Z,17 November 2025 - 02:15 AM,08.02,126.85,011,2.2,048km S 88° E of Lingig (Surigao Del Sur),048,S 88° E,Lingig (Surigao Del Sur)
 2025-11-17T02:06:00.000Z,17 November 2025 - 02:06 AM,12.20,124.45,026,2.5,022km S 60° W of Lope De Vega (Northern Samar),022,S 60° W,Lope De Vega (Northern Samar)
 2025-11-17T01:43:00.000Z,17 November 2025 - 01:43 AM,11.07,123.95,007,3.4,004km N 46° W of City Of Bogo (Cebu),004,N 46° W,City Of Bogo (Cebu)
-2025-11-17T01:11:00.000Z,17 November 2025 - 01:11 AM,06.94,127.20,023,3.7,078km S 68° E of Manay (Davao Oriental),078,S 68° E,Manay (Davao Oriental)
-2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,06.92,126.10,037,2.6,010km N 78° E of Lupon (Davao Oriental),010,N 78° E,Lupon (Davao Oriental)
-2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,10.93,124.76,001,2.7,007km N 75° E of Albuera (Leyte),007,N 75° E,Albuera (Leyte)
