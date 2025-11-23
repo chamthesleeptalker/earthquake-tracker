@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T16:32:00.000Z,23 November 2025 - 04:32 PM,11.32,125.72,002,2.6,011km S 76° E of Hernani (Eastern Samar),011,S 76° E,Hernani (Eastern Samar)
 2025-11-23T16:11:00.000Z,23 November 2025 - 04:11 PM,14.43,123.94,016,2.0,050km N 31° W of Pandan (Catanduanes),050,N 31° W,Pandan (Catanduanes)
 2025-11-23T15:46:00.000Z,23 November 2025 - 03:46 PM,06.27,126.30,096,2.6,049km S 31° E of Governor Generoso (Davao Oriental),049,S 31° E,Governor Generoso (Davao Oriental)
 2025-11-23T14:12:00.000Z,23 November 2025 - 02:12 PM,08.02,126.38,003,2.8,004km S 59° W of Lingig (Surigao Del Sur),004,S 59° W,Lingig (Surigao Del Sur)
@@ -414,5 +415,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T18:02:00.000Z,16 November 2025 - 06:02 PM,11.16,123.96,012,2.3,013km N 09° W of City Of Bogo (Cebu),013,N 09° W,City Of Bogo (Cebu)
 2025-11-16T16:54:00.000Z,16 November 2025 - 04:54 PM,11.13,123.89,001,2.1,013km N 46° W of City Of Bogo (Cebu),013,N 46° W,City Of Bogo (Cebu)
 2025-11-16T16:32:00.000Z,16 November 2025 - 04:32 PM,17.60,120.57,005,2.6,002km N 08° E of Langiden (Abra),002,N 08° E,Langiden (Abra)
-2025-11-16T16:25:00.000Z,16 November 2025 - 04:25 PM,17.65,120.60,009,2.2,006km N 18° W of Bangued (Abra),006,N 18° W,Bangued (Abra)
-2025-11-16T16:15:00.000Z,16 November 2025 - 04:15 PM,11.13,123.95,005,2.8,010km N 19° W of City Of Bogo (Cebu),010,N 19° W,City Of Bogo (Cebu)
