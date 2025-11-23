@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T17:57:00.000Z,23 November 2025 - 05:57 PM,10.40,125.02,002,2.5,004km N 67° E of Sogod (Southern Leyte),004,N 67° E,Sogod (Southern Leyte)
+2025-11-23T17:44:00.000Z,23 November 2025 - 05:44 PM,11.15,124.12,010,4.4,019km N 53° E of City Of Bogo (Cebu),019,N 53° E,City Of Bogo (Cebu)
 2025-11-23T17:12:00.000Z,23 November 2025 - 05:12 PM,07.35,127.28,015,2.3,084km N 79° E of Manay (Davao Oriental),084,N 79° E,Manay (Davao Oriental)
 2025-11-23T16:32:00.000Z,23 November 2025 - 04:32 PM,11.32,125.72,002,2.6,011km S 76° E of Hernani (Eastern Samar),011,S 76° E,Hernani (Eastern Samar)
 2025-11-23T16:11:00.000Z,23 November 2025 - 04:11 PM,14.43,123.94,016,2.0,050km N 31° W of Pandan (Catanduanes),050,N 31° W,Pandan (Catanduanes)
