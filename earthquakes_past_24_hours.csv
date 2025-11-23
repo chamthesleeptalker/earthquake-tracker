@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T18:10:00.000Z,23 November 2025 - 06:10 PM,06.17,127.45,027,3.5,147km S 48° E of Tarragona (Davao Oriental),147,S 48° E,Tarragona (Davao Oriental)
 2025-11-23T17:57:00.000Z,23 November 2025 - 05:57 PM,10.40,125.02,002,2.5,004km N 67° E of Sogod (Southern Leyte),004,N 67° E,Sogod (Southern Leyte)
 2025-11-23T17:44:00.000Z,23 November 2025 - 05:44 PM,11.15,124.12,010,4.4,019km N 53° E of City Of Bogo (Cebu),019,N 53° E,City Of Bogo (Cebu)
 2025-11-23T17:12:00.000Z,23 November 2025 - 05:12 PM,07.35,127.28,015,2.3,084km N 79° E of Manay (Davao Oriental),084,N 79° E,Manay (Davao Oriental)
@@ -46,4 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T19:00:00.000Z,22 November 2025 - 07:00 PM,04.46,126.58,016,4.6,166km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),166,S 51° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-22T18:45:00.000Z,22 November 2025 - 06:45 PM,10.01,126.08,033,2.3,001km S 60° E of Burgos (Surigao Del Norte),001,S 60° E,Burgos (Surigao Del Norte)
 2025-11-22T18:42:00.000Z,22 November 2025 - 06:42 PM,13.79,120.59,085,1.7,007km S 43° W of Calatagan (Batangas),007,S 43° W,Calatagan (Batangas)
-2025-11-22T17:58:00.000Z,22 November 2025 - 05:58 PM,13.75,120.55,096,1.9,013km S 47° W of Calatagan (Batangas),013,S 47° W,Calatagan (Batangas)
