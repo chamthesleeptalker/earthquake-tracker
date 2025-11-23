@@ -1,7 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-23T22:39:00.000Z,23 November 2025 - 10:39 PM,11.00,124.06,032,2.2,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
-2025-11-23T22:33:00.000Z,23 November 2025 - 10:33 PM,16.24,120.09,031,2.3,015km N 52° E of City Of Alaminos (Pangasinan),015,N 52° E,City Of Alaminos (Pangasinan)
-2025-11-23T22:28:00.000Z,23 November 2025 - 10:28 PM,10.24,123.26,035,1.6,013km N 07° W of City Of Guihulngan (Negros Oriental),013,N 07° W,City Of Guihulngan (Negros Oriental)
-2025-11-23T22:17:00.000Z,23 November 2025 - 10:17 PM,09.81,122.33,024,1.9,012km N 68° W of City Of Sipalay (Negros Occidental),012,N 68° W,City Of Sipalay (Negros Occidental)
-2025-11-23T22:08:00.000Z,23 November 2025 - 10:08 PM,07.22,127.08,002,2.4,060km N 89° E of Manay (Davao Oriental),060,N 89° E,Manay (Davao Oriental)
-2025-11-23T21:44:00.000Z,23 November 2025 - 09:44 PM,11.18,123.94,004,2.2,015km N 15° W of City Of Bogo (Cebu),015,N 15° W,City Of Bogo (Cebu)
+2025-11-24T00:24:00.000Z,24 November 2025 - 12:24 AM,06.48,124.13,020,2.3,012km S 47° E of Kalamansig (Sultan Kudarat),012,S 47° E,Kalamansig (Sultan Kudarat)
+2025-11-24T00:16:00.000Z,24 November 2025 - 12:16 AM,11.08,124.00,034,2.0,005km N 33° E of City Of Bogo (Cebu),005,N 33° E,City Of Bogo (Cebu)

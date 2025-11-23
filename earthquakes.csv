@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T00:24:00.000Z,24 November 2025 - 12:24 AM,06.48,124.13,020,2.3,012km S 47° E of Kalamansig (Sultan Kudarat),012,S 47° E,Kalamansig (Sultan Kudarat)
+2025-11-24T00:16:00.000Z,24 November 2025 - 12:16 AM,11.08,124.00,034,2.0,005km N 33° E of City Of Bogo (Cebu),005,N 33° E,City Of Bogo (Cebu)
 2025-11-23T22:39:00.000Z,23 November 2025 - 10:39 PM,11.00,124.06,032,2.2,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
 2025-11-23T22:33:00.000Z,23 November 2025 - 10:33 PM,16.24,120.09,031,2.3,015km N 52° E of City Of Alaminos (Pangasinan),015,N 52° E,City Of Alaminos (Pangasinan)
 2025-11-23T22:28:00.000Z,23 November 2025 - 10:28 PM,10.24,123.26,035,1.6,013km N 07° W of City Of Guihulngan (Negros Oriental),013,N 07° W,City Of Guihulngan (Negros Oriental)

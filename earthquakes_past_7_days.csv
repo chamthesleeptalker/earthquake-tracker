@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T00:24:00.000Z,24 November 2025 - 12:24 AM,06.48,124.13,020,2.3,012km S 47° E of Kalamansig (Sultan Kudarat),012,S 47° E,Kalamansig (Sultan Kudarat)
+2025-11-24T00:16:00.000Z,24 November 2025 - 12:16 AM,11.08,124.00,034,2.0,005km N 33° E of City Of Bogo (Cebu),005,N 33° E,City Of Bogo (Cebu)
 2025-11-23T22:39:00.000Z,23 November 2025 - 10:39 PM,11.00,124.06,032,2.2,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
 2025-11-23T22:33:00.000Z,23 November 2025 - 10:33 PM,16.24,120.09,031,2.3,015km N 52° E of City Of Alaminos (Pangasinan),015,N 52° E,City Of Alaminos (Pangasinan)
 2025-11-23T22:28:00.000Z,23 November 2025 - 10:28 PM,10.24,123.26,035,1.6,013km N 07° W of City Of Guihulngan (Negros Oriental),013,N 07° W,City Of Guihulngan (Negros Oriental)
@@ -411,9 +413,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T01:11:00.000Z,17 November 2025 - 01:11 AM,06.94,127.20,023,3.7,078km S 68° E of Manay (Davao Oriental),078,S 68° E,Manay (Davao Oriental)
 2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,06.92,126.10,037,2.6,010km N 78° E of Lupon (Davao Oriental),010,N 78° E,Lupon (Davao Oriental)
 2025-11-17T00:34:00.000Z,17 November 2025 - 12:34 AM,10.93,124.76,001,2.7,007km N 75° E of Albuera (Leyte),007,N 75° E,Albuera (Leyte)
-2025-11-16T23:54:00.000Z,16 November 2025 - 11:54 PM,13.69,120.62,086,1.7,016km S 06° W of Calatagan (Batangas),016,S 06° W,Calatagan (Batangas)
-2025-11-16T23:47:00.000Z,16 November 2025 - 11:47 PM,08.90,126.52,017,2.0,024km S 85° E of Cagwait (Surigao Del Sur),024,S 85° E,Cagwait (Surigao Del Sur)
-2025-11-16T23:35:00.000Z,16 November 2025 - 11:35 PM,10.05,126.41,067,1.4,037km N 84° E of Burgos (Surigao Del Norte),037,N 84° E,Burgos (Surigao Del Norte)
-2025-11-16T23:21:00.000Z,16 November 2025 - 11:21 PM,11.44,125.17,006,1.8,021km N 32° E of Basey (Samar),021,N 32° E,Basey (Samar)
-2025-11-16T23:09:00.000Z,16 November 2025 - 11:09 PM,13.12,120.04,035,1.6,056km S 54° W of Paluan (Occidental Mindoro),056,S 54° W,Paluan (Occidental Mindoro)
-2025-11-16T23:01:00.000Z,16 November 2025 - 11:01 PM,11.72,125.31,019,2.0,016km S 76° W of San Julian (Eastern Samar),016,S 76° W,San Julian (Eastern Samar)
