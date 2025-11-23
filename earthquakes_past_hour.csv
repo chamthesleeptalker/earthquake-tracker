@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-11-23T06:21:00.000Z,23 November 2025 - 06:21 AM,13.09,124.62,004,2.3,047km N 84° E of Prieto Diaz (Sorsogon),047,N 84° E,Prieto Diaz (Sorsogon)
-2025-11-23T05:29:00.000Z,23 November 2025 - 05:29 AM,09.66,126.23,032,1.8,016km S 31° E of General Luna (Surigao Del Norte),016,S 31° E,General Luna (Surigao Del Norte)
-2025-11-23T05:24:00.000Z,23 November 2025 - 05:24 AM,05.82,126.21,023,3.0,063km S 81° E of Jose Abad Santos (Davao Occidental),063,S 81° E,Jose Abad Santos (Davao Occidental)
+2025-11-23T09:18:00.000Z,23 November 2025 - 09:18 AM,10.77,124.92,010,2.2,004km S 32° W of Javier (Leyte),004,S 32° W,Javier (Leyte)
+2025-11-23T09:07:00.000Z,23 November 2025 - 09:07 AM,10.03,125.81,034,1.9,019km N 53° E of Cagdianao (Dinagat Islands),019,N 53° E,Cagdianao (Dinagat Islands)
+2025-11-23T08:53:00.000Z,23 November 2025 - 08:53 AM,09.71,126.27,031,1.9,015km S 57° E of General Luna (Surigao Del Norte),015,S 57° E,General Luna (Surigao Del Norte)
+2025-11-23T08:43:00.000Z,23 November 2025 - 08:43 AM,07.03,126.76,015,2.3,032km S 51° E of Manay (Davao Oriental),032,S 51° E,Manay (Davao Oriental)
