@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T04:55:00.000Z,24 November 2025 - 04:55 AM,10.05,126.06,035,1.3,004km N 27° W of Burgos (Surigao Del Norte),004,N 27° W,Burgos (Surigao Del Norte)
+2025-11-24T04:48:00.000Z,24 November 2025 - 04:48 AM,10.01,122.99,010,1.7,019km S 45° E of City Of Himamaylan (Negros Occidental),019,S 45° E,City Of Himamaylan (Negros Occidental)
 2025-11-24T04:01:00.000Z,24 November 2025 - 04:01 AM,10.02,126.21,015,2.2,015km N 90° E of Burgos (Surigao Del Norte),015,N 90° E,Burgos (Surigao Del Norte)
 2025-11-24T03:54:00.000Z,24 November 2025 - 03:54 AM,06.87,125.62,038,2.1,023km N 79° E of Santa Cruz (Davao Del Sur),023,N 79° E,Santa Cruz (Davao Del Sur)
 2025-11-24T03:37:00.000Z,24 November 2025 - 03:37 AM,09.89,122.27,010,2.3,022km N 53° W of City Of Sipalay (Negros Occidental),022,N 53° W,City Of Sipalay (Negros Occidental)
@@ -45,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-23T05:17:00.000Z,23 November 2025 - 05:17 AM,11.70,125.93,007,2.1,051km N 41° E of Hernani (Eastern Samar),051,N 41° E,Hernani (Eastern Samar)
 2025-11-23T05:29:00.000Z,23 November 2025 - 05:29 AM,09.66,126.23,032,1.8,016km S 31° E of General Luna (Surigao Del Norte),016,S 31° E,General Luna (Surigao Del Norte)
 2025-11-23T05:24:00.000Z,23 November 2025 - 05:24 AM,05.82,126.21,023,3.0,063km S 81° E of Jose Abad Santos (Davao Occidental),063,S 81° E,Jose Abad Santos (Davao Occidental)
-2025-11-23T04:44:00.000Z,23 November 2025 - 04:44 AM,09.81,126.25,025,2.1,011km N 72° E of General Luna (Surigao Del Norte),011,N 72° E,General Luna (Surigao Del Norte)
-2025-11-23T04:02:00.000Z,23 November 2025 - 04:02 AM,11.19,124.15,033,2.2,024km N 48° E of City Of Bogo (Cebu),024,N 48° E,City Of Bogo (Cebu)
