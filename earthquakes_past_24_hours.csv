@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T12:36:00.000Z,23 November 2025 - 12:36 PM,07.38,126.62,019,2.5,021km N 25° E of Manay (Davao Oriental),021,N 25° E,Manay (Davao Oriental)
+2025-11-23T12:14:00.000Z,23 November 2025 - 12:14 PM,05.76,126.09,075,2.2,052km S 72° E of Jose Abad Santos (Davao Occidental),052,S 72° E,Jose Abad Santos (Davao Occidental)
+2025-11-23T12:14:00.000Z,23 November 2025 - 12:14 PM,07.24,126.61,017,1.7,008km N 71° E of Manay (Davao Oriental),008,N 71° E,Manay (Davao Oriental)
+2025-11-23T12:07:00.000Z,23 November 2025 - 12:07 PM,08.84,126.41,017,2.3,015km S 54° E of Cagwait (Surigao Del Sur),015,S 54° E,Cagwait (Surigao Del Sur)
 2025-11-23T10:16:00.000Z,23 November 2025 - 10:16 AM,11.06,124.10,002,2.3,013km N 86° E of City Of Bogo (Cebu),013,N 86° E,City Of Bogo (Cebu)
 2025-11-23T09:51:00.000Z,23 November 2025 - 09:51 AM,07.06,126.97,009,2.8,050km S 70° E of Manay (Davao Oriental),050,S 70° E,Manay (Davao Oriental)
 2025-11-23T09:18:00.000Z,23 November 2025 - 09:18 AM,10.77,124.92,010,2.2,004km S 32° W of Javier (Leyte),004,S 32° W,Javier (Leyte)
@@ -44,7 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T14:09:00.000Z,22 November 2025 - 02:09 PM,11.60,124.37,008,2.6,003km S 17° W of Almeria (Biliran),003,S 17° W,Almeria (Biliran)
 2025-11-22T13:44:00.000Z,22 November 2025 - 01:44 PM,07.40,126.70,020,2.4,027km N 40° E of Manay (Davao Oriental),027,N 40° E,Manay (Davao Oriental)
 2025-11-22T13:29:00.000Z,22 November 2025 - 01:29 PM,09.65,126.28,032,2.0,020km S 41° E of General Luna (Surigao Del Norte),020,S 41° E,General Luna (Surigao Del Norte)
-2025-11-22T12:25:00.000Z,22 November 2025 - 12:25 PM,13.53,120.73,111,1.8,010km North of Abra De Ilog (Occidental Mindoro),010,North of Abra,Ilog (Occidental Mindoro)
-2025-11-22T11:30:00.000Z,22 November 2025 - 11:30 AM,12.55,124.77,033,1.9,004km N 24° E of Mondragon (Northern Samar),004,N 24° E,Mondragon (Northern Samar)
-2025-11-22T10:37:00.000Z,22 November 2025 - 10:37 AM,11.15,123.89,007,2.7,016km N 40° W of City Of Bogo (Cebu),016,N 40° W,City Of Bogo (Cebu)
-2025-11-22T10:31:00.000Z,22 November 2025 - 10:31 AM,19.00,121.33,001,2.2,017km S 48° E of Dalupiri Island (Calayan) (Cagayan),017,S 48° E,Dalupiri Island (Calayan) (Cagayan)
