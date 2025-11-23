@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T22:28:00.000Z,23 November 2025 - 10:28 PM,10.24,123.26,035,1.6,013km N 07° W of City Of Guihulngan (Negros Oriental),013,N 07° W,City Of Guihulngan (Negros Oriental)
+2025-11-23T22:17:00.000Z,23 November 2025 - 10:17 PM,09.81,122.33,024,1.9,012km N 68° W of City Of Sipalay (Negros Occidental),012,N 68° W,City Of Sipalay (Negros Occidental)
+2025-11-23T22:08:00.000Z,23 November 2025 - 10:08 PM,07.22,127.08,002,2.4,060km N 89° E of Manay (Davao Oriental),060,N 89° E,Manay (Davao Oriental)
 2025-11-23T21:44:00.000Z,23 November 2025 - 09:44 PM,11.18,123.94,004,2.2,015km N 15° W of City Of Bogo (Cebu),015,N 15° W,City Of Bogo (Cebu)
 2025-11-23T20:06:00.000Z,23 November 2025 - 08:06 PM,08.91,127.17,022,2.3,095km S 89° E of Cagwait (Surigao Del Sur),095,S 89° E,Cagwait (Surigao Del Sur)
 2025-11-23T19:12:00.000Z,23 November 2025 - 07:12 PM,13.88,120.42,081,1.6,024km N 77° W of Calatagan (Batangas),024,N 77° W,Calatagan (Batangas)
@@ -39,5 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-23T00:19:00.000Z,23 November 2025 - 12:19 AM,06.17,126.23,043,2.8,056km S 17° E of Governor Generoso (Davao Oriental),056,S 17° E,Governor Generoso (Davao Oriental)
 2025-11-22T23:25:00.000Z,22 November 2025 - 11:25 PM,11.20,123.92,028,2.2,018km N 20° W of City Of Bogo (Cebu),018,N 20° W,City Of Bogo (Cebu)
 2025-11-22T23:17:00.000Z,22 November 2025 - 11:17 PM,04.05,127.07,034,4.4,237km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),237,S 51° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-22T22:18:00.000Z,22 November 2025 - 10:18 PM,15.80,122.01,024,1.6,038km S 09° E of Dinalungan (Aurora),038,S 09° E,Dinalungan (Aurora)
-2025-11-22T22:17:00.000Z,22 November 2025 - 10:17 PM,15.71,122.03,013,2.4,048km S 09° E of Dinalungan (Aurora),048,S 09° E,Dinalungan (Aurora)
