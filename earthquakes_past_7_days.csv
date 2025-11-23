@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-23T18:54:00.000Z,23 November 2025 - 06:54 PM,08.89,126.46,033,2.5,018km S 78° E of Cagwait (Surigao Del Sur),018,S 78° E,Cagwait (Surigao Del Sur)
 2025-11-23T18:10:00.000Z,23 November 2025 - 06:10 PM,06.17,127.45,027,3.5,147km S 48° E of Tarragona (Davao Oriental),147,S 48° E,Tarragona (Davao Oriental)
 2025-11-23T17:57:00.000Z,23 November 2025 - 05:57 PM,10.40,125.02,002,2.5,004km N 67° E of Sogod (Southern Leyte),004,N 67° E,Sogod (Southern Leyte)
 2025-11-23T17:44:00.000Z,23 November 2025 - 05:44 PM,11.15,124.12,010,4.4,019km N 53° E of City Of Bogo (Cebu),019,N 53° E,City Of Bogo (Cebu)
@@ -414,5 +415,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-16T19:54:00.000Z,16 November 2025 - 07:54 PM,15.58,121.96,017,2.2,047km S 66° E of Baler (Aurora),047,S 66° E,Baler (Aurora)
 2025-11-16T19:52:00.000Z,16 November 2025 - 07:52 PM,14.92,120.03,032,1.5,007km S 66° W of San Antonio (Zambales),007,S 66° W,San Antonio (Zambales)
 2025-11-16T19:03:00.000Z,16 November 2025 - 07:03 PM,09.27,122.73,002,2.4,014km S 27° W of City Of Bayawan (Negros Oriental),014,S 27° W,City Of Bayawan (Negros Oriental)
-2025-11-16T18:40:00.000Z,16 November 2025 - 06:40 PM,07.74,124.42,007,2.3,012km S 40° E of Ganassi (Lanao Del Sur),012,S 40° E,Ganassi (Lanao Del Sur)
-2025-11-16T18:17:00.000Z,16 November 2025 - 06:17 PM,06.52,126.76,044,2.6,068km S 30° E of Tarragona (Davao Oriental),068,S 30° E,Tarragona (Davao Oriental)
