@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T21:43:00.000Z,24 November 2025 - 09:43 PM,10.93,123.93,006,2.2,014km S 21° W of City Of Bogo (Cebu),014,S 21° W,City Of Bogo (Cebu)
+2025-11-24T21:38:00.000Z,24 November 2025 - 09:38 PM,06.93,127.11,010,4.4,070km S 64° E of Manay (Davao Oriental),070,S 64° E,Manay (Davao Oriental)
+2025-11-24T21:30:00.000Z,24 November 2025 - 09:30 PM,09.18,126.74,007,2.8,056km N 59° E of Cagwait (Surigao Del Sur),056,N 59° E,Cagwait (Surigao Del Sur)
 2025-11-24T20:33:00.000Z,24 November 2025 - 08:33 PM,07.17,127.29,017,2.6,084km S 87° E of Manay (Davao Oriental),084,S 87° E,Manay (Davao Oriental)
 2025-11-24T20:27:00.000Z,24 November 2025 - 08:27 PM,07.09,127.56,014,2.7,114km S 83° E of Manay (Davao Oriental),114,S 83° E,Manay (Davao Oriental)
 2025-11-24T20:21:00.000Z,24 November 2025 - 08:21 PM,16.96,121.49,029,1.8,005km N 04° W of Alfonso Lista (Ifugao),005,N 04° W,Alfonso Lista (Ifugao)
@@ -394,7 +397,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T21:54:00.000Z,17 November 2025 - 09:54 PM,09.78,126.12,033,1.8,005km S 82° W of General Luna (Surigao Del Norte),005,S 82° W,General Luna (Surigao Del Norte)
 2025-11-17T21:52:00.000Z,17 November 2025 - 09:52 PM,15.42,121.80,023,2.2,045km S 34° E of Baler (Aurora),045,S 34° E,Baler (Aurora)
 2025-11-17T21:50:00.000Z,17 November 2025 - 09:50 PM,09.84,126.14,025,2.0,007km N 20° W of General Luna (Surigao Del Norte),007,N 20° W,General Luna (Surigao Del Norte)
-2025-11-17T21:20:00.000Z,17 November 2025 - 09:20 PM,15.44,121.89,011,2.3,049km S 45° E of Baler (Aurora),049,S 45° E,Baler (Aurora)
-2025-11-17T21:09:00.000Z,17 November 2025 - 09:09 PM,08.69,126.22,036,1.5,006km S 01° E of San Agustin (Surigao Del Sur),006,S 01° E,San Agustin (Surigao Del Sur)
-2025-11-17T21:08:00.000Z,17 November 2025 - 09:08 PM,07.91,127.09,014,1.9,068km N 58° E of Baganga (Davao Oriental),068,N 58° E,Baganga (Davao Oriental)
-2025-11-17T20:47:00.000Z,17 November 2025 - 08:47 PM,07.28,126.68,027,2.5,017km N 64° E of Manay (Davao Oriental),017,N 64° E,Manay (Davao Oriental)
