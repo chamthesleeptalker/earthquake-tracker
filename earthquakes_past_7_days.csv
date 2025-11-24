@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T18:47:00.000Z,24 November 2025 - 06:47 PM,15.06,121.87,049,2.1,015km N 22° E of Panukulan (Quezon),015,N 22° E,Panukulan (Quezon)
+2025-11-24T18:38:00.000Z,24 November 2025 - 06:38 PM,13.66,120.55,111,2.3,021km S 24° W of Calatagan (Batangas),021,S 24° W,Calatagan (Batangas)
 2025-11-24T17:51:00.000Z,24 November 2025 - 05:51 PM,13.96,120.29,111,1.7,022km N 59° E of Lubang (Occidental Mindoro),022,N 59° E,Lubang (Occidental Mindoro)
 2025-11-24T14:07:00.000Z,24 November 2025 - 02:07 PM,10.88,124.12,027,1.9,024km S 40° E of City Of Bogo (Cebu),024,S 40° E,City Of Bogo (Cebu)
 2025-11-24T13:58:00.000Z,24 November 2025 - 01:58 PM,13.76,120.49,060,2.0,017km S 63° W of Calatagan (Batangas),017,S 63° W,Calatagan (Batangas)
@@ -393,6 +395,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T19:37:00.000Z,17 November 2025 - 07:37 PM,07.38,127.25,011,4.0,081km N 77° E of Manay (Davao Oriental),081,N 77° E,Manay (Davao Oriental)
 2025-11-17T19:27:00.000Z,17 November 2025 - 07:27 PM,09.66,126.24,034,2.1,016km S 33° E of General Luna (Surigao Del Norte),016,S 33° E,General Luna (Surigao Del Norte)
 2025-11-17T19:20:00.000Z,17 November 2025 - 07:20 PM,11.05,124.04,004,2.3,007km N 86° E of City Of Bogo (Cebu),007,N 86° E,City Of Bogo (Cebu)
-2025-11-17T18:34:00.000Z,17 November 2025 - 06:34 PM,07.38,126.66,032,1.8,023km N 35° E of Manay (Davao Oriental),023,N 35° E,Manay (Davao Oriental)
-2025-11-17T18:11:00.000Z,17 November 2025 - 06:11 PM,11.04,124.05,033,2.0,008km S 87° E of City Of Bogo (Cebu),008,S 87° E,City Of Bogo (Cebu)
-2025-11-17T17:54:00.000Z,17 November 2025 - 05:54 PM,13.59,120.64,112,4.2,018km N 30° W of Abra De Ilog (Occidental Mindoro),018,N 30° W,Abra De Ilog (Occidental Mindoro)
