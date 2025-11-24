@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T14:07:00.000Z,24 November 2025 - 02:07 PM,10.88,124.12,027,1.9,024km S 40° E of City Of Bogo (Cebu),024,S 40° E,City Of Bogo (Cebu)
+2025-11-24T13:58:00.000Z,24 November 2025 - 01:58 PM,13.76,120.49,060,2.0,017km S 63° W of Calatagan (Batangas),017,S 63° W,Calatagan (Batangas)
 2025-11-24T12:43:00.000Z,24 November 2025 - 12:43 PM,07.30,127.57,025,4.2,114km N 85° E of Manay (Davao Oriental),114,N 85° E,Manay (Davao Oriental)
 2025-11-24T11:18:00.000Z,24 November 2025 - 11:18 AM,11.03,124.08,003,3.2,011km S 83° E of City Of Bogo (Cebu),011,S 83° E,City Of Bogo (Cebu)
 2025-11-24T10:41:00.000Z,24 November 2025 - 10:41 AM,11.16,124.13,007,2.3,013km N 72° E of City Of Bogo (Cebu),013,N 72° E,City Of Bogo (Cebu)
