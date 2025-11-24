@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-25T05:45:00.000Z,25 November 2025 - 05:45 AM,13.76,120.47,058,1.7,019km S 65° W of Calatagan (Batangas),019,S 65° W,Calatagan (Batangas)
 2025-11-25T05:09:00.000Z,25 November 2025 - 05:09 AM,07.22,126.96,011,2.5,046km N 89° E of Manay (Davao Oriental),046,N 89° E,Manay (Davao Oriental)
 2025-11-25T04:50:00.000Z,25 November 2025 - 04:50 AM,09.71,126.26,005,2.8,014km S 57° E of General Luna (Surigao Del Norte),014,S 57° E,General Luna (Surigao Del Norte)
 2025-11-25T04:14:00.000Z,25 November 2025 - 04:14 AM,12.92,124.21,040,2.2,010km N 46° E of Barcelona (Sorsogon),010,N 46° E,Barcelona (Sorsogon)
@@ -26,7 +27,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T20:21:00.000Z,24 November 2025 - 08:21 PM,16.96,121.49,029,1.8,005km N 04° W of Alfonso Lista (Ifugao),005,N 04° W,Alfonso Lista (Ifugao)
 2025-11-24T19:56:00.000Z,24 November 2025 - 07:56 PM,07.57,126.58,027,1.8,003km S 85° E of Baganga (Davao Oriental),003,S 85° E,Baganga (Davao Oriental)
 2025-11-24T19:54:00.000Z,24 November 2025 - 07:54 PM,07.19,126.93,010,2.8,044km S 86° E of Manay (Davao Oriental),044,S 86° E,Manay (Davao Oriental)
-2025-11-24T05:25:00.000Z,24 November 2025 - 05:25 AM,18.49,120.88,004,2.1,004km N 34° W of Adams (Ilocos Norte),004,N 34° W,Adams (Ilocos Norte)
 2025-11-24T19:26:00.000Z,24 November 2025 - 07:26 PM,16.17,122.43,009,2.6,034km S 43° E of Dilasag (Aurora),034,S 43° E,Dilasag (Aurora)
 2025-11-24T18:47:00.000Z,24 November 2025 - 06:47 PM,15.06,121.87,049,2.1,015km N 22° E of Panukulan (Quezon),015,N 22° E,Panukulan (Quezon)
 2025-11-24T18:38:00.000Z,24 November 2025 - 06:38 PM,13.66,120.55,111,2.3,021km S 24° W of Calatagan (Batangas),021,S 24° W,Calatagan (Batangas)
@@ -41,4 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T09:04:00.000Z,24 November 2025 - 09:04 AM,11.20,124.64,002,3.2,009km N 79° E of Kananga (Leyte),009,N 79° E,Kananga (Leyte)
 2025-11-24T07:49:00.000Z,24 November 2025 - 07:49 AM,07.10,127.31,009,3.1,086km S 82° E of Manay (Davao Oriental),086,S 82° E,Manay (Davao Oriental)
 2025-11-24T06:18:00.000Z,24 November 2025 - 06:18 AM,05.11,126.56,006,4.5,127km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),127,S 72° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-24T05:24:00.000Z,24 November 2025 - 05:24 AM,18.61,121.22,052,2.0,006km N 18° W of Sanchez-mira (Cagayan),006,N 18° W,Sanchez-mira (Cagayan)

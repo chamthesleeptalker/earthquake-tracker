@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-25T05:45:00.000Z,25 November 2025 - 05:45 AM,13.76,120.47,058,1.7,019km S 65° W of Calatagan (Batangas),019,S 65° W,Calatagan (Batangas)
 2025-11-25T05:09:00.000Z,25 November 2025 - 05:09 AM,07.22,126.96,011,2.5,046km N 89° E of Manay (Davao Oriental),046,N 89° E,Manay (Davao Oriental)
 2025-11-25T04:50:00.000Z,25 November 2025 - 04:50 AM,09.71,126.26,005,2.8,014km S 57° E of General Luna (Surigao Del Norte),014,S 57° E,General Luna (Surigao Del Norte)
 2025-11-25T04:14:00.000Z,25 November 2025 - 04:14 AM,12.92,124.21,040,2.2,010km N 46° E of Barcelona (Sorsogon),010,N 46° E,Barcelona (Sorsogon)
@@ -385,4 +386,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-18T06:09:00.000Z,18 November 2025 - 06:09 AM,11.11,123.94,003,2.7,008km N 31° W of City Of Bogo (Cebu),008,N 31° W,City Of Bogo (Cebu)
 2025-11-18T05:55:00.000Z,18 November 2025 - 05:55 AM,10.98,123.95,002,2.0,008km S 20° W of City Of Bogo (Cebu),008,S 20° W,City Of Bogo (Cebu)
 2025-11-18T05:52:00.000Z,18 November 2025 - 05:52 AM,05.89,126.02,140,3.4,041km S 86° E of Jose Abad Santos (Davao Occidental),041,S 86° E,Jose Abad Santos (Davao Occidental)
-2025-11-18T05:27:00.000Z,18 November 2025 - 05:27 AM,05.17,121.95,046,3.1,101km S 11° E of Banguingui (Sulu),101,S 11° E,Banguingui (Sulu)
