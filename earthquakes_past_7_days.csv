@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-25T04:14:00.000Z,25 November 2025 - 04:14 AM,12.92,124.21,040,2.2,010km N 46° E of Barcelona (Sorsogon),010,N 46° E,Barcelona (Sorsogon)
 2025-11-24T07:50:00.000Z,24 November 2025 - 07:50 AM,07.12,127.04,001,3.1,057km S 80° E of Manay (Davao Oriental),057,S 80° E,Manay (Davao Oriental)
 2025-11-25T01:51:00.000Z,25 November 2025 - 01:51 AM,11.15,124.12,002,2.9,019km N 54° E of City Of Bogo (Cebu),019,N 54° E,City Of Bogo (Cebu)
 2025-11-25T01:45:00.000Z,25 November 2025 - 01:45 AM,10.93,123.99,025,2.4,013km S 05° E of City Of Bogo (Cebu),013,S 05° E,City Of Bogo (Cebu)
@@ -392,11 +393,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-18T04:32:00.000Z,18 November 2025 - 04:32 AM,11.12,124.00,011,2.4,009km N 18° E of City Of Bogo (Cebu),009,N 18° E,City Of Bogo (Cebu)
 2025-11-18T04:31:00.000Z,18 November 2025 - 04:31 AM,13.96,120.47,019,1.4,022km N 51° W of Calatagan (Batangas),022,N 51° W,Calatagan (Batangas)
 2025-11-18T04:18:00.000Z,18 November 2025 - 04:18 AM,13.73,120.62,100,1.6,012km S 04° W of Calatagan (Batangas),012,S 04° W,Calatagan (Batangas)
-2025-11-18T03:54:00.000Z,18 November 2025 - 03:54 AM,08.44,125.78,033,1.7,001km S 53° W of Talacogon (Agusan Del Sur),001,S 53° W,Talacogon (Agusan Del Sur)
-2025-11-18T02:50:00.000Z,18 November 2025 - 02:50 AM,06.95,127.57,027,3.3,117km S 76° E of Manay (Davao Oriental),117,S 76° E,Manay (Davao Oriental)
-2025-11-18T02:46:00.000Z,18 November 2025 - 02:46 AM,09.37,122.40,019,2.2,026km S 17° W of Hinoba-an (Negros Occidental),026,S 17° W,Hinoba-an (Negros Occidental)
-2025-11-18T02:32:00.000Z,18 November 2025 - 02:32 AM,11.04,124.10,010,1.6,013km S 87° E of City Of Bogo (Cebu),013,S 87° E,City Of Bogo (Cebu)
-2025-11-18T02:25:00.000Z,18 November 2025 - 02:25 AM,10.15,126.03,033,2.1,014km N 05° W of Santa Monica (Surigao Del Norte),014,N 05° W,Santa Monica (Surigao Del Norte)
-2025-11-18T02:02:00.000Z,18 November 2025 - 02:02 AM,15.84,119.68,017,2.4,025km N 87° W of Infanta (Pangasinan),025,N 87° W,Infanta (Pangasinan)
-2025-11-18T02:00:00.000Z,18 November 2025 - 02:00 AM,11.05,123.98,022,2.3,001km N 14° W of City Of Bogo (Cebu),001,N 14° W,City Of Bogo (Cebu)
-2025-11-18T01:54:00.000Z,18 November 2025 - 01:54 AM,13.62,120.49,009,1.4,023km N 07° E of Paluan (Occidental Mindoro),023,N 07° E,Paluan (Occidental Mindoro)

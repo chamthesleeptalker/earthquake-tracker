@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-25T04:14:00.000Z,25 November 2025 - 04:14 AM,12.92,124.21,040,2.2,010km N 46° E of Barcelona (Sorsogon),010,N 46° E,Barcelona (Sorsogon)
 2025-11-25T01:51:00.000Z,25 November 2025 - 01:51 AM,11.15,124.12,002,2.9,019km N 54° E of City Of Bogo (Cebu),019,N 54° E,City Of Bogo (Cebu)
 2025-11-25T01:45:00.000Z,25 November 2025 - 01:45 AM,10.93,123.99,025,2.4,013km S 05° E of City Of Bogo (Cebu),013,S 05° E,City Of Bogo (Cebu)
 2025-11-25T01:42:00.000Z,25 November 2025 - 01:42 AM,08.94,126.13,026,1.8,010km S 87° E of San Miguel (Surigao Del Sur),010,S 87° E,San Miguel (Surigao Del Sur)
