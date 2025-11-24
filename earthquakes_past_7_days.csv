@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T20:27:00.000Z,24 November 2025 - 08:27 PM,07.09,127.56,014,2.7,114km S 83° E of Manay (Davao Oriental),114,S 83° E,Manay (Davao Oriental)
+2025-11-24T20:21:00.000Z,24 November 2025 - 08:21 PM,16.96,121.49,029,1.8,005km N 04° W of Alfonso Lista (Ifugao),005,N 04° W,Alfonso Lista (Ifugao)
+2025-11-24T19:56:00.000Z,24 November 2025 - 07:56 PM,07.57,126.58,027,1.8,003km S 85° E of Baganga (Davao Oriental),003,S 85° E,Baganga (Davao Oriental)
+2025-11-24T19:54:00.000Z,24 November 2025 - 07:54 PM,07.19,126.93,010,2.8,044km S 86° E of Manay (Davao Oriental),044,S 86° E,Manay (Davao Oriental)
+2025-11-24T05:25:00.000Z,24 November 2025 - 05:25 AM,18.49,120.88,004,2.1,004km N 34° W of Adams (Ilocos Norte),004,N 34° W,Adams (Ilocos Norte)
 2025-11-24T19:26:00.000Z,24 November 2025 - 07:26 PM,16.17,122.43,009,2.6,034km S 43° E of Dilasag (Aurora),034,S 43° E,Dilasag (Aurora)
 2025-11-24T18:47:00.000Z,24 November 2025 - 06:47 PM,15.06,121.87,049,2.1,015km N 22° E of Panukulan (Quezon),015,N 22° E,Panukulan (Quezon)
 2025-11-24T18:38:00.000Z,24 November 2025 - 06:38 PM,13.66,120.55,111,2.3,021km S 24° W of Calatagan (Batangas),021,S 24° W,Calatagan (Batangas)
@@ -392,6 +397,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-17T21:09:00.000Z,17 November 2025 - 09:09 PM,08.69,126.22,036,1.5,006km S 01° E of San Agustin (Surigao Del Sur),006,S 01° E,San Agustin (Surigao Del Sur)
 2025-11-17T21:08:00.000Z,17 November 2025 - 09:08 PM,07.91,127.09,014,1.9,068km N 58° E of Baganga (Davao Oriental),068,N 58° E,Baganga (Davao Oriental)
 2025-11-17T20:47:00.000Z,17 November 2025 - 08:47 PM,07.28,126.68,027,2.5,017km N 64° E of Manay (Davao Oriental),017,N 64° E,Manay (Davao Oriental)
-2025-11-17T20:22:00.000Z,17 November 2025 - 08:22 PM,07.04,126.82,055,2.4,036km S 58° E of Manay (Davao Oriental),036,S 58° E,Manay (Davao Oriental)
-2025-11-17T19:37:00.000Z,17 November 2025 - 07:37 PM,07.38,127.25,011,4.0,081km N 77° E of Manay (Davao Oriental),081,N 77° E,Manay (Davao Oriental)
-2025-11-17T19:27:00.000Z,17 November 2025 - 07:27 PM,09.66,126.24,034,2.1,016km S 33° E of General Luna (Surigao Del Norte),016,S 33° E,General Luna (Surigao Del Norte)
