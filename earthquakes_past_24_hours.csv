@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-24T10:41:00.000Z,24 November 2025 - 10:41 AM,11.16,124.13,007,2.3,013km N 72° E of City Of Bogo (Cebu),013,N 72° E,City Of Bogo (Cebu)
+2025-11-24T10:15:00.000Z,24 November 2025 - 10:15 AM,13.62,120.56,144,3.1,024km S 18° W of Calatagan (Batangas),024,S 18° W,Calatagan (Batangas)
 2025-11-24T09:07:00.000Z,24 November 2025 - 09:07 AM,11.18,124.65,005,3.1,009km S 87° E of Kananga (Leyte),009,S 87° E,Kananga (Leyte)
 2025-11-24T09:04:00.000Z,24 November 2025 - 09:04 AM,11.20,124.64,002,3.2,009km N 79° E of Kananga (Leyte),009,N 79° E,Kananga (Leyte)
 2025-11-24T07:49:00.000Z,24 November 2025 - 07:49 AM,07.10,127.31,009,3.1,086km S 82° E of Manay (Davao Oriental),086,S 82° E,Manay (Davao Oriental)
@@ -40,7 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-23T12:14:00.000Z,23 November 2025 - 12:14 PM,05.76,126.09,075,2.2,052km S 72° E of Jose Abad Santos (Davao Occidental),052,S 72° E,Jose Abad Santos (Davao Occidental)
 2025-11-23T12:14:00.000Z,23 November 2025 - 12:14 PM,07.24,126.61,017,1.7,008km N 71° E of Manay (Davao Oriental),008,N 71° E,Manay (Davao Oriental)
 2025-11-23T12:07:00.000Z,23 November 2025 - 12:07 PM,08.84,126.41,017,2.3,015km S 54° E of Cagwait (Surigao Del Sur),015,S 54° E,Cagwait (Surigao Del Sur)
-2025-11-23T10:16:00.000Z,23 November 2025 - 10:16 AM,11.06,124.10,002,2.3,013km N 86° E of City Of Bogo (Cebu),013,N 86° E,City Of Bogo (Cebu)
-2025-11-23T09:51:00.000Z,23 November 2025 - 09:51 AM,07.06,126.97,009,2.8,050km S 70° E of Manay (Davao Oriental),050,S 70° E,Manay (Davao Oriental)
-2025-11-23T09:18:00.000Z,23 November 2025 - 09:18 AM,10.77,124.92,010,2.2,004km S 32° W of Javier (Leyte),004,S 32° W,Javier (Leyte)
-2025-11-23T09:07:00.000Z,23 November 2025 - 09:07 AM,10.03,125.81,034,1.9,019km N 53° E of Cagdianao (Dinagat Islands),019,N 53° E,Cagdianao (Dinagat Islands)
