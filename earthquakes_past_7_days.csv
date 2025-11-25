@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T02:31:00.000Z,26 November 2025 - 02:31 AM,12.51,125.03,027,2.5,007km S 14° E of Laoang (Northern Samar),007,S 14° E,Laoang (Northern Samar)
 2025-11-26T02:20:00.000Z,26 November 2025 - 02:20 AM,18.14,120.64,031,2.2,002km S 07° W of Sarrat (Ilocos Norte),002,S 07° W,Sarrat (Ilocos Norte)
 2025-11-26T01:31:00.000Z,26 November 2025 - 01:31 AM,11.12,124.06,017,2.3,012km N 47° E of City Of Bogo (Cebu),012,N 47° E,City Of Bogo (Cebu)
 2025-11-26T01:10:00.000Z,26 November 2025 - 01:10 AM,06.97,126.87,023,2.7,045km S 54° E of Manay (Davao Oriental),045,S 54° E,Manay (Davao Oriental)
@@ -353,4 +354,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T02:51:00.000Z,19 November 2025 - 02:51 AM,11.13,123.95,005,2.8,010km N 18° W of City Of Bogo (Cebu),010,N 18° W,City Of Bogo (Cebu)
 2025-11-19T02:49:00.000Z,19 November 2025 - 02:49 AM,13.00,121.50,033,1.4,004km N 42° E of Gloria (Oriental Mindoro),004,N 42° E,Gloria (Oriental Mindoro)
 2025-11-19T02:44:00.000Z,19 November 2025 - 02:44 AM,13.67,121.57,132,1.6,025km S 47° E of San Juan (Batangas),025,S 47° E,San Juan (Batangas)
-2025-11-19T02:29:00.000Z,19 November 2025 - 02:29 AM,11.17,123.98,003,3.1,013km N 01° W of City Of Bogo (Cebu),013,N 01° W,City Of Bogo (Cebu)
