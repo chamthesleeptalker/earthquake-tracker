@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T06:06:00.000Z,26 November 2025 - 06:06 AM,13.52,120.00,028,1.9,035km S 50° W of Looc (Occidental Mindoro),035,S 50° W,Looc (Occidental Mindoro)
+2025-11-26T05:49:00.000Z,26 November 2025 - 05:49 AM,13.70,119.88,111,3.1,031km S 56° W of Lubang (Occidental Mindoro),031,S 56° W,Lubang (Occidental Mindoro)
 2025-11-26T04:57:00.000Z,26 November 2025 - 04:57 AM,15.73,121.93,010,3.2,040km S 86° E of Baler (Aurora),040,S 86° E,Baler (Aurora)
 2025-11-26T04:12:00.000Z,26 November 2025 - 04:12 AM,06.01,126.29,033,2.9,070km S 72° E of Don Marcelino (Davao Occidental),070,S 72° E,Don Marcelino (Davao Occidental)
 2025-11-26T03:52:00.000Z,26 November 2025 - 03:52 AM,11.02,124.02,027,1.9,005km S 61° E of City Of Bogo (Cebu),005,S 61° E,City Of Bogo (Cebu)
