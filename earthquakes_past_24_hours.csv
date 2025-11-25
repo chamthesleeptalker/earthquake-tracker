@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-25T18:03:00.000Z,25 November 2025 - 06:03 PM,16.52,120.38,031,1.6,006km S 79° E of Bauang (La Union),006,S 79° E,Bauang (La Union)
 2025-11-25T16:06:00.000Z,25 November 2025 - 04:06 PM,17.46,120.18,021,2.1,024km S 65° W of Caoayan (Ilocos Sur),024,S 65° W,Caoayan (Ilocos Sur)
 2025-11-25T15:39:00.000Z,25 November 2025 - 03:39 PM,16.55,120.47,024,2.0,004km N 28° E of Burgos (La Union),004,N 28° E,Burgos (La Union)
 2025-11-25T15:23:00.000Z,25 November 2025 - 03:23 PM,10.92,123.92,007,1.9,015km S 24° W of City Of Bogo (Cebu),015,S 24° W,City Of Bogo (Cebu)
@@ -44,4 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T19:26:00.000Z,24 November 2025 - 07:26 PM,16.17,122.43,009,2.6,034km S 43° E of Dilasag (Aurora),034,S 43° E,Dilasag (Aurora)
 2025-11-24T18:47:00.000Z,24 November 2025 - 06:47 PM,15.06,121.87,049,2.1,015km N 22° E of Panukulan (Quezon),015,N 22° E,Panukulan (Quezon)
 2025-11-24T18:38:00.000Z,24 November 2025 - 06:38 PM,13.66,120.55,111,2.3,021km S 24° W of Calatagan (Batangas),021,S 24° W,Calatagan (Batangas)
-2025-11-24T17:51:00.000Z,24 November 2025 - 05:51 PM,13.96,120.29,111,1.7,022km N 59° E of Lubang (Occidental Mindoro),022,N 59° E,Lubang (Occidental Mindoro)
