@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T03:52:00.000Z,26 November 2025 - 03:52 AM,11.02,124.02,027,1.9,005km S 61° E of City Of Bogo (Cebu),005,S 61° E,City Of Bogo (Cebu)
+2025-11-26T03:36:00.000Z,26 November 2025 - 03:36 AM,09.24,125.59,068,2.8,005km S 60° E of Santiago (Agusan Del Norte),005,S 60° E,Santiago (Agusan Del Norte)
+2025-11-26T03:33:00.000Z,26 November 2025 - 03:33 AM,11.07,123.91,029,1.6,008km N 70° W of City Of Bogo (Cebu),008,N 70° W,City Of Bogo (Cebu)
 2025-11-26T02:58:00.000Z,26 November 2025 - 02:58 AM,07.61,126.59,007,2.5,005km N 38° E of Baganga (Davao Oriental),005,N 38° E,Baganga (Davao Oriental)
 2025-11-26T02:55:00.000Z,26 November 2025 - 02:55 AM,07.06,126.29,033,1.4,015km N 32° E of City Of Mati (Davao Oriental),015,N 32° E,City Of Mati (Davao Oriental)
 2025-11-26T02:31:00.000Z,26 November 2025 - 02:31 AM,12.51,125.03,027,2.5,007km S 14° E of Laoang (Northern Samar),007,S 14° E,Laoang (Northern Samar)
@@ -349,6 +352,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T04:23:00.000Z,19 November 2025 - 04:23 AM,11.00,124.06,032,2.3,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
 2025-11-19T04:06:00.000Z,19 November 2025 - 04:06 AM,06.55,125.10,007,2.7,019km S 64° W of Kiblawan (Davao Del Sur),019,S 64° W,Kiblawan (Davao Del Sur)
 2025-11-19T04:01:00.000Z,19 November 2025 - 04:01 AM,11.22,124.10,017,1.5,023km N 34° E of City Of Bogo (Cebu),023,N 34° E,City Of Bogo (Cebu)
-2025-11-19T03:49:00.000Z,19 November 2025 - 03:49 AM,11.10,124.10,009,1.8,014km N 66° E of City Of Bogo (Cebu),014,N 66° E,City Of Bogo (Cebu)
-2025-11-19T03:18:00.000Z,19 November 2025 - 03:18 AM,09.06,126.83,007,2.1,060km N 75° E of Cagwait (Surigao Del Sur),060,N 75° E,Cagwait (Surigao Del Sur)
-2025-11-19T03:18:00.000Z,19 November 2025 - 03:18 AM,09.06,126.83,007,2.1,060km N 75° E of Cagwait (Surigao Del Sur),060,N 75° E,Cagwait (Surigao Del Sur)
