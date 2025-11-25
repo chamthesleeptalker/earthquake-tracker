@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T01:31:00.000Z,26 November 2025 - 01:31 AM,11.12,124.06,017,2.3,012km N 47° E of City Of Bogo (Cebu),012,N 47° E,City Of Bogo (Cebu)
+2025-11-26T01:10:00.000Z,26 November 2025 - 01:10 AM,06.97,126.87,023,2.7,045km S 54° E of Manay (Davao Oriental),045,S 54° E,Manay (Davao Oriental)
 2025-11-26T00:37:00.000Z,26 November 2025 - 12:37 AM,07.50,126.06,032,1.8,010km S 57° W of New Bataan (Davao De Oro),010,S 57° W,New Bataan (Davao De Oro)
 2025-11-25T23:33:00.000Z,25 November 2025 - 11:33 PM,05.31,127.05,032,3.1,169km S 67° E of Jose Abad Santos (Davao Occidental),169,S 67° E,Jose Abad Santos (Davao Occidental)
 2025-11-26T00:00:00.000Z,26 November 2025 - 12:00 AM,07.31,126.84,019,2.5,035km N 73° E of Manay (Davao Oriental),035,N 73° E,Manay (Davao Oriental)
@@ -352,7 +354,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T02:44:00.000Z,19 November 2025 - 02:44 AM,13.67,121.57,132,1.6,025km S 47° E of San Juan (Batangas),025,S 47° E,San Juan (Batangas)
 2025-11-19T02:29:00.000Z,19 November 2025 - 02:29 AM,11.17,123.98,003,3.1,013km N 01° W of City Of Bogo (Cebu),013,N 01° W,City Of Bogo (Cebu)
 2025-11-19T02:03:00.000Z,19 November 2025 - 02:03 AM,11.27,124.29,008,2.0,014km N 58° W of Villaba (Leyte),014,N 58° W,Villaba (Leyte)
-2025-11-19T01:07:00.000Z,19 November 2025 - 01:07 AM,11.01,123.84,008,2.4,016km S 76° W of City Of Bogo (Cebu),016,S 76° W,City Of Bogo (Cebu)
-2025-11-19T01:03:00.000Z,19 November 2025 - 01:03 AM,13.74,120.56,093,1.8,013km S 38° W of Calatagan (Batangas),013,S 38° W,Calatagan (Batangas)
-2025-11-19T00:58:00.000Z,19 November 2025 - 12:58 AM,11.27,124.13,023,1.6,030km N 33° E of City Of Bogo (Cebu),030,N 33° E,City Of Bogo (Cebu)
-2025-11-19T00:46:00.000Z,19 November 2025 - 12:46 AM,11.12,124.09,004,1.9,015km N 56° E of City Of Bogo (Cebu),015,N 56° E,City Of Bogo (Cebu)
