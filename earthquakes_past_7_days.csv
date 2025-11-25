@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-25T12:27:00.000Z,25 November 2025 - 12:27 PM,11.83,125.40,032,1.3,006km N 74° W of Sulat (Eastern Samar),006,N 74° W,Sulat (Eastern Samar)
 2025-11-25T12:08:00.000Z,25 November 2025 - 12:08 PM,09.68,126.19,033,2.1,012km S 20° E of General Luna (Surigao Del Norte),012,S 20° E,General Luna (Surigao Del Norte)
 2025-11-25T12:07:00.000Z,25 November 2025 - 12:07 PM,13.11,124.60,062,3.3,045km N 80° E of Prieto Diaz (Sorsogon),045,N 80° E,Prieto Diaz (Sorsogon)
 2025-11-25T07:42:00.000Z,25 November 2025 - 07:42 AM,13.72,120.49,116,3.0,020km S 51° W of Calatagan (Batangas),020,S 51° W,Calatagan (Batangas)
@@ -310,7 +311,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T15:05:00.000Z,19 November 2025 - 03:05 PM,09.59,126.10,022,1.6,015km S 78° E of Socorro (Surigao Del Norte),015,S 78° E,Socorro (Surigao Del Norte)
 2025-11-19T14:27:00.000Z,19 November 2025 - 02:27 PM,09.66,126.36,033,2.2,027km S 59° E of General Luna (Surigao Del Norte),027,S 59° E,General Luna (Surigao Del Norte)
 2025-11-19T13:43:00.000Z,19 November 2025 - 01:43 PM,06.64,126.68,035,2.4,053km S 30° E of Tarragona (Davao Oriental),053,S 30° E,Tarragona (Davao Oriental)
-2025-11-18T12:18:00.000Z,18 November 2025 - 12:18 PM,08.81,126.38,025,1.9,015km S 36° E of Cagwait (Surigao Del Sur),015,S 36° E,Cagwait (Surigao Del Sur)
 2025-11-19T10:30:00.000Z,19 November 2025 - 10:30 AM,11.01,124.08,006,2.4,011km S 70° E of City Of Bogo (Cebu),011,S 70° E,City Of Bogo (Cebu)
 2025-11-19T10:27:00.000Z,19 November 2025 - 10:27 AM,08.88,126.25,032,1.3,007km S 49° W of Cagwait (Surigao Del Sur),007,S 49° W,Cagwait (Surigao Del Sur)
 2025-11-19T10:23:00.000Z,19 November 2025 - 10:23 AM,11.10,123.96,002,2.3,007km N 21° W of City Of Bogo (Cebu),007,N 21° W,City Of Bogo (Cebu)
@@ -370,5 +370,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-18T13:45:00.000Z,18 November 2025 - 01:45 PM,11.15,121.20,012,2.1,028km S 89° E of Agutaya (Palawan),028,S 89° E,Agutaya (Palawan)
 2025-11-18T12:46:00.000Z,18 November 2025 - 12:46 PM,06.82,127.37,022,3.1,101km S 65° E of Manay (Davao Oriental),101,S 65° E,Manay (Davao Oriental)
 2025-11-18T12:40:00.000Z,18 November 2025 - 12:40 PM,06.90,127.17,024,4.3,078km S 64° E of Manay (Davao Oriental),078,S 64° E,Manay (Davao Oriental)
-2025-11-18T12:17:00.000Z,18 November 2025 - 12:17 PM,08.75,126.23,036,1.6,020km S 23° W of Cagwait (Surigao Del Sur),020,S 23° W,Cagwait (Surigao Del Sur)
-2025-11-18T12:11:00.000Z,18 November 2025 - 12:11 PM,07.75,122.17,011,2.0,006km N 39° E of Siocon (Zamboanga Del Norte),006,N 39° E,Siocon (Zamboanga Del Norte)
