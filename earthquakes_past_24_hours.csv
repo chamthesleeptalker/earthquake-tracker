@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T00:00:00.000Z,26 November 2025 - 12:00 AM,07.31,126.84,019,2.5,035km N 73° E of Manay (Davao Oriental),035,N 73° E,Manay (Davao Oriental)
+2025-11-25T23:34:00.000Z,25 November 2025 - 11:34 PM,11.12,123.95,032,2.2,009km N 24° W of City Of Bogo (Cebu),009,N 24° W,City Of Bogo (Cebu)
 2025-11-25T23:32:00.000Z,25 November 2025 - 11:32 PM,10.77,125.85,044,2.4,014km N 78° E of Homonhon Island (Guiuan) (Eastern Samar),014,N 78° E,Homonhon Island (Guiuan) (Eastern Samar)
 2025-11-25T23:27:00.000Z,25 November 2025 - 11:27 PM,06.00,125.14,031,1.7,016km N 79° W of Malapatan (Sarangani),016,N 79° W,Malapatan (Sarangani)
 2025-11-25T20:20:00.000Z,25 November 2025 - 08:20 PM,11.17,124.12,010,2.1,020km N 47° E of City Of Bogo (Cebu),020,N 47° E,City Of Bogo (Cebu)
