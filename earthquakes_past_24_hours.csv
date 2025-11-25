@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-25T20:20:00.000Z,25 November 2025 - 08:20 PM,11.17,124.12,010,2.1,020km N 47° E of City Of Bogo (Cebu),020,N 47° E,City Of Bogo (Cebu)
+2025-11-25T20:06:00.000Z,25 November 2025 - 08:06 PM,02.39,126.56,100,4.2,357km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),357,S 21° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-25T19:06:00.000Z,25 November 2025 - 07:06 PM,06.26,126.26,033,2.0,048km S 26° E of Governor Generoso (Davao Oriental),048,S 26° E,Governor Generoso (Davao Oriental)
 2025-11-25T18:56:00.000Z,25 November 2025 - 06:56 PM,15.22,119.83,034,2.0,020km S 54° W of Iba (Zambales),020,S 54° W,Iba (Zambales)
 2025-11-25T18:55:00.000Z,25 November 2025 - 06:55 PM,07.35,127.15,005,3.0,069km N 77° E of Manay (Davao Oriental),069,N 77° E,Manay (Davao Oriental)
@@ -46,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T20:33:00.000Z,24 November 2025 - 08:33 PM,07.17,127.29,017,2.6,084km S 87° E of Manay (Davao Oriental),084,S 87° E,Manay (Davao Oriental)
 2025-11-24T20:27:00.000Z,24 November 2025 - 08:27 PM,07.09,127.56,014,2.7,114km S 83° E of Manay (Davao Oriental),114,S 83° E,Manay (Davao Oriental)
 2025-11-24T20:21:00.000Z,24 November 2025 - 08:21 PM,16.96,121.49,029,1.8,005km N 04° W of Alfonso Lista (Ifugao),005,N 04° W,Alfonso Lista (Ifugao)
-2025-11-24T19:56:00.000Z,24 November 2025 - 07:56 PM,07.57,126.58,027,1.8,003km S 85° E of Baganga (Davao Oriental),003,S 85° E,Baganga (Davao Oriental)
-2025-11-24T19:54:00.000Z,24 November 2025 - 07:54 PM,07.19,126.93,010,2.8,044km S 86° E of Manay (Davao Oriental),044,S 86° E,Manay (Davao Oriental)
-2025-11-24T19:26:00.000Z,24 November 2025 - 07:26 PM,16.17,122.43,009,2.6,034km S 43° E of Dilasag (Aurora),034,S 43° E,Dilasag (Aurora)
