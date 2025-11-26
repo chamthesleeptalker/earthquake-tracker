@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T19:19:00.000Z,26 November 2025 - 07:19 PM,15.32,121.92,001,2.0,062km S 38° E of Baler (Aurora),062,S 38° E,Baler (Aurora)
 2025-11-26T19:00:00.000Z,26 November 2025 - 07:00 PM,08.27,126.63,033,2.7,034km S 72° E of Hinatuan (Surigao Del Sur),034,S 72° E,Hinatuan (Surigao Del Sur)
 2025-11-26T17:04:00.000Z,26 November 2025 - 05:04 PM,11.14,123.94,010,2.3,011km N 22° W of City Of Bogo (Cebu),011,N 22° W,City Of Bogo (Cebu)
 2025-11-26T17:00:00.000Z,26 November 2025 - 05:00 PM,06.82,126.24,023,2.9,015km S 08° E of City Of Mati (Davao Oriental),015,S 08° E,City Of Mati (Davao Oriental)
@@ -37,4 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-25T23:27:00.000Z,25 November 2025 - 11:27 PM,06.00,125.14,031,1.7,016km N 79° W of Malapatan (Sarangani),016,N 79° W,Malapatan (Sarangani)
 2025-11-25T20:20:00.000Z,25 November 2025 - 08:20 PM,11.17,124.12,010,2.1,020km N 47° E of City Of Bogo (Cebu),020,N 47° E,City Of Bogo (Cebu)
 2025-11-25T20:06:00.000Z,25 November 2025 - 08:06 PM,02.39,126.56,100,4.2,357km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),357,S 21° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-25T19:06:00.000Z,25 November 2025 - 07:06 PM,06.26,126.26,033,2.0,048km S 26° E of Governor Generoso (Davao Oriental),048,S 26° E,Governor Generoso (Davao Oriental)

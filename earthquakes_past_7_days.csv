@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T19:19:00.000Z,26 November 2025 - 07:19 PM,15.32,121.92,001,2.0,062km S 38° E of Baler (Aurora),062,S 38° E,Baler (Aurora)
 2025-11-26T19:00:00.000Z,26 November 2025 - 07:00 PM,08.27,126.63,033,2.7,034km S 72° E of Hinatuan (Surigao Del Sur),034,S 72° E,Hinatuan (Surigao Del Sur)
 2025-11-25T11:32:00.000Z,25 November 2025 - 11:32 AM,10.80,125.79,036,2.4,010km N 49° E of Homonhon Island (Guiuan) (Eastern Samar),010,N 49° E,Homonhon Island (Guiuan) (Eastern Samar)
 2025-11-26T17:04:00.000Z,26 November 2025 - 05:04 PM,11.14,123.94,010,2.3,011km N 22° W of City Of Bogo (Cebu),011,N 22° W,City Of Bogo (Cebu)
@@ -348,5 +349,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T20:00:00.000Z,19 November 2025 - 08:00 PM,13.64,119.94,167,2.0,032km S 39° W of Lubang (Occidental Mindoro),032,S 39° W,Lubang (Occidental Mindoro)
 2025-11-19T19:28:00.000Z,19 November 2025 - 07:28 PM,07.11,125.89,027,1.7,002km S 28° W of Pantukan (Davao De Oro),002,S 28° W,Pantukan (Davao De Oro)
 2025-11-19T19:27:00.000Z,19 November 2025 - 07:27 PM,08.01,126.00,023,1.7,004km N 57° W of Santa Josefa (Agusan Del Sur),004,N 57° W,Santa Josefa (Agusan Del Sur)
-2025-11-19T19:15:00.000Z,19 November 2025 - 07:15 PM,08.00,126.00,021,1.6,003km N 63° W of Santa Josefa (Agusan Del Sur),003,N 63° W,Santa Josefa (Agusan Del Sur)
-2025-11-19T19:10:00.000Z,19 November 2025 - 07:10 PM,10.97,123.93,007,2.7,010km S 35° W of City Of Bogo (Cebu),010,S 35° W,City Of Bogo (Cebu)
