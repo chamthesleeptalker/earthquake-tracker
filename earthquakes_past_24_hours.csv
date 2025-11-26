@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T02:33:00.000Z,27 November 2025 - 02:33 AM,09.76,122.41,012,2.2,003km S 66° W of City Of Sipalay (Negros Occidental),003,S 66° W,City Of Sipalay (Negros Occidental)
 2025-11-27T02:03:00.000Z,27 November 2025 - 02:03 AM,08.86,126.47,021,2.7,020km S 72° E of Cagwait (Surigao Del Sur),020,S 72° E,Cagwait (Surigao Del Sur)
 2025-11-27T01:10:00.000Z,27 November 2025 - 01:10 AM,05.21,126.52,005,3.5,124km S 79° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),124,S 79° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-27T01:07:00.000Z,27 November 2025 - 01:07 AM,11.00,123.97,002,3.1,005km S 10° W of City Of Bogo (Cebu),005,S 10° W,City Of Bogo (Cebu)
@@ -40,5 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T03:33:00.000Z,26 November 2025 - 03:33 AM,11.07,123.91,029,1.6,008km N 70° W of City Of Bogo (Cebu),008,N 70° W,City Of Bogo (Cebu)
 2025-11-26T02:58:00.000Z,26 November 2025 - 02:58 AM,07.61,126.59,007,2.5,005km N 38° E of Baganga (Davao Oriental),005,N 38° E,Baganga (Davao Oriental)
 2025-11-26T02:55:00.000Z,26 November 2025 - 02:55 AM,07.06,126.29,033,1.4,015km N 32° E of City Of Mati (Davao Oriental),015,N 32° E,City Of Mati (Davao Oriental)
-2025-11-26T02:31:00.000Z,26 November 2025 - 02:31 AM,12.51,125.03,027,2.5,007km S 14° E of Laoang (Northern Samar),007,S 14° E,Laoang (Northern Samar)
-2025-11-26T02:20:00.000Z,26 November 2025 - 02:20 AM,18.14,120.64,031,2.2,002km S 07° W of Sarrat (Ilocos Norte),002,S 07° W,Sarrat (Ilocos Norte)
