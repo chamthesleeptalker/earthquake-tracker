@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T14:40:00.000Z,26 November 2025 - 02:40 PM,07.48,126.70,025,2.5,035km N 31° E of Manay (Davao Oriental),035,N 31° E,Manay (Davao Oriental)
 2025-11-26T13:20:00.000Z,26 November 2025 - 01:20 PM,06.23,125.58,074,3.4,013km N 76° W of Don Marcelino (Davao Occidental),013,N 76° W,Don Marcelino (Davao Occidental)
 2025-11-26T13:12:00.000Z,26 November 2025 - 01:12 PM,11.20,124.12,027,1.7,023km N 43° E of City Of Bogo (Cebu),023,N 43° E,City Of Bogo (Cebu)
 2025-11-26T13:09:00.000Z,26 November 2025 - 01:09 PM,07.15,126.87,021,2.8,037km S 79° E of Manay (Davao Oriental),037,S 79° E,Manay (Davao Oriental)
@@ -41,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-25T16:06:00.000Z,25 November 2025 - 04:06 PM,17.46,120.18,021,2.1,024km S 65° W of Caoayan (Ilocos Sur),024,S 65° W,Caoayan (Ilocos Sur)
 2025-11-25T15:39:00.000Z,25 November 2025 - 03:39 PM,16.55,120.47,024,2.0,004km N 28° E of Burgos (La Union),004,N 28° E,Burgos (La Union)
 2025-11-25T15:23:00.000Z,25 November 2025 - 03:23 PM,10.92,123.92,007,1.9,015km S 24° W of City Of Bogo (Cebu),015,S 24° W,City Of Bogo (Cebu)
-2025-11-25T14:39:00.000Z,25 November 2025 - 02:39 PM,07.30,126.81,012,3.2,031km N 71° E of Manay (Davao Oriental),031,N 71° E,Manay (Davao Oriental)
