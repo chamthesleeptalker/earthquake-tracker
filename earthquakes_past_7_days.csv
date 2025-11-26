@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T02:03:00.000Z,27 November 2025 - 02:03 AM,08.86,126.47,021,2.7,020km S 72° E of Cagwait (Surigao Del Sur),020,S 72° E,Cagwait (Surigao Del Sur)
 2025-11-27T01:10:00.000Z,27 November 2025 - 01:10 AM,05.21,126.52,005,3.5,124km S 79° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),124,S 79° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-27T01:07:00.000Z,27 November 2025 - 01:07 AM,11.00,123.97,002,3.1,005km S 10° W of City Of Bogo (Cebu),005,S 10° W,City Of Bogo (Cebu)
 2025-11-27T00:20:00.000Z,27 November 2025 - 12:20 AM,09.34,126.46,013,1.5,050km N 20° E of Cagwait (Surigao Del Sur),050,N 20° E,Cagwait (Surigao Del Sur)
@@ -334,6 +335,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-20T02:26:00.000Z,20 November 2025 - 02:26 AM,09.04,126.33,033,1.8,009km N 30° E of Bayabas (Surigao Del Sur),009,N 30° E,Bayabas (Surigao Del Sur)
 2025-11-20T02:16:00.000Z,20 November 2025 - 02:16 AM,15.80,121.73,019,1.4,019km N 76° E of Baler (Aurora),019,N 76° E,Baler (Aurora)
 2025-11-20T02:08:00.000Z,20 November 2025 - 02:08 AM,15.72,121.94,015,1.9,040km S 84° E of Baler (Aurora),040,S 84° E,Baler (Aurora)
-2025-11-20T01:58:00.000Z,20 November 2025 - 01:58 AM,15.71,121.89,019,2.1,036km S 82° E of Baler (Aurora),036,S 82° E,Baler (Aurora)
-2025-11-20T01:46:00.000Z,20 November 2025 - 01:46 AM,11.22,123.93,013,2.7,020km N 15° W of City Of Bogo (Cebu),020,N 15° W,City Of Bogo (Cebu)
-2025-11-20T01:43:00.000Z,20 November 2025 - 01:43 AM,15.71,121.96,013,4.1,043km S 83° E of Baler (Aurora),043,S 83° E,Baler (Aurora)
