@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-26T17:04:00.000Z,26 November 2025 - 05:04 PM,11.14,123.94,010,2.3,011km N 22° W of City Of Bogo (Cebu),011,N 22° W,City Of Bogo (Cebu)
+2025-11-26T17:00:00.000Z,26 November 2025 - 05:00 PM,06.82,126.24,023,2.9,015km S 08° E of City Of Mati (Davao Oriental),015,S 08° E,City Of Mati (Davao Oriental)
 2025-11-26T16:24:00.000Z,26 November 2025 - 04:24 PM,05.06,127.45,116,4.3,221km S 65° E of Jose Abad Santos (Davao Occidental),221,S 65° E,Jose Abad Santos (Davao Occidental)
 2025-11-26T14:40:00.000Z,26 November 2025 - 02:40 PM,07.48,126.70,025,2.5,035km N 31° E of Manay (Davao Oriental),035,N 31° E,Manay (Davao Oriental)
 2025-11-26T13:20:00.000Z,26 November 2025 - 01:20 PM,06.23,125.58,074,3.4,013km N 76° W of Don Marcelino (Davao Occidental),013,N 76° W,Don Marcelino (Davao Occidental)
@@ -354,5 +356,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-19T17:41:00.000Z,19 November 2025 - 05:41 PM,06.88,124.96,003,2.4,010km N 61° E of Tulunan (Cotabato),010,N 61° E,Tulunan (Cotabato)
 2025-11-19T17:27:00.000Z,19 November 2025 - 05:27 PM,11.04,124.01,001,2.1,003km S 84° E of City Of Bogo (Cebu),003,S 84° E,City Of Bogo (Cebu)
 2025-11-19T17:04:00.000Z,19 November 2025 - 05:04 PM,11.10,124.04,014,3.5,009km N 45° E of City Of Bogo (Cebu),009,N 45° E,City Of Bogo (Cebu)
-2025-11-19T16:26:00.000Z,19 November 2025 - 04:26 PM,10.30,123.57,011,3.4,004km N 24° W of Pinamungajan (Cebu),004,N 24° W,Pinamungajan (Cebu)
-2025-11-19T16:26:00.000Z,19 November 2025 - 04:26 PM,11.14,123.92,006,2.0,012km N 31° W of City Of Bogo (Cebu),012,N 31° W,City Of Bogo (Cebu)
