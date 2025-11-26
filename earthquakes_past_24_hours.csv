@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T07:00:00.000Z,27 November 2025 - 07:00 AM,04.03,122.78,043,3.7,251km S 26° E of Tongkil (Sulu),251,S 26° E,Tongkil (Sulu)
 2025-11-27T05:39:00.000Z,27 November 2025 - 05:39 AM,08.04,126.36,002,2.3,006km West of Lingig (Surigao Del Sur),006,West of Lingig,Del Sur)
 2025-11-27T05:26:00.000Z,27 November 2025 - 05:26 AM,07.05,123.75,032,2.1,030km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-11-27T05:01:00.000Z,27 November 2025 - 05:01 AM,10.42,126.53,003,2.5,067km N 48° E of Burgos (Surigao Del Norte),067,N 48° E,Burgos (Surigao Del Norte)
@@ -39,5 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T07:58:00.000Z,26 November 2025 - 07:58 AM,07.79,127.05,015,3.0,059km N 66° E of Baganga (Davao Oriental),059,N 66° E,Baganga (Davao Oriental)
 2025-11-26T07:40:00.000Z,26 November 2025 - 07:40 AM,11.23,124.12,030,1.9,026km N 36° E of City Of Bogo (Cebu),026,N 36° E,City Of Bogo (Cebu)
 2025-11-26T07:36:00.000Z,26 November 2025 - 07:36 AM,11.37,123.36,007,1.6,025km S 66° E of Estancia (Iloilo),025,S 66° E,Estancia (Iloilo)
-2025-11-26T06:06:00.000Z,26 November 2025 - 06:06 AM,13.52,120.00,028,1.9,035km S 50° W of Looc (Occidental Mindoro),035,S 50° W,Looc (Occidental Mindoro)
-2025-11-26T05:49:00.000Z,26 November 2025 - 05:49 AM,13.70,119.88,111,3.1,031km S 56° W of Lubang (Occidental Mindoro),031,S 56° W,Lubang (Occidental Mindoro)

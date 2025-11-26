@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T07:00:00.000Z,27 November 2025 - 07:00 AM,04.03,122.78,043,3.7,251km S 26° E of Tongkil (Sulu),251,S 26° E,Tongkil (Sulu)
 2025-11-27T05:39:00.000Z,27 November 2025 - 05:39 AM,08.04,126.36,002,2.3,006km West of Lingig (Surigao Del Sur),006,West of Lingig,Del Sur)
 2025-11-27T05:26:00.000Z,27 November 2025 - 05:26 AM,07.05,123.75,032,2.1,030km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-11-27T05:01:00.000Z,27 November 2025 - 05:01 AM,10.42,126.53,003,2.5,067km N 48° E of Burgos (Surigao Del Norte),067,N 48° E,Burgos (Surigao Del Norte)
@@ -325,7 +326,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-20T08:25:00.000Z,20 November 2025 - 08:25 AM,13.71,120.63,139,1.7,014km S 03° W of Calatagan (Batangas),014,S 03° W,Calatagan (Batangas)
 2025-11-20T08:22:00.000Z,20 November 2025 - 08:22 AM,12.80,122.87,005,1.8,039km S 18° W of San Pascual (Masbate),039,S 18° W,San Pascual (Masbate)
 2025-11-20T07:06:00.000Z,20 November 2025 - 07:06 AM,11.18,124.21,033,2.4,029km N 60° E of City Of Bogo (Cebu),029,N 60° E,City Of Bogo (Cebu)
-2025-11-20T06:24:00.000Z,20 November 2025 - 06:24 AM,11.07,123.98,002,2.8,003km N 07° E of City Of Bogo (Cebu),003,N 07° E,City Of Bogo (Cebu)
-2025-11-20T06:17:00.000Z,20 November 2025 - 06:17 AM,13.15,124.19,077,2.2,008km S 56° E of Rapu-rapu (Albay),008,S 56° E,Rapu-rapu (Albay)
-2025-11-20T06:01:00.000Z,20 November 2025 - 06:01 AM,13.87,120.58,113,2.1,007km N 51° W of Calatagan (Batangas),007,N 51° W,Calatagan (Batangas)
-2025-11-20T05:58:00.000Z,20 November 2025 - 05:58 AM,08.50,125.57,021,1.8,018km West of San Luis (Agusan Del Sur),018,West of San,(Agusan Del Sur)
