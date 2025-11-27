@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T23:42:00.000Z,27 November 2025 - 11:42 PM,10.98,122.09,002,2.7,005km S 65° W of Valderrama (Antique),005,S 65° W,Valderrama (Antique)
+2025-11-27T23:40:00.000Z,27 November 2025 - 11:40 PM,14.12,125.04,042,2.3,080km N 62° E of Gigmoto (Catanduanes),080,N 62° E,Gigmoto (Catanduanes)
 2025-11-27T23:21:00.000Z,27 November 2025 - 11:21 PM,11.92,125.32,004,2.1,011km N 77° W of Taft (Eastern Samar),011,N 77° W,Taft (Eastern Samar)
 2025-11-27T22:55:00.000Z,27 November 2025 - 10:55 PM,10.98,123.96,004,1.9,007km S 15° W of City Of Bogo (Cebu),007,S 15° W,City Of Bogo (Cebu)
 2025-11-27T22:47:00.000Z,27 November 2025 - 10:47 PM,07.06,126.94,012,2.6,047km S 70° E of Manay (Davao Oriental),047,S 70° E,Manay (Davao Oriental)
