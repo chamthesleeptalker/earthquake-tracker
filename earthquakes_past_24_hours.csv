@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T16:28:00.000Z,27 November 2025 - 04:28 PM,11.05,124.14,033,1.7,017km S 90° E of City Of Bogo (Cebu),017,S 90° E,City Of Bogo (Cebu)
 2025-11-27T16:09:00.000Z,27 November 2025 - 04:09 PM,13.04,120.03,072,1.9,062km S 48° W of Paluan (Occidental Mindoro),062,S 48° W,Paluan (Occidental Mindoro)
 2025-11-27T15:41:00.000Z,27 November 2025 - 03:41 PM,08.66,125.94,052,1.5,007km N 23° E of Prosperidad (Agusan Del Sur),007,N 23° E,Prosperidad (Agusan Del Sur)
 2025-11-27T13:14:00.000Z,27 November 2025 - 01:14 PM,09.76,122.61,031,1.9,009km S 26° W of Candoni (Negros Occidental),009,S 26° W,Candoni (Negros Occidental)
@@ -38,4 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T19:00:00.000Z,26 November 2025 - 07:00 PM,08.27,126.63,033,2.7,034km S 72° E of Hinatuan (Surigao Del Sur),034,S 72° E,Hinatuan (Surigao Del Sur)
 2025-11-26T17:04:00.000Z,26 November 2025 - 05:04 PM,11.14,123.94,010,2.3,011km N 22° W of City Of Bogo (Cebu),011,N 22° W,City Of Bogo (Cebu)
 2025-11-26T17:00:00.000Z,26 November 2025 - 05:00 PM,06.82,126.24,023,2.9,015km S 08° E of City Of Mati (Davao Oriental),015,S 08° E,City Of Mati (Davao Oriental)
-2025-11-26T16:24:00.000Z,26 November 2025 - 04:24 PM,05.06,127.45,116,4.3,221km S 65° E of Jose Abad Santos (Davao Occidental),221,S 65° E,Jose Abad Santos (Davao Occidental)
