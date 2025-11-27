@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T00:28:00.000Z,28 November 2025 - 12:28 AM,09.97,124.17,002,2.8,006km N 63° W of Danao (Bohol),006,N 63° W,Danao (Bohol)
+2025-11-28T00:20:00.000Z,28 November 2025 - 12:20 AM,09.65,126.18,033,2.2,015km S 11° E of General Luna (Surigao Del Norte),015,S 11° E,General Luna (Surigao Del Norte)
 2025-11-27T23:42:00.000Z,27 November 2025 - 11:42 PM,10.98,122.09,002,2.7,005km S 65° W of Valderrama (Antique),005,S 65° W,Valderrama (Antique)
 2025-11-27T23:40:00.000Z,27 November 2025 - 11:40 PM,14.12,125.04,042,2.3,080km N 62° E of Gigmoto (Catanduanes),080,N 62° E,Gigmoto (Catanduanes)
 2025-11-27T23:21:00.000Z,27 November 2025 - 11:21 PM,11.92,125.32,004,2.1,011km N 77° W of Taft (Eastern Samar),011,N 77° W,Taft (Eastern Samar)
@@ -50,4 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T02:03:00.000Z,27 November 2025 - 02:03 AM,08.86,126.47,021,2.7,020km S 72° E of Cagwait (Surigao Del Sur),020,S 72° E,Cagwait (Surigao Del Sur)
 2025-11-27T01:10:00.000Z,27 November 2025 - 01:10 AM,05.21,126.52,005,3.5,124km S 79° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),124,S 79° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-27T01:07:00.000Z,27 November 2025 - 01:07 AM,11.00,123.97,002,3.1,005km S 10° W of City Of Bogo (Cebu),005,S 10° W,City Of Bogo (Cebu)
-2025-11-27T00:20:00.000Z,27 November 2025 - 12:20 AM,09.34,126.46,013,1.5,050km N 20° E of Cagwait (Surigao Del Sur),050,N 20° E,Cagwait (Surigao Del Sur)
