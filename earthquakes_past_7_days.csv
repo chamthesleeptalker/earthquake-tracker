@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T22:33:00.000Z,27 November 2025 - 10:33 PM,09.69,126.27,033,1.4,016km S 51° E of General Luna (Surigao Del Norte),016,S 51° E,General Luna (Surigao Del Norte)
 2025-11-27T21:49:00.000Z,27 November 2025 - 09:49 PM,08.98,126.41,031,2.3,014km N 63° E of Cagwait (Surigao Del Sur),014,N 63° E,Cagwait (Surigao Del Sur)
 2025-11-27T21:35:00.000Z,27 November 2025 - 09:35 PM,13.83,120.59,122,2.3,005km S 81° W of Calatagan (Batangas),005,S 81° W,Calatagan (Batangas)
 2025-11-27T21:30:00.000Z,27 November 2025 - 09:30 PM,05.28,126.44,013,3.6,109km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),109,S 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -325,8 +326,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T00:16:00.000Z,21 November 2025 - 12:16 AM,09.55,125.94,035,1.5,008km S 21° W of Socorro (Surigao Del Norte),008,S 21° W,Socorro (Surigao Del Norte)
 2025-11-20T23:58:00.000Z,20 November 2025 - 11:58 PM,09.67,126.31,033,1.5,021km S 54° E of General Luna (Surigao Del Norte),021,S 54° E,General Luna (Surigao Del Norte)
 2025-11-20T23:07:00.000Z,20 November 2025 - 11:07 PM,09.74,126.14,026,2.8,005km S 21° W of General Luna (Surigao Del Norte),005,S 21° W,General Luna (Surigao Del Norte)
-2025-11-20T22:16:00.000Z,20 November 2025 - 10:16 PM,15.91,119.75,028,1.6,016km S 57° W of Dasol (Pangasinan),016,S 57° W,Dasol (Pangasinan)
-2025-11-20T22:15:00.000Z,20 November 2025 - 10:15 PM,13.83,120.48,081,2.9,017km S 88° W of Calatagan (Batangas),017,S 88° W,Calatagan (Batangas)
-2025-11-20T22:10:00.000Z,20 November 2025 - 10:10 PM,12.99,122.79,024,1.8,025km S 53° W of San Pascual (Masbate),025,S 53° W,San Pascual (Masbate)
-2025-11-20T21:55:00.000Z,20 November 2025 - 09:55 PM,07.09,127.10,017,2.4,064km S 78° E of Manay (Davao Oriental),064,S 78° E,Manay (Davao Oriental)
-2025-11-20T21:55:00.000Z,20 November 2025 - 09:55 PM,08.39,125.98,032,1.7,003km N 74° W of Rosario (Agusan Del Sur),003,N 74° W,Rosario (Agusan Del Sur)
