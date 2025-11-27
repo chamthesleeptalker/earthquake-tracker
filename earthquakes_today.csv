@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T19:03:00.000Z,27 November 2025 - 07:03 PM,07.24,126.61,013,2.4,009km N 67° E of Manay (Davao Oriental),009,N 67° E,Manay (Davao Oriental)
+2025-11-27T18:54:00.000Z,27 November 2025 - 06:54 PM,07.57,126.54,015,2.3,003km S 73° W of Baganga (Davao Oriental),003,S 73° W,Baganga (Davao Oriental)
+2025-11-27T18:36:00.000Z,27 November 2025 - 06:36 PM,09.06,126.24,023,1.5,008km S 77° E of City Of Tandag (Surigao Del Sur),008,S 77° E,City Of Tandag (Surigao Del Sur)
 2025-11-27T18:23:00.000Z,27 November 2025 - 06:23 PM,10.98,124.05,033,1.5,011km S 44° E of City Of Bogo (Cebu),011,S 44° E,City Of Bogo (Cebu)
 2025-11-27T18:00:00.000Z,27 November 2025 - 06:00 PM,13.98,120.53,085,1.4,015km S 66° W of Lian (Batangas),015,S 66° W,Lian (Batangas)
 2025-11-27T17:07:00.000Z,27 November 2025 - 05:07 PM,11.16,123.99,031,1.9,013km N 05° E of City Of Bogo (Cebu),013,N 05° E,City Of Bogo (Cebu)
