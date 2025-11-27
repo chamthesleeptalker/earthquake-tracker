@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-27T09:03:00.000Z,27 November 2025 - 09:03 AM,07.27,126.89,011,2.8,037km S 79° E of Caraga (Davao Oriental),037,S 79° E,Caraga (Davao Oriental)
+2025-11-27T07:48:00.000Z,27 November 2025 - 07:48 AM,13.79,120.37,060,1.7,028km S 73° E of Lubang (Occidental Mindoro),028,S 73° E,Lubang (Occidental Mindoro)
 2025-11-27T07:00:00.000Z,27 November 2025 - 07:00 AM,04.03,122.78,043,3.7,251km S 26° E of Tongkil (Sulu),251,S 26° E,Tongkil (Sulu)
 2025-11-27T05:39:00.000Z,27 November 2025 - 05:39 AM,08.04,126.36,002,2.3,006km West of Lingig (Surigao Del Sur),006,West of Lingig,Del Sur)
 2025-11-27T05:26:00.000Z,27 November 2025 - 05:26 AM,07.05,123.75,032,2.1,030km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
@@ -36,7 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T12:25:00.000Z,26 November 2025 - 12:25 PM,07.48,126.77,028,2.8,040km N 41° E of Manay (Davao Oriental),040,N 41° E,Manay (Davao Oriental)
 2025-11-26T12:09:00.000Z,26 November 2025 - 12:09 PM,10.99,123.98,002,2.3,006km S 05° E of City Of Bogo (Cebu),006,S 05° E,City Of Bogo (Cebu)
 2025-11-26T10:03:00.000Z,26 November 2025 - 10:03 AM,12.44,125.18,028,2.0,009km S 66° W of Mapanas (Northern Samar),009,S 66° W,Mapanas (Northern Samar)
-2025-11-26T08:11:00.000Z,26 November 2025 - 08:11 AM,06.36,126.03,015,2.4,033km S 08° W of Governor Generoso (Davao Oriental),033,S 08° W,Governor Generoso (Davao Oriental)
-2025-11-26T07:58:00.000Z,26 November 2025 - 07:58 AM,07.79,127.05,015,3.0,059km N 66° E of Baganga (Davao Oriental),059,N 66° E,Baganga (Davao Oriental)
-2025-11-26T07:40:00.000Z,26 November 2025 - 07:40 AM,11.23,124.12,030,1.9,026km N 36° E of City Of Bogo (Cebu),026,N 36° E,City Of Bogo (Cebu)
-2025-11-26T07:36:00.000Z,26 November 2025 - 07:36 AM,11.37,123.36,007,1.6,025km S 66° E of Estancia (Iloilo),025,S 66° E,Estancia (Iloilo)
