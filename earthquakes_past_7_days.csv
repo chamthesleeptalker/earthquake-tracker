@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T06:12:00.000Z,28 November 2025 - 06:12 AM,08.68,127.32,014,3.1,113km S 83° E of Marihatag (Surigao Del Sur),113,S 83° E,Marihatag (Surigao Del Sur)
 2025-11-28T05:44:00.000Z,28 November 2025 - 05:44 AM,11.17,124.10,012,2.1,020km N 44° E of City Of Bogo (Cebu),020,N 44° E,City Of Bogo (Cebu)
 2025-11-28T05:35:00.000Z,28 November 2025 - 05:35 AM,06.31,123.31,034,2.6,086km S 72° W of Kalamansig (Sultan Kudarat),086,S 72° W,Kalamansig (Sultan Kudarat)
 2025-11-28T03:11:00.000Z,28 November 2025 - 03:11 AM,08.71,125.81,005,2.9,006km East of City Of Bayugan (Agusan Del Sur),006,East of City,Bayugan (Agusan Del Sur)
@@ -328,5 +329,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T10:45:00.000Z,21 November 2025 - 10:45 AM,17.69,120.21,028,2.1,020km N 55° W of Santa Catalina (Ilocos Sur),020,N 55° W,Santa Catalina (Ilocos Sur)
 2025-11-21T08:55:00.000Z,21 November 2025 - 08:55 AM,05.50,126.24,008,3.0,080km S 55° E of Jose Abad Santos (Davao Occidental),080,S 55° E,Jose Abad Santos (Davao Occidental)
 2025-11-21T07:30:00.000Z,21 November 2025 - 07:30 AM,06.83,124.98,009,2.6,011km S 89° E of Tulunan (Cotabato),011,S 89° E,Tulunan (Cotabato)
-2025-11-21T06:09:00.000Z,21 November 2025 - 06:09 AM,08.54,125.56,054,2.3,018km S 32° W of Esperanza (Agusan Del Sur),018,S 32° W,Esperanza (Agusan Del Sur)
-2025-11-21T05:45:00.000Z,21 November 2025 - 05:45 AM,04.93,125.19,035,2.7,059km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),059,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
