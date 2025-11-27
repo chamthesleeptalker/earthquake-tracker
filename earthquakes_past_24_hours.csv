@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T03:00:00.000Z,28 November 2025 - 03:00 AM,11.14,123.98,034,1.4,010km N 03° E of City Of Bogo (Cebu),010,N 03° E,City Of Bogo (Cebu)
+2025-11-28T02:57:00.000Z,28 November 2025 - 02:57 AM,08.57,126.72,028,1.8,048km N 62° E of Hinatuan (Surigao Del Sur),048,N 62° E,Hinatuan (Surigao Del Sur)
+2025-11-28T02:49:00.000Z,28 November 2025 - 02:49 AM,09.96,126.10,002,2.2,003km N 23° E of San Isidro (Surigao Del Norte),003,N 23° E,San Isidro (Surigao Del Norte)
+2025-11-28T02:43:00.000Z,28 November 2025 - 02:43 AM,09.83,126.23,002,3.0,010km N 58° E of General Luna (Surigao Del Norte),010,N 58° E,General Luna (Surigao Del Norte)
 2025-11-28T02:26:00.000Z,28 November 2025 - 02:26 AM,09.98,124.25,012,2.1,006km N 42° E of Danao (Bohol),006,N 42° E,Danao (Bohol)
 2025-11-28T02:16:00.000Z,28 November 2025 - 02:16 AM,06.85,127.35,005,3.8,098km S 66° E of Manay (Davao Oriental),098,S 66° E,Manay (Davao Oriental)
 2025-11-28T01:45:00.000Z,28 November 2025 - 01:45 AM,03.59,126.62,023,4.1,242km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),242,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -56,5 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T04:31:00.000Z,27 November 2025 - 04:31 AM,13.56,123.75,020,1.8,013km N 35° E of Tiwi (Albay),013,N 35° E,Tiwi (Albay)
 2025-11-27T04:08:00.000Z,27 November 2025 - 04:08 AM,11.00,124.02,008,2.4,007km S 35° E of City Of Bogo (Cebu),007,S 35° E,City Of Bogo (Cebu)
 2025-11-27T04:04:00.000Z,27 November 2025 - 04:04 AM,07.04,126.72,025,2.8,028km S 46° E of Manay (Davao Oriental),028,S 46° E,Manay (Davao Oriental)
-2025-11-27T02:45:00.000Z,27 November 2025 - 02:45 AM,07.64,126.36,020,1.9,019km S 32° W of Cateel (Davao Oriental),019,S 32° W,Cateel (Davao Oriental)
-2025-11-27T02:33:00.000Z,27 November 2025 - 02:33 AM,09.76,122.41,012,2.2,003km S 66° W of City Of Sipalay (Negros Occidental),003,S 66° W,City Of Sipalay (Negros Occidental)
