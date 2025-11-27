@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T05:44:00.000Z,28 November 2025 - 05:44 AM,11.17,124.10,012,2.1,020km N 44° E of City Of Bogo (Cebu),020,N 44° E,City Of Bogo (Cebu)
+2025-11-28T05:35:00.000Z,28 November 2025 - 05:35 AM,06.31,123.31,034,2.6,086km S 72° W of Kalamansig (Sultan Kudarat),086,S 72° W,Kalamansig (Sultan Kudarat)
 2025-11-28T03:11:00.000Z,28 November 2025 - 03:11 AM,08.71,125.81,005,2.9,006km East of City Of Bayugan (Agusan Del Sur),006,East of City,Bayugan (Agusan Del Sur)
 2025-11-28T03:00:00.000Z,28 November 2025 - 03:00 AM,11.14,123.98,034,1.4,010km N 03° E of City Of Bogo (Cebu),010,N 03° E,City Of Bogo (Cebu)
 2025-11-28T02:57:00.000Z,28 November 2025 - 02:57 AM,08.57,126.72,028,1.8,048km N 62° E of Hinatuan (Surigao Del Sur),048,N 62° E,Hinatuan (Surigao Del Sur)
@@ -55,9 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T09:03:00.000Z,27 November 2025 - 09:03 AM,07.27,126.89,011,2.8,037km S 79° E of Caraga (Davao Oriental),037,S 79° E,Caraga (Davao Oriental)
 2025-11-27T07:48:00.000Z,27 November 2025 - 07:48 AM,13.79,120.37,060,1.7,028km S 73° E of Lubang (Occidental Mindoro),028,S 73° E,Lubang (Occidental Mindoro)
 2025-11-27T07:00:00.000Z,27 November 2025 - 07:00 AM,04.03,122.78,043,3.7,251km S 26° E of Tongkil (Sulu),251,S 26° E,Tongkil (Sulu)
-2025-11-27T05:39:00.000Z,27 November 2025 - 05:39 AM,08.04,126.36,002,2.3,006km West of Lingig (Surigao Del Sur),006,West of Lingig,Del Sur)
-2025-11-27T05:26:00.000Z,27 November 2025 - 05:26 AM,07.05,123.75,032,2.1,030km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2025-11-27T05:01:00.000Z,27 November 2025 - 05:01 AM,10.42,126.53,003,2.5,067km N 48° E of Burgos (Surigao Del Norte),067,N 48° E,Burgos (Surigao Del Norte)
-2025-11-27T04:31:00.000Z,27 November 2025 - 04:31 AM,13.56,123.75,020,1.8,013km N 35° E of Tiwi (Albay),013,N 35° E,Tiwi (Albay)
-2025-11-27T04:08:00.000Z,27 November 2025 - 04:08 AM,11.00,124.02,008,2.4,007km S 35° E of City Of Bogo (Cebu),007,S 35° E,City Of Bogo (Cebu)
-2025-11-27T04:04:00.000Z,27 November 2025 - 04:04 AM,07.04,126.72,025,2.8,028km S 46° E of Manay (Davao Oriental),028,S 46° E,Manay (Davao Oriental)
