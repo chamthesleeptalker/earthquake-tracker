@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T03:22:00.000Z,29 November 2025 - 03:22 AM,09.91,126.18,016,2.0,010km S 76° E of San Isidro (Surigao Del Norte),010,S 76° E,San Isidro (Surigao Del Norte)
 2025-11-29T02:15:00.000Z,29 November 2025 - 02:15 AM,11.13,124.09,004,2.7,015km N 53° E of City Of Bogo (Cebu),015,N 53° E,City Of Bogo (Cebu)
 2025-11-29T01:15:00.000Z,29 November 2025 - 01:15 AM,11.01,123.97,003,1.6,004km S 12° W of City Of Bogo (Cebu),004,S 12° W,City Of Bogo (Cebu)
 2025-11-29T01:02:00.000Z,29 November 2025 - 01:02 AM,18.99,121.10,023,2.6,017km S 41° W of Dalupiri Island (Calayan) (Cagayan),017,S 41° W,Dalupiri Island (Calayan) (Cagayan)
@@ -29,10 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-28T06:12:00.000Z,28 November 2025 - 06:12 AM,08.68,127.32,014,3.1,113km S 83° E of Marihatag (Surigao Del Sur),113,S 83° E,Marihatag (Surigao Del Sur)
 2025-11-28T05:44:00.000Z,28 November 2025 - 05:44 AM,11.17,124.10,012,2.1,020km N 44° E of City Of Bogo (Cebu),020,N 44° E,City Of Bogo (Cebu)
 2025-11-28T05:35:00.000Z,28 November 2025 - 05:35 AM,06.31,123.31,034,2.6,086km S 72° W of Kalamansig (Sultan Kudarat),086,S 72° W,Kalamansig (Sultan Kudarat)
-2025-11-28T03:11:00.000Z,28 November 2025 - 03:11 AM,08.71,125.81,005,2.9,006km East of City Of Bayugan (Agusan Del Sur),006,East of City,Bayugan (Agusan Del Sur)
-2025-11-28T03:00:00.000Z,28 November 2025 - 03:00 AM,11.14,123.98,034,1.4,010km N 03° E of City Of Bogo (Cebu),010,N 03° E,City Of Bogo (Cebu)
-2025-11-28T02:57:00.000Z,28 November 2025 - 02:57 AM,08.57,126.72,028,1.8,048km N 62° E of Hinatuan (Surigao Del Sur),048,N 62° E,Hinatuan (Surigao Del Sur)
-2025-11-28T02:49:00.000Z,28 November 2025 - 02:49 AM,09.96,126.10,002,2.2,003km N 23° E of San Isidro (Surigao Del Norte),003,N 23° E,San Isidro (Surigao Del Norte)
-2025-11-28T02:43:00.000Z,28 November 2025 - 02:43 AM,09.83,126.23,002,3.0,010km N 58° E of General Luna (Surigao Del Norte),010,N 58° E,General Luna (Surigao Del Norte)
-2025-11-28T02:26:00.000Z,28 November 2025 - 02:26 AM,09.98,124.25,012,2.1,006km N 42° E of Danao (Bohol),006,N 42° E,Danao (Bohol)
-2025-11-28T02:16:00.000Z,28 November 2025 - 02:16 AM,06.85,127.35,005,3.8,098km S 66° E of Manay (Davao Oriental),098,S 66° E,Manay (Davao Oriental)
