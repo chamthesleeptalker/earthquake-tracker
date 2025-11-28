@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T06:25:00.000Z,29 November 2025 - 06:25 AM,10.87,123.55,008,2.0,006km N 61° E of City Of Escalante (Negros Occidental),006,N 61° E,City Of Escalante (Negros Occidental)
+2025-11-29T06:12:00.000Z,29 November 2025 - 06:12 AM,06.30,125.99,031,2.7,034km N 72° E of Don Marcelino (Davao Occidental),034,N 72° E,Don Marcelino (Davao Occidental)
+2025-11-29T06:04:00.000Z,29 November 2025 - 06:04 AM,11.13,123.96,010,2.8,010km N 11° W of City Of Bogo (Cebu),010,N 11° W,City Of Bogo (Cebu)
 2025-11-29T05:15:00.000Z,29 November 2025 - 05:15 AM,05.58,125.66,039,2.4,025km N 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 60° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-29T05:06:00.000Z,29 November 2025 - 05:06 AM,07.16,127.07,010,2.6,059km S 85° E of Manay (Davao Oriental),059,S 85° E,Manay (Davao Oriental)
 2025-11-29T04:42:00.000Z,29 November 2025 - 04:42 AM,16.35,122.11,007,2.4,008km N 07° W of Casiguran (Aurora),008,N 07° W,Casiguran (Aurora)

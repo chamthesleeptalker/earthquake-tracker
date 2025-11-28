@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T06:25:00.000Z,29 November 2025 - 06:25 AM,10.87,123.55,008,2.0,006km N 61° E of City Of Escalante (Negros Occidental),006,N 61° E,City Of Escalante (Negros Occidental)
+2025-11-29T06:12:00.000Z,29 November 2025 - 06:12 AM,06.30,125.99,031,2.7,034km N 72° E of Don Marcelino (Davao Occidental),034,N 72° E,Don Marcelino (Davao Occidental)
+2025-11-29T06:04:00.000Z,29 November 2025 - 06:04 AM,11.13,123.96,010,2.8,010km N 11° W of City Of Bogo (Cebu),010,N 11° W,City Of Bogo (Cebu)
 2025-11-29T05:15:00.000Z,29 November 2025 - 05:15 AM,05.58,125.66,039,2.4,025km N 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 60° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-29T05:06:00.000Z,29 November 2025 - 05:06 AM,07.16,127.07,010,2.6,059km S 85° E of Manay (Davao Oriental),059,S 85° E,Manay (Davao Oriental)
 2025-11-29T04:42:00.000Z,29 November 2025 - 04:42 AM,16.35,122.11,007,2.4,008km N 07° W of Casiguran (Aurora),008,N 07° W,Casiguran (Aurora)
@@ -312,5 +315,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T08:00:00.000Z,22 November 2025 - 08:00 AM,06.49,125.66,201,4.5,010km N 33° E of Malita (Davao Occidental),010,N 33° E,Malita (Davao Occidental)
 2025-11-22T07:45:00.000Z,22 November 2025 - 07:45 AM,07.14,126.85,019,2.2,035km S 77° E of Manay (Davao Oriental),035,S 77° E,Manay (Davao Oriental)
 2025-11-22T07:11:00.000Z,22 November 2025 - 07:11 AM,09.55,126.17,030,2.0,025km S 02° E of General Luna (Surigao Del Norte),025,S 02° E,General Luna (Surigao Del Norte)
-2025-11-22T05:23:00.000Z,22 November 2025 - 05:23 AM,07.79,127.08,014,2.7,062km N 67° E of Baganga (Davao Oriental),062,N 67° E,Baganga (Davao Oriental)
-2025-11-22T05:16:00.000Z,22 November 2025 - 05:16 AM,10.90,123.97,003,2.4,016km S 03° W of City Of Bogo (Cebu),016,S 03° W,City Of Bogo (Cebu)
