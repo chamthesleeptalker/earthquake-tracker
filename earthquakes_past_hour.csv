@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T07:27:00.000Z,29 November 2025 - 07:27 AM,11.13,124.07,003,1.9,013km N 49° E of City Of Bogo (Cebu),013,N 49° E,City Of Bogo (Cebu)
+2025-11-29T07:22:00.000Z,29 November 2025 - 07:22 AM,11.20,124.62,033,1.6,007km N 76° E of Kananga (Leyte),007,N 76° E,Kananga (Leyte)
 2025-11-29T07:59:00.000Z,29 November 2025 - 07:59 AM,17.37,121.88,024,3.3,012km S 47° E of San Pablo (Isabela),012,S 47° E,San Pablo (Isabela)
