@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T18:16:00.000Z,28 November 2025 - 06:16 PM,16.54,122.19,010,4.3,007km N 78° W of Dinapigue (Isabela),007,N 78° W,Dinapigue (Isabela)
+2025-11-28T18:15:00.000Z,28 November 2025 - 06:15 PM,11.13,124.20,005,2.2,026km N 68° E of City Of Bogo (Cebu),026,N 68° E,City Of Bogo (Cebu)
 2025-11-28T17:59:00.000Z,28 November 2025 - 05:59 PM,11.01,123.98,004,2.5,004km S 06° E of City Of Bogo (Cebu),004,S 06° E,City Of Bogo (Cebu)
 2025-11-28T16:24:00.000Z,28 November 2025 - 04:24 PM,06.06,126.48,046,3.3,080km S 35° E of Governor Generoso (Davao Oriental),080,S 35° E,Governor Generoso (Davao Oriental)
 2025-11-28T15:53:00.000Z,28 November 2025 - 03:53 PM,07.67,124.65,022,2.5,009km N 70° W of Wao (Lanao Del Sur),009,N 70° W,Wao (Lanao Del Sur)
@@ -326,4 +328,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T18:39:00.000Z,21 November 2025 - 06:39 PM,15.72,121.95,013,1.7,041km S 84° E of Baler (Aurora),041,S 84° E,Baler (Aurora)
 2025-11-21T18:36:00.000Z,21 November 2025 - 06:36 PM,09.42,122.58,006,3.3,007km N 83° W of Basay (Negros Oriental),007,N 83° W,Basay (Negros Oriental)
 2025-11-21T18:28:00.000Z,21 November 2025 - 06:28 PM,11.11,124.02,025,1.5,009km N 31° E of City Of Bogo (Cebu),009,N 31° E,City Of Bogo (Cebu)
-2025-11-21T17:59:00.000Z,21 November 2025 - 05:59 PM,15.71,121.96,017,1.7,042km S 82° E of Baler (Aurora),042,S 82° E,Baler (Aurora)
