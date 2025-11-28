@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T17:59:00.000Z,28 November 2025 - 05:59 PM,11.01,123.98,004,2.5,004km S 06° E of City Of Bogo (Cebu),004,S 06° E,City Of Bogo (Cebu)
 2025-11-28T16:24:00.000Z,28 November 2025 - 04:24 PM,06.06,126.48,046,3.3,080km S 35° E of Governor Generoso (Davao Oriental),080,S 35° E,Governor Generoso (Davao Oriental)
 2025-11-28T15:53:00.000Z,28 November 2025 - 03:53 PM,07.67,124.65,022,2.5,009km N 70° W of Wao (Lanao Del Sur),009,N 70° W,Wao (Lanao Del Sur)
 2025-11-28T14:46:00.000Z,28 November 2025 - 02:46 PM,13.69,120.60,094,2.1,016km S 12° W of Calatagan (Batangas),016,S 12° W,Calatagan (Batangas)

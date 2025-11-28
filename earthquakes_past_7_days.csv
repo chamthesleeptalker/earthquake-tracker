@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T17:59:00.000Z,28 November 2025 - 05:59 PM,11.01,123.98,004,2.5,004km S 06° E of City Of Bogo (Cebu),004,S 06° E,City Of Bogo (Cebu)
 2025-11-28T16:24:00.000Z,28 November 2025 - 04:24 PM,06.06,126.48,046,3.3,080km S 35° E of Governor Generoso (Davao Oriental),080,S 35° E,Governor Generoso (Davao Oriental)
 2025-11-28T15:53:00.000Z,28 November 2025 - 03:53 PM,07.67,124.65,022,2.5,009km N 70° W of Wao (Lanao Del Sur),009,N 70° W,Wao (Lanao Del Sur)
 2025-11-28T14:46:00.000Z,28 November 2025 - 02:46 PM,13.69,120.60,094,2.1,016km S 12° W of Calatagan (Batangas),016,S 12° W,Calatagan (Batangas)
@@ -326,8 +327,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T18:36:00.000Z,21 November 2025 - 06:36 PM,09.42,122.58,006,3.3,007km N 83° W of Basay (Negros Oriental),007,N 83° W,Basay (Negros Oriental)
 2025-11-21T18:28:00.000Z,21 November 2025 - 06:28 PM,11.11,124.02,025,1.5,009km N 31° E of City Of Bogo (Cebu),009,N 31° E,City Of Bogo (Cebu)
 2025-11-21T17:59:00.000Z,21 November 2025 - 05:59 PM,15.71,121.96,017,1.7,042km S 82° E of Baler (Aurora),042,S 82° E,Baler (Aurora)
-2025-11-21T17:57:00.000Z,21 November 2025 - 05:57 PM,10.95,123.87,001,2.2,016km S 49° W of City Of Bogo (Cebu),016,S 49° W,City Of Bogo (Cebu)
-2025-11-21T17:47:00.000Z,21 November 2025 - 05:47 PM,15.76,121.88,004,3.0,034km N 89° E of Baler (Aurora),034,N 89° E,Baler (Aurora)
-2025-11-21T17:43:00.000Z,21 November 2025 - 05:43 PM,08.25,123.38,020,2.1,011km N 18° E of Dumingag (Zamboanga Del Sur),011,N 18° E,Dumingag (Zamboanga Del Sur)
-2025-11-21T17:39:00.000Z,21 November 2025 - 05:39 PM,09.61,126.09,010,2.8,014km S 85° E of Socorro (Surigao Del Norte),014,S 85° E,Socorro (Surigao Del Norte)
-2025-11-21T17:16:00.000Z,21 November 2025 - 05:16 PM,06.99,127.00,011,2.5,057km S 65° E of Manay (Davao Oriental),057,S 65° E,Manay (Davao Oriental)
