@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T15:53:00.000Z,28 November 2025 - 03:53 PM,07.67,124.65,022,2.5,009km N 70° W of Wao (Lanao Del Sur),009,N 70° W,Wao (Lanao Del Sur)
 2025-11-28T14:46:00.000Z,28 November 2025 - 02:46 PM,13.69,120.60,094,2.1,016km S 12° W of Calatagan (Batangas),016,S 12° W,Calatagan (Batangas)
 2025-11-28T13:15:00.000Z,28 November 2025 - 01:15 PM,04.00,126.02,005,3.4,170km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),170,S 23° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-28T11:26:00.000Z,28 November 2025 - 11:26 AM,11.00,123.91,006,2.7,009km S 54° W of City Of Bogo (Cebu),009,S 54° W,City Of Bogo (Cebu)
@@ -330,4 +331,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T17:39:00.000Z,21 November 2025 - 05:39 PM,09.61,126.09,010,2.8,014km S 85° E of Socorro (Surigao Del Norte),014,S 85° E,Socorro (Surigao Del Norte)
 2025-11-21T17:16:00.000Z,21 November 2025 - 05:16 PM,06.99,127.00,011,2.5,057km S 65° E of Manay (Davao Oriental),057,S 65° E,Manay (Davao Oriental)
 2025-11-21T16:19:00.000Z,21 November 2025 - 04:19 PM,07.88,126.79,020,1.8,039km N 75° E of Cateel (Davao Oriental),039,N 75° E,Cateel (Davao Oriental)
-2025-11-21T15:15:00.000Z,21 November 2025 - 03:15 PM,11.15,123.98,009,2.3,006km N 46° W of City Of Bogo (Cebu),006,N 46° W,City Of Bogo (Cebu)
