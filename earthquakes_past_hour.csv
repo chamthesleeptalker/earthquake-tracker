@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T04:42:00.000Z,29 November 2025 - 04:42 AM,16.35,122.11,007,2.4,008km N 07° W of Casiguran (Aurora),008,N 07° W,Casiguran (Aurora)
 2025-11-29T04:26:00.000Z,29 November 2025 - 04:26 AM,07.37,126.31,032,2.2,022km N 75° E of Maragusan (Davao De Oro),022,N 75° E,Maragusan (Davao De Oro)
 2025-11-29T04:10:00.000Z,29 November 2025 - 04:10 AM,16.88,120.64,016,2.5,011km S 84° E of Alilem (Ilocos Sur),011,S 84° E,Alilem (Ilocos Sur)
 2025-11-29T04:01:00.000Z,29 November 2025 - 04:01 AM,07.08,126.85,017,3.8,037km S 67° E of Manay (Davao Oriental),037,S 67° E,Manay (Davao Oriental)
