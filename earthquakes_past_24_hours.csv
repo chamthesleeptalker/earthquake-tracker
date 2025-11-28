@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T23:28:00.000Z,28 November 2025 - 11:28 PM,05.64,126.44,148,3.2,094km S 71° E of Jose Abad Santos (Davao Occidental),094,S 71° E,Jose Abad Santos (Davao Occidental)
 2025-11-28T22:36:00.000Z,28 November 2025 - 10:36 PM,14.13,121.24,005,2.0,005km S 22° E of Los Baños (Laguna),005,S 22° E,Los BaÃ±os (Laguna)
 2025-11-28T22:06:00.000Z,28 November 2025 - 10:06 PM,11.14,125.47,008,2.2,003km N 46° E of Giporlos (Eastern Samar),003,N 46° E,Giporlos (Eastern Samar)
 2025-11-28T21:51:00.000Z,28 November 2025 - 09:51 PM,15.52,121.33,031,1.8,007km N 11° W of Gabaldon (Nueva Ecija),007,N 11° W,Gabaldon (Nueva Ecija)
@@ -43,6 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-28T00:20:00.000Z,28 November 2025 - 12:20 AM,09.65,126.18,033,2.2,015km S 11° E of General Luna (Surigao Del Norte),015,S 11° E,General Luna (Surigao Del Norte)
 2025-11-27T23:42:00.000Z,27 November 2025 - 11:42 PM,10.98,122.09,002,2.7,005km S 65° W of Valderrama (Antique),005,S 65° W,Valderrama (Antique)
 2025-11-27T23:40:00.000Z,27 November 2025 - 11:40 PM,14.12,125.04,042,2.3,080km N 62° E of Gigmoto (Catanduanes),080,N 62° E,Gigmoto (Catanduanes)
-2025-11-27T23:21:00.000Z,27 November 2025 - 11:21 PM,11.92,125.32,004,2.1,011km N 77° W of Taft (Eastern Samar),011,N 77° W,Taft (Eastern Samar)
-2025-11-27T22:55:00.000Z,27 November 2025 - 10:55 PM,10.98,123.96,004,1.9,007km S 15° W of City Of Bogo (Cebu),007,S 15° W,City Of Bogo (Cebu)
-2025-11-27T22:47:00.000Z,27 November 2025 - 10:47 PM,07.06,126.94,012,2.6,047km S 70° E of Manay (Davao Oriental),047,S 70° E,Manay (Davao Oriental)

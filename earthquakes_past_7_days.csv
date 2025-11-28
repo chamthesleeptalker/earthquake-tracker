@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T23:28:00.000Z,28 November 2025 - 11:28 PM,05.64,126.44,148,3.2,094km S 71° E of Jose Abad Santos (Davao Occidental),094,S 71° E,Jose Abad Santos (Davao Occidental)
 2025-11-28T22:36:00.000Z,28 November 2025 - 10:36 PM,14.13,121.24,005,2.0,005km S 22° E of Los Baños (Laguna),005,S 22° E,Los BaÃ±os (Laguna)
 2025-11-28T22:06:00.000Z,28 November 2025 - 10:06 PM,11.14,125.47,008,2.2,003km N 46° E of Giporlos (Eastern Samar),003,N 46° E,Giporlos (Eastern Samar)
 2025-11-28T21:51:00.000Z,28 November 2025 - 09:51 PM,15.52,121.33,031,1.8,007km N 11° W of Gabaldon (Nueva Ecija),007,N 11° W,Gabaldon (Nueva Ecija)
@@ -319,5 +320,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T00:27:00.000Z,22 November 2025 - 12:27 AM,13.43,122.07,008,2.0,007km S 42° E of Santa Cruz (Marinduque),007,S 42° E,Santa Cruz (Marinduque)
 2025-11-22T00:20:00.000Z,22 November 2025 - 12:20 AM,15.74,121.95,019,2.0,042km S 87° E of Baler (Aurora),042,S 87° E,Baler (Aurora)
 2025-11-22T00:15:00.000Z,22 November 2025 - 12:15 AM,17.29,121.06,028,1.6,009km N 72° W of Tinglayan (Kalinga),009,N 72° W,Tinglayan (Kalinga)
-2025-11-21T23:22:00.000Z,21 November 2025 - 11:22 PM,11.02,123.95,023,1.7,004km S 52° W of City Of Bogo (Cebu),004,S 52° W,City Of Bogo (Cebu)
-2025-11-21T22:41:00.000Z,21 November 2025 - 10:41 PM,16.92,121.63,027,2.0,005km S 51° W of Cabatuan (Isabela),005,S 51° W,Cabatuan (Isabela)
