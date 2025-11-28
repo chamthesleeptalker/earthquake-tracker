@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T19:17:00.000Z,28 November 2025 - 07:17 PM,11.00,124.07,005,2.1,011km S 64° E of City Of Bogo (Cebu),011,S 64° E,City Of Bogo (Cebu)
 2025-11-28T18:16:00.000Z,28 November 2025 - 06:16 PM,16.54,122.19,010,4.3,007km N 78° W of Dinapigue (Isabela),007,N 78° W,Dinapigue (Isabela)
 2025-11-28T18:15:00.000Z,28 November 2025 - 06:15 PM,11.13,124.20,005,2.2,026km N 68° E of City Of Bogo (Cebu),026,N 68° E,City Of Bogo (Cebu)
 2025-11-28T17:59:00.000Z,28 November 2025 - 05:59 PM,11.01,123.98,004,2.5,004km S 06° E of City Of Bogo (Cebu),004,S 06° E,City Of Bogo (Cebu)
@@ -323,8 +324,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-21T20:36:00.000Z,21 November 2025 - 08:36 PM,11.17,123.96,013,2.4,014km N 10° W of City Of Bogo (Cebu),014,N 10° W,City Of Bogo (Cebu)
 2025-11-21T20:16:00.000Z,21 November 2025 - 08:16 PM,15.71,122.00,005,2.1,048km S 84° E of Baler (Aurora),048,S 84° E,Baler (Aurora)
 2025-11-21T20:03:00.000Z,21 November 2025 - 08:03 PM,15.73,121.97,010,3.6,043km S 85° E of Baler (Aurora),043,S 85° E,Baler (Aurora)
-2025-11-21T19:06:00.000Z,21 November 2025 - 07:06 PM,15.75,121.58,056,1.4,002km S 69° E of Baler (Aurora),002,S 69° E,Baler (Aurora)
-2025-11-21T18:56:00.000Z,21 November 2025 - 06:56 PM,09.63,126.19,033,1.6,017km S 12° E of General Luna (Surigao Del Norte),017,S 12° E,General Luna (Surigao Del Norte)
-2025-11-21T18:39:00.000Z,21 November 2025 - 06:39 PM,15.72,121.95,013,1.7,041km S 84° E of Baler (Aurora),041,S 84° E,Baler (Aurora)
-2025-11-21T18:36:00.000Z,21 November 2025 - 06:36 PM,09.42,122.58,006,3.3,007km N 83° W of Basay (Negros Oriental),007,N 83° W,Basay (Negros Oriental)
-2025-11-21T18:28:00.000Z,21 November 2025 - 06:28 PM,11.11,124.02,025,1.5,009km N 31° E of City Of Bogo (Cebu),009,N 31° E,City Of Bogo (Cebu)
