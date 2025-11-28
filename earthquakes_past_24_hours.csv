@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-28T09:03:00.000Z,28 November 2025 - 09:03 AM,17.75,120.71,008,2.2,004km N 14° E of Lagayan (Abra),004,N 14° E,Lagayan (Abra)
+2025-11-28T08:31:00.000Z,28 November 2025 - 08:31 AM,07.73,126.62,024,2.6,018km N 20° E of Baganga (Davao Oriental),018,N 20° E,Baganga (Davao Oriental)
 2025-11-28T07:07:00.000Z,28 November 2025 - 07:07 AM,11.23,124.29,006,3.4,011km N 79° W of Villaba (Leyte),011,N 79° W,Villaba (Leyte)
 2025-11-28T07:06:00.000Z,28 November 2025 - 07:06 AM,07.41,127.18,021,2.9,074km N 73° E of Manay (Davao Oriental),074,N 73° E,Manay (Davao Oriental)
 2025-11-28T06:54:00.000Z,28 November 2025 - 06:54 AM,10.93,123.90,002,2.2,016km S 36° W of City Of Bogo (Cebu),016,S 36° W,City Of Bogo (Cebu)
@@ -59,4 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T09:58:00.000Z,27 November 2025 - 09:58 AM,09.11,126.31,023,1.7,013km N 43° E of Tago (Surigao Del Sur),013,N 43° E,Tago (Surigao Del Sur)
 2025-11-27T09:56:00.000Z,27 November 2025 - 09:56 AM,10.81,125.22,013,2.0,024km N 72° E of Abuyog (Leyte),024,N 72° E,Abuyog (Leyte)
 2025-11-27T09:03:00.000Z,27 November 2025 - 09:03 AM,07.27,126.89,011,2.8,037km S 79° E of Caraga (Davao Oriental),037,S 79° E,Caraga (Davao Oriental)
-2025-11-27T07:48:00.000Z,27 November 2025 - 07:48 AM,13.79,120.37,060,1.7,028km S 73° E of Lubang (Occidental Mindoro),028,S 73° E,Lubang (Occidental Mindoro)
