@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T02:15:00.000Z,29 November 2025 - 02:15 AM,11.13,124.09,004,2.7,015km N 53° E of City Of Bogo (Cebu),015,N 53° E,City Of Bogo (Cebu)
 2025-11-29T01:15:00.000Z,29 November 2025 - 01:15 AM,11.01,123.97,003,1.6,004km S 12° W of City Of Bogo (Cebu),004,S 12° W,City Of Bogo (Cebu)
 2025-11-29T01:02:00.000Z,29 November 2025 - 01:02 AM,18.99,121.10,023,2.6,017km S 41° W of Dalupiri Island (Calayan) (Cagayan),017,S 41° W,Dalupiri Island (Calayan) (Cagayan)
 2025-11-28T23:28:00.000Z,28 November 2025 - 11:28 PM,05.64,126.44,148,3.2,094km S 71° E of Jose Abad Santos (Davao Occidental),094,S 71° E,Jose Abad Santos (Davao Occidental)
@@ -312,6 +313,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T03:33:00.000Z,22 November 2025 - 03:33 AM,09.22,126.31,027,2.7,014km S 66° E of Cortes (Surigao Del Sur),014,S 66° E,Cortes (Surigao Del Sur)
 2025-11-22T03:13:00.000Z,22 November 2025 - 03:13 AM,08.50,126.91,022,2.1,081km S 56° E of Cagwait (Surigao Del Sur),081,S 56° E,Cagwait (Surigao Del Sur)
 2025-11-22T02:19:00.000Z,22 November 2025 - 02:19 AM,16.85,122.16,026,2.1,022km S 49° E of San Mariano (Isabela),022,S 49° E,San Mariano (Isabela)
-2025-11-22T01:27:00.000Z,22 November 2025 - 01:27 AM,13.43,122.01,010,1.8,005km S 18° W of Santa Cruz (Marinduque),005,S 18° W,Santa Cruz (Marinduque)
-2025-11-22T01:24:00.000Z,22 November 2025 - 01:24 AM,10.33,126.17,033,1.6,036km N 18° E of Burgos (Surigao Del Norte),036,N 18° E,Burgos (Surigao Del Norte)
-2025-11-22T01:15:00.000Z,22 November 2025 - 01:15 AM,11.14,124.04,018,1.8,012km N 32° E of City Of Bogo (Cebu),012,N 32° E,City Of Bogo (Cebu)
