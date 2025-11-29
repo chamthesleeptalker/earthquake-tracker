@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T13:13:00.000Z,29 November 2025 - 01:13 PM,05.99,125.53,165,2.5,015km N 58° W of Jose Abad Santos (Davao Occidental),015,N 58° W,Jose Abad Santos (Davao Occidental)
 2025-11-29T13:11:00.000Z,29 November 2025 - 01:11 PM,11.14,124.09,026,2.1,016km N 50° E of City Of Bogo (Cebu),016,N 50° E,City Of Bogo (Cebu)
 2025-11-29T12:55:00.000Z,29 November 2025 - 12:55 PM,11.05,124.07,011,2.3,010km N 89° E of City Of Bogo (Cebu),010,N 89° E,City Of Bogo (Cebu)
 2025-11-29T12:19:00.000Z,29 November 2025 - 12:19 PM,11.01,124.00,001,1.5,004km S 35° E of City Of Bogo (Cebu),004,S 35° E,City Of Bogo (Cebu)
