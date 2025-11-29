@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T05:00:00.000Z,30 November 2025 - 05:00 AM,04.79,126.53,009,3.5,140km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),140,S 57° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-11-30T04:54:00.000Z,30 November 2025 - 04:54 AM,08.11,125.53,003,2.8,026km N 82° E of Cabanglasan (Bukidnon),026,N 82° E,Cabanglasan (Bukidnon)
+2025-11-30T04:35:00.000Z,30 November 2025 - 04:35 AM,06.48,126.34,027,1.8,035km S 57° E of Governor Generoso (Davao Oriental),035,S 57° E,Governor Generoso (Davao Oriental)
 2025-11-30T04:01:00.000Z,30 November 2025 - 04:01 AM,20.87,120.82,022,4.8,107km N 85° W of Itbayat (Batanes),107,N 85° W,Itbayat (Batanes)
 2025-11-30T04:02:00.000Z,30 November 2025 - 04:02 AM,20.73,120.81,010,4.8,107km S 86° W of Itbayat (Batanes),107,S 86° W,Itbayat (Batanes)
 2025-11-30T03:57:00.000Z,30 November 2025 - 03:57 AM,16.23,119.86,033,2.0,006km N 06° W of Bani (Pangasinan),006,N 06° W,Bani (Pangasinan)
