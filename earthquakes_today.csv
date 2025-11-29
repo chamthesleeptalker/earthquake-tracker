@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T21:09:00.000Z,29 November 2025 - 09:09 PM,13.70,120.59,099,2.5,016km S 18° W of Calatagan (Batangas),016,S 18° W,Calatagan (Batangas)
+2025-11-29T20:36:00.000Z,29 November 2025 - 08:36 PM,11.17,124.13,007,2.5,021km N 50° E of City Of Bogo (Cebu),021,N 50° E,City Of Bogo (Cebu)
 2025-11-29T19:53:00.000Z,29 November 2025 - 07:53 PM,13.22,121.28,008,2.0,006km N 04° W of Victoria (Oriental Mindoro),006,N 04° W,Victoria (Oriental Mindoro)
 2025-11-29T19:37:00.000Z,29 November 2025 - 07:37 PM,16.61,119.62,020,3.2,038km N 50° W of Bolinao (Pangasinan),038,N 50° W,Bolinao (Pangasinan)
 2025-11-29T19:17:00.000Z,29 November 2025 - 07:17 PM,08.39,122.68,033,2.8,030km N 01° E of Liloy (Zamboanga Del Norte),030,N 01° E,Liloy (Zamboanga Del Norte)
