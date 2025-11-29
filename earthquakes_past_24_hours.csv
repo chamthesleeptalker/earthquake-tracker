@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T04:02:00.000Z,30 November 2025 - 04:02 AM,20.73,120.81,010,4.8,107km S 86° W of Itbayat (Batanes),107,S 86° W,Itbayat (Batanes)
+2025-11-30T03:57:00.000Z,30 November 2025 - 03:57 AM,16.23,119.86,033,2.0,006km N 06° W of Bani (Pangasinan),006,N 06° W,Bani (Pangasinan)
+2025-11-30T03:40:00.000Z,30 November 2025 - 03:40 AM,10.99,123.83,014,2.3,018km S 69° W of City Of Bogo (Cebu),018,S 69° W,City Of Bogo (Cebu)
+2025-11-30T03:38:00.000Z,30 November 2025 - 03:38 AM,08.43,124.84,025,3.1,007km N 12° W of Manolo Fortich (Bukidnon),007,N 12° W,Manolo Fortich (Bukidnon)
+2025-11-30T03:29:00.000Z,30 November 2025 - 03:29 AM,20.73,120.74,007,3.4,115km S 87° W of Itbayat (Batanes),115,S 87° W,Itbayat (Batanes)
 2025-11-30T06:59:00.000Z,30 November 2025 - 06:59 AM,17.36,121.91,017,3.4,015km S 52° E of San Pablo (Isabela),015,S 52° E,San Pablo (Isabela)
 2025-11-30T02:56:00.000Z,30 November 2025 - 02:56 AM,07.75,124.46,002,2.2,014km S 52° E of Ganassi (Lanao Del Sur),014,S 52° E,Ganassi (Lanao Del Sur)
 2025-11-30T02:49:00.000Z,30 November 2025 - 02:49 AM,08.86,126.30,032,2.4,006km S 03° W of Cagwait (Surigao Del Sur),006,S 03° W,Cagwait (Surigao Del Sur)
