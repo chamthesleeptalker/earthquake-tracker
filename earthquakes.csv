@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T10:39:00.000Z,29 November 2025 - 10:39 AM,14.05,120.48,097,1.9,017km S 82° W of Nasugbu (Batangas),017,S 82° W,Nasugbu (Batangas)
+2025-11-29T09:27:00.000Z,29 November 2025 - 09:27 AM,10.92,123.91,001,2.4,016km S 29° W of City Of Bogo (Cebu),016,S 29° W,City Of Bogo (Cebu)
 2025-11-29T09:14:00.000Z,29 November 2025 - 09:14 AM,18.12,120.90,002,1.8,008km S 76° E of Carasi (Ilocos Norte),008,S 76° E,Carasi (Ilocos Norte)
 2025-11-29T08:16:00.000Z,29 November 2025 - 08:16 AM,12.11,120.34,030,1.5,019km N 50° E of Coron (Palawan),019,N 50° E,Coron (Palawan)
 2025-11-29T08:11:00.000Z,29 November 2025 - 08:11 AM,12.04,120.44,027,1.8,026km N 79° E of Coron (Palawan),026,N 79° E,Coron (Palawan)
