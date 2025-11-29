@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T14:08:00.000Z,29 November 2025 - 02:08 PM,15.60,120.30,035,1.5,009km S 76° W of Mayantoc (Tarlac),009,S 76° W,Mayantoc (Tarlac)
 2025-11-29T13:13:00.000Z,29 November 2025 - 01:13 PM,05.99,125.53,165,2.5,015km N 58° W of Jose Abad Santos (Davao Occidental),015,N 58° W,Jose Abad Santos (Davao Occidental)
 2025-11-29T13:11:00.000Z,29 November 2025 - 01:11 PM,11.14,124.09,026,2.1,016km N 50° E of City Of Bogo (Cebu),016,N 50° E,City Of Bogo (Cebu)
 2025-11-29T12:55:00.000Z,29 November 2025 - 12:55 PM,11.05,124.07,011,2.3,010km N 89° E of City Of Bogo (Cebu),010,N 89° E,City Of Bogo (Cebu)
@@ -320,5 +321,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T15:09:00.000Z,22 November 2025 - 03:09 PM,16.73,119.96,018,2.0,038km N 11° E of Bolinao (Pangasinan),038,N 11° E,Bolinao (Pangasinan)
 2025-11-22T14:47:00.000Z,22 November 2025 - 02:47 PM,14.22,120.25,064,1.6,035km S 48° W of Mariveles (Bataan),035,S 48° W,Mariveles (Bataan)
 2025-11-22T14:09:00.000Z,22 November 2025 - 02:09 PM,11.60,124.37,008,2.6,003km S 17° W of Almeria (Biliran),003,S 17° W,Almeria (Biliran)
-2025-11-22T13:44:00.000Z,22 November 2025 - 01:44 PM,07.40,126.70,020,2.4,027km N 40° E of Manay (Davao Oriental),027,N 40° E,Manay (Davao Oriental)
-2025-11-22T13:29:00.000Z,22 November 2025 - 01:29 PM,09.65,126.28,032,2.0,020km S 41° E of General Luna (Surigao Del Norte),020,S 41° E,General Luna (Surigao Del Norte)
