@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T13:11:00.000Z,29 November 2025 - 01:11 PM,11.14,124.09,026,2.1,016km N 50° E of City Of Bogo (Cebu),016,N 50° E,City Of Bogo (Cebu)
+2025-11-29T12:55:00.000Z,29 November 2025 - 12:55 PM,11.05,124.07,011,2.3,010km N 89° E of City Of Bogo (Cebu),010,N 89° E,City Of Bogo (Cebu)
 2025-11-29T12:19:00.000Z,29 November 2025 - 12:19 PM,11.01,124.00,001,1.5,004km S 35° E of City Of Bogo (Cebu),004,S 35° E,City Of Bogo (Cebu)
 2025-11-29T11:39:00.000Z,29 November 2025 - 11:39 AM,06.28,126.50,120,2.3,061km S 52° E of Governor Generoso (Davao Oriental),061,S 52° E,Governor Generoso (Davao Oriental)
 2025-11-29T10:42:00.000Z,29 November 2025 - 10:42 AM,12.52,125.40,018,3.6,016km N 71° E of Mapanas (Northern Samar),016,N 71° E,Mapanas (Northern Samar)
