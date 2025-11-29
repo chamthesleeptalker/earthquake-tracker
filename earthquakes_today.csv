@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T04:01:00.000Z,30 November 2025 - 04:01 AM,20.87,120.82,022,4.8,107km N 85° W of Itbayat (Batanes),107,N 85° W,Itbayat (Batanes)
 2025-11-30T04:02:00.000Z,30 November 2025 - 04:02 AM,20.73,120.81,010,4.8,107km S 86° W of Itbayat (Batanes),107,S 86° W,Itbayat (Batanes)
 2025-11-30T03:57:00.000Z,30 November 2025 - 03:57 AM,16.23,119.86,033,2.0,006km N 06° W of Bani (Pangasinan),006,N 06° W,Bani (Pangasinan)
 2025-11-30T03:40:00.000Z,30 November 2025 - 03:40 AM,10.99,123.83,014,2.3,018km S 69° W of City Of Bogo (Cebu),018,S 69° W,City Of Bogo (Cebu)
