@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T11:39:00.000Z,29 November 2025 - 11:39 AM,06.28,126.50,120,2.3,061km S 52° E of Governor Generoso (Davao Oriental),061,S 52° E,Governor Generoso (Davao Oriental)
 2025-11-29T10:42:00.000Z,29 November 2025 - 10:42 AM,12.52,125.40,018,3.6,016km N 71° E of Mapanas (Northern Samar),016,N 71° E,Mapanas (Northern Samar)
 2025-11-29T10:39:00.000Z,29 November 2025 - 10:39 AM,14.05,120.48,097,1.9,017km S 82° W of Nasugbu (Batangas),017,S 82° W,Nasugbu (Batangas)
 2025-11-29T09:27:00.000Z,29 November 2025 - 09:27 AM,10.92,123.91,001,2.4,016km S 29° W of City Of Bogo (Cebu),016,S 29° W,City Of Bogo (Cebu)
@@ -318,4 +319,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-22T13:44:00.000Z,22 November 2025 - 01:44 PM,07.40,126.70,020,2.4,027km N 40° E of Manay (Davao Oriental),027,N 40° E,Manay (Davao Oriental)
 2025-11-22T13:29:00.000Z,22 November 2025 - 01:29 PM,09.65,126.28,032,2.0,020km S 41° E of General Luna (Surigao Del Norte),020,S 41° E,General Luna (Surigao Del Norte)
 2025-11-22T12:25:00.000Z,22 November 2025 - 12:25 PM,13.53,120.73,111,1.8,010km North of Abra De Ilog (Occidental Mindoro),010,North of Abra,Ilog (Occidental Mindoro)
-2025-11-22T11:30:00.000Z,22 November 2025 - 11:30 AM,12.55,124.77,033,1.9,004km N 24° E of Mondragon (Northern Samar),004,N 24° E,Mondragon (Northern Samar)
