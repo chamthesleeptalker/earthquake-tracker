@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T01:14:00.000Z,30 November 2025 - 01:14 AM,10.48,124.38,007,2.7,017km S 11° W of Poro (Cebu),017,S 11° W,Poro (Cebu)
 2025-11-30T00:28:00.000Z,30 November 2025 - 12:28 AM,13.66,120.10,031,1.4,018km S 69° W of Looc (Occidental Mindoro),018,S 69° W,Looc (Occidental Mindoro)
 2025-11-30T00:21:00.000Z,30 November 2025 - 12:21 AM,08.46,125.89,015,2.3,010km S 58° W of San Francisco (Agusan Del Sur),010,S 58° W,San Francisco (Agusan Del Sur)
 2025-11-30T00:17:00.000Z,30 November 2025 - 12:17 AM,07.32,125.60,017,2.3,010km N 62° W of City Of Panabo (Davao Del Norte),010,N 62° W,City Of Panabo (Davao Del Norte)
