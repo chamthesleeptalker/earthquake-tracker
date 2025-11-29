@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T22:53:00.000Z,29 November 2025 - 10:53 PM,06.56,125.72,004,1.4,020km N 39° E of Malita (Davao Occidental),020,N 39° E,Malita (Davao Occidental)
 2025-11-29T21:56:00.000Z,29 November 2025 - 09:56 PM,14.98,120.28,107,2.0,011km N 57° E of Castillejos (Zambales),011,N 57° E,Castillejos (Zambales)
 2025-11-29T21:55:00.000Z,29 November 2025 - 09:55 PM,08.42,126.60,002,2.5,029km N 77° E of Hinatuan (Surigao Del Sur),029,N 77° E,Hinatuan (Surigao Del Sur)
 2025-11-29T21:09:00.000Z,29 November 2025 - 09:09 PM,13.70,120.59,099,2.5,016km S 18° W of Calatagan (Batangas),016,S 18° W,Calatagan (Batangas)
@@ -45,5 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T01:15:00.000Z,29 November 2025 - 01:15 AM,11.01,123.97,003,1.6,004km S 12° W of City Of Bogo (Cebu),004,S 12° W,City Of Bogo (Cebu)
 2025-11-29T01:02:00.000Z,29 November 2025 - 01:02 AM,18.99,121.10,023,2.6,017km S 41° W of Dalupiri Island (Calayan) (Cagayan),017,S 41° W,Dalupiri Island (Calayan) (Cagayan)
 2025-11-28T23:28:00.000Z,28 November 2025 - 11:28 PM,05.64,126.44,148,3.2,094km S 71° E of Jose Abad Santos (Davao Occidental),094,S 71° E,Jose Abad Santos (Davao Occidental)
-2025-11-28T22:36:00.000Z,28 November 2025 - 10:36 PM,14.13,121.24,005,2.0,005km S 22° E of Los Baños (Laguna),005,S 22° E,Los BaÃ±os (Laguna)
-2025-11-28T22:06:00.000Z,28 November 2025 - 10:06 PM,11.14,125.47,008,2.2,003km N 46° E of Giporlos (Eastern Samar),003,N 46° E,Giporlos (Eastern Samar)
