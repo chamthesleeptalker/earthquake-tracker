@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T02:03:00.000Z,30 November 2025 - 02:03 AM,20.40,121.04,005,4.4,088km N 85° W of Sabtang (Batanes),088,N 85° W,Sabtang (Batanes)
+2025-11-30T01:35:00.000Z,30 November 2025 - 01:35 AM,11.15,124.13,008,2.5,020km N 54° E of City Of Bogo (Cebu),020,N 54° E,City Of Bogo (Cebu)
 2025-11-30T01:14:00.000Z,30 November 2025 - 01:14 AM,10.48,124.38,007,2.7,017km S 11° W of Poro (Cebu),017,S 11° W,Poro (Cebu)
 2025-11-30T00:28:00.000Z,30 November 2025 - 12:28 AM,13.66,120.10,031,1.4,018km S 69° W of Looc (Occidental Mindoro),018,S 69° W,Looc (Occidental Mindoro)
 2025-11-30T00:21:00.000Z,30 November 2025 - 12:21 AM,08.46,125.89,015,2.3,010km S 58° W of San Francisco (Agusan Del Sur),010,S 58° W,San Francisco (Agusan Del Sur)
