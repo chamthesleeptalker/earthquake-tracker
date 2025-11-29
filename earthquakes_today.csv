@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T23:50:00.000Z,29 November 2025 - 11:50 PM,11.06,124.22,002,2.2,026km N 86° E of City Of Bogo (Cebu),026,N 86° E,City Of Bogo (Cebu)
+2025-11-29T23:49:00.000Z,29 November 2025 - 11:49 PM,07.69,127.40,007,3.5,094km N 82° E of Baganga (Davao Oriental),094,N 82° E,Baganga (Davao Oriental)
 2025-11-29T23:21:00.000Z,29 November 2025 - 11:21 PM,06.39,124.10,005,1.8,019km S 17° E of Kalamansig (Sultan Kudarat),019,S 17° E,Kalamansig (Sultan Kudarat)
 2025-11-29T23:02:00.000Z,29 November 2025 - 11:02 PM,07.52,126.07,001,2.0,008km S 69° W of New Bataan (Davao De Oro),008,S 69° W,New Bataan (Davao De Oro)
 2025-11-29T22:53:00.000Z,29 November 2025 - 10:53 PM,06.56,125.72,004,1.4,020km N 39° E of Malita (Davao Occidental),020,N 39° E,Malita (Davao Occidental)
