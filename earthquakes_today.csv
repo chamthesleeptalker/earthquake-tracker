@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T06:14:00.000Z,30 November 2025 - 06:14 AM,08.03,126.93,011,2.3,057km S 89° E of Lingig (Surigao Del Sur),057,S 89° E,Lingig (Surigao Del Sur)
+2025-11-30T06:10:00.000Z,30 November 2025 - 06:10 AM,14.07,120.48,096,1.8,017km S 89° W of Nasugbu (Batangas),017,S 89° W,Nasugbu (Batangas)
+2025-11-30T01:17:00.000Z,30 November 2025 - 01:17 AM,10.89,123.91,004,2.6,019km S 25° W of City Of Bogo (Cebu),019,S 25° W,City Of Bogo (Cebu)
 2025-11-30T06:09:00.000Z,30 November 2025 - 06:09 AM,09.69,126.18,011,2.6,011km S 17° E of General Luna (Surigao Del Norte),011,S 17° E,General Luna (Surigao Del Norte)
 2025-11-30T05:00:00.000Z,30 November 2025 - 05:00 AM,04.79,126.53,009,3.5,140km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),140,S 57° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-30T04:54:00.000Z,30 November 2025 - 04:54 AM,08.11,125.53,003,2.8,026km N 82° E of Cabanglasan (Bukidnon),026,N 82° E,Cabanglasan (Bukidnon)
