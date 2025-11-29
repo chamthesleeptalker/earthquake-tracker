@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-29T14:29:00.000Z,29 November 2025 - 02:29 PM,10.21,125.85,019,1.8,030km N 45° W of Santa Monica (Surigao Del Norte),030,N 45° W,Santa Monica (Surigao Del Norte)
+2025-11-29T14:21:00.000Z,29 November 2025 - 02:21 PM,14.99,119.95,032,1.7,014km S 78° W of San Narciso (Zambales),014,S 78° W,San Narciso (Zambales)
 2025-11-29T14:08:00.000Z,29 November 2025 - 02:08 PM,15.60,120.30,035,1.5,009km S 76° W of Mayantoc (Tarlac),009,S 76° W,Mayantoc (Tarlac)
 2025-11-29T13:13:00.000Z,29 November 2025 - 01:13 PM,05.99,125.53,165,2.5,015km N 58° W of Jose Abad Santos (Davao Occidental),015,N 58° W,Jose Abad Santos (Davao Occidental)
 2025-11-29T13:11:00.000Z,29 November 2025 - 01:11 PM,11.14,124.09,026,2.1,016km N 50° E of City Of Bogo (Cebu),016,N 50° E,City Of Bogo (Cebu)
