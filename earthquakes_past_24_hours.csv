@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T00:29:00.000Z,01 December 2025 - 12:29 AM,05.85,124.71,028,2.3,018km S 32° E of Kiamba (Sarangani),018,S 32° E,Kiamba (Sarangani)
 2025-11-30T23:42:00.000Z,30 November 2025 - 11:42 PM,09.70,126.09,024,3.3,012km S 37° W of General Luna (Surigao Del Norte),012,S 37° W,General Luna (Surigao Del Norte)
 2025-11-30T23:16:00.000Z,30 November 2025 - 11:16 PM,06.48,124.22,013,2.2,012km N 77° W of Senator Ninoy Aquino (Sultan Kudarat),012,N 77° W,Senator Ninoy Aquino (Sultan Kudarat)
 2025-11-30T23:14:00.000Z,30 November 2025 - 11:14 PM,06.76,125.92,031,2.0,019km S 33° W of Lupon (Davao Oriental),019,S 33° W,Lupon (Davao Oriental)
@@ -59,8 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T02:03:00.000Z,30 November 2025 - 02:03 AM,20.40,121.04,005,4.4,088km N 85° W of Sabtang (Batanes),088,N 85° W,Sabtang (Batanes)
 2025-11-30T01:35:00.000Z,30 November 2025 - 01:35 AM,11.15,124.13,008,2.5,020km N 54° E of City Of Bogo (Cebu),020,N 54° E,City Of Bogo (Cebu)
 2025-11-30T01:14:00.000Z,30 November 2025 - 01:14 AM,10.48,124.38,007,2.7,017km S 11° W of Poro (Cebu),017,S 11° W,Poro (Cebu)
-2025-11-30T00:28:00.000Z,30 November 2025 - 12:28 AM,13.66,120.10,031,1.4,018km S 69° W of Looc (Occidental Mindoro),018,S 69° W,Looc (Occidental Mindoro)
-2025-11-30T00:21:00.000Z,30 November 2025 - 12:21 AM,08.46,125.89,015,2.3,010km S 58° W of San Francisco (Agusan Del Sur),010,S 58° W,San Francisco (Agusan Del Sur)
-2025-11-30T00:17:00.000Z,30 November 2025 - 12:17 AM,07.32,125.60,017,2.3,010km N 62° W of City Of Panabo (Davao Del Norte),010,N 62° W,City Of Panabo (Davao Del Norte)
-2025-11-29T23:50:00.000Z,29 November 2025 - 11:50 PM,11.06,124.22,002,2.2,026km N 86° E of City Of Bogo (Cebu),026,N 86° E,City Of Bogo (Cebu)
-2025-11-29T23:49:00.000Z,29 November 2025 - 11:49 PM,07.69,127.40,007,3.5,094km N 82° E of Baganga (Davao Oriental),094,N 82° E,Baganga (Davao Oriental)

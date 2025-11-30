@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T00:29:00.000Z,01 December 2025 - 12:29 AM,05.85,124.71,028,2.3,018km S 32° E of Kiamba (Sarangani),018,S 32° E,Kiamba (Sarangani)
 2025-11-30T23:42:00.000Z,30 November 2025 - 11:42 PM,09.70,126.09,024,3.3,012km S 37° W of General Luna (Surigao Del Norte),012,S 37° W,General Luna (Surigao Del Norte)
 2025-11-30T23:16:00.000Z,30 November 2025 - 11:16 PM,06.48,124.22,013,2.2,012km N 77° W of Senator Ninoy Aquino (Sultan Kudarat),012,N 77° W,Senator Ninoy Aquino (Sultan Kudarat)
 2025-11-30T23:14:00.000Z,30 November 2025 - 11:14 PM,06.76,125.92,031,2.0,019km S 33° W of Lupon (Davao Oriental),019,S 33° W,Lupon (Davao Oriental)
@@ -337,5 +338,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T01:30:00.000Z,24 November 2025 - 01:30 AM,07.06,127.16,032,2.5,071km S 76° E of Manay (Davao Oriental),071,S 76° E,Manay (Davao Oriental)
 2025-11-24T01:28:00.000Z,24 November 2025 - 01:28 AM,18.80,121.96,011,2.3,016km S 37° E of Camiguin Island (Calayan) (Cagayan),016,S 37° E,Camiguin Island (Calayan) (Cagayan)
 2025-11-24T01:26:00.000Z,24 November 2025 - 01:26 AM,07.66,123.36,001,2.4,005km N 28° E of Dinas (Zamboanga Del Sur),005,N 28° E,Dinas (Zamboanga Del Sur)
-2025-11-24T00:24:00.000Z,24 November 2025 - 12:24 AM,06.48,124.13,020,2.3,012km S 47° E of Kalamansig (Sultan Kudarat),012,S 47° E,Kalamansig (Sultan Kudarat)
-2025-11-24T00:16:00.000Z,24 November 2025 - 12:16 AM,11.08,124.00,034,2.0,005km N 33° E of City Of Bogo (Cebu),005,N 33° E,City Of Bogo (Cebu)
