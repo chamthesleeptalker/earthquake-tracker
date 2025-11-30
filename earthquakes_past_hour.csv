@@ -1,3 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T12:20:00.000Z,30 November 2025 - 12:20 PM,06.03,125.45,078,2.5,019km S 66° E of Alabel (Sarangani),019,S 66° E,Alabel (Sarangani)
+2025-11-30T12:12:00.000Z,30 November 2025 - 12:12 PM,11.17,124.02,023,1.4,015km N 16° E of City Of Bogo (Cebu),015,N 16° E,City Of Bogo (Cebu)
+2025-11-30T12:10:00.000Z,30 November 2025 - 12:10 PM,11.21,123.97,012,2.3,019km N 02° W of City Of Bogo (Cebu),019,N 02° W,City Of Bogo (Cebu)
+2025-11-30T11:58:00.000Z,30 November 2025 - 11:58 AM,10.51,123.51,022,1.9,009km S 18° E of Calatrava (Negros Occidental),009,S 18° E,Calatrava (Negros Occidental)
+2025-11-30T11:59:00.000Z,30 November 2025 - 11:59 AM,05.73,125.38,019,2.6,022km S 63° E of Glan (Sarangani),022,S 63° E,Glan (Sarangani)
 2025-11-30T11:26:00.000Z,30 November 2025 - 11:26 AM,14.33,124.00,002,2.7,036km N 30° W of Pandan (Catanduanes),036,N 30° W,Pandan (Catanduanes)
-2025-11-30T11:00:00.000Z,30 November 2025 - 11:00 AM,08.94,126.36,032,2.5,007km N 67° E of Cagwait (Surigao Del Sur),007,N 67° E,Cagwait (Surigao Del Sur)
