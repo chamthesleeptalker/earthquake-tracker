@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T09:21:00.000Z,30 November 2025 - 09:21 AM,10.82,123.90,010,2.3,026km S 20° W of City Of Bogo (Cebu),026,S 20° W,City Of Bogo (Cebu)
+2025-11-30T09:16:00.000Z,30 November 2025 - 09:16 AM,08.98,126.43,029,2.4,016km N 66° E of Cagwait (Surigao Del Sur),016,N 66° E,Cagwait (Surigao Del Sur)
+2025-11-30T08:57:00.000Z,30 November 2025 - 08:57 AM,09.11,126.44,019,2.4,026km N 36° E of Cagwait (Surigao Del Sur),026,N 36° E,Cagwait (Surigao Del Sur)
 2025-11-30T06:14:00.000Z,30 November 2025 - 06:14 AM,08.03,126.93,011,2.3,057km S 89° E of Lingig (Surigao Del Sur),057,S 89° E,Lingig (Surigao Del Sur)
 2025-11-30T06:10:00.000Z,30 November 2025 - 06:10 AM,14.07,120.48,096,1.8,017km S 89° W of Nasugbu (Batangas),017,S 89° W,Nasugbu (Batangas)
 2025-11-30T01:17:00.000Z,30 November 2025 - 01:17 AM,10.89,123.91,004,2.6,019km S 25° W of City Of Bogo (Cebu),019,S 25° W,City Of Bogo (Cebu)
