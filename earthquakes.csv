@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T01:21:00.000Z,01 December 2025 - 01:21 AM,07.41,126.65,026,2.0,025km N 29° E of Manay (Davao Oriental),025,N 29° E,Manay (Davao Oriental)
+2025-12-01T01:14:00.000Z,01 December 2025 - 01:14 AM,06.06,125.37,063,2.4,010km S 64° E of Alabel (Sarangani),010,S 64° E,Alabel (Sarangani)
 2025-12-01T00:46:00.000Z,01 December 2025 - 12:46 AM,16.74,119.90,001,2.3,039km N 01° E of Bolinao (Pangasinan),039,N 01° E,Bolinao (Pangasinan)
 2025-12-01T00:29:00.000Z,01 December 2025 - 12:29 AM,05.85,124.71,028,2.3,018km S 32° E of Kiamba (Sarangani),018,S 32° E,Kiamba (Sarangani)
 2025-11-30T23:42:00.000Z,30 November 2025 - 11:42 PM,09.70,126.09,024,3.3,012km S 37° W of General Luna (Surigao Del Norte),012,S 37° W,General Luna (Surigao Del Norte)
