@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T05:36:00.000Z,01 December 2025 - 05:36 AM,18.73,120.98,037,2.5,017km N 40° W of Claveria (Cagayan),017,N 40° W,Claveria (Cagayan)
+2025-12-01T05:29:00.000Z,01 December 2025 - 05:29 AM,06.56,126.00,036,2.7,013km S 38° W of Governor Generoso (Davao Oriental),013,S 38° W,Governor Generoso (Davao Oriental)
 2025-12-01T04:26:00.000Z,01 December 2025 - 04:26 AM,10.98,123.99,001,2.0,007km S 11° E of City Of Bogo (Cebu),007,S 11° E,City Of Bogo (Cebu)
 2025-12-01T04:18:00.000Z,01 December 2025 - 04:18 AM,05.93,125.91,037,3.1,029km N 87° E of Jose Abad Santos (Davao Occidental),029,N 87° E,Jose Abad Santos (Davao Occidental)
 2025-12-01T04:14:00.000Z,01 December 2025 - 04:14 AM,09.58,125.97,001,2.3,004km S 06° E of Socorro (Surigao Del Norte),004,S 06° E,Socorro (Surigao Del Norte)
