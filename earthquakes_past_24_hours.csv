@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T22:07:00.000Z,30 November 2025 - 10:07 PM,09.78,125.48,026,1.8,002km S 49° W of City Of Surigao (Surigao Del Norte),002,S 49° W,City Of Surigao (Surigao Del Norte)
+2025-11-30T21:43:00.000Z,30 November 2025 - 09:43 PM,09.74,126.19,018,2.6,005km S 37° E of General Luna (Surigao Del Norte),005,S 37° E,General Luna (Surigao Del Norte)
 2025-11-30T21:16:00.000Z,30 November 2025 - 09:16 PM,13.44,122.02,007,2.4,004km S 14° W of Santa Cruz (Marinduque),004,S 14° W,Santa Cruz (Marinduque)
 2025-11-30T20:26:00.000Z,30 November 2025 - 08:26 PM,10.33,123.55,005,3.1,008km N 30° W of Pinamungajan (Cebu),008,N 30° W,Pinamungajan (Cebu)
 2025-11-30T20:12:00.000Z,30 November 2025 - 08:12 PM,09.69,126.22,029,1.5,012km S 34° E of General Luna (Surigao Del Norte),012,S 34° E,General Luna (Surigao Del Norte)
@@ -57,5 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T23:21:00.000Z,29 November 2025 - 11:21 PM,06.39,124.10,005,1.8,019km S 17° E of Kalamansig (Sultan Kudarat),019,S 17° E,Kalamansig (Sultan Kudarat)
 2025-11-29T23:02:00.000Z,29 November 2025 - 11:02 PM,07.52,126.07,001,2.0,008km S 69° W of New Bataan (Davao De Oro),008,S 69° W,New Bataan (Davao De Oro)
 2025-11-29T22:53:00.000Z,29 November 2025 - 10:53 PM,06.56,125.72,004,1.4,020km N 39° E of Malita (Davao Occidental),020,N 39° E,Malita (Davao Occidental)
-2025-11-29T21:56:00.000Z,29 November 2025 - 09:56 PM,14.98,120.28,107,2.0,011km N 57° E of Castillejos (Zambales),011,N 57° E,Castillejos (Zambales)
-2025-11-29T21:55:00.000Z,29 November 2025 - 09:55 PM,08.42,126.60,002,2.5,029km N 77° E of Hinatuan (Surigao Del Sur),029,N 77° E,Hinatuan (Surigao Del Sur)
