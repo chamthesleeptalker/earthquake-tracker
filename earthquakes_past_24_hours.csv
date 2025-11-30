@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T07:24:00.000Z,01 December 2025 - 07:24 AM,13.67,120.58,101,2.0,019km S 18° W of Calatagan (Batangas),019,S 18° W,Calatagan (Batangas)
+2025-12-01T07:19:00.000Z,01 December 2025 - 07:19 AM,08.95,126.25,075,2.4,007km N 55° W of Cagwait (Surigao Del Sur),007,N 55° W,Cagwait (Surigao Del Sur)
 2025-12-01T06:34:00.000Z,01 December 2025 - 06:34 AM,06.94,124.96,001,2.6,009km S 84° E of M'lang (Cotabato),009,S 84° E,M'lang (Cotabato)
 2025-11-30T18:00:00.000Z,30 November 2025 - 06:00 PM,13.88,120.52,064,1.3,013km N 65° W of Calatagan (Batangas),013,N 65° W,Calatagan (Batangas)
 2025-12-01T06:22:00.000Z,01 December 2025 - 06:22 AM,11.07,124.12,002,2.4,016km N 81° E of City Of Bogo (Cebu),016,N 81° E,City Of Bogo (Cebu)
@@ -63,4 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T09:21:00.000Z,30 November 2025 - 09:21 AM,10.82,123.90,010,2.3,026km S 20° W of City Of Bogo (Cebu),026,S 20° W,City Of Bogo (Cebu)
 2025-11-30T09:16:00.000Z,30 November 2025 - 09:16 AM,08.98,126.43,029,2.4,016km N 66° E of Cagwait (Surigao Del Sur),016,N 66° E,Cagwait (Surigao Del Sur)
 2025-11-30T08:57:00.000Z,30 November 2025 - 08:57 AM,09.11,126.44,019,2.4,026km N 36° E of Cagwait (Surigao Del Sur),026,N 36° E,Cagwait (Surigao Del Sur)
-2025-11-30T06:59:00.000Z,30 November 2025 - 06:59 AM,17.36,121.91,017,3.4,015km S 52° E of San Pablo (Isabela),015,S 52° E,San Pablo (Isabela)
