@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T06:22:00.000Z,01 December 2025 - 06:22 AM,11.07,124.12,002,2.4,016km N 81° E of City Of Bogo (Cebu),016,N 81° E,City Of Bogo (Cebu)
+2025-12-01T06:16:00.000Z,01 December 2025 - 06:16 AM,08.43,122.72,034,1.9,034km S 88° W of Jose Dalman (Zamboanga Del Norte),034,S 88° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T05:36:00.000Z,01 December 2025 - 05:36 AM,18.73,120.98,037,2.5,017km N 40° W of Claveria (Cagayan),017,N 40° W,Claveria (Cagayan)
 2025-12-01T05:29:00.000Z,01 December 2025 - 05:29 AM,06.56,126.00,036,2.7,013km S 38° W of Governor Generoso (Davao Oriental),013,S 38° W,Governor Generoso (Davao Oriental)
 2025-12-01T04:26:00.000Z,01 December 2025 - 04:26 AM,10.98,123.99,001,2.0,007km S 11° E of City Of Bogo (Cebu),007,S 11° E,City Of Bogo (Cebu)
@@ -340,4 +342,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T09:07:00.000Z,24 November 2025 - 09:07 AM,11.18,124.65,005,3.1,009km S 87° E of Kananga (Leyte),009,S 87° E,Kananga (Leyte)
 2025-11-24T09:04:00.000Z,24 November 2025 - 09:04 AM,11.20,124.64,002,3.2,009km N 79° E of Kananga (Leyte),009,N 79° E,Kananga (Leyte)
 2025-11-24T07:49:00.000Z,24 November 2025 - 07:49 AM,07.10,127.31,009,3.1,086km S 82° E of Manay (Davao Oriental),086,S 82° E,Manay (Davao Oriental)
-2025-11-24T06:18:00.000Z,24 November 2025 - 06:18 AM,05.11,126.56,006,4.5,127km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),127,S 72° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
