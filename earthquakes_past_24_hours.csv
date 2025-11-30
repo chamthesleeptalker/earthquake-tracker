@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T21:16:00.000Z,30 November 2025 - 09:16 PM,13.44,122.02,007,2.4,004km S 14° W of Santa Cruz (Marinduque),004,S 14° W,Santa Cruz (Marinduque)
 2025-11-30T20:26:00.000Z,30 November 2025 - 08:26 PM,10.33,123.55,005,3.1,008km N 30° W of Pinamungajan (Cebu),008,N 30° W,Pinamungajan (Cebu)
 2025-11-30T20:12:00.000Z,30 November 2025 - 08:12 PM,09.69,126.22,029,1.5,012km S 34° E of General Luna (Surigao Del Norte),012,S 34° E,General Luna (Surigao Del Norte)
 2025-11-30T19:57:00.000Z,30 November 2025 - 07:57 PM,07.27,126.87,009,3.0,034km S 80° E of Caraga (Davao Oriental),034,S 80° E,Caraga (Davao Oriental)
@@ -58,5 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T22:53:00.000Z,29 November 2025 - 10:53 PM,06.56,125.72,004,1.4,020km N 39° E of Malita (Davao Occidental),020,N 39° E,Malita (Davao Occidental)
 2025-11-29T21:56:00.000Z,29 November 2025 - 09:56 PM,14.98,120.28,107,2.0,011km N 57° E of Castillejos (Zambales),011,N 57° E,Castillejos (Zambales)
 2025-11-29T21:55:00.000Z,29 November 2025 - 09:55 PM,08.42,126.60,002,2.5,029km N 77° E of Hinatuan (Surigao Del Sur),029,N 77° E,Hinatuan (Surigao Del Sur)
-2025-11-29T21:09:00.000Z,29 November 2025 - 09:09 PM,13.70,120.59,099,2.5,016km S 18° W of Calatagan (Batangas),016,S 18° W,Calatagan (Batangas)
-2025-11-29T20:36:00.000Z,29 November 2025 - 08:36 PM,11.17,124.13,007,2.5,021km N 50° E of City Of Bogo (Cebu),021,N 50° E,City Of Bogo (Cebu)
