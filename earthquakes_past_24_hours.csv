@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T23:42:00.000Z,30 November 2025 - 11:42 PM,09.70,126.09,024,3.3,012km S 37° W of General Luna (Surigao Del Norte),012,S 37° W,General Luna (Surigao Del Norte)
 2025-11-30T23:16:00.000Z,30 November 2025 - 11:16 PM,06.48,124.22,013,2.2,012km N 77° W of Senator Ninoy Aquino (Sultan Kudarat),012,N 77° W,Senator Ninoy Aquino (Sultan Kudarat)
 2025-11-30T23:14:00.000Z,30 November 2025 - 11:14 PM,06.76,125.92,031,2.0,019km S 33° W of Lupon (Davao Oriental),019,S 33° W,Lupon (Davao Oriental)
 2025-11-30T23:07:00.000Z,30 November 2025 - 11:07 PM,08.73,122.63,015,3.1,054km N 54° W of Jose Dalman (Zamboanga Del Norte),054,N 54° W,Jose Dalman (Zamboanga Del Norte)
@@ -63,4 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T00:17:00.000Z,30 November 2025 - 12:17 AM,07.32,125.60,017,2.3,010km N 62° W of City Of Panabo (Davao Del Norte),010,N 62° W,City Of Panabo (Davao Del Norte)
 2025-11-29T23:50:00.000Z,29 November 2025 - 11:50 PM,11.06,124.22,002,2.2,026km N 86° E of City Of Bogo (Cebu),026,N 86° E,City Of Bogo (Cebu)
 2025-11-29T23:49:00.000Z,29 November 2025 - 11:49 PM,07.69,127.40,007,3.5,094km N 82° E of Baganga (Davao Oriental),094,N 82° E,Baganga (Davao Oriental)
-2025-11-29T23:21:00.000Z,29 November 2025 - 11:21 PM,06.39,124.10,005,1.8,019km S 17° E of Kalamansig (Sultan Kudarat),019,S 17° E,Kalamansig (Sultan Kudarat)
