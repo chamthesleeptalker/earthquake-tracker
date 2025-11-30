@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T19:08:00.000Z,30 November 2025 - 07:08 PM,11.15,124.06,029,2.3,015km N 39° E of City Of Bogo (Cebu),015,N 39° E,City Of Bogo (Cebu)
+2025-11-30T18:55:00.000Z,30 November 2025 - 06:55 PM,10.10,125.70,122,2.3,012km N 72° E of Basilisa (Dinagat Islands),012,N 72° E,Basilisa (Dinagat Islands)
+2025-11-30T18:39:00.000Z,30 November 2025 - 06:39 PM,09.53,126.00,054,2.5,010km S 23° E of Socorro (Surigao Del Norte),010,S 23° E,Socorro (Surigao Del Norte)
 2025-11-30T18:21:00.000Z,30 November 2025 - 06:21 PM,11.11,124.06,019,2.5,011km N 53° E of City Of Bogo (Cebu),011,N 53° E,City Of Bogo (Cebu)

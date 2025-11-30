@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T19:08:00.000Z,30 November 2025 - 07:08 PM,11.15,124.06,029,2.3,015km N 39° E of City Of Bogo (Cebu),015,N 39° E,City Of Bogo (Cebu)
+2025-11-30T18:55:00.000Z,30 November 2025 - 06:55 PM,10.10,125.70,122,2.3,012km N 72° E of Basilisa (Dinagat Islands),012,N 72° E,Basilisa (Dinagat Islands)
+2025-11-30T18:39:00.000Z,30 November 2025 - 06:39 PM,09.53,126.00,054,2.5,010km S 23° E of Socorro (Surigao Del Norte),010,S 23° E,Socorro (Surigao Del Norte)
 2025-11-30T18:21:00.000Z,30 November 2025 - 06:21 PM,11.11,124.06,019,2.5,011km N 53° E of City Of Bogo (Cebu),011,N 53° E,City Of Bogo (Cebu)
 2025-11-30T16:25:00.000Z,30 November 2025 - 04:25 PM,18.82,121.43,022,1.8,007km S 63° E of Fuga Island (Aparri) (Cagayan),007,S 63° E,Fuga Island (Aparri) (Cagayan)
 2025-11-30T15:51:00.000Z,30 November 2025 - 03:51 PM,09.52,125.96,028,2.6,011km S 05° W of Socorro (Surigao Del Norte),011,S 05° W,Socorro (Surigao Del Norte)
@@ -56,4 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T19:53:00.000Z,29 November 2025 - 07:53 PM,13.22,121.28,008,2.0,006km N 04° W of Victoria (Oriental Mindoro),006,N 04° W,Victoria (Oriental Mindoro)
 2025-11-29T19:37:00.000Z,29 November 2025 - 07:37 PM,16.61,119.62,020,3.2,038km N 50° W of Bolinao (Pangasinan),038,N 50° W,Bolinao (Pangasinan)
 2025-11-29T19:17:00.000Z,29 November 2025 - 07:17 PM,08.39,122.68,033,2.8,030km N 01° E of Liloy (Zamboanga Del Norte),030,N 01° E,Liloy (Zamboanga Del Norte)
-2025-11-29T18:22:00.000Z,29 November 2025 - 06:22 PM,18.14,120.91,009,1.8,015km N 68° E of Solsona (Ilocos Norte),015,N 68° E,Solsona (Ilocos Norte)
