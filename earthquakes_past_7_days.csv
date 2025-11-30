@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-11-30T23:07:00.000Z,30 November 2025 - 11:07 PM,08.73,122.63,015,3.1,054km N 54° W of Jose Dalman (Zamboanga Del Norte),054,N 54° W,Jose Dalman (Zamboanga Del Norte)
+2025-11-30T23:06:00.000Z,30 November 2025 - 11:06 PM,12.74,124.35,008,2.4,006km N 14° W of Biri (Northern Samar),006,N 14° W,Biri (Northern Samar)
+2025-11-30T22:57:00.000Z,30 November 2025 - 10:57 PM,11.18,123.90,004,3.4,017km N 32° W of City Of Bogo (Cebu),017,N 32° W,City Of Bogo (Cebu)
+2025-11-30T22:35:00.000Z,30 November 2025 - 10:35 PM,12.56,125.41,019,2.3,019km N 62° E of Mapanas (Northern Samar),019,N 62° E,Mapanas (Northern Samar)
+2025-11-30T22:34:00.000Z,30 November 2025 - 10:34 PM,06.25,126.26,032,1.6,049km S 26° E of Governor Generoso (Davao Oriental),049,S 26° E,Governor Generoso (Davao Oriental)
 2025-11-30T22:07:00.000Z,30 November 2025 - 10:07 PM,09.78,125.48,026,1.8,002km S 49° W of City Of Surigao (Surigao Del Norte),002,S 49° W,City Of Surigao (Surigao Del Norte)
 2025-11-30T21:43:00.000Z,30 November 2025 - 09:43 PM,09.74,126.19,018,2.6,005km S 37° E of General Luna (Surigao Del Norte),005,S 37° E,General Luna (Surigao Del Norte)
 2025-11-30T21:16:00.000Z,30 November 2025 - 09:16 PM,13.44,122.02,007,2.4,004km S 14° W of Santa Cruz (Marinduque),004,S 14° W,Santa Cruz (Marinduque)
@@ -331,8 +336,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T01:26:00.000Z,24 November 2025 - 01:26 AM,07.66,123.36,001,2.4,005km N 28° E of Dinas (Zamboanga Del Sur),005,N 28° E,Dinas (Zamboanga Del Sur)
 2025-11-24T00:24:00.000Z,24 November 2025 - 12:24 AM,06.48,124.13,020,2.3,012km S 47° E of Kalamansig (Sultan Kudarat),012,S 47° E,Kalamansig (Sultan Kudarat)
 2025-11-24T00:16:00.000Z,24 November 2025 - 12:16 AM,11.08,124.00,034,2.0,005km N 33° E of City Of Bogo (Cebu),005,N 33° E,City Of Bogo (Cebu)
-2025-11-23T22:39:00.000Z,23 November 2025 - 10:39 PM,11.00,124.06,032,2.2,010km S 59° E of City Of Bogo (Cebu),010,S 59° E,City Of Bogo (Cebu)
-2025-11-23T22:33:00.000Z,23 November 2025 - 10:33 PM,16.24,120.09,031,2.3,015km N 52° E of City Of Alaminos (Pangasinan),015,N 52° E,City Of Alaminos (Pangasinan)
-2025-11-23T22:28:00.000Z,23 November 2025 - 10:28 PM,10.24,123.26,035,1.6,013km N 07° W of City Of Guihulngan (Negros Oriental),013,N 07° W,City Of Guihulngan (Negros Oriental)
-2025-11-23T22:17:00.000Z,23 November 2025 - 10:17 PM,09.81,122.33,024,1.9,012km N 68° W of City Of Sipalay (Negros Occidental),012,N 68° W,City Of Sipalay (Negros Occidental)
-2025-11-23T22:08:00.000Z,23 November 2025 - 10:08 PM,07.22,127.08,002,2.4,060km N 89° E of Manay (Davao Oriental),060,N 89° E,Manay (Davao Oriental)
