@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T02:47:00.000Z,01 December 2025 - 02:47 AM,13.59,120.16,026,2.3,018km S 34° W of Looc (Occidental Mindoro),018,S 34° W,Looc (Occidental Mindoro)
+2025-12-01T02:44:00.000Z,01 December 2025 - 02:44 AM,07.29,126.80,010,2.8,031km N 73° E of Manay (Davao Oriental),031,N 73° E,Manay (Davao Oriental)
 2025-12-01T02:26:00.000Z,01 December 2025 - 02:26 AM,08.17,126.84,035,2.8,049km N 73° E of Lingig (Surigao Del Sur),049,N 73° E,Lingig (Surigao Del Sur)
 2025-12-01T02:24:00.000Z,01 December 2025 - 02:24 AM,11.19,124.14,006,1.7,024km N 46° E of City Of Bogo (Cebu),024,N 46° E,City Of Bogo (Cebu)
 2025-12-01T02:24:00.000Z,01 December 2025 - 02:24 AM,13.80,120.60,087,1.4,005km S 37° W of Calatagan (Batangas),005,S 37° W,Calatagan (Batangas)
