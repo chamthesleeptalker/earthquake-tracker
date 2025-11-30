@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T03:19:00.000Z,01 December 2025 - 03:19 AM,07.29,127.08,008,1.9,060km N 82° E of Manay (Davao Oriental),060,N 82° E,Manay (Davao Oriental)
+2025-12-01T03:10:00.000Z,01 December 2025 - 03:10 AM,09.71,126.15,024,3.5,008km S 05° W of General Luna (Surigao Del Norte),008,S 05° W,General Luna (Surigao Del Norte)
 2025-12-01T02:47:00.000Z,01 December 2025 - 02:47 AM,13.59,120.16,026,2.3,018km S 34° W of Looc (Occidental Mindoro),018,S 34° W,Looc (Occidental Mindoro)
 2025-12-01T02:44:00.000Z,01 December 2025 - 02:44 AM,07.29,126.80,010,2.8,031km N 73° E of Manay (Davao Oriental),031,N 73° E,Manay (Davao Oriental)
 2025-12-01T02:26:00.000Z,01 December 2025 - 02:26 AM,08.17,126.84,035,2.8,049km N 73° E of Lingig (Surigao Del Sur),049,N 73° E,Lingig (Surigao Del Sur)
@@ -63,5 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T03:38:00.000Z,30 November 2025 - 03:38 AM,08.43,124.84,025,3.1,007km N 12° W of Manolo Fortich (Bukidnon),007,N 12° W,Manolo Fortich (Bukidnon)
 2025-11-30T03:29:00.000Z,30 November 2025 - 03:29 AM,20.73,120.74,007,3.4,115km S 87° W of Itbayat (Batanes),115,S 87° W,Itbayat (Batanes)
 2025-11-30T06:59:00.000Z,30 November 2025 - 06:59 AM,17.36,121.91,017,3.4,015km S 52° E of San Pablo (Isabela),015,S 52° E,San Pablo (Isabela)
-2025-11-30T02:56:00.000Z,30 November 2025 - 02:56 AM,07.75,124.46,002,2.2,014km S 52° E of Ganassi (Lanao Del Sur),014,S 52° E,Ganassi (Lanao Del Sur)
-2025-11-30T02:49:00.000Z,30 November 2025 - 02:49 AM,08.86,126.30,032,2.4,006km S 03° W of Cagwait (Surigao Del Sur),006,S 03° W,Cagwait (Surigao Del Sur)
