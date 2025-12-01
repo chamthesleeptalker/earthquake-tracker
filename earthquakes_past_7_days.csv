@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T14:41:00.000Z,01 December 2025 - 02:41 PM,13.98,120.45,047,1.7,023km S 74° W of Lian (Batangas),023,S 74° W,Lian (Batangas)
+2025-12-01T14:37:00.000Z,01 December 2025 - 02:37 PM,08.35,123.42,033,1.8,009km S 38° W of Mutia (Zamboanga Del Norte),009,S 38° W,Mutia (Zamboanga Del Norte)
+2025-12-01T14:36:00.000Z,01 December 2025 - 02:36 PM,08.09,127.40,012,3.4,109km N 58° E of Baganga (Davao Oriental),109,N 58° E,Baganga (Davao Oriental)
 2025-12-01T13:31:00.000Z,01 December 2025 - 01:31 PM,13.04,122.68,010,2.3,032km S 02° E of San Andres (Quezon),032,S 02° E,San Andres (Quezon)
 2025-12-01T13:15:00.000Z,01 December 2025 - 01:15 PM,06.07,127.22,114,2.6,142km S 63° E of Governor Generoso (Davao Oriental),142,S 63° E,Governor Generoso (Davao Oriental)
 2025-12-01T10:39:00.000Z,01 December 2025 - 10:39 AM,06.93,125.76,014,1.7,017km S 19° E of Island Garden City Of Samal (Davao Del Norte),017,S 19° E,Island Garden City Of Samal (Davao Del Norte)
@@ -343,5 +346,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T18:47:00.000Z,24 November 2025 - 06:47 PM,15.06,121.87,049,2.1,015km N 22° E of Panukulan (Quezon),015,N 22° E,Panukulan (Quezon)
 2025-11-24T18:38:00.000Z,24 November 2025 - 06:38 PM,13.66,120.55,111,2.3,021km S 24° W of Calatagan (Batangas),021,S 24° W,Calatagan (Batangas)
 2025-11-24T17:51:00.000Z,24 November 2025 - 05:51 PM,13.96,120.29,111,1.7,022km N 59° E of Lubang (Occidental Mindoro),022,N 59° E,Lubang (Occidental Mindoro)
-2025-11-24T14:07:00.000Z,24 November 2025 - 02:07 PM,10.88,124.12,027,1.9,024km S 40° E of City Of Bogo (Cebu),024,S 40° E,City Of Bogo (Cebu)
-2025-11-24T13:58:00.000Z,24 November 2025 - 01:58 PM,13.76,120.49,060,2.0,017km S 63° W of Calatagan (Batangas),017,S 63° W,Calatagan (Batangas)

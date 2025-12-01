@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T14:41:00.000Z,01 December 2025 - 02:41 PM,13.98,120.45,047,1.7,023km S 74° W of Lian (Batangas),023,S 74° W,Lian (Batangas)
+2025-12-01T14:37:00.000Z,01 December 2025 - 02:37 PM,08.35,123.42,033,1.8,009km S 38° W of Mutia (Zamboanga Del Norte),009,S 38° W,Mutia (Zamboanga Del Norte)
+2025-12-01T14:36:00.000Z,01 December 2025 - 02:36 PM,08.09,127.40,012,3.4,109km N 58° E of Baganga (Davao Oriental),109,N 58° E,Baganga (Davao Oriental)
 2025-12-01T13:31:00.000Z,01 December 2025 - 01:31 PM,13.04,122.68,010,2.3,032km S 02° E of San Andres (Quezon),032,S 02° E,San Andres (Quezon)
 2025-12-01T13:15:00.000Z,01 December 2025 - 01:15 PM,06.07,127.22,114,2.6,142km S 63° E of Governor Generoso (Davao Oriental),142,S 63° E,Governor Generoso (Davao Oriental)
 2025-12-01T10:39:00.000Z,01 December 2025 - 10:39 AM,06.93,125.76,014,1.7,017km S 19° E of Island Garden City Of Samal (Davao Del Norte),017,S 19° E,Island Garden City Of Samal (Davao Del Norte)
@@ -58,4 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T14:48:00.000Z,30 November 2025 - 02:48 PM,07.21,127.13,005,3.4,066km East of Manay (Davao Oriental),066,East of Manay,Oriental)
 2025-11-30T14:44:00.000Z,30 November 2025 - 02:44 PM,07.18,127.05,025,3.1,056km S 87° E of Manay (Davao Oriental),056,S 87° E,Manay (Davao Oriental)
 2025-11-30T14:41:00.000Z,30 November 2025 - 02:41 PM,10.88,123.91,002,2.1,020km S 21° W of City Of Bogo (Cebu),020,S 21° W,City Of Bogo (Cebu)
-2025-11-30T14:32:00.000Z,30 November 2025 - 02:32 PM,12.31,123.76,006,1.5,010km N 15° W of Uson (Masbate),010,N 15° W,Uson (Masbate)
