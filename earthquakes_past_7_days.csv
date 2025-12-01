@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T17:54:00.000Z,01 December 2025 - 05:54 PM,11.24,124.28,003,2.3,012km S 54° W of Tabango (Leyte),012,S 54° W,Tabango (Leyte)
 2025-12-01T17:05:00.000Z,01 December 2025 - 05:05 PM,09.69,126.22,034,1.9,012km S 35° E of General Luna (Surigao Del Norte),012,S 35° E,General Luna (Surigao Del Norte)
 2025-12-01T16:13:00.000Z,01 December 2025 - 04:13 PM,08.67,122.61,001,1.8,052km N 61° W of Jose Dalman (Zamboanga Del Norte),052,N 61° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T15:30:00.000Z,01 December 2025 - 03:30 PM,08.96,126.36,034,2.3,008km N 55° E of Cagwait (Surigao Del Sur),008,N 55° E,Cagwait (Surigao Del Sur)
@@ -349,4 +350,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T19:26:00.000Z,24 November 2025 - 07:26 PM,16.17,122.43,009,2.6,034km S 43° E of Dilasag (Aurora),034,S 43° E,Dilasag (Aurora)
 2025-11-24T18:47:00.000Z,24 November 2025 - 06:47 PM,15.06,121.87,049,2.1,015km N 22° E of Panukulan (Quezon),015,N 22° E,Panukulan (Quezon)
 2025-11-24T18:38:00.000Z,24 November 2025 - 06:38 PM,13.66,120.55,111,2.3,021km S 24° W of Calatagan (Batangas),021,S 24° W,Calatagan (Batangas)
-2025-11-24T17:51:00.000Z,24 November 2025 - 05:51 PM,13.96,120.29,111,1.7,022km N 59° E of Lubang (Occidental Mindoro),022,N 59° E,Lubang (Occidental Mindoro)
