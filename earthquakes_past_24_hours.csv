@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T19:14:00.000Z,01 December 2025 - 07:14 PM,13.25,120.25,008,2.3,029km S 51° W of Paluan (Occidental Mindoro),029,S 51° W,Paluan (Occidental Mindoro)
+2025-12-01T19:11:00.000Z,01 December 2025 - 07:11 PM,13.37,120.27,008,1.6,021km S 76° W of Paluan (Occidental Mindoro),021,S 76° W,Paluan (Occidental Mindoro)
 2025-12-01T18:42:00.000Z,01 December 2025 - 06:42 PM,08.64,122.72,031,2.7,041km N 57° W of Jose Dalman (Zamboanga Del Norte),041,N 57° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T18:27:00.000Z,01 December 2025 - 06:27 PM,08.80,122.65,005,2.7,051km S 56° W of Siaton (Negros Oriental),051,S 56° W,Siaton (Negros Oriental)
 2025-12-01T18:26:00.000Z,01 December 2025 - 06:26 PM,14.25,120.22,057,2.0,035km S 55° W of Mariveles (Bataan),035,S 55° W,Mariveles (Bataan)
@@ -57,5 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T20:12:00.000Z,30 November 2025 - 08:12 PM,09.69,126.22,029,1.5,012km S 34° E of General Luna (Surigao Del Norte),012,S 34° E,General Luna (Surigao Del Norte)
 2025-11-30T19:57:00.000Z,30 November 2025 - 07:57 PM,07.27,126.87,009,3.0,034km S 80° E of Caraga (Davao Oriental),034,S 80° E,Caraga (Davao Oriental)
 2025-11-30T19:41:00.000Z,30 November 2025 - 07:41 PM,07.26,126.48,125,3.0,012km S 52° W of Caraga (Davao Oriental),012,S 52° W,Caraga (Davao Oriental)
-2025-11-30T19:08:00.000Z,30 November 2025 - 07:08 PM,11.15,124.06,029,2.3,015km N 39° E of City Of Bogo (Cebu),015,N 39° E,City Of Bogo (Cebu)
-2025-11-30T18:55:00.000Z,30 November 2025 - 06:55 PM,10.10,125.70,122,2.3,012km N 72° E of Basilisa (Dinagat Islands),012,N 72° E,Basilisa (Dinagat Islands)

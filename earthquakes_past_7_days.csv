@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T19:14:00.000Z,01 December 2025 - 07:14 PM,13.25,120.25,008,2.3,029km S 51° W of Paluan (Occidental Mindoro),029,S 51° W,Paluan (Occidental Mindoro)
+2025-12-01T19:11:00.000Z,01 December 2025 - 07:11 PM,13.37,120.27,008,1.6,021km S 76° W of Paluan (Occidental Mindoro),021,S 76° W,Paluan (Occidental Mindoro)
 2025-12-01T18:42:00.000Z,01 December 2025 - 06:42 PM,08.64,122.72,031,2.7,041km N 57° W of Jose Dalman (Zamboanga Del Norte),041,N 57° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T18:27:00.000Z,01 December 2025 - 06:27 PM,08.80,122.65,005,2.7,051km S 56° W of Siaton (Negros Oriental),051,S 56° W,Siaton (Negros Oriental)
 2025-12-01T18:26:00.000Z,01 December 2025 - 06:26 PM,14.25,120.22,057,2.0,035km S 55° W of Mariveles (Bataan),035,S 55° W,Mariveles (Bataan)
@@ -352,4 +354,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T19:56:00.000Z,24 November 2025 - 07:56 PM,07.57,126.58,027,1.8,003km S 85° E of Baganga (Davao Oriental),003,S 85° E,Baganga (Davao Oriental)
 2025-11-24T19:54:00.000Z,24 November 2025 - 07:54 PM,07.19,126.93,010,2.8,044km S 86° E of Manay (Davao Oriental),044,S 86° E,Manay (Davao Oriental)
 2025-11-24T19:26:00.000Z,24 November 2025 - 07:26 PM,16.17,122.43,009,2.6,034km S 43° E of Dilasag (Aurora),034,S 43° E,Dilasag (Aurora)
-2025-11-24T18:47:00.000Z,24 November 2025 - 06:47 PM,15.06,121.87,049,2.1,015km N 22° E of Panukulan (Quezon),015,N 22° E,Panukulan (Quezon)
