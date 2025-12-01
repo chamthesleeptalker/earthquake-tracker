@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T22:55:00.000Z,01 December 2025 - 10:55 PM,10.98,124.15,025,1.8,020km S 70° E of City Of Bogo (Cebu),020,S 70° E,City Of Bogo (Cebu)
+2025-12-01T22:43:00.000Z,01 December 2025 - 10:43 PM,09.57,126.07,008,2.2,025km S 21° W of General Luna (Surigao Del Norte),025,S 21° W,General Luna (Surigao Del Norte)
 2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,11.08,123.92,033,1.5,007km N 62° W of City Of Bogo (Cebu),007,N 62° W,City Of Bogo (Cebu)
 2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,08.77,122.66,005,2.0,054km N 47° W of Jose Dalman (Zamboanga Del Norte),054,N 47° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T02:27:00.000Z,01 December 2025 - 02:27 AM,08.14,126.59,025,2.7,023km N 61° E of Lingig (Surigao Del Sur),023,N 61° E,Lingig (Surigao Del Sur)
@@ -65,6 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T23:07:00.000Z,30 November 2025 - 11:07 PM,08.73,122.63,015,3.1,054km N 54° W of Jose Dalman (Zamboanga Del Norte),054,N 54° W,Jose Dalman (Zamboanga Del Norte)
 2025-11-30T23:06:00.000Z,30 November 2025 - 11:06 PM,12.74,124.35,008,2.4,006km N 14° W of Biri (Northern Samar),006,N 14° W,Biri (Northern Samar)
 2025-11-30T22:57:00.000Z,30 November 2025 - 10:57 PM,11.18,123.90,004,3.4,017km N 32° W of City Of Bogo (Cebu),017,N 32° W,City Of Bogo (Cebu)
-2025-11-30T22:35:00.000Z,30 November 2025 - 10:35 PM,12.56,125.41,019,2.3,019km N 62° E of Mapanas (Northern Samar),019,N 62° E,Mapanas (Northern Samar)
-2025-11-30T22:34:00.000Z,30 November 2025 - 10:34 PM,06.25,126.26,032,1.6,049km S 26° E of Governor Generoso (Davao Oriental),049,S 26° E,Governor Generoso (Davao Oriental)
-2025-11-30T22:07:00.000Z,30 November 2025 - 10:07 PM,09.78,125.48,026,1.8,002km S 49° W of City Of Surigao (Surigao Del Norte),002,S 49° W,City Of Surigao (Surigao Del Norte)
