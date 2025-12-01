@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T01:26:00.000Z,02 December 2025 - 01:26 AM,10.21,125.83,016,2.2,030km N 58° E of Basilisa (Dinagat Islands),030,N 58° E,Basilisa (Dinagat Islands)
+2025-12-02T01:24:00.000Z,02 December 2025 - 01:24 AM,11.17,124.11,028,1.7,020km N 44° E of City Of Bogo (Cebu),020,N 44° E,City Of Bogo (Cebu)
 2025-12-02T01:07:00.000Z,02 December 2025 - 01:07 AM,11.01,123.94,002,2.6,006km S 50° W of City Of Bogo (Cebu),006,S 50° W,City Of Bogo (Cebu)
 2025-12-02T00:36:00.000Z,02 December 2025 - 12:36 AM,10.40,124.89,024,1.4,010km N 62° W of Bontoc (Southern Leyte),010,N 62° W,Bontoc (Southern Leyte)
 2025-12-02T00:22:00.000Z,02 December 2025 - 12:22 AM,14.82,123.13,027,1.8,042km N 27° E of Tinaga Island (Vinzons) (Camarines Norte),042,N 27° E,Tinaga Island (Vinzons) (Camarines Norte)
@@ -66,5 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T02:24:00.000Z,01 December 2025 - 02:24 AM,11.19,124.14,006,1.7,024km N 46° E of City Of Bogo (Cebu),024,N 46° E,City Of Bogo (Cebu)
 2025-12-01T02:24:00.000Z,01 December 2025 - 02:24 AM,13.80,120.60,087,1.4,005km S 37° W of Calatagan (Batangas),005,S 37° W,Calatagan (Batangas)
 2025-12-01T02:21:00.000Z,01 December 2025 - 02:21 AM,10.92,123.94,006,2.3,015km S 18° W of City Of Bogo (Cebu),015,S 18° W,City Of Bogo (Cebu)
-2025-12-01T01:21:00.000Z,01 December 2025 - 01:21 AM,07.41,126.65,026,2.0,025km N 29° E of Manay (Davao Oriental),025,N 29° E,Manay (Davao Oriental)
-2025-12-01T01:14:00.000Z,01 December 2025 - 01:14 AM,06.06,125.37,063,2.4,010km S 64° E of Alabel (Sarangani),010,S 64° E,Alabel (Sarangani)
