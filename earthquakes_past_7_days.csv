@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T15:30:00.000Z,01 December 2025 - 03:30 PM,08.96,126.36,034,2.3,008km N 55° E of Cagwait (Surigao Del Sur),008,N 55° E,Cagwait (Surigao Del Sur)
+2025-12-01T15:18:00.000Z,01 December 2025 - 03:18 PM,09.04,126.13,030,2.3,006km S 49° W of City Of Tandag (Surigao Del Sur),006,S 49° W,City Of Tandag (Surigao Del Sur)
 2025-12-01T14:41:00.000Z,01 December 2025 - 02:41 PM,13.98,120.45,047,1.7,023km S 74° W of Lian (Batangas),023,S 74° W,Lian (Batangas)
 2025-12-01T14:37:00.000Z,01 December 2025 - 02:37 PM,08.35,123.42,033,1.8,009km S 38° W of Mutia (Zamboanga Del Norte),009,S 38° W,Mutia (Zamboanga Del Norte)
 2025-12-01T14:36:00.000Z,01 December 2025 - 02:36 PM,08.09,127.40,012,3.4,109km N 58° E of Baganga (Davao Oriental),109,N 58° E,Baganga (Davao Oriental)
