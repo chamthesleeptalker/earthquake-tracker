@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,11.08,123.92,033,1.5,007km N 62° W of City Of Bogo (Cebu),007,N 62° W,City Of Bogo (Cebu)
+2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,08.77,122.66,005,2.0,054km N 47° W of Jose Dalman (Zamboanga Del Norte),054,N 47° W,Jose Dalman (Zamboanga Del Norte)
+2025-12-01T02:27:00.000Z,01 December 2025 - 02:27 AM,08.14,126.59,025,2.7,023km N 61° E of Lingig (Surigao Del Sur),023,N 61° E,Lingig (Surigao Del Sur)
 2025-12-01T21:54:00.000Z,01 December 2025 - 09:54 PM,08.80,122.63,015,3.2,059km N 48° W of Jose Dalman (Zamboanga Del Norte),059,N 48° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T21:50:00.000Z,01 December 2025 - 09:50 PM,13.58,120.94,033,1.4,009km N 14° W of Puerto Galera (Oriental Mindoro),009,N 14° W,Puerto Galera (Oriental Mindoro)
 2025-12-01T21:39:00.000Z,01 December 2025 - 09:39 PM,07.72,126.41,018,1.3,009km S 32° W of Cateel (Davao Oriental),009,S 32° W,Cateel (Davao Oriental)
