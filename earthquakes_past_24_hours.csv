@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T23:23:00.000Z,01 December 2025 - 11:23 PM,10.40,126.13,019,1.8,043km N 08° E of Burgos (Surigao Del Norte),043,N 08° E,Burgos (Surigao Del Norte)
+2025-12-01T23:22:00.000Z,01 December 2025 - 11:22 PM,08.73,122.65,027,2.7,052km N 53° W of Jose Dalman (Zamboanga Del Norte),052,N 53° W,Jose Dalman (Zamboanga Del Norte)
+2025-12-01T23:19:00.000Z,01 December 2025 - 11:19 PM,02.24,127.98,110,4.8,451km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),451,S 39° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-01T22:55:00.000Z,01 December 2025 - 10:55 PM,10.98,124.15,025,1.8,020km S 70° E of City Of Bogo (Cebu),020,S 70° E,City Of Bogo (Cebu)
 2025-12-01T22:43:00.000Z,01 December 2025 - 10:43 PM,09.57,126.07,008,2.2,025km S 21° W of General Luna (Surigao Del Norte),025,S 21° W,General Luna (Surigao Del Norte)
 2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,11.08,123.92,033,1.5,007km N 62° W of City Of Bogo (Cebu),007,N 62° W,City Of Bogo (Cebu)
@@ -62,8 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T00:46:00.000Z,01 December 2025 - 12:46 AM,16.74,119.90,001,2.3,039km N 01° E of Bolinao (Pangasinan),039,N 01° E,Bolinao (Pangasinan)
 2025-12-01T00:29:00.000Z,01 December 2025 - 12:29 AM,05.85,124.71,028,2.3,018km S 32° E of Kiamba (Sarangani),018,S 32° E,Kiamba (Sarangani)
 2025-11-30T23:42:00.000Z,30 November 2025 - 11:42 PM,09.70,126.09,024,3.3,012km S 37° W of General Luna (Surigao Del Norte),012,S 37° W,General Luna (Surigao Del Norte)
-2025-11-30T23:16:00.000Z,30 November 2025 - 11:16 PM,06.48,124.22,013,2.2,012km N 77° W of Senator Ninoy Aquino (Sultan Kudarat),012,N 77° W,Senator Ninoy Aquino (Sultan Kudarat)
-2025-11-30T23:14:00.000Z,30 November 2025 - 11:14 PM,06.76,125.92,031,2.0,019km S 33° W of Lupon (Davao Oriental),019,S 33° W,Lupon (Davao Oriental)
-2025-11-30T23:07:00.000Z,30 November 2025 - 11:07 PM,08.73,122.63,015,3.1,054km N 54° W of Jose Dalman (Zamboanga Del Norte),054,N 54° W,Jose Dalman (Zamboanga Del Norte)
-2025-11-30T23:06:00.000Z,30 November 2025 - 11:06 PM,12.74,124.35,008,2.4,006km N 14° W of Biri (Northern Samar),006,N 14° W,Biri (Northern Samar)
-2025-11-30T22:57:00.000Z,30 November 2025 - 10:57 PM,11.18,123.90,004,3.4,017km N 32° W of City Of Bogo (Cebu),017,N 32° W,City Of Bogo (Cebu)
