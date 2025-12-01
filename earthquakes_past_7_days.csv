@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T20:33:00.000Z,01 December 2025 - 08:33 PM,09.72,126.12,018,2.7,008km S 32° W of General Luna (Surigao Del Norte),008,S 32° W,General Luna (Surigao Del Norte)
+2025-12-01T20:26:00.000Z,01 December 2025 - 08:26 PM,08.74,122.60,029,2.8,057km N 54° W of Jose Dalman (Zamboanga Del Norte),057,N 54° W,Jose Dalman (Zamboanga Del Norte)
+2025-12-01T20:23:00.000Z,01 December 2025 - 08:23 PM,08.71,122.65,034,2.4,050km N 54° W of Jose Dalman (Zamboanga Del Norte),050,N 54° W,Jose Dalman (Zamboanga Del Norte)
+2025-12-01T20:07:00.000Z,01 December 2025 - 08:07 PM,08.74,122.59,013,2.5,059km N 55° W of Jose Dalman (Zamboanga Del Norte),059,N 55° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T19:14:00.000Z,01 December 2025 - 07:14 PM,13.25,120.25,008,2.3,029km S 51° W of Paluan (Occidental Mindoro),029,S 51° W,Paluan (Occidental Mindoro)
 2025-12-01T19:11:00.000Z,01 December 2025 - 07:11 PM,13.37,120.27,008,1.6,021km S 76° W of Paluan (Occidental Mindoro),021,S 76° W,Paluan (Occidental Mindoro)
 2025-12-01T18:42:00.000Z,01 December 2025 - 06:42 PM,08.64,122.72,031,2.7,041km N 57° W of Jose Dalman (Zamboanga Del Norte),041,N 57° W,Jose Dalman (Zamboanga Del Norte)
@@ -349,8 +353,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-24T21:38:00.000Z,24 November 2025 - 09:38 PM,06.93,127.11,010,4.4,070km S 64° E of Manay (Davao Oriental),070,S 64° E,Manay (Davao Oriental)
 2025-11-24T21:30:00.000Z,24 November 2025 - 09:30 PM,09.18,126.74,007,2.8,056km N 59° E of Cagwait (Surigao Del Sur),056,N 59° E,Cagwait (Surigao Del Sur)
 2025-11-24T20:33:00.000Z,24 November 2025 - 08:33 PM,07.17,127.29,017,2.6,084km S 87° E of Manay (Davao Oriental),084,S 87° E,Manay (Davao Oriental)
-2025-11-24T20:27:00.000Z,24 November 2025 - 08:27 PM,07.09,127.56,014,2.7,114km S 83° E of Manay (Davao Oriental),114,S 83° E,Manay (Davao Oriental)
-2025-11-24T20:21:00.000Z,24 November 2025 - 08:21 PM,16.96,121.49,029,1.8,005km N 04° W of Alfonso Lista (Ifugao),005,N 04° W,Alfonso Lista (Ifugao)
-2025-11-24T19:56:00.000Z,24 November 2025 - 07:56 PM,07.57,126.58,027,1.8,003km S 85° E of Baganga (Davao Oriental),003,S 85° E,Baganga (Davao Oriental)
-2025-11-24T19:54:00.000Z,24 November 2025 - 07:54 PM,07.19,126.93,010,2.8,044km S 86° E of Manay (Davao Oriental),044,S 86° E,Manay (Davao Oriental)
-2025-11-24T19:26:00.000Z,24 November 2025 - 07:26 PM,16.17,122.43,009,2.6,034km S 43° E of Dilasag (Aurora),034,S 43° E,Dilasag (Aurora)
