@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T18:42:00.000Z,01 December 2025 - 06:42 PM,08.64,122.72,031,2.7,041km N 57° W of Jose Dalman (Zamboanga Del Norte),041,N 57° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T18:27:00.000Z,01 December 2025 - 06:27 PM,08.80,122.65,005,2.7,051km S 56° W of Siaton (Negros Oriental),051,S 56° W,Siaton (Negros Oriental)
 2025-12-01T18:26:00.000Z,01 December 2025 - 06:26 PM,14.25,120.22,057,2.0,035km S 55° W of Mariveles (Bataan),035,S 55° W,Mariveles (Bataan)
 2025-12-01T18:15:00.000Z,01 December 2025 - 06:15 PM,13.49,120.69,166,2.2,007km N 36° W of Abra De Ilog (Occidental Mindoro),007,N 36° W,Abra De Ilog (Occidental Mindoro)
