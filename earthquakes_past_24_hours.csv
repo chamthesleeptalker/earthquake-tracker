@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T03:29:00.000Z,02 December 2025 - 03:29 AM,15.30,119.96,036,1.7,004km S 30° W of Iba (Zambales),004,S 30° W,Iba (Zambales)
 2025-12-02T03:07:00.000Z,02 December 2025 - 03:07 AM,07.56,126.76,003,2.5,022km S 86° E of Baganga (Davao Oriental),022,S 86° E,Baganga (Davao Oriental)
 2025-12-02T03:04:00.000Z,02 December 2025 - 03:04 AM,19.14,121.53,019,2.4,014km S 25° E of Calayan (Cagayan),014,S 25° E,Calayan (Cagayan)
 2025-12-02T02:49:00.000Z,02 December 2025 - 02:49 AM,10.36,122.25,019,2.2,027km S 25° E of San Joaquin (Iloilo),027,S 25° E,San Joaquin (Iloilo)
@@ -68,5 +69,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T04:14:00.000Z,01 December 2025 - 04:14 AM,09.58,125.97,001,2.3,004km S 06° E of Socorro (Surigao Del Norte),004,S 06° E,Socorro (Surigao Del Norte)
 2025-12-01T04:13:00.000Z,01 December 2025 - 04:13 AM,13.45,120.58,021,1.5,013km N 72° E of Paluan (Occidental Mindoro),013,N 72° E,Paluan (Occidental Mindoro)
 2025-12-01T03:50:00.000Z,01 December 2025 - 03:50 AM,13.64,120.37,036,1.5,016km S 56° E of Looc (Occidental Mindoro),016,S 56° E,Looc (Occidental Mindoro)
-2025-12-01T03:19:00.000Z,01 December 2025 - 03:19 AM,07.29,127.08,008,1.9,060km N 82° E of Manay (Davao Oriental),060,N 82° E,Manay (Davao Oriental)
-2025-12-01T03:10:00.000Z,01 December 2025 - 03:10 AM,09.71,126.15,024,3.5,008km S 05° W of General Luna (Surigao Del Norte),008,S 05° W,General Luna (Surigao Del Norte)
