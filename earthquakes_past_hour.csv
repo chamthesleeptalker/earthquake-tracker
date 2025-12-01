@@ -1,5 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T21:10:00.000Z,01 December 2025 - 09:10 PM,07.18,126.61,013,2.3,009km S 68° E of Manay (Davao Oriental),009,S 68° E,Manay (Davao Oriental)
+2025-12-01T20:46:00.000Z,01 December 2025 - 08:46 PM,09.56,126.00,030,3.2,008km S 27° E of Socorro (Surigao Del Norte),008,S 27° E,Socorro (Surigao Del Norte)
+2025-12-01T20:46:00.000Z,01 December 2025 - 08:46 PM,09.07,125.62,033,1.9,005km N 62° E of Remedios T. Romualdez (Agusan Del Norte),005,N 62° E,Remedios T. Romualdez (Agusan Del Norte)
+2025-12-01T20:43:00.000Z,01 December 2025 - 08:43 PM,17.98,120.77,055,2.6,012km S 89° E of Banna (Ilocos Norte),012,S 89° E,Banna (Ilocos Norte)
+2025-12-01T20:40:00.000Z,01 December 2025 - 08:40 PM,05.91,125.94,136,2.2,032km S 89° E of Jose Abad Santos (Davao Occidental),032,S 89° E,Jose Abad Santos (Davao Occidental)
 2025-12-01T20:33:00.000Z,01 December 2025 - 08:33 PM,09.72,126.12,018,2.7,008km S 32° W of General Luna (Surigao Del Norte),008,S 32° W,General Luna (Surigao Del Norte)
 2025-12-01T20:26:00.000Z,01 December 2025 - 08:26 PM,08.74,122.60,029,2.8,057km N 54° W of Jose Dalman (Zamboanga Del Norte),057,N 54° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T20:23:00.000Z,01 December 2025 - 08:23 PM,08.71,122.65,034,2.4,050km N 54° W of Jose Dalman (Zamboanga Del Norte),050,N 54° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-01T20:07:00.000Z,01 December 2025 - 08:07 PM,08.74,122.59,013,2.5,059km N 55° W of Jose Dalman (Zamboanga Del Norte),059,N 55° W,Jose Dalman (Zamboanga Del Norte)
