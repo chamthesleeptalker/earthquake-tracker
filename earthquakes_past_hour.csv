@@ -1,6 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T01:07:00.000Z,02 December 2025 - 01:07 AM,11.01,123.94,002,2.6,006km S 50° W of City Of Bogo (Cebu),006,S 50° W,City Of Bogo (Cebu)
 2025-12-02T00:36:00.000Z,02 December 2025 - 12:36 AM,10.40,124.89,024,1.4,010km N 62° W of Bontoc (Southern Leyte),010,N 62° W,Bontoc (Southern Leyte)
 2025-12-02T00:22:00.000Z,02 December 2025 - 12:22 AM,14.82,123.13,027,1.8,042km N 27° E of Tinaga Island (Vinzons) (Camarines Norte),042,N 27° E,Tinaga Island (Vinzons) (Camarines Norte)
-2025-12-01T23:58:00.000Z,01 December 2025 - 11:58 PM,09.13,126.25,028,2.0,011km N 53° E of City Of Tandag (Surigao Del Sur),011,N 53° E,City Of Tandag (Surigao Del Sur)
-2025-12-01T23:53:00.000Z,01 December 2025 - 11:53 PM,09.71,126.36,031,1.8,024km S 70° E of General Luna (Surigao Del Norte),024,S 70° E,General Luna (Surigao Del Norte)
-2025-12-01T23:50:00.000Z,01 December 2025 - 11:50 PM,10.97,123.91,007,2.0,011km S 43° W of City Of Bogo (Cebu),011,S 43° W,City Of Bogo (Cebu)
