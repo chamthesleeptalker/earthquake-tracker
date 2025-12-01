@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-01T16:13:00.000Z,01 December 2025 - 04:13 PM,08.67,122.61,001,1.8,052km N 61° W of Jose Dalman (Zamboanga Del Norte),052,N 61° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T15:30:00.000Z,01 December 2025 - 03:30 PM,08.96,126.36,034,2.3,008km N 55° E of Cagwait (Surigao Del Sur),008,N 55° E,Cagwait (Surigao Del Sur)
 2025-12-01T15:18:00.000Z,01 December 2025 - 03:18 PM,09.04,126.13,030,2.3,006km S 49° W of City Of Tandag (Surigao Del Sur),006,S 49° W,City Of Tandag (Surigao Del Sur)
 2025-12-01T14:41:00.000Z,01 December 2025 - 02:41 PM,13.98,120.45,047,1.7,023km S 74° W of Lian (Batangas),023,S 74° W,Lian (Batangas)
@@ -56,6 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T18:39:00.000Z,30 November 2025 - 06:39 PM,09.53,126.00,054,2.5,010km S 23° E of Socorro (Surigao Del Norte),010,S 23° E,Socorro (Surigao Del Norte)
 2025-11-30T18:21:00.000Z,30 November 2025 - 06:21 PM,11.11,124.06,019,2.5,011km N 53° E of City Of Bogo (Cebu),011,N 53° E,City Of Bogo (Cebu)
 2025-11-30T16:25:00.000Z,30 November 2025 - 04:25 PM,18.82,121.43,022,1.8,007km S 63° E of Fuga Island (Aparri) (Cagayan),007,S 63° E,Fuga Island (Aparri) (Cagayan)
-2025-11-30T15:51:00.000Z,30 November 2025 - 03:51 PM,09.52,125.96,028,2.6,011km S 05° W of Socorro (Surigao Del Norte),011,S 05° W,Socorro (Surigao Del Norte)
-2025-11-30T15:51:00.000Z,30 November 2025 - 03:51 PM,09.61,126.04,036,1.7,023km S 35° W of General Luna (Surigao Del Norte),023,S 35° W,General Luna (Surigao Del Norte)
-2025-11-30T15:46:00.000Z,30 November 2025 - 03:46 PM,09.52,126.00,043,2.0,012km S 20° E of Socorro (Surigao Del Norte),012,S 20° E,Socorro (Surigao Del Norte)
