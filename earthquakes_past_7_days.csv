@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T13:03:00.000Z,02 December 2025 - 01:03 PM,09.06,126.48,025,2.0,025km N 52° E of Cagwait (Surigao Del Sur),025,N 52° E,Cagwait (Surigao Del Sur)
 2025-12-02T12:17:00.000Z,02 December 2025 - 12:17 PM,13.30,120.14,033,1.4,037km S 69° W of Paluan (Occidental Mindoro),037,S 69° W,Paluan (Occidental Mindoro)
 2025-12-02T12:07:00.000Z,02 December 2025 - 12:07 PM,09.94,126.07,013,2.5,002km West of San Isidro (Surigao Del Norte),002,West of San,(Surigao Del Norte)
 2025-12-01T15:29:00.000Z,01 December 2025 - 03:29 PM,08.89,126.58,025,2.3,030km S 84° E of Cagwait (Surigao Del Sur),030,S 84° E,Cagwait (Surigao Del Sur)
@@ -361,6 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-25T15:39:00.000Z,25 November 2025 - 03:39 PM,16.55,120.47,024,2.0,004km N 28° E of Burgos (La Union),004,N 28° E,Burgos (La Union)
 2025-11-25T15:23:00.000Z,25 November 2025 - 03:23 PM,10.92,123.92,007,1.9,015km S 24° W of City Of Bogo (Cebu),015,S 24° W,City Of Bogo (Cebu)
 2025-11-25T14:39:00.000Z,25 November 2025 - 02:39 PM,07.30,126.81,012,3.2,031km N 71° E of Manay (Davao Oriental),031,N 71° E,Manay (Davao Oriental)
-2025-11-25T12:48:00.000Z,25 November 2025 - 12:48 PM,08.92,125.56,028,2.0,012km S 23° E of Magallanes (Agusan Del Norte),012,S 23° E,Magallanes (Agusan Del Norte)
-2025-11-25T12:40:00.000Z,25 November 2025 - 12:40 PM,07.41,126.65,014,2.5,013km N 48° E of Caraga (Davao Oriental),013,N 48° E,Caraga (Davao Oriental)
-2025-11-25T12:27:00.000Z,25 November 2025 - 12:27 PM,11.83,125.40,032,1.3,006km N 74° W of Sulat (Eastern Samar),006,N 74° W,Sulat (Eastern Samar)
