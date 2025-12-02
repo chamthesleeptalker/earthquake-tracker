@@ -1,9 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T00:22:00.000Z,03 December 2025 - 12:22 AM,10.91,123.87,007,2.7,019km S 38° W of City Of Bogo (Cebu),019,S 38° W,City Of Bogo (Cebu)
 2025-12-02T23:51:00.000Z,02 December 2025 - 11:51 PM,08.99,126.39,025,2.6,013km N 54° E of Cagwait (Surigao Del Sur),013,N 54° E,Cagwait (Surigao Del Sur)
 2025-12-02T23:36:00.000Z,02 December 2025 - 11:36 PM,11.14,124.15,006,2.0,020km N 87° E of Medellin (Cebu),020,N 87° E,Medellin (Cebu)
 2025-12-02T23:32:00.000Z,02 December 2025 - 11:32 PM,12.76,123.71,021,1.8,014km N 24° E of Monreal (Masbate),014,N 24° E,Monreal (Masbate)
 2025-12-02T23:32:00.000Z,02 December 2025 - 11:32 PM,15.50,119.78,032,1.7,016km N 64° W of Palauig (Zambales),016,N 64° W,Palauig (Zambales)
 2025-12-02T23:31:00.000Z,02 December 2025 - 11:31 PM,08.78,122.58,008,2.3,061km N 53° W of Jose Dalman (Zamboanga Del Norte),061,N 53° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-02T23:12:00.000Z,02 December 2025 - 11:12 PM,13.36,120.00,033,1.9,050km S 83° W of Paluan (Occidental Mindoro),050,S 83° W,Paluan (Occidental Mindoro)
-2025-12-02T23:11:00.000Z,02 December 2025 - 11:11 PM,13.34,120.20,011,2.3,030km S 73° W of Paluan (Occidental Mindoro),030,S 73° W,Paluan (Occidental Mindoro)
-2025-12-02T23:07:00.000Z,02 December 2025 - 11:07 PM,14.27,120.48,156,4.1,018km S 3° W of Mariveles (Bataan),018,S 3° W,Mariveles (Bataan)
