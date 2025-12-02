@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T02:16:00.000Z,03 December 2025 - 02:16 AM,17.35,121.89,029,2.1,012km N 47° E of Tumauini (Isabela),012,N 47° E,Tumauini (Isabela)
 2025-12-03T01:25:00.000Z,03 December 2025 - 01:25 AM,12.38,125.61,014,2.2,025km N 25° E of San Policarpo (Eastern Samar),025,N 25° E,San Policarpo (Eastern Samar)
 2025-12-03T00:22:00.000Z,03 December 2025 - 12:22 AM,10.91,123.87,007,2.7,019km S 38° W of City Of Bogo (Cebu),019,S 38° W,City Of Bogo (Cebu)
 2025-12-02T23:51:00.000Z,02 December 2025 - 11:51 PM,08.99,126.39,025,2.6,013km N 54° E of Cagwait (Surigao Del Sur),013,N 54° E,Cagwait (Surigao Del Sur)
@@ -363,4 +364,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T02:55:00.000Z,26 November 2025 - 02:55 AM,07.06,126.29,033,1.4,015km N 32° E of City Of Mati (Davao Oriental),015,N 32° E,City Of Mati (Davao Oriental)
 2025-11-26T02:31:00.000Z,26 November 2025 - 02:31 AM,12.51,125.03,027,2.5,007km S 14° E of Laoang (Northern Samar),007,S 14° E,Laoang (Northern Samar)
 2025-11-26T02:20:00.000Z,26 November 2025 - 02:20 AM,18.14,120.64,031,2.2,002km S 07° W of Sarrat (Ilocos Norte),002,S 07° W,Sarrat (Ilocos Norte)
-2025-11-26T01:31:00.000Z,26 November 2025 - 01:31 AM,11.12,124.06,017,2.3,012km N 47° E of City Of Bogo (Cebu),012,N 47° E,City Of Bogo (Cebu)
