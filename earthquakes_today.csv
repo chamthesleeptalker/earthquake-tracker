@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T23:07:00.000Z,02 December 2025 - 11:07 PM,14.27,120.48,156,4.1,018km S 3° W of Mariveles (Bataan),018,S 3° W,Mariveles (Bataan)
 2025-12-02T21:43:00.000Z,02 December 2025 - 09:43 PM,14.16,123.02,001,3.1,006km N 03° E of Mercedes (Camarines Norte),006,N 03° E,Mercedes (Camarines Norte)
 2025-12-02T21:30:00.000Z,02 December 2025 - 09:30 PM,13.46,120.18,028,1.8,030km S 15° W of Looc (Occidental Mindoro),030,S 15° W,Looc (Occidental Mindoro)
 2025-12-02T19:27:00.000Z,02 December 2025 - 07:27 PM,13.37,120.23,009,2.3,026km S 79° W of Paluan (Occidental Mindoro),026,S 79° W,Paluan (Occidental Mindoro)

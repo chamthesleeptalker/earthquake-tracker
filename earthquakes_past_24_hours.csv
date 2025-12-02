@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T23:07:00.000Z,02 December 2025 - 11:07 PM,14.27,120.48,156,4.1,018km S 3° W of Mariveles (Bataan),018,S 3° W,Mariveles (Bataan)
 2025-12-02T21:43:00.000Z,02 December 2025 - 09:43 PM,14.16,123.02,001,3.1,006km N 03° E of Mercedes (Camarines Norte),006,N 03° E,Mercedes (Camarines Norte)
 2025-12-02T21:30:00.000Z,02 December 2025 - 09:30 PM,13.46,120.18,028,1.8,030km S 15° W of Looc (Occidental Mindoro),030,S 15° W,Looc (Occidental Mindoro)
 2025-12-02T19:27:00.000Z,02 December 2025 - 07:27 PM,13.37,120.23,009,2.3,026km S 79° W of Paluan (Occidental Mindoro),026,S 79° W,Paluan (Occidental Mindoro)
@@ -40,9 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T23:23:00.000Z,01 December 2025 - 11:23 PM,10.40,126.13,019,1.8,043km N 08° E of Burgos (Surigao Del Norte),043,N 08° E,Burgos (Surigao Del Norte)
 2025-12-01T23:22:00.000Z,01 December 2025 - 11:22 PM,08.73,122.65,027,2.7,052km N 53° W of Jose Dalman (Zamboanga Del Norte),052,N 53° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T23:19:00.000Z,01 December 2025 - 11:19 PM,02.24,127.98,110,4.8,451km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),451,S 39° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-01T22:55:00.000Z,01 December 2025 - 10:55 PM,10.98,124.15,025,1.8,020km S 70° E of City Of Bogo (Cebu),020,S 70° E,City Of Bogo (Cebu)
-2025-12-01T22:43:00.000Z,01 December 2025 - 10:43 PM,09.57,126.07,008,2.2,025km S 21° W of General Luna (Surigao Del Norte),025,S 21° W,General Luna (Surigao Del Norte)
-2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,11.08,123.92,033,1.5,007km N 62° W of City Of Bogo (Cebu),007,N 62° W,City Of Bogo (Cebu)
-2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,08.77,122.66,005,2.0,054km N 47° W of Jose Dalman (Zamboanga Del Norte),054,N 47° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-01T21:54:00.000Z,01 December 2025 - 09:54 PM,08.80,122.63,015,3.2,059km N 48° W of Jose Dalman (Zamboanga Del Norte),059,N 48° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-01T21:50:00.000Z,01 December 2025 - 09:50 PM,13.58,120.94,033,1.4,009km N 14° W of Puerto Galera (Oriental Mindoro),009,N 14° W,Puerto Galera (Oriental Mindoro)
