@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T12:17:00.000Z,02 December 2025 - 12:17 PM,13.30,120.14,033,1.4,037km S 69° W of Paluan (Occidental Mindoro),037,S 69° W,Paluan (Occidental Mindoro)
+2025-12-02T12:07:00.000Z,02 December 2025 - 12:07 PM,09.94,126.07,013,2.5,002km West of San Isidro (Surigao Del Norte),002,West of San,(Surigao Del Norte)
+2025-12-01T15:29:00.000Z,01 December 2025 - 03:29 PM,08.89,126.58,025,2.3,030km S 84° E of Cagwait (Surigao Del Sur),030,S 84° E,Cagwait (Surigao Del Sur)
 2025-12-02T10:34:00.000Z,02 December 2025 - 10:34 AM,12.66,123.61,006,3.2,007km N 71° W of Monreal (Masbate),007,N 71° W,Monreal (Masbate)
 2025-12-02T08:13:00.000Z,02 December 2025 - 08:13 AM,08.06,126.38,018,1.8,004km N 53° W of Lingig (Surigao Del Sur),004,N 53° W,Lingig (Surigao Del Sur)
 2025-12-02T07:08:00.000Z,02 December 2025 - 07:08 AM,08.11,126.54,042,1.9,016km N 62° E of Lingig (Surigao Del Sur),016,N 62° E,Lingig (Surigao Del Sur)

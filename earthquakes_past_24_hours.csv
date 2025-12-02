@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T12:17:00.000Z,02 December 2025 - 12:17 PM,13.30,120.14,033,1.4,037km S 69° W of Paluan (Occidental Mindoro),037,S 69° W,Paluan (Occidental Mindoro)
+2025-12-02T12:07:00.000Z,02 December 2025 - 12:07 PM,09.94,126.07,013,2.5,002km West of San Isidro (Surigao Del Norte),002,West of San,(Surigao Del Norte)
+2025-12-01T15:29:00.000Z,01 December 2025 - 03:29 PM,08.89,126.58,025,2.3,030km S 84° E of Cagwait (Surigao Del Sur),030,S 84° E,Cagwait (Surigao Del Sur)
 2025-12-02T10:34:00.000Z,02 December 2025 - 10:34 AM,12.66,123.61,006,3.2,007km N 71° W of Monreal (Masbate),007,N 71° W,Monreal (Masbate)
 2025-12-02T08:13:00.000Z,02 December 2025 - 08:13 AM,08.06,126.38,018,1.8,004km N 53° W of Lingig (Surigao Del Sur),004,N 53° W,Lingig (Surigao Del Sur)
 2025-12-02T07:08:00.000Z,02 December 2025 - 07:08 AM,08.11,126.54,042,1.9,016km N 62° E of Lingig (Surigao Del Sur),016,N 62° E,Lingig (Surigao Del Sur)
@@ -58,5 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T14:36:00.000Z,01 December 2025 - 02:36 PM,08.09,127.40,012,3.4,109km N 58° E of Baganga (Davao Oriental),109,N 58° E,Baganga (Davao Oriental)
 2025-12-01T13:31:00.000Z,01 December 2025 - 01:31 PM,13.04,122.68,010,2.3,032km S 02° E of San Andres (Quezon),032,S 02° E,San Andres (Quezon)
 2025-12-01T13:15:00.000Z,01 December 2025 - 01:15 PM,06.07,127.22,114,2.6,142km S 63° E of Governor Generoso (Davao Oriental),142,S 63° E,Governor Generoso (Davao Oriental)
-2025-12-01T10:39:00.000Z,01 December 2025 - 10:39 AM,06.93,125.76,014,1.7,017km S 19° E of Island Garden City Of Samal (Davao Del Norte),017,S 19° E,Island Garden City Of Samal (Davao Del Norte)
-2025-12-01T10:36:00.000Z,01 December 2025 - 10:36 AM,06.73,125.91,047,2.7,020km N 64° W of Governor Generoso (Davao Oriental),020,N 64° W,Governor Generoso (Davao Oriental)
