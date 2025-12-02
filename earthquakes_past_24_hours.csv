@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T19:00:00.000Z,02 December 2025 - 07:00 PM,13.33,120.19,010,4.2,031km S 72° W of Paluan (Occidental Mindoro),031,S 72° W,Paluan (Occidental Mindoro)
 2025-12-02T16:34:00.000Z,02 December 2025 - 04:34 PM,10.82,123.90,001,2.1,027km S 19° W of City Of Bogo (Cebu),027,S 19° W,City Of Bogo (Cebu)
 2025-12-02T15:09:00.000Z,02 December 2025 - 03:09 PM,13.72,122.43,015,2.3,005km S 72° W of Buenavista (Quezon),005,S 72° W,Buenavista (Quezon)
 2025-12-02T14:35:00.000Z,02 December 2025 - 02:35 PM,09.65,126.20,030,1.4,015km S 17° E of General Luna (Surigao Del Norte),015,S 17° E,General Luna (Surigao Del Norte)
@@ -51,9 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T20:07:00.000Z,01 December 2025 - 08:07 PM,08.74,122.59,013,2.5,059km N 55° W of Jose Dalman (Zamboanga Del Norte),059,N 55° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T19:14:00.000Z,01 December 2025 - 07:14 PM,13.25,120.25,008,2.3,029km S 51° W of Paluan (Occidental Mindoro),029,S 51° W,Paluan (Occidental Mindoro)
 2025-12-01T19:11:00.000Z,01 December 2025 - 07:11 PM,13.37,120.27,008,1.6,021km S 76° W of Paluan (Occidental Mindoro),021,S 76° W,Paluan (Occidental Mindoro)
-2025-12-01T18:42:00.000Z,01 December 2025 - 06:42 PM,08.64,122.72,031,2.7,041km N 57° W of Jose Dalman (Zamboanga Del Norte),041,N 57° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-01T18:27:00.000Z,01 December 2025 - 06:27 PM,08.80,122.65,005,2.7,051km S 56° W of Siaton (Negros Oriental),051,S 56° W,Siaton (Negros Oriental)
-2025-12-01T18:26:00.000Z,01 December 2025 - 06:26 PM,14.25,120.22,057,2.0,035km S 55° W of Mariveles (Bataan),035,S 55° W,Mariveles (Bataan)
-2025-12-01T18:15:00.000Z,01 December 2025 - 06:15 PM,13.49,120.69,166,2.2,007km N 36° W of Abra De Ilog (Occidental Mindoro),007,N 36° W,Abra De Ilog (Occidental Mindoro)
-2025-12-01T17:54:00.000Z,01 December 2025 - 05:54 PM,11.24,124.28,003,2.3,012km S 54° W of Tabango (Leyte),012,S 54° W,Tabango (Leyte)
-2025-12-01T17:05:00.000Z,01 December 2025 - 05:05 PM,09.69,126.22,034,1.9,012km S 35° E of General Luna (Surigao Del Norte),012,S 35° E,General Luna (Surigao Del Norte)
