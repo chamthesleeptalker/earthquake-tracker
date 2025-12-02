@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T23:51:00.000Z,02 December 2025 - 11:51 PM,08.99,126.39,025,2.6,013km N 54° E of Cagwait (Surigao Del Sur),013,N 54° E,Cagwait (Surigao Del Sur)
+2025-12-02T23:36:00.000Z,02 December 2025 - 11:36 PM,11.14,124.15,006,2.0,020km N 87° E of Medellin (Cebu),020,N 87° E,Medellin (Cebu)
+2025-12-02T23:32:00.000Z,02 December 2025 - 11:32 PM,12.76,123.71,021,1.8,014km N 24° E of Monreal (Masbate),014,N 24° E,Monreal (Masbate)
+2025-12-02T23:32:00.000Z,02 December 2025 - 11:32 PM,15.50,119.78,032,1.7,016km N 64° W of Palauig (Zambales),016,N 64° W,Palauig (Zambales)
 2025-12-02T23:31:00.000Z,02 December 2025 - 11:31 PM,08.78,122.58,008,2.3,061km N 53° W of Jose Dalman (Zamboanga Del Norte),061,N 53° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-02T23:12:00.000Z,02 December 2025 - 11:12 PM,13.36,120.00,033,1.9,050km S 83° W of Paluan (Occidental Mindoro),050,S 83° W,Paluan (Occidental Mindoro)
 2025-12-02T23:11:00.000Z,02 December 2025 - 11:11 PM,13.34,120.20,011,2.3,030km S 73° W of Paluan (Occidental Mindoro),030,S 73° W,Paluan (Occidental Mindoro)
@@ -360,7 +364,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T01:31:00.000Z,26 November 2025 - 01:31 AM,11.12,124.06,017,2.3,012km N 47° E of City Of Bogo (Cebu),012,N 47° E,City Of Bogo (Cebu)
 2025-11-26T01:10:00.000Z,26 November 2025 - 01:10 AM,06.97,126.87,023,2.7,045km S 54° E of Manay (Davao Oriental),045,S 54° E,Manay (Davao Oriental)
 2025-11-26T00:37:00.000Z,26 November 2025 - 12:37 AM,07.50,126.06,032,1.8,010km S 57° W of New Bataan (Davao De Oro),010,S 57° W,New Bataan (Davao De Oro)
-2025-11-25T23:33:00.000Z,25 November 2025 - 11:33 PM,05.31,127.05,032,3.1,169km S 67° E of Jose Abad Santos (Davao Occidental),169,S 67° E,Jose Abad Santos (Davao Occidental)
 2025-11-26T00:00:00.000Z,26 November 2025 - 12:00 AM,07.31,126.84,019,2.5,035km N 73° E of Manay (Davao Oriental),035,N 73° E,Manay (Davao Oriental)
-2025-11-25T23:34:00.000Z,25 November 2025 - 11:34 PM,11.12,123.95,032,2.2,009km N 24° W of City Of Bogo (Cebu),009,N 24° W,City Of Bogo (Cebu)
-2025-11-25T23:32:00.000Z,25 November 2025 - 11:32 PM,10.77,125.85,044,2.4,014km N 78° E of Homonhon Island (Guiuan) (Eastern Samar),014,N 78° E,Homonhon Island (Guiuan) (Eastern Samar)
