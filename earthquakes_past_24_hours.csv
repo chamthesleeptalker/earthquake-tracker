@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T02:56:00.000Z,03 December 2025 - 02:56 AM,05.69,126.41,016,2.5,088km S 74° E of Jose Abad Santos (Davao Occidental),088,S 74° E,Jose Abad Santos (Davao Occidental)
+2025-12-03T02:59:00.000Z,03 December 2025 - 02:59 AM,12.68,123.60,010,3.6,008km N 59° W of Monreal (Masbate),008,N 59° W,Monreal (Masbate)
+2025-12-03T02:53:00.000Z,03 December 2025 - 02:53 AM,06.55,126.68,029,1.9,061km S 25° E of Tarragona (Davao Oriental),061,S 25° E,Tarragona (Davao Oriental)
+2025-12-03T02:48:00.000Z,03 December 2025 - 02:48 AM,16.24,121.32,036,1.5,009km S 17° E of Kasibu (Nueva Vizcaya),009,S 17° E,Kasibu (Nueva Vizcaya)
+2025-12-03T02:41:00.000Z,03 December 2025 - 02:41 AM,08.81,122.69,022,2.5,055km N 42° W of Jose Dalman (Zamboanga Del Norte),055,N 42° W,Jose Dalman (Zamboanga Del Norte)
+2025-12-03T02:36:00.000Z,03 December 2025 - 02:36 AM,08.93,126.48,021,2.7,020km N 85° E of Cagwait (Surigao Del Sur),020,N 85° E,Cagwait (Surigao Del Sur)
 2025-12-03T02:16:00.000Z,03 December 2025 - 02:16 AM,17.35,121.89,029,2.1,012km N 47° E of Tumauini (Isabela),012,N 47° E,Tumauini (Isabela)
 2025-12-03T01:25:00.000Z,03 December 2025 - 01:25 AM,12.38,125.61,014,2.2,025km N 25° E of San Policarpo (Eastern Samar),025,N 25° E,San Policarpo (Eastern Samar)
 2025-12-03T00:22:00.000Z,03 December 2025 - 12:22 AM,10.91,123.87,007,2.7,019km S 38° W of City Of Bogo (Cebu),019,S 38° W,City Of Bogo (Cebu)
@@ -33,7 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T03:29:00.000Z,02 December 2025 - 03:29 AM,15.30,119.96,036,1.7,004km S 30° W of Iba (Zambales),004,S 30° W,Iba (Zambales)
 2025-12-02T03:07:00.000Z,02 December 2025 - 03:07 AM,07.56,126.76,003,2.5,022km S 86° E of Baganga (Davao Oriental),022,S 86° E,Baganga (Davao Oriental)
 2025-12-02T03:04:00.000Z,02 December 2025 - 03:04 AM,19.14,121.53,019,2.4,014km S 25° E of Calayan (Cagayan),014,S 25° E,Calayan (Cagayan)
-2025-12-02T02:49:00.000Z,02 December 2025 - 02:49 AM,10.36,122.25,019,2.2,027km S 25° E of San Joaquin (Iloilo),027,S 25° E,San Joaquin (Iloilo)
-2025-12-02T02:44:00.000Z,02 December 2025 - 02:44 AM,18.09,120.67,032,1.9,003km S 66° W of Dingras (Ilocos Norte),003,S 66° W,Dingras (Ilocos Norte)
-2025-12-02T02:32:00.000Z,02 December 2025 - 02:32 AM,08.95,126.49,022,4.1,021km N 81° E of Cagwait (Surigao Del Sur),021,N 81° E,Cagwait (Surigao Del Sur)
-2025-12-02T02:29:00.000Z,02 December 2025 - 02:29 AM,18.95,121.19,010,3.2,018km S 06° W of Dalupiri Island (Calayan) (Cagayan),018,S 06° W,Dalupiri Island (Calayan) (Cagayan)

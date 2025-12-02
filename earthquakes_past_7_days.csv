@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T02:56:00.000Z,03 December 2025 - 02:56 AM,05.69,126.41,016,2.5,088km S 74° E of Jose Abad Santos (Davao Occidental),088,S 74° E,Jose Abad Santos (Davao Occidental)
+2025-12-03T02:59:00.000Z,03 December 2025 - 02:59 AM,12.68,123.60,010,3.6,008km N 59° W of Monreal (Masbate),008,N 59° W,Monreal (Masbate)
+2025-12-03T02:53:00.000Z,03 December 2025 - 02:53 AM,06.55,126.68,029,1.9,061km S 25° E of Tarragona (Davao Oriental),061,S 25° E,Tarragona (Davao Oriental)
+2025-12-03T02:48:00.000Z,03 December 2025 - 02:48 AM,16.24,121.32,036,1.5,009km S 17° E of Kasibu (Nueva Vizcaya),009,S 17° E,Kasibu (Nueva Vizcaya)
+2025-12-03T02:41:00.000Z,03 December 2025 - 02:41 AM,08.81,122.69,022,2.5,055km N 42° W of Jose Dalman (Zamboanga Del Norte),055,N 42° W,Jose Dalman (Zamboanga Del Norte)
+2025-12-03T02:36:00.000Z,03 December 2025 - 02:36 AM,08.93,126.48,021,2.7,020km N 85° E of Cagwait (Surigao Del Sur),020,N 85° E,Cagwait (Surigao Del Sur)
 2025-12-03T02:16:00.000Z,03 December 2025 - 02:16 AM,17.35,121.89,029,2.1,012km N 47° E of Tumauini (Isabela),012,N 47° E,Tumauini (Isabela)
 2025-12-03T01:25:00.000Z,03 December 2025 - 01:25 AM,12.38,125.61,014,2.2,025km N 25° E of San Policarpo (Eastern Samar),025,N 25° E,San Policarpo (Eastern Samar)
 2025-12-03T00:22:00.000Z,03 December 2025 - 12:22 AM,10.91,123.87,007,2.7,019km S 38° W of City Of Bogo (Cebu),019,S 38° W,City Of Bogo (Cebu)
@@ -360,7 +366,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T03:52:00.000Z,26 November 2025 - 03:52 AM,11.02,124.02,027,1.9,005km S 61° E of City Of Bogo (Cebu),005,S 61° E,City Of Bogo (Cebu)
 2025-11-26T03:36:00.000Z,26 November 2025 - 03:36 AM,09.24,125.59,068,2.8,005km S 60° E of Santiago (Agusan Del Norte),005,S 60° E,Santiago (Agusan Del Norte)
 2025-11-26T03:33:00.000Z,26 November 2025 - 03:33 AM,11.07,123.91,029,1.6,008km N 70° W of City Of Bogo (Cebu),008,N 70° W,City Of Bogo (Cebu)
-2025-11-26T02:58:00.000Z,26 November 2025 - 02:58 AM,07.61,126.59,007,2.5,005km N 38° E of Baganga (Davao Oriental),005,N 38° E,Baganga (Davao Oriental)
-2025-11-26T02:55:00.000Z,26 November 2025 - 02:55 AM,07.06,126.29,033,1.4,015km N 32° E of City Of Mati (Davao Oriental),015,N 32° E,City Of Mati (Davao Oriental)
-2025-11-26T02:31:00.000Z,26 November 2025 - 02:31 AM,12.51,125.03,027,2.5,007km S 14° E of Laoang (Northern Samar),007,S 14° E,Laoang (Northern Samar)
-2025-11-26T02:20:00.000Z,26 November 2025 - 02:20 AM,18.14,120.64,031,2.2,002km S 07° W of Sarrat (Ilocos Norte),002,S 07° W,Sarrat (Ilocos Norte)
