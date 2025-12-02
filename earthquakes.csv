@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T04:02:00.000Z,03 December 2025 - 04:02 AM,15.64,121.70,005,1.6,020km S 49° E of Baler (Aurora),020,S 49° E,Baler (Aurora)
+2025-12-03T03:48:00.000Z,03 December 2025 - 03:48 AM,16.46,122.16,014,2.1,010km N 35° W of Dilasag (Aurora),010,N 35° W,Dilasag (Aurora)
+2025-12-03T03:43:00.000Z,03 December 2025 - 03:43 AM,12.65,123.59,006,2.7,008km N 82° W of Monreal (Masbate),008,N 82° W,Monreal (Masbate)
 2025-12-03T03:22:00.000Z,03 December 2025 - 03:22 AM,07.38,126.68,008,2.4,014km N 67° E of Caraga (Davao Oriental),014,N 67° E,Caraga (Davao Oriental)
 2025-12-03T03:16:00.000Z,03 December 2025 - 03:16 AM,12.91,124.62,012,2.0,038km N 48° E of Biri (Northern Samar),038,N 48° E,Biri (Northern Samar)
 2025-12-03T03:14:00.000Z,03 December 2025 - 03:14 AM,12.63,123.69,033,1.6,003km S 69° E of Monreal (Masbate),003,S 69° E,Monreal (Masbate)

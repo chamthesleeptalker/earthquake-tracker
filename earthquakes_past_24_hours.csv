@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T04:02:00.000Z,03 December 2025 - 04:02 AM,15.64,121.70,005,1.6,020km S 49° E of Baler (Aurora),020,S 49° E,Baler (Aurora)
+2025-12-03T03:48:00.000Z,03 December 2025 - 03:48 AM,16.46,122.16,014,2.1,010km N 35° W of Dilasag (Aurora),010,N 35° W,Dilasag (Aurora)
+2025-12-03T03:43:00.000Z,03 December 2025 - 03:43 AM,12.65,123.59,006,2.7,008km N 82° W of Monreal (Masbate),008,N 82° W,Monreal (Masbate)
 2025-12-03T03:22:00.000Z,03 December 2025 - 03:22 AM,07.38,126.68,008,2.4,014km N 67° E of Caraga (Davao Oriental),014,N 67° E,Caraga (Davao Oriental)
 2025-12-03T03:16:00.000Z,03 December 2025 - 03:16 AM,12.91,124.62,012,2.0,038km N 48° E of Biri (Northern Samar),038,N 48° E,Biri (Northern Samar)
 2025-12-03T03:14:00.000Z,03 December 2025 - 03:14 AM,12.63,123.69,033,1.6,003km S 69° E of Monreal (Masbate),003,S 69° E,Monreal (Masbate)
@@ -37,6 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T08:13:00.000Z,02 December 2025 - 08:13 AM,08.06,126.38,018,1.8,004km N 53° W of Lingig (Surigao Del Sur),004,N 53° W,Lingig (Surigao Del Sur)
 2025-12-02T07:08:00.000Z,02 December 2025 - 07:08 AM,08.11,126.54,042,1.9,016km N 62° E of Lingig (Surigao Del Sur),016,N 62° E,Lingig (Surigao Del Sur)
 2025-12-02T06:11:00.000Z,02 December 2025 - 06:11 AM,15.05,119.61,010,4.5,049km S 76° W of Cabangan (Zambales),049,S 76° W,Cabangan (Zambales)
-2025-12-02T03:49:00.000Z,02 December 2025 - 03:49 AM,08.73,126.45,025,2.3,027km S 39° E of Cagwait (Surigao Del Sur),027,S 39° E,Cagwait (Surigao Del Sur)
-2025-12-02T03:38:00.000Z,02 December 2025 - 03:38 AM,09.00,122.52,022,2.4,047km S 16° W of Basay (Negros Oriental),047,S 16° W,Basay (Negros Oriental)
-2025-12-02T03:29:00.000Z,02 December 2025 - 03:29 AM,15.30,119.96,036,1.7,004km S 30° W of Iba (Zambales),004,S 30° W,Iba (Zambales)
