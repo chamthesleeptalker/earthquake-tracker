@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T03:22:00.000Z,03 December 2025 - 03:22 AM,07.38,126.68,008,2.4,014km N 67° E of Caraga (Davao Oriental),014,N 67° E,Caraga (Davao Oriental)
+2025-12-03T03:16:00.000Z,03 December 2025 - 03:16 AM,12.91,124.62,012,2.0,038km N 48° E of Biri (Northern Samar),038,N 48° E,Biri (Northern Samar)
+2025-12-03T03:14:00.000Z,03 December 2025 - 03:14 AM,12.63,123.69,033,1.6,003km S 69° E of Monreal (Masbate),003,S 69° E,Monreal (Masbate)
 2025-12-03T02:56:00.000Z,03 December 2025 - 02:56 AM,05.69,126.41,016,2.5,088km S 74° E of Jose Abad Santos (Davao Occidental),088,S 74° E,Jose Abad Santos (Davao Occidental)
 2025-12-03T02:59:00.000Z,03 December 2025 - 02:59 AM,12.68,123.60,010,3.6,008km N 59° W of Monreal (Masbate),008,N 59° W,Monreal (Masbate)
 2025-12-03T02:53:00.000Z,03 December 2025 - 02:53 AM,06.55,126.68,029,1.9,061km S 25° E of Tarragona (Davao Oriental),061,S 25° E,Tarragona (Davao Oriental)
@@ -37,5 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T03:49:00.000Z,02 December 2025 - 03:49 AM,08.73,126.45,025,2.3,027km S 39° E of Cagwait (Surigao Del Sur),027,S 39° E,Cagwait (Surigao Del Sur)
 2025-12-02T03:38:00.000Z,02 December 2025 - 03:38 AM,09.00,122.52,022,2.4,047km S 16° W of Basay (Negros Oriental),047,S 16° W,Basay (Negros Oriental)
 2025-12-02T03:29:00.000Z,02 December 2025 - 03:29 AM,15.30,119.96,036,1.7,004km S 30° W of Iba (Zambales),004,S 30° W,Iba (Zambales)
-2025-12-02T03:07:00.000Z,02 December 2025 - 03:07 AM,07.56,126.76,003,2.5,022km S 86° E of Baganga (Davao Oriental),022,S 86° E,Baganga (Davao Oriental)
-2025-12-02T03:04:00.000Z,02 December 2025 - 03:04 AM,19.14,121.53,019,2.4,014km S 25° E of Calayan (Cagayan),014,S 25° E,Calayan (Cagayan)
