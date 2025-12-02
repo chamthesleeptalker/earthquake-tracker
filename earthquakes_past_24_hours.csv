@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-02T23:31:00.000Z,02 December 2025 - 11:31 PM,08.78,122.58,008,2.3,061km N 53° W of Jose Dalman (Zamboanga Del Norte),061,N 53° W,Jose Dalman (Zamboanga Del Norte)
+2025-12-02T23:12:00.000Z,02 December 2025 - 11:12 PM,13.36,120.00,033,1.9,050km S 83° W of Paluan (Occidental Mindoro),050,S 83° W,Paluan (Occidental Mindoro)
+2025-12-02T23:11:00.000Z,02 December 2025 - 11:11 PM,13.34,120.20,011,2.3,030km S 73° W of Paluan (Occidental Mindoro),030,S 73° W,Paluan (Occidental Mindoro)
 2025-12-02T23:07:00.000Z,02 December 2025 - 11:07 PM,14.27,120.48,156,4.1,018km S 3° W of Mariveles (Bataan),018,S 3° W,Mariveles (Bataan)
 2025-12-02T21:43:00.000Z,02 December 2025 - 09:43 PM,14.16,123.02,001,3.1,006km N 03° E of Mercedes (Camarines Norte),006,N 03° E,Mercedes (Camarines Norte)
 2025-12-02T21:30:00.000Z,02 December 2025 - 09:30 PM,13.46,120.18,028,1.8,030km S 15° W of Looc (Occidental Mindoro),030,S 15° W,Looc (Occidental Mindoro)
@@ -38,6 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T23:58:00.000Z,01 December 2025 - 11:58 PM,09.13,126.25,028,2.0,011km N 53° E of City Of Tandag (Surigao Del Sur),011,N 53° E,City Of Tandag (Surigao Del Sur)
 2025-12-01T23:53:00.000Z,01 December 2025 - 11:53 PM,09.71,126.36,031,1.8,024km S 70° E of General Luna (Surigao Del Norte),024,S 70° E,General Luna (Surigao Del Norte)
 2025-12-01T23:50:00.000Z,01 December 2025 - 11:50 PM,10.97,123.91,007,2.0,011km S 43° W of City Of Bogo (Cebu),011,S 43° W,City Of Bogo (Cebu)
-2025-12-01T23:23:00.000Z,01 December 2025 - 11:23 PM,10.40,126.13,019,1.8,043km N 08° E of Burgos (Surigao Del Norte),043,N 08° E,Burgos (Surigao Del Norte)
-2025-12-01T23:22:00.000Z,01 December 2025 - 11:22 PM,08.73,122.65,027,2.7,052km N 53° W of Jose Dalman (Zamboanga Del Norte),052,N 53° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-01T23:19:00.000Z,01 December 2025 - 11:19 PM,02.24,127.98,110,4.8,451km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),451,S 39° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
