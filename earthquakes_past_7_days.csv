@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T06:11:00.000Z,04 December 2025 - 06:11 AM,09.36,126.10,030,3.0,014km N 77° E of Cantilan (Surigao Del Sur),014,N 77° E,Cantilan (Surigao Del Sur)
 2025-12-04T05:24:00.000Z,04 December 2025 - 05:24 AM,07.53,126.31,022,1.6,019km S 83° E of New Bataan (Davao De Oro),019,S 83° E,New Bataan (Davao De Oro)
 2025-12-04T05:01:00.000Z,04 December 2025 - 05:01 AM,06.41,127.22,080,1.8,111km S 50° E of Tarragona (Davao Oriental),111,S 50° E,Tarragona (Davao Oriental)
 2025-12-04T04:24:00.000Z,04 December 2025 - 04:24 AM,07.30,123.60,027,1.9,028km S 49° E of Tabina (Zamboanga Del Sur),028,S 49° E,Tabina (Zamboanga Del Sur)
@@ -367,5 +368,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T09:03:00.000Z,27 November 2025 - 09:03 AM,07.27,126.89,011,2.8,037km S 79° E of Caraga (Davao Oriental),037,S 79° E,Caraga (Davao Oriental)
 2025-11-27T07:48:00.000Z,27 November 2025 - 07:48 AM,13.79,120.37,060,1.7,028km S 73° E of Lubang (Occidental Mindoro),028,S 73° E,Lubang (Occidental Mindoro)
 2025-11-27T07:00:00.000Z,27 November 2025 - 07:00 AM,04.03,122.78,043,3.7,251km S 26° E of Tongkil (Sulu),251,S 26° E,Tongkil (Sulu)
-2025-11-27T05:39:00.000Z,27 November 2025 - 05:39 AM,08.04,126.36,002,2.3,006km West of Lingig (Surigao Del Sur),006,West of Lingig,Del Sur)
-2025-11-27T05:26:00.000Z,27 November 2025 - 05:26 AM,07.05,123.75,032,2.1,030km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
