@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T23:24:00.000Z,03 December 2025 - 11:24 PM,06.11,126.50,043,2.4,076km S 38° E of Governor Generoso (Davao Oriental),076,S 38° E,Governor Generoso (Davao Oriental)
 2025-12-03T22:55:00.000Z,03 December 2025 - 10:55 PM,08.06,124.93,011,1.7,012km N 57° W of Lantapan (Bukidnon),012,N 57° W,Lantapan (Bukidnon)
 2025-12-03T22:53:00.000Z,03 December 2025 - 10:53 PM,11.38,125.39,010,1.8,016km S 53° W of Balangkayan (Eastern Samar),016,S 53° W,Balangkayan (Eastern Samar)
 2025-12-03T22:41:00.000Z,03 December 2025 - 10:41 PM,16.16,120.05,023,2.1,008km N 87° E of City Of Alaminos (Pangasinan),008,N 87° E,City Of Alaminos (Pangasinan)
@@ -51,6 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T23:32:00.000Z,02 December 2025 - 11:32 PM,12.76,123.71,021,1.8,014km N 24° E of Monreal (Masbate),014,N 24° E,Monreal (Masbate)
 2025-12-02T23:32:00.000Z,02 December 2025 - 11:32 PM,15.50,119.78,032,1.7,016km N 64° W of Palauig (Zambales),016,N 64° W,Palauig (Zambales)
 2025-12-02T23:31:00.000Z,02 December 2025 - 11:31 PM,08.78,122.58,008,2.3,061km N 53° W of Jose Dalman (Zamboanga Del Norte),061,N 53° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-02T23:12:00.000Z,02 December 2025 - 11:12 PM,13.36,120.00,033,1.9,050km S 83° W of Paluan (Occidental Mindoro),050,S 83° W,Paluan (Occidental Mindoro)
-2025-12-02T23:11:00.000Z,02 December 2025 - 11:11 PM,13.34,120.20,011,2.3,030km S 73° W of Paluan (Occidental Mindoro),030,S 73° W,Paluan (Occidental Mindoro)
-2025-12-02T23:07:00.000Z,02 December 2025 - 11:07 PM,14.27,120.48,156,4.1,018km S 3° W of Mariveles (Bataan),018,S 3° W,Mariveles (Bataan)
