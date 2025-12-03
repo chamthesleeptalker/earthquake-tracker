@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T19:28:00.000Z,03 December 2025 - 07:28 PM,09.23,126.19,017,2.3,005km S 07° W of Cortes (Surigao Del Sur),005,S 07° W,Cortes (Surigao Del Sur)
+2025-12-03T19:24:00.000Z,03 December 2025 - 07:24 PM,13.70,120.53,076,2.4,018km S 36° W of Calatagan (Batangas),018,S 36° W,Calatagan (Batangas)
 2025-12-03T18:53:00.000Z,03 December 2025 - 06:53 PM,09.61,126.17,033,1.6,019km S 04° E of General Luna (Surigao Del Norte),019,S 04° E,General Luna (Surigao Del Norte)
 2025-12-03T18:12:00.000Z,03 December 2025 - 06:12 PM,13.57,120.90,032,1.5,010km S 16° E of Tingloy (Batangas),010,S 16° E,Tingloy (Batangas)
 2025-12-03T17:56:00.000Z,03 December 2025 - 05:56 PM,09.25,126.78,003,1.9,062km N 61° E of Bayabas (Surigao Del Sur),062,N 61° E,Bayabas (Surigao Del Sur)
