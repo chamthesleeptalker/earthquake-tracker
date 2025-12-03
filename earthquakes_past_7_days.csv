@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T22:55:00.000Z,03 December 2025 - 10:55 PM,08.06,124.93,011,1.7,012km N 57° W of Lantapan (Bukidnon),012,N 57° W,Lantapan (Bukidnon)
+2025-12-03T22:53:00.000Z,03 December 2025 - 10:53 PM,11.38,125.39,010,1.8,016km S 53° W of Balangkayan (Eastern Samar),016,S 53° W,Balangkayan (Eastern Samar)
+2025-12-03T22:41:00.000Z,03 December 2025 - 10:41 PM,16.16,120.05,023,2.1,008km N 87° E of City Of Alaminos (Pangasinan),008,N 87° E,City Of Alaminos (Pangasinan)
 2025-12-03T22:19:00.000Z,03 December 2025 - 10:19 PM,13.92,120.58,007,1.4,012km N 31° W of Calatagan (Batangas),012,N 31° W,Calatagan (Batangas)
 2025-12-03T21:50:00.000Z,03 December 2025 - 09:50 PM,15.02,119.44,006,2.8,067km S 59° W of Iba (Zambales),067,S 59° W,Iba (Zambales)
 2025-12-03T21:41:00.000Z,03 December 2025 - 09:41 PM,10.61,125.66,005,3.0,017km S 25° W of Homonhon Island (Guiuan) (Eastern Samar),017,S 25° W,Homonhon Island (Guiuan) (Eastern Samar)
@@ -369,5 +372,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T23:38:00.000Z,26 November 2025 - 11:38 PM,08.76,126.78,003,2.9,056km S 72° E of Cagwait (Surigao Del Sur),056,S 72° E,Cagwait (Surigao Del Sur)
 2025-11-26T23:31:00.000Z,26 November 2025 - 11:31 PM,08.48,124.70,027,1.7,006km N 83° E of City Of Cagayan De Oro (Misamis Oriental),006,N 83° E,City Of Cagayan De Oro (Misamis Oriental)
 2025-11-26T23:26:00.000Z,26 November 2025 - 11:26 PM,11.07,124.04,006,2.6,007km N 67° E of City Of Bogo (Cebu),007,N 67° E,City Of Bogo (Cebu)
-2025-11-26T22:54:00.000Z,26 November 2025 - 10:54 PM,07.31,126.95,007,3.6,047km N 76° E of Manay (Davao Oriental),047,N 76° E,Manay (Davao Oriental)
-2025-11-26T22:35:00.000Z,26 November 2025 - 10:35 PM,07.17,126.62,014,3.2,010km S 66° E of Manay (Davao Oriental),010,S 66° E,Manay (Davao Oriental)
