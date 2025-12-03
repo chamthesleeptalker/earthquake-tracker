@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T04:24:00.000Z,04 December 2025 - 04:24 AM,07.30,123.60,027,1.9,028km S 49° E of Tabina (Zamboanga Del Sur),028,S 49° E,Tabina (Zamboanga Del Sur)
 2025-12-04T03:33:00.000Z,04 December 2025 - 03:33 AM,09.56,122.34,023,2.8,015km S 72° W of Hinoba-an (Negros Occidental),015,S 72° W,Hinoba-an (Negros Occidental)
 2025-12-04T03:07:00.000Z,04 December 2025 - 03:07 AM,11.10,124.10,001,1.7,015km N 65° E of City Of Bogo (Cebu),015,N 65° E,City Of Bogo (Cebu)
 2025-12-04T02:51:00.000Z,04 December 2025 - 02:51 AM,09.37,125.58,034,1.8,008km N 65° E of Jabonga (Agusan Del Norte),008,N 65° E,Jabonga (Agusan Del Norte)
@@ -37,7 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T08:29:00.000Z,03 December 2025 - 08:29 AM,12.87,120.51,001,2.4,030km N 85° W of Sablayan (Occidental Mindoro),030,N 85° W,Sablayan (Occidental Mindoro)
 2025-12-03T08:04:00.000Z,03 December 2025 - 08:04 AM,12.83,120.53,008,2.5,028km S 88° W of Sablayan (Occidental Mindoro),028,S 88° W,Sablayan (Occidental Mindoro)
 2025-12-03T06:50:00.000Z,03 December 2025 - 06:50 AM,07.45,126.72,027,2.2,021km N 52° E of Caraga (Davao Oriental),021,N 52° E,Caraga (Davao Oriental)
-2025-12-03T04:12:00.000Z,03 December 2025 - 04:12 AM,09.66,124.46,013,1.8,008km S 47° E of Duero (Bohol),008,S 47° E,Duero (Bohol)
-2025-12-03T04:02:00.000Z,03 December 2025 - 04:02 AM,15.64,121.70,005,1.6,020km S 49° E of Baler (Aurora),020,S 49° E,Baler (Aurora)
-2025-12-03T03:48:00.000Z,03 December 2025 - 03:48 AM,16.46,122.16,014,2.1,010km N 35° W of Dilasag (Aurora),010,N 35° W,Dilasag (Aurora)
-2025-12-03T03:43:00.000Z,03 December 2025 - 03:43 AM,12.65,123.59,006,2.7,008km N 82° W of Monreal (Masbate),008,N 82° W,Monreal (Masbate)
