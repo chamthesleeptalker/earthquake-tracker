@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T09:11:00.000Z,03 December 2025 - 09:11 AM,06.00,126.26,111,3.0,066km S 71° E of Don Marcelino (Davao Occidental),066,S 71° E,Don Marcelino (Davao Occidental)
+2025-12-03T08:39:00.000Z,03 December 2025 - 08:39 AM,09.77,123.79,034,2.5,004km S 19° W of Loon (Bohol),004,S 19° W,Loon (Bohol)
+2025-12-03T08:29:00.000Z,03 December 2025 - 08:29 AM,12.87,120.51,001,2.4,030km N 85° W of Sablayan (Occidental Mindoro),030,N 85° W,Sablayan (Occidental Mindoro)
+2025-12-03T08:04:00.000Z,03 December 2025 - 08:04 AM,12.83,120.53,008,2.5,028km S 88° W of Sablayan (Occidental Mindoro),028,S 88° W,Sablayan (Occidental Mindoro)
 2025-12-03T06:50:00.000Z,03 December 2025 - 06:50 AM,07.45,126.72,027,2.2,021km N 52° E of Caraga (Davao Oriental),021,N 52° E,Caraga (Davao Oriental)
 2025-12-03T04:12:00.000Z,03 December 2025 - 04:12 AM,09.66,124.46,013,1.8,008km S 47° E of Duero (Bohol),008,S 47° E,Duero (Bohol)
 2025-12-03T04:02:00.000Z,03 December 2025 - 04:02 AM,15.64,121.70,005,1.6,020km S 49° E of Baler (Aurora),020,S 49° E,Baler (Aurora)
@@ -363,7 +367,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-26T12:25:00.000Z,26 November 2025 - 12:25 PM,07.48,126.77,028,2.8,040km N 41° E of Manay (Davao Oriental),040,N 41° E,Manay (Davao Oriental)
 2025-11-26T12:09:00.000Z,26 November 2025 - 12:09 PM,10.99,123.98,002,2.3,006km S 05° E of City Of Bogo (Cebu),006,S 05° E,City Of Bogo (Cebu)
 2025-11-26T10:03:00.000Z,26 November 2025 - 10:03 AM,12.44,125.18,028,2.0,009km S 66° W of Mapanas (Northern Samar),009,S 66° W,Mapanas (Northern Samar)
-2025-11-26T08:11:00.000Z,26 November 2025 - 08:11 AM,06.36,126.03,015,2.4,033km S 08° W of Governor Generoso (Davao Oriental),033,S 08° W,Governor Generoso (Davao Oriental)
-2025-11-26T07:58:00.000Z,26 November 2025 - 07:58 AM,07.79,127.05,015,3.0,059km N 66° E of Baganga (Davao Oriental),059,N 66° E,Baganga (Davao Oriental)
-2025-11-26T07:40:00.000Z,26 November 2025 - 07:40 AM,11.23,124.12,030,1.9,026km N 36° E of City Of Bogo (Cebu),026,N 36° E,City Of Bogo (Cebu)
-2025-11-26T07:36:00.000Z,26 November 2025 - 07:36 AM,11.37,123.36,007,1.6,025km S 66° E of Estancia (Iloilo),025,S 66° E,Estancia (Iloilo)
