@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T03:07:00.000Z,04 December 2025 - 03:07 AM,11.10,124.10,001,1.7,015km N 65° E of City Of Bogo (Cebu),015,N 65° E,City Of Bogo (Cebu)
+2025-12-04T02:51:00.000Z,04 December 2025 - 02:51 AM,09.37,125.58,034,1.8,008km N 65° E of Jabonga (Agusan Del Norte),008,N 65° E,Jabonga (Agusan Del Norte)
+2025-12-04T02:27:00.000Z,04 December 2025 - 02:27 AM,11.16,124.09,019,1.8,018km N 43° E of City Of Bogo (Cebu),018,N 43° E,City Of Bogo (Cebu)
 2025-12-04T02:14:00.000Z,04 December 2025 - 02:14 AM,06.45,126.53,032,3.2,056km S 66° E of Governor Generoso (Davao Oriental),056,S 66° E,Governor Generoso (Davao Oriental)
 2025-12-04T02:04:00.000Z,04 December 2025 - 02:04 AM,11.21,123.93,007,2.3,019km N 17° W of City Of Bogo (Cebu),019,N 17° W,City Of Bogo (Cebu)
 2025-12-03T23:24:00.000Z,03 December 2025 - 11:24 PM,06.11,126.50,043,2.4,076km S 38° E of Governor Generoso (Davao Oriental),076,S 38° E,Governor Generoso (Davao Oriental)
@@ -366,5 +369,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T04:31:00.000Z,27 November 2025 - 04:31 AM,13.56,123.75,020,1.8,013km N 35° E of Tiwi (Albay),013,N 35° E,Tiwi (Albay)
 2025-11-27T04:08:00.000Z,27 November 2025 - 04:08 AM,11.00,124.02,008,2.4,007km S 35° E of City Of Bogo (Cebu),007,S 35° E,City Of Bogo (Cebu)
 2025-11-27T04:04:00.000Z,27 November 2025 - 04:04 AM,07.04,126.72,025,2.8,028km S 46° E of Manay (Davao Oriental),028,S 46° E,Manay (Davao Oriental)
-2025-11-27T02:45:00.000Z,27 November 2025 - 02:45 AM,07.64,126.36,020,1.9,019km S 32° W of Cateel (Davao Oriental),019,S 32° W,Cateel (Davao Oriental)
-2025-11-27T02:33:00.000Z,27 November 2025 - 02:33 AM,09.76,122.41,012,2.2,003km S 66° W of City Of Sipalay (Negros Occidental),003,S 66° W,City Of Sipalay (Negros Occidental)
