@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-03T11:36:00.000Z,03 December 2025 - 11:36 AM,09.61,126.30,033,1.5,025km S 40° E of General Luna (Surigao Del Norte),025,S 40° E,General Luna (Surigao Del Norte)
 2025-12-03T09:38:00.000Z,03 December 2025 - 09:38 AM,13.12,124.90,027,2.1,061km N 03° W of Pambujan (Northern Samar),061,N 03° W,Pambujan (Northern Samar)
 2025-12-03T09:11:00.000Z,03 December 2025 - 09:11 AM,06.00,126.26,111,3.0,066km S 71° E of Don Marcelino (Davao Occidental),066,S 71° E,Don Marcelino (Davao Occidental)
 2025-12-03T08:39:00.000Z,03 December 2025 - 08:39 AM,09.77,123.79,034,2.5,004km S 19° W of Loon (Bohol),004,S 19° W,Loon (Bohol)
@@ -43,4 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T13:03:00.000Z,02 December 2025 - 01:03 PM,09.06,126.48,025,2.0,025km N 52° E of Cagwait (Surigao Del Sur),025,N 52° E,Cagwait (Surigao Del Sur)
 2025-12-02T12:17:00.000Z,02 December 2025 - 12:17 PM,13.30,120.14,033,1.4,037km S 69° W of Paluan (Occidental Mindoro),037,S 69° W,Paluan (Occidental Mindoro)
 2025-12-02T12:07:00.000Z,02 December 2025 - 12:07 PM,09.94,126.07,013,2.5,002km West of San Isidro (Surigao Del Norte),002,West of San,(Surigao Del Norte)
-2025-12-02T10:34:00.000Z,02 December 2025 - 10:34 AM,12.66,123.61,006,3.2,007km N 71° W of Monreal (Masbate),007,N 71° W,Monreal (Masbate)
