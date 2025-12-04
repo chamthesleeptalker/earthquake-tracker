@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T03:18:00.000Z,05 December 2025 - 03:18 AM,08.05,126.96,009,2.8,061km N 89° E of Lingig (Surigao Del Sur),061,N 89° E,Lingig (Surigao Del Sur)
+2025-12-05T03:15:00.000Z,05 December 2025 - 03:15 AM,07.30,126.69,008,2.7,020km N 60° E of Manay (Davao Oriental),020,N 60° E,Manay (Davao Oriental)
 2025-12-05T03:06:00.000Z,05 December 2025 - 03:06 AM,06.86,123.79,017,1.5,035km S 47° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),035,S 47° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-12-05T02:25:00.000Z,05 December 2025 - 02:25 AM,17.13,120.32,014,2.1,013km S 74° W of City Of Candon (Ilocos Sur),013,S 74° W,City Of Candon (Ilocos Sur)
 2025-12-05T01:19:00.000Z,05 December 2025 - 01:19 AM,04.87,125.28,033,3.6,062km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 15° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -26,4 +28,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-04T05:01:00.000Z,04 December 2025 - 05:01 AM,06.41,127.22,080,1.8,111km S 50° E of Tarragona (Davao Oriental),111,S 50° E,Tarragona (Davao Oriental)
 2025-12-04T04:24:00.000Z,04 December 2025 - 04:24 AM,07.30,123.60,027,1.9,028km S 49° E of Tabina (Zamboanga Del Sur),028,S 49° E,Tabina (Zamboanga Del Sur)
 2025-12-04T03:33:00.000Z,04 December 2025 - 03:33 AM,09.56,122.34,023,2.8,015km S 72° W of Hinoba-an (Negros Occidental),015,S 72° W,Hinoba-an (Negros Occidental)
-2025-12-04T03:07:00.000Z,04 December 2025 - 03:07 AM,11.10,124.10,001,1.7,015km N 65° E of City Of Bogo (Cebu),015,N 65° E,City Of Bogo (Cebu)
