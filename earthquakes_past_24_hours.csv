@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T07:34:00.000Z,04 December 2025 - 07:34 AM,09.89,125.47,024,2.2,011km N 14° W of City Of Surigao (Surigao Del Norte),011,N 14° W,City Of Surigao (Surigao Del Norte)
 2025-12-04T04:05:00.000Z,04 December 2025 - 04:05 AM,07.03,126.44,023,2.3,022km S 28° W of Manay (Davao Oriental),022,S 28° W,Manay (Davao Oriental)
 2025-12-04T06:11:00.000Z,04 December 2025 - 06:11 AM,09.36,126.10,030,3.0,014km N 77° E of Cantilan (Surigao Del Sur),014,N 77° E,Cantilan (Surigao Del Sur)
 2025-12-04T05:24:00.000Z,04 December 2025 - 05:24 AM,07.53,126.31,022,1.6,019km S 83° E of New Bataan (Davao De Oro),019,S 83° E,New Bataan (Davao De Oro)
@@ -41,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T08:39:00.000Z,03 December 2025 - 08:39 AM,09.77,123.79,034,2.5,004km S 19° W of Loon (Bohol),004,S 19° W,Loon (Bohol)
 2025-12-03T08:29:00.000Z,03 December 2025 - 08:29 AM,12.87,120.51,001,2.4,030km N 85° W of Sablayan (Occidental Mindoro),030,N 85° W,Sablayan (Occidental Mindoro)
 2025-12-03T08:04:00.000Z,03 December 2025 - 08:04 AM,12.83,120.53,008,2.5,028km S 88° W of Sablayan (Occidental Mindoro),028,S 88° W,Sablayan (Occidental Mindoro)
-2025-12-03T06:50:00.000Z,03 December 2025 - 06:50 AM,07.45,126.72,027,2.2,021km N 52° E of Caraga (Davao Oriental),021,N 52° E,Caraga (Davao Oriental)
