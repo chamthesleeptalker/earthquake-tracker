@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T11:07:00.000Z,04 December 2025 - 11:07 AM,09.62,126.51,013,3.1,043km S 66° E of General Luna (Surigao Del Norte),043,S 66° E,General Luna (Surigao Del Norte)
+2025-12-03T17:47:00.000Z,03 December 2025 - 05:47 PM,14.55,123.09,001,2.3,018km N 62° E of Tinaga Island (Vinzons) (Camarines Norte),018,N 62° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-12-04T09:53:00.000Z,04 December 2025 - 09:53 AM,10.98,124.06,033,2.1,012km S 51° E of City Of Bogo (Cebu),012,S 51° E,City Of Bogo (Cebu)
 2025-12-03T17:15:00.000Z,03 December 2025 - 05:15 PM,09.77,124.72,011,1.9,016km N 81° E of Anda (Bohol),016,N 81° E,Anda (Bohol)
 2025-12-04T07:34:00.000Z,04 December 2025 - 07:34 AM,09.89,125.47,024,2.2,011km N 14° W of City Of Surigao (Surigao Del Norte),011,N 14° W,City Of Surigao (Surigao Del Norte)
@@ -366,6 +368,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T12:41:00.000Z,27 November 2025 - 12:41 PM,05.01,126.15,102,4.2,091km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),091,S 56° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-27T11:39:00.000Z,27 November 2025 - 11:39 AM,09.58,126.23,028,1.6,023km S 21° E of General Luna (Surigao Del Norte),023,S 21° E,General Luna (Surigao Del Norte)
 2025-11-27T11:10:00.000Z,27 November 2025 - 11:10 AM,18.51,120.68,019,4.0,004km S 85° E of Burgos (Ilocos Norte),004,S 85° E,Burgos (Ilocos Norte)
-2025-11-27T10:04:00.000Z,27 November 2025 - 10:04 AM,16.19,119.65,027,2.2,018km N 61° W of Agno (Pangasinan),018,N 61° W,Agno (Pangasinan)
-2025-11-27T09:58:00.000Z,27 November 2025 - 09:58 AM,09.11,126.31,023,1.7,013km N 43° E of Tago (Surigao Del Sur),013,N 43° E,Tago (Surigao Del Sur)
-2025-11-27T09:56:00.000Z,27 November 2025 - 09:56 AM,10.81,125.22,013,2.0,024km N 72° E of Abuyog (Leyte),024,N 72° E,Abuyog (Leyte)
