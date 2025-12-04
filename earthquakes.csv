@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T00:00:00.000Z,05 December 2025 - 12:00 AM,09.56,126.13,008,2.0,019km S 71° E of Socorro (Surigao Del Norte),019,S 71° E,Socorro (Surigao Del Norte)
 2025-12-04T23:18:00.000Z,04 December 2025 - 11:18 PM,12.80,123.10,032,1.9,019km S 55° W of Claveria (Masbate),019,S 55° W,Claveria (Masbate)
 2025-12-04T22:51:00.000Z,04 December 2025 - 10:51 PM,13.82,120.59,100,1.5,005km S 78° W of Calatagan (Batangas),005,S 78° W,Calatagan (Batangas)
 2025-12-04T21:14:00.000Z,04 December 2025 - 09:14 PM,08.94,126.50,033,1.8,022km N 83° E of Cagwait (Surigao Del Sur),022,N 83° E,Cagwait (Surigao Del Sur)
