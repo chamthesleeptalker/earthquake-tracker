@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T12:15:00.000Z,04 December 2025 - 12:15 PM,16.30,122.19,033,1.5,008km N 70° E of Casiguran (Aurora),008,N 70° E,Casiguran (Aurora)
 2025-12-04T11:07:00.000Z,04 December 2025 - 11:07 AM,09.62,126.51,013,3.1,043km S 66° E of General Luna (Surigao Del Norte),043,S 66° E,General Luna (Surigao Del Norte)
 2025-12-03T17:47:00.000Z,03 December 2025 - 05:47 PM,14.55,123.09,001,2.3,018km N 62° E of Tinaga Island (Vinzons) (Camarines Norte),018,N 62° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-12-04T09:53:00.000Z,04 December 2025 - 09:53 AM,10.98,124.06,033,2.1,012km S 51° E of City Of Bogo (Cebu),012,S 51° E,City Of Bogo (Cebu)
@@ -40,4 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T14:46:00.000Z,03 December 2025 - 02:46 PM,09.67,125.13,027,2.1,029km S 14° E of Limasawa (Southern Leyte),029,S 14° E,Limasawa (Southern Leyte)
 2025-12-03T13:11:00.000Z,03 December 2025 - 01:11 PM,11.26,123.86,006,1.8,014km N 33° E of Santa Fe (Cebu),014,N 33° E,Santa Fe (Cebu)
 2025-12-03T13:09:00.000Z,03 December 2025 - 01:09 PM,11.29,123.90,002,2.2,028km N 17° W of City Of Bogo (Cebu),028,N 17° W,City Of Bogo (Cebu)
-2025-12-03T11:36:00.000Z,03 December 2025 - 11:36 AM,09.61,126.30,033,1.5,025km S 40° E of General Luna (Surigao Del Norte),025,S 40° E,General Luna (Surigao Del Norte)
