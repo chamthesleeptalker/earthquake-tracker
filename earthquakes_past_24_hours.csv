@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T09:53:00.000Z,04 December 2025 - 09:53 AM,10.98,124.06,033,2.1,012km S 51° E of City Of Bogo (Cebu),012,S 51° E,City Of Bogo (Cebu)
+2025-12-03T17:15:00.000Z,03 December 2025 - 05:15 PM,09.77,124.72,011,1.9,016km N 81° E of Anda (Bohol),016,N 81° E,Anda (Bohol)
 2025-12-04T07:34:00.000Z,04 December 2025 - 07:34 AM,09.89,125.47,024,2.2,011km N 14° W of City Of Surigao (Surigao Del Norte),011,N 14° W,City Of Surigao (Surigao Del Norte)
 2025-12-04T04:05:00.000Z,04 December 2025 - 04:05 AM,07.03,126.44,023,2.3,022km S 28° W of Manay (Davao Oriental),022,S 28° W,Manay (Davao Oriental)
 2025-12-04T06:11:00.000Z,04 December 2025 - 06:11 AM,09.36,126.10,030,3.0,014km N 77° E of Cantilan (Surigao Del Sur),014,N 77° E,Cantilan (Surigao Del Sur)
@@ -37,8 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T13:11:00.000Z,03 December 2025 - 01:11 PM,11.26,123.86,006,1.8,014km N 33° E of Santa Fe (Cebu),014,N 33° E,Santa Fe (Cebu)
 2025-12-03T13:09:00.000Z,03 December 2025 - 01:09 PM,11.29,123.90,002,2.2,028km N 17° W of City Of Bogo (Cebu),028,N 17° W,City Of Bogo (Cebu)
 2025-12-03T11:36:00.000Z,03 December 2025 - 11:36 AM,09.61,126.30,033,1.5,025km S 40° E of General Luna (Surigao Del Norte),025,S 40° E,General Luna (Surigao Del Norte)
-2025-12-03T09:38:00.000Z,03 December 2025 - 09:38 AM,13.12,124.90,027,2.1,061km N 03° W of Pambujan (Northern Samar),061,N 03° W,Pambujan (Northern Samar)
-2025-12-03T09:11:00.000Z,03 December 2025 - 09:11 AM,06.00,126.26,111,3.0,066km S 71° E of Don Marcelino (Davao Occidental),066,S 71° E,Don Marcelino (Davao Occidental)
-2025-12-03T08:39:00.000Z,03 December 2025 - 08:39 AM,09.77,123.79,034,2.5,004km S 19° W of Loon (Bohol),004,S 19° W,Loon (Bohol)
-2025-12-03T08:29:00.000Z,03 December 2025 - 08:29 AM,12.87,120.51,001,2.4,030km N 85° W of Sablayan (Occidental Mindoro),030,N 85° W,Sablayan (Occidental Mindoro)
-2025-12-03T08:04:00.000Z,03 December 2025 - 08:04 AM,12.83,120.53,008,2.5,028km S 88° W of Sablayan (Occidental Mindoro),028,S 88° W,Sablayan (Occidental Mindoro)
