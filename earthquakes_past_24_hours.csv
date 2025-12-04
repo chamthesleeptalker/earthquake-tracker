@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T15:15:00.000Z,04 December 2025 - 03:15 PM,14.00,120.44,053,1.5,023km S 68° W of Nasugbu (Batangas),023,S 68° W,Nasugbu (Batangas)
 2025-12-04T13:58:00.000Z,04 December 2025 - 01:58 PM,07.03,126.98,018,2.2,052km S 68° E of Manay (Davao Oriental),052,S 68° E,Manay (Davao Oriental)
 2025-12-04T13:48:00.000Z,04 December 2025 - 01:48 PM,08.73,126.24,025,1.5,002km S 43° E of San Agustin (Surigao Del Sur),002,S 43° E,San Agustin (Surigao Del Sur)
 2025-12-04T13:11:00.000Z,04 December 2025 - 01:11 PM,05.56,125.72,051,2.7,029km N 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),029,N 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -41,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T17:14:00.000Z,03 December 2025 - 05:14 PM,09.83,124.83,034,1.3,029km N 70° E of Anda (Bohol),029,N 70° E,Anda (Bohol)
 2025-12-03T16:21:00.000Z,03 December 2025 - 04:21 PM,09.65,126.22,031,2.3,016km S 25° E of General Luna (Surigao Del Norte),016,S 25° E,General Luna (Surigao Del Norte)
 2025-12-03T15:22:00.000Z,03 December 2025 - 03:22 PM,09.75,126.08,028,1.9,009km S 71° W of General Luna (Surigao Del Norte),009,S 71° W,General Luna (Surigao Del Norte)
-2025-12-03T14:46:00.000Z,03 December 2025 - 02:46 PM,09.67,125.13,027,2.1,029km S 14° E of Limasawa (Southern Leyte),029,S 14° E,Limasawa (Southern Leyte)
