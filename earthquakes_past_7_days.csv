@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T00:33:00.000Z,05 December 2025 - 12:33 AM,12.72,123.24,020,2.6,020km S 02° W of Claveria (Masbate),020,S 02° W,Claveria (Masbate)
 2025-12-05T00:00:00.000Z,05 December 2025 - 12:00 AM,09.56,126.13,008,2.0,019km S 71° E of Socorro (Surigao Del Norte),019,S 71° E,Socorro (Surigao Del Norte)
 2025-12-04T23:18:00.000Z,04 December 2025 - 11:18 PM,12.80,123.10,032,1.9,019km S 55° W of Claveria (Masbate),019,S 55° W,Claveria (Masbate)
 2025-12-04T22:51:00.000Z,04 December 2025 - 10:51 PM,13.82,120.59,100,1.5,005km S 78° W of Calatagan (Batangas),005,S 78° W,Calatagan (Batangas)
@@ -344,5 +345,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-28T01:05:00.000Z,28 November 2025 - 01:05 AM,04.34,126.36,172,3.9,157km S 41° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),157,S 41° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-11-28T01:01:00.000Z,28 November 2025 - 01:01 AM,08.49,126.65,004,2.4,038km N 68° E of Hinatuan (Surigao Del Sur),038,N 68° E,Hinatuan (Surigao Del Sur)
 2025-11-28T00:52:00.000Z,28 November 2025 - 12:52 AM,08.10,124.30,006,1.7,004km S 33° E of Tagoloan (Lanao Del Norte),004,S 33° E,Tagoloan (Lanao Del Norte)
-2025-11-28T00:28:00.000Z,28 November 2025 - 12:28 AM,09.97,124.17,002,2.8,006km N 63° W of Danao (Bohol),006,N 63° W,Danao (Bohol)
-2025-11-28T00:20:00.000Z,28 November 2025 - 12:20 AM,09.65,126.18,033,2.2,015km S 11° E of General Luna (Surigao Del Norte),015,S 11° E,General Luna (Surigao Del Norte)
