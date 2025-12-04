@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-04T22:51:00.000Z,04 December 2025 - 10:51 PM,13.82,120.59,100,1.5,005km S 78° W of Calatagan (Batangas),005,S 78° W,Calatagan (Batangas)
 2025-12-04T21:14:00.000Z,04 December 2025 - 09:14 PM,08.94,126.50,033,1.8,022km N 83° E of Cagwait (Surigao Del Sur),022,N 83° E,Cagwait (Surigao Del Sur)
 2025-12-04T21:08:00.000Z,04 December 2025 - 09:08 PM,12.81,123.26,009,2.4,010km S 06° E of Claveria (Masbate),010,S 06° E,Claveria (Masbate)
 2025-12-04T21:00:00.000Z,04 December 2025 - 09:00 PM,12.87,123.23,009,1.9,004km S 26° W of Claveria (Masbate),004,S 26° W,Claveria (Masbate)
@@ -347,8 +348,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-27T23:40:00.000Z,27 November 2025 - 11:40 PM,14.12,125.04,042,2.3,080km N 62° E of Gigmoto (Catanduanes),080,N 62° E,Gigmoto (Catanduanes)
 2025-11-27T23:21:00.000Z,27 November 2025 - 11:21 PM,11.92,125.32,004,2.1,011km N 77° W of Taft (Eastern Samar),011,N 77° W,Taft (Eastern Samar)
 2025-11-27T22:55:00.000Z,27 November 2025 - 10:55 PM,10.98,123.96,004,1.9,007km S 15° W of City Of Bogo (Cebu),007,S 15° W,City Of Bogo (Cebu)
-2025-11-27T22:47:00.000Z,27 November 2025 - 10:47 PM,07.06,126.94,012,2.6,047km S 70° E of Manay (Davao Oriental),047,S 70° E,Manay (Davao Oriental)
-2025-11-27T22:33:00.000Z,27 November 2025 - 10:33 PM,09.69,126.27,033,1.4,016km S 51° E of General Luna (Surigao Del Norte),016,S 51° E,General Luna (Surigao Del Norte)
-2025-11-27T21:49:00.000Z,27 November 2025 - 09:49 PM,08.98,126.41,031,2.3,014km N 63° E of Cagwait (Surigao Del Sur),014,N 63° E,Cagwait (Surigao Del Sur)
-2025-11-27T21:35:00.000Z,27 November 2025 - 09:35 PM,13.83,120.59,122,2.3,005km S 81° W of Calatagan (Batangas),005,S 81° W,Calatagan (Batangas)
-2025-11-27T21:30:00.000Z,27 November 2025 - 09:30 PM,05.28,126.44,013,3.6,109km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),109,S 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
