@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T04:11:00.000Z,05 December 2025 - 04:11 AM,16.14,121.50,018,1.7,015km S 49° W of Nagtipunan (Quirino),015,S 49° W,Nagtipunan (Quirino)
+2025-12-05T04:03:00.000Z,05 December 2025 - 04:03 AM,04.38,126.62,015,3.5,175km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),175,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-05T03:18:00.000Z,05 December 2025 - 03:18 AM,08.05,126.96,009,2.8,061km N 89° E of Lingig (Surigao Del Sur),061,N 89° E,Lingig (Surigao Del Sur)
 2025-12-05T03:15:00.000Z,05 December 2025 - 03:15 AM,07.30,126.69,008,2.7,020km N 60° E of Manay (Davao Oriental),020,N 60° E,Manay (Davao Oriental)
 2025-12-05T03:06:00.000Z,05 December 2025 - 03:06 AM,06.86,123.79,017,1.5,035km S 47° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),035,S 47° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
