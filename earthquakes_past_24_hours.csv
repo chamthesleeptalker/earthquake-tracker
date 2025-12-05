@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T14:05:00.000Z,05 December 2025 - 02:05 PM,17.61,121.22,003,3.1,012km N 12° E of Balbalan (Kalinga),012,N 12° E,Balbalan (Kalinga)
 2025-12-05T13:14:00.000Z,05 December 2025 - 01:14 PM,17.65,121.29,003,3.1,014km N 74° W of Pinukpuk (Kalinga),014,N 74° W,Pinukpuk (Kalinga)
 2025-12-05T13:13:00.000Z,05 December 2025 - 01:13 PM,11.02,124.02,001,3.0,005km S 52° E of City Of Bogo (Cebu),005,S 52° E,City Of Bogo (Cebu)
 2025-12-05T12:11:00.000Z,05 December 2025 - 12:11 PM,10.95,123.97,010,3.1,011km S 07° W of City Of Bogo (Cebu),011,S 07° W,City Of Bogo (Cebu)
@@ -26,5 +27,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-04T18:33:00.000Z,04 December 2025 - 06:33 PM,09.64,126.21,035,1.4,016km S 20° E of General Luna (Surigao Del Norte),016,S 20° E,General Luna (Surigao Del Norte)
 2025-12-04T15:51:00.000Z,04 December 2025 - 03:51 PM,13.24,123.95,009,2.4,016km N 34° E of Manito (Albay),016,N 34° E,Manito (Albay)
 2025-12-04T15:15:00.000Z,04 December 2025 - 03:15 PM,14.00,120.44,053,1.5,023km S 68° W of Nasugbu (Batangas),023,S 68° W,Nasugbu (Batangas)
-2025-12-04T13:58:00.000Z,04 December 2025 - 01:58 PM,07.03,126.98,018,2.2,052km S 68° E of Manay (Davao Oriental),052,S 68° E,Manay (Davao Oriental)
-2025-12-04T13:48:00.000Z,04 December 2025 - 01:48 PM,08.73,126.24,025,1.5,002km S 43° E of San Agustin (Surigao Del Sur),002,S 43° E,San Agustin (Surigao Del Sur)

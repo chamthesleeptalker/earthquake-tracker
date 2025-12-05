@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T14:05:00.000Z,05 December 2025 - 02:05 PM,17.61,121.22,003,3.1,012km N 12° E of Balbalan (Kalinga),012,N 12° E,Balbalan (Kalinga)
 2025-12-05T13:14:00.000Z,05 December 2025 - 01:14 PM,17.65,121.29,003,3.1,014km N 74° W of Pinukpuk (Kalinga),014,N 74° W,Pinukpuk (Kalinga)
 2025-12-05T13:13:00.000Z,05 December 2025 - 01:13 PM,11.02,124.02,001,3.0,005km S 52° E of City Of Bogo (Cebu),005,S 52° E,City Of Bogo (Cebu)
 2025-12-05T12:11:00.000Z,05 December 2025 - 12:11 PM,10.95,123.97,010,3.1,011km S 07° W of City Of Bogo (Cebu),011,S 07° W,City Of Bogo (Cebu)
