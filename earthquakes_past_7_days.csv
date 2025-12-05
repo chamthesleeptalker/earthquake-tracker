@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T16:21:00.000Z,05 December 2025 - 04:21 PM,09.69,126.23,032,1.8,014km S 37° E of General Luna (Surigao Del Norte),014,S 37° E,General Luna (Surigao Del Norte)
 2025-12-05T14:05:00.000Z,05 December 2025 - 02:05 PM,17.61,121.22,003,3.1,012km N 12° E of Balbalan (Kalinga),012,N 12° E,Balbalan (Kalinga)
 2025-12-05T13:14:00.000Z,05 December 2025 - 01:14 PM,17.65,121.29,003,3.1,014km N 74° W of Pinukpuk (Kalinga),014,N 74° W,Pinukpuk (Kalinga)
 2025-12-05T13:13:00.000Z,05 December 2025 - 01:13 PM,11.02,124.02,001,3.0,005km S 52° E of City Of Bogo (Cebu),005,S 52° E,City Of Bogo (Cebu)
@@ -335,5 +336,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-28T18:15:00.000Z,28 November 2025 - 06:15 PM,11.13,124.20,005,2.2,026km N 68° E of City Of Bogo (Cebu),026,N 68° E,City Of Bogo (Cebu)
 2025-11-28T17:59:00.000Z,28 November 2025 - 05:59 PM,11.01,123.98,004,2.5,004km S 06° E of City Of Bogo (Cebu),004,S 06° E,City Of Bogo (Cebu)
 2025-11-28T16:24:00.000Z,28 November 2025 - 04:24 PM,06.06,126.48,046,3.3,080km S 35° E of Governor Generoso (Davao Oriental),080,S 35° E,Governor Generoso (Davao Oriental)
-2025-11-28T15:53:00.000Z,28 November 2025 - 03:53 PM,07.67,124.65,022,2.5,009km N 70° W of Wao (Lanao Del Sur),009,N 70° W,Wao (Lanao Del Sur)
-2025-11-28T14:46:00.000Z,28 November 2025 - 02:46 PM,13.69,120.60,094,2.1,016km S 12° W of Calatagan (Batangas),016,S 12° W,Calatagan (Batangas)

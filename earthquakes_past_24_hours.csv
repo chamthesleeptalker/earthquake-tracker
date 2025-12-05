@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T16:21:00.000Z,05 December 2025 - 04:21 PM,09.69,126.23,032,1.8,014km S 37° E of General Luna (Surigao Del Norte),014,S 37° E,General Luna (Surigao Del Norte)
 2025-12-05T14:05:00.000Z,05 December 2025 - 02:05 PM,17.61,121.22,003,3.1,012km N 12° E of Balbalan (Kalinga),012,N 12° E,Balbalan (Kalinga)
 2025-12-05T13:14:00.000Z,05 December 2025 - 01:14 PM,17.65,121.29,003,3.1,014km N 74° W of Pinukpuk (Kalinga),014,N 74° W,Pinukpuk (Kalinga)
 2025-12-05T13:13:00.000Z,05 December 2025 - 01:13 PM,11.02,124.02,001,3.0,005km S 52° E of City Of Bogo (Cebu),005,S 52° E,City Of Bogo (Cebu)
@@ -25,5 +26,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-04T21:08:00.000Z,04 December 2025 - 09:08 PM,12.81,123.26,009,2.4,010km S 06° E of Claveria (Masbate),010,S 06° E,Claveria (Masbate)
 2025-12-04T21:00:00.000Z,04 December 2025 - 09:00 PM,12.87,123.23,009,1.9,004km S 26° W of Claveria (Masbate),004,S 26° W,Claveria (Masbate)
 2025-12-04T18:33:00.000Z,04 December 2025 - 06:33 PM,09.64,126.21,035,1.4,016km S 20° E of General Luna (Surigao Del Norte),016,S 20° E,General Luna (Surigao Del Norte)
-2025-12-04T15:51:00.000Z,04 December 2025 - 03:51 PM,13.24,123.95,009,2.4,016km N 34° E of Manito (Albay),016,N 34° E,Manito (Albay)
-2025-12-04T15:15:00.000Z,04 December 2025 - 03:15 PM,14.00,120.44,053,1.5,023km S 68° W of Nasugbu (Batangas),023,S 68° W,Nasugbu (Batangas)
