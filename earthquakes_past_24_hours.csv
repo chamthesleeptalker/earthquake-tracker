@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T11:01:00.000Z,05 December 2025 - 11:01 AM,09.55,122.33,024,2.3,016km S 69° W of Hinoba-an (Negros Occidental),016,S 69° W,Hinoba-an (Negros Occidental)
+2025-12-05T11:00:00.000Z,05 December 2025 - 11:00 AM,08.82,126.50,013,2.8,024km S 63° E of Cagwait (Surigao Del Sur),024,S 63° E,Cagwait (Surigao Del Sur)
 2025-12-05T10:42:00.000Z,05 December 2025 - 10:42 AM,11.13,124.08,002,2.1,014km N 50° E of City Of Bogo (Cebu),014,N 50° E,City Of Bogo (Cebu)
 2025-12-05T08:36:00.000Z,05 December 2025 - 08:36 AM,10.67,125.01,001,1.8,008km S 02° W of Abuyog (Leyte),008,S 02° W,Abuyog (Leyte)
 2025-12-05T05:27:00.000Z,05 December 2025 - 05:27 AM,05.99,126.21,116,2.7,061km S 68° E of Don Marcelino (Davao Occidental),061,S 68° E,Don Marcelino (Davao Occidental)
