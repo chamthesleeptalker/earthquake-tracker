@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T05:24:00.000Z,06 December 2025 - 05:24 AM,09.61,122.36,035,3.2,012km N 85° W of Hinoba-an (Negros Occidental),012,N 85° W,Hinoba-an (Negros Occidental)
 2025-12-06T04:02:00.000Z,06 December 2025 - 04:02 AM,07.13,126.76,007,2.1,026km S 70° E of Manay (Davao Oriental),026,S 70° E,Manay (Davao Oriental)
 2025-12-06T04:09:00.000Z,06 December 2025 - 04:09 AM,07.44,126.59,022,2.7,026km N 11° E of Manay (Davao Oriental),026,N 11° E,Manay (Davao Oriental)
 2025-12-06T04:04:00.000Z,06 December 2025 - 04:04 AM,18.09,120.69,001,2.7,002km S 26° W of Dingras (Ilocos Norte),002,S 26° W,Dingras (Ilocos Norte)
@@ -350,8 +351,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T06:25:00.000Z,29 November 2025 - 06:25 AM,10.87,123.55,008,2.0,006km N 61° E of City Of Escalante (Negros Occidental),006,N 61° E,City Of Escalante (Negros Occidental)
 2025-11-29T06:12:00.000Z,29 November 2025 - 06:12 AM,06.30,125.99,031,2.7,034km N 72° E of Don Marcelino (Davao Occidental),034,N 72° E,Don Marcelino (Davao Occidental)
 2025-11-29T06:04:00.000Z,29 November 2025 - 06:04 AM,11.13,123.96,010,2.8,010km N 11° W of City Of Bogo (Cebu),010,N 11° W,City Of Bogo (Cebu)
-2025-11-29T05:15:00.000Z,29 November 2025 - 05:15 AM,05.58,125.66,039,2.4,025km N 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 60° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-29T05:06:00.000Z,29 November 2025 - 05:06 AM,07.16,127.07,010,2.6,059km S 85° E of Manay (Davao Oriental),059,S 85° E,Manay (Davao Oriental)
-2025-11-29T04:42:00.000Z,29 November 2025 - 04:42 AM,16.35,122.11,007,2.4,008km N 07° W of Casiguran (Aurora),008,N 07° W,Casiguran (Aurora)
-2025-11-29T04:26:00.000Z,29 November 2025 - 04:26 AM,07.37,126.31,032,2.2,022km N 75° E of Maragusan (Davao De Oro),022,N 75° E,Maragusan (Davao De Oro)
-2025-11-29T04:10:00.000Z,29 November 2025 - 04:10 AM,16.88,120.64,016,2.5,011km S 84° E of Alilem (Ilocos Sur),011,S 84° E,Alilem (Ilocos Sur)
