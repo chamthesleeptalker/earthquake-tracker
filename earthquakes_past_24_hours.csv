@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T23:31:00.000Z,05 December 2025 - 11:31 PM,15.93,119.44,019,3.4,043km S 62° W of Agno (Pangasinan),043,S 62° W,Agno (Pangasinan)
+2025-12-05T23:24:00.000Z,05 December 2025 - 11:24 PM,17.77,120.58,028,1.7,013km N 46° W of Danglas (Abra),013,N 46° W,Danglas (Abra)
 2025-12-05T23:02:00.000Z,05 December 2025 - 11:02 PM,11.52,124.36,007,2.3,006km S 42° W of Naval (Biliran),006,S 42° W,Naval (Biliran)
 2025-12-05T22:14:00.000Z,05 December 2025 - 10:14 PM,05.62,126.14,036,1.8,063km S 59° E of Jose Abad Santos (Davao Occidental),063,S 59° E,Jose Abad Santos (Davao Occidental)
 2025-12-05T22:05:00.000Z,05 December 2025 - 10:05 PM,12.76,123.19,002,2.0,017km S 22° W of Claveria (Masbate),017,S 22° W,Claveria (Masbate)
@@ -31,4 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T01:16:00.000Z,05 December 2025 - 01:16 AM,14.03,120.47,115,2.2,018km S 74° W of Nasugbu (Batangas),018,S 74° W,Nasugbu (Batangas)
 2025-12-05T00:33:00.000Z,05 December 2025 - 12:33 AM,12.72,123.24,020,2.6,020km S 02° W of Claveria (Masbate),020,S 02° W,Claveria (Masbate)
 2025-12-05T00:00:00.000Z,05 December 2025 - 12:00 AM,09.56,126.13,008,2.0,019km S 71° E of Socorro (Surigao Del Norte),019,S 71° E,Socorro (Surigao Del Norte)
-2025-12-04T23:18:00.000Z,04 December 2025 - 11:18 PM,12.80,123.10,032,1.9,019km S 55° W of Claveria (Masbate),019,S 55° W,Claveria (Masbate)
