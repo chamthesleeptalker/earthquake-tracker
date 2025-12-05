@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T01:32:00.000Z,06 December 2025 - 01:32 AM,07.09,123.53,040,1.4,043km S 18° E of Tabina (Zamboanga Del Sur),043,S 18° E,Tabina (Zamboanga Del Sur)
+2025-12-06T01:23:00.000Z,06 December 2025 - 01:23 AM,09.25,126.78,005,2.3,064km N 55° E of Cagwait (Surigao Del Sur),064,N 55° E,Cagwait (Surigao Del Sur)
+2025-12-06T01:12:00.000Z,06 December 2025 - 01:12 AM,09.85,126.12,028,2.0,002km S 47° E of Pilar (Surigao Del Norte),002,S 47° E,Pilar (Surigao Del Norte)
 2025-12-06T00:57:00.000Z,06 December 2025 - 12:57 AM,19.19,121.23,012,3.4,009km N 12° E of Dalupiri Island (Calayan) (Cagayan),009,N 12° E,Dalupiri Island (Calayan) (Cagayan)
 2025-12-06T00:53:00.000Z,06 December 2025 - 12:53 AM,10.63,123.75,007,1.9,008km N 26° E of Asturias (Cebu),008,N 26° E,Asturias (Cebu)
 2025-12-05T23:38:00.000Z,05 December 2025 - 11:38 PM,12.85,121.61,035,1.4,014km S 60° W of Concepcion (Romblon),014,S 60° W,Concepcion (Romblon)
@@ -338,5 +341,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T04:01:00.000Z,29 November 2025 - 04:01 AM,07.08,126.85,017,3.8,037km S 67° E of Manay (Davao Oriental),037,S 67° E,Manay (Davao Oriental)
 2025-11-29T03:22:00.000Z,29 November 2025 - 03:22 AM,09.91,126.18,016,2.0,010km S 76° E of San Isidro (Surigao Del Norte),010,S 76° E,San Isidro (Surigao Del Norte)
 2025-11-29T02:15:00.000Z,29 November 2025 - 02:15 AM,11.13,124.09,004,2.7,015km N 53° E of City Of Bogo (Cebu),015,N 53° E,City Of Bogo (Cebu)
-2025-11-29T01:15:00.000Z,29 November 2025 - 01:15 AM,11.01,123.97,003,1.6,004km S 12° W of City Of Bogo (Cebu),004,S 12° W,City Of Bogo (Cebu)
-2025-11-29T01:02:00.000Z,29 November 2025 - 01:02 AM,18.99,121.10,023,2.6,017km S 41° W of Dalupiri Island (Calayan) (Cagayan),017,S 41° W,Dalupiri Island (Calayan) (Cagayan)

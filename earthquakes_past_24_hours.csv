@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T01:32:00.000Z,06 December 2025 - 01:32 AM,07.09,123.53,040,1.4,043km S 18° E of Tabina (Zamboanga Del Sur),043,S 18° E,Tabina (Zamboanga Del Sur)
+2025-12-06T01:23:00.000Z,06 December 2025 - 01:23 AM,09.25,126.78,005,2.3,064km N 55° E of Cagwait (Surigao Del Sur),064,N 55° E,Cagwait (Surigao Del Sur)
+2025-12-06T01:12:00.000Z,06 December 2025 - 01:12 AM,09.85,126.12,028,2.0,002km S 47° E of Pilar (Surigao Del Norte),002,S 47° E,Pilar (Surigao Del Norte)
 2025-12-06T00:57:00.000Z,06 December 2025 - 12:57 AM,19.19,121.23,012,3.4,009km N 12° E of Dalupiri Island (Calayan) (Cagayan),009,N 12° E,Dalupiri Island (Calayan) (Cagayan)
 2025-12-06T00:53:00.000Z,06 December 2025 - 12:53 AM,10.63,123.75,007,1.9,008km N 26° E of Asturias (Cebu),008,N 26° E,Asturias (Cebu)
 2025-12-05T23:38:00.000Z,05 December 2025 - 11:38 PM,12.85,121.61,035,1.4,014km S 60° W of Concepcion (Romblon),014,S 60° W,Concepcion (Romblon)
@@ -33,5 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T03:15:00.000Z,05 December 2025 - 03:15 AM,07.30,126.69,008,2.7,020km N 60° E of Manay (Davao Oriental),020,N 60° E,Manay (Davao Oriental)
 2025-12-05T03:06:00.000Z,05 December 2025 - 03:06 AM,06.86,123.79,017,1.5,035km S 47° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),035,S 47° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-12-05T02:25:00.000Z,05 December 2025 - 02:25 AM,17.13,120.32,014,2.1,013km S 74° W of City Of Candon (Ilocos Sur),013,S 74° W,City Of Candon (Ilocos Sur)
-2025-12-05T01:19:00.000Z,05 December 2025 - 01:19 AM,04.87,125.28,033,3.6,062km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 15° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-05T01:16:00.000Z,05 December 2025 - 01:16 AM,14.03,120.47,115,2.2,018km S 74° W of Nasugbu (Batangas),018,S 74° W,Nasugbu (Batangas)
