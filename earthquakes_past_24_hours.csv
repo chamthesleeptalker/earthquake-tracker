@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T22:05:00.000Z,05 December 2025 - 10:05 PM,12.76,123.19,002,2.0,017km S 22° W of Claveria (Masbate),017,S 22° W,Claveria (Masbate)
+2025-12-05T22:01:00.000Z,05 December 2025 - 10:01 PM,09.55,126.27,033,1.4,029km S 25° E of General Luna (Surigao Del Norte),029,S 25° E,General Luna (Surigao Del Norte)
+2025-12-05T22:00:00.000Z,05 December 2025 - 10:00 PM,08.18,127.05,006,2.2,072km N 77° E of Lingig (Surigao Del Sur),072,N 77° E,Lingig (Surigao Del Sur)
 2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.75,120.97,017,1.6,010km N 22° E of Tinoc (Ifugao),010,N 22° E,Tinoc (Ifugao)
 2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.71,120.98,004,2.4,006km N 52° E of Tinoc (Ifugao),006,N 52° E,Tinoc (Ifugao)
 2025-12-05T20:43:00.000Z,05 December 2025 - 08:43 PM,07.37,126.70,016,2.6,025km N 46° E of Manay (Davao Oriental),025,N 46° E,Manay (Davao Oriental)
@@ -28,6 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T00:00:00.000Z,05 December 2025 - 12:00 AM,09.56,126.13,008,2.0,019km S 71° E of Socorro (Surigao Del Norte),019,S 71° E,Socorro (Surigao Del Norte)
 2025-12-04T23:18:00.000Z,04 December 2025 - 11:18 PM,12.80,123.10,032,1.9,019km S 55° W of Claveria (Masbate),019,S 55° W,Claveria (Masbate)
 2025-12-04T22:51:00.000Z,04 December 2025 - 10:51 PM,13.82,120.59,100,1.5,005km S 78° W of Calatagan (Batangas),005,S 78° W,Calatagan (Batangas)
-2025-12-04T21:14:00.000Z,04 December 2025 - 09:14 PM,08.94,126.50,033,1.8,022km N 83° E of Cagwait (Surigao Del Sur),022,N 83° E,Cagwait (Surigao Del Sur)
-2025-12-04T21:08:00.000Z,04 December 2025 - 09:08 PM,12.81,123.26,009,2.4,010km S 06° E of Claveria (Masbate),010,S 06° E,Claveria (Masbate)
-2025-12-04T21:00:00.000Z,04 December 2025 - 09:00 PM,12.87,123.23,009,1.9,004km S 26° W of Claveria (Masbate),004,S 26° W,Claveria (Masbate)
