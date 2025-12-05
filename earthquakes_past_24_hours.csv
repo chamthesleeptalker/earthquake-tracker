@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T04:02:00.000Z,06 December 2025 - 04:02 AM,07.13,126.76,007,2.1,026km S 70° E of Manay (Davao Oriental),026,S 70° E,Manay (Davao Oriental)
 2025-12-06T04:09:00.000Z,06 December 2025 - 04:09 AM,07.44,126.59,022,2.7,026km N 11° E of Manay (Davao Oriental),026,N 11° E,Manay (Davao Oriental)
 2025-12-06T04:04:00.000Z,06 December 2025 - 04:04 AM,18.09,120.69,001,2.7,002km S 26° W of Dingras (Ilocos Norte),002,S 26° W,Dingras (Ilocos Norte)
 2025-12-06T04:01:00.000Z,06 December 2025 - 04:01 AM,06.94,126.98,049,1.9,057km S 59° E of Manay (Davao Oriental),057,S 59° E,Manay (Davao Oriental)
