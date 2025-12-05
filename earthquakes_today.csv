@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T02:57:00.000Z,06 December 2025 - 02:57 AM,10.91,123.82,002,3.6,023km S 49° W of City Of Bogo (Cebu),023,S 49° W,City Of Bogo (Cebu)
+2025-12-06T02:43:00.000Z,06 December 2025 - 02:43 AM,07.96,127.01,008,2.9,066km N 49° E of Baganga (Davao Oriental),066,N 49° E,Baganga (Davao Oriental)
 2025-12-06T02:31:00.000Z,06 December 2025 - 02:31 AM,10.93,123.83,002,3.8,021km S 53° W of City Of Bogo (Cebu),021,S 53° W,City Of Bogo (Cebu)
 2025-12-06T02:19:00.000Z,06 December 2025 - 02:19 AM,07.95,127.19,015,3.5,081km N 59° E of Baganga (Davao Oriental),081,N 59° E,Baganga (Davao Oriental)
 2025-12-06T02:11:00.000Z,06 December 2025 - 02:11 AM,18.33,120.93,006,2.0,015km N 54° W of Calanasan (Apayao),015,N 54° W,Calanasan (Apayao)
