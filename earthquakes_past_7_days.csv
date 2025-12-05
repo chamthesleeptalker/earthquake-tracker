@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T02:31:00.000Z,06 December 2025 - 02:31 AM,10.93,123.83,002,3.8,021km S 53° W of City Of Bogo (Cebu),021,S 53° W,City Of Bogo (Cebu)
+2025-12-06T02:19:00.000Z,06 December 2025 - 02:19 AM,07.95,127.19,015,3.5,081km N 59° E of Baganga (Davao Oriental),081,N 59° E,Baganga (Davao Oriental)
 2025-12-06T02:11:00.000Z,06 December 2025 - 02:11 AM,18.33,120.93,006,2.0,015km N 54° W of Calanasan (Apayao),015,N 54° W,Calanasan (Apayao)
 2025-12-06T02:06:00.000Z,06 December 2025 - 02:06 AM,07.28,126.79,008,2.2,029km N 75° E of Manay (Davao Oriental),029,N 75° E,Manay (Davao Oriental)
 2025-12-06T02:05:00.000Z,06 December 2025 - 02:05 AM,09.05,126.61,018,2.2,037km N 66° E of Cagwait (Surigao Del Sur),037,N 66° E,Cagwait (Surigao Del Sur)
@@ -345,4 +347,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T04:10:00.000Z,29 November 2025 - 04:10 AM,16.88,120.64,016,2.5,011km S 84° E of Alilem (Ilocos Sur),011,S 84° E,Alilem (Ilocos Sur)
 2025-11-29T04:01:00.000Z,29 November 2025 - 04:01 AM,07.08,126.85,017,3.8,037km S 67° E of Manay (Davao Oriental),037,S 67° E,Manay (Davao Oriental)
 2025-11-29T03:22:00.000Z,29 November 2025 - 03:22 AM,09.91,126.18,016,2.0,010km S 76° E of San Isidro (Surigao Del Norte),010,S 76° E,San Isidro (Surigao Del Norte)
-2025-11-29T02:15:00.000Z,29 November 2025 - 02:15 AM,11.13,124.09,004,2.7,015km N 53° E of City Of Bogo (Cebu),015,N 53° E,City Of Bogo (Cebu)
