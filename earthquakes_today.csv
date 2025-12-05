@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T23:02:00.000Z,05 December 2025 - 11:02 PM,11.52,124.36,007,2.3,006km S 42° W of Naval (Biliran),006,S 42° W,Naval (Biliran)
 2025-12-05T22:14:00.000Z,05 December 2025 - 10:14 PM,05.62,126.14,036,1.8,063km S 59° E of Jose Abad Santos (Davao Occidental),063,S 59° E,Jose Abad Santos (Davao Occidental)
 2025-12-05T22:05:00.000Z,05 December 2025 - 10:05 PM,12.76,123.19,002,2.0,017km S 22° W of Claveria (Masbate),017,S 22° W,Claveria (Masbate)
 2025-12-05T22:01:00.000Z,05 December 2025 - 10:01 PM,09.55,126.27,033,1.4,029km S 25° E of General Luna (Surigao Del Norte),029,S 25° E,General Luna (Surigao Del Norte)

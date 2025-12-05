@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T23:02:00.000Z,05 December 2025 - 11:02 PM,11.52,124.36,007,2.3,006km S 42° W of Naval (Biliran),006,S 42° W,Naval (Biliran)
 2025-12-05T22:14:00.000Z,05 December 2025 - 10:14 PM,05.62,126.14,036,1.8,063km S 59° E of Jose Abad Santos (Davao Occidental),063,S 59° E,Jose Abad Santos (Davao Occidental)
 2025-12-05T22:05:00.000Z,05 December 2025 - 10:05 PM,12.76,123.19,002,2.0,017km S 22° W of Claveria (Masbate),017,S 22° W,Claveria (Masbate)
 2025-12-05T22:01:00.000Z,05 December 2025 - 10:01 PM,09.55,126.27,033,1.4,029km S 25° E of General Luna (Surigao Del Norte),029,S 25° E,General Luna (Surigao Del Norte)
@@ -31,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T00:33:00.000Z,05 December 2025 - 12:33 AM,12.72,123.24,020,2.6,020km S 02° W of Claveria (Masbate),020,S 02° W,Claveria (Masbate)
 2025-12-05T00:00:00.000Z,05 December 2025 - 12:00 AM,09.56,126.13,008,2.0,019km S 71° E of Socorro (Surigao Del Norte),019,S 71° E,Socorro (Surigao Del Norte)
 2025-12-04T23:18:00.000Z,04 December 2025 - 11:18 PM,12.80,123.10,032,1.9,019km S 55° W of Claveria (Masbate),019,S 55° W,Claveria (Masbate)
-2025-12-04T22:51:00.000Z,04 December 2025 - 10:51 PM,13.82,120.59,100,1.5,005km S 78° W of Calatagan (Batangas),005,S 78° W,Calatagan (Batangas)
