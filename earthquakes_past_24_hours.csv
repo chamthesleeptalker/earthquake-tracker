@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-05T19:21:00.000Z,05 December 2025 - 07:21 PM,17.54,120.60,001,3.1,003km S 19° E of Pidigan (Abra),003,S 19° E,Pidigan (Abra)
 2025-12-05T18:44:00.000Z,05 December 2025 - 06:44 PM,09.54,126.19,030,1.5,027km S 08° E of General Luna (Surigao Del Norte),027,S 08° E,General Luna (Surigao Del Norte)
 2025-12-05T17:36:00.000Z,05 December 2025 - 05:36 PM,10.88,123.95,002,2.1,018km S 09° W of City Of Bogo (Cebu),018,S 09° W,City Of Bogo (Cebu)
 2025-12-05T16:21:00.000Z,05 December 2025 - 04:21 PM,09.69,126.23,032,1.8,014km S 37° E of General Luna (Surigao Del Norte),014,S 37° E,General Luna (Surigao Del Norte)
