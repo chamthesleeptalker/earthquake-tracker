@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T21:12:00.000Z,06 December 2025 - 09:12 PM,06.65,126.14,008,2.4,008km S 84° E of Governor Generoso (Davao Oriental),008,S 84° E,Governor Generoso (Davao Oriental)
+2025-12-06T20:40:00.000Z,06 December 2025 - 08:40 PM,08.96,126.23,075,3.0,006km S 80° W of Bayabas (Surigao Del Sur),006,S 80° W,Bayabas (Surigao Del Sur)
 2025-12-06T20:00:00.000Z,06 December 2025 - 08:00 PM,08.40,127.40,031,2.7,116km N 70° E of Lingig (Surigao Del Sur),116,N 70° E,Lingig (Surigao Del Sur)
 2025-12-06T17:58:00.000Z,06 December 2025 - 05:58 PM,13.67,120.62,013,2.0,018km S 06° W of Calatagan (Batangas),018,S 06° W,Calatagan (Batangas)
 2025-12-06T17:31:00.000Z,06 December 2025 - 05:31 PM,09.66,126.01,034,1.6,006km N 47° E of Socorro (Surigao Del Norte),006,N 47° E,Socorro (Surigao Del Norte)

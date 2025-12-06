@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T21:12:00.000Z,06 December 2025 - 09:12 PM,06.65,126.14,008,2.4,008km S 84° E of Governor Generoso (Davao Oriental),008,S 84° E,Governor Generoso (Davao Oriental)
+2025-12-06T20:40:00.000Z,06 December 2025 - 08:40 PM,08.96,126.23,075,3.0,006km S 80° W of Bayabas (Surigao Del Sur),006,S 80° W,Bayabas (Surigao Del Sur)
 2025-12-06T20:00:00.000Z,06 December 2025 - 08:00 PM,08.40,127.40,031,2.7,116km N 70° E of Lingig (Surigao Del Sur),116,N 70° E,Lingig (Surigao Del Sur)
 2025-12-06T17:58:00.000Z,06 December 2025 - 05:58 PM,13.67,120.62,013,2.0,018km S 06° W of Calatagan (Batangas),018,S 06° W,Calatagan (Batangas)
 2025-12-06T17:31:00.000Z,06 December 2025 - 05:31 PM,09.66,126.01,034,1.6,006km N 47° E of Socorro (Surigao Del Norte),006,N 47° E,Socorro (Surigao Del Norte)
@@ -46,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T22:05:00.000Z,05 December 2025 - 10:05 PM,12.76,123.19,002,2.0,017km S 22° W of Claveria (Masbate),017,S 22° W,Claveria (Masbate)
 2025-12-05T22:01:00.000Z,05 December 2025 - 10:01 PM,09.55,126.27,033,1.4,029km S 25° E of General Luna (Surigao Del Norte),029,S 25° E,General Luna (Surigao Del Norte)
 2025-12-05T22:00:00.000Z,05 December 2025 - 10:00 PM,08.18,127.05,006,2.2,072km N 77° E of Lingig (Surigao Del Sur),072,N 77° E,Lingig (Surigao Del Sur)
-2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.75,120.97,017,1.6,010km N 22° E of Tinoc (Ifugao),010,N 22° E,Tinoc (Ifugao)
-2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.71,120.98,004,2.4,006km N 52° E of Tinoc (Ifugao),006,N 52° E,Tinoc (Ifugao)
-2025-12-05T20:43:00.000Z,05 December 2025 - 08:43 PM,07.37,126.70,016,2.6,025km N 46° E of Manay (Davao Oriental),025,N 46° E,Manay (Davao Oriental)
