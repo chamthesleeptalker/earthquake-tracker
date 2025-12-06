@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T10:25:00.000Z,06 December 2025 - 10:25 AM,10.89,123.94,004,2.0,018km S 14° W of City Of Bogo (Cebu),018,S 14° W,City Of Bogo (Cebu)
+2025-12-06T10:11:00.000Z,06 December 2025 - 10:11 AM,11.19,124.11,005,2.9,021km N 42° E of City Of Bogo (Cebu),021,N 42° E,City Of Bogo (Cebu)
+2025-12-06T09:52:00.000Z,06 December 2025 - 09:52 AM,17.07,120.40,023,2.7,006km S 75° W of Santa Cruz (Ilocos Sur),006,S 75° W,Santa Cruz (Ilocos Sur)
 2025-12-06T07:59:00.000Z,06 December 2025 - 07:59 AM,07.85,124.52,002,1.7,017km S 84° E of Lumba-bayabao (Lanao Del Sur),017,S 84° E,Lumba-bayabao (Lanao Del Sur)
 2025-12-06T07:58:00.000Z,06 December 2025 - 07:58 AM,07.22,126.75,153,2.0,023km S 60° E of Caraga (Davao Oriental),023,S 60° E,Caraga (Davao Oriental)
 2025-12-06T07:46:00.000Z,06 December 2025 - 07:46 AM,04.89,127.32,033,3.3,215km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),215,S 73° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -344,8 +347,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-29T11:39:00.000Z,29 November 2025 - 11:39 AM,06.28,126.50,120,2.3,061km S 52° E of Governor Generoso (Davao Oriental),061,S 52° E,Governor Generoso (Davao Oriental)
 2025-11-29T10:42:00.000Z,29 November 2025 - 10:42 AM,12.52,125.40,018,3.6,016km N 71° E of Mapanas (Northern Samar),016,N 71° E,Mapanas (Northern Samar)
 2025-11-29T10:39:00.000Z,29 November 2025 - 10:39 AM,14.05,120.48,097,1.9,017km S 82° W of Nasugbu (Batangas),017,S 82° W,Nasugbu (Batangas)
-2025-11-29T09:27:00.000Z,29 November 2025 - 09:27 AM,10.92,123.91,001,2.4,016km S 29° W of City Of Bogo (Cebu),016,S 29° W,City Of Bogo (Cebu)
-2025-11-29T09:14:00.000Z,29 November 2025 - 09:14 AM,18.12,120.90,002,1.8,008km S 76° E of Carasi (Ilocos Norte),008,S 76° E,Carasi (Ilocos Norte)
-2025-11-29T08:16:00.000Z,29 November 2025 - 08:16 AM,12.11,120.34,030,1.5,019km N 50° E of Coron (Palawan),019,N 50° E,Coron (Palawan)
-2025-11-29T08:11:00.000Z,29 November 2025 - 08:11 AM,12.04,120.44,027,1.8,026km N 79° E of Coron (Palawan),026,N 79° E,Coron (Palawan)
-2025-11-29T07:59:00.000Z,29 November 2025 - 07:59 AM,17.37,121.88,024,3.3,012km S 47° E of San Pablo (Isabela),012,S 47° E,San Pablo (Isabela)
