@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T04:59:00.000Z,07 December 2025 - 04:59 AM,11.31,124.44,033,1.5,007km N 85° E of Tabango (Leyte),007,N 85° E,Tabango (Leyte)
 2025-12-07T04:16:00.000Z,07 December 2025 - 04:16 AM,13.59,120.71,089,1.6,016km N 05° W of Abra De Ilog (Occidental Mindoro),016,N 05° W,Abra De Ilog (Occidental Mindoro)
 2025-12-07T04:14:00.000Z,07 December 2025 - 04:14 AM,15.63,120.13,035,1.4,022km N 89° E of Candelaria (Zambales),022,N 89° E,Candelaria (Zambales)
 2025-12-07T03:58:00.000Z,07 December 2025 - 03:58 AM,08.33,123.41,032,1.5,011km N 69° W of Sergio Osmeña Sr. (Zamboanga Del Norte),011,N 69° W,Sergio OsmeÃ±a Sr. (Zamboanga Del Norte)
@@ -329,6 +330,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T06:10:00.000Z,30 November 2025 - 06:10 AM,14.07,120.48,096,1.8,017km S 89° W of Nasugbu (Batangas),017,S 89° W,Nasugbu (Batangas)
 2025-11-30T06:09:00.000Z,30 November 2025 - 06:09 AM,09.69,126.18,011,2.6,011km S 17° E of General Luna (Surigao Del Norte),011,S 17° E,General Luna (Surigao Del Norte)
 2025-11-30T05:00:00.000Z,30 November 2025 - 05:00 AM,04.79,126.53,009,3.5,140km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),140,S 57° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-11-30T04:54:00.000Z,30 November 2025 - 04:54 AM,08.11,125.53,003,2.8,026km N 82° E of Cabanglasan (Bukidnon),026,N 82° E,Cabanglasan (Bukidnon)
-2025-11-30T04:35:00.000Z,30 November 2025 - 04:35 AM,06.48,126.34,027,1.8,035km S 57° E of Governor Generoso (Davao Oriental),035,S 57° E,Governor Generoso (Davao Oriental)
 2025-11-30T06:59:00.000Z,30 November 2025 - 06:59 AM,17.36,121.91,017,3.4,015km S 52° E of San Pablo (Isabela),015,S 52° E,San Pablo (Isabela)
