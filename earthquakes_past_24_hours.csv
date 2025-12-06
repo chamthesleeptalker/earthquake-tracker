@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T03:03:00.000Z,07 December 2025 - 03:03 AM,03.11,125.82,070,4.0,259km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),259,S 10° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-07T01:55:00.000Z,07 December 2025 - 01:55 AM,15.30,122.82,002,2.4,085km N 38° E of Jomalig (Quezon),085,N 38° E,Jomalig (Quezon)
 2025-12-07T01:09:00.000Z,07 December 2025 - 01:09 AM,08.97,126.48,024,2.4,021km N 74° E of Cagwait (Surigao Del Sur),021,N 74° E,Cagwait (Surigao Del Sur)
 2025-12-07T01:08:00.000Z,07 December 2025 - 01:08 AM,11.07,124.03,016,2.0,006km N 69° E of City Of Bogo (Cebu),006,N 69° E,City Of Bogo (Cebu)
@@ -38,10 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-06T03:40:00.000Z,06 December 2025 - 03:40 AM,07.89,124.56,001,2.4,018km N 48° W of Amai Manabilang (Lanao Del Sur),018,N 48° W,Amai Manabilang (Lanao Del Sur)
 2025-12-06T03:37:00.000Z,06 December 2025 - 03:37 AM,18.03,120.73,010,4.5,005km S 75° E of Marcos (Ilocos Norte),005,S 75° E,Marcos (Ilocos Norte)
 2025-12-06T03:08:00.000Z,06 December 2025 - 03:08 AM,11.12,123.76,030,1.6,025km N 72° W of City Of Bogo (Cebu),025,N 72° W,City Of Bogo (Cebu)
-2025-12-06T02:57:00.000Z,06 December 2025 - 02:57 AM,10.91,123.82,002,3.6,023km S 49° W of City Of Bogo (Cebu),023,S 49° W,City Of Bogo (Cebu)
-2025-12-06T02:43:00.000Z,06 December 2025 - 02:43 AM,07.96,127.01,008,2.9,066km N 49° E of Baganga (Davao Oriental),066,N 49° E,Baganga (Davao Oriental)
-2025-12-06T02:31:00.000Z,06 December 2025 - 02:31 AM,10.93,123.83,002,3.8,021km S 53° W of City Of Bogo (Cebu),021,S 53° W,City Of Bogo (Cebu)
-2025-12-06T02:19:00.000Z,06 December 2025 - 02:19 AM,07.95,127.19,015,3.5,081km N 59° E of Baganga (Davao Oriental),081,N 59° E,Baganga (Davao Oriental)
-2025-12-06T02:11:00.000Z,06 December 2025 - 02:11 AM,18.33,120.93,006,2.0,015km N 54° W of Calanasan (Apayao),015,N 54° W,Calanasan (Apayao)
-2025-12-06T02:06:00.000Z,06 December 2025 - 02:06 AM,07.28,126.79,008,2.2,029km N 75° E of Manay (Davao Oriental),029,N 75° E,Manay (Davao Oriental)
-2025-12-06T02:05:00.000Z,06 December 2025 - 02:05 AM,09.05,126.61,018,2.2,037km N 66° E of Cagwait (Surigao Del Sur),037,N 66° E,Cagwait (Surigao Del Sur)
