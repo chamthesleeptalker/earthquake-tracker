@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-06T23:59:00.000Z,06 December 2025 - 11:59 PM,06.36,124.00,006,1.8,022km S 16° W of Kalamansig (Sultan Kudarat),022,S 16° W,Kalamansig (Sultan Kudarat)
+2025-12-06T23:48:00.000Z,06 December 2025 - 11:48 PM,13.04,121.16,005,3.3,019km S 42° W of Victoria (Oriental Mindoro),019,S 42° W,Victoria (Oriental Mindoro)
+2025-12-06T23:46:00.000Z,06 December 2025 - 11:46 PM,06.41,125.57,002,2.4,005km S 86° W of Malita (Davao Occidental),005,S 86° W,Malita (Davao Occidental)
+2025-12-06T23:39:00.000Z,06 December 2025 - 11:39 PM,18.30,120.11,017,3.2,050km N 52° W of Currimao (Ilocos Norte),050,N 52° W,Currimao (Ilocos Norte)
+2025-12-06T23:18:00.000Z,06 December 2025 - 11:18 PM,17.41,120.21,031,1.8,024km S 50° W of Caoayan (Ilocos Sur),024,S 50° W,Caoayan (Ilocos Sur)
 2025-12-06T22:40:00.000Z,06 December 2025 - 10:40 PM,07.60,127.24,025,2.3,075km N 88° E of Baganga (Davao Oriental),075,N 88° E,Baganga (Davao Oriental)
 2025-12-06T22:36:00.000Z,06 December 2025 - 10:36 PM,06.28,124.69,004,3.8,006km N 18° W of Lake Sebu (South Cotabato),006,N 18° W,Lake Sebu (South Cotabato)
 2025-12-06T21:25:00.000Z,06 December 2025 - 09:25 PM,11.23,124.20,008,2.5,028km N 66° E of Medellin (Cebu),028,N 66° E,Medellin (Cebu)
