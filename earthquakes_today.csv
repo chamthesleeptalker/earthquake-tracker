@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T04:16:00.000Z,07 December 2025 - 04:16 AM,13.59,120.71,089,1.6,016km N 05° W of Abra De Ilog (Occidental Mindoro),016,N 05° W,Abra De Ilog (Occidental Mindoro)
+2025-12-07T04:14:00.000Z,07 December 2025 - 04:14 AM,15.63,120.13,035,1.4,022km N 89° E of Candelaria (Zambales),022,N 89° E,Candelaria (Zambales)
+2025-12-07T03:58:00.000Z,07 December 2025 - 03:58 AM,08.33,123.41,032,1.5,011km N 69° W of Sergio Osmeña Sr. (Zamboanga Del Norte),011,N 69° W,Sergio OsmeÃ±a Sr. (Zamboanga Del Norte)
 2025-12-07T03:39:00.000Z,07 December 2025 - 03:39 AM,10.13,124.92,020,1.9,006km N 25° W of Macrohon (Southern Leyte),006,N 25° W,Macrohon (Southern Leyte)
 2025-12-07T03:20:00.000Z,07 December 2025 - 03:20 AM,18.00,121.52,053,2.6,011km S 52° W of Lasam (Cagayan),011,S 52° W,Lasam (Cagayan)
 2025-12-07T03:03:00.000Z,07 December 2025 - 03:03 AM,03.11,125.82,070,4.0,259km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),259,S 10° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
