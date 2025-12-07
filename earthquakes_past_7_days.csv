@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T16:50:00.000Z,07 December 2025 - 04:50 PM,13.04,123.21,033,1.6,015km N 14° W of Claveria (Masbate),015,N 14° W,Claveria (Masbate)
+2025-12-07T16:47:00.000Z,07 December 2025 - 04:47 PM,05.82,125.95,135,2.5,036km S 74° E of Jose Abad Santos (Davao Occidental),036,S 74° E,Jose Abad Santos (Davao Occidental)
 2025-12-07T15:52:00.000Z,07 December 2025 - 03:52 PM,13.77,120.61,088,1.5,007km S 17° W of Calatagan (Batangas),007,S 17° W,Calatagan (Batangas)
 2025-12-07T15:51:00.000Z,07 December 2025 - 03:51 PM,06.73,125.23,033,2.1,003km N 29° E of Matanao (Davao Del Sur),003,N 29° E,Matanao (Davao Del Sur)
 2025-12-07T15:45:00.000Z,07 December 2025 - 03:45 PM,09.59,122.47,013,2.6,002km S 21° E of Hinoba-an (Negros Occidental),002,S 21° E,Hinoba-an (Negros Occidental)
@@ -319,4 +321,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T18:55:00.000Z,30 November 2025 - 06:55 PM,10.10,125.70,122,2.3,012km N 72° E of Basilisa (Dinagat Islands),012,N 72° E,Basilisa (Dinagat Islands)
 2025-11-30T18:39:00.000Z,30 November 2025 - 06:39 PM,09.53,126.00,054,2.5,010km S 23° E of Socorro (Surigao Del Norte),010,S 23° E,Socorro (Surigao Del Norte)
 2025-11-30T18:21:00.000Z,30 November 2025 - 06:21 PM,11.11,124.06,019,2.5,011km N 53° E of City Of Bogo (Cebu),011,N 53° E,City Of Bogo (Cebu)
-2025-11-30T16:25:00.000Z,30 November 2025 - 04:25 PM,18.82,121.43,022,1.8,007km S 63° E of Fuga Island (Aparri) (Cagayan),007,S 63° E,Fuga Island (Aparri) (Cagayan)
