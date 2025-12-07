@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T22:52:00.000Z,07 December 2025 - 10:52 PM,11.25,124.13,004,1.5,027km N 36° E of City Of Bogo (Cebu),027,N 36° E,City Of Bogo (Cebu)
+2025-12-07T22:42:00.000Z,07 December 2025 - 10:42 PM,11.15,124.13,009,2.0,021km N 55° E of City Of Bogo (Cebu),021,N 55° E,City Of Bogo (Cebu)
+2025-12-07T22:30:00.000Z,07 December 2025 - 10:30 PM,10.54,125.66,023,2.7,021km N 24° E of Loreto (Dinagat Islands),021,N 24° E,Loreto (Dinagat Islands)
 2025-12-07T22:01:00.000Z,07 December 2025 - 10:01 PM,08.58,126.21,154,2.8,014km S 67° E of Lianga (Surigao Del Sur),014,S 67° E,Lianga (Surigao Del Sur)
 2025-12-07T21:22:00.000Z,07 December 2025 - 09:22 PM,09.52,122.37,013,2.9,014km S 50° W of Hinoba-an (Negros Occidental),014,S 50° W,Hinoba-an (Negros Occidental)
 2025-12-07T20:11:00.000Z,07 December 2025 - 08:11 PM,11.02,123.95,002,2.8,004km S 44° W of City Of Bogo (Cebu),004,S 44° W,City Of Bogo (Cebu)
@@ -316,6 +319,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T23:07:00.000Z,30 November 2025 - 11:07 PM,08.73,122.63,015,3.1,054km N 54° W of Jose Dalman (Zamboanga Del Norte),054,N 54° W,Jose Dalman (Zamboanga Del Norte)
 2025-11-30T23:06:00.000Z,30 November 2025 - 11:06 PM,12.74,124.35,008,2.4,006km N 14° W of Biri (Northern Samar),006,N 14° W,Biri (Northern Samar)
 2025-11-30T22:57:00.000Z,30 November 2025 - 10:57 PM,11.18,123.90,004,3.4,017km N 32° W of City Of Bogo (Cebu),017,N 32° W,City Of Bogo (Cebu)
-2025-11-30T22:35:00.000Z,30 November 2025 - 10:35 PM,12.56,125.41,019,2.3,019km N 62° E of Mapanas (Northern Samar),019,N 62° E,Mapanas (Northern Samar)
-2025-11-30T22:34:00.000Z,30 November 2025 - 10:34 PM,06.25,126.26,032,1.6,049km S 26° E of Governor Generoso (Davao Oriental),049,S 26° E,Governor Generoso (Davao Oriental)
-2025-11-30T22:07:00.000Z,30 November 2025 - 10:07 PM,09.78,125.48,026,1.8,002km S 49° W of City Of Surigao (Surigao Del Norte),002,S 49° W,City Of Surigao (Surigao Del Norte)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T22:52:00.000Z,07 December 2025 - 10:52 PM,11.25,124.13,004,1.5,027km N 36° E of City Of Bogo (Cebu),027,N 36° E,City Of Bogo (Cebu)
+2025-12-07T22:42:00.000Z,07 December 2025 - 10:42 PM,11.15,124.13,009,2.0,021km N 55° E of City Of Bogo (Cebu),021,N 55° E,City Of Bogo (Cebu)
+2025-12-07T22:30:00.000Z,07 December 2025 - 10:30 PM,10.54,125.66,023,2.7,021km N 24° E of Loreto (Dinagat Islands),021,N 24° E,Loreto (Dinagat Islands)
 2025-12-07T22:01:00.000Z,07 December 2025 - 10:01 PM,08.58,126.21,154,2.8,014km S 67° E of Lianga (Surigao Del Sur),014,S 67° E,Lianga (Surigao Del Sur)
 2025-12-07T21:22:00.000Z,07 December 2025 - 09:22 PM,09.52,122.37,013,2.9,014km S 50° W of Hinoba-an (Negros Occidental),014,S 50° W,Hinoba-an (Negros Occidental)
 2025-12-07T20:11:00.000Z,07 December 2025 - 08:11 PM,11.02,123.95,002,2.8,004km S 44° W of City Of Bogo (Cebu),004,S 44° W,City Of Bogo (Cebu)
