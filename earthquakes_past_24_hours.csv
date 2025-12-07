@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T08:05:00.000Z,07 December 2025 - 08:05 AM,08.86,126.27,031,1.9,008km S 29° W of Cagwait (Surigao Del Sur),008,S 29° W,Cagwait (Surigao Del Sur)
 2025-12-07T04:59:00.000Z,07 December 2025 - 04:59 AM,11.31,124.44,033,1.5,007km N 85° E of Tabango (Leyte),007,N 85° E,Tabango (Leyte)
 2025-12-07T04:16:00.000Z,07 December 2025 - 04:16 AM,13.59,120.71,089,1.6,016km N 05° W of Abra De Ilog (Occidental Mindoro),016,N 05° W,Abra De Ilog (Occidental Mindoro)
 2025-12-07T04:14:00.000Z,07 December 2025 - 04:14 AM,15.63,120.13,035,1.4,022km N 89° E of Candelaria (Zambales),022,N 89° E,Candelaria (Zambales)
@@ -30,10 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-06T10:25:00.000Z,06 December 2025 - 10:25 AM,10.89,123.94,004,2.0,018km S 14° W of City Of Bogo (Cebu),018,S 14° W,City Of Bogo (Cebu)
 2025-12-06T10:11:00.000Z,06 December 2025 - 10:11 AM,11.19,124.11,005,2.9,021km N 42° E of City Of Bogo (Cebu),021,N 42° E,City Of Bogo (Cebu)
 2025-12-06T09:52:00.000Z,06 December 2025 - 09:52 AM,17.07,120.40,023,2.7,006km S 75° W of Santa Cruz (Ilocos Sur),006,S 75° W,Santa Cruz (Ilocos Sur)
-2025-12-06T07:59:00.000Z,06 December 2025 - 07:59 AM,07.85,124.52,002,1.7,017km S 84° E of Lumba-bayabao (Lanao Del Sur),017,S 84° E,Lumba-bayabao (Lanao Del Sur)
-2025-12-06T07:58:00.000Z,06 December 2025 - 07:58 AM,07.22,126.75,153,2.0,023km S 60° E of Caraga (Davao Oriental),023,S 60° E,Caraga (Davao Oriental)
-2025-12-06T07:46:00.000Z,06 December 2025 - 07:46 AM,04.89,127.32,033,3.3,215km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),215,S 73° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-06T07:35:00.000Z,06 December 2025 - 07:35 AM,11.12,123.89,007,2.3,012km N 48° W of City Of Bogo (Cebu),012,N 48° W,City Of Bogo (Cebu)
-2025-12-06T06:23:00.000Z,06 December 2025 - 06:23 AM,09.08,122.59,046,2.9,037km S 08° W of Basay (Negros Oriental),037,S 08° W,Basay (Negros Oriental)
-2025-12-06T06:06:00.000Z,06 December 2025 - 06:06 AM,10.89,123.94,002,2.1,018km S 12° W of City Of Bogo (Cebu),018,S 12° W,City Of Bogo (Cebu)
-2025-12-06T05:24:00.000Z,06 December 2025 - 05:24 AM,09.61,122.36,035,3.2,012km N 85° W of Hinoba-an (Negros Occidental),012,N 85° W,Hinoba-an (Negros Occidental)
