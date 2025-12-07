@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T17:39:00.000Z,07 December 2025 - 05:39 PM,08.14,126.87,025,3.4,052km N 77° E of Lingig (Surigao Del Sur),052,N 77° E,Lingig (Surigao Del Sur)
 2025-12-07T17:18:00.000Z,07 December 2025 - 05:18 PM,05.22,127.42,132,2.9,211km S 69° E of Jose Abad Santos (Davao Occidental),211,S 69° E,Jose Abad Santos (Davao Occidental)
 2025-12-07T16:50:00.000Z,07 December 2025 - 04:50 PM,13.04,123.21,033,1.6,015km N 14° W of Claveria (Masbate),015,N 14° W,Claveria (Masbate)
 2025-12-07T16:47:00.000Z,07 December 2025 - 04:47 PM,05.82,125.95,135,2.5,036km S 74° E of Jose Abad Santos (Davao Occidental),036,S 74° E,Jose Abad Santos (Davao Occidental)
@@ -41,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-06T20:40:00.000Z,06 December 2025 - 08:40 PM,08.96,126.23,075,3.0,006km S 80° W of Bayabas (Surigao Del Sur),006,S 80° W,Bayabas (Surigao Del Sur)
 2025-12-06T20:00:00.000Z,06 December 2025 - 08:00 PM,08.40,127.40,031,2.7,116km N 70° E of Lingig (Surigao Del Sur),116,N 70° E,Lingig (Surigao Del Sur)
 2025-12-06T17:58:00.000Z,06 December 2025 - 05:58 PM,13.67,120.62,013,2.0,018km S 06° W of Calatagan (Batangas),018,S 06° W,Calatagan (Batangas)
-2025-12-06T17:31:00.000Z,06 December 2025 - 05:31 PM,09.66,126.01,034,1.6,006km N 47° E of Socorro (Surigao Del Norte),006,N 47° E,Socorro (Surigao Del Norte)
