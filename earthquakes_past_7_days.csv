@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T06:14:00.000Z,08 December 2025 - 06:14 AM,17.86,120.28,030,3.1,018km S 88° W of Sinait (Ilocos Sur),018,S 88° W,Sinait (Ilocos Sur)
 2025-12-08T04:48:00.000Z,08 December 2025 - 04:48 AM,05.83,127.28,022,2.9,162km S 56° E of Governor Generoso (Davao Oriental),162,S 56° E,Governor Generoso (Davao Oriental)
 2025-12-08T04:47:00.000Z,08 December 2025 - 04:47 AM,05.85,127.24,005,3.2,157km S 55° E of Governor Generoso (Davao Oriental),157,S 55° E,Governor Generoso (Davao Oriental)
 2025-12-08T03:31:00.000Z,08 December 2025 - 03:31 AM,17.39,120.60,004,3.1,003km S 16° E of Pilar (Abra),003,S 16° E,Pilar (Abra)
@@ -308,5 +309,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T06:34:00.000Z,01 December 2025 - 06:34 AM,06.94,124.96,001,2.6,009km S 84° E of M'lang (Cotabato),009,S 84° E,M'lang (Cotabato)
 2025-12-01T06:22:00.000Z,01 December 2025 - 06:22 AM,11.07,124.12,002,2.4,016km N 81° E of City Of Bogo (Cebu),016,N 81° E,City Of Bogo (Cebu)
 2025-12-01T06:16:00.000Z,01 December 2025 - 06:16 AM,08.43,122.72,034,1.9,034km S 88° W of Jose Dalman (Zamboanga Del Norte),034,S 88° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-01T05:36:00.000Z,01 December 2025 - 05:36 AM,18.73,120.98,037,2.5,017km N 40° W of Claveria (Cagayan),017,N 40° W,Claveria (Cagayan)
-2025-12-01T05:29:00.000Z,01 December 2025 - 05:29 AM,06.56,126.00,036,2.7,013km S 38° W of Governor Generoso (Davao Oriental),013,S 38° W,Governor Generoso (Davao Oriental)
