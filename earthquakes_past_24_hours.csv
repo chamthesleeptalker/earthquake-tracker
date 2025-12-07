@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T01:21:00.000Z,08 December 2025 - 01:21 AM,05.69,126.68,024,2.9,117km S 78° E of Jose Abad Santos (Davao Occidental),117,S 78° E,Jose Abad Santos (Davao Occidental)
+2025-12-08T01:20:00.000Z,08 December 2025 - 01:20 AM,07.91,125.04,033,1.5,005km N 76° W of City Of Valencia (Bukidnon),005,N 76° W,City Of Valencia (Bukidnon)
+2025-12-08T01:12:00.000Z,08 December 2025 - 01:12 AM,12.45,123.40,022,1.6,007km S 03° W of Aroroy (Masbate),007,S 03° W,Aroroy (Masbate)
+2025-12-08T01:12:00.000Z,08 December 2025 - 01:12 AM,11.85,125.67,009,2.7,024km N 81° E of Sulat (Eastern Samar),024,N 81° E,Sulat (Eastern Samar)
 2025-12-08T00:27:00.000Z,08 December 2025 - 12:27 AM,08.81,126.63,021,1.9,038km S 72° E of Cagwait (Surigao Del Sur),038,S 72° E,Cagwait (Surigao Del Sur)
 2025-12-07T23:22:00.000Z,07 December 2025 - 11:22 PM,06.29,124.21,045,2.8,009km N 14° E of Palimbang (Sultan Kudarat),009,N 14° E,Palimbang (Sultan Kudarat)
 2025-12-07T22:52:00.000Z,07 December 2025 - 10:52 PM,11.25,124.13,004,1.5,027km N 36° E of City Of Bogo (Cebu),027,N 36° E,City Of Bogo (Cebu)
@@ -39,7 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-07T03:20:00.000Z,07 December 2025 - 03:20 AM,18.00,121.52,053,2.6,011km S 52° W of Lasam (Cagayan),011,S 52° W,Lasam (Cagayan)
 2025-12-07T03:03:00.000Z,07 December 2025 - 03:03 AM,03.11,125.82,070,4.0,259km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),259,S 10° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-07T01:55:00.000Z,07 December 2025 - 01:55 AM,15.30,122.82,002,2.4,085km N 38° E of Jomalig (Quezon),085,N 38° E,Jomalig (Quezon)
-2025-12-07T01:09:00.000Z,07 December 2025 - 01:09 AM,08.97,126.48,024,2.4,021km N 74° E of Cagwait (Surigao Del Sur),021,N 74° E,Cagwait (Surigao Del Sur)
-2025-12-07T01:08:00.000Z,07 December 2025 - 01:08 AM,11.07,124.03,016,2.0,006km N 69° E of City Of Bogo (Cebu),006,N 69° E,City Of Bogo (Cebu)
-2025-12-07T00:33:00.000Z,07 December 2025 - 12:33 AM,13.12,121.46,034,2.4,003km S 35° E of Pola (Oriental Mindoro),003,S 35° E,Pola (Oriental Mindoro)
-2025-12-07T00:27:00.000Z,07 December 2025 - 12:27 AM,09.64,126.18,032,1.8,016km S 10° E of General Luna (Surigao Del Norte),016,S 10° E,General Luna (Surigao Del Norte)
