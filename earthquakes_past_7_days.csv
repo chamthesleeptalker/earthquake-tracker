@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T03:05:00.000Z,08 December 2025 - 03:05 AM,09.67,126.11,008,1.9,011km S 32° E of Dapa (Surigao Del Norte),011,S 32° E,Dapa (Surigao Del Norte)
 2025-12-08T02:00:00.000Z,08 December 2025 - 02:00 AM,11.24,124.61,007,3.0,007km S 33° W of Capoocan (Leyte),007,S 33° W,Capoocan (Leyte)
 2025-12-08T01:50:00.000Z,08 December 2025 - 01:50 AM,09.41,122.31,010,2.4,027km S 39° W of Hinoba-an (Negros Occidental),027,S 39° W,Hinoba-an (Negros Occidental)
 2025-12-08T01:49:00.000Z,08 December 2025 - 01:49 AM,12.18,125.11,033,2.3,015km N 83° W of Maslog (Eastern Samar),015,N 83° W,Maslog (Eastern Samar)
@@ -265,7 +266,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T22:43:00.000Z,01 December 2025 - 10:43 PM,09.57,126.07,008,2.2,025km S 21° W of General Luna (Surigao Del Norte),025,S 21° W,General Luna (Surigao Del Norte)
 2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,11.08,123.92,033,1.5,007km N 62° W of City Of Bogo (Cebu),007,N 62° W,City Of Bogo (Cebu)
 2025-12-01T22:06:00.000Z,01 December 2025 - 10:06 PM,08.77,122.66,005,2.0,054km N 47° W of Jose Dalman (Zamboanga Del Norte),054,N 47° W,Jose Dalman (Zamboanga Del Norte)
-2025-12-01T02:27:00.000Z,01 December 2025 - 02:27 AM,08.14,126.59,025,2.7,023km N 61° E of Lingig (Surigao Del Sur),023,N 61° E,Lingig (Surigao Del Sur)
 2025-12-01T21:54:00.000Z,01 December 2025 - 09:54 PM,08.80,122.63,015,3.2,059km N 48° W of Jose Dalman (Zamboanga Del Norte),059,N 48° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T21:50:00.000Z,01 December 2025 - 09:50 PM,13.58,120.94,033,1.4,009km N 14° W of Puerto Galera (Oriental Mindoro),009,N 14° W,Puerto Galera (Oriental Mindoro)
 2025-12-01T21:39:00.000Z,01 December 2025 - 09:39 PM,07.72,126.41,018,1.3,009km S 32° W of Cateel (Davao Oriental),009,S 32° W,Cateel (Davao Oriental)
@@ -313,9 +313,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T03:50:00.000Z,01 December 2025 - 03:50 AM,13.64,120.37,036,1.5,016km S 56° E of Looc (Occidental Mindoro),016,S 56° E,Looc (Occidental Mindoro)
 2025-12-01T03:19:00.000Z,01 December 2025 - 03:19 AM,07.29,127.08,008,1.9,060km N 82° E of Manay (Davao Oriental),060,N 82° E,Manay (Davao Oriental)
 2025-12-01T03:10:00.000Z,01 December 2025 - 03:10 AM,09.71,126.15,024,3.5,008km S 05° W of General Luna (Surigao Del Norte),008,S 05° W,General Luna (Surigao Del Norte)
-2025-12-01T02:47:00.000Z,01 December 2025 - 02:47 AM,13.59,120.16,026,2.3,018km S 34° W of Looc (Occidental Mindoro),018,S 34° W,Looc (Occidental Mindoro)
-2025-12-01T02:44:00.000Z,01 December 2025 - 02:44 AM,07.29,126.80,010,2.8,031km N 73° E of Manay (Davao Oriental),031,N 73° E,Manay (Davao Oriental)
-2025-12-01T02:26:00.000Z,01 December 2025 - 02:26 AM,08.17,126.84,035,2.8,049km N 73° E of Lingig (Surigao Del Sur),049,N 73° E,Lingig (Surigao Del Sur)
-2025-12-01T02:24:00.000Z,01 December 2025 - 02:24 AM,11.19,124.14,006,1.7,024km N 46° E of City Of Bogo (Cebu),024,N 46° E,City Of Bogo (Cebu)
-2025-12-01T02:24:00.000Z,01 December 2025 - 02:24 AM,13.80,120.60,087,1.4,005km S 37° W of Calatagan (Batangas),005,S 37° W,Calatagan (Batangas)
-2025-12-01T02:21:00.000Z,01 December 2025 - 02:21 AM,10.92,123.94,006,2.3,015km S 18° W of City Of Bogo (Cebu),015,S 18° W,City Of Bogo (Cebu)
