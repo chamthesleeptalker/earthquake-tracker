@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T14:33:00.000Z,07 December 2025 - 02:33 PM,13.49,120.27,021,1.7,023km N 69° W of Paluan (Occidental Mindoro),023,N 69° W,Paluan (Occidental Mindoro)
 2025-12-07T13:43:00.000Z,07 December 2025 - 01:43 PM,10.06,125.66,117,1.9,007km S 87° E of Basilisa (Dinagat Islands),007,S 87° E,Basilisa (Dinagat Islands)
 2025-12-07T13:30:00.000Z,07 December 2025 - 01:30 PM,09.69,126.19,025,2.1,011km S 19° E of General Luna (Surigao Del Norte),011,S 19° E,General Luna (Surigao Del Norte)
 2025-12-07T12:52:00.000Z,07 December 2025 - 12:52 PM,08.68,126.77,019,1.8,054km S 76° E of Marihatag (Surigao Del Sur),054,S 76° E,Marihatag (Surigao Del Sur)
@@ -33,4 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-06T17:58:00.000Z,06 December 2025 - 05:58 PM,13.67,120.62,013,2.0,018km S 06° W of Calatagan (Batangas),018,S 06° W,Calatagan (Batangas)
 2025-12-06T17:31:00.000Z,06 December 2025 - 05:31 PM,09.66,126.01,034,1.6,006km N 47° E of Socorro (Surigao Del Norte),006,N 47° E,Socorro (Surigao Del Norte)
 2025-12-06T16:26:00.000Z,06 December 2025 - 04:26 PM,08.84,126.69,012,2.8,043km S 78° E of Cagwait (Surigao Del Sur),043,S 78° E,Cagwait (Surigao Del Sur)
-2025-12-06T13:55:00.000Z,06 December 2025 - 01:55 PM,11.16,124.11,004,3.0,019km N 48° E of City Of Bogo (Cebu),019,N 48° E,City Of Bogo (Cebu)
