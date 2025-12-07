@@ -1,6 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T02:00:00.000Z,08 December 2025 - 02:00 AM,11.24,124.61,007,3.0,007km S 33° W of Capoocan (Leyte),007,S 33° W,Capoocan (Leyte)
+2025-12-08T01:50:00.000Z,08 December 2025 - 01:50 AM,09.41,122.31,010,2.4,027km S 39° W of Hinoba-an (Negros Occidental),027,S 39° W,Hinoba-an (Negros Occidental)
+2025-12-08T01:49:00.000Z,08 December 2025 - 01:49 AM,12.18,125.11,033,2.3,015km N 83° W of Maslog (Eastern Samar),015,N 83° W,Maslog (Eastern Samar)
+2025-12-08T01:48:00.000Z,08 December 2025 - 01:48 AM,15.42,121.80,005,2.2,044km N 86° E of Dingalan (Aurora),044,N 86° E,Dingalan (Aurora)
 2025-12-08T01:21:00.000Z,08 December 2025 - 01:21 AM,05.69,126.68,024,2.9,117km S 78° E of Jose Abad Santos (Davao Occidental),117,S 78° E,Jose Abad Santos (Davao Occidental)
 2025-12-08T01:20:00.000Z,08 December 2025 - 01:20 AM,07.91,125.04,033,1.5,005km N 76° W of City Of Valencia (Bukidnon),005,N 76° W,City Of Valencia (Bukidnon)
 2025-12-08T01:12:00.000Z,08 December 2025 - 01:12 AM,12.45,123.40,022,1.6,007km S 03° W of Aroroy (Masbate),007,S 03° W,Aroroy (Masbate)
 2025-12-08T01:12:00.000Z,08 December 2025 - 01:12 AM,11.85,125.67,009,2.7,024km N 81° E of Sulat (Eastern Samar),024,N 81° E,Sulat (Eastern Samar)
-2025-12-08T00:27:00.000Z,08 December 2025 - 12:27 AM,08.81,126.63,021,1.9,038km S 72° E of Cagwait (Surigao Del Sur),038,S 72° E,Cagwait (Surigao Del Sur)
