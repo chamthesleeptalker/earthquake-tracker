@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-07T10:44:00.000Z,07 December 2025 - 10:44 AM,11.12,124.03,033,1.5,010km N 31° E of City Of Bogo (Cebu),010,N 31° E,City Of Bogo (Cebu)
+2025-12-07T10:34:00.000Z,07 December 2025 - 10:34 AM,13.71,120.26,016,2.0,002km S 58° E of Looc (Occidental Mindoro),002,S 58° E,Looc (Occidental Mindoro)
+2025-12-07T10:12:00.000Z,07 December 2025 - 10:12 AM,11.00,123.98,005,2.7,006km S 06° E of City Of Bogo (Cebu),006,S 06° E,City Of Bogo (Cebu)
 2025-12-07T08:05:00.000Z,07 December 2025 - 08:05 AM,08.86,126.27,031,1.9,008km S 29° W of Cagwait (Surigao Del Sur),008,S 29° W,Cagwait (Surigao Del Sur)
 2025-12-07T04:59:00.000Z,07 December 2025 - 04:59 AM,11.31,124.44,033,1.5,007km N 85° E of Tabango (Leyte),007,N 85° E,Tabango (Leyte)
 2025-12-07T04:16:00.000Z,07 December 2025 - 04:16 AM,13.59,120.71,089,1.6,016km N 05° W of Abra De Ilog (Occidental Mindoro),016,N 05° W,Abra De Ilog (Occidental Mindoro)
@@ -324,6 +327,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-11-30T11:59:00.000Z,30 November 2025 - 11:59 AM,05.73,125.38,019,2.6,022km S 63° E of Glan (Sarangani),022,S 63° E,Glan (Sarangani)
 2025-11-30T11:26:00.000Z,30 November 2025 - 11:26 AM,14.33,124.00,002,2.7,036km N 30° W of Pandan (Catanduanes),036,N 30° W,Pandan (Catanduanes)
 2025-11-30T11:00:00.000Z,30 November 2025 - 11:00 AM,08.94,126.36,032,2.5,007km N 67° E of Cagwait (Surigao Del Sur),007,N 67° E,Cagwait (Surigao Del Sur)
-2025-11-30T09:21:00.000Z,30 November 2025 - 09:21 AM,10.82,123.90,010,2.3,026km S 20° W of City Of Bogo (Cebu),026,S 20° W,City Of Bogo (Cebu)
-2025-11-30T09:16:00.000Z,30 November 2025 - 09:16 AM,08.98,126.43,029,2.4,016km N 66° E of Cagwait (Surigao Del Sur),016,N 66° E,Cagwait (Surigao Del Sur)
-2025-11-30T08:57:00.000Z,30 November 2025 - 08:57 AM,09.11,126.44,019,2.4,026km N 36° E of Cagwait (Surigao Del Sur),026,N 36° E,Cagwait (Surigao Del Sur)
