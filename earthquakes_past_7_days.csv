@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T04:48:00.000Z,08 December 2025 - 04:48 AM,05.83,127.28,022,2.9,162km S 56° E of Governor Generoso (Davao Oriental),162,S 56° E,Governor Generoso (Davao Oriental)
+2025-12-08T04:47:00.000Z,08 December 2025 - 04:47 AM,05.85,127.24,005,3.2,157km S 55° E of Governor Generoso (Davao Oriental),157,S 55° E,Governor Generoso (Davao Oriental)
 2025-12-08T03:31:00.000Z,08 December 2025 - 03:31 AM,17.39,120.60,004,3.1,003km S 16° E of Pilar (Abra),003,S 16° E,Pilar (Abra)
 2025-12-08T03:14:00.000Z,08 December 2025 - 03:14 AM,10.06,126.03,028,1.8,005km N 06° W of Santa Monica (Surigao Del Norte),005,N 06° W,Santa Monica (Surigao Del Norte)
 2025-12-08T03:05:00.000Z,08 December 2025 - 03:05 AM,09.67,126.11,008,1.9,011km S 32° E of Dapa (Surigao Del Norte),011,S 32° E,Dapa (Surigao Del Norte)
@@ -308,8 +310,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T06:16:00.000Z,01 December 2025 - 06:16 AM,08.43,122.72,034,1.9,034km S 88° W of Jose Dalman (Zamboanga Del Norte),034,S 88° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T05:36:00.000Z,01 December 2025 - 05:36 AM,18.73,120.98,037,2.5,017km N 40° W of Claveria (Cagayan),017,N 40° W,Claveria (Cagayan)
 2025-12-01T05:29:00.000Z,01 December 2025 - 05:29 AM,06.56,126.00,036,2.7,013km S 38° W of Governor Generoso (Davao Oriental),013,S 38° W,Governor Generoso (Davao Oriental)
-2025-12-01T04:26:00.000Z,01 December 2025 - 04:26 AM,10.98,123.99,001,2.0,007km S 11° E of City Of Bogo (Cebu),007,S 11° E,City Of Bogo (Cebu)
-2025-12-01T04:18:00.000Z,01 December 2025 - 04:18 AM,05.93,125.91,037,3.1,029km N 87° E of Jose Abad Santos (Davao Occidental),029,N 87° E,Jose Abad Santos (Davao Occidental)
-2025-12-01T04:14:00.000Z,01 December 2025 - 04:14 AM,09.58,125.97,001,2.3,004km S 06° E of Socorro (Surigao Del Norte),004,S 06° E,Socorro (Surigao Del Norte)
-2025-12-01T04:13:00.000Z,01 December 2025 - 04:13 AM,13.45,120.58,021,1.5,013km N 72° E of Paluan (Occidental Mindoro),013,N 72° E,Paluan (Occidental Mindoro)
-2025-12-01T03:50:00.000Z,01 December 2025 - 03:50 AM,13.64,120.37,036,1.5,016km S 56° E of Looc (Occidental Mindoro),016,S 56° E,Looc (Occidental Mindoro)

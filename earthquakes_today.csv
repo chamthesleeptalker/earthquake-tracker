@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T04:48:00.000Z,08 December 2025 - 04:48 AM,05.83,127.28,022,2.9,162km S 56° E of Governor Generoso (Davao Oriental),162,S 56° E,Governor Generoso (Davao Oriental)
+2025-12-08T04:47:00.000Z,08 December 2025 - 04:47 AM,05.85,127.24,005,3.2,157km S 55° E of Governor Generoso (Davao Oriental),157,S 55° E,Governor Generoso (Davao Oriental)
 2025-12-08T03:31:00.000Z,08 December 2025 - 03:31 AM,17.39,120.60,004,3.1,003km S 16° E of Pilar (Abra),003,S 16° E,Pilar (Abra)
 2025-12-08T03:14:00.000Z,08 December 2025 - 03:14 AM,10.06,126.03,028,1.8,005km N 06° W of Santa Monica (Surigao Del Norte),005,N 06° W,Santa Monica (Surigao Del Norte)
 2025-12-08T03:05:00.000Z,08 December 2025 - 03:05 AM,09.67,126.11,008,1.9,011km S 32° E of Dapa (Surigao Del Norte),011,S 32° E,Dapa (Surigao Del Norte)
