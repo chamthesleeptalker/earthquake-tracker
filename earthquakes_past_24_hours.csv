@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T15:02:00.000Z,08 December 2025 - 03:02 PM,10.92,123.87,004,2.7,019km S 40° W of City Of Bogo (Cebu),019,S 40° W,City Of Bogo (Cebu)
 2025-12-08T14:05:00.000Z,08 December 2025 - 02:05 PM,12.96,121.20,002,2.1,024km S 65° W of Socorro (Oriental Mindoro),024,S 65° W,Socorro (Oriental Mindoro)
 2025-12-08T08:30:00.000Z,08 December 2025 - 08:30 AM,09.62,125.99,011,1.8,026km S 44° W of General Luna (Surigao Del Norte),026,S 44° W,General Luna (Surigao Del Norte)
 2025-12-08T07:43:00.000Z,08 December 2025 - 07:43 AM,10.93,123.84,005,2.8,020km S 50° W of City Of Bogo (Cebu),020,S 50° W,City Of Bogo (Cebu)
@@ -38,5 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-07T15:45:00.000Z,07 December 2025 - 03:45 PM,09.59,122.47,013,2.6,002km S 21° E of Hinoba-an (Negros Occidental),002,S 21° E,Hinoba-an (Negros Occidental)
 2025-12-07T15:42:00.000Z,07 December 2025 - 03:42 PM,09.38,122.29,009,3.8,031km S 38° W of Hinoba-an (Negros Occidental),031,S 38° W,Hinoba-an (Negros Occidental)
 2025-12-07T15:21:00.000Z,07 December 2025 - 03:21 PM,09.65,126.26,033,2.3,019km S 38° E of General Luna (Surigao Del Norte),019,S 38° E,General Luna (Surigao Del Norte)
-2025-12-07T14:49:00.000Z,07 December 2025 - 02:49 PM,09.43,125.71,024,1.8,015km S 82° E of Kitcharao (Agusan Del Norte),015,S 82° E,Kitcharao (Agusan Del Norte)
-2025-12-07T14:33:00.000Z,07 December 2025 - 02:33 PM,13.49,120.27,021,1.7,023km N 69° W of Paluan (Occidental Mindoro),023,N 69° W,Paluan (Occidental Mindoro)

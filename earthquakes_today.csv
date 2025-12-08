@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T15:02:00.000Z,08 December 2025 - 03:02 PM,10.92,123.87,004,2.7,019km S 40° W of City Of Bogo (Cebu),019,S 40° W,City Of Bogo (Cebu)
 2025-12-08T14:05:00.000Z,08 December 2025 - 02:05 PM,12.96,121.20,002,2.1,024km S 65° W of Socorro (Oriental Mindoro),024,S 65° W,Socorro (Oriental Mindoro)
 2025-12-08T08:30:00.000Z,08 December 2025 - 08:30 AM,09.62,125.99,011,1.8,026km S 44° W of General Luna (Surigao Del Norte),026,S 44° W,General Luna (Surigao Del Norte)
 2025-12-08T07:43:00.000Z,08 December 2025 - 07:43 AM,10.93,123.84,005,2.8,020km S 50° W of City Of Bogo (Cebu),020,S 50° W,City Of Bogo (Cebu)
