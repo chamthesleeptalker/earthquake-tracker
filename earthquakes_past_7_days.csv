@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T17:56:00.000Z,08 December 2025 - 05:56 PM,08.99,126.21,047,2.2,005km S 39° W of Tago (Surigao Del Sur),005,S 39° W,Tago (Surigao Del Sur)
 2025-12-08T17:30:00.000Z,08 December 2025 - 05:30 PM,12.88,121.12,023,2.0,036km N 88° W of Bansud (Oriental Mindoro),036,N 88° W,Bansud (Oriental Mindoro)
 2025-12-08T15:42:00.000Z,08 December 2025 - 03:42 PM,19.06,121.22,019,2.7,006km S 18° E of Dalupiri Island (Calayan) (Cagayan),006,S 18° E,Dalupiri Island (Calayan) (Cagayan)
 2025-12-08T15:02:00.000Z,08 December 2025 - 03:02 PM,10.92,123.87,004,2.7,019km S 40° W of City Of Bogo (Cebu),019,S 40° W,City Of Bogo (Cebu)
@@ -295,4 +296,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T18:27:00.000Z,01 December 2025 - 06:27 PM,08.80,122.65,005,2.7,051km S 56° W of Siaton (Negros Oriental),051,S 56° W,Siaton (Negros Oriental)
 2025-12-01T18:26:00.000Z,01 December 2025 - 06:26 PM,14.25,120.22,057,2.0,035km S 55° W of Mariveles (Bataan),035,S 55° W,Mariveles (Bataan)
 2025-12-01T18:15:00.000Z,01 December 2025 - 06:15 PM,13.49,120.69,166,2.2,007km N 36° W of Abra De Ilog (Occidental Mindoro),007,N 36° W,Abra De Ilog (Occidental Mindoro)
-2025-12-01T17:54:00.000Z,01 December 2025 - 05:54 PM,11.24,124.28,003,2.3,012km S 54° W of Tabango (Leyte),012,S 54° W,Tabango (Leyte)
