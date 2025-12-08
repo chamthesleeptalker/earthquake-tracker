@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T18:32:00.000Z,08 December 2025 - 06:32 PM,07.79,126.44,021,1.6,001km S 68° W of Cateel (Davao Oriental),001,S 68° W,Cateel (Davao Oriental)
+2025-12-08T18:21:00.000Z,08 December 2025 - 06:21 PM,08.58,125.69,033,1.8,010km N 31° W of San Luis (Agusan Del Sur),010,N 31° W,San Luis (Agusan Del Sur)
 2025-12-08T17:56:00.000Z,08 December 2025 - 05:56 PM,08.99,126.21,047,2.2,005km S 39° W of Tago (Surigao Del Sur),005,S 39° W,Tago (Surigao Del Sur)
-2025-12-08T17:30:00.000Z,08 December 2025 - 05:30 PM,12.88,121.12,023,2.0,036km N 88° W of Bansud (Oriental Mindoro),036,N 88° W,Bansud (Oriental Mindoro)
