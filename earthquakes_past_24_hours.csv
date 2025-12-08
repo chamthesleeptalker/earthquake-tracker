@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T23:57:00.000Z,08 December 2025 - 11:57 PM,06.28,126.42,027,2.2,057km S 42° E of Governor Generoso (Davao Oriental),057,S 42° E,Governor Generoso (Davao Oriental)
+2025-12-08T23:39:00.000Z,08 December 2025 - 11:39 PM,11.21,124.15,006,2.4,025km N 46° E of City Of Bogo (Cebu),025,N 46° E,City Of Bogo (Cebu)
 2025-12-08T21:13:00.000Z,08 December 2025 - 09:13 PM,17.96,123.29,060,2.6,126km N 57° E of Divilacan (Isabela),126,N 57° E,Divilacan (Isabela)
 2025-12-08T20:36:00.000Z,08 December 2025 - 08:36 PM,08.48,126.68,003,3.0,040km N 71° E of Hinatuan (Surigao Del Sur),040,N 71° E,Hinatuan (Surigao Del Sur)
 2025-12-08T19:59:00.000Z,08 December 2025 - 07:59 PM,13.16,120.78,043,3.9,010km N 39° E of Santa Cruz (Occidental Mindoro),010,N 39° E,Santa Cruz (Occidental Mindoro)
@@ -29,9 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-08T01:12:00.000Z,08 December 2025 - 01:12 AM,12.45,123.40,022,1.6,007km S 03° W of Aroroy (Masbate),007,S 03° W,Aroroy (Masbate)
 2025-12-08T01:12:00.000Z,08 December 2025 - 01:12 AM,11.85,125.67,009,2.7,024km N 81° E of Sulat (Eastern Samar),024,N 81° E,Sulat (Eastern Samar)
 2025-12-08T00:27:00.000Z,08 December 2025 - 12:27 AM,08.81,126.63,021,1.9,038km S 72° E of Cagwait (Surigao Del Sur),038,S 72° E,Cagwait (Surigao Del Sur)
-2025-12-07T23:22:00.000Z,07 December 2025 - 11:22 PM,06.29,124.21,045,2.8,009km N 14° E of Palimbang (Sultan Kudarat),009,N 14° E,Palimbang (Sultan Kudarat)
-2025-12-07T22:52:00.000Z,07 December 2025 - 10:52 PM,11.25,124.13,004,1.5,027km N 36° E of City Of Bogo (Cebu),027,N 36° E,City Of Bogo (Cebu)
-2025-12-07T22:42:00.000Z,07 December 2025 - 10:42 PM,11.15,124.13,009,2.0,021km N 55° E of City Of Bogo (Cebu),021,N 55° E,City Of Bogo (Cebu)
-2025-12-07T22:30:00.000Z,07 December 2025 - 10:30 PM,10.54,125.66,023,2.7,021km N 24° E of Loreto (Dinagat Islands),021,N 24° E,Loreto (Dinagat Islands)
-2025-12-07T22:01:00.000Z,07 December 2025 - 10:01 PM,08.58,126.21,154,2.8,014km S 67° E of Lianga (Surigao Del Sur),014,S 67° E,Lianga (Surigao Del Sur)
-2025-12-07T21:22:00.000Z,07 December 2025 - 09:22 PM,09.52,122.37,013,2.9,014km S 50° W of Hinoba-an (Negros Occidental),014,S 50° W,Hinoba-an (Negros Occidental)
