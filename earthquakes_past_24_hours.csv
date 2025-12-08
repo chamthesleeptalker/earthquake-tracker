@@ -1,5 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-07T10:45:00.000Z,07 December 2025 - 10:45 AM,11.00,124.04,010,1.8,008km S 54° E of City Of Bogo (Cebu),008,S 54° E,City Of Bogo (Cebu)
+2025-12-08T14:05:00.000Z,08 December 2025 - 02:05 PM,12.96,121.20,002,2.1,024km S 65° W of Socorro (Oriental Mindoro),024,S 65° W,Socorro (Oriental Mindoro)
 2025-12-08T08:30:00.000Z,08 December 2025 - 08:30 AM,09.62,125.99,011,1.8,026km S 44° W of General Luna (Surigao Del Norte),026,S 44° W,General Luna (Surigao Del Norte)
 2025-12-08T07:43:00.000Z,08 December 2025 - 07:43 AM,10.93,123.84,005,2.8,020km S 50° W of City Of Bogo (Cebu),020,S 50° W,City Of Bogo (Cebu)
 2025-12-08T06:14:00.000Z,08 December 2025 - 06:14 AM,17.86,120.28,030,3.1,018km S 88° W of Sinait (Ilocos Sur),018,S 88° W,Sinait (Ilocos Sur)
@@ -40,10 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-07T15:21:00.000Z,07 December 2025 - 03:21 PM,09.65,126.26,033,2.3,019km S 38° E of General Luna (Surigao Del Norte),019,S 38° E,General Luna (Surigao Del Norte)
 2025-12-07T14:49:00.000Z,07 December 2025 - 02:49 PM,09.43,125.71,024,1.8,015km S 82° E of Kitcharao (Agusan Del Norte),015,S 82° E,Kitcharao (Agusan Del Norte)
 2025-12-07T14:33:00.000Z,07 December 2025 - 02:33 PM,13.49,120.27,021,1.7,023km N 69° W of Paluan (Occidental Mindoro),023,N 69° W,Paluan (Occidental Mindoro)
-2025-12-07T13:43:00.000Z,07 December 2025 - 01:43 PM,10.06,125.66,117,1.9,007km S 87° E of Basilisa (Dinagat Islands),007,S 87° E,Basilisa (Dinagat Islands)
-2025-12-07T13:30:00.000Z,07 December 2025 - 01:30 PM,09.69,126.19,025,2.1,011km S 19° E of General Luna (Surigao Del Norte),011,S 19° E,General Luna (Surigao Del Norte)
-2025-12-07T12:52:00.000Z,07 December 2025 - 12:52 PM,08.68,126.77,019,1.8,054km S 76° E of Marihatag (Surigao Del Sur),054,S 76° E,Marihatag (Surigao Del Sur)
-2025-12-07T11:31:00.000Z,07 December 2025 - 11:31 AM,07.72,126.71,028,2.1,024km N 46° E of Baganga (Davao Oriental),024,N 46° E,Baganga (Davao Oriental)
-2025-12-07T10:44:00.000Z,07 December 2025 - 10:44 AM,11.12,124.03,033,1.5,010km N 31° E of City Of Bogo (Cebu),010,N 31° E,City Of Bogo (Cebu)
-2025-12-07T10:34:00.000Z,07 December 2025 - 10:34 AM,13.71,120.26,016,2.0,002km S 58° E of Looc (Occidental Mindoro),002,S 58° E,Looc (Occidental Mindoro)
-2025-12-07T10:12:00.000Z,07 December 2025 - 10:12 AM,11.00,123.98,005,2.7,006km S 06° E of City Of Bogo (Cebu),006,S 06° E,City Of Bogo (Cebu)
