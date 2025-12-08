@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T18:52:00.000Z,08 December 2025 - 06:52 PM,11.32,124.12,033,1.5,033km N 27° E of City Of Bogo (Cebu),033,N 27° E,City Of Bogo (Cebu)
 2025-12-08T18:32:00.000Z,08 December 2025 - 06:32 PM,07.79,126.44,021,1.6,001km S 68° W of Cateel (Davao Oriental),001,S 68° W,Cateel (Davao Oriental)
 2025-12-08T18:21:00.000Z,08 December 2025 - 06:21 PM,08.58,125.69,033,1.8,010km N 31° W of San Luis (Agusan Del Sur),010,N 31° W,San Luis (Agusan Del Sur)
 2025-12-08T17:56:00.000Z,08 December 2025 - 05:56 PM,08.99,126.21,047,2.2,005km S 39° W of Tago (Surigao Del Sur),005,S 39° W,Tago (Surigao Del Sur)
@@ -294,4 +295,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T20:07:00.000Z,01 December 2025 - 08:07 PM,08.74,122.59,013,2.5,059km N 55° W of Jose Dalman (Zamboanga Del Norte),059,N 55° W,Jose Dalman (Zamboanga Del Norte)
 2025-12-01T19:14:00.000Z,01 December 2025 - 07:14 PM,13.25,120.25,008,2.3,029km S 51° W of Paluan (Occidental Mindoro),029,S 51° W,Paluan (Occidental Mindoro)
 2025-12-01T19:11:00.000Z,01 December 2025 - 07:11 PM,13.37,120.27,008,1.6,021km S 76° W of Paluan (Occidental Mindoro),021,S 76° W,Paluan (Occidental Mindoro)
-2025-12-01T18:42:00.000Z,01 December 2025 - 06:42 PM,08.64,122.72,031,2.7,041km N 57° W of Jose Dalman (Zamboanga Del Norte),041,N 57° W,Jose Dalman (Zamboanga Del Norte)
