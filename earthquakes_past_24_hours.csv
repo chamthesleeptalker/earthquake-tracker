@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T00:59:00.000Z,09 December 2025 - 12:59 AM,09.35,125.97,023,1.7,002km N 22° W of Cantilan (Surigao Del Sur),002,N 22° W,Cantilan (Surigao Del Sur)
 2025-12-09T00:32:00.000Z,09 December 2025 - 12:32 AM,08.44,125.90,012,2.4,011km S 49° W of San Francisco (Agusan Del Sur),011,S 49° W,San Francisco (Agusan Del Sur)
 2025-12-08T23:57:00.000Z,08 December 2025 - 11:57 PM,06.28,126.42,027,2.2,057km S 42° E of Governor Generoso (Davao Oriental),057,S 42° E,Governor Generoso (Davao Oriental)
 2025-12-08T23:39:00.000Z,08 December 2025 - 11:39 PM,11.21,124.15,006,2.4,025km N 46° E of City Of Bogo (Cebu),025,N 46° E,City Of Bogo (Cebu)
