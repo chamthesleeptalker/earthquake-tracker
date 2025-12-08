@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T02:50:00.000Z,09 December 2025 - 02:50 AM,07.66,124.72,022,2.1,003km N 09° W of Wao (Lanao Del Sur),003,N 09° W,Wao (Lanao Del Sur)
 2025-12-09T02:43:00.000Z,09 December 2025 - 02:43 AM,17.48,120.70,014,1.9,006km S 18° W of Bucay (Abra),006,S 18° W,Bucay (Abra)
 2025-12-09T01:52:00.000Z,09 December 2025 - 01:52 AM,10.62,126.26,033,2.6,060km S 77° E of Homonhon Island (Guiuan) (Eastern Samar),060,S 77° E,Homonhon Island (Guiuan) (Eastern Samar)
 2025-12-09T01:30:00.000Z,09 December 2025 - 01:30 AM,13.91,120.42,083,2.2,024km N 70° W of Calatagan (Batangas),024,N 70° W,Calatagan (Batangas)
@@ -271,5 +272,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T03:29:00.000Z,02 December 2025 - 03:29 AM,15.30,119.96,036,1.7,004km S 30° W of Iba (Zambales),004,S 30° W,Iba (Zambales)
 2025-12-02T03:07:00.000Z,02 December 2025 - 03:07 AM,07.56,126.76,003,2.5,022km S 86° E of Baganga (Davao Oriental),022,S 86° E,Baganga (Davao Oriental)
 2025-12-02T03:04:00.000Z,02 December 2025 - 03:04 AM,19.14,121.53,019,2.4,014km S 25° E of Calayan (Cagayan),014,S 25° E,Calayan (Cagayan)
-2025-12-02T02:49:00.000Z,02 December 2025 - 02:49 AM,10.36,122.25,019,2.2,027km S 25° E of San Joaquin (Iloilo),027,S 25° E,San Joaquin (Iloilo)
-2025-12-02T02:44:00.000Z,02 December 2025 - 02:44 AM,18.09,120.67,032,1.9,003km S 66° W of Dingras (Ilocos Norte),003,S 66° W,Dingras (Ilocos Norte)
