@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T00:32:00.000Z,09 December 2025 - 12:32 AM,08.44,125.90,012,2.4,011km S 49° W of San Francisco (Agusan Del Sur),011,S 49° W,San Francisco (Agusan Del Sur)
 2025-12-08T23:57:00.000Z,08 December 2025 - 11:57 PM,06.28,126.42,027,2.2,057km S 42° E of Governor Generoso (Davao Oriental),057,S 42° E,Governor Generoso (Davao Oriental)
 2025-12-08T23:39:00.000Z,08 December 2025 - 11:39 PM,11.21,124.15,006,2.4,025km N 46° E of City Of Bogo (Cebu),025,N 46° E,City Of Bogo (Cebu)
 2025-12-08T21:13:00.000Z,08 December 2025 - 09:13 PM,17.96,123.29,060,2.6,126km N 57° E of Divilacan (Isabela),126,N 57° E,Divilacan (Isabela)
@@ -277,5 +278,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T01:24:00.000Z,02 December 2025 - 01:24 AM,11.17,124.11,028,1.7,020km N 44° E of City Of Bogo (Cebu),020,N 44° E,City Of Bogo (Cebu)
 2025-12-02T01:07:00.000Z,02 December 2025 - 01:07 AM,11.01,123.94,002,2.6,006km S 50° W of City Of Bogo (Cebu),006,S 50° W,City Of Bogo (Cebu)
 2025-12-02T00:36:00.000Z,02 December 2025 - 12:36 AM,10.40,124.89,024,1.4,010km N 62° W of Bontoc (Southern Leyte),010,N 62° W,Bontoc (Southern Leyte)
-2025-12-02T00:22:00.000Z,02 December 2025 - 12:22 AM,14.82,123.13,027,1.8,042km N 27° E of Tinaga Island (Vinzons) (Camarines Norte),042,N 27° E,Tinaga Island (Vinzons) (Camarines Norte)
-2025-12-01T23:58:00.000Z,01 December 2025 - 11:58 PM,09.13,126.25,028,2.0,011km N 53° E of City Of Tandag (Surigao Del Sur),011,N 53° E,City Of Tandag (Surigao Del Sur)
