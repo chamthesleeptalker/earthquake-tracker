@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T17:30:00.000Z,08 December 2025 - 05:30 PM,12.88,121.12,023,2.0,036km N 88° W of Bansud (Oriental Mindoro),036,N 88° W,Bansud (Oriental Mindoro)
 2025-12-08T15:42:00.000Z,08 December 2025 - 03:42 PM,19.06,121.22,019,2.7,006km S 18° E of Dalupiri Island (Calayan) (Cagayan),006,S 18° E,Dalupiri Island (Calayan) (Cagayan)
 2025-12-08T15:02:00.000Z,08 December 2025 - 03:02 PM,10.92,123.87,004,2.7,019km S 40° W of City Of Bogo (Cebu),019,S 40° W,City Of Bogo (Cebu)
 2025-12-08T14:05:00.000Z,08 December 2025 - 02:05 PM,12.96,121.20,002,2.1,024km S 65° W of Socorro (Oriental Mindoro),024,S 65° W,Socorro (Oriental Mindoro)
@@ -32,10 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-07T19:16:00.000Z,07 December 2025 - 07:16 PM,09.65,126.13,014,3.4,015km S 10° W of General Luna (Surigao Del Norte),015,S 10° W,General Luna (Surigao Del Norte)
 2025-12-07T18:30:00.000Z,07 December 2025 - 06:30 PM,09.49,122.40,007,2.3,014km S 30° W of Hinoba-an (Negros Occidental),014,S 30° W,Hinoba-an (Negros Occidental)
 2025-12-07T17:39:00.000Z,07 December 2025 - 05:39 PM,08.14,126.87,025,3.4,052km N 77° E of Lingig (Surigao Del Sur),052,N 77° E,Lingig (Surigao Del Sur)
-2025-12-07T17:18:00.000Z,07 December 2025 - 05:18 PM,05.22,127.42,132,2.9,211km S 69° E of Jose Abad Santos (Davao Occidental),211,S 69° E,Jose Abad Santos (Davao Occidental)
-2025-12-07T16:50:00.000Z,07 December 2025 - 04:50 PM,13.04,123.21,033,1.6,015km N 14° W of Claveria (Masbate),015,N 14° W,Claveria (Masbate)
-2025-12-07T16:47:00.000Z,07 December 2025 - 04:47 PM,05.82,125.95,135,2.5,036km S 74° E of Jose Abad Santos (Davao Occidental),036,S 74° E,Jose Abad Santos (Davao Occidental)
-2025-12-07T15:52:00.000Z,07 December 2025 - 03:52 PM,13.77,120.61,088,1.5,007km S 17° W of Calatagan (Batangas),007,S 17° W,Calatagan (Batangas)
-2025-12-07T15:51:00.000Z,07 December 2025 - 03:51 PM,06.73,125.23,033,2.1,003km N 29° E of Matanao (Davao Del Sur),003,N 29° E,Matanao (Davao Del Sur)
-2025-12-07T15:45:00.000Z,07 December 2025 - 03:45 PM,09.59,122.47,013,2.6,002km S 21° E of Hinoba-an (Negros Occidental),002,S 21° E,Hinoba-an (Negros Occidental)
-2025-12-07T15:42:00.000Z,07 December 2025 - 03:42 PM,09.38,122.29,009,3.8,031km S 38° W of Hinoba-an (Negros Occidental),031,S 38° W,Hinoba-an (Negros Occidental)
