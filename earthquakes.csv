@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T21:13:00.000Z,08 December 2025 - 09:13 PM,17.96,123.29,060,2.6,126km N 57° E of Divilacan (Isabela),126,N 57° E,Divilacan (Isabela)
+2025-12-08T20:36:00.000Z,08 December 2025 - 08:36 PM,08.48,126.68,003,3.0,040km N 71° E of Hinatuan (Surigao Del Sur),040,N 71° E,Hinatuan (Surigao Del Sur)
 2025-12-08T19:59:00.000Z,08 December 2025 - 07:59 PM,13.16,120.78,043,3.9,010km N 39° E of Santa Cruz (Occidental Mindoro),010,N 39° E,Santa Cruz (Occidental Mindoro)
 2025-12-08T19:21:00.000Z,08 December 2025 - 07:21 PM,12.31,125.50,014,2.9,014km N 74° E of Arteche (Eastern Samar),014,N 74° E,Arteche (Eastern Samar)
 2025-12-08T19:21:00.000Z,08 December 2025 - 07:21 PM,09.62,126.16,030,2.2,018km S 02° E of General Luna (Surigao Del Norte),018,S 02° E,General Luna (Surigao Del Norte)
