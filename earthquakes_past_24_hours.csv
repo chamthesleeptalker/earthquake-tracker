@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T05:25:00.000Z,09 December 2025 - 05:25 AM,10.93,123.88,007,2.6,017km S 41° W of City Of Bogo (Cebu),017,S 41° W,City Of Bogo (Cebu)
+2025-12-09T05:20:00.000Z,09 December 2025 - 05:20 AM,06.80,125.30,012,2.3,008km N 47° W of City Of Digos (Davao Del Sur),008,N 47° W,City Of Digos (Davao Del Sur)
 2025-12-09T04:48:00.000Z,09 December 2025 - 04:48 AM,04.50,126.33,015,2.7,142km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),142,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-09T04:40:00.000Z,09 December 2025 - 04:40 AM,06.74,125.83,001,2.0,027km S 51° W of Lupon (Davao Oriental),027,S 51° W,Lupon (Davao Oriental)
 2025-12-09T04:17:00.000Z,09 December 2025 - 04:17 AM,07.83,126.05,004,1.7,001km N 08° E of Monkayo (Davao De Oro),001,N 08° E,Monkayo (Davao De Oro)
@@ -30,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-08T08:30:00.000Z,08 December 2025 - 08:30 AM,09.62,125.99,011,1.8,026km S 44° W of General Luna (Surigao Del Norte),026,S 44° W,General Luna (Surigao Del Norte)
 2025-12-08T07:43:00.000Z,08 December 2025 - 07:43 AM,10.93,123.84,005,2.8,020km S 50° W of City Of Bogo (Cebu),020,S 50° W,City Of Bogo (Cebu)
 2025-12-08T06:14:00.000Z,08 December 2025 - 06:14 AM,17.86,120.28,030,3.1,018km S 88° W of Sinait (Ilocos Sur),018,S 88° W,Sinait (Ilocos Sur)
-2025-12-08T04:48:00.000Z,08 December 2025 - 04:48 AM,05.83,127.28,022,2.9,162km S 56° E of Governor Generoso (Davao Oriental),162,S 56° E,Governor Generoso (Davao Oriental)
