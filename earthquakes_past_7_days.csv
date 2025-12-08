@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-08T08:30:00.000Z,08 December 2025 - 08:30 AM,09.62,125.99,011,1.8,026km S 44° W of General Luna (Surigao Del Norte),026,S 44° W,General Luna (Surigao Del Norte)
+2025-12-08T07:43:00.000Z,08 December 2025 - 07:43 AM,10.93,123.84,005,2.8,020km S 50° W of City Of Bogo (Cebu),020,S 50° W,City Of Bogo (Cebu)
 2025-12-08T06:14:00.000Z,08 December 2025 - 06:14 AM,17.86,120.28,030,3.1,018km S 88° W of Sinait (Ilocos Sur),018,S 88° W,Sinait (Ilocos Sur)
 2025-12-08T04:48:00.000Z,08 December 2025 - 04:48 AM,05.83,127.28,022,2.9,162km S 56° E of Governor Generoso (Davao Oriental),162,S 56° E,Governor Generoso (Davao Oriental)
 2025-12-08T04:47:00.000Z,08 December 2025 - 04:47 AM,05.85,127.24,005,3.2,157km S 55° E of Governor Generoso (Davao Oriental),157,S 55° E,Governor Generoso (Davao Oriental)
@@ -304,8 +306,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-01T09:41:00.000Z,01 December 2025 - 09:41 AM,07.28,126.87,020,4.6,037km N 78° E of Manay (Davao Oriental),037,N 78° E,Manay (Davao Oriental)
 2025-12-01T09:22:00.000Z,01 December 2025 - 09:22 AM,09.90,126.19,018,1.6,019km N 19° E of General Luna (Surigao Del Norte),019,N 19° E,General Luna (Surigao Del Norte)
 2025-12-01T08:43:00.000Z,01 December 2025 - 08:43 AM,11.15,123.98,011,1.8,011km N 01° W of City Of Bogo (Cebu),011,N 01° W,City Of Bogo (Cebu)
-2025-12-01T07:24:00.000Z,01 December 2025 - 07:24 AM,13.67,120.58,101,2.0,019km S 18° W of Calatagan (Batangas),019,S 18° W,Calatagan (Batangas)
-2025-12-01T07:19:00.000Z,01 December 2025 - 07:19 AM,08.95,126.25,075,2.4,007km N 55° W of Cagwait (Surigao Del Sur),007,N 55° W,Cagwait (Surigao Del Sur)
-2025-12-01T06:34:00.000Z,01 December 2025 - 06:34 AM,06.94,124.96,001,2.6,009km S 84° E of M'lang (Cotabato),009,S 84° E,M'lang (Cotabato)
-2025-12-01T06:22:00.000Z,01 December 2025 - 06:22 AM,11.07,124.12,002,2.4,016km N 81° E of City Of Bogo (Cebu),016,N 81° E,City Of Bogo (Cebu)
-2025-12-01T06:16:00.000Z,01 December 2025 - 06:16 AM,08.43,122.72,034,1.9,034km S 88° W of Jose Dalman (Zamboanga Del Norte),034,S 88° W,Jose Dalman (Zamboanga Del Norte)
