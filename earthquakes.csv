@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T06:06:00.000Z,09 December 2025 - 06:06 AM,13.27,120.27,017,1.9,027km S 53° W of Paluan (Occidental Mindoro),027,S 53° W,Paluan (Occidental Mindoro)
 2025-12-09T05:25:00.000Z,09 December 2025 - 05:25 AM,10.93,123.88,007,2.6,017km S 41° W of City Of Bogo (Cebu),017,S 41° W,City Of Bogo (Cebu)
 2025-12-09T05:20:00.000Z,09 December 2025 - 05:20 AM,06.80,125.30,012,2.3,008km N 47° W of City Of Digos (Davao Del Sur),008,N 47° W,City Of Digos (Davao Del Sur)
 2025-12-09T04:48:00.000Z,09 December 2025 - 04:48 AM,04.50,126.33,015,2.7,142km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),142,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
