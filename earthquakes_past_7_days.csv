@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T21:00:00.000Z,09 December 2025 - 09:00 PM,13.15,124.81,013,1.8,066km N 11° W of Pambujan (Northern Samar),066,N 11° W,Pambujan (Northern Samar)
+2025-12-09T20:29:00.000Z,09 December 2025 - 08:29 PM,08.90,126.22,032,2.0,010km S 77° W of Cagwait (Surigao Del Sur),010,S 77° W,Cagwait (Surigao Del Sur)
 2025-12-09T19:06:00.000Z,09 December 2025 - 07:06 PM,09.42,126.34,022,4.3,022km N 45° E of Cortes (Surigao Del Sur),022,N 45° E,Cortes (Surigao Del Sur)
 2025-12-09T18:51:00.000Z,09 December 2025 - 06:51 PM,10.90,123.94,009,1.8,017km S 14° W of City Of Bogo (Cebu),017,S 14° W,City Of Bogo (Cebu)
 2025-12-09T18:33:00.000Z,09 December 2025 - 06:33 PM,10.93,123.98,005,2.8,013km S 02° E of City Of Bogo (Cebu),013,S 02° E,City Of Bogo (Cebu)
@@ -282,7 +284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T23:07:00.000Z,02 December 2025 - 11:07 PM,14.27,120.48,156,4.1,018km S 3° W of Mariveles (Bataan),018,S 3° W,Mariveles (Bataan)
 2025-12-02T21:43:00.000Z,02 December 2025 - 09:43 PM,14.16,123.02,001,3.1,006km N 03° E of Mercedes (Camarines Norte),006,N 03° E,Mercedes (Camarines Norte)
 2025-12-02T21:30:00.000Z,02 December 2025 - 09:30 PM,13.46,120.18,028,1.8,030km S 15° W of Looc (Occidental Mindoro),030,S 15° W,Looc (Occidental Mindoro)
-2025-12-02T19:27:00.000Z,02 December 2025 - 07:27 PM,13.37,120.23,009,2.3,026km S 79° W of Paluan (Occidental Mindoro),026,S 79° W,Paluan (Occidental Mindoro)
-2025-12-02T19:16:00.000Z,02 December 2025 - 07:16 PM,16.45,122.10,004,2.3,014km N 62° W of Dilasag (Aurora),014,N 62° W,Dilasag (Aurora)
-2025-12-02T19:25:00.000Z,02 December 2025 - 07:25 PM,16.48,122.16,014,1.9,011km N 29° W of Dilasag (Aurora),011,N 29° W,Dilasag (Aurora)
-2025-12-02T19:15:00.000Z,02 December 2025 - 07:15 PM,13.35,120.30,005,3.0,019km S 66° W of Paluan (Occidental Mindoro),019,S 66° W,Paluan (Occidental Mindoro)
