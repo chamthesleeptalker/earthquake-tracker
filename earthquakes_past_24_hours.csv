@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T05:28:00.000Z,10 December 2025 - 05:28 AM,06.39,126.34,052,2.3,041km S 45° E of Governor Generoso (Davao Oriental),041,S 45° E,Governor Generoso (Davao Oriental)
 2025-12-10T04:48:00.000Z,10 December 2025 - 04:48 AM,09.61,126.22,033,2.4,021km S 20° E of General Luna (Surigao Del Norte),021,S 20° E,General Luna (Surigao Del Norte)
 2025-12-10T04:36:00.000Z,10 December 2025 - 04:36 AM,09.67,126.30,032,1.9,020km S 52° E of General Luna (Surigao Del Norte),020,S 52° E,General Luna (Surigao Del Norte)
 2025-12-10T04:29:00.000Z,10 December 2025 - 04:29 AM,18.05,120.69,034,2.0,001km N 67° E of Marcos (Ilocos Norte),001,N 67° E,Marcos (Ilocos Norte)
@@ -42,6 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-09T08:37:00.000Z,09 December 2025 - 08:37 AM,09.60,126.23,034,2.0,022km S 20° E of General Luna (Surigao Del Norte),022,S 20° E,General Luna (Surigao Del Norte)
 2025-12-09T07:56:00.000Z,09 December 2025 - 07:56 AM,09.98,122.39,012,2.6,023km N 12° W of City Of Sipalay (Negros Occidental),023,N 12° W,City Of Sipalay (Negros Occidental)
 2025-12-09T06:06:00.000Z,09 December 2025 - 06:06 AM,13.27,120.27,017,1.9,027km S 53° W of Paluan (Occidental Mindoro),027,S 53° W,Paluan (Occidental Mindoro)
-2025-12-09T05:25:00.000Z,09 December 2025 - 05:25 AM,10.93,123.88,007,2.6,017km S 41° W of City Of Bogo (Cebu),017,S 41° W,City Of Bogo (Cebu)
-2025-12-09T05:20:00.000Z,09 December 2025 - 05:20 AM,06.80,125.30,012,2.3,008km N 47° W of City Of Digos (Davao Del Sur),008,N 47° W,City Of Digos (Davao Del Sur)
-2025-12-09T04:48:00.000Z,09 December 2025 - 04:48 AM,04.50,126.33,015,2.7,142km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),142,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
