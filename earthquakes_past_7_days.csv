@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T14:05:00.000Z,09 December 2025 - 02:05 PM,05.95,126.91,149,2.2,121km S 50° E of Governor Generoso (Davao Oriental),121,S 50° E,Governor Generoso (Davao Oriental)
 2025-12-09T13:03:00.000Z,09 December 2025 - 01:03 PM,09.64,126.12,036,2.0,016km S 15° W of General Luna (Surigao Del Norte),016,S 15° W,General Luna (Surigao Del Norte)
 2025-12-09T11:55:00.000Z,09 December 2025 - 11:55 AM,08.35,125.98,007,1.8,005km S 30° W of Rosario (Agusan Del Sur),005,S 30° W,Rosario (Agusan Del Sur)
 2025-12-09T10:11:00.000Z,09 December 2025 - 10:11 AM,11.10,124.13,034,2.4,017km N 70° E of City Of Bogo (Cebu),017,N 70° E,City Of Bogo (Cebu)
@@ -278,4 +279,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T15:09:00.000Z,02 December 2025 - 03:09 PM,13.72,122.43,015,2.3,005km S 72° W of Buenavista (Quezon),005,S 72° W,Buenavista (Quezon)
 2025-12-02T14:35:00.000Z,02 December 2025 - 02:35 PM,09.65,126.20,030,1.4,015km S 17° E of General Luna (Surigao Del Norte),015,S 17° E,General Luna (Surigao Del Norte)
 2025-12-02T14:29:00.000Z,02 December 2025 - 02:29 PM,14.25,120.38,107,1.6,024km S 31° W of Mariveles (Bataan),024,S 31° W,Mariveles (Bataan)
-2025-12-02T13:03:00.000Z,02 December 2025 - 01:03 PM,09.06,126.48,025,2.0,025km N 52° E of Cagwait (Surigao Del Sur),025,N 52° E,Cagwait (Surigao Del Sur)
