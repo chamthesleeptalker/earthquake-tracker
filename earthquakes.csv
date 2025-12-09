@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T01:31:00.000Z,10 December 2025 - 01:31 AM,08.68,124.66,021,1.6,011km N 71° W of Jasaan (Misamis Oriental),011,N 71° W,Jasaan (Misamis Oriental)
+2025-12-10T01:22:00.000Z,10 December 2025 - 01:22 AM,09.59,125.63,009,2.4,002km S 35° W of Bacuag (Surigao Del Norte),002,S 35° W,Bacuag (Surigao Del Norte)
+2025-12-10T01:17:00.000Z,10 December 2025 - 01:17 AM,16.00,119.86,022,2.0,002km N 68° W of Dasol (Pangasinan),002,N 68° W,Dasol (Pangasinan)
+2025-12-10T01:07:00.000Z,10 December 2025 - 01:07 AM,11.20,124.16,003,2.4,025km N 49° E of City Of Bogo (Cebu),025,N 49° E,City Of Bogo (Cebu)
 2025-12-10T00:57:00.000Z,10 December 2025 - 12:57 AM,13.53,120.94,001,1.9,004km N 20° W of Puerto Galera (Oriental Mindoro),004,N 20° W,Puerto Galera (Oriental Mindoro)
 2025-12-09T23:56:00.000Z,09 December 2025 - 11:56 PM,15.84,119.90,023,2.9,001km N 06° W of Infanta (Pangasinan),001,N 06° W,Infanta (Pangasinan)
 2025-12-09T23:42:00.000Z,09 December 2025 - 11:42 PM,11.51,123.72,004,2.5,024km N 04° W of Madridejos (Cebu),024,N 04° W,Madridejos (Cebu)
