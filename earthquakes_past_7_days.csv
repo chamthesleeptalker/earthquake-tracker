@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T17:30:00.000Z,09 December 2025 - 05:30 PM,13.20,124.25,028,1.4,013km N 85° E of Rapu-rapu (Albay),013,N 85° E,Rapu-rapu (Albay)
 2025-12-09T15:54:00.000Z,09 December 2025 - 03:54 PM,16.08,121.99,009,2.5,008km S 28° E of Dinalungan (Aurora),008,S 28° E,Dinalungan (Aurora)
 2025-12-09T16:25:00.000Z,09 December 2025 - 04:25 PM,08.84,126.61,032,2.8,036km S 76° E of Cagwait (Surigao Del Sur),036,S 76° E,Cagwait (Surigao Del Sur)
 2025-12-09T16:13:00.000Z,09 December 2025 - 04:13 PM,14.14,120.28,074,1.4,036km N 28° E of Lubang (Occidental Mindoro),036,N 28° E,Lubang (Occidental Mindoro)
@@ -283,4 +284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T19:25:00.000Z,02 December 2025 - 07:25 PM,16.48,122.16,014,1.9,011km N 29° W of Dilasag (Aurora),011,N 29° W,Dilasag (Aurora)
 2025-12-02T19:15:00.000Z,02 December 2025 - 07:15 PM,13.35,120.30,005,3.0,019km S 66° W of Paluan (Occidental Mindoro),019,S 66° W,Paluan (Occidental Mindoro)
 2025-12-02T19:00:00.000Z,02 December 2025 - 07:00 PM,13.33,120.19,010,4.2,031km S 72° W of Paluan (Occidental Mindoro),031,S 72° W,Paluan (Occidental Mindoro)
-2025-12-02T16:34:00.000Z,02 December 2025 - 04:34 PM,10.82,123.90,001,2.1,027km S 19° W of City Of Bogo (Cebu),027,S 19° W,City Of Bogo (Cebu)
