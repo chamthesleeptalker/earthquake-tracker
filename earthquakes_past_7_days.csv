@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T10:11:00.000Z,09 December 2025 - 10:11 AM,11.10,124.13,034,2.4,017km N 70° E of City Of Bogo (Cebu),017,N 70° E,City Of Bogo (Cebu)
+2025-12-09T09:42:00.000Z,09 December 2025 - 09:42 AM,18.48,121.65,003,2.3,014km N 06° E of Aparri (Cagayan),014,N 06° E,Aparri (Cagayan)
+2025-12-09T09:35:00.000Z,09 December 2025 - 09:35 AM,15.25,119.88,033,1.5,014km S 50° W of Iba (Zambales),014,S 50° W,Iba (Zambales)
+2025-12-09T09:26:00.000Z,09 December 2025 - 09:26 AM,10.90,123.76,032,2.0,029km S 56° W of City Of Bogo (Cebu),029,S 56° W,City Of Bogo (Cebu)
 2025-12-09T08:37:00.000Z,09 December 2025 - 08:37 AM,09.60,126.23,034,2.0,022km S 20° E of General Luna (Surigao Del Norte),022,S 20° E,General Luna (Surigao Del Norte)
 2025-12-09T07:56:00.000Z,09 December 2025 - 07:56 AM,09.98,122.39,012,2.6,023km N 12° W of City Of Sipalay (Negros Occidental),023,N 12° W,City Of Sipalay (Negros Occidental)
 2025-12-09T06:06:00.000Z,09 December 2025 - 06:06 AM,13.27,120.27,017,1.9,027km S 53° W of Paluan (Occidental Mindoro),027,S 53° W,Paluan (Occidental Mindoro)
