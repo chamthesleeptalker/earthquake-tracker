@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T21:59:00.000Z,09 December 2025 - 09:59 PM,13.49,120.67,096,3.2,008km N 51° W of Abra De Ilog (Occidental Mindoro),008,N 51° W,Abra De Ilog (Occidental Mindoro)
 2025-12-09T21:00:00.000Z,09 December 2025 - 09:00 PM,13.15,124.81,013,1.8,066km N 11° W of Pambujan (Northern Samar),066,N 11° W,Pambujan (Northern Samar)
 2025-12-09T20:29:00.000Z,09 December 2025 - 08:29 PM,08.90,126.22,032,2.0,010km S 77° W of Cagwait (Surigao Del Sur),010,S 77° W,Cagwait (Surigao Del Sur)
 2025-12-09T19:06:00.000Z,09 December 2025 - 07:06 PM,09.42,126.34,022,4.3,022km N 45° E of Cortes (Surigao Del Sur),022,N 45° E,Cortes (Surigao Del Sur)
@@ -40,4 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-09T00:32:00.000Z,09 December 2025 - 12:32 AM,08.44,125.90,012,2.4,011km S 49° W of San Francisco (Agusan Del Sur),011,S 49° W,San Francisco (Agusan Del Sur)
 2025-12-08T23:57:00.000Z,08 December 2025 - 11:57 PM,06.28,126.42,027,2.2,057km S 42° E of Governor Generoso (Davao Oriental),057,S 42° E,Governor Generoso (Davao Oriental)
 2025-12-08T23:39:00.000Z,08 December 2025 - 11:39 PM,11.21,124.15,006,2.4,025km N 46° E of City Of Bogo (Cebu),025,N 46° E,City Of Bogo (Cebu)
-2025-12-08T21:13:00.000Z,08 December 2025 - 09:13 PM,17.96,123.29,060,2.6,126km N 57° E of Divilacan (Isabela),126,N 57° E,Divilacan (Isabela)
