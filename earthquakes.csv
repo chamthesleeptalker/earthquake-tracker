@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T05:56:00.000Z,10 December 2025 - 05:56 AM,13.30,121.50,033,1.3,018km N 22° E of Pola (Oriental Mindoro),018,N 22° E,Pola (Oriental Mindoro)
+2025-12-10T05:49:00.000Z,10 December 2025 - 05:49 AM,07.61,126.54,029,2.1,004km N 35° W of Baganga (Davao Oriental),004,N 35° W,Baganga (Davao Oriental)
 2025-12-10T05:28:00.000Z,10 December 2025 - 05:28 AM,06.39,126.34,052,2.3,041km S 45° E of Governor Generoso (Davao Oriental),041,S 45° E,Governor Generoso (Davao Oriental)
 2025-12-10T04:48:00.000Z,10 December 2025 - 04:48 AM,09.61,126.22,033,2.4,021km S 20° E of General Luna (Surigao Del Norte),021,S 20° E,General Luna (Surigao Del Norte)
 2025-12-10T04:36:00.000Z,10 December 2025 - 04:36 AM,09.67,126.30,032,1.9,020km S 52° E of General Luna (Surigao Del Norte),020,S 52° E,General Luna (Surigao Del Norte)
