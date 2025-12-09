@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T02:56:00.000Z,10 December 2025 - 02:56 AM,09.77,126.28,045,2.2,014km S 82° E of General Luna (Surigao Del Norte),014,S 82° E,General Luna (Surigao Del Norte)
 2025-12-10T02:39:00.000Z,10 December 2025 - 02:39 AM,10.27,126.02,017,2.3,028km N 12° W of Burgos (Surigao Del Norte),028,N 12° W,Burgos (Surigao Del Norte)
 2025-12-10T02:32:00.000Z,10 December 2025 - 02:32 AM,08.22,126.72,009,2.1,040km N 59° E of Lingig (Surigao Del Sur),040,N 59° E,Lingig (Surigao Del Sur)
 2025-12-10T02:21:00.000Z,10 December 2025 - 02:21 AM,10.95,123.95,010,1.9,011km S 19° W of City Of Bogo (Cebu),011,S 19° W,City Of Bogo (Cebu)
@@ -279,6 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T03:14:00.000Z,03 December 2025 - 03:14 AM,12.63,123.69,033,1.6,003km S 69° E of Monreal (Masbate),003,S 69° E,Monreal (Masbate)
 2025-12-03T02:56:00.000Z,03 December 2025 - 02:56 AM,05.69,126.41,016,2.5,088km S 74° E of Jose Abad Santos (Davao Occidental),088,S 74° E,Jose Abad Santos (Davao Occidental)
 2025-12-03T02:59:00.000Z,03 December 2025 - 02:59 AM,12.68,123.60,010,3.6,008km N 59° W of Monreal (Masbate),008,N 59° W,Monreal (Masbate)
-2025-12-03T02:53:00.000Z,03 December 2025 - 02:53 AM,06.55,126.68,029,1.9,061km S 25° E of Tarragona (Davao Oriental),061,S 25° E,Tarragona (Davao Oriental)
-2025-12-03T02:48:00.000Z,03 December 2025 - 02:48 AM,16.24,121.32,036,1.5,009km S 17° E of Kasibu (Nueva Vizcaya),009,S 17° E,Kasibu (Nueva Vizcaya)
-2025-12-03T02:41:00.000Z,03 December 2025 - 02:41 AM,08.81,122.69,022,2.5,055km N 42° W of Jose Dalman (Zamboanga Del Norte),055,N 42° W,Jose Dalman (Zamboanga Del Norte)

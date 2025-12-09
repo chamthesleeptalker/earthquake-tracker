@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T02:56:00.000Z,10 December 2025 - 02:56 AM,09.77,126.28,045,2.2,014km S 82° E of General Luna (Surigao Del Norte),014,S 82° E,General Luna (Surigao Del Norte)
 2025-12-10T02:39:00.000Z,10 December 2025 - 02:39 AM,10.27,126.02,017,2.3,028km N 12° W of Burgos (Surigao Del Norte),028,N 12° W,Burgos (Surigao Del Norte)
 2025-12-10T02:32:00.000Z,10 December 2025 - 02:32 AM,08.22,126.72,009,2.1,040km N 59° E of Lingig (Surigao Del Sur),040,N 59° E,Lingig (Surigao Del Sur)
 2025-12-10T02:21:00.000Z,10 December 2025 - 02:21 AM,10.95,123.95,010,1.9,011km S 19° W of City Of Bogo (Cebu),011,S 19° W,City Of Bogo (Cebu)
@@ -44,5 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-09T04:06:00.000Z,09 December 2025 - 04:06 AM,07.86,123.14,031,1.7,006km N 88° E of Lakewood (Zamboanga Del Sur),006,N 88° E,Lakewood (Zamboanga Del Sur)
 2025-12-09T04:02:00.000Z,09 December 2025 - 04:02 AM,15.51,120.13,069,1.5,019km S 84° E of Masinloc (Zambales),019,S 84° E,Masinloc (Zambales)
 2025-12-09T04:02:00.000Z,09 December 2025 - 04:02 AM,17.35,121.76,029,1.8,005km S 09° W of Santo Tomas (Isabela),005,S 09° W,Santo Tomas (Isabela)
-2025-12-09T02:50:00.000Z,09 December 2025 - 02:50 AM,07.66,124.72,022,2.1,003km N 09° W of Wao (Lanao Del Sur),003,N 09° W,Wao (Lanao Del Sur)
-2025-12-09T02:43:00.000Z,09 December 2025 - 02:43 AM,17.48,120.70,014,1.9,006km S 18° W of Bucay (Abra),006,S 18° W,Bucay (Abra)
