@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T16:13:00.000Z,09 December 2025 - 04:13 PM,14.14,120.28,074,1.4,036km N 28° E of Lubang (Occidental Mindoro),036,N 28° E,Lubang (Occidental Mindoro)
+2025-12-09T16:04:00.000Z,09 December 2025 - 04:04 PM,06.54,124.97,101,2.6,012km N 27° E of Tampakan (South Cotabato),012,N 27° E,Tampakan (South Cotabato)
+2025-12-09T16:02:00.000Z,09 December 2025 - 04:02 PM,06.22,124.73,007,2.3,003km S 72° E of Lake Sebu (South Cotabato),003,S 72° E,Lake Sebu (South Cotabato)
+2025-12-09T15:58:00.000Z,09 December 2025 - 03:58 PM,11.03,124.06,009,2.8,009km S 79° E of City Of Bogo (Cebu),009,S 79° E,City Of Bogo (Cebu)
 2025-12-09T15:32:00.000Z,09 December 2025 - 03:32 PM,06.33,126.31,124,2.3,044km S 36° E of Governor Generoso (Davao Oriental),044,S 36° E,Governor Generoso (Davao Oriental)
 2025-12-09T15:31:00.000Z,09 December 2025 - 03:31 PM,06.71,124.26,006,1.9,021km S 37° E of South Upi (Maguindanao Del Sur),021,S 37° E,South Upi (Maguindanao Del Sur)
 2025-12-09T14:05:00.000Z,09 December 2025 - 02:05 PM,05.95,126.91,149,2.2,121km S 50° E of Governor Generoso (Davao Oriental),121,S 50° E,Governor Generoso (Davao Oriental)
@@ -38,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-08T18:21:00.000Z,08 December 2025 - 06:21 PM,08.58,125.69,033,1.8,010km N 31° W of San Luis (Agusan Del Sur),010,N 31° W,San Luis (Agusan Del Sur)
 2025-12-08T17:56:00.000Z,08 December 2025 - 05:56 PM,08.99,126.21,047,2.2,005km S 39° W of Tago (Surigao Del Sur),005,S 39° W,Tago (Surigao Del Sur)
 2025-12-08T17:30:00.000Z,08 December 2025 - 05:30 PM,12.88,121.12,023,2.0,036km N 88° W of Bansud (Oriental Mindoro),036,N 88° W,Bansud (Oriental Mindoro)
-2025-12-08T15:42:00.000Z,08 December 2025 - 03:42 PM,19.06,121.22,019,2.7,006km S 18° E of Dalupiri Island (Calayan) (Cagayan),006,S 18° E,Dalupiri Island (Calayan) (Cagayan)
