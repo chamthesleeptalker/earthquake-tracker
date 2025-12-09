@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T15:32:00.000Z,09 December 2025 - 03:32 PM,06.33,126.31,124,2.3,044km S 36° E of Governor Generoso (Davao Oriental),044,S 36° E,Governor Generoso (Davao Oriental)
+2025-12-09T15:31:00.000Z,09 December 2025 - 03:31 PM,06.71,124.26,006,1.9,021km S 37° E of South Upi (Maguindanao Del Sur),021,S 37° E,South Upi (Maguindanao Del Sur)
 2025-12-09T14:05:00.000Z,09 December 2025 - 02:05 PM,05.95,126.91,149,2.2,121km S 50° E of Governor Generoso (Davao Oriental),121,S 50° E,Governor Generoso (Davao Oriental)
 2025-12-09T13:03:00.000Z,09 December 2025 - 01:03 PM,09.64,126.12,036,2.0,016km S 15° W of General Luna (Surigao Del Norte),016,S 15° W,General Luna (Surigao Del Norte)
 2025-12-09T11:55:00.000Z,09 December 2025 - 11:55 AM,08.35,125.98,007,1.8,005km S 30° W of Rosario (Agusan Del Sur),005,S 30° W,Rosario (Agusan Del Sur)
@@ -37,5 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-08T17:56:00.000Z,08 December 2025 - 05:56 PM,08.99,126.21,047,2.2,005km S 39° W of Tago (Surigao Del Sur),005,S 39° W,Tago (Surigao Del Sur)
 2025-12-08T17:30:00.000Z,08 December 2025 - 05:30 PM,12.88,121.12,023,2.0,036km N 88° W of Bansud (Oriental Mindoro),036,N 88° W,Bansud (Oriental Mindoro)
 2025-12-08T15:42:00.000Z,08 December 2025 - 03:42 PM,19.06,121.22,019,2.7,006km S 18° E of Dalupiri Island (Calayan) (Cagayan),006,S 18° E,Dalupiri Island (Calayan) (Cagayan)
-2025-12-08T15:02:00.000Z,08 December 2025 - 03:02 PM,10.92,123.87,004,2.7,019km S 40° W of City Of Bogo (Cebu),019,S 40° W,City Of Bogo (Cebu)
-2025-12-08T14:05:00.000Z,08 December 2025 - 02:05 PM,12.96,121.20,002,2.1,024km S 65° W of Socorro (Oriental Mindoro),024,S 65° W,Socorro (Oriental Mindoro)
