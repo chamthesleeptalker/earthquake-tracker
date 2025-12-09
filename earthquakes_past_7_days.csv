@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-09T11:55:00.000Z,09 December 2025 - 11:55 AM,08.35,125.98,007,1.8,005km S 30° W of Rosario (Agusan Del Sur),005,S 30° W,Rosario (Agusan Del Sur)
 2025-12-09T10:11:00.000Z,09 December 2025 - 10:11 AM,11.10,124.13,034,2.4,017km N 70° E of City Of Bogo (Cebu),017,N 70° E,City Of Bogo (Cebu)
 2025-12-09T09:42:00.000Z,09 December 2025 - 09:42 AM,18.48,121.65,003,2.3,014km N 06° E of Aparri (Cagayan),014,N 06° E,Aparri (Cagayan)
 2025-12-09T09:35:00.000Z,09 December 2025 - 09:35 AM,15.25,119.88,033,1.5,014km S 50° W of Iba (Zambales),014,S 50° W,Iba (Zambales)
@@ -279,4 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-02T13:03:00.000Z,02 December 2025 - 01:03 PM,09.06,126.48,025,2.0,025km N 52° E of Cagwait (Surigao Del Sur),025,N 52° E,Cagwait (Surigao Del Sur)
 2025-12-02T12:17:00.000Z,02 December 2025 - 12:17 PM,13.30,120.14,033,1.4,037km S 69° W of Paluan (Occidental Mindoro),037,S 69° W,Paluan (Occidental Mindoro)
 2025-12-02T12:07:00.000Z,02 December 2025 - 12:07 PM,09.94,126.07,013,2.5,002km West of San Isidro (Surigao Del Norte),002,West of San,(Surigao Del Norte)
-2025-12-02T10:34:00.000Z,02 December 2025 - 10:34 AM,12.66,123.61,006,3.2,007km N 71° W of Monreal (Masbate),007,N 71° W,Monreal (Masbate)
