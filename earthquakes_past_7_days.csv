@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T04:08:00.000Z,11 December 2025 - 04:08 AM,05.94,124.83,025,2.3,021km N 67° W of Maasim (Sarangani),021,N 67° W,Maasim (Sarangani)
+2025-12-11T03:59:00.000Z,11 December 2025 - 03:59 AM,14.07,120.93,033,2.3,002km N 04° E of Laurel (Batangas),002,N 04° E,Laurel (Batangas)
+2025-12-11T03:31:00.000Z,11 December 2025 - 03:31 AM,10.75,122.76,028,1.1,009km S 32° E of Dumangas (Iloilo),009,S 32° E,Dumangas (Iloilo)
 2025-12-11T03:22:00.000Z,11 December 2025 - 03:22 AM,18.50,120.60,008,4.1,005km S 70° W of Burgos (Ilocos Norte),005,S 70° W,Burgos (Ilocos Norte)
 2025-12-11T03:06:00.000Z,11 December 2025 - 03:06 AM,07.52,126.70,034,2.1,039km N 27° E of Manay (Davao Oriental),039,N 27° E,Manay (Davao Oriental)
 2025-12-11T02:49:00.000Z,11 December 2025 - 02:49 AM,06.47,125.54,008,1.8,010km N 53° W of Malita (Davao Occidental),010,N 53° W,Malita (Davao Occidental)
@@ -274,9 +277,7 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-04T11:07:00.000Z,04 December 2025 - 11:07 AM,09.62,126.51,013,3.1,043km S 66° E of General Luna (Surigao Del Norte),043,S 66° E,General Luna (Surigao Del Norte)
 2025-12-04T09:53:00.000Z,04 December 2025 - 09:53 AM,10.98,124.06,033,2.1,012km S 51° E of City Of Bogo (Cebu),012,S 51° E,City Of Bogo (Cebu)
 2025-12-04T07:34:00.000Z,04 December 2025 - 07:34 AM,09.89,125.47,024,2.2,011km N 14° W of City Of Surigao (Surigao Del Norte),011,N 14° W,City Of Surigao (Surigao Del Norte)
-2025-12-04T04:05:00.000Z,04 December 2025 - 04:05 AM,07.03,126.44,023,2.3,022km S 28° W of Manay (Davao Oriental),022,S 28° W,Manay (Davao Oriental)
 2025-12-04T06:11:00.000Z,04 December 2025 - 06:11 AM,09.36,126.10,030,3.0,014km N 77° E of Cantilan (Surigao Del Sur),014,N 77° E,Cantilan (Surigao Del Sur)
 2025-12-04T05:24:00.000Z,04 December 2025 - 05:24 AM,07.53,126.31,022,1.6,019km S 83° E of New Bataan (Davao De Oro),019,S 83° E,New Bataan (Davao De Oro)
 2025-12-04T05:01:00.000Z,04 December 2025 - 05:01 AM,06.41,127.22,080,1.8,111km S 50° E of Tarragona (Davao Oriental),111,S 50° E,Tarragona (Davao Oriental)
 2025-12-04T04:24:00.000Z,04 December 2025 - 04:24 AM,07.30,123.60,027,1.9,028km S 49° E of Tabina (Zamboanga Del Sur),028,S 49° E,Tabina (Zamboanga Del Sur)
-2025-12-04T03:33:00.000Z,04 December 2025 - 03:33 AM,09.56,122.34,023,2.8,015km S 72° W of Hinoba-an (Negros Occidental),015,S 72° W,Hinoba-an (Negros Occidental)
