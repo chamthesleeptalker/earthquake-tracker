@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T22:09:00.000Z,10 December 2025 - 10:09 PM,05.51,127.37,032,4.2,192km S 49° E of Governor Generoso (Davao Oriental),192,S 49° E,Governor Generoso (Davao Oriental)
 2025-12-10T21:02:00.000Z,10 December 2025 - 09:02 PM,10.15,125.86,013,2.2,024km N 52° W of Santa Monica (Surigao Del Norte),024,N 52° W,Santa Monica (Surigao Del Norte)
 2025-12-10T20:34:00.000Z,10 December 2025 - 08:34 PM,06.44,123.06,018,2.4,090km S 76° E of Hadji Mohammad Ajul (Basilan),090,S 76° E,Hadji Mohammad Ajul (Basilan)
 2025-12-10T20:18:00.000Z,10 December 2025 - 08:18 PM,16.97,121.08,032,1.5,006km N 13° E of Banaue (Ifugao),006,N 13° E,Banaue (Ifugao)
@@ -271,5 +272,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T22:53:00.000Z,03 December 2025 - 10:53 PM,11.38,125.39,010,1.8,016km S 53° W of Balangkayan (Eastern Samar),016,S 53° W,Balangkayan (Eastern Samar)
 2025-12-03T22:41:00.000Z,03 December 2025 - 10:41 PM,16.16,120.05,023,2.1,008km N 87° E of City Of Alaminos (Pangasinan),008,N 87° E,City Of Alaminos (Pangasinan)
 2025-12-03T22:19:00.000Z,03 December 2025 - 10:19 PM,13.92,120.58,007,1.4,012km N 31° W of Calatagan (Batangas),012,N 31° W,Calatagan (Batangas)
-2025-12-03T21:50:00.000Z,03 December 2025 - 09:50 PM,15.02,119.44,006,2.8,067km S 59° W of Iba (Zambales),067,S 59° W,Iba (Zambales)
-2025-12-03T21:41:00.000Z,03 December 2025 - 09:41 PM,10.61,125.66,005,3.0,017km S 25° W of Homonhon Island (Guiuan) (Eastern Samar),017,S 25° W,Homonhon Island (Guiuan) (Eastern Samar)
