@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T01:08:00.000Z,11 December 2025 - 01:08 AM,17.61,120.51,034,1.9,007km N 53° W of Langiden (Abra),007,N 53° W,Langiden (Abra)
 2025-12-11T00:21:00.000Z,11 December 2025 - 12:21 AM,18.56,120.65,030,2.1,006km N 08° E of Burgos (Ilocos Norte),006,N 08° E,Burgos (Ilocos Norte)
 2025-12-10T07:48:00.000Z,10 December 2025 - 07:48 AM,11.70,126.43,032,3.1,097km N 67° E of Hernani (Eastern Samar),097,N 67° E,Hernani (Eastern Samar)
 2025-12-11T00:16:00.000Z,11 December 2025 - 12:16 AM,18.40,120.98,008,2.2,011km S 48° E of Adams (Ilocos Norte),011,S 48° E,Adams (Ilocos Norte)
@@ -45,5 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-10T01:31:00.000Z,10 December 2025 - 01:31 AM,08.68,124.66,021,1.6,011km N 71° W of Jasaan (Misamis Oriental),011,N 71° W,Jasaan (Misamis Oriental)
 2025-12-10T01:22:00.000Z,10 December 2025 - 01:22 AM,09.59,125.63,009,2.4,002km S 35° W of Bacuag (Surigao Del Norte),002,S 35° W,Bacuag (Surigao Del Norte)
 2025-12-10T01:17:00.000Z,10 December 2025 - 01:17 AM,16.00,119.86,022,2.0,002km N 68° W of Dasol (Pangasinan),002,N 68° W,Dasol (Pangasinan)
-2025-12-10T01:07:00.000Z,10 December 2025 - 01:07 AM,11.20,124.16,003,2.4,025km N 49° E of City Of Bogo (Cebu),025,N 49° E,City Of Bogo (Cebu)
-2025-12-10T00:57:00.000Z,10 December 2025 - 12:57 AM,13.53,120.94,001,1.9,004km N 20° W of Puerto Galera (Oriental Mindoro),004,N 20° W,Puerto Galera (Oriental Mindoro)
