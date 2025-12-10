@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T17:34:00.000Z,10 December 2025 - 05:34 PM,17.58,120.15,020,2.3,023km S 88° W of Santa Catalina (Ilocos Sur),023,S 88° W,Santa Catalina (Ilocos Sur)
+2025-12-10T17:25:00.000Z,10 December 2025 - 05:25 PM,05.48,126.41,104,2.0,097km S 60° E of Jose Abad Santos (Davao Occidental),097,S 60° E,Jose Abad Santos (Davao Occidental)
 2025-12-10T16:41:00.000Z,10 December 2025 - 04:41 PM,06.01,127.01,102,2.6,126km S 55° E of Governor Generoso (Davao Oriental),126,S 55° E,Governor Generoso (Davao Oriental)
 2025-12-10T15:40:00.000Z,10 December 2025 - 03:40 PM,08.43,125.85,007,4.4,008km S 76° E of Talacogon (Agusan Del Sur),008,S 76° E,Talacogon (Agusan Del Sur)
 2025-12-10T15:41:00.000Z,10 December 2025 - 03:41 PM,08.39,125.87,010,4.4,011km S 55° E of Talacogon (Agusan Del Sur),011,S 55° E,Talacogon (Agusan Del Sur)

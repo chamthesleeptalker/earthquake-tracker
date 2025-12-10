@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T17:34:00.000Z,10 December 2025 - 05:34 PM,17.58,120.15,020,2.3,023km S 88° W of Santa Catalina (Ilocos Sur),023,S 88° W,Santa Catalina (Ilocos Sur)
+2025-12-10T17:25:00.000Z,10 December 2025 - 05:25 PM,05.48,126.41,104,2.0,097km S 60° E of Jose Abad Santos (Davao Occidental),097,S 60° E,Jose Abad Santos (Davao Occidental)
 2025-12-10T16:41:00.000Z,10 December 2025 - 04:41 PM,06.01,127.01,102,2.6,126km S 55° E of Governor Generoso (Davao Oriental),126,S 55° E,Governor Generoso (Davao Oriental)
 2025-12-10T15:40:00.000Z,10 December 2025 - 03:40 PM,08.43,125.85,007,4.4,008km S 76° E of Talacogon (Agusan Del Sur),008,S 76° E,Talacogon (Agusan Del Sur)
 2025-12-10T15:41:00.000Z,10 December 2025 - 03:41 PM,08.39,125.87,010,4.4,011km S 55° E of Talacogon (Agusan Del Sur),011,S 55° E,Talacogon (Agusan Del Sur)
@@ -246,7 +248,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-04T11:07:00.000Z,04 December 2025 - 11:07 AM,09.62,126.51,013,3.1,043km S 66° E of General Luna (Surigao Del Norte),043,S 66° E,General Luna (Surigao Del Norte)
 2025-12-03T17:47:00.000Z,03 December 2025 - 05:47 PM,14.55,123.09,001,2.3,018km N 62° E of Tinaga Island (Vinzons) (Camarines Norte),018,N 62° E,Tinaga Island (Vinzons) (Camarines Norte)
 2025-12-04T09:53:00.000Z,04 December 2025 - 09:53 AM,10.98,124.06,033,2.1,012km S 51° E of City Of Bogo (Cebu),012,S 51° E,City Of Bogo (Cebu)
-2025-12-03T17:15:00.000Z,03 December 2025 - 05:15 PM,09.77,124.72,011,1.9,016km N 81° E of Anda (Bohol),016,N 81° E,Anda (Bohol)
 2025-12-04T07:34:00.000Z,04 December 2025 - 07:34 AM,09.89,125.47,024,2.2,011km N 14° W of City Of Surigao (Surigao Del Norte),011,N 14° W,City Of Surigao (Surigao Del Norte)
 2025-12-04T04:05:00.000Z,04 December 2025 - 04:05 AM,07.03,126.44,023,2.3,022km S 28° W of Manay (Davao Oriental),022,S 28° W,Manay (Davao Oriental)
 2025-12-04T06:11:00.000Z,04 December 2025 - 06:11 AM,09.36,126.10,030,3.0,014km N 77° E of Cantilan (Surigao Del Sur),014,N 77° E,Cantilan (Surigao Del Sur)
@@ -278,4 +279,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-03T17:41:00.000Z,03 December 2025 - 05:41 PM,13.55,121.50,019,2.1,033km N 41° E of Naujan (Oriental Mindoro),033,N 41° E,Naujan (Oriental Mindoro)
 2025-12-03T17:41:00.000Z,03 December 2025 - 05:41 PM,09.53,123.67,032,1.6,011km S 56° W of Panglao (Bohol),011,S 56° W,Panglao (Bohol)
 2025-12-03T17:39:00.000Z,03 December 2025 - 05:39 PM,04.90,125.79,106,2.5,070km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),070,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-03T17:14:00.000Z,03 December 2025 - 05:14 PM,09.83,124.83,034,1.3,029km N 70° E of Anda (Bohol),029,N 70° E,Anda (Bohol)
