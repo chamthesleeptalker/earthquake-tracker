@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T05:03:00.000Z,11 December 2025 - 05:03 AM,10.97,123.93,005,2.7,010km S 30° W of City Of Bogo (Cebu),010,S 30° W,City Of Bogo (Cebu)
+2025-12-11T04:42:00.000Z,11 December 2025 - 04:42 AM,06.29,126.37,052,1.8,052km S 39° E of Governor Generoso (Davao Oriental),052,S 39° E,Governor Generoso (Davao Oriental)
+2025-12-11T04:38:00.000Z,11 December 2025 - 04:38 AM,12.80,123.00,031,2.6,029km S 67° W of Claveria (Masbate),029,S 67° W,Claveria (Masbate)
 2025-12-11T04:08:00.000Z,11 December 2025 - 04:08 AM,05.94,124.83,025,2.3,021km N 67° W of Maasim (Sarangani),021,N 67° W,Maasim (Sarangani)
 2025-12-11T03:59:00.000Z,11 December 2025 - 03:59 AM,14.07,120.93,033,2.3,002km N 04° E of Laurel (Batangas),002,N 04° E,Laurel (Batangas)
 2025-12-11T03:31:00.000Z,11 December 2025 - 03:31 AM,10.75,122.76,028,1.1,009km S 32° E of Dumangas (Iloilo),009,S 32° E,Dumangas (Iloilo)
