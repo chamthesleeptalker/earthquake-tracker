@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T02:17:00.000Z,11 December 2025 - 02:17 AM,08.46,126.54,020,2.2,024km N 65° E of Hinatuan (Surigao Del Sur),024,N 65° E,Hinatuan (Surigao Del Sur)
+2025-12-11T02:14:00.000Z,11 December 2025 - 02:14 AM,18.05,120.56,028,1.7,001km S 21° W of City Of Batac (Ilocos Norte),001,S 21° W,City Of Batac (Ilocos Norte)
+2025-12-11T01:48:00.000Z,11 December 2025 - 01:48 AM,06.17,127.05,073,2.5,121km S 64° E of Governor Generoso (Davao Oriental),121,S 64° E,Governor Generoso (Davao Oriental)
 2025-12-11T01:08:00.000Z,11 December 2025 - 01:08 AM,17.61,120.51,034,1.9,007km N 53° W of Langiden (Abra),007,N 53° W,Langiden (Abra)
 2025-12-11T00:21:00.000Z,11 December 2025 - 12:21 AM,18.56,120.65,030,2.1,006km N 08° E of Burgos (Ilocos Norte),006,N 08° E,Burgos (Ilocos Norte)
 2025-12-11T00:16:00.000Z,11 December 2025 - 12:16 AM,18.40,120.98,008,2.2,011km S 48° E of Adams (Ilocos Norte),011,S 48° E,Adams (Ilocos Norte)
