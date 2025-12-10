@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-10T15:41:00.000Z,10 December 2025 - 03:41 PM,08.39,125.87,010,4.4,011km S 55° E of Talacogon (Agusan Del Sur),011,S 55° E,Talacogon (Agusan Del Sur)
 2025-12-10T14:07:00.000Z,10 December 2025 - 02:07 PM,18.44,120.74,008,2.6,013km S 52° E of Burgos (Ilocos Norte),013,S 52° E,Burgos (Ilocos Norte)
 2025-12-10T13:57:00.000Z,10 December 2025 - 01:57 PM,18.48,120.70,014,3.7,006km S 57° E of Burgos (Ilocos Norte),006,S 57° E,Burgos (Ilocos Norte)
 2025-12-10T13:55:00.000Z,10 December 2025 - 01:55 PM,09.77,126.19,029,2.3,004km S 65° E of General Luna (Surigao Del Norte),004,S 65° E,General Luna (Surigao Del Norte)
@@ -41,5 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-09T16:04:00.000Z,09 December 2025 - 04:04 PM,06.54,124.97,101,2.6,012km N 27° E of Tampakan (South Cotabato),012,N 27° E,Tampakan (South Cotabato)
 2025-12-09T16:02:00.000Z,09 December 2025 - 04:02 PM,06.22,124.73,007,2.3,003km S 72° E of Lake Sebu (South Cotabato),003,S 72° E,Lake Sebu (South Cotabato)
 2025-12-09T15:58:00.000Z,09 December 2025 - 03:58 PM,11.03,124.06,009,2.8,009km S 79° E of City Of Bogo (Cebu),009,S 79° E,City Of Bogo (Cebu)
-2025-12-09T15:32:00.000Z,09 December 2025 - 03:32 PM,06.33,126.31,124,2.3,044km S 36° E of Governor Generoso (Davao Oriental),044,S 36° E,Governor Generoso (Davao Oriental)
-2025-12-09T15:31:00.000Z,09 December 2025 - 03:31 PM,06.71,124.26,006,1.9,021km S 37° E of South Upi (Maguindanao Del Sur),021,S 37° E,South Upi (Maguindanao Del Sur)
