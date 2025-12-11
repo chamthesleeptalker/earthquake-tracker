@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-12T00:45:00.000Z,12 December 2025 - 12:45 AM,11.15,124.14,010,3.1,021km N 56° E of City Of Bogo (Cebu),021,N 56° E,City Of Bogo (Cebu)
 2025-12-12T00:18:00.000Z,12 December 2025 - 12:18 AM,11.27,124.30,003,3.0,009km S 64° W of Tabango (Leyte),009,S 64° W,Tabango (Leyte)
 2025-12-11T23:42:00.000Z,11 December 2025 - 11:42 PM,12.49,123.59,017,2.1,010km N 79° E of Baleno (Masbate),010,N 79° E,Baleno (Masbate)
 2025-12-11T23:33:00.000Z,11 December 2025 - 11:33 PM,19.08,120.26,015,2.8,075km N 33° W of Burgos (Ilocos Norte),075,N 33° W,Burgos (Ilocos Norte)
@@ -67,4 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-11T02:14:00.000Z,11 December 2025 - 02:14 AM,18.05,120.56,028,1.7,001km S 21° W of City Of Batac (Ilocos Norte),001,S 21° W,City Of Batac (Ilocos Norte)
 2025-12-11T01:48:00.000Z,11 December 2025 - 01:48 AM,06.17,127.05,073,2.5,121km S 64° E of Governor Generoso (Davao Oriental),121,S 64° E,Governor Generoso (Davao Oriental)
 2025-12-11T01:08:00.000Z,11 December 2025 - 01:08 AM,17.61,120.51,034,1.9,007km N 53° W of Langiden (Abra),007,N 53° W,Langiden (Abra)
-2025-12-11T00:21:00.000Z,11 December 2025 - 12:21 AM,18.56,120.65,030,2.1,006km N 08° E of Burgos (Ilocos Norte),006,N 08° E,Burgos (Ilocos Norte)
