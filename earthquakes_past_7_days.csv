@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-12T00:18:00.000Z,12 December 2025 - 12:18 AM,11.27,124.30,003,3.0,009km S 64° W of Tabango (Leyte),009,S 64° W,Tabango (Leyte)
+2025-12-11T23:42:00.000Z,11 December 2025 - 11:42 PM,12.49,123.59,017,2.1,010km N 79° E of Baleno (Masbate),010,N 79° E,Baleno (Masbate)
 2025-12-11T23:33:00.000Z,11 December 2025 - 11:33 PM,19.08,120.26,015,2.8,075km N 33° W of Burgos (Ilocos Norte),075,N 33° W,Burgos (Ilocos Norte)
 2025-12-11T23:29:00.000Z,11 December 2025 - 11:29 PM,11.04,124.08,007,2.4,011km S 84° E of City Of Bogo (Cebu),011,S 84° E,City Of Bogo (Cebu)
 2025-12-11T23:27:00.000Z,11 December 2025 - 11:27 PM,07.37,126.69,003,2.2,024km N 41° E of Manay (Davao Oriental),024,N 41° E,Manay (Davao Oriental)
@@ -315,4 +317,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T01:19:00.000Z,05 December 2025 - 01:19 AM,04.87,125.28,033,3.6,062km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 15° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-05T01:16:00.000Z,05 December 2025 - 01:16 AM,14.03,120.47,115,2.2,018km S 74° W of Nasugbu (Batangas),018,S 74° W,Nasugbu (Batangas)
 2025-12-05T00:33:00.000Z,05 December 2025 - 12:33 AM,12.72,123.24,020,2.6,020km S 02° W of Claveria (Masbate),020,S 02° W,Claveria (Masbate)
-2025-12-05T00:00:00.000Z,05 December 2025 - 12:00 AM,09.56,126.13,008,2.0,019km S 71° E of Socorro (Surigao Del Norte),019,S 71° E,Socorro (Surigao Del Norte)
