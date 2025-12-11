@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T13:34:00.000Z,11 December 2025 - 01:34 PM,06.70,126.92,030,2.8,065km S 54° E of Tarragona (Davao Oriental),065,S 54° E,Tarragona (Davao Oriental)
 2025-12-11T13:01:00.000Z,11 December 2025 - 01:01 PM,10.98,124.09,025,2.0,014km S 60° E of City Of Bogo (Cebu),014,S 60° E,City Of Bogo (Cebu)
 2025-12-11T10:31:00.000Z,11 December 2025 - 10:31 AM,07.84,126.45,027,1.9,005km N 06° W of Cateel (Davao Oriental),005,N 06° W,Cateel (Davao Oriental)
 2025-12-10T16:40:00.000Z,10 December 2025 - 04:40 PM,05.46,127.47,092,2.8,204km S 49° E of Governor Generoso (Davao Oriental),204,S 49° E,Governor Generoso (Davao Oriental)
@@ -286,4 +287,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-04T15:15:00.000Z,04 December 2025 - 03:15 PM,14.00,120.44,053,1.5,023km S 68° W of Nasugbu (Batangas),023,S 68° W,Nasugbu (Batangas)
 2025-12-04T13:58:00.000Z,04 December 2025 - 01:58 PM,07.03,126.98,018,2.2,052km S 68° E of Manay (Davao Oriental),052,S 68° E,Manay (Davao Oriental)
 2025-12-04T13:48:00.000Z,04 December 2025 - 01:48 PM,08.73,126.24,025,1.5,002km S 43° E of San Agustin (Surigao Del Sur),002,S 43° E,San Agustin (Surigao Del Sur)
-2025-12-04T13:11:00.000Z,04 December 2025 - 01:11 PM,05.56,125.72,051,2.7,029km N 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),029,N 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
