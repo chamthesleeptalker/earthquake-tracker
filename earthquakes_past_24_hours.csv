@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T23:33:00.000Z,11 December 2025 - 11:33 PM,19.08,120.26,015,2.8,075km N 33° W of Burgos (Ilocos Norte),075,N 33° W,Burgos (Ilocos Norte)
+2025-12-11T23:29:00.000Z,11 December 2025 - 11:29 PM,11.04,124.08,007,2.4,011km S 84° E of City Of Bogo (Cebu),011,S 84° E,City Of Bogo (Cebu)
+2025-12-11T23:27:00.000Z,11 December 2025 - 11:27 PM,07.37,126.69,003,2.2,024km N 41° E of Manay (Davao Oriental),024,N 41° E,Manay (Davao Oriental)
+2025-12-11T23:12:00.000Z,11 December 2025 - 11:12 PM,07.89,127.08,010,2.4,067km N 59° E of Baganga (Davao Oriental),067,N 59° E,Baganga (Davao Oriental)
 2025-12-11T23:08:00.000Z,11 December 2025 - 11:08 PM,12.43,120.51,033,1.5,049km S 71° W of Calintaan (Occidental Mindoro),049,S 71° W,Calintaan (Occidental Mindoro)
 2025-12-11T23:00:00.000Z,11 December 2025 - 11:00 PM,09.53,126.18,033,1.7,028km S 06° E of General Luna (Surigao Del Norte),028,S 06° E,General Luna (Surigao Del Norte)
 2025-12-11T22:54:00.000Z,11 December 2025 - 10:54 PM,07.03,126.99,012,3.0,054km S 68° E of Manay (Davao Oriental),054,S 68° E,Manay (Davao Oriental)
@@ -67,4 +71,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-11T00:01:00.000Z,11 December 2025 - 12:01 AM,11.13,124.00,033,1.7,009km N 15° E of City Of Bogo (Cebu),009,N 15° E,City Of Bogo (Cebu)
 2025-12-10T23:46:00.000Z,10 December 2025 - 11:46 PM,18.32,121.22,016,1.6,014km S 84° W of Luna (Apayao),014,S 84° W,Luna (Apayao)
 2025-12-10T23:44:00.000Z,10 December 2025 - 11:44 PM,07.68,126.54,032,2.0,011km N 11° W of Baganga (Davao Oriental),011,N 11° W,Baganga (Davao Oriental)
-2025-12-10T23:20:00.000Z,10 December 2025 - 11:20 PM,11.10,124.11,005,3.0,015km N 69° E of City Of Bogo (Cebu),015,N 69° E,City Of Bogo (Cebu)
