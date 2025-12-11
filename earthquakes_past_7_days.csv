@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-12T02:14:00.000Z,12 December 2025 - 02:14 AM,08.29,126.27,011,2.1,010km N 34° W of City Of Bislig (Surigao Del Sur),010,N 34° W,City Of Bislig (Surigao Del Sur)
+2025-12-12T01:51:00.000Z,12 December 2025 - 01:51 AM,14.95,122.60,006,3.0,040km N 46° E of Jomalig (Quezon),040,N 46° E,Jomalig (Quezon)
+2025-12-12T01:39:00.000Z,12 December 2025 - 01:39 AM,07.41,126.71,025,2.3,029km N 40° E of Manay (Davao Oriental),029,N 40° E,Manay (Davao Oriental)
+2025-12-12T01:38:00.000Z,12 December 2025 - 01:38 AM,07.25,126.51,001,2.1,006km N 38° W of Manay (Davao Oriental),006,N 38° W,Manay (Davao Oriental)
 2025-12-12T00:56:00.000Z,12 December 2025 - 12:56 AM,13.80,124.04,017,2.0,019km N 83° E of Caramoan (Camarines Sur),019,N 83° E,Caramoan (Camarines Sur)
 2025-12-12T00:45:00.000Z,12 December 2025 - 12:45 AM,11.15,124.14,010,3.1,021km N 56° E of City Of Bogo (Cebu),021,N 56° E,City Of Bogo (Cebu)
 2025-12-12T00:18:00.000Z,12 December 2025 - 12:18 AM,11.27,124.30,003,3.0,009km S 64° W of Tabango (Leyte),009,S 64° W,Tabango (Leyte)
@@ -316,5 +320,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T03:15:00.000Z,05 December 2025 - 03:15 AM,07.30,126.69,008,2.7,020km N 60° E of Manay (Davao Oriental),020,N 60° E,Manay (Davao Oriental)
 2025-12-05T03:06:00.000Z,05 December 2025 - 03:06 AM,06.86,123.79,017,1.5,035km S 47° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),035,S 47° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-12-05T02:25:00.000Z,05 December 2025 - 02:25 AM,17.13,120.32,014,2.1,013km S 74° W of City Of Candon (Ilocos Sur),013,S 74° W,City Of Candon (Ilocos Sur)
-2025-12-05T01:19:00.000Z,05 December 2025 - 01:19 AM,04.87,125.28,033,3.6,062km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 15° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-05T01:16:00.000Z,05 December 2025 - 01:16 AM,14.03,120.47,115,2.2,018km S 74° W of Nasugbu (Batangas),018,S 74° W,Nasugbu (Batangas)
