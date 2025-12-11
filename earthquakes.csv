@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T15:58:00.000Z,11 December 2025 - 03:58 PM,08.03,123.18,018,2.2,015km N 89° W of Midsalip (Zamboanga Del Sur),015,N 89° W,Midsalip (Zamboanga Del Sur)
+2025-12-11T15:49:00.000Z,11 December 2025 - 03:49 PM,17.59,121.00,044,1.5,002km N 36° W of Malibcong (Abra),002,N 36° W,Malibcong (Abra)
 2025-12-11T15:07:00.000Z,11 December 2025 - 03:07 PM,13.69,125.16,031,2.8,084km S 83° E of Gigmoto (Catanduanes),084,S 83° E,Gigmoto (Catanduanes)
 2025-12-11T14:42:00.000Z,11 December 2025 - 02:42 PM,20.03,121.44,091,3.6,056km S 53° W of Sabtang (Batanes),056,S 53° W,Sabtang (Batanes)
 2025-12-11T14:34:00.000Z,11 December 2025 - 02:34 PM,08.66,126.24,028,1.6,016km S 21° W of Marihatag (Surigao Del Sur),016,S 21° W,Marihatag (Surigao Del Sur)
