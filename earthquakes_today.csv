@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-12T03:39:00.000Z,12 December 2025 - 03:39 AM,18.94,121.24,010,2.8,017km N 54° W of Fuga Island (Aparri) (Cagayan),017,N 54° W,Fuga Island (Aparri) (Cagayan)
+2025-12-12T03:29:00.000Z,12 December 2025 - 03:29 AM,09.65,126.14,031,1.7,015km S 08° W of General Luna (Surigao Del Norte),015,S 08° W,General Luna (Surigao Del Norte)
 2025-12-12T02:40:00.000Z,12 December 2025 - 02:40 AM,09.56,122.35,017,2.0,013km S 68° W of Hinoba-an (Negros Occidental),013,S 68° W,Hinoba-an (Negros Occidental)
 2025-12-12T02:14:00.000Z,12 December 2025 - 02:14 AM,08.29,126.27,011,2.1,010km N 34° W of City Of Bislig (Surigao Del Sur),010,N 34° W,City Of Bislig (Surigao Del Sur)
 2025-12-12T01:51:00.000Z,12 December 2025 - 01:51 AM,14.95,122.60,006,3.0,040km N 46° E of Jomalig (Quezon),040,N 46° E,Jomalig (Quezon)
