@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T14:18:00.000Z,11 December 2025 - 02:18 PM,08.79,126.69,007,3.7,043km S 88° E of Marihatag (Surigao Del Sur),043,S 88° E,Marihatag (Surigao Del Sur)
 2025-12-11T13:34:00.000Z,11 December 2025 - 01:34 PM,06.70,126.92,030,2.8,065km S 54° E of Tarragona (Davao Oriental),065,S 54° E,Tarragona (Davao Oriental)
 2025-12-11T13:01:00.000Z,11 December 2025 - 01:01 PM,10.98,124.09,025,2.0,014km S 60° E of City Of Bogo (Cebu),014,S 60° E,City Of Bogo (Cebu)
 2025-12-11T10:31:00.000Z,11 December 2025 - 10:31 AM,07.84,126.45,027,1.9,005km N 06° W of Cateel (Davao Oriental),005,N 06° W,Cateel (Davao Oriental)
@@ -47,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-10T16:41:00.000Z,10 December 2025 - 04:41 PM,06.01,127.01,102,2.6,126km S 55° E of Governor Generoso (Davao Oriental),126,S 55° E,Governor Generoso (Davao Oriental)
 2025-12-10T15:40:00.000Z,10 December 2025 - 03:40 PM,08.43,125.85,007,4.4,008km S 76° E of Talacogon (Agusan Del Sur),008,S 76° E,Talacogon (Agusan Del Sur)
 2025-12-10T15:41:00.000Z,10 December 2025 - 03:41 PM,08.39,125.87,010,4.4,011km S 55° E of Talacogon (Agusan Del Sur),011,S 55° E,Talacogon (Agusan Del Sur)
-2025-12-10T14:07:00.000Z,10 December 2025 - 02:07 PM,18.44,120.74,008,2.6,013km S 52° E of Burgos (Ilocos Norte),013,S 52° E,Burgos (Ilocos Norte)
-2025-12-10T13:57:00.000Z,10 December 2025 - 01:57 PM,18.48,120.70,014,3.7,006km S 57° E of Burgos (Ilocos Norte),006,S 57° E,Burgos (Ilocos Norte)
-2025-12-10T13:55:00.000Z,10 December 2025 - 01:55 PM,09.77,126.19,029,2.3,004km S 65° E of General Luna (Surigao Del Norte),004,S 65° E,General Luna (Surigao Del Norte)
