@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T19:49:00.000Z,11 December 2025 - 07:49 PM,08.66,126.25,032,1.4,016km S 19° W of Marihatag (Surigao Del Sur),016,S 19° W,Marihatag (Surigao Del Sur)
+2025-12-11T19:47:00.000Z,11 December 2025 - 07:47 PM,08.68,126.36,029,2.1,027km S 13° E of Cagwait (Surigao Del Sur),027,S 13° E,Cagwait (Surigao Del Sur)
+2025-12-11T19:44:00.000Z,11 December 2025 - 07:44 PM,09.58,122.39,011,2.0,008km S 76° W of Hinoba-an (Negros Occidental),008,S 76° W,Hinoba-an (Negros Occidental)
+2025-12-11T19:42:00.000Z,11 December 2025 - 07:42 PM,07.64,126.54,023,2.0,008km N 22° W of Baganga (Davao Oriental),008,N 22° W,Baganga (Davao Oriental)
+2025-12-11T19:39:00.000Z,11 December 2025 - 07:39 PM,08.69,126.23,028,2.5,014km S 32° W of Marihatag (Surigao Del Sur),014,S 32° W,Marihatag (Surigao Del Sur)
 2025-12-11T18:18:00.000Z,11 December 2025 - 06:18 PM,08.73,126.54,005,2.0,028km S 73° E of Marihatag (Surigao Del Sur),028,S 73° E,Marihatag (Surigao Del Sur)
 2025-12-11T17:57:00.000Z,11 December 2025 - 05:57 PM,09.04,126.91,053,3.1,068km N 79° E of Cagwait (Surigao Del Sur),068,N 79° E,Cagwait (Surigao Del Sur)
 2025-12-11T17:50:00.000Z,11 December 2025 - 05:50 PM,08.78,126.77,002,2.1,051km S 88° E of Marihatag (Surigao Del Sur),051,S 88° E,Marihatag (Surigao Del Sur)
@@ -301,4 +306,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-04T21:14:00.000Z,04 December 2025 - 09:14 PM,08.94,126.50,033,1.8,022km N 83° E of Cagwait (Surigao Del Sur),022,N 83° E,Cagwait (Surigao Del Sur)
 2025-12-04T21:08:00.000Z,04 December 2025 - 09:08 PM,12.81,123.26,009,2.4,010km S 06° E of Claveria (Masbate),010,S 06° E,Claveria (Masbate)
 2025-12-04T21:00:00.000Z,04 December 2025 - 09:00 PM,12.87,123.23,009,1.9,004km S 26° W of Claveria (Masbate),004,S 26° W,Claveria (Masbate)
-2025-12-04T18:33:00.000Z,04 December 2025 - 06:33 PM,09.64,126.21,035,1.4,016km S 20° E of General Luna (Surigao Del Norte),016,S 20° E,General Luna (Surigao Del Norte)
