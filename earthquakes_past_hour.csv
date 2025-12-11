@@ -1,3 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T15:07:00.000Z,11 December 2025 - 03:07 PM,13.69,125.16,031,2.8,084km S 83° E of Gigmoto (Catanduanes),084,S 83° E,Gigmoto (Catanduanes)
+2025-12-11T14:42:00.000Z,11 December 2025 - 02:42 PM,20.03,121.44,091,3.6,056km S 53° W of Sabtang (Batanes),056,S 53° W,Sabtang (Batanes)
+2025-12-11T14:34:00.000Z,11 December 2025 - 02:34 PM,08.66,126.24,028,1.6,016km S 21° W of Marihatag (Surigao Del Sur),016,S 21° W,Marihatag (Surigao Del Sur)
+2025-12-11T14:32:00.000Z,11 December 2025 - 02:32 PM,08.66,126.24,029,1.6,017km S 22° W of Marihatag (Surigao Del Sur),017,S 22° W,Marihatag (Surigao Del Sur)
+2025-12-11T14:32:00.000Z,11 December 2025 - 02:32 PM,08.78,126.59,025,1.7,032km S 86° E of Marihatag (Surigao Del Sur),032,S 86° E,Marihatag (Surigao Del Sur)
+2025-12-11T14:29:00.000Z,11 December 2025 - 02:29 PM,08.73,126.24,021,2.2,010km S 38° W of Marihatag (Surigao Del Sur),010,S 38° W,Marihatag (Surigao Del Sur)
 2025-12-11T14:18:00.000Z,11 December 2025 - 02:18 PM,08.79,126.69,007,3.7,043km S 88° E of Marihatag (Surigao Del Sur),043,S 88° E,Marihatag (Surigao Del Sur)
-2025-12-11T13:34:00.000Z,11 December 2025 - 01:34 PM,06.70,126.92,030,2.8,065km S 54° E of Tarragona (Davao Oriental),065,S 54° E,Tarragona (Davao Oriental)
