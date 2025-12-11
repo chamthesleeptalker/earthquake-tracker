@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T17:25:00.000Z,11 December 2025 - 05:25 PM,08.72,126.53,007,2.6,027km S 72° E of Marihatag (Surigao Del Sur),027,S 72° E,Marihatag (Surigao Del Sur)
 2025-12-11T17:01:00.000Z,11 December 2025 - 05:01 PM,08.91,126.76,022,2.4,051km S 89° E of Cagwait (Surigao Del Sur),051,S 89° E,Cagwait (Surigao Del Sur)
 2025-12-11T16:59:00.000Z,11 December 2025 - 04:59 PM,08.57,126.28,002,2.1,025km S 04° W of Marihatag (Surigao Del Sur),025,S 04° W,Marihatag (Surigao Del Sur)
 2025-12-11T16:56:00.000Z,11 December 2025 - 04:56 PM,08.85,126.80,003,4.1,055km N 84° E of Marihatag (Surigao Del Sur),055,N 84° E,Marihatag (Surigao Del Sur)
