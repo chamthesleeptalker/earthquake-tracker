@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-11T22:35:00.000Z,11 December 2025 - 10:35 PM,13.65,120.84,132,2.0,004km S 67° W of Tingloy (Batangas),004,S 67° W,Tingloy (Batangas)
+2025-12-11T22:23:00.000Z,11 December 2025 - 10:23 PM,06.97,127.15,017,2.9,073km S 69° E of Manay (Davao Oriental),073,S 69° E,Manay (Davao Oriental)
 2025-12-11T21:57:00.000Z,11 December 2025 - 09:57 PM,08.53,126.14,133,2.6,035km S 30° W of Marihatag (Surigao Del Sur),035,S 30° W,Marihatag (Surigao Del Sur)
 2025-12-11T21:52:00.000Z,11 December 2025 - 09:52 PM,14.07,120.77,121,1.6,007km N 39° E of Tuy (Batangas),007,N 39° E,Tuy (Batangas)
 2025-12-11T21:12:00.000Z,11 December 2025 - 09:12 PM,05.03,126.10,031,2.9,087km S 61° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),087,S 61° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -61,4 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-10T23:46:00.000Z,10 December 2025 - 11:46 PM,18.32,121.22,016,1.6,014km S 84° W of Luna (Apayao),014,S 84° W,Luna (Apayao)
 2025-12-10T23:44:00.000Z,10 December 2025 - 11:44 PM,07.68,126.54,032,2.0,011km N 11° W of Baganga (Davao Oriental),011,N 11° W,Baganga (Davao Oriental)
 2025-12-10T23:20:00.000Z,10 December 2025 - 11:20 PM,11.10,124.11,005,3.0,015km N 69° E of City Of Bogo (Cebu),015,N 69° E,City Of Bogo (Cebu)
-2025-12-10T22:09:00.000Z,10 December 2025 - 10:09 PM,05.51,127.37,032,4.2,192km S 49° E of Governor Generoso (Davao Oriental),192,S 49° E,Governor Generoso (Davao Oriental)
