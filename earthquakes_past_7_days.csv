@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-12T19:45:00.000Z,12 December 2025 - 07:45 PM,04.57,126.37,021,3.5,141km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),141,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-12T14:46:00.000Z,12 December 2025 - 02:46 PM,09.92,124.11,002,3.5,002km N 61° E of Sagbayan (Bohol),002,N 61° E,Sagbayan (Bohol)
 2025-12-12T14:40:00.000Z,12 December 2025 - 02:40 PM,05.95,127.13,086,3.7,140km S 56° E of Governor Generoso (Davao Oriental),140,S 56° E,Governor Generoso (Davao Oriental)
 2025-12-12T13:52:00.000Z,12 December 2025 - 01:52 PM,10.89,123.92,008,2.4,018km S 20° W of City Of Bogo (Cebu),018,S 20° W,City Of Bogo (Cebu)
@@ -317,7 +318,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.75,120.97,017,1.6,010km N 22° E of Tinoc (Ifugao),010,N 22° E,Tinoc (Ifugao)
 2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.71,120.98,004,2.4,006km N 52° E of Tinoc (Ifugao),006,N 52° E,Tinoc (Ifugao)
 2025-12-05T20:43:00.000Z,05 December 2025 - 08:43 PM,07.37,126.70,016,2.6,025km N 46° E of Manay (Davao Oriental),025,N 46° E,Manay (Davao Oriental)
-2025-12-05T19:21:00.000Z,05 December 2025 - 07:21 PM,17.54,120.60,001,3.1,003km S 19° E of Pidigan (Abra),003,S 19° E,Pidigan (Abra)
-2025-12-05T18:44:00.000Z,05 December 2025 - 06:44 PM,09.54,126.19,030,1.5,027km S 08° E of General Luna (Surigao Del Norte),027,S 08° E,General Luna (Surigao Del Norte)
-2025-12-05T17:36:00.000Z,05 December 2025 - 05:36 PM,10.88,123.95,002,2.1,018km S 09° W of City Of Bogo (Cebu),018,S 09° W,City Of Bogo (Cebu)
-2025-12-05T16:21:00.000Z,05 December 2025 - 04:21 PM,09.69,126.23,032,1.8,014km S 37° E of General Luna (Surigao Del Norte),014,S 37° E,General Luna (Surigao Del Norte)
