@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-12T21:16:00.000Z,12 December 2025 - 09:16 PM,14.85,122.84,025,3.5,057km N 73° E of Jomalig (Quezon),057,N 73° E,Jomalig (Quezon)
+2025-12-12T21:09:00.000Z,12 December 2025 - 09:09 PM,08.35,125.93,006,2.3,009km S 69° W of Rosario (Agusan Del Sur),009,S 69° W,Rosario (Agusan Del Sur)
+2025-12-11T22:22:00.000Z,11 December 2025 - 10:22 PM,06.87,127.65,001,2.9,128km S 73° E of Manay (Davao Oriental),128,S 73° E,Manay (Davao Oriental)
 2025-12-12T19:45:00.000Z,12 December 2025 - 07:45 PM,04.57,126.37,021,3.5,141km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),141,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-12T14:46:00.000Z,12 December 2025 - 02:46 PM,09.92,124.11,002,3.5,002km N 61° E of Sagbayan (Bohol),002,N 61° E,Sagbayan (Bohol)
 2025-12-12T14:40:00.000Z,12 December 2025 - 02:40 PM,05.95,127.13,086,3.7,140km S 56° E of Governor Generoso (Davao Oriental),140,S 56° E,Governor Generoso (Davao Oriental)
@@ -315,6 +318,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-05T22:05:00.000Z,05 December 2025 - 10:05 PM,12.76,123.19,002,2.0,017km S 22° W of Claveria (Masbate),017,S 22° W,Claveria (Masbate)
 2025-12-05T22:01:00.000Z,05 December 2025 - 10:01 PM,09.55,126.27,033,1.4,029km S 25° E of General Luna (Surigao Del Norte),029,S 25° E,General Luna (Surigao Del Norte)
 2025-12-05T22:00:00.000Z,05 December 2025 - 10:00 PM,08.18,127.05,006,2.2,072km N 77° E of Lingig (Surigao Del Sur),072,N 77° E,Lingig (Surigao Del Sur)
-2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.75,120.97,017,1.6,010km N 22° E of Tinoc (Ifugao),010,N 22° E,Tinoc (Ifugao)
-2025-12-05T20:58:00.000Z,05 December 2025 - 08:58 PM,16.71,120.98,004,2.4,006km N 52° E of Tinoc (Ifugao),006,N 52° E,Tinoc (Ifugao)
-2025-12-05T20:43:00.000Z,05 December 2025 - 08:43 PM,07.37,126.70,016,2.6,025km N 46° E of Manay (Davao Oriental),025,N 46° E,Manay (Davao Oriental)
