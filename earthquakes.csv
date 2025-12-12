@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T00:14:00.000Z,13 December 2025 - 12:14 AM,09.53,126.75,015,3.1,071km S 66° E of General Luna (Surigao Del Norte),071,S 66° E,General Luna (Surigao Del Norte)
 2025-12-12T23:19:00.000Z,12 December 2025 - 11:19 PM,13.50,120.36,033,2.4,014km N 51° W of Paluan (Occidental Mindoro),014,N 51° W,Paluan (Occidental Mindoro)
 2025-12-12T22:47:00.000Z,12 December 2025 - 10:47 PM,13.81,123.71,001,1.7,008km S 08° E of Garchitorena (Camarines Sur),008,S 08° E,Garchitorena (Camarines Sur)
 2025-12-12T22:42:00.000Z,12 December 2025 - 10:42 PM,13.49,121.30,034,1.6,018km N 45° E of City Of Calapan (Oriental Mindoro),018,N 45° E,City Of Calapan (Oriental Mindoro)
