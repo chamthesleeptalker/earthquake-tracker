@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T05:17:00.000Z,13 December 2025 - 05:17 AM,11.13,124.10,004,2.7,016km N 57° E of City Of Bogo (Cebu),016,N 57° E,City Of Bogo (Cebu)
+2025-12-13T05:13:00.000Z,13 December 2025 - 05:13 AM,09.64,126.24,039,2.2,018km S 29° E of General Luna (Surigao Del Norte),018,S 29° E,General Luna (Surigao Del Norte)
+2025-12-13T04:51:00.000Z,13 December 2025 - 04:51 AM,06.46,123.26,033,3.0,088km S 83° W of Kalamansig (Sultan Kudarat),088,S 83° W,Kalamansig (Sultan Kudarat)
 2025-12-13T04:49:00.000Z,13 December 2025 - 04:49 AM,13.79,120.52,081,2.1,014km S 67° W of Calatagan (Batangas),014,S 67° W,Calatagan (Batangas)
 2025-12-13T04:13:00.000Z,13 December 2025 - 04:13 AM,08.22,127.21,010,4.6,090km N 77° E of Lingig (Surigao Del Sur),090,N 77° E,Lingig (Surigao Del Sur)
 2025-12-13T03:46:00.000Z,13 December 2025 - 03:46 AM,17.86,119.41,005,2.5,105km N 74° W of Santa Catalina (Ilocos Sur),105,N 74° W,Santa Catalina (Ilocos Sur)
@@ -26,5 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-12T07:41:00.000Z,12 December 2025 - 07:41 AM,07.70,126.01,032,1.7,002km S 70° E of Montevista (Davao De Oro),002,S 70° E,Montevista (Davao De Oro)
 2025-12-12T06:29:00.000Z,12 December 2025 - 06:29 AM,10.67,122.53,033,2.0,005km S 63° W of City Of Iloilo (Iloilo),005,S 63° W,City Of Iloilo (Iloilo)
 2025-12-12T05:44:00.000Z,12 December 2025 - 05:44 AM,10.29,125.24,025,2.3,003km N 43° W of Anahawan (Southern Leyte),003,N 43° W,Anahawan (Southern Leyte)
-2025-12-12T05:09:00.000Z,12 December 2025 - 05:09 AM,06.97,125.08,010,2.0,004km S 24° W of City Of Kidapawan (Cotabato),004,S 24° W,City Of Kidapawan (Cotabato)
-2025-12-12T04:54:00.000Z,12 December 2025 - 04:54 AM,07.13,126.77,020,2.1,027km S 70° E of Manay (Davao Oriental),027,S 70° E,Manay (Davao Oriental)
