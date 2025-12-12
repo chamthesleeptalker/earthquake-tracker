@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T02:37:00.000Z,13 December 2025 - 02:37 AM,17.35,121.90,032,2.5,013km N 52° E of Tumauini (Isabela),013,N 52° E,Tumauini (Isabela)
+2025-12-13T02:25:00.000Z,13 December 2025 - 02:25 AM,08.46,126.71,026,2.1,043km N 76° E of Hinatuan (Surigao Del Sur),043,N 76° E,Hinatuan (Surigao Del Sur)
 2025-12-13T02:04:00.000Z,13 December 2025 - 02:04 AM,09.71,126.24,019,1.9,013km S 48° E of General Luna (Surigao Del Norte),013,S 48° E,General Luna (Surigao Del Norte)
 2025-12-13T01:10:00.000Z,13 December 2025 - 01:10 AM,08.51,126.78,014,3.1,051km N 72° E of Hinatuan (Surigao Del Sur),051,N 72° E,Hinatuan (Surigao Del Sur)
 2025-12-13T01:07:00.000Z,13 December 2025 - 01:07 AM,10.90,123.94,005,2.0,017km S 14° W of City Of Bogo (Cebu),017,S 14° W,City Of Bogo (Cebu)
@@ -27,4 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-12T03:39:00.000Z,12 December 2025 - 03:39 AM,18.94,121.24,010,2.8,017km N 54° W of Fuga Island (Aparri) (Cagayan),017,N 54° W,Fuga Island (Aparri) (Cagayan)
 2025-12-12T03:29:00.000Z,12 December 2025 - 03:29 AM,09.65,126.14,031,1.7,015km S 08° W of General Luna (Surigao Del Norte),015,S 08° W,General Luna (Surigao Del Norte)
 2025-12-12T02:40:00.000Z,12 December 2025 - 02:40 AM,09.56,122.35,017,2.0,013km S 68° W of Hinoba-an (Negros Occidental),013,S 68° W,Hinoba-an (Negros Occidental)
-2025-12-12T02:14:00.000Z,12 December 2025 - 02:14 AM,08.29,126.27,011,2.1,010km N 34° W of City Of Bislig (Surigao Del Sur),010,N 34° W,City Of Bislig (Surigao Del Sur)
