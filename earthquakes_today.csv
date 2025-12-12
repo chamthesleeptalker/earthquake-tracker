@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T04:13:00.000Z,13 December 2025 - 04:13 AM,08.22,127.21,010,4.6,090km N 77° E of Lingig (Surigao Del Sur),090,N 77° E,Lingig (Surigao Del Sur)
+2025-12-13T03:46:00.000Z,13 December 2025 - 03:46 AM,17.86,119.41,005,2.5,105km N 74° W of Santa Catalina (Ilocos Sur),105,N 74° W,Santa Catalina (Ilocos Sur)
 2025-12-13T02:37:00.000Z,13 December 2025 - 02:37 AM,17.35,121.90,032,2.5,013km N 52° E of Tumauini (Isabela),013,N 52° E,Tumauini (Isabela)
 2025-12-13T02:25:00.000Z,13 December 2025 - 02:25 AM,08.46,126.71,026,2.1,043km N 76° E of Hinatuan (Surigao Del Sur),043,N 76° E,Hinatuan (Surigao Del Sur)
 2025-12-13T02:04:00.000Z,13 December 2025 - 02:04 AM,09.71,126.24,019,1.9,013km S 48° E of General Luna (Surigao Del Norte),013,S 48° E,General Luna (Surigao Del Norte)
