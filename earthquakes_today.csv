@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-12T09:24:00.000Z,12 December 2025 - 09:24 AM,08.00,122.91,033,1.4,008km S 89° E of Godod (Zamboanga Del Norte),008,S 89° E,Godod (Zamboanga Del Norte)
 2025-12-12T08:22:00.000Z,12 December 2025 - 08:22 AM,13.92,123.74,010,4.3,005km N 47° E of Garchitorena (Camarines Sur),005,N 47° E,Garchitorena (Camarines Sur)
 2025-12-12T08:09:00.000Z,12 December 2025 - 08:09 AM,18.56,120.97,005,2.6,002km S 84° W of Santa Praxedes (Cagayan),002,S 84° W,Santa Praxedes (Cagayan)
 2025-12-12T07:41:00.000Z,12 December 2025 - 07:41 AM,07.70,126.01,032,1.7,002km S 70° E of Montevista (Davao De Oro),002,S 70° E,Montevista (Davao De Oro)
