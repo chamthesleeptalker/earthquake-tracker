@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T02:04:00.000Z,13 December 2025 - 02:04 AM,09.71,126.24,019,1.9,013km S 48° E of General Luna (Surigao Del Norte),013,S 48° E,General Luna (Surigao Del Norte)
 2025-12-13T01:10:00.000Z,13 December 2025 - 01:10 AM,08.51,126.78,014,3.1,051km N 72° E of Hinatuan (Surigao Del Sur),051,N 72° E,Hinatuan (Surigao Del Sur)
 2025-12-13T01:07:00.000Z,13 December 2025 - 01:07 AM,10.90,123.94,005,2.0,017km S 14° W of City Of Bogo (Cebu),017,S 14° W,City Of Bogo (Cebu)
 2025-12-13T01:01:00.000Z,13 December 2025 - 01:01 AM,13.72,120.49,094,2.0,019km S 50° W of Calatagan (Batangas),019,S 50° W,Calatagan (Batangas)
@@ -312,8 +313,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-06T02:11:00.000Z,06 December 2025 - 02:11 AM,18.33,120.93,006,2.0,015km N 54° W of Calanasan (Apayao),015,N 54° W,Calanasan (Apayao)
 2025-12-06T02:06:00.000Z,06 December 2025 - 02:06 AM,07.28,126.79,008,2.2,029km N 75° E of Manay (Davao Oriental),029,N 75° E,Manay (Davao Oriental)
 2025-12-06T02:05:00.000Z,06 December 2025 - 02:05 AM,09.05,126.61,018,2.2,037km N 66° E of Cagwait (Surigao Del Sur),037,N 66° E,Cagwait (Surigao Del Sur)
-2025-12-06T01:51:00.000Z,06 December 2025 - 01:51 AM,09.65,126.22,032,1.5,016km S 25° E of General Luna (Surigao Del Norte),016,S 25° E,General Luna (Surigao Del Norte)
-2025-12-06T01:45:00.000Z,06 December 2025 - 01:45 AM,05.60,125.09,031,1.6,027km S 28° W of Glan (Sarangani),027,S 28° W,Glan (Sarangani)
-2025-12-06T01:32:00.000Z,06 December 2025 - 01:32 AM,07.09,123.53,040,1.4,043km S 18° E of Tabina (Zamboanga Del Sur),043,S 18° E,Tabina (Zamboanga Del Sur)
-2025-12-06T01:23:00.000Z,06 December 2025 - 01:23 AM,09.25,126.78,005,2.3,064km N 55° E of Cagwait (Surigao Del Sur),064,N 55° E,Cagwait (Surigao Del Sur)
-2025-12-06T01:12:00.000Z,06 December 2025 - 01:12 AM,09.85,126.12,028,2.0,002km S 47° E of Pilar (Surigao Del Norte),002,S 47° E,Pilar (Surigao Del Norte)
