@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T12:55:00.000Z,13 December 2025 - 12:55 PM,10.91,123.97,005,3.5,015km S 02° W of City Of Bogo (Cebu),015,S 02° W,City Of Bogo (Cebu)
 2025-12-13T10:42:00.000Z,13 December 2025 - 10:42 AM,07.62,127.04,015,3.1,054km N 85° E of Baganga (Davao Oriental),054,N 85° E,Baganga (Davao Oriental)
 2025-12-13T10:16:00.000Z,13 December 2025 - 10:16 AM,12.86,123.53,005,2.1,009km S 56° W of Donsol (Sorsogon),009,S 56° W,Donsol (Sorsogon)
 2025-12-13T10:01:00.000Z,13 December 2025 - 10:01 AM,07.53,126.87,010,4.8,034km S 81° E of Baganga (Davao Oriental),034,S 81° E,Baganga (Davao Oriental)
@@ -303,4 +304,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-06T17:31:00.000Z,06 December 2025 - 05:31 PM,09.66,126.01,034,1.6,006km N 47° E of Socorro (Surigao Del Norte),006,N 47° E,Socorro (Surigao Del Norte)
 2025-12-06T16:26:00.000Z,06 December 2025 - 04:26 PM,08.84,126.69,012,2.8,043km S 78° E of Cagwait (Surigao Del Sur),043,S 78° E,Cagwait (Surigao Del Sur)
 2025-12-06T13:55:00.000Z,06 December 2025 - 01:55 PM,11.16,124.11,004,3.0,019km N 48° E of City Of Bogo (Cebu),019,N 48° E,City Of Bogo (Cebu)
-2025-12-06T10:44:00.000Z,06 December 2025 - 10:44 AM,07.20,127.28,139,2.9,082km S 89° E of Manay (Davao Oriental),082,S 89° E,Manay (Davao Oriental)
