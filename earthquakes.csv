@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T10:42:00.000Z,13 December 2025 - 10:42 AM,07.62,127.04,015,3.1,054km N 85° E of Baganga (Davao Oriental),054,N 85° E,Baganga (Davao Oriental)
+2025-12-13T10:16:00.000Z,13 December 2025 - 10:16 AM,12.86,123.53,005,2.1,009km S 56° W of Donsol (Sorsogon),009,S 56° W,Donsol (Sorsogon)
+2025-12-13T10:01:00.000Z,13 December 2025 - 10:01 AM,07.53,126.87,010,4.8,034km S 81° E of Baganga (Davao Oriental),034,S 81° E,Baganga (Davao Oriental)
+2025-12-13T09:55:00.000Z,13 December 2025 - 09:55 AM,10.98,123.89,033,2.1,012km S 52° W of City Of Bogo (Cebu),012,S 52° W,City Of Bogo (Cebu)
 2025-12-13T08:38:00.000Z,13 December 2025 - 08:38 AM,14.14,120.02,127,1.7,033km N 20° W of Lubang (Occidental Mindoro),033,N 20° W,Lubang (Occidental Mindoro)
 2025-12-13T07:16:00.000Z,13 December 2025 - 07:16 AM,11.09,123.98,002,2.3,005km N 06° E of City Of Bogo (Cebu),005,N 06° E,City Of Bogo (Cebu)
 2025-12-13T07:14:00.000Z,13 December 2025 - 07:14 AM,10.48,125.43,030,1.6,021km N 52° W of Loreto (Dinagat Islands),021,N 52° W,Loreto (Dinagat Islands)
