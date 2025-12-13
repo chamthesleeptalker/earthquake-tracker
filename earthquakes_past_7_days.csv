@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-14T05:01:00.000Z,14 December 2025 - 05:01 AM,09.59,126.10,029,1.7,015km S 77° E of Socorro (Surigao Del Norte),015,S 77° E,Socorro (Surigao Del Norte)
+2025-12-14T04:57:00.000Z,14 December 2025 - 04:57 AM,07.34,126.56,002,2.4,002km N 11° W of Caraga (Davao Oriental),002,N 11° W,Caraga (Davao Oriental)
 2025-12-14T03:38:00.000Z,14 December 2025 - 03:38 AM,15.65,121.16,035,1.7,003km N 27° E of Bongabon (Nueva Ecija),003,N 27° E,Bongabon (Nueva Ecija)
 2025-12-14T03:09:00.000Z,14 December 2025 - 03:09 AM,16.79,119.69,010,4.6,049km N 26° W of Bolinao (Pangasinan),049,N 26° W,Bolinao (Pangasinan)
 2025-12-14T02:35:00.000Z,14 December 2025 - 02:35 AM,10.92,123.91,004,2.6,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
@@ -317,8 +319,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-07T10:34:00.000Z,07 December 2025 - 10:34 AM,13.71,120.26,016,2.0,002km S 58° E of Looc (Occidental Mindoro),002,S 58° E,Looc (Occidental Mindoro)
 2025-12-07T10:12:00.000Z,07 December 2025 - 10:12 AM,11.00,123.98,005,2.7,006km S 06° E of City Of Bogo (Cebu),006,S 06° E,City Of Bogo (Cebu)
 2025-12-07T08:05:00.000Z,07 December 2025 - 08:05 AM,08.86,126.27,031,1.9,008km S 29° W of Cagwait (Surigao Del Sur),008,S 29° W,Cagwait (Surigao Del Sur)
-2025-12-07T04:59:00.000Z,07 December 2025 - 04:59 AM,11.31,124.44,033,1.5,007km N 85° E of Tabango (Leyte),007,N 85° E,Tabango (Leyte)
-2025-12-07T04:16:00.000Z,07 December 2025 - 04:16 AM,13.59,120.71,089,1.6,016km N 05° W of Abra De Ilog (Occidental Mindoro),016,N 05° W,Abra De Ilog (Occidental Mindoro)
-2025-12-07T04:14:00.000Z,07 December 2025 - 04:14 AM,15.63,120.13,035,1.4,022km N 89° E of Candelaria (Zambales),022,N 89° E,Candelaria (Zambales)
-2025-12-07T03:58:00.000Z,07 December 2025 - 03:58 AM,08.33,123.41,032,1.5,011km N 69° W of Sergio Osmeña Sr. (Zamboanga Del Norte),011,N 69° W,Sergio OsmeÃ±a Sr. (Zamboanga Del Norte)
-2025-12-07T03:39:00.000Z,07 December 2025 - 03:39 AM,10.13,124.92,020,1.9,006km N 25° W of Macrohon (Southern Leyte),006,N 25° W,Macrohon (Southern Leyte)
