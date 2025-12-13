@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-14T02:06:00.000Z,14 December 2025 - 02:06 AM,08.83,126.57,016,1.9,030km N 85° E of Marihatag (Surigao Del Sur),030,N 85° E,Marihatag (Surigao Del Sur)
+2025-12-14T01:31:00.000Z,14 December 2025 - 01:31 AM,07.77,126.58,041,1.6,014km S 80° E of Cateel (Davao Oriental),014,S 80° E,Cateel (Davao Oriental)
 2025-12-13T19:11:00.000Z,13 December 2025 - 07:11 PM,08.71,126.24,030,1.4,004km S 28° E of San Agustin (Surigao Del Sur),004,S 28° E,San Agustin (Surigao Del Sur)
 2025-12-14T00:34:00.000Z,14 December 2025 - 12:34 AM,05.53,126.39,078,4.0,092km S 63° E of Jose Abad Santos (Davao Occidental),092,S 63° E,Jose Abad Santos (Davao Occidental)
 2025-12-14T00:24:00.000Z,14 December 2025 - 12:24 AM,17.04,121.53,006,3.4,010km N 83° W of San Manuel (Isabela),010,N 83° W,San Manuel (Isabela)
@@ -51,7 +53,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-13T03:46:00.000Z,13 December 2025 - 03:46 AM,17.86,119.41,005,2.5,105km N 74° W of Santa Catalina (Ilocos Sur),105,N 74° W,Santa Catalina (Ilocos Sur)
 2025-12-13T02:37:00.000Z,13 December 2025 - 02:37 AM,17.35,121.90,032,2.5,013km N 52° E of Tumauini (Isabela),013,N 52° E,Tumauini (Isabela)
 2025-12-13T02:25:00.000Z,13 December 2025 - 02:25 AM,08.46,126.71,026,2.1,043km N 76° E of Hinatuan (Surigao Del Sur),043,N 76° E,Hinatuan (Surigao Del Sur)
-2025-12-13T02:04:00.000Z,13 December 2025 - 02:04 AM,09.71,126.24,019,1.9,013km S 48° E of General Luna (Surigao Del Norte),013,S 48° E,General Luna (Surigao Del Norte)
-2025-12-13T01:10:00.000Z,13 December 2025 - 01:10 AM,08.51,126.78,014,3.1,051km N 72° E of Hinatuan (Surigao Del Sur),051,N 72° E,Hinatuan (Surigao Del Sur)
-2025-12-13T01:07:00.000Z,13 December 2025 - 01:07 AM,10.90,123.94,005,2.0,017km S 14° W of City Of Bogo (Cebu),017,S 14° W,City Of Bogo (Cebu)
-2025-12-13T01:01:00.000Z,13 December 2025 - 01:01 AM,13.72,120.49,094,2.0,019km S 50° W of Calatagan (Batangas),019,S 50° W,Calatagan (Batangas)
