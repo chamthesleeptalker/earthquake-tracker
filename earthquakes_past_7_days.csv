@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-14T00:34:00.000Z,14 December 2025 - 12:34 AM,05.53,126.39,078,4.0,092km S 63° E of Jose Abad Santos (Davao Occidental),092,S 63° E,Jose Abad Santos (Davao Occidental)
+2025-12-14T00:24:00.000Z,14 December 2025 - 12:24 AM,17.04,121.53,006,3.4,010km N 83° W of San Manuel (Isabela),010,N 83° W,San Manuel (Isabela)
 2025-12-13T23:43:00.000Z,13 December 2025 - 11:43 PM,05.40,127.45,014,2.8,206km S 48° E of Governor Generoso (Davao Oriental),206,S 48° E,Governor Generoso (Davao Oriental)
 2025-12-13T23:42:00.000Z,13 December 2025 - 11:42 PM,08.51,126.57,013,2.6,030km N 59° E of Hinatuan (Surigao Del Sur),030,N 59° E,Hinatuan (Surigao Del Sur)
 2025-12-13T23:38:00.000Z,13 December 2025 - 11:38 PM,13.17,124.21,033,2.0,009km S 76° E of Rapu-rapu (Albay),009,S 76° E,Rapu-rapu (Albay)
@@ -319,8 +321,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-07T01:55:00.000Z,07 December 2025 - 01:55 AM,15.30,122.82,002,2.4,085km N 38° E of Jomalig (Quezon),085,N 38° E,Jomalig (Quezon)
 2025-12-07T01:09:00.000Z,07 December 2025 - 01:09 AM,08.97,126.48,024,2.4,021km N 74° E of Cagwait (Surigao Del Sur),021,N 74° E,Cagwait (Surigao Del Sur)
 2025-12-07T01:08:00.000Z,07 December 2025 - 01:08 AM,11.07,124.03,016,2.0,006km N 69° E of City Of Bogo (Cebu),006,N 69° E,City Of Bogo (Cebu)
-2025-12-07T00:33:00.000Z,07 December 2025 - 12:33 AM,13.12,121.46,034,2.4,003km S 35° E of Pola (Oriental Mindoro),003,S 35° E,Pola (Oriental Mindoro)
-2025-12-07T00:27:00.000Z,07 December 2025 - 12:27 AM,09.64,126.18,032,1.8,016km S 10° E of General Luna (Surigao Del Norte),016,S 10° E,General Luna (Surigao Del Norte)
-2025-12-06T23:59:00.000Z,06 December 2025 - 11:59 PM,06.36,124.00,006,1.8,022km S 16° W of Kalamansig (Sultan Kudarat),022,S 16° W,Kalamansig (Sultan Kudarat)
-2025-12-06T23:48:00.000Z,06 December 2025 - 11:48 PM,13.04,121.16,005,3.3,019km S 42° W of Victoria (Oriental Mindoro),019,S 42° W,Victoria (Oriental Mindoro)
-2025-12-06T23:46:00.000Z,06 December 2025 - 11:46 PM,06.41,125.57,002,2.4,005km S 86° W of Malita (Davao Occidental),005,S 86° W,Malita (Davao Occidental)
