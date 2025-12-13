@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T16:04:00.000Z,13 December 2025 - 04:04 PM,09.78,122.51,018,1.5,009km N 80° E of City Of Sipalay (Negros Occidental),009,N 80° E,City Of Sipalay (Negros Occidental)
+2025-12-13T15:33:00.000Z,13 December 2025 - 03:33 PM,14.15,120.43,119,2.1,023km N 70° W of Nasugbu (Batangas),023,N 70° W,Nasugbu (Batangas)
 2025-12-13T15:02:00.000Z,13 December 2025 - 03:02 PM,08.51,125.81,024,2.0,007km N 22° E of Talacogon (Agusan Del Sur),007,N 22° E,Talacogon (Agusan Del Sur)
 2025-12-13T13:46:00.000Z,13 December 2025 - 01:46 PM,07.25,126.75,018,2.7,024km N 81° E of Manay (Davao Oriental),024,N 81° E,Manay (Davao Oriental)
 2025-12-13T13:36:00.000Z,13 December 2025 - 01:36 PM,11.09,124.17,032,1.6,021km N 76° E of City Of Bogo (Cebu),021,N 76° E,City Of Bogo (Cebu)
