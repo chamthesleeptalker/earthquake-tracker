@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T19:22:00.000Z,13 December 2025 - 07:22 PM,13.90,120.59,003,1.4,009km N 33° W of Calatagan (Batangas),009,N 33° W,Calatagan (Batangas)
+2025-12-13T19:20:00.000Z,13 December 2025 - 07:20 PM,18.04,121.39,009,1.5,020km S 07° W of Flora (Apayao),020,S 07° W,Flora (Apayao)
+2025-12-13T19:17:00.000Z,13 December 2025 - 07:17 PM,11.96,121.31,031,2.4,026km N 84° W of Caluya (Antique),026,N 84° W,Caluya (Antique)
+2025-12-13T19:09:00.000Z,13 December 2025 - 07:09 PM,13.69,120.16,014,2.2,011km S 72° W of Looc (Occidental Mindoro),011,S 72° W,Looc (Occidental Mindoro)
+2025-12-13T19:09:00.000Z,13 December 2025 - 07:09 PM,08.72,126.24,033,1.5,003km S 38° E of San Agustin (Surigao Del Sur),003,S 38° E,San Agustin (Surigao Del Sur)
 2025-12-13T18:55:00.000Z,13 December 2025 - 06:55 PM,15.54,119.44,010,3.3,051km N 77° W of Palauig (Zambales),051,N 77° W,Palauig (Zambales)
 2025-12-13T18:28:00.000Z,13 December 2025 - 06:28 PM,12.35,125.57,014,3.0,020km N 18° E of San Policarpo (Eastern Samar),020,N 18° E,San Policarpo (Eastern Samar)
 2025-12-13T18:13:00.000Z,13 December 2025 - 06:13 PM,20.55,121.47,031,3.5,047km S 55° W of Itbayat (Batanes),047,S 55° W,Itbayat (Batanes)
