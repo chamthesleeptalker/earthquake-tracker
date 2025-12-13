@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-13T17:57:00.000Z,13 December 2025 - 05:57 PM,08.70,126.24,033,1.9,006km S 23° E of San Agustin (Surigao Del Sur),006,S 23° E,San Agustin (Surigao Del Sur)
+2025-12-13T17:54:00.000Z,13 December 2025 - 05:54 PM,12.79,123.01,010,2.2,028km S 64° W of Claveria (Masbate),028,S 64° W,Claveria (Masbate)
 2025-12-13T17:18:00.000Z,13 December 2025 - 05:18 PM,11.01,124.74,002,2.4,011km N 25° E of Albuera (Leyte),011,N 25° E,Albuera (Leyte)
 2025-12-13T16:04:00.000Z,13 December 2025 - 04:04 PM,09.78,122.51,018,1.5,009km N 80° E of City Of Sipalay (Negros Occidental),009,N 80° E,City Of Sipalay (Negros Occidental)
 2025-12-13T15:33:00.000Z,13 December 2025 - 03:33 PM,14.15,120.43,119,2.1,023km N 70° W of Nasugbu (Batangas),023,N 70° W,Nasugbu (Batangas)
@@ -308,4 +310,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-06T20:40:00.000Z,06 December 2025 - 08:40 PM,08.96,126.23,075,3.0,006km S 80° W of Bayabas (Surigao Del Sur),006,S 80° W,Bayabas (Surigao Del Sur)
 2025-12-06T20:00:00.000Z,06 December 2025 - 08:00 PM,08.40,127.40,031,2.7,116km N 70° E of Lingig (Surigao Del Sur),116,N 70° E,Lingig (Surigao Del Sur)
 2025-12-06T17:58:00.000Z,06 December 2025 - 05:58 PM,13.67,120.62,013,2.0,018km S 06° W of Calatagan (Batangas),018,S 06° W,Calatagan (Batangas)
-2025-12-06T17:31:00.000Z,06 December 2025 - 05:31 PM,09.66,126.01,034,1.6,006km N 47° E of Socorro (Surigao Del Norte),006,N 47° E,Socorro (Surigao Del Norte)
