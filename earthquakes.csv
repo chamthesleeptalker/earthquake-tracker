@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T06:09:00.000Z,15 December 2025 - 06:09 AM,09.43,122.67,065,1.9,004km N 59° E of Basay (Negros Oriental),004,N 59° E,Basay (Negros Oriental)
+2025-12-15T05:44:00.000Z,15 December 2025 - 05:44 AM,13.81,120.62,098,1.9,003km S 41° W of Calatagan (Batangas),003,S 41° W,Calatagan (Batangas)
+2025-12-15T05:29:00.000Z,15 December 2025 - 05:29 AM,07.96,126.42,031,2.4,009km S 08° E of Lingig (Surigao Del Sur),009,S 08° E,Lingig (Surigao Del Sur)
 2025-12-15T05:20:00.000Z,15 December 2025 - 05:20 AM,10.90,123.80,007,2.1,026km S 51° W of City Of Bogo (Cebu),026,S 51° W,City Of Bogo (Cebu)
 2025-12-15T05:08:00.000Z,15 December 2025 - 05:08 AM,07.61,124.94,005,2.4,004km N 78° E of Kadingilan (Bukidnon),004,N 78° E,Kadingilan (Bukidnon)
 2025-12-15T04:35:00.000Z,15 December 2025 - 04:35 AM,19.97,121.21,010,3.6,080km S 60° W of Sabtang (Batanes),080,S 60° W,Sabtang (Batanes)
