@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T01:22:00.000Z,15 December 2025 - 01:22 AM,04.03,125.85,027,3.6,150km S 17° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),150,S 17° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-15T00:01:00.000Z,15 December 2025 - 12:01 AM,07.27,127.01,013,3.2,052km N 83° E of Manay (Davao Oriental),052,N 83° E,Manay (Davao Oriental)
 2025-12-14T22:51:00.000Z,14 December 2025 - 10:51 PM,13.71,120.61,109,2.3,014km S 11° W of Calatagan (Batangas),014,S 11° W,Calatagan (Batangas)
 2025-12-14T21:09:00.000Z,14 December 2025 - 09:09 PM,07.30,126.70,016,2.4,020km N 63° E of Manay (Davao Oriental),020,N 63° E,Manay (Davao Oriental)
@@ -27,5 +28,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-14T02:35:00.000Z,14 December 2025 - 02:35 AM,10.92,123.91,004,2.6,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
 2025-12-14T02:06:00.000Z,14 December 2025 - 02:06 AM,08.83,126.57,016,1.9,030km N 85° E of Marihatag (Surigao Del Sur),030,N 85° E,Marihatag (Surigao Del Sur)
 2025-12-14T01:31:00.000Z,14 December 2025 - 01:31 AM,07.77,126.58,041,1.6,014km S 80° E of Cateel (Davao Oriental),014,S 80° E,Cateel (Davao Oriental)
-2025-12-14T00:34:00.000Z,14 December 2025 - 12:34 AM,05.53,126.39,078,4.0,092km S 63° E of Jose Abad Santos (Davao Occidental),092,S 63° E,Jose Abad Santos (Davao Occidental)
-2025-12-14T00:24:00.000Z,14 December 2025 - 12:24 AM,17.04,121.53,006,3.4,010km N 83° W of San Manuel (Isabela),010,N 83° W,San Manuel (Isabela)
