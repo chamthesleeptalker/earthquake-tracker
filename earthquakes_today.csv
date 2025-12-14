@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-14T14:11:00.000Z,14 December 2025 - 02:11 PM,13.69,120.63,116,1.7,016km S 03° W of Calatagan (Batangas),016,S 03° W,Calatagan (Batangas)
+2025-12-14T13:48:00.000Z,14 December 2025 - 01:48 PM,15.94,120.16,007,3.2,010km N 59° W of Aguilar (Pangasinan),010,N 59° W,Aguilar (Pangasinan)
 2025-12-14T13:28:00.000Z,14 December 2025 - 01:28 PM,13.75,120.27,008,2.2,005km N 34° E of Looc (Occidental Mindoro),005,N 34° E,Looc (Occidental Mindoro)
 2025-12-14T12:00:00.000Z,14 December 2025 - 12:00 PM,08.14,123.25,026,1.4,010km S 81° W of Dumingag (Zamboanga Del Sur),010,S 81° W,Dumingag (Zamboanga Del Sur)
 2025-12-14T11:57:00.000Z,14 December 2025 - 11:57 AM,07.81,125.92,006,2.0,014km S 86° E of Laak (Davao De Oro),014,S 86° E,Laak (Davao De Oro)

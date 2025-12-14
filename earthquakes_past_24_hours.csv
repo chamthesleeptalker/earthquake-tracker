@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-14T14:11:00.000Z,14 December 2025 - 02:11 PM,13.69,120.63,116,1.7,016km S 03° W of Calatagan (Batangas),016,S 03° W,Calatagan (Batangas)
+2025-12-14T13:48:00.000Z,14 December 2025 - 01:48 PM,15.94,120.16,007,3.2,010km N 59° W of Aguilar (Pangasinan),010,N 59° W,Aguilar (Pangasinan)
 2025-12-14T13:28:00.000Z,14 December 2025 - 01:28 PM,13.75,120.27,008,2.2,005km N 34° E of Looc (Occidental Mindoro),005,N 34° E,Looc (Occidental Mindoro)
 2025-12-14T12:00:00.000Z,14 December 2025 - 12:00 PM,08.14,123.25,026,1.4,010km S 81° W of Dumingag (Zamboanga Del Sur),010,S 81° W,Dumingag (Zamboanga Del Sur)
 2025-12-14T11:57:00.000Z,14 December 2025 - 11:57 AM,07.81,125.92,006,2.0,014km S 86° E of Laak (Davao De Oro),014,S 86° E,Laak (Davao De Oro)
@@ -50,5 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-13T16:04:00.000Z,13 December 2025 - 04:04 PM,09.78,122.51,018,1.5,009km N 80° E of City Of Sipalay (Negros Occidental),009,N 80° E,City Of Sipalay (Negros Occidental)
 2025-12-13T15:33:00.000Z,13 December 2025 - 03:33 PM,14.15,120.43,119,2.1,023km N 70° W of Nasugbu (Batangas),023,N 70° W,Nasugbu (Batangas)
 2025-12-13T15:02:00.000Z,13 December 2025 - 03:02 PM,08.51,125.81,024,2.0,007km N 22° E of Talacogon (Agusan Del Sur),007,N 22° E,Talacogon (Agusan Del Sur)
-2025-12-13T13:46:00.000Z,13 December 2025 - 01:46 PM,07.25,126.75,018,2.7,024km N 81° E of Manay (Davao Oriental),024,N 81° E,Manay (Davao Oriental)
-2025-12-13T13:36:00.000Z,13 December 2025 - 01:36 PM,11.09,124.17,032,1.6,021km N 76° E of City Of Bogo (Cebu),021,N 76° E,City Of Bogo (Cebu)
