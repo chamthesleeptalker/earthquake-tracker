@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T03:59:00.000Z,15 December 2025 - 03:59 AM,07.55,125.32,042,2.0,030km N 44° E of Arakan (Cotabato),030,N 44° E,Arakan (Cotabato)
 2025-12-15T02:40:00.000Z,15 December 2025 - 02:40 AM,13.94,120.21,027,1.8,013km N 45° E of Lubang (Occidental Mindoro),013,N 45° E,Lubang (Occidental Mindoro)
 2025-12-15T02:19:00.000Z,15 December 2025 - 02:19 AM,12.82,120.94,021,1.9,018km S 83° E of Sablayan (Occidental Mindoro),018,S 83° E,Sablayan (Occidental Mindoro)
 2025-12-15T01:22:00.000Z,15 December 2025 - 01:22 AM,04.03,125.85,027,3.6,150km S 17° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),150,S 17° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -25,5 +26,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-14T05:16:00.000Z,14 December 2025 - 05:16 AM,11.00,123.91,026,2.0,009km S 58° W of City Of Bogo (Cebu),009,S 58° W,City Of Bogo (Cebu)
 2025-12-14T05:01:00.000Z,14 December 2025 - 05:01 AM,09.59,126.10,029,1.7,015km S 77° E of Socorro (Surigao Del Norte),015,S 77° E,Socorro (Surigao Del Norte)
 2025-12-14T04:57:00.000Z,14 December 2025 - 04:57 AM,07.34,126.56,002,2.4,002km N 11° W of Caraga (Davao Oriental),002,N 11° W,Caraga (Davao Oriental)
-2025-12-14T03:38:00.000Z,14 December 2025 - 03:38 AM,15.65,121.16,035,1.7,003km N 27° E of Bongabon (Nueva Ecija),003,N 27° E,Bongabon (Nueva Ecija)
-2025-12-14T03:09:00.000Z,14 December 2025 - 03:09 AM,16.79,119.69,010,4.6,049km N 26° W of Bolinao (Pangasinan),049,N 26° W,Bolinao (Pangasinan)
