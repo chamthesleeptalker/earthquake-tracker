@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T05:40:00.000Z,16 December 2025 - 05:40 AM,15.44,119.02,022,1.9,096km N 90° W of Palauig (Zambales),096,N 90° W,Palauig (Zambales)
+2025-12-16T05:33:00.000Z,16 December 2025 - 05:33 AM,12.76,123.24,005,2.0,016km S 02° W of Claveria (Masbate),016,S 02° W,Claveria (Masbate)
 2025-12-16T04:52:00.000Z,16 December 2025 - 04:52 AM,09.16,126.65,013,3.9,046km N 62° E of Bayabas (Surigao Del Sur),046,N 62° E,Bayabas (Surigao Del Sur)
