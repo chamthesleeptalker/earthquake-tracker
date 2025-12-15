@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T11:14:00.000Z,15 December 2025 - 11:14 AM,11.08,124.01,029,2.0,005km N 43° E of City Of Bogo (Cebu),005,N 43° E,City Of Bogo (Cebu)
+2025-12-15T10:03:00.000Z,15 December 2025 - 10:03 AM,11.18,123.98,033,1.8,014km N 02° E of City Of Bogo (Cebu),014,N 02° E,City Of Bogo (Cebu)
 2025-12-15T09:16:00.000Z,15 December 2025 - 09:16 AM,05.54,125.86,087,2.8,044km N 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),044,N 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-15T08:57:00.000Z,15 December 2025 - 08:57 AM,07.98,123.06,020,2.9,015km N 09° W of Lakewood (Zamboanga Del Sur),015,N 09° W,Lakewood (Zamboanga Del Sur)
 2025-12-15T08:46:00.000Z,15 December 2025 - 08:46 AM,08.34,126.51,021,2.4,019km S 80° E of Hinatuan (Surigao Del Sur),019,S 80° E,Hinatuan (Surigao Del Sur)
