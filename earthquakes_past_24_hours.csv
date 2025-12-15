@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T09:16:00.000Z,15 December 2025 - 09:16 AM,05.54,125.86,087,2.8,044km N 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),044,N 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-12-15T08:57:00.000Z,15 December 2025 - 08:57 AM,07.98,123.06,020,2.9,015km N 09° W of Lakewood (Zamboanga Del Sur),015,N 09° W,Lakewood (Zamboanga Del Sur)
+2025-12-15T08:46:00.000Z,15 December 2025 - 08:46 AM,08.34,126.51,021,2.4,019km S 80° E of Hinatuan (Surigao Del Sur),019,S 80° E,Hinatuan (Surigao Del Sur)
 2025-12-15T06:43:00.000Z,15 December 2025 - 06:43 AM,07.17,126.73,158,2.4,022km S 78° E of Manay (Davao Oriental),022,S 78° E,Manay (Davao Oriental)
 2025-12-15T06:19:00.000Z,15 December 2025 - 06:19 AM,08.10,125.00,023,1.3,012km N 13° W of Lantapan (Bukidnon),012,N 13° W,Lantapan (Bukidnon)
 2025-12-15T06:09:00.000Z,15 December 2025 - 06:09 AM,09.43,122.67,065,1.9,004km N 59° E of Basay (Negros Oriental),004,N 59° E,Basay (Negros Oriental)
@@ -28,7 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-14T11:11:00.000Z,14 December 2025 - 11:11 AM,09.63,126.05,033,2.0,009km N 85° E of Socorro (Surigao Del Norte),009,N 85° E,Socorro (Surigao Del Norte)
 2025-12-14T11:09:00.000Z,14 December 2025 - 11:09 AM,20.03,121.29,017,3.1,070km S 61° W of Sabtang (Batanes),070,S 61° W,Sabtang (Batanes)
 2025-12-14T09:46:00.000Z,14 December 2025 - 09:46 AM,11.13,124.02,005,2.2,010km N 25° E of City Of Bogo (Cebu),010,N 25° E,City Of Bogo (Cebu)
-2025-12-14T09:11:00.000Z,14 December 2025 - 09:11 AM,16.58,122.40,036,1.8,016km N 66° E of Dinapigue (Isabela),016,N 66° E,Dinapigue (Isabela)
-2025-12-14T08:18:00.000Z,14 December 2025 - 08:18 AM,08.24,127.17,019,2.8,086km N 75° E of Lingig (Surigao Del Sur),086,N 75° E,Lingig (Surigao Del Sur)
-2025-12-14T08:06:00.000Z,14 December 2025 - 08:06 AM,09.51,125.60,017,2.8,005km N 30° E of Alegria (Surigao Del Norte),005,N 30° E,Alegria (Surigao Del Norte)
-2025-12-14T07:13:00.000Z,14 December 2025 - 07:13 AM,07.83,126.45,033,1.9,005km N 11° W of Cateel (Davao Oriental),005,N 11° W,Cateel (Davao Oriental)
