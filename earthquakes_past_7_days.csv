@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T15:52:00.000Z,15 December 2025 - 03:52 PM,10.21,125.90,025,3.9,026km N 35° W of Santa Monica (Surigao Del Norte),026,N 35° W,Santa Monica (Surigao Del Norte)
+2025-12-15T15:47:00.000Z,15 December 2025 - 03:47 PM,05.42,126.96,032,2.5,156km S 69° E of Jose Abad Santos (Davao Occidental),156,S 69° E,Jose Abad Santos (Davao Occidental)
+2025-12-15T15:35:00.000Z,15 December 2025 - 03:35 PM,07.82,126.64,022,2.0,021km N 82° E of Cateel (Davao Oriental),021,N 82° E,Cateel (Davao Oriental)
 2025-12-15T14:50:00.000Z,15 December 2025 - 02:50 PM,06.15,127.65,030,3.7,170km S 46° E of Manay (Davao Oriental),170,S 46° E,Manay (Davao Oriental)
 2025-12-15T14:05:00.000Z,15 December 2025 - 02:05 PM,09.13,126.67,014,2.3,046km N 67° E of Bayabas (Surigao Del Sur),046,N 67° E,Bayabas (Surigao Del Sur)
 2025-12-15T14:05:00.000Z,15 December 2025 - 02:05 PM,09.13,126.67,014,2.3,046km N 67° E of Bayabas (Surigao Del Sur),046,N 67° E,Bayabas (Surigao Del Sur)
@@ -315,5 +318,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-08T18:21:00.000Z,08 December 2025 - 06:21 PM,08.58,125.69,033,1.8,010km N 31° W of San Luis (Agusan Del Sur),010,N 31° W,San Luis (Agusan Del Sur)
 2025-12-08T17:56:00.000Z,08 December 2025 - 05:56 PM,08.99,126.21,047,2.2,005km S 39° W of Tago (Surigao Del Sur),005,S 39° W,Tago (Surigao Del Sur)
 2025-12-08T17:30:00.000Z,08 December 2025 - 05:30 PM,12.88,121.12,023,2.0,036km N 88° W of Bansud (Oriental Mindoro),036,N 88° W,Bansud (Oriental Mindoro)
-2025-12-08T15:42:00.000Z,08 December 2025 - 03:42 PM,19.06,121.22,019,2.7,006km S 18° E of Dalupiri Island (Calayan) (Cagayan),006,S 18° E,Dalupiri Island (Calayan) (Cagayan)
-2025-12-08T15:02:00.000Z,08 December 2025 - 03:02 PM,10.92,123.87,004,2.7,019km S 40° W of City Of Bogo (Cebu),019,S 40° W,City Of Bogo (Cebu)
