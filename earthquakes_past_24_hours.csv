@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T12:30:00.000Z,15 December 2025 - 12:30 PM,06.08,125.92,133,4.3,028km S 62° E of Don Marcelino (Davao Occidental),028,S 62° E,Don Marcelino (Davao Occidental)
+2025-12-15T11:36:00.000Z,15 December 2025 - 11:36 AM,10.23,125.89,024,4.2,028km N 34° W of Santa Monica (Surigao Del Norte),028,N 34° W,Santa Monica (Surigao Del Norte)
 2025-12-15T11:14:00.000Z,15 December 2025 - 11:14 AM,11.08,124.01,029,2.0,005km N 43° E of City Of Bogo (Cebu),005,N 43° E,City Of Bogo (Cebu)
 2025-12-15T10:03:00.000Z,15 December 2025 - 10:03 AM,11.18,123.98,033,1.8,014km N 02° E of City Of Bogo (Cebu),014,N 02° E,City Of Bogo (Cebu)
 2025-12-15T09:16:00.000Z,15 December 2025 - 09:16 AM,05.54,125.86,087,2.8,044km N 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),044,N 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -27,6 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-14T14:11:00.000Z,14 December 2025 - 02:11 PM,13.69,120.63,116,1.7,016km S 03° W of Calatagan (Batangas),016,S 03° W,Calatagan (Batangas)
 2025-12-14T13:48:00.000Z,14 December 2025 - 01:48 PM,15.94,120.16,007,3.2,010km N 59° W of Aguilar (Pangasinan),010,N 59° W,Aguilar (Pangasinan)
 2025-12-14T13:28:00.000Z,14 December 2025 - 01:28 PM,13.75,120.27,008,2.2,005km N 34° E of Looc (Occidental Mindoro),005,N 34° E,Looc (Occidental Mindoro)
-2025-12-14T12:00:00.000Z,14 December 2025 - 12:00 PM,08.14,123.25,026,1.4,010km S 81° W of Dumingag (Zamboanga Del Sur),010,S 81° W,Dumingag (Zamboanga Del Sur)
-2025-12-14T11:57:00.000Z,14 December 2025 - 11:57 AM,07.81,125.92,006,2.0,014km S 86° E of Laak (Davao De Oro),014,S 86° E,Laak (Davao De Oro)
-2025-12-14T11:52:00.000Z,14 December 2025 - 11:52 AM,13.78,120.45,028,1.3,020km S 73° W of Calatagan (Batangas),020,S 73° W,Calatagan (Batangas)
