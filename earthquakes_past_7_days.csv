@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T19:30:00.000Z,15 December 2025 - 07:30 PM,07.13,126.81,028,2.5,031km S 73° E of Manay (Davao Oriental),031,S 73° E,Manay (Davao Oriental)
+2025-12-15T19:16:00.000Z,15 December 2025 - 07:16 PM,05.96,126.01,148,2.3,043km S 53° E of Don Marcelino (Davao Occidental),043,S 53° E,Don Marcelino (Davao Occidental)
 2025-12-15T17:37:00.000Z,15 December 2025 - 05:37 PM,17.79,120.73,007,2.3,008km N 18° E of Lagayan (Abra),008,N 18° E,Lagayan (Abra)
 2025-12-15T15:52:00.000Z,15 December 2025 - 03:52 PM,10.21,125.90,025,3.9,026km N 35° W of Santa Monica (Surigao Del Norte),026,N 35° W,Santa Monica (Surigao Del Norte)
 2025-12-15T15:47:00.000Z,15 December 2025 - 03:47 PM,05.42,126.96,032,2.5,156km S 69° E of Jose Abad Santos (Davao Occidental),156,S 69° E,Jose Abad Santos (Davao Occidental)
@@ -312,9 +314,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-08T21:13:00.000Z,08 December 2025 - 09:13 PM,17.96,123.29,060,2.6,126km N 57° E of Divilacan (Isabela),126,N 57° E,Divilacan (Isabela)
 2025-12-08T20:36:00.000Z,08 December 2025 - 08:36 PM,08.48,126.68,003,3.0,040km N 71° E of Hinatuan (Surigao Del Sur),040,N 71° E,Hinatuan (Surigao Del Sur)
 2025-12-08T19:59:00.000Z,08 December 2025 - 07:59 PM,13.16,120.78,043,3.9,010km N 39° E of Santa Cruz (Occidental Mindoro),010,N 39° E,Santa Cruz (Occidental Mindoro)
-2025-12-08T19:21:00.000Z,08 December 2025 - 07:21 PM,12.31,125.50,014,2.9,014km N 74° E of Arteche (Eastern Samar),014,N 74° E,Arteche (Eastern Samar)
-2025-12-08T19:21:00.000Z,08 December 2025 - 07:21 PM,09.62,126.16,030,2.2,018km S 02° E of General Luna (Surigao Del Norte),018,S 02° E,General Luna (Surigao Del Norte)
-2025-12-08T18:52:00.000Z,08 December 2025 - 06:52 PM,11.32,124.12,033,1.5,033km N 27° E of City Of Bogo (Cebu),033,N 27° E,City Of Bogo (Cebu)
-2025-12-08T18:32:00.000Z,08 December 2025 - 06:32 PM,07.79,126.44,021,1.6,001km S 68° W of Cateel (Davao Oriental),001,S 68° W,Cateel (Davao Oriental)
-2025-12-08T18:21:00.000Z,08 December 2025 - 06:21 PM,08.58,125.69,033,1.8,010km N 31° W of San Luis (Agusan Del Sur),010,N 31° W,San Luis (Agusan Del Sur)
-2025-12-08T17:56:00.000Z,08 December 2025 - 05:56 PM,08.99,126.21,047,2.2,005km S 39° W of Tago (Surigao Del Sur),005,S 39° W,Tago (Surigao Del Sur)
