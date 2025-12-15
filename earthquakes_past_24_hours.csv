@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T12:40:00.000Z,15 December 2025 - 12:40 PM,13.68,120.57,084,1.5,019km S 22° W of Calatagan (Batangas),019,S 22° W,Calatagan (Batangas)
 2025-12-15T12:30:00.000Z,15 December 2025 - 12:30 PM,06.08,125.92,133,4.3,028km S 62° E of Don Marcelino (Davao Occidental),028,S 62° E,Don Marcelino (Davao Occidental)
 2025-12-15T11:36:00.000Z,15 December 2025 - 11:36 AM,10.23,125.89,024,4.2,028km N 34° W of Santa Monica (Surigao Del Norte),028,N 34° W,Santa Monica (Surigao Del Norte)
 2025-12-15T11:14:00.000Z,15 December 2025 - 11:14 AM,11.08,124.01,029,2.0,005km N 43° E of City Of Bogo (Cebu),005,N 43° E,City Of Bogo (Cebu)
