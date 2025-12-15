@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T03:03:00.000Z,16 December 2025 - 03:03 AM,08.35,125.87,002,2.3,014km S 38° E of Talacogon (Agusan Del Sur),014,S 38° E,Talacogon (Agusan Del Sur)
+2025-12-16T02:57:00.000Z,16 December 2025 - 02:57 AM,10.23,125.82,027,2.2,030km S 62° E of Loreto (Dinagat Islands),030,S 62° E,Loreto (Dinagat Islands)
+2025-12-16T02:52:00.000Z,16 December 2025 - 02:52 AM,11.25,124.11,030,2.1,027km N 33° E of City Of Bogo (Cebu),027,N 33° E,City Of Bogo (Cebu)
+2025-12-16T02:27:00.000Z,16 December 2025 - 02:27 AM,07.17,126.96,011,3.2,046km S 85° E of Manay (Davao Oriental),046,S 85° E,Manay (Davao Oriental)
 2025-12-16T01:56:00.000Z,16 December 2025 - 01:56 AM,07.83,126.46,023,1.5,004km N 03° E of Cateel (Davao Oriental),004,N 03° E,Cateel (Davao Oriental)
 2025-12-16T01:46:00.000Z,16 December 2025 - 01:46 AM,10.50,125.22,003,2.2,007km S 67° E of Silago (Southern Leyte),007,S 67° E,Silago (Southern Leyte)
 2025-12-16T00:33:00.000Z,16 December 2025 - 12:33 AM,07.66,126.09,032,1.6,001km S 08° E of Compostela (Davao De Oro),001,S 08° E,Compostela (Davao De Oro)
