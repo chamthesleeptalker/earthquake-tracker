@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-15T12:40:00.000Z,15 December 2025 - 12:40 PM,13.68,120.57,084,1.5,019km S 22° W of Calatagan (Batangas),019,S 22° W,Calatagan (Batangas)
-2025-12-15T12:30:00.000Z,15 December 2025 - 12:30 PM,06.08,125.92,133,4.3,028km S 62° E of Don Marcelino (Davao Occidental),028,S 62° E,Don Marcelino (Davao Occidental)
+2025-12-15T14:05:00.000Z,15 December 2025 - 02:05 PM,09.13,126.67,014,2.3,046km N 67° E of Bayabas (Surigao Del Sur),046,N 67° E,Bayabas (Surigao Del Sur)
+2025-12-15T14:05:00.000Z,15 December 2025 - 02:05 PM,09.13,126.67,014,2.3,046km N 67° E of Bayabas (Surigao Del Sur),046,N 67° E,Bayabas (Surigao Del Sur)
+2025-12-15T14:03:00.000Z,15 December 2025 - 02:03 PM,18.07,121.25,019,1.6,009km N 53° E of Kabugao (Apayao),009,N 53° E,Kabugao (Apayao)
+2025-12-15T14:02:00.000Z,15 December 2025 - 02:02 PM,08.96,126.11,022,2.7,008km N 82° E of San Miguel (Surigao Del Sur),008,N 82° E,San Miguel (Surigao Del Sur)
