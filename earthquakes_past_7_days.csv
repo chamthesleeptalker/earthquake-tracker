@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-15T21:06:00.000Z,15 December 2025 - 09:06 PM,10.87,123.95,007,1.9,020km S 09° W of City Of Bogo (Cebu),020,S 09° W,City Of Bogo (Cebu)
+2025-12-15T21:04:00.000Z,15 December 2025 - 09:04 PM,09.63,126.13,033,1.7,016km S 30° E of Dapa (Surigao Del Norte),016,S 30° E,Dapa (Surigao Del Norte)
 2025-12-15T19:30:00.000Z,15 December 2025 - 07:30 PM,07.13,126.81,028,2.5,031km S 73° E of Manay (Davao Oriental),031,S 73° E,Manay (Davao Oriental)
 2025-12-15T19:16:00.000Z,15 December 2025 - 07:16 PM,05.96,126.01,148,2.3,043km S 53° E of Don Marcelino (Davao Occidental),043,S 53° E,Don Marcelino (Davao Occidental)
 2025-12-15T17:37:00.000Z,15 December 2025 - 05:37 PM,17.79,120.73,007,2.3,008km N 18° E of Lagayan (Abra),008,N 18° E,Lagayan (Abra)
@@ -312,5 +314,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-08T23:57:00.000Z,08 December 2025 - 11:57 PM,06.28,126.42,027,2.2,057km S 42° E of Governor Generoso (Davao Oriental),057,S 42° E,Governor Generoso (Davao Oriental)
 2025-12-08T23:39:00.000Z,08 December 2025 - 11:39 PM,11.21,124.15,006,2.4,025km N 46° E of City Of Bogo (Cebu),025,N 46° E,City Of Bogo (Cebu)
 2025-12-08T21:13:00.000Z,08 December 2025 - 09:13 PM,17.96,123.29,060,2.6,126km N 57° E of Divilacan (Isabela),126,N 57° E,Divilacan (Isabela)
-2025-12-08T20:36:00.000Z,08 December 2025 - 08:36 PM,08.48,126.68,003,3.0,040km N 71° E of Hinatuan (Surigao Del Sur),040,N 71° E,Hinatuan (Surigao Del Sur)
-2025-12-08T19:59:00.000Z,08 December 2025 - 07:59 PM,13.16,120.78,043,3.9,010km N 39° E of Santa Cruz (Occidental Mindoro),010,N 39° E,Santa Cruz (Occidental Mindoro)
