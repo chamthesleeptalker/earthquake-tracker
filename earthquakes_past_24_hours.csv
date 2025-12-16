@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T23:01:00.000Z,16 December 2025 - 11:01 PM,09.88,125.34,004,2.5,007km S 64° E of San Ricardo (Southern Leyte),007,S 64° E,San Ricardo (Southern Leyte)
 2025-12-16T22:38:00.000Z,16 December 2025 - 10:38 PM,13.19,121.31,033,1.5,003km N 66° E of Victoria (Oriental Mindoro),003,N 66° E,Victoria (Oriental Mindoro)
 2025-12-16T22:15:00.000Z,16 December 2025 - 10:15 PM,07.10,126.92,022,2.4,044km S 74° E of Manay (Davao Oriental),044,S 74° E,Manay (Davao Oriental)
 2025-12-16T21:47:00.000Z,16 December 2025 - 09:47 PM,07.10,125.34,008,2.0,024km S 89° E of Magpet (Cotabato),024,S 89° E,Magpet (Cotabato)
@@ -47,4 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T23:36:00.000Z,15 December 2025 - 11:36 PM,12.00,125.09,025,2.2,008km S 50° E of San Jose De Buan (Samar),008,S 50° E,San Jose De Buan (Samar)
 2025-12-15T23:35:00.000Z,15 December 2025 - 11:35 PM,09.05,122.78,022,2.2,028km S 87° W of Siaton (Negros Oriental),028,S 87° W,Siaton (Negros Oriental)
 2025-12-15T23:23:00.000Z,15 December 2025 - 11:23 PM,07.14,126.92,033,2.2,043km S 79° E of Manay (Davao Oriental),043,S 79° E,Manay (Davao Oriental)
-2025-12-15T22:57:00.000Z,15 December 2025 - 10:57 PM,06.41,126.28,040,3.7,036km S 41° E of Governor Generoso (Davao Oriental),036,S 41° E,Governor Generoso (Davao Oriental)

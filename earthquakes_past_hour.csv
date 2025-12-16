@@ -1,4 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T23:01:00.000Z,16 December 2025 - 11:01 PM,09.88,125.34,004,2.5,007km S 64° E of San Ricardo (Southern Leyte),007,S 64° E,San Ricardo (Southern Leyte)
 2025-12-16T22:38:00.000Z,16 December 2025 - 10:38 PM,13.19,121.31,033,1.5,003km N 66° E of Victoria (Oriental Mindoro),003,N 66° E,Victoria (Oriental Mindoro)
 2025-12-16T22:15:00.000Z,16 December 2025 - 10:15 PM,07.10,126.92,022,2.4,044km S 74° E of Manay (Davao Oriental),044,S 74° E,Manay (Davao Oriental)
-2025-12-16T21:47:00.000Z,16 December 2025 - 09:47 PM,07.10,125.34,008,2.0,024km S 89° E of Magpet (Cotabato),024,S 89° E,Magpet (Cotabato)
