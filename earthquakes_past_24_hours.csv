@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T10:25:00.000Z,16 December 2025 - 10:25 AM,15.09,119.80,049,2.0,029km S 75° W of Cabangan (Zambales),029,S 75° W,Cabangan (Zambales)
+2025-12-16T09:51:00.000Z,16 December 2025 - 09:51 AM,11.12,124.08,010,1.8,014km N 52° E of City Of Bogo (Cebu),014,N 52° E,City Of Bogo (Cebu)
 2025-12-16T06:41:00.000Z,16 December 2025 - 06:41 AM,11.17,124.23,007,2.4,030km N 63° E of City Of Bogo (Cebu),030,N 63° E,City Of Bogo (Cebu)
 2025-12-16T06:30:00.000Z,16 December 2025 - 06:30 AM,14.41,120.10,016,1.8,035km S 30° W of Morong (Bataan),035,S 30° W,Morong (Bataan)
 2025-12-16T06:19:00.000Z,16 December 2025 - 06:19 AM,15.18,121.78,016,1.8,028km N 08° W of Panukulan (Quezon),028,N 08° W,Panukulan (Quezon)
@@ -35,8 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T12:30:00.000Z,15 December 2025 - 12:30 PM,06.08,125.92,133,4.3,028km S 62° E of Don Marcelino (Davao Occidental),028,S 62° E,Don Marcelino (Davao Occidental)
 2025-12-15T11:36:00.000Z,15 December 2025 - 11:36 AM,10.23,125.89,024,4.2,028km N 34° W of Santa Monica (Surigao Del Norte),028,N 34° W,Santa Monica (Surigao Del Norte)
 2025-12-15T11:14:00.000Z,15 December 2025 - 11:14 AM,11.08,124.01,029,2.0,005km N 43° E of City Of Bogo (Cebu),005,N 43° E,City Of Bogo (Cebu)
-2025-12-15T10:03:00.000Z,15 December 2025 - 10:03 AM,11.18,123.98,033,1.8,014km N 02° E of City Of Bogo (Cebu),014,N 02° E,City Of Bogo (Cebu)
-2025-12-15T09:16:00.000Z,15 December 2025 - 09:16 AM,05.54,125.86,087,2.8,044km N 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),044,N 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-15T08:57:00.000Z,15 December 2025 - 08:57 AM,07.98,123.06,020,2.9,015km N 09° W of Lakewood (Zamboanga Del Sur),015,N 09° W,Lakewood (Zamboanga Del Sur)
-2025-12-15T08:46:00.000Z,15 December 2025 - 08:46 AM,08.34,126.51,021,2.4,019km S 80° E of Hinatuan (Surigao Del Sur),019,S 80° E,Hinatuan (Surigao Del Sur)
-2025-12-15T06:43:00.000Z,15 December 2025 - 06:43 AM,07.17,126.73,158,2.4,022km S 78° E of Manay (Davao Oriental),022,S 78° E,Manay (Davao Oriental)
