@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T21:29:00.000Z,16 December 2025 - 09:29 PM,08.87,126.53,039,1.7,026km S 77° E of Cagwait (Surigao Del Sur),026,S 77° E,Cagwait (Surigao Del Sur)
+2025-12-16T21:14:00.000Z,16 December 2025 - 09:14 PM,13.74,120.58,130,3.9,012km S 27° W of Calatagan (Batangas),012,S 27° W,Calatagan (Batangas)
+2025-12-16T20:57:00.000Z,16 December 2025 - 08:57 PM,09.66,126.14,033,1.7,014km S 06° W of General Luna (Surigao Del Norte),014,S 06° W,General Luna (Surigao Del Norte)
+2025-12-16T20:44:00.000Z,16 December 2025 - 08:44 PM,10.72,124.92,007,1.9,009km S 13° W of Javier (Leyte),009,S 13° W,Javier (Leyte)
+2025-12-16T20:36:00.000Z,16 December 2025 - 08:36 PM,10.98,124.06,001,2.9,011km S 49° E of City Of Bogo (Cebu),011,S 49° E,City Of Bogo (Cebu)
 2025-12-16T20:27:00.000Z,16 December 2025 - 08:27 PM,13.84,120.56,081,1.5,008km N 81° W of Calatagan (Batangas),008,N 81° W,Calatagan (Batangas)
 2025-12-16T19:57:00.000Z,16 December 2025 - 07:57 PM,07.11,125.29,014,2.2,018km N 89° E of Magpet (Cotabato),018,N 89° E,Magpet (Cotabato)
 2025-12-16T19:46:00.000Z,16 December 2025 - 07:46 PM,09.98,126.12,033,1.7,007km S 47° E of Burgos (Surigao Del Norte),007,S 47° E,Burgos (Surigao Del Norte)
@@ -39,5 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T23:35:00.000Z,15 December 2025 - 11:35 PM,09.05,122.78,022,2.2,028km S 87° W of Siaton (Negros Oriental),028,S 87° W,Siaton (Negros Oriental)
 2025-12-15T23:23:00.000Z,15 December 2025 - 11:23 PM,07.14,126.92,033,2.2,043km S 79° E of Manay (Davao Oriental),043,S 79° E,Manay (Davao Oriental)
 2025-12-15T22:57:00.000Z,15 December 2025 - 10:57 PM,06.41,126.28,040,3.7,036km S 41° E of Governor Generoso (Davao Oriental),036,S 41° E,Governor Generoso (Davao Oriental)
-2025-12-15T21:06:00.000Z,15 December 2025 - 09:06 PM,10.87,123.95,007,1.9,020km S 09° W of City Of Bogo (Cebu),020,S 09° W,City Of Bogo (Cebu)
-2025-12-15T21:04:00.000Z,15 December 2025 - 09:04 PM,09.63,126.13,033,1.7,016km S 30° E of Dapa (Surigao Del Norte),016,S 30° E,Dapa (Surigao Del Norte)

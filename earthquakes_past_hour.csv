@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-16T20:27:00.000Z,16 December 2025 - 08:27 PM,13.84,120.56,081,1.5,008km N 81° W of Calatagan (Batangas),008,N 81° W,Calatagan (Batangas)
-2025-12-16T19:57:00.000Z,16 December 2025 - 07:57 PM,07.11,125.29,014,2.2,018km N 89° E of Magpet (Cotabato),018,N 89° E,Magpet (Cotabato)
-2025-12-16T19:46:00.000Z,16 December 2025 - 07:46 PM,09.98,126.12,033,1.7,007km S 47° E of Burgos (Surigao Del Norte),007,S 47° E,Burgos (Surigao Del Norte)
+2025-12-16T21:29:00.000Z,16 December 2025 - 09:29 PM,08.87,126.53,039,1.7,026km S 77° E of Cagwait (Surigao Del Sur),026,S 77° E,Cagwait (Surigao Del Sur)
+2025-12-16T21:14:00.000Z,16 December 2025 - 09:14 PM,13.74,120.58,130,3.9,012km S 27° W of Calatagan (Batangas),012,S 27° W,Calatagan (Batangas)
+2025-12-16T20:57:00.000Z,16 December 2025 - 08:57 PM,09.66,126.14,033,1.7,014km S 06° W of General Luna (Surigao Del Norte),014,S 06° W,General Luna (Surigao Del Norte)
+2025-12-16T20:44:00.000Z,16 December 2025 - 08:44 PM,10.72,124.92,007,1.9,009km S 13° W of Javier (Leyte),009,S 13° W,Javier (Leyte)
+2025-12-16T20:36:00.000Z,16 December 2025 - 08:36 PM,10.98,124.06,001,2.9,011km S 49° E of City Of Bogo (Cebu),011,S 49° E,City Of Bogo (Cebu)
