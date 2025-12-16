@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T23:26:00.000Z,16 December 2025 - 11:26 PM,13.83,120.58,091,1.5,005km S 84° W of Calatagan (Batangas),005,S 84° W,Calatagan (Batangas)
+2025-12-16T23:11:00.000Z,16 December 2025 - 11:11 PM,11.07,124.06,010,1.9,009km N 76° E of City Of Bogo (Cebu),009,N 76° E,City Of Bogo (Cebu)
 2025-12-16T23:01:00.000Z,16 December 2025 - 11:01 PM,09.88,125.34,004,2.5,007km S 64° E of San Ricardo (Southern Leyte),007,S 64° E,San Ricardo (Southern Leyte)
 2025-12-16T22:38:00.000Z,16 December 2025 - 10:38 PM,13.19,121.31,033,1.5,003km N 66° E of Victoria (Oriental Mindoro),003,N 66° E,Victoria (Oriental Mindoro)
 2025-12-16T22:15:00.000Z,16 December 2025 - 10:15 PM,07.10,126.92,022,2.4,044km S 74° E of Manay (Davao Oriental),044,S 74° E,Manay (Davao Oriental)
