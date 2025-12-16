@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T15:03:00.000Z,16 December 2025 - 03:03 PM,08.26,126.45,033,1.6,016km N 69° E of City Of Bislig (Surigao Del Sur),016,N 69° E,City Of Bislig (Surigao Del Sur)
 2025-12-16T13:04:00.000Z,16 December 2025 - 01:04 PM,09.55,122.50,028,1.9,007km S 35° E of Hinoba-an (Negros Occidental),007,S 35° E,Hinoba-an (Negros Occidental)
 2025-12-16T12:56:00.000Z,16 December 2025 - 12:56 PM,15.00,119.81,004,2.6,032km S 57° W of Cabangan (Zambales),032,S 57° W,Cabangan (Zambales)
 2025-12-16T11:26:00.000Z,16 December 2025 - 11:26 AM,07.11,125.33,007,2.7,023km N 88° E of Magpet (Cotabato),023,N 88° E,Magpet (Cotabato)
@@ -33,8 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T15:52:00.000Z,15 December 2025 - 03:52 PM,10.21,125.90,025,3.9,026km N 35° W of Santa Monica (Surigao Del Norte),026,N 35° W,Santa Monica (Surigao Del Norte)
 2025-12-15T15:47:00.000Z,15 December 2025 - 03:47 PM,05.42,126.96,032,2.5,156km S 69° E of Jose Abad Santos (Davao Occidental),156,S 69° E,Jose Abad Santos (Davao Occidental)
 2025-12-15T15:35:00.000Z,15 December 2025 - 03:35 PM,07.82,126.64,022,2.0,021km N 82° E of Cateel (Davao Oriental),021,N 82° E,Cateel (Davao Oriental)
-2025-12-15T14:50:00.000Z,15 December 2025 - 02:50 PM,06.15,127.65,030,3.7,170km S 46° E of Manay (Davao Oriental),170,S 46° E,Manay (Davao Oriental)
-2025-12-15T14:05:00.000Z,15 December 2025 - 02:05 PM,09.13,126.67,014,2.3,046km N 67° E of Bayabas (Surigao Del Sur),046,N 67° E,Bayabas (Surigao Del Sur)
-2025-12-15T14:05:00.000Z,15 December 2025 - 02:05 PM,09.13,126.67,014,2.3,046km N 67° E of Bayabas (Surigao Del Sur),046,N 67° E,Bayabas (Surigao Del Sur)
-2025-12-15T14:03:00.000Z,15 December 2025 - 02:03 PM,18.07,121.25,019,1.6,009km N 53° E of Kabugao (Apayao),009,N 53° E,Kabugao (Apayao)
-2025-12-15T14:02:00.000Z,15 December 2025 - 02:02 PM,08.96,126.11,022,2.7,008km N 82° E of San Miguel (Surigao Del Sur),008,N 82° E,San Miguel (Surigao Del Sur)
