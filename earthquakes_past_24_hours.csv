@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T11:26:00.000Z,16 December 2025 - 11:26 AM,07.11,125.33,007,2.7,023km N 88° E of Magpet (Cotabato),023,N 88° E,Magpet (Cotabato)
+2025-12-16T11:24:00.000Z,16 December 2025 - 11:24 AM,07.12,125.36,007,2.2,026km N 87° E of Magpet (Cotabato),026,N 87° E,Magpet (Cotabato)
+2025-12-16T11:19:00.000Z,16 December 2025 - 11:19 AM,06.97,125.24,033,1.7,017km S 74° E of City Of Kidapawan (Cotabato),017,S 74° E,City Of Kidapawan (Cotabato)
 2025-12-16T10:25:00.000Z,16 December 2025 - 10:25 AM,15.09,119.80,049,2.0,029km S 75° W of Cabangan (Zambales),029,S 75° W,Cabangan (Zambales)
 2025-12-16T09:51:00.000Z,16 December 2025 - 09:51 AM,11.12,124.08,010,1.8,014km N 52° E of City Of Bogo (Cebu),014,N 52° E,City Of Bogo (Cebu)
 2025-12-16T06:41:00.000Z,16 December 2025 - 06:41 AM,11.17,124.23,007,2.4,030km N 63° E of City Of Bogo (Cebu),030,N 63° E,City Of Bogo (Cebu)
@@ -36,4 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T12:40:00.000Z,15 December 2025 - 12:40 PM,13.68,120.57,084,1.5,019km S 22° W of Calatagan (Batangas),019,S 22° W,Calatagan (Batangas)
 2025-12-15T12:30:00.000Z,15 December 2025 - 12:30 PM,06.08,125.92,133,4.3,028km S 62° E of Don Marcelino (Davao Occidental),028,S 62° E,Don Marcelino (Davao Occidental)
 2025-12-15T11:36:00.000Z,15 December 2025 - 11:36 AM,10.23,125.89,024,4.2,028km N 34° W of Santa Monica (Surigao Del Norte),028,N 34° W,Santa Monica (Surigao Del Norte)
-2025-12-15T11:14:00.000Z,15 December 2025 - 11:14 AM,11.08,124.01,029,2.0,005km N 43° E of City Of Bogo (Cebu),005,N 43° E,City Of Bogo (Cebu)
