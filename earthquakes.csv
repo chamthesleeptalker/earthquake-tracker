@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T16:20:00.000Z,16 December 2025 - 04:20 PM,08.38,126.42,035,1.7,009km N 83° E of Hinatuan (Surigao Del Sur),009,N 83° E,Hinatuan (Surigao Del Sur)
+2025-12-16T15:56:00.000Z,16 December 2025 - 03:56 PM,14.15,120.55,096,1.7,013km N 47° W of Nasugbu (Batangas),013,N 47° W,Nasugbu (Batangas)
+2025-12-16T15:56:00.000Z,16 December 2025 - 03:56 PM,14.15,120.55,096,1.7,013km N 47° W of Nasugbu (Batangas),013,N 47° W,Nasugbu (Batangas)
+2025-12-16T15:45:00.000Z,16 December 2025 - 03:45 PM,10.16,126.14,033,1.4,017km N 27° E of Burgos (Surigao Del Norte),017,N 27° E,Burgos (Surigao Del Norte)
+2025-12-16T15:21:00.000Z,16 December 2025 - 03:21 PM,10.98,123.78,018,2.2,023km S 72° W of City Of Bogo (Cebu),023,S 72° W,City Of Bogo (Cebu)
 2025-12-16T15:22:00.000Z,16 December 2025 - 03:22 PM,10.98,123.78,018,2.2,023km S 72° W of City Of Bogo (Cebu),023,S 72° W,City Of Bogo (Cebu)
 2025-12-16T15:03:00.000Z,16 December 2025 - 03:03 PM,08.26,126.45,033,1.6,016km N 69° E of City Of Bislig (Surigao Del Sur),016,N 69° E,City Of Bislig (Surigao Del Sur)
 2025-12-16T13:04:00.000Z,16 December 2025 - 01:04 PM,09.55,122.50,028,1.9,007km S 35° E of Hinoba-an (Negros Occidental),007,S 35° E,Hinoba-an (Negros Occidental)
