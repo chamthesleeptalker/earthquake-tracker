@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T13:04:00.000Z,16 December 2025 - 01:04 PM,09.55,122.50,028,1.9,007km S 35° E of Hinoba-an (Negros Occidental),007,S 35° E,Hinoba-an (Negros Occidental)
+2025-12-16T12:56:00.000Z,16 December 2025 - 12:56 PM,15.00,119.81,004,2.6,032km S 57° W of Cabangan (Zambales),032,S 57° W,Cabangan (Zambales)
 2025-12-16T11:26:00.000Z,16 December 2025 - 11:26 AM,07.11,125.33,007,2.7,023km N 88° E of Magpet (Cotabato),023,N 88° E,Magpet (Cotabato)
 2025-12-16T11:24:00.000Z,16 December 2025 - 11:24 AM,07.12,125.36,007,2.2,026km N 87° E of Magpet (Cotabato),026,N 87° E,Magpet (Cotabato)
 2025-12-16T11:19:00.000Z,16 December 2025 - 11:19 AM,06.97,125.24,033,1.7,017km S 74° E of City Of Kidapawan (Cotabato),017,S 74° E,City Of Kidapawan (Cotabato)
@@ -36,6 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T14:05:00.000Z,15 December 2025 - 02:05 PM,09.13,126.67,014,2.3,046km N 67° E of Bayabas (Surigao Del Sur),046,N 67° E,Bayabas (Surigao Del Sur)
 2025-12-15T14:03:00.000Z,15 December 2025 - 02:03 PM,18.07,121.25,019,1.6,009km N 53° E of Kabugao (Apayao),009,N 53° E,Kabugao (Apayao)
 2025-12-15T14:02:00.000Z,15 December 2025 - 02:02 PM,08.96,126.11,022,2.7,008km N 82° E of San Miguel (Surigao Del Sur),008,N 82° E,San Miguel (Surigao Del Sur)
-2025-12-15T12:40:00.000Z,15 December 2025 - 12:40 PM,13.68,120.57,084,1.5,019km S 22° W of Calatagan (Batangas),019,S 22° W,Calatagan (Batangas)
-2025-12-15T12:30:00.000Z,15 December 2025 - 12:30 PM,06.08,125.92,133,4.3,028km S 62° E of Don Marcelino (Davao Occidental),028,S 62° E,Don Marcelino (Davao Occidental)
-2025-12-15T11:36:00.000Z,15 December 2025 - 11:36 AM,10.23,125.89,024,4.2,028km N 34° W of Santa Monica (Surigao Del Norte),028,N 34° W,Santa Monica (Surigao Del Norte)

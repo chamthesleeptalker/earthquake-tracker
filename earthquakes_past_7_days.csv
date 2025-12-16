@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T13:04:00.000Z,16 December 2025 - 01:04 PM,09.55,122.50,028,1.9,007km S 35° E of Hinoba-an (Negros Occidental),007,S 35° E,Hinoba-an (Negros Occidental)
+2025-12-16T12:56:00.000Z,16 December 2025 - 12:56 PM,15.00,119.81,004,2.6,032km S 57° W of Cabangan (Zambales),032,S 57° W,Cabangan (Zambales)
 2025-12-16T11:26:00.000Z,16 December 2025 - 11:26 AM,07.11,125.33,007,2.7,023km N 88° E of Magpet (Cotabato),023,N 88° E,Magpet (Cotabato)
 2025-12-16T11:24:00.000Z,16 December 2025 - 11:24 AM,07.12,125.36,007,2.2,026km N 87° E of Magpet (Cotabato),026,N 87° E,Magpet (Cotabato)
 2025-12-16T11:19:00.000Z,16 December 2025 - 11:19 AM,06.97,125.24,033,1.7,017km S 74° E of City Of Kidapawan (Cotabato),017,S 74° E,City Of Kidapawan (Cotabato)
@@ -311,5 +313,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-09T15:32:00.000Z,09 December 2025 - 03:32 PM,06.33,126.31,124,2.3,044km S 36° E of Governor Generoso (Davao Oriental),044,S 36° E,Governor Generoso (Davao Oriental)
 2025-12-09T15:31:00.000Z,09 December 2025 - 03:31 PM,06.71,124.26,006,1.9,021km S 37° E of South Upi (Maguindanao Del Sur),021,S 37° E,South Upi (Maguindanao Del Sur)
 2025-12-09T14:05:00.000Z,09 December 2025 - 02:05 PM,05.95,126.91,149,2.2,121km S 50° E of Governor Generoso (Davao Oriental),121,S 50° E,Governor Generoso (Davao Oriental)
-2025-12-09T13:03:00.000Z,09 December 2025 - 01:03 PM,09.64,126.12,036,2.0,016km S 15° W of General Luna (Surigao Del Norte),016,S 15° W,General Luna (Surigao Del Norte)
-2025-12-09T11:55:00.000Z,09 December 2025 - 11:55 AM,08.35,125.98,007,1.8,005km S 30° W of Rosario (Agusan Del Sur),005,S 30° W,Rosario (Agusan Del Sur)
