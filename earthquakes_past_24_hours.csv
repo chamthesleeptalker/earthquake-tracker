@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-16T18:03:00.000Z,16 December 2025 - 06:03 PM,11.13,123.96,013,2.0,010km N 15° W of City Of Bogo (Cebu),010,N 15° W,City Of Bogo (Cebu)
 2025-12-16T16:30:00.000Z,16 December 2025 - 04:30 PM,13.87,120.59,141,1.7,007km N 48° W of Calatagan (Batangas),007,N 48° W,Calatagan (Batangas)
 2025-12-16T16:27:00.000Z,16 December 2025 - 04:27 PM,11.10,123.81,030,2.2,019km N 72° W of City Of Bogo (Cebu),019,N 72° W,City Of Bogo (Cebu)
 2025-12-16T16:20:00.000Z,16 December 2025 - 04:20 PM,08.38,126.42,035,1.7,009km N 83° E of Hinatuan (Surigao Del Sur),009,N 83° E,Hinatuan (Surigao Del Sur)
@@ -38,4 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T21:04:00.000Z,15 December 2025 - 09:04 PM,09.63,126.13,033,1.7,016km S 30° E of Dapa (Surigao Del Norte),016,S 30° E,Dapa (Surigao Del Norte)
 2025-12-15T19:30:00.000Z,15 December 2025 - 07:30 PM,07.13,126.81,028,2.5,031km S 73° E of Manay (Davao Oriental),031,S 73° E,Manay (Davao Oriental)
 2025-12-15T19:16:00.000Z,15 December 2025 - 07:16 PM,05.96,126.01,148,2.3,043km S 53° E of Don Marcelino (Davao Occidental),043,S 53° E,Don Marcelino (Davao Occidental)
-2025-12-15T17:37:00.000Z,15 December 2025 - 05:37 PM,17.79,120.73,007,2.3,008km N 18° E of Lagayan (Abra),008,N 18° E,Lagayan (Abra)
