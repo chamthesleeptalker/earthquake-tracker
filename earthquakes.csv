@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-17T03:18:00.000Z,17 December 2025 - 03:18 AM,08.14,121.78,030,3.1,055km N 48° W of Baliguian (Zamboanga Del Norte),055,N 48° W,Baliguian (Zamboanga Del Norte)
+2025-12-17T03:12:00.000Z,17 December 2025 - 03:12 AM,15.72,121.98,009,3.3,045km S 84° E of Baler (Aurora),045,S 84° E,Baler (Aurora)
 2025-12-17T02:48:00.000Z,17 December 2025 - 02:48 AM,09.80,122.45,033,1.7,004km N 30° E of City Of Sipalay (Negros Occidental),004,N 30° E,City Of Sipalay (Negros Occidental)
 2025-12-17T02:38:00.000Z,17 December 2025 - 02:38 AM,10.89,123.93,004,2.6,018km S 18° W of City Of Bogo (Cebu),018,S 18° W,City Of Bogo (Cebu)
 2025-12-17T02:00:00.000Z,17 December 2025 - 02:00 AM,10.96,123.94,003,2.7,011km S 23° W of City Of Bogo (Cebu),011,S 23° W,City Of Bogo (Cebu)
