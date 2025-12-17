@@ -1,7 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-17T11:32:00.000Z,17 December 2025 - 11:32 AM,12.71,122.03,009,2.7,008km S 12° W of Corcuera (Romblon),008,S 12° W,Corcuera (Romblon)
+2025-12-17T11:31:00.000Z,17 December 2025 - 11:31 AM,07.75,126.42,005,2.4,006km S 37° W of Cateel (Davao Oriental),006,S 37° W,Cateel (Davao Oriental)
+2025-12-17T10:55:00.000Z,17 December 2025 - 10:55 AM,07.47,126.58,127,3.1,011km S 10° E of Baganga (Davao Oriental),011,S 10° E,Baganga (Davao Oriental)
 2025-12-17T10:08:00.000Z,17 December 2025 - 10:08 AM,19.80,121.41,002,3.4,061km N 09° W of Calayan (Cagayan),061,N 09° W,Calayan (Cagayan)
 2025-12-17T09:49:00.000Z,17 December 2025 - 09:49 AM,06.64,126.59,193,2.7,048km S 19° E of Tarragona (Davao Oriental),048,S 19° E,Tarragona (Davao Oriental)
-2025-12-16T10:26:00.000Z,16 December 2025 - 10:26 AM,15.14,119.82,026,2.0,026km S 85° W of Cabangan (Zambales),026,S 85° W,Cabangan (Zambales)
 2025-12-17T08:42:00.000Z,17 December 2025 - 08:42 AM,07.05,123.73,032,1.9,032km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),032,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-12-17T07:47:00.000Z,17 December 2025 - 07:47 AM,06.71,127.39,016,3.0,109km S 60° E of Manay (Davao Oriental),109,S 60° E,Manay (Davao Oriental)
 2025-12-17T07:11:00.000Z,17 December 2025 - 07:11 AM,14.11,120.44,112,1.5,021km N 78° W of Nasugbu (Batangas),021,N 78° W,Nasugbu (Batangas)
@@ -59,7 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-16T15:03:00.000Z,16 December 2025 - 03:03 PM,08.26,126.45,033,1.6,016km N 69° E of City Of Bislig (Surigao Del Sur),016,N 69° E,City Of Bislig (Surigao Del Sur)
 2025-12-16T13:04:00.000Z,16 December 2025 - 01:04 PM,09.55,122.50,028,1.9,007km S 35° E of Hinoba-an (Negros Occidental),007,S 35° E,Hinoba-an (Negros Occidental)
 2025-12-16T12:56:00.000Z,16 December 2025 - 12:56 PM,15.00,119.81,004,2.6,032km S 57° W of Cabangan (Zambales),032,S 57° W,Cabangan (Zambales)
-2025-12-16T11:26:00.000Z,16 December 2025 - 11:26 AM,07.11,125.33,007,2.7,023km N 88° E of Magpet (Cotabato),023,N 88° E,Magpet (Cotabato)
-2025-12-16T11:24:00.000Z,16 December 2025 - 11:24 AM,07.12,125.36,007,2.2,026km N 87° E of Magpet (Cotabato),026,N 87° E,Magpet (Cotabato)
-2025-12-16T11:19:00.000Z,16 December 2025 - 11:19 AM,06.97,125.24,033,1.7,017km S 74° E of City Of Kidapawan (Cotabato),017,S 74° E,City Of Kidapawan (Cotabato)
-2025-12-16T10:25:00.000Z,16 December 2025 - 10:25 AM,15.09,119.80,049,2.0,029km S 75° W of Cabangan (Zambales),029,S 75° W,Cabangan (Zambales)
