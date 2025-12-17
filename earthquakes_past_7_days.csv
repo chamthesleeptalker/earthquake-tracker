@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-17T10:08:00.000Z,17 December 2025 - 10:08 AM,19.80,121.41,002,3.4,061km N 09° W of Calayan (Cagayan),061,N 09° W,Calayan (Cagayan)
+2025-12-17T09:49:00.000Z,17 December 2025 - 09:49 AM,06.64,126.59,193,2.7,048km S 19° E of Tarragona (Davao Oriental),048,S 19° E,Tarragona (Davao Oriental)
+2025-12-16T10:26:00.000Z,16 December 2025 - 10:26 AM,15.14,119.82,026,2.0,026km S 85° W of Cabangan (Zambales),026,S 85° W,Cabangan (Zambales)
 2025-12-17T08:42:00.000Z,17 December 2025 - 08:42 AM,07.05,123.73,032,1.9,032km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),032,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2025-12-17T07:47:00.000Z,17 December 2025 - 07:47 AM,06.71,127.39,016,3.0,109km S 60° E of Manay (Davao Oriental),109,S 60° E,Manay (Davao Oriental)
 2025-12-17T07:11:00.000Z,17 December 2025 - 07:11 AM,14.11,120.44,112,1.5,021km N 78° W of Nasugbu (Batangas),021,N 78° W,Nasugbu (Batangas)
