@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-17T17:52:00.000Z,17 December 2025 - 05:52 PM,11.07,124.12,004,2.4,016km N 80° E of City Of Bogo (Cebu),016,N 80° E,City Of Bogo (Cebu)
 2025-12-17T17:38:00.000Z,17 December 2025 - 05:38 PM,10.92,123.91,002,2.5,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
 2025-12-17T16:43:00.000Z,17 December 2025 - 04:43 PM,14.10,120.47,109,3.7,017km N 80° W of Nasugbu (Batangas),017,N 80° W,Nasugbu (Batangas)
 2025-12-17T14:44:00.000Z,17 December 2025 - 02:44 PM,11.10,124.19,029,2.5,024km N 77° E of City Of Bogo (Cebu),024,N 77° E,City Of Bogo (Cebu)
