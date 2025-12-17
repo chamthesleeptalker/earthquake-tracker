@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-17T22:53:00.000Z,17 December 2025 - 10:53 PM,12.55,125.26,016,2.4,008km N 08° E of Mapanas (Northern Samar),008,N 08° E,Mapanas (Northern Samar)
 2025-12-17T20:52:00.000Z,17 December 2025 - 08:52 PM,08.46,126.63,029,2.0,034km N 72° E of Hinatuan (Surigao Del Sur),034,N 72° E,Hinatuan (Surigao Del Sur)
 2025-12-17T19:54:00.000Z,17 December 2025 - 07:54 PM,09.34,125.57,012,2.3,006km S 87° E of Jabonga (Agusan Del Norte),006,S 87° E,Jabonga (Agusan Del Norte)
 2025-12-17T19:39:00.000Z,17 December 2025 - 07:39 PM,05.89,127.35,018,3.0,162km S 38° E of Tarragona (Davao Oriental),162,S 38° E,Tarragona (Davao Oriental)
@@ -47,10 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-16T23:26:00.000Z,16 December 2025 - 11:26 PM,13.83,120.58,091,1.5,005km S 84° W of Calatagan (Batangas),005,S 84° W,Calatagan (Batangas)
 2025-12-16T23:11:00.000Z,16 December 2025 - 11:11 PM,11.07,124.06,010,1.9,009km N 76° E of City Of Bogo (Cebu),009,N 76° E,City Of Bogo (Cebu)
 2025-12-16T23:01:00.000Z,16 December 2025 - 11:01 PM,09.88,125.34,004,2.5,007km S 64° E of San Ricardo (Southern Leyte),007,S 64° E,San Ricardo (Southern Leyte)
-2025-12-16T22:38:00.000Z,16 December 2025 - 10:38 PM,13.19,121.31,033,1.5,003km N 66° E of Victoria (Oriental Mindoro),003,N 66° E,Victoria (Oriental Mindoro)
-2025-12-16T22:15:00.000Z,16 December 2025 - 10:15 PM,07.10,126.92,022,2.4,044km S 74° E of Manay (Davao Oriental),044,S 74° E,Manay (Davao Oriental)
-2025-12-16T21:47:00.000Z,16 December 2025 - 09:47 PM,07.10,125.34,008,2.0,024km S 89° E of Magpet (Cotabato),024,S 89° E,Magpet (Cotabato)
-2025-12-16T21:34:00.000Z,16 December 2025 - 09:34 PM,11.19,124.07,012,2.1,019km N 30° E of City Of Bogo (Cebu),019,N 30° E,City Of Bogo (Cebu)
-2025-12-16T21:29:00.000Z,16 December 2025 - 09:29 PM,08.87,126.53,039,1.7,026km S 77° E of Cagwait (Surigao Del Sur),026,S 77° E,Cagwait (Surigao Del Sur)
-2025-12-16T21:14:00.000Z,16 December 2025 - 09:14 PM,13.74,120.58,130,3.9,012km S 27° W of Calatagan (Batangas),012,S 27° W,Calatagan (Batangas)
-2025-12-16T20:57:00.000Z,16 December 2025 - 08:57 PM,09.66,126.14,033,1.7,014km S 06° W of General Luna (Surigao Del Norte),014,S 06° W,General Luna (Surigao Del Norte)
