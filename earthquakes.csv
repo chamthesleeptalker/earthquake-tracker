@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-17T08:42:00.000Z,17 December 2025 - 08:42 AM,07.05,123.73,032,1.9,032km S 86° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),032,S 86° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2025-12-17T07:47:00.000Z,17 December 2025 - 07:47 AM,06.71,127.39,016,3.0,109km S 60° E of Manay (Davao Oriental),109,S 60° E,Manay (Davao Oriental)
 2025-12-17T07:11:00.000Z,17 December 2025 - 07:11 AM,14.11,120.44,112,1.5,021km N 78° W of Nasugbu (Batangas),021,N 78° W,Nasugbu (Batangas)
 2025-12-17T06:58:00.000Z,17 December 2025 - 06:58 AM,08.79,126.22,025,1.7,008km S 82° W of Marihatag (Surigao Del Sur),008,S 82° W,Marihatag (Surigao Del Sur)
 2025-12-17T06:44:00.000Z,17 December 2025 - 06:44 AM,19.67,122.08,012,2.9,025km N 46° E of Babuyan Island (Calayan) (Cagayan),025,N 46° E,Babuyan Island (Calayan) (Cagayan)
