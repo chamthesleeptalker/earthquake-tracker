@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-18T20:27:00.000Z,18 December 2025 - 08:27 PM,05.85,126.72,021,2.8,113km S 39° E of Governor Generoso (Davao Oriental),113,S 39° E,Governor Generoso (Davao Oriental)
+2025-12-18T20:09:00.000Z,18 December 2025 - 08:09 PM,05.79,126.74,014,3.3,120km S 38° E of Governor Generoso (Davao Oriental),120,S 38° E,Governor Generoso (Davao Oriental)
+2025-12-18T19:55:00.000Z,18 December 2025 - 07:55 PM,11.14,123.94,016,1.5,011km N 25° W of City Of Bogo (Cebu),011,N 25° W,City Of Bogo (Cebu)
 2025-12-18T19:11:00.000Z,18 December 2025 - 07:11 PM,11.19,124.03,015,1.9,017km N 19° E of City Of Bogo (Cebu),017,N 19° E,City Of Bogo (Cebu)
 2025-12-18T19:00:00.000Z,18 December 2025 - 07:00 PM,10.99,124.02,007,2.7,008km S 34° E of City Of Bogo (Cebu),008,S 34° E,City Of Bogo (Cebu)
 2025-12-18T18:01:00.000Z,18 December 2025 - 06:01 PM,19.93,121.20,003,3.8,080km N 21° W of Calayan (Cagayan),080,N 21° W,Calayan (Cagayan)
@@ -299,8 +302,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-11T21:52:00.000Z,11 December 2025 - 09:52 PM,14.07,120.77,121,1.6,007km N 39° E of Tuy (Batangas),007,N 39° E,Tuy (Batangas)
 2025-12-11T21:12:00.000Z,11 December 2025 - 09:12 PM,05.03,126.10,031,2.9,087km S 61° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),087,S 61° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-11T20:33:00.000Z,11 December 2025 - 08:33 PM,10.88,123.89,003,2.9,020km S 27° W of City Of Bogo (Cebu),020,S 27° W,City Of Bogo (Cebu)
-2025-12-11T19:49:00.000Z,11 December 2025 - 07:49 PM,08.66,126.25,032,1.4,016km S 19° W of Marihatag (Surigao Del Sur),016,S 19° W,Marihatag (Surigao Del Sur)
-2025-12-11T19:47:00.000Z,11 December 2025 - 07:47 PM,08.68,126.36,029,2.1,027km S 13° E of Cagwait (Surigao Del Sur),027,S 13° E,Cagwait (Surigao Del Sur)
-2025-12-11T19:44:00.000Z,11 December 2025 - 07:44 PM,09.58,122.39,011,2.0,008km S 76° W of Hinoba-an (Negros Occidental),008,S 76° W,Hinoba-an (Negros Occidental)
-2025-12-11T19:42:00.000Z,11 December 2025 - 07:42 PM,07.64,126.54,023,2.0,008km N 22° W of Baganga (Davao Oriental),008,N 22° W,Baganga (Davao Oriental)
-2025-12-11T19:39:00.000Z,11 December 2025 - 07:39 PM,08.69,126.23,028,2.5,014km S 32° W of Marihatag (Surigao Del Sur),014,S 32° W,Marihatag (Surigao Del Sur)
