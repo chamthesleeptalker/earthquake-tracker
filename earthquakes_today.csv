@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T04:01:00.000Z,19 December 2025 - 04:01 AM,08.01,124.31,011,2.5,003km N 78° E of City Of Marawi (Lanao Del Sur),003,N 78° E,City Of Marawi (Lanao Del Sur)
+2025-12-19T03:44:00.000Z,19 December 2025 - 03:44 AM,15.04,119.79,020,2.1,030km S 85° W of San Felipe (Zambales),030,S 85° W,San Felipe (Zambales)
+2025-12-19T03:41:00.000Z,19 December 2025 - 03:41 AM,09.00,126.31,025,3.0,004km N 42° E of Bayabas (Surigao Del Sur),004,N 42° E,Bayabas (Surigao Del Sur)
+2025-12-19T03:32:00.000Z,19 December 2025 - 03:32 AM,05.05,127.04,032,4.1,181km S 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),181,S 75° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-19T03:25:00.000Z,19 December 2025 - 03:25 AM,08.48,126.50,012,2.7,022km N 55° E of Hinatuan (Surigao Del Sur),022,N 55° E,Hinatuan (Surigao Del Sur)
 2025-12-19T03:24:00.000Z,19 December 2025 - 03:24 AM,08.20,126.61,041,2.3,028km N 51° E of Lingig (Surigao Del Sur),028,N 51° E,Lingig (Surigao Del Sur)
 2025-12-19T03:16:00.000Z,19 December 2025 - 03:16 AM,05.60,125.06,045,1.8,029km S 34° W of Glan (Sarangani),029,S 34° W,Glan (Sarangani)
