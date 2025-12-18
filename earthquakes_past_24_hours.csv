@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T02:18:00.000Z,19 December 2025 - 02:18 AM,18.48,120.81,002,1.9,005km S 05° E of Dumalneg (Ilocos Norte),005,S 05° E,Dumalneg (Ilocos Norte)
+2025-12-19T02:07:00.000Z,19 December 2025 - 02:07 AM,14.98,119.68,010,4.5,042km S 78° W of San Felipe (Zambales),042,S 78° W,San Felipe (Zambales)
+2025-12-19T02:01:00.000Z,19 December 2025 - 02:01 AM,10.99,123.92,004,2.6,009km S 45° W of City Of Bogo (Cebu),009,S 45° W,City Of Bogo (Cebu)
 2025-12-19T01:19:00.000Z,19 December 2025 - 01:19 AM,17.86,120.62,032,1.7,008km S 39° W of Nueva Era (Ilocos Norte),008,S 39° W,Nueva Era (Ilocos Norte)
 2025-12-19T01:02:00.000Z,19 December 2025 - 01:02 AM,09.59,126.34,023,2.0,029km S 45° E of General Luna (Surigao Del Norte),029,S 45° E,General Luna (Surigao Del Norte)
 2025-12-19T00:59:00.000Z,19 December 2025 - 12:59 AM,04.09,125.90,063,3.3,156km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),156,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)

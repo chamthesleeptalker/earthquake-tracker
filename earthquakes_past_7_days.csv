@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T02:18:00.000Z,19 December 2025 - 02:18 AM,18.48,120.81,002,1.9,005km S 05° E of Dumalneg (Ilocos Norte),005,S 05° E,Dumalneg (Ilocos Norte)
+2025-12-19T02:07:00.000Z,19 December 2025 - 02:07 AM,14.98,119.68,010,4.5,042km S 78° W of San Felipe (Zambales),042,S 78° W,San Felipe (Zambales)
+2025-12-19T02:01:00.000Z,19 December 2025 - 02:01 AM,10.99,123.92,004,2.6,009km S 45° W of City Of Bogo (Cebu),009,S 45° W,City Of Bogo (Cebu)
 2025-12-19T01:19:00.000Z,19 December 2025 - 01:19 AM,17.86,120.62,032,1.7,008km S 39° W of Nueva Era (Ilocos Norte),008,S 39° W,Nueva Era (Ilocos Norte)
 2025-12-19T01:02:00.000Z,19 December 2025 - 01:02 AM,09.59,126.34,023,2.0,029km S 45° E of General Luna (Surigao Del Norte),029,S 45° E,General Luna (Surigao Del Norte)
 2025-12-19T00:59:00.000Z,19 December 2025 - 12:59 AM,04.09,125.90,063,3.3,156km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),156,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -292,7 +295,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-12T03:39:00.000Z,12 December 2025 - 03:39 AM,18.94,121.24,010,2.8,017km N 54° W of Fuga Island (Aparri) (Cagayan),017,N 54° W,Fuga Island (Aparri) (Cagayan)
 2025-12-12T03:29:00.000Z,12 December 2025 - 03:29 AM,09.65,126.14,031,1.7,015km S 08° W of General Luna (Surigao Del Norte),015,S 08° W,General Luna (Surigao Del Norte)
 2025-12-12T02:40:00.000Z,12 December 2025 - 02:40 AM,09.56,122.35,017,2.0,013km S 68° W of Hinoba-an (Negros Occidental),013,S 68° W,Hinoba-an (Negros Occidental)
-2025-12-12T02:14:00.000Z,12 December 2025 - 02:14 AM,08.29,126.27,011,2.1,010km N 34° W of City Of Bislig (Surigao Del Sur),010,N 34° W,City Of Bislig (Surigao Del Sur)
-2025-12-12T01:51:00.000Z,12 December 2025 - 01:51 AM,14.95,122.60,006,3.0,040km N 46° E of Jomalig (Quezon),040,N 46° E,Jomalig (Quezon)
-2025-12-12T01:39:00.000Z,12 December 2025 - 01:39 AM,07.41,126.71,025,2.3,029km N 40° E of Manay (Davao Oriental),029,N 40° E,Manay (Davao Oriental)
-2025-12-12T01:38:00.000Z,12 December 2025 - 01:38 AM,07.25,126.51,001,2.1,006km N 38° W of Manay (Davao Oriental),006,N 38° W,Manay (Davao Oriental)
