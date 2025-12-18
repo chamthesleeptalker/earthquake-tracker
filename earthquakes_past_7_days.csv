@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-18T12:49:00.000Z,18 December 2025 - 12:49 PM,19.84,121.43,005,3.4,062km N 54° W of Babuyan Island (Calayan) (Cagayan),062,N 54° W,Babuyan Island (Calayan) (Cagayan)
+2025-12-17T04:43:00.000Z,17 December 2025 - 04:43 AM,14.07,120.43,120,3.7,022km West of Nasugbu (Batangas),022,West of Nasugbu,
 2025-12-18T12:19:00.000Z,18 December 2025 - 12:19 PM,07.85,126.37,007,2.0,002km S 34° W of Boston (Davao Oriental),002,S 34° W,Boston (Davao Oriental)
 2025-12-18T12:11:00.000Z,18 December 2025 - 12:11 PM,09.37,126.50,020,2.3,035km N 73° E of Cortes (Surigao Del Sur),035,N 73° E,Cortes (Surigao Del Sur)
 2025-12-18T11:56:00.000Z,18 December 2025 - 11:56 AM,09.38,126.67,019,2.6,053km N 78° E of Cortes (Surigao Del Sur),053,N 78° E,Cortes (Surigao Del Sur)
