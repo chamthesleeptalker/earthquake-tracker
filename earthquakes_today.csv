@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T01:02:00.000Z,19 December 2025 - 01:02 AM,09.59,126.34,023,2.0,029km S 45° E of General Luna (Surigao Del Norte),029,S 45° E,General Luna (Surigao Del Norte)
+2025-12-19T00:59:00.000Z,19 December 2025 - 12:59 AM,04.09,125.90,063,3.3,156km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),156,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2025-12-19T00:56:00.000Z,19 December 2025 - 12:56 AM,14.94,119.74,005,3.2,037km S 89° W of San Antonio (Zambales),037,S 89° W,San Antonio (Zambales)
+2025-12-19T00:51:00.000Z,19 December 2025 - 12:51 AM,09.59,126.16,023,2.1,021km S 80° E of Socorro (Surigao Del Norte),021,S 80° E,Socorro (Surigao Del Norte)
 2025-12-19T00:02:00.000Z,19 December 2025 - 12:02 AM,09.59,126.16,033,1.4,021km S 01° W of General Luna (Surigao Del Norte),021,S 01° W,General Luna (Surigao Del Norte)
