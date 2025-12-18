@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T05:20:00.000Z,19 December 2025 - 05:20 AM,06.90,126.47,022,3.4,017km S 09° E of Tarragona (Davao Oriental),017,S 09° E,Tarragona (Davao Oriental)
+2025-12-19T05:19:00.000Z,19 December 2025 - 05:19 AM,06.85,127.14,010,4.8,077km S 59° E of Manay (Davao Oriental),077,S 59° E,Manay (Davao Oriental)
 2025-12-19T04:29:00.000Z,19 December 2025 - 04:29 AM,18.98,121.04,015,4.0,022km S 49° W of Dalupiri Island (Calayan) (Cagayan),022,S 49° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-19T04:27:00.000Z,19 December 2025 - 04:27 AM,06.95,127.25,016,3.6,083km S 70° E of Manay (Davao Oriental),083,S 70° E,Manay (Davao Oriental)
 2025-12-19T04:21:00.000Z,19 December 2025 - 04:21 AM,06.99,127.28,005,3.9,086km S 73° E of Manay (Davao Oriental),086,S 73° E,Manay (Davao Oriental)
