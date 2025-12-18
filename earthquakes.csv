@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T03:25:00.000Z,19 December 2025 - 03:25 AM,08.48,126.50,012,2.7,022km N 55° E of Hinatuan (Surigao Del Sur),022,N 55° E,Hinatuan (Surigao Del Sur)
+2025-12-19T03:24:00.000Z,19 December 2025 - 03:24 AM,08.20,126.61,041,2.3,028km N 51° E of Lingig (Surigao Del Sur),028,N 51° E,Lingig (Surigao Del Sur)
+2025-12-19T03:16:00.000Z,19 December 2025 - 03:16 AM,05.60,125.06,045,1.8,029km S 34° W of Glan (Sarangani),029,S 34° W,Glan (Sarangani)
 2025-12-19T03:01:00.000Z,19 December 2025 - 03:01 AM,09.60,126.22,031,2.4,021km S 19° E of General Luna (Surigao Del Norte),021,S 19° E,General Luna (Surigao Del Norte)
 2025-12-19T02:56:00.000Z,19 December 2025 - 02:56 AM,15.60,119.95,030,1.6,004km S 30° E of Candelaria (Zambales),004,S 30° E,Candelaria (Zambales)
 2025-12-19T02:47:00.000Z,19 December 2025 - 02:47 AM,10.44,125.74,054,1.8,019km N 62° E of Loreto (Dinagat Islands),019,N 62° E,Loreto (Dinagat Islands)
