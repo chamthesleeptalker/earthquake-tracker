@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-18T17:05:00.000Z,18 December 2025 - 05:05 PM,20.15,122.36,007,2.9,049km S 63° E of Uyugan (Batanes),049,S 63° E,Uyugan (Batanes)
+2025-12-18T16:52:00.000Z,18 December 2025 - 04:52 PM,13.45,120.30,004,2.0,019km N 78° W of Paluan (Occidental Mindoro),019,N 78° W,Paluan (Occidental Mindoro)
 2025-12-18T16:38:00.000Z,18 December 2025 - 04:38 PM,19.81,121.70,015,3.5,065km N 21° E of Calayan (Cagayan),065,N 21° E,Calayan (Cagayan)
 2025-12-18T15:27:00.000Z,18 December 2025 - 03:27 PM,19.98,120.97,012,5.5,095km N 34° W of Calayan (Cagayan),095,N 34° W,Calayan (Cagayan)
 2025-12-18T15:36:00.000Z,18 December 2025 - 03:36 PM,10.03,125.78,023,1.6,017km N 48° E of Cagdianao (Dinagat Islands),017,N 48° E,Cagdianao (Dinagat Islands)
@@ -305,7 +307,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-11T17:57:00.000Z,11 December 2025 - 05:57 PM,09.04,126.91,053,3.1,068km N 79° E of Cagwait (Surigao Del Sur),068,N 79° E,Cagwait (Surigao Del Sur)
 2025-12-11T17:50:00.000Z,11 December 2025 - 05:50 PM,08.78,126.77,002,2.1,051km S 88° E of Marihatag (Surigao Del Sur),051,S 88° E,Marihatag (Surigao Del Sur)
 2025-12-11T17:25:00.000Z,11 December 2025 - 05:25 PM,08.72,126.53,007,2.6,027km S 72° E of Marihatag (Surigao Del Sur),027,S 72° E,Marihatag (Surigao Del Sur)
-2025-12-11T17:01:00.000Z,11 December 2025 - 05:01 PM,08.91,126.76,022,2.4,051km S 89° E of Cagwait (Surigao Del Sur),051,S 89° E,Cagwait (Surigao Del Sur)
-2025-12-11T16:59:00.000Z,11 December 2025 - 04:59 PM,08.57,126.28,002,2.1,025km S 04° W of Marihatag (Surigao Del Sur),025,S 04° W,Marihatag (Surigao Del Sur)
-2025-12-11T16:56:00.000Z,11 December 2025 - 04:56 PM,08.85,126.80,003,4.1,055km N 84° E of Marihatag (Surigao Del Sur),055,N 84° E,Marihatag (Surigao Del Sur)
-2025-12-11T16:52:00.000Z,11 December 2025 - 04:52 PM,12.72,123.57,047,3.4,013km N 50° W of Monreal (Masbate),013,N 50° W,Monreal (Masbate)
