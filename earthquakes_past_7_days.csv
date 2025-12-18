@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-18T10:49:00.000Z,18 December 2025 - 10:49 AM,09.32,125.61,010,3.8,008km N 43° E of Santiago (Agusan Del Norte),008,N 43° E,Santiago (Agusan Del Norte)
+2025-12-18T10:28:00.000Z,18 December 2025 - 10:28 AM,07.85,126.28,008,1.8,011km S 77° W of Boston (Davao Oriental),011,S 77° W,Boston (Davao Oriental)
+2025-12-18T10:12:00.000Z,18 December 2025 - 10:12 AM,11.58,124.37,016,2.0,004km N 71° W of Naval (Biliran),004,N 71° W,Naval (Biliran)
 2025-12-18T08:50:00.000Z,18 December 2025 - 08:50 AM,14.02,120.53,109,2.1,013km S 59° W of Nasugbu (Batangas),013,S 59° W,Nasugbu (Batangas)
 2025-12-18T08:36:00.000Z,18 December 2025 - 08:36 AM,11.13,124.11,031,1.6,017km N 55° E of City Of Bogo (Cebu),017,N 55° E,City Of Bogo (Cebu)
 2025-12-18T08:12:00.000Z,18 December 2025 - 08:12 AM,11.98,126.10,015,2.8,067km S 84° E of Dolores (Eastern Samar),067,S 84° E,Dolores (Eastern Samar)
@@ -304,5 +307,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-11T14:18:00.000Z,11 December 2025 - 02:18 PM,08.79,126.69,007,3.7,043km S 88° E of Marihatag (Surigao Del Sur),043,S 88° E,Marihatag (Surigao Del Sur)
 2025-12-11T13:34:00.000Z,11 December 2025 - 01:34 PM,06.70,126.92,030,2.8,065km S 54° E of Tarragona (Davao Oriental),065,S 54° E,Tarragona (Davao Oriental)
 2025-12-11T13:01:00.000Z,11 December 2025 - 01:01 PM,10.98,124.09,025,2.0,014km S 60° E of City Of Bogo (Cebu),014,S 60° E,City Of Bogo (Cebu)
-2025-12-11T10:31:00.000Z,11 December 2025 - 10:31 AM,07.84,126.45,027,1.9,005km N 06° W of Cateel (Davao Oriental),005,N 06° W,Cateel (Davao Oriental)
-2025-12-11T09:01:00.000Z,11 December 2025 - 09:01 AM,06.01,127.48,015,3.0,162km S 45° E of Tarragona (Davao Oriental),162,S 45° E,Tarragona (Davao Oriental)
