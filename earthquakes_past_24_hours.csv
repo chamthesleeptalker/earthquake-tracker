@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-18T23:20:00.000Z,18 December 2025 - 11:20 PM,15.04,119.86,010,1.9,023km S 84° W of San Felipe (Zambales),023,S 84° W,San Felipe (Zambales)
 2025-12-18T21:21:00.000Z,18 December 2025 - 09:21 PM,05.98,126.55,002,3.6,092km S 34° E of Governor Generoso (Davao Oriental),092,S 34° E,Governor Generoso (Davao Oriental)
 2025-12-18T21:04:00.000Z,18 December 2025 - 09:04 PM,20.04,121.79,009,3.1,037km S 12° W of Sabtang (Batanes),037,S 12° W,Sabtang (Batanes)
 2025-12-18T20:54:00.000Z,18 December 2025 - 08:54 PM,18.07,120.86,006,2.0,009km S 27° E of Carasi (Ilocos Norte),009,S 27° E,Carasi (Ilocos Norte)
@@ -39,5 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T03:05:00.000Z,18 December 2025 - 03:05 AM,12.90,124.64,017,2.0,039km N 52° E of Biri (Northern Samar),039,N 52° E,Biri (Northern Samar)
 2025-12-18T01:10:00.000Z,18 December 2025 - 01:10 AM,11.02,124.00,024,1.4,004km S 35° E of City Of Bogo (Cebu),004,S 35° E,City Of Bogo (Cebu)
 2025-12-17T23:28:00.000Z,17 December 2025 - 11:28 PM,06.52,126.05,036,1.7,015km S 11° W of Governor Generoso (Davao Oriental),015,S 11° W,Governor Generoso (Davao Oriental)
-2025-12-17T23:13:00.000Z,17 December 2025 - 11:13 PM,13.58,120.95,001,2.2,009km N 01° W of Puerto Galera (Oriental Mindoro),009,N 01° W,Puerto Galera (Oriental Mindoro)
-2025-12-17T22:53:00.000Z,17 December 2025 - 10:53 PM,12.55,125.26,016,2.4,008km N 08° E of Mapanas (Northern Samar),008,N 08° E,Mapanas (Northern Samar)
