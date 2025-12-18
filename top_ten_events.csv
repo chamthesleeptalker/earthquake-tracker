@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-18T15:27:00.000Z,18 December 2025 - 03:27 PM,19.98,120.97,12,5.5,095km N 34° W of Calayan (Cagayan),095,N 34° W,Calayan (Cagayan)
 2025-12-18T15:28:00.000Z,18 December 2025 - 03:28 PM,18.94,121.13,10,5.2,020km S 24° W of Dalupiri Island (Calayan) (Cagayan),020,S 24° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-14T20:03:00.000Z,14 December 2025 - 08:03 PM,02.30,126.30,52,4.8,358km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),358,S 16° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-13T10:01:00.000Z,13 December 2025 - 10:01 AM,07.53,126.87,10,4.8,034km S 81° E of Baganga (Davao Oriental),034,S 81° E,Baganga (Davao Oriental)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-12T08:22:00.000Z,12 December 2025 - 08:22 AM,13.92,123.74,10,4.3,005km N 47° E of Garchitorena (Camarines Sur),005,N 47° E,Garchitorena (Camarines Sur)
 2025-12-15T11:36:00.000Z,15 December 2025 - 11:36 AM,10.23,125.89,24,4.2,028km N 34° W of Santa Monica (Surigao Del Norte),028,N 34° W,Santa Monica (Surigao Del Norte)
 2025-12-11T16:56:00.000Z,11 December 2025 - 04:56 PM,08.85,126.80,3,4.1,055km N 84° E of Marihatag (Surigao Del Sur),055,N 84° E,Marihatag (Surigao Del Sur)
-2025-12-14T00:34:00.000Z,14 December 2025 - 12:34 AM,05.53,126.39,78,4.0,092km S 63° E of Jose Abad Santos (Davao Occidental),092,S 63° E,Jose Abad Santos (Davao Occidental)
