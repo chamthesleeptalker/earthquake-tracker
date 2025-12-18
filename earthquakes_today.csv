@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T07:10:00.000Z,19 December 2025 - 07:10 AM,13.68,120.63,097,1.4,017km S 01° W of Calatagan (Batangas),017,S 01° W,Calatagan (Batangas)
+2025-12-19T07:05:00.000Z,19 December 2025 - 07:05 AM,09.42,126.35,038,1.6,023km N 48° E of Cortes (Surigao Del Sur),023,N 48° E,Cortes (Surigao Del Sur)
 2025-12-19T05:32:00.000Z,19 December 2025 - 05:32 AM,06.86,127.10,003,3.4,073km S 58° E of Manay (Davao Oriental),073,S 58° E,Manay (Davao Oriental)
 2025-12-19T05:27:00.000Z,19 December 2025 - 05:27 AM,06.81,127.18,003,3.8,084km S 58° E of Manay (Davao Oriental),084,S 58° E,Manay (Davao Oriental)
 2025-12-19T05:20:00.000Z,19 December 2025 - 05:20 AM,06.90,126.47,022,3.4,017km S 09° E of Tarragona (Davao Oriental),017,S 09° E,Tarragona (Davao Oriental)
