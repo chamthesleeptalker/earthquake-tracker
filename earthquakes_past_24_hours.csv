@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T00:34:00.000Z,20 December 2025 - 12:34 AM,05.72,126.76,023,3.1,128km S 36° E of Governor Generoso (Davao Oriental),128,S 36° E,Governor Generoso (Davao Oriental)
+2025-12-19T00:58:00.000Z,19 December 2025 - 12:58 AM,04.13,126.12,106,3.5,161km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),161,S 29° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-19T23:43:00.000Z,19 December 2025 - 11:43 PM,09.15,126.35,026,3.0,019km N 41° E of Tago (Surigao Del Sur),019,N 41° E,Tago (Surigao Del Sur)
 2025-12-19T23:36:00.000Z,19 December 2025 - 11:36 PM,16.77,120.87,032,1.5,006km S 54° E of Buguias (Benguet),006,S 54° E,Buguias (Benguet)
 2025-12-19T22:51:00.000Z,19 December 2025 - 10:51 PM,07.49,126.85,010,4.2,033km S 73° E of Baganga (Davao Oriental),033,S 73° E,Baganga (Davao Oriental)
@@ -66,6 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-19T00:59:00.000Z,19 December 2025 - 12:59 AM,04.09,125.90,063,3.3,156km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),156,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-19T00:56:00.000Z,19 December 2025 - 12:56 AM,14.94,119.74,005,3.2,037km S 89° W of San Antonio (Zambales),037,S 89° W,San Antonio (Zambales)
 2025-12-19T00:51:00.000Z,19 December 2025 - 12:51 AM,09.59,126.16,023,2.1,021km S 80° E of Socorro (Surigao Del Norte),021,S 80° E,Socorro (Surigao Del Norte)
-2025-12-19T00:02:00.000Z,19 December 2025 - 12:02 AM,09.59,126.16,033,1.4,021km S 01° W of General Luna (Surigao Del Norte),021,S 01° W,General Luna (Surigao Del Norte)
-2025-12-18T23:54:00.000Z,18 December 2025 - 11:54 PM,06.35,126.33,022,2.2,044km S 40° E of Governor Generoso (Davao Oriental),044,S 40° E,Governor Generoso (Davao Oriental)
-2025-12-18T23:44:00.000Z,18 December 2025 - 11:44 PM,07.69,126.61,020,2.0,013km N 21° E of Baganga (Davao Oriental),013,N 21° E,Baganga (Davao Oriental)
