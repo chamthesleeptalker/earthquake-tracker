@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T01:08:00.000Z,20 December 2025 - 01:08 AM,10.03,125.23,034,1.4,008km S 73° E of San Francisco (Southern Leyte),008,S 73° E,San Francisco (Southern Leyte)
+2025-12-20T00:51:00.000Z,20 December 2025 - 12:51 AM,08.55,126.95,010,4.3,070km N 73° E of Hinatuan (Surigao Del Sur),070,N 73° E,Hinatuan (Surigao Del Sur)
 2025-12-20T00:34:00.000Z,20 December 2025 - 12:34 AM,05.72,126.76,023,3.1,128km S 36° E of Governor Generoso (Davao Oriental),128,S 36° E,Governor Generoso (Davao Oriental)
 2025-12-19T00:58:00.000Z,19 December 2025 - 12:58 AM,04.13,126.12,106,3.5,161km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),161,S 29° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-19T23:43:00.000Z,19 December 2025 - 11:43 PM,09.15,126.35,026,3.0,019km N 41° E of Tago (Surigao Del Sur),019,N 41° E,Tago (Surigao Del Sur)
@@ -331,5 +333,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-13T02:25:00.000Z,13 December 2025 - 02:25 AM,08.46,126.71,026,2.1,043km N 76° E of Hinatuan (Surigao Del Sur),043,N 76° E,Hinatuan (Surigao Del Sur)
 2025-12-13T02:04:00.000Z,13 December 2025 - 02:04 AM,09.71,126.24,019,1.9,013km S 48° E of General Luna (Surigao Del Norte),013,S 48° E,General Luna (Surigao Del Norte)
 2025-12-13T01:10:00.000Z,13 December 2025 - 01:10 AM,08.51,126.78,014,3.1,051km N 72° E of Hinatuan (Surigao Del Sur),051,N 72° E,Hinatuan (Surigao Del Sur)
-2025-12-13T01:07:00.000Z,13 December 2025 - 01:07 AM,10.90,123.94,005,2.0,017km S 14° W of City Of Bogo (Cebu),017,S 14° W,City Of Bogo (Cebu)
-2025-12-13T01:01:00.000Z,13 December 2025 - 01:01 AM,13.72,120.49,094,2.0,019km S 50° W of Calatagan (Batangas),019,S 50° W,Calatagan (Batangas)

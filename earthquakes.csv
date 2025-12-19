@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T01:08:00.000Z,20 December 2025 - 01:08 AM,10.03,125.23,034,1.4,008km S 73° E of San Francisco (Southern Leyte),008,S 73° E,San Francisco (Southern Leyte)
+2025-12-20T00:51:00.000Z,20 December 2025 - 12:51 AM,08.55,126.95,010,4.3,070km N 73° E of Hinatuan (Surigao Del Sur),070,N 73° E,Hinatuan (Surigao Del Sur)
 2025-12-20T00:34:00.000Z,20 December 2025 - 12:34 AM,05.72,126.76,023,3.1,128km S 36° E of Governor Generoso (Davao Oriental),128,S 36° E,Governor Generoso (Davao Oriental)
 2025-12-19T00:58:00.000Z,19 December 2025 - 12:58 AM,04.13,126.12,106,3.5,161km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),161,S 29° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-19T23:43:00.000Z,19 December 2025 - 11:43 PM,09.15,126.35,026,3.0,019km N 41° E of Tago (Surigao Del Sur),019,N 41° E,Tago (Surigao Del Sur)
