@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T23:36:00.000Z,19 December 2025 - 11:36 PM,16.77,120.87,032,1.5,006km S 54° E of Buguias (Benguet),006,S 54° E,Buguias (Benguet)
 2025-12-19T22:51:00.000Z,19 December 2025 - 10:51 PM,07.49,126.85,010,4.2,033km S 73° E of Baganga (Davao Oriental),033,S 73° E,Baganga (Davao Oriental)
 2025-12-19T22:39:00.000Z,19 December 2025 - 10:39 PM,09.29,126.87,013,2.7,074km N 56° E of Cagwait (Surigao Del Sur),074,N 56° E,Cagwait (Surigao Del Sur)
 2025-12-19T22:32:00.000Z,19 December 2025 - 10:32 PM,11.26,124.12,006,2.1,028km N 34° E of City Of Bogo (Cebu),028,N 34° E,City Of Bogo (Cebu)
@@ -331,4 +332,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-13T01:01:00.000Z,13 December 2025 - 01:01 AM,13.72,120.49,094,2.0,019km S 50° W of Calatagan (Batangas),019,S 50° W,Calatagan (Batangas)
 2025-12-13T00:24:00.000Z,13 December 2025 - 12:24 AM,07.64,126.63,026,3.3,010km N 44° E of Baganga (Davao Oriental),010,N 44° E,Baganga (Davao Oriental)
 2025-12-13T00:14:00.000Z,13 December 2025 - 12:14 AM,09.53,126.75,015,3.1,071km S 66° E of General Luna (Surigao Del Norte),071,S 66° E,General Luna (Surigao Del Norte)
-2025-12-12T23:19:00.000Z,12 December 2025 - 11:19 PM,13.50,120.36,033,2.4,014km N 51° W of Paluan (Occidental Mindoro),014,N 51° W,Paluan (Occidental Mindoro)
