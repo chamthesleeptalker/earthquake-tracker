@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T15:53:00.000Z,19 December 2025 - 03:53 PM,14.13,120.28,055,1.6,034km N 29° E of Lubang (Occidental Mindoro),034,N 29° E,Lubang (Occidental Mindoro)
 2025-12-19T14:52:00.000Z,19 December 2025 - 02:52 PM,08.76,126.39,030,1.5,011km S 64° E of Marihatag (Surigao Del Sur),011,S 64° E,Marihatag (Surigao Del Sur)
 2025-12-19T14:36:00.000Z,19 December 2025 - 02:36 PM,08.37,126.16,033,1.9,010km S 01° E of Tagbina (Surigao Del Sur),010,S 01° E,Tagbina (Surigao Del Sur)
 2025-12-19T14:00:00.000Z,19 December 2025 - 02:00 PM,13.35,120.06,034,1.9,045km S 27° W of Looc (Occidental Mindoro),045,S 27° W,Looc (Occidental Mindoro)
