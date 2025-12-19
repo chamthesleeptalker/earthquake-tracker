@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T12:28:00.000Z,19 December 2025 - 12:28 PM,09.75,126.32,020,2.2,018km S 79° E of General Luna (Surigao Del Norte),018,S 79° E,General Luna (Surigao Del Norte)
+2025-12-19T12:23:00.000Z,19 December 2025 - 12:23 PM,08.59,127.01,013,2.4,078km N 71° E of Hinatuan (Surigao Del Sur),078,N 71° E,Hinatuan (Surigao Del Sur)
+2025-12-19T12:02:00.000Z,19 December 2025 - 12:02 PM,08.63,127.07,003,5.0,086km N 70° E of Hinatuan (Surigao Del Sur),086,N 70° E,Hinatuan (Surigao Del Sur)
 2025-12-19T10:13:00.000Z,19 December 2025 - 10:13 AM,09.03,126.53,028,1.7,028km N 65° E of Cagwait (Surigao Del Sur),028,N 65° E,Cagwait (Surigao Del Sur)
 2025-12-19T09:29:00.000Z,19 December 2025 - 09:29 AM,11.17,124.19,029,2.4,027km N 60° E of City Of Bogo (Cebu),027,N 60° E,City Of Bogo (Cebu)
 2025-12-18T17:06:00.000Z,18 December 2025 - 05:06 PM,19.74,121.95,003,3.1,025km N 08° E of Babuyan Island (Calayan) (Cagayan),025,N 08° E,Babuyan Island (Calayan) (Cagayan)
@@ -61,9 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T13:57:00.000Z,18 December 2025 - 01:57 PM,13.45,125.16,041,2.6,088km S 75° E of Baras (Catanduanes),088,S 75° E,Baras (Catanduanes)
 2025-12-18T13:50:00.000Z,18 December 2025 - 01:50 PM,08.72,126.30,029,2.0,009km S 03° E of Marihatag (Surigao Del Sur),009,S 03° E,Marihatag (Surigao Del Sur)
 2025-12-18T12:49:00.000Z,18 December 2025 - 12:49 PM,19.84,121.43,005,3.4,062km N 54° W of Babuyan Island (Calayan) (Cagayan),062,N 54° W,Babuyan Island (Calayan) (Cagayan)
-2025-12-18T12:19:00.000Z,18 December 2025 - 12:19 PM,07.85,126.37,007,2.0,002km S 34° W of Boston (Davao Oriental),002,S 34° W,Boston (Davao Oriental)
-2025-12-18T12:11:00.000Z,18 December 2025 - 12:11 PM,09.37,126.50,020,2.3,035km N 73° E of Cortes (Surigao Del Sur),035,N 73° E,Cortes (Surigao Del Sur)
-2025-12-18T11:56:00.000Z,18 December 2025 - 11:56 AM,09.38,126.67,019,2.6,053km N 78° E of Cortes (Surigao Del Sur),053,N 78° E,Cortes (Surigao Del Sur)
-2025-12-18T11:02:00.000Z,18 December 2025 - 11:02 AM,08.62,126.91,011,3.1,069km N 66° E of Hinatuan (Surigao Del Sur),069,N 66° E,Hinatuan (Surigao Del Sur)
-2025-12-18T10:49:00.000Z,18 December 2025 - 10:49 AM,09.32,125.61,010,3.8,008km N 43° E of Santiago (Agusan Del Norte),008,N 43° E,Santiago (Agusan Del Norte)
-2025-12-18T10:28:00.000Z,18 December 2025 - 10:28 AM,07.85,126.28,008,1.8,011km S 77° W of Boston (Davao Oriental),011,S 77° W,Boston (Davao Oriental)
