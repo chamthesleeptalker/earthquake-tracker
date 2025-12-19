@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T10:13:00.000Z,19 December 2025 - 10:13 AM,09.03,126.53,028,1.7,028km N 65° E of Cagwait (Surigao Del Sur),028,N 65° E,Cagwait (Surigao Del Sur)
+2025-12-19T09:29:00.000Z,19 December 2025 - 09:29 AM,11.17,124.19,029,2.4,027km N 60° E of City Of Bogo (Cebu),027,N 60° E,City Of Bogo (Cebu)
+2025-12-18T17:06:00.000Z,18 December 2025 - 05:06 PM,19.74,121.95,003,3.1,025km N 08° E of Babuyan Island (Calayan) (Cagayan),025,N 08° E,Babuyan Island (Calayan) (Cagayan)
 2025-12-19T07:43:00.000Z,19 December 2025 - 07:43 AM,15.94,119.24,025,3.4,063km S 72° W of Agno (Pangasinan),063,S 72° W,Agno (Pangasinan)
 2025-12-19T07:37:00.000Z,19 December 2025 - 07:37 AM,06.85,126.97,009,2.7,062km S 50° E of Manay (Davao Oriental),062,S 50° E,Manay (Davao Oriental)
 2025-12-19T07:10:00.000Z,19 December 2025 - 07:10 AM,13.68,120.63,097,1.4,017km S 01° W of Calatagan (Batangas),017,S 01° W,Calatagan (Batangas)
@@ -306,6 +309,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-12T14:46:00.000Z,12 December 2025 - 02:46 PM,09.92,124.11,002,3.5,002km N 61° E of Sagbayan (Bohol),002,N 61° E,Sagbayan (Bohol)
 2025-12-12T14:40:00.000Z,12 December 2025 - 02:40 PM,05.95,127.13,086,3.7,140km S 56° E of Governor Generoso (Davao Oriental),140,S 56° E,Governor Generoso (Davao Oriental)
 2025-12-12T13:52:00.000Z,12 December 2025 - 01:52 PM,10.89,123.92,008,2.4,018km S 20° W of City Of Bogo (Cebu),018,S 20° W,City Of Bogo (Cebu)
-2025-12-12T09:24:00.000Z,12 December 2025 - 09:24 AM,08.00,122.91,033,1.4,008km S 89° E of Godod (Zamboanga Del Norte),008,S 89° E,Godod (Zamboanga Del Norte)
-2025-12-12T08:22:00.000Z,12 December 2025 - 08:22 AM,13.92,123.74,010,4.3,005km N 47° E of Garchitorena (Camarines Sur),005,N 47° E,Garchitorena (Camarines Sur)
-2025-12-12T08:09:00.000Z,12 December 2025 - 08:09 AM,18.56,120.97,005,2.6,002km S 84° W of Santa Praxedes (Cagayan),002,S 84° W,Santa Praxedes (Cagayan)
