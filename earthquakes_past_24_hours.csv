@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T20:19:00.000Z,19 December 2025 - 08:19 PM,11.11,123.95,012,1.5,008km N 23° W of City Of Bogo (Cebu),008,N 23° W,City Of Bogo (Cebu)
+2025-12-19T20:09:00.000Z,19 December 2025 - 08:09 PM,09.62,122.68,018,2.0,024km N 85° E of Hinoba-an (Negros Occidental),024,N 85° E,Hinoba-an (Negros Occidental)
+2025-12-19T19:51:00.000Z,19 December 2025 - 07:51 PM,08.40,126.05,021,1.8,006km N 64° E of Rosario (Agusan Del Sur),006,N 64° E,Rosario (Agusan Del Sur)
+2025-12-19T19:51:00.000Z,19 December 2025 - 07:51 PM,12.43,125.34,006,2.4,010km S 63° E of Mapanas (Northern Samar),010,S 63° E,Mapanas (Northern Samar)
 2025-12-19T19:29:00.000Z,19 December 2025 - 07:29 PM,08.99,126.48,029,2.2,021km N 68° E of Cagwait (Surigao Del Sur),021,N 68° E,Cagwait (Surigao Del Sur)
 2025-12-19T19:15:00.000Z,19 December 2025 - 07:15 PM,08.60,126.91,012,2.2,076km S 62° E of Cagwait (Surigao Del Sur),076,S 62° E,Cagwait (Surigao Del Sur)
 2025-12-19T18:47:00.000Z,19 December 2025 - 06:47 PM,08.58,126.87,022,3.5,063km N 68° E of Hinatuan (Surigao Del Sur),063,N 68° E,Hinatuan (Surigao Del Sur)
@@ -63,5 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T20:45:00.000Z,18 December 2025 - 08:45 PM,17.19,120.19,023,2.6,027km N 83° W of City Of Candon (Ilocos Sur),027,N 83° W,City Of Candon (Ilocos Sur)
 2025-12-18T20:41:00.000Z,18 December 2025 - 08:41 PM,11.11,124.15,034,2.0,020km N 70° E of City Of Bogo (Cebu),020,N 70° E,City Of Bogo (Cebu)
 2025-12-18T20:27:00.000Z,18 December 2025 - 08:27 PM,05.85,126.72,021,2.8,113km S 39° E of Governor Generoso (Davao Oriental),113,S 39° E,Governor Generoso (Davao Oriental)
-2025-12-18T20:09:00.000Z,18 December 2025 - 08:09 PM,05.79,126.74,014,3.3,120km S 38° E of Governor Generoso (Davao Oriental),120,S 38° E,Governor Generoso (Davao Oriental)
-2025-12-18T19:55:00.000Z,18 December 2025 - 07:55 PM,11.14,123.94,016,1.5,011km N 25° W of City Of Bogo (Cebu),011,N 25° W,City Of Bogo (Cebu)
