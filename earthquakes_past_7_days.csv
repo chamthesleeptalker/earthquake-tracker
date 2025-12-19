@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T04:08:00.000Z,20 December 2025 - 04:08 AM,08.56,126.87,002,2.6,062km N 70° E of Hinatuan (Surigao Del Sur),062,N 70° E,Hinatuan (Surigao Del Sur)
+2025-12-20T03:53:00.000Z,20 December 2025 - 03:53 AM,14.61,120.27,034,2.0,007km S 07° E of Morong (Bataan),007,S 07° E,Morong (Bataan)
 2025-12-20T03:05:00.000Z,20 December 2025 - 03:05 AM,11.44,124.46,007,2.5,003km S 23° W of Biliran (Biliran),003,S 23° W,Biliran (Biliran)
 2025-12-20T02:54:00.000Z,20 December 2025 - 02:54 AM,13.76,120.60,091,1.6,009km S 23° W of Calatagan (Batangas),009,S 23° W,Calatagan (Batangas)
 2025-12-20T01:53:00.000Z,20 December 2025 - 01:53 AM,13.56,120.97,002,1.8,007km N 13° E of Puerto Galera (Oriental Mindoro),007,N 13° E,Puerto Galera (Oriental Mindoro)
@@ -333,4 +335,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-13T04:51:00.000Z,13 December 2025 - 04:51 AM,06.46,123.26,033,3.0,088km S 83° W of Kalamansig (Sultan Kudarat),088,S 83° W,Kalamansig (Sultan Kudarat)
 2025-12-13T04:49:00.000Z,13 December 2025 - 04:49 AM,13.79,120.52,081,2.1,014km S 67° W of Calatagan (Batangas),014,S 67° W,Calatagan (Batangas)
 2025-12-13T04:13:00.000Z,13 December 2025 - 04:13 AM,08.22,127.21,010,4.6,090km N 77° E of Lingig (Surigao Del Sur),090,N 77° E,Lingig (Surigao Del Sur)
-2025-12-13T03:46:00.000Z,13 December 2025 - 03:46 AM,17.86,119.41,005,2.5,105km N 74° W of Santa Catalina (Ilocos Sur),105,N 74° W,Santa Catalina (Ilocos Sur)
