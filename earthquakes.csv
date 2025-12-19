@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T01:25:00.000Z,20 December 2025 - 01:25 AM,09.36,125.65,012,2.5,012km S 39° E of Kitcharao (Agusan Del Norte),012,S 39° E,Kitcharao (Agusan Del Norte)
+2025-12-20T01:14:00.000Z,20 December 2025 - 01:14 AM,08.57,126.87,004,2.4,063km N 70° E of Hinatuan (Surigao Del Sur),063,N 70° E,Hinatuan (Surigao Del Sur)
 2025-12-20T01:08:00.000Z,20 December 2025 - 01:08 AM,10.03,125.23,034,1.4,008km S 73° E of San Francisco (Southern Leyte),008,S 73° E,San Francisco (Southern Leyte)
 2025-12-20T00:51:00.000Z,20 December 2025 - 12:51 AM,08.55,126.95,010,4.3,070km N 73° E of Hinatuan (Surigao Del Sur),070,N 73° E,Hinatuan (Surigao Del Sur)
 2025-12-20T00:34:00.000Z,20 December 2025 - 12:34 AM,05.72,126.76,023,3.1,128km S 36° E of Governor Generoso (Davao Oriental),128,S 36° E,Governor Generoso (Davao Oriental)
