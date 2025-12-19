@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-19T18:25:00.000Z,19 December 2025 - 06:25 PM,08.31,123.41,026,1.4,011km N 83° W of Sergio Osmeña Sr. (Zamboanga Del Norte),011,N 83° W,Sergio OsmeÃ±a Sr. (Zamboanga Del Norte)
+2025-12-19T18:22:00.000Z,19 December 2025 - 06:22 PM,08.60,126.95,018,2.8,072km N 69° E of Hinatuan (Surigao Del Sur),072,N 69° E,Hinatuan (Surigao Del Sur)
 2025-12-19T17:54:00.000Z,19 December 2025 - 05:54 PM,09.49,126.49,011,2.5,040km N 54° E of Cortes (Surigao Del Sur),040,N 54° E,Cortes (Surigao Del Sur)
 2025-12-19T16:46:00.000Z,19 December 2025 - 04:46 PM,08.58,126.99,009,2.1,076km N 72° E of Hinatuan (Surigao Del Sur),076,N 72° E,Hinatuan (Surigao Del Sur)
 2025-12-19T16:54:00.000Z,19 December 2025 - 04:54 PM,10.66,125.51,006,3.5,025km S 68° W of Homonhon Island (Guiuan) (Eastern Samar),025,S 68° W,Homonhon Island (Guiuan) (Eastern Samar)
