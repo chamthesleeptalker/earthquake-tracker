@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T04:30:00.000Z,20 December 2025 - 04:30 AM,10.31,126.20,034,1.9,035km N 23° E of Burgos (Surigao Del Norte),035,N 23° E,Burgos (Surigao Del Norte)
+2025-12-20T04:12:00.000Z,20 December 2025 - 04:12 AM,10.23,126.14,017,3.2,025km N 17° E of Burgos (Surigao Del Norte),025,N 17° E,Burgos (Surigao Del Norte)
 2025-12-20T04:08:00.000Z,20 December 2025 - 04:08 AM,08.56,126.87,002,2.6,062km N 70° E of Hinatuan (Surigao Del Sur),062,N 70° E,Hinatuan (Surigao Del Sur)
 2025-12-20T03:53:00.000Z,20 December 2025 - 03:53 AM,14.61,120.27,034,2.0,007km S 07° E of Morong (Bataan),007,S 07° E,Morong (Bataan)
 2025-12-20T03:05:00.000Z,20 December 2025 - 03:05 AM,11.44,124.46,007,2.5,003km S 23° W of Biliran (Biliran),003,S 23° W,Biliran (Biliran)
