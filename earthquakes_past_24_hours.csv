@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T14:07:00.000Z,20 December 2025 - 02:07 PM,13.75,120.61,099,1.4,009km S 13° W of Calatagan (Batangas),009,S 13° W,Calatagan (Batangas)
+2025-12-20T13:52:00.000Z,20 December 2025 - 01:52 PM,10.33,126.45,010,4.3,053km N 50° E of Burgos (Surigao Del Norte),053,N 50° E,Burgos (Surigao Del Norte)
+2025-12-20T13:51:00.000Z,20 December 2025 - 01:51 PM,17.55,120.33,012,1.8,005km S 43° W of Santa Catalina (Ilocos Sur),005,S 43° W,Santa Catalina (Ilocos Sur)
 2025-12-20T12:59:00.000Z,20 December 2025 - 12:59 PM,11.04,120.32,024,2.3,065km N 34° E of Araceli (Palawan),065,N 34° E,Araceli (Palawan)
 2025-12-20T11:05:00.000Z,20 December 2025 - 11:05 AM,11.06,124.03,030,2.1,006km N 78° E of City Of Bogo (Cebu),006,N 78° E,City Of Bogo (Cebu)
 2025-12-20T10:28:00.000Z,20 December 2025 - 10:28 AM,09.66,126.19,029,2.1,014km S 13° E of General Luna (Surigao Del Norte),014,S 13° E,General Luna (Surigao Del Norte)
@@ -46,8 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-19T15:53:00.000Z,19 December 2025 - 03:53 PM,14.13,120.28,055,1.6,034km N 29° E of Lubang (Occidental Mindoro),034,N 29° E,Lubang (Occidental Mindoro)
 2025-12-19T14:52:00.000Z,19 December 2025 - 02:52 PM,08.76,126.39,030,1.5,011km S 64° E of Marihatag (Surigao Del Sur),011,S 64° E,Marihatag (Surigao Del Sur)
 2025-12-19T14:36:00.000Z,19 December 2025 - 02:36 PM,08.37,126.16,033,1.9,010km S 01° E of Tagbina (Surigao Del Sur),010,S 01° E,Tagbina (Surigao Del Sur)
-2025-12-19T14:00:00.000Z,19 December 2025 - 02:00 PM,13.35,120.06,034,1.9,045km S 27° W of Looc (Occidental Mindoro),045,S 27° W,Looc (Occidental Mindoro)
-2025-12-19T13:33:00.000Z,19 December 2025 - 01:33 PM,19.51,120.74,003,4.2,061km N 49° W of Dalupiri Island (Calayan) (Cagayan),061,N 49° W,Dalupiri Island (Calayan) (Cagayan)
-2025-12-19T13:32:00.000Z,19 December 2025 - 01:32 PM,08.81,126.44,028,3.2,016km N 87° E of Marihatag (Surigao Del Sur),016,N 87° E,Marihatag (Surigao Del Sur)
-2025-12-19T13:28:00.000Z,19 December 2025 - 01:28 PM,09.74,126.19,030,2.0,006km S 39° E of General Luna (Surigao Del Norte),006,S 39° E,General Luna (Surigao Del Norte)
-2025-12-19T13:25:00.000Z,19 December 2025 - 01:25 PM,07.67,126.64,026,4.9,013km N 39° E of Baganga (Davao Oriental),013,N 39° E,Baganga (Davao Oriental)
