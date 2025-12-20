@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T11:05:00.000Z,20 December 2025 - 11:05 AM,11.06,124.03,030,2.1,006km N 78° E of City Of Bogo (Cebu),006,N 78° E,City Of Bogo (Cebu)
 2025-12-20T10:28:00.000Z,20 December 2025 - 10:28 AM,09.66,126.19,029,2.1,014km S 13° E of General Luna (Surigao Del Norte),014,S 13° E,General Luna (Surigao Del Norte)
 2025-12-20T09:22:00.000Z,20 December 2025 - 09:22 AM,08.69,126.09,006,2.0,006km N 07° W of Lianga (Surigao Del Sur),006,N 07° W,Lianga (Surigao Del Sur)
 2025-12-20T07:56:00.000Z,20 December 2025 - 07:56 AM,11.10,124.12,005,2.4,016km N 70° E of City Of Bogo (Cebu),016,N 70° E,City Of Bogo (Cebu)
