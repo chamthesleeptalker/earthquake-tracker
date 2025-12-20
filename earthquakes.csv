@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T01:27:00.000Z,21 December 2025 - 01:27 AM,09.23,125.70,011,2.3,016km S 74° E of Santiago (Agusan Del Norte),016,S 74° E,Santiago (Agusan Del Norte)
 2025-12-21T00:45:00.000Z,21 December 2025 - 12:45 AM,07.76,126.63,038,1.5,020km S 82° E of Cateel (Davao Oriental),020,S 82° E,Cateel (Davao Oriental)
 2025-12-21T00:22:00.000Z,21 December 2025 - 12:22 AM,08.62,122.57,034,2.0,056km N 12° W of Liloy (Zamboanga Del Norte),056,N 12° W,Liloy (Zamboanga Del Norte)
 2025-12-21T00:05:00.000Z,21 December 2025 - 12:05 AM,14.16,120.41,110,1.4,026km N 70° W of Nasugbu (Batangas),026,N 70° W,Nasugbu (Batangas)
