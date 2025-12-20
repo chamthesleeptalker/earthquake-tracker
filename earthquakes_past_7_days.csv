@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T04:58:00.000Z,21 December 2025 - 04:58 AM,09.32,126.48,031,2.0,032km N 81° E of Cortes (Surigao Del Sur),032,N 81° E,Cortes (Surigao Del Sur)
 2025-12-21T03:37:00.000Z,21 December 2025 - 03:37 AM,10.08,126.11,023,2.2,008km N 31° E of Burgos (Surigao Del Norte),008,N 31° E,Burgos (Surigao Del Norte)
 2025-12-21T03:34:00.000Z,21 December 2025 - 03:34 AM,10.10,126.08,022,2.1,009km N 06° E of Burgos (Surigao Del Norte),009,N 06° E,Burgos (Surigao Del Norte)
 2025-12-21T02:20:00.000Z,21 December 2025 - 02:20 AM,11.12,124.28,024,2.0,004km N 72° W of Palompon (Leyte),004,N 72° W,Palompon (Leyte)
@@ -311,5 +312,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-14T07:13:00.000Z,14 December 2025 - 07:13 AM,07.83,126.45,033,1.9,005km N 11° W of Cateel (Davao Oriental),005,N 11° W,Cateel (Davao Oriental)
 2025-12-14T05:16:00.000Z,14 December 2025 - 05:16 AM,11.00,123.91,026,2.0,009km S 58° W of City Of Bogo (Cebu),009,S 58° W,City Of Bogo (Cebu)
 2025-12-14T05:01:00.000Z,14 December 2025 - 05:01 AM,09.59,126.10,029,1.7,015km S 77° E of Socorro (Surigao Del Norte),015,S 77° E,Socorro (Surigao Del Norte)
-2025-12-14T04:57:00.000Z,14 December 2025 - 04:57 AM,07.34,126.56,002,2.4,002km N 11° W of Caraga (Davao Oriental),002,N 11° W,Caraga (Davao Oriental)
-2025-12-14T03:38:00.000Z,14 December 2025 - 03:38 AM,15.65,121.16,035,1.7,003km N 27° E of Bongabon (Nueva Ecija),003,N 27° E,Bongabon (Nueva Ecija)
