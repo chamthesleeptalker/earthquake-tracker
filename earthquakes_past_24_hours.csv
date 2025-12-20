@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T02:20:00.000Z,21 December 2025 - 02:20 AM,11.12,124.28,024,2.0,004km N 72° W of Palompon (Leyte),004,N 72° W,Palompon (Leyte)
 2025-12-21T01:27:00.000Z,21 December 2025 - 01:27 AM,09.23,125.70,011,2.3,016km S 74° E of Santiago (Agusan Del Norte),016,S 74° E,Santiago (Agusan Del Norte)
 2025-12-21T00:45:00.000Z,21 December 2025 - 12:45 AM,07.76,126.63,038,1.5,020km S 82° E of Cateel (Davao Oriental),020,S 82° E,Cateel (Davao Oriental)
 2025-12-21T00:22:00.000Z,21 December 2025 - 12:22 AM,08.62,122.57,034,2.0,056km N 12° W of Liloy (Zamboanga Del Norte),056,N 12° W,Liloy (Zamboanga Del Norte)
@@ -31,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-20T03:53:00.000Z,20 December 2025 - 03:53 AM,14.61,120.27,034,2.0,007km S 07° E of Morong (Bataan),007,S 07° E,Morong (Bataan)
 2025-12-20T03:05:00.000Z,20 December 2025 - 03:05 AM,11.44,124.46,007,2.5,003km S 23° W of Biliran (Biliran),003,S 23° W,Biliran (Biliran)
 2025-12-20T02:54:00.000Z,20 December 2025 - 02:54 AM,13.76,120.60,091,1.6,009km S 23° W of Calatagan (Batangas),009,S 23° W,Calatagan (Batangas)
-2025-12-20T01:53:00.000Z,20 December 2025 - 01:53 AM,13.56,120.97,002,1.8,007km N 13° E of Puerto Galera (Oriental Mindoro),007,N 13° E,Puerto Galera (Oriental Mindoro)
