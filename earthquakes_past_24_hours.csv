@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-20T10:28:00.000Z,20 December 2025 - 10:28 AM,09.66,126.19,029,2.1,014km S 13° E of General Luna (Surigao Del Norte),014,S 13° E,General Luna (Surigao Del Norte)
+2025-12-20T09:22:00.000Z,20 December 2025 - 09:22 AM,08.69,126.09,006,2.0,006km N 07° W of Lianga (Surigao Del Sur),006,N 07° W,Lianga (Surigao Del Sur)
 2025-12-20T07:56:00.000Z,20 December 2025 - 07:56 AM,11.10,124.12,005,2.4,016km N 70° E of City Of Bogo (Cebu),016,N 70° E,City Of Bogo (Cebu)
 2025-12-20T07:08:00.000Z,20 December 2025 - 07:08 AM,08.51,126.60,021,2.2,033km N 62° E of Hinatuan (Surigao Del Sur),033,N 62° E,Hinatuan (Surigao Del Sur)
 2025-12-20T06:16:00.000Z,20 December 2025 - 06:16 AM,08.66,127.17,015,2.9,097km N 70° E of Hinatuan (Surigao Del Sur),097,N 70° E,Hinatuan (Surigao Del Sur)
@@ -50,5 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-19T12:28:00.000Z,19 December 2025 - 12:28 PM,09.75,126.32,020,2.2,018km S 79° E of General Luna (Surigao Del Norte),018,S 79° E,General Luna (Surigao Del Norte)
 2025-12-19T12:23:00.000Z,19 December 2025 - 12:23 PM,08.59,127.01,013,2.4,078km N 71° E of Hinatuan (Surigao Del Sur),078,N 71° E,Hinatuan (Surigao Del Sur)
 2025-12-19T12:02:00.000Z,19 December 2025 - 12:02 PM,08.63,127.07,003,5.0,086km N 70° E of Hinatuan (Surigao Del Sur),086,N 70° E,Hinatuan (Surigao Del Sur)
-2025-12-19T10:13:00.000Z,19 December 2025 - 10:13 AM,09.03,126.53,028,1.7,028km N 65° E of Cagwait (Surigao Del Sur),028,N 65° E,Cagwait (Surigao Del Sur)
-2025-12-19T09:29:00.000Z,19 December 2025 - 09:29 AM,11.17,124.19,029,2.4,027km N 60° E of City Of Bogo (Cebu),027,N 60° E,City Of Bogo (Cebu)
