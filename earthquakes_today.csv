@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T05:13:00.000Z,21 December 2025 - 05:13 AM,18.47,121.23,003,1.8,010km S 04° W of Sanchez-mira (Cagayan),010,S 04° W,Sanchez-mira (Cagayan)
+2025-12-21T05:10:00.000Z,21 December 2025 - 05:10 AM,12.78,120.86,001,2.3,011km S 49° E of Sablayan (Occidental Mindoro),011,S 49° E,Sablayan (Occidental Mindoro)
 2025-12-21T04:58:00.000Z,21 December 2025 - 04:58 AM,09.32,126.48,031,2.0,032km N 81° E of Cortes (Surigao Del Sur),032,N 81° E,Cortes (Surigao Del Sur)
 2025-12-21T03:37:00.000Z,21 December 2025 - 03:37 AM,10.08,126.11,023,2.2,008km N 31° E of Burgos (Surigao Del Norte),008,N 31° E,Burgos (Surigao Del Norte)
 2025-12-21T03:34:00.000Z,21 December 2025 - 03:34 AM,10.10,126.08,022,2.1,009km N 06° E of Burgos (Surigao Del Norte),009,N 06° E,Burgos (Surigao Del Norte)
