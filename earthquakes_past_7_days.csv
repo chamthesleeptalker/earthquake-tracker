@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T21:05:00.000Z,21 December 2025 - 09:05 PM,09.74,126.11,028,2.1,007km S 51° W of General Luna (Surigao Del Norte),007,S 51° W,General Luna (Surigao Del Norte)
 2025-12-21T19:32:00.000Z,21 December 2025 - 07:32 PM,07.50,126.60,019,2.8,033km N 12° E of Manay (Davao Oriental),033,N 12° E,Manay (Davao Oriental)
 2025-12-21T18:43:00.000Z,21 December 2025 - 06:43 PM,19.56,120.48,009,2.5,091km N 57° W of Dalupiri Island (Calayan) (Cagayan),091,N 57° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-21T18:38:00.000Z,21 December 2025 - 06:38 PM,20.00,121.31,009,3.2,070km S 58° W of Sabtang (Batanes),070,S 58° W,Sabtang (Batanes)
@@ -316,4 +317,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T00:01:00.000Z,15 December 2025 - 12:01 AM,07.27,127.01,013,3.2,052km N 83° E of Manay (Davao Oriental),052,N 83° E,Manay (Davao Oriental)
 2025-12-14T22:51:00.000Z,14 December 2025 - 10:51 PM,13.71,120.61,109,2.3,014km S 11° W of Calatagan (Batangas),014,S 11° W,Calatagan (Batangas)
 2025-12-14T21:09:00.000Z,14 December 2025 - 09:09 PM,07.30,126.70,016,2.4,020km N 63° E of Manay (Davao Oriental),020,N 63° E,Manay (Davao Oriental)
-2025-12-14T20:03:00.000Z,14 December 2025 - 08:03 PM,02.30,126.30,052,4.8,358km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),358,S 16° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)

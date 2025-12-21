@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T21:05:00.000Z,21 December 2025 - 09:05 PM,09.74,126.11,028,2.1,007km S 51° W of General Luna (Surigao Del Norte),007,S 51° W,General Luna (Surigao Del Norte)
 2025-12-21T19:32:00.000Z,21 December 2025 - 07:32 PM,07.50,126.60,019,2.8,033km N 12° E of Manay (Davao Oriental),033,N 12° E,Manay (Davao Oriental)
 2025-12-21T18:43:00.000Z,21 December 2025 - 06:43 PM,19.56,120.48,009,2.5,091km N 57° W of Dalupiri Island (Calayan) (Cagayan),091,N 57° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-21T18:38:00.000Z,21 December 2025 - 06:38 PM,20.00,121.31,009,3.2,070km S 58° W of Sabtang (Batanes),070,S 58° W,Sabtang (Batanes)
@@ -34,5 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-20T22:30:00.000Z,20 December 2025 - 10:30 PM,13.71,120.64,100,1.5,014km S 01° E of Calatagan (Batangas),014,S 01° E,Calatagan (Batangas)
 2025-12-20T22:14:00.000Z,20 December 2025 - 10:14 PM,08.64,122.34,033,2.0,067km N 18° W of Labason (Zamboanga Del Norte),067,N 18° W,Labason (Zamboanga Del Norte)
 2025-12-20T22:03:00.000Z,20 December 2025 - 10:03 PM,15.08,121.98,015,2.0,024km N 47° E of Panukulan (Quezon),024,N 47° E,Panukulan (Quezon)
-2025-12-20T19:43:00.000Z,20 December 2025 - 07:43 PM,17.58,120.85,013,2.3,013km S 74° E of Lagangilang (Abra),013,S 74° E,Lagangilang (Abra)
-2025-12-20T19:34:00.000Z,20 December 2025 - 07:34 PM,16.01,121.50,021,1.7,018km N 12° W of Dipaculao (Aurora),018,N 12° W,Dipaculao (Aurora)
