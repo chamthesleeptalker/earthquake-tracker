@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-22T01:53:00.000Z,22 December 2025 - 01:53 AM,08.45,127.57,10,5.7,135km N 86° E of Hinatuan (Surigao Del Sur),135,N 86° E,Hinatuan (Surigao Del Sur)
 2025-12-18T15:27:00.000Z,18 December 2025 - 03:27 PM,19.98,120.97,12,5.5,095km N 34° W of Calayan (Cagayan),095,N 34° W,Calayan (Cagayan)
 2025-12-18T15:28:00.000Z,18 December 2025 - 03:28 PM,18.94,121.13,10,5.2,020km S 24° W of Dalupiri Island (Calayan) (Cagayan),020,S 24° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-19T12:02:00.000Z,19 December 2025 - 12:02 PM,08.63,127.07,3,5.0,086km N 70° E of Hinatuan (Surigao Del Sur),086,N 70° E,Hinatuan (Surigao Del Sur)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-20T13:52:00.000Z,20 December 2025 - 01:52 PM,10.33,126.45,10,4.3,053km N 50° E of Burgos (Surigao Del Norte),053,N 50° E,Burgos (Surigao Del Norte)
 2025-12-20T00:51:00.000Z,20 December 2025 - 12:51 AM,08.55,126.95,10,4.3,070km N 73° E of Hinatuan (Surigao Del Sur),070,N 73° E,Hinatuan (Surigao Del Sur)
 2025-12-15T12:30:00.000Z,15 December 2025 - 12:30 PM,06.08,125.92,133,4.3,028km S 62° E of Don Marcelino (Davao Occidental),028,S 62° E,Don Marcelino (Davao Occidental)
-2025-12-19T22:51:00.000Z,19 December 2025 - 10:51 PM,07.49,126.85,10,4.2,033km S 73° E of Baganga (Davao Oriental),033,S 73° E,Baganga (Davao Oriental)
