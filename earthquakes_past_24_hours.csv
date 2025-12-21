@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-22T05:27:00.000Z,22 December 2025 - 05:27 AM,06.01,126.67,023,2.7,097km S 43° E of Governor Generoso (Davao Oriental),097,S 43° E,Governor Generoso (Davao Oriental)
+2025-12-22T05:08:00.000Z,22 December 2025 - 05:08 AM,07.95,126.66,014,2.1,029km S 71° E of Lingig (Surigao Del Sur),029,S 71° E,Lingig (Surigao Del Sur)
+2025-12-22T05:07:00.000Z,22 December 2025 - 05:07 AM,08.41,127.08,009,2.0,082km N 87° E of Hinatuan (Surigao Del Sur),082,N 87° E,Hinatuan (Surigao Del Sur)
 2025-12-22T04:58:00.000Z,22 December 2025 - 04:58 AM,08.45,127.13,003,2.7,087km N 84° E of Hinatuan (Surigao Del Sur),087,N 84° E,Hinatuan (Surigao Del Sur)
 2025-12-22T04:29:00.000Z,22 December 2025 - 04:29 AM,09.08,122.67,025,2.5,035km S 37° W of Santa Catalina (Negros Oriental),035,S 37° W,Santa Catalina (Negros Oriental)
 2025-12-22T03:53:00.000Z,22 December 2025 - 03:53 AM,09.66,126.38,012,2.2,028km S 60° E of General Luna (Surigao Del Norte),028,S 60° E,General Luna (Surigao Del Norte)
@@ -37,6 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-21T07:46:00.000Z,21 December 2025 - 07:46 AM,10.87,123.89,003,2.0,021km S 28° W of City Of Bogo (Cebu),021,S 28° W,City Of Bogo (Cebu)
 2025-12-21T06:24:00.000Z,21 December 2025 - 06:24 AM,07.12,127.04,016,2.3,057km S 79° E of Manay (Davao Oriental),057,S 79° E,Manay (Davao Oriental)
 2025-12-21T06:17:00.000Z,21 December 2025 - 06:17 AM,09.62,126.77,006,3.0,070km S 75° E of General Luna (Surigao Del Norte),070,S 75° E,General Luna (Surigao Del Norte)
-2025-12-21T05:13:00.000Z,21 December 2025 - 05:13 AM,18.47,121.23,003,1.8,010km S 04° W of Sanchez-mira (Cagayan),010,S 04° W,Sanchez-mira (Cagayan)
-2025-12-21T05:10:00.000Z,21 December 2025 - 05:10 AM,12.78,120.86,001,2.3,011km S 49° E of Sablayan (Occidental Mindoro),011,S 49° E,Sablayan (Occidental Mindoro)
-2025-12-21T04:58:00.000Z,21 December 2025 - 04:58 AM,09.32,126.48,031,2.0,032km N 81° E of Cortes (Surigao Del Sur),032,N 81° E,Cortes (Surigao Del Sur)
