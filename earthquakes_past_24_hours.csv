@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T15:00:00.000Z,21 December 2025 - 03:00 PM,08.08,126.39,099,2.1,005km N 26° W of Lingig (Surigao Del Sur),005,N 26° W,Lingig (Surigao Del Sur)
 2025-12-21T12:17:00.000Z,21 December 2025 - 12:17 PM,11.03,124.00,035,1.5,003km S 57° E of City Of Bogo (Cebu),003,S 57° E,City Of Bogo (Cebu)
 2025-12-21T11:47:00.000Z,21 December 2025 - 11:47 AM,07.71,126.11,033,2.0,005km N 34° E of Compostela (Davao De Oro),005,N 34° E,Compostela (Davao De Oro)
 2025-12-21T11:28:00.000Z,21 December 2025 - 11:28 AM,13.54,121.28,003,2.4,014km S 33° E of Lobo (Batangas),014,S 33° E,Lobo (Batangas)
@@ -32,8 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-20T17:19:00.000Z,20 December 2025 - 05:19 PM,11.49,125.38,021,2.5,014km S 84° W of Maydolong (Eastern Samar),014,S 84° W,Maydolong (Eastern Samar)
 2025-12-20T17:04:00.000Z,20 December 2025 - 05:04 PM,09.56,126.04,002,1.8,011km S 49° E of Socorro (Surigao Del Norte),011,S 49° E,Socorro (Surigao Del Norte)
 2025-12-20T16:07:00.000Z,20 December 2025 - 04:07 PM,08.09,125.98,010,2.2,004km N 55° E of Veruela (Agusan Del Sur),004,N 55° E,Veruela (Agusan Del Sur)
-2025-12-20T14:56:00.000Z,20 December 2025 - 02:56 PM,07.36,126.95,028,2.2,048km N 69° E of Manay (Davao Oriental),048,N 69° E,Manay (Davao Oriental)
-2025-12-20T14:07:00.000Z,20 December 2025 - 02:07 PM,13.75,120.61,099,1.4,009km S 13° W of Calatagan (Batangas),009,S 13° W,Calatagan (Batangas)
-2025-12-20T13:52:00.000Z,20 December 2025 - 01:52 PM,10.33,126.45,010,4.3,053km N 50° E of Burgos (Surigao Del Norte),053,N 50° E,Burgos (Surigao Del Norte)
-2025-12-20T13:51:00.000Z,20 December 2025 - 01:51 PM,17.55,120.33,012,1.8,005km S 43° W of Santa Catalina (Ilocos Sur),005,S 43° W,Santa Catalina (Ilocos Sur)
-2025-12-20T12:59:00.000Z,20 December 2025 - 12:59 PM,11.04,120.32,024,2.3,065km N 34° E of Araceli (Palawan),065,N 34° E,Araceli (Palawan)
