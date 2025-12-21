@@ -1,3 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-21T08:00:00.000Z,21 December 2025 - 08:00 AM,08.47,127.29,001,3.2,106km N 84° E of Hinatuan (Surigao Del Sur),106,N 84° E,Hinatuan (Surigao Del Sur)
-2025-12-21T07:46:00.000Z,21 December 2025 - 07:46 AM,10.87,123.89,003,2.0,021km S 28° W of City Of Bogo (Cebu),021,S 28° W,City Of Bogo (Cebu)
+2025-12-21T11:12:00.000Z,21 December 2025 - 11:12 AM,11.18,124.41,003,1.7,004km S 26° E of Villaba (Leyte),004,S 26° E,Villaba (Leyte)
+2025-12-21T10:55:00.000Z,21 December 2025 - 10:55 AM,11.09,123.85,006,1.7,014km N 73° W of City Of Bogo (Cebu),014,N 73° W,City Of Bogo (Cebu)
+2025-12-21T10:49:00.000Z,21 December 2025 - 10:49 AM,13.29,125.77,053,3.5,106km N 32° E of Mapanas (Northern Samar),106,N 32° E,Mapanas (Northern Samar)
+2025-12-21T10:41:00.000Z,21 December 2025 - 10:41 AM,19.84,121.30,016,3.0,066km N 16° W of Calayan (Cagayan),066,N 16° W,Calayan (Cagayan)
+2025-12-21T10:38:00.000Z,21 December 2025 - 10:38 AM,08.52,123.18,014,2.3,005km S 84° W of President Manuel A. Roxas (Zamboanga Del Norte),005,S 84° W,President Manuel A. Roxas (Zamboanga Del Norte)
+2025-12-21T10:14:00.000Z,21 December 2025 - 10:14 AM,09.69,123.66,013,1.6,016km N 38° W of Panglao (Bohol),016,N 38° W,Panglao (Bohol)
