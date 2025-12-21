@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-22T00:14:00.000Z,22 December 2025 - 12:14 AM,08.54,125.92,010,3.3,007km S 01° E of Prosperidad (Agusan Del Sur),007,S 01° E,Prosperidad (Agusan Del Sur)
+2025-12-22T00:04:00.000Z,22 December 2025 - 12:04 AM,07.51,126.76,032,2.6,023km S 72° E of Baganga (Davao Oriental),023,S 72° E,Baganga (Davao Oriental)
+2025-12-22T00:02:00.000Z,22 December 2025 - 12:02 AM,06.73,127.62,041,2.5,131km S 66° E of Manay (Davao Oriental),131,S 66° E,Manay (Davao Oriental)
+2025-12-21T23:53:00.000Z,21 December 2025 - 11:53 PM,07.87,122.89,029,2.0,015km S 22° E of Godod (Zamboanga Del Norte),015,S 22° E,Godod (Zamboanga Del Norte)
 2025-12-21T21:05:00.000Z,21 December 2025 - 09:05 PM,09.74,126.11,028,2.1,007km S 51° W of General Luna (Surigao Del Norte),007,S 51° W,General Luna (Surigao Del Norte)
 2025-12-21T19:32:00.000Z,21 December 2025 - 07:32 PM,07.50,126.60,019,2.8,033km N 12° E of Manay (Davao Oriental),033,N 12° E,Manay (Davao Oriental)
 2025-12-21T18:43:00.000Z,21 December 2025 - 06:43 PM,19.56,120.48,009,2.5,091km N 57° W of Dalupiri Island (Calayan) (Cagayan),091,N 57° W,Dalupiri Island (Calayan) (Cagayan)
@@ -314,6 +318,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T02:40:00.000Z,15 December 2025 - 02:40 AM,13.94,120.21,027,1.8,013km N 45° E of Lubang (Occidental Mindoro),013,N 45° E,Lubang (Occidental Mindoro)
 2025-12-15T02:19:00.000Z,15 December 2025 - 02:19 AM,12.82,120.94,021,1.9,018km S 83° E of Sablayan (Occidental Mindoro),018,S 83° E,Sablayan (Occidental Mindoro)
 2025-12-15T01:22:00.000Z,15 December 2025 - 01:22 AM,04.03,125.85,027,3.6,150km S 17° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),150,S 17° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-15T00:01:00.000Z,15 December 2025 - 12:01 AM,07.27,127.01,013,3.2,052km N 83° E of Manay (Davao Oriental),052,N 83° E,Manay (Davao Oriental)
-2025-12-14T22:51:00.000Z,14 December 2025 - 10:51 PM,13.71,120.61,109,2.3,014km S 11° W of Calatagan (Batangas),014,S 11° W,Calatagan (Batangas)
-2025-12-14T21:09:00.000Z,14 December 2025 - 09:09 PM,07.30,126.70,016,2.4,020km N 63° E of Manay (Davao Oriental),020,N 63° E,Manay (Davao Oriental)

@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-21T21:05:00.000Z,21 December 2025 - 09:05 PM,09.74,126.11,028,2.1,007km S 51° W of General Luna (Surigao Del Norte),007,S 51° W,General Luna (Surigao Del Norte)
+2025-12-22T00:14:00.000Z,22 December 2025 - 12:14 AM,08.54,125.92,010,3.3,007km S 01° E of Prosperidad (Agusan Del Sur),007,S 01° E,Prosperidad (Agusan Del Sur)
+2025-12-22T00:04:00.000Z,22 December 2025 - 12:04 AM,07.51,126.76,032,2.6,023km S 72° E of Baganga (Davao Oriental),023,S 72° E,Baganga (Davao Oriental)
+2025-12-22T00:02:00.000Z,22 December 2025 - 12:02 AM,06.73,127.62,041,2.5,131km S 66° E of Manay (Davao Oriental),131,S 66° E,Manay (Davao Oriental)
+2025-12-21T23:53:00.000Z,21 December 2025 - 11:53 PM,07.87,122.89,029,2.0,015km S 22° E of Godod (Zamboanga Del Norte),015,S 22° E,Godod (Zamboanga Del Norte)
