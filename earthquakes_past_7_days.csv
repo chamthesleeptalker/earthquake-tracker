@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-21T08:00:00.000Z,21 December 2025 - 08:00 AM,08.47,127.29,001,3.2,106km N 84° E of Hinatuan (Surigao Del Sur),106,N 84° E,Hinatuan (Surigao Del Sur)
+2025-12-21T07:46:00.000Z,21 December 2025 - 07:46 AM,10.87,123.89,003,2.0,021km S 28° W of City Of Bogo (Cebu),021,S 28° W,City Of Bogo (Cebu)
 2025-12-21T06:24:00.000Z,21 December 2025 - 06:24 AM,07.12,127.04,016,2.3,057km S 79° E of Manay (Davao Oriental),057,S 79° E,Manay (Davao Oriental)
 2025-12-21T06:17:00.000Z,21 December 2025 - 06:17 AM,09.62,126.77,006,3.0,070km S 75° E of General Luna (Surigao Del Norte),070,S 75° E,General Luna (Surigao Del Norte)
 2025-12-21T05:13:00.000Z,21 December 2025 - 05:13 AM,18.47,121.23,003,1.8,010km S 04° W of Sanchez-mira (Cagayan),010,S 04° W,Sanchez-mira (Cagayan)
@@ -313,4 +315,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-14T09:11:00.000Z,14 December 2025 - 09:11 AM,16.58,122.40,036,1.8,016km N 66° E of Dinapigue (Isabela),016,N 66° E,Dinapigue (Isabela)
 2025-12-14T08:18:00.000Z,14 December 2025 - 08:18 AM,08.24,127.17,019,2.8,086km N 75° E of Lingig (Surigao Del Sur),086,N 75° E,Lingig (Surigao Del Sur)
 2025-12-14T08:06:00.000Z,14 December 2025 - 08:06 AM,09.51,125.60,017,2.8,005km N 30° E of Alegria (Surigao Del Norte),005,N 30° E,Alegria (Surigao Del Norte)
-2025-12-14T07:13:00.000Z,14 December 2025 - 07:13 AM,07.83,126.45,033,1.9,005km N 11° W of Cateel (Davao Oriental),005,N 11° W,Cateel (Davao Oriental)
