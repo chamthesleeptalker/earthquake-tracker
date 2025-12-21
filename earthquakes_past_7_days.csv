@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-22T04:29:00.000Z,22 December 2025 - 04:29 AM,09.08,122.67,025,2.5,035km S 37° W of Santa Catalina (Negros Oriental),035,S 37° W,Santa Catalina (Negros Oriental)
 2025-12-22T03:53:00.000Z,22 December 2025 - 03:53 AM,09.66,126.38,012,2.2,028km S 60° E of General Luna (Surigao Del Norte),028,S 60° E,General Luna (Surigao Del Norte)
 2025-12-22T03:38:00.000Z,22 December 2025 - 03:38 AM,08.35,127.03,005,2.6,076km S 89° E of Hinatuan (Surigao Del Sur),076,S 89° E,Hinatuan (Surigao Del Sur)
 2025-12-21T08:01:00.000Z,21 December 2025 - 08:01 AM,08.51,126.96,003,3.6,070km N 77° E of Hinatuan (Surigao Del Sur),070,N 77° E,Hinatuan (Surigao Del Sur)
@@ -322,5 +323,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-15T05:20:00.000Z,15 December 2025 - 05:20 AM,10.90,123.80,007,2.1,026km S 51° W of City Of Bogo (Cebu),026,S 51° W,City Of Bogo (Cebu)
 2025-12-15T05:08:00.000Z,15 December 2025 - 05:08 AM,07.61,124.94,005,2.4,004km N 78° E of Kadingilan (Bukidnon),004,N 78° E,Kadingilan (Bukidnon)
 2025-12-15T04:35:00.000Z,15 December 2025 - 04:35 AM,19.97,121.21,010,3.6,080km S 60° W of Sabtang (Batanes),080,S 60° W,Sabtang (Batanes)
-2025-12-15T04:20:00.000Z,15 December 2025 - 04:20 AM,11.19,124.17,002,1.9,026km N 53° E of City Of Bogo (Cebu),026,N 53° E,City Of Bogo (Cebu)
-2025-12-15T03:59:00.000Z,15 December 2025 - 03:59 AM,07.55,125.32,042,2.0,030km N 44° E of Arakan (Cotabato),030,N 44° E,Arakan (Cotabato)
