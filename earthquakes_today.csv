@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-22T05:49:00.000Z,22 December 2025 - 05:49 AM,09.91,124.16,015,2.3,007km S 87° E of Sagbayan (Bohol),007,S 87° E,Sagbayan (Bohol)
+2025-12-22T05:42:00.000Z,22 December 2025 - 05:42 AM,06.30,126.79,002,2.3,089km S 64° E of Governor Generoso (Davao Oriental),089,S 64° E,Governor Generoso (Davao Oriental)
 2025-12-22T05:27:00.000Z,22 December 2025 - 05:27 AM,06.01,126.67,023,2.7,097km S 43° E of Governor Generoso (Davao Oriental),097,S 43° E,Governor Generoso (Davao Oriental)
 2025-12-22T05:08:00.000Z,22 December 2025 - 05:08 AM,07.95,126.66,014,2.1,029km S 71° E of Lingig (Surigao Del Sur),029,S 71° E,Lingig (Surigao Del Sur)
 2025-12-22T05:07:00.000Z,22 December 2025 - 05:07 AM,08.41,127.08,009,2.0,082km N 87° E of Hinatuan (Surigao Del Sur),082,N 87° E,Hinatuan (Surigao Del Sur)
