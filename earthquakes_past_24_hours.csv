@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T05:25:00.000Z,23 December 2025 - 05:25 AM,13.50,119.93,030,1.7,042km S 56° W of Looc (Occidental Mindoro),042,S 56° W,Looc (Occidental Mindoro)
+2025-12-23T05:19:00.000Z,23 December 2025 - 05:19 AM,13.53,120.12,027,1.6,025km S 35° W of Looc (Occidental Mindoro),025,S 35° W,Looc (Occidental Mindoro)
 2025-12-23T04:56:00.000Z,23 December 2025 - 04:56 AM,14.15,120.04,037,1.7,034km N 15° W of Lubang (Occidental Mindoro),034,N 15° W,Lubang (Occidental Mindoro)
 2025-12-23T00:41:00.000Z,23 December 2025 - 12:41 AM,07.35,126.78,025,2.2,031km N 60° E of Manay (Davao Oriental),031,N 60° E,Manay (Davao Oriental)
 2025-12-23T00:04:00.000Z,23 December 2025 - 12:04 AM,06.15,124.88,012,2.6,009km S 43° E of T'boli (South Cotabato),009,S 43° E,T'boli (South Cotabato)
@@ -26,6 +28,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-22T05:49:00.000Z,22 December 2025 - 05:49 AM,09.91,124.16,015,2.3,007km S 87° E of Sagbayan (Bohol),007,S 87° E,Sagbayan (Bohol)
 2025-12-22T05:42:00.000Z,22 December 2025 - 05:42 AM,06.30,126.79,002,2.3,089km S 64° E of Governor Generoso (Davao Oriental),089,S 64° E,Governor Generoso (Davao Oriental)
 2025-12-22T05:27:00.000Z,22 December 2025 - 05:27 AM,06.01,126.67,023,2.7,097km S 43° E of Governor Generoso (Davao Oriental),097,S 43° E,Governor Generoso (Davao Oriental)
-2025-12-22T05:08:00.000Z,22 December 2025 - 05:08 AM,07.95,126.66,014,2.1,029km S 71° E of Lingig (Surigao Del Sur),029,S 71° E,Lingig (Surigao Del Sur)
-2025-12-22T05:07:00.000Z,22 December 2025 - 05:07 AM,08.41,127.08,009,2.0,082km N 87° E of Hinatuan (Surigao Del Sur),082,N 87° E,Hinatuan (Surigao Del Sur)
-2025-12-22T04:58:00.000Z,22 December 2025 - 04:58 AM,08.45,127.13,003,2.7,087km N 84° E of Hinatuan (Surigao Del Sur),087,N 84° E,Hinatuan (Surigao Del Sur)
