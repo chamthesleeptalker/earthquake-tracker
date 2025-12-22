@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T00:41:00.000Z,23 December 2025 - 12:41 AM,07.35,126.78,025,2.2,031km N 60° E of Manay (Davao Oriental),031,N 60° E,Manay (Davao Oriental)
 2025-12-23T00:04:00.000Z,23 December 2025 - 12:04 AM,06.15,124.88,012,2.6,009km S 43° E of T'boli (South Cotabato),009,S 43° E,T'boli (South Cotabato)
 2025-12-22T23:42:00.000Z,22 December 2025 - 11:42 PM,09.30,123.11,010,4.0,014km N 81° W of Valencia (Negros Oriental),014,N 81° W,Valencia (Negros Oriental)
 2025-12-22T23:19:00.000Z,22 December 2025 - 11:19 PM,13.93,120.56,065,1.7,013km N 36° W of Calatagan (Batangas),013,N 36° W,Calatagan (Batangas)
@@ -315,4 +316,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-16T02:27:00.000Z,16 December 2025 - 02:27 AM,07.17,126.96,011,3.2,046km S 85° E of Manay (Davao Oriental),046,S 85° E,Manay (Davao Oriental)
 2025-12-16T01:56:00.000Z,16 December 2025 - 01:56 AM,07.83,126.46,023,1.5,004km N 03° E of Cateel (Davao Oriental),004,N 03° E,Cateel (Davao Oriental)
 2025-12-16T01:46:00.000Z,16 December 2025 - 01:46 AM,10.50,125.22,003,2.2,007km S 67° E of Silago (Southern Leyte),007,S 67° E,Silago (Southern Leyte)
-2025-12-16T00:33:00.000Z,16 December 2025 - 12:33 AM,07.66,126.09,032,1.6,001km S 08° E of Compostela (Davao De Oro),001,S 08° E,Compostela (Davao De Oro)
