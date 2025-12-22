@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-22T09:14:00.000Z,22 December 2025 - 09:14 AM,08.44,127.12,010,4.1,086km N 84° E of Hinatuan (Surigao Del Sur),086,N 84° E,Hinatuan (Surigao Del Sur)
+2025-12-22T11:01:00.000Z,22 December 2025 - 11:01 AM,07.82,126.45,018,1.5,003km N 13° W of Cateel (Davao Oriental),003,N 13° W,Cateel (Davao Oriental)
+2025-12-22T10:25:00.000Z,22 December 2025 - 10:25 AM,05.25,126.64,008,3.1,131km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),131,S 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-12-22T10:14:00.000Z,22 December 2025 - 10:14 AM,08.04,124.67,032,1.5,022km S 18° E of Talakag (Bukidnon),022,S 18° E,Talakag (Bukidnon)
