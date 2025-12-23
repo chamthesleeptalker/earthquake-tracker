@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T09:02:00.000Z,23 December 2025 - 09:02 AM,07.19,126.79,027,2.8,028km S 85° E of Manay (Davao Oriental),028,S 85° E,Manay (Davao Oriental)
+2025-12-23T08:52:00.000Z,23 December 2025 - 08:52 AM,08.67,126.49,024,3.4,025km S 55° E of Marihatag (Surigao Del Sur),025,S 55° E,Marihatag (Surigao Del Sur)
+2025-12-23T07:44:00.000Z,23 December 2025 - 07:44 AM,05.84,125.97,138,3.0,037km S 78° E of Jose Abad Santos (Davao Occidental),037,S 78° E,Jose Abad Santos (Davao Occidental)
 2025-12-23T05:53:00.000Z,23 December 2025 - 05:53 AM,08.53,126.66,020,2.8,040km N 63° E of Hinatuan (Surigao Del Sur),040,N 63° E,Hinatuan (Surigao Del Sur)
 2025-12-23T05:25:00.000Z,23 December 2025 - 05:25 AM,13.50,119.93,030,1.7,042km S 56° W of Looc (Occidental Mindoro),042,S 56° W,Looc (Occidental Mindoro)
 2025-12-23T05:19:00.000Z,23 December 2025 - 05:19 AM,13.53,120.12,027,1.6,025km S 35° W of Looc (Occidental Mindoro),025,S 35° W,Looc (Occidental Mindoro)

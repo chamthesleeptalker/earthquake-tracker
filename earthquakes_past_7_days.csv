@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T09:02:00.000Z,23 December 2025 - 09:02 AM,07.19,126.79,027,2.8,028km S 85° E of Manay (Davao Oriental),028,S 85° E,Manay (Davao Oriental)
+2025-12-23T08:52:00.000Z,23 December 2025 - 08:52 AM,08.67,126.49,024,3.4,025km S 55° E of Marihatag (Surigao Del Sur),025,S 55° E,Marihatag (Surigao Del Sur)
+2025-12-23T07:44:00.000Z,23 December 2025 - 07:44 AM,05.84,125.97,138,3.0,037km S 78° E of Jose Abad Santos (Davao Occidental),037,S 78° E,Jose Abad Santos (Davao Occidental)
 2025-12-23T05:53:00.000Z,23 December 2025 - 05:53 AM,08.53,126.66,020,2.8,040km N 63° E of Hinatuan (Surigao Del Sur),040,N 63° E,Hinatuan (Surigao Del Sur)
 2025-12-23T05:25:00.000Z,23 December 2025 - 05:25 AM,13.50,119.93,030,1.7,042km S 56° W of Looc (Occidental Mindoro),042,S 56° W,Looc (Occidental Mindoro)
 2025-12-23T05:19:00.000Z,23 December 2025 - 05:19 AM,13.53,120.12,027,1.6,025km S 35° W of Looc (Occidental Mindoro),025,S 35° W,Looc (Occidental Mindoro)
@@ -308,6 +311,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-16T11:19:00.000Z,16 December 2025 - 11:19 AM,06.97,125.24,033,1.7,017km S 74° E of City Of Kidapawan (Cotabato),017,S 74° E,City Of Kidapawan (Cotabato)
 2025-12-16T10:25:00.000Z,16 December 2025 - 10:25 AM,15.09,119.80,049,2.0,029km S 75° W of Cabangan (Zambales),029,S 75° W,Cabangan (Zambales)
 2025-12-16T09:51:00.000Z,16 December 2025 - 09:51 AM,11.12,124.08,010,1.8,014km N 52° E of City Of Bogo (Cebu),014,N 52° E,City Of Bogo (Cebu)
-2025-12-16T06:41:00.000Z,16 December 2025 - 06:41 AM,11.17,124.23,007,2.4,030km N 63° E of City Of Bogo (Cebu),030,N 63° E,City Of Bogo (Cebu)
-2025-12-16T06:30:00.000Z,16 December 2025 - 06:30 AM,14.41,120.10,016,1.8,035km S 30° W of Morong (Bataan),035,S 30° W,Morong (Bataan)
-2025-12-16T06:19:00.000Z,16 December 2025 - 06:19 AM,15.18,121.78,016,1.8,028km N 08° W of Panukulan (Quezon),028,N 08° W,Panukulan (Quezon)
