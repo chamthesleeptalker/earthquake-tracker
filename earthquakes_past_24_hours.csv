@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T06:59:00.000Z,24 December 2025 - 06:59 AM,09.23,125.79,024,1.9,020km S 80° W of Madrid (Surigao Del Sur),020,S 80° W,Madrid (Surigao Del Sur)
+2025-12-24T06:48:00.000Z,24 December 2025 - 06:48 AM,08.82,126.69,015,2.0,043km N 87° E of Marihatag (Surigao Del Sur),043,N 87° E,Marihatag (Surigao Del Sur)
 2025-12-24T05:36:00.000Z,24 December 2025 - 05:36 AM,14.60,120.14,098,1.6,016km S 57° W of Morong (Bataan),016,S 57° W,Morong (Bataan)
 2025-12-24T04:24:00.000Z,24 December 2025 - 04:24 AM,13.69,123.16,008,2.2,004km West of Bombon (Camarines Sur),004,West of Bombon,Sur)
 2025-12-24T04:00:00.000Z,24 December 2025 - 04:00 AM,13.70,123.24,033,2.4,003km S 78° E of Calabanga (Camarines Sur),003,S 78° E,Calabanga (Camarines Sur)
@@ -25,4 +27,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T09:02:00.000Z,23 December 2025 - 09:02 AM,07.19,126.79,027,2.8,028km S 85° E of Manay (Davao Oriental),028,S 85° E,Manay (Davao Oriental)
 2025-12-23T08:52:00.000Z,23 December 2025 - 08:52 AM,08.67,126.49,024,3.4,025km S 55° E of Marihatag (Surigao Del Sur),025,S 55° E,Marihatag (Surigao Del Sur)
 2025-12-23T07:44:00.000Z,23 December 2025 - 07:44 AM,05.84,125.97,138,3.0,037km S 78° E of Jose Abad Santos (Davao Occidental),037,S 78° E,Jose Abad Santos (Davao Occidental)
-2025-12-23T05:53:00.000Z,23 December 2025 - 05:53 AM,08.53,126.66,020,2.8,040km N 63° E of Hinatuan (Surigao Del Sur),040,N 63° E,Hinatuan (Surigao Del Sur)
