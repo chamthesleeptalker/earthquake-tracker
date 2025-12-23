@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T00:50:00.000Z,24 December 2025 - 12:50 AM,09.70,126.24,030,1.5,013km S 44° E of General Luna (Surigao Del Norte),013,S 44° E,General Luna (Surigao Del Norte)
 2025-12-24T00:39:00.000Z,24 December 2025 - 12:39 AM,18.04,120.37,008,2.0,017km N 42° W of Badoc (Ilocos Norte),017,N 42° W,Badoc (Ilocos Norte)
 2025-12-24T00:07:00.000Z,24 December 2025 - 12:07 AM,06.47,126.46,081,2.4,048km S 65° E of Governor Generoso (Davao Oriental),048,S 65° E,Governor Generoso (Davao Oriental)
 2025-12-23T21:48:00.000Z,23 December 2025 - 09:48 PM,08.33,127.28,010,2.9,100km N 71° E of Lingig (Surigao Del Sur),100,N 71° E,Lingig (Surigao Del Sur)
@@ -21,4 +22,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T05:25:00.000Z,23 December 2025 - 05:25 AM,13.50,119.93,030,1.7,042km S 56° W of Looc (Occidental Mindoro),042,S 56° W,Looc (Occidental Mindoro)
 2025-12-23T05:19:00.000Z,23 December 2025 - 05:19 AM,13.53,120.12,027,1.6,025km S 35° W of Looc (Occidental Mindoro),025,S 35° W,Looc (Occidental Mindoro)
 2025-12-23T04:56:00.000Z,23 December 2025 - 04:56 AM,14.15,120.04,037,1.7,034km N 15° W of Lubang (Occidental Mindoro),034,N 15° W,Lubang (Occidental Mindoro)
-2025-12-23T00:41:00.000Z,23 December 2025 - 12:41 AM,07.35,126.78,025,2.2,031km N 60° E of Manay (Davao Oriental),031,N 60° E,Manay (Davao Oriental)
