@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T12:05:00.000Z,23 December 2025 - 12:05 PM,10.88,123.97,010,3.0,018km S 3° W of City Of Bogo (Cebu),018,S 3° W,City Of Bogo (Cebu)
+2025-12-23T11:36:00.000Z,23 December 2025 - 11:36 AM,08.58,125.85,008,2.3,007km S 70° W of Prosperidad (Agusan Del Sur),007,S 70° W,Prosperidad (Agusan Del Sur)
 2025-12-23T09:02:00.000Z,23 December 2025 - 09:02 AM,07.19,126.79,027,2.8,028km S 85° E of Manay (Davao Oriental),028,S 85° E,Manay (Davao Oriental)
 2025-12-23T08:52:00.000Z,23 December 2025 - 08:52 AM,08.67,126.49,024,3.4,025km S 55° E of Marihatag (Surigao Del Sur),025,S 55° E,Marihatag (Surigao Del Sur)
 2025-12-23T07:44:00.000Z,23 December 2025 - 07:44 AM,05.84,125.97,138,3.0,037km S 78° E of Jose Abad Santos (Davao Occidental),037,S 78° E,Jose Abad Santos (Davao Occidental)
