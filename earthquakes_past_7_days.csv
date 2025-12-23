@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T04:00:00.000Z,24 December 2025 - 04:00 AM,13.70,123.24,033,2.4,003km S 78° E of Calabanga (Camarines Sur),003,S 78° E,Calabanga (Camarines Sur)
+2025-12-24T03:27:00.000Z,24 December 2025 - 03:27 AM,12.15,122.46,007,2.9,022km S 42° W of San Fernando (Romblon),022,S 42° W,San Fernando (Romblon)
 2025-12-24T02:02:00.000Z,24 December 2025 - 02:02 AM,15.10,122.02,015,2.4,029km N 12° E of Burdeos (Quezon),029,N 12° E,Burdeos (Quezon)
 2025-12-24T01:45:00.000Z,24 December 2025 - 01:45 AM,10.35,124.83,025,1.7,005km N 53° E of Bato (Leyte),005,N 53° E,Bato (Leyte)
 2025-12-24T01:33:00.000Z,24 December 2025 - 01:33 AM,08.45,126.90,001,2.8,062km N 81° E of Hinatuan (Surigao Del Sur),062,N 81° E,Hinatuan (Surigao Del Sur)
@@ -278,9 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-17T06:17:00.000Z,17 December 2025 - 06:17 AM,07.18,126.98,013,2.7,049km S 86° E of Manay (Davao Oriental),049,S 86° E,Manay (Davao Oriental)
 2025-12-17T06:11:00.000Z,17 December 2025 - 06:11 AM,11.02,124.01,028,2.0,005km S 44° E of City Of Bogo (Cebu),005,S 44° E,City Of Bogo (Cebu)
 2025-12-17T05:41:00.000Z,17 December 2025 - 05:41 AM,10.95,123.89,024,1.6,015km S 43° W of City Of Bogo (Cebu),015,S 43° W,City Of Bogo (Cebu)
-2025-12-17T03:51:00.000Z,17 December 2025 - 03:51 AM,11.15,124.00,026,1.4,012km N 09° E of City Of Bogo (Cebu),012,N 09° E,City Of Bogo (Cebu)
-2025-12-17T03:34:00.000Z,17 December 2025 - 03:34 AM,08.93,126.40,019,1.7,011km N 85° E of Cagwait (Surigao Del Sur),011,N 85° E,Cagwait (Surigao Del Sur)
-2025-12-17T03:18:00.000Z,17 December 2025 - 03:18 AM,08.14,121.78,030,3.1,055km N 48° W of Baliguian (Zamboanga Del Norte),055,N 48° W,Baliguian (Zamboanga Del Norte)
-2025-12-17T03:12:00.000Z,17 December 2025 - 03:12 AM,15.72,121.98,009,3.3,045km S 84° E of Baler (Aurora),045,S 84° E,Baler (Aurora)
-2025-12-17T02:48:00.000Z,17 December 2025 - 02:48 AM,09.80,122.45,033,1.7,004km N 30° E of City Of Sipalay (Negros Occidental),004,N 30° E,City Of Sipalay (Negros Occidental)
-2025-12-17T02:38:00.000Z,17 December 2025 - 02:38 AM,10.89,123.93,004,2.6,018km S 18° W of City Of Bogo (Cebu),018,S 18° W,City Of Bogo (Cebu)
