@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T16:00:00.000Z,23 December 2025 - 04:00 PM,07.98,126.32,104,2.3,012km S 59° W of Lingig (Surigao Del Sur),012,S 59° W,Lingig (Surigao Del Sur)
 2025-12-23T15:28:00.000Z,23 December 2025 - 03:28 PM,08.51,125.84,066,3.0,009km N 39° E of Talacogon (Agusan Del Sur),009,N 39° E,Talacogon (Agusan Del Sur)
 2025-12-23T15:01:00.000Z,23 December 2025 - 03:01 PM,11.09,123.93,009,2.1,007km N 52° W of City Of Bogo (Cebu),007,N 52° W,City Of Bogo (Cebu)
 2025-12-23T14:39:00.000Z,23 December 2025 - 02:39 PM,11.00,123.91,002,2.2,010km S 58° W of City Of Bogo (Cebu),010,S 58° W,City Of Bogo (Cebu)
@@ -307,6 +308,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-16T16:30:00.000Z,16 December 2025 - 04:30 PM,13.87,120.59,141,1.7,007km N 48° W of Calatagan (Batangas),007,N 48° W,Calatagan (Batangas)
 2025-12-16T16:27:00.000Z,16 December 2025 - 04:27 PM,11.10,123.81,030,2.2,019km N 72° W of City Of Bogo (Cebu),019,N 72° W,City Of Bogo (Cebu)
 2025-12-16T16:20:00.000Z,16 December 2025 - 04:20 PM,08.38,126.42,035,1.7,009km N 83° E of Hinatuan (Surigao Del Sur),009,N 83° E,Hinatuan (Surigao Del Sur)
-2025-12-16T15:56:00.000Z,16 December 2025 - 03:56 PM,14.15,120.55,096,1.7,013km N 47° W of Nasugbu (Batangas),013,N 47° W,Nasugbu (Batangas)
-2025-12-16T15:56:00.000Z,16 December 2025 - 03:56 PM,14.15,120.55,096,1.7,013km N 47° W of Nasugbu (Batangas),013,N 47° W,Nasugbu (Batangas)
-2025-12-16T15:45:00.000Z,16 December 2025 - 03:45 PM,10.16,126.14,033,1.4,017km N 27° E of Burgos (Surigao Del Norte),017,N 27° E,Burgos (Surigao Del Norte)
