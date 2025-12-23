@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T07:28:00.000Z,24 December 2025 - 07:28 AM,08.51,123.39,034,2.1,004km S 58° E of Polanco (Zamboanga Del Norte),004,S 58° E,Polanco (Zamboanga Del Norte)
 2025-12-24T06:59:00.000Z,24 December 2025 - 06:59 AM,09.23,125.79,024,1.9,020km S 80° W of Madrid (Surigao Del Sur),020,S 80° W,Madrid (Surigao Del Sur)
 2025-12-24T06:48:00.000Z,24 December 2025 - 06:48 AM,08.82,126.69,015,2.0,043km N 87° E of Marihatag (Surigao Del Sur),043,N 87° E,Marihatag (Surigao Del Sur)
 2025-12-24T05:36:00.000Z,24 December 2025 - 05:36 AM,14.60,120.14,098,1.6,016km S 57° W of Morong (Bataan),016,S 57° W,Morong (Bataan)
