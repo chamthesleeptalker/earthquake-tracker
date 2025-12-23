@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T21:48:00.000Z,23 December 2025 - 09:48 PM,08.33,127.28,010,2.9,100km N 71° E of Lingig (Surigao Del Sur),100,N 71° E,Lingig (Surigao Del Sur)
 2025-12-23T19:50:00.000Z,23 December 2025 - 07:50 PM,07.97,126.18,033,1.8,014km S 61° E of Trento (Agusan Del Sur),014,S 61° E,Trento (Agusan Del Sur)
 2025-12-23T17:56:00.000Z,23 December 2025 - 05:56 PM,09.81,123.85,008,1.6,006km N 80° E of Loon (Bohol),006,N 80° E,Loon (Bohol)
 2025-12-23T16:00:00.000Z,23 December 2025 - 04:00 PM,07.98,126.32,104,2.3,012km S 59° W of Lingig (Surigao Del Sur),012,S 59° W,Lingig (Surigao Del Sur)
@@ -24,4 +25,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-22T23:19:00.000Z,22 December 2025 - 11:19 PM,13.93,120.56,065,1.7,013km N 36° W of Calatagan (Batangas),013,N 36° W,Calatagan (Batangas)
 2025-12-22T22:40:00.000Z,22 December 2025 - 10:40 PM,08.44,127.11,009,2.2,085km N 85° E of Hinatuan (Surigao Del Sur),085,N 85° E,Hinatuan (Surigao Del Sur)
 2025-12-22T22:34:00.000Z,22 December 2025 - 10:34 PM,11.01,124.02,001,2.1,006km S 47° E of City Of Bogo (Cebu),006,S 47° E,City Of Bogo (Cebu)
-2025-12-22T20:09:00.000Z,22 December 2025 - 08:09 PM,08.60,125.77,012,2.5,013km S 09° E of City Of Bayugan (Agusan Del Sur),013,S 09° E,City Of Bayugan (Agusan Del Sur)
