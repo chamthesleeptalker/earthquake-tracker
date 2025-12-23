@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T15:28:00.000Z,23 December 2025 - 03:28 PM,08.51,125.84,066,3.0,009km N 39° E of Talacogon (Agusan Del Sur),009,N 39° E,Talacogon (Agusan Del Sur)
 2025-12-23T15:01:00.000Z,23 December 2025 - 03:01 PM,11.09,123.93,009,2.1,007km N 52° W of City Of Bogo (Cebu),007,N 52° W,City Of Bogo (Cebu)
 2025-12-23T14:39:00.000Z,23 December 2025 - 02:39 PM,11.00,123.91,002,2.2,010km S 58° W of City Of Bogo (Cebu),010,S 58° W,City Of Bogo (Cebu)
 2025-12-23T13:41:00.000Z,23 December 2025 - 01:41 PM,08.50,126.60,018,2.8,032km N 63° E of Hinatuan (Surigao Del Sur),032,N 63° E,Hinatuan (Surigao Del Sur)
@@ -309,6 +310,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-16T15:56:00.000Z,16 December 2025 - 03:56 PM,14.15,120.55,096,1.7,013km N 47° W of Nasugbu (Batangas),013,N 47° W,Nasugbu (Batangas)
 2025-12-16T15:56:00.000Z,16 December 2025 - 03:56 PM,14.15,120.55,096,1.7,013km N 47° W of Nasugbu (Batangas),013,N 47° W,Nasugbu (Batangas)
 2025-12-16T15:45:00.000Z,16 December 2025 - 03:45 PM,10.16,126.14,033,1.4,017km N 27° E of Burgos (Surigao Del Norte),017,N 27° E,Burgos (Surigao Del Norte)
-2025-12-16T15:21:00.000Z,16 December 2025 - 03:21 PM,10.98,123.78,018,2.2,023km S 72° W of City Of Bogo (Cebu),023,S 72° W,City Of Bogo (Cebu)
-2025-12-16T15:22:00.000Z,16 December 2025 - 03:22 PM,10.98,123.78,018,2.2,023km S 72° W of City Of Bogo (Cebu),023,S 72° W,City Of Bogo (Cebu)
-2025-12-16T15:03:00.000Z,16 December 2025 - 03:03 PM,08.26,126.45,033,1.6,016km N 69° E of City Of Bislig (Surigao Del Sur),016,N 69° E,City Of Bislig (Surigao Del Sur)
