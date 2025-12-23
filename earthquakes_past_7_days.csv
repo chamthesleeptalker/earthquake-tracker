@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-23T17:56:00.000Z,23 December 2025 - 05:56 PM,09.81,123.85,008,1.6,006km N 80° E of Loon (Bohol),006,N 80° E,Loon (Bohol)
 2025-12-23T16:00:00.000Z,23 December 2025 - 04:00 PM,07.98,126.32,104,2.3,012km S 59° W of Lingig (Surigao Del Sur),012,S 59° W,Lingig (Surigao Del Sur)
 2025-12-23T15:28:00.000Z,23 December 2025 - 03:28 PM,08.51,125.84,066,3.0,009km N 39° E of Talacogon (Agusan Del Sur),009,N 39° E,Talacogon (Agusan Del Sur)
 2025-12-23T15:01:00.000Z,23 December 2025 - 03:01 PM,11.09,123.93,009,2.1,007km N 52° W of City Of Bogo (Cebu),007,N 52° W,City Of Bogo (Cebu)
@@ -305,6 +306,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-16T19:46:00.000Z,16 December 2025 - 07:46 PM,09.98,126.12,033,1.7,007km S 47° E of Burgos (Surigao Del Norte),007,S 47° E,Burgos (Surigao Del Norte)
 2025-12-16T19:18:00.000Z,16 December 2025 - 07:18 PM,08.81,126.44,027,1.6,020km S 52° E of Cagwait (Surigao Del Sur),020,S 52° E,Cagwait (Surigao Del Sur)
 2025-12-16T18:03:00.000Z,16 December 2025 - 06:03 PM,11.13,123.96,013,2.0,010km N 15° W of City Of Bogo (Cebu),010,N 15° W,City Of Bogo (Cebu)
-2025-12-16T16:30:00.000Z,16 December 2025 - 04:30 PM,13.87,120.59,141,1.7,007km N 48° W of Calatagan (Batangas),007,N 48° W,Calatagan (Batangas)
-2025-12-16T16:27:00.000Z,16 December 2025 - 04:27 PM,11.10,123.81,030,2.2,019km N 72° W of City Of Bogo (Cebu),019,N 72° W,City Of Bogo (Cebu)
-2025-12-16T16:20:00.000Z,16 December 2025 - 04:20 PM,08.38,126.42,035,1.7,009km N 83° E of Hinatuan (Surigao Del Sur),009,N 83° E,Hinatuan (Surigao Del Sur)
