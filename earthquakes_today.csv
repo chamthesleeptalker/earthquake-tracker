@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T22:17:00.000Z,24 December 2025 - 10:17 PM,12.89,123.06,005,2.0,021km S 87° W of Claveria (Masbate),021,S 87° W,Claveria (Masbate)
 2025-12-24T22:06:00.000Z,24 December 2025 - 10:06 PM,11.18,124.15,004,2.7,023km N 52° E of City Of Bogo (Cebu),023,N 52° E,City Of Bogo (Cebu)
 2025-12-24T20:33:00.000Z,24 December 2025 - 08:33 PM,11.14,121.01,012,2.3,008km S 78° E of Agutaya (Palawan),008,S 78° E,Agutaya (Palawan)
 2025-12-24T20:30:00.000Z,24 December 2025 - 08:30 PM,12.75,123.02,002,2.0,029km S 56° W of Claveria (Masbate),029,S 56° W,Claveria (Masbate)
