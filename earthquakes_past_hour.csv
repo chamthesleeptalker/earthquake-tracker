@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T05:23:00.000Z,25 December 2025 - 05:23 AM,12.82,122.97,011,2.8,031km S 74° W of Claveria (Masbate),031,S 74° W,Claveria (Masbate)
+2025-12-25T05:17:00.000Z,25 December 2025 - 05:17 AM,08.59,126.27,032,1.5,018km N 68° E of Barobo (Surigao Del Sur),018,N 68° E,Barobo (Surigao Del Sur)
 2025-12-25T05:05:00.000Z,25 December 2025 - 05:05 AM,06.52,123.86,480,4.0,021km S 79° W of Kalamansig (Sultan Kudarat),021,S 79° W,Kalamansig (Sultan Kudarat)
 2025-12-25T04:56:00.000Z,25 December 2025 - 04:56 AM,08.47,122.42,022,2.8,047km N 15° W of Labason (Zamboanga Del Norte),047,N 15° W,Labason (Zamboanga Del Norte)
 2025-12-25T04:50:00.000Z,25 December 2025 - 04:50 AM,10.37,125.26,002,3.1,002km N 26° E of Hinundayan (Southern Leyte),002,N 26° E,Hinundayan (Southern Leyte)

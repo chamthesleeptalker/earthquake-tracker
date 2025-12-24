@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T05:23:00.000Z,25 December 2025 - 05:23 AM,12.82,122.97,011,2.8,031km S 74° W of Claveria (Masbate),031,S 74° W,Claveria (Masbate)
+2025-12-25T05:17:00.000Z,25 December 2025 - 05:17 AM,08.59,126.27,032,1.5,018km N 68° E of Barobo (Surigao Del Sur),018,N 68° E,Barobo (Surigao Del Sur)
 2025-12-25T05:05:00.000Z,25 December 2025 - 05:05 AM,06.52,123.86,480,4.0,021km S 79° W of Kalamansig (Sultan Kudarat),021,S 79° W,Kalamansig (Sultan Kudarat)
 2025-12-25T04:56:00.000Z,25 December 2025 - 04:56 AM,08.47,122.42,022,2.8,047km N 15° W of Labason (Zamboanga Del Norte),047,N 15° W,Labason (Zamboanga Del Norte)
 2025-12-25T04:50:00.000Z,25 December 2025 - 04:50 AM,10.37,125.26,002,3.1,002km N 26° E of Hinundayan (Southern Leyte),002,N 26° E,Hinundayan (Southern Leyte)
@@ -322,4 +324,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T08:36:00.000Z,18 December 2025 - 08:36 AM,11.13,124.11,031,1.6,017km N 55° E of City Of Bogo (Cebu),017,N 55° E,City Of Bogo (Cebu)
 2025-12-18T08:12:00.000Z,18 December 2025 - 08:12 AM,11.98,126.10,015,2.8,067km S 84° E of Dolores (Eastern Samar),067,S 84° E,Dolores (Eastern Samar)
 2025-12-18T05:53:00.000Z,18 December 2025 - 05:53 AM,07.45,126.79,033,1.6,038km N 46° E of Manay (Davao Oriental),038,N 46° E,Manay (Davao Oriental)
-2025-12-18T05:06:00.000Z,18 December 2025 - 05:06 AM,13.56,120.93,035,1.4,007km N 18° W of Puerto Galera (Oriental Mindoro),007,N 18° W,Puerto Galera (Oriental Mindoro)
