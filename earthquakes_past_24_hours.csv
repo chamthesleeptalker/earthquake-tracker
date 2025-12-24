@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T22:06:00.000Z,24 December 2025 - 10:06 PM,11.18,124.15,004,2.7,023km N 52° E of City Of Bogo (Cebu),023,N 52° E,City Of Bogo (Cebu)
 2025-12-24T20:33:00.000Z,24 December 2025 - 08:33 PM,11.14,121.01,012,2.3,008km S 78° E of Agutaya (Palawan),008,S 78° E,Agutaya (Palawan)
 2025-12-24T20:30:00.000Z,24 December 2025 - 08:30 PM,12.75,123.02,002,2.0,029km S 56° W of Claveria (Masbate),029,S 56° W,Claveria (Masbate)
 2025-12-24T20:23:00.000Z,24 December 2025 - 08:23 PM,13.70,120.47,081,2.1,023km S 49° W of Calatagan (Batangas),023,S 49° W,Calatagan (Batangas)
@@ -61,4 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T00:50:00.000Z,24 December 2025 - 12:50 AM,09.70,126.24,030,1.5,013km S 44° E of General Luna (Surigao Del Norte),013,S 44° E,General Luna (Surigao Del Norte)
 2025-12-24T00:39:00.000Z,24 December 2025 - 12:39 AM,18.04,120.37,008,2.0,017km N 42° W of Badoc (Ilocos Norte),017,N 42° W,Badoc (Ilocos Norte)
 2025-12-24T00:07:00.000Z,24 December 2025 - 12:07 AM,06.47,126.46,081,2.4,048km S 65° E of Governor Generoso (Davao Oriental),048,S 65° E,Governor Generoso (Davao Oriental)
-2025-12-23T21:48:00.000Z,23 December 2025 - 09:48 PM,08.33,127.28,010,2.9,100km N 71° E of Lingig (Surigao Del Sur),100,N 71° E,Lingig (Surigao Del Sur)
