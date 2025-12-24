@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T04:01:00.000Z,25 December 2025 - 04:01 AM,12.86,120.92,002,2.7,016km N 82° E of Sablayan (Occidental Mindoro),016,N 82° E,Sablayan (Occidental Mindoro)
+2025-12-25T03:52:00.000Z,25 December 2025 - 03:52 AM,08.82,122.51,028,2.0,063km S 65° W of Siaton (Negros Oriental),063,S 65° W,Siaton (Negros Oriental)
 2025-12-25T03:08:00.000Z,25 December 2025 - 03:08 AM,07.36,126.81,010,3.6,034km N 61° E of Manay (Davao Oriental),034,N 61° E,Manay (Davao Oriental)
