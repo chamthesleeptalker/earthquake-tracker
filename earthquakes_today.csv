@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T17:04:00.000Z,24 December 2025 - 05:04 PM,12.76,123.01,003,1.7,008km S 26° W of Claveria (Masbate),008,S 26° W,Claveria (Masbate)
+2025-12-24T17:01:00.000Z,24 December 2025 - 05:01 PM,12.76,123.07,002,2.1,024km S 51° W of Claveria (Masbate),024,S 51° W,Claveria (Masbate)
+2025-12-24T16:51:00.000Z,24 December 2025 - 04:51 PM,11.17,124.26,004,2.7,015km S 73° W of Villaba (Leyte),015,S 73° W,Villaba (Leyte)
 2025-12-24T16:34:00.000Z,24 December 2025 - 04:34 PM,11.06,124.00,004,2.4,003km N 57° E of City Of Bogo (Cebu),003,N 57° E,City Of Bogo (Cebu)
 2025-12-24T16:13:00.000Z,24 December 2025 - 04:13 PM,07.20,126.73,018,2.4,021km S 86° E of Manay (Davao Oriental),021,S 86° E,Manay (Davao Oriental)
 2025-12-24T15:55:00.000Z,24 December 2025 - 03:55 PM,10.43,126.12,018,2.6,045km N 07° E of Burgos (Surigao Del Norte),045,N 07° E,Burgos (Surigao Del Norte)
