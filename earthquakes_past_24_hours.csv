@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T06:06:00.000Z,25 December 2025 - 06:06 AM,09.72,126.18,015,2.6,007km S 22° E of General Luna (Surigao Del Norte),007,S 22° E,General Luna (Surigao Del Norte)
+2025-12-25T05:30:00.000Z,25 December 2025 - 05:30 AM,16.24,122.12,038,1.5,004km S 06° W of Casiguran (Aurora),004,S 06° W,Casiguran (Aurora)
+2025-12-25T05:29:00.000Z,25 December 2025 - 05:29 AM,16.20,120.73,020,2.1,015km N 13° W of San Nicolas (Pangasinan),015,N 13° W,San Nicolas (Pangasinan)
 2025-12-25T05:23:00.000Z,25 December 2025 - 05:23 AM,12.82,122.97,011,2.8,031km S 74° W of Claveria (Masbate),031,S 74° W,Claveria (Masbate)
 2025-12-25T05:17:00.000Z,25 December 2025 - 05:17 AM,08.59,126.27,032,1.5,018km N 68° E of Barobo (Surigao Del Sur),018,N 68° E,Barobo (Surigao Del Sur)
 2025-12-25T05:05:00.000Z,25 December 2025 - 05:05 AM,06.52,123.86,480,4.0,021km S 79° W of Kalamansig (Sultan Kudarat),021,S 79° W,Kalamansig (Sultan Kudarat)
@@ -75,4 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T07:28:00.000Z,24 December 2025 - 07:28 AM,08.51,123.39,034,2.1,004km S 58° E of Polanco (Zamboanga Del Norte),004,S 58° E,Polanco (Zamboanga Del Norte)
 2025-12-24T06:59:00.000Z,24 December 2025 - 06:59 AM,09.23,125.79,024,1.9,020km S 80° W of Madrid (Surigao Del Sur),020,S 80° W,Madrid (Surigao Del Sur)
 2025-12-24T06:48:00.000Z,24 December 2025 - 06:48 AM,08.82,126.69,015,2.0,043km N 87° E of Marihatag (Surigao Del Sur),043,N 87° E,Marihatag (Surigao Del Sur)
-2025-12-24T05:36:00.000Z,24 December 2025 - 05:36 AM,14.60,120.14,098,1.6,016km S 57° W of Morong (Bataan),016,S 57° W,Morong (Bataan)
