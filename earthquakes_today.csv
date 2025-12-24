@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T11:54:00.000Z,24 December 2025 - 11:54 AM,12.89,123.02,008,1.9,025km S 88° W of Claveria (Masbate),025,S 88° W,Claveria (Masbate)
+2025-12-24T11:28:00.000Z,24 December 2025 - 11:28 AM,12.88,123.01,007,2.2,026km S 85° W of Claveria (Masbate),026,S 85° W,Claveria (Masbate)
+2025-12-24T11:19:00.000Z,24 December 2025 - 11:19 AM,12.89,123.01,003,2.3,026km S 88° W of Claveria (Masbate),026,S 88° W,Claveria (Masbate)
+2025-12-24T11:09:00.000Z,24 December 2025 - 11:09 AM,06.84,125.03,002,2.6,015km S 24° W of Makilala (Cotabato),015,S 24° W,Makilala (Cotabato)
 2025-12-24T11:01:00.000Z,24 December 2025 - 11:01 AM,12.83,122.97,003,2.1,031km S 75° W of Claveria (Masbate),031,S 75° W,Claveria (Masbate)
 2025-12-24T10:58:00.000Z,24 December 2025 - 10:58 AM,12.73,123.06,018,2.0,028km S 47° W of Claveria (Masbate),028,S 47° W,Claveria (Masbate)
 2025-12-24T10:52:00.000Z,24 December 2025 - 10:52 AM,12.83,122.98,007,2.4,030km S 74° W of Claveria (Masbate),030,S 74° W,Claveria (Masbate)
