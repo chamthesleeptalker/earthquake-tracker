@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T00:08:00.000Z,25 December 2025 - 12:08 AM,07.69,124.95,033,2.5,005km N 85° W of Don Carlos (Bukidnon),005,N 85° W,Don Carlos (Bukidnon)
+2025-12-24T23:59:00.000Z,24 December 2025 - 11:59 PM,10.37,125.20,003,2.7,003km S 02° W of Hinunangan (Southern Leyte),003,S 02° W,Hinunangan (Southern Leyte)
+2025-12-24T23:48:00.000Z,24 December 2025 - 11:48 PM,08.88,122.44,024,3.0,062km S 21° W of Basay (Negros Oriental),062,S 21° W,Basay (Negros Oriental)
 2025-12-24T23:08:00.000Z,24 December 2025 - 11:08 PM,12.98,123.20,002,1.9,010km N 31° W of Claveria (Masbate),010,N 31° W,Claveria (Masbate)
 2025-12-24T22:45:00.000Z,24 December 2025 - 10:45 PM,10.18,125.26,032,2.1,010km S 04° E of Anahawan (Southern Leyte),010,S 04° E,Anahawan (Southern Leyte)
 2025-12-24T22:36:00.000Z,24 December 2025 - 10:36 PM,12.75,123.14,008,2.1,021km S 35° W of Claveria (Masbate),021,S 35° W,Claveria (Masbate)
@@ -65,4 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T01:33:00.000Z,24 December 2025 - 01:33 AM,08.45,126.90,001,2.8,062km N 81° E of Hinatuan (Surigao Del Sur),062,N 81° E,Hinatuan (Surigao Del Sur)
 2025-12-24T00:50:00.000Z,24 December 2025 - 12:50 AM,09.70,126.24,030,1.5,013km S 44° E of General Luna (Surigao Del Norte),013,S 44° E,General Luna (Surigao Del Norte)
 2025-12-24T00:39:00.000Z,24 December 2025 - 12:39 AM,18.04,120.37,008,2.0,017km N 42° W of Badoc (Ilocos Norte),017,N 42° W,Badoc (Ilocos Norte)
-2025-12-24T00:07:00.000Z,24 December 2025 - 12:07 AM,06.47,126.46,081,2.4,048km S 65° E of Governor Generoso (Davao Oriental),048,S 65° E,Governor Generoso (Davao Oriental)
