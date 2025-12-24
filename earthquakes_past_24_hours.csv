@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T16:13:00.000Z,24 December 2025 - 04:13 PM,07.20,126.73,018,2.4,021km S 86° E of Manay (Davao Oriental),021,S 86° E,Manay (Davao Oriental)
+2025-12-24T15:55:00.000Z,24 December 2025 - 03:55 PM,10.43,126.12,018,2.6,045km N 07° E of Burgos (Surigao Del Norte),045,N 07° E,Burgos (Surigao Del Norte)
 2025-12-24T15:13:00.000Z,24 December 2025 - 03:13 PM,08.86,126.33,030,1.4,007km S 30° E of Cagwait (Surigao Del Sur),007,S 30° E,Cagwait (Surigao Del Sur)
 2025-12-24T14:43:00.000Z,24 December 2025 - 02:43 PM,12.88,123.07,009,2.0,019km S 84° W of Claveria (Masbate),019,S 84° W,Claveria (Masbate)
 2025-12-24T14:33:00.000Z,24 December 2025 - 02:33 PM,13.03,122.99,003,2.3,031km N 64° W of Claveria (Masbate),031,N 64° W,Claveria (Masbate)
@@ -45,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T21:48:00.000Z,23 December 2025 - 09:48 PM,08.33,127.28,010,2.9,100km N 71° E of Lingig (Surigao Del Sur),100,N 71° E,Lingig (Surigao Del Sur)
 2025-12-23T19:50:00.000Z,23 December 2025 - 07:50 PM,07.97,126.18,033,1.8,014km S 61° E of Trento (Agusan Del Sur),014,S 61° E,Trento (Agusan Del Sur)
 2025-12-23T17:56:00.000Z,23 December 2025 - 05:56 PM,09.81,123.85,008,1.6,006km N 80° E of Loon (Bohol),006,N 80° E,Loon (Bohol)
-2025-12-23T16:00:00.000Z,23 December 2025 - 04:00 PM,07.98,126.32,104,2.3,012km S 59° W of Lingig (Surigao Del Sur),012,S 59° W,Lingig (Surigao Del Sur)
-2025-12-23T15:28:00.000Z,23 December 2025 - 03:28 PM,08.51,125.84,066,3.0,009km N 39° E of Talacogon (Agusan Del Sur),009,N 39° E,Talacogon (Agusan Del Sur)
