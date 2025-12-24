@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T08:57:00.000Z,24 December 2025 - 08:57 AM,10.50,125.90,035,2.7,033km S 35° E of Homonhon Island (Guiuan) (Eastern Samar),033,S 35° E,Homonhon Island (Guiuan) (Eastern Samar)
+2025-12-24T08:03:00.000Z,24 December 2025 - 08:03 AM,09.55,126.24,027,1.7,027km S 19° E of General Luna (Surigao Del Norte),027,S 19° E,General Luna (Surigao Del Norte)
+2025-12-24T07:37:00.000Z,24 December 2025 - 07:37 AM,14.99,120.04,028,1.4,005km S 56° W of San Narciso (Zambales),005,S 56° W,San Narciso (Zambales)
+2025-12-24T07:36:00.000Z,24 December 2025 - 07:36 AM,18.36,120.69,013,2.5,008km N 68° E of Pasuquin (Ilocos Norte),008,N 68° E,Pasuquin (Ilocos Norte)
 2025-12-24T07:28:00.000Z,24 December 2025 - 07:28 AM,08.51,123.39,034,2.1,004km S 58° E of Polanco (Zamboanga Del Norte),004,S 58° E,Polanco (Zamboanga Del Norte)
 2025-12-24T06:59:00.000Z,24 December 2025 - 06:59 AM,09.23,125.79,024,1.9,020km S 80° W of Madrid (Surigao Del Sur),020,S 80° W,Madrid (Surigao Del Sur)
 2025-12-24T06:48:00.000Z,24 December 2025 - 06:48 AM,08.82,126.69,015,2.0,043km N 87° E of Marihatag (Surigao Del Sur),043,N 87° E,Marihatag (Surigao Del Sur)
@@ -26,5 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T12:05:00.000Z,23 December 2025 - 12:05 PM,10.88,123.97,010,3.0,018km S 3° W of City Of Bogo (Cebu),018,S 3° W,City Of Bogo (Cebu)
 2025-12-23T11:36:00.000Z,23 December 2025 - 11:36 AM,08.58,125.85,008,2.3,007km S 70° W of Prosperidad (Agusan Del Sur),007,S 70° W,Prosperidad (Agusan Del Sur)
 2025-12-23T09:02:00.000Z,23 December 2025 - 09:02 AM,07.19,126.79,027,2.8,028km S 85° E of Manay (Davao Oriental),028,S 85° E,Manay (Davao Oriental)
-2025-12-23T08:52:00.000Z,23 December 2025 - 08:52 AM,08.67,126.49,024,3.4,025km S 55° E of Marihatag (Surigao Del Sur),025,S 55° E,Marihatag (Surigao Del Sur)
-2025-12-23T07:44:00.000Z,23 December 2025 - 07:44 AM,05.84,125.97,138,3.0,037km S 78° E of Jose Abad Santos (Davao Occidental),037,S 78° E,Jose Abad Santos (Davao Occidental)
