@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T16:34:00.000Z,24 December 2025 - 04:34 PM,11.06,124.00,004,2.4,003km N 57° E of City Of Bogo (Cebu),003,N 57° E,City Of Bogo (Cebu)
 2025-12-24T16:13:00.000Z,24 December 2025 - 04:13 PM,07.20,126.73,018,2.4,021km S 86° E of Manay (Davao Oriental),021,S 86° E,Manay (Davao Oriental)
 2025-12-24T15:55:00.000Z,24 December 2025 - 03:55 PM,10.43,126.12,018,2.6,045km N 07° E of Burgos (Surigao Del Norte),045,N 07° E,Burgos (Surigao Del Norte)
 2025-12-24T15:13:00.000Z,24 December 2025 - 03:13 PM,08.86,126.33,030,1.4,007km S 30° E of Cagwait (Surigao Del Sur),007,S 30° E,Cagwait (Surigao Del Sur)
