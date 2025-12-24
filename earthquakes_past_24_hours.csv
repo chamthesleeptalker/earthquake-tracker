@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T01:58:00.000Z,25 December 2025 - 01:58 AM,10.81,124.33,025,1.6,017km S 41° W of Isabel (Leyte),017,S 41° W,Isabel (Leyte)
 2025-12-25T01:29:00.000Z,25 December 2025 - 01:29 AM,12.86,123.06,013,2.0,020km S 78° W of Claveria (Masbate),020,S 78° W,Claveria (Masbate)
 2025-12-25T01:25:00.000Z,25 December 2025 - 01:25 AM,15.74,122.05,006,2.1,046km S 13° E of Dinalungan (Aurora),046,S 13° E,Dinalungan (Aurora)
 2025-12-25T01:21:00.000Z,25 December 2025 - 01:21 AM,08.35,127.73,032,2.1,149km N 77° E of Lingig (Surigao Del Sur),149,N 77° E,Lingig (Surigao Del Sur)
@@ -70,5 +71,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T04:00:00.000Z,24 December 2025 - 04:00 AM,13.70,123.24,033,2.4,003km S 78° E of Calabanga (Camarines Sur),003,S 78° E,Calabanga (Camarines Sur)
 2025-12-24T03:27:00.000Z,24 December 2025 - 03:27 AM,12.15,122.46,007,2.9,022km S 42° W of San Fernando (Romblon),022,S 42° W,San Fernando (Romblon)
 2025-12-24T02:02:00.000Z,24 December 2025 - 02:02 AM,15.10,122.02,015,2.4,029km N 12° E of Burdeos (Quezon),029,N 12° E,Burdeos (Quezon)
-2025-12-24T01:45:00.000Z,24 December 2025 - 01:45 AM,10.35,124.83,025,1.7,005km N 53° E of Bato (Leyte),005,N 53° E,Bato (Leyte)
-2025-12-24T01:33:00.000Z,24 December 2025 - 01:33 AM,08.45,126.90,001,2.8,062km N 81° E of Hinatuan (Surigao Del Sur),062,N 81° E,Hinatuan (Surigao Del Sur)
