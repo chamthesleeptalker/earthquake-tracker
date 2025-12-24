@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T23:08:00.000Z,24 December 2025 - 11:08 PM,12.98,123.20,002,1.9,010km N 31° W of Claveria (Masbate),010,N 31° W,Claveria (Masbate)
+2025-12-24T22:45:00.000Z,24 December 2025 - 10:45 PM,10.18,125.26,032,2.1,010km S 04° E of Anahawan (Southern Leyte),010,S 04° E,Anahawan (Southern Leyte)
+2025-12-24T22:36:00.000Z,24 December 2025 - 10:36 PM,12.75,123.14,008,2.1,021km S 35° W of Claveria (Masbate),021,S 35° W,Claveria (Masbate)
 2025-12-24T22:17:00.000Z,24 December 2025 - 10:17 PM,12.89,123.06,005,2.0,021km S 87° W of Claveria (Masbate),021,S 87° W,Claveria (Masbate)
-2025-12-24T22:06:00.000Z,24 December 2025 - 10:06 PM,11.18,124.15,004,2.7,023km N 52° E of City Of Bogo (Cebu),023,N 52° E,City Of Bogo (Cebu)
