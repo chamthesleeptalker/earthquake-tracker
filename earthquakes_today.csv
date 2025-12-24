@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T11:01:00.000Z,24 December 2025 - 11:01 AM,12.83,122.97,003,2.1,031km S 75° W of Claveria (Masbate),031,S 75° W,Claveria (Masbate)
+2025-12-24T10:58:00.000Z,24 December 2025 - 10:58 AM,12.73,123.06,018,2.0,028km S 47° W of Claveria (Masbate),028,S 47° W,Claveria (Masbate)
+2025-12-24T10:52:00.000Z,24 December 2025 - 10:52 AM,12.83,122.98,007,2.4,030km S 74° W of Claveria (Masbate),030,S 74° W,Claveria (Masbate)
+2025-12-24T10:50:00.000Z,24 December 2025 - 10:50 AM,13.00,123.16,019,3.1,015km N 41° W of Claveria (Masbate),015,N 41° W,Claveria (Masbate)
+2025-12-24T10:46:00.000Z,24 December 2025 - 10:46 AM,12.83,122.99,021,2.2,029km S 73° W of Claveria (Masbate),029,S 73° W,Claveria (Masbate)
+2025-12-24T10:02:00.000Z,24 December 2025 - 10:02 AM,07.28,123.56,019,2.6,026km S 40° E of Tabina (Zamboanga Del Sur),026,S 40° E,Tabina (Zamboanga Del Sur)
+2025-12-24T09:26:00.000Z,24 December 2025 - 09:26 AM,09.62,126.21,032,1.7,019km S 20° E of General Luna (Surigao Del Norte),019,S 20° E,General Luna (Surigao Del Norte)
+2025-12-24T09:22:00.000Z,24 December 2025 - 09:22 AM,12.78,122.98,010,2.5,031km S 65° W of Claveria (Masbate),031,S 65° W,Claveria (Masbate)
 2025-12-24T08:57:00.000Z,24 December 2025 - 08:57 AM,10.50,125.90,035,2.7,033km S 35° E of Homonhon Island (Guiuan) (Eastern Samar),033,S 35° E,Homonhon Island (Guiuan) (Eastern Samar)
 2025-12-24T08:03:00.000Z,24 December 2025 - 08:03 AM,09.55,126.24,027,1.7,027km S 19° E of General Luna (Surigao Del Norte),027,S 19° E,General Luna (Surigao Del Norte)
 2025-12-24T07:37:00.000Z,24 December 2025 - 07:37 AM,14.99,120.04,028,1.4,005km S 56° W of San Narciso (Zambales),005,S 56° W,San Narciso (Zambales)
