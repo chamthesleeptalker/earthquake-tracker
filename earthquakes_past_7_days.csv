@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T01:29:00.000Z,25 December 2025 - 01:29 AM,12.86,123.06,013,2.0,020km S 78° W of Claveria (Masbate),020,S 78° W,Claveria (Masbate)
+2025-12-25T01:25:00.000Z,25 December 2025 - 01:25 AM,15.74,122.05,006,2.1,046km S 13° E of Dinalungan (Aurora),046,S 13° E,Dinalungan (Aurora)
+2025-12-25T01:21:00.000Z,25 December 2025 - 01:21 AM,08.35,127.73,032,2.1,149km N 77° E of Lingig (Surigao Del Sur),149,N 77° E,Lingig (Surigao Del Sur)
 2025-12-25T01:00:00.000Z,25 December 2025 - 01:00 AM,09.90,124.26,035,1.9,002km N 30° W of Dagohoy (Bohol),002,N 30° W,Dagohoy (Bohol)
 2025-12-25T00:49:00.000Z,25 December 2025 - 12:49 AM,12.83,123.00,010,2.0,027km S 74° W of Claveria (Masbate),027,S 74° W,Claveria (Masbate)
 2025-12-25T00:30:00.000Z,25 December 2025 - 12:30 AM,07.82,126.03,023,1.9,002km S 81° W of Monkayo (Davao De Oro),002,S 81° W,Monkayo (Davao De Oro)
@@ -314,4 +317,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T05:06:00.000Z,18 December 2025 - 05:06 AM,13.56,120.93,035,1.4,007km N 18° W of Puerto Galera (Oriental Mindoro),007,N 18° W,Puerto Galera (Oriental Mindoro)
 2025-12-18T04:37:00.000Z,18 December 2025 - 04:37 AM,07.59,126.75,029,1.8,021km N 85° E of Baganga (Davao Oriental),021,N 85° E,Baganga (Davao Oriental)
 2025-12-18T03:05:00.000Z,18 December 2025 - 03:05 AM,12.90,124.64,017,2.0,039km N 52° E of Biri (Northern Samar),039,N 52° E,Biri (Northern Samar)
-2025-12-18T01:10:00.000Z,18 December 2025 - 01:10 AM,11.02,124.00,024,1.4,004km S 35° E of City Of Bogo (Cebu),004,S 35° E,City Of Bogo (Cebu)
