@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T13:27:00.000Z,24 December 2025 - 01:27 PM,12.71,122.14,009,2.3,012km N 35° E of Calatrava (Romblon),012,N 35° E,Calatrava (Romblon)
+2025-12-24T13:21:00.000Z,24 December 2025 - 01:21 PM,12.93,123.08,006,2.1,019km N 80° W of Claveria (Masbate),019,N 80° W,Claveria (Masbate)
 2025-12-24T12:49:00.000Z,24 December 2025 - 12:49 PM,12.81,123.02,006,2.0,027km S 68° W of Claveria (Masbate),027,S 68° W,Claveria (Masbate)
 2025-12-24T12:18:00.000Z,24 December 2025 - 12:18 PM,12.87,123.01,010,2.5,026km S 81° W of Claveria (Masbate),026,S 81° W,Claveria (Masbate)
 2025-12-24T12:13:00.000Z,24 December 2025 - 12:13 PM,08.37,126.71,033,2.0,041km N 89° E of Hinatuan (Surigao Del Sur),041,N 89° E,Hinatuan (Surigao Del Sur)
