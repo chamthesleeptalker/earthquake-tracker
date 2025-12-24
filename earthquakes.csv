@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-24T15:13:00.000Z,24 December 2025 - 03:13 PM,08.86,126.33,030,1.4,007km S 30° E of Cagwait (Surigao Del Sur),007,S 30° E,Cagwait (Surigao Del Sur)
 2025-12-24T14:43:00.000Z,24 December 2025 - 02:43 PM,12.88,123.07,009,2.0,019km S 84° W of Claveria (Masbate),019,S 84° W,Claveria (Masbate)
 2025-12-24T14:33:00.000Z,24 December 2025 - 02:33 PM,13.03,122.99,003,2.3,031km N 64° W of Claveria (Masbate),031,N 64° W,Claveria (Masbate)
 2025-12-24T14:29:00.000Z,24 December 2025 - 02:29 PM,15.01,119.69,034,1.9,041km S 82° W of San Felipe (Zambales),041,S 82° W,San Felipe (Zambales)
