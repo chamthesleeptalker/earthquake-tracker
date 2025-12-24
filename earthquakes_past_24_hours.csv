@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T01:00:00.000Z,25 December 2025 - 01:00 AM,09.90,124.26,035,1.9,002km N 30° W of Dagohoy (Bohol),002,N 30° W,Dagohoy (Bohol)
+2025-12-25T00:49:00.000Z,25 December 2025 - 12:49 AM,12.83,123.00,010,2.0,027km S 74° W of Claveria (Masbate),027,S 74° W,Claveria (Masbate)
 2025-12-25T00:30:00.000Z,25 December 2025 - 12:30 AM,07.82,126.03,023,1.9,002km S 81° W of Monkayo (Davao De Oro),002,S 81° W,Monkayo (Davao De Oro)
 2025-12-25T00:08:00.000Z,25 December 2025 - 12:08 AM,07.69,124.95,033,2.5,005km N 85° W of Don Carlos (Bukidnon),005,N 85° W,Don Carlos (Bukidnon)
 2025-12-24T23:59:00.000Z,24 December 2025 - 11:59 PM,10.37,125.20,003,2.7,003km S 02° W of Hinunangan (Southern Leyte),003,S 02° W,Hinunangan (Southern Leyte)
@@ -67,5 +69,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T02:02:00.000Z,24 December 2025 - 02:02 AM,15.10,122.02,015,2.4,029km N 12° E of Burdeos (Quezon),029,N 12° E,Burdeos (Quezon)
 2025-12-24T01:45:00.000Z,24 December 2025 - 01:45 AM,10.35,124.83,025,1.7,005km N 53° E of Bato (Leyte),005,N 53° E,Bato (Leyte)
 2025-12-24T01:33:00.000Z,24 December 2025 - 01:33 AM,08.45,126.90,001,2.8,062km N 81° E of Hinatuan (Surigao Del Sur),062,N 81° E,Hinatuan (Surigao Del Sur)
-2025-12-24T00:50:00.000Z,24 December 2025 - 12:50 AM,09.70,126.24,030,1.5,013km S 44° E of General Luna (Surigao Del Norte),013,S 44° E,General Luna (Surigao Del Norte)
-2025-12-24T00:39:00.000Z,24 December 2025 - 12:39 AM,18.04,120.37,008,2.0,017km N 42° W of Badoc (Ilocos Norte),017,N 42° W,Badoc (Ilocos Norte)
