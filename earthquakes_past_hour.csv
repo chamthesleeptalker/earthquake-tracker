@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-25T08:01:00.000Z,25 December 2025 - 08:01 AM,17.51,120.70,028,2.1,004km S 37° W of Bucay (Abra),004,S 37° W,Bucay (Abra)
+2025-12-25T11:01:00.000Z,25 December 2025 - 11:01 AM,12.89,123.06,010,2.0,020km S 85° W of Claveria (Masbate),020,S 85° W,Claveria (Masbate)
+2025-12-25T10:58:00.000Z,25 December 2025 - 10:58 AM,12.84,122.96,005,1.6,032km S 77° W of Claveria (Masbate),032,S 77° W,Claveria (Masbate)
+2025-12-25T10:48:00.000Z,25 December 2025 - 10:48 AM,03.18,125.78,110,4.2,250km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),250,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2025-12-25T10:43:00.000Z,25 December 2025 - 10:43 AM,15.59,121.56,022,2.2,015km S 16° E of San Luis (Aurora),015,S 16° E,San Luis (Aurora)
+2025-12-25T10:09:00.000Z,25 December 2025 - 10:09 AM,10.93,123.95,008,1.6,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
