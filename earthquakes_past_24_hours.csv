@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T22:25:00.000Z,25 December 2025 - 10:25 PM,11.05,124.01,002,2.8,003km East of City Of Bogo (Cebu),003,East of City,Bogo (Cebu)
 2025-12-25T21:47:00.000Z,25 December 2025 - 09:47 PM,13.38,120.23,018,2.2,026km S 80° W of Paluan (Occidental Mindoro),026,S 80° W,Paluan (Occidental Mindoro)
 2025-12-25T21:25:00.000Z,25 December 2025 - 09:25 PM,13.27,121.18,033,1.4,013km S 03° W of City Of Calapan (Oriental Mindoro),013,S 03° W,City Of Calapan (Oriental Mindoro)
 2025-12-25T21:15:00.000Z,25 December 2025 - 09:15 PM,14.67,121.87,002,2.3,009km S 55° W of Polillo (Quezon),009,S 55° W,Polillo (Quezon)
@@ -53,5 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T23:08:00.000Z,24 December 2025 - 11:08 PM,12.98,123.20,002,1.9,010km N 31° W of Claveria (Masbate),010,N 31° W,Claveria (Masbate)
 2025-12-24T22:45:00.000Z,24 December 2025 - 10:45 PM,10.18,125.26,032,2.1,010km S 04° E of Anahawan (Southern Leyte),010,S 04° E,Anahawan (Southern Leyte)
 2025-12-24T22:36:00.000Z,24 December 2025 - 10:36 PM,12.75,123.14,008,2.1,021km S 35° W of Claveria (Masbate),021,S 35° W,Claveria (Masbate)
-2025-12-24T22:17:00.000Z,24 December 2025 - 10:17 PM,12.89,123.06,005,2.0,021km S 87° W of Claveria (Masbate),021,S 87° W,Claveria (Masbate)
-2025-12-24T22:06:00.000Z,24 December 2025 - 10:06 PM,11.18,124.15,004,2.7,023km N 52° E of City Of Bogo (Cebu),023,N 52° E,City Of Bogo (Cebu)
