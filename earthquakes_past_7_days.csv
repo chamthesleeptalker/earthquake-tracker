@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T17:13:00.000Z,25 December 2025 - 05:13 PM,09.69,126.20,030,2.6,012km S 25° E of General Luna (Surigao Del Norte),012,S 25° E,General Luna (Surigao Del Norte)
 2025-12-25T15:59:00.000Z,25 December 2025 - 03:59 PM,09.64,126.14,034,1.7,016km S 06° W of General Luna (Surigao Del Norte),016,S 06° W,General Luna (Surigao Del Norte)
 2025-12-25T14:37:00.000Z,25 December 2025 - 02:37 PM,14.36,120.38,113,1.9,015km S 57° W of Mariveles (Bataan),015,S 57° W,Mariveles (Bataan)
 2025-12-25T14:36:00.000Z,25 December 2025 - 02:36 PM,11.03,123.96,003,2.4,003km S 45° W of City Of Bogo (Cebu),003,S 45° W,City Of Bogo (Cebu)
@@ -276,7 +277,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-19T12:02:00.000Z,19 December 2025 - 12:02 PM,08.63,127.07,003,5.0,086km N 70° E of Hinatuan (Surigao Del Sur),086,N 70° E,Hinatuan (Surigao Del Sur)
 2025-12-19T10:13:00.000Z,19 December 2025 - 10:13 AM,09.03,126.53,028,1.7,028km N 65° E of Cagwait (Surigao Del Sur),028,N 65° E,Cagwait (Surigao Del Sur)
 2025-12-19T09:29:00.000Z,19 December 2025 - 09:29 AM,11.17,124.19,029,2.4,027km N 60° E of City Of Bogo (Cebu),027,N 60° E,City Of Bogo (Cebu)
-2025-12-18T17:06:00.000Z,18 December 2025 - 05:06 PM,19.74,121.95,003,3.1,025km N 08° E of Babuyan Island (Calayan) (Cagayan),025,N 08° E,Babuyan Island (Calayan) (Cagayan)
 2025-12-19T07:43:00.000Z,19 December 2025 - 07:43 AM,15.94,119.24,025,3.4,063km S 72° W of Agno (Pangasinan),063,S 72° W,Agno (Pangasinan)
 2025-12-19T07:37:00.000Z,19 December 2025 - 07:37 AM,06.85,126.97,009,2.7,062km S 50° E of Manay (Davao Oriental),062,S 50° E,Manay (Davao Oriental)
 2025-12-19T07:10:00.000Z,19 December 2025 - 07:10 AM,13.68,120.63,097,1.4,017km S 01° W of Calatagan (Batangas),017,S 01° W,Calatagan (Batangas)
@@ -323,6 +323,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T19:11:00.000Z,18 December 2025 - 07:11 PM,11.19,124.03,015,1.9,017km N 19° E of City Of Bogo (Cebu),017,N 19° E,City Of Bogo (Cebu)
 2025-12-18T19:00:00.000Z,18 December 2025 - 07:00 PM,10.99,124.02,007,2.7,008km S 34° E of City Of Bogo (Cebu),008,S 34° E,City Of Bogo (Cebu)
 2025-12-18T18:01:00.000Z,18 December 2025 - 06:01 PM,19.93,121.20,003,3.8,080km N 21° W of Calayan (Cagayan),080,N 21° W,Calayan (Cagayan)
-2025-12-18T17:05:00.000Z,18 December 2025 - 05:05 PM,20.15,122.36,007,2.9,049km S 63° E of Uyugan (Batanes),049,S 63° E,Uyugan (Batanes)
-2025-12-18T16:52:00.000Z,18 December 2025 - 04:52 PM,13.45,120.30,004,2.0,019km N 78° W of Paluan (Occidental Mindoro),019,N 78° W,Paluan (Occidental Mindoro)
-2025-12-18T16:38:00.000Z,18 December 2025 - 04:38 PM,19.81,121.70,015,3.5,065km N 21° E of Calayan (Cagayan),065,N 21° E,Calayan (Cagayan)
