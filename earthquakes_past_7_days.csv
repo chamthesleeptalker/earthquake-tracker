@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T14:12:00.000Z,25 December 2025 - 02:12 PM,17.49,122.30,024,3.5,013km N 32° E of Maconacon (Isabela),013,N 32° E,Maconacon (Isabela)
+2025-12-25T13:58:00.000Z,25 December 2025 - 01:58 PM,09.70,126.11,023,2.2,011km S 28° W of General Luna (Surigao Del Norte),011,S 28° W,General Luna (Surigao Del Norte)
+2025-12-25T13:47:00.000Z,25 December 2025 - 01:47 PM,19.01,121.15,002,2.6,012km S 30° W of Dalupiri Island (Calayan) (Cagayan),012,S 30° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-25T13:31:00.000Z,25 December 2025 - 01:31 PM,09.60,122.93,125,2.0,015km S 01° E of Mabinay (Negros Oriental),015,S 01° E,Mabinay (Negros Oriental)
 2025-12-25T13:04:00.000Z,25 December 2025 - 01:04 PM,12.85,122.99,008,2.4,028km S 78° W of Claveria (Masbate),028,S 78° W,Claveria (Masbate)
 2025-12-25T12:55:00.000Z,25 December 2025 - 12:55 PM,12.91,123.08,006,2.1,018km N 86° W of Claveria (Masbate),018,N 86° W,Claveria (Masbate)
@@ -327,5 +330,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T15:30:00.000Z,18 December 2025 - 03:30 PM,13.02,124.63,017,2.4,048km S 87° E of Prieto Diaz (Sorsogon),048,S 87° E,Prieto Diaz (Sorsogon)
 2025-12-18T15:28:00.000Z,18 December 2025 - 03:28 PM,18.94,121.13,010,5.2,020km S 24° W of Dalupiri Island (Calayan) (Cagayan),020,S 24° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-18T15:06:00.000Z,18 December 2025 - 03:06 PM,07.69,127.24,094,1.8,076km N 80° E of Baganga (Davao Oriental),076,N 80° E,Baganga (Davao Oriental)
-2025-12-18T13:57:00.000Z,18 December 2025 - 01:57 PM,13.45,125.16,041,2.6,088km S 75° E of Baras (Catanduanes),088,S 75° E,Baras (Catanduanes)
-2025-12-18T13:50:00.000Z,18 December 2025 - 01:50 PM,08.72,126.30,029,2.0,009km S 03° E of Marihatag (Surigao Del Sur),009,S 03° E,Marihatag (Surigao Del Sur)
