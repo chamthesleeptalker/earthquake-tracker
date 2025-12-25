@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T23:01:00.000Z,25 December 2025 - 11:01 PM,08.83,122.68,029,2.1,046km S 56° W of Siaton (Negros Oriental),046,S 56° W,Siaton (Negros Oriental)
+2025-12-25T22:57:00.000Z,25 December 2025 - 10:57 PM,15.40,120.15,021,1.5,018km N 47° E of Botolan (Zambales),018,N 47° E,Botolan (Zambales)
+2025-12-25T22:42:00.000Z,25 December 2025 - 10:42 PM,13.62,120.00,033,1.4,030km S 68° W of Looc (Occidental Mindoro),030,S 68° W,Looc (Occidental Mindoro)
 2025-12-25T22:25:00.000Z,25 December 2025 - 10:25 PM,11.05,124.01,002,2.8,003km East of City Of Bogo (Cebu),003,East of City,Bogo (Cebu)
 2025-12-25T21:47:00.000Z,25 December 2025 - 09:47 PM,13.38,120.23,018,2.2,026km S 80° W of Paluan (Occidental Mindoro),026,S 80° W,Paluan (Occidental Mindoro)
 2025-12-25T21:25:00.000Z,25 December 2025 - 09:25 PM,13.27,121.18,033,1.4,013km S 03° W of City Of Calapan (Oriental Mindoro),013,S 03° W,City Of Calapan (Oriental Mindoro)
