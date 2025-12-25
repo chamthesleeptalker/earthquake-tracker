@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T15:59:00.000Z,25 December 2025 - 03:59 PM,09.64,126.14,034,1.7,016km S 06° W of General Luna (Surigao Del Norte),016,S 06° W,General Luna (Surigao Del Norte)
 2025-12-25T14:37:00.000Z,25 December 2025 - 02:37 PM,14.36,120.38,113,1.9,015km S 57° W of Mariveles (Bataan),015,S 57° W,Mariveles (Bataan)
 2025-12-25T14:36:00.000Z,25 December 2025 - 02:36 PM,11.03,123.96,003,2.4,003km S 45° W of City Of Bogo (Cebu),003,S 45° W,City Of Bogo (Cebu)
 2025-12-25T14:12:00.000Z,25 December 2025 - 02:12 PM,17.49,122.30,024,3.5,013km N 32° E of Maconacon (Isabela),013,N 32° E,Maconacon (Isabela)
@@ -325,10 +326,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-18T17:05:00.000Z,18 December 2025 - 05:05 PM,20.15,122.36,007,2.9,049km S 63° E of Uyugan (Batanes),049,S 63° E,Uyugan (Batanes)
 2025-12-18T16:52:00.000Z,18 December 2025 - 04:52 PM,13.45,120.30,004,2.0,019km N 78° W of Paluan (Occidental Mindoro),019,N 78° W,Paluan (Occidental Mindoro)
 2025-12-18T16:38:00.000Z,18 December 2025 - 04:38 PM,19.81,121.70,015,3.5,065km N 21° E of Calayan (Cagayan),065,N 21° E,Calayan (Cagayan)
-2025-12-18T15:27:00.000Z,18 December 2025 - 03:27 PM,19.98,120.97,012,5.5,095km N 34° W of Calayan (Cagayan),095,N 34° W,Calayan (Cagayan)
-2025-12-18T15:36:00.000Z,18 December 2025 - 03:36 PM,10.03,125.78,023,1.6,017km N 48° E of Cagdianao (Dinagat Islands),017,N 48° E,Cagdianao (Dinagat Islands)
-2025-12-18T15:33:00.000Z,18 December 2025 - 03:33 PM,20.04,121.13,014,3.9,084km S 67° W of Sabtang (Batanes),084,S 67° W,Sabtang (Batanes)
-2025-12-18T15:31:00.000Z,18 December 2025 - 03:31 PM,19.78,121.34,004,2.7,059km N 14° W of Calayan (Cagayan),059,N 14° W,Calayan (Cagayan)
-2025-12-18T15:30:00.000Z,18 December 2025 - 03:30 PM,13.02,124.63,017,2.4,048km S 87° E of Prieto Diaz (Sorsogon),048,S 87° E,Prieto Diaz (Sorsogon)
-2025-12-18T15:28:00.000Z,18 December 2025 - 03:28 PM,18.94,121.13,010,5.2,020km S 24° W of Dalupiri Island (Calayan) (Cagayan),020,S 24° W,Dalupiri Island (Calayan) (Cagayan)
-2025-12-18T15:06:00.000Z,18 December 2025 - 03:06 PM,07.69,127.24,094,1.8,076km N 80° E of Baganga (Davao Oriental),076,N 80° E,Baganga (Davao Oriental)
