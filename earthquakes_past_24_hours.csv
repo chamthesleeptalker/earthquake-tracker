@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-25T13:31:00.000Z,25 December 2025 - 01:31 PM,09.60,122.93,125,2.0,015km S 01° E of Mabinay (Negros Oriental),015,S 01° E,Mabinay (Negros Oriental)
 2025-12-25T13:04:00.000Z,25 December 2025 - 01:04 PM,12.85,122.99,008,2.4,028km S 78° W of Claveria (Masbate),028,S 78° W,Claveria (Masbate)
 2025-12-25T12:55:00.000Z,25 December 2025 - 12:55 PM,12.91,123.08,006,2.1,018km N 86° W of Claveria (Masbate),018,N 86° W,Claveria (Masbate)
 2025-12-25T12:53:00.000Z,25 December 2025 - 12:53 PM,08.40,125.76,062,3.0,006km S 29° W of Talacogon (Agusan Del Sur),006,S 29° W,Talacogon (Agusan Del Sur)
@@ -66,5 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T14:16:00.000Z,24 December 2025 - 02:16 PM,12.92,123.07,009,1.9,019km N 83° W of Claveria (Masbate),019,N 83° W,Claveria (Masbate)
 2025-12-24T13:58:00.000Z,24 December 2025 - 01:58 PM,07.71,126.53,023,2.1,013km S 44° E of Cateel (Davao Oriental),013,S 44° E,Cateel (Davao Oriental)
 2025-12-24T13:50:00.000Z,24 December 2025 - 01:50 PM,08.47,127.55,029,4.2,134km N 85° E of Hinatuan (Surigao Del Sur),134,N 85° E,Hinatuan (Surigao Del Sur)
-2025-12-24T13:27:00.000Z,24 December 2025 - 01:27 PM,12.71,122.14,009,2.3,012km N 35° E of Calatrava (Romblon),012,N 35° E,Calatrava (Romblon)
-2025-12-24T13:21:00.000Z,24 December 2025 - 01:21 PM,12.93,123.08,006,2.1,019km N 80° W of Claveria (Masbate),019,N 80° W,Claveria (Masbate)
