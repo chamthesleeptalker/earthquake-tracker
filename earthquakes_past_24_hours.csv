@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-26T14:21:00.000Z,26 December 2025 - 02:21 PM,07.09,125.70,036,4.0,001km N 46° W of Island Garden City Of Samal (Davao Del Norte),001,N 46° W,Island Garden City Of Samal (Davao Del Norte)
+2025-12-26T14:06:00.000Z,26 December 2025 - 02:06 PM,07.51,126.57,016,2.5,008km S 04° E of Baganga (Davao Oriental),008,S 04° E,Baganga (Davao Oriental)
+2025-12-26T13:51:00.000Z,26 December 2025 - 01:51 PM,10.47,125.70,030,1.8,018km N 49° E of Loreto (Dinagat Islands),018,N 49° E,Loreto (Dinagat Islands)
+2025-12-26T13:50:00.000Z,26 December 2025 - 01:50 PM,13.42,120.62,030,1.5,011km S 76° W of Abra De Ilog (Occidental Mindoro),011,S 76° W,Abra De Ilog (Occidental Mindoro)
+2025-12-26T13:45:00.000Z,26 December 2025 - 01:45 PM,14.08,120.24,042,1.6,028km N 28° E of Lubang (Occidental Mindoro),028,N 28° E,Lubang (Occidental Mindoro)
 2025-12-26T13:24:00.000Z,26 December 2025 - 01:24 PM,06.01,127.10,097,2.8,134km S 58° E of Governor Generoso (Davao Oriental),134,S 58° E,Governor Generoso (Davao Oriental)
 2025-12-26T13:05:00.000Z,26 December 2025 - 01:05 PM,11.10,124.02,001,2.8,007km N 34° E of City Of Bogo (Cebu),007,N 34° E,City Of Bogo (Cebu)
 2025-12-26T12:08:00.000Z,26 December 2025 - 12:08 PM,07.35,126.71,026,2.2,016km N 81° E of Caraga (Davao Oriental),016,N 81° E,Caraga (Davao Oriental)
@@ -39,7 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-25T15:59:00.000Z,25 December 2025 - 03:59 PM,09.64,126.14,034,1.7,016km S 06° W of General Luna (Surigao Del Norte),016,S 06° W,General Luna (Surigao Del Norte)
 2025-12-25T14:37:00.000Z,25 December 2025 - 02:37 PM,14.36,120.38,113,1.9,015km S 57° W of Mariveles (Bataan),015,S 57° W,Mariveles (Bataan)
 2025-12-25T14:36:00.000Z,25 December 2025 - 02:36 PM,11.03,123.96,003,2.4,003km S 45° W of City Of Bogo (Cebu),003,S 45° W,City Of Bogo (Cebu)
-2025-12-25T14:12:00.000Z,25 December 2025 - 02:12 PM,17.49,122.30,024,3.5,013km N 32° E of Maconacon (Isabela),013,N 32° E,Maconacon (Isabela)
-2025-12-25T13:58:00.000Z,25 December 2025 - 01:58 PM,09.70,126.11,023,2.2,011km S 28° W of General Luna (Surigao Del Norte),011,S 28° W,General Luna (Surigao Del Norte)
-2025-12-25T13:47:00.000Z,25 December 2025 - 01:47 PM,19.01,121.15,002,2.6,012km S 30° W of Dalupiri Island (Calayan) (Cagayan),012,S 30° W,Dalupiri Island (Calayan) (Cagayan)
-2025-12-25T13:31:00.000Z,25 December 2025 - 01:31 PM,09.60,122.93,125,2.0,015km S 01° E of Mabinay (Negros Oriental),015,S 01° E,Mabinay (Negros Oriental)
