@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-26T13:24:00.000Z,26 December 2025 - 01:24 PM,06.01,127.10,097,2.8,134km S 58° E of Governor Generoso (Davao Oriental),134,S 58° E,Governor Generoso (Davao Oriental)
+2025-12-26T13:05:00.000Z,26 December 2025 - 01:05 PM,11.10,124.02,001,2.8,007km N 34° E of City Of Bogo (Cebu),007,N 34° E,City Of Bogo (Cebu)
 2025-12-26T12:08:00.000Z,26 December 2025 - 12:08 PM,07.35,126.71,026,2.2,016km N 81° E of Caraga (Davao Oriental),016,N 81° E,Caraga (Davao Oriental)
 2025-12-26T10:11:00.000Z,26 December 2025 - 10:11 AM,13.60,120.70,003,1.5,017km N 09° W of Abra De Ilog (Occidental Mindoro),017,N 09° W,Abra De Ilog (Occidental Mindoro)
 2025-12-26T08:52:00.000Z,26 December 2025 - 08:52 AM,08.83,126.45,027,2.5,017km N 79° E of Marihatag (Surigao Del Sur),017,N 79° E,Marihatag (Surigao Del Sur)
@@ -305,5 +307,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-19T13:32:00.000Z,19 December 2025 - 01:32 PM,08.81,126.44,028,3.2,016km N 87° E of Marihatag (Surigao Del Sur),016,N 87° E,Marihatag (Surigao Del Sur)
 2025-12-19T13:28:00.000Z,19 December 2025 - 01:28 PM,09.74,126.19,030,2.0,006km S 39° E of General Luna (Surigao Del Norte),006,S 39° E,General Luna (Surigao Del Norte)
 2025-12-19T13:25:00.000Z,19 December 2025 - 01:25 PM,07.67,126.64,026,4.9,013km N 39° E of Baganga (Davao Oriental),013,N 39° E,Baganga (Davao Oriental)
-2025-12-19T12:28:00.000Z,19 December 2025 - 12:28 PM,09.75,126.32,020,2.2,018km S 79° E of General Luna (Surigao Del Norte),018,S 79° E,General Luna (Surigao Del Norte)
-2025-12-19T12:23:00.000Z,19 December 2025 - 12:23 PM,08.59,127.01,013,2.4,078km N 71° E of Hinatuan (Surigao Del Sur),078,N 71° E,Hinatuan (Surigao Del Sur)
