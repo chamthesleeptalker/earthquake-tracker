@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-27T04:00:00.000Z,27 December 2025 - 04:00 AM,08.80,126.53,033,1.7,025km N 89° E of Marihatag (Surigao Del Sur),025,N 89° E,Marihatag (Surigao Del Sur)
+2025-12-27T03:59:00.000Z,27 December 2025 - 03:59 AM,18.43,121.23,014,2.3,013km S 73° W of Pamplona (Cagayan),013,S 73° W,Pamplona (Cagayan)
+2025-12-27T03:40:00.000Z,27 December 2025 - 03:40 AM,12.64,124.78,074,1.9,014km N 13° E of Mondragon (Northern Samar),014,N 13° E,Mondragon (Northern Samar)
+2025-12-27T03:33:00.000Z,27 December 2025 - 03:33 AM,06.90,126.93,017,2.6,055km S 52° E of Manay (Davao Oriental),055,S 52° E,Manay (Davao Oriental)
 2025-12-27T02:58:00.000Z,27 December 2025 - 02:58 AM,10.91,123.96,005,2.6,015km S 09° W of City Of Bogo (Cebu),015,S 09° W,City Of Bogo (Cebu)
 2025-12-27T02:46:00.000Z,27 December 2025 - 02:46 AM,15.60,121.05,033,1.5,001km S 68° W of General Mamerto Natividad (Nueva Ecija),001,S 68° W,General Mamerto Natividad (Nueva Ecija)
 2025-12-27T01:54:00.000Z,27 December 2025 - 01:54 AM,14.28,120.39,117,1.8,020km S 32° W of Mariveles (Bataan),020,S 32° W,Mariveles (Bataan)
@@ -292,5 +296,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-20T04:30:00.000Z,20 December 2025 - 04:30 AM,10.31,126.20,034,1.9,035km N 23° E of Burgos (Surigao Del Norte),035,N 23° E,Burgos (Surigao Del Norte)
 2025-12-20T04:12:00.000Z,20 December 2025 - 04:12 AM,10.23,126.14,017,3.2,025km N 17° E of Burgos (Surigao Del Norte),025,N 17° E,Burgos (Surigao Del Norte)
 2025-12-20T04:08:00.000Z,20 December 2025 - 04:08 AM,08.56,126.87,002,2.6,062km N 70° E of Hinatuan (Surigao Del Sur),062,N 70° E,Hinatuan (Surigao Del Sur)
-2025-12-20T03:53:00.000Z,20 December 2025 - 03:53 AM,14.61,120.27,034,2.0,007km S 07° E of Morong (Bataan),007,S 07° E,Morong (Bataan)
-2025-12-20T03:05:00.000Z,20 December 2025 - 03:05 AM,11.44,124.46,007,2.5,003km S 23° W of Biliran (Biliran),003,S 23° W,Biliran (Biliran)
