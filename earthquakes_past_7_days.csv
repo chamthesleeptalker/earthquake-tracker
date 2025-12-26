@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-26T18:48:00.000Z,26 December 2025 - 06:48 PM,18.15,121.90,031,2.4,011km S 03° W of Santa Teresita (Cagayan),011,S 03° W,Santa Teresita (Cagayan)
 2025-12-25T21:48:00.000Z,25 December 2025 - 09:48 PM,13.37,120.24,017,2.1,025km S 79° W of Paluan (Occidental Mindoro),025,S 79° W,Paluan (Occidental Mindoro)
 2025-12-26T17:25:00.000Z,26 December 2025 - 05:25 PM,13.69,120.25,154,2.3,004km S 07° E of Looc (Occidental Mindoro),004,S 07° E,Looc (Occidental Mindoro)
 2025-12-26T17:03:00.000Z,26 December 2025 - 05:03 PM,18.46,120.88,022,2.3,002km S 79° W of Adams (Ilocos Norte),002,S 79° W,Adams (Ilocos Norte)
@@ -301,7 +302,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-19T19:51:00.000Z,19 December 2025 - 07:51 PM,12.43,125.34,006,2.4,010km S 63° E of Mapanas (Northern Samar),010,S 63° E,Mapanas (Northern Samar)
 2025-12-19T19:29:00.000Z,19 December 2025 - 07:29 PM,08.99,126.48,029,2.2,021km N 68° E of Cagwait (Surigao Del Sur),021,N 68° E,Cagwait (Surigao Del Sur)
 2025-12-19T19:15:00.000Z,19 December 2025 - 07:15 PM,08.60,126.91,012,2.2,076km S 62° E of Cagwait (Surigao Del Sur),076,S 62° E,Cagwait (Surigao Del Sur)
-2025-12-19T18:47:00.000Z,19 December 2025 - 06:47 PM,08.58,126.87,022,3.5,063km N 68° E of Hinatuan (Surigao Del Sur),063,N 68° E,Hinatuan (Surigao Del Sur)
-2025-12-19T18:25:00.000Z,19 December 2025 - 06:25 PM,08.31,123.41,026,1.4,011km N 83° W of Sergio Osmeña Sr. (Zamboanga Del Norte),011,N 83° W,Sergio OsmeÃ±a Sr. (Zamboanga Del Norte)
-2025-12-19T18:22:00.000Z,19 December 2025 - 06:22 PM,08.60,126.95,018,2.8,072km N 69° E of Hinatuan (Surigao Del Sur),072,N 69° E,Hinatuan (Surigao Del Sur)
-2025-12-19T17:54:00.000Z,19 December 2025 - 05:54 PM,09.49,126.49,011,2.5,040km N 54° E of Cortes (Surigao Del Sur),040,N 54° E,Cortes (Surigao Del Sur)
