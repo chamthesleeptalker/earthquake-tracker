@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-26T05:13:00.000Z,26 December 2025 - 05:13 AM,08.24,125.94,027,1.4,009km N 46° W of Bunawan (Agusan Del Sur),009,N 46° W,Bunawan (Agusan Del Sur)
-2025-12-26T05:04:00.000Z,26 December 2025 - 05:04 AM,11.48,124.39,030,2.0,005km N 45° W of Calubian (Leyte),005,N 45° W,Calubian (Leyte)
+2025-12-26T08:52:00.000Z,26 December 2025 - 08:52 AM,08.83,126.45,027,2.5,017km N 79° E of Marihatag (Surigao Del Sur),017,N 79° E,Marihatag (Surigao Del Sur)
+2025-12-26T08:20:00.000Z,26 December 2025 - 08:20 AM,08.84,126.39,015,1.8,013km S 48° E of Cagwait (Surigao Del Sur),013,S 48° E,Cagwait (Surigao Del Sur)
+2025-12-26T08:19:00.000Z,26 December 2025 - 08:19 AM,08.73,126.86,005,2.6,062km S 83° E of Marihatag (Surigao Del Sur),062,S 83° E,Marihatag (Surigao Del Sur)

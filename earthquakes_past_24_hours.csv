@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-26T08:52:00.000Z,26 December 2025 - 08:52 AM,08.83,126.45,027,2.5,017km N 79° E of Marihatag (Surigao Del Sur),017,N 79° E,Marihatag (Surigao Del Sur)
+2025-12-26T08:20:00.000Z,26 December 2025 - 08:20 AM,08.84,126.39,015,1.8,013km S 48° E of Cagwait (Surigao Del Sur),013,S 48° E,Cagwait (Surigao Del Sur)
+2025-12-26T08:19:00.000Z,26 December 2025 - 08:19 AM,08.73,126.86,005,2.6,062km S 83° E of Marihatag (Surigao Del Sur),062,S 83° E,Marihatag (Surigao Del Sur)
 2025-12-26T05:13:00.000Z,26 December 2025 - 05:13 AM,08.24,125.94,027,1.4,009km N 46° W of Bunawan (Agusan Del Sur),009,N 46° W,Bunawan (Agusan Del Sur)
 2025-12-26T05:04:00.000Z,26 December 2025 - 05:04 AM,11.48,124.39,030,2.0,005km N 45° W of Calubian (Leyte),005,N 45° W,Calubian (Leyte)
 2025-12-26T04:10:00.000Z,26 December 2025 - 04:10 AM,12.95,123.06,007,1.8,021km N 76° W of Claveria (Masbate),021,N 76° W,Claveria (Masbate)
@@ -47,10 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-25T10:09:00.000Z,25 December 2025 - 10:09 AM,10.93,123.95,008,1.6,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
 2025-12-25T09:58:00.000Z,25 December 2025 - 09:58 AM,19.15,121.00,002,2.7,022km N 77° W of Dalupiri Island (Calayan) (Cagayan),022,N 77° W,Dalupiri Island (Calayan) (Cagayan)
 2025-12-25T09:37:00.000Z,25 December 2025 - 09:37 AM,10.92,123.91,002,2.4,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
-2025-12-25T08:01:00.000Z,25 December 2025 - 08:01 AM,17.51,120.70,028,2.1,004km S 37° W of Bucay (Abra),004,S 37° W,Bucay (Abra)
-2025-12-25T06:20:00.000Z,25 December 2025 - 06:20 AM,12.90,123.05,007,2.2,021km S 89° W of Claveria (Masbate),021,S 89° W,Claveria (Masbate)
-2025-12-25T06:06:00.000Z,25 December 2025 - 06:06 AM,09.72,126.18,015,2.6,007km S 22° E of General Luna (Surigao Del Norte),007,S 22° E,General Luna (Surigao Del Norte)
-2025-12-25T05:30:00.000Z,25 December 2025 - 05:30 AM,16.24,122.12,038,1.5,004km S 06° W of Casiguran (Aurora),004,S 06° W,Casiguran (Aurora)
-2025-12-25T05:29:00.000Z,25 December 2025 - 05:29 AM,16.20,120.73,020,2.1,015km N 13° W of San Nicolas (Pangasinan),015,N 13° W,San Nicolas (Pangasinan)
-2025-12-25T05:23:00.000Z,25 December 2025 - 05:23 AM,12.82,122.97,011,2.8,031km S 74° W of Claveria (Masbate),031,S 74° W,Claveria (Masbate)
-2025-12-25T05:17:00.000Z,25 December 2025 - 05:17 AM,08.59,126.27,032,1.5,018km N 68° E of Barobo (Surigao Del Sur),018,N 68° E,Barobo (Surigao Del Sur)
