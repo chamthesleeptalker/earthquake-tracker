@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-26T10:11:00.000Z,26 December 2025 - 10:11 AM,13.60,120.70,003,1.5,017km N 09° W of Abra De Ilog (Occidental Mindoro),017,N 09° W,Abra De Ilog (Occidental Mindoro)
 2025-12-26T08:52:00.000Z,26 December 2025 - 08:52 AM,08.83,126.45,027,2.5,017km N 79° E of Marihatag (Surigao Del Sur),017,N 79° E,Marihatag (Surigao Del Sur)
 2025-12-26T08:20:00.000Z,26 December 2025 - 08:20 AM,08.84,126.39,015,1.8,013km S 48° E of Cagwait (Surigao Del Sur),013,S 48° E,Cagwait (Surigao Del Sur)
 2025-12-26T08:19:00.000Z,26 December 2025 - 08:19 AM,08.73,126.86,005,2.6,062km S 83° E of Marihatag (Surigao Del Sur),062,S 83° E,Marihatag (Surigao Del Sur)
@@ -47,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-25T10:58:00.000Z,25 December 2025 - 10:58 AM,12.84,122.96,005,1.6,032km S 77° W of Claveria (Masbate),032,S 77° W,Claveria (Masbate)
 2025-12-25T10:48:00.000Z,25 December 2025 - 10:48 AM,03.18,125.78,110,4.2,250km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),250,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-25T10:43:00.000Z,25 December 2025 - 10:43 AM,15.59,121.56,022,2.2,015km S 16° E of San Luis (Aurora),015,S 16° E,San Luis (Aurora)
-2025-12-25T10:09:00.000Z,25 December 2025 - 10:09 AM,10.93,123.95,008,1.6,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
-2025-12-25T09:58:00.000Z,25 December 2025 - 09:58 AM,19.15,121.00,002,2.7,022km N 77° W of Dalupiri Island (Calayan) (Cagayan),022,N 77° W,Dalupiri Island (Calayan) (Cagayan)
-2025-12-25T09:37:00.000Z,25 December 2025 - 09:37 AM,10.92,123.91,002,2.4,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)
