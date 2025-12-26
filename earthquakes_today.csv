@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-26T20:06:00.000Z,26 December 2025 - 08:06 PM,10.94,124.12,028,2.0,019km S 52° E of City Of Bogo (Cebu),019,S 52° E,City Of Bogo (Cebu)
+2025-12-26T19:34:00.000Z,26 December 2025 - 07:34 PM,07.93,125.92,029,1.9,013km S 61° W of Santa Josefa (Agusan Del Sur),013,S 61° W,Santa Josefa (Agusan Del Sur)
+2025-12-26T19:25:00.000Z,26 December 2025 - 07:25 PM,09.80,125.49,028,1.9,001km North of City Of Surigao (Surigao Del Norte),001,North of City,Surigao (Surigao Del Norte)
 2025-12-26T18:48:00.000Z,26 December 2025 - 06:48 PM,18.15,121.90,031,2.4,011km S 03° W of Santa Teresita (Cagayan),011,S 03° W,Santa Teresita (Cagayan)
 2025-12-26T17:25:00.000Z,26 December 2025 - 05:25 PM,13.69,120.25,154,2.3,004km S 07° E of Looc (Occidental Mindoro),004,S 07° E,Looc (Occidental Mindoro)
 2025-12-26T17:03:00.000Z,26 December 2025 - 05:03 PM,18.46,120.88,022,2.3,002km S 79° W of Adams (Ilocos Norte),002,S 79° W,Adams (Ilocos Norte)
