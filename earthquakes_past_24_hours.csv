@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-26T21:02:00.000Z,26 December 2025 - 09:02 PM,15.00,122.46,004,1.9,036km N 23° E of Jomalig (Quezon),036,N 23° E,Jomalig (Quezon)
+2025-12-26T20:51:00.000Z,26 December 2025 - 08:51 PM,07.26,126.67,024,1.8,015km N 69° E of Manay (Davao Oriental),015,N 69° E,Manay (Davao Oriental)
+2025-12-26T20:40:00.000Z,26 December 2025 - 08:40 PM,10.11,122.33,021,2.3,040km N 16° W of City Of Sipalay (Negros Occidental),040,N 16° W,City Of Sipalay (Negros Occidental)
 2025-12-26T20:06:00.000Z,26 December 2025 - 08:06 PM,10.94,124.12,028,2.0,019km S 52° E of City Of Bogo (Cebu),019,S 52° E,City Of Bogo (Cebu)
 2025-12-26T19:34:00.000Z,26 December 2025 - 07:34 PM,07.93,125.92,029,1.9,013km S 61° W of Santa Josefa (Agusan Del Sur),013,S 61° W,Santa Josefa (Agusan Del Sur)
 2025-12-26T19:25:00.000Z,26 December 2025 - 07:25 PM,09.80,125.49,028,1.9,001km North of City Of Surigao (Surigao Del Norte),001,North of City,Surigao (Surigao Del Norte)
@@ -44,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-25T21:47:00.000Z,25 December 2025 - 09:47 PM,13.38,120.23,018,2.2,026km S 80° W of Paluan (Occidental Mindoro),026,S 80° W,Paluan (Occidental Mindoro)
 2025-12-25T21:25:00.000Z,25 December 2025 - 09:25 PM,13.27,121.18,033,1.4,013km S 03° W of City Of Calapan (Oriental Mindoro),013,S 03° W,City Of Calapan (Oriental Mindoro)
 2025-12-25T21:15:00.000Z,25 December 2025 - 09:15 PM,14.67,121.87,002,2.3,009km S 55° W of Polillo (Quezon),009,S 55° W,Polillo (Quezon)
-2025-12-25T20:49:00.000Z,25 December 2025 - 08:49 PM,10.01,122.28,003,2.4,032km N 33° W of City Of Sipalay (Negros Occidental),032,N 33° W,City Of Sipalay (Negros Occidental)
-2025-12-25T20:29:00.000Z,25 December 2025 - 08:29 PM,11.30,124.57,008,3.4,008km N 88° W of Capoocan (Leyte),008,N 88° W,Capoocan (Leyte)
