@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T05:05:00.000Z,28 December 2025 - 05:05 AM,08.74,126.50,020,1.4,023km S 73° E of Marihatag (Surigao Del Sur),023,S 73° E,Marihatag (Surigao Del Sur)
+2025-12-28T04:52:00.000Z,28 December 2025 - 04:52 AM,17.30,120.33,036,1.5,012km S 76° W of San Esteban (Ilocos Sur),012,S 76° W,San Esteban (Ilocos Sur)
 2025-12-28T04:17:00.000Z,28 December 2025 - 04:17 AM,06.08,124.61,010,1.5,010km N 07° W of Kiamba (Sarangani),010,N 07° W,Kiamba (Sarangani)
 2025-12-28T04:00:00.000Z,28 December 2025 - 04:00 AM,11.02,123.88,032,1.9,012km S 74° W of City Of Bogo (Cebu),012,S 74° W,City Of Bogo (Cebu)
 2025-12-28T03:53:00.000Z,28 December 2025 - 03:53 AM,08.08,124.54,006,1.6,014km N 89° E of Tagoloan Ii (Lanao Del Sur),014,N 89° E,Tagoloan Ii (Lanao Del Sur)
@@ -304,4 +306,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-21T06:17:00.000Z,21 December 2025 - 06:17 AM,09.62,126.77,006,3.0,070km S 75° E of General Luna (Surigao Del Norte),070,S 75° E,General Luna (Surigao Del Norte)
 2025-12-21T05:13:00.000Z,21 December 2025 - 05:13 AM,18.47,121.23,003,1.8,010km S 04° W of Sanchez-mira (Cagayan),010,S 04° W,Sanchez-mira (Cagayan)
 2025-12-21T05:10:00.000Z,21 December 2025 - 05:10 AM,12.78,120.86,001,2.3,011km S 49° E of Sablayan (Occidental Mindoro),011,S 49° E,Sablayan (Occidental Mindoro)
-2025-12-21T04:58:00.000Z,21 December 2025 - 04:58 AM,09.32,126.48,031,2.0,032km N 81° E of Cortes (Surigao Del Sur),032,N 81° E,Cortes (Surigao Del Sur)
