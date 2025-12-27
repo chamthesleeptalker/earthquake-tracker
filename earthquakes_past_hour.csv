@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T03:22:00.000Z,28 December 2025 - 03:22 AM,15.45,120.13,023,1.5,021km N 33° E of Botolan (Zambales),021,N 33° E,Botolan (Zambales)
+2025-12-28T03:18:00.000Z,28 December 2025 - 03:18 AM,16.33,120.29,008,2.3,009km N 82° W of Agoo (La Union),009,N 82° W,Agoo (La Union)
+2025-12-28T03:13:00.000Z,28 December 2025 - 03:13 AM,18.85,120.45,013,2.9,043km N 29° W of Burgos (Ilocos Norte),043,N 29° W,Burgos (Ilocos Norte)
 2025-12-28T02:55:00.000Z,28 December 2025 - 02:55 AM,13.76,120.55,090,1.5,012km S 46° W of Calatagan (Batangas),012,S 46° W,Calatagan (Batangas)
 2025-12-28T02:26:00.000Z,28 December 2025 - 02:26 AM,15.49,119.81,030,4.8,012km N 60° W of Palauig (Zambales),012,N 60° W,Palauig (Zambales)
