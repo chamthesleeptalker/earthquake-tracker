@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-27T20:00:00.000Z,27 December 2025 - 08:00 PM,05.01,126.56,025,3.6,131km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),131,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-12-27T19:53:00.000Z,27 December 2025 - 07:53 PM,09.85,126.23,006,2.1,011km N 49° E of General Luna (Surigao Del Norte),011,N 49° E,General Luna (Surigao Del Norte)
+2025-12-27T19:46:00.000Z,27 December 2025 - 07:46 PM,09.51,125.96,024,2.5,012km S 04° W of Socorro (Surigao Del Norte),012,S 04° W,Socorro (Surigao Del Norte)
 2025-12-27T19:28:00.000Z,27 December 2025 - 07:28 PM,09.68,126.14,033,2.1,012km S 11° W of General Luna (Surigao Del Norte),012,S 11° W,General Luna (Surigao Del Norte)
 2025-12-27T18:56:00.000Z,27 December 2025 - 06:56 PM,16.62,119.80,040,2.0,028km N 21° W of Bolinao (Pangasinan),028,N 21° W,Bolinao (Pangasinan)
 2025-12-27T18:35:00.000Z,27 December 2025 - 06:35 PM,09.79,126.10,030,1.3,006km N 80° W of General Luna (Surigao Del Norte),006,N 80° W,General Luna (Surigao Del Norte)
@@ -30,4 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-26T20:51:00.000Z,26 December 2025 - 08:51 PM,07.26,126.67,024,1.8,015km N 69° E of Manay (Davao Oriental),015,N 69° E,Manay (Davao Oriental)
 2025-12-26T20:40:00.000Z,26 December 2025 - 08:40 PM,10.11,122.33,021,2.3,040km N 16° W of City Of Sipalay (Negros Occidental),040,N 16° W,City Of Sipalay (Negros Occidental)
 2025-12-26T20:06:00.000Z,26 December 2025 - 08:06 PM,10.94,124.12,028,2.0,019km S 52° E of City Of Bogo (Cebu),019,S 52° E,City Of Bogo (Cebu)
-2025-12-26T19:34:00.000Z,26 December 2025 - 07:34 PM,07.93,125.92,029,1.9,013km S 61° W of Santa Josefa (Agusan Del Sur),013,S 61° W,Santa Josefa (Agusan Del Sur)

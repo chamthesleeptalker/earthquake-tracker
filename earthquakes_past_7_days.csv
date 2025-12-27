@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-27T20:00:00.000Z,27 December 2025 - 08:00 PM,05.01,126.56,025,3.6,131km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),131,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2025-12-27T19:53:00.000Z,27 December 2025 - 07:53 PM,09.85,126.23,006,2.1,011km N 49° E of General Luna (Surigao Del Norte),011,N 49° E,General Luna (Surigao Del Norte)
+2025-12-27T19:46:00.000Z,27 December 2025 - 07:46 PM,09.51,125.96,024,2.5,012km S 04° W of Socorro (Surigao Del Norte),012,S 04° W,Socorro (Surigao Del Norte)
 2025-12-27T19:28:00.000Z,27 December 2025 - 07:28 PM,09.68,126.14,033,2.1,012km S 11° W of General Luna (Surigao Del Norte),012,S 11° W,General Luna (Surigao Del Norte)
 2025-12-27T18:56:00.000Z,27 December 2025 - 06:56 PM,16.62,119.80,040,2.0,028km N 21° W of Bolinao (Pangasinan),028,N 21° W,Bolinao (Pangasinan)
 2025-12-27T18:35:00.000Z,27 December 2025 - 06:35 PM,09.79,126.10,030,1.3,006km N 80° W of General Luna (Surigao Del Norte),006,N 80° W,General Luna (Surigao Del Norte)
@@ -290,5 +293,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-20T22:30:00.000Z,20 December 2025 - 10:30 PM,13.71,120.64,100,1.5,014km S 01° E of Calatagan (Batangas),014,S 01° E,Calatagan (Batangas)
 2025-12-20T22:14:00.000Z,20 December 2025 - 10:14 PM,08.64,122.34,033,2.0,067km N 18° W of Labason (Zamboanga Del Norte),067,N 18° W,Labason (Zamboanga Del Norte)
 2025-12-20T22:03:00.000Z,20 December 2025 - 10:03 PM,15.08,121.98,015,2.0,024km N 47° E of Panukulan (Quezon),024,N 47° E,Panukulan (Quezon)
-2025-12-20T19:43:00.000Z,20 December 2025 - 07:43 PM,17.58,120.85,013,2.3,013km S 74° E of Lagangilang (Abra),013,S 74° E,Lagangilang (Abra)
-2025-12-20T19:34:00.000Z,20 December 2025 - 07:34 PM,16.01,121.50,021,1.7,018km N 12° W of Dipaculao (Aurora),018,N 12° W,Dipaculao (Aurora)
