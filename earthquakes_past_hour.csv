@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-27T07:54:00.000Z,27 December 2025 - 07:54 AM,07.69,124.92,035,1.7,009km N 86° W of Don Carlos (Bukidnon),009,N 86° W,Don Carlos (Bukidnon)
-2025-12-27T07:52:00.000Z,27 December 2025 - 07:52 AM,08.85,126.37,027,2.0,011km S 44° E of Cagwait (Surigao Del Sur),011,S 44° E,Cagwait (Surigao Del Sur)
-2025-12-27T06:57:00.000Z,27 December 2025 - 06:57 AM,05.98,126.14,085,2.8,055km S 64° E of Don Marcelino (Davao Occidental),055,S 64° E,Don Marcelino (Davao Occidental)
+2025-12-27T10:29:00.000Z,27 December 2025 - 10:29 AM,05.42,126.51,030,3.7,110km S 60° E of Jose Abad Santos (Davao Occidental),110,S 60° E,Jose Abad Santos (Davao Occidental)
+2025-12-27T09:45:00.000Z,27 December 2025 - 09:45 AM,11.37,125.40,027,3.0,016km S 48° W of Balangkayan (Eastern Samar),016,S 48° W,Balangkayan (Eastern Samar)
+2025-12-27T09:37:00.000Z,27 December 2025 - 09:37 AM,07.08,126.96,013,2.7,049km S 72° E of Manay (Davao Oriental),049,S 72° E,Manay (Davao Oriental)
+2025-12-27T09:34:00.000Z,27 December 2025 - 09:34 AM,12.04,121.77,024,2.0,021km S 84° W of San Jose (Romblon),021,S 84° W,San Jose (Romblon)
