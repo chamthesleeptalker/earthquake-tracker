@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-27T07:54:00.000Z,27 December 2025 - 07:54 AM,07.69,124.92,035,1.7,009km N 86° W of Don Carlos (Bukidnon),009,N 86° W,Don Carlos (Bukidnon)
+2025-12-27T07:52:00.000Z,27 December 2025 - 07:52 AM,08.85,126.37,027,2.0,011km S 44° E of Cagwait (Surigao Del Sur),011,S 44° E,Cagwait (Surigao Del Sur)
 2025-12-27T06:57:00.000Z,27 December 2025 - 06:57 AM,05.98,126.14,085,2.8,055km S 64° E of Don Marcelino (Davao Occidental),055,S 64° E,Don Marcelino (Davao Occidental)
 2025-12-27T06:21:00.000Z,27 December 2025 - 06:21 AM,12.56,124.91,007,1.6,002km West of Pambujan (Northern Samar),002,West of Pambujan,Samar)
 2025-12-27T05:28:00.000Z,27 December 2025 - 05:28 AM,07.87,126.46,024,1.5,009km N 89° E of Boston (Davao Oriental),009,N 89° E,Boston (Davao Oriental)
@@ -292,4 +294,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-20T10:28:00.000Z,20 December 2025 - 10:28 AM,09.66,126.19,029,2.1,014km S 13° E of General Luna (Surigao Del Norte),014,S 13° E,General Luna (Surigao Del Norte)
 2025-12-20T09:22:00.000Z,20 December 2025 - 09:22 AM,08.69,126.09,006,2.0,006km N 07° W of Lianga (Surigao Del Sur),006,N 07° W,Lianga (Surigao Del Sur)
 2025-12-20T07:56:00.000Z,20 December 2025 - 07:56 AM,11.10,124.12,005,2.4,016km N 70° E of City Of Bogo (Cebu),016,N 70° E,City Of Bogo (Cebu)
-2025-12-20T07:08:00.000Z,20 December 2025 - 07:08 AM,08.51,126.60,021,2.2,033km N 62° E of Hinatuan (Surigao Del Sur),033,N 62° E,Hinatuan (Surigao Del Sur)
