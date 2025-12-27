@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2025-12-22T01:53:00.000Z,22 December 2025 - 01:53 AM,08.45,127.57,10,5.7,135km N 86° E of Hinatuan (Surigao Del Sur),135,N 86° E,Hinatuan (Surigao Del Sur)
-2025-12-20T13:52:00.000Z,20 December 2025 - 01:52 PM,10.33,126.45,10,4.3,053km N 50° E of Burgos (Surigao Del Norte),053,N 50° E,Burgos (Surigao Del Norte)
 2025-12-25T10:48:00.000Z,25 December 2025 - 10:48 AM,03.18,125.78,110,4.2,250km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),250,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-24T13:50:00.000Z,24 December 2025 - 01:50 PM,08.47,127.55,29,4.2,134km N 85° E of Hinatuan (Surigao Del Sur),134,N 85° E,Hinatuan (Surigao Del Sur)
 2025-12-22T09:14:00.000Z,22 December 2025 - 09:14 AM,08.44,127.12,10,4.1,086km N 84° E of Hinatuan (Surigao Del Sur),086,N 84° E,Hinatuan (Surigao Del Sur)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-22T23:42:00.000Z,22 December 2025 - 11:42 PM,09.30,123.11,10,4.0,014km N 81° W of Valencia (Negros Oriental),014,N 81° W,Valencia (Negros Oriental)
 2025-12-20T17:26:00.000Z,20 December 2025 - 05:26 PM,07.34,127.02,10,4.0,054km N 74° E of Manay (Davao Oriental),054,N 74° E,Manay (Davao Oriental)
 2025-12-26T02:45:00.000Z,26 December 2025 - 02:45 AM,09.52,122.53,49,3.9,011km S 38° E of Hinoba-an (Negros Occidental),011,S 38° E,Hinoba-an (Negros Occidental)
+2025-12-22T01:40:00.000Z,22 December 2025 - 01:40 AM,09.04,126.40,27,3.9,017km N 38° E of Cagwait (Surigao Del Sur),017,N 38° E,Cagwait (Surigao Del Sur)
