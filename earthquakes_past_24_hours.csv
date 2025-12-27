@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T02:55:00.000Z,28 December 2025 - 02:55 AM,13.76,120.55,090,1.5,012km S 46° W of Calatagan (Batangas),012,S 46° W,Calatagan (Batangas)
 2025-12-28T02:26:00.000Z,28 December 2025 - 02:26 AM,15.49,119.81,030,4.8,012km N 60° W of Palauig (Zambales),012,N 60° W,Palauig (Zambales)
 2025-12-28T01:31:00.000Z,28 December 2025 - 01:31 AM,13.69,124.61,016,1.6,026km N 83° E of Baras (Catanduanes),026,N 83° E,Baras (Catanduanes)
 2025-12-28T01:30:00.000Z,28 December 2025 - 01:30 AM,13.96,122.50,002,1.6,005km S 86° W of Tagkawayan (Quezon),005,S 86° W,Tagkawayan (Quezon)
@@ -36,4 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T03:40:00.000Z,27 December 2025 - 03:40 AM,12.64,124.78,074,1.9,014km N 13° E of Mondragon (Northern Samar),014,N 13° E,Mondragon (Northern Samar)
 2025-12-27T03:33:00.000Z,27 December 2025 - 03:33 AM,06.90,126.93,017,2.6,055km S 52° E of Manay (Davao Oriental),055,S 52° E,Manay (Davao Oriental)
 2025-12-27T02:58:00.000Z,27 December 2025 - 02:58 AM,10.91,123.96,005,2.6,015km S 09° W of City Of Bogo (Cebu),015,S 09° W,City Of Bogo (Cebu)
-2025-12-27T02:46:00.000Z,27 December 2025 - 02:46 AM,15.60,121.05,033,1.5,001km S 68° W of General Mamerto Natividad (Nueva Ecija),001,S 68° W,General Mamerto Natividad (Nueva Ecija)
