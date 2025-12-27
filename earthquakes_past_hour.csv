@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T01:31:00.000Z,28 December 2025 - 01:31 AM,13.69,124.61,016,1.6,026km N 83° E of Baras (Catanduanes),026,N 83° E,Baras (Catanduanes)
+2025-12-28T01:30:00.000Z,28 December 2025 - 01:30 AM,13.96,122.50,002,1.6,005km S 86° W of Tagkawayan (Quezon),005,S 86° W,Tagkawayan (Quezon)
 2025-12-28T01:16:00.000Z,28 December 2025 - 01:16 AM,10.69,124.97,009,2.2,008km S 38° W of Abuyog (Leyte),008,S 38° W,Abuyog (Leyte)
-2025-12-28T00:30:00.000Z,28 December 2025 - 12:30 AM,13.82,120.51,071,2.6,013km S 83° W of Calatagan (Batangas),013,S 83° W,Calatagan (Batangas)
