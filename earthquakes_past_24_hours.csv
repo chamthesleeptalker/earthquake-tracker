@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-27T22:20:00.000Z,27 December 2025 - 10:20 PM,18.45,121.23,012,2.1,012km S 82° W of Pamplona (Cagayan),012,S 82° W,Pamplona (Cagayan)
 2025-12-27T20:37:00.000Z,27 December 2025 - 08:37 PM,12.49,123.58,006,2.5,010km N 75° E of Baleno (Masbate),010,N 75° E,Baleno (Masbate)
 2025-12-27T20:34:00.000Z,27 December 2025 - 08:34 PM,15.77,121.91,012,1.9,037km N 87° E of Baler (Aurora),037,N 87° E,Baler (Aurora)
 2025-12-27T20:00:00.000Z,27 December 2025 - 08:00 PM,05.01,126.56,025,3.6,131km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),131,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -31,6 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T01:28:00.000Z,27 December 2025 - 01:28 AM,08.38,127.11,009,2.3,086km N 89° E of Hinatuan (Surigao Del Sur),086,N 89° E,Hinatuan (Surigao Del Sur)
 2025-12-27T01:27:00.000Z,27 December 2025 - 01:27 AM,08.10,122.68,060,1.4,002km S 08° E of Liloy (Zamboanga Del Norte),002,S 08° E,Liloy (Zamboanga Del Norte)
 2025-12-27T01:06:00.000Z,27 December 2025 - 01:06 AM,13.58,120.81,008,1.7,011km S 35° W of Tingloy (Batangas),011,S 35° W,Tingloy (Batangas)
-2025-12-26T21:02:00.000Z,26 December 2025 - 09:02 PM,15.00,122.46,004,1.9,036km N 23° E of Jomalig (Quezon),036,N 23° E,Jomalig (Quezon)
-2025-12-26T20:51:00.000Z,26 December 2025 - 08:51 PM,07.26,126.67,024,1.8,015km N 69° E of Manay (Davao Oriental),015,N 69° E,Manay (Davao Oriental)
-2025-12-26T20:40:00.000Z,26 December 2025 - 08:40 PM,10.11,122.33,021,2.3,040km N 16° W of City Of Sipalay (Negros Occidental),040,N 16° W,City Of Sipalay (Negros Occidental)

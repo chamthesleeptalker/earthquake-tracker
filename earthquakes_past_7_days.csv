@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-27T22:20:00.000Z,27 December 2025 - 10:20 PM,18.45,121.23,012,2.1,012km S 82° W of Pamplona (Cagayan),012,S 82° W,Pamplona (Cagayan)
 2025-12-27T20:37:00.000Z,27 December 2025 - 08:37 PM,12.49,123.58,006,2.5,010km N 75° E of Baleno (Masbate),010,N 75° E,Baleno (Masbate)
 2025-12-27T20:34:00.000Z,27 December 2025 - 08:34 PM,15.77,121.91,012,1.9,037km N 87° E of Baler (Aurora),037,N 87° E,Baler (Aurora)
 2025-12-27T20:00:00.000Z,27 December 2025 - 08:00 PM,05.01,126.56,025,3.6,131km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),131,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -293,5 +294,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-21T00:22:00.000Z,21 December 2025 - 12:22 AM,08.62,122.57,034,2.0,056km N 12° W of Liloy (Zamboanga Del Norte),056,N 12° W,Liloy (Zamboanga Del Norte)
 2025-12-21T00:05:00.000Z,21 December 2025 - 12:05 AM,14.16,120.41,110,1.4,026km N 70° W of Nasugbu (Batangas),026,N 70° W,Nasugbu (Batangas)
 2025-12-20T22:30:00.000Z,20 December 2025 - 10:30 PM,13.71,120.64,100,1.5,014km S 01° E of Calatagan (Batangas),014,S 01° E,Calatagan (Batangas)
-2025-12-20T22:14:00.000Z,20 December 2025 - 10:14 PM,08.64,122.34,033,2.0,067km N 18° W of Labason (Zamboanga Del Norte),067,N 18° W,Labason (Zamboanga Del Norte)
-2025-12-20T22:03:00.000Z,20 December 2025 - 10:03 PM,15.08,121.98,015,2.0,024km N 47° E of Panukulan (Quezon),024,N 47° E,Panukulan (Quezon)
