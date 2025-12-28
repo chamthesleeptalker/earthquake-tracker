@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T19:48:00.000Z,28 December 2025 - 07:48 PM,10.91,123.90,010,3.2,017km S 30° W of City Of Bogo (Cebu),017,S 30° W,City Of Bogo (Cebu)
+2025-12-28T19:45:00.000Z,28 December 2025 - 07:45 PM,07.53,126.74,022,1.9,021km S 76° E of Baganga (Davao Oriental),021,S 76° E,Baganga (Davao Oriental)
 2025-12-28T19:27:00.000Z,28 December 2025 - 07:27 PM,07.38,126.62,009,2.6,021km N 26° E of Manay (Davao Oriental),021,N 26° E,Manay (Davao Oriental)
 2025-12-28T18:30:00.000Z,28 December 2025 - 06:30 PM,08.59,126.54,003,2.1,033km N 41° E of Hinatuan (Surigao Del Sur),033,N 41° E,Hinatuan (Surigao Del Sur)
 2025-12-28T18:06:00.000Z,28 December 2025 - 06:06 PM,10.49,123.22,018,1.5,009km S 01° W of Salvador Benedicto (Negros Occidental),009,S 01° W,Salvador Benedicto (Negros Occidental)
@@ -305,4 +307,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-22T00:02:00.000Z,22 December 2025 - 12:02 AM,06.73,127.62,041,2.5,131km S 66° E of Manay (Davao Oriental),131,S 66° E,Manay (Davao Oriental)
 2025-12-21T23:53:00.000Z,21 December 2025 - 11:53 PM,07.87,122.89,029,2.0,015km S 22° E of Godod (Zamboanga Del Norte),015,S 22° E,Godod (Zamboanga Del Norte)
 2025-12-21T21:05:00.000Z,21 December 2025 - 09:05 PM,09.74,126.11,028,2.1,007km S 51° W of General Luna (Surigao Del Norte),007,S 51° W,General Luna (Surigao Del Norte)
-2025-12-21T19:32:00.000Z,21 December 2025 - 07:32 PM,07.50,126.60,019,2.8,033km N 12° E of Manay (Davao Oriental),033,N 12° E,Manay (Davao Oriental)
