@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T05:38:00.000Z,29 December 2025 - 05:38 AM,05.68,125.49,212,2.8,023km N 05° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 05° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-29T04:56:00.000Z,29 December 2025 - 04:56 AM,05.43,126.21,002,2.7,082km S 50° E of Jose Abad Santos (Davao Occidental),082,S 50° E,Jose Abad Santos (Davao Occidental)
 2025-12-29T04:27:00.000Z,29 December 2025 - 04:27 AM,10.30,125.23,035,2.2,004km N 53° W of Anahawan (Southern Leyte),004,N 53° W,Anahawan (Southern Leyte)
 2025-12-29T03:59:00.000Z,29 December 2025 - 03:59 AM,10.39,126.05,021,2.4,041km N 04° W of Burgos (Surigao Del Norte),041,N 04° W,Burgos (Surigao Del Norte)
@@ -310,7 +311,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-22T07:11:00.000Z,22 December 2025 - 07:11 AM,06.99,126.69,025,3.5,029km S 35° E of Manay (Davao Oriental),029,S 35° E,Manay (Davao Oriental)
 2025-12-22T05:49:00.000Z,22 December 2025 - 05:49 AM,09.91,124.16,015,2.3,007km S 87° E of Sagbayan (Bohol),007,S 87° E,Sagbayan (Bohol)
 2025-12-22T05:42:00.000Z,22 December 2025 - 05:42 AM,06.30,126.79,002,2.3,089km S 64° E of Governor Generoso (Davao Oriental),089,S 64° E,Governor Generoso (Davao Oriental)
-2025-12-22T05:27:00.000Z,22 December 2025 - 05:27 AM,06.01,126.67,023,2.7,097km S 43° E of Governor Generoso (Davao Oriental),097,S 43° E,Governor Generoso (Davao Oriental)
-2025-12-22T05:08:00.000Z,22 December 2025 - 05:08 AM,07.95,126.66,014,2.1,029km S 71° E of Lingig (Surigao Del Sur),029,S 71° E,Lingig (Surigao Del Sur)
-2025-12-22T05:07:00.000Z,22 December 2025 - 05:07 AM,08.41,127.08,009,2.0,082km N 87° E of Hinatuan (Surigao Del Sur),082,N 87° E,Hinatuan (Surigao Del Sur)
-2025-12-22T04:58:00.000Z,22 December 2025 - 04:58 AM,08.45,127.13,003,2.7,087km N 84° E of Hinatuan (Surigao Del Sur),087,N 84° E,Hinatuan (Surigao Del Sur)
