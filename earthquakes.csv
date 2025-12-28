@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T13:31:00.000Z,28 December 2025 - 01:31 PM,07.30,126.73,011,3.1,024km N 65° E of Manay (Davao Oriental),024,N 65° E,Manay (Davao Oriental)
 2025-12-28T12:42:00.000Z,28 December 2025 - 12:42 PM,14.71,120.11,031,1.8,017km N 78° W of Morong (Bataan),017,N 78° W,Morong (Bataan)
 2025-12-28T10:33:00.000Z,28 December 2025 - 10:33 AM,19.69,121.38,002,3.2,049km N 14° W of Calayan (Cagayan),049,N 14° W,Calayan (Cagayan)
 2025-12-28T09:33:00.000Z,28 December 2025 - 09:33 AM,18.36,121.29,019,2.2,008km N 64° W of Luna (Apayao),008,N 64° W,Luna (Apayao)
