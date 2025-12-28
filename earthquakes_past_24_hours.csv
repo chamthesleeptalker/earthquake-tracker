@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T16:32:00.000Z,28 December 2025 - 04:32 PM,07.64,126.59,041,2.3,008km N 23° E of Baganga (Davao Oriental),008,N 23° E,Baganga (Davao Oriental)
+2025-12-28T16:21:00.000Z,28 December 2025 - 04:21 PM,13.59,120.70,083,1.7,016km N 10° W of Abra De Ilog (Occidental Mindoro),016,N 10° W,Abra De Ilog (Occidental Mindoro)
+2025-12-28T16:20:00.000Z,28 December 2025 - 04:20 PM,10.82,124.01,024,1.8,004km S 48° W of Borbon (Cebu),004,S 48° W,Borbon (Cebu)
 2025-12-28T15:59:00.000Z,28 December 2025 - 03:59 PM,15.96,119.33,043,2.5,053km S 71° W of Agno (Pangasinan),053,S 71° W,Agno (Pangasinan)
 2025-12-28T15:19:00.000Z,28 December 2025 - 03:19 PM,10.94,123.80,034,1.5,023km S 60° W of City Of Bogo (Cebu),023,S 60° W,City Of Bogo (Cebu)
 2025-12-28T15:07:00.000Z,28 December 2025 - 03:07 PM,05.47,126.26,097,2.5,085km S 54° E of Jose Abad Santos (Davao Occidental),085,S 54° E,Jose Abad Santos (Davao Occidental)
@@ -44,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T19:28:00.000Z,27 December 2025 - 07:28 PM,09.68,126.14,033,2.1,012km S 11° W of General Luna (Surigao Del Norte),012,S 11° W,General Luna (Surigao Del Norte)
 2025-12-27T18:56:00.000Z,27 December 2025 - 06:56 PM,16.62,119.80,040,2.0,028km N 21° W of Bolinao (Pangasinan),028,N 21° W,Bolinao (Pangasinan)
 2025-12-27T18:35:00.000Z,27 December 2025 - 06:35 PM,09.79,126.10,030,1.3,006km N 80° W of General Luna (Surigao Del Norte),006,N 80° W,General Luna (Surigao Del Norte)
-2025-12-27T16:30:00.000Z,27 December 2025 - 04:30 PM,08.72,126.78,004,2.5,053km S 80° E of Marihatag (Surigao Del Sur),053,S 80° E,Marihatag (Surigao Del Sur)
-2025-12-27T16:08:00.000Z,27 December 2025 - 04:08 PM,08.40,127.10,011,2.8,084km N 88° E of Hinatuan (Surigao Del Sur),084,N 88° E,Hinatuan (Surigao Del Sur)
