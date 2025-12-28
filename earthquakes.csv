@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T23:25:00.000Z,28 December 2025 - 11:25 PM,10.88,123.75,006,1.7,015km N 65° W of Tabuelan (Cebu),015,N 65° W,Tabuelan (Cebu)
+2025-12-28T23:17:00.000Z,28 December 2025 - 11:17 PM,13.44,120.83,035,1.4,012km S 85° E of Abra De Ilog (Occidental Mindoro),012,S 85° E,Abra De Ilog (Occidental Mindoro)
 2025-12-28T21:50:00.000Z,28 December 2025 - 09:50 PM,15.51,121.35,033,1.6,006km N 13° E of Gabaldon (Nueva Ecija),006,N 13° E,Gabaldon (Nueva Ecija)
 2025-12-28T19:48:00.000Z,28 December 2025 - 07:48 PM,10.91,123.90,010,3.2,017km S 30° W of City Of Bogo (Cebu),017,S 30° W,City Of Bogo (Cebu)
 2025-12-28T19:45:00.000Z,28 December 2025 - 07:45 PM,07.53,126.74,022,1.9,021km S 76° E of Baganga (Davao Oriental),021,S 76° E,Baganga (Davao Oriental)
