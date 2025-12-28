@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T02:38:00.000Z,29 December 2025 - 02:38 AM,08.18,126.72,005,2.3,037km N 65° E of Lingig (Surigao Del Sur),037,N 65° E,Lingig (Surigao Del Sur)
 2025-12-29T02:16:00.000Z,29 December 2025 - 02:16 AM,18.38,120.75,026,2.5,015km N 69° E of Pasuquin (Ilocos Norte),015,N 69° E,Pasuquin (Ilocos Norte)
 2025-12-29T02:13:00.000Z,29 December 2025 - 02:13 AM,05.72,125.97,026,2.7,042km S 60° E of Jose Abad Santos (Davao Occidental),042,S 60° E,Jose Abad Santos (Davao Occidental)
 2025-12-29T01:55:00.000Z,29 December 2025 - 01:55 AM,12.05,125.49,029,1.7,002km N 42° E of Dolores (Eastern Samar),002,N 42° E,Dolores (Eastern Samar)
@@ -45,4 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-28T03:18:00.000Z,28 December 2025 - 03:18 AM,16.33,120.29,008,2.3,009km N 82° W of Agoo (La Union),009,N 82° W,Agoo (La Union)
 2025-12-28T03:13:00.000Z,28 December 2025 - 03:13 AM,18.85,120.45,013,2.9,043km N 29° W of Burgos (Ilocos Norte),043,N 29° W,Burgos (Ilocos Norte)
 2025-12-28T02:55:00.000Z,28 December 2025 - 02:55 AM,13.76,120.55,090,1.5,012km S 46° W of Calatagan (Batangas),012,S 46° W,Calatagan (Batangas)
-2025-12-28T02:26:00.000Z,28 December 2025 - 02:26 AM,15.49,119.81,030,4.8,012km N 60° W of Palauig (Zambales),012,N 60° W,Palauig (Zambales)
