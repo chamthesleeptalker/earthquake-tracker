@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T03:59:00.000Z,29 December 2025 - 03:59 AM,10.39,126.05,021,2.4,041km N 04° W of Burgos (Surigao Del Norte),041,N 04° W,Burgos (Surigao Del Norte)
+2025-12-29T03:49:00.000Z,29 December 2025 - 03:49 AM,08.29,125.20,034,1.7,020km N 24° E of City Of  Malaybalay (Bukidnon),020,N 24° E,City Of  Malaybalay (Bukidnon)
+2025-12-29T03:32:00.000Z,29 December 2025 - 03:32 AM,12.83,123.01,010,3.5,026km S 73° W of Claveria (Masbate),026,S 73° W,Claveria (Masbate)
+2025-12-29T03:30:00.000Z,29 December 2025 - 03:30 AM,16.12,119.80,025,1.5,000km N 44° W of Agno (Pangasinan),000,N 44° W,Agno (Pangasinan)
 2025-12-29T03:26:00.000Z,29 December 2025 - 03:26 AM,07.48,124.18,018,2.2,007km S 67° E of Balabagan (Lanao Del Sur),007,S 67° E,Balabagan (Lanao Del Sur)
 2025-12-29T03:21:00.000Z,29 December 2025 - 03:21 AM,10.28,125.33,020,1.7,008km N 83° E of Anahawan (Southern Leyte),008,N 83° E,Anahawan (Southern Leyte)
 2025-12-29T02:56:00.000Z,29 December 2025 - 02:56 AM,10.88,124.19,025,2.0,030km S 52° E of City Of Bogo (Cebu),030,S 52° E,City Of Bogo (Cebu)
@@ -309,5 +313,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-22T05:07:00.000Z,22 December 2025 - 05:07 AM,08.41,127.08,009,2.0,082km N 87° E of Hinatuan (Surigao Del Sur),082,N 87° E,Hinatuan (Surigao Del Sur)
 2025-12-22T04:58:00.000Z,22 December 2025 - 04:58 AM,08.45,127.13,003,2.7,087km N 84° E of Hinatuan (Surigao Del Sur),087,N 84° E,Hinatuan (Surigao Del Sur)
 2025-12-22T04:29:00.000Z,22 December 2025 - 04:29 AM,09.08,122.67,025,2.5,035km S 37° W of Santa Catalina (Negros Oriental),035,S 37° W,Santa Catalina (Negros Oriental)
-2025-12-22T03:53:00.000Z,22 December 2025 - 03:53 AM,09.66,126.38,012,2.2,028km S 60° E of General Luna (Surigao Del Norte),028,S 60° E,General Luna (Surigao Del Norte)
-2025-12-22T03:38:00.000Z,22 December 2025 - 03:38 AM,08.35,127.03,005,2.6,076km S 89° E of Hinatuan (Surigao Del Sur),076,S 89° E,Hinatuan (Surigao Del Sur)

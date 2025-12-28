@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T03:59:00.000Z,29 December 2025 - 03:59 AM,10.39,126.05,021,2.4,041km N 04° W of Burgos (Surigao Del Norte),041,N 04° W,Burgos (Surigao Del Norte)
+2025-12-29T03:49:00.000Z,29 December 2025 - 03:49 AM,08.29,125.20,034,1.7,020km N 24° E of City Of  Malaybalay (Bukidnon),020,N 24° E,City Of  Malaybalay (Bukidnon)
+2025-12-29T03:32:00.000Z,29 December 2025 - 03:32 AM,12.83,123.01,010,3.5,026km S 73° W of Claveria (Masbate),026,S 73° W,Claveria (Masbate)
+2025-12-29T03:30:00.000Z,29 December 2025 - 03:30 AM,16.12,119.80,025,1.5,000km N 44° W of Agno (Pangasinan),000,N 44° W,Agno (Pangasinan)
 2025-12-29T03:26:00.000Z,29 December 2025 - 03:26 AM,07.48,124.18,018,2.2,007km S 67° E of Balabagan (Lanao Del Sur),007,S 67° E,Balabagan (Lanao Del Sur)
 2025-12-29T03:21:00.000Z,29 December 2025 - 03:21 AM,10.28,125.33,020,1.7,008km N 83° E of Anahawan (Southern Leyte),008,N 83° E,Anahawan (Southern Leyte)
 2025-12-29T02:56:00.000Z,29 December 2025 - 02:56 AM,10.88,124.19,025,2.0,030km S 52° E of City Of Bogo (Cebu),030,S 52° E,City Of Bogo (Cebu)
@@ -44,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-28T04:52:00.000Z,28 December 2025 - 04:52 AM,17.30,120.33,036,1.5,012km S 76° W of San Esteban (Ilocos Sur),012,S 76° W,San Esteban (Ilocos Sur)
 2025-12-28T04:17:00.000Z,28 December 2025 - 04:17 AM,06.08,124.61,010,1.5,010km N 07° W of Kiamba (Sarangani),010,N 07° W,Kiamba (Sarangani)
 2025-12-28T04:00:00.000Z,28 December 2025 - 04:00 AM,11.02,123.88,032,1.9,012km S 74° W of City Of Bogo (Cebu),012,S 74° W,City Of Bogo (Cebu)
-2025-12-28T03:53:00.000Z,28 December 2025 - 03:53 AM,08.08,124.54,006,1.6,014km N 89° E of Tagoloan Ii (Lanao Del Sur),014,N 89° E,Tagoloan Ii (Lanao Del Sur)
-2025-12-28T03:39:00.000Z,28 December 2025 - 03:39 AM,11.30,121.33,034,1.9,045km N 68° E of Agutaya (Palawan),045,N 68° E,Agutaya (Palawan)
-2025-12-28T03:34:00.000Z,28 December 2025 - 03:34 AM,17.73,120.49,030,1.7,004km S 62° E of San Juan (Ilocos Sur),004,S 62° E,San Juan (Ilocos Sur)
