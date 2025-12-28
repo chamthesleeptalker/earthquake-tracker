@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-28T21:50:00.000Z,28 December 2025 - 09:50 PM,15.51,121.35,033,1.6,006km N 13° E of Gabaldon (Nueva Ecija),006,N 13° E,Gabaldon (Nueva Ecija)
 2025-12-28T19:48:00.000Z,28 December 2025 - 07:48 PM,10.91,123.90,010,3.2,017km S 30° W of City Of Bogo (Cebu),017,S 30° W,City Of Bogo (Cebu)
 2025-12-28T19:45:00.000Z,28 December 2025 - 07:45 PM,07.53,126.74,022,1.9,021km S 76° E of Baganga (Davao Oriental),021,S 76° E,Baganga (Davao Oriental)
 2025-12-28T19:27:00.000Z,28 December 2025 - 07:27 PM,07.38,126.62,009,2.6,021km N 26° E of Manay (Davao Oriental),021,N 26° E,Manay (Davao Oriental)
