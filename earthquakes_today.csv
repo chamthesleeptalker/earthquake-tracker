@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T02:16:00.000Z,29 December 2025 - 02:16 AM,18.38,120.75,026,2.5,015km N 69° E of Pasuquin (Ilocos Norte),015,N 69° E,Pasuquin (Ilocos Norte)
+2025-12-29T02:13:00.000Z,29 December 2025 - 02:13 AM,05.72,125.97,026,2.7,042km S 60° E of Jose Abad Santos (Davao Occidental),042,S 60° E,Jose Abad Santos (Davao Occidental)
+2025-12-29T01:55:00.000Z,29 December 2025 - 01:55 AM,12.05,125.49,029,1.7,002km N 42° E of Dolores (Eastern Samar),002,N 42° E,Dolores (Eastern Samar)
 2025-12-29T00:29:00.000Z,29 December 2025 - 12:29 AM,10.91,123.83,034,2.0,022km S 46° W of City Of Bogo (Cebu),022,S 46° W,City Of Bogo (Cebu)
 2025-12-29T00:28:00.000Z,29 December 2025 - 12:28 AM,15.95,119.54,029,1.9,034km S 57° W of Agno (Pangasinan),034,S 57° W,Agno (Pangasinan)
