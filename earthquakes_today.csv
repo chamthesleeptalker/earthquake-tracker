@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T05:10:00.000Z,30 December 2025 - 05:10 AM,07.01,125.72,033,1.8,008km S 10° E of Island Garden City Of Samal (Davao Del Norte),008,S 10° E,Island Garden City Of Samal (Davao Del Norte)
+2025-12-30T04:47:00.000Z,30 December 2025 - 04:47 AM,11.10,123.95,009,1.9,006km N 32° W of City Of Bogo (Cebu),006,N 32° W,City Of Bogo (Cebu)
+2025-12-30T04:37:00.000Z,30 December 2025 - 04:37 AM,14.09,120.43,087,2.2,022km N 86° W of Nasugbu (Batangas),022,N 86° W,Nasugbu (Batangas)
+2025-12-30T04:37:00.000Z,30 December 2025 - 04:37 AM,08.77,126.50,034,2.4,022km S 81° E of Marihatag (Surigao Del Sur),022,S 81° E,Marihatag (Surigao Del Sur)
 2025-12-30T04:02:00.000Z,30 December 2025 - 04:02 AM,10.92,124.00,003,2.2,014km S 11° E of City Of Bogo (Cebu),014,S 11° E,City Of Bogo (Cebu)
 2025-12-30T03:45:00.000Z,30 December 2025 - 03:45 AM,15.89,119.74,028,2.3,019km S 54° W of Dasol (Pangasinan),019,S 54° W,Dasol (Pangasinan)
 2025-12-30T03:40:00.000Z,30 December 2025 - 03:40 AM,06.43,126.93,097,2.5,087km S 38° E of Tarragona (Davao Oriental),087,S 38° E,Tarragona (Davao Oriental)
