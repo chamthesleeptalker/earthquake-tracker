@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T01:00:00.000Z,30 December 2025 - 01:00 AM,12.84,122.98,009,1.5,029km S 77° W of Claveria (Masbate),029,S 77° W,Claveria (Masbate)
+2025-12-30T00:53:00.000Z,30 December 2025 - 12:53 AM,10.29,125.37,007,1.7,013km N 82° E of Anahawan (Southern Leyte),013,N 82° E,Anahawan (Southern Leyte)
+2025-12-30T00:51:00.000Z,30 December 2025 - 12:51 AM,11.07,124.06,007,1.7,010km N 75° E of City Of Bogo (Cebu),010,N 75° E,City Of Bogo (Cebu)
+2025-12-30T00:48:00.000Z,30 December 2025 - 12:48 AM,12.98,121.29,033,1.5,015km S 56° W of Socorro (Oriental Mindoro),015,S 56° W,Socorro (Oriental Mindoro)
+2025-12-30T00:43:00.000Z,30 December 2025 - 12:43 AM,04.88,126.26,102,3.4,110km S 58° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),110,S 58° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-30T00:29:00.000Z,30 December 2025 - 12:29 AM,11.23,123.83,030,1.6,026km N 38° W of City Of Bogo (Cebu),026,N 38° W,City Of Bogo (Cebu)
 2025-12-29T23:52:00.000Z,29 December 2025 - 11:52 PM,06.15,124.14,010,4.3,008km S 38° W of Palimbang (Sultan Kudarat),008,S 38° W,Palimbang (Sultan Kudarat)
 2025-12-29T23:41:00.000Z,29 December 2025 - 11:41 PM,12.32,125.04,027,1.9,002km S 27° E of Las Navas (Northern Samar),002,S 27° E,Las Navas (Northern Samar)
