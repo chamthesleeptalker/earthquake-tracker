@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T22:00:00.000Z,29 December 2025 - 10:00 PM,10.28,125.26,028,1.7,001km N 60° E of Anahawan (Southern Leyte),001,N 60° E,Anahawan (Southern Leyte)
+2025-12-29T21:41:00.000Z,29 December 2025 - 09:41 PM,12.77,123.04,006,2.4,027km S 58° W of Claveria (Masbate),027,S 58° W,Claveria (Masbate)
 2025-12-29T20:34:00.000Z,29 December 2025 - 08:34 PM,05.50,127.03,007,3.8,160km S 73° E of Jose Abad Santos (Davao Occidental),160,S 73° E,Jose Abad Santos (Davao Occidental)
 2025-12-29T19:32:00.000Z,29 December 2025 - 07:32 PM,05.98,126.30,031,2.6,071km S 71° E of Don Marcelino (Davao Occidental),071,S 71° E,Don Marcelino (Davao Occidental)
 2025-12-29T17:40:00.000Z,29 December 2025 - 05:40 PM,08.75,126.39,030,1.5,011km S 61° E of Marihatag (Surigao Del Sur),011,S 61° E,Marihatag (Surigao Del Sur)
@@ -36,4 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-28T23:47:00.000Z,28 December 2025 - 11:47 PM,12.92,123.05,008,2.3,022km N 85° W of Claveria (Masbate),022,N 85° W,Claveria (Masbate)
 2025-12-28T23:25:00.000Z,28 December 2025 - 11:25 PM,10.88,123.75,006,1.7,015km N 65° W of Tabuelan (Cebu),015,N 65° W,Tabuelan (Cebu)
 2025-12-28T23:17:00.000Z,28 December 2025 - 11:17 PM,13.44,120.83,035,1.4,012km S 85° E of Abra De Ilog (Occidental Mindoro),012,S 85° E,Abra De Ilog (Occidental Mindoro)
-2025-12-28T21:50:00.000Z,28 December 2025 - 09:50 PM,15.51,121.35,033,1.6,006km N 13° E of Gabaldon (Nueva Ecija),006,N 13° E,Gabaldon (Nueva Ecija)
