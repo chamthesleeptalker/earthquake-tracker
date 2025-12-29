@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T23:32:00.000Z,29 December 2025 - 11:32 PM,06.79,126.99,007,2.5,068km S 47° E of Manay (Davao Oriental),068,S 47° E,Manay (Davao Oriental)
+2025-12-29T23:30:00.000Z,29 December 2025 - 11:30 PM,15.61,119.82,026,2.9,012km S 80° W of Candelaria (Zambales),012,S 80° W,Candelaria (Zambales)
 2025-12-29T22:00:00.000Z,29 December 2025 - 10:00 PM,10.28,125.26,028,1.7,001km N 60° E of Anahawan (Southern Leyte),001,N 60° E,Anahawan (Southern Leyte)
 2025-12-29T21:41:00.000Z,29 December 2025 - 09:41 PM,12.77,123.04,006,2.4,027km S 58° W of Claveria (Masbate),027,S 58° W,Claveria (Masbate)
 2025-12-29T20:34:00.000Z,29 December 2025 - 08:34 PM,05.50,127.03,007,3.8,160km S 73° E of Jose Abad Santos (Davao Occidental),160,S 73° E,Jose Abad Santos (Davao Occidental)
@@ -308,6 +310,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T00:41:00.000Z,23 December 2025 - 12:41 AM,07.35,126.78,025,2.2,031km N 60° E of Manay (Davao Oriental),031,N 60° E,Manay (Davao Oriental)
 2025-12-23T00:04:00.000Z,23 December 2025 - 12:04 AM,06.15,124.88,012,2.6,009km S 43° E of T'boli (South Cotabato),009,S 43° E,T'boli (South Cotabato)
 2025-12-22T23:42:00.000Z,22 December 2025 - 11:42 PM,09.30,123.11,010,4.0,014km N 81° W of Valencia (Negros Oriental),014,N 81° W,Valencia (Negros Oriental)
-2025-12-22T23:19:00.000Z,22 December 2025 - 11:19 PM,13.93,120.56,065,1.7,013km N 36° W of Calatagan (Batangas),013,N 36° W,Calatagan (Batangas)
-2025-12-22T22:40:00.000Z,22 December 2025 - 10:40 PM,08.44,127.11,009,2.2,085km N 85° E of Hinatuan (Surigao Del Sur),085,N 85° E,Hinatuan (Surigao Del Sur)
-2025-12-22T22:34:00.000Z,22 December 2025 - 10:34 PM,11.01,124.02,001,2.1,006km S 47° E of City Of Bogo (Cebu),006,S 47° E,City Of Bogo (Cebu)

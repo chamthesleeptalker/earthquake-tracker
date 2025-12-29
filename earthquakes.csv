@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T23:32:00.000Z,29 December 2025 - 11:32 PM,06.79,126.99,007,2.5,068km S 47° E of Manay (Davao Oriental),068,S 47° E,Manay (Davao Oriental)
+2025-12-29T23:30:00.000Z,29 December 2025 - 11:30 PM,15.61,119.82,026,2.9,012km S 80° W of Candelaria (Zambales),012,S 80° W,Candelaria (Zambales)
 2025-12-29T22:00:00.000Z,29 December 2025 - 10:00 PM,10.28,125.26,028,1.7,001km N 60° E of Anahawan (Southern Leyte),001,N 60° E,Anahawan (Southern Leyte)
 2025-12-29T21:41:00.000Z,29 December 2025 - 09:41 PM,12.77,123.04,006,2.4,027km S 58° W of Claveria (Masbate),027,S 58° W,Claveria (Masbate)
 2025-12-29T20:34:00.000Z,29 December 2025 - 08:34 PM,05.50,127.03,007,3.8,160km S 73° E of Jose Abad Santos (Davao Occidental),160,S 73° E,Jose Abad Santos (Davao Occidental)
