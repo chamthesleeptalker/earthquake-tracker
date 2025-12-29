@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T02:35:00.000Z,30 December 2025 - 02:35 AM,15.86,119.96,035,1.5,007km N 56° E of Infanta (Pangasinan),007,N 56° E,Infanta (Pangasinan)
 2025-12-30T02:05:00.000Z,30 December 2025 - 02:05 AM,05.28,127.15,015,3.5,180km S 67° E of Jose Abad Santos (Davao Occidental),180,S 67° E,Jose Abad Santos (Davao Occidental)
 2025-12-30T01:54:00.000Z,30 December 2025 - 01:54 AM,09.24,126.63,011,2.9,048km N 52° E of Bayabas (Surigao Del Sur),048,N 52° E,Bayabas (Surigao Del Sur)
 2025-12-30T01:35:00.000Z,30 December 2025 - 01:35 AM,09.70,126.25,020,2.3,014km S 48° E of General Luna (Surigao Del Norte),014,S 48° E,General Luna (Surigao Del Norte)

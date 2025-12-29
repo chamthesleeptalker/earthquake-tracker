@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T02:35:00.000Z,30 December 2025 - 02:35 AM,15.86,119.96,035,1.5,007km N 56° E of Infanta (Pangasinan),007,N 56° E,Infanta (Pangasinan)
 2025-12-30T02:05:00.000Z,30 December 2025 - 02:05 AM,05.28,127.15,015,3.5,180km S 67° E of Jose Abad Santos (Davao Occidental),180,S 67° E,Jose Abad Santos (Davao Occidental)
 2025-12-30T01:54:00.000Z,30 December 2025 - 01:54 AM,09.24,126.63,011,2.9,048km N 52° E of Bayabas (Surigao Del Sur),048,N 52° E,Bayabas (Surigao Del Sur)
 2025-12-30T01:35:00.000Z,30 December 2025 - 01:35 AM,09.70,126.25,020,2.3,014km S 48° E of General Luna (Surigao Del Norte),014,S 48° E,General Luna (Surigao Del Norte)
@@ -48,5 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-29T02:51:00.000Z,29 December 2025 - 02:51 AM,10.31,125.23,031,1.7,005km N 33° W of Anahawan (Southern Leyte),005,N 33° W,Anahawan (Southern Leyte)
 2025-12-29T02:47:00.000Z,29 December 2025 - 02:47 AM,10.27,125.26,010,4.0,000km S 23° E of Anahawan (Southern Leyte),000,S 23° E,Anahawan (Southern Leyte)
 2025-12-29T02:38:00.000Z,29 December 2025 - 02:38 AM,08.18,126.72,005,2.3,037km N 65° E of Lingig (Surigao Del Sur),037,N 65° E,Lingig (Surigao Del Sur)
-2025-12-29T02:16:00.000Z,29 December 2025 - 02:16 AM,18.38,120.75,026,2.5,015km N 69° E of Pasuquin (Ilocos Norte),015,N 69° E,Pasuquin (Ilocos Norte)
-2025-12-29T02:13:00.000Z,29 December 2025 - 02:13 AM,05.72,125.97,026,2.7,042km S 60° E of Jose Abad Santos (Davao Occidental),042,S 60° E,Jose Abad Santos (Davao Occidental)
