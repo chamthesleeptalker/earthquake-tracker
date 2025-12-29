@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T12:57:00.000Z,29 December 2025 - 12:57 PM,19.46,122.04,018,3.4,015km S 68° E of Babuyan Island (Calayan) (Cagayan),015,S 68° E,Babuyan Island (Calayan) (Cagayan)
+2025-12-29T12:43:00.000Z,29 December 2025 - 12:43 PM,13.81,120.57,059,1.6,008km S 69° W of Calatagan (Batangas),008,S 69° W,Calatagan (Batangas)
+2025-12-28T13:30:00.000Z,28 December 2025 - 01:30 PM,07.18,126.96,018,3.0,047km S 86° E of Manay (Davao Oriental),047,S 86° E,Manay (Davao Oriental)
 2025-12-29T11:38:00.000Z,29 December 2025 - 11:38 AM,10.13,124.92,028,2.0,008km N 89° E of City Of Maasin  (Southern Leyte),008,N 89° E,City Of Maasin  (Southern Leyte)
 2025-12-29T11:14:00.000Z,29 December 2025 - 11:14 AM,08.11,126.56,030,2.2,019km N 65° E of Lingig (Surigao Del Sur),019,N 65° E,Lingig (Surigao Del Sur)
 2025-12-29T10:42:00.000Z,29 December 2025 - 10:42 AM,08.35,126.44,051,3.8,012km S 79° E of Hinatuan (Surigao Del Sur),012,S 79° E,Hinatuan (Surigao Del Sur)
@@ -286,7 +289,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T12:23:00.000Z,23 December 2025 - 12:23 PM,12.88,124.15,022,2.0,002km N 10° E of Barcelona (Sorsogon),002,N 10° E,Barcelona (Sorsogon)
 2025-12-23T12:05:00.000Z,23 December 2025 - 12:05 PM,10.88,123.97,010,3.0,018km S 3° W of City Of Bogo (Cebu),018,S 3° W,City Of Bogo (Cebu)
 2025-12-23T11:36:00.000Z,23 December 2025 - 11:36 AM,08.58,125.85,008,2.3,007km S 70° W of Prosperidad (Agusan Del Sur),007,S 70° W,Prosperidad (Agusan Del Sur)
-2025-12-22T12:11:00.000Z,22 December 2025 - 12:11 PM,11.10,123.88,029,2.0,012km N 61° W of City Of Bogo (Cebu),012,N 61° W,City Of Bogo (Cebu)
 2025-12-23T09:02:00.000Z,23 December 2025 - 09:02 AM,07.19,126.79,027,2.8,028km S 85° E of Manay (Davao Oriental),028,S 85° E,Manay (Davao Oriental)
 2025-12-23T08:52:00.000Z,23 December 2025 - 08:52 AM,08.67,126.49,024,3.4,025km S 55° E of Marihatag (Surigao Del Sur),025,S 55° E,Marihatag (Surigao Del Sur)
 2025-12-23T07:44:00.000Z,23 December 2025 - 07:44 AM,05.84,125.97,138,3.0,037km S 78° E of Jose Abad Santos (Davao Occidental),037,S 78° E,Jose Abad Santos (Davao Occidental)
@@ -308,7 +310,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-22T15:25:00.000Z,22 December 2025 - 03:25 PM,16.25,119.80,010,3.6,009km N 43° W of Bani (Pangasinan),009,N 43° W,Bani (Pangasinan)
 2025-12-22T15:11:00.000Z,22 December 2025 - 03:11 PM,09.67,126.13,034,1.5,012km S 13° W of General Luna (Surigao Del Norte),012,S 13° W,General Luna (Surigao Del Norte)
 2025-12-22T14:59:00.000Z,22 December 2025 - 02:59 PM,16.59,120.27,023,2.1,006km S 58° W of City Of San Fernando (La Union),006,S 58° W,City Of San Fernando (La Union)
-2025-12-22T12:47:00.000Z,22 December 2025 - 12:47 PM,09.53,124.02,008,2.9,008km S 10° E of Loay (Bohol),008,S 10° E,Loay (Bohol)
-2025-12-22T12:15:00.000Z,22 December 2025 - 12:15 PM,18.51,122.40,073,2.9,028km N 77° E of Santa Ana (Cagayan),028,N 77° E,Santa Ana (Cagayan)
-2025-12-22T12:10:00.000Z,22 December 2025 - 12:10 PM,11.12,124.03,024,2.0,010km N 36° E of City Of Bogo (Cebu),010,N 36° E,City Of Bogo (Cebu)
-2025-12-22T12:08:00.000Z,22 December 2025 - 12:08 PM,11.13,124.06,006,3.3,013km N 45° E of City Of Bogo (Cebu),013,N 45° E,City Of Bogo (Cebu)

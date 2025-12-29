@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-29T12:57:00.000Z,29 December 2025 - 12:57 PM,19.46,122.04,018,3.4,015km S 68° E of Babuyan Island (Calayan) (Cagayan),015,S 68° E,Babuyan Island (Calayan) (Cagayan)
+2025-12-29T12:43:00.000Z,29 December 2025 - 12:43 PM,13.81,120.57,059,1.6,008km S 69° W of Calatagan (Batangas),008,S 69° W,Calatagan (Batangas)
+2025-12-28T13:30:00.000Z,28 December 2025 - 01:30 PM,07.18,126.96,018,3.0,047km S 86° E of Manay (Davao Oriental),047,S 86° E,Manay (Davao Oriental)
 2025-12-29T11:38:00.000Z,29 December 2025 - 11:38 AM,10.13,124.92,028,2.0,008km N 89° E of City Of Maasin  (Southern Leyte),008,N 89° E,City Of Maasin  (Southern Leyte)
 2025-12-29T11:14:00.000Z,29 December 2025 - 11:14 AM,08.11,126.56,030,2.2,019km N 65° E of Lingig (Surigao Del Sur),019,N 65° E,Lingig (Surigao Del Sur)
 2025-12-29T10:42:00.000Z,29 December 2025 - 10:42 AM,08.35,126.44,051,3.8,012km S 79° E of Hinatuan (Surigao Del Sur),012,S 79° E,Hinatuan (Surigao Del Sur)
