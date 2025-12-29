@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T06:31:00.000Z,30 December 2025 - 06:31 AM,05.73,125.27,012,2.5,013km S 38° E of Glan (Sarangani),013,S 38° E,Glan (Sarangani)
+2025-12-30T06:12:00.000Z,30 December 2025 - 06:12 AM,14.94,122.63,016,1.7,042km N 50° E of Jomalig (Quezon),042,N 50° E,Jomalig (Quezon)
 2025-12-30T06:04:00.000Z,30 December 2025 - 06:04 AM,13.13,124.55,026,2.0,040km N 75° E of Prieto Diaz (Sorsogon),040,N 75° E,Prieto Diaz (Sorsogon)
 2025-12-30T05:52:00.000Z,30 December 2025 - 05:52 AM,19.11,121.78,003,2.3,024km N 23° W of Camiguin Island (Calayan) (Cagayan),024,N 23° W,Camiguin Island (Calayan) (Cagayan)
 2025-12-30T05:30:00.000Z,30 December 2025 - 05:30 AM,17.62,120.53,003,1.9,006km N 33° W of Langiden (Abra),006,N 33° W,Langiden (Abra)
