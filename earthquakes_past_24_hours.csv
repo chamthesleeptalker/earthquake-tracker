@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T00:29:00.000Z,30 December 2025 - 12:29 AM,11.23,123.83,030,1.6,026km N 38° W of City Of Bogo (Cebu),026,N 38° W,City Of Bogo (Cebu)
 2025-12-29T23:52:00.000Z,29 December 2025 - 11:52 PM,06.15,124.14,010,4.3,008km S 38° W of Palimbang (Sultan Kudarat),008,S 38° W,Palimbang (Sultan Kudarat)
 2025-12-29T23:41:00.000Z,29 December 2025 - 11:41 PM,12.32,125.04,027,1.9,002km S 27° E of Las Navas (Northern Samar),002,S 27° E,Las Navas (Northern Samar)
 2025-12-29T23:39:00.000Z,29 December 2025 - 11:39 PM,05.69,126.51,020,3.4,099km S 75° E of Jose Abad Santos (Davao Occidental),099,S 75° E,Jose Abad Santos (Davao Occidental)
@@ -39,4 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-29T02:13:00.000Z,29 December 2025 - 02:13 AM,05.72,125.97,026,2.7,042km S 60° E of Jose Abad Santos (Davao Occidental),042,S 60° E,Jose Abad Santos (Davao Occidental)
 2025-12-29T01:55:00.000Z,29 December 2025 - 01:55 AM,12.05,125.49,029,1.7,002km N 42° E of Dolores (Eastern Samar),002,N 42° E,Dolores (Eastern Samar)
 2025-12-29T00:29:00.000Z,29 December 2025 - 12:29 AM,10.91,123.83,034,2.0,022km S 46° W of City Of Bogo (Cebu),022,S 46° W,City Of Bogo (Cebu)
-2025-12-29T00:28:00.000Z,29 December 2025 - 12:28 AM,15.95,119.54,029,1.9,034km S 57° W of Agno (Pangasinan),034,S 57° W,Agno (Pangasinan)

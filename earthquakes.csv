@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T00:29:00.000Z,30 December 2025 - 12:29 AM,11.23,123.83,030,1.6,026km N 38° W of City Of Bogo (Cebu),026,N 38° W,City Of Bogo (Cebu)
 2025-12-29T23:52:00.000Z,29 December 2025 - 11:52 PM,06.15,124.14,010,4.3,008km S 38° W of Palimbang (Sultan Kudarat),008,S 38° W,Palimbang (Sultan Kudarat)
 2025-12-29T23:41:00.000Z,29 December 2025 - 11:41 PM,12.32,125.04,027,1.9,002km S 27° E of Las Navas (Northern Samar),002,S 27° E,Las Navas (Northern Samar)
 2025-12-29T23:39:00.000Z,29 December 2025 - 11:39 PM,05.69,126.51,020,3.4,099km S 75° E of Jose Abad Santos (Davao Occidental),099,S 75° E,Jose Abad Santos (Davao Occidental)
