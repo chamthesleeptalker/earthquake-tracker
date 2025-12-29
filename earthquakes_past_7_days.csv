@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T05:30:00.000Z,30 December 2025 - 05:30 AM,17.62,120.53,003,1.9,006km N 33° W of Langiden (Abra),006,N 33° W,Langiden (Abra)
 2025-12-30T05:10:00.000Z,30 December 2025 - 05:10 AM,07.01,125.72,033,1.8,008km S 10° E of Island Garden City Of Samal (Davao Del Norte),008,S 10° E,Island Garden City Of Samal (Davao Del Norte)
 2025-12-30T04:47:00.000Z,30 December 2025 - 04:47 AM,11.10,123.95,009,1.9,006km N 32° W of City Of Bogo (Cebu),006,N 32° W,City Of Bogo (Cebu)
 2025-12-30T04:37:00.000Z,30 December 2025 - 04:37 AM,14.09,120.43,087,2.2,022km N 86° W of Nasugbu (Batangas),022,N 86° W,Nasugbu (Batangas)
@@ -329,5 +330,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T08:52:00.000Z,23 December 2025 - 08:52 AM,08.67,126.49,024,3.4,025km S 55° E of Marihatag (Surigao Del Sur),025,S 55° E,Marihatag (Surigao Del Sur)
 2025-12-23T07:44:00.000Z,23 December 2025 - 07:44 AM,05.84,125.97,138,3.0,037km S 78° E of Jose Abad Santos (Davao Occidental),037,S 78° E,Jose Abad Santos (Davao Occidental)
 2025-12-23T05:53:00.000Z,23 December 2025 - 05:53 AM,08.53,126.66,020,2.8,040km N 63° E of Hinatuan (Surigao Del Sur),040,N 63° E,Hinatuan (Surigao Del Sur)
-2025-12-23T05:25:00.000Z,23 December 2025 - 05:25 AM,13.50,119.93,030,1.7,042km S 56° W of Looc (Occidental Mindoro),042,S 56° W,Looc (Occidental Mindoro)
-2025-12-23T05:19:00.000Z,23 December 2025 - 05:19 AM,13.53,120.12,027,1.6,025km S 35° W of Looc (Occidental Mindoro),025,S 35° W,Looc (Occidental Mindoro)
