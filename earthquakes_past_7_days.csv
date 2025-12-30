@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T19:10:00.000Z,30 December 2025 - 07:10 PM,11.96,122.29,010,4.2,020km N 9° E of Tangalan (Aklan),020,N 9° E,Tangalan (Aklan)
+2025-12-30T19:02:00.000Z,30 December 2025 - 07:02 PM,09.69,126.24,028,1.4,014km S 40° E of General Luna (Surigao Del Norte),014,S 40° E,General Luna (Surigao Del Norte)
 2025-12-30T17:58:00.000Z,30 December 2025 - 05:58 PM,17.84,120.54,031,2.2,010km S 73° E of Sinait (Ilocos Sur),010,S 73° E,Sinait (Ilocos Sur)
 2025-12-30T16:49:00.000Z,30 December 2025 - 04:49 PM,10.00,126.10,032,2.3,003km S 42° E of Burgos (Surigao Del Norte),003,S 42° E,Burgos (Surigao Del Norte)
 2025-12-30T15:27:00.000Z,30 December 2025 - 03:27 PM,06.40,126.75,014,3.6,079km S 25° E of Tarragona (Davao Oriental),079,S 25° E,Tarragona (Davao Oriental)
