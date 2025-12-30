@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T09:13:00.000Z,30 December 2025 - 09:13 AM,09.79,125.50,023,1.7,000km N 45° E of City Of Surigao (Surigao Del Norte),000,N 45° E,City Of Surigao (Surigao Del Norte)
+2025-12-30T08:02:00.000Z,30 December 2025 - 08:02 AM,07.43,127.21,025,2.6,072km N 81° E of Caraga (Davao Oriental),072,N 81° E,Caraga (Davao Oriental)
+2025-12-30T07:50:00.000Z,30 December 2025 - 07:50 AM,09.65,126.34,021,1.9,025km S 54° E of General Luna (Surigao Del Norte),025,S 54° E,General Luna (Surigao Del Norte)
+2025-12-30T07:38:00.000Z,30 December 2025 - 07:38 AM,16.42,120.88,033,1.5,007km N 01° W of Kayapa (Nueva Vizcaya),007,N 01° W,Kayapa (Nueva Vizcaya)
 2025-12-30T06:31:00.000Z,30 December 2025 - 06:31 AM,05.73,125.27,012,2.5,013km S 38° E of Glan (Sarangani),013,S 38° E,Glan (Sarangani)
 2025-12-30T06:12:00.000Z,30 December 2025 - 06:12 AM,14.94,122.63,016,1.7,042km N 50° E of Jomalig (Quezon),042,N 50° E,Jomalig (Quezon)
 2025-12-30T06:04:00.000Z,30 December 2025 - 06:04 AM,13.13,124.55,026,2.0,040km N 75° E of Prieto Diaz (Sorsogon),040,N 75° E,Prieto Diaz (Sorsogon)
