@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T03:04:00.000Z,31 December 2025 - 03:04 AM,13.13,124.27,032,1.7,013km N 39° E of Prieto Diaz (Sorsogon),013,N 39° E,Prieto Diaz (Sorsogon)
 2025-12-31T02:07:00.000Z,31 December 2025 - 02:07 AM,09.66,126.12,032,1.7,014km S 17° W of General Luna (Surigao Del Norte),014,S 17° W,General Luna (Surigao Del Norte)
 2025-12-31T01:37:00.000Z,31 December 2025 - 01:37 AM,05.90,126.93,015,2.6,126km S 49° E of Governor Generoso (Davao Oriental),126,S 49° E,Governor Generoso (Davao Oriental)
 2025-12-31T01:18:00.000Z,31 December 2025 - 01:18 AM,08.38,127.38,033,2.6,113km N 70° E of Lingig (Surigao Del Sur),113,N 70° E,Lingig (Surigao Del Sur)
