@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T02:07:00.000Z,31 December 2025 - 02:07 AM,09.66,126.12,032,1.7,014km S 17° W of General Luna (Surigao Del Norte),014,S 17° W,General Luna (Surigao Del Norte)
+2025-12-31T01:37:00.000Z,31 December 2025 - 01:37 AM,05.90,126.93,015,2.6,126km S 49° E of Governor Generoso (Davao Oriental),126,S 49° E,Governor Generoso (Davao Oriental)
 2025-12-31T01:18:00.000Z,31 December 2025 - 01:18 AM,08.38,127.38,033,2.6,113km N 70° E of Lingig (Surigao Del Sur),113,N 70° E,Lingig (Surigao Del Sur)
 2025-12-31T00:45:00.000Z,31 December 2025 - 12:45 AM,05.98,127.16,038,4.0,141km S 58° E of Governor Generoso (Davao Oriental),141,S 58° E,Governor Generoso (Davao Oriental)
 2025-12-31T00:57:00.000Z,31 December 2025 - 12:57 AM,09.40,126.76,006,2.5,064km N 78° E of Cortes (Surigao Del Sur),064,N 78° E,Cortes (Surigao Del Sur)
@@ -349,6 +351,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T04:24:00.000Z,24 December 2025 - 04:24 AM,13.69,123.16,008,2.2,004km West of Bombon (Camarines Sur),004,West of Bombon,Sur)
 2025-12-24T04:00:00.000Z,24 December 2025 - 04:00 AM,13.70,123.24,033,2.4,003km S 78° E of Calabanga (Camarines Sur),003,S 78° E,Calabanga (Camarines Sur)
 2025-12-24T03:27:00.000Z,24 December 2025 - 03:27 AM,12.15,122.46,007,2.9,022km S 42° W of San Fernando (Romblon),022,S 42° W,San Fernando (Romblon)
-2025-12-24T02:02:00.000Z,24 December 2025 - 02:02 AM,15.10,122.02,015,2.4,029km N 12° E of Burdeos (Quezon),029,N 12° E,Burdeos (Quezon)
-2025-12-24T01:45:00.000Z,24 December 2025 - 01:45 AM,10.35,124.83,025,1.7,005km N 53° E of Bato (Leyte),005,N 53° E,Bato (Leyte)
-2025-12-24T01:33:00.000Z,24 December 2025 - 01:33 AM,08.45,126.90,001,2.8,062km N 81° E of Hinatuan (Surigao Del Sur),062,N 81° E,Hinatuan (Surigao Del Sur)
