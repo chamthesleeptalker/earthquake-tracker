@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T17:58:00.000Z,30 December 2025 - 05:58 PM,17.84,120.54,031,2.2,010km S 73° E of Sinait (Ilocos Sur),010,S 73° E,Sinait (Ilocos Sur)
 2025-12-30T16:49:00.000Z,30 December 2025 - 04:49 PM,10.00,126.10,032,2.3,003km S 42° E of Burgos (Surigao Del Norte),003,S 42° E,Burgos (Surigao Del Norte)
 2025-12-30T15:27:00.000Z,30 December 2025 - 03:27 PM,06.40,126.75,014,3.6,079km S 25° E of Tarragona (Davao Oriental),079,S 25° E,Tarragona (Davao Oriental)
 2025-12-30T15:26:00.000Z,30 December 2025 - 03:26 PM,13.23,124.01,035,1.5,014km N 72° W of Rapu-rapu (Albay),014,N 72° W,Rapu-rapu (Albay)
@@ -337,4 +338,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T00:07:00.000Z,24 December 2025 - 12:07 AM,06.47,126.46,081,2.4,048km S 65° E of Governor Generoso (Davao Oriental),048,S 65° E,Governor Generoso (Davao Oriental)
 2025-12-23T21:48:00.000Z,23 December 2025 - 09:48 PM,08.33,127.28,010,2.9,100km N 71° E of Lingig (Surigao Del Sur),100,N 71° E,Lingig (Surigao Del Sur)
 2025-12-23T19:50:00.000Z,23 December 2025 - 07:50 PM,07.97,126.18,033,1.8,014km S 61° E of Trento (Agusan Del Sur),014,S 61° E,Trento (Agusan Del Sur)
-2025-12-23T17:56:00.000Z,23 December 2025 - 05:56 PM,09.81,123.85,008,1.6,006km N 80° E of Loon (Bohol),006,N 80° E,Loon (Bohol)
