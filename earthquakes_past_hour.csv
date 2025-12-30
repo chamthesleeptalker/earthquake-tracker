@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2025-12-30T09:13:00.000Z,30 December 2025 - 09:13 AM,09.79,125.50,023,1.7,000km N 45° E of City Of Surigao (Surigao Del Norte),000,N 45° E,City Of Surigao (Surigao Del Norte)
+2025-12-30T10:25:00.000Z,30 December 2025 - 10:25 AM,09.68,126.17,034,3.0,011km S 06° E of General Luna (Surigao Del Norte),011,S 06° E,General Luna (Surigao Del Norte)
+2025-12-30T10:03:00.000Z,30 December 2025 - 10:03 AM,12.91,123.18,034,1.6,007km N 81° W of Claveria (Masbate),007,N 81° W,Claveria (Masbate)
+2025-12-30T09:53:00.000Z,30 December 2025 - 09:53 AM,12.78,123.10,010,4.1,020km S 50° W of Claveria (Masbate),020,S 50° W,Claveria (Masbate)
