@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T06:10:00.000Z,31 December 2025 - 06:10 AM,13.78,124.37,018,2.1,003km West of Gigmoto (Catanduanes),003,West of Gigmoto,
 2025-12-31T05:51:00.000Z,31 December 2025 - 05:51 AM,11.01,123.93,024,2.2,006km S 52° W of City Of Bogo (Cebu),006,S 52° W,City Of Bogo (Cebu)
 2025-12-31T05:32:00.000Z,31 December 2025 - 05:32 AM,09.69,126.05,025,1.6,015km S 47° W of General Luna (Surigao Del Norte),015,S 47° W,General Luna (Surigao Del Norte)
 2025-12-31T04:00:00.000Z,31 December 2025 - 04:00 AM,07.88,122.51,035,1.4,014km N 38° W of Ipil (Zamboanga Sibugay),014,N 38° W,Ipil (Zamboanga Sibugay)
@@ -47,5 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T07:38:00.000Z,30 December 2025 - 07:38 AM,16.42,120.88,033,1.5,007km N 01° W of Kayapa (Nueva Vizcaya),007,N 01° W,Kayapa (Nueva Vizcaya)
 2025-12-30T06:31:00.000Z,30 December 2025 - 06:31 AM,05.73,125.27,012,2.5,013km S 38° E of Glan (Sarangani),013,S 38° E,Glan (Sarangani)
 2025-12-30T06:12:00.000Z,30 December 2025 - 06:12 AM,14.94,122.63,016,1.7,042km N 50° E of Jomalig (Quezon),042,N 50° E,Jomalig (Quezon)
-2025-12-30T06:04:00.000Z,30 December 2025 - 06:04 AM,13.13,124.55,026,2.0,040km N 75° E of Prieto Diaz (Sorsogon),040,N 75° E,Prieto Diaz (Sorsogon)
-2025-12-30T05:52:00.000Z,30 December 2025 - 05:52 AM,19.11,121.78,003,2.3,024km N 23° W of Camiguin Island (Calayan) (Cagayan),024,N 23° W,Camiguin Island (Calayan) (Cagayan)
