@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T21:55:00.000Z,30 December 2025 - 09:55 PM,10.66,125.27,008,1.8,019km N 38° E of Silago (Southern Leyte),019,N 38° E,Silago (Southern Leyte)
+2025-12-30T21:46:00.000Z,30 December 2025 - 09:46 PM,09.69,126.20,014,1.8,012km S 24° E of General Luna (Surigao Del Norte),012,S 24° E,General Luna (Surigao Del Norte)
+2025-12-30T21:40:00.000Z,30 December 2025 - 09:40 PM,10.83,125.36,010,4.0,031km S 5° W of Balangiga (Eastern Samar),031,S 5° W,Balangiga (Eastern Samar)
 2025-12-30T21:22:00.000Z,30 December 2025 - 09:22 PM,09.23,125.95,089,1.8,004km S 27° W of Madrid (Surigao Del Sur),004,S 27° W,Madrid (Surigao Del Sur)
 2025-12-30T21:01:00.000Z,30 December 2025 - 09:01 PM,12.01,122.37,002,3.0,031km N 47° E of Ibajay (Aklan),031,N 47° E,Ibajay (Aklan)
 2025-12-30T20:39:00.000Z,30 December 2025 - 08:39 PM,07.18,126.95,007,2.4,046km S 86° E of Manay (Davao Oriental),046,S 86° E,Manay (Davao Oriental)
@@ -56,4 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-29T23:32:00.000Z,29 December 2025 - 11:32 PM,06.79,126.99,007,2.5,068km S 47° E of Manay (Davao Oriental),068,S 47° E,Manay (Davao Oriental)
 2025-12-29T23:30:00.000Z,29 December 2025 - 11:30 PM,15.61,119.82,026,2.9,012km S 80° W of Candelaria (Zambales),012,S 80° W,Candelaria (Zambales)
 2025-12-29T22:00:00.000Z,29 December 2025 - 10:00 PM,10.28,125.26,028,1.7,001km N 60° E of Anahawan (Southern Leyte),001,N 60° E,Anahawan (Southern Leyte)
-2025-12-29T21:41:00.000Z,29 December 2025 - 09:41 PM,12.77,123.04,006,2.4,027km S 58° W of Claveria (Masbate),027,S 58° W,Claveria (Masbate)
