@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T00:57:00.000Z,31 December 2025 - 12:57 AM,09.40,126.76,006,2.5,064km N 78° E of Cortes (Surigao Del Sur),064,N 78° E,Cortes (Surigao Del Sur)
+2025-12-31T00:54:00.000Z,31 December 2025 - 12:54 AM,09.82,126.25,024,1.4,011km N 66° E of General Luna (Surigao Del Norte),011,N 66° E,General Luna (Surigao Del Norte)
+2025-12-31T00:44:00.000Z,31 December 2025 - 12:44 AM,05.91,127.28,074,4.3,156km S 36° E of Tarragona (Davao Oriental),156,S 36° E,Tarragona (Davao Oriental)
 2025-12-31T00:19:00.000Z,31 December 2025 - 12:19 AM,16.95,120.27,026,2.0,016km N 50° W of Luna (La Union),016,N 50° W,Luna (La Union)
 2025-12-31T00:05:00.000Z,31 December 2025 - 12:05 AM,11.37,120.72,034,1.3,034km N 45° W of Agutaya (Palawan),034,N 45° W,Agutaya (Palawan)
 2025-12-30T23:54:00.000Z,30 December 2025 - 11:54 PM,16.09,119.47,013,3.0,035km S 86° W of Agno (Pangasinan),035,S 86° W,Agno (Pangasinan)
@@ -54,8 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T01:12:00.000Z,30 December 2025 - 01:12 AM,15.60,120.01,030,1.4,009km S 69° E of Candelaria (Zambales),009,S 69° E,Candelaria (Zambales)
 2025-12-30T01:10:00.000Z,30 December 2025 - 01:10 AM,09.69,126.18,024,1.8,011km S 16° E of General Luna (Surigao Del Norte),011,S 16° E,General Luna (Surigao Del Norte)
 2025-12-30T01:00:00.000Z,30 December 2025 - 01:00 AM,12.84,122.98,009,1.5,029km S 77° W of Claveria (Masbate),029,S 77° W,Claveria (Masbate)
-2025-12-30T00:53:00.000Z,30 December 2025 - 12:53 AM,10.29,125.37,007,1.7,013km N 82° E of Anahawan (Southern Leyte),013,N 82° E,Anahawan (Southern Leyte)
-2025-12-30T00:51:00.000Z,30 December 2025 - 12:51 AM,11.07,124.06,007,1.7,010km N 75° E of City Of Bogo (Cebu),010,N 75° E,City Of Bogo (Cebu)
-2025-12-30T00:48:00.000Z,30 December 2025 - 12:48 AM,12.98,121.29,033,1.5,015km S 56° W of Socorro (Oriental Mindoro),015,S 56° W,Socorro (Oriental Mindoro)
-2025-12-30T00:43:00.000Z,30 December 2025 - 12:43 AM,04.88,126.26,102,3.4,110km S 58° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),110,S 58° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-30T00:29:00.000Z,30 December 2025 - 12:29 AM,11.23,123.83,030,1.6,026km N 38° W of City Of Bogo (Cebu),026,N 38° W,City Of Bogo (Cebu)
