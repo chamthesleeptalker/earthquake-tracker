@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T01:18:00.000Z,31 December 2025 - 01:18 AM,08.38,127.38,033,2.6,113km N 70° E of Lingig (Surigao Del Sur),113,N 70° E,Lingig (Surigao Del Sur)
+2025-12-31T00:45:00.000Z,31 December 2025 - 12:45 AM,05.98,127.16,038,4.0,141km S 58° E of Governor Generoso (Davao Oriental),141,S 58° E,Governor Generoso (Davao Oriental)
 2025-12-31T00:57:00.000Z,31 December 2025 - 12:57 AM,09.40,126.76,006,2.5,064km N 78° E of Cortes (Surigao Del Sur),064,N 78° E,Cortes (Surigao Del Sur)
 2025-12-31T00:54:00.000Z,31 December 2025 - 12:54 AM,09.82,126.25,024,1.4,011km N 66° E of General Luna (Surigao Del Norte),011,N 66° E,General Luna (Surigao Del Norte)
 2025-12-31T00:44:00.000Z,31 December 2025 - 12:44 AM,05.91,127.28,074,4.3,156km S 36° E of Tarragona (Davao Oriental),156,S 36° E,Tarragona (Davao Oriental)
@@ -54,6 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T01:35:00.000Z,30 December 2025 - 01:35 AM,09.70,126.25,020,2.3,014km S 48° E of General Luna (Surigao Del Norte),014,S 48° E,General Luna (Surigao Del Norte)
 2025-12-30T01:26:00.000Z,30 December 2025 - 01:26 AM,07.73,122.47,033,1.6,014km S 66° W of Ipil (Zamboanga Sibugay),014,S 66° W,Ipil (Zamboanga Sibugay)
 2025-12-30T01:21:00.000Z,30 December 2025 - 01:21 AM,09.67,126.20,025,1.8,013km S 19° E of General Luna (Surigao Del Norte),013,S 19° E,General Luna (Surigao Del Norte)
-2025-12-30T01:12:00.000Z,30 December 2025 - 01:12 AM,15.60,120.01,030,1.4,009km S 69° E of Candelaria (Zambales),009,S 69° E,Candelaria (Zambales)
-2025-12-30T01:10:00.000Z,30 December 2025 - 01:10 AM,09.69,126.18,024,1.8,011km S 16° E of General Luna (Surigao Del Norte),011,S 16° E,General Luna (Surigao Del Norte)
-2025-12-30T01:00:00.000Z,30 December 2025 - 01:00 AM,12.84,122.98,009,1.5,029km S 77° W of Claveria (Masbate),029,S 77° W,Claveria (Masbate)

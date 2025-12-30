@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T01:18:00.000Z,31 December 2025 - 01:18 AM,08.38,127.38,033,2.6,113km N 70° E of Lingig (Surigao Del Sur),113,N 70° E,Lingig (Surigao Del Sur)
+2025-12-31T00:45:00.000Z,31 December 2025 - 12:45 AM,05.98,127.16,038,4.0,141km S 58° E of Governor Generoso (Davao Oriental),141,S 58° E,Governor Generoso (Davao Oriental)
 2025-12-31T00:57:00.000Z,31 December 2025 - 12:57 AM,09.40,126.76,006,2.5,064km N 78° E of Cortes (Surigao Del Sur),064,N 78° E,Cortes (Surigao Del Sur)
 2025-12-31T00:54:00.000Z,31 December 2025 - 12:54 AM,09.82,126.25,024,1.4,011km N 66° E of General Luna (Surigao Del Norte),011,N 66° E,General Luna (Surigao Del Norte)
 2025-12-31T00:44:00.000Z,31 December 2025 - 12:44 AM,05.91,127.28,074,4.3,156km S 36° E of Tarragona (Davao Oriental),156,S 36° E,Tarragona (Davao Oriental)
