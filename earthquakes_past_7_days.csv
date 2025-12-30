@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T13:15:00.000Z,30 December 2025 - 01:15 PM,09.06,126.71,019,2.2,047km N 71° E of Cagwait (Surigao Del Sur),047,N 71° E,Cagwait (Surigao Del Sur)
+2025-12-30T13:04:00.000Z,30 December 2025 - 01:04 PM,09.02,126.49,025,1.8,024km N 75° E of Bayabas (Surigao Del Sur),024,N 75° E,Bayabas (Surigao Del Sur)
 2025-12-30T12:08:00.000Z,30 December 2025 - 12:08 PM,07.02,126.76,020,2.6,033km S 49° E of Manay (Davao Oriental),033,S 49° E,Manay (Davao Oriental)
 2025-12-30T12:04:00.000Z,30 December 2025 - 12:04 PM,10.90,123.95,002,1.8,017km S 11° W of City Of Bogo (Cebu),017,S 11° W,City Of Bogo (Cebu)
 2025-12-30T11:37:00.000Z,30 December 2025 - 11:37 AM,13.55,120.65,064,1.3,015km N 35° W of Abra De Ilog (Occidental Mindoro),015,N 35° W,Abra De Ilog (Occidental Mindoro)
@@ -336,5 +338,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-23T14:39:00.000Z,23 December 2025 - 02:39 PM,11.00,123.91,002,2.2,010km S 58° W of City Of Bogo (Cebu),010,S 58° W,City Of Bogo (Cebu)
 2025-12-23T13:41:00.000Z,23 December 2025 - 01:41 PM,08.50,126.60,018,2.8,032km N 63° E of Hinatuan (Surigao Del Sur),032,N 63° E,Hinatuan (Surigao Del Sur)
 2025-12-23T13:28:00.000Z,23 December 2025 - 01:28 PM,09.00,126.21,039,1.8,004km S 57° W of Tago (Surigao Del Sur),004,S 57° W,Tago (Surigao Del Sur)
-2025-12-23T12:32:00.000Z,23 December 2025 - 12:32 PM,13.10,124.04,033,1.4,013km S 44° W of Rapu-rapu (Albay),013,S 44° W,Rapu-rapu (Albay)
-2025-12-23T12:23:00.000Z,23 December 2025 - 12:23 PM,12.88,124.15,022,2.0,002km N 10° E of Barcelona (Sorsogon),002,N 10° E,Barcelona (Sorsogon)
