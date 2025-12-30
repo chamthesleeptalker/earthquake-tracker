@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-30T14:00:00.000Z,30 December 2025 - 02:00 PM,14.14,120.48,118,1.1,018km N 65° W of Nasugbu (Batangas),018,N 65° W,Nasugbu (Batangas)
 2025-12-30T13:15:00.000Z,30 December 2025 - 01:15 PM,09.06,126.71,019,2.2,047km N 71° E of Cagwait (Surigao Del Sur),047,N 71° E,Cagwait (Surigao Del Sur)
 2025-12-30T13:04:00.000Z,30 December 2025 - 01:04 PM,09.02,126.49,025,1.8,024km N 75° E of Bayabas (Surigao Del Sur),024,N 75° E,Bayabas (Surigao Del Sur)
 2025-12-30T12:08:00.000Z,30 December 2025 - 12:08 PM,07.02,126.76,020,2.6,033km S 49° E of Manay (Davao Oriental),033,S 49° E,Manay (Davao Oriental)
