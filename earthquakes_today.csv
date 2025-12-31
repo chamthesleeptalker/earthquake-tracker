@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T15:03:00.000Z,31 December 2025 - 03:03 PM,15.08,119.92,003,2.2,017km S 61° W of Cabangan (Zambales),017,S 61° W,Cabangan (Zambales)
+2025-12-31T14:55:00.000Z,31 December 2025 - 02:55 PM,13.68,124.98,034,2.1,065km S 80° E of Gigmoto (Catanduanes),065,S 80° E,Gigmoto (Catanduanes)
 2025-12-31T13:18:00.000Z,31 December 2025 - 01:18 PM,11.14,124.53,034,1.5,006km S 33° W of Kananga (Leyte),006,S 33° W,Kananga (Leyte)
 2025-12-31T13:00:00.000Z,31 December 2025 - 01:00 PM,09.64,126.18,034,1.4,015km S 10° E of General Luna (Surigao Del Norte),015,S 10° E,General Luna (Surigao Del Norte)
 2025-12-31T12:32:00.000Z,31 December 2025 - 12:32 PM,10.91,124.08,029,2.0,019km S 35° E of City Of Bogo (Cebu),019,S 35° E,City Of Bogo (Cebu)
