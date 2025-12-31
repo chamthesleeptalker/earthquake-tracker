@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T16:34:00.000Z,31 December 2025 - 04:34 PM,07.82,126.37,030,1.4,006km S 11° W of Boston (Davao Oriental),006,S 11° W,Boston (Davao Oriental)
+2025-12-31T16:30:00.000Z,31 December 2025 - 04:30 PM,15.41,121.87,018,1.5,051km S 40° E of Baler (Aurora),051,S 40° E,Baler (Aurora)
 2025-12-31T15:23:00.000Z,31 December 2025 - 03:23 PM,10.82,122.51,032,1.5,006km N 33° W of Pavia (Iloilo),006,N 33° W,Pavia (Iloilo)
 2025-12-31T15:03:00.000Z,31 December 2025 - 03:03 PM,15.08,119.92,003,2.2,017km S 61° W of Cabangan (Zambales),017,S 61° W,Cabangan (Zambales)
 2025-12-31T14:55:00.000Z,31 December 2025 - 02:55 PM,13.68,124.98,034,2.1,065km S 80° E of Gigmoto (Catanduanes),065,S 80° E,Gigmoto (Catanduanes)
@@ -332,5 +334,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T17:01:00.000Z,24 December 2025 - 05:01 PM,12.76,123.07,002,2.1,024km S 51° W of Claveria (Masbate),024,S 51° W,Claveria (Masbate)
 2025-12-24T16:51:00.000Z,24 December 2025 - 04:51 PM,11.17,124.26,004,2.7,015km S 73° W of Villaba (Leyte),015,S 73° W,Villaba (Leyte)
 2025-12-24T16:34:00.000Z,24 December 2025 - 04:34 PM,11.06,124.00,004,2.4,003km N 57° E of City Of Bogo (Cebu),003,N 57° E,City Of Bogo (Cebu)
-2025-12-24T16:13:00.000Z,24 December 2025 - 04:13 PM,07.20,126.73,018,2.4,021km S 86° E of Manay (Davao Oriental),021,S 86° E,Manay (Davao Oriental)
-2025-12-24T15:55:00.000Z,24 December 2025 - 03:55 PM,10.43,126.12,018,2.6,045km N 07° E of Burgos (Surigao Del Norte),045,N 07° E,Burgos (Surigao Del Norte)
