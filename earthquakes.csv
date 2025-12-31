@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T01:30:00.000Z,01 January 2026 - 01:30 AM,07.30,126.93,010,4.5,044km N 77° E of Manay (Davao Oriental),044,N 77° E,Manay (Davao Oriental)
+2026-01-01T01:05:00.000Z,01 January 2026 - 01:05 AM,05.98,126.95,014,3.3,123km S 52° E of Governor Generoso (Davao Oriental),123,S 52° E,Governor Generoso (Davao Oriental)
+2026-01-01T01:00:00.000Z,01 January 2026 - 01:00 AM,09.70,126.06,021,3.0,014km S 47° W of General Luna (Surigao Del Norte),014,S 47° W,General Luna (Surigao Del Norte)
 2026-01-01T00:56:00.000Z,01 January 2026 - 12:56 AM,09.69,126.22,010,4.1,012km S 34° E of General Luna (Surigao Del Norte),012,S 34° E,General Luna (Surigao Del Norte)
 2025-12-31T23:49:00.000Z,31 December 2025 - 11:49 PM,10.93,123.94,004,2.2,013km S 20° W of City Of Bogo (Cebu),013,S 20° W,City Of Bogo (Cebu)
 2025-12-31T22:37:00.000Z,31 December 2025 - 10:37 PM,08.25,126.70,029,2.0,039km N 53° E of Lingig (Surigao Del Sur),039,N 53° E,Lingig (Surigao Del Sur)
