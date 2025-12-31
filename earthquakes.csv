@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T00:56:00.000Z,01 January 2026 - 12:56 AM,09.69,126.22,010,4.1,012km S 34° E of General Luna (Surigao Del Norte),012,S 34° E,General Luna (Surigao Del Norte)
 2025-12-31T23:49:00.000Z,31 December 2025 - 11:49 PM,10.93,123.94,004,2.2,013km S 20° W of City Of Bogo (Cebu),013,S 20° W,City Of Bogo (Cebu)
 2025-12-31T22:37:00.000Z,31 December 2025 - 10:37 PM,08.25,126.70,029,2.0,039km N 53° E of Lingig (Surigao Del Sur),039,N 53° E,Lingig (Surigao Del Sur)
 2025-12-31T22:25:00.000Z,31 December 2025 - 10:25 PM,14.67,120.01,033,1.5,027km S 89° W of Morong (Bataan),027,S 89° W,Morong (Bataan)
