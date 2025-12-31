@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T03:56:00.000Z,01 January 2026 - 03:56 AM,06.94,124.42,040,1.5,001km N 09° E of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 09° E,Datu Saudi Ampatuan (Maguindanao Del Sur)
+2026-01-01T03:30:00.000Z,01 January 2026 - 03:30 AM,14.04,120.52,110,1.5,012km S 74° W of Nasugbu (Batangas),012,S 74° W,Nasugbu (Batangas)
+2026-01-01T03:23:00.000Z,01 January 2026 - 03:23 AM,10.87,123.99,002,2.4,019km S 03° E of City Of Bogo (Cebu),019,S 03° E,City Of Bogo (Cebu)
 2026-01-01T02:17:00.000Z,01 January 2026 - 02:17 AM,18.84,121.15,036,2.6,023km S 86° W of Fuga Island (Aparri) (Cagayan),023,S 86° W,Fuga Island (Aparri) (Cagayan)
 2026-01-01T02:13:00.000Z,01 January 2026 - 02:13 AM,08.24,125.99,011,2.3,006km N 05° W of Bunawan (Agusan Del Sur),006,N 05° W,Bunawan (Agusan Del Sur)
 2026-01-01T02:05:00.000Z,01 January 2026 - 02:05 AM,06.67,125.98,037,2.2,010km N 77° W of Governor Generoso (Davao Oriental),010,N 77° W,Governor Generoso (Davao Oriental)
@@ -326,5 +329,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-25T04:50:00.000Z,25 December 2025 - 04:50 AM,10.37,125.26,002,3.1,002km N 26° E of Hinundayan (Southern Leyte),002,N 26° E,Hinundayan (Southern Leyte)
 2025-12-25T04:48:00.000Z,25 December 2025 - 04:48 AM,11.08,123.93,002,2.6,006km N 55° W of City Of Bogo (Cebu),006,N 55° W,City Of Bogo (Cebu)
 2025-12-25T04:01:00.000Z,25 December 2025 - 04:01 AM,12.86,120.92,002,2.7,016km N 82° E of Sablayan (Occidental Mindoro),016,N 82° E,Sablayan (Occidental Mindoro)
-2025-12-25T03:52:00.000Z,25 December 2025 - 03:52 AM,08.82,122.51,028,2.0,063km S 65° W of Siaton (Negros Oriental),063,S 65° W,Siaton (Negros Oriental)
-2025-12-25T03:08:00.000Z,25 December 2025 - 03:08 AM,07.36,126.81,010,3.6,034km N 61° E of Manay (Davao Oriental),034,N 61° E,Manay (Davao Oriental)

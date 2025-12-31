@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T03:56:00.000Z,01 January 2026 - 03:56 AM,06.94,124.42,040,1.5,001km N 09° E of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 09° E,Datu Saudi Ampatuan (Maguindanao Del Sur)
+2026-01-01T03:30:00.000Z,01 January 2026 - 03:30 AM,14.04,120.52,110,1.5,012km S 74° W of Nasugbu (Batangas),012,S 74° W,Nasugbu (Batangas)
+2026-01-01T03:23:00.000Z,01 January 2026 - 03:23 AM,10.87,123.99,002,2.4,019km S 03° E of City Of Bogo (Cebu),019,S 03° E,City Of Bogo (Cebu)
 2026-01-01T02:17:00.000Z,01 January 2026 - 02:17 AM,18.84,121.15,036,2.6,023km S 86° W of Fuga Island (Aparri) (Cagayan),023,S 86° W,Fuga Island (Aparri) (Cagayan)
 2026-01-01T02:13:00.000Z,01 January 2026 - 02:13 AM,08.24,125.99,011,2.3,006km N 05° W of Bunawan (Agusan Del Sur),006,N 05° W,Bunawan (Agusan Del Sur)
 2026-01-01T02:05:00.000Z,01 January 2026 - 02:05 AM,06.67,125.98,037,2.2,010km N 77° W of Governor Generoso (Davao Oriental),010,N 77° W,Governor Generoso (Davao Oriental)
@@ -43,6 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T05:51:00.000Z,31 December 2025 - 05:51 AM,11.01,123.93,024,2.2,006km S 52° W of City Of Bogo (Cebu),006,S 52° W,City Of Bogo (Cebu)
 2025-12-31T05:32:00.000Z,31 December 2025 - 05:32 AM,09.69,126.05,025,1.6,015km S 47° W of General Luna (Surigao Del Norte),015,S 47° W,General Luna (Surigao Del Norte)
 2025-12-31T04:00:00.000Z,31 December 2025 - 04:00 AM,07.88,122.51,035,1.4,014km N 38° W of Ipil (Zamboanga Sibugay),014,N 38° W,Ipil (Zamboanga Sibugay)
-2025-12-31T03:47:00.000Z,31 December 2025 - 03:47 AM,10.90,123.98,004,2.8,016km S 02° W of City Of Bogo (Cebu),016,S 02° W,City Of Bogo (Cebu)
-2025-12-31T03:11:00.000Z,31 December 2025 - 03:11 AM,10.83,125.34,011,2.0,031km S 09° W of Balangiga (Eastern Samar),031,S 09° W,Balangiga (Eastern Samar)
-2025-12-31T03:04:00.000Z,31 December 2025 - 03:04 AM,13.13,124.27,032,1.7,013km N 39° E of Prieto Diaz (Sorsogon),013,N 39° E,Prieto Diaz (Sorsogon)
