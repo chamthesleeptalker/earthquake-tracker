@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T11:38:00.000Z,31 December 2025 - 11:38 AM,11.12,124.07,033,1.5,012km N 51° E of City Of Bogo (Cebu),012,N 51° E,City Of Bogo (Cebu)
+2025-12-31T11:36:00.000Z,31 December 2025 - 11:36 AM,15.26,120.22,070,1.6,021km N 58° E of Cabangan (Zambales),021,N 58° E,Cabangan (Zambales)
 2025-12-31T11:13:00.000Z,31 December 2025 - 11:13 AM,10.89,125.38,103,1.7,025km S 03° W of Balangiga (Eastern Samar),025,S 03° W,Balangiga (Eastern Samar)
 2025-12-31T08:28:00.000Z,31 December 2025 - 08:28 AM,10.88,123.81,004,4.0,025km S 45° W of City Of Bogo (Cebu),025,S 45° W,City Of Bogo (Cebu)
 2025-12-31T08:27:00.000Z,31 December 2025 - 08:27 AM,10.91,123.79,002,2.3,026km S 55° W of City Of Bogo (Cebu),026,S 55° W,City Of Bogo (Cebu)
@@ -340,5 +342,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-24T12:13:00.000Z,24 December 2025 - 12:13 PM,08.37,126.71,033,2.0,041km N 89° E of Hinatuan (Surigao Del Sur),041,N 89° E,Hinatuan (Surigao Del Sur)
 2025-12-24T12:12:00.000Z,24 December 2025 - 12:12 PM,12.88,124.12,009,1.6,004km N 51° W of Barcelona (Sorsogon),004,N 51° W,Barcelona (Sorsogon)
 2025-12-24T11:54:00.000Z,24 December 2025 - 11:54 AM,12.89,123.02,008,1.9,025km S 88° W of Claveria (Masbate),025,S 88° W,Claveria (Masbate)
-2025-12-24T11:28:00.000Z,24 December 2025 - 11:28 AM,12.88,123.01,007,2.2,026km S 85° W of Claveria (Masbate),026,S 85° W,Claveria (Masbate)
-2025-12-24T11:19:00.000Z,24 December 2025 - 11:19 AM,12.89,123.01,003,2.3,026km S 88° W of Claveria (Masbate),026,S 88° W,Claveria (Masbate)
