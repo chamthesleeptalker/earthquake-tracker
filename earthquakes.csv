@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T04:50:00.000Z,01 January 2026 - 04:50 AM,17.22,122.45,069,2.9,018km N 09° E of Palanan (Isabela),018,N 09° E,Palanan (Isabela)
 2026-01-01T04:31:00.000Z,01 January 2026 - 04:31 AM,17.37,120.37,011,2.3,009km N 60° W of San Esteban (Ilocos Sur),009,N 60° W,San Esteban (Ilocos Sur)
 2026-01-01T03:56:00.000Z,01 January 2026 - 03:56 AM,06.94,124.42,040,1.5,001km N 09° E of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 09° E,Datu Saudi Ampatuan (Maguindanao Del Sur)
 2026-01-01T03:30:00.000Z,01 January 2026 - 03:30 AM,14.04,120.52,110,1.5,012km S 74° W of Nasugbu (Batangas),012,S 74° W,Nasugbu (Batangas)
