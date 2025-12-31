@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T13:18:00.000Z,31 December 2025 - 01:18 PM,11.14,124.53,034,1.5,006km S 33° W of Kananga (Leyte),006,S 33° W,Kananga (Leyte)
 2025-12-31T13:00:00.000Z,31 December 2025 - 01:00 PM,09.64,126.18,034,1.4,015km S 10° E of General Luna (Surigao Del Norte),015,S 10° E,General Luna (Surigao Del Norte)
 2025-12-31T12:32:00.000Z,31 December 2025 - 12:32 PM,10.91,124.08,029,2.0,019km S 35° E of City Of Bogo (Cebu),019,S 35° E,City Of Bogo (Cebu)
 2025-12-31T12:22:00.000Z,31 December 2025 - 12:22 PM,10.90,124.12,029,1.5,023km S 44° E of City Of Bogo (Cebu),023,S 44° E,City Of Bogo (Cebu)
@@ -43,5 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T15:23:00.000Z,30 December 2025 - 03:23 PM,10.64,124.20,028,1.6,020km S 89° W of San Francisco (Cebu),020,S 89° W,San Francisco (Cebu)
 2025-12-30T15:22:00.000Z,30 December 2025 - 03:22 PM,13.11,124.26,032,2.6,011km N 39° E of Prieto Diaz (Sorsogon),011,N 39° E,Prieto Diaz (Sorsogon)
 2025-12-30T14:00:00.000Z,30 December 2025 - 02:00 PM,14.14,120.48,118,1.1,018km N 65° W of Nasugbu (Batangas),018,N 65° W,Nasugbu (Batangas)
-2025-12-30T13:15:00.000Z,30 December 2025 - 01:15 PM,09.06,126.71,019,2.2,047km N 71° E of Cagwait (Surigao Del Sur),047,N 71° E,Cagwait (Surigao Del Sur)
-2025-12-30T13:04:00.000Z,30 December 2025 - 01:04 PM,09.02,126.49,025,1.8,024km N 75° E of Bayabas (Surigao Del Sur),024,N 75° E,Bayabas (Surigao Del Sur)
