@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T06:56:00.000Z,01 January 2026 - 06:56 AM,13.41,120.56,018,1.4,011km S 88° E of Paluan (Occidental Mindoro),011,S 88° E,Paluan (Occidental Mindoro)
+2026-01-01T06:49:00.000Z,01 January 2026 - 06:49 AM,13.53,120.86,006,1.8,011km N 75° W of Puerto Galera (Oriental Mindoro),011,N 75° W,Puerto Galera (Oriental Mindoro)
+2026-01-01T06:38:00.000Z,01 January 2026 - 06:38 AM,08.07,123.11,033,1.7,021km S 02° W of Siayan (Zamboanga Del Norte),021,S 02° W,Siayan (Zamboanga Del Norte)
 2026-01-01T06:27:00.000Z,01 January 2026 - 06:27 AM,09.59,126.19,010,2.7,022km S 10° E of General Luna (Surigao Del Norte),022,S 10° E,General Luna (Surigao Del Norte)
 2026-01-01T06:15:00.000Z,01 January 2026 - 06:15 AM,17.05,120.32,015,3.2,014km S 75° W of Santa Cruz (Ilocos Sur),014,S 75° W,Santa Cruz (Ilocos Sur)
 2026-01-01T06:11:00.000Z,01 January 2026 - 06:11 AM,11.27,125.67,009,2.3,010km S 38° E of Hernani (Eastern Samar),010,S 38° E,Hernani (Eastern Samar)
-2026-01-01T05:39:00.000Z,01 January 2026 - 05:39 AM,09.74,124.54,023,1.7,004km S 78° W of Anda (Bohol),004,S 78° W,Anda (Bohol)
