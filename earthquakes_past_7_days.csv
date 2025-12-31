@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-12-31T23:49:00.000Z,31 December 2025 - 11:49 PM,10.93,123.94,004,2.2,013km S 20° W of City Of Bogo (Cebu),013,S 20° W,City Of Bogo (Cebu)
 2025-12-31T22:37:00.000Z,31 December 2025 - 10:37 PM,08.25,126.70,029,2.0,039km N 53° E of Lingig (Surigao Del Sur),039,N 53° E,Lingig (Surigao Del Sur)
 2025-12-31T22:25:00.000Z,31 December 2025 - 10:25 PM,14.67,120.01,033,1.5,027km S 89° W of Morong (Bataan),027,S 89° W,Morong (Bataan)
 2025-12-31T21:43:00.000Z,31 December 2025 - 09:43 PM,11.13,124.16,003,2.1,022km N 65° E of City Of Bogo (Cebu),022,N 65° E,City Of Bogo (Cebu)
@@ -327,6 +328,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-25T00:30:00.000Z,25 December 2025 - 12:30 AM,07.82,126.03,023,1.9,002km S 81° W of Monkayo (Davao De Oro),002,S 81° W,Monkayo (Davao De Oro)
 2025-12-25T00:08:00.000Z,25 December 2025 - 12:08 AM,07.69,124.95,033,2.5,005km N 85° W of Don Carlos (Bukidnon),005,N 85° W,Don Carlos (Bukidnon)
 2025-12-24T23:59:00.000Z,24 December 2025 - 11:59 PM,10.37,125.20,003,2.7,003km S 02° W of Hinunangan (Southern Leyte),003,S 02° W,Hinunangan (Southern Leyte)
-2025-12-24T23:48:00.000Z,24 December 2025 - 11:48 PM,08.88,122.44,024,3.0,062km S 21° W of Basay (Negros Oriental),062,S 21° W,Basay (Negros Oriental)
-2025-12-24T23:08:00.000Z,24 December 2025 - 11:08 PM,12.98,123.20,002,1.9,010km N 31° W of Claveria (Masbate),010,N 31° W,Claveria (Masbate)
-2025-12-24T22:45:00.000Z,24 December 2025 - 10:45 PM,10.18,125.26,032,2.1,010km S 04° E of Anahawan (Southern Leyte),010,S 04° E,Anahawan (Southern Leyte)
