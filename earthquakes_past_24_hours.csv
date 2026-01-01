@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T03:26:00.000Z,02 January 2026 - 03:26 AM,08.50,125.85,064,2.1,010km N 50° E of Talacogon (Agusan Del Sur),010,N 50° E,Talacogon (Agusan Del Sur)
+2026-01-02T03:10:00.000Z,02 January 2026 - 03:10 AM,13.18,119.95,022,2.0,062km S 65° W of Paluan (Occidental Mindoro),062,S 65° W,Paluan (Occidental Mindoro)
+2026-01-02T03:08:00.000Z,02 January 2026 - 03:08 AM,05.93,126.22,144,2.8,063km N 88° E of Jose Abad Santos (Davao Occidental),063,N 88° E,Jose Abad Santos (Davao Occidental)
 2026-01-02T02:53:00.000Z,02 January 2026 - 02:53 AM,06.71,125.11,021,3.8,007km S 48° W of Magsaysay (Davao Del Sur),007,S 48° W,Magsaysay (Davao Del Sur)
 2026-01-02T01:38:00.000Z,02 January 2026 - 01:38 AM,13.24,120.70,035,3.0,012km N 80° E of Mamburao (Occidental Mindoro),012,N 80° E,Mamburao (Occidental Mindoro)
 2026-01-02T01:35:00.000Z,02 January 2026 - 01:35 AM,08.07,125.23,063,2.2,007km S 83° W of Cabanglasan (Bukidnon),007,S 83° W,Cabanglasan (Bukidnon)
@@ -42,4 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-01T04:31:00.000Z,01 January 2026 - 04:31 AM,17.37,120.37,011,2.3,009km N 60° W of San Esteban (Ilocos Sur),009,N 60° W,San Esteban (Ilocos Sur)
 2026-01-01T03:56:00.000Z,01 January 2026 - 03:56 AM,06.94,124.42,040,1.5,001km N 09° E of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 09° E,Datu Saudi Ampatuan (Maguindanao Del Sur)
 2026-01-01T03:30:00.000Z,01 January 2026 - 03:30 AM,14.04,120.52,110,1.5,012km S 74° W of Nasugbu (Batangas),012,S 74° W,Nasugbu (Batangas)
-2026-01-01T03:23:00.000Z,01 January 2026 - 03:23 AM,10.87,123.99,002,2.4,019km S 03° E of City Of Bogo (Cebu),019,S 03° E,City Of Bogo (Cebu)
