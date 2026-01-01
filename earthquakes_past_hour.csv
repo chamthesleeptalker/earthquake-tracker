@@ -1,5 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-01T13:57:00.000Z,01 January 2026 - 01:57 PM,10.73,123.04,001,1.7,008km S 71° E of City Of Talisay (Negros Occidental),008,S 71° E,City Of Talisay (Negros Occidental)
-2026-01-01T13:30:00.000Z,01 January 2026 - 01:30 PM,09.08,126.78,016,3.0,057km N 77° E of Bayabas (Surigao Del Sur),057,N 77° E,Bayabas (Surigao Del Sur)
-2026-01-01T13:21:00.000Z,01 January 2026 - 01:21 PM,12.26,124.51,032,1.5,013km S 71° W of Lope De Vega (Northern Samar),013,S 71° W,Lope De Vega (Northern Samar)
-2026-01-01T13:07:00.000Z,01 January 2026 - 01:07 PM,14.06,120.47,119,1.7,017km S 85° W of Nasugbu (Batangas),017,S 85° W,Nasugbu (Batangas)
+2026-01-01T15:13:00.000Z,01 January 2026 - 03:13 PM,09.65,126.18,031,1.5,015km S 09° E of General Luna (Surigao Del Norte),015,S 09° E,General Luna (Surigao Del Norte)
