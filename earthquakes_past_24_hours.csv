@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T13:30:00.000Z,01 January 2026 - 01:30 PM,09.08,126.78,016,3.0,057km N 77° E of Bayabas (Surigao Del Sur),057,N 77° E,Bayabas (Surigao Del Sur)
+2026-01-01T13:21:00.000Z,01 January 2026 - 01:21 PM,12.26,124.51,032,1.5,013km S 71° W of Lope De Vega (Northern Samar),013,S 71° W,Lope De Vega (Northern Samar)
 2026-01-01T13:07:00.000Z,01 January 2026 - 01:07 PM,14.06,120.47,119,1.7,017km S 85° W of Nasugbu (Batangas),017,S 85° W,Nasugbu (Batangas)
 2026-01-01T11:29:00.000Z,01 January 2026 - 11:29 AM,12.34,123.62,035,1.4,003km S 04° E of City Of Masbate (Masbate),003,S 04° E,City Of Masbate (Masbate)
 2026-01-01T10:56:00.000Z,01 January 2026 - 10:56 AM,04.98,127.51,134,5.1,231km S 63° E of Jose Abad Santos (Davao Occidental),231,S 63° E,Jose Abad Santos (Davao Occidental)
@@ -50,4 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T15:23:00.000Z,31 December 2025 - 03:23 PM,10.82,122.51,032,1.5,006km N 33° W of Pavia (Iloilo),006,N 33° W,Pavia (Iloilo)
 2025-12-31T15:03:00.000Z,31 December 2025 - 03:03 PM,15.08,119.92,003,2.2,017km S 61° W of Cabangan (Zambales),017,S 61° W,Cabangan (Zambales)
 2025-12-31T14:55:00.000Z,31 December 2025 - 02:55 PM,13.68,124.98,034,2.1,065km S 80° E of Gigmoto (Catanduanes),065,S 80° E,Gigmoto (Catanduanes)
-2025-12-31T13:18:00.000Z,31 December 2025 - 01:18 PM,11.14,124.53,034,1.5,006km S 33° W of Kananga (Leyte),006,S 33° W,Kananga (Leyte)
