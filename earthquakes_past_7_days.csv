@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T04:05:00.000Z,02 January 2026 - 04:05 AM,16.05,121.94,013,2.6,010km S 14° W of Dinalungan (Aurora),010,S 14° W,Dinalungan (Aurora)
+2026-01-02T03:57:00.000Z,02 January 2026 - 03:57 AM,11.29,124.32,007,3.4,006km S 66° W of Tabango (Leyte),006,S 66° W,Tabango (Leyte)
+2026-01-02T03:54:00.000Z,02 January 2026 - 03:54 AM,16.05,122.00,018,2.1,011km S 26° E of Dinalungan (Aurora),011,S 26° E,Dinalungan (Aurora)
+2026-01-02T03:52:00.000Z,02 January 2026 - 03:52 AM,05.45,127.73,036,2.8,226km S 54° E of Governor Generoso (Davao Oriental),226,S 54° E,Governor Generoso (Davao Oriental)
+2026-01-02T03:35:00.000Z,02 January 2026 - 03:35 AM,02.63,127.23,164,4.3,367km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),367,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-02T03:26:00.000Z,02 January 2026 - 03:26 AM,08.50,125.85,064,2.1,010km N 50° E of Talacogon (Agusan Del Sur),010,N 50° E,Talacogon (Agusan Del Sur)
 2026-01-02T03:10:00.000Z,02 January 2026 - 03:10 AM,13.18,119.95,022,2.0,062km S 65° W of Paluan (Occidental Mindoro),062,S 65° W,Paluan (Occidental Mindoro)
 2026-01-02T03:08:00.000Z,02 January 2026 - 03:08 AM,05.93,126.22,144,2.8,063km N 88° E of Jose Abad Santos (Davao Occidental),063,N 88° E,Jose Abad Santos (Davao Occidental)
