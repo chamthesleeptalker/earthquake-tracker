@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T09:05:00.000Z,01 January 2026 - 09:05 AM,07.61,126.67,016,1.4,013km N 72° E of Baganga (Davao Oriental),013,N 72° E,Baganga (Davao Oriental)
+2026-01-01T08:53:00.000Z,01 January 2026 - 08:53 AM,07.70,127.40,011,2.9,094km N 81° E of Baganga (Davao Oriental),094,N 81° E,Baganga (Davao Oriental)
+2026-01-01T08:31:00.000Z,01 January 2026 - 08:31 AM,09.66,126.14,031,2.4,014km S 10° W of General Luna (Surigao Del Norte),014,S 10° W,General Luna (Surigao Del Norte)
+2026-01-01T07:58:00.000Z,01 January 2026 - 07:58 AM,05.15,126.05,145,2.2,073km S 61° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),073,S 61° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-01T06:56:00.000Z,01 January 2026 - 06:56 AM,13.41,120.56,018,1.4,011km S 88° E of Paluan (Occidental Mindoro),011,S 88° E,Paluan (Occidental Mindoro)
 2026-01-01T06:49:00.000Z,01 January 2026 - 06:49 AM,13.53,120.86,006,1.8,011km N 75° W of Puerto Galera (Oriental Mindoro),011,N 75° W,Puerto Galera (Oriental Mindoro)
 2026-01-01T06:38:00.000Z,01 January 2026 - 06:38 AM,08.07,123.11,033,1.7,021km S 02° W of Siayan (Zamboanga Del Norte),021,S 02° W,Siayan (Zamboanga Del Norte)
