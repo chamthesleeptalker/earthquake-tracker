@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T11:29:00.000Z,01 January 2026 - 11:29 AM,12.34,123.62,035,1.4,003km S 04° E of City Of Masbate (Masbate),003,S 04° E,City Of Masbate (Masbate)
+2026-01-01T10:56:00.000Z,01 January 2026 - 10:56 AM,04.98,127.51,134,5.1,231km S 63° E of Jose Abad Santos (Davao Occidental),231,S 63° E,Jose Abad Santos (Davao Occidental)
+2025-12-31T12:21:00.000Z,31 December 2025 - 12:21 PM,13.08,125.29,040,2.0,061km N 18° E of Palapag (Northern Samar),061,N 18° E,Palapag (Northern Samar)
 2026-01-01T09:05:00.000Z,01 January 2026 - 09:05 AM,07.61,126.67,016,1.4,013km N 72° E of Baganga (Davao Oriental),013,N 72° E,Baganga (Davao Oriental)
 2026-01-01T08:53:00.000Z,01 January 2026 - 08:53 AM,07.70,127.40,011,2.9,094km N 81° E of Baganga (Davao Oriental),094,N 81° E,Baganga (Davao Oriental)
 2026-01-01T08:31:00.000Z,01 January 2026 - 08:31 AM,09.66,126.14,031,2.4,014km S 10° W of General Luna (Surigao Del Norte),014,S 10° W,General Luna (Surigao Del Norte)
@@ -325,10 +328,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-25T12:55:00.000Z,25 December 2025 - 12:55 PM,12.91,123.08,006,2.1,018km N 86° W of Claveria (Masbate),018,N 86° W,Claveria (Masbate)
 2025-12-25T12:53:00.000Z,25 December 2025 - 12:53 PM,08.40,125.76,062,3.0,006km S 29° W of Talacogon (Agusan Del Sur),006,S 29° W,Talacogon (Agusan Del Sur)
 2025-12-25T12:41:00.000Z,25 December 2025 - 12:41 PM,09.79,126.47,009,2.6,035km N 88° E of General Luna (Surigao Del Norte),035,N 88° E,General Luna (Surigao Del Norte)
-2025-12-25T11:01:00.000Z,25 December 2025 - 11:01 AM,12.89,123.06,010,2.0,020km S 85° W of Claveria (Masbate),020,S 85° W,Claveria (Masbate)
-2025-12-25T10:58:00.000Z,25 December 2025 - 10:58 AM,12.84,122.96,005,1.6,032km S 77° W of Claveria (Masbate),032,S 77° W,Claveria (Masbate)
-2025-12-25T10:48:00.000Z,25 December 2025 - 10:48 AM,03.18,125.78,110,4.2,250km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),250,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-25T10:43:00.000Z,25 December 2025 - 10:43 AM,15.59,121.56,022,2.2,015km S 16° E of San Luis (Aurora),015,S 16° E,San Luis (Aurora)
-2025-12-25T10:09:00.000Z,25 December 2025 - 10:09 AM,10.93,123.95,008,1.6,013km S 14° W of City Of Bogo (Cebu),013,S 14° W,City Of Bogo (Cebu)
-2025-12-25T09:58:00.000Z,25 December 2025 - 09:58 AM,19.15,121.00,002,2.7,022km N 77° W of Dalupiri Island (Calayan) (Cagayan),022,N 77° W,Dalupiri Island (Calayan) (Cagayan)
-2025-12-25T09:37:00.000Z,25 December 2025 - 09:37 AM,10.92,123.91,002,2.4,016km S 28° W of City Of Bogo (Cebu),016,S 28° W,City Of Bogo (Cebu)

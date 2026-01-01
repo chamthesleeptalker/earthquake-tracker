@@ -1,4 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-01T09:05:00.000Z,01 January 2026 - 09:05 AM,07.61,126.67,016,1.4,013km N 72° E of Baganga (Davao Oriental),013,N 72° E,Baganga (Davao Oriental)
-2026-01-01T08:53:00.000Z,01 January 2026 - 08:53 AM,07.70,127.40,011,2.9,094km N 81° E of Baganga (Davao Oriental),094,N 81° E,Baganga (Davao Oriental)
-2026-01-01T08:31:00.000Z,01 January 2026 - 08:31 AM,09.66,126.14,031,2.4,014km S 10° W of General Luna (Surigao Del Norte),014,S 10° W,General Luna (Surigao Del Norte)
+2026-01-01T11:29:00.000Z,01 January 2026 - 11:29 AM,12.34,123.62,035,1.4,003km S 04° E of City Of Masbate (Masbate),003,S 04° E,City Of Masbate (Masbate)
+2026-01-01T10:56:00.000Z,01 January 2026 - 10:56 AM,04.98,127.51,134,5.1,231km S 63° E of Jose Abad Santos (Davao Occidental),231,S 63° E,Jose Abad Santos (Davao Occidental)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T11:29:00.000Z,01 January 2026 - 11:29 AM,12.34,123.62,035,1.4,003km S 04° E of City Of Masbate (Masbate),003,S 04° E,City Of Masbate (Masbate)
+2026-01-01T10:56:00.000Z,01 January 2026 - 10:56 AM,04.98,127.51,134,5.1,231km S 63° E of Jose Abad Santos (Davao Occidental),231,S 63° E,Jose Abad Santos (Davao Occidental)
+2025-12-31T12:21:00.000Z,31 December 2025 - 12:21 PM,13.08,125.29,040,2.0,061km N 18° E of Palapag (Northern Samar),061,N 18° E,Palapag (Northern Samar)
 2026-01-01T09:05:00.000Z,01 January 2026 - 09:05 AM,07.61,126.67,016,1.4,013km N 72° E of Baganga (Davao Oriental),013,N 72° E,Baganga (Davao Oriental)
 2026-01-01T08:53:00.000Z,01 January 2026 - 08:53 AM,07.70,127.40,011,2.9,094km N 81° E of Baganga (Davao Oriental),094,N 81° E,Baganga (Davao Oriental)
 2026-01-01T08:31:00.000Z,01 January 2026 - 08:31 AM,09.66,126.14,031,2.4,014km S 10° W of General Luna (Surigao Del Norte),014,S 10° W,General Luna (Surigao Del Norte)
@@ -53,4 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T12:22:00.000Z,31 December 2025 - 12:22 PM,10.90,124.12,029,1.5,023km S 44° E of City Of Bogo (Cebu),023,S 44° E,City Of Bogo (Cebu)
 2025-12-31T11:38:00.000Z,31 December 2025 - 11:38 AM,11.12,124.07,033,1.5,012km N 51° E of City Of Bogo (Cebu),012,N 51° E,City Of Bogo (Cebu)
 2025-12-31T11:36:00.000Z,31 December 2025 - 11:36 AM,15.26,120.22,070,1.6,021km N 58° E of Cabangan (Zambales),021,N 58° E,Cabangan (Zambales)
-2025-12-31T11:13:00.000Z,31 December 2025 - 11:13 AM,10.89,125.38,103,1.7,025km S 03° W of Balangiga (Eastern Samar),025,S 03° W,Balangiga (Eastern Samar)
