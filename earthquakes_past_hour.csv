@@ -1,10 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-02T01:38:00.000Z,02 January 2026 - 01:38 AM,13.24,120.70,035,3.0,012km N 80° E of Mamburao (Occidental Mindoro),012,N 80° E,Mamburao (Occidental Mindoro)
-2026-01-02T01:35:00.000Z,02 January 2026 - 01:35 AM,08.07,125.23,063,2.2,007km S 83° W of Cabanglasan (Bukidnon),007,S 83° W,Cabanglasan (Bukidnon)
-2026-01-02T01:31:00.000Z,02 January 2026 - 01:31 AM,08.84,126.37,023,2.4,012km S 41° E of Cagwait (Surigao Del Sur),012,S 41° E,Cagwait (Surigao Del Sur)
-2026-01-02T01:28:00.000Z,02 January 2026 - 01:28 AM,13.76,120.40,047,1.5,017km N 74° E of Looc (Occidental Mindoro),017,N 74° E,Looc (Occidental Mindoro)
-2026-01-02T01:26:00.000Z,02 January 2026 - 01:26 AM,07.23,126.92,015,2.6,042km N 87° E of Manay (Davao Oriental),042,N 87° E,Manay (Davao Oriental)
-2026-01-02T01:18:00.000Z,02 January 2026 - 01:18 AM,12.76,121.40,025,2.0,009km N 83° W of Bongabong (Oriental Mindoro),009,N 83° W,Bongabong (Oriental Mindoro)
-2026-01-02T01:16:00.000Z,02 January 2026 - 01:16 AM,11.14,123.76,027,2.3,004km S 56° W of Santa Fe (Cebu),004,S 56° W,Santa Fe (Cebu)
-2026-01-02T00:59:00.000Z,02 January 2026 - 12:59 AM,06.72,126.06,039,2.3,008km N 10° W of Governor Generoso (Davao Oriental),008,N 10° W,Governor Generoso (Davao Oriental)
-2026-01-02T00:40:00.000Z,02 January 2026 - 12:40 AM,15.46,119.77,043,2.0,015km N 78° W of Palauig (Zambales),015,N 78° W,Palauig (Zambales)
+2026-01-02T02:53:00.000Z,02 January 2026 - 02:53 AM,06.71,125.11,021,3.8,007km S 48° W of Magsaysay (Davao Del Sur),007,S 48° W,Magsaysay (Davao Del Sur)
