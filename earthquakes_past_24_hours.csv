@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T21:47:00.000Z,01 January 2026 - 09:47 PM,13.57,120.37,002,1.7,020km N 32° W of Paluan (Occidental Mindoro),020,N 32° W,Paluan (Occidental Mindoro)
 2026-01-01T20:56:00.000Z,01 January 2026 - 08:56 PM,19.97,121.60,001,2.9,049km S 36° W of Sabtang (Batanes),049,S 36° W,Sabtang (Batanes)
 2026-01-01T18:46:00.000Z,01 January 2026 - 06:46 PM,07.60,126.83,021,5.1,029km N 84° E of Baganga (Davao Oriental),029,N 84° E,Baganga (Davao Oriental)
 2026-01-01T17:27:00.000Z,01 January 2026 - 05:27 PM,11.41,125.37,023,1.5,017km S 65° W of Balangkayan (Eastern Samar),017,S 65° W,Balangkayan (Eastern Samar)
@@ -40,4 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T23:49:00.000Z,31 December 2025 - 11:49 PM,10.93,123.94,004,2.2,013km S 20° W of City Of Bogo (Cebu),013,S 20° W,City Of Bogo (Cebu)
 2025-12-31T22:37:00.000Z,31 December 2025 - 10:37 PM,08.25,126.70,029,2.0,039km N 53° E of Lingig (Surigao Del Sur),039,N 53° E,Lingig (Surigao Del Sur)
 2025-12-31T22:25:00.000Z,31 December 2025 - 10:25 PM,14.67,120.01,033,1.5,027km S 89° W of Morong (Bataan),027,S 89° W,Morong (Bataan)
-2025-12-31T21:43:00.000Z,31 December 2025 - 09:43 PM,11.13,124.16,003,2.1,022km N 65° E of City Of Bogo (Cebu),022,N 65° E,City Of Bogo (Cebu)
