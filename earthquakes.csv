@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T00:16:00.000Z,02 January 2026 - 12:16 AM,06.47,127.07,175,3.2,101km S 36° E of Manay (Davao Oriental),101,S 36° E,Manay (Davao Oriental)
+2026-01-02T00:12:00.000Z,02 January 2026 - 12:12 AM,13.47,120.75,033,1.6,004km N 33° E of Abra De Ilog (Occidental Mindoro),004,N 33° E,Abra De Ilog (Occidental Mindoro)
+2026-01-02T00:01:00.000Z,02 January 2026 - 12:01 AM,18.01,121.27,010,3.1,009km S 77° E of Kabugao (Apayao),009,S 77° E,Kabugao (Apayao)
 2026-01-01T21:47:00.000Z,01 January 2026 - 09:47 PM,13.57,120.37,002,1.7,020km N 32° W of Paluan (Occidental Mindoro),020,N 32° W,Paluan (Occidental Mindoro)
 2026-01-01T20:56:00.000Z,01 January 2026 - 08:56 PM,19.97,121.60,001,2.9,049km S 36° W of Sabtang (Batanes),049,S 36° W,Sabtang (Batanes)
 2026-01-01T18:46:00.000Z,01 January 2026 - 06:46 PM,07.60,126.83,021,5.1,029km N 84° E of Baganga (Davao Oriental),029,N 84° E,Baganga (Davao Oriental)
