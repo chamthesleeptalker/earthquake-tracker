@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-01T13:07:00.000Z,01 January 2026 - 01:07 PM,14.06,120.47,119,1.7,017km S 85° W of Nasugbu (Batangas),017,S 85° W,Nasugbu (Batangas)
 2026-01-01T11:29:00.000Z,01 January 2026 - 11:29 AM,12.34,123.62,035,1.4,003km S 04° E of City Of Masbate (Masbate),003,S 04° E,City Of Masbate (Masbate)
 2026-01-01T10:56:00.000Z,01 January 2026 - 10:56 AM,04.98,127.51,134,5.1,231km S 63° E of Jose Abad Santos (Davao Occidental),231,S 63° E,Jose Abad Santos (Davao Occidental)
 2025-12-31T12:21:00.000Z,31 December 2025 - 12:21 PM,13.08,125.29,040,2.0,061km N 18° E of Palapag (Northern Samar),061,N 18° E,Palapag (Northern Samar)
