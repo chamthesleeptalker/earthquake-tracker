@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-03T04:03:00.000Z,03 January 2026 - 04:03 AM,02.95,128.84,148,4.6,467km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),467,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-03T03:44:00.000Z,03 January 2026 - 03:44 AM,11.00,124.00,010,1.9,006km S 18° E of City Of Bogo (Cebu),006,S 18° E,City Of Bogo (Cebu)
+2026-01-03T03:27:00.000Z,03 January 2026 - 03:27 AM,07.83,122.77,030,1.3,004km N 24° E of Kabasalan (Zamboanga Sibugay),004,N 24° E,Kabasalan (Zamboanga Sibugay)
+2026-01-03T03:24:00.000Z,03 January 2026 - 03:24 AM,02.92,126.23,056,3.3,289km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),289,S 18° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-03T02:59:00.000Z,03 January 2026 - 02:59 AM,03.29,126.80,050,3.4,280km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),280,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-03T02:21:00.000Z,03 January 2026 - 02:21 AM,09.47,125.51,019,2.8,008km N 72° W of Kitcharao (Agusan Del Norte),008,N 72° W,Kitcharao (Agusan Del Norte)
 2026-01-03T02:18:00.000Z,03 January 2026 - 02:18 AM,05.80,126.70,020,3.1,117km S 36° E of Governor Generoso (Davao Oriental),117,S 36° E,Governor Generoso (Davao Oriental)
@@ -330,7 +334,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T06:57:00.000Z,27 December 2025 - 06:57 AM,05.98,126.14,085,2.8,055km S 64° E of Don Marcelino (Davao Occidental),055,S 64° E,Don Marcelino (Davao Occidental)
 2025-12-27T06:21:00.000Z,27 December 2025 - 06:21 AM,12.56,124.91,007,1.6,002km West of Pambujan (Northern Samar),002,West of Pambujan,Samar)
 2025-12-27T05:28:00.000Z,27 December 2025 - 05:28 AM,07.87,126.46,024,1.5,009km N 89° E of Boston (Davao Oriental),009,N 89° E,Boston (Davao Oriental)
-2025-12-27T04:00:00.000Z,27 December 2025 - 04:00 AM,08.80,126.53,033,1.7,025km N 89° E of Marihatag (Surigao Del Sur),025,N 89° E,Marihatag (Surigao Del Sur)
-2025-12-27T03:59:00.000Z,27 December 2025 - 03:59 AM,18.43,121.23,014,2.3,013km S 73° W of Pamplona (Cagayan),013,S 73° W,Pamplona (Cagayan)
-2025-12-27T03:40:00.000Z,27 December 2025 - 03:40 AM,12.64,124.78,074,1.9,014km N 13° E of Mondragon (Northern Samar),014,N 13° E,Mondragon (Northern Samar)
-2025-12-27T03:33:00.000Z,27 December 2025 - 03:33 AM,06.90,126.93,017,2.6,055km S 52° E of Manay (Davao Oriental),055,S 52° E,Manay (Davao Oriental)
