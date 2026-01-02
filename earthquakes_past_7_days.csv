@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T21:09:00.000Z,02 January 2026 - 09:09 PM,16.87,120.63,011,1.6,011km S 78° E of Alilem (Ilocos Sur),011,S 78° E,Alilem (Ilocos Sur)
 2026-01-02T20:29:00.000Z,02 January 2026 - 08:29 PM,11.23,125.53,020,1.7,002km S 09° W of General Macarthur (Eastern Samar),002,S 09° W,General Macarthur (Eastern Samar)
 2026-01-02T20:07:00.000Z,02 January 2026 - 08:07 PM,16.29,120.99,034,1.5,005km West of Aritao (Nueva Vizcaya),005,West of Aritao,Vizcaya)
 2026-01-02T19:48:00.000Z,02 January 2026 - 07:48 PM,07.11,126.92,003,2.8,043km S 75° E of Manay (Davao Oriental),043,S 75° E,Manay (Davao Oriental)
@@ -314,6 +315,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T01:28:00.000Z,27 December 2025 - 01:28 AM,08.38,127.11,009,2.3,086km N 89° E of Hinatuan (Surigao Del Sur),086,N 89° E,Hinatuan (Surigao Del Sur)
 2025-12-27T01:27:00.000Z,27 December 2025 - 01:27 AM,08.10,122.68,060,1.4,002km S 08° E of Liloy (Zamboanga Del Norte),002,S 08° E,Liloy (Zamboanga Del Norte)
 2025-12-27T01:06:00.000Z,27 December 2025 - 01:06 AM,13.58,120.81,008,1.7,011km S 35° W of Tingloy (Batangas),011,S 35° W,Tingloy (Batangas)
-2025-12-26T21:02:00.000Z,26 December 2025 - 09:02 PM,15.00,122.46,004,1.9,036km N 23° E of Jomalig (Quezon),036,N 23° E,Jomalig (Quezon)
-2025-12-26T20:51:00.000Z,26 December 2025 - 08:51 PM,07.26,126.67,024,1.8,015km N 69° E of Manay (Davao Oriental),015,N 69° E,Manay (Davao Oriental)
-2025-12-26T20:40:00.000Z,26 December 2025 - 08:40 PM,10.11,122.33,021,2.3,040km N 16° W of City Of Sipalay (Negros Occidental),040,N 16° W,City Of Sipalay (Negros Occidental)
