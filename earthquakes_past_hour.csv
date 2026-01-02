@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-02T18:10:00.000Z,02 January 2026 - 06:10 PM,05.17,126.22,049,3.0,090km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),090,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-02T20:29:00.000Z,02 January 2026 - 08:29 PM,11.23,125.53,020,1.7,002km S 09° W of General Macarthur (Eastern Samar),002,S 09° W,General Macarthur (Eastern Samar)
+2026-01-02T20:07:00.000Z,02 January 2026 - 08:07 PM,16.29,120.99,034,1.5,005km West of Aritao (Nueva Vizcaya),005,West of Aritao,Vizcaya)
+2026-01-02T19:48:00.000Z,02 January 2026 - 07:48 PM,07.11,126.92,003,2.8,043km S 75° E of Manay (Davao Oriental),043,S 75° E,Manay (Davao Oriental)
+2026-01-02T19:30:00.000Z,02 January 2026 - 07:30 PM,05.71,126.20,068,2.7,065km S 70° E of Jose Abad Santos (Davao Occidental),065,S 70° E,Jose Abad Santos (Davao Occidental)

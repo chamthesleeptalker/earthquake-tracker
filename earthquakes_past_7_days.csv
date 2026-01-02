@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T20:29:00.000Z,02 January 2026 - 08:29 PM,11.23,125.53,020,1.7,002km S 09° W of General Macarthur (Eastern Samar),002,S 09° W,General Macarthur (Eastern Samar)
+2026-01-02T20:07:00.000Z,02 January 2026 - 08:07 PM,16.29,120.99,034,1.5,005km West of Aritao (Nueva Vizcaya),005,West of Aritao,Vizcaya)
+2026-01-02T19:48:00.000Z,02 January 2026 - 07:48 PM,07.11,126.92,003,2.8,043km S 75° E of Manay (Davao Oriental),043,S 75° E,Manay (Davao Oriental)
+2026-01-02T19:30:00.000Z,02 January 2026 - 07:30 PM,05.71,126.20,068,2.7,065km S 70° E of Jose Abad Santos (Davao Occidental),065,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-01-02T18:10:00.000Z,02 January 2026 - 06:10 PM,05.17,126.22,049,3.0,090km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),090,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-02T13:36:00.000Z,02 January 2026 - 01:36 PM,05.58,125.19,002,2.0,027km S 03° W of Glan (Sarangani),027,S 03° W,Glan (Sarangani)
 2026-01-02T13:16:00.000Z,02 January 2026 - 01:16 PM,13.54,120.68,100,2.4,012km N 27° W of Abra De Ilog (Occidental Mindoro),012,N 27° W,Abra De Ilog (Occidental Mindoro)
@@ -313,7 +317,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-26T21:02:00.000Z,26 December 2025 - 09:02 PM,15.00,122.46,004,1.9,036km N 23° E of Jomalig (Quezon),036,N 23° E,Jomalig (Quezon)
 2025-12-26T20:51:00.000Z,26 December 2025 - 08:51 PM,07.26,126.67,024,1.8,015km N 69° E of Manay (Davao Oriental),015,N 69° E,Manay (Davao Oriental)
 2025-12-26T20:40:00.000Z,26 December 2025 - 08:40 PM,10.11,122.33,021,2.3,040km N 16° W of City Of Sipalay (Negros Occidental),040,N 16° W,City Of Sipalay (Negros Occidental)
-2025-12-26T20:06:00.000Z,26 December 2025 - 08:06 PM,10.94,124.12,028,2.0,019km S 52° E of City Of Bogo (Cebu),019,S 52° E,City Of Bogo (Cebu)
-2025-12-26T19:34:00.000Z,26 December 2025 - 07:34 PM,07.93,125.92,029,1.9,013km S 61° W of Santa Josefa (Agusan Del Sur),013,S 61° W,Santa Josefa (Agusan Del Sur)
-2025-12-26T19:25:00.000Z,26 December 2025 - 07:25 PM,09.80,125.49,028,1.9,001km North of City Of Surigao (Surigao Del Norte),001,North of City,Surigao (Surigao Del Norte)
-2025-12-26T18:48:00.000Z,26 December 2025 - 06:48 PM,18.15,121.90,031,2.4,011km S 03° W of Santa Teresita (Cagayan),011,S 03° W,Santa Teresita (Cagayan)
