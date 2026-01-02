@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T22:32:00.000Z,02 January 2026 - 10:32 PM,05.89,127.26,082,3.8,156km S 57° E of Governor Generoso (Davao Oriental),156,S 57° E,Governor Generoso (Davao Oriental)
 2026-01-02T22:27:00.000Z,02 January 2026 - 10:27 PM,09.65,126.18,033,1.6,015km S 09° E of General Luna (Surigao Del Norte),015,S 09° E,General Luna (Surigao Del Norte)
 2026-01-02T22:22:00.000Z,02 January 2026 - 10:22 PM,09.77,126.31,010,3.9,016km S 85° E of General Luna (Surigao Del Norte),016,S 85° E,General Luna (Surigao Del Norte)
 2026-01-02T22:05:00.000Z,02 January 2026 - 10:05 PM,10.77,123.82,001,1.6,005km N 01° W of Tuburan (Cebu),005,N 01° W,Tuburan (Cebu)
