@@ -1,4 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-02T09:11:00.000Z,02 January 2026 - 09:11 AM,09.65,126.00,031,2.0,005km N 46° E of Socorro (Surigao Del Norte),005,N 46° E,Socorro (Surigao Del Norte)
-2026-01-02T08:50:00.000Z,02 January 2026 - 08:50 AM,08.52,126.22,006,2.2,010km N 48° E of Tagbina (Surigao Del Sur),010,N 48° E,Tagbina (Surigao Del Sur)
-2026-01-02T08:27:00.000Z,02 January 2026 - 08:27 AM,06.60,126.19,046,2.3,014km S 63° E of Governor Generoso (Davao Oriental),014,S 63° E,Governor Generoso (Davao Oriental)
+2026-01-02T11:17:00.000Z,02 January 2026 - 11:17 AM,15.52,119.84,029,1.4,012km N 39° W of Palauig (Zambales),012,N 39° W,Palauig (Zambales)
