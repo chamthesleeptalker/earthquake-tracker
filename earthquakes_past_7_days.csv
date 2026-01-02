@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-03T02:59:00.000Z,03 January 2026 - 02:59 AM,03.29,126.80,050,3.4,280km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),280,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-03T02:21:00.000Z,03 January 2026 - 02:21 AM,09.47,125.51,019,2.8,008km N 72° W of Kitcharao (Agusan Del Norte),008,N 72° W,Kitcharao (Agusan Del Norte)
 2026-01-03T02:18:00.000Z,03 January 2026 - 02:18 AM,05.80,126.70,020,3.1,117km S 36° E of Governor Generoso (Davao Oriental),117,S 36° E,Governor Generoso (Davao Oriental)
 2026-01-03T01:21:00.000Z,03 January 2026 - 01:21 AM,10.88,123.97,006,1.7,019km S 04° W of City Of Bogo (Cebu),019,S 04° W,City Of Bogo (Cebu)
@@ -333,5 +334,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T03:59:00.000Z,27 December 2025 - 03:59 AM,18.43,121.23,014,2.3,013km S 73° W of Pamplona (Cagayan),013,S 73° W,Pamplona (Cagayan)
 2025-12-27T03:40:00.000Z,27 December 2025 - 03:40 AM,12.64,124.78,074,1.9,014km N 13° E of Mondragon (Northern Samar),014,N 13° E,Mondragon (Northern Samar)
 2025-12-27T03:33:00.000Z,27 December 2025 - 03:33 AM,06.90,126.93,017,2.6,055km S 52° E of Manay (Davao Oriental),055,S 52° E,Manay (Davao Oriental)
-2025-12-27T02:58:00.000Z,27 December 2025 - 02:58 AM,10.91,123.96,005,2.6,015km S 09° W of City Of Bogo (Cebu),015,S 09° W,City Of Bogo (Cebu)
-2025-12-27T02:46:00.000Z,27 December 2025 - 02:46 AM,15.60,121.05,033,1.5,001km S 68° W of General Mamerto Natividad (Nueva Ecija),001,S 68° W,General Mamerto Natividad (Nueva Ecija)
