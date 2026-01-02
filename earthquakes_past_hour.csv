@@ -1,3 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T21:56:00.000Z,02 January 2026 - 09:56 PM,14.19,123.15,003,2.2,018km N 59° E of Mercedes (Camarines Norte),018,N 59° E,Mercedes (Camarines Norte)
+2026-01-02T21:51:00.000Z,02 January 2026 - 09:51 PM,08.64,123.32,021,2.4,007km N 26° W of City Of Dipolog (Zamboanga Del Norte),007,N 26° W,City Of Dipolog (Zamboanga Del Norte)
+2026-01-02T21:44:00.000Z,02 January 2026 - 09:44 PM,09.64,126.13,028,1.2,016km S 09° W of General Luna (Surigao Del Norte),016,S 09° W,General Luna (Surigao Del Norte)
+2026-01-02T21:40:00.000Z,02 January 2026 - 09:40 PM,09.76,126.28,033,2.9,013km S 80° E of General Luna (Surigao Del Norte),013,S 80° E,General Luna (Surigao Del Norte)
+2026-01-02T21:25:00.000Z,02 January 2026 - 09:25 PM,07.88,127.03,010,2.5,062km N 57° E of Baganga (Davao Oriental),062,N 57° E,Baganga (Davao Oriental)
 2026-01-02T21:09:00.000Z,02 January 2026 - 09:09 PM,16.87,120.63,011,1.6,011km S 78° E of Alilem (Ilocos Sur),011,S 78° E,Alilem (Ilocos Sur)
-2026-01-02T20:29:00.000Z,02 January 2026 - 08:29 PM,11.23,125.53,020,1.7,002km S 09° W of General Macarthur (Eastern Samar),002,S 09° W,General Macarthur (Eastern Samar)
