@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-02T09:11:00.000Z,02 January 2026 - 09:11 AM,09.65,126.00,031,2.0,005km N 46° E of Socorro (Surigao Del Norte),005,N 46° E,Socorro (Surigao Del Norte)
+2026-01-02T08:50:00.000Z,02 January 2026 - 08:50 AM,08.52,126.22,006,2.2,010km N 48° E of Tagbina (Surigao Del Sur),010,N 48° E,Tagbina (Surigao Del Sur)
+2026-01-02T08:27:00.000Z,02 January 2026 - 08:27 AM,06.60,126.19,046,2.3,014km S 63° E of Governor Generoso (Davao Oriental),014,S 63° E,Governor Generoso (Davao Oriental)
+2026-01-02T08:02:00.000Z,02 January 2026 - 08:02 AM,11.14,124.03,017,2.6,012km N 30° E of City Of Bogo (Cebu),012,N 30° E,City Of Bogo (Cebu)
+2026-01-02T07:50:00.000Z,02 January 2026 - 07:50 AM,11.03,124.04,003,2.8,006km S 74° E of City Of Bogo (Cebu),006,S 74° E,City Of Bogo (Cebu)
 2026-01-02T06:19:00.000Z,02 January 2026 - 06:19 AM,09.74,126.25,010,3.5,011km S 65° E of General Luna (Surigao Del Norte),011,S 65° E,General Luna (Surigao Del Norte)
 2026-01-02T05:30:00.000Z,02 January 2026 - 05:30 AM,07.64,123.82,033,2.0,016km S 79° W of Picong (Lanao Del Sur),016,S 79° W,Picong (Lanao Del Sur)
 2026-01-02T04:49:00.000Z,02 January 2026 - 04:49 AM,07.24,126.66,019,2.8,013km N 75° E of Manay (Davao Oriental),013,N 75° E,Manay (Davao Oriental)
