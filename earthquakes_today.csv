@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-03T10:16:00.000Z,03 January 2026 - 10:16 AM,12.05,122.39,017,1.4,034km N 26° E of Tangalan (Aklan),034,N 26° E,Tangalan (Aklan)
+2026-01-03T10:05:00.000Z,03 January 2026 - 10:05 AM,11.06,123.97,006,1.6,002km N 43° W of City Of Bogo (Cebu),002,N 43° W,City Of Bogo (Cebu)
 2026-01-03T07:28:00.000Z,03 January 2026 - 07:28 AM,17.13,120.38,005,3.2,007km S 59° W of City Of Candon (Ilocos Sur),007,S 59° W,City Of Candon (Ilocos Sur)
 2026-01-03T07:13:00.000Z,03 January 2026 - 07:13 AM,05.88,124.24,011,2.2,034km S 55° W of Maitum (Sarangani),034,S 55° W,Maitum (Sarangani)
 2026-01-03T03:12:00.000Z,03 January 2026 - 03:12 AM,08.77,126.17,033,1.2,007km N 67° W of San Agustin (Surigao Del Sur),007,N 67° W,San Agustin (Surigao Del Sur)
