@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-04T04:56:00.000Z,04 January 2026 - 04:56 AM,07.17,126.52,019,2.4,005km S 27° W of Manay (Davao Oriental),005,S 27° W,Manay (Davao Oriental)
+2026-01-04T04:46:00.000Z,04 January 2026 - 04:46 AM,04.76,127.73,125,5.4,262km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),262,S 72° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-04T04:23:00.000Z,04 January 2026 - 04:23 AM,07.07,126.81,024,3.7,034km S 63° E of Manay (Davao Oriental),034,S 63° E,Manay (Davao Oriental)
 2026-01-04T04:11:00.000Z,04 January 2026 - 04:11 AM,11.32,125.19,084,3.0,014km N 71° E of Basey (Samar),014,N 71° E,Basey (Samar)
 2026-01-04T02:55:00.000Z,04 January 2026 - 02:55 AM,19.74,121.37,004,3.4,054km N 12° W of Calayan (Cagayan),054,N 12° W,Calayan (Cagayan)
@@ -344,4 +346,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-28T06:55:00.000Z,28 December 2025 - 06:55 AM,14.92,122.58,001,1.7,036km N 47° E of Jomalig (Quezon),036,N 47° E,Jomalig (Quezon)
 2025-12-28T05:53:00.000Z,28 December 2025 - 05:53 AM,12.65,125.78,055,4.0,059km N 61° E of Gamay (Northern Samar),059,N 61° E,Gamay (Northern Samar)
 2025-12-28T05:05:00.000Z,28 December 2025 - 05:05 AM,08.74,126.50,020,1.4,023km S 73° E of Marihatag (Surigao Del Sur),023,S 73° E,Marihatag (Surigao Del Sur)
-2025-12-28T04:52:00.000Z,28 December 2025 - 04:52 AM,17.30,120.33,036,1.5,012km S 76° W of San Esteban (Ilocos Sur),012,S 76° W,San Esteban (Ilocos Sur)
