@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-03T14:08:00.000Z,03 January 2026 - 02:08 PM,13.19,124.33,003,1.9,022km N 90° E of Rapu-rapu (Albay),022,N 90° E,Rapu-rapu (Albay)
+2026-01-03T13:47:00.000Z,03 January 2026 - 01:47 PM,09.68,126.03,020,2.7,018km S 49° W of General Luna (Surigao Del Norte),018,S 49° W,General Luna (Surigao Del Norte)
 2026-01-03T13:23:00.000Z,03 January 2026 - 01:23 PM,09.53,122.83,130,3.5,017km N 17° E of City Of Bayawan (Negros Oriental),017,N 17° E,City Of Bayawan (Negros Oriental)
 2026-01-03T13:22:00.000Z,03 January 2026 - 01:22 PM,13.07,124.41,015,2.2,024km N 83° E of Prieto Diaz (Sorsogon),024,N 83° E,Prieto Diaz (Sorsogon)
 2026-01-03T13:10:00.000Z,03 January 2026 - 01:10 PM,11.12,124.70,008,2.1,012km S 50° W of Jaro (Leyte),012,S 50° W,Jaro (Leyte)
@@ -53,4 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-02T19:48:00.000Z,02 January 2026 - 07:48 PM,07.11,126.92,003,2.8,043km S 75° E of Manay (Davao Oriental),043,S 75° E,Manay (Davao Oriental)
 2026-01-02T19:30:00.000Z,02 January 2026 - 07:30 PM,05.71,126.20,068,2.7,065km S 70° E of Jose Abad Santos (Davao Occidental),065,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-01-02T18:10:00.000Z,02 January 2026 - 06:10 PM,05.17,126.22,049,3.0,090km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),090,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-02T13:36:00.000Z,02 January 2026 - 01:36 PM,05.58,125.19,002,2.0,027km S 03° W of Glan (Sarangani),027,S 03° W,Glan (Sarangani)
