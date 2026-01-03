@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-03T11:55:00.000Z,03 January 2026 - 11:55 AM,07.64,126.04,009,2.1,006km S 61° W of Compostela (Davao De Oro),006,S 61° W,Compostela (Davao De Oro)
+2026-01-03T11:19:00.000Z,03 January 2026 - 11:19 AM,06.21,126.55,022,2.3,072km S 47° E of Governor Generoso (Davao Oriental),072,S 47° E,Governor Generoso (Davao Oriental)
+2026-01-03T11:10:00.000Z,03 January 2026 - 11:10 AM,07.24,126.69,013,2.2,017km N 79° E of Manay (Davao Oriental),017,N 79° E,Manay (Davao Oriental)
 2026-01-03T10:16:00.000Z,03 January 2026 - 10:16 AM,12.05,122.39,017,1.4,034km N 26° E of Tangalan (Aklan),034,N 26° E,Tangalan (Aklan)
 2026-01-03T10:05:00.000Z,03 January 2026 - 10:05 AM,11.06,123.97,006,1.6,002km N 43° W of City Of Bogo (Cebu),002,N 43° W,City Of Bogo (Cebu)
 2026-01-03T07:28:00.000Z,03 January 2026 - 07:28 AM,17.13,120.38,005,3.2,007km S 59° W of City Of Candon (Ilocos Sur),007,S 59° W,City Of Candon (Ilocos Sur)
@@ -49,4 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-02T13:36:00.000Z,02 January 2026 - 01:36 PM,05.58,125.19,002,2.0,027km S 03° W of Glan (Sarangani),027,S 03° W,Glan (Sarangani)
 2026-01-02T13:16:00.000Z,02 January 2026 - 01:16 PM,13.54,120.68,100,2.4,012km N 27° W of Abra De Ilog (Occidental Mindoro),012,N 27° W,Abra De Ilog (Occidental Mindoro)
 2026-01-02T13:02:00.000Z,02 January 2026 - 01:02 PM,07.97,126.55,089,1.8,017km S 65° E of Lingig (Surigao Del Sur),017,S 65° E,Lingig (Surigao Del Sur)
-2026-01-02T11:17:00.000Z,02 January 2026 - 11:17 AM,15.52,119.84,029,1.4,012km N 39° W of Palauig (Zambales),012,N 39° W,Palauig (Zambales)
