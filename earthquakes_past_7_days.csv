@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-03T17:06:00.000Z,03 January 2026 - 05:06 PM,09.73,126.21,002,2.3,008km S 43° E of General Luna (Surigao Del Norte),008,S 43° E,General Luna (Surigao Del Norte)
+2026-01-03T16:44:00.000Z,03 January 2026 - 04:44 PM,09.67,126.17,023,2.0,012km S 08° E of General Luna (Surigao Del Norte),012,S 08° E,General Luna (Surigao Del Norte)
 2026-01-03T16:13:00.000Z,03 January 2026 - 04:13 PM,09.67,126.32,034,1.9,022km S 56° E of General Luna (Surigao Del Norte),022,S 56° E,General Luna (Surigao Del Norte)
 2026-01-03T16:10:00.000Z,03 January 2026 - 04:10 PM,09.63,126.23,032,1.4,018km S 25° E of General Luna (Surigao Del Norte),018,S 25° E,General Luna (Surigao Del Norte)
 2026-01-03T15:58:00.000Z,03 January 2026 - 03:58 PM,09.64,126.27,034,1.4,020km S 40° E of General Luna (Surigao Del Norte),020,S 40° E,General Luna (Surigao Del Norte)
@@ -352,4 +354,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T19:28:00.000Z,27 December 2025 - 07:28 PM,09.68,126.14,033,2.1,012km S 11° W of General Luna (Surigao Del Norte),012,S 11° W,General Luna (Surigao Del Norte)
 2025-12-27T18:56:00.000Z,27 December 2025 - 06:56 PM,16.62,119.80,040,2.0,028km N 21° W of Bolinao (Pangasinan),028,N 21° W,Bolinao (Pangasinan)
 2025-12-27T18:35:00.000Z,27 December 2025 - 06:35 PM,09.79,126.10,030,1.3,006km N 80° W of General Luna (Surigao Del Norte),006,N 80° W,General Luna (Surigao Del Norte)
-2025-12-27T16:30:00.000Z,27 December 2025 - 04:30 PM,08.72,126.78,004,2.5,053km S 80° E of Marihatag (Surigao Del Sur),053,S 80° E,Marihatag (Surigao Del Sur)
