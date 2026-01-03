@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-01-01T18:46:00.000Z,01 January 2026 - 06:46 PM,07.60,126.83,21,5.1,029km N 84° E of Baganga (Davao Oriental),029,N 84° E,Baganga (Davao Oriental)
 2026-01-01T10:56:00.000Z,01 January 2026 - 10:56 AM,04.98,127.51,134,5.1,231km S 63° E of Jose Abad Santos (Davao Occidental),231,S 63° E,Jose Abad Santos (Davao Occidental)
-2025-12-28T02:26:00.000Z,28 December 2025 - 02:26 AM,15.49,119.81,30,4.8,012km N 60° W of Palauig (Zambales),012,N 60° W,Palauig (Zambales)
 2026-01-03T04:03:00.000Z,03 January 2026 - 04:03 AM,02.95,128.84,148,4.6,467km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),467,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-01T01:30:00.000Z,01 January 2026 - 01:30 AM,07.30,126.93,10,4.5,044km N 77° E of Manay (Davao Oriental),044,N 77° E,Manay (Davao Oriental)
 2026-01-03T00:45:00.000Z,03 January 2026 - 12:45 AM,06.28,126.97,10,4.3,103km S 34° E of Tarragona (Davao Oriental),103,S 34° E,Tarragona (Davao Oriental)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T00:44:00.000Z,31 December 2025 - 12:44 AM,05.91,127.28,74,4.3,156km S 36° E of Tarragona (Davao Oriental),156,S 36° E,Tarragona (Davao Oriental)
 2025-12-29T23:52:00.000Z,29 December 2025 - 11:52 PM,06.15,124.14,10,4.3,008km S 38° W of Palimbang (Sultan Kudarat),008,S 38° W,Palimbang (Sultan Kudarat)
 2025-12-30T19:10:00.000Z,30 December 2025 - 07:10 PM,11.96,122.29,10,4.2,020km N 9° E of Tangalan (Aklan),020,N 9° E,Tangalan (Aklan)
+2026-01-01T00:56:00.000Z,01 January 2026 - 12:56 AM,09.69,126.22,10,4.1,012km S 34° E of General Luna (Surigao Del Norte),012,S 34° E,General Luna (Surigao Del Norte)
