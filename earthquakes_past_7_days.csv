@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-03T22:28:00.000Z,03 January 2026 - 10:28 PM,10.88,124.02,005,2.0,019km S 13° E of City Of Bogo (Cebu),019,S 13° E,City Of Bogo (Cebu)
 2026-01-03T22:02:00.000Z,03 January 2026 - 10:02 PM,07.81,121.95,014,1.4,021km N 89° W of Baliguian (Zamboanga Del Norte),021,N 89° W,Baliguian (Zamboanga Del Norte)
 2026-01-03T21:57:00.000Z,03 January 2026 - 09:57 PM,06.71,125.89,034,3.4,021km N 74° W of Governor Generoso (Davao Oriental),021,N 74° W,Governor Generoso (Davao Oriental)
 2026-01-03T21:02:00.000Z,03 January 2026 - 09:02 PM,18.83,120.55,034,3.2,036km N 16° W of Burgos (Ilocos Norte),036,N 16° W,Burgos (Ilocos Norte)
@@ -352,4 +353,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-27T23:50:00.000Z,27 December 2025 - 11:50 PM,13.67,120.62,095,1.9,018km S 04° W of Calatagan (Batangas),018,S 04° W,Calatagan (Batangas)
 2025-12-27T23:05:00.000Z,27 December 2025 - 11:05 PM,24.65,122.04,068,2.4,429km N 03° W of Itbayat (Batanes),429,N 03° W,Itbayat (Batanes)
 2025-12-27T22:44:00.000Z,27 December 2025 - 10:44 PM,13.52,120.52,042,2.4,013km N 27° E of Paluan (Occidental Mindoro),013,N 27° E,Paluan (Occidental Mindoro)
-2025-12-27T22:20:00.000Z,27 December 2025 - 10:20 PM,18.45,121.23,012,2.1,012km S 82° W of Pamplona (Cagayan),012,S 82° W,Pamplona (Cagayan)
