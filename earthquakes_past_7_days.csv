@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T05:17:00.000Z,05 January 2026 - 05:17 AM,18.24,120.91,006,2.0,014km S 85° W of Calanasan (Apayao),014,S 85° W,Calanasan (Apayao)
 2026-01-05T04:51:00.000Z,05 January 2026 - 04:51 AM,13.58,120.69,094,1.9,022km S 65° W of Tingloy (Batangas),022,S 65° W,Tingloy (Batangas)
 2026-01-05T02:57:00.000Z,05 January 2026 - 02:57 AM,14.82,121.33,029,2.0,022km N 65° E of Rodriguez (Rizal),022,N 65° E,Rodriguez (Rizal)
 2026-01-05T02:42:00.000Z,05 January 2026 - 02:42 AM,07.84,123.25,017,2.2,003km N 59° E of Tigbao (Zamboanga Del Sur),003,N 59° E,Tigbao (Zamboanga Del Sur)
@@ -325,4 +326,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-29T08:27:00.000Z,29 December 2025 - 08:27 AM,09.70,126.29,039,1.4,017km S 59° E of General Luna (Surigao Del Norte),017,S 59° E,General Luna (Surigao Del Norte)
 2025-12-29T08:09:00.000Z,29 December 2025 - 08:09 AM,13.02,124.39,004,2.4,021km S 83° E of Prieto Diaz (Sorsogon),021,S 83° E,Prieto Diaz (Sorsogon)
 2025-12-29T05:38:00.000Z,29 December 2025 - 05:38 AM,05.68,125.49,212,2.8,023km N 05° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 05° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-29T04:56:00.000Z,29 December 2025 - 04:56 AM,05.43,126.21,002,2.7,082km S 50° E of Jose Abad Santos (Davao Occidental),082,S 50° E,Jose Abad Santos (Davao Occidental)
