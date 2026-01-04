@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T02:42:00.000Z,05 January 2026 - 02:42 AM,07.84,123.25,017,2.2,003km N 59° E of Tigbao (Zamboanga Del Sur),003,N 59° E,Tigbao (Zamboanga Del Sur)
 2026-01-05T01:07:00.000Z,05 January 2026 - 01:07 AM,08.74,126.89,002,1.8,065km S 84° E of Marihatag (Surigao Del Sur),065,S 84° E,Marihatag (Surigao Del Sur)
 2026-01-05T00:38:00.000Z,05 January 2026 - 12:38 AM,08.90,126.49,016,2.0,021km S 84° E of Cagwait (Surigao Del Sur),021,S 84° E,Cagwait (Surigao Del Sur)
 2026-01-04T22:16:00.000Z,04 January 2026 - 10:16 PM,10.90,124.00,005,2.0,016km S 09° E of City Of Bogo (Cebu),016,S 09° E,City Of Bogo (Cebu)
@@ -30,5 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-04T04:23:00.000Z,04 January 2026 - 04:23 AM,07.07,126.81,024,3.7,034km S 63° E of Manay (Davao Oriental),034,S 63° E,Manay (Davao Oriental)
 2026-01-04T04:11:00.000Z,04 January 2026 - 04:11 AM,11.32,125.19,084,3.0,014km N 71° E of Basey (Samar),014,N 71° E,Basey (Samar)
 2026-01-04T02:55:00.000Z,04 January 2026 - 02:55 AM,19.74,121.37,004,3.4,054km N 12° W of Calayan (Cagayan),054,N 12° W,Calayan (Cagayan)
-2026-01-04T02:33:00.000Z,04 January 2026 - 02:33 AM,09.66,126.25,026,2.2,017km S 37° E of General Luna (Surigao Del Norte),017,S 37° E,General Luna (Surigao Del Norte)
-2026-01-04T02:31:00.000Z,04 January 2026 - 02:31 AM,13.50,120.14,001,2.3,027km S 27° W of Looc (Occidental Mindoro),027,S 27° W,Looc (Occidental Mindoro)
