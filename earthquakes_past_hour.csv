@@ -1,7 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-04T16:37:00.000Z,04 January 2026 - 04:37 PM,08.47,126.46,115,1.7,017km N 49° E of Hinatuan (Surigao Del Sur),017,N 49° E,Hinatuan (Surigao Del Sur)
-2026-01-04T16:24:00.000Z,04 January 2026 - 04:24 PM,13.01,123.43,070,1.6,005km S 38° W of Pio Duran (Albay),005,S 38° W,Pio Duran (Albay)
-2026-01-04T16:08:00.000Z,04 January 2026 - 04:08 PM,09.60,125.57,028,2.3,005km N 05° E of Tubod (Surigao Del Norte),005,N 05° E,Tubod (Surigao Del Norte)
-2026-01-04T16:03:00.000Z,04 January 2026 - 04:03 PM,07.82,125.95,054,1.4,011km S 85° W of Monkayo (Davao De Oro),011,S 85° W,Monkayo (Davao De Oro)
-2026-01-04T15:52:00.000Z,04 January 2026 - 03:52 PM,06.09,126.20,131,2.4,057km S 77° E of Don Marcelino (Davao Occidental),057,S 77° E,Don Marcelino (Davao Occidental)
-2026-01-04T15:37:00.000Z,04 January 2026 - 03:37 PM,10.17,125.84,032,1.5,028km N 52° W of Santa Monica (Surigao Del Norte),028,N 52° W,Santa Monica (Surigao Del Norte)
+2026-01-04T17:39:00.000Z,04 January 2026 - 05:39 PM,17.01,120.11,031,1.5,033km N 58° W of Luna (La Union),033,N 58° W,Luna (La Union)
