@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-04T16:37:00.000Z,04 January 2026 - 04:37 PM,08.47,126.46,115,1.7,017km N 49° E of Hinatuan (Surigao Del Sur),017,N 49° E,Hinatuan (Surigao Del Sur)
+2026-01-04T16:24:00.000Z,04 January 2026 - 04:24 PM,13.01,123.43,070,1.6,005km S 38° W of Pio Duran (Albay),005,S 38° W,Pio Duran (Albay)
 2026-01-04T16:08:00.000Z,04 January 2026 - 04:08 PM,09.60,125.57,028,2.3,005km N 05° E of Tubod (Surigao Del Norte),005,N 05° E,Tubod (Surigao Del Norte)
 2026-01-04T16:03:00.000Z,04 January 2026 - 04:03 PM,07.82,125.95,054,1.4,011km S 85° W of Monkayo (Davao De Oro),011,S 85° W,Monkayo (Davao De Oro)
 2026-01-04T15:52:00.000Z,04 January 2026 - 03:52 PM,06.09,126.20,131,2.4,057km S 77° E of Don Marcelino (Davao Occidental),057,S 77° E,Don Marcelino (Davao Occidental)
@@ -339,6 +341,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-28T18:05:00.000Z,28 December 2025 - 06:05 PM,08.41,126.14,031,1.4,006km S 22° W of Tagbina (Surigao Del Sur),006,S 22° W,Tagbina (Surigao Del Sur)
 2025-12-28T17:59:00.000Z,28 December 2025 - 05:59 PM,09.64,126.24,026,3.0,018km S 30° E of General Luna (Surigao Del Norte),018,S 30° E,General Luna (Surigao Del Norte)
 2025-12-28T17:52:00.000Z,28 December 2025 - 05:52 PM,07.77,126.74,018,3.3,029km N 42° E of Baganga (Davao Oriental),029,N 42° E,Baganga (Davao Oriental)
-2025-12-28T16:32:00.000Z,28 December 2025 - 04:32 PM,07.64,126.59,041,2.3,008km N 23° E of Baganga (Davao Oriental),008,N 23° E,Baganga (Davao Oriental)
-2025-12-28T16:21:00.000Z,28 December 2025 - 04:21 PM,13.59,120.70,083,1.7,016km N 10° W of Abra De Ilog (Occidental Mindoro),016,N 10° W,Abra De Ilog (Occidental Mindoro)
-2025-12-28T16:20:00.000Z,28 December 2025 - 04:20 PM,10.82,124.01,024,1.8,004km S 48° W of Borbon (Cebu),004,S 48° W,Borbon (Cebu)
