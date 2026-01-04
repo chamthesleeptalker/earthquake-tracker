@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-04T13:25:00.000Z,04 January 2026 - 01:25 PM,09.67,126.34,020,2.4,024km S 57° E of General Luna (Surigao Del Norte),024,S 57° E,General Luna (Surigao Del Norte)
 2026-01-04T12:50:00.000Z,04 January 2026 - 12:50 PM,08.47,125.74,050,2.0,003km S 10° E of San Luis (Agusan Del Sur),003,S 10° E,San Luis (Agusan Del Sur)
 2026-01-04T11:47:00.000Z,04 January 2026 - 11:47 AM,16.83,119.81,022,2.4,050km N 10° W of Bolinao (Pangasinan),050,N 10° W,Bolinao (Pangasinan)
 2026-01-04T10:02:00.000Z,04 January 2026 - 10:02 AM,18.19,120.60,029,1.5,001km S 71° E of City Of Laoag (Ilocos Norte),001,S 71° E,City Of Laoag (Ilocos Norte)
@@ -41,7 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-03T14:50:00.000Z,03 January 2026 - 02:50 PM,10.89,123.86,001,2.1,021km S 37° W of City Of Bogo (Cebu),021,S 37° W,City Of Bogo (Cebu)
 2026-01-03T14:08:00.000Z,03 January 2026 - 02:08 PM,13.19,124.33,003,1.9,022km N 90° E of Rapu-rapu (Albay),022,N 90° E,Rapu-rapu (Albay)
 2026-01-03T13:47:00.000Z,03 January 2026 - 01:47 PM,09.68,126.03,020,2.7,018km S 49° W of General Luna (Surigao Del Norte),018,S 49° W,General Luna (Surigao Del Norte)
-2026-01-03T13:23:00.000Z,03 January 2026 - 01:23 PM,09.53,122.83,130,3.5,017km N 17° E of City Of Bayawan (Negros Oriental),017,N 17° E,City Of Bayawan (Negros Oriental)
-2026-01-03T13:22:00.000Z,03 January 2026 - 01:22 PM,13.07,124.41,015,2.2,024km N 83° E of Prieto Diaz (Sorsogon),024,N 83° E,Prieto Diaz (Sorsogon)
-2026-01-03T13:10:00.000Z,03 January 2026 - 01:10 PM,11.12,124.70,008,2.1,012km S 50° W of Jaro (Leyte),012,S 50° W,Jaro (Leyte)
-2026-01-03T13:06:00.000Z,03 January 2026 - 01:06 PM,16.96,119.97,019,2.4,045km N 76° W of Luna (La Union),045,N 76° W,Luna (La Union)
