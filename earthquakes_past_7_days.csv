@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-04T18:23:00.000Z,04 January 2026 - 06:23 PM,08.51,125.87,014,2.4,011km S 28° W of Prosperidad (Agusan Del Sur),011,S 28° W,Prosperidad (Agusan Del Sur)
 2026-01-04T17:39:00.000Z,04 January 2026 - 05:39 PM,17.01,120.11,031,1.5,033km N 58° W of Luna (La Union),033,N 58° W,Luna (La Union)
 2026-01-04T16:37:00.000Z,04 January 2026 - 04:37 PM,08.47,126.46,115,1.7,017km N 49° E of Hinatuan (Surigao Del Sur),017,N 49° E,Hinatuan (Surigao Del Sur)
 2026-01-04T16:24:00.000Z,04 January 2026 - 04:24 PM,13.01,123.43,070,1.6,005km S 38° W of Pio Duran (Albay),005,S 38° W,Pio Duran (Albay)
@@ -338,7 +339,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-28T19:45:00.000Z,28 December 2025 - 07:45 PM,07.53,126.74,022,1.9,021km S 76° E of Baganga (Davao Oriental),021,S 76° E,Baganga (Davao Oriental)
 2025-12-28T19:27:00.000Z,28 December 2025 - 07:27 PM,07.38,126.62,009,2.6,021km N 26° E of Manay (Davao Oriental),021,N 26° E,Manay (Davao Oriental)
 2025-12-28T18:30:00.000Z,28 December 2025 - 06:30 PM,08.59,126.54,003,2.1,033km N 41° E of Hinatuan (Surigao Del Sur),033,N 41° E,Hinatuan (Surigao Del Sur)
-2025-12-28T18:06:00.000Z,28 December 2025 - 06:06 PM,10.49,123.22,018,1.5,009km S 01° W of Salvador Benedicto (Negros Occidental),009,S 01° W,Salvador Benedicto (Negros Occidental)
-2025-12-28T18:05:00.000Z,28 December 2025 - 06:05 PM,08.41,126.14,031,1.4,006km S 22° W of Tagbina (Surigao Del Sur),006,S 22° W,Tagbina (Surigao Del Sur)
-2025-12-28T17:59:00.000Z,28 December 2025 - 05:59 PM,09.64,126.24,026,3.0,018km S 30° E of General Luna (Surigao Del Norte),018,S 30° E,General Luna (Surigao Del Norte)
-2025-12-28T17:52:00.000Z,28 December 2025 - 05:52 PM,07.77,126.74,018,3.3,029km N 42° E of Baganga (Davao Oriental),029,N 42° E,Baganga (Davao Oriental)
