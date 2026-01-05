@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T00:15:00.000Z,06 January 2026 - 12:15 AM,14.74,122.43,008,1.7,012km N 68° E of Jomalig (Quezon),012,N 68° E,Jomalig (Quezon)
+2026-01-06T00:11:00.000Z,06 January 2026 - 12:11 AM,15.62,119.87,009,2.6,006km S 86° W of Candelaria (Zambales),006,S 86° W,Candelaria (Zambales)
 2026-01-05T23:31:00.000Z,05 January 2026 - 11:31 PM,05.89,126.29,132,2.3,071km S 88° E of Jose Abad Santos (Davao Occidental),071,S 88° E,Jose Abad Santos (Davao Occidental)
 2026-01-05T23:20:00.000Z,05 January 2026 - 11:20 PM,06.27,126.20,100,2.5,045km S 18° E of Governor Generoso (Davao Oriental),045,S 18° E,Governor Generoso (Davao Oriental)
 2026-01-05T23:13:00.000Z,05 January 2026 - 11:13 PM,13.87,120.35,045,1.5,019km N 33° E of Looc (Occidental Mindoro),019,N 33° E,Looc (Occidental Mindoro)
@@ -330,7 +332,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T00:48:00.000Z,30 December 2025 - 12:48 AM,12.98,121.29,033,1.5,015km S 56° W of Socorro (Oriental Mindoro),015,S 56° W,Socorro (Oriental Mindoro)
 2025-12-30T00:43:00.000Z,30 December 2025 - 12:43 AM,04.88,126.26,102,3.4,110km S 58° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),110,S 58° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2025-12-30T00:29:00.000Z,30 December 2025 - 12:29 AM,11.23,123.83,030,1.6,026km N 38° W of City Of Bogo (Cebu),026,N 38° W,City Of Bogo (Cebu)
-2025-12-29T23:52:00.000Z,29 December 2025 - 11:52 PM,06.15,124.14,010,4.3,008km S 38° W of Palimbang (Sultan Kudarat),008,S 38° W,Palimbang (Sultan Kudarat)
-2025-12-29T23:41:00.000Z,29 December 2025 - 11:41 PM,12.32,125.04,027,1.9,002km S 27° E of Las Navas (Northern Samar),002,S 27° E,Las Navas (Northern Samar)
-2025-12-29T23:39:00.000Z,29 December 2025 - 11:39 PM,05.69,126.51,020,3.4,099km S 75° E of Jose Abad Santos (Davao Occidental),099,S 75° E,Jose Abad Santos (Davao Occidental)
-2025-12-29T23:32:00.000Z,29 December 2025 - 11:32 PM,06.79,126.99,007,2.5,068km S 47° E of Manay (Davao Oriental),068,S 47° E,Manay (Davao Oriental)

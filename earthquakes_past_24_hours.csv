@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T00:15:00.000Z,06 January 2026 - 12:15 AM,14.74,122.43,008,1.7,012km N 68° E of Jomalig (Quezon),012,N 68° E,Jomalig (Quezon)
+2026-01-06T00:11:00.000Z,06 January 2026 - 12:11 AM,15.62,119.87,009,2.6,006km S 86° W of Candelaria (Zambales),006,S 86° W,Candelaria (Zambales)
 2026-01-05T23:31:00.000Z,05 January 2026 - 11:31 PM,05.89,126.29,132,2.3,071km S 88° E of Jose Abad Santos (Davao Occidental),071,S 88° E,Jose Abad Santos (Davao Occidental)
 2026-01-05T23:20:00.000Z,05 January 2026 - 11:20 PM,06.27,126.20,100,2.5,045km S 18° E of Governor Generoso (Davao Oriental),045,S 18° E,Governor Generoso (Davao Oriental)
 2026-01-05T23:13:00.000Z,05 January 2026 - 11:13 PM,13.87,120.35,045,1.5,019km N 33° E of Looc (Occidental Mindoro),019,N 33° E,Looc (Occidental Mindoro)
