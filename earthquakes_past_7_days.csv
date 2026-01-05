@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T17:19:00.000Z,05 January 2026 - 05:19 PM,13.96,120.37,071,2.6,030km N 67° E of Lubang (Occidental Mindoro),030,N 67° E,Lubang (Occidental Mindoro)
+2026-01-05T16:21:00.000Z,05 January 2026 - 04:21 PM,16.74,120.69,031,1.6,006km S 45° W of Bakun (Benguet),006,S 45° W,Bakun (Benguet)
 2026-01-05T16:01:00.000Z,05 January 2026 - 04:01 PM,11.11,123.95,010,1.9,007km N 26° W of City Of Bogo (Cebu),007,N 26° W,City Of Bogo (Cebu)
 2026-01-05T15:59:00.000Z,05 January 2026 - 03:59 PM,11.08,123.93,010,3.3,006km N 55° W of City Of Bogo (Cebu),006,N 55° W,City Of Bogo (Cebu)
 2026-01-04T16:23:00.000Z,04 January 2026 - 04:23 PM,12.90,123.17,011,1.8,009km N 88° W of Claveria (Masbate),009,N 88° W,Claveria (Masbate)
@@ -328,5 +330,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-29T20:34:00.000Z,29 December 2025 - 08:34 PM,05.50,127.03,007,3.8,160km S 73° E of Jose Abad Santos (Davao Occidental),160,S 73° E,Jose Abad Santos (Davao Occidental)
 2025-12-29T19:32:00.000Z,29 December 2025 - 07:32 PM,05.98,126.30,031,2.6,071km S 71° E of Don Marcelino (Davao Occidental),071,S 71° E,Don Marcelino (Davao Occidental)
 2025-12-29T17:40:00.000Z,29 December 2025 - 05:40 PM,08.75,126.39,030,1.5,011km S 61° E of Marihatag (Surigao Del Sur),011,S 61° E,Marihatag (Surigao Del Sur)
-2025-12-29T17:01:00.000Z,29 December 2025 - 05:01 PM,05.44,126.45,104,3.4,104km S 60° E of Jose Abad Santos (Davao Occidental),104,S 60° E,Jose Abad Santos (Davao Occidental)
-2025-12-29T16:41:00.000Z,29 December 2025 - 04:41 PM,07.53,126.75,033,1.9,021km S 77° E of Baganga (Davao Oriental),021,S 77° E,Baganga (Davao Oriental)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T17:19:00.000Z,05 January 2026 - 05:19 PM,13.96,120.37,071,2.6,030km N 67° E of Lubang (Occidental Mindoro),030,N 67° E,Lubang (Occidental Mindoro)
+2026-01-05T16:21:00.000Z,05 January 2026 - 04:21 PM,16.74,120.69,031,1.6,006km S 45° W of Bakun (Benguet),006,S 45° W,Bakun (Benguet)
 2026-01-05T16:01:00.000Z,05 January 2026 - 04:01 PM,11.11,123.95,010,1.9,007km N 26° W of City Of Bogo (Cebu),007,N 26° W,City Of Bogo (Cebu)
 2026-01-05T15:59:00.000Z,05 January 2026 - 03:59 PM,11.08,123.93,010,3.3,006km N 55° W of City Of Bogo (Cebu),006,N 55° W,City Of Bogo (Cebu)
 2026-01-05T11:57:00.000Z,05 January 2026 - 11:57 AM,17.39,119.69,011,2.6,075km S 72° W of Santa Catalina (Ilocos Sur),075,S 72° W,Santa Catalina (Ilocos Sur)
