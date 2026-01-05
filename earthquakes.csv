@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T11:28:00.000Z,05 January 2026 - 11:28 AM,17.36,119.94,004,2.5,052km S 67° W of Caoayan (Ilocos Sur),052,S 67° W,Caoayan (Ilocos Sur)
+2026-01-05T11:17:00.000Z,05 January 2026 - 11:17 AM,18.11,120.59,031,2.6,007km N 22° E of City Of Batac (Ilocos Norte),007,N 22° E,City Of Batac (Ilocos Norte)
+2026-01-05T10:03:00.000Z,05 January 2026 - 10:03 AM,07.21,126.72,097,2.2,020km S 89° E of Manay (Davao Oriental),020,S 89° E,Manay (Davao Oriental)
+2026-01-05T10:03:00.000Z,05 January 2026 - 10:03 AM,07.21,126.72,097,2.2,020km S 89° E of Manay (Davao Oriental),020,S 89° E,Manay (Davao Oriental)
 2026-01-05T09:13:00.000Z,05 January 2026 - 09:13 AM,06.94,127.19,014,3.5,078km S 67° E of Manay (Davao Oriental),078,S 67° E,Manay (Davao Oriental)
 2026-01-05T08:07:00.000Z,05 January 2026 - 08:07 AM,09.37,126.18,022,2.5,011km N 09° W of Cortes (Surigao Del Sur),011,N 09° W,Cortes (Surigao Del Sur)
 2026-01-05T07:48:00.000Z,05 January 2026 - 07:48 AM,15.59,121.18,033,1.8,005km S 47° E of Bongabon (Nueva Ecija),005,S 47° E,Bongabon (Nueva Ecija)

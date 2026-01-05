@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T11:28:00.000Z,05 January 2026 - 11:28 AM,17.36,119.94,004,2.5,052km S 67° W of Caoayan (Ilocos Sur),052,S 67° W,Caoayan (Ilocos Sur)
+2026-01-05T11:17:00.000Z,05 January 2026 - 11:17 AM,18.11,120.59,031,2.6,007km N 22° E of City Of Batac (Ilocos Norte),007,N 22° E,City Of Batac (Ilocos Norte)
+2026-01-05T10:03:00.000Z,05 January 2026 - 10:03 AM,07.21,126.72,097,2.2,020km S 89° E of Manay (Davao Oriental),020,S 89° E,Manay (Davao Oriental)
+2026-01-05T10:03:00.000Z,05 January 2026 - 10:03 AM,07.21,126.72,097,2.2,020km S 89° E of Manay (Davao Oriental),020,S 89° E,Manay (Davao Oriental)
 2026-01-05T09:13:00.000Z,05 January 2026 - 09:13 AM,06.94,127.19,014,3.5,078km S 67° E of Manay (Davao Oriental),078,S 67° E,Manay (Davao Oriental)
 2026-01-05T08:07:00.000Z,05 January 2026 - 08:07 AM,09.37,126.18,022,2.5,011km N 09° W of Cortes (Surigao Del Sur),011,N 09° W,Cortes (Surigao Del Sur)
 2026-01-05T07:48:00.000Z,05 January 2026 - 07:48 AM,15.59,121.18,033,1.8,005km S 47° E of Bongabon (Nueva Ecija),005,S 47° E,Bongabon (Nueva Ecija)
@@ -326,8 +330,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-29T12:57:00.000Z,29 December 2025 - 12:57 PM,19.46,122.04,018,3.4,015km S 68° E of Babuyan Island (Calayan) (Cagayan),015,S 68° E,Babuyan Island (Calayan) (Cagayan)
 2025-12-29T12:43:00.000Z,29 December 2025 - 12:43 PM,13.81,120.57,059,1.6,008km S 69° W of Calatagan (Batangas),008,S 69° W,Calatagan (Batangas)
 2025-12-29T11:38:00.000Z,29 December 2025 - 11:38 AM,10.13,124.92,028,2.0,008km N 89° E of City Of Maasin  (Southern Leyte),008,N 89° E,City Of Maasin  (Southern Leyte)
-2025-12-29T11:14:00.000Z,29 December 2025 - 11:14 AM,08.11,126.56,030,2.2,019km N 65° E of Lingig (Surigao Del Sur),019,N 65° E,Lingig (Surigao Del Sur)
-2025-12-29T10:42:00.000Z,29 December 2025 - 10:42 AM,08.35,126.44,051,3.8,012km S 79° E of Hinatuan (Surigao Del Sur),012,S 79° E,Hinatuan (Surigao Del Sur)
-2025-12-29T09:53:00.000Z,29 December 2025 - 09:53 AM,19.02,121.14,024,4.1,012km S 33° W of Dalupiri Island (Calayan) (Cagayan),012,S 33° W,Dalupiri Island (Calayan) (Cagayan)
-2025-12-29T09:29:00.000Z,29 December 2025 - 09:29 AM,11.13,124.17,011,2.2,023km N 67° E of City Of Bogo (Cebu),023,N 67° E,City Of Bogo (Cebu)
-2025-12-29T09:17:00.000Z,29 December 2025 - 09:17 AM,15.50,119.87,032,1.7,009km N 26° W of Palauig (Zambales),009,N 26° W,Palauig (Zambales)
