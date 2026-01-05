@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T01:00:00.000Z,06 January 2026 - 01:00 AM,07.13,126.94,012,3.1,046km S 79° E of Manay (Davao Oriental),046,S 79° E,Manay (Davao Oriental)
 2026-01-06T00:28:00.000Z,06 January 2026 - 12:28 AM,09.95,121.65,026,3.0,061km S 29° W of Anini-y (Antique),061,S 29° W,Anini-y (Antique)
 2026-01-06T00:32:00.000Z,06 January 2026 - 12:32 AM,09.24,126.65,008,2.4,050km N 53° E of Bayabas (Surigao Del Sur),050,N 53° E,Bayabas (Surigao Del Sur)
 2026-01-06T00:26:00.000Z,06 January 2026 - 12:26 AM,04.64,124.40,033,3.3,142km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),142,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -36,4 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-05T02:57:00.000Z,05 January 2026 - 02:57 AM,14.82,121.33,029,2.0,022km N 65° E of Rodriguez (Rizal),022,N 65° E,Rodriguez (Rizal)
 2026-01-05T02:42:00.000Z,05 January 2026 - 02:42 AM,07.84,123.25,017,2.2,003km N 59° E of Tigbao (Zamboanga Del Sur),003,N 59° E,Tigbao (Zamboanga Del Sur)
 2026-01-05T01:07:00.000Z,05 January 2026 - 01:07 AM,08.74,126.89,002,1.8,065km S 84° E of Marihatag (Surigao Del Sur),065,S 84° E,Marihatag (Surigao Del Sur)
-2026-01-05T00:38:00.000Z,05 January 2026 - 12:38 AM,08.90,126.49,016,2.0,021km S 84° E of Cagwait (Surigao Del Sur),021,S 84° E,Cagwait (Surigao Del Sur)
