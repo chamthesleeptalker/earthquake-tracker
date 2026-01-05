@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T18:47:00.000Z,05 January 2026 - 06:47 PM,08.59,123.43,017,2.9,006km S 13° E of City Of Dapitan (Zamboanga Del Norte),006,S 13° E,City Of Dapitan (Zamboanga Del Norte)
 2026-01-05T17:37:00.000Z,05 January 2026 - 05:37 PM,09.66,126.23,024,1.4,016km S 31° E of General Luna (Surigao Del Norte),016,S 31° E,General Luna (Surigao Del Norte)
 2026-01-05T17:19:00.000Z,05 January 2026 - 05:19 PM,13.96,120.37,071,2.6,030km N 67° E of Lubang (Occidental Mindoro),030,N 67° E,Lubang (Occidental Mindoro)
 2026-01-05T16:21:00.000Z,05 January 2026 - 04:21 PM,16.74,120.69,031,1.6,006km S 45° W of Bakun (Benguet),006,S 45° W,Bakun (Benguet)
@@ -29,5 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-04T20:57:00.000Z,04 January 2026 - 08:57 PM,09.82,125.51,026,1.5,003km N 36° E of City Of Surigao (Surigao Del Norte),003,N 36° E,City Of Surigao (Surigao Del Norte)
 2026-01-04T20:04:00.000Z,04 January 2026 - 08:04 PM,09.87,122.06,002,2.8,042km N 74° W of City Of Sipalay (Negros Occidental),042,N 74° W,City Of Sipalay (Negros Occidental)
 2026-01-04T19:46:00.000Z,04 January 2026 - 07:46 PM,10.42,124.19,002,1.3,019km S 80° E of Compostela (Cebu),019,S 80° E,Compostela (Cebu)
-2026-01-04T18:23:00.000Z,04 January 2026 - 06:23 PM,08.51,125.87,014,2.4,011km S 28° W of Prosperidad (Agusan Del Sur),011,S 28° W,Prosperidad (Agusan Del Sur)
-2026-01-04T17:39:00.000Z,04 January 2026 - 05:39 PM,17.01,120.11,031,1.5,033km N 58° W of Luna (La Union),033,N 58° W,Luna (La Union)
