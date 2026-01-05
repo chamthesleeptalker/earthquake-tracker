@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T23:31:00.000Z,05 January 2026 - 11:31 PM,05.89,126.29,132,2.3,071km S 88° E of Jose Abad Santos (Davao Occidental),071,S 88° E,Jose Abad Santos (Davao Occidental)
+2026-01-05T23:20:00.000Z,05 January 2026 - 11:20 PM,06.27,126.20,100,2.5,045km S 18° E of Governor Generoso (Davao Oriental),045,S 18° E,Governor Generoso (Davao Oriental)
 2026-01-05T23:13:00.000Z,05 January 2026 - 11:13 PM,13.87,120.35,045,1.5,019km N 33° E of Looc (Occidental Mindoro),019,N 33° E,Looc (Occidental Mindoro)
 2026-01-05T22:40:00.000Z,05 January 2026 - 10:40 PM,17.59,120.74,022,1.9,002km S 24° E of Lagangilang (Abra),002,S 24° E,Lagangilang (Abra)
 2026-01-05T22:40:00.000Z,05 January 2026 - 10:40 PM,05.65,126.33,071,2.4,081km S 69° E of Jose Abad Santos (Davao Occidental),081,S 69° E,Jose Abad Santos (Davao Occidental)
@@ -332,4 +334,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-29T23:41:00.000Z,29 December 2025 - 11:41 PM,12.32,125.04,027,1.9,002km S 27° E of Las Navas (Northern Samar),002,S 27° E,Las Navas (Northern Samar)
 2025-12-29T23:39:00.000Z,29 December 2025 - 11:39 PM,05.69,126.51,020,3.4,099km S 75° E of Jose Abad Santos (Davao Occidental),099,S 75° E,Jose Abad Santos (Davao Occidental)
 2025-12-29T23:32:00.000Z,29 December 2025 - 11:32 PM,06.79,126.99,007,2.5,068km S 47° E of Manay (Davao Oriental),068,S 47° E,Manay (Davao Oriental)
-2025-12-29T23:30:00.000Z,29 December 2025 - 11:30 PM,15.61,119.82,026,2.9,012km S 80° W of Candelaria (Zambales),012,S 80° W,Candelaria (Zambales)
