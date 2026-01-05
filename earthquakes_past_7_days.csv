@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T06:28:00.000Z,06 January 2026 - 06:28 AM,09.30,125.62,014,3.0,008km N 63° E of Santiago (Agusan Del Norte),008,N 63° E,Santiago (Agusan Del Norte)
 2026-01-06T04:51:00.000Z,06 January 2026 - 04:51 AM,07.18,123.53,026,1.6,034km S 23° E of Tabina (Zamboanga Del Sur),034,S 23° E,Tabina (Zamboanga Del Sur)
 2026-01-06T04:24:00.000Z,06 January 2026 - 04:24 AM,10.06,126.18,015,3.7,012km N 66° E of Burgos (Surigao Del Norte),012,N 66° E,Burgos (Surigao Del Norte)
 2026-01-06T03:31:00.000Z,06 January 2026 - 03:31 AM,10.07,126.23,010,4.1,017km N 71° E of Burgos (Surigao Del Norte),017,N 71° E,Burgos (Surigao Del Norte)
@@ -317,8 +318,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T07:50:00.000Z,30 December 2025 - 07:50 AM,09.65,126.34,021,1.9,025km S 54° E of General Luna (Surigao Del Norte),025,S 54° E,General Luna (Surigao Del Norte)
 2025-12-30T07:38:00.000Z,30 December 2025 - 07:38 AM,16.42,120.88,033,1.5,007km N 01° W of Kayapa (Nueva Vizcaya),007,N 01° W,Kayapa (Nueva Vizcaya)
 2025-12-30T06:31:00.000Z,30 December 2025 - 06:31 AM,05.73,125.27,012,2.5,013km S 38° E of Glan (Sarangani),013,S 38° E,Glan (Sarangani)
-2025-12-30T06:12:00.000Z,30 December 2025 - 06:12 AM,14.94,122.63,016,1.7,042km N 50° E of Jomalig (Quezon),042,N 50° E,Jomalig (Quezon)
-2025-12-30T06:04:00.000Z,30 December 2025 - 06:04 AM,13.13,124.55,026,2.0,040km N 75° E of Prieto Diaz (Sorsogon),040,N 75° E,Prieto Diaz (Sorsogon)
-2025-12-30T05:52:00.000Z,30 December 2025 - 05:52 AM,19.11,121.78,003,2.3,024km N 23° W of Camiguin Island (Calayan) (Cagayan),024,N 23° W,Camiguin Island (Calayan) (Cagayan)
-2025-12-30T05:30:00.000Z,30 December 2025 - 05:30 AM,17.62,120.53,003,1.9,006km N 33° W of Langiden (Abra),006,N 33° W,Langiden (Abra)
-2025-12-30T05:10:00.000Z,30 December 2025 - 05:10 AM,07.01,125.72,033,1.8,008km S 10° E of Island Garden City Of Samal (Davao Del Norte),008,S 10° E,Island Garden City Of Samal (Davao Del Norte)

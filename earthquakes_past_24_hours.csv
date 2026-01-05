@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T06:28:00.000Z,06 January 2026 - 06:28 AM,09.30,125.62,014,3.0,008km N 63° E of Santiago (Agusan Del Norte),008,N 63° E,Santiago (Agusan Del Norte)
 2026-01-06T04:51:00.000Z,06 January 2026 - 04:51 AM,07.18,123.53,026,1.6,034km S 23° E of Tabina (Zamboanga Del Sur),034,S 23° E,Tabina (Zamboanga Del Sur)
 2026-01-06T04:24:00.000Z,06 January 2026 - 04:24 AM,10.06,126.18,015,3.7,012km N 66° E of Burgos (Surigao Del Norte),012,N 66° E,Burgos (Surigao Del Norte)
 2026-01-06T03:31:00.000Z,06 January 2026 - 03:31 AM,10.07,126.23,010,4.1,017km N 71° E of Burgos (Surigao Del Norte),017,N 71° E,Burgos (Surigao Del Norte)
@@ -39,5 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-05T07:16:00.000Z,05 January 2026 - 07:16 AM,09.92,125.40,014,2.0,014km N 84° E of San Ricardo (Southern Leyte),014,N 84° E,San Ricardo (Southern Leyte)
 2026-01-05T07:11:00.000Z,05 January 2026 - 07:11 AM,08.16,125.98,009,2.2,003km S 41° W of Bunawan (Agusan Del Sur),003,S 41° W,Bunawan (Agusan Del Sur)
 2026-01-05T06:42:00.000Z,05 January 2026 - 06:42 AM,07.20,123.67,019,2.3,041km N 70° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),041,N 70° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-01-05T05:17:00.000Z,05 January 2026 - 05:17 AM,18.24,120.91,006,2.0,014km S 85° W of Calanasan (Apayao),014,S 85° W,Calanasan (Apayao)
-2026-01-05T04:51:00.000Z,05 January 2026 - 04:51 AM,13.58,120.69,094,1.9,022km S 65° W of Tingloy (Batangas),022,S 65° W,Tingloy (Batangas)
