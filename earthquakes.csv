@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-05T16:01:00.000Z,05 January 2026 - 04:01 PM,11.11,123.95,010,1.9,007km N 26° W of City Of Bogo (Cebu),007,N 26° W,City Of Bogo (Cebu)
+2026-01-05T15:59:00.000Z,05 January 2026 - 03:59 PM,11.08,123.93,010,3.3,006km N 55° W of City Of Bogo (Cebu),006,N 55° W,City Of Bogo (Cebu)
 2026-01-04T16:23:00.000Z,04 January 2026 - 04:23 PM,12.90,123.17,011,1.8,009km N 88° W of Claveria (Masbate),009,N 88° W,Claveria (Masbate)
 2026-01-05T11:57:00.000Z,05 January 2026 - 11:57 AM,17.39,119.69,011,2.6,075km S 72° W of Santa Catalina (Ilocos Sur),075,S 72° W,Santa Catalina (Ilocos Sur)
 2026-01-05T11:28:00.000Z,05 January 2026 - 11:28 AM,17.36,119.94,004,2.5,052km S 67° W of Caoayan (Ilocos Sur),052,S 67° W,Caoayan (Ilocos Sur)
