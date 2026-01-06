@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T08:33:00.000Z,06 January 2026 - 08:33 AM,06.04,124.51,011,2.4,003km S 45° E of Maitum (Sarangani),003,S 45° E,Maitum (Sarangani)
+2026-01-06T08:12:00.000Z,06 January 2026 - 08:12 AM,09.71,126.15,029,3.1,008km S 05° W of General Luna (Surigao Del Norte),008,S 05° W,General Luna (Surigao Del Norte)
 2026-01-06T06:28:00.000Z,06 January 2026 - 06:28 AM,09.30,125.62,014,3.0,008km N 63° E of Santiago (Agusan Del Norte),008,N 63° E,Santiago (Agusan Del Norte)
 2026-01-06T04:51:00.000Z,06 January 2026 - 04:51 AM,07.18,123.53,026,1.6,034km S 23° E of Tabina (Zamboanga Del Sur),034,S 23° E,Tabina (Zamboanga Del Sur)
 2026-01-06T04:24:00.000Z,06 January 2026 - 04:24 AM,10.06,126.18,015,3.7,012km N 66° E of Burgos (Surigao Del Norte),012,N 66° E,Burgos (Surigao Del Norte)
@@ -314,7 +316,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T10:03:00.000Z,30 December 2025 - 10:03 AM,12.91,123.18,034,1.6,007km N 81° W of Claveria (Masbate),007,N 81° W,Claveria (Masbate)
 2025-12-30T09:53:00.000Z,30 December 2025 - 09:53 AM,12.78,123.10,010,4.1,020km S 50° W of Claveria (Masbate),020,S 50° W,Claveria (Masbate)
 2025-12-30T09:13:00.000Z,30 December 2025 - 09:13 AM,09.79,125.50,023,1.7,000km N 45° E of City Of Surigao (Surigao Del Norte),000,N 45° E,City Of Surigao (Surigao Del Norte)
-2025-12-30T08:02:00.000Z,30 December 2025 - 08:02 AM,07.43,127.21,025,2.6,072km N 81° E of Caraga (Davao Oriental),072,N 81° E,Caraga (Davao Oriental)
-2025-12-30T07:50:00.000Z,30 December 2025 - 07:50 AM,09.65,126.34,021,1.9,025km S 54° E of General Luna (Surigao Del Norte),025,S 54° E,General Luna (Surigao Del Norte)
-2025-12-30T07:38:00.000Z,30 December 2025 - 07:38 AM,16.42,120.88,033,1.5,007km N 01° W of Kayapa (Nueva Vizcaya),007,N 01° W,Kayapa (Nueva Vizcaya)
-2025-12-30T06:31:00.000Z,30 December 2025 - 06:31 AM,05.73,125.27,012,2.5,013km S 38° E of Glan (Sarangani),013,S 38° E,Glan (Sarangani)
