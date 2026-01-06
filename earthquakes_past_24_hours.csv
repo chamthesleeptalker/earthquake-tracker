@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T04:48:00.000Z,07 January 2026 - 04:48 AM,10.25,125.87,027,3.1,031km N 36° W of Santa Monica (Surigao Del Norte),031,N 36° W,Santa Monica (Surigao Del Norte)
+2026-01-07T04:45:00.000Z,07 January 2026 - 04:45 AM,18.24,122.05,019,2.5,006km S 73° E of Gonzaga (Cagayan),006,S 73° E,Gonzaga (Cagayan)
 2026-01-07T04:15:00.000Z,07 January 2026 - 04:15 AM,05.79,125.61,038,2.4,014km S 18° W of Jose Abad Santos (Davao Occidental),014,S 18° W,Jose Abad Santos (Davao Occidental)
 2026-01-07T03:51:00.000Z,07 January 2026 - 03:51 AM,10.35,125.14,022,2.3,007km N 01° E of Saint Bernard (Southern Leyte),007,N 01° E,Saint Bernard (Southern Leyte)
 2026-01-07T02:33:00.000Z,07 January 2026 - 02:33 AM,11.19,124.25,016,2.4,016km S 81° W of Villaba (Leyte),016,S 81° W,Villaba (Leyte)
@@ -31,4 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T08:12:00.000Z,06 January 2026 - 08:12 AM,09.71,126.15,029,3.1,008km S 05° W of General Luna (Surigao Del Norte),008,S 05° W,General Luna (Surigao Del Norte)
 2026-01-06T06:28:00.000Z,06 January 2026 - 06:28 AM,09.30,125.62,014,3.0,008km N 63° E of Santiago (Agusan Del Norte),008,N 63° E,Santiago (Agusan Del Norte)
 2026-01-06T04:51:00.000Z,06 January 2026 - 04:51 AM,07.18,123.53,026,1.6,034km S 23° E of Tabina (Zamboanga Del Sur),034,S 23° E,Tabina (Zamboanga Del Sur)
-2026-01-06T04:24:00.000Z,06 January 2026 - 04:24 AM,10.06,126.18,015,3.7,012km N 66° E of Burgos (Surigao Del Norte),012,N 66° E,Burgos (Surigao Del Norte)
