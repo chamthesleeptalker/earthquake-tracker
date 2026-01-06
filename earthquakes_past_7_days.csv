@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T04:15:00.000Z,07 January 2026 - 04:15 AM,05.79,125.61,038,2.4,014km S 18° W of Jose Abad Santos (Davao Occidental),014,S 18° W,Jose Abad Santos (Davao Occidental)
 2026-01-07T03:51:00.000Z,07 January 2026 - 03:51 AM,10.35,125.14,022,2.3,007km N 01° E of Saint Bernard (Southern Leyte),007,N 01° E,Saint Bernard (Southern Leyte)
 2026-01-07T02:33:00.000Z,07 January 2026 - 02:33 AM,11.19,124.25,016,2.4,016km S 81° W of Villaba (Leyte),016,S 81° W,Villaba (Leyte)
 2026-01-07T02:27:00.000Z,07 January 2026 - 02:27 AM,18.15,121.12,034,1.8,015km S 34° E of Calanasan (Apayao),015,S 34° E,Calanasan (Apayao)
@@ -301,4 +302,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T06:10:00.000Z,31 December 2025 - 06:10 AM,13.78,124.37,018,2.1,003km West of Gigmoto (Catanduanes),003,West of Gigmoto,
 2025-12-31T05:51:00.000Z,31 December 2025 - 05:51 AM,11.01,123.93,024,2.2,006km S 52° W of City Of Bogo (Cebu),006,S 52° W,City Of Bogo (Cebu)
 2025-12-31T05:32:00.000Z,31 December 2025 - 05:32 AM,09.69,126.05,025,1.6,015km S 47° W of General Luna (Surigao Del Norte),015,S 47° W,General Luna (Surigao Del Norte)
-2025-12-31T04:00:00.000Z,31 December 2025 - 04:00 AM,07.88,122.51,035,1.4,014km N 38° W of Ipil (Zamboanga Sibugay),014,N 38° W,Ipil (Zamboanga Sibugay)
