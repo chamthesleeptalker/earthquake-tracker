@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T15:13:00.000Z,06 January 2026 - 03:13 PM,09.43,126.25,033,1.4,018km N 21° E of Cortes (Surigao Del Sur),018,N 21° E,Cortes (Surigao Del Sur)
 2026-01-06T12:36:00.000Z,06 January 2026 - 12:36 PM,05.17,126.34,078,2.9,102km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-06T12:26:00.000Z,06 January 2026 - 12:26 PM,11.24,125.41,048,1.9,014km N 10° E of Balangiga (Eastern Samar),014,N 10° E,Balangiga (Eastern Samar)
 2026-01-06T11:41:00.000Z,06 January 2026 - 11:41 AM,10.88,123.99,010,1.5,018km S 03° E of City Of Bogo (Cebu),018,S 03° E,City Of Bogo (Cebu)
@@ -313,6 +314,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T15:26:00.000Z,30 December 2025 - 03:26 PM,13.23,124.01,035,1.5,014km N 72° W of Rapu-rapu (Albay),014,N 72° W,Rapu-rapu (Albay)
 2025-12-30T15:23:00.000Z,30 December 2025 - 03:23 PM,10.64,124.20,028,1.6,020km S 89° W of San Francisco (Cebu),020,S 89° W,San Francisco (Cebu)
 2025-12-30T15:22:00.000Z,30 December 2025 - 03:22 PM,13.11,124.26,032,2.6,011km N 39° E of Prieto Diaz (Sorsogon),011,N 39° E,Prieto Diaz (Sorsogon)
-2025-12-30T14:00:00.000Z,30 December 2025 - 02:00 PM,14.14,120.48,118,1.1,018km N 65° W of Nasugbu (Batangas),018,N 65° W,Nasugbu (Batangas)
-2025-12-30T13:15:00.000Z,30 December 2025 - 01:15 PM,09.06,126.71,019,2.2,047km N 71° E of Cagwait (Surigao Del Sur),047,N 71° E,Cagwait (Surigao Del Sur)
-2025-12-30T13:04:00.000Z,30 December 2025 - 01:04 PM,09.02,126.49,025,1.8,024km N 75° E of Bayabas (Surigao Del Sur),024,N 75° E,Bayabas (Surigao Del Sur)
