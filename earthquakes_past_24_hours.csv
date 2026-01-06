@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T22:24:00.000Z,06 January 2026 - 10:24 PM,11.03,123.94,005,2.2,005km S 61° W of City Of Bogo (Cebu),005,S 61° W,City Of Bogo (Cebu)
 2026-01-06T20:14:00.000Z,06 January 2026 - 08:14 PM,08.17,126.12,091,1.9,013km S 87° E of Bunawan (Agusan Del Sur),013,S 87° E,Bunawan (Agusan Del Sur)
 2026-01-06T19:37:00.000Z,06 January 2026 - 07:37 PM,09.64,125.49,010,3.0,005km S 69° W of Sison (Surigao Del Norte),005,S 69° W,Sison (Surigao Del Norte)
 2026-01-06T16:45:00.000Z,06 January 2026 - 04:45 PM,12.85,123.18,004,1.8,009km S 54° W of Claveria (Masbate),009,S 54° W,Claveria (Masbate)
@@ -32,5 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-05T22:40:00.000Z,05 January 2026 - 10:40 PM,17.59,120.74,022,1.9,002km S 24° E of Lagangilang (Abra),002,S 24° E,Lagangilang (Abra)
 2026-01-05T22:40:00.000Z,05 January 2026 - 10:40 PM,05.65,126.33,071,2.4,081km S 69° E of Jose Abad Santos (Davao Occidental),081,S 69° E,Jose Abad Santos (Davao Occidental)
 2026-01-05T22:26:00.000Z,05 January 2026 - 10:26 PM,14.46,119.23,014,3.0,107km S 59° W of San Antonio (Zambales),107,S 59° W,San Antonio (Zambales)
-2026-01-05T22:08:00.000Z,05 January 2026 - 10:08 PM,09.31,125.62,012,3.1,008km N 56° E of Santiago (Agusan Del Norte),008,N 56° E,Santiago (Agusan Del Norte)
-2026-01-05T20:32:00.000Z,05 January 2026 - 08:32 PM,15.74,121.96,010,3.5,042km S 87° E of Baler (Aurora),042,S 87° E,Baler (Aurora)

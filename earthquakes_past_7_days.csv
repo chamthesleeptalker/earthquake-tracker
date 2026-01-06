@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T22:24:00.000Z,06 January 2026 - 10:24 PM,11.03,123.94,005,2.2,005km S 61° W of City Of Bogo (Cebu),005,S 61° W,City Of Bogo (Cebu)
 2026-01-06T20:14:00.000Z,06 January 2026 - 08:14 PM,08.17,126.12,091,1.9,013km S 87° E of Bunawan (Agusan Del Sur),013,S 87° E,Bunawan (Agusan Del Sur)
 2026-01-06T19:37:00.000Z,06 January 2026 - 07:37 PM,09.64,125.49,010,3.0,005km S 69° W of Sison (Surigao Del Norte),005,S 69° W,Sison (Surigao Del Norte)
 2026-01-06T16:45:00.000Z,06 January 2026 - 04:45 PM,12.85,123.18,004,1.8,009km S 54° W of Claveria (Masbate),009,S 54° W,Claveria (Masbate)
@@ -303,9 +304,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-30T23:52:00.000Z,30 December 2025 - 11:52 PM,07.09,127.08,004,3.3,062km S 77° E of Manay (Davao Oriental),062,S 77° E,Manay (Davao Oriental)
 2025-12-30T23:29:00.000Z,30 December 2025 - 11:29 PM,15.38,120.12,023,1.6,014km N 44° E of Iba (Zambales),014,N 44° E,Iba (Zambales)
 2025-12-30T23:23:00.000Z,30 December 2025 - 11:23 PM,13.92,120.56,075,1.3,013km N 39° W of Calatagan (Batangas),013,N 39° W,Calatagan (Batangas)
-2025-12-30T21:55:00.000Z,30 December 2025 - 09:55 PM,10.66,125.27,008,1.8,019km N 38° E of Silago (Southern Leyte),019,N 38° E,Silago (Southern Leyte)
-2025-12-30T21:46:00.000Z,30 December 2025 - 09:46 PM,09.69,126.20,014,1.8,012km S 24° E of General Luna (Surigao Del Norte),012,S 24° E,General Luna (Surigao Del Norte)
-2025-12-30T21:40:00.000Z,30 December 2025 - 09:40 PM,10.83,125.36,010,4.0,031km S 5° W of Balangiga (Eastern Samar),031,S 5° W,Balangiga (Eastern Samar)
-2025-12-30T21:22:00.000Z,30 December 2025 - 09:22 PM,09.23,125.95,089,1.8,004km S 27° W of Madrid (Surigao Del Sur),004,S 27° W,Madrid (Surigao Del Sur)
-2025-12-30T21:01:00.000Z,30 December 2025 - 09:01 PM,12.01,122.37,002,3.0,031km N 47° E of Ibajay (Aklan),031,N 47° E,Ibajay (Aklan)
-2025-12-30T20:39:00.000Z,30 December 2025 - 08:39 PM,07.18,126.95,007,2.4,046km S 86° E of Manay (Davao Oriental),046,S 86° E,Manay (Davao Oriental)
