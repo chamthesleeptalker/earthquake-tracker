@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T23:33:00.000Z,06 January 2026 - 11:33 PM,15.74,121.59,028,1.4,004km S 53° E of Baler (Aurora),004,S 53° E,Baler (Aurora)
+2026-01-06T23:14:00.000Z,06 January 2026 - 11:14 PM,16.14,122.01,011,1.7,005km N 89° E of Dinalungan (Aurora),005,N 89° E,Dinalungan (Aurora)
 2026-01-06T23:01:00.000Z,06 January 2026 - 11:01 PM,10.21,122.32,064,2.2,042km S 35° W of Nueva Valencia (Guimaras),042,S 35° W,Nueva Valencia (Guimaras)
 2026-01-06T22:51:00.000Z,06 January 2026 - 10:51 PM,08.13,126.45,057,2.0,010km N 24° E of Lingig (Surigao Del Sur),010,N 24° E,Lingig (Surigao Del Sur)
 2026-01-06T22:24:00.000Z,06 January 2026 - 10:24 PM,11.03,123.94,005,2.2,005km S 61° W of City Of Bogo (Cebu),005,S 61° W,City Of Bogo (Cebu)
@@ -29,6 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T00:26:00.000Z,06 January 2026 - 12:26 AM,04.64,124.40,033,3.3,142km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),142,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-06T00:15:00.000Z,06 January 2026 - 12:15 AM,14.74,122.43,008,1.7,012km N 68° E of Jomalig (Quezon),012,N 68° E,Jomalig (Quezon)
 2026-01-06T00:11:00.000Z,06 January 2026 - 12:11 AM,15.62,119.87,009,2.6,006km S 86° W of Candelaria (Zambales),006,S 86° W,Candelaria (Zambales)
-2026-01-05T23:31:00.000Z,05 January 2026 - 11:31 PM,05.89,126.29,132,2.3,071km S 88° E of Jose Abad Santos (Davao Occidental),071,S 88° E,Jose Abad Santos (Davao Occidental)
-2026-01-05T23:20:00.000Z,05 January 2026 - 11:20 PM,06.27,126.20,100,2.5,045km S 18° E of Governor Generoso (Davao Oriental),045,S 18° E,Governor Generoso (Davao Oriental)
-2026-01-05T23:13:00.000Z,05 January 2026 - 11:13 PM,13.87,120.35,045,1.5,019km N 33° E of Looc (Occidental Mindoro),019,N 33° E,Looc (Occidental Mindoro)
