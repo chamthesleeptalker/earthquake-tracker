@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T01:19:00.000Z,07 January 2026 - 01:19 AM,09.04,126.59,010,3.8,034km N 76° E of Bayabas (Surigao Del Sur),034,N 76° E,Bayabas (Surigao Del Sur)
+2026-01-07T01:12:00.000Z,07 January 2026 - 01:12 AM,04.51,126.43,015,3.2,150km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),150,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-07T00:31:00.000Z,07 January 2026 - 12:31 AM,08.23,126.58,023,2.9,028km N 40° E of Lingig (Surigao Del Sur),028,N 40° E,Lingig (Surigao Del Sur)
 2026-01-06T23:56:00.000Z,06 January 2026 - 11:56 PM,10.15,124.84,035,1.4,002km N 18° E of City Of Maasin  (Southern Leyte),002,N 18° E,City Of Maasin  (Southern Leyte)
 2026-01-06T23:33:00.000Z,06 January 2026 - 11:33 PM,15.74,121.59,028,1.4,004km S 53° E of Baler (Aurora),004,S 53° E,Baler (Aurora)
@@ -298,8 +300,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T03:04:00.000Z,31 December 2025 - 03:04 AM,13.13,124.27,032,1.7,013km N 39° E of Prieto Diaz (Sorsogon),013,N 39° E,Prieto Diaz (Sorsogon)
 2025-12-31T02:07:00.000Z,31 December 2025 - 02:07 AM,09.66,126.12,032,1.7,014km S 17° W of General Luna (Surigao Del Norte),014,S 17° W,General Luna (Surigao Del Norte)
 2025-12-31T01:37:00.000Z,31 December 2025 - 01:37 AM,05.90,126.93,015,2.6,126km S 49° E of Governor Generoso (Davao Oriental),126,S 49° E,Governor Generoso (Davao Oriental)
-2025-12-31T01:18:00.000Z,31 December 2025 - 01:18 AM,08.38,127.38,033,2.6,113km N 70° E of Lingig (Surigao Del Sur),113,N 70° E,Lingig (Surigao Del Sur)
-2025-12-31T00:45:00.000Z,31 December 2025 - 12:45 AM,05.98,127.16,038,4.0,141km S 58° E of Governor Generoso (Davao Oriental),141,S 58° E,Governor Generoso (Davao Oriental)
-2025-12-31T00:57:00.000Z,31 December 2025 - 12:57 AM,09.40,126.76,006,2.5,064km N 78° E of Cortes (Surigao Del Sur),064,N 78° E,Cortes (Surigao Del Sur)
-2025-12-31T00:54:00.000Z,31 December 2025 - 12:54 AM,09.82,126.25,024,1.4,011km N 66° E of General Luna (Surigao Del Norte),011,N 66° E,General Luna (Surigao Del Norte)
-2025-12-31T00:44:00.000Z,31 December 2025 - 12:44 AM,05.91,127.28,074,4.3,156km S 36° E of Tarragona (Davao Oriental),156,S 36° E,Tarragona (Davao Oriental)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T01:19:00.000Z,07 January 2026 - 01:19 AM,09.04,126.59,010,3.8,034km N 76° E of Bayabas (Surigao Del Sur),034,N 76° E,Bayabas (Surigao Del Sur)
+2026-01-07T01:12:00.000Z,07 January 2026 - 01:12 AM,04.51,126.43,015,3.2,150km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),150,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-07T00:31:00.000Z,07 January 2026 - 12:31 AM,08.23,126.58,023,2.9,028km N 40° E of Lingig (Surigao Del Sur),028,N 40° E,Lingig (Surigao Del Sur)
 2026-01-06T23:56:00.000Z,06 January 2026 - 11:56 PM,10.15,124.84,035,1.4,002km N 18° E of City Of Maasin  (Southern Leyte),002,N 18° E,City Of Maasin  (Southern Leyte)
 2026-01-06T23:33:00.000Z,06 January 2026 - 11:33 PM,15.74,121.59,028,1.4,004km S 53° E of Baler (Aurora),004,S 53° E,Baler (Aurora)
@@ -27,5 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T02:42:00.000Z,06 January 2026 - 02:42 AM,05.50,126.65,012,2.6,120km S 67° E of Jose Abad Santos (Davao Occidental),120,S 67° E,Jose Abad Santos (Davao Occidental)
 2026-01-06T02:12:00.000Z,06 January 2026 - 02:12 AM,05.54,126.54,064,3.0,107km S 68° E of Jose Abad Santos (Davao Occidental),107,S 68° E,Jose Abad Santos (Davao Occidental)
 2026-01-06T02:02:00.000Z,06 January 2026 - 02:02 AM,05.79,126.15,048,2.5,058km S 77° E of Jose Abad Santos (Davao Occidental),058,S 77° E,Jose Abad Santos (Davao Occidental)
-2026-01-06T01:00:00.000Z,06 January 2026 - 01:00 AM,07.13,126.94,012,3.1,046km S 79° E of Manay (Davao Oriental),046,S 79° E,Manay (Davao Oriental)
-2026-01-06T00:32:00.000Z,06 January 2026 - 12:32 AM,09.24,126.65,008,2.4,050km N 53° E of Bayabas (Surigao Del Sur),050,N 53° E,Bayabas (Surigao Del Sur)
