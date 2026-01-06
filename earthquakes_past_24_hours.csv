@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-06T16:45:00.000Z,06 January 2026 - 04:45 PM,12.85,123.18,004,1.8,009km S 54° W of Claveria (Masbate),009,S 54° W,Claveria (Masbate)
 2026-01-06T15:13:00.000Z,06 January 2026 - 03:13 PM,09.43,126.25,033,1.4,018km N 21° E of Cortes (Surigao Del Sur),018,N 21° E,Cortes (Surigao Del Sur)
 2026-01-06T12:36:00.000Z,06 January 2026 - 12:36 PM,05.17,126.34,078,2.9,102km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-06T12:26:00.000Z,06 January 2026 - 12:26 PM,11.24,125.41,048,1.9,014km N 10° E of Balangiga (Eastern Samar),014,N 10° E,Balangiga (Eastern Samar)
@@ -34,6 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-05T18:47:00.000Z,05 January 2026 - 06:47 PM,08.59,123.43,017,2.9,006km S 13° E of City Of Dapitan (Zamboanga Del Norte),006,S 13° E,City Of Dapitan (Zamboanga Del Norte)
 2026-01-05T17:37:00.000Z,05 January 2026 - 05:37 PM,09.66,126.23,024,1.4,016km S 31° E of General Luna (Surigao Del Norte),016,S 31° E,General Luna (Surigao Del Norte)
 2026-01-05T17:19:00.000Z,05 January 2026 - 05:19 PM,13.96,120.37,071,2.6,030km N 67° E of Lubang (Occidental Mindoro),030,N 67° E,Lubang (Occidental Mindoro)
-2026-01-05T16:21:00.000Z,05 January 2026 - 04:21 PM,16.74,120.69,031,1.6,006km S 45° W of Bakun (Benguet),006,S 45° W,Bakun (Benguet)
-2026-01-05T16:01:00.000Z,05 January 2026 - 04:01 PM,11.11,123.95,010,1.9,007km N 26° W of City Of Bogo (Cebu),007,N 26° W,City Of Bogo (Cebu)
-2026-01-05T15:59:00.000Z,05 January 2026 - 03:59 PM,11.08,123.93,010,3.3,006km N 55° W of City Of Bogo (Cebu),006,N 55° W,City Of Bogo (Cebu)
