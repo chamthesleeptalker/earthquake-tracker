@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-08T00:05:00.000Z,08 January 2026 - 12:05 AM,07.09,127.01,002,3.4,054km S 76° E of Manay (Davao Oriental),054,S 76° E,Manay (Davao Oriental)
+2026-01-07T23:46:00.000Z,07 January 2026 - 11:46 PM,07.24,126.98,010,3.2,049km N 87° E of Manay (Davao Oriental),049,N 87° E,Manay (Davao Oriental)
+2026-01-07T23:45:00.000Z,07 January 2026 - 11:45 PM,08.89,126.18,025,2.4,014km S 54° W of Bayabas (Surigao Del Sur),014,S 54° W,Bayabas (Surigao Del Sur)
 2026-01-07T23:39:00.000Z,07 January 2026 - 11:39 PM,07.30,126.91,010,3.1,042km N 76° E of Manay (Davao Oriental),042,N 76° E,Manay (Davao Oriental)
 2026-01-07T23:36:00.000Z,07 January 2026 - 11:36 PM,07.25,126.95,020,2.6,045km N 85° E of Manay (Davao Oriental),045,N 85° E,Manay (Davao Oriental)
 2026-01-07T23:08:00.000Z,07 January 2026 - 11:08 PM,07.24,127.15,004,3.2,068km N 87° E of Manay (Davao Oriental),068,N 87° E,Manay (Davao Oriental)
@@ -126,4 +129,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T01:19:00.000Z,07 January 2026 - 01:19 AM,09.04,126.59,010,3.8,034km N 76° E of Bayabas (Surigao Del Sur),034,N 76° E,Bayabas (Surigao Del Sur)
 2026-01-07T01:12:00.000Z,07 January 2026 - 01:12 AM,04.51,126.43,015,3.2,150km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),150,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-07T00:31:00.000Z,07 January 2026 - 12:31 AM,08.23,126.58,023,2.9,028km N 40° E of Lingig (Surigao Del Sur),028,N 40° E,Lingig (Surigao Del Sur)
-2026-01-06T23:56:00.000Z,06 January 2026 - 11:56 PM,10.15,124.84,035,1.4,002km N 18° E of City Of Maasin  (Southern Leyte),002,N 18° E,City Of Maasin  (Southern Leyte)
