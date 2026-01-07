@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T17:51:00.000Z,07 January 2026 - 05:51 PM,07.16,126.97,006,3.5,047km S 84° E of Manay (Davao Oriental),047,S 84° E,Manay (Davao Oriental)
+2026-01-07T17:33:00.000Z,07 January 2026 - 05:33 PM,07.24,126.81,013,2.3,030km N 84° E of Manay (Davao Oriental),030,N 84° E,Manay (Davao Oriental)
+2026-01-07T17:25:00.000Z,07 January 2026 - 05:25 PM,07.29,126.97,019,2.8,049km N 79° E of Manay (Davao Oriental),049,N 79° E,Manay (Davao Oriental)
 2026-01-07T17:12:00.000Z,07 January 2026 - 05:12 PM,07.34,126.85,015,2.9,031km N 87° E of Caraga (Davao Oriental),031,N 87° E,Caraga (Davao Oriental)
 2026-01-07T17:00:00.000Z,07 January 2026 - 05:00 PM,07.15,127.14,031,2.4,066km S 84° E of Manay (Davao Oriental),066,S 84° E,Manay (Davao Oriental)
 2026-01-07T12:41:00.000Z,07 January 2026 - 12:41 PM,07.22,126.77,018,3.1,026km N 88° E of Manay (Davao Oriental),026,N 88° E,Manay (Davao Oriental)
@@ -374,4 +377,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T18:59:00.000Z,31 December 2025 - 06:59 PM,08.83,126.47,031,1.7,020km N 78° E of Marihatag (Surigao Del Sur),020,N 78° E,Marihatag (Surigao Del Sur)
 2025-12-31T18:57:00.000Z,31 December 2025 - 06:57 PM,16.88,120.04,010,3.3,036km N 85° W of Luna (La Union),036,N 85° W,Luna (La Union)
 2025-12-31T18:44:00.000Z,31 December 2025 - 06:44 PM,18.77,121.83,001,2.0,015km S 15° W of Camiguin Island (Calayan) (Cagayan),015,S 15° W,Camiguin Island (Calayan) (Cagayan)
-2025-12-31T17:23:00.000Z,31 December 2025 - 05:23 PM,10.96,124.07,033,1.6,014km S 48° E of City Of Bogo (Cebu),014,S 48° E,City Of Bogo (Cebu)
