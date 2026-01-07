@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T12:38:00.000Z,07 January 2026 - 12:38 PM,07.21,126.71,024,3.4,019km S 89° E of Manay (Davao Oriental),019,S 89° E,Manay (Davao Oriental)
+2026-01-07T12:36:00.000Z,07 January 2026 - 12:36 PM,07.25,127.09,003,4.1,060km N 86° E of Manay (Davao Oriental),060,N 86° E,Manay (Davao Oriental)
+2026-01-07T12:36:00.000Z,07 January 2026 - 12:36 PM,07.25,127.09,003,4.1,060km N 86° E of Manay (Davao Oriental),060,N 86° E,Manay (Davao Oriental)
+2026-01-07T12:32:00.000Z,07 January 2026 - 12:32 PM,07.13,127.36,072,2.8,091km S 84° E of Manay (Davao Oriental),091,S 84° E,Manay (Davao Oriental)
+2026-01-07T12:31:00.000Z,07 January 2026 - 12:31 PM,07.13,127.18,019,2.3,072km S 82° E of Manay (Davao Oriental),072,S 82° E,Manay (Davao Oriental)
+2026-01-07T12:19:00.000Z,07 January 2026 - 12:19 PM,07.26,126.85,022,3.3,035km N 81° E of Manay (Davao Oriental),035,N 81° E,Manay (Davao Oriental)
+2026-01-07T12:17:00.000Z,07 January 2026 - 12:17 PM,07.25,126.94,029,2.3,044km N 84° E of Manay (Davao Oriental),044,N 84° E,Manay (Davao Oriental)
+2026-01-07T12:13:00.000Z,07 January 2026 - 12:13 PM,07.23,126.90,018,4.3,039km N 87° E of Manay (Davao Oriental),039,N 87° E,Manay (Davao Oriental)
 2026-01-07T12:11:00.000Z,07 January 2026 - 12:11 PM,07.23,126.88,012,2.1,038km N 87° E of Manay (Davao Oriental),038,N 87° E,Manay (Davao Oriental)
 2026-01-07T12:06:00.000Z,07 January 2026 - 12:06 PM,07.29,126.84,021,2.5,035km N 75° E of Manay (Davao Oriental),035,N 75° E,Manay (Davao Oriental)
 2026-01-07T12:05:00.000Z,07 January 2026 - 12:05 PM,07.31,126.94,017,2.2,046km N 77° E of Manay (Davao Oriental),046,N 77° E,Manay (Davao Oriental)
@@ -56,5 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T19:37:00.000Z,06 January 2026 - 07:37 PM,09.64,125.49,010,3.0,005km S 69° W of Sison (Surigao Del Norte),005,S 69° W,Sison (Surigao Del Norte)
 2026-01-06T16:45:00.000Z,06 January 2026 - 04:45 PM,12.85,123.18,004,1.8,009km S 54° W of Claveria (Masbate),009,S 54° W,Claveria (Masbate)
 2026-01-06T15:13:00.000Z,06 January 2026 - 03:13 PM,09.43,126.25,033,1.4,018km N 21° E of Cortes (Surigao Del Sur),018,N 21° E,Cortes (Surigao Del Sur)
-2026-01-06T12:36:00.000Z,06 January 2026 - 12:36 PM,05.17,126.34,078,2.9,102km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-06T12:26:00.000Z,06 January 2026 - 12:26 PM,11.24,125.41,048,1.9,014km N 10° E of Balangiga (Eastern Samar),014,N 10° E,Balangiga (Eastern Samar)
