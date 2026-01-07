@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T11:11:00.000Z,07 January 2026 - 11:11 AM,07.19,126.78,028,3.4,027km S 84° E of Manay (Davao Oriental),027,S 84° E,Manay (Davao Oriental)
+2026-01-07T11:07:00.000Z,07 January 2026 - 11:07 AM,07.16,127.08,010,3.9,060km S 84° E of Manay (Davao Oriental),060,S 84° E,Manay (Davao Oriental)
+2026-01-07T11:02:00.000Z,07 January 2026 - 11:02 AM,07.13,126.95,042,6.7,047km S 79° E of Manay (Davao Oriental),047,S 79° E,Manay (Davao Oriental)
+2026-01-07T10:06:00.000Z,07 January 2026 - 10:06 AM,07.08,123.85,008,1.8,019km N 85° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),019,N 85° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-01-07T09:28:00.000Z,07 January 2026 - 09:28 AM,09.16,126.29,023,1.5,016km N 54° E of City Of Tandag (Surigao Del Sur),016,N 54° E,City Of Tandag (Surigao Del Sur)
 2026-01-07T09:26:00.000Z,07 January 2026 - 09:26 AM,09.09,126.32,030,1.9,012km N 52° E of Tago (Surigao Del Sur),012,N 52° E,Tago (Surigao Del Sur)
 2026-01-07T09:21:00.000Z,07 January 2026 - 09:21 AM,10.91,123.99,006,3.3,015km S 03° E of City Of Bogo (Cebu),015,S 03° E,City Of Bogo (Cebu)
 2026-01-07T09:13:00.000Z,07 January 2026 - 09:13 AM,08.97,126.44,025,1.9,016km N 71° E of Cagwait (Surigao Del Sur),016,N 71° E,Cagwait (Surigao Del Sur)
@@ -35,7 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T12:36:00.000Z,06 January 2026 - 12:36 PM,05.17,126.34,078,2.9,102km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-06T12:26:00.000Z,06 January 2026 - 12:26 PM,11.24,125.41,048,1.9,014km N 10° E of Balangiga (Eastern Samar),014,N 10° E,Balangiga (Eastern Samar)
 2026-01-06T11:41:00.000Z,06 January 2026 - 11:41 AM,10.88,123.99,010,1.5,018km S 03° E of City Of Bogo (Cebu),018,S 03° E,City Of Bogo (Cebu)
-2026-01-06T10:52:00.000Z,06 January 2026 - 10:52 AM,09.41,122.41,011,3.2,022km S 16° W of Hinoba-an (Negros Occidental),022,S 16° W,Hinoba-an (Negros Occidental)
-2026-01-06T10:46:00.000Z,06 January 2026 - 10:46 AM,08.64,126.33,028,1.7,016km S 44° E of San Agustin (Surigao Del Sur),016,S 44° E,San Agustin (Surigao Del Sur)
-2026-01-06T10:21:00.000Z,06 January 2026 - 10:21 AM,09.31,126.21,015,1.6,005km N 32° E of Cortes (Surigao Del Sur),005,N 32° E,Cortes (Surigao Del Sur)
-2026-01-06T10:13:00.000Z,06 January 2026 - 10:13 AM,10.18,126.02,020,1.9,018km N 06° W of Santa Monica (Surigao Del Norte),018,N 06° W,Santa Monica (Surigao Del Norte)
