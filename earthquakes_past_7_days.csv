@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T20:17:00.000Z,07 January 2026 - 08:17 PM,07.16,127.16,015,3.4,068km S 85° E of Manay (Davao Oriental),068,S 85° E,Manay (Davao Oriental)
+2026-01-07T20:16:00.000Z,07 January 2026 - 08:16 PM,07.32,127.13,005,2.5,067km N 79° E of Manay (Davao Oriental),067,N 79° E,Manay (Davao Oriental)
+2026-01-07T19:58:00.000Z,07 January 2026 - 07:58 PM,07.30,127.29,035,2.5,084km N 83° E of Manay (Davao Oriental),084,N 83° E,Manay (Davao Oriental)
+2026-01-07T19:33:00.000Z,07 January 2026 - 07:33 PM,07.11,127.02,013,2.8,054km S 78° E of Manay (Davao Oriental),054,S 78° E,Manay (Davao Oriental)
 2026-01-07T19:02:00.000Z,07 January 2026 - 07:02 PM,07.48,126.84,032,2.2,045km N 48° E of Manay (Davao Oriental),045,N 48° E,Manay (Davao Oriental)
 2026-01-07T18:49:00.000Z,07 January 2026 - 06:49 PM,05.82,125.82,132,3.1,022km S 62° E of Jose Abad Santos (Davao Occidental),022,S 62° E,Jose Abad Santos (Davao Occidental)
 2026-01-07T18:41:00.000Z,07 January 2026 - 06:41 PM,07.35,126.99,013,2.6,052km N 73° E of Manay (Davao Oriental),052,N 73° E,Manay (Davao Oriental)
@@ -374,8 +378,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-12-31T20:52:00.000Z,31 December 2025 - 08:52 PM,08.66,126.09,003,2.0,003km N 04° W of Lianga (Surigao Del Sur),003,N 04° W,Lianga (Surigao Del Sur)
 2025-12-31T20:30:00.000Z,31 December 2025 - 08:30 PM,08.72,126.37,034,1.6,012km S 40° E of Marihatag (Surigao Del Sur),012,S 40° E,Marihatag (Surigao Del Sur)
 2025-12-31T20:18:00.000Z,31 December 2025 - 08:18 PM,02.63,127.38,093,4.0,376km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),376,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2025-12-31T20:16:00.000Z,31 December 2025 - 08:16 PM,10.89,123.80,010,2.3,026km S 48° W of City Of Bogo (Cebu),026,S 48° W,City Of Bogo (Cebu)
-2025-12-31T20:16:00.000Z,31 December 2025 - 08:16 PM,06.05,124.57,022,2.5,008km S 82° E of Maitum (Sarangani),008,S 82° E,Maitum (Sarangani)
-2025-12-31T20:11:00.000Z,31 December 2025 - 08:11 PM,12.80,123.42,006,2.2,022km S 61° E of Claveria (Masbate),022,S 61° E,Claveria (Masbate)
-2025-12-31T19:57:00.000Z,31 December 2025 - 07:57 PM,09.71,126.31,004,1.7,019km S 66° E of General Luna (Surigao Del Norte),019,S 66° E,General Luna (Surigao Del Norte)
-2025-12-31T19:04:00.000Z,31 December 2025 - 07:04 PM,08.10,126.70,017,3.7,032km N 77° E of Lingig (Surigao Del Sur),032,N 77° E,Lingig (Surigao Del Sur)
