@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-08T04:04:00.000Z,08 January 2026 - 04:04 AM,07.20,126.86,019,2.4,035km S 88° E of Manay (Davao Oriental),035,S 88° E,Manay (Davao Oriental)
+2026-01-08T03:59:00.000Z,08 January 2026 - 03:59 AM,11.15,123.93,005,2.5,013km N 26° W of City Of Bogo (Cebu),013,N 26° W,City Of Bogo (Cebu)
+2026-01-08T03:32:00.000Z,08 January 2026 - 03:32 AM,07.25,126.84,015,2.6,033km N 83° E of Manay (Davao Oriental),033,N 83° E,Manay (Davao Oriental)
 2026-01-08T02:18:00.000Z,08 January 2026 - 02:18 AM,07.16,126.85,030,1.7,037km S 80° E of Manay (Davao Oriental),037,S 80° E,Manay (Davao Oriental)
 2026-01-08T02:16:00.000Z,08 January 2026 - 02:16 AM,07.15,127.15,008,3.5,067km S 84° E of Manay (Davao Oriental),067,S 84° E,Manay (Davao Oriental)
 2026-01-08T02:09:00.000Z,08 January 2026 - 02:09 AM,07.09,127.07,007,3.0,058km S 77° E of Manay (Davao Oriental),058,S 77° E,Manay (Davao Oriental)
@@ -132,6 +135,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T04:48:00.000Z,07 January 2026 - 04:48 AM,10.25,125.87,027,3.1,031km N 36° W of Santa Monica (Surigao Del Norte),031,N 36° W,Santa Monica (Surigao Del Norte)
 2026-01-07T04:45:00.000Z,07 January 2026 - 04:45 AM,18.24,122.05,019,2.5,006km S 73° E of Gonzaga (Cagayan),006,S 73° E,Gonzaga (Cagayan)
 2026-01-07T04:15:00.000Z,07 January 2026 - 04:15 AM,05.79,125.61,038,2.4,014km S 18° W of Jose Abad Santos (Davao Occidental),014,S 18° W,Jose Abad Santos (Davao Occidental)
-2026-01-07T03:51:00.000Z,07 January 2026 - 03:51 AM,10.35,125.14,022,2.3,007km N 01° E of Saint Bernard (Southern Leyte),007,N 01° E,Saint Bernard (Southern Leyte)
-2026-01-07T02:33:00.000Z,07 January 2026 - 02:33 AM,11.19,124.25,016,2.4,016km S 81° W of Villaba (Leyte),016,S 81° W,Villaba (Leyte)
-2026-01-07T02:27:00.000Z,07 January 2026 - 02:27 AM,18.15,121.12,034,1.8,015km S 34° E of Calanasan (Apayao),015,S 34° E,Calanasan (Apayao)
