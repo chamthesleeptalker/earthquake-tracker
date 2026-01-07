@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T15:33:00.000Z,07 January 2026 - 03:33 PM,13.86,120.57,077,1.6,008km N 66° W of Calatagan (Batangas),008,N 66° W,Calatagan (Batangas)
+2026-01-07T15:28:00.000Z,07 January 2026 - 03:28 PM,07.14,126.99,039,2.3,050km S 81° E of Manay (Davao Oriental),050,S 81° E,Manay (Davao Oriental)
+2026-01-07T15:28:00.000Z,07 January 2026 - 03:28 PM,07.18,126.58,054,1.7,006km S 53° E of Manay (Davao Oriental),006,S 53° E,Manay (Davao Oriental)
+2026-01-07T15:26:00.000Z,07 January 2026 - 03:26 PM,07.27,126.93,017,2.6,043km N 81° E of Manay (Davao Oriental),043,N 81° E,Manay (Davao Oriental)
+2026-01-07T15:18:00.000Z,07 January 2026 - 03:18 PM,07.23,126.90,019,2.6,040km N 87° E of Manay (Davao Oriental),040,N 87° E,Manay (Davao Oriental)
 2026-01-07T15:05:00.000Z,07 January 2026 - 03:05 PM,07.33,126.97,018,1.9,049km N 74° E of Manay (Davao Oriental),049,N 74° E,Manay (Davao Oriental)
 2026-01-07T14:55:00.000Z,07 January 2026 - 02:55 PM,07.28,126.88,030,3.0,039km N 79° E of Manay (Davao Oriental),039,N 79° E,Manay (Davao Oriental)
 2026-01-07T14:46:00.000Z,07 January 2026 - 02:46 PM,07.20,127.01,005,3.5,052km S 88° E of Manay (Davao Oriental),052,S 88° E,Manay (Davao Oriental)
@@ -93,4 +98,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T20:14:00.000Z,06 January 2026 - 08:14 PM,08.17,126.12,091,1.9,013km S 87° E of Bunawan (Agusan Del Sur),013,S 87° E,Bunawan (Agusan Del Sur)
 2026-01-06T19:37:00.000Z,06 January 2026 - 07:37 PM,09.64,125.49,010,3.0,005km S 69° W of Sison (Surigao Del Norte),005,S 69° W,Sison (Surigao Del Norte)
 2026-01-06T16:45:00.000Z,06 January 2026 - 04:45 PM,12.85,123.18,004,1.8,009km S 54° W of Claveria (Masbate),009,S 54° W,Claveria (Masbate)
-2026-01-06T15:13:00.000Z,06 January 2026 - 03:13 PM,09.43,126.25,033,1.4,018km N 21° E of Cortes (Surigao Del Sur),018,N 21° E,Cortes (Surigao Del Sur)
