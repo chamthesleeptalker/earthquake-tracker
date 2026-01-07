@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-08T01:10:00.000Z,08 January 2026 - 01:10 AM,17.99,120.29,023,2.5,021km N 72° W of Badoc (Ilocos Norte),021,N 72° W,Badoc (Ilocos Norte)
 2026-01-08T00:44:00.000Z,08 January 2026 - 12:44 AM,07.11,126.96,033,1.9,047km S 77° E of Manay (Davao Oriental),047,S 77° E,Manay (Davao Oriental)
 2026-01-08T00:40:00.000Z,08 January 2026 - 12:40 AM,07.26,126.80,018,2.7,029km N 78° E of Manay (Davao Oriental),029,N 78° E,Manay (Davao Oriental)
 2026-01-08T00:38:00.000Z,08 January 2026 - 12:38 AM,10.90,123.91,004,2.5,017km S 25° W of City Of Bogo (Cebu),017,S 25° W,City Of Bogo (Cebu)
@@ -388,6 +389,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-01T02:05:00.000Z,01 January 2026 - 02:05 AM,07.95,124.80,033,1.5,014km N 12° W of Pangantucan (Bukidnon),014,N 12° W,Pangantucan (Bukidnon)
 2026-01-01T02:00:00.000Z,01 January 2026 - 02:00 AM,09.13,126.40,021,2.4,022km N 34° E of Bayabas (Surigao Del Sur),022,N 34° E,Bayabas (Surigao Del Sur)
 2026-01-01T01:30:00.000Z,01 January 2026 - 01:30 AM,07.30,126.93,010,4.5,044km N 77° E of Manay (Davao Oriental),044,N 77° E,Manay (Davao Oriental)
-2026-01-01T01:05:00.000Z,01 January 2026 - 01:05 AM,05.98,126.95,014,3.3,123km S 52° E of Governor Generoso (Davao Oriental),123,S 52° E,Governor Generoso (Davao Oriental)
-2026-01-01T01:00:00.000Z,01 January 2026 - 01:00 AM,09.70,126.06,021,3.0,014km S 47° W of General Luna (Surigao Del Norte),014,S 47° W,General Luna (Surigao Del Norte)
-2026-01-01T00:56:00.000Z,01 January 2026 - 12:56 AM,09.69,126.22,010,4.1,012km S 34° E of General Luna (Surigao Del Norte),012,S 34° E,General Luna (Surigao Del Norte)
