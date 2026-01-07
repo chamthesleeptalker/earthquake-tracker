@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-08T05:27:00.000Z,08 January 2026 - 05:27 AM,07.19,126.96,009,3.1,047km S 87° E of Manay (Davao Oriental),047,S 87° E,Manay (Davao Oriental)
+2026-01-08T05:13:00.000Z,08 January 2026 - 05:13 AM,07.90,126.28,009,2.0,012km N 71° W of Boston (Davao Oriental),012,N 71° W,Boston (Davao Oriental)
 2026-01-08T05:07:00.000Z,08 January 2026 - 05:07 AM,07.16,127.04,020,2.1,056km S 84° E of Manay (Davao Oriental),056,S 84° E,Manay (Davao Oriental)
 2026-01-08T04:19:00.000Z,08 January 2026 - 04:19 AM,09.61,126.14,032,2.5,019km S 07° W of General Luna (Surigao Del Norte),019,S 07° W,General Luna (Surigao Del Norte)
 2026-01-08T04:04:00.000Z,08 January 2026 - 04:04 AM,07.20,126.86,019,2.4,035km S 88° E of Manay (Davao Oriental),035,S 88° E,Manay (Davao Oriental)
@@ -133,4 +135,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T07:52:00.000Z,07 January 2026 - 07:52 AM,10.94,123.96,016,3.0,011km S 11° W of City Of Bogo (Cebu),011,S 11° W,City Of Bogo (Cebu)
 2026-01-07T07:42:00.000Z,07 January 2026 - 07:42 AM,10.69,123.76,001,2.6,008km S 63° W of Tuburan (Cebu),008,S 63° W,Tuburan (Cebu)
 2026-01-07T06:14:00.000Z,07 January 2026 - 06:14 AM,07.10,123.72,013,3.1,033km N 83° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,N 83° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-01-07T05:15:00.000Z,07 January 2026 - 05:15 AM,11.15,123.99,005,2.5,012km N 04° E of City Of Bogo (Cebu),012,N 04° E,City Of Bogo (Cebu)
