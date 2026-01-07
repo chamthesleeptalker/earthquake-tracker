@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T13:21:00.000Z,07 January 2026 - 01:21 PM,07.17,126.79,032,1.6,027km S 82° E of Manay (Davao Oriental),027,S 82° E,Manay (Davao Oriental)
+2026-01-07T13:16:00.000Z,07 January 2026 - 01:16 PM,07.23,126.85,030,2.2,034km N 87° E of Manay (Davao Oriental),034,N 87° E,Manay (Davao Oriental)
+2026-01-07T13:16:00.000Z,07 January 2026 - 01:16 PM,07.20,127.05,035,2.0,056km S 89° E of Manay (Davao Oriental),056,S 89° E,Manay (Davao Oriental)
+2026-01-07T13:15:00.000Z,07 January 2026 - 01:15 PM,07.23,126.85,025,1.5,035km N 86° E of Manay (Davao Oriental),035,N 86° E,Manay (Davao Oriental)
+2026-01-07T13:14:00.000Z,07 January 2026 - 01:14 PM,07.18,126.83,008,1.8,032km S 85° E of Manay (Davao Oriental),032,S 85° E,Manay (Davao Oriental)
+2026-01-07T12:54:00.000Z,07 January 2026 - 12:54 PM,07.23,126.71,004,1.5,018km N 84° E of Manay (Davao Oriental),018,N 84° E,Manay (Davao Oriental)
+2026-01-07T12:51:00.000Z,07 January 2026 - 12:51 PM,06.89,127.26,035,2.6,087km S 66° E of Manay (Davao Oriental),087,S 66° E,Manay (Davao Oriental)
+2026-01-07T12:46:00.000Z,07 January 2026 - 12:46 PM,07.24,127.00,015,3.5,051km N 86° E of Manay (Davao Oriental),051,N 86° E,Manay (Davao Oriental)
+2026-01-07T12:46:00.000Z,07 January 2026 - 12:46 PM,07.33,126.90,002,1.6,041km N 71° E of Manay (Davao Oriental),041,N 71° E,Manay (Davao Oriental)
 2026-01-07T12:38:00.000Z,07 January 2026 - 12:38 PM,07.21,126.71,024,3.4,019km S 89° E of Manay (Davao Oriental),019,S 89° E,Manay (Davao Oriental)
 2026-01-07T12:36:00.000Z,07 January 2026 - 12:36 PM,07.25,127.09,003,4.1,060km N 86° E of Manay (Davao Oriental),060,N 86° E,Manay (Davao Oriental)
 2026-01-07T12:36:00.000Z,07 January 2026 - 12:36 PM,07.25,127.09,003,4.1,060km N 86° E of Manay (Davao Oriental),060,N 86° E,Manay (Davao Oriental)
