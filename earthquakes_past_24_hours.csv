@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T22:41:00.000Z,07 January 2026 - 10:41 PM,14.02,124.10,012,2.6,006km N 46° W of Caramoran (Catanduanes),006,N 46° W,Caramoran (Catanduanes)
+2026-01-07T22:28:00.000Z,07 January 2026 - 10:28 PM,07.18,126.87,033,2.7,037km S 84° E of Manay (Davao Oriental),037,S 84° E,Manay (Davao Oriental)
+2026-01-07T22:24:00.000Z,07 January 2026 - 10:24 PM,07.14,127.30,010,3.2,085km S 85° E of Manay (Davao Oriental),085,S 85° E,Manay (Davao Oriental)
+2026-01-07T12:12:00.000Z,07 January 2026 - 12:12 PM,07.17,127.06,015,5.4,058km S 86° E of Manay (Davao Oriental),058,S 86° E,Manay (Davao Oriental)
 2026-01-07T22:03:00.000Z,07 January 2026 - 10:03 PM,09.29,126.16,034,2.9,004km N 71° W of Cortes (Surigao Del Sur),004,N 71° W,Cortes (Surigao Del Sur)
 2026-01-07T21:59:00.000Z,07 January 2026 - 09:59 PM,11.01,123.97,003,2.2,004km S 23° W of City Of Bogo (Cebu),004,S 23° W,City Of Bogo (Cebu)
 2026-01-07T21:47:00.000Z,07 January 2026 - 09:47 PM,07.07,127.18,019,4.8,073km S 77° E of Manay (Davao Oriental),073,S 77° E,Manay (Davao Oriental)
@@ -123,4 +127,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T23:14:00.000Z,06 January 2026 - 11:14 PM,16.14,122.01,011,1.7,005km N 89° E of Dinalungan (Aurora),005,N 89° E,Dinalungan (Aurora)
 2026-01-06T23:01:00.000Z,06 January 2026 - 11:01 PM,10.21,122.32,064,2.2,042km S 35° W of Nueva Valencia (Guimaras),042,S 35° W,Nueva Valencia (Guimaras)
 2026-01-06T22:51:00.000Z,06 January 2026 - 10:51 PM,08.13,126.45,057,2.0,010km N 24° E of Lingig (Surigao Del Sur),010,N 24° E,Lingig (Surigao Del Sur)
-2026-01-06T22:24:00.000Z,06 January 2026 - 10:24 PM,11.03,123.94,005,2.2,005km S 61° W of City Of Bogo (Cebu),005,S 61° W,City Of Bogo (Cebu)

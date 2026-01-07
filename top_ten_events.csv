@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-01-07T11:02:00.000Z,07 January 2026 - 11:02 AM,07.13,126.95,42,6.7,047km S 79° E of Manay (Davao Oriental),047,S 79° E,Manay (Davao Oriental)
+2026-01-07T12:12:00.000Z,07 January 2026 - 12:12 PM,07.17,127.06,15,5.4,058km S 86° E of Manay (Davao Oriental),058,S 86° E,Manay (Davao Oriental)
 2026-01-04T04:46:00.000Z,04 January 2026 - 04:46 AM,04.76,127.73,125,5.4,262km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),262,S 72° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-04T07:13:00.000Z,04 January 2026 - 07:13 AM,05.53,127.46,40,5.1,198km S 51° E of Governor Generoso (Davao Oriental),198,S 51° E,Governor Generoso (Davao Oriental)
 2026-01-01T18:46:00.000Z,01 January 2026 - 06:46 PM,07.60,126.83,21,5.1,029km N 84° E of Baganga (Davao Oriental),029,N 84° E,Baganga (Davao Oriental)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-03T04:03:00.000Z,03 January 2026 - 04:03 AM,02.95,128.84,148,4.6,467km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),467,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-01T01:30:00.000Z,01 January 2026 - 01:30 AM,07.30,126.93,10,4.5,044km N 77° E of Manay (Davao Oriental),044,N 77° E,Manay (Davao Oriental)
 2026-01-07T12:13:00.000Z,07 January 2026 - 12:13 PM,07.23,126.90,18,4.3,039km N 87° E of Manay (Davao Oriental),039,N 87° E,Manay (Davao Oriental)
-2026-01-03T00:45:00.000Z,03 January 2026 - 12:45 AM,06.28,126.97,10,4.3,103km S 34° E of Tarragona (Davao Oriental),103,S 34° E,Tarragona (Davao Oriental)
