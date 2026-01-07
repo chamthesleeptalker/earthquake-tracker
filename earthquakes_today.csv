@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-07T17:12:00.000Z,07 January 2026 - 05:12 PM,07.34,126.85,015,2.9,031km N 87° E of Caraga (Davao Oriental),031,N 87° E,Caraga (Davao Oriental)
+2026-01-07T17:00:00.000Z,07 January 2026 - 05:00 PM,07.15,127.14,031,2.4,066km S 84° E of Manay (Davao Oriental),066,S 84° E,Manay (Davao Oriental)
+2026-01-07T12:41:00.000Z,07 January 2026 - 12:41 PM,07.22,126.77,018,3.1,026km N 88° E of Manay (Davao Oriental),026,N 88° E,Manay (Davao Oriental)
 2026-01-07T16:45:00.000Z,07 January 2026 - 04:45 PM,06.99,127.13,032,3.4,069km S 69° E of Manay (Davao Oriental),069,S 69° E,Manay (Davao Oriental)
 2026-01-07T16:39:00.000Z,07 January 2026 - 04:39 PM,07.15,126.97,030,2.7,048km S 82° E of Manay (Davao Oriental),048,S 82° E,Manay (Davao Oriental)
 2026-01-07T16:38:00.000Z,07 January 2026 - 04:38 PM,07.25,126.87,018,1.8,037km N 83° E of Manay (Davao Oriental),037,N 83° E,Manay (Davao Oriental)
