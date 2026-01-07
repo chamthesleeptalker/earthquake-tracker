@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-08T05:07:00.000Z,08 January 2026 - 05:07 AM,07.16,127.04,020,2.1,056km S 84° E of Manay (Davao Oriental),056,S 84° E,Manay (Davao Oriental)
 2026-01-08T04:19:00.000Z,08 January 2026 - 04:19 AM,09.61,126.14,032,2.5,019km S 07° W of General Luna (Surigao Del Norte),019,S 07° W,General Luna (Surigao Del Norte)
 2026-01-08T04:04:00.000Z,08 January 2026 - 04:04 AM,07.20,126.86,019,2.4,035km S 88° E of Manay (Davao Oriental),035,S 88° E,Manay (Davao Oriental)
 2026-01-08T03:59:00.000Z,08 January 2026 - 03:59 AM,11.15,123.93,005,2.5,013km N 26° W of City Of Bogo (Cebu),013,N 26° W,City Of Bogo (Cebu)
@@ -388,6 +389,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-01T06:11:00.000Z,01 January 2026 - 06:11 AM,11.27,125.67,009,2.3,010km S 38° E of Hernani (Eastern Samar),010,S 38° E,Hernani (Eastern Samar)
 2026-01-01T05:39:00.000Z,01 January 2026 - 05:39 AM,09.74,124.54,023,1.7,004km S 78° W of Anda (Bohol),004,S 78° W,Anda (Bohol)
 2026-01-01T05:16:00.000Z,01 January 2026 - 05:16 AM,09.70,126.18,012,2.6,010km S 18° E of General Luna (Surigao Del Norte),010,S 18° E,General Luna (Surigao Del Norte)
-2026-01-01T05:05:00.000Z,01 January 2026 - 05:05 AM,10.24,126.61,019,3.3,063km N 68° E of Burgos (Surigao Del Norte),063,N 68° E,Burgos (Surigao Del Norte)
-2026-01-01T04:50:00.000Z,01 January 2026 - 04:50 AM,17.22,122.45,069,2.9,018km N 09° E of Palanan (Isabela),018,N 09° E,Palanan (Isabela)
-2026-01-01T04:31:00.000Z,01 January 2026 - 04:31 AM,17.37,120.37,011,2.3,009km N 60° W of San Esteban (Ilocos Sur),009,N 60° W,San Esteban (Ilocos Sur)
