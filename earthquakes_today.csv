@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T02:15:00.000Z,09 January 2026 - 02:15 AM,07.11,126.94,028,2.0,046km S 76° E of Manay (Davao Oriental),046,S 76° E,Manay (Davao Oriental)
+2026-01-09T02:11:00.000Z,09 January 2026 - 02:11 AM,07.07,127.02,030,2.5,055km S 74° E of Manay (Davao Oriental),055,S 74° E,Manay (Davao Oriental)
+2026-01-09T02:08:00.000Z,09 January 2026 - 02:08 AM,10.09,122.49,033,1.6,020km N 47° W of Cauayan (Negros Occidental),020,N 47° W,Cauayan (Negros Occidental)
+2026-01-09T01:44:00.000Z,09 January 2026 - 01:44 AM,07.38,126.84,006,2.0,038km N 61° E of Manay (Davao Oriental),038,N 61° E,Manay (Davao Oriental)
+2026-01-09T01:35:00.000Z,09 January 2026 - 01:35 AM,04.31,125.64,040,3.5,124km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),124,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-09T01:16:00.000Z,09 January 2026 - 01:16 AM,07.44,127.05,016,2.1,062km N 65° E of Manay (Davao Oriental),062,N 65° E,Manay (Davao Oriental)
 2026-01-09T01:07:00.000Z,09 January 2026 - 01:07 AM,08.44,126.73,002,1.6,043km N 79° E of Hinatuan (Surigao Del Sur),043,N 79° E,Hinatuan (Surigao Del Sur)
 2026-01-09T01:06:00.000Z,09 January 2026 - 01:06 AM,10.04,122.36,001,1.9,030km N 76° W of Cauayan (Negros Occidental),030,N 76° W,Cauayan (Negros Occidental)
