@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T06:05:00.000Z,09 January 2026 - 06:05 AM,08.90,125.94,030,1.7,011km S 66° W of San Miguel (Surigao Del Sur),011,S 66° W,San Miguel (Surigao Del Sur)
+2026-01-09T05:53:00.000Z,09 January 2026 - 05:53 AM,08.74,126.13,010,2.8,011km S 86° W of San Agustin (Surigao Del Sur),011,S 86° W,San Agustin (Surigao Del Sur)
 2026-01-09T05:08:00.000Z,09 January 2026 - 05:08 AM,11.18,124.03,027,2.4,016km N 19° E of City Of Bogo (Cebu),016,N 19° E,City Of Bogo (Cebu)
 2026-01-09T04:53:00.000Z,09 January 2026 - 04:53 AM,18.35,120.75,050,2.4,014km N 83° E of Pasuquin (Ilocos Norte),014,N 83° E,Pasuquin (Ilocos Norte)
 2026-01-09T04:38:00.000Z,09 January 2026 - 04:38 AM,11.42,122.14,001,3.1,009km S 87° E of Culasi (Antique),009,S 87° E,Culasi (Antique)
@@ -51,6 +53,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-08T09:50:00.000Z,08 January 2026 - 09:50 AM,11.17,123.90,009,3.2,017km N 32° W of City Of Bogo (Cebu),017,N 32° W,City Of Bogo (Cebu)
 2026-01-08T09:31:00.000Z,08 January 2026 - 09:31 AM,13.91,119.81,003,2.9,035km N 80° W of Lubang (Occidental Mindoro),035,N 80° W,Lubang (Occidental Mindoro)
 2026-01-08T09:27:00.000Z,08 January 2026 - 09:27 AM,15.83,120.51,020,1.6,002km S 46° W of Alcala (Pangasinan),002,S 46° W,Alcala (Pangasinan)
-2026-01-08T05:42:00.000Z,08 January 2026 - 05:42 AM,07.15,126.93,015,2.4,044km S 81° E of Manay (Davao Oriental),044,S 81° E,Manay (Davao Oriental)
-2026-01-08T05:27:00.000Z,08 January 2026 - 05:27 AM,07.19,126.96,009,3.1,047km S 87° E of Manay (Davao Oriental),047,S 87° E,Manay (Davao Oriental)
-2026-01-08T05:13:00.000Z,08 January 2026 - 05:13 AM,07.90,126.28,009,2.0,012km N 71° W of Boston (Davao Oriental),012,N 71° W,Boston (Davao Oriental)
