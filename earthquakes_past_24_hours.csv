@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-08T22:08:00.000Z,08 January 2026 - 10:08 PM,09.61,126.14,024,2.3,020km S 04° W of General Luna (Surigao Del Norte),020,S 04° W,General Luna (Surigao Del Norte)
+2026-01-08T22:05:00.000Z,08 January 2026 - 10:05 PM,10.91,123.88,019,2.2,019km S 37° W of City Of Bogo (Cebu),019,S 37° W,City Of Bogo (Cebu)
+2026-01-08T21:43:00.000Z,08 January 2026 - 09:43 PM,07.30,126.88,006,2.5,038km N 76° E of Manay (Davao Oriental),038,N 76° E,Manay (Davao Oriental)
 2026-01-08T21:26:00.000Z,08 January 2026 - 09:26 PM,08.96,126.40,022,1.9,012km N 65° E of Cagwait (Surigao Del Sur),012,N 65° E,Cagwait (Surigao Del Sur)
 2026-01-08T21:18:00.000Z,08 January 2026 - 09:18 PM,12.88,123.10,001,2.2,016km S 79° W of Claveria (Masbate),016,S 79° W,Claveria (Masbate)
 2026-01-08T21:06:00.000Z,08 January 2026 - 09:06 PM,07.25,126.71,017,2.2,019km N 77° E of Manay (Davao Oriental),019,N 77° E,Manay (Davao Oriental)
@@ -49,6 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T22:41:00.000Z,07 January 2026 - 10:41 PM,14.02,124.10,012,2.6,006km N 46° W of Caramoran (Catanduanes),006,N 46° W,Caramoran (Catanduanes)
 2026-01-07T22:28:00.000Z,07 January 2026 - 10:28 PM,07.18,126.87,033,2.7,037km S 84° E of Manay (Davao Oriental),037,S 84° E,Manay (Davao Oriental)
 2026-01-07T22:24:00.000Z,07 January 2026 - 10:24 PM,07.14,127.30,010,3.2,085km S 85° E of Manay (Davao Oriental),085,S 85° E,Manay (Davao Oriental)
-2026-01-07T22:03:00.000Z,07 January 2026 - 10:03 PM,09.29,126.16,034,2.9,004km N 71° W of Cortes (Surigao Del Sur),004,N 71° W,Cortes (Surigao Del Sur)
-2026-01-07T21:59:00.000Z,07 January 2026 - 09:59 PM,11.01,123.97,003,2.2,004km S 23° W of City Of Bogo (Cebu),004,S 23° W,City Of Bogo (Cebu)
-2026-01-07T21:47:00.000Z,07 January 2026 - 09:47 PM,07.07,127.18,019,4.8,073km S 77° E of Manay (Davao Oriental),073,S 77° E,Manay (Davao Oriental)
