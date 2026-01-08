@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T04:53:00.000Z,09 January 2026 - 04:53 AM,18.35,120.75,050,2.4,014km N 83° E of Pasuquin (Ilocos Norte),014,N 83° E,Pasuquin (Ilocos Norte)
+2026-01-09T04:38:00.000Z,09 January 2026 - 04:38 AM,11.42,122.14,001,3.1,009km S 87° E of Culasi (Antique),009,S 87° E,Culasi (Antique)
 2026-01-09T04:27:00.000Z,09 January 2026 - 04:27 AM,08.73,126.20,036,1.4,003km S 48° W of San Agustin (Surigao Del Sur),003,S 48° W,San Agustin (Surigao Del Sur)
 2026-01-09T04:24:00.000Z,09 January 2026 - 04:24 AM,08.76,126.39,030,1.7,018km N 85° E of San Agustin (Surigao Del Sur),018,N 85° E,San Agustin (Surigao Del Sur)
 2026-01-09T04:21:00.000Z,09 January 2026 - 04:21 AM,07.89,126.88,057,2.5,048km N 77° E of Cateel (Davao Oriental),048,N 77° E,Cateel (Davao Oriental)
