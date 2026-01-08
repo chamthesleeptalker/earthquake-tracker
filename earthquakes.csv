@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T01:16:00.000Z,09 January 2026 - 01:16 AM,07.44,127.05,016,2.1,062km N 65° E of Manay (Davao Oriental),062,N 65° E,Manay (Davao Oriental)
+2026-01-09T01:07:00.000Z,09 January 2026 - 01:07 AM,08.44,126.73,002,1.6,043km N 79° E of Hinatuan (Surigao Del Sur),043,N 79° E,Hinatuan (Surigao Del Sur)
+2026-01-09T01:06:00.000Z,09 January 2026 - 01:06 AM,10.04,122.36,001,1.9,030km N 76° W of Cauayan (Negros Occidental),030,N 76° W,Cauayan (Negros Occidental)
 2026-01-09T00:24:00.000Z,09 January 2026 - 12:24 AM,11.02,124.15,034,1.4,016km N 57° E of Tabogon (Cebu),016,N 57° E,Tabogon (Cebu)
 2026-01-09T00:17:00.000Z,09 January 2026 - 12:17 AM,11.16,123.94,009,3.1,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
 2026-01-09T00:07:00.000Z,09 January 2026 - 12:07 AM,12.74,123.49,008,2.3,021km S 33° W of Donsol (Sorsogon),021,S 33° W,Donsol (Sorsogon)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T01:16:00.000Z,09 January 2026 - 01:16 AM,07.44,127.05,016,2.1,062km N 65° E of Manay (Davao Oriental),062,N 65° E,Manay (Davao Oriental)
+2026-01-09T01:07:00.000Z,09 January 2026 - 01:07 AM,08.44,126.73,002,1.6,043km N 79° E of Hinatuan (Surigao Del Sur),043,N 79° E,Hinatuan (Surigao Del Sur)
+2026-01-09T01:06:00.000Z,09 January 2026 - 01:06 AM,10.04,122.36,001,1.9,030km N 76° W of Cauayan (Negros Occidental),030,N 76° W,Cauayan (Negros Occidental)
 2026-01-09T00:24:00.000Z,09 January 2026 - 12:24 AM,11.02,124.15,034,1.4,016km N 57° E of Tabogon (Cebu),016,N 57° E,Tabogon (Cebu)
 2026-01-09T00:17:00.000Z,09 January 2026 - 12:17 AM,11.16,123.94,009,3.1,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
 2026-01-09T00:07:00.000Z,09 January 2026 - 12:07 AM,12.74,123.49,008,2.3,021km S 33° W of Donsol (Sorsogon),021,S 33° W,Donsol (Sorsogon)
@@ -391,6 +394,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-02T01:26:00.000Z,02 January 2026 - 01:26 AM,07.23,126.92,015,2.6,042km N 87° E of Manay (Davao Oriental),042,N 87° E,Manay (Davao Oriental)
 2026-01-02T01:18:00.000Z,02 January 2026 - 01:18 AM,12.76,121.40,025,2.0,009km N 83° W of Bongabong (Oriental Mindoro),009,N 83° W,Bongabong (Oriental Mindoro)
 2026-01-02T01:16:00.000Z,02 January 2026 - 01:16 AM,11.14,123.76,027,2.3,004km S 56° W of Santa Fe (Cebu),004,S 56° W,Santa Fe (Cebu)
-2026-01-02T00:59:00.000Z,02 January 2026 - 12:59 AM,06.72,126.06,039,2.3,008km N 10° W of Governor Generoso (Davao Oriental),008,N 10° W,Governor Generoso (Davao Oriental)
-2026-01-02T00:40:00.000Z,02 January 2026 - 12:40 AM,15.46,119.77,043,2.0,015km N 78° W of Palauig (Zambales),015,N 78° W,Palauig (Zambales)
-2026-01-02T00:26:00.000Z,02 January 2026 - 12:26 AM,06.96,121.98,029,1.5,028km N 01° E of City Of Isabela (Basilan),028,N 01° E,City Of Isabela (Basilan)
