@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T04:16:00.000Z,09 January 2026 - 04:16 AM,08.72,126.23,022,1.8,003km S 09° E of San Agustin (Surigao Del Sur),003,S 09° E,San Agustin (Surigao Del Sur)
+2026-01-09T04:11:00.000Z,09 January 2026 - 04:11 AM,08.74,126.22,032,2.1,001km S 29° W of San Agustin (Surigao Del Sur),001,S 29° W,San Agustin (Surigao Del Sur)
+2026-01-09T04:06:00.000Z,09 January 2026 - 04:06 AM,08.75,126.19,010,4.5,003km N 80° W of San Agustin (Surigao Del Sur),003,N 80° W,San Agustin (Surigao Del Sur)
+2026-01-09T03:58:00.000Z,09 January 2026 - 03:58 AM,07.81,126.84,016,1.6,040km N 50° E of Baganga (Davao Oriental),040,N 50° E,Baganga (Davao Oriental)
+2026-01-09T03:43:00.000Z,09 January 2026 - 03:43 AM,10.90,124.09,031,1.9,020km S 38° E of City Of Bogo (Cebu),020,S 38° E,City Of Bogo (Cebu)
 2026-01-09T03:13:00.000Z,09 January 2026 - 03:13 AM,07.43,126.78,014,1.8,036km N 47° E of Manay (Davao Oriental),036,N 47° E,Manay (Davao Oriental)
 2026-01-09T03:04:00.000Z,09 January 2026 - 03:04 AM,07.29,127.12,023,2.5,065km N 82° E of Manay (Davao Oriental),065,N 82° E,Manay (Davao Oriental)
 2026-01-09T02:55:00.000Z,09 January 2026 - 02:55 AM,11.04,124.03,028,2.4,006km S 80° E of City Of Bogo (Cebu),006,S 80° E,City Of Bogo (Cebu)
