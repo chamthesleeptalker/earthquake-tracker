@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-08T21:26:00.000Z,08 January 2026 - 09:26 PM,08.96,126.40,022,1.9,012km N 65° E of Cagwait (Surigao Del Sur),012,N 65° E,Cagwait (Surigao Del Sur)
+2026-01-08T21:18:00.000Z,08 January 2026 - 09:18 PM,12.88,123.10,001,2.2,016km S 79° W of Claveria (Masbate),016,S 79° W,Claveria (Masbate)
+2026-01-08T21:06:00.000Z,08 January 2026 - 09:06 PM,07.25,126.71,017,2.2,019km N 77° E of Manay (Davao Oriental),019,N 77° E,Manay (Davao Oriental)
+2026-01-08T21:01:00.000Z,08 January 2026 - 09:01 PM,06.12,127.05,019,2.2,122km S 33° E of Tarragona (Davao Oriental),122,S 33° E,Tarragona (Davao Oriental)
+2026-01-08T21:00:00.000Z,08 January 2026 - 09:00 PM,07.93,126.29,004,1.8,018km S 48° W of Lingig (Surigao Del Sur),018,S 48° W,Lingig (Surigao Del Sur)
 2026-01-08T20:00:00.000Z,08 January 2026 - 08:00 PM,11.05,124.02,032,1.9,005km N 85° E of City Of Bogo (Cebu),005,N 85° E,City Of Bogo (Cebu)
 2026-01-08T19:48:00.000Z,08 January 2026 - 07:48 PM,07.71,123.01,022,1.8,004km N 39° E of Diplahan (Zamboanga Sibugay),004,N 39° E,Diplahan (Zamboanga Sibugay)
 2026-01-08T17:56:00.000Z,08 January 2026 - 05:56 PM,13.86,119.94,011,1.8,020km N 88° W of Lubang (Occidental Mindoro),020,N 88° W,Lubang (Occidental Mindoro)
@@ -357,7 +362,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-02T08:27:00.000Z,02 January 2026 - 08:27 AM,06.60,126.19,046,2.3,014km S 63° E of Governor Generoso (Davao Oriental),014,S 63° E,Governor Generoso (Davao Oriental)
 2026-01-02T08:02:00.000Z,02 January 2026 - 08:02 AM,11.14,124.03,017,2.6,012km N 30° E of City Of Bogo (Cebu),012,N 30° E,City Of Bogo (Cebu)
 2026-01-02T07:50:00.000Z,02 January 2026 - 07:50 AM,11.03,124.04,003,2.8,006km S 74° E of City Of Bogo (Cebu),006,S 74° E,City Of Bogo (Cebu)
-2026-01-01T20:35:00.000Z,01 January 2026 - 08:35 PM,07.49,124.25,025,1.6,002km N 24° W of Matanog (Maguindanao Del Norte),002,N 24° W,Matanog (Maguindanao Del Norte)
 2026-01-02T06:19:00.000Z,02 January 2026 - 06:19 AM,09.74,126.25,010,3.5,011km S 65° E of General Luna (Surigao Del Norte),011,S 65° E,General Luna (Surigao Del Norte)
 2026-01-02T05:30:00.000Z,02 January 2026 - 05:30 AM,07.64,123.82,033,2.0,016km S 79° W of Picong (Lanao Del Sur),016,S 79° W,Picong (Lanao Del Sur)
 2026-01-02T04:49:00.000Z,02 January 2026 - 04:49 AM,07.24,126.66,019,2.8,013km N 75° E of Manay (Davao Oriental),013,N 75° E,Manay (Davao Oriental)
@@ -385,4 +389,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-02T00:12:00.000Z,02 January 2026 - 12:12 AM,13.47,120.75,033,1.6,004km N 33° E of Abra De Ilog (Occidental Mindoro),004,N 33° E,Abra De Ilog (Occidental Mindoro)
 2026-01-02T00:01:00.000Z,02 January 2026 - 12:01 AM,18.01,121.27,010,3.1,009km S 77° E of Kabugao (Apayao),009,S 77° E,Kabugao (Apayao)
 2026-01-01T21:47:00.000Z,01 January 2026 - 09:47 PM,13.57,120.37,002,1.7,020km N 32° W of Paluan (Occidental Mindoro),020,N 32° W,Paluan (Occidental Mindoro)
-2026-01-01T20:56:00.000Z,01 January 2026 - 08:56 PM,19.97,121.60,001,2.9,049km S 36° W of Sabtang (Batanes),049,S 36° W,Sabtang (Batanes)
