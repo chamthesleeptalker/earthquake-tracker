@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T00:24:00.000Z,09 January 2026 - 12:24 AM,11.02,124.15,034,1.4,016km N 57° E of Tabogon (Cebu),016,N 57° E,Tabogon (Cebu)
+2026-01-09T00:17:00.000Z,09 January 2026 - 12:17 AM,11.16,123.94,009,3.1,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
 2026-01-09T00:07:00.000Z,09 January 2026 - 12:07 AM,12.74,123.49,008,2.3,021km S 33° W of Donsol (Sorsogon),021,S 33° W,Donsol (Sorsogon)
 2026-01-08T23:17:00.000Z,08 January 2026 - 11:17 PM,07.33,126.73,005,2.6,025km N 57° E of Manay (Davao Oriental),025,N 57° E,Manay (Davao Oriental)
 2026-01-08T23:09:00.000Z,08 January 2026 - 11:09 PM,07.12,127.15,007,3.1,069km S 82° E of Manay (Davao Oriental),069,S 82° E,Manay (Davao Oriental)
