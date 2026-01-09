@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T02:05:00.000Z,10 January 2026 - 02:05 AM,13.44,120.58,018,1.4,012km N 79° E of Paluan (Occidental Mindoro),012,N 79° E,Paluan (Occidental Mindoro)
+2026-01-10T01:45:00.000Z,10 January 2026 - 01:45 AM,16.33,122.07,003,2.1,008km N 43° W of Casiguran (Aurora),008,N 43° W,Casiguran (Aurora)
+2026-01-10T01:33:00.000Z,10 January 2026 - 01:33 AM,07.26,127.12,006,2.5,065km N 85° E of Manay (Davao Oriental),065,N 85° E,Manay (Davao Oriental)
+2026-01-09T02:54:00.000Z,09 January 2026 - 02:54 AM,11.00,123.93,001,2.4,007km S 51° W of City Of Bogo (Cebu),007,S 51° W,City Of Bogo (Cebu)
 2026-01-10T01:25:00.000Z,10 January 2026 - 01:25 AM,10.89,123.92,010,2.8,018km S 20° W of City Of Bogo (Cebu),018,S 20° W,City Of Bogo (Cebu)
 2026-01-10T01:19:00.000Z,10 January 2026 - 01:19 AM,16.39,122.02,012,1.8,016km N 42° W of Casiguran (Aurora),016,N 42° W,Casiguran (Aurora)
 2026-01-10T01:12:00.000Z,10 January 2026 - 01:12 AM,16.42,122.14,010,3.1,008km N 71° W of Dilasag (Aurora),008,N 71° W,Dilasag (Aurora)
