@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T05:02:00.000Z,10 January 2026 - 05:02 AM,13.53,121.49,033,1.4,031km N 42° E of Naujan (Oriental Mindoro),031,N 42° E,Naujan (Oriental Mindoro)
 2026-01-10T04:18:00.000Z,10 January 2026 - 04:18 AM,10.72,125.15,033,1.7,016km S 78° E of Abuyog (Leyte),016,S 78° E,Abuyog (Leyte)
 2026-01-10T04:15:00.000Z,10 January 2026 - 04:15 AM,07.98,123.34,028,1.8,006km S 31° E of Midsalip (Zamboanga Del Sur),006,S 31° E,Midsalip (Zamboanga Del Sur)
 2026-01-10T02:38:00.000Z,10 January 2026 - 02:38 AM,07.26,127.07,013,3.2,059km N 85° E of Manay (Davao Oriental),059,N 85° E,Manay (Davao Oriental)
