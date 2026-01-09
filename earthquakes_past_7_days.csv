@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T02:38:00.000Z,10 January 2026 - 02:38 AM,07.26,127.07,013,3.2,059km N 85° E of Manay (Davao Oriental),059,N 85° E,Manay (Davao Oriental)
+2026-01-10T02:31:00.000Z,10 January 2026 - 02:31 AM,06.97,127.13,009,2.3,071km S 68° E of Manay (Davao Oriental),071,S 68° E,Manay (Davao Oriental)
 2026-01-10T02:05:00.000Z,10 January 2026 - 02:05 AM,13.44,120.58,018,1.4,012km N 79° E of Paluan (Occidental Mindoro),012,N 79° E,Paluan (Occidental Mindoro)
 2026-01-10T01:45:00.000Z,10 January 2026 - 01:45 AM,16.33,122.07,003,2.1,008km N 43° W of Casiguran (Aurora),008,N 43° W,Casiguran (Aurora)
 2026-01-10T01:33:00.000Z,10 January 2026 - 01:33 AM,07.26,127.12,006,2.5,065km N 85° E of Manay (Davao Oriental),065,N 85° E,Manay (Davao Oriental)
@@ -397,5 +399,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-03T03:27:00.000Z,03 January 2026 - 03:27 AM,07.83,122.77,030,1.3,004km N 24° E of Kabasalan (Zamboanga Sibugay),004,N 24° E,Kabasalan (Zamboanga Sibugay)
 2026-01-03T03:24:00.000Z,03 January 2026 - 03:24 AM,02.92,126.23,056,3.3,289km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),289,S 18° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-03T02:59:00.000Z,03 January 2026 - 02:59 AM,03.29,126.80,050,3.4,280km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),280,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-03T02:21:00.000Z,03 January 2026 - 02:21 AM,09.47,125.51,019,2.8,008km N 72° W of Kitcharao (Agusan Del Norte),008,N 72° W,Kitcharao (Agusan Del Norte)
-2026-01-03T02:18:00.000Z,03 January 2026 - 02:18 AM,05.80,126.70,020,3.1,117km S 36° E of Governor Generoso (Davao Oriental),117,S 36° E,Governor Generoso (Davao Oriental)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T02:38:00.000Z,10 January 2026 - 02:38 AM,07.26,127.07,013,3.2,059km N 85° E of Manay (Davao Oriental),059,N 85° E,Manay (Davao Oriental)
+2026-01-10T02:31:00.000Z,10 January 2026 - 02:31 AM,06.97,127.13,009,2.3,071km S 68° E of Manay (Davao Oriental),071,S 68° E,Manay (Davao Oriental)
 2026-01-10T02:05:00.000Z,10 January 2026 - 02:05 AM,13.44,120.58,018,1.4,012km N 79° E of Paluan (Occidental Mindoro),012,N 79° E,Paluan (Occidental Mindoro)
 2026-01-10T01:45:00.000Z,10 January 2026 - 01:45 AM,16.33,122.07,003,2.1,008km N 43° W of Casiguran (Aurora),008,N 43° W,Casiguran (Aurora)
 2026-01-10T01:33:00.000Z,10 January 2026 - 01:33 AM,07.26,127.12,006,2.5,065km N 85° E of Manay (Davao Oriental),065,N 85° E,Manay (Davao Oriental)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T02:38:00.000Z,10 January 2026 - 02:38 AM,07.26,127.07,013,3.2,059km N 85° E of Manay (Davao Oriental),059,N 85° E,Manay (Davao Oriental)
+2026-01-10T02:31:00.000Z,10 January 2026 - 02:31 AM,06.97,127.13,009,2.3,071km S 68° E of Manay (Davao Oriental),071,S 68° E,Manay (Davao Oriental)
 2026-01-10T02:05:00.000Z,10 January 2026 - 02:05 AM,13.44,120.58,018,1.4,012km N 79° E of Paluan (Occidental Mindoro),012,N 79° E,Paluan (Occidental Mindoro)
 2026-01-10T01:45:00.000Z,10 January 2026 - 01:45 AM,16.33,122.07,003,2.1,008km N 43° W of Casiguran (Aurora),008,N 43° W,Casiguran (Aurora)
 2026-01-10T01:33:00.000Z,10 January 2026 - 01:33 AM,07.26,127.12,006,2.5,065km N 85° E of Manay (Davao Oriental),065,N 85° E,Manay (Davao Oriental)
@@ -59,7 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T03:13:00.000Z,09 January 2026 - 03:13 AM,07.43,126.78,014,1.8,036km N 47° E of Manay (Davao Oriental),036,N 47° E,Manay (Davao Oriental)
 2026-01-09T03:04:00.000Z,09 January 2026 - 03:04 AM,07.29,127.12,023,2.5,065km N 82° E of Manay (Davao Oriental),065,N 82° E,Manay (Davao Oriental)
 2026-01-09T02:55:00.000Z,09 January 2026 - 02:55 AM,11.04,124.03,028,2.4,006km S 80° E of City Of Bogo (Cebu),006,S 80° E,City Of Bogo (Cebu)
-2026-01-09T02:29:00.000Z,09 January 2026 - 02:29 AM,07.20,126.93,010,2.4,043km S 89° E of Manay (Davao Oriental),043,S 89° E,Manay (Davao Oriental)
-2026-01-09T02:15:00.000Z,09 January 2026 - 02:15 AM,07.11,126.94,028,2.0,046km S 76° E of Manay (Davao Oriental),046,S 76° E,Manay (Davao Oriental)
-2026-01-09T02:11:00.000Z,09 January 2026 - 02:11 AM,07.07,127.02,030,2.5,055km S 74° E of Manay (Davao Oriental),055,S 74° E,Manay (Davao Oriental)
-2026-01-09T02:08:00.000Z,09 January 2026 - 02:08 AM,10.09,122.49,033,1.6,020km N 47° W of Cauayan (Negros Occidental),020,N 47° W,Cauayan (Negros Occidental)
