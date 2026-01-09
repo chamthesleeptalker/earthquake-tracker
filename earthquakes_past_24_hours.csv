@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T06:48:00.000Z,10 January 2026 - 06:48 AM,08.82,126.34,002,2.4,012km S 21° E of Cagwait (Surigao Del Sur),012,S 21° E,Cagwait (Surigao Del Sur)
+2026-01-10T06:38:00.000Z,10 January 2026 - 06:38 AM,10.99,124.08,028,1.7,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
 2026-01-10T05:57:00.000Z,10 January 2026 - 05:57 AM,11.90,124.12,004,2.5,008km N 74° E of Pio V. Corpus (Masbate),008,N 74° E,Pio V. Corpus (Masbate)
 2026-01-10T05:44:00.000Z,10 January 2026 - 05:44 AM,08.58,126.42,008,2.0,026km N 21° E of Hinatuan (Surigao Del Sur),026,N 21° E,Hinatuan (Surigao Del Sur)
 2026-01-10T05:02:00.000Z,10 January 2026 - 05:02 AM,13.53,121.49,033,1.4,031km N 42° E of Naujan (Oriental Mindoro),031,N 42° E,Naujan (Oriental Mindoro)
@@ -46,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T09:10:00.000Z,09 January 2026 - 09:10 AM,08.74,126.24,033,1.7,001km S 67° E of San Agustin (Surigao Del Sur),001,S 67° E,San Agustin (Surigao Del Sur)
 2026-01-09T08:03:00.000Z,09 January 2026 - 08:03 AM,10.83,124.10,025,2.1,028km S 29° E of City Of Bogo (Cebu),028,S 29° E,City Of Bogo (Cebu)
 2026-01-09T07:32:00.000Z,09 January 2026 - 07:32 AM,11.77,126.21,101,2.3,080km N 54° E of Hernani (Eastern Samar),080,N 54° E,Hernani (Eastern Samar)
-2026-01-09T06:24:00.000Z,09 January 2026 - 06:24 AM,06.36,125.27,088,2.6,002km S 05° W of Malungon (Sarangani),002,S 05° W,Malungon (Sarangani)
-2026-01-09T06:10:00.000Z,09 January 2026 - 06:10 AM,08.81,126.15,026,2.0,011km N 47° W of San Agustin (Surigao Del Sur),011,N 47° W,San Agustin (Surigao Del Sur)
-2026-01-09T06:05:00.000Z,09 January 2026 - 06:05 AM,08.90,125.94,030,1.7,011km S 66° W of San Miguel (Surigao Del Sur),011,S 66° W,San Miguel (Surigao Del Sur)
