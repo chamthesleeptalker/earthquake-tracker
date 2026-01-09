@@ -1,5 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-09T06:24:00.000Z,09 January 2026 - 06:24 AM,06.36,125.27,088,2.6,002km S 05° W of Malungon (Sarangani),002,S 05° W,Malungon (Sarangani)
-2026-01-09T06:10:00.000Z,09 January 2026 - 06:10 AM,08.81,126.15,026,2.0,011km N 47° W of San Agustin (Surigao Del Sur),011,N 47° W,San Agustin (Surigao Del Sur)
-2026-01-09T06:05:00.000Z,09 January 2026 - 06:05 AM,08.90,125.94,030,1.7,011km S 66° W of San Miguel (Surigao Del Sur),011,S 66° W,San Miguel (Surigao Del Sur)
-2026-01-09T05:53:00.000Z,09 January 2026 - 05:53 AM,08.74,126.13,010,2.8,011km S 86° W of San Agustin (Surigao Del Sur),011,S 86° W,San Agustin (Surigao Del Sur)
+2026-01-09T09:19:00.000Z,09 January 2026 - 09:19 AM,07.26,126.89,020,2.7,039km N 82° E of Manay (Davao Oriental),039,N 82° E,Manay (Davao Oriental)
+2026-01-09T09:10:00.000Z,09 January 2026 - 09:10 AM,08.74,126.24,033,1.7,001km S 67° E of San Agustin (Surigao Del Sur),001,S 67° E,San Agustin (Surigao Del Sur)
