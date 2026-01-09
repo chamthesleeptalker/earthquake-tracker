@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T00:00:00.000Z,10 January 2026 - 12:00 AM,16.16,119.58,020,4.8,023km N 78° W of Agno (Pangasinan),023,N 78° W,Agno (Pangasinan)
 2026-01-09T23:08:00.000Z,09 January 2026 - 11:08 PM,16.09,120.76,011,1.7,003km N 07° W of San Nicolas (Pangasinan),003,N 07° W,San Nicolas (Pangasinan)
 2026-01-09T22:51:00.000Z,09 January 2026 - 10:51 PM,18.54,120.44,023,2.9,022km N 83° W of Burgos (Ilocos Norte),022,N 83° W,Burgos (Ilocos Norte)
 2026-01-09T22:37:00.000Z,09 January 2026 - 10:37 PM,07.36,127.04,005,2.4,058km N 74° E of Manay (Davao Oriental),058,N 74° E,Manay (Davao Oriental)
@@ -63,5 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T00:24:00.000Z,09 January 2026 - 12:24 AM,11.02,124.15,034,1.4,016km N 57° E of Tabogon (Cebu),016,N 57° E,Tabogon (Cebu)
 2026-01-09T00:17:00.000Z,09 January 2026 - 12:17 AM,11.16,123.94,009,3.1,014km N 20° W of City Of Bogo (Cebu),014,N 20° W,City Of Bogo (Cebu)
 2026-01-09T00:07:00.000Z,09 January 2026 - 12:07 AM,12.74,123.49,008,2.3,021km S 33° W of Donsol (Sorsogon),021,S 33° W,Donsol (Sorsogon)
-2026-01-08T23:17:00.000Z,08 January 2026 - 11:17 PM,07.33,126.73,005,2.6,025km N 57° E of Manay (Davao Oriental),025,N 57° E,Manay (Davao Oriental)
-2026-01-08T23:09:00.000Z,08 January 2026 - 11:09 PM,07.12,127.15,007,3.1,069km S 82° E of Manay (Davao Oriental),069,S 82° E,Manay (Davao Oriental)
