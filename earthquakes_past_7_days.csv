@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T12:13:00.000Z,09 January 2026 - 12:13 PM,09.67,126.23,037,1.7,015km S 31° E of General Luna (Surigao Del Norte),015,S 31° E,General Luna (Surigao Del Norte)
+2026-01-09T12:12:00.000Z,09 January 2026 - 12:12 PM,06.15,124.59,010,2.0,015km N 49° E of Maitum (Sarangani),015,N 49° E,Maitum (Sarangani)
+2026-01-09T12:03:00.000Z,09 January 2026 - 12:03 PM,11.62,125.44,019,1.9,002km N 42° E of City Of Borongan (Eastern Samar),002,N 42° E,City Of Borongan (Eastern Samar)
+2026-01-09T11:58:00.000Z,09 January 2026 - 11:58 AM,09.66,126.21,032,1.5,015km S 25° E of General Luna (Surigao Del Norte),015,S 25° E,General Luna (Surigao Del Norte)
+2026-01-09T11:42:00.000Z,09 January 2026 - 11:42 AM,07.30,126.97,015,2.2,048km N 78° E of Manay (Davao Oriental),048,N 78° E,Manay (Davao Oriental)
 2026-01-09T11:05:00.000Z,09 January 2026 - 11:05 AM,07.10,127.02,010,2.8,054km S 77° E of Manay (Davao Oriental),054,S 77° E,Manay (Davao Oriental)
 2026-01-09T10:19:00.000Z,09 January 2026 - 10:19 AM,09.64,126.21,034,1.8,017km S 20° E of General Luna (Surigao Del Norte),017,S 20° E,General Luna (Surigao Del Norte)
 2026-01-09T09:46:00.000Z,09 January 2026 - 09:46 AM,07.33,126.99,019,3.3,051km N 75° E of Manay (Davao Oriental),051,N 75° E,Manay (Davao Oriental)
@@ -400,4 +405,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-02T13:36:00.000Z,02 January 2026 - 01:36 PM,05.58,125.19,002,2.0,027km S 03° W of Glan (Sarangani),027,S 03° W,Glan (Sarangani)
 2026-01-02T13:16:00.000Z,02 January 2026 - 01:16 PM,13.54,120.68,100,2.4,012km N 27° W of Abra De Ilog (Occidental Mindoro),012,N 27° W,Abra De Ilog (Occidental Mindoro)
 2026-01-02T13:02:00.000Z,02 January 2026 - 01:02 PM,07.97,126.55,089,1.8,017km S 65° E of Lingig (Surigao Del Sur),017,S 65° E,Lingig (Surigao Del Sur)
-2026-01-02T11:17:00.000Z,02 January 2026 - 11:17 AM,15.52,119.84,029,1.4,012km N 39° W of Palauig (Zambales),012,N 39° W,Palauig (Zambales)
