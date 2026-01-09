@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-09T11:05:00.000Z,09 January 2026 - 11:05 AM,07.10,127.02,010,2.8,054km S 77° E of Manay (Davao Oriental),054,S 77° E,Manay (Davao Oriental)
+2026-01-09T10:19:00.000Z,09 January 2026 - 10:19 AM,09.64,126.21,034,1.8,017km S 20° E of General Luna (Surigao Del Norte),017,S 20° E,General Luna (Surigao Del Norte)
+2026-01-09T09:46:00.000Z,09 January 2026 - 09:46 AM,07.33,126.99,019,3.3,051km N 75° E of Manay (Davao Oriental),051,N 75° E,Manay (Davao Oriental)
+2026-01-09T09:36:00.000Z,09 January 2026 - 09:36 AM,07.27,127.00,023,2.6,051km N 82° E of Manay (Davao Oriental),051,N 82° E,Manay (Davao Oriental)
 2026-01-09T09:19:00.000Z,09 January 2026 - 09:19 AM,07.26,126.89,020,2.7,039km N 82° E of Manay (Davao Oriental),039,N 82° E,Manay (Davao Oriental)
 2026-01-09T09:10:00.000Z,09 January 2026 - 09:10 AM,08.74,126.24,033,1.7,001km S 67° E of San Agustin (Surigao Del Sur),001,S 67° E,San Agustin (Surigao Del Sur)
 2026-01-09T08:03:00.000Z,09 January 2026 - 08:03 AM,10.83,124.10,025,2.1,028km S 29° E of City Of Bogo (Cebu),028,S 29° E,City Of Bogo (Cebu)
