@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T08:06:00.000Z,10 January 2026 - 08:06 AM,08.69,126.16,014,2.0,009km S 47° W of San Agustin (Surigao Del Sur),009,S 47° W,San Agustin (Surigao Del Sur)
+2026-01-10T08:04:00.000Z,10 January 2026 - 08:04 AM,20.21,121.29,033,3.0,063km S 77° W of Sabtang (Batanes),063,S 77° W,Sabtang (Batanes)
+2026-01-10T07:57:00.000Z,10 January 2026 - 07:57 AM,10.48,124.94,003,2.1,012km N 23° W of Sogod (Southern Leyte),012,N 23° W,Sogod (Southern Leyte)
+2026-01-10T07:44:00.000Z,10 January 2026 - 07:44 AM,06.64,126.39,029,2.4,035km S 87° E of Governor Generoso (Davao Oriental),035,S 87° E,Governor Generoso (Davao Oriental)
+2026-01-10T07:40:00.000Z,10 January 2026 - 07:40 AM,12.79,123.06,023,1.9,023km S 59° W of Claveria (Masbate),023,S 59° W,Claveria (Masbate)
+2026-01-09T21:05:00.000Z,09 January 2026 - 09:05 PM,18.72,121.53,008,2.1,022km S 50° E of Fuga Island (Aparri) (Cagayan),022,S 50° E,Fuga Island (Aparri) (Cagayan)
 2026-01-10T07:16:00.000Z,10 January 2026 - 07:16 AM,13.97,119.68,002,2.6,050km N 75° W of Lubang (Occidental Mindoro),050,N 75° W,Lubang (Occidental Mindoro)
 2026-01-10T06:48:00.000Z,10 January 2026 - 06:48 AM,08.82,126.34,002,2.4,012km S 21° E of Cagwait (Surigao Del Sur),012,S 21° E,Cagwait (Surigao Del Sur)
 2026-01-10T06:38:00.000Z,10 January 2026 - 06:38 AM,10.99,124.08,028,1.7,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
@@ -395,4 +401,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-03T11:10:00.000Z,03 January 2026 - 11:10 AM,07.24,126.69,013,2.2,017km N 79° E of Manay (Davao Oriental),017,N 79° E,Manay (Davao Oriental)
 2026-01-03T10:16:00.000Z,03 January 2026 - 10:16 AM,12.05,122.39,017,1.4,034km N 26° E of Tangalan (Aklan),034,N 26° E,Tangalan (Aklan)
 2026-01-03T10:05:00.000Z,03 January 2026 - 10:05 AM,11.06,123.97,006,1.6,002km N 43° W of City Of Bogo (Cebu),002,N 43° W,City Of Bogo (Cebu)
-2026-01-03T07:28:00.000Z,03 January 2026 - 07:28 AM,17.13,120.38,005,3.2,007km S 59° W of City Of Candon (Ilocos Sur),007,S 59° W,City Of Candon (Ilocos Sur)
