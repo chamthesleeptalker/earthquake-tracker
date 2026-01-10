@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T02:41:00.000Z,11 January 2026 - 02:41 AM,10.19,125.49,013,2.1,005km S 77° W of Libjo (Dinagat Islands),005,S 77° W,Libjo (Dinagat Islands)
+2026-01-11T02:31:00.000Z,11 January 2026 - 02:31 AM,09.31,122.53,053,2.0,017km S 48° W of Basay (Negros Oriental),017,S 48° W,Basay (Negros Oriental)
 2026-01-11T02:13:00.000Z,11 January 2026 - 02:13 AM,13.71,120.62,118,1.8,013km S 05° W of Calatagan (Batangas),013,S 05° W,Calatagan (Batangas)
 2026-01-11T02:13:00.000Z,11 January 2026 - 02:13 AM,12.83,123.07,010,1.9,021km S 69° W of Claveria (Masbate),021,S 69° W,Claveria (Masbate)
 2026-01-11T01:31:00.000Z,11 January 2026 - 01:31 AM,11.34,125.81,022,2.5,022km S 89° E of Hernani (Eastern Samar),022,S 89° E,Hernani (Eastern Samar)
@@ -45,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T05:02:00.000Z,10 January 2026 - 05:02 AM,13.53,121.49,033,1.4,031km N 42° E of Naujan (Oriental Mindoro),031,N 42° E,Naujan (Oriental Mindoro)
 2026-01-10T04:18:00.000Z,10 January 2026 - 04:18 AM,10.72,125.15,033,1.7,016km S 78° E of Abuyog (Leyte),016,S 78° E,Abuyog (Leyte)
 2026-01-10T04:15:00.000Z,10 January 2026 - 04:15 AM,07.98,123.34,028,1.8,006km S 31° E of Midsalip (Zamboanga Del Sur),006,S 31° E,Midsalip (Zamboanga Del Sur)
-2026-01-10T02:38:00.000Z,10 January 2026 - 02:38 AM,07.26,127.07,013,3.2,059km N 85° E of Manay (Davao Oriental),059,N 85° E,Manay (Davao Oriental)
-2026-01-10T02:31:00.000Z,10 January 2026 - 02:31 AM,06.97,127.13,009,2.3,071km S 68° E of Manay (Davao Oriental),071,S 68° E,Manay (Davao Oriental)
