@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T01:19:00.000Z,11 January 2026 - 01:19 AM,11.09,124.24,033,2.0,017km N 73° W of Palompon (Leyte),017,N 73° W,Palompon (Leyte)
+2026-01-11T01:18:00.000Z,11 January 2026 - 01:18 AM,10.10,125.82,015,1.7,025km N 82° E of Basilisa (Dinagat Islands),025,N 82° E,Basilisa (Dinagat Islands)
+2026-01-11T01:14:00.000Z,11 January 2026 - 01:14 AM,07.74,127.12,008,2.7,065km N 74° E of Baganga (Davao Oriental),065,N 74° E,Baganga (Davao Oriental)
 2026-01-11T00:47:00.000Z,11 January 2026 - 12:47 AM,13.59,121.46,009,1.8,027km S 15° E of San Juan (Batangas),027,S 15° E,San Juan (Batangas)
 2026-01-10T23:25:00.000Z,10 January 2026 - 11:25 PM,18.24,120.76,009,2.2,009km N 31° E of Piddig (Ilocos Norte),009,N 31° E,Piddig (Ilocos Norte)
 2026-01-10T23:15:00.000Z,10 January 2026 - 11:15 PM,02.92,127.36,010,5.2,350km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),350,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
