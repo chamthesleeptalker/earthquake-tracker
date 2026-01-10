@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T05:33:00.000Z,11 January 2026 - 05:33 AM,06.59,126.15,014,2.1,011km S 49° E of Governor Generoso (Davao Oriental),011,S 49° E,Governor Generoso (Davao Oriental)
 2026-01-11T05:02:00.000Z,11 January 2026 - 05:02 AM,15.19,120.02,007,2.0,005km N 48° W of Cabangan (Zambales),005,N 48° W,Cabangan (Zambales)
 2026-01-11T04:43:00.000Z,11 January 2026 - 04:43 AM,17.46,120.03,006,2.1,038km S 69° W of Santa Catalina (Ilocos Sur),038,S 69° W,Santa Catalina (Ilocos Sur)
 2026-01-11T04:07:00.000Z,11 January 2026 - 04:07 AM,05.23,125.61,119,2.5,029km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 46° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -51,4 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T06:38:00.000Z,10 January 2026 - 06:38 AM,10.99,124.08,028,1.7,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
 2026-01-10T05:57:00.000Z,10 January 2026 - 05:57 AM,11.90,124.12,004,2.5,008km N 74° E of Pio V. Corpus (Masbate),008,N 74° E,Pio V. Corpus (Masbate)
 2026-01-10T05:44:00.000Z,10 January 2026 - 05:44 AM,08.58,126.42,008,2.0,026km N 21° E of Hinatuan (Surigao Del Sur),026,N 21° E,Hinatuan (Surigao Del Sur)
-2026-01-10T05:02:00.000Z,10 January 2026 - 05:02 AM,13.53,121.49,033,1.4,031km N 42° E of Naujan (Oriental Mindoro),031,N 42° E,Naujan (Oriental Mindoro)

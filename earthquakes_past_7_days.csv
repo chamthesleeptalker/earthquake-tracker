@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T05:33:00.000Z,11 January 2026 - 05:33 AM,06.59,126.15,014,2.1,011km S 49° E of Governor Generoso (Davao Oriental),011,S 49° E,Governor Generoso (Davao Oriental)
 2026-01-11T05:02:00.000Z,11 January 2026 - 05:02 AM,15.19,120.02,007,2.0,005km N 48° W of Cabangan (Zambales),005,N 48° W,Cabangan (Zambales)
 2026-01-11T04:43:00.000Z,11 January 2026 - 04:43 AM,17.46,120.03,006,2.1,038km S 69° W of Santa Catalina (Ilocos Sur),038,S 69° W,Santa Catalina (Ilocos Sur)
 2026-01-11T04:07:00.000Z,11 January 2026 - 04:07 AM,05.23,125.61,119,2.5,029km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 46° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -398,4 +399,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-04T09:02:00.000Z,04 January 2026 - 09:02 AM,11.03,124.00,003,2.2,003km S 57° E of City Of Bogo (Cebu),003,S 57° E,City Of Bogo (Cebu)
 2026-01-04T08:41:00.000Z,04 January 2026 - 08:41 AM,07.41,126.58,023,2.1,009km N 12° E of Caraga (Davao Oriental),009,N 12° E,Caraga (Davao Oriental)
 2026-01-04T07:13:00.000Z,04 January 2026 - 07:13 AM,05.53,127.46,040,5.1,198km S 51° E of Governor Generoso (Davao Oriental),198,S 51° E,Governor Generoso (Davao Oriental)
-2026-01-04T05:14:00.000Z,04 January 2026 - 05:14 AM,10.90,123.99,007,2.6,016km S 03° E of City Of Bogo (Cebu),016,S 03° E,City Of Bogo (Cebu)
