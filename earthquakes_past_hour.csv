@@ -1,7 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-10T08:06:00.000Z,10 January 2026 - 08:06 AM,08.69,126.16,014,2.0,009km S 47° W of San Agustin (Surigao Del Sur),009,S 47° W,San Agustin (Surigao Del Sur)
-2026-01-10T08:04:00.000Z,10 January 2026 - 08:04 AM,20.21,121.29,033,3.0,063km S 77° W of Sabtang (Batanes),063,S 77° W,Sabtang (Batanes)
-2026-01-10T07:57:00.000Z,10 January 2026 - 07:57 AM,10.48,124.94,003,2.1,012km N 23° W of Sogod (Southern Leyte),012,N 23° W,Sogod (Southern Leyte)
-2026-01-10T07:44:00.000Z,10 January 2026 - 07:44 AM,06.64,126.39,029,2.4,035km S 87° E of Governor Generoso (Davao Oriental),035,S 87° E,Governor Generoso (Davao Oriental)
-2026-01-10T07:40:00.000Z,10 January 2026 - 07:40 AM,12.79,123.06,023,1.9,023km S 59° W of Claveria (Masbate),023,S 59° W,Claveria (Masbate)
-2026-01-10T07:16:00.000Z,10 January 2026 - 07:16 AM,13.97,119.68,002,2.6,050km N 75° W of Lubang (Occidental Mindoro),050,N 75° W,Lubang (Occidental Mindoro)
+2026-01-10T11:51:00.000Z,10 January 2026 - 11:51 AM,13.29,120.73,032,1.5,016km N 63° E of Mamburao (Occidental Mindoro),016,N 63° E,Mamburao (Occidental Mindoro)
