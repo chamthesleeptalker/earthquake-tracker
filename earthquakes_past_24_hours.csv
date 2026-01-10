@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-10T23:25:00.000Z,10 January 2026 - 11:25 PM,18.24,120.76,009,2.2,009km N 31° E of Piddig (Ilocos Norte),009,N 31° E,Piddig (Ilocos Norte)
+2026-01-10T23:15:00.000Z,10 January 2026 - 11:15 PM,02.92,127.36,010,5.2,350km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),350,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-10T22:58:00.000Z,10 January 2026 - 10:58 PM,03.26,127.27,010,6.8,315km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),315,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-10T22:36:00.000Z,10 January 2026 - 10:36 PM,08.75,126.21,033,1.2,002km N 79° W of San Agustin (Surigao Del Sur),002,N 79° W,San Agustin (Surigao Del Sur)
 2026-01-10T22:35:00.000Z,10 January 2026 - 10:35 PM,08.71,126.21,019,1.9,004km S 24° W of San Agustin (Surigao Del Sur),004,S 24° W,San Agustin (Surigao Del Sur)
@@ -45,4 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T01:19:00.000Z,10 January 2026 - 01:19 AM,16.39,122.02,012,1.8,016km N 42° W of Casiguran (Aurora),016,N 42° W,Casiguran (Aurora)
 2026-01-10T01:12:00.000Z,10 January 2026 - 01:12 AM,16.42,122.14,010,3.1,008km N 71° W of Dilasag (Aurora),008,N 71° W,Dilasag (Aurora)
 2026-01-10T00:00:00.000Z,10 January 2026 - 12:00 AM,16.16,119.58,020,4.8,023km N 78° W of Agno (Pangasinan),023,N 78° W,Agno (Pangasinan)
-2026-01-09T23:08:00.000Z,09 January 2026 - 11:08 PM,16.09,120.76,011,1.7,003km N 07° W of San Nicolas (Pangasinan),003,N 07° W,San Nicolas (Pangasinan)
