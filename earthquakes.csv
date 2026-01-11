@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T11:21:00.000Z,11 January 2026 - 11:21 AM,12.52,123.57,006,3.1,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
+2026-01-11T10:39:00.000Z,11 January 2026 - 10:39 AM,17.61,121.33,007,3.6,009km S 86° W of Pinukpuk (Kalinga),009,S 86° W,Pinukpuk (Kalinga)
 2026-01-11T08:04:00.000Z,11 January 2026 - 08:04 AM,07.79,126.78,027,1.4,034km N 45° E of Baganga (Davao Oriental),034,N 45° E,Baganga (Davao Oriental)
 2026-01-11T06:51:00.000Z,11 January 2026 - 06:51 AM,11.21,124.37,040,1.6,002km S 82° W of Villaba (Leyte),002,S 82° W,Villaba (Leyte)
 2026-01-11T06:39:00.000Z,11 January 2026 - 06:39 AM,07.84,126.48,033,2.0,006km N 24° E of Cateel (Davao Oriental),006,N 24° E,Cateel (Davao Oriental)
