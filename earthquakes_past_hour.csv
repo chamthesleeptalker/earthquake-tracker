@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-12T00:30:00.000Z,12 January 2026 - 12:30 AM,10.99,123.78,030,1.8,018km S 06° W of Santa Fe (Cebu),018,S 06° W,Santa Fe (Cebu)
+2026-01-12T00:29:00.000Z,12 January 2026 - 12:29 AM,09.95,122.51,017,2.4,013km S 79° W of Cauayan (Negros Occidental),013,S 79° W,Cauayan (Negros Occidental)
 2026-01-11T23:56:00.000Z,11 January 2026 - 11:56 PM,13.55,120.56,041,2.0,018km N 35° E of Paluan (Occidental Mindoro),018,N 35° E,Paluan (Occidental Mindoro)
 2026-01-11T23:37:00.000Z,11 January 2026 - 11:37 PM,09.13,126.18,106,3.1,006km N 15° E of City Of Tandag (Surigao Del Sur),006,N 15° E,City Of Tandag (Surigao Del Sur)
