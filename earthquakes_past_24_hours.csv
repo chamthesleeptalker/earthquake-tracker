@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-12T03:29:00.000Z,12 January 2026 - 03:29 AM,07.43,126.60,004,2.4,012km N 18° E of Caraga (Davao Oriental),012,N 18° E,Caraga (Davao Oriental)
 2026-01-12T03:07:00.000Z,12 January 2026 - 03:07 AM,11.23,124.22,006,2.5,018km S 63° W of Tabango (Leyte),018,S 63° W,Tabango (Leyte)
 2026-01-12T01:37:00.000Z,12 January 2026 - 01:37 AM,07.19,126.40,031,1.6,015km S 79° W of Manay (Davao Oriental),015,S 79° W,Manay (Davao Oriental)
 2026-01-12T01:34:00.000Z,12 January 2026 - 01:34 AM,07.35,126.81,004,2.6,034km N 63° E of Manay (Davao Oriental),034,N 63° E,Manay (Davao Oriental)
@@ -33,4 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T04:08:00.000Z,11 January 2026 - 04:08 AM,08.82,123.24,034,1.6,027km N 43° W of City Of Dapitan (Zamboanga Del Norte),027,N 43° W,City Of Dapitan (Zamboanga Del Norte)
 2026-01-11T03:55:00.000Z,11 January 2026 - 03:55 AM,17.89,120.28,029,2.0,019km N 81° W of Sinait (Ilocos Sur),019,N 81° W,Sinait (Ilocos Sur)
 2026-01-11T03:40:00.000Z,11 January 2026 - 03:40 AM,03.72,126.96,139,3.9,253km S 42° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),253,S 42° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-11T03:11:00.000Z,11 January 2026 - 03:11 AM,13.63,120.65,016,1.7,022km N 23° W of Abra De Ilog (Occidental Mindoro),022,N 23° W,Abra De Ilog (Occidental Mindoro)
