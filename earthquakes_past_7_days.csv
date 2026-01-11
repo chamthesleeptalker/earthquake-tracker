@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T14:34:00.000Z,11 January 2026 - 02:34 PM,13.71,120.78,089,1.5,028km N 89° W of Nasugbu (Batangas),028,N 89° W,Nasugbu (Batangas)
 2026-01-11T13:48:00.000Z,11 January 2026 - 01:48 PM,10.24,126.18,002,2.0,025km N 22° E of Burgos (Surigao Del Norte),025,N 22° E,Burgos (Surigao Del Norte)
 2026-01-11T11:46:00.000Z,11 January 2026 - 11:46 AM,13.68,124.17,023,1.5,012km N 39° E of San Andres (Catanduanes),012,N 39° E,San Andres (Catanduanes)
 2026-01-11T11:21:00.000Z,11 January 2026 - 11:21 AM,12.52,123.57,006,3.1,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
@@ -399,5 +400,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-04T16:03:00.000Z,04 January 2026 - 04:03 PM,07.82,125.95,054,1.4,011km S 85° W of Monkayo (Davao De Oro),011,S 85° W,Monkayo (Davao De Oro)
 2026-01-04T15:52:00.000Z,04 January 2026 - 03:52 PM,06.09,126.20,131,2.4,057km S 77° E of Don Marcelino (Davao Occidental),057,S 77° E,Don Marcelino (Davao Occidental)
 2026-01-04T15:37:00.000Z,04 January 2026 - 03:37 PM,10.17,125.84,032,1.5,028km N 52° W of Santa Monica (Surigao Del Norte),028,N 52° W,Santa Monica (Surigao Del Norte)
-2026-01-04T14:25:00.000Z,04 January 2026 - 02:25 PM,10.84,123.93,005,2.1,023km S 15° W of City Of Bogo (Cebu),023,S 15° W,City Of Bogo (Cebu)
-2026-01-04T14:02:00.000Z,04 January 2026 - 02:02 PM,13.69,120.98,001,2.3,008km S 31° E of Mabini (Batangas),008,S 31° E,Mabini (Batangas)
