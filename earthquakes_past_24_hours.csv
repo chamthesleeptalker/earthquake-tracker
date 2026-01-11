@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-12T01:28:00.000Z,12 January 2026 - 01:28 AM,07.22,126.35,010,4.6,020km N 87° W of Manay (Davao Oriental),020,N 87° W,Manay (Davao Oriental)
+2026-01-12T01:12:00.000Z,12 January 2026 - 01:12 AM,17.79,120.67,002,3.1,008km N 30° W of Lagayan (Abra),008,N 30° W,Lagayan (Abra)
+2026-01-12T01:07:00.000Z,12 January 2026 - 01:07 AM,07.21,127.05,006,2.6,055km S 76° E of Caraga (Davao Oriental),055,S 76° E,Caraga (Davao Oriental)
 2026-01-12T00:30:00.000Z,12 January 2026 - 12:30 AM,10.99,123.78,030,1.8,018km S 06° W of Santa Fe (Cebu),018,S 06° W,Santa Fe (Cebu)
 2026-01-12T00:29:00.000Z,12 January 2026 - 12:29 AM,09.95,122.51,017,2.4,013km S 79° W of Cauayan (Negros Occidental),013,S 79° W,Cauayan (Negros Occidental)
 2026-01-11T23:56:00.000Z,11 January 2026 - 11:56 PM,13.55,120.56,041,2.0,018km N 35° E of Paluan (Occidental Mindoro),018,N 35° E,Paluan (Occidental Mindoro)
@@ -32,7 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T02:13:00.000Z,11 January 2026 - 02:13 AM,13.71,120.62,118,1.8,013km S 05° W of Calatagan (Batangas),013,S 05° W,Calatagan (Batangas)
 2026-01-11T02:13:00.000Z,11 January 2026 - 02:13 AM,12.83,123.07,010,1.9,021km S 69° W of Claveria (Masbate),021,S 69° W,Claveria (Masbate)
 2026-01-11T01:31:00.000Z,11 January 2026 - 01:31 AM,11.34,125.81,022,2.5,022km S 89° E of Hernani (Eastern Samar),022,S 89° E,Hernani (Eastern Samar)
-2026-01-11T01:19:00.000Z,11 January 2026 - 01:19 AM,11.09,124.24,033,2.0,017km N 73° W of Palompon (Leyte),017,N 73° W,Palompon (Leyte)
-2026-01-11T01:18:00.000Z,11 January 2026 - 01:18 AM,10.10,125.82,015,1.7,025km N 82° E of Basilisa (Dinagat Islands),025,N 82° E,Basilisa (Dinagat Islands)
-2026-01-11T01:14:00.000Z,11 January 2026 - 01:14 AM,07.74,127.12,008,2.7,065km N 74° E of Baganga (Davao Oriental),065,N 74° E,Baganga (Davao Oriental)
-2026-01-11T00:47:00.000Z,11 January 2026 - 12:47 AM,13.59,121.46,009,1.8,027km S 15° E of San Juan (Batangas),027,S 15° E,San Juan (Batangas)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-12T01:28:00.000Z,12 January 2026 - 01:28 AM,07.22,126.35,010,4.6,020km N 87° W of Manay (Davao Oriental),020,N 87° W,Manay (Davao Oriental)
+2026-01-12T01:12:00.000Z,12 January 2026 - 01:12 AM,17.79,120.67,002,3.1,008km N 30° W of Lagayan (Abra),008,N 30° W,Lagayan (Abra)
+2026-01-12T01:07:00.000Z,12 January 2026 - 01:07 AM,07.21,127.05,006,2.6,055km S 76° E of Caraga (Davao Oriental),055,S 76° E,Caraga (Davao Oriental)
 2026-01-12T00:30:00.000Z,12 January 2026 - 12:30 AM,10.99,123.78,030,1.8,018km S 06° W of Santa Fe (Cebu),018,S 06° W,Santa Fe (Cebu)
 2026-01-12T00:29:00.000Z,12 January 2026 - 12:29 AM,09.95,122.51,017,2.4,013km S 79° W of Cauayan (Negros Occidental),013,S 79° W,Cauayan (Negros Occidental)
 2026-01-11T23:56:00.000Z,11 January 2026 - 11:56 PM,13.55,120.56,041,2.0,018km N 35° E of Paluan (Occidental Mindoro),018,N 35° E,Paluan (Occidental Mindoro)
@@ -393,5 +396,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-05T04:51:00.000Z,05 January 2026 - 04:51 AM,13.58,120.69,094,1.9,022km S 65° W of Tingloy (Batangas),022,S 65° W,Tingloy (Batangas)
 2026-01-05T02:57:00.000Z,05 January 2026 - 02:57 AM,14.82,121.33,029,2.0,022km N 65° E of Rodriguez (Rizal),022,N 65° E,Rodriguez (Rizal)
 2026-01-05T02:42:00.000Z,05 January 2026 - 02:42 AM,07.84,123.25,017,2.2,003km N 59° E of Tigbao (Zamboanga Del Sur),003,N 59° E,Tigbao (Zamboanga Del Sur)
-2026-01-05T01:07:00.000Z,05 January 2026 - 01:07 AM,08.74,126.89,002,1.8,065km S 84° E of Marihatag (Surigao Del Sur),065,S 84° E,Marihatag (Surigao Del Sur)
-2026-01-05T00:38:00.000Z,05 January 2026 - 12:38 AM,08.90,126.49,016,2.0,021km S 84° E of Cagwait (Surigao Del Sur),021,S 84° E,Cagwait (Surigao Del Sur)
