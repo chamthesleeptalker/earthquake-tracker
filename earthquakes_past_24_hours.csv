@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T13:48:00.000Z,11 January 2026 - 01:48 PM,10.24,126.18,002,2.0,025km N 22° E of Burgos (Surigao Del Norte),025,N 22° E,Burgos (Surigao Del Norte)
 2026-01-11T11:46:00.000Z,11 January 2026 - 11:46 AM,13.68,124.17,023,1.5,012km N 39° E of San Andres (Catanduanes),012,N 39° E,San Andres (Catanduanes)
 2026-01-11T11:21:00.000Z,11 January 2026 - 11:21 AM,12.52,123.57,006,3.1,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
 2026-01-11T10:39:00.000Z,11 January 2026 - 10:39 AM,17.61,121.33,007,3.6,009km S 86° W of Pinukpuk (Kalinga),009,S 86° W,Pinukpuk (Kalinga)
@@ -47,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T16:38:00.000Z,10 January 2026 - 04:38 PM,10.92,124.00,002,2.2,015km S 09° E of City Of Bogo (Cebu),015,S 09° E,City Of Bogo (Cebu)
 2026-01-10T14:34:00.000Z,10 January 2026 - 02:34 PM,10.40,125.21,004,2.3,001km N 76° E of Hinunangan (Southern Leyte),001,N 76° E,Hinunangan (Southern Leyte)
 2026-01-10T14:26:00.000Z,10 January 2026 - 02:26 PM,08.95,126.99,001,1.8,076km N 87° E of Cagwait (Surigao Del Sur),076,N 87° E,Cagwait (Surigao Del Sur)
-2026-01-10T13:07:00.000Z,10 January 2026 - 01:07 PM,09.65,126.20,032,2.5,015km S 17° E of General Luna (Surigao Del Norte),015,S 17° E,General Luna (Surigao Del Norte)
-2026-01-10T12:08:00.000Z,10 January 2026 - 12:08 PM,13.65,120.59,098,1.8,021km S 13° W of Calatagan (Batangas),021,S 13° W,Calatagan (Batangas)
-2026-01-10T11:51:00.000Z,10 January 2026 - 11:51 AM,13.29,120.73,032,1.5,016km N 63° E of Mamburao (Occidental Mindoro),016,N 63° E,Mamburao (Occidental Mindoro)
