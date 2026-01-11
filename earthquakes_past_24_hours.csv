@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T15:29:00.000Z,11 January 2026 - 03:29 PM,10.62,122.23,010,3.3,002km S 13° W of Miagao (Iloilo),002,S 13° W,Miagao (Iloilo)
 2026-01-11T14:34:00.000Z,11 January 2026 - 02:34 PM,13.71,120.78,089,1.5,028km N 89° W of Nasugbu (Batangas),028,N 89° W,Nasugbu (Batangas)
 2026-01-11T13:48:00.000Z,11 January 2026 - 01:48 PM,10.24,126.18,002,2.0,025km N 22° E of Burgos (Surigao Del Norte),025,N 22° E,Burgos (Surigao Del Norte)
 2026-01-11T11:46:00.000Z,11 January 2026 - 11:46 AM,13.68,124.17,023,1.5,012km N 39° E of San Andres (Catanduanes),012,N 39° E,San Andres (Catanduanes)
@@ -47,4 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T17:58:00.000Z,10 January 2026 - 05:58 PM,17.81,120.93,002,2.0,015km N 52° E of Tineg (Abra),015,N 52° E,Tineg (Abra)
 2026-01-10T17:49:00.000Z,10 January 2026 - 05:49 PM,07.24,127.07,010,3.0,058km N 87° E of Manay (Davao Oriental),058,N 87° E,Manay (Davao Oriental)
 2026-01-10T16:38:00.000Z,10 January 2026 - 04:38 PM,10.92,124.00,002,2.2,015km S 09° E of City Of Bogo (Cebu),015,S 09° E,City Of Bogo (Cebu)
-2026-01-10T14:34:00.000Z,10 January 2026 - 02:34 PM,10.40,125.21,004,2.3,001km N 76° E of Hinunangan (Southern Leyte),001,N 76° E,Hinunangan (Southern Leyte)
