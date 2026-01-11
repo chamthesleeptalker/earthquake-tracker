@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-11T22:31:00.000Z,11 January 2026 - 10:31 PM,07.32,127.01,015,2.6,053km N 77° E of Manay (Davao Oriental),053,N 77° E,Manay (Davao Oriental)
 2026-01-11T21:06:00.000Z,11 January 2026 - 09:06 PM,07.11,127.08,023,2.4,061km S 80° E of Manay (Davao Oriental),061,S 80° E,Manay (Davao Oriental)
 2026-01-11T19:53:00.000Z,11 January 2026 - 07:53 PM,07.27,126.99,016,2.3,050km N 83° E of Manay (Davao Oriental),050,N 83° E,Manay (Davao Oriental)
 2026-01-11T18:40:00.000Z,11 January 2026 - 06:40 PM,10.36,125.57,010,1.8,002km N 70° W of Loreto (Dinagat Islands),002,N 70° W,Loreto (Dinagat Islands)
@@ -37,7 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T22:36:00.000Z,10 January 2026 - 10:36 PM,08.75,126.21,033,1.2,002km N 79° W of San Agustin (Surigao Del Sur),002,N 79° W,San Agustin (Surigao Del Sur)
 2026-01-10T22:35:00.000Z,10 January 2026 - 10:35 PM,08.71,126.21,019,1.9,004km S 24° W of San Agustin (Surigao Del Sur),004,S 24° W,San Agustin (Surigao Del Sur)
 2026-01-10T22:31:00.000Z,10 January 2026 - 10:31 PM,10.08,126.07,032,1.5,007km N 04° W of Burgos (Surigao Del Norte),007,N 04° W,Burgos (Surigao Del Norte)
-2026-01-10T22:29:00.000Z,10 January 2026 - 10:29 PM,10.16,126.23,010,4.4,023km N 47° E of Burgos (Surigao Del Norte),023,N 47° E,Burgos (Surigao Del Norte)
-2026-01-10T22:26:00.000Z,10 January 2026 - 10:26 PM,11.27,121.67,013,2.4,040km S 86° W of Tibiao (Antique),040,S 86° W,Tibiao (Antique)
-2026-01-10T22:18:00.000Z,10 January 2026 - 10:18 PM,13.71,120.65,111,1.8,013km S 07° E of Calatagan (Batangas),013,S 07° E,Calatagan (Batangas)
-2026-01-10T21:23:00.000Z,10 January 2026 - 09:23 PM,07.17,126.87,032,2.1,037km S 84° E of Manay (Davao Oriental),037,S 84° E,Manay (Davao Oriental)
