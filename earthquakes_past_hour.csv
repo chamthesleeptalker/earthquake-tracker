@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-12T23:10:00.000Z,12 January 2026 - 11:10 PM,18.05,120.88,022,2.8,012km S 33° E of Carasi (Ilocos Norte),012,S 33° E,Carasi (Ilocos Norte)
-2026-01-12T23:03:00.000Z,12 January 2026 - 11:03 PM,10.93,123.94,005,3.0,014km S 19° W of City Of Bogo (Cebu),014,S 19° W,City Of Bogo (Cebu)
-2026-01-12T22:57:00.000Z,12 January 2026 - 10:57 PM,12.83,123.57,002,2.6,009km S 15° W of Donsol (Sorsogon),009,S 15° W,Donsol (Sorsogon)
-2026-01-12T22:48:00.000Z,12 January 2026 - 10:48 PM,07.85,124.68,006,2.4,007km N 07° W of Amai Manabilang (Lanao Del Sur),007,N 07° W,Amai Manabilang (Lanao Del Sur)
+2026-01-13T01:43:00.000Z,13 January 2026 - 01:43 AM,16.11,122.00,016,2.0,006km S 54° E of Dinalungan (Aurora),006,S 54° E,Dinalungan (Aurora)
+2026-01-13T01:33:00.000Z,13 January 2026 - 01:33 AM,07.82,126.88,024,2.1,045km N 53° E of Baganga (Davao Oriental),045,N 53° E,Baganga (Davao Oriental)
+2026-01-13T01:30:00.000Z,13 January 2026 - 01:30 AM,07.17,126.84,024,2.4,033km S 81° E of Manay (Davao Oriental),033,S 81° E,Manay (Davao Oriental)
+2026-01-13T01:12:00.000Z,13 January 2026 - 01:12 AM,09.99,126.03,027,2.1,006km S 57° W of Burgos (Surigao Del Norte),006,S 57° W,Burgos (Surigao Del Norte)
+2026-01-13T00:50:00.000Z,13 January 2026 - 12:50 AM,09.96,126.14,037,1.7,009km S 49° E of Burgos (Surigao Del Norte),009,S 49° E,Burgos (Surigao Del Norte)
+2026-01-13T00:48:00.000Z,13 January 2026 - 12:48 AM,09.98,126.18,023,4.6,012km S 71° E of Burgos (Surigao Del Norte),012,S 71° E,Burgos (Surigao Del Norte)
