@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-12T12:12:00.000Z,12 January 2026 - 12:12 PM,09.70,126.19,008,3.4,010km S 20° E of General Luna (Surigao Del Norte),010,S 20° E,General Luna (Surigao Del Norte)
+2026-01-12T12:21:00.000Z,12 January 2026 - 12:21 PM,08.79,126.45,030,2.0,017km S 87° E of Marihatag (Surigao Del Sur),017,S 87° E,Marihatag (Surigao Del Sur)
+2026-01-12T12:12:00.000Z,12 January 2026 - 12:12 PM,09.67,126.70,017,2.9,061km S 78° E of General Luna (Surigao Del Norte),061,S 78° E,General Luna (Surigao Del Norte)
+2026-01-12T12:03:00.000Z,12 January 2026 - 12:03 PM,07.03,127.00,019,2.3,054km S 69° E of Manay (Davao Oriental),054,S 69° E,Manay (Davao Oriental)
 2026-01-12T10:37:00.000Z,12 January 2026 - 10:37 AM,10.61,122.30,007,2.0,006km S 28° W of Guimbal (Iloilo),006,S 28° W,Guimbal (Iloilo)
 2026-01-12T09:47:00.000Z,12 January 2026 - 09:47 AM,06.19,126.96,029,2.4,111km S 62° E of Governor Generoso (Davao Oriental),111,S 62° E,Governor Generoso (Davao Oriental)
 2026-01-12T07:20:00.000Z,12 January 2026 - 07:20 AM,11.12,123.98,008,2.5,008km North of City Of Bogo (Cebu),008,North of City,Bogo (Cebu)
@@ -393,6 +397,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-05T16:21:00.000Z,05 January 2026 - 04:21 PM,16.74,120.69,031,1.6,006km S 45° W of Bakun (Benguet),006,S 45° W,Bakun (Benguet)
 2026-01-05T16:01:00.000Z,05 January 2026 - 04:01 PM,11.11,123.95,010,1.9,007km N 26° W of City Of Bogo (Cebu),007,N 26° W,City Of Bogo (Cebu)
 2026-01-05T15:59:00.000Z,05 January 2026 - 03:59 PM,11.08,123.93,010,3.3,006km N 55° W of City Of Bogo (Cebu),006,N 55° W,City Of Bogo (Cebu)
-2026-01-05T11:57:00.000Z,05 January 2026 - 11:57 AM,17.39,119.69,011,2.6,075km S 72° W of Santa Catalina (Ilocos Sur),075,S 72° W,Santa Catalina (Ilocos Sur)
-2026-01-05T11:28:00.000Z,05 January 2026 - 11:28 AM,17.36,119.94,004,2.5,052km S 67° W of Caoayan (Ilocos Sur),052,S 67° W,Caoayan (Ilocos Sur)
-2026-01-05T11:17:00.000Z,05 January 2026 - 11:17 AM,18.11,120.59,031,2.6,007km N 22° E of City Of Batac (Ilocos Norte),007,N 22° E,City Of Batac (Ilocos Norte)

@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-12T12:12:00.000Z,12 January 2026 - 12:12 PM,09.70,126.19,008,3.4,010km S 20° E of General Luna (Surigao Del Norte),010,S 20° E,General Luna (Surigao Del Norte)
+2026-01-12T12:21:00.000Z,12 January 2026 - 12:21 PM,08.79,126.45,030,2.0,017km S 87° E of Marihatag (Surigao Del Sur),017,S 87° E,Marihatag (Surigao Del Sur)
+2026-01-12T12:12:00.000Z,12 January 2026 - 12:12 PM,09.67,126.70,017,2.9,061km S 78° E of General Luna (Surigao Del Norte),061,S 78° E,General Luna (Surigao Del Norte)
+2026-01-12T12:03:00.000Z,12 January 2026 - 12:03 PM,07.03,127.00,019,2.3,054km S 69° E of Manay (Davao Oriental),054,S 69° E,Manay (Davao Oriental)
 2026-01-12T10:37:00.000Z,12 January 2026 - 10:37 AM,10.61,122.30,007,2.0,006km S 28° W of Guimbal (Iloilo),006,S 28° W,Guimbal (Iloilo)
 2026-01-12T09:47:00.000Z,12 January 2026 - 09:47 AM,06.19,126.96,029,2.4,111km S 62° E of Governor Generoso (Davao Oriental),111,S 62° E,Governor Generoso (Davao Oriental)
 2026-01-12T07:20:00.000Z,12 January 2026 - 07:20 AM,11.12,123.98,008,2.5,008km North of City Of Bogo (Cebu),008,North of City,Bogo (Cebu)
@@ -28,6 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T15:29:00.000Z,11 January 2026 - 03:29 PM,10.62,122.23,010,3.3,002km S 13° W of Miagao (Iloilo),002,S 13° W,Miagao (Iloilo)
 2026-01-11T14:34:00.000Z,11 January 2026 - 02:34 PM,13.71,120.78,089,1.5,028km N 89° W of Nasugbu (Batangas),028,N 89° W,Nasugbu (Batangas)
 2026-01-11T13:48:00.000Z,11 January 2026 - 01:48 PM,10.24,126.18,002,2.0,025km N 22° E of Burgos (Surigao Del Norte),025,N 22° E,Burgos (Surigao Del Norte)
-2026-01-11T11:46:00.000Z,11 January 2026 - 11:46 AM,13.68,124.17,023,1.5,012km N 39° E of San Andres (Catanduanes),012,N 39° E,San Andres (Catanduanes)
-2026-01-11T11:21:00.000Z,11 January 2026 - 11:21 AM,12.52,123.57,006,3.1,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
-2026-01-11T10:39:00.000Z,11 January 2026 - 10:39 AM,17.61,121.33,007,3.6,009km S 86° W of Pinukpuk (Kalinga),009,S 86° W,Pinukpuk (Kalinga)
