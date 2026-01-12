@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-12T21:52:00.000Z,12 January 2026 - 09:52 PM,10.41,125.14,035,1.8,007km N 78° W of Hinunangan (Southern Leyte),007,N 78° W,Hinunangan (Southern Leyte)
 2026-01-12T00:28:00.000Z,12 January 2026 - 12:28 AM,09.89,122.43,018,2.4,024km S 67° W of Cauayan (Negros Occidental),024,S 67° W,Cauayan (Negros Occidental)
 2026-01-12T20:14:00.000Z,12 January 2026 - 08:14 PM,16.74,120.49,002,2.0,007km S 45° E of Santol (La Union),007,S 45° E,Santol (La Union)
 2026-01-12T20:06:00.000Z,12 January 2026 - 08:06 PM,13.94,120.53,089,1.7,016km N 42° W of Calatagan (Batangas),016,N 42° W,Calatagan (Batangas)
@@ -410,4 +411,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-05T22:40:00.000Z,05 January 2026 - 10:40 PM,05.65,126.33,071,2.4,081km S 69° E of Jose Abad Santos (Davao Occidental),081,S 69° E,Jose Abad Santos (Davao Occidental)
 2026-01-05T22:26:00.000Z,05 January 2026 - 10:26 PM,14.46,119.23,014,3.0,107km S 59° W of San Antonio (Zambales),107,S 59° W,San Antonio (Zambales)
 2026-01-05T22:08:00.000Z,05 January 2026 - 10:08 PM,09.31,125.62,012,3.1,008km N 56° E of Santiago (Agusan Del Norte),008,N 56° E,Santiago (Agusan Del Norte)
-2026-01-05T20:32:00.000Z,05 January 2026 - 08:32 PM,15.74,121.96,010,3.5,042km S 87° E of Baler (Aurora),042,S 87° E,Baler (Aurora)
