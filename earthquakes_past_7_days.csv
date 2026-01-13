@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T11:54:00.000Z,13 January 2026 - 11:54 AM,17.23,120.36,012,2.1,011km N 50° W of City Of Candon (Ilocos Sur),011,N 50° W,City Of Candon (Ilocos Sur)
+2026-01-13T11:48:00.000Z,13 January 2026 - 11:48 AM,02.84,126.30,033,4.0,301km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),301,S 19° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-13T11:42:00.000Z,13 January 2026 - 11:42 AM,07.02,126.99,036,1.8,054km S 67° E of Manay (Davao Oriental),054,S 67° E,Manay (Davao Oriental)
+2026-01-13T11:11:00.000Z,13 January 2026 - 11:11 AM,14.38,119.83,033,1.6,057km S 54° W of Morong (Bataan),057,S 54° W,Morong (Bataan)
 2026-01-13T09:57:00.000Z,13 January 2026 - 09:57 AM,02.51,127.84,142,4.2,418km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),418,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-13T09:27:00.000Z,13 January 2026 - 09:27 AM,02.67,126.68,114,4.8,333km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),333,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-13T06:43:00.000Z,13 January 2026 - 06:43 AM,06.19,124.66,019,1.8,006km S 57° W of Lake Sebu (South Cotabato),006,S 57° W,Lake Sebu (South Cotabato)
@@ -420,8 +424,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T15:13:00.000Z,06 January 2026 - 03:13 PM,09.43,126.25,033,1.4,018km N 21° E of Cortes (Surigao Del Sur),018,N 21° E,Cortes (Surigao Del Sur)
 2026-01-06T12:36:00.000Z,06 January 2026 - 12:36 PM,05.17,126.34,078,2.9,102km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-06T12:26:00.000Z,06 January 2026 - 12:26 PM,11.24,125.41,048,1.9,014km N 10° E of Balangiga (Eastern Samar),014,N 10° E,Balangiga (Eastern Samar)
-2026-01-06T11:41:00.000Z,06 January 2026 - 11:41 AM,10.88,123.99,010,1.5,018km S 03° E of City Of Bogo (Cebu),018,S 03° E,City Of Bogo (Cebu)
-2026-01-06T10:52:00.000Z,06 January 2026 - 10:52 AM,09.41,122.41,011,3.2,022km S 16° W of Hinoba-an (Negros Occidental),022,S 16° W,Hinoba-an (Negros Occidental)
-2026-01-06T10:46:00.000Z,06 January 2026 - 10:46 AM,08.64,126.33,028,1.7,016km S 44° E of San Agustin (Surigao Del Sur),016,S 44° E,San Agustin (Surigao Del Sur)
-2026-01-06T10:21:00.000Z,06 January 2026 - 10:21 AM,09.31,126.21,015,1.6,005km N 32° E of Cortes (Surigao Del Sur),005,N 32° E,Cortes (Surigao Del Sur)
-2026-01-06T10:13:00.000Z,06 January 2026 - 10:13 AM,10.18,126.02,020,1.9,018km N 06° W of Santa Monica (Surigao Del Norte),018,N 06° W,Santa Monica (Surigao Del Norte)
