@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T01:09:00.000Z,14 January 2026 - 01:09 AM,11.92,125.04,026,1.9,014km S 07° E of San Jose De Buan (Samar),014,S 07° E,San Jose De Buan (Samar)
+2026-01-14T01:06:00.000Z,14 January 2026 - 01:06 AM,10.64,122.61,022,2.3,004km S 41° E of Jordan (Guimaras),004,S 41° E,Jordan (Guimaras)
+2026-01-14T00:47:00.000Z,14 January 2026 - 12:47 AM,12.84,123.01,010,1.7,027km S 74° W of Claveria (Masbate),027,S 74° W,Claveria (Masbate)
+2026-01-14T00:22:00.000Z,14 January 2026 - 12:22 AM,09.47,125.39,032,1.6,017km S 62° W of Mainit (Surigao Del Norte),017,S 62° W,Mainit (Surigao Del Norte)
 2026-01-13T23:19:00.000Z,13 January 2026 - 11:19 PM,13.94,119.88,010,1.4,028km N 71° W of Lubang (Occidental Mindoro),028,N 71° W,Lubang (Occidental Mindoro)
 2026-01-13T22:47:00.000Z,13 January 2026 - 10:47 PM,12.82,123.03,006,1.8,025km S 68° W of Claveria (Masbate),025,S 68° W,Claveria (Masbate)
 2026-01-13T22:40:00.000Z,13 January 2026 - 10:40 PM,07.36,126.91,016,2.0,044km N 69° E of Manay (Davao Oriental),044,N 69° E,Manay (Davao Oriental)
