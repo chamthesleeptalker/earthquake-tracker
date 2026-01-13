@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T21:25:00.000Z,13 January 2026 - 09:25 PM,18.47,120.79,025,1.6,006km S 15° W of Dumalneg (Ilocos Norte),006,S 15° W,Dumalneg (Ilocos Norte)
+2026-01-13T21:17:00.000Z,13 January 2026 - 09:17 PM,09.69,126.86,010,3.9,077km S 82° E of General Luna (Surigao Del Norte),077,S 82° E,General Luna (Surigao Del Norte)
+2026-01-13T20:54:00.000Z,13 January 2026 - 08:54 PM,18.58,121.05,019,2.5,004km S 54° W of Claveria (Cagayan),004,S 54° W,Claveria (Cagayan)
 2026-01-13T19:32:00.000Z,13 January 2026 - 07:32 PM,06.24,126.46,027,2.4,062km S 43° E of Governor Generoso (Davao Oriental),062,S 43° E,Governor Generoso (Davao Oriental)
 2026-01-13T19:15:00.000Z,13 January 2026 - 07:15 PM,12.87,121.00,003,2.1,024km N 82° E of Sablayan (Occidental Mindoro),024,N 82° E,Sablayan (Occidental Mindoro)
 2026-01-13T18:57:00.000Z,13 January 2026 - 06:57 PM,10.90,123.74,019,1.6,017km N 58° W of Tabuelan (Cebu),017,N 58° W,Tabuelan (Cebu)
@@ -431,5 +434,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T23:01:00.000Z,06 January 2026 - 11:01 PM,10.21,122.32,064,2.2,042km S 35° W of Nueva Valencia (Guimaras),042,S 35° W,Nueva Valencia (Guimaras)
 2026-01-06T22:51:00.000Z,06 January 2026 - 10:51 PM,08.13,126.45,057,2.0,010km N 24° E of Lingig (Surigao Del Sur),010,N 24° E,Lingig (Surigao Del Sur)
 2026-01-06T22:24:00.000Z,06 January 2026 - 10:24 PM,11.03,123.94,005,2.2,005km S 61° W of City Of Bogo (Cebu),005,S 61° W,City Of Bogo (Cebu)
-2026-01-06T20:14:00.000Z,06 January 2026 - 08:14 PM,08.17,126.12,091,1.9,013km S 87° E of Bunawan (Agusan Del Sur),013,S 87° E,Bunawan (Agusan Del Sur)
-2026-01-06T19:37:00.000Z,06 January 2026 - 07:37 PM,09.64,125.49,010,3.0,005km S 69° W of Sison (Surigao Del Norte),005,S 69° W,Sison (Surigao Del Norte)
