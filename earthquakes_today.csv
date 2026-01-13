@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T01:23:00.000Z,14 January 2026 - 01:23 AM,04.97,124.40,010,4.5,115km S 12° W of Kiamba (Sarangani),115,S 12° W,Kiamba (Sarangani)
 2026-01-14T01:09:00.000Z,14 January 2026 - 01:09 AM,11.92,125.04,026,1.9,014km S 07° E of San Jose De Buan (Samar),014,S 07° E,San Jose De Buan (Samar)
 2026-01-14T01:06:00.000Z,14 January 2026 - 01:06 AM,10.64,122.61,022,2.3,004km S 41° E of Jordan (Guimaras),004,S 41° E,Jordan (Guimaras)
 2026-01-14T00:47:00.000Z,14 January 2026 - 12:47 AM,12.84,123.01,010,1.7,027km S 74° W of Claveria (Masbate),027,S 74° W,Claveria (Masbate)

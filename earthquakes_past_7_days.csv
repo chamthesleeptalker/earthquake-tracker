@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T01:23:00.000Z,14 January 2026 - 01:23 AM,04.97,124.40,010,4.5,115km S 12° W of Kiamba (Sarangani),115,S 12° W,Kiamba (Sarangani)
 2026-01-14T01:09:00.000Z,14 January 2026 - 01:09 AM,11.92,125.04,026,1.9,014km S 07° E of San Jose De Buan (Samar),014,S 07° E,San Jose De Buan (Samar)
 2026-01-14T01:06:00.000Z,14 January 2026 - 01:06 AM,10.64,122.61,022,2.3,004km S 41° E of Jordan (Guimaras),004,S 41° E,Jordan (Guimaras)
 2026-01-14T00:47:00.000Z,14 January 2026 - 12:47 AM,12.84,123.01,010,1.7,027km S 74° W of Claveria (Masbate),027,S 74° W,Claveria (Masbate)
@@ -434,5 +435,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T01:57:00.000Z,07 January 2026 - 01:57 AM,07.39,126.76,010,4.2,031km N 50° E of Manay (Davao Oriental),031,N 50° E,Manay (Davao Oriental)
 2026-01-07T01:47:00.000Z,07 January 2026 - 01:47 AM,10.84,124.02,028,2.6,023km S 10° E of City Of Bogo (Cebu),023,S 10° E,City Of Bogo (Cebu)
 2026-01-07T01:43:00.000Z,07 January 2026 - 01:43 AM,13.80,120.33,056,1.6,013km N 44° E of Looc (Occidental Mindoro),013,N 44° E,Looc (Occidental Mindoro)
-2026-01-07T01:19:00.000Z,07 January 2026 - 01:19 AM,09.04,126.59,010,3.8,034km N 76° E of Bayabas (Surigao Del Sur),034,N 76° E,Bayabas (Surigao Del Sur)
-2026-01-07T01:12:00.000Z,07 January 2026 - 01:12 AM,04.51,126.43,015,3.2,150km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),150,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
