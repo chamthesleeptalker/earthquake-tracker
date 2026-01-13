@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T23:19:00.000Z,13 January 2026 - 11:19 PM,13.94,119.88,010,1.4,028km N 71° W of Lubang (Occidental Mindoro),028,N 71° W,Lubang (Occidental Mindoro)
 2026-01-13T22:47:00.000Z,13 January 2026 - 10:47 PM,12.82,123.03,006,1.8,025km S 68° W of Claveria (Masbate),025,S 68° W,Claveria (Masbate)
 2026-01-13T22:40:00.000Z,13 January 2026 - 10:40 PM,07.36,126.91,016,2.0,044km N 69° E of Manay (Davao Oriental),044,N 69° E,Manay (Davao Oriental)
 2026-01-13T22:10:00.000Z,13 January 2026 - 10:10 PM,16.33,120.80,026,1.5,010km S 70° W of Kayapa (Nueva Vizcaya),010,S 70° W,Kayapa (Nueva Vizcaya)
@@ -434,6 +435,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T00:31:00.000Z,07 January 2026 - 12:31 AM,08.23,126.58,023,2.9,028km N 40° E of Lingig (Surigao Del Sur),028,N 40° E,Lingig (Surigao Del Sur)
 2026-01-06T23:56:00.000Z,06 January 2026 - 11:56 PM,10.15,124.84,035,1.4,002km N 18° E of City Of Maasin  (Southern Leyte),002,N 18° E,City Of Maasin  (Southern Leyte)
 2026-01-06T23:33:00.000Z,06 January 2026 - 11:33 PM,15.74,121.59,028,1.4,004km S 53° E of Baler (Aurora),004,S 53° E,Baler (Aurora)
-2026-01-06T23:14:00.000Z,06 January 2026 - 11:14 PM,16.14,122.01,011,1.7,005km N 89° E of Dinalungan (Aurora),005,N 89° E,Dinalungan (Aurora)
-2026-01-06T23:01:00.000Z,06 January 2026 - 11:01 PM,10.21,122.32,064,2.2,042km S 35° W of Nueva Valencia (Guimaras),042,S 35° W,Nueva Valencia (Guimaras)
-2026-01-06T22:51:00.000Z,06 January 2026 - 10:51 PM,08.13,126.45,057,2.0,010km N 24° E of Lingig (Surigao Del Sur),010,N 24° E,Lingig (Surigao Del Sur)

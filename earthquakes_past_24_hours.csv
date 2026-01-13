@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T23:19:00.000Z,13 January 2026 - 11:19 PM,13.94,119.88,010,1.4,028km N 71° W of Lubang (Occidental Mindoro),028,N 71° W,Lubang (Occidental Mindoro)
 2026-01-13T22:47:00.000Z,13 January 2026 - 10:47 PM,12.82,123.03,006,1.8,025km S 68° W of Claveria (Masbate),025,S 68° W,Claveria (Masbate)
 2026-01-13T22:40:00.000Z,13 January 2026 - 10:40 PM,07.36,126.91,016,2.0,044km N 69° E of Manay (Davao Oriental),044,N 69° E,Manay (Davao Oriental)
 2026-01-13T22:10:00.000Z,13 January 2026 - 10:10 PM,16.33,120.80,026,1.5,010km S 70° W of Kayapa (Nueva Vizcaya),010,S 70° W,Kayapa (Nueva Vizcaya)
@@ -56,7 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T00:35:00.000Z,13 January 2026 - 12:35 AM,10.15,122.33,011,2.6,038km N 58° W of Cauayan (Negros Occidental),038,N 58° W,Cauayan (Negros Occidental)
 2026-01-13T00:28:00.000Z,13 January 2026 - 12:28 AM,06.23,125.45,022,1.7,022km N 53° E of Alabel (Sarangani),022,N 53° E,Alabel (Sarangani)
 2026-01-12T23:45:00.000Z,12 January 2026 - 11:45 PM,06.57,127.15,003,3.0,095km S 55° E of Tarragona (Davao Oriental),095,S 55° E,Tarragona (Davao Oriental)
-2026-01-12T23:10:00.000Z,12 January 2026 - 11:10 PM,18.05,120.88,022,2.8,012km S 33° E of Carasi (Ilocos Norte),012,S 33° E,Carasi (Ilocos Norte)
-2026-01-12T23:03:00.000Z,12 January 2026 - 11:03 PM,10.93,123.94,005,3.0,014km S 19° W of City Of Bogo (Cebu),014,S 19° W,City Of Bogo (Cebu)
-2026-01-12T22:57:00.000Z,12 January 2026 - 10:57 PM,12.83,123.57,002,2.6,009km S 15° W of Donsol (Sorsogon),009,S 15° W,Donsol (Sorsogon)
-2026-01-12T22:48:00.000Z,12 January 2026 - 10:48 PM,07.85,124.68,006,2.4,007km N 07° W of Amai Manabilang (Lanao Del Sur),007,N 07° W,Amai Manabilang (Lanao Del Sur)
