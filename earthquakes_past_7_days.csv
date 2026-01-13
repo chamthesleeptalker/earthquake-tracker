@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T03:28:00.000Z,14 January 2026 - 03:28 AM,10.44,123.00,010,3.6,008km N 80° E of City Of La Carlota (Negros Occidental),008,N 80° E,City Of La Carlota (Negros Occidental)
 2026-01-14T02:00:00.000Z,14 January 2026 - 02:00 AM,05.55,127.37,153,3.9,189km S 50° E of Governor Generoso (Davao Oriental),189,S 50° E,Governor Generoso (Davao Oriental)
 2026-01-14T01:22:00.000Z,14 January 2026 - 01:22 AM,04.77,124.43,032,4.3,136km S 09° W of Kiamba (Sarangani),136,S 09° W,Kiamba (Sarangani)
 2026-01-14T01:23:00.000Z,14 January 2026 - 01:23 AM,04.97,124.40,010,4.5,115km S 12° W of Kiamba (Sarangani),115,S 12° W,Kiamba (Sarangani)
@@ -431,6 +432,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T04:45:00.000Z,07 January 2026 - 04:45 AM,18.24,122.05,019,2.5,006km S 73° E of Gonzaga (Cagayan),006,S 73° E,Gonzaga (Cagayan)
 2026-01-07T04:15:00.000Z,07 January 2026 - 04:15 AM,05.79,125.61,038,2.4,014km S 18° W of Jose Abad Santos (Davao Occidental),014,S 18° W,Jose Abad Santos (Davao Occidental)
 2026-01-07T03:51:00.000Z,07 January 2026 - 03:51 AM,10.35,125.14,022,2.3,007km N 01° E of Saint Bernard (Southern Leyte),007,N 01° E,Saint Bernard (Southern Leyte)
-2026-01-07T02:33:00.000Z,07 January 2026 - 02:33 AM,11.19,124.25,016,2.4,016km S 81° W of Villaba (Leyte),016,S 81° W,Villaba (Leyte)
-2026-01-07T02:27:00.000Z,07 January 2026 - 02:27 AM,18.15,121.12,034,1.8,015km S 34° E of Calanasan (Apayao),015,S 34° E,Calanasan (Apayao)
-2026-01-07T02:03:00.000Z,07 January 2026 - 02:03 AM,08.93,126.46,010,2.3,017km N 84° E of Cagwait (Surigao Del Sur),017,N 84° E,Cagwait (Surigao Del Sur)
