@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T18:57:00.000Z,13 January 2026 - 06:57 PM,10.90,123.74,019,1.6,017km N 58° W of Tabuelan (Cebu),017,N 58° W,Tabuelan (Cebu)
+2026-01-13T18:55:00.000Z,13 January 2026 - 06:55 PM,06.10,126.12,122,2.2,049km S 77° E of Don Marcelino (Davao Occidental),049,S 77° E,Don Marcelino (Davao Occidental)
 2026-01-13T18:22:00.000Z,13 January 2026 - 06:22 PM,17.84,119.86,018,1.8,061km N 63° W of Santa Catalina (Ilocos Sur),061,N 63° W,Santa Catalina (Ilocos Sur)
 2026-01-13T18:12:00.000Z,13 January 2026 - 06:12 PM,05.95,127.08,024,3.1,136km S 55° E of Governor Generoso (Davao Oriental),136,S 55° E,Governor Generoso (Davao Oriental)
 2026-01-13T00:36:00.000Z,13 January 2026 - 12:36 AM,10.12,122.41,011,2.4,028km N 55° W of Cauayan (Negros Occidental),028,N 55° W,Cauayan (Negros Occidental)
@@ -56,6 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-12T19:21:00.000Z,12 January 2026 - 07:21 PM,18.51,120.85,030,2.0,005km S 68° E of Dumalneg (Ilocos Norte),005,S 68° E,Dumalneg (Ilocos Norte)
 2026-01-12T19:16:00.000Z,12 January 2026 - 07:16 PM,17.33,121.53,031,2.2,009km N 79° W of Quezon (Isabela),009,N 79° W,Quezon (Isabela)
 2026-01-12T19:12:00.000Z,12 January 2026 - 07:12 PM,07.31,126.46,005,2.3,012km S 79° W of Caraga (Davao Oriental),012,S 79° W,Caraga (Davao Oriental)
-2026-01-12T18:53:00.000Z,12 January 2026 - 06:53 PM,19.03,121.19,010,2.5,009km S 14° W of Dalupiri Island (Calayan) (Cagayan),009,S 14° W,Dalupiri Island (Calayan) (Cagayan)
-2026-01-12T18:38:00.000Z,12 January 2026 - 06:38 PM,10.48,125.97,022,1.8,040km S 44° E of Homonhon Island (Guiuan) (Eastern Samar),040,S 44° E,Homonhon Island (Guiuan) (Eastern Samar)
-2026-01-12T18:26:00.000Z,12 January 2026 - 06:26 PM,09.62,126.25,032,2.0,021km S 31° E of General Luna (Surigao Del Norte),021,S 31° E,General Luna (Surigao Del Norte)

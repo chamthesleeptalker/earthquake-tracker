@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T18:57:00.000Z,13 January 2026 - 06:57 PM,10.90,123.74,019,1.6,017km N 58° W of Tabuelan (Cebu),017,N 58° W,Tabuelan (Cebu)
+2026-01-13T18:55:00.000Z,13 January 2026 - 06:55 PM,06.10,126.12,122,2.2,049km S 77° E of Don Marcelino (Davao Occidental),049,S 77° E,Don Marcelino (Davao Occidental)
 2026-01-13T18:22:00.000Z,13 January 2026 - 06:22 PM,17.84,119.86,018,1.8,061km N 63° W of Santa Catalina (Ilocos Sur),061,N 63° W,Santa Catalina (Ilocos Sur)
 2026-01-13T18:12:00.000Z,13 January 2026 - 06:12 PM,05.95,127.08,024,3.1,136km S 55° E of Governor Generoso (Davao Oriental),136,S 55° E,Governor Generoso (Davao Oriental)
 2026-01-13T00:36:00.000Z,13 January 2026 - 12:36 AM,10.12,122.41,011,2.4,028km N 55° W of Cauayan (Negros Occidental),028,N 55° W,Cauayan (Negros Occidental)
