@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T09:57:00.000Z,13 January 2026 - 09:57 AM,02.51,127.84,142,4.2,418km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),418,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-13T09:27:00.000Z,13 January 2026 - 09:27 AM,02.67,126.68,114,4.8,333km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),333,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-13T06:43:00.000Z,13 January 2026 - 06:43 AM,06.19,124.66,019,1.8,006km S 57° W of Lake Sebu (South Cotabato),006,S 57° W,Lake Sebu (South Cotabato)
 2026-01-13T06:14:00.000Z,13 January 2026 - 06:14 AM,09.57,126.18,033,1.9,024km S 06° E of General Luna (Surigao Del Norte),024,S 06° E,General Luna (Surigao Del Norte)
 2026-01-13T06:04:00.000Z,13 January 2026 - 06:04 AM,07.18,126.94,011,2.8,044km S 85° E of Manay (Davao Oriental),044,S 85° E,Manay (Davao Oriental)
@@ -423,5 +425,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T10:46:00.000Z,06 January 2026 - 10:46 AM,08.64,126.33,028,1.7,016km S 44° E of San Agustin (Surigao Del Sur),016,S 44° E,San Agustin (Surigao Del Sur)
 2026-01-06T10:21:00.000Z,06 January 2026 - 10:21 AM,09.31,126.21,015,1.6,005km N 32° E of Cortes (Surigao Del Sur),005,N 32° E,Cortes (Surigao Del Sur)
 2026-01-06T10:13:00.000Z,06 January 2026 - 10:13 AM,10.18,126.02,020,1.9,018km N 06° W of Santa Monica (Surigao Del Norte),018,N 06° W,Santa Monica (Surigao Del Norte)
-2026-01-06T08:33:00.000Z,06 January 2026 - 08:33 AM,06.04,124.51,011,2.4,003km S 45° E of Maitum (Sarangani),003,S 45° E,Maitum (Sarangani)
-2026-01-06T08:12:00.000Z,06 January 2026 - 08:12 AM,09.71,126.15,029,3.1,008km S 05° W of General Luna (Surigao Del Norte),008,S 05° W,General Luna (Surigao Del Norte)
