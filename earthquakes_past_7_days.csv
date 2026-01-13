@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-13T14:28:00.000Z,13 January 2026 - 02:28 PM,11.22,124.13,018,2.3,026km N 41° E of City Of Bogo (Cebu),026,N 41° E,City Of Bogo (Cebu)
 2026-01-13T12:36:00.000Z,13 January 2026 - 12:36 PM,13.41,120.52,132,1.5,006km S 83° E of Paluan (Occidental Mindoro),006,S 83° E,Paluan (Occidental Mindoro)
 2026-01-13T11:54:00.000Z,13 January 2026 - 11:54 AM,17.23,120.36,012,2.1,011km N 50° W of City Of Candon (Ilocos Sur),011,N 50° W,City Of Candon (Ilocos Sur)
 2026-01-13T11:48:00.000Z,13 January 2026 - 11:48 AM,02.84,126.30,033,4.0,301km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),301,S 19° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -423,4 +424,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-06T19:37:00.000Z,06 January 2026 - 07:37 PM,09.64,125.49,010,3.0,005km S 69° W of Sison (Surigao Del Norte),005,S 69° W,Sison (Surigao Del Norte)
 2026-01-06T16:45:00.000Z,06 January 2026 - 04:45 PM,12.85,123.18,004,1.8,009km S 54° W of Claveria (Masbate),009,S 54° W,Claveria (Masbate)
 2026-01-06T15:13:00.000Z,06 January 2026 - 03:13 PM,09.43,126.25,033,1.4,018km N 21° E of Cortes (Surigao Del Sur),018,N 21° E,Cortes (Surigao Del Sur)
-2026-01-06T12:36:00.000Z,06 January 2026 - 12:36 PM,05.17,126.34,078,2.9,102km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
