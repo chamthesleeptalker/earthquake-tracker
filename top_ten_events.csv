@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-01-10T22:58:00.000Z,10 January 2026 - 10:58 PM,03.26,127.27,10,6.8,315km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),315,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-07T11:02:00.000Z,07 January 2026 - 11:02 AM,07.13,126.95,42,6.7,047km S 79° E of Manay (Davao Oriental),047,S 79° E,Manay (Davao Oriental)
 2026-01-07T12:12:00.000Z,07 January 2026 - 12:12 PM,07.17,127.06,15,5.4,058km S 86° E of Manay (Davao Oriental),058,S 86° E,Manay (Davao Oriental)
 2026-01-10T23:15:00.000Z,10 January 2026 - 11:15 PM,02.92,127.36,10,5.2,350km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),350,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-13T09:27:00.000Z,13 January 2026 - 09:27 AM,02.67,126.68,114,4.8,333km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),333,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-08T01:35:00.000Z,08 January 2026 - 01:35 AM,07.45,126.65,18,4.7,029km N 24° E of Manay (Davao Oriental),029,N 24° E,Manay (Davao Oriental)
 2026-01-13T00:48:00.000Z,13 January 2026 - 12:48 AM,09.98,126.18,23,4.6,012km S 71° E of Burgos (Surigao Del Norte),012,S 71° E,Burgos (Surigao Del Norte)
 2026-01-12T01:28:00.000Z,12 January 2026 - 01:28 AM,07.22,126.35,10,4.6,020km N 87° W of Manay (Davao Oriental),020,N 87° W,Manay (Davao Oriental)
+2026-01-14T01:23:00.000Z,14 January 2026 - 01:23 AM,04.97,124.40,10,4.5,115km S 12° W of Kiamba (Sarangani),115,S 12° W,Kiamba (Sarangani)
