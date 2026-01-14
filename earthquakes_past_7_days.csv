@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T19:05:00.000Z,14 January 2026 - 07:05 PM,18.79,121.44,017,1.9,009km S 48° E of Fuga Island (Aparri) (Cagayan),009,S 48° E,Fuga Island (Aparri) (Cagayan)
+2026-01-14T18:47:00.000Z,14 January 2026 - 06:47 PM,20.51,121.82,070,2.9,016km N 66° W of Basco (Batanes),016,N 66° W,Basco (Batanes)
 2026-01-14T18:12:00.000Z,14 January 2026 - 06:12 PM,13.68,120.80,022,1.6,008km N 76° W of Tingloy (Batangas),008,N 76° W,Tingloy (Batangas)
 2026-01-14T18:10:00.000Z,14 January 2026 - 06:10 PM,16.01,119.82,031,1.8,007km S 39° W of Burgos (Pangasinan),007,S 39° W,Burgos (Pangasinan)
 2026-01-14T17:35:00.000Z,14 January 2026 - 05:35 PM,10.45,123.06,007,2.0,015km N 20° E of La Castellana (Negros Occidental),015,N 20° E,La Castellana (Negros Occidental)
@@ -352,8 +354,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-07T20:16:00.000Z,07 January 2026 - 08:16 PM,07.32,127.13,005,2.5,067km N 79° E of Manay (Davao Oriental),067,N 79° E,Manay (Davao Oriental)
 2026-01-07T19:58:00.000Z,07 January 2026 - 07:58 PM,07.30,127.29,035,2.5,084km N 83° E of Manay (Davao Oriental),084,N 83° E,Manay (Davao Oriental)
 2026-01-07T19:33:00.000Z,07 January 2026 - 07:33 PM,07.11,127.02,013,2.8,054km S 78° E of Manay (Davao Oriental),054,S 78° E,Manay (Davao Oriental)
-2026-01-07T19:02:00.000Z,07 January 2026 - 07:02 PM,07.48,126.84,032,2.2,045km N 48° E of Manay (Davao Oriental),045,N 48° E,Manay (Davao Oriental)
-2026-01-07T18:49:00.000Z,07 January 2026 - 06:49 PM,05.82,125.82,132,3.1,022km S 62° E of Jose Abad Santos (Davao Occidental),022,S 62° E,Jose Abad Santos (Davao Occidental)
-2026-01-07T18:41:00.000Z,07 January 2026 - 06:41 PM,07.35,126.99,013,2.6,052km N 73° E of Manay (Davao Oriental),052,N 73° E,Manay (Davao Oriental)
-2026-01-07T18:34:00.000Z,07 January 2026 - 06:34 PM,07.38,126.88,025,2.3,042km N 63° E of Manay (Davao Oriental),042,N 63° E,Manay (Davao Oriental)
-2026-01-07T18:21:00.000Z,07 January 2026 - 06:21 PM,07.28,126.92,021,2.5,043km N 80° E of Manay (Davao Oriental),043,N 80° E,Manay (Davao Oriental)
