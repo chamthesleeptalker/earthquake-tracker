@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T16:53:00.000Z,14 January 2026 - 04:53 PM,10.13,122.29,032,1.7,041km N 65° W of Cauayan (Negros Occidental),041,N 65° W,Cauayan (Negros Occidental)
+2026-01-14T16:49:00.000Z,14 January 2026 - 04:49 PM,06.38,126.43,123,2.7,049km S 53° E of Governor Generoso (Davao Oriental),049,S 53° E,Governor Generoso (Davao Oriental)
 2026-01-14T16:26:00.000Z,14 January 2026 - 04:26 PM,10.39,122.94,032,1.3,005km S 25° E of City Of La Carlota (Negros Occidental),005,S 25° E,City Of La Carlota (Negros Occidental)
 2026-01-14T16:12:00.000Z,14 January 2026 - 04:12 PM,11.08,124.08,005,1.8,011km N 70° E of City Of Bogo (Cebu),011,N 70° E,City Of Bogo (Cebu)
 2026-01-14T14:05:00.000Z,14 January 2026 - 02:05 PM,09.74,123.19,007,1.4,005km S 61° E of Bindoy (Negros Oriental),005,S 61° E,Bindoy (Negros Oriental)
@@ -42,5 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T18:22:00.000Z,13 January 2026 - 06:22 PM,17.84,119.86,018,1.8,061km N 63° W of Santa Catalina (Ilocos Sur),061,N 63° W,Santa Catalina (Ilocos Sur)
 2026-01-13T18:12:00.000Z,13 January 2026 - 06:12 PM,05.95,127.08,024,3.1,136km S 55° E of Governor Generoso (Davao Oriental),136,S 55° E,Governor Generoso (Davao Oriental)
 2026-01-13T17:08:00.000Z,13 January 2026 - 05:08 PM,15.38,119.84,019,2.0,010km S 53° W of Palauig (Zambales),010,S 53° W,Palauig (Zambales)
-2026-01-13T16:51:00.000Z,13 January 2026 - 04:51 PM,11.02,124.04,004,2.0,007km S 69° E of City Of Bogo (Cebu),007,S 69° E,City Of Bogo (Cebu)
-2026-01-13T16:50:00.000Z,13 January 2026 - 04:50 PM,07.05,126.56,015,3.1,018km S 09° E of Manay (Davao Oriental),018,S 09° E,Manay (Davao Oriental)
