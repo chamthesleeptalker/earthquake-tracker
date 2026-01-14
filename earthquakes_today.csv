@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T09:23:00.000Z,14 January 2026 - 09:23 AM,10.41,122.99,008,3.0,008km S 73° E of City Of La Carlota (Negros Occidental),008,S 73° E,City Of La Carlota (Negros Occidental)
+2026-01-14T08:57:00.000Z,14 January 2026 - 08:57 AM,07.69,124.72,011,2.0,005km N 01° W of Wao (Lanao Del Sur),005,N 01° W,Wao (Lanao Del Sur)
+2026-01-14T08:40:00.000Z,14 January 2026 - 08:40 AM,10.43,122.96,032,2.5,005km N 84° E of City Of La Carlota (Negros Occidental),005,N 84° E,City Of La Carlota (Negros Occidental)
+2026-01-14T08:12:00.000Z,14 January 2026 - 08:12 AM,10.45,123.07,009,3.0,017km N 80° E of City Of La Carlota (Negros Occidental),017,N 80° E,City Of La Carlota (Negros Occidental)
 2026-01-14T05:32:00.000Z,14 January 2026 - 05:32 AM,10.47,123.03,032,1.4,013km N 68° E of City Of La Carlota (Negros Occidental),013,N 68° E,City Of La Carlota (Negros Occidental)
 2026-01-14T05:20:00.000Z,14 January 2026 - 05:20 AM,10.47,123.05,008,1.9,015km N 71° E of City Of La Carlota (Negros Occidental),015,N 71° E,City Of La Carlota (Negros Occidental)
 2026-01-14T05:07:00.000Z,14 January 2026 - 05:07 AM,16.58,121.65,014,2.7,005km N 70° W of Jones (Isabela),005,N 70° W,Jones (Isabela)
