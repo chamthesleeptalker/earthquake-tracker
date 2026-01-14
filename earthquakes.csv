@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-15T05:29:00.000Z,15 January 2026 - 05:29 AM,13.72,120.57,098,1.4,014km S 28° W of Calatagan (Batangas),014,S 28° W,Calatagan (Batangas)
 2026-01-15T03:59:00.000Z,15 January 2026 - 03:59 AM,09.51,122.73,024,2.1,015km N 42° E of Basay (Negros Oriental),015,N 42° E,Basay (Negros Oriental)
 2026-01-15T03:48:00.000Z,15 January 2026 - 03:48 AM,16.06,121.55,011,2.3,019km S 18° W of Nagtipunan (Quirino),019,S 18° W,Nagtipunan (Quirino)
 2026-01-15T03:21:00.000Z,15 January 2026 - 03:21 AM,08.67,125.56,004,2.0,009km S 82° W of Esperanza (Agusan Del Sur),009,S 82° W,Esperanza (Agusan Del Sur)

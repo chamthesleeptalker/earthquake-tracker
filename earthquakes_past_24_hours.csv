@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-15T05:29:00.000Z,15 January 2026 - 05:29 AM,13.72,120.57,098,1.4,014km S 28° W of Calatagan (Batangas),014,S 28° W,Calatagan (Batangas)
 2026-01-15T03:59:00.000Z,15 January 2026 - 03:59 AM,09.51,122.73,024,2.1,015km N 42° E of Basay (Negros Oriental),015,N 42° E,Basay (Negros Oriental)
 2026-01-15T03:48:00.000Z,15 January 2026 - 03:48 AM,16.06,121.55,011,2.3,019km S 18° W of Nagtipunan (Quirino),019,S 18° W,Nagtipunan (Quirino)
 2026-01-15T03:21:00.000Z,15 January 2026 - 03:21 AM,08.67,125.56,004,2.0,009km S 82° W of Esperanza (Agusan Del Sur),009,S 82° W,Esperanza (Agusan Del Sur)
@@ -41,8 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-14T08:40:00.000Z,14 January 2026 - 08:40 AM,10.43,122.96,032,2.5,005km N 84° E of City Of La Carlota (Negros Occidental),005,N 84° E,City Of La Carlota (Negros Occidental)
 2026-01-14T08:12:00.000Z,14 January 2026 - 08:12 AM,10.45,123.07,009,3.0,017km N 80° E of City Of La Carlota (Negros Occidental),017,N 80° E,City Of La Carlota (Negros Occidental)
 2026-01-14T05:32:00.000Z,14 January 2026 - 05:32 AM,10.47,123.03,032,1.4,013km N 68° E of City Of La Carlota (Negros Occidental),013,N 68° E,City Of La Carlota (Negros Occidental)
-2026-01-14T05:20:00.000Z,14 January 2026 - 05:20 AM,10.47,123.05,008,1.9,015km N 71° E of City Of La Carlota (Negros Occidental),015,N 71° E,City Of La Carlota (Negros Occidental)
-2026-01-14T05:07:00.000Z,14 January 2026 - 05:07 AM,16.58,121.65,014,2.7,005km N 70° W of Jones (Isabela),005,N 70° W,Jones (Isabela)
-2026-01-14T04:40:00.000Z,14 January 2026 - 04:40 AM,10.46,123.03,023,1.3,012km N 73° E of City Of La Carlota (Negros Occidental),012,N 73° E,City Of La Carlota (Negros Occidental)
-2026-01-14T04:14:00.000Z,14 January 2026 - 04:14 AM,10.45,123.03,007,1.9,012km N 77° E of City Of La Carlota (Negros Occidental),012,N 77° E,City Of La Carlota (Negros Occidental)
-2026-01-14T04:06:00.000Z,14 January 2026 - 04:06 AM,10.43,123.01,010,3.9,009km N 87° E of City Of La Carlota (Negros Occidental),009,N 87° E,City Of La Carlota (Negros Occidental)
