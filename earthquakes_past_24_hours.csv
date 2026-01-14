@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T22:37:00.000Z,14 January 2026 - 10:37 PM,10.24,123.08,032,1.7,004km S 09° E of Moises Padilla (Negros Occidental),004,S 09° E,Moises Padilla (Negros Occidental)
+2026-01-14T22:37:00.000Z,14 January 2026 - 10:37 PM,10.27,123.09,016,1.3,002km S 77° E of Moises Padilla (Negros Occidental),002,S 77° E,Moises Padilla (Negros Occidental)
+2026-01-14T22:26:00.000Z,14 January 2026 - 10:26 PM,10.30,123.10,035,1.1,005km N 39° E of Moises Padilla (Negros Occidental),005,N 39° E,Moises Padilla (Negros Occidental)
 2026-01-14T20:31:00.000Z,14 January 2026 - 08:31 PM,07.26,126.97,006,1.9,048km N 83° E of Manay (Davao Oriental),048,N 83° E,Manay (Davao Oriental)
 2026-01-14T20:29:00.000Z,14 January 2026 - 08:29 PM,07.22,127.01,025,2.3,050km S 76° E of Caraga (Davao Oriental),050,S 76° E,Caraga (Davao Oriental)
 2026-01-14T20:16:00.000Z,14 January 2026 - 08:16 PM,07.26,127.07,018,2.5,059km N 84° E of Manay (Davao Oriental),059,N 84° E,Manay (Davao Oriental)
@@ -41,8 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T23:19:00.000Z,13 January 2026 - 11:19 PM,13.94,119.88,010,1.4,028km N 71° W of Lubang (Occidental Mindoro),028,N 71° W,Lubang (Occidental Mindoro)
 2026-01-13T22:47:00.000Z,13 January 2026 - 10:47 PM,12.82,123.03,006,1.8,025km S 68° W of Claveria (Masbate),025,S 68° W,Claveria (Masbate)
 2026-01-13T22:40:00.000Z,13 January 2026 - 10:40 PM,07.36,126.91,016,2.0,044km N 69° E of Manay (Davao Oriental),044,N 69° E,Manay (Davao Oriental)
-2026-01-13T22:10:00.000Z,13 January 2026 - 10:10 PM,16.33,120.80,026,1.5,010km S 70° W of Kayapa (Nueva Vizcaya),010,S 70° W,Kayapa (Nueva Vizcaya)
-2026-01-13T22:02:00.000Z,13 January 2026 - 10:02 PM,18.35,121.19,022,1.4,017km N 86° W of Luna (Apayao),017,N 86° W,Luna (Apayao)
-2026-01-13T21:25:00.000Z,13 January 2026 - 09:25 PM,18.47,120.79,025,1.6,006km S 15° W of Dumalneg (Ilocos Norte),006,S 15° W,Dumalneg (Ilocos Norte)
-2026-01-13T21:17:00.000Z,13 January 2026 - 09:17 PM,09.69,126.86,010,3.9,077km S 82° E of General Luna (Surigao Del Norte),077,S 82° E,General Luna (Surigao Del Norte)
-2026-01-13T20:54:00.000Z,13 January 2026 - 08:54 PM,18.58,121.05,019,2.5,004km S 54° W of Claveria (Cagayan),004,S 54° W,Claveria (Cagayan)
