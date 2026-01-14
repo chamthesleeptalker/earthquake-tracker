@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-15T02:12:00.000Z,15 January 2026 - 02:12 AM,10.46,123.06,033,1.3,015km N 76° E of City Of La Carlota (Negros Occidental),015,N 76° E,City Of La Carlota (Negros Occidental)
+2026-01-15T02:00:00.000Z,15 January 2026 - 02:00 AM,02.15,126.95,071,4.9,399km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),399,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-15T01:47:00.000Z,15 January 2026 - 01:47 AM,07.16,126.89,015,3.2,039km S 82° E of Manay (Davao Oriental),039,S 82° E,Manay (Davao Oriental)
+2026-01-15T01:41:00.000Z,15 January 2026 - 01:41 AM,10.50,123.01,031,1.3,012km S 14° W of Murcia (Negros Occidental),012,S 14° W,Murcia (Negros Occidental)
 2026-01-15T00:56:00.000Z,15 January 2026 - 12:56 AM,09.65,126.30,010,2.4,021km S 49° E of General Luna (Surigao Del Norte),021,S 49° E,General Luna (Surigao Del Norte)
 2026-01-15T00:42:00.000Z,15 January 2026 - 12:42 AM,17.31,121.43,027,2.0,015km N 12° E of Paracelis (Mountain Province),015,N 12° E,Paracelis (Mountain Province)
 2026-01-15T00:36:00.000Z,15 January 2026 - 12:36 AM,09.77,122.35,017,1.8,009km N 87° W of City Of Sipalay (Negros Occidental),009,N 87° W,City Of Sipalay (Negros Occidental)
@@ -336,9 +340,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-08T03:32:00.000Z,08 January 2026 - 03:32 AM,07.25,126.84,015,2.6,033km N 83° E of Manay (Davao Oriental),033,N 83° E,Manay (Davao Oriental)
 2026-01-08T02:18:00.000Z,08 January 2026 - 02:18 AM,07.16,126.85,030,1.7,037km S 80° E of Manay (Davao Oriental),037,S 80° E,Manay (Davao Oriental)
 2026-01-08T02:16:00.000Z,08 January 2026 - 02:16 AM,07.15,127.15,008,3.5,067km S 84° E of Manay (Davao Oriental),067,S 84° E,Manay (Davao Oriental)
-2026-01-08T02:09:00.000Z,08 January 2026 - 02:09 AM,07.09,127.07,007,3.0,058km S 77° E of Manay (Davao Oriental),058,S 77° E,Manay (Davao Oriental)
-2026-01-08T02:04:00.000Z,08 January 2026 - 02:04 AM,07.16,127.23,005,3.3,076km S 86° E of Manay (Davao Oriental),076,S 86° E,Manay (Davao Oriental)
-2026-01-08T01:54:00.000Z,08 January 2026 - 01:54 AM,07.28,126.92,008,2.8,043km N 79° E of Manay (Davao Oriental),043,N 79° E,Manay (Davao Oriental)
-2026-01-08T01:51:00.000Z,08 January 2026 - 01:51 AM,05.64,125.79,144,3.3,034km S 28° E of Jose Abad Santos (Davao Occidental),034,S 28° E,Jose Abad Santos (Davao Occidental)
-2026-01-08T01:35:00.000Z,08 January 2026 - 01:35 AM,07.45,126.65,018,4.7,029km N 24° E of Manay (Davao Oriental),029,N 24° E,Manay (Davao Oriental)
-2026-01-08T01:10:00.000Z,08 January 2026 - 01:10 AM,17.99,120.29,023,2.5,021km N 72° W of Badoc (Ilocos Norte),021,N 72° W,Badoc (Ilocos Norte)

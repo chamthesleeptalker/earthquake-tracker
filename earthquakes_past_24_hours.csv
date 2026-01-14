@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-15T02:12:00.000Z,15 January 2026 - 02:12 AM,10.46,123.06,033,1.3,015km N 76° E of City Of La Carlota (Negros Occidental),015,N 76° E,City Of La Carlota (Negros Occidental)
+2026-01-15T02:00:00.000Z,15 January 2026 - 02:00 AM,02.15,126.95,071,4.9,399km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),399,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-15T01:47:00.000Z,15 January 2026 - 01:47 AM,07.16,126.89,015,3.2,039km S 82° E of Manay (Davao Oriental),039,S 82° E,Manay (Davao Oriental)
+2026-01-15T01:41:00.000Z,15 January 2026 - 01:41 AM,10.50,123.01,031,1.3,012km S 14° W of Murcia (Negros Occidental),012,S 14° W,Murcia (Negros Occidental)
 2026-01-15T00:56:00.000Z,15 January 2026 - 12:56 AM,09.65,126.30,010,2.4,021km S 49° E of General Luna (Surigao Del Norte),021,S 49° E,General Luna (Surigao Del Norte)
 2026-01-15T00:42:00.000Z,15 January 2026 - 12:42 AM,17.31,121.43,027,2.0,015km N 12° E of Paracelis (Mountain Province),015,N 12° E,Paracelis (Mountain Province)
 2026-01-15T00:36:00.000Z,15 January 2026 - 12:36 AM,09.77,122.35,017,1.8,009km N 87° W of City Of Sipalay (Negros Occidental),009,N 87° W,City Of Sipalay (Negros Occidental)
@@ -38,8 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-14T03:49:00.000Z,14 January 2026 - 03:49 AM,13.61,120.90,019,1.9,006km S 30° E of Tingloy (Batangas),006,S 30° E,Tingloy (Batangas)
 2026-01-14T03:44:00.000Z,14 January 2026 - 03:44 AM,10.92,123.97,008,2.2,014km S 06° W of City Of Bogo (Cebu),014,S 06° W,City Of Bogo (Cebu)
 2026-01-14T03:28:00.000Z,14 January 2026 - 03:28 AM,10.44,123.00,010,3.6,008km N 80° E of City Of La Carlota (Negros Occidental),008,N 80° E,City Of La Carlota (Negros Occidental)
-2026-01-14T02:00:00.000Z,14 January 2026 - 02:00 AM,05.55,127.37,153,3.9,189km S 50° E of Governor Generoso (Davao Oriental),189,S 50° E,Governor Generoso (Davao Oriental)
-2026-01-14T01:22:00.000Z,14 January 2026 - 01:22 AM,04.77,124.43,032,4.3,136km S 09° W of Kiamba (Sarangani),136,S 09° W,Kiamba (Sarangani)
-2026-01-14T01:23:00.000Z,14 January 2026 - 01:23 AM,04.97,124.40,010,4.5,115km S 12° W of Kiamba (Sarangani),115,S 12° W,Kiamba (Sarangani)
-2026-01-14T01:09:00.000Z,14 January 2026 - 01:09 AM,11.92,125.04,026,1.9,014km S 07° E of San Jose De Buan (Samar),014,S 07° E,San Jose De Buan (Samar)
-2026-01-14T01:06:00.000Z,14 January 2026 - 01:06 AM,10.64,122.61,022,2.3,004km S 41° E of Jordan (Guimaras),004,S 41° E,Jordan (Guimaras)
