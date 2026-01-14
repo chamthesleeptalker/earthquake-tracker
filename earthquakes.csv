@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T20:31:00.000Z,14 January 2026 - 08:31 PM,07.26,126.97,006,1.9,048km N 83° E of Manay (Davao Oriental),048,N 83° E,Manay (Davao Oriental)
+2026-01-14T20:29:00.000Z,14 January 2026 - 08:29 PM,07.22,127.01,025,2.3,050km S 76° E of Caraga (Davao Oriental),050,S 76° E,Caraga (Davao Oriental)
+2026-01-14T20:16:00.000Z,14 January 2026 - 08:16 PM,07.26,127.07,018,2.5,059km N 84° E of Manay (Davao Oriental),059,N 84° E,Manay (Davao Oriental)
+2026-01-14T20:06:00.000Z,14 January 2026 - 08:06 PM,13.61,125.28,033,2.4,099km S 78° E of Gigmoto (Catanduanes),099,S 78° E,Gigmoto (Catanduanes)
 2026-01-14T19:05:00.000Z,14 January 2026 - 07:05 PM,18.79,121.44,017,1.9,009km S 48° E of Fuga Island (Aparri) (Cagayan),009,S 48° E,Fuga Island (Aparri) (Cagayan)
 2026-01-14T18:47:00.000Z,14 January 2026 - 06:47 PM,20.51,121.82,070,2.9,016km N 66° W of Basco (Batanes),016,N 66° W,Basco (Batanes)
 2026-01-14T18:12:00.000Z,14 January 2026 - 06:12 PM,13.68,120.80,022,1.6,008km N 76° W of Tingloy (Batangas),008,N 76° W,Tingloy (Batangas)

@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T20:31:00.000Z,14 January 2026 - 08:31 PM,07.26,126.97,006,1.9,048km N 83° E of Manay (Davao Oriental),048,N 83° E,Manay (Davao Oriental)
+2026-01-14T20:29:00.000Z,14 January 2026 - 08:29 PM,07.22,127.01,025,2.3,050km S 76° E of Caraga (Davao Oriental),050,S 76° E,Caraga (Davao Oriental)
+2026-01-14T20:16:00.000Z,14 January 2026 - 08:16 PM,07.26,127.07,018,2.5,059km N 84° E of Manay (Davao Oriental),059,N 84° E,Manay (Davao Oriental)
+2026-01-14T20:06:00.000Z,14 January 2026 - 08:06 PM,13.61,125.28,033,2.4,099km S 78° E of Gigmoto (Catanduanes),099,S 78° E,Gigmoto (Catanduanes)
 2026-01-14T19:05:00.000Z,14 January 2026 - 07:05 PM,18.79,121.44,017,1.9,009km S 48° E of Fuga Island (Aparri) (Cagayan),009,S 48° E,Fuga Island (Aparri) (Cagayan)
 2026-01-14T18:47:00.000Z,14 January 2026 - 06:47 PM,20.51,121.82,070,2.9,016km N 66° W of Basco (Batanes),016,N 66° W,Basco (Batanes)
 2026-01-14T18:12:00.000Z,14 January 2026 - 06:12 PM,13.68,120.80,022,1.6,008km N 76° W of Tingloy (Batangas),008,N 76° W,Tingloy (Batangas)
@@ -42,5 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T21:25:00.000Z,13 January 2026 - 09:25 PM,18.47,120.79,025,1.6,006km S 15° W of Dumalneg (Ilocos Norte),006,S 15° W,Dumalneg (Ilocos Norte)
 2026-01-13T21:17:00.000Z,13 January 2026 - 09:17 PM,09.69,126.86,010,3.9,077km S 82° E of General Luna (Surigao Del Norte),077,S 82° E,General Luna (Surigao Del Norte)
 2026-01-13T20:54:00.000Z,13 January 2026 - 08:54 PM,18.58,121.05,019,2.5,004km S 54° W of Claveria (Cagayan),004,S 54° W,Claveria (Cagayan)
-2026-01-13T19:32:00.000Z,13 January 2026 - 07:32 PM,06.24,126.46,027,2.4,062km S 43° E of Governor Generoso (Davao Oriental),062,S 43° E,Governor Generoso (Davao Oriental)
-2026-01-13T19:15:00.000Z,13 January 2026 - 07:15 PM,12.87,121.00,003,2.1,024km N 82° E of Sablayan (Occidental Mindoro),024,N 82° E,Sablayan (Occidental Mindoro)
