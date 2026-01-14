@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-14T18:12:00.000Z,14 January 2026 - 06:12 PM,13.68,120.80,022,1.6,008km N 76° W of Tingloy (Batangas),008,N 76° W,Tingloy (Batangas)
+2026-01-14T18:10:00.000Z,14 January 2026 - 06:10 PM,16.01,119.82,031,1.8,007km S 39° W of Burgos (Pangasinan),007,S 39° W,Burgos (Pangasinan)
+2026-01-14T17:35:00.000Z,14 January 2026 - 05:35 PM,10.45,123.06,007,2.0,015km N 20° E of La Castellana (Negros Occidental),015,N 20° E,La Castellana (Negros Occidental)
 2026-01-14T16:53:00.000Z,14 January 2026 - 04:53 PM,10.13,122.29,032,1.7,041km N 65° W of Cauayan (Negros Occidental),041,N 65° W,Cauayan (Negros Occidental)
 2026-01-14T16:49:00.000Z,14 January 2026 - 04:49 PM,06.38,126.43,123,2.7,049km S 53° E of Governor Generoso (Davao Oriental),049,S 53° E,Governor Generoso (Davao Oriental)
 2026-01-14T16:26:00.000Z,14 January 2026 - 04:26 PM,10.39,122.94,032,1.3,005km S 25° E of City Of La Carlota (Negros Occidental),005,S 25° E,City Of La Carlota (Negros Occidental)
