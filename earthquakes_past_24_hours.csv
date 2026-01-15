@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-15T23:24:00.000Z,15 January 2026 - 11:24 PM,07.89,124.67,010,2.6,018km N 26° W of Kalilangan (Bukidnon),018,N 26° W,Kalilangan (Bukidnon)
+2026-01-15T23:20:00.000Z,15 January 2026 - 11:20 PM,11.23,124.60,010,1.9,007km N 37° E of Kananga (Leyte),007,N 37° E,Kananga (Leyte)
 2026-01-15T22:08:00.000Z,15 January 2026 - 10:08 PM,17.96,120.73,024,1.8,009km N 56° E of Nueva Era (Ilocos Norte),009,N 56° E,Nueva Era (Ilocos Norte)
 2026-01-15T22:03:00.000Z,15 January 2026 - 10:03 PM,13.69,120.08,033,1.5,019km S 78° W of Looc (Occidental Mindoro),019,S 78° W,Looc (Occidental Mindoro)
 2026-01-15T22:00:00.000Z,15 January 2026 - 10:00 PM,13.84,121.24,090,1.4,004km S 86° E of Rosario (Batangas),004,S 86° E,Rosario (Batangas)
@@ -30,6 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T00:42:00.000Z,15 January 2026 - 12:42 AM,17.31,121.43,027,2.0,015km N 12° E of Paracelis (Mountain Province),015,N 12° E,Paracelis (Mountain Province)
 2026-01-15T00:36:00.000Z,15 January 2026 - 12:36 AM,09.77,122.35,017,1.8,009km N 87° W of City Of Sipalay (Negros Occidental),009,N 87° W,City Of Sipalay (Negros Occidental)
 2026-01-14T23:49:00.000Z,14 January 2026 - 11:49 PM,13.82,123.97,023,2.1,012km N 67° E of Caramoan (Camarines Sur),012,N 67° E,Caramoan (Camarines Sur)
-2026-01-14T22:37:00.000Z,14 January 2026 - 10:37 PM,10.24,123.08,032,1.7,004km S 09° E of Moises Padilla (Negros Occidental),004,S 09° E,Moises Padilla (Negros Occidental)
-2026-01-14T22:37:00.000Z,14 January 2026 - 10:37 PM,10.27,123.09,016,1.3,002km S 77° E of Moises Padilla (Negros Occidental),002,S 77° E,Moises Padilla (Negros Occidental)
-2026-01-14T22:26:00.000Z,14 January 2026 - 10:26 PM,10.30,123.10,035,1.1,005km N 39° E of Moises Padilla (Negros Occidental),005,N 39° E,Moises Padilla (Negros Occidental)
