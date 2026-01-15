@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-15T12:11:00.000Z,15 January 2026 - 12:11 PM,13.83,120.30,034,1.5,013km N 26° E of Looc (Occidental Mindoro),013,N 26° E,Looc (Occidental Mindoro)
 2026-01-15T09:22:00.000Z,15 January 2026 - 09:22 AM,10.94,123.97,002,2.9,011km S 03° W of City Of Bogo (Cebu),011,S 03° W,City Of Bogo (Cebu)
 2026-01-15T09:21:00.000Z,15 January 2026 - 09:21 AM,11.09,123.97,010,1.4,005km N 11° W of City Of Bogo (Cebu),005,N 11° W,City Of Bogo (Cebu)
 2026-01-15T09:10:00.000Z,15 January 2026 - 09:10 AM,10.46,123.14,001,2.2,012km N 47° W of City Of Canlaon (Negros Oriental),012,N 47° W,City Of Canlaon (Negros Oriental)
@@ -341,6 +342,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-08T13:08:00.000Z,08 January 2026 - 01:08 PM,07.29,126.91,021,1.8,042km N 78° E of Manay (Davao Oriental),042,N 78° E,Manay (Davao Oriental)
 2026-01-08T13:07:00.000Z,08 January 2026 - 01:07 PM,11.15,123.93,006,2.5,013km N 27° W of City Of Bogo (Cebu),013,N 27° W,City Of Bogo (Cebu)
 2026-01-08T13:00:00.000Z,08 January 2026 - 01:00 PM,05.92,127.67,031,2.9,184km S 47° E of Tarragona (Davao Oriental),184,S 47° E,Tarragona (Davao Oriental)
-2026-01-08T09:50:00.000Z,08 January 2026 - 09:50 AM,11.17,123.90,009,3.2,017km N 32° W of City Of Bogo (Cebu),017,N 32° W,City Of Bogo (Cebu)
-2026-01-08T09:31:00.000Z,08 January 2026 - 09:31 AM,13.91,119.81,003,2.9,035km N 80° W of Lubang (Occidental Mindoro),035,N 80° W,Lubang (Occidental Mindoro)
-2026-01-08T09:27:00.000Z,08 January 2026 - 09:27 AM,15.83,120.51,020,1.6,002km S 46° W of Alcala (Pangasinan),002,S 46° W,Alcala (Pangasinan)
