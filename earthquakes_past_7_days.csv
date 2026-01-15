@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T05:46:00.000Z,16 January 2026 - 05:46 AM,20.16,121.82,024,2.9,020km S 18° W of Sabtang (Batanes),020,S 18° W,Sabtang (Batanes)
 2026-01-16T04:48:00.000Z,16 January 2026 - 04:48 AM,10.93,123.95,005,2.8,013km S 13° W of City Of Bogo (Cebu),013,S 13° W,City Of Bogo (Cebu)
 2026-01-16T04:30:00.000Z,16 January 2026 - 04:30 AM,13.82,120.52,116,1.8,012km S 83° W of Calatagan (Batangas),012,S 83° W,Calatagan (Batangas)
 2026-01-16T03:59:00.000Z,16 January 2026 - 03:59 AM,17.26,120.47,092,1.6,003km N 09° E of Banayoyo (Ilocos Sur),003,N 09° E,Banayoyo (Ilocos Sur)
@@ -310,5 +311,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T06:10:00.000Z,09 January 2026 - 06:10 AM,08.81,126.15,026,2.0,011km N 47° W of San Agustin (Surigao Del Sur),011,N 47° W,San Agustin (Surigao Del Sur)
 2026-01-09T06:05:00.000Z,09 January 2026 - 06:05 AM,08.90,125.94,030,1.7,011km S 66° W of San Miguel (Surigao Del Sur),011,S 66° W,San Miguel (Surigao Del Sur)
 2026-01-09T05:53:00.000Z,09 January 2026 - 05:53 AM,08.74,126.13,010,2.8,011km S 86° W of San Agustin (Surigao Del Sur),011,S 86° W,San Agustin (Surigao Del Sur)
-2026-01-09T05:08:00.000Z,09 January 2026 - 05:08 AM,11.18,124.03,027,2.4,016km N 19° E of City Of Bogo (Cebu),016,N 19° E,City Of Bogo (Cebu)
-2026-01-09T04:53:00.000Z,09 January 2026 - 04:53 AM,18.35,120.75,050,2.4,014km N 83° E of Pasuquin (Ilocos Norte),014,N 83° E,Pasuquin (Ilocos Norte)
