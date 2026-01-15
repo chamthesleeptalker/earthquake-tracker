@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T04:30:00.000Z,16 January 2026 - 04:30 AM,13.82,120.52,116,1.8,012km S 83° W of Calatagan (Batangas),012,S 83° W,Calatagan (Batangas)
 2026-01-16T03:59:00.000Z,16 January 2026 - 03:59 AM,17.26,120.47,092,1.6,003km N 09° E of Banayoyo (Ilocos Sur),003,N 09° E,Banayoyo (Ilocos Sur)
 2026-01-16T03:50:00.000Z,16 January 2026 - 03:50 AM,06.41,127.52,034,4.2,138km S 59° E of Tarragona (Davao Oriental),138,S 59° E,Tarragona (Davao Oriental)
 2026-01-16T03:30:00.000Z,16 January 2026 - 03:30 AM,11.49,125.39,008,2.7,014km S 18° W of City Of Borongan (Eastern Samar),014,S 18° W,City Of Borongan (Eastern Samar)
@@ -23,4 +24,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T06:38:00.000Z,15 January 2026 - 06:38 AM,15.39,120.08,034,1.2,013km N 29° E of Botolan (Zambales),013,N 29° E,Botolan (Zambales)
 2026-01-15T06:10:00.000Z,15 January 2026 - 06:10 AM,14.04,123.66,003,2.1,017km N 13° W of Garchitorena (Camarines Sur),017,N 13° W,Garchitorena (Camarines Sur)
 2026-01-15T05:29:00.000Z,15 January 2026 - 05:29 AM,13.72,120.57,098,1.4,014km S 28° W of Calatagan (Batangas),014,S 28° W,Calatagan (Batangas)
-2026-01-15T03:59:00.000Z,15 January 2026 - 03:59 AM,09.51,122.73,024,2.1,015km N 42° E of Basay (Negros Oriental),015,N 42° E,Basay (Negros Oriental)

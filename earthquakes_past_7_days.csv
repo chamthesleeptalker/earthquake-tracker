@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T04:30:00.000Z,16 January 2026 - 04:30 AM,13.82,120.52,116,1.8,012km S 83° W of Calatagan (Batangas),012,S 83° W,Calatagan (Batangas)
 2026-01-16T03:59:00.000Z,16 January 2026 - 03:59 AM,17.26,120.47,092,1.6,003km N 09° E of Banayoyo (Ilocos Sur),003,N 09° E,Banayoyo (Ilocos Sur)
 2026-01-16T03:50:00.000Z,16 January 2026 - 03:50 AM,06.41,127.52,034,4.2,138km S 59° E of Tarragona (Davao Oriental),138,S 59° E,Tarragona (Davao Oriental)
 2026-01-16T03:30:00.000Z,16 January 2026 - 03:30 AM,11.49,125.39,008,2.7,014km S 18° W of City Of Borongan (Eastern Samar),014,S 18° W,City Of Borongan (Eastern Samar)
@@ -311,11 +312,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T05:08:00.000Z,09 January 2026 - 05:08 AM,11.18,124.03,027,2.4,016km N 19° E of City Of Bogo (Cebu),016,N 19° E,City Of Bogo (Cebu)
 2026-01-09T04:53:00.000Z,09 January 2026 - 04:53 AM,18.35,120.75,050,2.4,014km N 83° E of Pasuquin (Ilocos Norte),014,N 83° E,Pasuquin (Ilocos Norte)
 2026-01-09T04:38:00.000Z,09 January 2026 - 04:38 AM,11.42,122.14,001,3.1,009km S 87° E of Culasi (Antique),009,S 87° E,Culasi (Antique)
-2026-01-09T04:27:00.000Z,09 January 2026 - 04:27 AM,08.73,126.20,036,1.4,003km S 48° W of San Agustin (Surigao Del Sur),003,S 48° W,San Agustin (Surigao Del Sur)
-2026-01-09T04:24:00.000Z,09 January 2026 - 04:24 AM,08.76,126.39,030,1.7,018km N 85° E of San Agustin (Surigao Del Sur),018,N 85° E,San Agustin (Surigao Del Sur)
-2026-01-09T04:21:00.000Z,09 January 2026 - 04:21 AM,07.89,126.88,057,2.5,048km N 77° E of Cateel (Davao Oriental),048,N 77° E,Cateel (Davao Oriental)
-2026-01-09T04:20:00.000Z,09 January 2026 - 04:20 AM,08.72,126.22,019,2.0,003km S 05° W of San Agustin (Surigao Del Sur),003,S 05° W,San Agustin (Surigao Del Sur)
-2026-01-09T04:20:00.000Z,09 January 2026 - 04:20 AM,08.72,126.22,017,1.6,003km S 11° W of San Agustin (Surigao Del Sur),003,S 11° W,San Agustin (Surigao Del Sur)
-2026-01-09T04:16:00.000Z,09 January 2026 - 04:16 AM,08.72,126.23,022,1.8,003km S 09° E of San Agustin (Surigao Del Sur),003,S 09° E,San Agustin (Surigao Del Sur)
-2026-01-09T04:11:00.000Z,09 January 2026 - 04:11 AM,08.74,126.22,032,2.1,001km S 29° W of San Agustin (Surigao Del Sur),001,S 29° W,San Agustin (Surigao Del Sur)
-2026-01-09T04:06:00.000Z,09 January 2026 - 04:06 AM,08.75,126.19,010,4.5,003km N 80° W of San Agustin (Surigao Del Sur),003,N 80° W,San Agustin (Surigao Del Sur)
