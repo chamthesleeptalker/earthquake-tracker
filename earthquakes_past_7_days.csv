@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-15T20:33:00.000Z,15 January 2026 - 08:33 PM,07.84,123.40,066,1.6,004km N 67° W of City Of Pagadian  (Zamboanga Del Sur),004,N 67° W,City Of Pagadian  (Zamboanga Del Sur)
 2026-01-14T20:17:00.000Z,14 January 2026 - 08:17 PM,07.23,126.90,010,2.6,040km N 86° E of Manay (Davao Oriental),040,N 86° E,Manay (Davao Oriental)
 2026-01-15T13:52:00.000Z,15 January 2026 - 01:52 PM,08.71,126.38,002,1.8,013km S 42° E of Marihatag (Surigao Del Sur),013,S 42° E,Marihatag (Surigao Del Sur)
 2026-01-15T12:39:00.000Z,15 January 2026 - 12:39 PM,15.80,121.05,035,1.7,006km N 87° E of San Jose City (Nueva Ecija),006,N 87° E,San Jose City (Nueva Ecija)
@@ -335,9 +336,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-08T21:06:00.000Z,08 January 2026 - 09:06 PM,07.25,126.71,017,2.2,019km N 77° E of Manay (Davao Oriental),019,N 77° E,Manay (Davao Oriental)
 2026-01-08T21:01:00.000Z,08 January 2026 - 09:01 PM,06.12,127.05,019,2.2,122km S 33° E of Tarragona (Davao Oriental),122,S 33° E,Tarragona (Davao Oriental)
 2026-01-08T21:00:00.000Z,08 January 2026 - 09:00 PM,07.93,126.29,004,1.8,018km S 48° W of Lingig (Surigao Del Sur),018,S 48° W,Lingig (Surigao Del Sur)
-2026-01-08T20:00:00.000Z,08 January 2026 - 08:00 PM,11.05,124.02,032,1.9,005km N 85° E of City Of Bogo (Cebu),005,N 85° E,City Of Bogo (Cebu)
-2026-01-08T19:48:00.000Z,08 January 2026 - 07:48 PM,07.71,123.01,022,1.8,004km N 39° E of Diplahan (Zamboanga Sibugay),004,N 39° E,Diplahan (Zamboanga Sibugay)
-2026-01-08T17:56:00.000Z,08 January 2026 - 05:56 PM,13.86,119.94,011,1.8,020km N 88° W of Lubang (Occidental Mindoro),020,N 88° W,Lubang (Occidental Mindoro)
-2026-01-08T16:46:00.000Z,08 January 2026 - 04:46 PM,07.14,127.32,013,2.9,087km S 85° E of Manay (Davao Oriental),087,S 85° E,Manay (Davao Oriental)
-2026-01-08T14:29:00.000Z,08 January 2026 - 02:29 PM,07.38,126.66,017,2.7,023km N 36° E of Manay (Davao Oriental),023,N 36° E,Manay (Davao Oriental)
-2026-01-08T14:04:00.000Z,08 January 2026 - 02:04 PM,07.24,127.13,018,2.8,066km N 87° E of Manay (Davao Oriental),066,N 87° E,Manay (Davao Oriental)
