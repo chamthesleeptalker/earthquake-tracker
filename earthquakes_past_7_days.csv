@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T09:04:00.000Z,16 January 2026 - 09:04 AM,11.94,121.45,003,2.0,010km N 88° W of Caluya (Antique),010,N 88° W,Caluya (Antique)
 2026-01-16T05:46:00.000Z,16 January 2026 - 05:46 AM,20.16,121.82,024,2.9,020km S 18° W of Sabtang (Batanes),020,S 18° W,Sabtang (Batanes)
 2026-01-16T04:48:00.000Z,16 January 2026 - 04:48 AM,10.93,123.95,005,2.8,013km S 13° W of City Of Bogo (Cebu),013,S 13° W,City Of Bogo (Cebu)
 2026-01-16T04:30:00.000Z,16 January 2026 - 04:30 AM,13.82,120.52,116,1.8,012km S 83° W of Calatagan (Batangas),012,S 83° W,Calatagan (Batangas)
@@ -265,7 +266,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T05:02:00.000Z,10 January 2026 - 05:02 AM,13.53,121.49,033,1.4,031km N 42° E of Naujan (Oriental Mindoro),031,N 42° E,Naujan (Oriental Mindoro)
 2026-01-10T04:18:00.000Z,10 January 2026 - 04:18 AM,10.72,125.15,033,1.7,016km S 78° E of Abuyog (Leyte),016,S 78° E,Abuyog (Leyte)
 2026-01-10T04:15:00.000Z,10 January 2026 - 04:15 AM,07.98,123.34,028,1.8,006km S 31° E of Midsalip (Zamboanga Del Sur),006,S 31° E,Midsalip (Zamboanga Del Sur)
-2026-01-09T07:33:00.000Z,09 January 2026 - 07:33 AM,11.45,125.89,007,2.4,032km N 68° E of Hernani (Eastern Samar),032,N 68° E,Hernani (Eastern Samar)
 2026-01-10T02:38:00.000Z,10 January 2026 - 02:38 AM,07.26,127.07,013,3.2,059km N 85° E of Manay (Davao Oriental),059,N 85° E,Manay (Davao Oriental)
 2026-01-10T02:31:00.000Z,10 January 2026 - 02:31 AM,06.97,127.13,009,2.3,071km S 68° E of Manay (Davao Oriental),071,S 68° E,Manay (Davao Oriental)
 2026-01-10T02:05:00.000Z,10 January 2026 - 02:05 AM,13.44,120.58,018,1.4,012km N 79° E of Paluan (Occidental Mindoro),012,N 79° E,Paluan (Occidental Mindoro)
@@ -305,9 +305,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T09:36:00.000Z,09 January 2026 - 09:36 AM,07.27,127.00,023,2.6,051km N 82° E of Manay (Davao Oriental),051,N 82° E,Manay (Davao Oriental)
 2026-01-09T09:19:00.000Z,09 January 2026 - 09:19 AM,07.26,126.89,020,2.7,039km N 82° E of Manay (Davao Oriental),039,N 82° E,Manay (Davao Oriental)
 2026-01-09T09:10:00.000Z,09 January 2026 - 09:10 AM,08.74,126.24,033,1.7,001km S 67° E of San Agustin (Surigao Del Sur),001,S 67° E,San Agustin (Surigao Del Sur)
-2026-01-09T08:03:00.000Z,09 January 2026 - 08:03 AM,10.83,124.10,025,2.1,028km S 29° E of City Of Bogo (Cebu),028,S 29° E,City Of Bogo (Cebu)
-2026-01-09T07:32:00.000Z,09 January 2026 - 07:32 AM,11.77,126.21,101,2.3,080km N 54° E of Hernani (Eastern Samar),080,N 54° E,Hernani (Eastern Samar)
-2026-01-09T06:24:00.000Z,09 January 2026 - 06:24 AM,06.36,125.27,088,2.6,002km S 05° W of Malungon (Sarangani),002,S 05° W,Malungon (Sarangani)
-2026-01-09T06:10:00.000Z,09 January 2026 - 06:10 AM,08.81,126.15,026,2.0,011km N 47° W of San Agustin (Surigao Del Sur),011,N 47° W,San Agustin (Surigao Del Sur)
-2026-01-09T06:05:00.000Z,09 January 2026 - 06:05 AM,08.90,125.94,030,1.7,011km S 66° W of San Miguel (Surigao Del Sur),011,S 66° W,San Miguel (Surigao Del Sur)
-2026-01-09T05:53:00.000Z,09 January 2026 - 05:53 AM,08.74,126.13,010,2.8,011km S 86° W of San Agustin (Surigao Del Sur),011,S 86° W,San Agustin (Surigao Del Sur)

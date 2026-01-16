@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T09:04:00.000Z,16 January 2026 - 09:04 AM,11.94,121.45,003,2.0,010km N 88° W of Caluya (Antique),010,N 88° W,Caluya (Antique)
 2026-01-16T05:46:00.000Z,16 January 2026 - 05:46 AM,20.16,121.82,024,2.9,020km S 18° W of Sabtang (Batanes),020,S 18° W,Sabtang (Batanes)
 2026-01-16T04:48:00.000Z,16 January 2026 - 04:48 AM,10.93,123.95,005,2.8,013km S 13° W of City Of Bogo (Cebu),013,S 13° W,City Of Bogo (Cebu)
 2026-01-16T04:30:00.000Z,16 January 2026 - 04:30 AM,13.82,120.52,116,1.8,012km S 83° W of Calatagan (Batangas),012,S 83° W,Calatagan (Batangas)
@@ -21,7 +22,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T09:22:00.000Z,15 January 2026 - 09:22 AM,10.94,123.97,002,2.9,011km S 03° W of City Of Bogo (Cebu),011,S 03° W,City Of Bogo (Cebu)
 2026-01-15T09:21:00.000Z,15 January 2026 - 09:21 AM,11.09,123.97,010,1.4,005km N 11° W of City Of Bogo (Cebu),005,N 11° W,City Of Bogo (Cebu)
 2026-01-15T09:10:00.000Z,15 January 2026 - 09:10 AM,10.46,123.14,001,2.2,012km N 47° W of City Of Canlaon (Negros Oriental),012,N 47° W,City Of Canlaon (Negros Oriental)
-2026-01-15T08:04:00.000Z,15 January 2026 - 08:04 AM,10.46,123.07,010,2.8,016km N 78° E of City Of La Carlota (Negros Occidental),016,N 78° E,City Of La Carlota (Negros Occidental)
-2026-01-15T07:13:00.000Z,15 January 2026 - 07:13 AM,06.82,123.91,033,1.6,030km S 23° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 23° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-01-15T06:38:00.000Z,15 January 2026 - 06:38 AM,15.39,120.08,034,1.2,013km N 29° E of Botolan (Zambales),013,N 29° E,Botolan (Zambales)
-2026-01-15T06:10:00.000Z,15 January 2026 - 06:10 AM,14.04,123.66,003,2.1,017km N 13° W of Garchitorena (Camarines Sur),017,N 13° W,Garchitorena (Camarines Sur)
