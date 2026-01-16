@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T01:11:00.000Z,17 January 2026 - 01:11 AM,13.12,123.19,073,1.7,025km N 15° W of Claveria (Masbate),025,N 15° W,Claveria (Masbate)
 2026-01-16T23:42:00.000Z,16 January 2026 - 11:42 PM,13.03,123.08,056,2.4,023km N 52° W of Claveria (Masbate),023,N 52° W,Claveria (Masbate)
 2026-01-16T23:25:00.000Z,16 January 2026 - 11:25 PM,13.31,120.63,031,1.7,010km N 24° E of Mamburao (Occidental Mindoro),010,N 24° E,Mamburao (Occidental Mindoro)
 2026-01-16T23:18:00.000Z,16 January 2026 - 11:18 PM,13.42,121.32,033,1.8,010km N 11° E of Naujan (Oriental Mindoro),010,N 11° E,Naujan (Oriental Mindoro)
@@ -28,5 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T03:50:00.000Z,16 January 2026 - 03:50 AM,06.41,127.52,034,4.2,138km S 59° E of Tarragona (Davao Oriental),138,S 59° E,Tarragona (Davao Oriental)
 2026-01-16T03:30:00.000Z,16 January 2026 - 03:30 AM,11.49,125.39,008,2.7,014km S 18° W of City Of Borongan (Eastern Samar),014,S 18° W,City Of Borongan (Eastern Samar)
 2026-01-16T02:12:00.000Z,16 January 2026 - 02:12 AM,08.10,126.32,085,2.3,012km N 55° W of Lingig (Surigao Del Sur),012,N 55° W,Lingig (Surigao Del Sur)
-2026-01-16T00:48:00.000Z,16 January 2026 - 12:48 AM,14.37,120.46,175,3.2,008km S 27° W of Mariveles (Bataan),008,S 27° W,Mariveles (Bataan)
-2026-01-16T00:13:00.000Z,16 January 2026 - 12:13 AM,16.47,120.91,003,2.0,013km N 10° E of Kayapa (Nueva Vizcaya),013,N 10° E,Kayapa (Nueva Vizcaya)
