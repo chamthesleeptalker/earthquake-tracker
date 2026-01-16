@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T23:25:00.000Z,16 January 2026 - 11:25 PM,13.31,120.63,031,1.7,010km N 24° E of Mamburao (Occidental Mindoro),010,N 24° E,Mamburao (Occidental Mindoro)
+2026-01-16T23:18:00.000Z,16 January 2026 - 11:18 PM,13.42,121.32,033,1.8,010km N 11° E of Naujan (Oriental Mindoro),010,N 11° E,Naujan (Oriental Mindoro)
 2026-01-16T21:48:00.000Z,16 January 2026 - 09:48 PM,07.88,124.51,007,2.0,017km S 64° E of Buadiposo-buntong (Lanao Del Sur),017,S 64° E,Buadiposo-buntong (Lanao Del Sur)
 2026-01-16T20:42:00.000Z,16 January 2026 - 08:42 PM,08.62,126.53,005,2.1,032km S 52° E of Marihatag (Surigao Del Sur),032,S 52° E,Marihatag (Surigao Del Sur)
 2026-01-16T19:54:00.000Z,16 January 2026 - 07:54 PM,07.41,126.56,011,3.5,009km N 01° W of Caraga (Davao Oriental),009,N 01° W,Caraga (Davao Oriental)
@@ -292,8 +294,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T01:19:00.000Z,10 January 2026 - 01:19 AM,16.39,122.02,012,1.8,016km N 42° W of Casiguran (Aurora),016,N 42° W,Casiguran (Aurora)
 2026-01-10T01:12:00.000Z,10 January 2026 - 01:12 AM,16.42,122.14,010,3.1,008km N 71° W of Dilasag (Aurora),008,N 71° W,Dilasag (Aurora)
 2026-01-10T00:00:00.000Z,10 January 2026 - 12:00 AM,16.16,119.58,020,4.8,023km N 78° W of Agno (Pangasinan),023,N 78° W,Agno (Pangasinan)
-2026-01-09T23:08:00.000Z,09 January 2026 - 11:08 PM,16.09,120.76,011,1.7,003km N 07° W of San Nicolas (Pangasinan),003,N 07° W,San Nicolas (Pangasinan)
-2026-01-09T22:51:00.000Z,09 January 2026 - 10:51 PM,18.54,120.44,023,2.9,022km N 83° W of Burgos (Ilocos Norte),022,N 83° W,Burgos (Ilocos Norte)
-2026-01-09T22:37:00.000Z,09 January 2026 - 10:37 PM,07.36,127.04,005,2.4,058km N 74° E of Manay (Davao Oriental),058,N 74° E,Manay (Davao Oriental)
-2026-01-09T22:06:00.000Z,09 January 2026 - 10:06 PM,07.98,126.95,013,2.3,058km N 69° E of Cateel (Davao Oriental),058,N 69° E,Cateel (Davao Oriental)
-2026-01-09T21:49:00.000Z,09 January 2026 - 09:49 PM,09.57,126.63,010,3.5,057km S 65° E of General Luna (Surigao Del Norte),057,S 65° E,General Luna (Surigao Del Norte)
