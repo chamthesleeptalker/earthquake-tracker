@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-16T23:41:00.000Z,16 January 2026 - 11:41 PM,12.61,123.17,012,2.1,034km S 14° W of Claveria (Masbate),034,S 14° W,Claveria (Masbate)
 2026-01-17T04:42:00.000Z,17 January 2026 - 04:42 AM,15.75,119.95,023,2.2,004km S 65° E of Santa Cruz (Zambales),004,S 65° E,Santa Cruz (Zambales)
 2026-01-17T04:33:00.000Z,17 January 2026 - 04:33 AM,17.69,120.44,031,2.1,002km N 57° E of Magsingal (Ilocos Sur),002,N 57° E,Magsingal (Ilocos Sur)
@@ -28,5 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T11:25:00.000Z,16 January 2026 - 11:25 AM,17.78,120.64,033,1.4,009km N 47° W of Lagayan (Abra),009,N 47° W,Lagayan (Abra)
 2026-01-16T09:49:00.000Z,16 January 2026 - 09:49 AM,12.01,121.47,015,2.0,012km N 43° W of Caluya (Antique),012,N 43° W,Caluya (Antique)
 2026-01-16T09:04:00.000Z,16 January 2026 - 09:04 AM,11.94,121.45,003,2.0,010km N 88° W of Caluya (Antique),010,N 88° W,Caluya (Antique)
-2026-01-16T05:46:00.000Z,16 January 2026 - 05:46 AM,20.16,121.82,024,2.9,020km S 18° W of Sabtang (Batanes),020,S 18° W,Sabtang (Batanes)
-2026-01-16T04:48:00.000Z,16 January 2026 - 04:48 AM,10.93,123.95,005,2.8,013km S 13° W of City Of Bogo (Cebu),013,S 13° W,City Of Bogo (Cebu)

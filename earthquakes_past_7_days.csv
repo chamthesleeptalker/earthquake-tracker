@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-16T23:41:00.000Z,16 January 2026 - 11:41 PM,12.61,123.17,012,2.1,034km S 14° W of Claveria (Masbate),034,S 14° W,Claveria (Masbate)
 2026-01-17T04:42:00.000Z,17 January 2026 - 04:42 AM,15.75,119.95,023,2.2,004km S 65° E of Santa Cruz (Zambales),004,S 65° E,Santa Cruz (Zambales)
 2026-01-17T04:33:00.000Z,17 January 2026 - 04:33 AM,17.69,120.44,031,2.1,002km N 57° E of Magsingal (Ilocos Sur),002,N 57° E,Magsingal (Ilocos Sur)
@@ -289,5 +290,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T06:48:00.000Z,10 January 2026 - 06:48 AM,08.82,126.34,002,2.4,012km S 21° E of Cagwait (Surigao Del Sur),012,S 21° E,Cagwait (Surigao Del Sur)
 2026-01-10T06:38:00.000Z,10 January 2026 - 06:38 AM,10.99,124.08,028,1.7,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
 2026-01-10T05:57:00.000Z,10 January 2026 - 05:57 AM,11.90,124.12,004,2.5,008km N 74° E of Pio V. Corpus (Masbate),008,N 74° E,Pio V. Corpus (Masbate)
-2026-01-10T05:44:00.000Z,10 January 2026 - 05:44 AM,08.58,126.42,008,2.0,026km N 21° E of Hinatuan (Surigao Del Sur),026,N 21° E,Hinatuan (Surigao Del Sur)
-2026-01-10T05:02:00.000Z,10 January 2026 - 05:02 AM,13.53,121.49,033,1.4,031km N 42° E of Naujan (Oriental Mindoro),031,N 42° E,Naujan (Oriental Mindoro)
