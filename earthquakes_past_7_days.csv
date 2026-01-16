@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T19:04:00.000Z,16 January 2026 - 07:04 PM,06.43,126.11,026,3.5,026km S 10° E of Governor Generoso (Davao Oriental),026,S 10° E,Governor Generoso (Davao Oriental)
+2026-01-16T18:48:00.000Z,16 January 2026 - 06:48 PM,06.22,126.84,024,3.0,098km S 60° E of Governor Generoso (Davao Oriental),098,S 60° E,Governor Generoso (Davao Oriental)
+2026-01-16T18:42:00.000Z,16 January 2026 - 06:42 PM,09.66,124.75,040,1.7,021km S 63° E of Anda (Bohol),021,S 63° E,Anda (Bohol)
 2026-01-16T18:33:00.000Z,16 January 2026 - 06:33 PM,13.57,120.40,105,1.4,019km N 21° W of Paluan (Occidental Mindoro),019,N 21° W,Paluan (Occidental Mindoro)
 2026-01-16T17:33:00.000Z,16 January 2026 - 05:33 PM,09.80,124.87,029,1.6,025km S 60° W of Limasawa (Southern Leyte),025,S 60° W,Limasawa (Southern Leyte)
 2026-01-16T17:02:00.000Z,16 January 2026 - 05:02 PM,09.85,126.39,001,2.2,027km N 75° E of General Luna (Surigao Del Norte),027,N 75° E,General Luna (Surigao Del Norte)
@@ -295,4 +298,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T20:24:00.000Z,09 January 2026 - 08:24 PM,13.75,120.48,214,2.6,019km S 61° W of Calatagan (Batangas),019,S 61° W,Calatagan (Batangas)
 2026-01-09T20:06:00.000Z,09 January 2026 - 08:06 PM,14.17,124.10,014,1.8,016km N 28° W of Pandan (Catanduanes),016,N 28° W,Pandan (Catanduanes)
 2026-01-09T19:04:00.000Z,09 January 2026 - 07:04 PM,09.60,126.77,014,3.6,070km S 73° E of General Luna (Surigao Del Norte),070,S 73° E,General Luna (Surigao Del Norte)
-2026-01-09T18:48:00.000Z,09 January 2026 - 06:48 PM,10.87,124.10,027,1.6,024km S 35° E of City Of Bogo (Cebu),024,S 35° E,City Of Bogo (Cebu)
