@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T04:33:00.000Z,17 January 2026 - 04:33 AM,17.69,120.44,031,2.1,002km N 57° E of Magsingal (Ilocos Sur),002,N 57° E,Magsingal (Ilocos Sur)
 2026-01-17T03:57:00.000Z,17 January 2026 - 03:57 AM,17.67,120.47,032,2.1,007km N 62° E of Santo Domingo (Ilocos Sur),007,N 62° E,Santo Domingo (Ilocos Sur)
 2026-01-17T03:48:00.000Z,17 January 2026 - 03:48 AM,11.21,124.06,041,1.5,020km N 25° E of City Of Bogo (Cebu),020,N 25° E,City Of Bogo (Cebu)
 2026-01-17T02:13:00.000Z,17 January 2026 - 02:13 AM,13.59,120.26,023,1.7,015km S 05° E of Looc (Occidental Mindoro),015,S 05° E,Looc (Occidental Mindoro)
@@ -288,5 +289,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T05:57:00.000Z,10 January 2026 - 05:57 AM,11.90,124.12,004,2.5,008km N 74° E of Pio V. Corpus (Masbate),008,N 74° E,Pio V. Corpus (Masbate)
 2026-01-10T05:44:00.000Z,10 January 2026 - 05:44 AM,08.58,126.42,008,2.0,026km N 21° E of Hinatuan (Surigao Del Sur),026,N 21° E,Hinatuan (Surigao Del Sur)
 2026-01-10T05:02:00.000Z,10 January 2026 - 05:02 AM,13.53,121.49,033,1.4,031km N 42° E of Naujan (Oriental Mindoro),031,N 42° E,Naujan (Oriental Mindoro)
-2026-01-10T04:18:00.000Z,10 January 2026 - 04:18 AM,10.72,125.15,033,1.7,016km S 78° E of Abuyog (Leyte),016,S 78° E,Abuyog (Leyte)
-2026-01-10T04:15:00.000Z,10 January 2026 - 04:15 AM,07.98,123.34,028,1.8,006km S 31° E of Midsalip (Zamboanga Del Sur),006,S 31° E,Midsalip (Zamboanga Del Sur)
