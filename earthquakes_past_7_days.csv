@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-16T21:48:00.000Z,16 January 2026 - 09:48 PM,07.88,124.51,007,2.0,017km S 64° E of Buadiposo-buntong (Lanao Del Sur),017,S 64° E,Buadiposo-buntong (Lanao Del Sur)
 2026-01-16T20:42:00.000Z,16 January 2026 - 08:42 PM,08.62,126.53,005,2.1,032km S 52° E of Marihatag (Surigao Del Sur),032,S 52° E,Marihatag (Surigao Del Sur)
 2026-01-16T19:54:00.000Z,16 January 2026 - 07:54 PM,07.41,126.56,011,3.5,009km N 01° W of Caraga (Davao Oriental),009,N 01° W,Caraga (Davao Oriental)
 2026-01-16T19:52:00.000Z,16 January 2026 - 07:52 PM,07.27,127.11,021,2.7,060km S 84° E of Caraga (Davao Oriental),060,S 84° E,Caraga (Davao Oriental)
@@ -274,7 +275,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T07:57:00.000Z,10 January 2026 - 07:57 AM,10.48,124.94,003,2.1,012km N 23° W of Sogod (Southern Leyte),012,N 23° W,Sogod (Southern Leyte)
 2026-01-10T07:44:00.000Z,10 January 2026 - 07:44 AM,06.64,126.39,029,2.4,035km S 87° E of Governor Generoso (Davao Oriental),035,S 87° E,Governor Generoso (Davao Oriental)
 2026-01-10T07:40:00.000Z,10 January 2026 - 07:40 AM,12.79,123.06,023,1.9,023km S 59° W of Claveria (Masbate),023,S 59° W,Claveria (Masbate)
-2026-01-09T21:05:00.000Z,09 January 2026 - 09:05 PM,18.72,121.53,008,2.1,022km S 50° E of Fuga Island (Aparri) (Cagayan),022,S 50° E,Fuga Island (Aparri) (Cagayan)
 2026-01-10T07:16:00.000Z,10 January 2026 - 07:16 AM,13.97,119.68,002,2.6,050km N 75° W of Lubang (Occidental Mindoro),050,N 75° W,Lubang (Occidental Mindoro)
 2026-01-10T06:48:00.000Z,10 January 2026 - 06:48 AM,08.82,126.34,002,2.4,012km S 21° E of Cagwait (Surigao Del Sur),012,S 21° E,Cagwait (Surigao Del Sur)
 2026-01-10T06:38:00.000Z,10 January 2026 - 06:38 AM,10.99,124.08,028,1.7,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
@@ -297,4 +297,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-09T22:37:00.000Z,09 January 2026 - 10:37 PM,07.36,127.04,005,2.4,058km N 74° E of Manay (Davao Oriental),058,N 74° E,Manay (Davao Oriental)
 2026-01-09T22:06:00.000Z,09 January 2026 - 10:06 PM,07.98,126.95,013,2.3,058km N 69° E of Cateel (Davao Oriental),058,N 69° E,Cateel (Davao Oriental)
 2026-01-09T21:49:00.000Z,09 January 2026 - 09:49 PM,09.57,126.63,010,3.5,057km S 65° E of General Luna (Surigao Del Norte),057,S 65° E,General Luna (Surigao Del Norte)
-2026-01-09T21:39:00.000Z,09 January 2026 - 09:39 PM,13.54,120.04,033,1.8,030km S 49° W of Looc (Occidental Mindoro),030,S 49° W,Looc (Occidental Mindoro)
