@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T06:48:00.000Z,18 January 2026 - 06:48 AM,05.26,125.37,025,2.8,018km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-18T06:44:00.000Z,18 January 2026 - 06:44 AM,16.97,120.18,024,2.1,024km N 59° W of Luna (La Union),024,N 59° W,Luna (La Union)
 2026-01-18T04:22:00.000Z,18 January 2026 - 04:22 AM,07.44,126.76,020,2.6,025km N 59° E of Caraga (Davao Oriental),025,N 59° E,Caraga (Davao Oriental)
 2026-01-18T03:50:00.000Z,18 January 2026 - 03:50 AM,13.77,120.51,088,2.7,015km S 61° W of Calatagan (Batangas),015,S 61° W,Calatagan (Batangas)
 2026-01-18T03:41:00.000Z,18 January 2026 - 03:41 AM,05.37,126.99,018,3.2,161km S 68° E of Jose Abad Santos (Davao Occidental),161,S 68° E,Jose Abad Santos (Davao Occidental)
@@ -24,6 +26,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T13:34:00.000Z,17 January 2026 - 01:34 PM,11.04,123.95,001,2.9,004km S 86° W of City Of Bogo (Cebu),004,S 86° W,City Of Bogo (Cebu)
 2026-01-17T12:05:00.000Z,17 January 2026 - 12:05 PM,09.17,126.40,022,2.2,024km N 48° E of Tago (Surigao Del Sur),024,N 48° E,Tago (Surigao Del Sur)
 2026-01-17T06:48:00.000Z,17 January 2026 - 06:48 AM,11.84,125.57,038,1.8,013km N 77° E of Sulat (Eastern Samar),013,N 77° E,Sulat (Eastern Samar)
-2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-01-17T04:42:00.000Z,17 January 2026 - 04:42 AM,15.75,119.95,023,2.2,004km S 65° E of Santa Cruz (Zambales),004,S 65° E,Santa Cruz (Zambales)
-2026-01-17T04:33:00.000Z,17 January 2026 - 04:33 AM,17.69,120.44,031,2.1,002km N 57° E of Magsingal (Ilocos Sur),002,N 57° E,Magsingal (Ilocos Sur)
