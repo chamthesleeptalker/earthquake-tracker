@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T04:22:00.000Z,18 January 2026 - 04:22 AM,07.44,126.76,020,2.6,025km N 59° E of Caraga (Davao Oriental),025,N 59° E,Caraga (Davao Oriental)
 2026-01-18T03:50:00.000Z,18 January 2026 - 03:50 AM,13.77,120.51,088,2.7,015km S 61° W of Calatagan (Batangas),015,S 61° W,Calatagan (Batangas)
 2026-01-18T03:41:00.000Z,18 January 2026 - 03:41 AM,05.37,126.99,018,3.2,161km S 68° E of Jose Abad Santos (Davao Occidental),161,S 68° E,Jose Abad Santos (Davao Occidental)
 2026-01-18T03:10:00.000Z,18 January 2026 - 03:10 AM,11.05,124.07,001,3.1,010km N 87° E of City Of Bogo (Cebu),010,N 87° E,City Of Bogo (Cebu)
@@ -267,6 +268,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T05:33:00.000Z,11 January 2026 - 05:33 AM,06.59,126.15,014,2.1,011km S 49° E of Governor Generoso (Davao Oriental),011,S 49° E,Governor Generoso (Davao Oriental)
 2026-01-11T05:02:00.000Z,11 January 2026 - 05:02 AM,15.19,120.02,007,2.0,005km N 48° W of Cabangan (Zambales),005,N 48° W,Cabangan (Zambales)
 2026-01-11T04:43:00.000Z,11 January 2026 - 04:43 AM,17.46,120.03,006,2.1,038km S 69° W of Santa Catalina (Ilocos Sur),038,S 69° W,Santa Catalina (Ilocos Sur)
-2026-01-11T04:07:00.000Z,11 January 2026 - 04:07 AM,05.23,125.61,119,2.5,029km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 46° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-11T04:08:00.000Z,11 January 2026 - 04:08 AM,08.82,123.24,034,1.6,027km N 43° W of City Of Dapitan (Zamboanga Del Norte),027,N 43° W,City Of Dapitan (Zamboanga Del Norte)
-2026-01-11T03:55:00.000Z,11 January 2026 - 03:55 AM,17.89,120.28,029,2.0,019km N 81° W of Sinait (Ilocos Sur),019,N 81° W,Sinait (Ilocos Sur)
