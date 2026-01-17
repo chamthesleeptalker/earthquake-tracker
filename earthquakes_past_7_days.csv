@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T12:05:00.000Z,17 January 2026 - 12:05 PM,09.17,126.40,022,2.2,024km N 48° E of Tago (Surigao Del Sur),024,N 48° E,Tago (Surigao Del Sur)
 2026-01-16T15:24:00.000Z,16 January 2026 - 03:24 PM,09.85,126.33,004,3.1,020km N 68° E of General Luna (Surigao Del Norte),020,N 68° E,General Luna (Surigao Del Norte)
 2026-01-17T06:48:00.000Z,17 January 2026 - 06:48 AM,11.84,125.57,038,1.8,013km N 77° E of Sulat (Eastern Samar),013,N 77° E,Sulat (Eastern Samar)
 2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
@@ -282,11 +283,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T14:26:00.000Z,10 January 2026 - 02:26 PM,08.95,126.99,001,1.8,076km N 87° E of Cagwait (Surigao Del Sur),076,N 87° E,Cagwait (Surigao Del Sur)
 2026-01-10T13:07:00.000Z,10 January 2026 - 01:07 PM,09.65,126.20,032,2.5,015km S 17° E of General Luna (Surigao Del Norte),015,S 17° E,General Luna (Surigao Del Norte)
 2026-01-10T12:08:00.000Z,10 January 2026 - 12:08 PM,13.65,120.59,098,1.8,021km S 13° W of Calatagan (Batangas),021,S 13° W,Calatagan (Batangas)
-2026-01-10T11:51:00.000Z,10 January 2026 - 11:51 AM,13.29,120.73,032,1.5,016km N 63° E of Mamburao (Occidental Mindoro),016,N 63° E,Mamburao (Occidental Mindoro)
-2026-01-10T08:06:00.000Z,10 January 2026 - 08:06 AM,08.69,126.16,014,2.0,009km S 47° W of San Agustin (Surigao Del Sur),009,S 47° W,San Agustin (Surigao Del Sur)
-2026-01-10T08:04:00.000Z,10 January 2026 - 08:04 AM,20.21,121.29,033,3.0,063km S 77° W of Sabtang (Batanes),063,S 77° W,Sabtang (Batanes)
-2026-01-10T07:57:00.000Z,10 January 2026 - 07:57 AM,10.48,124.94,003,2.1,012km N 23° W of Sogod (Southern Leyte),012,N 23° W,Sogod (Southern Leyte)
-2026-01-10T07:44:00.000Z,10 January 2026 - 07:44 AM,06.64,126.39,029,2.4,035km S 87° E of Governor Generoso (Davao Oriental),035,S 87° E,Governor Generoso (Davao Oriental)
-2026-01-10T07:40:00.000Z,10 January 2026 - 07:40 AM,12.79,123.06,023,1.9,023km S 59° W of Claveria (Masbate),023,S 59° W,Claveria (Masbate)
-2026-01-10T07:16:00.000Z,10 January 2026 - 07:16 AM,13.97,119.68,002,2.6,050km N 75° W of Lubang (Occidental Mindoro),050,N 75° W,Lubang (Occidental Mindoro)
-2026-01-10T06:48:00.000Z,10 January 2026 - 06:48 AM,08.82,126.34,002,2.4,012km S 21° E of Cagwait (Surigao Del Sur),012,S 21° E,Cagwait (Surigao Del Sur)

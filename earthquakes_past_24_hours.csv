@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T12:05:00.000Z,17 January 2026 - 12:05 PM,09.17,126.40,022,2.2,024km N 48° E of Tago (Surigao Del Sur),024,N 48° E,Tago (Surigao Del Sur)
 2026-01-16T15:24:00.000Z,16 January 2026 - 03:24 PM,09.85,126.33,004,3.1,020km N 68° E of General Luna (Surigao Del Norte),020,N 68° E,General Luna (Surigao Del Norte)
 2026-01-17T06:48:00.000Z,17 January 2026 - 06:48 AM,11.84,125.57,038,1.8,013km N 77° E of Sulat (Eastern Samar),013,N 77° E,Sulat (Eastern Samar)
 2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
@@ -28,6 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T14:31:00.000Z,16 January 2026 - 02:31 PM,07.53,126.72,026,4.0,018km S 74° E of Baganga (Davao Oriental),018,S 74° E,Baganga (Davao Oriental)
 2026-01-16T14:24:00.000Z,16 January 2026 - 02:24 PM,07.25,126.31,011,2.8,022km S 70° E of Maragusan (Davao De Oro),022,S 70° E,Maragusan (Davao De Oro)
 2026-01-16T12:51:00.000Z,16 January 2026 - 12:51 PM,13.52,120.41,030,1.4,012km N 27° W of Paluan (Occidental Mindoro),012,N 27° W,Paluan (Occidental Mindoro)
-2026-01-16T11:25:00.000Z,16 January 2026 - 11:25 AM,17.78,120.64,033,1.4,009km N 47° W of Lagayan (Abra),009,N 47° W,Lagayan (Abra)
-2026-01-16T09:49:00.000Z,16 January 2026 - 09:49 AM,12.01,121.47,015,2.0,012km N 43° W of Caluya (Antique),012,N 43° W,Caluya (Antique)
-2026-01-16T09:04:00.000Z,16 January 2026 - 09:04 AM,11.94,121.45,003,2.0,010km N 88° W of Caluya (Antique),010,N 88° W,Caluya (Antique)
