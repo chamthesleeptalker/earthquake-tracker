@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T17:10:00.000Z,17 January 2026 - 05:10 PM,16.84,120.18,026,2.8,021km S 86° W of Luna (La Union),021,S 86° W,Luna (La Union)
 2026-01-17T16:08:00.000Z,17 January 2026 - 04:08 PM,09.67,126.27,032,1.4,018km S 46° E of General Luna (Surigao Del Norte),018,S 46° E,General Luna (Surigao Del Norte)
 2026-01-17T16:03:00.000Z,17 January 2026 - 04:03 PM,13.31,123.04,001,1.5,022km S 89° W of Balatan (Camarines Sur),022,S 89° W,Balatan (Camarines Sur)
 2026-01-17T15:09:00.000Z,17 January 2026 - 03:09 PM,08.57,126.15,120,2.3,005km N 33° E of Barobo (Surigao Del Sur),005,N 33° E,Barobo (Surigao Del Sur)
@@ -27,6 +28,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T18:42:00.000Z,16 January 2026 - 06:42 PM,09.66,124.75,040,1.7,021km S 63° E of Anda (Bohol),021,S 63° E,Anda (Bohol)
 2026-01-16T18:33:00.000Z,16 January 2026 - 06:33 PM,13.57,120.40,105,1.4,019km N 21° W of Paluan (Occidental Mindoro),019,N 21° W,Paluan (Occidental Mindoro)
 2026-01-16T17:33:00.000Z,16 January 2026 - 05:33 PM,09.80,124.87,029,1.6,025km S 60° W of Limasawa (Southern Leyte),025,S 60° W,Limasawa (Southern Leyte)
-2026-01-16T17:02:00.000Z,16 January 2026 - 05:02 PM,09.85,126.39,001,2.2,027km N 75° E of General Luna (Surigao Del Norte),027,N 75° E,General Luna (Surigao Del Norte)
-2026-01-16T16:59:00.000Z,16 January 2026 - 04:59 PM,09.53,125.64,022,2.1,014km S 39° W of General Luna (Surigao Del Norte),014,S 39° W,General Luna (Surigao Del Norte)
-2026-01-16T16:31:00.000Z,16 January 2026 - 04:31 PM,08.77,123.63,005,1.8,012km N 13° E of Baliangao (Misamis Occidental),012,N 13° E,Baliangao (Misamis Occidental)
