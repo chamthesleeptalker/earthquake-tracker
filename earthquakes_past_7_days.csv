@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T03:00:00.000Z,18 January 2026 - 03:00 AM,09.36,126.07,009,2.0,010km N 76° E of Cantilan (Surigao Del Sur),010,N 76° E,Cantilan (Surigao Del Sur)
 2026-01-18T01:16:00.000Z,18 January 2026 - 01:16 AM,08.51,123.37,033,1.9,002km S 11° E of Polanco (Zamboanga Del Norte),002,S 11° E,Polanco (Zamboanga Del Norte)
 2026-01-18T01:10:00.000Z,18 January 2026 - 01:10 AM,10.75,124.93,031,1.5,005km S 04° W of Javier (Leyte),005,S 04° W,Javier (Leyte)
 2026-01-18T00:59:00.000Z,18 January 2026 - 12:59 AM,07.74,121.75,015,2.4,043km N 86° W of Siocon (Zamboanga Del Norte),043,N 86° W,Siocon (Zamboanga Del Norte)
@@ -268,10 +269,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T03:55:00.000Z,11 January 2026 - 03:55 AM,17.89,120.28,029,2.0,019km N 81° W of Sinait (Ilocos Sur),019,N 81° W,Sinait (Ilocos Sur)
 2026-01-11T03:40:00.000Z,11 January 2026 - 03:40 AM,03.72,126.96,139,3.9,253km S 42° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),253,S 42° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-11T03:11:00.000Z,11 January 2026 - 03:11 AM,13.63,120.65,016,1.7,022km N 23° W of Abra De Ilog (Occidental Mindoro),022,N 23° W,Abra De Ilog (Occidental Mindoro)
-2026-01-11T02:41:00.000Z,11 January 2026 - 02:41 AM,10.19,125.49,013,2.1,005km S 77° W of Libjo (Dinagat Islands),005,S 77° W,Libjo (Dinagat Islands)
-2026-01-11T02:31:00.000Z,11 January 2026 - 02:31 AM,09.31,122.53,053,2.0,017km S 48° W of Basay (Negros Oriental),017,S 48° W,Basay (Negros Oriental)
-2026-01-11T02:13:00.000Z,11 January 2026 - 02:13 AM,13.71,120.62,118,1.8,013km S 05° W of Calatagan (Batangas),013,S 05° W,Calatagan (Batangas)
-2026-01-11T02:13:00.000Z,11 January 2026 - 02:13 AM,12.83,123.07,010,1.9,021km S 69° W of Claveria (Masbate),021,S 69° W,Claveria (Masbate)
-2026-01-11T01:31:00.000Z,11 January 2026 - 01:31 AM,11.34,125.81,022,2.5,022km S 89° E of Hernani (Eastern Samar),022,S 89° E,Hernani (Eastern Samar)
-2026-01-11T01:19:00.000Z,11 January 2026 - 01:19 AM,11.09,124.24,033,2.0,017km N 73° W of Palompon (Leyte),017,N 73° W,Palompon (Leyte)
-2026-01-11T01:18:00.000Z,11 January 2026 - 01:18 AM,10.10,125.82,015,1.7,025km N 82° E of Basilisa (Dinagat Islands),025,N 82° E,Basilisa (Dinagat Islands)

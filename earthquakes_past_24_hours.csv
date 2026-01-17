@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T03:00:00.000Z,18 January 2026 - 03:00 AM,09.36,126.07,009,2.0,010km N 76° E of Cantilan (Surigao Del Sur),010,N 76° E,Cantilan (Surigao Del Sur)
 2026-01-18T01:16:00.000Z,18 January 2026 - 01:16 AM,08.51,123.37,033,1.9,002km S 11° E of Polanco (Zamboanga Del Norte),002,S 11° E,Polanco (Zamboanga Del Norte)
 2026-01-18T01:10:00.000Z,18 January 2026 - 01:10 AM,10.75,124.93,031,1.5,005km S 04° W of Javier (Leyte),005,S 04° W,Javier (Leyte)
 2026-01-18T00:59:00.000Z,18 January 2026 - 12:59 AM,07.74,121.75,015,2.4,043km N 86° W of Siocon (Zamboanga Del Norte),043,N 86° W,Siocon (Zamboanga Del Norte)
@@ -10,7 +11,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T20:16:00.000Z,17 January 2026 - 08:16 PM,07.10,125.48,019,2.2,026km N 85° W of Island Garden City Of Samal (Davao Del Norte),026,N 85° W,Island Garden City Of Samal (Davao Del Norte)
 2026-01-17T19:57:00.000Z,17 January 2026 - 07:57 PM,18.44,121.05,006,1.4,014km S 23° E of Santa Praxedes (Cagayan),014,S 23° E,Santa Praxedes (Cagayan)
 2026-01-17T18:50:00.000Z,17 January 2026 - 06:50 PM,13.94,119.91,002,2.8,025km N 69° W of Lubang (Occidental Mindoro),025,N 69° W,Lubang (Occidental Mindoro)
-2026-01-17T02:14:00.000Z,17 January 2026 - 02:14 AM,13.75,120.49,003,1.8,018km S 60° W of Calatagan (Batangas),018,S 60° W,Calatagan (Batangas)
 2026-01-17T17:10:00.000Z,17 January 2026 - 05:10 PM,16.84,120.18,026,2.8,021km S 86° W of Luna (La Union),021,S 86° W,Luna (La Union)
 2026-01-17T16:08:00.000Z,17 January 2026 - 04:08 PM,09.67,126.27,032,1.4,018km S 46° E of General Luna (Surigao Del Norte),018,S 46° E,General Luna (Surigao Del Norte)
 2026-01-17T16:03:00.000Z,17 January 2026 - 04:03 PM,13.31,123.04,001,1.5,022km S 89° W of Balatan (Camarines Sur),022,S 89° W,Balatan (Camarines Sur)
@@ -25,4 +25,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T04:33:00.000Z,17 January 2026 - 04:33 AM,17.69,120.44,031,2.1,002km N 57° E of Magsingal (Ilocos Sur),002,N 57° E,Magsingal (Ilocos Sur)
 2026-01-17T03:57:00.000Z,17 January 2026 - 03:57 AM,17.67,120.47,032,2.1,007km N 62° E of Santo Domingo (Ilocos Sur),007,N 62° E,Santo Domingo (Ilocos Sur)
 2026-01-17T03:48:00.000Z,17 January 2026 - 03:48 AM,11.21,124.06,041,1.5,020km N 25° E of City Of Bogo (Cebu),020,N 25° E,City Of Bogo (Cebu)
-2026-01-17T02:13:00.000Z,17 January 2026 - 02:13 AM,13.59,120.26,023,1.7,015km S 05° E of Looc (Occidental Mindoro),015,S 05° E,Looc (Occidental Mindoro)
