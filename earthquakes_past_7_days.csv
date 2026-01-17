@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T00:59:00.000Z,18 January 2026 - 12:59 AM,07.74,121.75,015,2.4,043km N 86° W of Siocon (Zamboanga Del Norte),043,N 86° W,Siocon (Zamboanga Del Norte)
 2026-01-17T23:58:00.000Z,17 January 2026 - 11:58 PM,18.53,120.73,022,2.2,004km S 78° W of Bangui (Ilocos Norte),004,S 78° W,Bangui (Ilocos Norte)
 2026-01-17T22:57:00.000Z,17 January 2026 - 10:57 PM,10.62,122.37,033,1.7,006km S 02° W of Tigbauan (Iloilo),006,S 02° W,Tigbauan (Iloilo)
 2026-01-17T21:40:00.000Z,17 January 2026 - 09:40 PM,05.56,125.10,040,2.4,031km S 22° W of Glan (Sarangani),031,S 22° W,Glan (Sarangani)
@@ -273,4 +274,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T01:19:00.000Z,11 January 2026 - 01:19 AM,11.09,124.24,033,2.0,017km N 73° W of Palompon (Leyte),017,N 73° W,Palompon (Leyte)
 2026-01-11T01:18:00.000Z,11 January 2026 - 01:18 AM,10.10,125.82,015,1.7,025km N 82° E of Basilisa (Dinagat Islands),025,N 82° E,Basilisa (Dinagat Islands)
 2026-01-11T01:14:00.000Z,11 January 2026 - 01:14 AM,07.74,127.12,008,2.7,065km N 74° E of Baganga (Davao Oriental),065,N 74° E,Baganga (Davao Oriental)
-2026-01-11T00:47:00.000Z,11 January 2026 - 12:47 AM,13.59,121.46,009,1.8,027km S 15° E of San Juan (Batangas),027,S 15° E,San Juan (Batangas)
