@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T20:16:00.000Z,17 January 2026 - 08:16 PM,07.10,125.48,019,2.2,026km N 85° W of Island Garden City Of Samal (Davao Del Norte),026,N 85° W,Island Garden City Of Samal (Davao Del Norte)
+2026-01-17T19:57:00.000Z,17 January 2026 - 07:57 PM,18.44,121.05,006,1.4,014km S 23° E of Santa Praxedes (Cagayan),014,S 23° E,Santa Praxedes (Cagayan)
 2026-01-17T18:50:00.000Z,17 January 2026 - 06:50 PM,13.94,119.91,002,2.8,025km N 69° W of Lubang (Occidental Mindoro),025,N 69° W,Lubang (Occidental Mindoro)
 2026-01-17T02:14:00.000Z,17 January 2026 - 02:14 AM,13.75,120.49,003,1.8,018km S 60° W of Calatagan (Batangas),018,S 60° W,Calatagan (Batangas)
 2026-01-17T17:10:00.000Z,17 January 2026 - 05:10 PM,16.84,120.18,026,2.8,021km S 86° W of Luna (La Union),021,S 86° W,Luna (La Union)
@@ -278,9 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T22:18:00.000Z,10 January 2026 - 10:18 PM,13.71,120.65,111,1.8,013km S 07° E of Calatagan (Batangas),013,S 07° E,Calatagan (Batangas)
 2026-01-10T21:23:00.000Z,10 January 2026 - 09:23 PM,07.17,126.87,032,2.1,037km S 84° E of Manay (Davao Oriental),037,S 84° E,Manay (Davao Oriental)
 2026-01-10T20:29:00.000Z,10 January 2026 - 08:29 PM,10.46,124.45,034,1.6,019km S 16° E of Poro (Cebu),019,S 16° E,Poro (Cebu)
-2026-01-10T20:11:00.000Z,10 January 2026 - 08:11 PM,08.80,126.41,034,1.5,013km S 89° E of Marihatag (Surigao Del Sur),013,S 89° E,Marihatag (Surigao Del Sur)
-2026-01-10T20:10:00.000Z,10 January 2026 - 08:10 PM,08.76,126.35,028,1.5,008km S 52° E of Marihatag (Surigao Del Sur),008,S 52° E,Marihatag (Surigao Del Sur)
-2026-01-10T20:09:00.000Z,10 January 2026 - 08:09 PM,08.74,126.26,011,2.0,004km S 80° E of San Agustin (Surigao Del Sur),004,S 80° E,San Agustin (Surigao Del Sur)
-2026-01-10T20:06:00.000Z,10 January 2026 - 08:06 PM,08.73,126.22,010,2.3,001km S 18° W of San Agustin (Surigao Del Sur),001,S 18° W,San Agustin (Surigao Del Sur)
-2026-01-10T19:09:00.000Z,10 January 2026 - 07:09 PM,10.39,125.86,026,2.1,031km N 84° E of Loreto (Dinagat Islands),031,N 84° E,Loreto (Dinagat Islands)
-2026-01-10T19:04:00.000Z,10 January 2026 - 07:04 PM,07.26,127.06,010,2.5,058km N 84° E of Manay (Davao Oriental),058,N 84° E,Manay (Davao Oriental)
