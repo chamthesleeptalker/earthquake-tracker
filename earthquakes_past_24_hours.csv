@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T03:50:00.000Z,18 January 2026 - 03:50 AM,13.77,120.51,088,2.7,015km S 61° W of Calatagan (Batangas),015,S 61° W,Calatagan (Batangas)
+2026-01-18T03:41:00.000Z,18 January 2026 - 03:41 AM,05.37,126.99,018,3.2,161km S 68° E of Jose Abad Santos (Davao Occidental),161,S 68° E,Jose Abad Santos (Davao Occidental)
 2026-01-18T03:10:00.000Z,18 January 2026 - 03:10 AM,11.05,124.07,001,3.1,010km N 87° E of City Of Bogo (Cebu),010,N 87° E,City Of Bogo (Cebu)
 2026-01-18T03:00:00.000Z,18 January 2026 - 03:00 AM,09.36,126.07,009,2.0,010km N 76° E of Cantilan (Surigao Del Sur),010,N 76° E,Cantilan (Surigao Del Sur)
 2026-01-18T01:16:00.000Z,18 January 2026 - 01:16 AM,08.51,123.37,033,1.9,002km S 11° E of Polanco (Zamboanga Del Norte),002,S 11° E,Polanco (Zamboanga Del Norte)
@@ -25,4 +27,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T04:42:00.000Z,17 January 2026 - 04:42 AM,15.75,119.95,023,2.2,004km S 65° E of Santa Cruz (Zambales),004,S 65° E,Santa Cruz (Zambales)
 2026-01-17T04:33:00.000Z,17 January 2026 - 04:33 AM,17.69,120.44,031,2.1,002km N 57° E of Magsingal (Ilocos Sur),002,N 57° E,Magsingal (Ilocos Sur)
 2026-01-17T03:57:00.000Z,17 January 2026 - 03:57 AM,17.67,120.47,032,2.1,007km N 62° E of Santo Domingo (Ilocos Sur),007,N 62° E,Santo Domingo (Ilocos Sur)
-2026-01-17T03:48:00.000Z,17 January 2026 - 03:48 AM,11.21,124.06,041,1.5,020km N 25° E of City Of Bogo (Cebu),020,N 25° E,City Of Bogo (Cebu)
