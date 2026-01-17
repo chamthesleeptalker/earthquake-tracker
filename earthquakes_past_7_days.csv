@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-17T18:50:00.000Z,17 January 2026 - 06:50 PM,13.94,119.91,002,2.8,025km N 69° W of Lubang (Occidental Mindoro),025,N 69° W,Lubang (Occidental Mindoro)
+2026-01-17T02:14:00.000Z,17 January 2026 - 02:14 AM,13.75,120.49,003,1.8,018km S 60° W of Calatagan (Batangas),018,S 60° W,Calatagan (Batangas)
 2026-01-17T17:10:00.000Z,17 January 2026 - 05:10 PM,16.84,120.18,026,2.8,021km S 86° W of Luna (La Union),021,S 86° W,Luna (La Union)
 2026-01-17T16:08:00.000Z,17 January 2026 - 04:08 PM,09.67,126.27,032,1.4,018km S 46° E of General Luna (Surigao Del Norte),018,S 46° E,General Luna (Surigao Del Norte)
 2026-01-17T16:03:00.000Z,17 January 2026 - 04:03 PM,13.31,123.04,001,1.5,022km S 89° W of Balatan (Camarines Sur),022,S 89° W,Balatan (Camarines Sur)
@@ -282,6 +284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-10T20:06:00.000Z,10 January 2026 - 08:06 PM,08.73,126.22,010,2.3,001km S 18° W of San Agustin (Surigao Del Sur),001,S 18° W,San Agustin (Surigao Del Sur)
 2026-01-10T19:09:00.000Z,10 January 2026 - 07:09 PM,10.39,125.86,026,2.1,031km N 84° E of Loreto (Dinagat Islands),031,N 84° E,Loreto (Dinagat Islands)
 2026-01-10T19:04:00.000Z,10 January 2026 - 07:04 PM,07.26,127.06,010,2.5,058km N 84° E of Manay (Davao Oriental),058,N 84° E,Manay (Davao Oriental)
-2026-01-10T18:45:00.000Z,10 January 2026 - 06:45 PM,07.79,126.60,040,1.6,016km N 90° E of Cateel (Davao Oriental),016,N 90° E,Cateel (Davao Oriental)
-2026-01-10T17:58:00.000Z,10 January 2026 - 05:58 PM,17.81,120.93,002,2.0,015km N 52° E of Tineg (Abra),015,N 52° E,Tineg (Abra)
-2026-01-10T17:49:00.000Z,10 January 2026 - 05:49 PM,07.24,127.07,010,3.0,058km N 87° E of Manay (Davao Oriental),058,N 87° E,Manay (Davao Oriental)
