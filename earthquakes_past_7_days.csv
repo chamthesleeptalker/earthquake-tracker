@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T05:54:00.000Z,19 January 2026 - 05:54 AM,03.62,126.38,096,3.6,226km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),226,S 28° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-19T04:52:00.000Z,19 January 2026 - 04:52 AM,10.34,125.14,001,2.7,007km N 02° E of Saint Bernard (Southern Leyte),007,N 02° E,Saint Bernard (Southern Leyte)
 2026-01-19T04:20:00.000Z,19 January 2026 - 04:20 AM,16.93,120.43,034,2.3,002km N 87° W of Tagudin (Ilocos Sur),002,N 87° W,Tagudin (Ilocos Sur)
 2026-01-19T04:19:00.000Z,19 January 2026 - 04:19 AM,15.64,121.85,042,1.6,033km S 67° E of Baler (Aurora),033,S 67° E,Baler (Aurora)
@@ -276,5 +277,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-12T07:20:00.000Z,12 January 2026 - 07:20 AM,11.12,123.98,008,2.5,008km North of City Of Bogo (Cebu),008,North of City,Bogo (Cebu)
 2026-01-12T07:05:00.000Z,12 January 2026 - 07:05 AM,11.06,124.23,033,1.8,028km N 87° E of City Of Bogo (Cebu),028,N 87° E,City Of Bogo (Cebu)
 2026-01-12T06:23:00.000Z,12 January 2026 - 06:23 AM,09.18,122.40,023,3.4,037km S 46° W of Basay (Negros Oriental),037,S 46° W,Basay (Negros Oriental)
-2026-01-12T05:45:00.000Z,12 January 2026 - 05:45 AM,13.86,120.54,132,1.9,011km N 76° W of Calatagan (Batangas),011,N 76° W,Calatagan (Batangas)
-2026-01-12T05:02:00.000Z,12 January 2026 - 05:02 AM,17.62,120.71,003,1.7,002km S 72° W of Lagangilang (Abra),002,S 72° W,Lagangilang (Abra)
