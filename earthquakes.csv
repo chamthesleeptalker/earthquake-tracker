@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T19:28:00.000Z,18 January 2026 - 07:28 PM,13.68,120.61,102,1.8,017km S 07° W of Calatagan (Batangas),017,S 07° W,Calatagan (Batangas)
 2026-01-18T17:58:00.000Z,18 January 2026 - 05:58 PM,13.62,120.36,039,3.1,016km S 47° E of Looc (Occidental Mindoro),016,S 47° E,Looc (Occidental Mindoro)
 2026-01-18T17:47:00.000Z,18 January 2026 - 05:47 PM,09.62,124.02,033,1.6,002km N 16° E of Loay (Bohol),002,N 16° E,Loay (Bohol)
 2026-01-18T16:02:00.000Z,18 January 2026 - 04:02 PM,09.98,126.08,032,1.8,004km S 11° E of Burgos (Surigao Del Norte),004,S 11° E,Burgos (Surigao Del Norte)
