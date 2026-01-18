@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T14:57:00.000Z,18 January 2026 - 02:57 PM,12.01,121.45,022,1.5,013km N 52° W of Caluya (Antique),013,N 52° W,Caluya (Antique)
+2026-01-18T14:50:00.000Z,18 January 2026 - 02:50 PM,06.43,123.71,001,2.8,040km S 70° W of Kalamansig (Sultan Kudarat),040,S 70° W,Kalamansig (Sultan Kudarat)
 2026-01-18T13:53:00.000Z,18 January 2026 - 01:53 PM,12.48,124.77,009,2.0,005km S 23° E of Mondragon (Northern Samar),005,S 23° E,Mondragon (Northern Samar)
 2026-01-18T13:01:00.000Z,18 January 2026 - 01:01 PM,08.66,126.45,023,2.5,023km S 47° E of Marihatag (Surigao Del Sur),023,S 47° E,Marihatag (Surigao Del Sur)
 2026-01-18T11:55:00.000Z,18 January 2026 - 11:55 AM,06.42,123.74,010,4.5,037km S 66° W of Kalamansig (Sultan Kudarat),037,S 66° W,Kalamansig (Sultan Kudarat)
@@ -265,4 +267,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T18:40:00.000Z,11 January 2026 - 06:40 PM,10.36,125.57,010,1.8,002km N 70° W of Loreto (Dinagat Islands),002,N 70° W,Loreto (Dinagat Islands)
 2026-01-11T17:14:00.000Z,11 January 2026 - 05:14 PM,16.85,119.97,010,3.5,043km S 89° W of Luna (La Union),043,S 89° W,Luna (La Union)
 2026-01-11T15:29:00.000Z,11 January 2026 - 03:29 PM,10.62,122.23,010,3.3,002km S 13° W of Miagao (Iloilo),002,S 13° W,Miagao (Iloilo)
-2026-01-11T14:34:00.000Z,11 January 2026 - 02:34 PM,13.71,120.78,089,1.5,028km N 89° W of Nasugbu (Batangas),028,N 89° W,Nasugbu (Batangas)
