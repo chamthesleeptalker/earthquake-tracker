@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T11:55:00.000Z,18 January 2026 - 11:55 AM,06.42,123.74,010,4.5,037km S 66° W of Kalamansig (Sultan Kudarat),037,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-18T10:16:00.000Z,18 January 2026 - 10:16 AM,08.18,127.27,020,2.1,095km N 81° E of Lingig (Surigao Del Sur),095,N 81° E,Lingig (Surigao Del Sur)
 2026-01-18T09:24:00.000Z,18 January 2026 - 09:24 AM,10.54,123.05,031,1.4,007km S 07° E of Murcia (Negros Occidental),007,S 07° E,Murcia (Negros Occidental)
 2026-01-18T09:18:00.000Z,18 January 2026 - 09:18 AM,07.71,126.01,035,1.6,002km N 85° E of Montevista (Davao De Oro),002,N 85° E,Montevista (Davao De Oro)
@@ -264,6 +265,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-11T15:29:00.000Z,11 January 2026 - 03:29 PM,10.62,122.23,010,3.3,002km S 13° W of Miagao (Iloilo),002,S 13° W,Miagao (Iloilo)
 2026-01-11T14:34:00.000Z,11 January 2026 - 02:34 PM,13.71,120.78,089,1.5,028km N 89° W of Nasugbu (Batangas),028,N 89° W,Nasugbu (Batangas)
 2026-01-11T13:48:00.000Z,11 January 2026 - 01:48 PM,10.24,126.18,002,2.0,025km N 22° E of Burgos (Surigao Del Norte),025,N 22° E,Burgos (Surigao Del Norte)
-2026-01-11T11:46:00.000Z,11 January 2026 - 11:46 AM,13.68,124.17,023,1.5,012km N 39° E of San Andres (Catanduanes),012,N 39° E,San Andres (Catanduanes)
-2026-01-11T11:21:00.000Z,11 January 2026 - 11:21 AM,12.52,123.57,006,3.1,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
-2026-01-11T10:39:00.000Z,11 January 2026 - 10:39 AM,17.61,121.33,007,3.6,009km S 86° W of Pinukpuk (Kalinga),009,S 86° W,Pinukpuk (Kalinga)
