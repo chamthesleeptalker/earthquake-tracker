@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T00:18:00.000Z,19 January 2026 - 12:18 AM,10.20,122.10,018,2.3,031km S 36° E of Anini-Y (Antique),031,S 36° E,Anini-Y (Antique)
+2026-01-19T00:07:00.000Z,19 January 2026 - 12:07 AM,07.10,127.00,023,2.8,052km S 77° E of Manay (Davao Oriental),052,S 77° E,Manay (Davao Oriental)
+2026-01-19T00:01:00.000Z,19 January 2026 - 12:01 AM,07.10,127.03,013,3.3,056km S 77° E of Manay (Davao Oriental),056,S 77° E,Manay (Davao Oriental)
+2026-01-18T23:47:00.000Z,18 January 2026 - 11:47 PM,03.86,126.39,034,3.8,203km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),203,S 32° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-18T23:18:00.000Z,18 January 2026 - 11:18 PM,04.19,126.33,052,4.0,169km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),169,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-18T23:01:00.000Z,18 January 2026 - 11:01 PM,07.96,126.69,026,1.8,032km N 55° E of Cateel (Davao Oriental),032,N 55° E,Cateel (Davao Oriental)
 2026-01-18T22:54:00.000Z,18 January 2026 - 10:54 PM,06.54,123.84,006,2.3,023km S 86° W of Kalamansig (Sultan Kudarat),023,S 86° W,Kalamansig (Sultan Kudarat)
@@ -275,5 +279,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-12T01:07:00.000Z,12 January 2026 - 01:07 AM,07.21,127.05,006,2.6,055km S 76° E of Caraga (Davao Oriental),055,S 76° E,Caraga (Davao Oriental)
 2026-01-12T00:30:00.000Z,12 January 2026 - 12:30 AM,10.99,123.78,030,1.8,018km S 06° W of Santa Fe (Cebu),018,S 06° W,Santa Fe (Cebu)
 2026-01-12T00:29:00.000Z,12 January 2026 - 12:29 AM,09.95,122.51,017,2.4,013km S 79° W of Cauayan (Negros Occidental),013,S 79° W,Cauayan (Negros Occidental)
-2026-01-11T23:56:00.000Z,11 January 2026 - 11:56 PM,13.55,120.56,041,2.0,018km N 35° E of Paluan (Occidental Mindoro),018,N 35° E,Paluan (Occidental Mindoro)
-2026-01-11T23:37:00.000Z,11 January 2026 - 11:37 PM,09.13,126.18,106,3.1,006km N 15° E of City Of Tandag (Surigao Del Sur),006,N 15° E,City Of Tandag (Surigao Del Sur)
