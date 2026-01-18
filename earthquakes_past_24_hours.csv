@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T22:11:00.000Z,18 January 2026 - 10:11 PM,15.45,121.95,008,3.4,054km S 51° E of Baler (Aurora),054,S 51° E,Baler (Aurora)
 2026-01-18T20:34:00.000Z,18 January 2026 - 08:34 PM,14.67,122.65,010,2.2,034km S 85° E of Jomalig (Quezon),034,S 85° E,Jomalig (Quezon)
 2026-01-18T20:20:00.000Z,18 January 2026 - 08:20 PM,12.50,120.65,009,1.4,033km S 76° W of Calintaan (Occidental Mindoro),033,S 76° W,Calintaan (Occidental Mindoro)
 2026-01-18T20:19:00.000Z,18 January 2026 - 08:19 PM,08.91,126.67,001,2.2,041km S 89° E of Cagwait (Surigao Del Sur),041,S 89° E,Cagwait (Surigao Del Sur)
@@ -33,6 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T00:59:00.000Z,18 January 2026 - 12:59 AM,07.74,121.75,015,2.4,043km N 86° W of Siocon (Zamboanga Del Norte),043,N 86° W,Siocon (Zamboanga Del Norte)
 2026-01-17T23:58:00.000Z,17 January 2026 - 11:58 PM,18.53,120.73,022,2.2,004km S 78° W of Bangui (Ilocos Norte),004,S 78° W,Bangui (Ilocos Norte)
 2026-01-17T22:57:00.000Z,17 January 2026 - 10:57 PM,10.62,122.37,033,1.7,006km S 02° W of Tigbauan (Iloilo),006,S 02° W,Tigbauan (Iloilo)
-2026-01-17T21:40:00.000Z,17 January 2026 - 09:40 PM,05.56,125.10,040,2.4,031km S 22° W of Glan (Sarangani),031,S 22° W,Glan (Sarangani)
-2026-01-17T21:29:00.000Z,17 January 2026 - 09:29 PM,06.44,126.57,028,2.6,060km S 67° E of Governor Generoso (Davao Oriental),060,S 67° E,Governor Generoso (Davao Oriental)
-2026-01-17T20:39:00.000Z,17 January 2026 - 08:39 PM,13.77,120.93,143,2.0,002km N 35° W of Mabini (Batangas),002,N 35° W,Mabini (Batangas)
