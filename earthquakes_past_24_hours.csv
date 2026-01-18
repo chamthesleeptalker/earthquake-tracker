@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T01:08:00.000Z,19 January 2026 - 01:08 AM,08.47,126.72,004,2.4,044km N 75° E of Hinatuan (Surigao Del Sur),044,N 75° E,Hinatuan (Surigao Del Sur)
+2026-01-19T00:41:00.000Z,19 January 2026 - 12:41 AM,13.57,121.03,009,1.4,006km N 46° W of Verde Island (Batangas City) (Batangas),006,N 46° W,Verde Island (Batangas City) (Batangas)
 2026-01-19T00:33:00.000Z,19 January 2026 - 12:33 AM,09.27,126.93,003,2.4,078km N 65° E of Bayabas (Surigao Del Sur),078,N 65° E,Bayabas (Surigao Del Sur)
 2026-01-19T00:18:00.000Z,19 January 2026 - 12:18 AM,10.20,122.10,018,2.3,031km S 36° E of Anini-Y (Antique),031,S 36° E,Anini-Y (Antique)
 2026-01-19T00:07:00.000Z,19 January 2026 - 12:07 AM,07.10,127.00,023,2.8,052km S 77° E of Manay (Davao Oriental),052,S 77° E,Manay (Davao Oriental)
@@ -40,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T03:00:00.000Z,18 January 2026 - 03:00 AM,09.36,126.07,009,2.0,010km N 76° E of Cantilan (Surigao Del Sur),010,N 76° E,Cantilan (Surigao Del Sur)
 2026-01-18T01:16:00.000Z,18 January 2026 - 01:16 AM,08.51,123.37,033,1.9,002km S 11° E of Polanco (Zamboanga Del Norte),002,S 11° E,Polanco (Zamboanga Del Norte)
 2026-01-18T01:10:00.000Z,18 January 2026 - 01:10 AM,10.75,124.93,031,1.5,005km S 04° W of Javier (Leyte),005,S 04° W,Javier (Leyte)
-2026-01-18T00:59:00.000Z,18 January 2026 - 12:59 AM,07.74,121.75,015,2.4,043km N 86° W of Siocon (Zamboanga Del Norte),043,N 86° W,Siocon (Zamboanga Del Norte)

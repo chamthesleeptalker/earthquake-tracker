@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T01:08:00.000Z,19 January 2026 - 01:08 AM,08.47,126.72,004,2.4,044km N 75° E of Hinatuan (Surigao Del Sur),044,N 75° E,Hinatuan (Surigao Del Sur)
+2026-01-19T00:41:00.000Z,19 January 2026 - 12:41 AM,13.57,121.03,009,1.4,006km N 46° W of Verde Island (Batangas City) (Batangas),006,N 46° W,Verde Island (Batangas City) (Batangas)
 2026-01-19T00:33:00.000Z,19 January 2026 - 12:33 AM,09.27,126.93,003,2.4,078km N 65° E of Bayabas (Surigao Del Sur),078,N 65° E,Bayabas (Surigao Del Sur)
 2026-01-19T00:18:00.000Z,19 January 2026 - 12:18 AM,10.20,122.10,018,2.3,031km S 36° E of Anini-Y (Antique),031,S 36° E,Anini-Y (Antique)
 2026-01-19T00:07:00.000Z,19 January 2026 - 12:07 AM,07.10,127.00,023,2.8,052km S 77° E of Manay (Davao Oriental),052,S 77° E,Manay (Davao Oriental)
@@ -276,4 +278,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-12T01:31:00.000Z,12 January 2026 - 01:31 AM,07.22,126.42,035,2.1,013km N 87° W of Manay (Davao Oriental),013,N 87° W,Manay (Davao Oriental)
 2026-01-12T01:28:00.000Z,12 January 2026 - 01:28 AM,07.22,126.35,010,4.6,020km N 87° W of Manay (Davao Oriental),020,N 87° W,Manay (Davao Oriental)
 2026-01-12T01:12:00.000Z,12 January 2026 - 01:12 AM,17.79,120.67,002,3.1,008km N 30° W of Lagayan (Abra),008,N 30° W,Lagayan (Abra)
-2026-01-12T01:07:00.000Z,12 January 2026 - 01:07 AM,07.21,127.05,006,2.6,055km S 76° E of Caraga (Davao Oriental),055,S 76° E,Caraga (Davao Oriental)
