@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-18T15:31:00.000Z,18 January 2026 - 03:31 PM,07.84,126.33,007,1.4,006km S 55° W of Boston (Davao Oriental),006,S 55° W,Boston (Davao Oriental)
+2026-01-18T15:25:00.000Z,18 January 2026 - 03:25 PM,13.77,120.59,092,1.5,008km S 34° W of Calatagan (Batangas),008,S 34° W,Calatagan (Batangas)
 2026-01-18T14:57:00.000Z,18 January 2026 - 02:57 PM,12.01,121.45,022,1.5,013km N 52° W of Caluya (Antique),013,N 52° W,Caluya (Antique)
 2026-01-18T14:50:00.000Z,18 January 2026 - 02:50 PM,06.43,123.71,001,2.8,040km S 70° W of Kalamansig (Sultan Kudarat),040,S 70° W,Kalamansig (Sultan Kudarat)
 2026-01-18T13:53:00.000Z,18 January 2026 - 01:53 PM,12.48,124.77,009,2.0,005km S 23° E of Mondragon (Northern Samar),005,S 23° E,Mondragon (Northern Samar)
