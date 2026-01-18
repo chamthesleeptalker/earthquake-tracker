@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T03:59:00.000Z,19 January 2026 - 03:59 AM,11.28,124.25,027,1.6,014km S 78° W of Tabango (Leyte),014,S 78° W,Tabango (Leyte)
+2026-01-19T03:41:00.000Z,19 January 2026 - 03:41 AM,12.06,121.48,033,1.8,016km N 27° W of Caluya (Antique),016,N 27° W,Caluya (Antique)
 2026-01-19T03:03:00.000Z,19 January 2026 - 03:03 AM,15.74,119.71,037,2.9,021km S 83° W of Santa Cruz (Zambales),021,S 83° W,Santa Cruz (Zambales)
 2026-01-19T02:54:00.000Z,19 January 2026 - 02:54 AM,18.04,120.76,030,1.2,006km S 15° W of Solsona (Ilocos Norte),006,S 15° W,Solsona (Ilocos Norte)
 2026-01-19T01:53:00.000Z,19 January 2026 - 01:53 AM,16.50,120.05,050,2.4,020km N 53° E of Bolinao (Pangasinan),020,N 53° E,Bolinao (Pangasinan)
@@ -275,5 +277,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-12T05:02:00.000Z,12 January 2026 - 05:02 AM,17.62,120.71,003,1.7,002km S 72° W of Lagangilang (Abra),002,S 72° W,Lagangilang (Abra)
 2026-01-12T04:10:00.000Z,12 January 2026 - 04:10 AM,11.24,124.24,012,3.0,016km S 60° W of Tabango (Leyte),016,S 60° W,Tabango (Leyte)
 2026-01-12T04:09:00.000Z,12 January 2026 - 04:09 AM,03.18,127.28,205,4.3,320km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),320,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-12T03:29:00.000Z,12 January 2026 - 03:29 AM,07.43,126.60,004,2.4,012km N 18° E of Caraga (Davao Oriental),012,N 18° E,Caraga (Davao Oriental)
-2026-01-12T03:07:00.000Z,12 January 2026 - 03:07 AM,11.23,124.22,006,2.5,018km S 63° W of Tabango (Leyte),018,S 63° W,Tabango (Leyte)

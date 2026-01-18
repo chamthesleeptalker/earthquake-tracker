@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T03:59:00.000Z,19 January 2026 - 03:59 AM,11.28,124.25,027,1.6,014km S 78° W of Tabango (Leyte),014,S 78° W,Tabango (Leyte)
+2026-01-19T03:41:00.000Z,19 January 2026 - 03:41 AM,12.06,121.48,033,1.8,016km N 27° W of Caluya (Antique),016,N 27° W,Caluya (Antique)
 2026-01-19T03:03:00.000Z,19 January 2026 - 03:03 AM,15.74,119.71,037,2.9,021km S 83° W of Santa Cruz (Zambales),021,S 83° W,Santa Cruz (Zambales)
 2026-01-19T02:54:00.000Z,19 January 2026 - 02:54 AM,18.04,120.76,030,1.2,006km S 15° W of Solsona (Ilocos Norte),006,S 15° W,Solsona (Ilocos Norte)
 2026-01-19T01:53:00.000Z,19 January 2026 - 01:53 AM,16.50,120.05,050,2.4,020km N 53° E of Bolinao (Pangasinan),020,N 53° E,Bolinao (Pangasinan)
