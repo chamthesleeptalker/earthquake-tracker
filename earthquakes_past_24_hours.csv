@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T15:16:00.000Z,19 January 2026 - 03:16 PM,09.24,125.68,030,2.5,013km S 80° E of Santiago (Agusan Del Norte),013,S 80° E,Santiago (Agusan Del Norte)
 2026-01-19T14:15:00.000Z,19 January 2026 - 02:15 PM,09.16,123.14,032,1.5,009km N 44° W of Zamboanguita (Negros Oriental),009,N 44° W,Zamboanguita (Negros Oriental)
 2026-01-19T01:57:00.000Z,19 January 2026 - 01:57 AM,18.26,121.07,018,2.4,003km N 70° E of Calanasan (Apayao),003,N 70° E,Calanasan (Apayao)
 2026-01-19T13:38:00.000Z,19 January 2026 - 01:38 PM,09.27,123.20,010,3.7,004km S 76° W of Valencia (Negros Oriental),004,S 76° W,Valencia (Negros Oriental)
@@ -54,5 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T15:52:00.000Z,18 January 2026 - 03:52 PM,10.46,125.35,025,1.5,016km N 41° E of Hinundayan (Southern Leyte),016,N 41° E,Hinundayan (Southern Leyte)
 2026-01-18T15:31:00.000Z,18 January 2026 - 03:31 PM,07.84,126.33,007,1.4,006km S 55° W of Boston (Davao Oriental),006,S 55° W,Boston (Davao Oriental)
 2026-01-18T15:25:00.000Z,18 January 2026 - 03:25 PM,13.77,120.59,092,1.5,008km S 34° W of Calatagan (Batangas),008,S 34° W,Calatagan (Batangas)
-2026-01-18T14:57:00.000Z,18 January 2026 - 02:57 PM,12.01,121.45,022,1.5,013km N 52° W of Caluya (Antique),013,N 52° W,Caluya (Antique)
-2026-01-18T14:50:00.000Z,18 January 2026 - 02:50 PM,06.43,123.71,001,2.8,040km S 70° W of Kalamansig (Sultan Kudarat),040,S 70° W,Kalamansig (Sultan Kudarat)
