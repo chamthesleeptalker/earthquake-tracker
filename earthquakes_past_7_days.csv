@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T23:11:00.000Z,19 January 2026 - 11:11 PM,06.39,123.68,001,2.8,045km S 66° W of Kalamansig (Sultan Kudarat),045,S 66° W,Kalamansig (Sultan Kudarat)
+2026-01-19T22:52:00.000Z,19 January 2026 - 10:52 PM,06.39,123.69,001,2.6,044km S 65° W of Kalamansig (Sultan Kudarat),044,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-19T22:37:00.000Z,19 January 2026 - 10:37 PM,11.76,125.23,046,2.0,019km N 69° E of Hinabangan (Samar),019,N 69° E,Hinabangan (Samar)
 2026-01-19T22:18:00.000Z,19 January 2026 - 10:18 PM,05.38,124.98,180,2.4,049km S 86° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),049,S 86° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-19T01:07:00.000Z,19 January 2026 - 01:07 AM,08.49,126.80,004,2.5,052km N 75° E of Hinatuan (Surigao Del Sur),052,N 75° E,Hinatuan (Surigao Del Sur)
@@ -279,7 +281,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T00:35:00.000Z,13 January 2026 - 12:35 AM,10.15,122.33,011,2.6,038km N 58° W of Cauayan (Negros Occidental),038,N 58° W,Cauayan (Negros Occidental)
 2026-01-13T00:28:00.000Z,13 January 2026 - 12:28 AM,06.23,125.45,022,1.7,022km N 53° E of Alabel (Sarangani),022,N 53° E,Alabel (Sarangani)
 2026-01-12T23:45:00.000Z,12 January 2026 - 11:45 PM,06.57,127.15,003,3.0,095km S 55° E of Tarragona (Davao Oriental),095,S 55° E,Tarragona (Davao Oriental)
-2026-01-12T23:10:00.000Z,12 January 2026 - 11:10 PM,18.05,120.88,022,2.8,012km S 33° E of Carasi (Ilocos Norte),012,S 33° E,Carasi (Ilocos Norte)
-2026-01-12T23:03:00.000Z,12 January 2026 - 11:03 PM,10.93,123.94,005,3.0,014km S 19° W of City Of Bogo (Cebu),014,S 19° W,City Of Bogo (Cebu)
-2026-01-12T22:57:00.000Z,12 January 2026 - 10:57 PM,12.83,123.57,002,2.6,009km S 15° W of Donsol (Sorsogon),009,S 15° W,Donsol (Sorsogon)
-2026-01-12T22:48:00.000Z,12 January 2026 - 10:48 PM,07.85,124.68,006,2.4,007km N 07° W of Amai Manabilang (Lanao Del Sur),007,N 07° W,Amai Manabilang (Lanao Del Sur)
