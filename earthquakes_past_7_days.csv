@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T05:01:00.000Z,20 January 2026 - 05:01 AM,10.48,124.88,017,2.1,015km N 44° W of Sogod (Southern Leyte),015,N 44° W,Sogod (Southern Leyte)
+2026-01-20T05:07:00.000Z,20 January 2026 - 05:07 AM,06.38,123.72,004,2.6,042km S 62° W of Kalamansig (Sultan Kudarat),042,S 62° W,Kalamansig (Sultan Kudarat)
 2026-01-20T05:02:00.000Z,20 January 2026 - 05:02 AM,09.68,126.14,027,2.7,012km S 07° W of General Luna (Surigao Del Norte),012,S 07° W,General Luna (Surigao Del Norte)
 2026-01-20T04:56:00.000Z,20 January 2026 - 04:56 AM,10.09,126.11,066,2.3,009km N 30° E of Burgos (Surigao Del Norte),009,N 30° E,Burgos (Surigao Del Norte)
 2026-01-20T04:51:00.000Z,20 January 2026 - 04:51 AM,06.44,123.68,003,2.8,042km S 73° W of Kalamansig (Sultan Kudarat),042,S 73° W,Kalamansig (Sultan Kudarat)
@@ -299,4 +301,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T06:04:00.000Z,13 January 2026 - 06:04 AM,07.18,126.94,011,2.8,044km S 85° E of Manay (Davao Oriental),044,S 85° E,Manay (Davao Oriental)
 2026-01-13T05:33:00.000Z,13 January 2026 - 05:33 AM,10.64,122.36,019,2.0,004km S 25° W of Tigbauan (Iloilo),004,S 25° W,Tigbauan (Iloilo)
 2026-01-13T05:33:00.000Z,13 January 2026 - 05:33 AM,03.16,126.79,009,4.0,292km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),292,S 31° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-13T05:03:00.000Z,13 January 2026 - 05:03 AM,03.43,126.34,010,4.3,241km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),241,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
