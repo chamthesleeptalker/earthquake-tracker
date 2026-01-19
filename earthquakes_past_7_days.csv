@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T10:41:00.000Z,19 January 2026 - 10:41 AM,11.39,125.51,024,2.6,004km S 62° W of Llorente (Eastern Samar),004,S 62° W,Llorente (Eastern Samar)
+2026-01-19T10:24:00.000Z,19 January 2026 - 10:24 AM,15.07,120.15,065,1.8,008km N 83° E of San Felipe (Zambales),008,N 83° E,San Felipe (Zambales)
+2026-01-19T10:22:00.000Z,19 January 2026 - 10:22 AM,13.19,121.30,014,1.4,015km South of Naujan (Oriental Mindoro),015,South of Naujan,Mindoro)
 2026-01-19T09:16:00.000Z,19 January 2026 - 09:16 AM,12.45,122.38,143,2.4,016km S 72° W of Magdiwang (Romblon),016,S 72° W,Magdiwang (Romblon)
 2026-01-19T08:59:00.000Z,19 January 2026 - 08:59 AM,18.65,121.03,016,2.4,007km N 44° W of Claveria (Cagayan),007,N 44° W,Claveria (Cagayan)
 2026-01-19T08:43:00.000Z,19 January 2026 - 08:43 AM,09.44,126.69,003,2.9,058km N 71° E of Cortes (Surigao Del Sur),058,N 71° E,Cortes (Surigao Del Sur)
@@ -283,5 +286,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-12T12:21:00.000Z,12 January 2026 - 12:21 PM,08.79,126.45,030,2.0,017km S 87° E of Marihatag (Surigao Del Sur),017,S 87° E,Marihatag (Surigao Del Sur)
 2026-01-12T12:12:00.000Z,12 January 2026 - 12:12 PM,09.67,126.70,017,2.9,061km S 78° E of General Luna (Surigao Del Norte),061,S 78° E,General Luna (Surigao Del Norte)
 2026-01-12T12:03:00.000Z,12 January 2026 - 12:03 PM,07.03,127.00,019,2.3,054km S 69° E of Manay (Davao Oriental),054,S 69° E,Manay (Davao Oriental)
-2026-01-12T10:37:00.000Z,12 January 2026 - 10:37 AM,10.61,122.30,007,2.0,006km S 28° W of Guimbal (Iloilo),006,S 28° W,Guimbal (Iloilo)
-2026-01-12T09:47:00.000Z,12 January 2026 - 09:47 AM,06.19,126.96,029,2.4,111km S 62° E of Governor Generoso (Davao Oriental),111,S 62° E,Governor Generoso (Davao Oriental)
