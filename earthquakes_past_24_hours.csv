@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T20:55:00.000Z,19 January 2026 - 08:55 PM,12.35,120.98,034,1.4,010km N 89° W of San Jose (Occidental Mindoro),010,N 89° W,San Jose (Occidental Mindoro)
+2026-01-19T20:47:00.000Z,19 January 2026 - 08:47 PM,13.59,120.93,035,1.5,010km S 40° E of Tingloy (Batangas),010,S 40° E,Tingloy (Batangas)
+2026-01-19T20:32:00.000Z,19 January 2026 - 08:32 PM,13.07,124.20,093,2.5,003km N 04° E of Prieto Diaz (Sorsogon),003,N 04° E,Prieto Diaz (Sorsogon)
 2026-01-19T21:16:00.000Z,19 January 2026 - 09:16 PM,15.64,120.07,028,1.7,015km N 86° E of Candelaria (Zambales),015,N 86° E,Candelaria (Zambales)
 2026-01-19T19:55:00.000Z,19 January 2026 - 07:55 PM,11.23,124.15,019,1.9,027km N 43° E of City Of Bogo (Cebu),027,N 43° E,City Of Bogo (Cebu)
 2026-01-19T19:04:00.000Z,19 January 2026 - 07:04 PM,13.63,120.70,097,1.5,019km S 81° W of Tingloy (Batangas),019,S 81° W,Tingloy (Batangas)
