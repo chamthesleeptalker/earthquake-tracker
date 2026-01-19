@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T03:00:00.000Z,20 January 2026 - 03:00 AM,06.39,123.69,010,5.3,043km S 65° W of Kalamansig (Sultan Kudarat),043,S 65° W,Kalamansig (Sultan Kudarat)
+2026-01-20T02:59:00.000Z,20 January 2026 - 02:59 AM,14.51,121.82,031,1.4,025km N 66° W of Balesin Island (Polillo) (Quezon),025,N 66° W,Balesin Island (Polillo) (Quezon)
+2026-01-20T02:53:00.000Z,20 January 2026 - 02:53 AM,06.40,123.71,010,4.9,041km S 65° W of Kalamansig (Sultan Kudarat),041,S 65° W,Kalamansig (Sultan Kudarat)
+2026-01-20T02:38:00.000Z,20 January 2026 - 02:38 AM,07.67,126.07,012,3.6,002km N 81° W of Compostela (Davao De Oro),002,N 81° W,Compostela (Davao De Oro)
+2026-01-20T02:07:00.000Z,20 January 2026 - 02:07 AM,10.08,125.18,003,3.0,004km N 38° E of San Francisco (Southern Leyte),004,N 38° E,San Francisco (Southern Leyte)
 2026-01-19T09:07:00.000Z,19 January 2026 - 09:07 AM,10.09,125.18,002,3.0,005km N 26° E of San Francisco (Southern Leyte),005,N 26° E,San Francisco (Southern Leyte)
 2026-01-20T01:53:00.000Z,20 January 2026 - 01:53 AM,05.83,127.10,070,3.2,146km S 51° E of Governor Generoso (Davao Oriental),146,S 51° E,Governor Generoso (Davao Oriental)
 2026-01-20T01:50:00.000Z,20 January 2026 - 01:50 AM,08.56,122.34,003,3.4,059km N 20° W of Labason (Zamboanga Del Norte),059,N 20° W,Labason (Zamboanga Del Norte)
@@ -277,6 +282,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T03:47:00.000Z,13 January 2026 - 03:47 AM,08.05,126.47,026,1.9,007km N 75° E of Lingig (Surigao Del Sur),007,N 75° E,Lingig (Surigao Del Sur)
 2026-01-13T03:33:00.000Z,13 January 2026 - 03:33 AM,09.59,122.41,021,2.2,006km S 76° W of Hinoba-an (Negros Occidental),006,S 76° W,Hinoba-an (Negros Occidental)
 2026-01-13T03:03:00.000Z,13 January 2026 - 03:03 AM,09.58,122.43,019,2.4,005km S 58° W of Hinoba-an (Negros Occidental),005,S 58° W,Hinoba-an (Negros Occidental)
-2026-01-13T02:43:00.000Z,13 January 2026 - 02:43 AM,10.99,124.08,004,1.8,013km S 58° E of City Of Bogo (Cebu),013,S 58° E,City Of Bogo (Cebu)
-2026-01-13T02:38:00.000Z,13 January 2026 - 02:38 AM,17.27,120.31,017,2.0,014km S 80° W of Santiago (Ilocos Sur),014,S 80° W,Santiago (Ilocos Sur)
-2026-01-13T02:25:00.000Z,13 January 2026 - 02:25 AM,07.46,126.73,015,2.4,035km N 37° E of Manay (Davao Oriental),035,N 37° E,Manay (Davao Oriental)

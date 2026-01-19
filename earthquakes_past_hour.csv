@@ -1,6 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-20T01:53:00.000Z,20 January 2026 - 01:53 AM,05.83,127.10,070,3.2,146km S 51° E of Governor Generoso (Davao Oriental),146,S 51° E,Governor Generoso (Davao Oriental)
-2026-01-20T01:50:00.000Z,20 January 2026 - 01:50 AM,08.56,122.34,003,3.4,059km N 20° W of Labason (Zamboanga Del Norte),059,N 20° W,Labason (Zamboanga Del Norte)
-2026-01-20T01:36:00.000Z,20 January 2026 - 01:36 AM,08.57,122.28,010,4.2,062km N 25° W of Labason (Zamboanga Del Norte),062,N 25° W,Labason (Zamboanga Del Norte)
-2026-01-20T01:05:00.000Z,20 January 2026 - 01:05 AM,07.28,127.08,008,2.6,057km S 84° E of Caraga (Davao Oriental),057,S 84° E,Caraga (Davao Oriental)
-2026-01-20T01:00:00.000Z,20 January 2026 - 01:00 AM,16.43,120.54,037,1.4,004km N 32° W of Tuba (Benguet),004,N 32° W,Tuba (Benguet)
+2026-01-20T03:00:00.000Z,20 January 2026 - 03:00 AM,06.39,123.69,010,5.3,043km S 65° W of Kalamansig (Sultan Kudarat),043,S 65° W,Kalamansig (Sultan Kudarat)
+2026-01-20T02:59:00.000Z,20 January 2026 - 02:59 AM,14.51,121.82,031,1.4,025km N 66° W of Balesin Island (Polillo) (Quezon),025,N 66° W,Balesin Island (Polillo) (Quezon)
+2026-01-20T02:53:00.000Z,20 January 2026 - 02:53 AM,06.40,123.71,010,4.9,041km S 65° W of Kalamansig (Sultan Kudarat),041,S 65° W,Kalamansig (Sultan Kudarat)
+2026-01-20T02:38:00.000Z,20 January 2026 - 02:38 AM,07.67,126.07,012,3.6,002km N 81° W of Compostela (Davao De Oro),002,N 81° W,Compostela (Davao De Oro)
+2026-01-20T02:07:00.000Z,20 January 2026 - 02:07 AM,10.08,125.18,003,3.0,004km N 38° E of San Francisco (Southern Leyte),004,N 38° E,San Francisco (Southern Leyte)
