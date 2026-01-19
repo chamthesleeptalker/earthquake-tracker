@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T23:51:00.000Z,19 January 2026 - 11:51 PM,14.14,120.08,027,2.1,031km N 09° W of Lubang (Occidental Mindoro),031,N 09° W,Lubang (Occidental Mindoro)
+2026-01-19T23:43:00.000Z,19 January 2026 - 11:43 PM,17.79,120.62,033,1.5,012km N 26° W of Danglas (Abra),012,N 26° W,Danglas (Abra)
 2026-01-19T23:23:00.000Z,19 January 2026 - 11:23 PM,06.34,123.67,001,2.2,049km S 61° W of Kalamansig (Sultan Kudarat),049,S 61° W,Kalamansig (Sultan Kudarat)
 2026-01-19T23:15:00.000Z,19 January 2026 - 11:15 PM,09.55,122.47,022,2.5,016km S 57° W of Hinoba-an (Negros Occidental),016,S 57° W,Hinoba-an (Negros Occidental)
 2026-01-19T23:11:00.000Z,19 January 2026 - 11:11 PM,06.39,123.68,001,2.8,045km S 66° W of Kalamansig (Sultan Kudarat),045,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-19T22:52:00.000Z,19 January 2026 - 10:52 PM,06.39,123.69,001,2.6,044km S 65° W of Kalamansig (Sultan Kudarat),044,S 65° W,Kalamansig (Sultan Kudarat)
-2026-01-19T22:37:00.000Z,19 January 2026 - 10:37 PM,11.76,125.23,046,2.0,019km N 69° E of Hinabangan (Samar),019,N 69° E,Hinabangan (Samar)

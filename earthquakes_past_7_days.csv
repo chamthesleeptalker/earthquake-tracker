@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T23:51:00.000Z,19 January 2026 - 11:51 PM,14.14,120.08,027,2.1,031km N 09° W of Lubang (Occidental Mindoro),031,N 09° W,Lubang (Occidental Mindoro)
+2026-01-19T23:43:00.000Z,19 January 2026 - 11:43 PM,17.79,120.62,033,1.5,012km N 26° W of Danglas (Abra),012,N 26° W,Danglas (Abra)
 2026-01-19T23:23:00.000Z,19 January 2026 - 11:23 PM,06.34,123.67,001,2.2,049km S 61° W of Kalamansig (Sultan Kudarat),049,S 61° W,Kalamansig (Sultan Kudarat)
 2026-01-19T23:15:00.000Z,19 January 2026 - 11:15 PM,09.55,122.47,022,2.5,016km S 57° W of Hinoba-an (Negros Occidental),016,S 57° W,Hinoba-an (Negros Occidental)
 2026-01-19T23:11:00.000Z,19 January 2026 - 11:11 PM,06.39,123.68,001,2.8,045km S 66° W of Kalamansig (Sultan Kudarat),045,S 66° W,Kalamansig (Sultan Kudarat)
@@ -282,4 +284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T00:38:00.000Z,13 January 2026 - 12:38 AM,09.01,126.57,019,2.6,031km N 71° E of Cagwait (Surigao Del Sur),031,N 71° E,Cagwait (Surigao Del Sur)
 2026-01-13T00:35:00.000Z,13 January 2026 - 12:35 AM,10.15,122.33,011,2.6,038km N 58° W of Cauayan (Negros Occidental),038,N 58° W,Cauayan (Negros Occidental)
 2026-01-13T00:28:00.000Z,13 January 2026 - 12:28 AM,06.23,125.45,022,1.7,022km N 53° E of Alabel (Sarangani),022,N 53° E,Alabel (Sarangani)
-2026-01-12T23:45:00.000Z,12 January 2026 - 11:45 PM,06.57,127.15,003,3.0,095km S 55° E of Tarragona (Davao Oriental),095,S 55° E,Tarragona (Davao Oriental)
