@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T09:07:00.000Z,19 January 2026 - 09:07 AM,10.09,125.18,002,3.0,005km N 26° E of San Francisco (Southern Leyte),005,N 26° E,San Francisco (Southern Leyte)
+2026-01-20T01:53:00.000Z,20 January 2026 - 01:53 AM,05.83,127.10,070,3.2,146km S 51° E of Governor Generoso (Davao Oriental),146,S 51° E,Governor Generoso (Davao Oriental)
+2026-01-20T01:50:00.000Z,20 January 2026 - 01:50 AM,08.56,122.34,003,3.4,059km N 20° W of Labason (Zamboanga Del Norte),059,N 20° W,Labason (Zamboanga Del Norte)
 2026-01-20T01:36:00.000Z,20 January 2026 - 01:36 AM,08.57,122.28,010,4.2,062km N 25° W of Labason (Zamboanga Del Norte),062,N 25° W,Labason (Zamboanga Del Norte)
 2026-01-20T01:05:00.000Z,20 January 2026 - 01:05 AM,07.28,127.08,008,2.6,057km S 84° E of Caraga (Davao Oriental),057,S 84° E,Caraga (Davao Oriental)
 2026-01-20T01:00:00.000Z,20 January 2026 - 01:00 AM,16.43,120.54,037,1.4,004km N 32° W of Tuba (Benguet),004,N 32° W,Tuba (Benguet)
@@ -277,4 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T02:43:00.000Z,13 January 2026 - 02:43 AM,10.99,124.08,004,1.8,013km S 58° E of City Of Bogo (Cebu),013,S 58° E,City Of Bogo (Cebu)
 2026-01-13T02:38:00.000Z,13 January 2026 - 02:38 AM,17.27,120.31,017,2.0,014km S 80° W of Santiago (Ilocos Sur),014,S 80° W,Santiago (Ilocos Sur)
 2026-01-13T02:25:00.000Z,13 January 2026 - 02:25 AM,07.46,126.73,015,2.4,035km N 37° E of Manay (Davao Oriental),035,N 37° E,Manay (Davao Oriental)
-2026-01-13T01:43:00.000Z,13 January 2026 - 01:43 AM,16.11,122.00,016,2.0,006km S 54° E of Dinalungan (Aurora),006,S 54° E,Dinalungan (Aurora)
