@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-01-15T02:00:00.000Z,15 January 2026 - 02:00 AM,02.15,126.95,71,4.9,399km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),399,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-13T09:27:00.000Z,13 January 2026 - 09:27 AM,02.67,126.68,114,4.8,333km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),333,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-13T00:48:00.000Z,13 January 2026 - 12:48 AM,09.98,126.18,23,4.6,012km S 71° E of Burgos (Surigao Del Norte),012,S 71° E,Burgos (Surigao Del Norte)
 2026-01-18T11:55:00.000Z,18 January 2026 - 11:55 AM,06.42,123.74,10,4.5,037km S 66° W of Kalamansig (Sultan Kudarat),037,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-14T01:23:00.000Z,14 January 2026 - 01:23 AM,04.97,124.40,10,4.5,115km S 12° W of Kiamba (Sarangani),115,S 12° W,Kiamba (Sarangani)
 2026-01-14T01:22:00.000Z,14 January 2026 - 01:22 AM,04.77,124.43,32,4.3,136km S 09° W of Kiamba (Sarangani),136,S 09° W,Kiamba (Sarangani)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T03:50:00.000Z,16 January 2026 - 03:50 AM,06.41,127.52,34,4.2,138km S 59° E of Tarragona (Davao Oriental),138,S 59° E,Tarragona (Davao Oriental)
 2026-01-13T09:57:00.000Z,13 January 2026 - 09:57 AM,02.51,127.84,142,4.2,418km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),418,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-18T23:18:00.000Z,18 January 2026 - 11:18 PM,04.19,126.33,52,4.0,169km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),169,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-16T14:31:00.000Z,16 January 2026 - 02:31 PM,07.53,126.72,26,4.0,018km S 74° E of Baganga (Davao Oriental),018,S 74° E,Baganga (Davao Oriental)
