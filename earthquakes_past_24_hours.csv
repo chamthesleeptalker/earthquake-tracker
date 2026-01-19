@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T07:18:00.000Z,20 January 2026 - 07:18 AM,06.42,123.65,011,2.6,047km S 71° W of Kalamansig (Sultan Kudarat),047,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-20T06:37:00.000Z,20 January 2026 - 06:37 AM,06.30,123.87,033,1.5,034km S 35° W of Kalamansig (Sultan Kudarat),034,S 35° W,Kalamansig (Sultan Kudarat)
 2026-01-20T06:23:00.000Z,20 January 2026 - 06:23 AM,06.34,123.68,009,3.8,047km S 59° W of Kalamansig (Sultan Kudarat),047,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-20T06:12:00.000Z,20 January 2026 - 06:12 AM,06.35,123.67,013,2.6,048km S 61° W of Kalamansig (Sultan Kudarat),048,S 61° W,Kalamansig (Sultan Kudarat)
@@ -87,5 +88,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-19T07:51:00.000Z,19 January 2026 - 07:51 AM,18.14,120.17,050,2.7,036km N 69° W of Currimao (Ilocos Norte),036,N 69° W,Currimao (Ilocos Norte)
 2026-01-19T07:39:00.000Z,19 January 2026 - 07:39 AM,07.20,126.57,022,2.1,003km S 77° E of Manay (Davao Oriental),003,S 77° E,Manay (Davao Oriental)
 2026-01-19T07:21:00.000Z,19 January 2026 - 07:21 AM,15.59,120.25,033,1.5,014km S 77° W of Mayantoc (Tarlac),014,S 77° W,Mayantoc (Tarlac)
-2026-01-19T06:44:00.000Z,19 January 2026 - 06:44 AM,08.50,126.36,060,1.6,015km N 10° E of Hinatuan (Surigao Del Sur),015,N 10° E,Hinatuan (Surigao Del Sur)
-2026-01-19T06:41:00.000Z,19 January 2026 - 06:41 AM,09.69,126.80,033,1.8,072km S 82° E of General Luna (Surigao Del Norte),072,S 82° E,General Luna (Surigao Del Norte)
