@@ -1,6 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T03:18:00.000Z,20 January 2026 - 03:18 AM,06.40,123.69,025,2.8,044km S 67° W of Kalamansig (Sultan Kudarat),044,S 67° W,Kalamansig (Sultan Kudarat)
+2026-01-20T03:11:00.000Z,20 January 2026 - 03:11 AM,06.91,123.91,130,2.4,021km S 35° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),021,S 35° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-01-20T02:58:00.000Z,20 January 2026 - 02:58 AM,07.27,126.74,042,2.4,021km S 72° E of Caraga (Davao Oriental),021,S 72° E,Caraga (Davao Oriental)
 2026-01-20T03:00:00.000Z,20 January 2026 - 03:00 AM,06.39,123.69,010,5.3,043km S 65° W of Kalamansig (Sultan Kudarat),043,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-20T02:59:00.000Z,20 January 2026 - 02:59 AM,14.51,121.82,031,1.4,025km N 66° W of Balesin Island (Polillo) (Quezon),025,N 66° W,Balesin Island (Polillo) (Quezon)
 2026-01-20T02:53:00.000Z,20 January 2026 - 02:53 AM,06.40,123.71,010,4.9,041km S 65° W of Kalamansig (Sultan Kudarat),041,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-20T02:38:00.000Z,20 January 2026 - 02:38 AM,07.67,126.07,012,3.6,002km N 81° W of Compostela (Davao De Oro),002,N 81° W,Compostela (Davao De Oro)
-2026-01-20T02:07:00.000Z,20 January 2026 - 02:07 AM,10.08,125.18,003,3.0,004km N 38° E of San Francisco (Southern Leyte),004,N 38° E,San Francisco (Southern Leyte)

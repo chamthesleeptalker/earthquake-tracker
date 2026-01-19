@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T03:18:00.000Z,20 January 2026 - 03:18 AM,06.40,123.69,025,2.8,044km S 67° W of Kalamansig (Sultan Kudarat),044,S 67° W,Kalamansig (Sultan Kudarat)
+2026-01-20T03:11:00.000Z,20 January 2026 - 03:11 AM,06.91,123.91,130,2.4,021km S 35° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),021,S 35° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-01-20T02:58:00.000Z,20 January 2026 - 02:58 AM,07.27,126.74,042,2.4,021km S 72° E of Caraga (Davao Oriental),021,S 72° E,Caraga (Davao Oriental)
 2026-01-20T03:00:00.000Z,20 January 2026 - 03:00 AM,06.39,123.69,010,5.3,043km S 65° W of Kalamansig (Sultan Kudarat),043,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-20T02:59:00.000Z,20 January 2026 - 02:59 AM,14.51,121.82,031,1.4,025km N 66° W of Balesin Island (Polillo) (Quezon),025,N 66° W,Balesin Island (Polillo) (Quezon)
 2026-01-20T02:53:00.000Z,20 January 2026 - 02:53 AM,06.40,123.71,010,4.9,041km S 65° W of Kalamansig (Sultan Kudarat),041,S 65° W,Kalamansig (Sultan Kudarat)
@@ -281,4 +284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T03:48:00.000Z,13 January 2026 - 03:48 AM,15.50,119.90,032,2.0,007km S 60° W of Masinloc (Zambales),007,S 60° W,Masinloc (Zambales)
 2026-01-13T03:47:00.000Z,13 January 2026 - 03:47 AM,08.05,126.47,026,1.9,007km N 75° E of Lingig (Surigao Del Sur),007,N 75° E,Lingig (Surigao Del Sur)
 2026-01-13T03:33:00.000Z,13 January 2026 - 03:33 AM,09.59,122.41,021,2.2,006km S 76° W of Hinoba-an (Negros Occidental),006,S 76° W,Hinoba-an (Negros Occidental)
-2026-01-13T03:03:00.000Z,13 January 2026 - 03:03 AM,09.58,122.43,019,2.4,005km S 58° W of Hinoba-an (Negros Occidental),005,S 58° W,Hinoba-an (Negros Occidental)
