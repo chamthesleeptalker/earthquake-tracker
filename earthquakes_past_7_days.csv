@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T01:36:00.000Z,20 January 2026 - 01:36 AM,08.57,122.28,010,4.2,062km N 25° W of Labason (Zamboanga Del Norte),062,N 25° W,Labason (Zamboanga Del Norte)
 2026-01-20T01:05:00.000Z,20 January 2026 - 01:05 AM,07.28,127.08,008,2.6,057km S 84° E of Caraga (Davao Oriental),057,S 84° E,Caraga (Davao Oriental)
 2026-01-20T01:00:00.000Z,20 January 2026 - 01:00 AM,16.43,120.54,037,1.4,004km N 32° W of Tuba (Benguet),004,N 32° W,Tuba (Benguet)
 2026-01-20T00:20:00.000Z,20 January 2026 - 12:20 AM,08.17,126.91,007,2.9,057km N 76° E of Lingig (Surigao Del Sur),057,N 76° E,Lingig (Surigao Del Sur)
@@ -277,6 +278,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T02:38:00.000Z,13 January 2026 - 02:38 AM,17.27,120.31,017,2.0,014km S 80° W of Santiago (Ilocos Sur),014,S 80° W,Santiago (Ilocos Sur)
 2026-01-13T02:25:00.000Z,13 January 2026 - 02:25 AM,07.46,126.73,015,2.4,035km N 37° E of Manay (Davao Oriental),035,N 37° E,Manay (Davao Oriental)
 2026-01-13T01:43:00.000Z,13 January 2026 - 01:43 AM,16.11,122.00,016,2.0,006km S 54° E of Dinalungan (Aurora),006,S 54° E,Dinalungan (Aurora)
-2026-01-13T01:33:00.000Z,13 January 2026 - 01:33 AM,07.82,126.88,024,2.1,045km N 53° E of Baganga (Davao Oriental),045,N 53° E,Baganga (Davao Oriental)
-2026-01-13T01:30:00.000Z,13 January 2026 - 01:30 AM,07.17,126.84,024,2.4,033km S 81° E of Manay (Davao Oriental),033,S 81° E,Manay (Davao Oriental)
-2026-01-13T01:12:00.000Z,13 January 2026 - 01:12 AM,09.99,126.03,027,2.1,006km S 57° W of Burgos (Surigao Del Norte),006,S 57° W,Burgos (Surigao Del Norte)
