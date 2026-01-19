@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-19T09:16:00.000Z,19 January 2026 - 09:16 AM,12.45,122.38,143,2.4,016km S 72° W of Magdiwang (Romblon),016,S 72° W,Magdiwang (Romblon)
+2026-01-19T08:59:00.000Z,19 January 2026 - 08:59 AM,18.65,121.03,016,2.4,007km N 44° W of Claveria (Cagayan),007,N 44° W,Claveria (Cagayan)
+2026-01-19T08:43:00.000Z,19 January 2026 - 08:43 AM,09.44,126.69,003,2.9,058km N 71° E of Cortes (Surigao Del Sur),058,N 71° E,Cortes (Surigao Del Sur)
+2026-01-19T08:11:00.000Z,19 January 2026 - 08:11 AM,14.72,120.10,033,1.6,019km N 77° W of Morong (Bataan),019,N 77° W,Morong (Bataan)
+2026-01-19T07:54:00.000Z,19 January 2026 - 07:54 AM,07.42,125.98,047,1.8,011km S 32° E of Mawab (Davao De Oro),011,S 32° E,Mawab (Davao De Oro)
+2026-01-19T07:51:00.000Z,19 January 2026 - 07:51 AM,18.14,120.17,050,2.7,036km N 69° W of Currimao (Ilocos Norte),036,N 69° W,Currimao (Ilocos Norte)
+2026-01-19T07:39:00.000Z,19 January 2026 - 07:39 AM,07.20,126.57,022,2.1,003km S 77° E of Manay (Davao Oriental),003,S 77° E,Manay (Davao Oriental)
 2026-01-19T07:21:00.000Z,19 January 2026 - 07:21 AM,15.59,120.25,033,1.5,014km S 77° W of Mayantoc (Tarlac),014,S 77° W,Mayantoc (Tarlac)
 2026-01-19T06:44:00.000Z,19 January 2026 - 06:44 AM,08.50,126.36,060,1.6,015km N 10° E of Hinatuan (Surigao Del Sur),015,N 10° E,Hinatuan (Surigao Del Sur)
 2026-01-19T06:41:00.000Z,19 January 2026 - 06:41 AM,09.69,126.80,033,1.8,072km S 82° E of General Luna (Surigao Del Norte),072,S 82° E,General Luna (Surigao Del Norte)
