@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T05:53:00.000Z,20 January 2026 - 05:53 AM,06.47,123.76,010,2.9,034km S 73° W of Kalamansig (Sultan Kudarat),034,S 73° W,Kalamansig (Sultan Kudarat)
+2026-01-20T05:50:00.000Z,20 January 2026 - 05:50 AM,06.43,126.27,052,4.0,034km S 41° E of Governor Generoso (Davao Oriental),034,S 41° E,Governor Generoso (Davao Oriental)
+2026-01-20T05:45:00.000Z,20 January 2026 - 05:45 AM,06.33,123.72,016,2.4,044km S 56° W of Kalamansig (Sultan Kudarat),044,S 56° W,Kalamansig (Sultan Kudarat)
+2026-01-20T05:37:00.000Z,20 January 2026 - 05:37 AM,06.01,123.86,033,2.4,064km S 19° W of Kalamansig (Sultan Kudarat),064,S 19° W,Kalamansig (Sultan Kudarat)
+2026-01-20T05:31:00.000Z,20 January 2026 - 05:31 AM,06.51,123.76,026,2.5,033km S 82° W of Kalamansig (Sultan Kudarat),033,S 82° W,Kalamansig (Sultan Kudarat)
+2026-01-20T05:28:00.000Z,20 January 2026 - 05:28 AM,06.46,123.79,002,3.4,031km S 71° W of Kalamansig (Sultan Kudarat),031,S 71° W,Kalamansig (Sultan Kudarat)
+2026-01-20T03:29:00.000Z,20 January 2026 - 03:29 AM,06.38,123.75,007,3.3,038km S 60° W of Kalamansig (Sultan Kudarat),038,S 60° W,Kalamansig (Sultan Kudarat)
 2026-01-20T05:01:00.000Z,20 January 2026 - 05:01 AM,10.48,124.88,017,2.1,015km N 44° W of Sogod (Southern Leyte),015,N 44° W,Sogod (Southern Leyte)
 2026-01-20T05:07:00.000Z,20 January 2026 - 05:07 AM,06.38,123.72,004,2.6,042km S 62° W of Kalamansig (Sultan Kudarat),042,S 62° W,Kalamansig (Sultan Kudarat)
 2026-01-20T05:02:00.000Z,20 January 2026 - 05:02 AM,09.68,126.14,027,2.7,012km S 07° W of General Luna (Surigao Del Norte),012,S 07° W,General Luna (Surigao Del Norte)
@@ -299,5 +306,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T06:43:00.000Z,13 January 2026 - 06:43 AM,06.19,124.66,019,1.8,006km S 57° W of Lake Sebu (South Cotabato),006,S 57° W,Lake Sebu (South Cotabato)
 2026-01-13T06:14:00.000Z,13 January 2026 - 06:14 AM,09.57,126.18,033,1.9,024km S 06° E of General Luna (Surigao Del Norte),024,S 06° E,General Luna (Surigao Del Norte)
 2026-01-13T06:04:00.000Z,13 January 2026 - 06:04 AM,07.18,126.94,011,2.8,044km S 85° E of Manay (Davao Oriental),044,S 85° E,Manay (Davao Oriental)
-2026-01-13T05:33:00.000Z,13 January 2026 - 05:33 AM,10.64,122.36,019,2.0,004km S 25° W of Tigbauan (Iloilo),004,S 25° W,Tigbauan (Iloilo)
-2026-01-13T05:33:00.000Z,13 January 2026 - 05:33 AM,03.16,126.79,009,4.0,292km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),292,S 31° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
