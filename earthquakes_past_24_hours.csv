@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T23:24:00.000Z,20 January 2026 - 11:24 PM,06.57,123.85,007,1.6,022km N 85° W of Kalamansig (Sultan Kudarat),022,N 85° W,Kalamansig (Sultan Kudarat)
+2026-01-20T23:20:00.000Z,20 January 2026 - 11:20 PM,06.44,123.66,003,2.4,045km S 73° W of Kalamansig (Sultan Kudarat),045,S 73° W,Kalamansig (Sultan Kudarat)
+2026-01-20T23:05:00.000Z,20 January 2026 - 11:05 PM,12.30,122.33,007,3.3,027km S 69° E of Santa Maria (Romblon),027,S 69° E,Santa Maria (Romblon)
+2026-01-20T23:03:00.000Z,20 January 2026 - 11:03 PM,12.50,122.18,002,2.9,008km S 34° E of San Agustin (Romblon),008,S 34° E,San Agustin (Romblon)
+2026-01-20T22:56:00.000Z,20 January 2026 - 10:56 PM,09.53,126.18,032,2.0,026km S 69° E of Socorro (Surigao Del Norte),026,S 69° E,Socorro (Surigao Del Norte)
 2026-01-20T22:48:00.000Z,20 January 2026 - 10:48 PM,11.31,124.05,010,3.2,008km N 40° E of Daanbantayan (Cebu),008,N 40° E,Daanbantayan (Cebu)
 2026-01-20T22:35:00.000Z,20 January 2026 - 10:35 PM,06.42,123.67,006,3.0,044km S 70° W of Kalamansig (Sultan Kudarat),044,S 70° W,Kalamansig (Sultan Kudarat)
 2026-01-20T22:25:00.000Z,20 January 2026 - 10:25 PM,06.38,123.76,003,2.2,038km S 59° W of Kalamansig (Sultan Kudarat),038,S 59° W,Kalamansig (Sultan Kudarat)
@@ -106,7 +111,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T00:20:00.000Z,20 January 2026 - 12:20 AM,08.17,126.91,007,2.9,057km N 76° E of Lingig (Surigao Del Sur),057,N 76° E,Lingig (Surigao Del Sur)
 2026-01-19T23:51:00.000Z,19 January 2026 - 11:51 PM,14.14,120.08,027,2.1,031km N 09° W of Lubang (Occidental Mindoro),031,N 09° W,Lubang (Occidental Mindoro)
 2026-01-19T23:43:00.000Z,19 January 2026 - 11:43 PM,17.79,120.62,033,1.5,012km N 26° W of Danglas (Abra),012,N 26° W,Danglas (Abra)
-2026-01-19T23:23:00.000Z,19 January 2026 - 11:23 PM,06.34,123.67,001,2.2,049km S 61° W of Kalamansig (Sultan Kudarat),049,S 61° W,Kalamansig (Sultan Kudarat)
-2026-01-19T23:15:00.000Z,19 January 2026 - 11:15 PM,09.55,122.47,022,2.5,016km S 57° W of Hinoba-an (Negros Occidental),016,S 57° W,Hinoba-an (Negros Occidental)
-2026-01-19T23:11:00.000Z,19 January 2026 - 11:11 PM,06.39,123.68,001,2.8,045km S 66° W of Kalamansig (Sultan Kudarat),045,S 66° W,Kalamansig (Sultan Kudarat)
-2026-01-19T22:52:00.000Z,19 January 2026 - 10:52 PM,06.39,123.69,001,2.6,044km S 65° W of Kalamansig (Sultan Kudarat),044,S 65° W,Kalamansig (Sultan Kudarat)
