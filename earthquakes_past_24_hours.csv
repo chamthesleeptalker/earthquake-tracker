@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T02:41:00.000Z,21 January 2026 - 02:41 AM,02.53,125.12,052,3.6,320km S 06° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),320,S 06° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-01-21T02:23:00.000Z,21 January 2026 - 02:23 AM,06.37,123.68,016,2.2,045km S 64° W of Kalamansig (Sultan Kudarat),045,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-21T01:52:00.000Z,21 January 2026 - 01:52 AM,06.44,123.74,007,2.5,037km S 68° W of Kalamansig (Sultan Kudarat),037,S 68° W,Kalamansig (Sultan Kudarat)
 2026-01-21T01:25:00.000Z,21 January 2026 - 01:25 AM,15.79,120.57,180,2.1,004km S 70° W of San Manuel (Tarlac),004,S 70° W,San Manuel (Tarlac)
 2026-01-21T00:29:00.000Z,21 January 2026 - 12:29 AM,09.96,126.55,034,2.8,048km N 66° E of General Luna (Surigao Del Norte),048,N 66° E,General Luna (Surigao Del Norte)
@@ -115,6 +117,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T03:00:00.000Z,20 January 2026 - 03:00 AM,06.39,123.69,010,5.3,043km S 65° W of Kalamansig (Sultan Kudarat),043,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-20T02:59:00.000Z,20 January 2026 - 02:59 AM,14.51,121.82,031,1.4,025km N 66° W of Balesin Island (Polillo) (Quezon),025,N 66° W,Balesin Island (Polillo) (Quezon)
 2026-01-20T02:53:00.000Z,20 January 2026 - 02:53 AM,06.40,123.71,010,4.9,041km S 65° W of Kalamansig (Sultan Kudarat),041,S 65° W,Kalamansig (Sultan Kudarat)
-2026-01-20T02:38:00.000Z,20 January 2026 - 02:38 AM,07.67,126.07,012,3.6,002km N 81° W of Compostela (Davao De Oro),002,N 81° W,Compostela (Davao De Oro)
-2026-01-20T02:07:00.000Z,20 January 2026 - 02:07 AM,10.08,125.18,003,3.0,004km N 38° E of San Francisco (Southern Leyte),004,N 38° E,San Francisco (Southern Leyte)
-2026-01-20T01:53:00.000Z,20 January 2026 - 01:53 AM,05.83,127.10,070,3.2,146km S 51° E of Governor Generoso (Davao Oriental),146,S 51° E,Governor Generoso (Davao Oriental)
