@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T05:22:00.000Z,21 January 2026 - 05:22 AM,13.00,120.26,011,2.1,044km S 55° W of Mamburao (Occidental Mindoro),044,S 55° W,Mamburao (Occidental Mindoro)
+2026-01-21T05:14:00.000Z,21 January 2026 - 05:14 AM,06.36,123.75,013,2.7,040km S 58° W of Kalamansig (Sultan Kudarat),040,S 58° W,Kalamansig (Sultan Kudarat)
+2026-01-21T05:09:00.000Z,21 January 2026 - 05:09 AM,06.48,123.72,002,2.7,038km S 77° W of Kalamansig (Sultan Kudarat),038,S 77° W,Kalamansig (Sultan Kudarat)
 2026-01-21T05:05:00.000Z,21 January 2026 - 05:05 AM,06.42,123.62,020,2.2,050km S 72° W of Kalamansig (Sultan Kudarat),050,S 72° W,Kalamansig (Sultan Kudarat)
 2026-01-21T04:46:00.000Z,21 January 2026 - 04:46 AM,12.87,124.82,016,3.2,036km N 19° W of Pambujan (Northern Samar),036,N 19° W,Pambujan (Northern Samar)
 2026-01-21T02:41:00.000Z,21 January 2026 - 02:41 AM,02.53,125.12,052,3.6,320km S 06° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),320,S 06° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -341,5 +344,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-14T08:40:00.000Z,14 January 2026 - 08:40 AM,10.43,122.96,032,2.5,005km N 84° E of City Of La Carlota (Negros Occidental),005,N 84° E,City Of La Carlota (Negros Occidental)
 2026-01-14T08:12:00.000Z,14 January 2026 - 08:12 AM,10.45,123.07,009,3.0,017km N 80° E of City Of La Carlota (Negros Occidental),017,N 80° E,City Of La Carlota (Negros Occidental)
 2026-01-14T05:32:00.000Z,14 January 2026 - 05:32 AM,10.47,123.03,032,1.4,013km N 68° E of City Of La Carlota (Negros Occidental),013,N 68° E,City Of La Carlota (Negros Occidental)
-2026-01-14T05:20:00.000Z,14 January 2026 - 05:20 AM,10.47,123.05,008,1.9,015km N 71° E of City Of La Carlota (Negros Occidental),015,N 71° E,City Of La Carlota (Negros Occidental)
-2026-01-14T05:07:00.000Z,14 January 2026 - 05:07 AM,16.58,121.65,014,2.7,005km N 70° W of Jones (Isabela),005,N 70° W,Jones (Isabela)
