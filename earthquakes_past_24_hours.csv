@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T07:27:00.000Z,21 January 2026 - 07:27 AM,06.44,123.81,025,2.9,030km S 65° W of Kalamansig (Sultan Kudarat),030,S 65° W,Kalamansig (Sultan Kudarat)
+2026-01-21T07:25:00.000Z,21 January 2026 - 07:25 AM,06.43,123.76,010,4.7,035km S 66° W of Kalamansig (Sultan Kudarat),035,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-21T05:57:00.000Z,21 January 2026 - 05:57 AM,06.57,123.90,008,2.6,017km N 83° W of Kalamansig (Sultan Kudarat),017,N 83° W,Kalamansig (Sultan Kudarat)
 2026-01-21T05:22:00.000Z,21 January 2026 - 05:22 AM,13.00,120.26,011,2.1,044km S 55° W of Mamburao (Occidental Mindoro),044,S 55° W,Mamburao (Occidental Mindoro)
 2026-01-21T05:14:00.000Z,21 January 2026 - 05:14 AM,06.36,123.75,013,2.7,040km S 58° W of Kalamansig (Sultan Kudarat),040,S 58° W,Kalamansig (Sultan Kudarat)
@@ -76,7 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T08:32:00.000Z,20 January 2026 - 08:32 AM,06.71,123.75,002,2.4,037km N 62° W of Kalamansig (Sultan Kudarat),037,N 62° W,Kalamansig (Sultan Kudarat)
 2026-01-20T08:17:00.000Z,20 January 2026 - 08:17 AM,06.52,123.74,021,2.1,035km S 84° W of Kalamansig (Sultan Kudarat),035,S 84° W,Kalamansig (Sultan Kudarat)
 2026-01-20T07:36:00.000Z,20 January 2026 - 07:36 AM,06.38,123.78,021,3.3,036km S 58° W of Kalamansig (Sultan Kudarat),036,S 58° W,Kalamansig (Sultan Kudarat)
-2026-01-20T07:18:00.000Z,20 January 2026 - 07:18 AM,06.42,123.65,011,2.6,047km S 71° W of Kalamansig (Sultan Kudarat),047,S 71° W,Kalamansig (Sultan Kudarat)
-2026-01-20T06:37:00.000Z,20 January 2026 - 06:37 AM,06.30,123.87,033,1.5,034km S 35° W of Kalamansig (Sultan Kudarat),034,S 35° W,Kalamansig (Sultan Kudarat)
-2026-01-20T06:23:00.000Z,20 January 2026 - 06:23 AM,06.34,123.68,009,3.8,047km S 59° W of Kalamansig (Sultan Kudarat),047,S 59° W,Kalamansig (Sultan Kudarat)
-2026-01-20T06:12:00.000Z,20 January 2026 - 06:12 AM,06.35,123.67,013,2.6,048km S 61° W of Kalamansig (Sultan Kudarat),048,S 61° W,Kalamansig (Sultan Kudarat)
