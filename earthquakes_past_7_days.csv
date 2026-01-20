@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T17:45:00.000Z,20 January 2026 - 05:45 PM,13.48,120.72,070,1.4,004km N 06° W of Abra De Ilog (Occidental Mindoro),004,N 06° W,Abra De Ilog (Occidental Mindoro)
+2026-01-20T17:36:00.000Z,20 January 2026 - 05:36 PM,13.71,120.63,119,1.6,014km S 02° W of Calatagan (Batangas),014,S 02° W,Calatagan (Batangas)
+2026-01-20T17:19:00.000Z,20 January 2026 - 05:19 PM,06.50,123.75,003,2.6,034km S 79° W of Kalamansig (Sultan Kudarat),034,S 79° W,Kalamansig (Sultan Kudarat)
 2026-01-20T16:30:00.000Z,20 January 2026 - 04:30 PM,06.71,124.34,005,2.0,017km S 74° W of Datu Abdullah Sangki (Maguindanao Del Sur),017,S 74° W,Datu Abdullah Sangki (Maguindanao Del Sur)
 2026-01-20T15:17:00.000Z,20 January 2026 - 03:17 PM,09.86,122.31,020,2.3,017km N 52° W of City Of Sipalay (Negros Occidental),017,N 52° W,City Of Sipalay (Negros Occidental)
 2026-01-20T14:46:00.000Z,20 January 2026 - 02:46 PM,06.32,123.71,005,3.0,045km S 56° W of Kalamansig (Sultan Kudarat),045,S 56° W,Kalamansig (Sultan Kudarat)
@@ -321,6 +324,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-13T18:55:00.000Z,13 January 2026 - 06:55 PM,06.10,126.12,122,2.2,049km S 77° E of Don Marcelino (Davao Occidental),049,S 77° E,Don Marcelino (Davao Occidental)
 2026-01-13T18:22:00.000Z,13 January 2026 - 06:22 PM,17.84,119.86,018,1.8,061km N 63° W of Santa Catalina (Ilocos Sur),061,N 63° W,Santa Catalina (Ilocos Sur)
 2026-01-13T18:12:00.000Z,13 January 2026 - 06:12 PM,05.95,127.08,024,3.1,136km S 55° E of Governor Generoso (Davao Oriental),136,S 55° E,Governor Generoso (Davao Oriental)
-2026-01-13T17:08:00.000Z,13 January 2026 - 05:08 PM,15.38,119.84,019,2.0,010km S 53° W of Palauig (Zambales),010,S 53° W,Palauig (Zambales)
-2026-01-13T16:51:00.000Z,13 January 2026 - 04:51 PM,11.02,124.04,004,2.0,007km S 69° E of City Of Bogo (Cebu),007,S 69° E,City Of Bogo (Cebu)
-2026-01-13T16:50:00.000Z,13 January 2026 - 04:50 PM,07.05,126.56,015,3.1,018km S 09° E of Manay (Davao Oriental),018,S 09° E,Manay (Davao Oriental)
