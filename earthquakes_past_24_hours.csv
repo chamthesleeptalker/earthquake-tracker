@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-20T22:48:00.000Z,20 January 2026 - 10:48 PM,11.31,124.05,010,3.2,008km N 40° E of Daanbantayan (Cebu),008,N 40° E,Daanbantayan (Cebu)
+2026-01-20T22:35:00.000Z,20 January 2026 - 10:35 PM,06.42,123.67,006,3.0,044km S 70° W of Kalamansig (Sultan Kudarat),044,S 70° W,Kalamansig (Sultan Kudarat)
+2026-01-20T22:25:00.000Z,20 January 2026 - 10:25 PM,06.38,123.76,003,2.2,038km S 59° W of Kalamansig (Sultan Kudarat),038,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-20T22:04:00.000Z,20 January 2026 - 10:04 PM,06.44,123.66,007,3.1,045km S 74° W of Kalamansig (Sultan Kudarat),045,S 74° W,Kalamansig (Sultan Kudarat)
 2026-01-20T22:00:00.000Z,20 January 2026 - 10:00 PM,06.48,123.68,006,2.0,042km S 78° W of Kalamansig (Sultan Kudarat),042,S 78° W,Kalamansig (Sultan Kudarat)
 2026-01-20T21:49:00.000Z,20 January 2026 - 09:49 PM,06.52,123.70,006,2.8,039km S 83° W of Kalamansig (Sultan Kudarat),039,S 83° W,Kalamansig (Sultan Kudarat)
@@ -107,5 +110,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-19T23:15:00.000Z,19 January 2026 - 11:15 PM,09.55,122.47,022,2.5,016km S 57° W of Hinoba-an (Negros Occidental),016,S 57° W,Hinoba-an (Negros Occidental)
 2026-01-19T23:11:00.000Z,19 January 2026 - 11:11 PM,06.39,123.68,001,2.8,045km S 66° W of Kalamansig (Sultan Kudarat),045,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-19T22:52:00.000Z,19 January 2026 - 10:52 PM,06.39,123.69,001,2.6,044km S 65° W of Kalamansig (Sultan Kudarat),044,S 65° W,Kalamansig (Sultan Kudarat)
-2026-01-19T22:37:00.000Z,19 January 2026 - 10:37 PM,11.76,125.23,046,2.0,019km N 69° E of Hinabangan (Samar),019,N 69° E,Hinabangan (Samar)
-2026-01-19T22:18:00.000Z,19 January 2026 - 10:18 PM,05.38,124.98,180,2.4,049km S 86° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),049,S 86° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
