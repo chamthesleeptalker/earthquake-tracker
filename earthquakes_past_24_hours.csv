@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T03:03:00.000Z,22 January 2026 - 03:03 AM,06.02,126.05,021,2.3,044km S 64° E of Don Marcelino (Davao Occidental),044,S 64° E,Don Marcelino (Davao Occidental)
+2026-01-22T02:42:00.000Z,22 January 2026 - 02:42 AM,18.70,121.01,014,2.4,013km N 36° W of Claveria (Cagayan),013,N 36° W,Claveria (Cagayan)
+2026-01-22T02:39:00.000Z,22 January 2026 - 02:39 AM,10.23,124.91,013,1.9,011km S 44° W of Tomas Oppus (Southern Leyte),011,S 44° W,Tomas Oppus (Southern Leyte)
 2026-01-22T02:09:00.000Z,22 January 2026 - 02:09 AM,06.41,123.63,010,2.7,049km S 71° W of Kalamansig (Sultan Kudarat),049,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-22T01:50:00.000Z,22 January 2026 - 01:50 AM,06.41,123.70,009,2.6,042km S 68° W of Kalamansig (Sultan Kudarat),042,S 68° W,Kalamansig (Sultan Kudarat)
 2026-01-22T01:21:00.000Z,22 January 2026 - 01:21 AM,08.92,126.31,032,3.3,001km East of Cagwait (Surigao Del Sur),001,East of Cagwait,Del Sur)
@@ -115,5 +118,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-21T05:09:00.000Z,21 January 2026 - 05:09 AM,06.48,123.72,002,2.7,038km S 77° W of Kalamansig (Sultan Kudarat),038,S 77° W,Kalamansig (Sultan Kudarat)
 2026-01-21T05:05:00.000Z,21 January 2026 - 05:05 AM,06.42,123.62,020,2.2,050km S 72° W of Kalamansig (Sultan Kudarat),050,S 72° W,Kalamansig (Sultan Kudarat)
 2026-01-21T04:46:00.000Z,21 January 2026 - 04:46 AM,12.87,124.82,016,3.2,036km N 19° W of Pambujan (Northern Samar),036,N 19° W,Pambujan (Northern Samar)
-2026-01-21T02:41:00.000Z,21 January 2026 - 02:41 AM,02.53,125.12,052,3.6,320km S 06° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),320,S 06° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-21T02:23:00.000Z,21 January 2026 - 02:23 AM,06.37,123.68,016,2.2,045km S 64° W of Kalamansig (Sultan Kudarat),045,S 64° W,Kalamansig (Sultan Kudarat)
