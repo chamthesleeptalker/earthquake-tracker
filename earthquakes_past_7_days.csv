@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T21:26:00.000Z,21 January 2026 - 09:26 PM,06.45,123.64,023,3.3,046km S 76° W of Kalamansig (Sultan Kudarat),046,S 76° W,Kalamansig (Sultan Kudarat)
+2026-01-21T21:20:00.000Z,21 January 2026 - 09:20 PM,06.39,123.66,017,2.7,047km S 67° W of Kalamansig (Sultan Kudarat),047,S 67° W,Kalamansig (Sultan Kudarat)
+2026-01-21T20:59:00.000Z,21 January 2026 - 08:59 PM,06.33,123.59,003,4.5,057km S 65° W of Kalamansig (Sultan Kudarat),057,S 65° W,Kalamansig (Sultan Kudarat)
+2026-01-21T20:54:00.000Z,21 January 2026 - 08:54 PM,06.43,123.68,010,3.3,044km S 71° W of Kalamansig (Sultan Kudarat),044,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-21T20:10:00.000Z,21 January 2026 - 08:10 PM,08.52,126.40,056,2.3,018km N 21° E of Hinatuan (Surigao Del Sur),018,N 21° E,Hinatuan (Surigao Del Sur)
 2026-01-21T19:55:00.000Z,21 January 2026 - 07:55 PM,06.33,123.68,021,4.4,047km S 59° W of Kalamansig (Sultan Kudarat),047,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-21T19:51:00.000Z,21 January 2026 - 07:51 PM,06.42,123.64,013,3.3,048km S 71° W of Kalamansig (Sultan Kudarat),048,S 71° W,Kalamansig (Sultan Kudarat)
@@ -377,7 +381,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T22:00:00.000Z,15 January 2026 - 10:00 PM,13.84,121.24,090,1.4,004km S 86° E of Rosario (Batangas),004,S 86° E,Rosario (Batangas)
 2026-01-15T21:42:00.000Z,15 January 2026 - 09:42 PM,17.54,120.39,003,2.1,001km S 40° E of Caoayan (Ilocos Sur),001,S 40° E,Caoayan (Ilocos Sur)
 2026-01-15T20:33:00.000Z,15 January 2026 - 08:33 PM,07.84,123.40,066,1.6,004km N 67° W of City Of Pagadian  (Zamboanga Del Sur),004,N 67° W,City Of Pagadian  (Zamboanga Del Sur)
-2026-01-14T20:17:00.000Z,14 January 2026 - 08:17 PM,07.23,126.90,010,2.6,040km N 86° E of Manay (Davao Oriental),040,N 86° E,Manay (Davao Oriental)
 2026-01-15T13:52:00.000Z,15 January 2026 - 01:52 PM,08.71,126.38,002,1.8,013km S 42° E of Marihatag (Surigao Del Sur),013,S 42° E,Marihatag (Surigao Del Sur)
 2026-01-15T12:39:00.000Z,15 January 2026 - 12:39 PM,15.80,121.05,035,1.7,006km N 87° E of San Jose City (Nueva Ecija),006,N 87° E,San Jose City (Nueva Ecija)
 2026-01-15T12:11:00.000Z,15 January 2026 - 12:11 PM,13.83,120.30,034,1.5,013km N 26° E of Looc (Occidental Mindoro),013,N 26° E,Looc (Occidental Mindoro)
@@ -407,6 +410,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-14T22:37:00.000Z,14 January 2026 - 10:37 PM,10.24,123.08,032,1.7,004km S 09° E of Moises Padilla (Negros Occidental),004,S 09° E,Moises Padilla (Negros Occidental)
 2026-01-14T22:37:00.000Z,14 January 2026 - 10:37 PM,10.27,123.09,016,1.3,002km S 77° E of Moises Padilla (Negros Occidental),002,S 77° E,Moises Padilla (Negros Occidental)
 2026-01-14T22:26:00.000Z,14 January 2026 - 10:26 PM,10.30,123.10,035,1.1,005km N 39° E of Moises Padilla (Negros Occidental),005,N 39° E,Moises Padilla (Negros Occidental)
-2026-01-14T20:31:00.000Z,14 January 2026 - 08:31 PM,07.26,126.97,006,1.9,048km N 83° E of Manay (Davao Oriental),048,N 83° E,Manay (Davao Oriental)
-2026-01-14T20:29:00.000Z,14 January 2026 - 08:29 PM,07.22,127.01,025,2.3,050km S 76° E of Caraga (Davao Oriental),050,S 76° E,Caraga (Davao Oriental)
-2026-01-14T20:16:00.000Z,14 January 2026 - 08:16 PM,07.26,127.07,018,2.5,059km N 84° E of Manay (Davao Oriental),059,N 84° E,Manay (Davao Oriental)
