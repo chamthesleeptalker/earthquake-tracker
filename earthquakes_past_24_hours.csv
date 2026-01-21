@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T15:31:00.000Z,21 January 2026 - 03:31 PM,06.59,123.89,022,2.1,019km N 77° W of Kalamansig (Sultan Kudarat),019,N 77° W,Kalamansig (Sultan Kudarat)
 2026-01-21T09:09:00.000Z,21 January 2026 - 09:09 AM,06.39,123.73,010,3.7,040km S 63° W of Kalamansig (Sultan Kudarat),040,S 63° W,Kalamansig (Sultan Kudarat)
 2026-01-21T15:00:00.000Z,21 January 2026 - 03:00 PM,06.53,123.78,031,2.4,030km S 84° W of Kalamansig (Sultan Kudarat),030,S 84° W,Kalamansig (Sultan Kudarat)
 2026-01-21T14:53:00.000Z,21 January 2026 - 02:53 PM,06.65,123.78,026,2.0,031km N 71° W of Kalamansig (Sultan Kudarat),031,N 71° W,Kalamansig (Sultan Kudarat)
@@ -119,4 +120,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T17:36:00.000Z,20 January 2026 - 05:36 PM,13.71,120.63,119,1.6,014km S 02° W of Calatagan (Batangas),014,S 02° W,Calatagan (Batangas)
 2026-01-20T17:19:00.000Z,20 January 2026 - 05:19 PM,06.50,123.75,003,2.6,034km S 79° W of Kalamansig (Sultan Kudarat),034,S 79° W,Kalamansig (Sultan Kudarat)
 2026-01-20T16:30:00.000Z,20 January 2026 - 04:30 PM,06.71,124.34,005,2.0,017km S 74° W of Datu Abdullah Sangki (Maguindanao Del Sur),017,S 74° W,Datu Abdullah Sangki (Maguindanao Del Sur)
-2026-01-20T15:17:00.000Z,20 January 2026 - 03:17 PM,09.86,122.31,020,2.3,017km N 52° W of City Of Sipalay (Negros Occidental),017,N 52° W,City Of Sipalay (Negros Occidental)
