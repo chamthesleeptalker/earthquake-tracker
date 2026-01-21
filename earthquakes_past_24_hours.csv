@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T02:09:00.000Z,22 January 2026 - 02:09 AM,06.41,123.63,010,2.7,049km S 71° W of Kalamansig (Sultan Kudarat),049,S 71° W,Kalamansig (Sultan Kudarat)
+2026-01-22T01:50:00.000Z,22 January 2026 - 01:50 AM,06.41,123.70,009,2.6,042km S 68° W of Kalamansig (Sultan Kudarat),042,S 68° W,Kalamansig (Sultan Kudarat)
 2026-01-22T01:21:00.000Z,22 January 2026 - 01:21 AM,08.92,126.31,032,3.3,001km East of Cagwait (Surigao Del Sur),001,East of Cagwait,Del Sur)
 2026-01-22T01:16:00.000Z,22 January 2026 - 01:16 AM,09.74,126.24,018,2.4,010km S 61° E of General Luna (Surigao Del Norte),010,S 61° E,General Luna (Surigao Del Norte)
 2026-01-22T00:38:00.000Z,22 January 2026 - 12:38 AM,06.38,123.76,002,1.5,038km S 60° W of Kalamansig (Sultan Kudarat),038,S 60° W,Kalamansig (Sultan Kudarat)
@@ -115,5 +117,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-21T04:46:00.000Z,21 January 2026 - 04:46 AM,12.87,124.82,016,3.2,036km N 19° W of Pambujan (Northern Samar),036,N 19° W,Pambujan (Northern Samar)
 2026-01-21T02:41:00.000Z,21 January 2026 - 02:41 AM,02.53,125.12,052,3.6,320km S 06° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),320,S 06° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-21T02:23:00.000Z,21 January 2026 - 02:23 AM,06.37,123.68,016,2.2,045km S 64° W of Kalamansig (Sultan Kudarat),045,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-21T01:52:00.000Z,21 January 2026 - 01:52 AM,06.44,123.74,007,2.5,037km S 68° W of Kalamansig (Sultan Kudarat),037,S 68° W,Kalamansig (Sultan Kudarat)
-2026-01-21T01:25:00.000Z,21 January 2026 - 01:25 AM,15.79,120.57,180,2.1,004km S 70° W of San Manuel (Tarlac),004,S 70° W,San Manuel (Tarlac)
