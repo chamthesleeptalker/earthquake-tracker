@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T20:10:00.000Z,21 January 2026 - 08:10 PM,08.52,126.40,056,2.3,018km N 21° E of Hinatuan (Surigao Del Sur),018,N 21° E,Hinatuan (Surigao Del Sur)
+2026-01-21T19:55:00.000Z,21 January 2026 - 07:55 PM,06.33,123.68,021,4.4,047km S 59° W of Kalamansig (Sultan Kudarat),047,S 59° W,Kalamansig (Sultan Kudarat)
+2026-01-21T19:51:00.000Z,21 January 2026 - 07:51 PM,06.42,123.64,013,3.3,048km S 71° W of Kalamansig (Sultan Kudarat),048,S 71° W,Kalamansig (Sultan Kudarat)
+2026-01-21T19:43:00.000Z,21 January 2026 - 07:43 PM,10.10,125.09,004,3.0,007km S 29° W of Liloan (Southern Leyte),007,S 29° W,Liloan (Southern Leyte)
 2026-01-21T19:02:00.000Z,21 January 2026 - 07:02 PM,11.36,121.85,010,4.2,021km N 69° W of Tibiao (Antique),021,N 69° W,Tibiao (Antique)
 2026-01-21T18:41:00.000Z,21 January 2026 - 06:41 PM,06.42,123.63,009,3.1,049km S 73° W of Kalamansig (Sultan Kudarat),049,S 73° W,Kalamansig (Sultan Kudarat)
 2026-01-21T18:28:00.000Z,21 January 2026 - 06:28 PM,06.43,123.70,010,2.8,042km S 70° W of Kalamansig (Sultan Kudarat),042,S 70° W,Kalamansig (Sultan Kudarat)
@@ -121,9 +125,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T21:08:00.000Z,20 January 2026 - 09:08 PM,06.42,123.74,006,2.1,038km S 67° W of Kalamansig (Sultan Kudarat),038,S 67° W,Kalamansig (Sultan Kudarat)
 2026-01-20T20:48:00.000Z,20 January 2026 - 08:48 PM,06.40,123.77,002,3.4,041km S 59° W of Kalamansig (Sultan Kudarat),041,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-20T20:13:00.000Z,20 January 2026 - 08:13 PM,06.35,123.82,008,2.4,034km S 48° W of Kalamansig (Sultan Kudarat),034,S 48° W,Kalamansig (Sultan Kudarat)
-2026-01-20T20:09:00.000Z,20 January 2026 - 08:09 PM,10.07,125.88,022,2.9,019km N 49° W of San Benito (Surigao Del Norte),019,N 49° W,San Benito (Surigao Del Norte)
-2026-01-20T19:49:00.000Z,20 January 2026 - 07:49 PM,06.37,123.71,017,2.8,043km S 61° W of Kalamansig (Sultan Kudarat),043,S 61° W,Kalamansig (Sultan Kudarat)
-2026-01-20T19:45:00.000Z,20 January 2026 - 07:45 PM,06.93,124.75,004,2.4,011km N 03° W of General Salipada K. Pendatun (Maguindanao Del Sur),011,N 03° W,General Salipada K. Pendatun (Maguindanao Del Sur)
-2026-01-20T19:35:00.000Z,20 January 2026 - 07:35 PM,18.66,122.11,004,2.5,023km N 08° W of Santa Ana (Cagayan),023,N 08° W,Santa Ana (Cagayan)
-2026-01-20T19:29:00.000Z,20 January 2026 - 07:29 PM,06.42,123.74,002,2.6,038km S 66° W of Kalamansig (Sultan Kudarat),038,S 66° W,Kalamansig (Sultan Kudarat)
-2026-01-20T19:08:00.000Z,20 January 2026 - 07:08 PM,06.37,123.70,016,2.4,045km S 64° W of Kalamansig (Sultan Kudarat),045,S 64° W,Kalamansig (Sultan Kudarat)
