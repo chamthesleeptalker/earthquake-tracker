@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T01:21:00.000Z,22 January 2026 - 01:21 AM,08.92,126.31,032,3.3,001km East of Cagwait (Surigao Del Sur),001,East of Cagwait,Del Sur)
+2026-01-22T01:16:00.000Z,22 January 2026 - 01:16 AM,09.74,126.24,018,2.4,010km S 61° E of General Luna (Surigao Del Norte),010,S 61° E,General Luna (Surigao Del Norte)
+2026-01-22T00:38:00.000Z,22 January 2026 - 12:38 AM,06.38,123.76,002,1.5,038km S 60° W of Kalamansig (Sultan Kudarat),038,S 60° W,Kalamansig (Sultan Kudarat)
+2026-01-22T00:36:00.000Z,22 January 2026 - 12:36 AM,07.32,126.80,007,3.2,031km N 66° E of Manay (Davao Oriental),031,N 66° E,Manay (Davao Oriental)
 2026-01-22T00:21:00.000Z,22 January 2026 - 12:21 AM,06.43,123.68,017,3.2,043km S 71° W of Kalamansig (Sultan Kudarat),043,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-22T00:17:00.000Z,22 January 2026 - 12:17 AM,06.41,123.63,002,3.3,049km S 71° W of Kalamansig (Sultan Kudarat),049,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-21T23:54:00.000Z,21 January 2026 - 11:54 PM,06.40,123.68,006,2.6,044km S 67° W of Kalamansig (Sultan Kudarat),044,S 67° W,Kalamansig (Sultan Kudarat)
@@ -113,6 +117,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-21T02:23:00.000Z,21 January 2026 - 02:23 AM,06.37,123.68,016,2.2,045km S 64° W of Kalamansig (Sultan Kudarat),045,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-21T01:52:00.000Z,21 January 2026 - 01:52 AM,06.44,123.74,007,2.5,037km S 68° W of Kalamansig (Sultan Kudarat),037,S 68° W,Kalamansig (Sultan Kudarat)
 2026-01-21T01:25:00.000Z,21 January 2026 - 01:25 AM,15.79,120.57,180,2.1,004km S 70° W of San Manuel (Tarlac),004,S 70° W,San Manuel (Tarlac)
-2026-01-21T00:29:00.000Z,21 January 2026 - 12:29 AM,09.96,126.55,034,2.8,048km N 66° E of General Luna (Surigao Del Norte),048,N 66° E,General Luna (Surigao Del Norte)
-2026-01-21T00:23:00.000Z,21 January 2026 - 12:23 AM,06.99,124.07,012,1.9,010km S 76° W of Upi (Maguindanao Del Norte),010,S 76° W,Upi (Maguindanao Del Norte)
-2026-01-21T00:22:00.000Z,21 January 2026 - 12:22 AM,11.02,123.93,007,2.4,006km S 61° W of City Of Bogo (Cebu),006,S 61° W,City Of Bogo (Cebu)
