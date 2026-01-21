@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T19:02:00.000Z,21 January 2026 - 07:02 PM,11.36,121.85,010,4.2,021km N 69° W of Tibiao (Antique),021,N 69° W,Tibiao (Antique)
 2026-01-21T18:41:00.000Z,21 January 2026 - 06:41 PM,06.42,123.63,009,3.1,049km S 73° W of Kalamansig (Sultan Kudarat),049,S 73° W,Kalamansig (Sultan Kudarat)
 2026-01-21T18:28:00.000Z,21 January 2026 - 06:28 PM,06.43,123.70,010,2.8,042km S 70° W of Kalamansig (Sultan Kudarat),042,S 70° W,Kalamansig (Sultan Kudarat)
 2026-01-21T18:25:00.000Z,21 January 2026 - 06:25 PM,07.63,126.61,019,1.7,009km N 41° E of Baganga (Davao Oriental),009,N 41° E,Baganga (Davao Oriental)
@@ -126,5 +127,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T19:35:00.000Z,20 January 2026 - 07:35 PM,18.66,122.11,004,2.5,023km N 08° W of Santa Ana (Cagayan),023,N 08° W,Santa Ana (Cagayan)
 2026-01-20T19:29:00.000Z,20 January 2026 - 07:29 PM,06.42,123.74,002,2.6,038km S 66° W of Kalamansig (Sultan Kudarat),038,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-20T19:08:00.000Z,20 January 2026 - 07:08 PM,06.37,123.70,016,2.4,045km S 64° W of Kalamansig (Sultan Kudarat),045,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-20T18:48:00.000Z,20 January 2026 - 06:48 PM,06.34,123.81,008,2.0,036km S 48° W of Kalamansig (Sultan Kudarat),036,S 48° W,Kalamansig (Sultan Kudarat)
-2026-01-20T18:43:00.000Z,20 January 2026 - 06:43 PM,06.48,123.75,023,2.4,035km S 77° W of Kalamansig (Sultan Kudarat),035,S 77° W,Kalamansig (Sultan Kudarat)
