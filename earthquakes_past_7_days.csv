@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T03:41:00.000Z,22 January 2026 - 03:41 AM,08.59,126.57,023,1.6,036km N 46° E of Hinatuan (Surigao Del Sur),036,N 46° E,Hinatuan (Surigao Del Sur)
+2026-01-22T03:26:00.000Z,22 January 2026 - 03:26 AM,06.38,123.69,014,2.3,044km S 64° W of Kalamansig (Sultan Kudarat),044,S 64° W,Kalamansig (Sultan Kudarat)
+2026-01-22T03:18:00.000Z,22 January 2026 - 03:18 AM,06.33,123.72,024,3.0,045km S 56° W of Kalamansig (Sultan Kudarat),045,S 56° W,Kalamansig (Sultan Kudarat)
 2026-01-22T03:03:00.000Z,22 January 2026 - 03:03 AM,06.02,126.05,021,2.3,044km S 64° E of Don Marcelino (Davao Occidental),044,S 64° E,Don Marcelino (Davao Occidental)
 2026-01-22T02:42:00.000Z,22 January 2026 - 02:42 AM,18.70,121.01,014,2.4,013km N 36° W of Claveria (Cagayan),013,N 36° W,Claveria (Cagayan)
 2026-01-22T02:39:00.000Z,22 January 2026 - 02:39 AM,10.23,124.91,013,1.9,011km S 44° W of Tomas Oppus (Southern Leyte),011,S 44° W,Tomas Oppus (Southern Leyte)
@@ -418,4 +421,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T05:29:00.000Z,15 January 2026 - 05:29 AM,13.72,120.57,098,1.4,014km S 28° W of Calatagan (Batangas),014,S 28° W,Calatagan (Batangas)
 2026-01-15T03:59:00.000Z,15 January 2026 - 03:59 AM,09.51,122.73,024,2.1,015km N 42° E of Basay (Negros Oriental),015,N 42° E,Basay (Negros Oriental)
 2026-01-15T03:48:00.000Z,15 January 2026 - 03:48 AM,16.06,121.55,011,2.3,019km S 18° W of Nagtipunan (Quirino),019,S 18° W,Nagtipunan (Quirino)
-2026-01-15T03:21:00.000Z,15 January 2026 - 03:21 AM,08.67,125.56,004,2.0,009km S 82° W of Esperanza (Agusan Del Sur),009,S 82° W,Esperanza (Agusan Del Sur)
