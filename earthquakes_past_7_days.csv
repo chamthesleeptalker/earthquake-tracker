@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T07:18:00.000Z,22 January 2026 - 07:18 AM,06.36,123.71,011,3.3,044km S 60° W of Kalamansig (Sultan Kudarat),044,S 60° W,Kalamansig (Sultan Kudarat)
 2026-01-22T07:13:00.000Z,22 January 2026 - 07:13 AM,18.41,120.70,001,3.1,012km S 27° E of Burgos (Ilocos Norte),012,S 27° E,Burgos (Ilocos Norte)
 2026-01-22T06:59:00.000Z,22 January 2026 - 06:59 AM,09.35,126.99,001,2.4,088km N 85° E of Cortes (Surigao Del Sur),088,N 85° E,Cortes (Surigao Del Sur)
 2026-01-22T06:49:00.000Z,22 January 2026 - 06:49 AM,06.57,123.84,018,2.4,023km N 87° W of Kalamansig (Sultan Kudarat),023,N 87° W,Kalamansig (Sultan Kudarat)
@@ -423,4 +424,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T09:21:00.000Z,15 January 2026 - 09:21 AM,11.09,123.97,010,1.4,005km N 11° W of City Of Bogo (Cebu),005,N 11° W,City Of Bogo (Cebu)
 2026-01-15T09:10:00.000Z,15 January 2026 - 09:10 AM,10.46,123.14,001,2.2,012km N 47° W of City Of Canlaon (Negros Oriental),012,N 47° W,City Of Canlaon (Negros Oriental)
 2026-01-15T08:04:00.000Z,15 January 2026 - 08:04 AM,10.46,123.07,010,2.8,016km N 78° E of City Of La Carlota (Negros Occidental),016,N 78° E,City Of La Carlota (Negros Occidental)
-2026-01-15T07:13:00.000Z,15 January 2026 - 07:13 AM,06.82,123.91,033,1.6,030km S 23° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 23° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
