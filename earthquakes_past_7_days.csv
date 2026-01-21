@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T06:11:00.000Z,22 January 2026 - 06:11 AM,13.62,120.63,076,1.6,022km N 28° W of Abra De Ilog (Occidental Mindoro),022,N 28° W,Abra De Ilog (Occidental Mindoro)
+2026-01-22T06:00:00.000Z,22 January 2026 - 06:00 AM,06.48,123.72,008,1.9,038km S 77° W of Kalamansig (Sultan Kudarat),038,S 77° W,Kalamansig (Sultan Kudarat)
+2026-01-22T05:26:00.000Z,22 January 2026 - 05:26 AM,20.50,121.06,034,3.7,087km N 78° W of Sabtang (Batanes),087,N 78° W,Sabtang (Batanes)
 2026-01-22T04:36:00.000Z,22 January 2026 - 04:36 AM,06.50,123.76,003,2.4,033km S 80° W of Kalamansig (Sultan Kudarat),033,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-22T03:57:00.000Z,22 January 2026 - 03:57 AM,06.06,124.79,033,2.2,018km S 13° W of T'boli (South Cotabato),018,S 13° W,T'boli (South Cotabato)
 2026-01-22T03:41:00.000Z,22 January 2026 - 03:41 AM,08.59,126.57,023,1.6,036km N 46° E of Hinatuan (Surigao Del Sur),036,N 46° E,Hinatuan (Surigao Del Sur)
@@ -419,5 +422,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T08:04:00.000Z,15 January 2026 - 08:04 AM,10.46,123.07,010,2.8,016km N 78° E of City Of La Carlota (Negros Occidental),016,N 78° E,City Of La Carlota (Negros Occidental)
 2026-01-15T07:13:00.000Z,15 January 2026 - 07:13 AM,06.82,123.91,033,1.6,030km S 23° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),030,S 23° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-15T06:38:00.000Z,15 January 2026 - 06:38 AM,15.39,120.08,034,1.2,013km N 29° E of Botolan (Zambales),013,N 29° E,Botolan (Zambales)
-2026-01-15T06:10:00.000Z,15 January 2026 - 06:10 AM,14.04,123.66,003,2.1,017km N 13° W of Garchitorena (Camarines Sur),017,N 13° W,Garchitorena (Camarines Sur)
-2026-01-15T05:29:00.000Z,15 January 2026 - 05:29 AM,13.72,120.57,098,1.4,014km S 28° W of Calatagan (Batangas),014,S 28° W,Calatagan (Batangas)
