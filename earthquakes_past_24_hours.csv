@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-21T13:14:00.000Z,21 January 2026 - 01:14 PM,06.45,123.72,015,4.4,038km S 72° W of Kalamansig (Sultan Kudarat),038,S 72° W,Kalamansig (Sultan Kudarat)
+2026-01-21T12:52:00.000Z,21 January 2026 - 12:52 PM,06.57,123.79,025,2.0,029km N 88° W of Kalamansig (Sultan Kudarat),029,N 88° W,Kalamansig (Sultan Kudarat)
+2026-01-21T12:41:00.000Z,21 January 2026 - 12:41 PM,06.49,123.69,003,3.4,041km S 79° W of Kalamansig (Sultan Kudarat),041,S 79° W,Kalamansig (Sultan Kudarat)
 2026-01-21T12:22:00.000Z,21 January 2026 - 12:22 PM,06.90,126.72,023,2.3,040km S 30° E of Manay (Davao Oriental),040,S 30° E,Manay (Davao Oriental)
 2026-01-21T12:20:00.000Z,21 January 2026 - 12:20 PM,06.65,123.82,015,2.1,028km N 68° W of Kalamansig (Sultan Kudarat),028,N 68° W,Kalamansig (Sultan Kudarat)
 2026-01-21T12:14:00.000Z,21 January 2026 - 12:14 PM,05.99,125.18,031,2.3,013km S 02° E of City Of General Santos,013,S 02° E,City Of General Santos
@@ -103,5 +106,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T14:43:00.000Z,20 January 2026 - 02:43 PM,09.02,126.32,040,4.2,006km N 35° E of Bayabas (Surigao Del Sur),006,N 35° E,Bayabas (Surigao Del Sur)
 2026-01-20T13:45:00.000Z,20 January 2026 - 01:45 PM,06.63,123.87,008,2.7,021km N 66° W of Kalamansig (Sultan Kudarat),021,N 66° W,Kalamansig (Sultan Kudarat)
 2026-01-20T13:36:00.000Z,20 January 2026 - 01:36 PM,06.46,123.75,003,3.1,034km S 73° W of Kalamansig (Sultan Kudarat),034,S 73° W,Kalamansig (Sultan Kudarat)
-2026-01-20T13:02:00.000Z,20 January 2026 - 01:02 PM,11.60,122.09,010,3.4,001km N 09° W of Sebaste (Antique),001,N 09° W,Sebaste (Antique)
-2026-01-20T12:38:00.000Z,20 January 2026 - 12:38 PM,06.43,123.74,004,4.1,037km S 68° W of Kalamansig (Sultan Kudarat),037,S 68° W,Kalamansig (Sultan Kudarat)
