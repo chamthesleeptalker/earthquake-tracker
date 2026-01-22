@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T04:11:00.000Z,23 January 2026 - 04:11 AM,06.26,123.67,021,2.8,054km S 52° W of Kalamansig (Sultan Kudarat),054,S 52° W,Kalamansig (Sultan Kudarat)
+2026-01-23T04:06:00.000Z,23 January 2026 - 04:06 AM,06.33,123.71,010,4.5,045km S 56° W of Kalamansig (Sultan Kudarat),045,S 56° W,Kalamansig (Sultan Kudarat)
+2026-01-23T04:03:00.000Z,23 January 2026 - 04:03 AM,06.43,123.67,016,2.1,045km S 72° W of Kalamansig (Sultan Kudarat),045,S 72° W,Kalamansig (Sultan Kudarat)
+2026-01-23T03:48:00.000Z,23 January 2026 - 03:48 AM,06.29,123.67,008,2.2,051km S 55° W of Kalamansig (Sultan Kudarat),051,S 55° W,Kalamansig (Sultan Kudarat)
+2026-01-23T03:32:00.000Z,23 January 2026 - 03:32 AM,07.72,124.08,006,2.3,005km S 04° W of Pagayawan (Lanao Del Sur),005,S 04° W,Pagayawan (Lanao Del Sur)
 2026-01-23T03:29:00.000Z,23 January 2026 - 03:29 AM,06.58,123.78,010,2.6,030km N 85° W of Kalamansig (Sultan Kudarat),030,N 85° W,Kalamansig (Sultan Kudarat)
 2026-01-23T03:26:00.000Z,23 January 2026 - 03:26 AM,08.15,122.83,008,2.9,010km N 60° E of Salug (Zamboanga Del Norte),010,N 60° E,Salug (Zamboanga Del Norte)
 2026-01-23T03:16:00.000Z,23 January 2026 - 03:16 AM,06.48,123.65,008,2.0,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
@@ -466,6 +471,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T05:46:00.000Z,16 January 2026 - 05:46 AM,20.16,121.82,024,2.9,020km S 18° W of Sabtang (Batanes),020,S 18° W,Sabtang (Batanes)
 2026-01-16T04:48:00.000Z,16 January 2026 - 04:48 AM,10.93,123.95,005,2.8,013km S 13° W of City Of Bogo (Cebu),013,S 13° W,City Of Bogo (Cebu)
 2026-01-16T04:30:00.000Z,16 January 2026 - 04:30 AM,13.82,120.52,116,1.8,012km S 83° W of Calatagan (Batangas),012,S 83° W,Calatagan (Batangas)
-2026-01-16T03:59:00.000Z,16 January 2026 - 03:59 AM,17.26,120.47,092,1.6,003km N 09° E of Banayoyo (Ilocos Sur),003,N 09° E,Banayoyo (Ilocos Sur)
-2026-01-16T03:50:00.000Z,16 January 2026 - 03:50 AM,06.41,127.52,034,4.2,138km S 59° E of Tarragona (Davao Oriental),138,S 59° E,Tarragona (Davao Oriental)
-2026-01-16T03:30:00.000Z,16 January 2026 - 03:30 AM,11.49,125.39,008,2.7,014km S 18° W of City Of Borongan (Eastern Samar),014,S 18° W,City Of Borongan (Eastern Samar)

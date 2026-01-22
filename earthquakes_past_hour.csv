@@ -1,5 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T04:11:00.000Z,23 January 2026 - 04:11 AM,06.26,123.67,021,2.8,054km S 52° W of Kalamansig (Sultan Kudarat),054,S 52° W,Kalamansig (Sultan Kudarat)
+2026-01-23T04:06:00.000Z,23 January 2026 - 04:06 AM,06.33,123.71,010,4.5,045km S 56° W of Kalamansig (Sultan Kudarat),045,S 56° W,Kalamansig (Sultan Kudarat)
+2026-01-23T04:03:00.000Z,23 January 2026 - 04:03 AM,06.43,123.67,016,2.1,045km S 72° W of Kalamansig (Sultan Kudarat),045,S 72° W,Kalamansig (Sultan Kudarat)
+2026-01-23T03:48:00.000Z,23 January 2026 - 03:48 AM,06.29,123.67,008,2.2,051km S 55° W of Kalamansig (Sultan Kudarat),051,S 55° W,Kalamansig (Sultan Kudarat)
+2026-01-23T03:32:00.000Z,23 January 2026 - 03:32 AM,07.72,124.08,006,2.3,005km S 04° W of Pagayawan (Lanao Del Sur),005,S 04° W,Pagayawan (Lanao Del Sur)
 2026-01-23T03:29:00.000Z,23 January 2026 - 03:29 AM,06.58,123.78,010,2.6,030km N 85° W of Kalamansig (Sultan Kudarat),030,N 85° W,Kalamansig (Sultan Kudarat)
 2026-01-23T03:26:00.000Z,23 January 2026 - 03:26 AM,08.15,122.83,008,2.9,010km N 60° E of Salug (Zamboanga Del Norte),010,N 60° E,Salug (Zamboanga Del Norte)
 2026-01-23T03:16:00.000Z,23 January 2026 - 03:16 AM,06.48,123.65,008,2.0,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
-2026-01-23T03:07:00.000Z,23 January 2026 - 03:07 AM,07.97,126.05,010,2.1,003km S 63° E of Santa Josefa (Agusan Del Sur),003,S 63° E,Santa Josefa (Agusan Del Sur)
