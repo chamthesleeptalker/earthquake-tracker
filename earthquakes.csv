@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T03:29:00.000Z,23 January 2026 - 03:29 AM,06.58,123.78,010,2.6,030km N 85° W of Kalamansig (Sultan Kudarat),030,N 85° W,Kalamansig (Sultan Kudarat)
+2026-01-23T03:26:00.000Z,23 January 2026 - 03:26 AM,08.15,122.83,008,2.9,010km N 60° E of Salug (Zamboanga Del Norte),010,N 60° E,Salug (Zamboanga Del Norte)
+2026-01-23T03:16:00.000Z,23 January 2026 - 03:16 AM,06.48,123.65,008,2.0,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-23T03:07:00.000Z,23 January 2026 - 03:07 AM,07.97,126.05,010,2.1,003km S 63° E of Santa Josefa (Agusan Del Sur),003,S 63° E,Santa Josefa (Agusan Del Sur)
 2026-01-23T02:09:00.000Z,23 January 2026 - 02:09 AM,11.42,121.94,002,2.8,012km S 88° W of Culasi (Antique),012,S 88° W,Culasi (Antique)
 2026-01-23T02:04:00.000Z,23 January 2026 - 02:04 AM,13.66,122.97,007,2.2,010km S 07° W of Sipocot (Camarines Sur),010,S 07° W,Sipocot (Camarines Sur)
