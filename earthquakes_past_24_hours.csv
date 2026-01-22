@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T07:08:00.000Z,23 January 2026 - 07:08 AM,06.56,123.81,008,1.5,027km N 89° W of Kalamansig (Sultan Kudarat),027,N 89° W,Kalamansig (Sultan Kudarat)
+2026-01-23T06:53:00.000Z,23 January 2026 - 06:53 AM,06.43,123.70,021,2.4,041km S 70° W of Kalamansig (Sultan Kudarat),041,S 70° W,Kalamansig (Sultan Kudarat)
 2026-01-23T06:26:00.000Z,23 January 2026 - 06:26 AM,06.41,123.61,025,2.0,051km S 72° W of Kalamansig (Sultan Kudarat),051,S 72° W,Kalamansig (Sultan Kudarat)
 2026-01-23T06:23:00.000Z,23 January 2026 - 06:23 AM,06.55,123.71,010,2.1,038km S 89° W of Kalamansig (Sultan Kudarat),038,S 89° W,Kalamansig (Sultan Kudarat)
 2026-01-23T06:02:00.000Z,23 January 2026 - 06:02 AM,06.41,123.76,009,2.5,036km S 64° W of Kalamansig (Sultan Kudarat),036,S 64° W,Kalamansig (Sultan Kudarat)
@@ -75,5 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T07:52:00.000Z,22 January 2026 - 07:52 AM,05.26,125.91,079,3.2,054km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),054,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-22T07:18:00.000Z,22 January 2026 - 07:18 AM,06.36,123.71,011,3.3,044km S 60° W of Kalamansig (Sultan Kudarat),044,S 60° W,Kalamansig (Sultan Kudarat)
 2026-01-22T07:13:00.000Z,22 January 2026 - 07:13 AM,18.41,120.70,001,3.1,012km S 27° E of Burgos (Ilocos Norte),012,S 27° E,Burgos (Ilocos Norte)
-2026-01-22T06:59:00.000Z,22 January 2026 - 06:59 AM,09.35,126.99,001,2.4,088km N 85° E of Cortes (Surigao Del Sur),088,N 85° E,Cortes (Surigao Del Sur)
-2026-01-22T06:49:00.000Z,22 January 2026 - 06:49 AM,06.57,123.84,018,2.4,023km N 87° W of Kalamansig (Sultan Kudarat),023,N 87° W,Kalamansig (Sultan Kudarat)
