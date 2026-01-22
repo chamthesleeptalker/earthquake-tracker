@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T19:03:00.000Z,22 January 2026 - 07:03 PM,06.46,123.74,012,1.9,036km S 73° W of Kalamansig (Sultan Kudarat),036,S 73° W,Kalamansig (Sultan Kudarat)
+2026-01-22T18:57:00.000Z,22 January 2026 - 06:57 PM,06.46,123.68,004,2.8,043km S 75° W of Kalamansig (Sultan Kudarat),043,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-22T18:53:00.000Z,22 January 2026 - 06:53 PM,06.61,123.68,021,1.5,041km N 82° W of Kalamansig (Sultan Kudarat),041,N 82° W,Kalamansig (Sultan Kudarat)
+2026-01-22T18:52:00.000Z,22 January 2026 - 06:52 PM,06.31,123.67,024,1.9,049km S 57° W of Kalamansig (Sultan Kudarat),049,S 57° W,Kalamansig (Sultan Kudarat)
 2026-01-22T18:31:00.000Z,22 January 2026 - 06:31 PM,06.37,123.68,023,1.7,046km S 64° W of Kalamansig (Sultan Kudarat),046,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-22T17:28:00.000Z,22 January 2026 - 05:28 PM,06.44,123.63,020,2.5,048km S 74° W of Kalamansig (Sultan Kudarat),048,S 74° W,Kalamansig (Sultan Kudarat)
 2026-01-22T17:15:00.000Z,22 January 2026 - 05:15 PM,06.36,123.60,008,1.9,054km S 67° W of Kalamansig (Sultan Kudarat),054,S 67° W,Kalamansig (Sultan Kudarat)
@@ -69,5 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-21T19:55:00.000Z,21 January 2026 - 07:55 PM,06.33,123.68,021,4.4,047km S 59° W of Kalamansig (Sultan Kudarat),047,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-21T19:51:00.000Z,21 January 2026 - 07:51 PM,06.42,123.64,013,3.3,048km S 71° W of Kalamansig (Sultan Kudarat),048,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-21T19:43:00.000Z,21 January 2026 - 07:43 PM,10.10,125.09,004,3.0,007km S 29° W of Liloan (Southern Leyte),007,S 29° W,Liloan (Southern Leyte)
-2026-01-21T19:02:00.000Z,21 January 2026 - 07:02 PM,11.36,121.85,010,4.2,021km N 69° W of Tibiao (Antique),021,N 69° W,Tibiao (Antique)
-2026-01-21T18:41:00.000Z,21 January 2026 - 06:41 PM,06.42,123.63,009,3.1,049km S 73° W of Kalamansig (Sultan Kudarat),049,S 73° W,Kalamansig (Sultan Kudarat)
