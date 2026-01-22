@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T03:07:00.000Z,23 January 2026 - 03:07 AM,07.97,126.05,010,2.1,003km S 63° E of Santa Josefa (Agusan Del Sur),003,S 63° E,Santa Josefa (Agusan Del Sur)
 2026-01-23T02:09:00.000Z,23 January 2026 - 02:09 AM,11.42,121.94,002,2.8,012km S 88° W of Culasi (Antique),012,S 88° W,Culasi (Antique)
 2026-01-23T02:04:00.000Z,23 January 2026 - 02:04 AM,13.66,122.97,007,2.2,010km S 07° W of Sipocot (Camarines Sur),010,S 07° W,Sipocot (Camarines Sur)
 2026-01-23T02:03:00.000Z,23 January 2026 - 02:03 AM,07.53,126.50,013,2.0,009km S 55° W of Baganga (Davao Oriental),009,S 55° W,Baganga (Davao Oriental)
@@ -63,7 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T03:41:00.000Z,22 January 2026 - 03:41 AM,08.59,126.57,023,1.6,036km N 46° E of Hinatuan (Surigao Del Sur),036,N 46° E,Hinatuan (Surigao Del Sur)
 2026-01-22T03:26:00.000Z,22 January 2026 - 03:26 AM,06.38,123.69,014,2.3,044km S 64° W of Kalamansig (Sultan Kudarat),044,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-22T03:18:00.000Z,22 January 2026 - 03:18 AM,06.33,123.72,024,3.0,045km S 56° W of Kalamansig (Sultan Kudarat),045,S 56° W,Kalamansig (Sultan Kudarat)
-2026-01-22T03:03:00.000Z,22 January 2026 - 03:03 AM,06.02,126.05,021,2.3,044km S 64° E of Don Marcelino (Davao Occidental),044,S 64° E,Don Marcelino (Davao Occidental)
-2026-01-22T02:42:00.000Z,22 January 2026 - 02:42 AM,18.70,121.01,014,2.4,013km N 36° W of Claveria (Cagayan),013,N 36° W,Claveria (Cagayan)
-2026-01-22T02:39:00.000Z,22 January 2026 - 02:39 AM,10.23,124.91,013,1.9,011km S 44° W of Tomas Oppus (Southern Leyte),011,S 44° W,Tomas Oppus (Southern Leyte)
-2026-01-22T02:09:00.000Z,22 January 2026 - 02:09 AM,06.41,123.63,010,2.7,049km S 71° W of Kalamansig (Sultan Kudarat),049,S 71° W,Kalamansig (Sultan Kudarat)
