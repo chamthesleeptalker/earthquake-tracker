@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T01:27:00.000Z,23 January 2026 - 01:27 AM,06.53,123.69,006,3.0,040km S 86° W of Kalamansig (Sultan Kudarat),040,S 86° W,Kalamansig (Sultan Kudarat)
+2026-01-23T01:22:00.000Z,23 January 2026 - 01:22 AM,06.29,123.80,032,1.3,040km S 43° W of Kalamansig (Sultan Kudarat),040,S 43° W,Kalamansig (Sultan Kudarat)
 2026-01-23T00:38:00.000Z,23 January 2026 - 12:38 AM,13.48,120.37,032,1.7,013km N 55° W of Paluan (Occidental Mindoro),013,N 55° W,Paluan (Occidental Mindoro)
 2026-01-23T00:34:00.000Z,23 January 2026 - 12:34 AM,13.89,120.37,056,1.3,023km N 34° E of Looc (Occidental Mindoro),023,N 34° E,Looc (Occidental Mindoro)
 2026-01-23T00:33:00.000Z,23 January 2026 - 12:33 AM,06.44,123.75,009,3.0,035km S 68° W of Kalamansig (Sultan Kudarat),035,S 68° W,Kalamansig (Sultan Kudarat)
