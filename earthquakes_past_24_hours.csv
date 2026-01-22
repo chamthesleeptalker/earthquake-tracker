@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T06:26:00.000Z,23 January 2026 - 06:26 AM,06.41,123.61,025,2.0,051km S 72° W of Kalamansig (Sultan Kudarat),051,S 72° W,Kalamansig (Sultan Kudarat)
+2026-01-23T06:23:00.000Z,23 January 2026 - 06:23 AM,06.55,123.71,010,2.1,038km S 89° W of Kalamansig (Sultan Kudarat),038,S 89° W,Kalamansig (Sultan Kudarat)
 2026-01-23T06:02:00.000Z,23 January 2026 - 06:02 AM,06.41,123.76,009,2.5,036km S 64° W of Kalamansig (Sultan Kudarat),036,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-23T05:56:00.000Z,23 January 2026 - 05:56 AM,06.40,123.68,003,1.9,044km S 67° W of Kalamansig (Sultan Kudarat),044,S 67° W,Kalamansig (Sultan Kudarat)
 2026-01-23T05:54:00.000Z,23 January 2026 - 05:54 AM,12.55,120.72,035,1.4,024km S 84° W of Calintaan (Occidental Mindoro),024,S 84° W,Calintaan (Occidental Mindoro)
@@ -75,4 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T07:13:00.000Z,22 January 2026 - 07:13 AM,18.41,120.70,001,3.1,012km S 27° E of Burgos (Ilocos Norte),012,S 27° E,Burgos (Ilocos Norte)
 2026-01-22T06:59:00.000Z,22 January 2026 - 06:59 AM,09.35,126.99,001,2.4,088km N 85° E of Cortes (Surigao Del Sur),088,N 85° E,Cortes (Surigao Del Sur)
 2026-01-22T06:49:00.000Z,22 January 2026 - 06:49 AM,06.57,123.84,018,2.4,023km N 87° W of Kalamansig (Sultan Kudarat),023,N 87° W,Kalamansig (Sultan Kudarat)
-2026-01-22T06:11:00.000Z,22 January 2026 - 06:11 AM,13.62,120.63,076,1.6,022km N 28° W of Abra De Ilog (Occidental Mindoro),022,N 28° W,Abra De Ilog (Occidental Mindoro)
