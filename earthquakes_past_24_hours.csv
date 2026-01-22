@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T06:02:00.000Z,23 January 2026 - 06:02 AM,06.41,123.76,009,2.5,036km S 64° W of Kalamansig (Sultan Kudarat),036,S 64° W,Kalamansig (Sultan Kudarat)
+2026-01-23T05:56:00.000Z,23 January 2026 - 05:56 AM,06.40,123.68,003,1.9,044km S 67° W of Kalamansig (Sultan Kudarat),044,S 67° W,Kalamansig (Sultan Kudarat)
+2026-01-23T05:54:00.000Z,23 January 2026 - 05:54 AM,12.55,120.72,035,1.4,024km S 84° W of Calintaan (Occidental Mindoro),024,S 84° W,Calintaan (Occidental Mindoro)
+2026-01-23T05:53:00.000Z,23 January 2026 - 05:53 AM,06.28,123.69,019,2.4,051km S 52° W of Kalamansig (Sultan Kudarat),051,S 52° W,Kalamansig (Sultan Kudarat)
+2026-01-23T05:51:00.000Z,23 January 2026 - 05:51 AM,15.35,122.24,032,1.6,063km N 28° E of Burdeos (Quezon),063,N 28° E,Burdeos (Quezon)
+2026-01-23T05:39:00.000Z,23 January 2026 - 05:39 AM,05.66,126.61,018,2.6,111km S 75° E of Jose Abad Santos (Davao Occidental),111,S 75° E,Jose Abad Santos (Davao Occidental)
 2026-01-23T05:21:00.000Z,23 January 2026 - 05:21 AM,06.41,123.67,020,2.3,045km S 69° W of Kalamansig (Sultan Kudarat),045,S 69° W,Kalamansig (Sultan Kudarat)
 2026-01-23T05:27:00.000Z,23 January 2026 - 05:27 AM,06.44,123.71,009,3.4,040km S 71° W of Kalamansig (Sultan Kudarat),040,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-23T05:21:00.000Z,23 January 2026 - 05:21 AM,12.13,120.95,034,1.8,028km S 27° W of San Jose (Occidental Mindoro),028,S 27° W,San Jose (Occidental Mindoro)
@@ -70,4 +76,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T06:59:00.000Z,22 January 2026 - 06:59 AM,09.35,126.99,001,2.4,088km N 85° E of Cortes (Surigao Del Sur),088,N 85° E,Cortes (Surigao Del Sur)
 2026-01-22T06:49:00.000Z,22 January 2026 - 06:49 AM,06.57,123.84,018,2.4,023km N 87° W of Kalamansig (Sultan Kudarat),023,N 87° W,Kalamansig (Sultan Kudarat)
 2026-01-22T06:11:00.000Z,22 January 2026 - 06:11 AM,13.62,120.63,076,1.6,022km N 28° W of Abra De Ilog (Occidental Mindoro),022,N 28° W,Abra De Ilog (Occidental Mindoro)
-2026-01-22T06:00:00.000Z,22 January 2026 - 06:00 AM,06.48,123.72,008,1.9,038km S 77° W of Kalamansig (Sultan Kudarat),038,S 77° W,Kalamansig (Sultan Kudarat)
