@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T22:41:00.000Z,22 January 2026 - 10:41 PM,06.53,123.67,006,2.8,042km S 86° W of Kalamansig (Sultan Kudarat),042,S 86° W,Kalamansig (Sultan Kudarat)
+2026-01-22T22:36:00.000Z,22 January 2026 - 10:36 PM,05.78,125.92,090,2.5,034km S 65° E of Jose Abad Santos (Davao Occidental),034,S 65° E,Jose Abad Santos (Davao Occidental)
+2026-01-22T22:31:00.000Z,22 January 2026 - 10:31 PM,06.45,123.73,027,2.0,037km S 71° W of Kalamansig (Sultan Kudarat),037,S 71° W,Kalamansig (Sultan Kudarat)
+2026-01-22T22:25:00.000Z,22 January 2026 - 10:25 PM,06.47,123.68,003,2.5,042km S 77° W of Kalamansig (Sultan Kudarat),042,S 77° W,Kalamansig (Sultan Kudarat)
 2026-01-22T22:05:00.000Z,22 January 2026 - 10:05 PM,06.56,123.41,034,2.0,070km West of Kalamansig (Sultan Kudarat),070,West of Kalamansig,Kudarat)
 2026-01-22T21:59:00.000Z,22 January 2026 - 09:59 PM,08.39,123.20,018,3.0,015km S 12° W of President Manuel A. Roxas (Zamboanga Del Norte),015,S 12° W,President Manuel A. Roxas (Zamboanga Del Norte)
 2026-01-21T22:49:00.000Z,21 January 2026 - 10:49 PM,06.59,123.74,017,2.6,035km N 84° W of Kalamansig (Sultan Kudarat),035,N 84° W,Kalamansig (Sultan Kudarat)
@@ -64,5 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-21T22:56:00.000Z,21 January 2026 - 10:56 PM,09.79,126.91,031,4.2,083km N 90° E of General Luna (Surigao Del Norte),083,N 90° E,General Luna (Surigao Del Norte)
 2026-01-21T22:48:00.000Z,21 January 2026 - 10:48 PM,06.57,123.72,003,2.5,037km N 88° W of Kalamansig (Sultan Kudarat),037,N 88° W,Kalamansig (Sultan Kudarat)
 2026-01-21T22:43:00.000Z,21 January 2026 - 10:43 PM,08.46,126.69,029,2.1,041km N 75° E of Hinatuan (Surigao Del Sur),041,N 75° E,Hinatuan (Surigao Del Sur)
-2026-01-21T22:39:00.000Z,21 January 2026 - 10:39 PM,08.47,126.62,015,3.4,033km N 70° E of Hinatuan (Surigao Del Sur),033,N 70° E,Hinatuan (Surigao Del Sur)
-2026-01-21T22:17:00.000Z,21 January 2026 - 10:17 PM,06.41,123.73,008,2.4,039km S 66° W of Kalamansig (Sultan Kudarat),039,S 66° W,Kalamansig (Sultan Kudarat)
