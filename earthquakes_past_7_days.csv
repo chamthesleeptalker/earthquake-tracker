@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T22:05:00.000Z,22 January 2026 - 10:05 PM,06.56,123.41,034,2.0,070km West of Kalamansig (Sultan Kudarat),070,West of Kalamansig,Kudarat)
+2026-01-22T21:59:00.000Z,22 January 2026 - 09:59 PM,08.39,123.20,018,3.0,015km S 12° W of President Manuel A. Roxas (Zamboanga Del Norte),015,S 12° W,President Manuel A. Roxas (Zamboanga Del Norte)
+2026-01-21T22:49:00.000Z,21 January 2026 - 10:49 PM,06.59,123.74,017,2.6,035km N 84° W of Kalamansig (Sultan Kudarat),035,N 84° W,Kalamansig (Sultan Kudarat)
 2026-01-22T21:33:00.000Z,22 January 2026 - 09:33 PM,06.41,123.74,029,1.8,038km S 64° W of Kalamansig (Sultan Kudarat),038,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-22T19:14:00.000Z,22 January 2026 - 07:14 PM,09.59,126.49,018,2.5,043km S 60° E of General Luna (Surigao Del Norte),043,S 60° E,General Luna (Surigao Del Norte)
 2026-01-22T19:03:00.000Z,22 January 2026 - 07:03 PM,06.46,123.74,012,1.9,036km S 73° W of Kalamansig (Sultan Kudarat),036,S 73° W,Kalamansig (Sultan Kudarat)
@@ -448,6 +451,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T23:24:00.000Z,15 January 2026 - 11:24 PM,07.89,124.67,010,2.6,018km N 26° W of Kalilangan (Bukidnon),018,N 26° W,Kalilangan (Bukidnon)
 2026-01-15T23:20:00.000Z,15 January 2026 - 11:20 PM,11.23,124.60,010,1.9,007km N 37° E of Kananga (Leyte),007,N 37° E,Kananga (Leyte)
 2026-01-15T22:08:00.000Z,15 January 2026 - 10:08 PM,17.96,120.73,024,1.8,009km N 56° E of Nueva Era (Ilocos Norte),009,N 56° E,Nueva Era (Ilocos Norte)
-2026-01-15T22:03:00.000Z,15 January 2026 - 10:03 PM,13.69,120.08,033,1.5,019km S 78° W of Looc (Occidental Mindoro),019,S 78° W,Looc (Occidental Mindoro)
-2026-01-15T22:00:00.000Z,15 January 2026 - 10:00 PM,13.84,121.24,090,1.4,004km S 86° E of Rosario (Batangas),004,S 86° E,Rosario (Batangas)
-2026-01-15T21:42:00.000Z,15 January 2026 - 09:42 PM,17.54,120.39,003,2.1,001km S 40° E of Caoayan (Ilocos Sur),001,S 40° E,Caoayan (Ilocos Sur)
