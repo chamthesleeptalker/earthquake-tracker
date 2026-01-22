@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-22T13:58:00.000Z,22 January 2026 - 01:58 PM,09.27,126.41,016,1.8,024km S 87° E of Cortes (Surigao Del Sur),024,S 87° E,Cortes (Surigao Del Sur)
+2026-01-22T13:51:00.000Z,22 January 2026 - 01:51 PM,06.40,123.64,013,3.3,049km S 69° W of Kalamansig (Sultan Kudarat),049,S 69° W,Kalamansig (Sultan Kudarat)
 2026-01-22T13:27:00.000Z,22 January 2026 - 01:27 PM,06.36,125.92,135,2.6,030km N 54° E of Don Marcelino (Davao Occidental),030,N 54° E,Don Marcelino (Davao Occidental)
 2026-01-22T00:03:00.000Z,22 January 2026 - 12:03 AM,11.33,122.12,010,3.1,010km N 62° E of Tibiao (Antique),010,N 62° E,Tibiao (Antique)
 2026-01-22T11:24:00.000Z,22 January 2026 - 11:24 AM,06.59,124.56,003,1.6,006km S 52° W of Isulan (Sultan Kudarat),006,S 52° W,Isulan (Sultan Kudarat)
@@ -434,4 +436,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-15T22:00:00.000Z,15 January 2026 - 10:00 PM,13.84,121.24,090,1.4,004km S 86° E of Rosario (Batangas),004,S 86° E,Rosario (Batangas)
 2026-01-15T21:42:00.000Z,15 January 2026 - 09:42 PM,17.54,120.39,003,2.1,001km S 40° E of Caoayan (Ilocos Sur),001,S 40° E,Caoayan (Ilocos Sur)
 2026-01-15T20:33:00.000Z,15 January 2026 - 08:33 PM,07.84,123.40,066,1.6,004km N 67° W of City Of Pagadian  (Zamboanga Del Sur),004,N 67° W,City Of Pagadian  (Zamboanga Del Sur)
-2026-01-15T13:52:00.000Z,15 January 2026 - 01:52 PM,08.71,126.38,002,1.8,013km S 42° E of Marihatag (Surigao Del Sur),013,S 42° E,Marihatag (Surigao Del Sur)
