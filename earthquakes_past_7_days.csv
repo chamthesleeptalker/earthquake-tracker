@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-24T00:31:00.000Z,24 January 2026 - 12:31 AM,06.36,123.85,038,2.0,031km S 47° W of Kalamansig (Sultan Kudarat),031,S 47° W,Kalamansig (Sultan Kudarat)
+2026-01-24T00:27:00.000Z,24 January 2026 - 12:27 AM,20.28,121.64,030,3.2,025km S 78° W of Sabtang (Batanes),025,S 78° W,Sabtang (Batanes)
 2026-01-24T00:10:00.000Z,24 January 2026 - 12:10 AM,18.98,121.35,015,2.6,014km N 10° W of Fuga Island (Aparri) (Cagayan),014,N 10° W,Fuga Island (Aparri) (Cagayan)
 2026-01-24T00:01:00.000Z,24 January 2026 - 12:01 AM,08.03,126.49,024,1.5,009km S 86° E of Lingig (Surigao Del Sur),009,S 86° E,Lingig (Surigao Del Sur)
 2026-01-23T23:48:00.000Z,23 January 2026 - 11:48 PM,06.36,123.79,033,1.7,036km S 53° W of Kalamansig (Sultan Kudarat),036,S 53° W,Kalamansig (Sultan Kudarat)
