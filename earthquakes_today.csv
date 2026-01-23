@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T09:22:00.000Z,23 January 2026 - 09:22 AM,07.65,126.64,027,3.1,012km N 48° E of Baganga (Davao Oriental),012,N 48° E,Baganga (Davao Oriental)
+2026-01-23T08:36:00.000Z,23 January 2026 - 08:36 AM,12.87,121.14,033,1.5,035km N 89° W of Bansud (Oriental Mindoro),035,N 89° W,Bansud (Oriental Mindoro)
+2026-01-23T08:24:00.000Z,23 January 2026 - 08:24 AM,06.39,123.67,002,2.4,046km S 67° W of Kalamansig (Sultan Kudarat),046,S 67° W,Kalamansig (Sultan Kudarat)
+2026-01-23T08:21:00.000Z,23 January 2026 - 08:21 AM,06.45,123.75,006,3.6,035km S 70° W of Kalamansig (Sultan Kudarat),035,S 70° W,Kalamansig (Sultan Kudarat)
+2026-01-23T08:17:00.000Z,23 January 2026 - 08:17 AM,06.58,123.79,019,1.5,029km N 85° W of Kalamansig (Sultan Kudarat),029,N 85° W,Kalamansig (Sultan Kudarat)
+2026-01-23T07:59:00.000Z,23 January 2026 - 07:59 AM,06.44,123.74,012,2.4,037km S 70° W of Kalamansig (Sultan Kudarat),037,S 70° W,Kalamansig (Sultan Kudarat)
+2026-01-23T07:59:00.000Z,23 January 2026 - 07:59 AM,09.33,126.98,001,3.1,086km N 63° E of Bayabas (Surigao Del Sur),086,N 63° E,Bayabas (Surigao Del Sur)
+2026-01-23T07:34:00.000Z,23 January 2026 - 07:34 AM,06.27,123.67,018,1.6,052km S 53° W of Kalamansig (Sultan Kudarat),052,S 53° W,Kalamansig (Sultan Kudarat)
 2026-01-23T07:09:00.000Z,23 January 2026 - 07:09 AM,06.46,123.69,004,2.5,041km S 76° W of Kalamansig (Sultan Kudarat),041,S 76° W,Kalamansig (Sultan Kudarat)
 2026-01-23T07:08:00.000Z,23 January 2026 - 07:08 AM,06.56,123.81,008,1.5,027km N 89° W of Kalamansig (Sultan Kudarat),027,N 89° W,Kalamansig (Sultan Kudarat)
 2026-01-23T06:53:00.000Z,23 January 2026 - 06:53 AM,06.43,123.70,021,2.4,041km S 70° W of Kalamansig (Sultan Kudarat),041,S 70° W,Kalamansig (Sultan Kudarat)
