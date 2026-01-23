@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-24T05:06:00.000Z,24 January 2026 - 05:06 AM,06.94,124.41,003,1.8,001km N 22° W of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 22° W,Datu Saudi Ampatuan (Maguindanao Del Sur)
+2026-01-24T04:39:00.000Z,24 January 2026 - 04:39 AM,06.19,123.56,034,1.8,068km S 53° W of Kalamansig (Sultan Kudarat),068,S 53° W,Kalamansig (Sultan Kudarat)
 2026-01-24T04:37:00.000Z,24 January 2026 - 04:37 AM,19.17,121.90,018,1.7,030km N 08° E of Camiguin Island (Calayan) (Cagayan),030,N 08° E,Camiguin Island (Calayan) (Cagayan)
 2026-01-24T04:37:00.000Z,24 January 2026 - 04:37 AM,16.28,121.91,035,2.0,016km N 18° W of Dinalungan (Aurora),016,N 18° W,Dinalungan (Aurora)
 2026-01-24T04:23:00.000Z,24 January 2026 - 04:23 AM,06.42,123.78,021,2.0,034km S 64° W of Kalamansig (Sultan Kudarat),034,S 64° W,Kalamansig (Sultan Kudarat)
@@ -513,4 +515,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T12:05:00.000Z,17 January 2026 - 12:05 PM,09.17,126.40,022,2.2,024km N 48° E of Tago (Surigao Del Sur),024,N 48° E,Tago (Surigao Del Sur)
 2026-01-17T06:48:00.000Z,17 January 2026 - 06:48 AM,11.84,125.57,038,1.8,013km N 77° E of Sulat (Eastern Samar),013,N 77° E,Sulat (Eastern Samar)
 2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-01-17T04:42:00.000Z,17 January 2026 - 04:42 AM,15.75,119.95,023,2.2,004km S 65° E of Santa Cruz (Zambales),004,S 65° E,Santa Cruz (Zambales)
