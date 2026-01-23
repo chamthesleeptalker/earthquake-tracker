@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T15:34:00.000Z,23 January 2026 - 03:34 PM,13.15,120.40,002,2.1,025km S 72° W of Mamburao (Occidental Mindoro),025,S 72° W,Mamburao (Occidental Mindoro)
+2026-01-23T15:30:00.000Z,23 January 2026 - 03:30 PM,06.38,123.82,034,1.9,032km S 53° W of Kalamansig (Sultan Kudarat),032,S 53° W,Kalamansig (Sultan Kudarat)
+2026-01-23T15:25:00.000Z,23 January 2026 - 03:25 PM,06.59,123.75,016,2.5,034km N 84° W of Kalamansig (Sultan Kudarat),034,N 84° W,Kalamansig (Sultan Kudarat)
 2026-01-23T14:58:00.000Z,23 January 2026 - 02:58 PM,07.67,126.63,027,3.1,013km N 37° E of Baganga (Davao Oriental),013,N 37° E,Baganga (Davao Oriental)
 2026-01-23T13:06:00.000Z,23 January 2026 - 01:06 PM,06.28,123.83,026,1.5,039km S 38° W of Kalamansig (Sultan Kudarat),039,S 38° W,Kalamansig (Sultan Kudarat)
 2026-01-23T13:05:00.000Z,23 January 2026 - 01:05 PM,06.51,123.62,012,1.9,048km S 85° W of Kalamansig (Sultan Kudarat),048,S 85° W,Kalamansig (Sultan Kudarat)
@@ -465,7 +468,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T13:34:00.000Z,17 January 2026 - 01:34 PM,14.67,122.94,008,2.2,021km N 03° W of Tinaga Island (Vinzons) (Camarines Norte),021,N 03° W,Tinaga Island (Vinzons) (Camarines Norte)
 2026-01-17T13:34:00.000Z,17 January 2026 - 01:34 PM,11.04,123.95,001,2.9,004km S 86° W of City Of Bogo (Cebu),004,S 86° W,City Of Bogo (Cebu)
 2026-01-17T12:05:00.000Z,17 January 2026 - 12:05 PM,09.17,126.40,022,2.2,024km N 48° E of Tago (Surigao Del Sur),024,N 48° E,Tago (Surigao Del Sur)
-2026-01-16T15:24:00.000Z,16 January 2026 - 03:24 PM,09.85,126.33,004,3.1,020km N 68° E of General Luna (Surigao Del Norte),020,N 68° E,General Luna (Surigao Del Norte)
 2026-01-17T06:48:00.000Z,17 January 2026 - 06:48 AM,11.84,125.57,038,1.8,013km N 77° E of Sulat (Eastern Samar),013,N 77° E,Sulat (Eastern Samar)
 2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-16T23:41:00.000Z,16 January 2026 - 11:41 PM,12.61,123.17,012,2.1,034km S 14° W of Claveria (Masbate),034,S 14° W,Claveria (Masbate)
@@ -490,4 +492,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T17:02:00.000Z,16 January 2026 - 05:02 PM,09.85,126.39,001,2.2,027km N 75° E of General Luna (Surigao Del Norte),027,N 75° E,General Luna (Surigao Del Norte)
 2026-01-16T16:59:00.000Z,16 January 2026 - 04:59 PM,09.53,125.64,022,2.1,014km S 39° W of General Luna (Surigao Del Norte),014,S 39° W,General Luna (Surigao Del Norte)
 2026-01-16T16:31:00.000Z,16 January 2026 - 04:31 PM,08.77,123.63,005,1.8,012km N 13° E of Baliangao (Misamis Occidental),012,N 13° E,Baliangao (Misamis Occidental)
-2026-01-16T15:23:00.000Z,16 January 2026 - 03:23 PM,09.93,126.52,001,3.1,043km N 68° E of General Luna (Surigao Del Norte),043,N 68° E,General Luna (Surigao Del Norte)
