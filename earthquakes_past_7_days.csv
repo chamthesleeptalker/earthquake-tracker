@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T19:12:00.000Z,23 January 2026 - 07:12 PM,13.75,120.63,033,1.6,009km S 01° W of Calatagan (Batangas),009,S 01° W,Calatagan (Batangas)
+2026-01-23T18:44:00.000Z,23 January 2026 - 06:44 PM,06.39,123.81,016,2.1,032km S 54° W of Kalamansig (Sultan Kudarat),032,S 54° W,Kalamansig (Sultan Kudarat)
 2026-01-23T18:10:00.000Z,23 January 2026 - 06:10 PM,06.44,123.69,010,3.1,042km S 73° W of Kalamansig (Sultan Kudarat),042,S 73° W,Kalamansig (Sultan Kudarat)
 2026-01-23T18:09:00.000Z,23 January 2026 - 06:09 PM,07.96,126.00,035,1.4,004km S 57° W of Santa Josefa (Agusan Del Sur),004,S 57° W,Santa Josefa (Agusan Del Sur)
 2026-01-23T18:06:00.000Z,23 January 2026 - 06:06 PM,09.70,126.68,013,2.9,058km S 81° E of General Luna (Surigao Del Norte),058,S 81° E,General Luna (Surigao Del Norte)
@@ -496,7 +498,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T20:42:00.000Z,16 January 2026 - 08:42 PM,08.62,126.53,005,2.1,032km S 52° E of Marihatag (Surigao Del Sur),032,S 52° E,Marihatag (Surigao Del Sur)
 2026-01-16T19:54:00.000Z,16 January 2026 - 07:54 PM,07.41,126.56,011,3.5,009km N 01° W of Caraga (Davao Oriental),009,N 01° W,Caraga (Davao Oriental)
 2026-01-16T19:52:00.000Z,16 January 2026 - 07:52 PM,07.27,127.11,021,2.7,060km S 84° E of Caraga (Davao Oriental),060,S 84° E,Caraga (Davao Oriental)
-2026-01-16T19:04:00.000Z,16 January 2026 - 07:04 PM,06.43,126.11,026,3.5,026km S 10° E of Governor Generoso (Davao Oriental),026,S 10° E,Governor Generoso (Davao Oriental)
-2026-01-16T18:48:00.000Z,16 January 2026 - 06:48 PM,06.22,126.84,024,3.0,098km S 60° E of Governor Generoso (Davao Oriental),098,S 60° E,Governor Generoso (Davao Oriental)
-2026-01-16T18:42:00.000Z,16 January 2026 - 06:42 PM,09.66,124.75,040,1.7,021km S 63° E of Anda (Bohol),021,S 63° E,Anda (Bohol)
-2026-01-16T18:33:00.000Z,16 January 2026 - 06:33 PM,13.57,120.40,105,1.4,019km N 21° W of Paluan (Occidental Mindoro),019,N 21° W,Paluan (Occidental Mindoro)
