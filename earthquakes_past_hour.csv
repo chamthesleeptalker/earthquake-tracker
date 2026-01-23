@@ -1,9 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-24T05:42:00.000Z,24 January 2026 - 05:42 AM,09.27,123.17,002,1.7,008km S 80° W of Valencia (Negros Oriental),008,S 80° W,Valencia (Negros Oriental)
-2026-01-24T05:31:00.000Z,24 January 2026 - 05:31 AM,08.24,126.49,030,1.6,020km N 82° E of City Of Bislig (Surigao Del Sur),020,N 82° E,City Of Bislig (Surigao Del Sur)
-2026-01-24T05:26:00.000Z,24 January 2026 - 05:26 AM,06.32,123.65,016,1.9,051km S 59° W of Kalamansig (Sultan Kudarat),051,S 59° W,Kalamansig (Sultan Kudarat)
-2026-01-24T05:21:00.000Z,24 January 2026 - 05:21 AM,06.34,123.75,027,2.0,041km S 55° W of Kalamansig (Sultan Kudarat),041,S 55° W,Kalamansig (Sultan Kudarat)
-2026-01-24T05:17:00.000Z,24 January 2026 - 05:17 AM,17.25,120.00,014,2.4,048km N 79° W of City Of Candon (Ilocos Sur),048,N 79° W,City Of Candon (Ilocos Sur)
-2026-01-24T05:11:00.000Z,24 January 2026 - 05:11 AM,06.48,123.66,016,2.2,044km S 79° W of Kalamansig (Sultan Kudarat),044,S 79° W,Kalamansig (Sultan Kudarat)
-2026-01-24T05:10:00.000Z,24 January 2026 - 05:10 AM,14.33,121.84,002,2.8,008km N 15° E of Cagbalete Island (Mauban) (Quezon),008,N 15° E,Cagbalete Island (Mauban) (Quezon)
-2026-01-24T05:06:00.000Z,24 January 2026 - 05:06 AM,06.94,124.41,003,1.8,001km N 22° W of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 22° W,Datu Saudi Ampatuan (Maguindanao Del Sur)
+2026-01-24T07:30:00.000Z,24 January 2026 - 07:30 AM,05.40,125.39,175,3.8,004km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),004,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)

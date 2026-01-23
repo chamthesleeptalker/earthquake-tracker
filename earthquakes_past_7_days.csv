@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-24T07:30:00.000Z,24 January 2026 - 07:30 AM,05.40,125.39,175,3.8,004km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),004,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-24T05:42:00.000Z,24 January 2026 - 05:42 AM,09.27,123.17,002,1.7,008km S 80° W of Valencia (Negros Oriental),008,S 80° W,Valencia (Negros Oriental)
 2026-01-24T05:31:00.000Z,24 January 2026 - 05:31 AM,08.24,126.49,030,1.6,020km N 82° E of City Of Bislig (Surigao Del Sur),020,N 82° E,City Of Bislig (Surigao Del Sur)
 2026-01-24T05:26:00.000Z,24 January 2026 - 05:26 AM,06.32,123.65,016,1.9,051km S 59° W of Kalamansig (Sultan Kudarat),051,S 59° W,Kalamansig (Sultan Kudarat)
@@ -520,5 +521,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T13:34:00.000Z,17 January 2026 - 01:34 PM,14.67,122.94,008,2.2,021km N 03° W of Tinaga Island (Vinzons) (Camarines Norte),021,N 03° W,Tinaga Island (Vinzons) (Camarines Norte)
 2026-01-17T13:34:00.000Z,17 January 2026 - 01:34 PM,11.04,123.95,001,2.9,004km S 86° W of City Of Bogo (Cebu),004,S 86° W,City Of Bogo (Cebu)
 2026-01-17T12:05:00.000Z,17 January 2026 - 12:05 PM,09.17,126.40,022,2.2,024km N 48° E of Tago (Surigao Del Sur),024,N 48° E,Tago (Surigao Del Sur)
-2026-01-17T06:48:00.000Z,17 January 2026 - 06:48 AM,11.84,125.57,038,1.8,013km N 77° E of Sulat (Eastern Samar),013,N 77° E,Sulat (Eastern Samar)
-2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
