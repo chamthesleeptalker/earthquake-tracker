@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T16:06:00.000Z,23 January 2026 - 04:06 PM,10.73,125.03,005,2.5,002km S 43° E of Abuyog (Leyte),002,S 43° E,Abuyog (Leyte)
+2026-01-23T15:54:00.000Z,23 January 2026 - 03:54 PM,06.31,123.65,019,2.9,051km S 59° W of Kalamansig (Sultan Kudarat),051,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-23T15:34:00.000Z,23 January 2026 - 03:34 PM,13.15,120.40,002,2.1,025km S 72° W of Mamburao (Occidental Mindoro),025,S 72° W,Mamburao (Occidental Mindoro)
 2026-01-23T15:30:00.000Z,23 January 2026 - 03:30 PM,06.38,123.82,034,1.9,032km S 53° W of Kalamansig (Sultan Kudarat),032,S 53° W,Kalamansig (Sultan Kudarat)
 2026-01-23T15:25:00.000Z,23 January 2026 - 03:25 PM,06.59,123.75,016,2.5,034km N 84° W of Kalamansig (Sultan Kudarat),034,N 84° W,Kalamansig (Sultan Kudarat)
@@ -74,4 +76,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T16:42:00.000Z,22 January 2026 - 04:42 PM,06.61,123.82,015,2.3,026km N 76° W of Kalamansig (Sultan Kudarat),026,N 76° W,Kalamansig (Sultan Kudarat)
 2026-01-22T16:38:00.000Z,22 January 2026 - 04:38 PM,06.40,123.75,001,3.2,038km S 62° W of Kalamansig (Sultan Kudarat),038,S 62° W,Kalamansig (Sultan Kudarat)
 2026-01-22T16:36:00.000Z,22 January 2026 - 04:36 PM,06.48,123.83,005,2.1,025km S 72° W of Kalamansig (Sultan Kudarat),025,S 72° W,Kalamansig (Sultan Kudarat)
-2026-01-22T15:48:00.000Z,22 January 2026 - 03:48 PM,06.53,123.89,008,2.2,018km S 80° W of Kalamansig (Sultan Kudarat),018,S 80° W,Kalamansig (Sultan Kudarat)
