@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-24T04:37:00.000Z,24 January 2026 - 04:37 AM,19.17,121.90,018,1.7,030km N 08° E of Camiguin Island (Calayan) (Cagayan),030,N 08° E,Camiguin Island (Calayan) (Cagayan)
+2026-01-24T04:37:00.000Z,24 January 2026 - 04:37 AM,16.28,121.91,035,2.0,016km N 18° W of Dinalungan (Aurora),016,N 18° W,Dinalungan (Aurora)
+2026-01-24T04:23:00.000Z,24 January 2026 - 04:23 AM,06.42,123.78,021,2.0,034km S 64° W of Kalamansig (Sultan Kudarat),034,S 64° W,Kalamansig (Sultan Kudarat)
+2026-01-24T04:20:00.000Z,24 January 2026 - 04:20 AM,14.03,121.17,033,2.6,003km S 35° E of Malvar (Batangas),003,S 35° E,Malvar (Batangas)
+2026-01-24T04:13:00.000Z,24 January 2026 - 04:13 AM,06.36,124.27,013,1.5,013km S 23° W of Senator Ninoy Aquino (Sultan Kudarat),013,S 23° W,Senator Ninoy Aquino (Sultan Kudarat)
 2026-01-24T03:58:00.000Z,24 January 2026 - 03:58 AM,06.38,123.67,015,2.6,046km S 64° W of Kalamansig (Sultan Kudarat),046,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-24T03:57:00.000Z,24 January 2026 - 03:57 AM,06.39,123.68,015,1.7,045km S 65° W of Kalamansig (Sultan Kudarat),045,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-24T02:57:00.000Z,24 January 2026 - 02:57 AM,13.45,120.07,030,1.4,036km S 32° W of Looc (Occidental Mindoro),036,S 32° W,Looc (Occidental Mindoro)
