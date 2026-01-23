@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T18:10:00.000Z,23 January 2026 - 06:10 PM,06.44,123.69,010,3.1,042km S 73° W of Kalamansig (Sultan Kudarat),042,S 73° W,Kalamansig (Sultan Kudarat)
+2026-01-23T18:09:00.000Z,23 January 2026 - 06:09 PM,07.96,126.00,035,1.4,004km S 57° W of Santa Josefa (Agusan Del Sur),004,S 57° W,Santa Josefa (Agusan Del Sur)
+2026-01-23T18:06:00.000Z,23 January 2026 - 06:06 PM,09.70,126.68,013,2.9,058km S 81° E of General Luna (Surigao Del Norte),058,S 81° E,General Luna (Surigao Del Norte)
+2026-01-23T18:03:00.000Z,23 January 2026 - 06:03 PM,06.64,123.89,003,2.0,020km N 63° W of Kalamansig (Sultan Kudarat),020,N 63° W,Kalamansig (Sultan Kudarat)
+2026-01-23T17:58:00.000Z,23 January 2026 - 05:58 PM,06.06,123.69,019,2.0,067km S 36° W of Kalamansig (Sultan Kudarat),067,S 36° W,Kalamansig (Sultan Kudarat)
+2026-01-23T17:45:00.000Z,23 January 2026 - 05:45 PM,06.46,123.69,005,2.9,041km S 75° W of Kalamansig (Sultan Kudarat),041,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-22T22:06:00.000Z,22 January 2026 - 10:06 PM,06.50,123.71,015,2.5,038km S 80° W of Kalamansig (Sultan Kudarat),038,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-23T16:54:00.000Z,23 January 2026 - 04:54 PM,06.79,124.44,004,1.3,005km S 17° W of Ampatuan (Maguindanao Del Sur),005,S 17° W,Ampatuan (Maguindanao Del Sur)
 2026-01-23T16:34:00.000Z,23 January 2026 - 04:34 PM,06.44,123.66,014,2.6,045km S 73° W of Kalamansig (Sultan Kudarat),045,S 73° W,Kalamansig (Sultan Kudarat)
 2026-01-23T16:34:00.000Z,23 January 2026 - 04:34 PM,09.67,126.76,006,2.7,067km S 80° E of General Luna (Surigao Del Norte),067,S 80° E,General Luna (Surigao Del Norte)
@@ -493,6 +500,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-16T18:48:00.000Z,16 January 2026 - 06:48 PM,06.22,126.84,024,3.0,098km S 60° E of Governor Generoso (Davao Oriental),098,S 60° E,Governor Generoso (Davao Oriental)
 2026-01-16T18:42:00.000Z,16 January 2026 - 06:42 PM,09.66,124.75,040,1.7,021km S 63° E of Anda (Bohol),021,S 63° E,Anda (Bohol)
 2026-01-16T18:33:00.000Z,16 January 2026 - 06:33 PM,13.57,120.40,105,1.4,019km N 21° W of Paluan (Occidental Mindoro),019,N 21° W,Paluan (Occidental Mindoro)
-2026-01-16T17:33:00.000Z,16 January 2026 - 05:33 PM,09.80,124.87,029,1.6,025km S 60° W of Limasawa (Southern Leyte),025,S 60° W,Limasawa (Southern Leyte)
-2026-01-16T17:02:00.000Z,16 January 2026 - 05:02 PM,09.85,126.39,001,2.2,027km N 75° E of General Luna (Surigao Del Norte),027,N 75° E,General Luna (Surigao Del Norte)
-2026-01-16T16:59:00.000Z,16 January 2026 - 04:59 PM,09.53,125.64,022,2.1,014km S 39° W of General Luna (Surigao Del Norte),014,S 39° W,General Luna (Surigao Del Norte)

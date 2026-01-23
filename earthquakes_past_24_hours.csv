@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T18:10:00.000Z,23 January 2026 - 06:10 PM,06.44,123.69,010,3.1,042km S 73° W of Kalamansig (Sultan Kudarat),042,S 73° W,Kalamansig (Sultan Kudarat)
+2026-01-23T18:09:00.000Z,23 January 2026 - 06:09 PM,07.96,126.00,035,1.4,004km S 57° W of Santa Josefa (Agusan Del Sur),004,S 57° W,Santa Josefa (Agusan Del Sur)
+2026-01-23T18:06:00.000Z,23 January 2026 - 06:06 PM,09.70,126.68,013,2.9,058km S 81° E of General Luna (Surigao Del Norte),058,S 81° E,General Luna (Surigao Del Norte)
+2026-01-23T18:03:00.000Z,23 January 2026 - 06:03 PM,06.64,123.89,003,2.0,020km N 63° W of Kalamansig (Sultan Kudarat),020,N 63° W,Kalamansig (Sultan Kudarat)
+2026-01-23T17:58:00.000Z,23 January 2026 - 05:58 PM,06.06,123.69,019,2.0,067km S 36° W of Kalamansig (Sultan Kudarat),067,S 36° W,Kalamansig (Sultan Kudarat)
+2026-01-23T17:45:00.000Z,23 January 2026 - 05:45 PM,06.46,123.69,005,2.9,041km S 75° W of Kalamansig (Sultan Kudarat),041,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-22T22:06:00.000Z,22 January 2026 - 10:06 PM,06.50,123.71,015,2.5,038km S 80° W of Kalamansig (Sultan Kudarat),038,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-23T16:54:00.000Z,23 January 2026 - 04:54 PM,06.79,124.44,004,1.3,005km S 17° W of Ampatuan (Maguindanao Del Sur),005,S 17° W,Ampatuan (Maguindanao Del Sur)
 2026-01-23T16:34:00.000Z,23 January 2026 - 04:34 PM,06.44,123.66,014,2.6,045km S 73° W of Kalamansig (Sultan Kudarat),045,S 73° W,Kalamansig (Sultan Kudarat)
 2026-01-23T16:34:00.000Z,23 January 2026 - 04:34 PM,09.67,126.76,006,2.7,067km S 80° E of General Luna (Surigao Del Norte),067,S 80° E,General Luna (Surigao Del Norte)
@@ -74,5 +81,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T18:53:00.000Z,22 January 2026 - 06:53 PM,06.61,123.68,021,1.5,041km N 82° W of Kalamansig (Sultan Kudarat),041,N 82° W,Kalamansig (Sultan Kudarat)
 2026-01-22T18:52:00.000Z,22 January 2026 - 06:52 PM,06.31,123.67,024,1.9,049km S 57° W of Kalamansig (Sultan Kudarat),049,S 57° W,Kalamansig (Sultan Kudarat)
 2026-01-22T18:31:00.000Z,22 January 2026 - 06:31 PM,06.37,123.68,023,1.7,046km S 64° W of Kalamansig (Sultan Kudarat),046,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-22T17:28:00.000Z,22 January 2026 - 05:28 PM,06.44,123.63,020,2.5,048km S 74° W of Kalamansig (Sultan Kudarat),048,S 74° W,Kalamansig (Sultan Kudarat)
-2026-01-22T17:15:00.000Z,22 January 2026 - 05:15 PM,06.36,123.60,008,1.9,054km S 67° W of Kalamansig (Sultan Kudarat),054,S 67° W,Kalamansig (Sultan Kudarat)
