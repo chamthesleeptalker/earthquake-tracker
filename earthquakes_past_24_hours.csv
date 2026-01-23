@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T14:58:00.000Z,23 January 2026 - 02:58 PM,07.67,126.63,027,3.1,013km N 37° E of Baganga (Davao Oriental),013,N 37° E,Baganga (Davao Oriental)
 2026-01-23T13:06:00.000Z,23 January 2026 - 01:06 PM,06.28,123.83,026,1.5,039km S 38° W of Kalamansig (Sultan Kudarat),039,S 38° W,Kalamansig (Sultan Kudarat)
 2026-01-23T13:05:00.000Z,23 January 2026 - 01:05 PM,06.51,123.62,012,1.9,048km S 85° W of Kalamansig (Sultan Kudarat),048,S 85° W,Kalamansig (Sultan Kudarat)
 2026-01-23T10:31:00.000Z,23 January 2026 - 10:31 AM,11.08,124.07,006,2.3,011km N 72° E of City Of Bogo (Cebu),011,N 72° E,City Of Bogo (Cebu)
@@ -72,7 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T16:36:00.000Z,22 January 2026 - 04:36 PM,06.48,123.83,005,2.1,025km S 72° W of Kalamansig (Sultan Kudarat),025,S 72° W,Kalamansig (Sultan Kudarat)
 2026-01-22T15:48:00.000Z,22 January 2026 - 03:48 PM,06.53,123.89,008,2.2,018km S 80° W of Kalamansig (Sultan Kudarat),018,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-22T15:19:00.000Z,22 January 2026 - 03:19 PM,08.06,126.39,034,1.5,004km N 49° W of Lingig (Surigao Del Sur),004,N 49° W,Lingig (Surigao Del Sur)
-2026-01-22T14:52:00.000Z,22 January 2026 - 02:52 PM,06.40,123.61,026,1.9,052km S 71° W of Kalamansig (Sultan Kudarat),052,S 71° W,Kalamansig (Sultan Kudarat)
-2026-01-22T13:58:00.000Z,22 January 2026 - 01:58 PM,09.27,126.41,016,1.8,024km S 87° E of Cortes (Surigao Del Sur),024,S 87° E,Cortes (Surigao Del Sur)
-2026-01-22T13:51:00.000Z,22 January 2026 - 01:51 PM,06.40,123.64,013,3.3,049km S 69° W of Kalamansig (Sultan Kudarat),049,S 69° W,Kalamansig (Sultan Kudarat)
-2026-01-22T13:27:00.000Z,22 January 2026 - 01:27 PM,06.36,125.92,135,2.6,030km N 54° E of Don Marcelino (Davao Occidental),030,N 54° E,Don Marcelino (Davao Occidental)
