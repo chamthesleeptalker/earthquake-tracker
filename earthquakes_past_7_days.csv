@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-24T01:23:00.000Z,24 January 2026 - 01:23 AM,08.02,126.61,019,1.8,022km S 86° E of Lingig (Surigao Del Sur),022,S 86° E,Lingig (Surigao Del Sur)
+2026-01-24T01:04:00.000Z,24 January 2026 - 01:04 AM,06.47,123.72,006,2.7,038km S 76° W of Kalamansig (Sultan Kudarat),038,S 76° W,Kalamansig (Sultan Kudarat)
 2026-01-24T00:31:00.000Z,24 January 2026 - 12:31 AM,06.36,123.85,038,2.0,031km S 47° W of Kalamansig (Sultan Kudarat),031,S 47° W,Kalamansig (Sultan Kudarat)
 2026-01-24T00:27:00.000Z,24 January 2026 - 12:27 AM,20.28,121.64,030,3.2,025km S 78° W of Sabtang (Batanes),025,S 78° W,Sabtang (Batanes)
 2026-01-24T00:10:00.000Z,24 January 2026 - 12:10 AM,18.98,121.35,015,2.6,014km N 10° W of Fuga Island (Aparri) (Cagayan),014,N 10° W,Fuga Island (Aparri) (Cagayan)
@@ -503,4 +505,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T03:57:00.000Z,17 January 2026 - 03:57 AM,17.67,120.47,032,2.1,007km N 62° E of Santo Domingo (Ilocos Sur),007,N 62° E,Santo Domingo (Ilocos Sur)
 2026-01-17T03:48:00.000Z,17 January 2026 - 03:48 AM,11.21,124.06,041,1.5,020km N 25° E of City Of Bogo (Cebu),020,N 25° E,City Of Bogo (Cebu)
 2026-01-17T02:13:00.000Z,17 January 2026 - 02:13 AM,13.59,120.26,023,1.7,015km S 05° E of Looc (Occidental Mindoro),015,S 05° E,Looc (Occidental Mindoro)
-2026-01-17T01:11:00.000Z,17 January 2026 - 01:11 AM,13.12,123.19,073,1.7,025km N 15° W of Claveria (Masbate),025,N 15° W,Claveria (Masbate)
