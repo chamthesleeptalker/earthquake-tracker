@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-24T03:58:00.000Z,24 January 2026 - 03:58 AM,06.38,123.67,015,2.6,046km S 64° W of Kalamansig (Sultan Kudarat),046,S 64° W,Kalamansig (Sultan Kudarat)
+2026-01-24T03:57:00.000Z,24 January 2026 - 03:57 AM,06.39,123.68,015,1.7,045km S 65° W of Kalamansig (Sultan Kudarat),045,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-24T02:57:00.000Z,24 January 2026 - 02:57 AM,13.45,120.07,030,1.4,036km S 32° W of Looc (Occidental Mindoro),036,S 32° W,Looc (Occidental Mindoro)
 2026-01-24T02:46:00.000Z,24 January 2026 - 02:46 AM,09.84,122.38,018,1.8,010km N 37° W of City Of Sipalay (Negros Occidental),010,N 37° W,City Of Sipalay (Negros Occidental)
 2026-01-24T02:45:00.000Z,24 January 2026 - 02:45 AM,07.76,124.80,032,1.6,007km N 75° E of Kalilangan (Bukidnon),007,N 75° E,Kalilangan (Bukidnon)
@@ -508,5 +510,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-17T05:52:00.000Z,17 January 2026 - 05:52 AM,06.88,123.74,001,2.6,037km S 57° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 57° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-17T04:42:00.000Z,17 January 2026 - 04:42 AM,15.75,119.95,023,2.2,004km S 65° E of Santa Cruz (Zambales),004,S 65° E,Santa Cruz (Zambales)
 2026-01-17T04:33:00.000Z,17 January 2026 - 04:33 AM,17.69,120.44,031,2.1,002km N 57° E of Magsingal (Ilocos Sur),002,N 57° E,Magsingal (Ilocos Sur)
-2026-01-17T03:57:00.000Z,17 January 2026 - 03:57 AM,17.67,120.47,032,2.1,007km N 62° E of Santo Domingo (Ilocos Sur),007,N 62° E,Santo Domingo (Ilocos Sur)
-2026-01-17T03:48:00.000Z,17 January 2026 - 03:48 AM,11.21,124.06,041,1.5,020km N 25° E of City Of Bogo (Cebu),020,N 25° E,City Of Bogo (Cebu)
