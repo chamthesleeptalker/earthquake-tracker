@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-23T10:31:00.000Z,23 January 2026 - 10:31 AM,11.08,124.07,006,2.3,011km N 72° E of City Of Bogo (Cebu),011,N 72° E,City Of Bogo (Cebu)
+2026-01-23T09:59:00.000Z,23 January 2026 - 09:59 AM,06.32,123.74,015,2.8,044km S 52° W of Kalamansig (Sultan Kudarat),044,S 52° W,Kalamansig (Sultan Kudarat)
 2026-01-23T09:22:00.000Z,23 January 2026 - 09:22 AM,07.65,126.64,027,3.1,012km N 48° E of Baganga (Davao Oriental),012,N 48° E,Baganga (Davao Oriental)
 2026-01-23T08:36:00.000Z,23 January 2026 - 08:36 AM,12.87,121.14,033,1.5,035km N 89° W of Bansud (Oriental Mindoro),035,N 89° W,Bansud (Oriental Mindoro)
 2026-01-23T08:24:00.000Z,23 January 2026 - 08:24 AM,06.39,123.67,002,2.4,046km S 67° W of Kalamansig (Sultan Kudarat),046,S 67° W,Kalamansig (Sultan Kudarat)
@@ -78,5 +80,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T10:46:00.000Z,22 January 2026 - 10:46 AM,06.33,123.83,031,2.1,035km S 46° W of Kalamansig (Sultan Kudarat),035,S 46° W,Kalamansig (Sultan Kudarat)
 2026-01-22T10:38:00.000Z,22 January 2026 - 10:38 AM,06.47,123.71,005,2.7,039km S 76° W of Kalamansig (Sultan Kudarat),039,S 76° W,Kalamansig (Sultan Kudarat)
 2026-01-22T10:31:00.000Z,22 January 2026 - 10:31 AM,06.59,123.78,027,3.1,031km N 83° W of Kalamansig (Sultan Kudarat),031,N 83° W,Kalamansig (Sultan Kudarat)
-2026-01-22T10:22:00.000Z,22 January 2026 - 10:22 AM,09.62,126.52,012,1.8,044km S 66° E of General Luna (Surigao Del Norte),044,S 66° E,General Luna (Surigao Del Norte)
-2026-01-22T09:50:00.000Z,22 January 2026 - 09:50 AM,06.37,123.68,023,3.4,046km S 63° W of Kalamansig (Sultan Kudarat),046,S 63° W,Kalamansig (Sultan Kudarat)
