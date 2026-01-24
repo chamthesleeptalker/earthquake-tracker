@@ -1,7 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-25T03:50:00.000Z,25 January 2026 - 03:50 AM,06.40,123.73,028,1.8,039km S 64° W of Kalamansig (Sultan Kudarat),039,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-25T03:38:00.000Z,25 January 2026 - 03:38 AM,06.62,123.92,002,2.0,016km N 62° W of Kalamansig (Sultan Kudarat),016,N 62° W,Kalamansig (Sultan Kudarat)
-2026-01-25T03:15:00.000Z,25 January 2026 - 03:15 AM,06.30,123.94,035,1.8,031km S 24° W of Kalamansig (Sultan Kudarat),031,S 24° W,Kalamansig (Sultan Kudarat)
-2026-01-25T03:11:00.000Z,25 January 2026 - 03:11 AM,06.34,123.72,002,2.0,043km S 57° W of Kalamansig (Sultan Kudarat),043,S 57° W,Kalamansig (Sultan Kudarat)
-2026-01-25T03:04:00.000Z,25 January 2026 - 03:04 AM,06.53,123.98,002,2.4,012km N 89° W of Kalamansig (Sultan Kudarat),012,N 89° W,Kalamansig (Sultan Kudarat)
-2026-01-25T02:54:00.000Z,25 January 2026 - 02:54 AM,07.24,126.73,022,1.9,021km N 82° E of Manay (Davao Oriental),021,N 82° E,Manay (Davao Oriental)
+2026-01-25T06:27:00.000Z,25 January 2026 - 06:27 AM,10.87,123.79,002,2.5,010km N 57° W of Tabuelan (Cebu),010,N 57° W,Tabuelan (Cebu)
