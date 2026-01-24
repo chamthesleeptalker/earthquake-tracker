@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-24T10:32:00.000Z,24 January 2026 - 10:32 AM,06.36,123.40,016,1.8,075km S 73° W of Kalamansig (Sultan Kudarat),075,S 73° W,Kalamansig (Sultan Kudarat)
+2026-01-24T10:16:00.000Z,24 January 2026 - 10:16 AM,06.26,123.82,011,1.6,042km S 39° W of Kalamansig (Sultan Kudarat),042,S 39° W,Kalamansig (Sultan Kudarat)
+2026-01-24T09:42:00.000Z,24 January 2026 - 09:42 AM,06.34,123.70,010,2.3,046km S 59° W of Kalamansig (Sultan Kudarat),046,S 59° W,Kalamansig (Sultan Kudarat)
+2026-01-23T17:59:00.000Z,23 January 2026 - 05:59 PM,06.64,124.18,014,1.9,017km N 56° E of Kalamansig (Sultan Kudarat),017,N 56° E,Kalamansig (Sultan Kudarat)
 2026-01-24T09:21:00.000Z,24 January 2026 - 09:21 AM,06.44,123.67,004,2.8,044km S 73° W of Kalamansig (Sultan Kudarat),044,S 73° W,Kalamansig (Sultan Kudarat)
 2026-01-24T08:52:00.000Z,24 January 2026 - 08:52 AM,04.96,126.45,057,4.0,122km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),122,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-24T08:38:00.000Z,24 January 2026 - 08:38 AM,08.91,126.49,033,1.5,021km S 89° E of Cagwait (Surigao Del Sur),021,S 89° E,Cagwait (Surigao Del Sur)
@@ -64,6 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-23T14:58:00.000Z,23 January 2026 - 02:58 PM,07.67,126.63,027,3.1,013km N 37° E of Baganga (Davao Oriental),013,N 37° E,Baganga (Davao Oriental)
 2026-01-23T13:06:00.000Z,23 January 2026 - 01:06 PM,06.28,123.83,026,1.5,039km S 38° W of Kalamansig (Sultan Kudarat),039,S 38° W,Kalamansig (Sultan Kudarat)
 2026-01-23T13:05:00.000Z,23 January 2026 - 01:05 PM,06.51,123.62,012,1.9,048km S 85° W of Kalamansig (Sultan Kudarat),048,S 85° W,Kalamansig (Sultan Kudarat)
-2026-01-23T10:31:00.000Z,23 January 2026 - 10:31 AM,11.08,124.07,006,2.3,011km N 72° E of City Of Bogo (Cebu),011,N 72° E,City Of Bogo (Cebu)
-2026-01-23T09:59:00.000Z,23 January 2026 - 09:59 AM,06.32,123.74,015,2.8,044km S 52° W of Kalamansig (Sultan Kudarat),044,S 52° W,Kalamansig (Sultan Kudarat)
-2026-01-23T09:22:00.000Z,23 January 2026 - 09:22 AM,07.65,126.64,027,3.1,012km N 48° E of Baganga (Davao Oriental),012,N 48° E,Baganga (Davao Oriental)
