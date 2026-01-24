@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T03:50:00.000Z,25 January 2026 - 03:50 AM,06.40,123.73,028,1.8,039km S 64° W of Kalamansig (Sultan Kudarat),039,S 64° W,Kalamansig (Sultan Kudarat)
+2026-01-25T03:38:00.000Z,25 January 2026 - 03:38 AM,06.62,123.92,002,2.0,016km N 62° W of Kalamansig (Sultan Kudarat),016,N 62° W,Kalamansig (Sultan Kudarat)
 2026-01-25T03:15:00.000Z,25 January 2026 - 03:15 AM,06.30,123.94,035,1.8,031km S 24° W of Kalamansig (Sultan Kudarat),031,S 24° W,Kalamansig (Sultan Kudarat)
 2026-01-25T03:11:00.000Z,25 January 2026 - 03:11 AM,06.34,123.72,002,2.0,043km S 57° W of Kalamansig (Sultan Kudarat),043,S 57° W,Kalamansig (Sultan Kudarat)
 2026-01-25T03:04:00.000Z,25 January 2026 - 03:04 AM,06.53,123.98,002,2.4,012km N 89° W of Kalamansig (Sultan Kudarat),012,N 89° W,Kalamansig (Sultan Kudarat)
@@ -556,4 +558,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T06:44:00.000Z,18 January 2026 - 06:44 AM,16.97,120.18,024,2.1,024km N 59° W of Luna (La Union),024,N 59° W,Luna (La Union)
 2026-01-18T04:22:00.000Z,18 January 2026 - 04:22 AM,07.44,126.76,020,2.6,025km N 59° E of Caraga (Davao Oriental),025,N 59° E,Caraga (Davao Oriental)
 2026-01-18T03:50:00.000Z,18 January 2026 - 03:50 AM,13.77,120.51,088,2.7,015km S 61° W of Calatagan (Batangas),015,S 61° W,Calatagan (Batangas)
-2026-01-18T03:41:00.000Z,18 January 2026 - 03:41 AM,05.37,126.99,018,3.2,161km S 68° E of Jose Abad Santos (Davao Occidental),161,S 68° E,Jose Abad Santos (Davao Occidental)
