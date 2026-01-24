@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T01:58:00.000Z,25 January 2026 - 01:58 AM,06.44,123.65,008,2.2,045km S 75° W of Kalamansig (Sultan Kudarat),045,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-25T01:54:00.000Z,25 January 2026 - 01:54 AM,06.68,123.65,019,3.1,047km N 72° W of Kalamansig (Sultan Kudarat),047,N 72° W,Kalamansig (Sultan Kudarat)
 2026-01-25T01:04:00.000Z,25 January 2026 - 01:04 AM,06.40,123.77,010,2.5,035km S 60° W of Kalamansig (Sultan Kudarat),035,S 60° W,Kalamansig (Sultan Kudarat)
 2026-01-25T00:59:00.000Z,25 January 2026 - 12:59 AM,06.67,123.73,021,2.2,038km N 71° W of Kalamansig (Sultan Kudarat),038,N 71° W,Kalamansig (Sultan Kudarat)
 2026-01-25T00:47:00.000Z,25 January 2026 - 12:47 AM,06.42,123.75,014,2.0,036km S 65° W of Kalamansig (Sultan Kudarat),036,S 65° W,Kalamansig (Sultan Kudarat)
@@ -66,7 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T02:46:00.000Z,24 January 2026 - 02:46 AM,09.84,122.38,018,1.8,010km N 37° W of City Of Sipalay (Negros Occidental),010,N 37° W,City Of Sipalay (Negros Occidental)
 2026-01-24T02:45:00.000Z,24 January 2026 - 02:45 AM,07.76,124.80,032,1.6,007km N 75° E of Kalilangan (Bukidnon),007,N 75° E,Kalilangan (Bukidnon)
 2026-01-24T02:30:00.000Z,24 January 2026 - 02:30 AM,06.49,123.79,029,2.5,030km S 76° W of Kalamansig (Sultan Kudarat),030,S 76° W,Kalamansig (Sultan Kudarat)
-2026-01-24T01:49:00.000Z,24 January 2026 - 01:49 AM,10.74,124.92,025,1.5,006km S 20° W of Javier (Leyte),006,S 20° W,Javier (Leyte)
-2026-01-24T01:39:00.000Z,24 January 2026 - 01:39 AM,06.40,123.81,028,1.7,032km S 57° W of Kalamansig (Sultan Kudarat),032,S 57° W,Kalamansig (Sultan Kudarat)
-2026-01-24T01:23:00.000Z,24 January 2026 - 01:23 AM,08.02,126.61,019,1.8,022km S 86° E of Lingig (Surigao Del Sur),022,S 86° E,Lingig (Surigao Del Sur)
-2026-01-24T01:04:00.000Z,24 January 2026 - 01:04 AM,06.47,123.72,006,2.7,038km S 76° W of Kalamansig (Sultan Kudarat),038,S 76° W,Kalamansig (Sultan Kudarat)
