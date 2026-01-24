@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T00:05:00.000Z,25 January 2026 - 12:05 AM,06.50,123.72,022,2.6,037km S 81° W of Kalamansig (Sultan Kudarat),037,S 81° W,Kalamansig (Sultan Kudarat)
 2026-01-24T23:13:00.000Z,24 January 2026 - 11:13 PM,10.00,126.13,034,1.5,006km S 70° E of Burgos (Surigao Del Norte),006,S 70° E,Burgos (Surigao Del Norte)
 2026-01-24T22:28:00.000Z,24 January 2026 - 10:28 PM,12.55,124.52,033,1.3,004km N 56° E of San Jose (Northern Samar),004,N 56° E,San Jose (Northern Samar)
 2026-01-24T21:06:00.000Z,24 January 2026 - 09:06 PM,06.39,123.71,025,2.7,042km S 64° W of Kalamansig (Sultan Kudarat),042,S 64° W,Kalamansig (Sultan Kudarat)
@@ -546,4 +547,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T01:16:00.000Z,18 January 2026 - 01:16 AM,08.51,123.37,033,1.9,002km S 11° E of Polanco (Zamboanga Del Norte),002,S 11° E,Polanco (Zamboanga Del Norte)
 2026-01-18T01:10:00.000Z,18 January 2026 - 01:10 AM,10.75,124.93,031,1.5,005km S 04° W of Javier (Leyte),005,S 04° W,Javier (Leyte)
 2026-01-18T00:59:00.000Z,18 January 2026 - 12:59 AM,07.74,121.75,015,2.4,043km N 86° W of Siocon (Zamboanga Del Norte),043,N 86° W,Siocon (Zamboanga Del Norte)
-2026-01-17T23:58:00.000Z,17 January 2026 - 11:58 PM,18.53,120.73,022,2.2,004km S 78° W of Bangui (Ilocos Norte),004,S 78° W,Bangui (Ilocos Norte)
