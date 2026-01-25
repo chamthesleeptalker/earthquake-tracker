@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-26T02:23:00.000Z,26 January 2026 - 02:23 AM,15.77,121.96,012,2.3,041km N 88° E of Baler (Aurora),041,N 88° E,Baler (Aurora)
 2026-01-26T02:13:00.000Z,26 January 2026 - 02:13 AM,06.46,123.94,027,1.9,016km S 50° W of Kalamansig (Sultan Kudarat),016,S 50° W,Kalamansig (Sultan Kudarat)
 2026-01-26T02:08:00.000Z,26 January 2026 - 02:08 AM,07.84,126.61,034,2.1,018km N 72° E of Cateel (Davao Oriental),018,N 72° E,Cateel (Davao Oriental)
 2026-01-26T01:22:00.000Z,26 January 2026 - 01:22 AM,06.44,123.73,003,2.0,037km S 71° W of Kalamansig (Sultan Kudarat),037,S 71° W,Kalamansig (Sultan Kudarat)
@@ -63,4 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T02:34:00.000Z,25 January 2026 - 02:34 AM,06.67,123.70,020,2.7,041km N 72° W of Kalamansig (Sultan Kudarat),041,N 72° W,Kalamansig (Sultan Kudarat)
 2026-01-25T02:27:00.000Z,25 January 2026 - 02:27 AM,06.51,123.69,004,2.5,040km S 83° W of Kalamansig (Sultan Kudarat),040,S 83° W,Kalamansig (Sultan Kudarat)
 2026-01-25T02:26:00.000Z,25 January 2026 - 02:26 AM,06.50,123.64,007,2.2,046km S 82° W of Kalamansig (Sultan Kudarat),046,S 82° W,Kalamansig (Sultan Kudarat)
-2026-01-25T02:22:00.000Z,25 January 2026 - 02:22 AM,12.88,123.07,006,1.9,019km S 83° W of Claveria (Masbate),019,S 83° W,Claveria (Masbate)
