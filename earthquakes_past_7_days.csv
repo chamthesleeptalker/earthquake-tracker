@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T09:22:00.000Z,25 January 2026 - 09:22 AM,05.57,125.12,026,2.5,029km S 18° W of Glan (Sarangani),029,S 18° W,Glan (Sarangani)
+2026-01-25T09:13:00.000Z,25 January 2026 - 09:13 AM,05.57,126.53,065,3.3,105km S 69° E of Jose Abad Santos (Davao Occidental),105,S 69° E,Jose Abad Santos (Davao Occidental)
+2026-01-25T08:46:00.000Z,25 January 2026 - 08:46 AM,06.20,123.81,015,2.1,047km S 35° W of Kalamansig (Sultan Kudarat),047,S 35° W,Kalamansig (Sultan Kudarat)
+2026-01-25T08:21:00.000Z,25 January 2026 - 08:21 AM,09.64,126.24,005,2.1,018km S 29° E of General Luna (Surigao Del Norte),018,S 29° E,General Luna (Surigao Del Norte)
+2026-01-25T08:05:00.000Z,25 January 2026 - 08:05 AM,16.59,119.75,019,2.9,027km N 34° W of Bolinao (Pangasinan),027,N 34° W,Bolinao (Pangasinan)
+2026-01-25T07:56:00.000Z,25 January 2026 - 07:56 AM,06.41,123.66,027,2.4,050km S 67° W of Kalamansig (Sultan Kudarat),050,S 67° W,Kalamansig (Sultan Kudarat)
+2026-01-25T07:38:00.000Z,25 January 2026 - 07:38 AM,06.50,123.71,003,2.4,038km S 80° W of Kalamansig (Sultan Kudarat),038,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-25T07:11:00.000Z,25 January 2026 - 07:11 AM,13.74,120.54,027,1.4,014km S 45° W of Calatagan (Batangas),014,S 45° W,Calatagan (Batangas)
 2026-01-25T06:27:00.000Z,25 January 2026 - 06:27 AM,10.87,123.79,002,2.5,010km N 57° W of Tabuelan (Cebu),010,N 57° W,Tabuelan (Cebu)
 2026-01-25T03:50:00.000Z,25 January 2026 - 03:50 AM,06.40,123.73,028,1.8,039km S 64° W of Kalamansig (Sultan Kudarat),039,S 64° W,Kalamansig (Sultan Kudarat)
@@ -553,6 +560,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T11:55:00.000Z,18 January 2026 - 11:55 AM,06.42,123.74,010,4.5,037km S 66° W of Kalamansig (Sultan Kudarat),037,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-18T10:16:00.000Z,18 January 2026 - 10:16 AM,08.18,127.27,020,2.1,095km N 81° E of Lingig (Surigao Del Sur),095,N 81° E,Lingig (Surigao Del Sur)
 2026-01-18T09:24:00.000Z,18 January 2026 - 09:24 AM,10.54,123.05,031,1.4,007km S 07° E of Murcia (Negros Occidental),007,S 07° E,Murcia (Negros Occidental)
-2026-01-18T09:18:00.000Z,18 January 2026 - 09:18 AM,07.71,126.01,035,1.6,002km N 85° E of Montevista (Davao De Oro),002,N 85° E,Montevista (Davao De Oro)
-2026-01-18T08:58:00.000Z,18 January 2026 - 08:58 AM,16.19,119.84,042,1.6,002km N 82° W of Bani (Pangasinan),002,N 82° W,Bani (Pangasinan)
-2026-01-18T07:12:00.000Z,18 January 2026 - 07:12 AM,05.10,125.81,013,3.1,055km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),055,S 51° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
