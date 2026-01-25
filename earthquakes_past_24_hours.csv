@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-26T07:07:00.000Z,26 January 2026 - 07:07 AM,06.46,123.71,018,2.2,039km S 74° W of Kalamansig (Sultan Kudarat),039,S 74° W,Kalamansig (Sultan Kudarat)
+2026-01-26T07:03:00.000Z,26 January 2026 - 07:03 AM,06.63,123.80,004,1.4,029km N 75° W of Kalamansig (Sultan Kudarat),029,N 75° W,Kalamansig (Sultan Kudarat)
+2026-01-26T06:50:00.000Z,26 January 2026 - 06:50 AM,18.71,121.04,029,2.4,012km N 23° W of Claveria (Cagayan),012,N 23° W,Claveria (Cagayan)
+2026-01-26T06:48:00.000Z,26 January 2026 - 06:48 AM,06.45,123.69,003,3.6,041km S 74° W of Kalamansig (Sultan Kudarat),041,S 74° W,Kalamansig (Sultan Kudarat)
 2026-01-26T06:11:00.000Z,26 January 2026 - 06:11 AM,10.90,123.99,003,2.8,016km S 04° E of City Of Bogo (Cebu),016,S 04° E,City Of Bogo (Cebu)
 2026-01-26T06:07:00.000Z,26 January 2026 - 06:07 AM,09.49,122.68,029,2.4,017km N 45° W of City Of Bayawan (Negros Oriental),017,N 45° W,City Of Bayawan (Negros Oriental)
 2026-01-26T06:03:00.000Z,26 January 2026 - 06:03 AM,06.55,123.74,003,2.5,034km S 88° W of Kalamansig (Sultan Kudarat),034,S 88° W,Kalamansig (Sultan Kudarat)
@@ -77,4 +81,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T07:56:00.000Z,25 January 2026 - 07:56 AM,06.41,123.66,027,2.4,050km S 67° W of Kalamansig (Sultan Kudarat),050,S 67° W,Kalamansig (Sultan Kudarat)
 2026-01-25T07:38:00.000Z,25 January 2026 - 07:38 AM,06.50,123.71,003,2.4,038km S 80° W of Kalamansig (Sultan Kudarat),038,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-25T07:11:00.000Z,25 January 2026 - 07:11 AM,13.74,120.54,027,1.4,014km S 45° W of Calatagan (Batangas),014,S 45° W,Calatagan (Batangas)
-2026-01-25T06:27:00.000Z,25 January 2026 - 06:27 AM,10.87,123.79,002,2.5,010km N 57° W of Tabuelan (Cebu),010,N 57° W,Tabuelan (Cebu)
