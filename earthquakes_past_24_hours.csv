@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T23:04:00.000Z,25 January 2026 - 11:04 PM,08.61,122.63,031,2.1,047km N 67° W of Jose Dalman (Zamboanga Del Norte),047,N 67° W,Jose Dalman (Zamboanga Del Norte)
+2026-01-25T22:48:00.000Z,25 January 2026 - 10:48 PM,11.72,121.94,028,1.8,006km S 29° E of Libertad (Antique),006,S 29° E,Libertad (Antique)
 2026-01-25T22:31:00.000Z,25 January 2026 - 10:31 PM,13.70,120.60,090,1.8,015km S 15° W of Calatagan (Batangas),015,S 15° W,Calatagan (Batangas)
 2026-01-25T21:25:00.000Z,25 January 2026 - 09:25 PM,16.57,121.26,010,1.8,004km S 14° E of Bagabag (Nueva Vizcaya),004,S 14° E,Bagabag (Nueva Vizcaya)
 2026-01-25T21:14:00.000Z,25 January 2026 - 09:14 PM,07.76,122.15,020,2.0,006km N 11° E of Siocon (Zamboanga Del Norte),006,N 11° E,Siocon (Zamboanga Del Norte)

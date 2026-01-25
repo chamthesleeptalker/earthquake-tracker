@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T23:04:00.000Z,25 January 2026 - 11:04 PM,08.61,122.63,031,2.1,047km N 67° W of Jose Dalman (Zamboanga Del Norte),047,N 67° W,Jose Dalman (Zamboanga Del Norte)
+2026-01-25T22:48:00.000Z,25 January 2026 - 10:48 PM,11.72,121.94,028,1.8,006km S 29° E of Libertad (Antique),006,S 29° E,Libertad (Antique)
 2026-01-25T22:31:00.000Z,25 January 2026 - 10:31 PM,13.70,120.60,090,1.8,015km S 15° W of Calatagan (Batangas),015,S 15° W,Calatagan (Batangas)
 2026-01-25T21:25:00.000Z,25 January 2026 - 09:25 PM,16.57,121.26,010,1.8,004km S 14° E of Bagabag (Nueva Vizcaya),004,S 14° E,Bagabag (Nueva Vizcaya)
 2026-01-25T21:14:00.000Z,25 January 2026 - 09:14 PM,07.76,122.15,020,2.0,006km N 11° E of Siocon (Zamboanga Del Norte),006,N 11° E,Siocon (Zamboanga Del Norte)
@@ -571,6 +573,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-19T00:01:00.000Z,19 January 2026 - 12:01 AM,07.10,127.03,013,3.3,056km S 77° E of Manay (Davao Oriental),056,S 77° E,Manay (Davao Oriental)
 2026-01-18T23:47:00.000Z,18 January 2026 - 11:47 PM,03.86,126.39,034,3.8,203km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),203,S 32° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-18T23:18:00.000Z,18 January 2026 - 11:18 PM,04.19,126.33,052,4.0,169km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),169,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-18T23:01:00.000Z,18 January 2026 - 11:01 PM,07.96,126.69,026,1.8,032km N 55° E of Cateel (Davao Oriental),032,N 55° E,Cateel (Davao Oriental)
-2026-01-18T22:54:00.000Z,18 January 2026 - 10:54 PM,06.54,123.84,006,2.3,023km S 86° W of Kalamansig (Sultan Kudarat),023,S 86° W,Kalamansig (Sultan Kudarat)
-2026-01-18T22:52:00.000Z,18 January 2026 - 10:52 PM,06.68,124.00,001,2.1,009km N 58° W of Lebak (Sultan Kudarat),009,N 58° W,Lebak (Sultan Kudarat)
