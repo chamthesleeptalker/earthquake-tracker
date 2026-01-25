@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T20:27:00.000Z,25 January 2026 - 08:27 PM,18.44,120.83,008,2.8,008km S 75° W of Adams (Ilocos Norte),008,S 75° W,Adams (Ilocos Norte)
+2026-01-25T20:05:00.000Z,25 January 2026 - 08:05 PM,10.90,124.00,004,2.5,016km S 06° E of City Of Bogo (Cebu),016,S 06° E,City Of Bogo (Cebu)
+2026-01-25T19:57:00.000Z,25 January 2026 - 07:57 PM,12.80,123.04,009,3.1,025km S 64° W of Claveria (Masbate),025,S 64° W,Claveria (Masbate)
+2026-01-25T19:45:00.000Z,25 January 2026 - 07:45 PM,09.81,124.80,028,2.0,026km N 72° E of Anda (Bohol),026,N 72° E,Anda (Bohol)
 2026-01-25T18:49:00.000Z,25 January 2026 - 06:49 PM,21.30,121.10,009,3.9,096km N 54° W of Itbayat (Batanes),096,N 54° W,Itbayat (Batanes)
 2026-01-25T18:20:00.000Z,25 January 2026 - 06:20 PM,07.89,126.78,016,1.7,038km N 72° E of Cateel (Davao Oriental),038,N 72° E,Cateel (Davao Oriental)
 2026-01-25T18:08:00.000Z,25 January 2026 - 06:08 PM,07.92,127.16,019,2.9,077km N 60° E of Baganga (Davao Oriental),077,N 60° E,Baganga (Davao Oriental)
@@ -53,7 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T21:06:00.000Z,24 January 2026 - 09:06 PM,06.39,123.71,025,2.7,042km S 64° W of Kalamansig (Sultan Kudarat),042,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-24T20:39:00.000Z,24 January 2026 - 08:39 PM,17.48,121.34,029,2.1,014km N 87° W of City Of Tabuk (Kalinga),014,N 87° W,City Of Tabuk (Kalinga)
 2026-01-24T20:35:00.000Z,24 January 2026 - 08:35 PM,05.46,126.95,003,3.3,152km S 71° E of Jose Abad Santos (Davao Occidental),152,S 71° E,Jose Abad Santos (Davao Occidental)
-2026-01-24T20:21:00.000Z,24 January 2026 - 08:21 PM,08.40,126.52,041,2.1,020km N 79° E of Hinatuan (Surigao Del Sur),020,N 79° E,Hinatuan (Surigao Del Sur)
-2026-01-24T19:57:00.000Z,24 January 2026 - 07:57 PM,11.66,125.74,011,2.7,031km N 56° E of Maydolong (Eastern Samar),031,N 56° E,Maydolong (Eastern Samar)
-2026-01-24T19:50:00.000Z,24 January 2026 - 07:50 PM,09.40,126.12,021,2.2,016km N 30° W of Cortes (Surigao Del Sur),016,N 30° W,Cortes (Surigao Del Sur)
-2026-01-24T19:41:00.000Z,24 January 2026 - 07:41 PM,06.48,123.69,012,2.4,041km S 78° W of Kalamansig (Sultan Kudarat),041,S 78° W,Kalamansig (Sultan Kudarat)
