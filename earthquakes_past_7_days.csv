@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T21:14:00.000Z,25 January 2026 - 09:14 PM,07.76,122.15,020,2.0,006km N 11° E of Siocon (Zamboanga Del Norte),006,N 11° E,Siocon (Zamboanga Del Norte)
+2026-01-25T21:09:00.000Z,25 January 2026 - 09:09 PM,17.49,120.85,033,1.5,006km N 11° W of Bucloc (Abra),006,N 11° W,Bucloc (Abra)
+2026-01-25T21:06:00.000Z,25 January 2026 - 09:06 PM,16.91,121.02,036,1.4,005km West of Banaue (Ifugao),005,West of Banaue,
+2026-01-25T21:04:00.000Z,25 January 2026 - 09:04 PM,13.55,120.96,034,1.5,005km N 01° E of Puerto Galera (Oriental Mindoro),005,N 01° E,Puerto Galera (Oriental Mindoro)
+2026-01-25T20:57:00.000Z,25 January 2026 - 08:57 PM,07.13,126.85,009,2.3,035km S 75° E of Manay (Davao Oriental),035,S 75° E,Manay (Davao Oriental)
+2026-01-25T20:49:00.000Z,25 January 2026 - 08:49 PM,06.61,123.76,009,3.0,032km N 80° W of Kalamansig (Sultan Kudarat),032,N 80° W,Kalamansig (Sultan Kudarat)
 2026-01-25T20:27:00.000Z,25 January 2026 - 08:27 PM,18.44,120.83,008,2.8,008km S 75° W of Adams (Ilocos Norte),008,S 75° W,Adams (Ilocos Norte)
 2026-01-25T20:05:00.000Z,25 January 2026 - 08:05 PM,10.90,124.00,004,2.5,016km S 06° E of City Of Bogo (Cebu),016,S 06° E,City Of Bogo (Cebu)
 2026-01-25T19:57:00.000Z,25 January 2026 - 07:57 PM,12.80,123.04,009,3.1,025km S 64° W of Claveria (Masbate),025,S 64° W,Claveria (Masbate)
@@ -567,4 +573,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T22:54:00.000Z,18 January 2026 - 10:54 PM,06.54,123.84,006,2.3,023km S 86° W of Kalamansig (Sultan Kudarat),023,S 86° W,Kalamansig (Sultan Kudarat)
 2026-01-18T22:52:00.000Z,18 January 2026 - 10:52 PM,06.68,124.00,001,2.1,009km N 58° W of Lebak (Sultan Kudarat),009,N 58° W,Lebak (Sultan Kudarat)
 2026-01-18T22:11:00.000Z,18 January 2026 - 10:11 PM,15.45,121.95,008,3.4,054km S 51° E of Baler (Aurora),054,S 51° E,Baler (Aurora)
-2026-01-18T20:34:00.000Z,18 January 2026 - 08:34 PM,14.67,122.65,010,2.2,034km S 85° E of Jomalig (Quezon),034,S 85° E,Jomalig (Quezon)
