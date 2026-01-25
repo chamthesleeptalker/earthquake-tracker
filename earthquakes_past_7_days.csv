@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T14:15:00.000Z,25 January 2026 - 02:15 PM,07.78,125.76,032,2.0,005km S 36° W of Laak (Davao De Oro),005,S 36° W,Laak (Davao De Oro)
 2026-01-25T13:25:00.000Z,25 January 2026 - 01:25 PM,06.22,123.69,021,2.8,055km S 47° W of Kalamansig (Sultan Kudarat),055,S 47° W,Kalamansig (Sultan Kudarat)
 2026-01-25T13:23:00.000Z,25 January 2026 - 01:23 PM,06.50,123.73,019,1.6,036km S 79° W of Kalamansig (Sultan Kudarat),036,S 79° W,Kalamansig (Sultan Kudarat)
 2026-01-25T12:56:00.000Z,25 January 2026 - 12:56 PM,06.31,123.68,031,1.6,049km S 56° W of Kalamansig (Sultan Kudarat),049,S 56° W,Kalamansig (Sultan Kudarat)
@@ -567,4 +568,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-18T15:25:00.000Z,18 January 2026 - 03:25 PM,13.77,120.59,092,1.5,008km S 34° W of Calatagan (Batangas),008,S 34° W,Calatagan (Batangas)
 2026-01-18T14:57:00.000Z,18 January 2026 - 02:57 PM,12.01,121.45,022,1.5,013km N 52° W of Caluya (Antique),013,N 52° W,Caluya (Antique)
 2026-01-18T14:50:00.000Z,18 January 2026 - 02:50 PM,06.43,123.71,001,2.8,040km S 70° W of Kalamansig (Sultan Kudarat),040,S 70° W,Kalamansig (Sultan Kudarat)
-2026-01-18T13:53:00.000Z,18 January 2026 - 01:53 PM,12.48,124.77,009,2.0,005km S 23° E of Mondragon (Northern Samar),005,S 23° E,Mondragon (Northern Samar)
