@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T15:53:00.000Z,25 January 2026 - 03:53 PM,13.77,120.85,008,1.7,010km N 78° W of Mabini (Batangas),010,N 78° W,Mabini (Batangas)
+2026-01-25T15:39:00.000Z,25 January 2026 - 03:39 PM,11.09,123.86,019,1.9,014km N 70° W of City Of Bogo (Cebu),014,N 70° W,City Of Bogo (Cebu)
 2026-01-25T14:21:00.000Z,25 January 2026 - 02:21 PM,07.79,125.82,034,1.7,004km S 43° E of Laak (Davao De Oro),004,S 43° E,Laak (Davao De Oro)
 2026-01-25T14:20:00.000Z,25 January 2026 - 02:20 PM,07.78,125.77,033,1.4,005km S 36° W of Laak (Davao De Oro),005,S 36° W,Laak (Davao De Oro)
 2026-01-25T14:15:00.000Z,25 January 2026 - 02:15 PM,07.78,125.76,032,2.0,005km S 36° W of Laak (Davao De Oro),005,S 36° W,Laak (Davao De Oro)
