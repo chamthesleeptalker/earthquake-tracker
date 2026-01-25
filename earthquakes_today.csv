@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-26T03:56:00.000Z,26 January 2026 - 03:56 AM,07.52,125.54,029,1.6,009km S 81° W of Santo Tomas (Davao Del Norte),009,S 81° W,Santo Tomas (Davao Del Norte)
+2026-01-26T03:53:00.000Z,26 January 2026 - 03:53 AM,12.91,123.06,008,1.8,020km N 87° W of Claveria (Masbate),020,N 87° W,Claveria (Masbate)
+2026-01-26T03:48:00.000Z,26 January 2026 - 03:48 AM,12.50,124.88,022,1.8,005km S 05° E of San Roque (Northern Samar),005,S 05° E,San Roque (Northern Samar)
+2026-01-26T03:42:00.000Z,26 January 2026 - 03:42 AM,06.73,123.84,010,1.7,030km N 51° W of Kalamansig (Sultan Kudarat),030,N 51° W,Kalamansig (Sultan Kudarat)
+2026-01-26T03:31:00.000Z,26 January 2026 - 03:31 AM,07.82,124.62,010,1.5,008km N 59° W of Amai Manabilang (Lanao Del Sur),008,N 59° W,Amai Manabilang (Lanao Del Sur)
 2026-01-26T03:24:00.000Z,26 January 2026 - 03:24 AM,13.89,123.42,034,1.5,012km N 49° E of Tinambac (Camarines Sur),012,N 49° E,Tinambac (Camarines Sur)
 2026-01-26T03:23:00.000Z,26 January 2026 - 03:23 AM,06.67,123.79,021,1.7,031km N 66° W of Kalamansig (Sultan Kudarat),031,N 66° W,Kalamansig (Sultan Kudarat)
 2026-01-26T03:12:00.000Z,26 January 2026 - 03:12 AM,12.88,123.03,010,2.6,024km S 85° W of Claveria (Masbate),024,S 85° W,Claveria (Masbate)
