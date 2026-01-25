@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-25T12:56:00.000Z,25 January 2026 - 12:56 PM,06.31,123.68,031,1.6,049km S 56° W of Kalamansig (Sultan Kudarat),049,S 56° W,Kalamansig (Sultan Kudarat)
+2026-01-25T12:51:00.000Z,25 January 2026 - 12:51 PM,07.97,126.39,061,1.6,008km S 17° W of Lingig (Surigao Del Sur),008,S 17° W,Lingig (Surigao Del Sur)
+2026-01-25T12:47:00.000Z,25 January 2026 - 12:47 PM,06.27,123.67,027,2.1,053km S 54° W of Kalamansig (Sultan Kudarat),053,S 54° W,Kalamansig (Sultan Kudarat)
 2026-01-25T12:41:00.000Z,25 January 2026 - 12:41 PM,13.86,120.57,073,3.2,007km N 66° W of Calatagan (Batangas),007,N 66° W,Calatagan (Batangas)
 2026-01-25T12:14:00.000Z,25 January 2026 - 12:14 PM,09.96,126.05,007,1.8,004km N 87° E of San Benito (Surigao Del Norte),004,N 87° E,San Benito (Surigao Del Norte)
 2026-01-25T12:10:00.000Z,25 January 2026 - 12:10 PM,07.24,126.96,017,2.5,047km N 86° E of Manay (Davao Oriental),047,N 86° E,Manay (Davao Oriental)
@@ -56,4 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T14:59:00.000Z,24 January 2026 - 02:59 PM,09.98,126.15,021,1.4,010km S 62° E of Burgos (Surigao Del Norte),010,S 62° E,Burgos (Surigao Del Norte)
 2026-01-24T14:58:00.000Z,24 January 2026 - 02:58 PM,10.00,126.30,024,1.4,025km S 85° E of Burgos (Surigao Del Norte),025,S 85° E,Burgos (Surigao Del Norte)
 2026-01-24T12:58:00.000Z,24 January 2026 - 12:58 PM,11.04,122.42,006,2.3,006km S 69° W of Lambunao (Iloilo),006,S 69° W,Lambunao (Iloilo)
-2026-01-24T12:44:00.000Z,24 January 2026 - 12:44 PM,07.34,122.51,015,1.4,030km S 18° E of Tungawan (Zamboanga Sibugay),030,S 18° E,Tungawan (Zamboanga Sibugay)
