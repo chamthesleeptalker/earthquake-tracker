@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-26T14:11:00.000Z,26 January 2026 - 02:11 PM,11.34,124.49,008,1.9,004km S 02° W of Leyte (Leyte),004,S 02° W,Leyte (Leyte)
+2026-01-26T13:54:00.000Z,26 January 2026 - 01:54 PM,11.34,124.44,006,2.4,006km S 59° W of Leyte (Leyte),006,S 59° W,Leyte (Leyte)
 2026-01-26T12:52:00.000Z,26 January 2026 - 12:52 PM,06.63,123.77,024,2.3,032km N 75° W of Kalamansig (Sultan Kudarat),032,N 75° W,Kalamansig (Sultan Kudarat)
 2026-01-26T12:16:00.000Z,26 January 2026 - 12:16 PM,08.73,123.18,013,2.3,024km N 15° W of President Manuel A. Roxas (Zamboanga Del Norte),024,N 15° W,President Manuel A. Roxas (Zamboanga Del Norte)
 2026-01-26T12:14:00.000Z,26 January 2026 - 12:14 PM,06.10,123.78,029,2.4,059km S 31° W of Kalamansig (Sultan Kudarat),059,S 31° W,Kalamansig (Sultan Kudarat)
@@ -583,7 +585,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-19T18:11:00.000Z,19 January 2026 - 06:11 PM,11.29,124.32,033,1.3,006km S 71° W of Tabango (Leyte),006,S 71° W,Tabango (Leyte)
 2026-01-19T15:16:00.000Z,19 January 2026 - 03:16 PM,09.24,125.68,030,2.5,013km S 80° E of Santiago (Agusan Del Norte),013,S 80° E,Santiago (Agusan Del Norte)
 2026-01-19T14:15:00.000Z,19 January 2026 - 02:15 PM,09.16,123.14,032,1.5,009km N 44° W of Zamboanguita (Negros Oriental),009,N 44° W,Zamboanguita (Negros Oriental)
-2026-01-19T13:38:00.000Z,19 January 2026 - 01:38 PM,09.27,123.20,010,3.7,004km S 76° W of Valencia (Negros Oriental),004,S 76° W,Valencia (Negros Oriental)
-2026-01-19T13:26:00.000Z,19 January 2026 - 01:26 PM,09.14,123.15,033,2.2,007km N 52° W of Zamboanguita (Negros Oriental),007,N 52° W,Zamboanguita (Negros Oriental)
-2026-01-19T13:24:00.000Z,19 January 2026 - 01:24 PM,09.65,126.20,033,1.3,015km S 17° E of General Luna (Surigao Del Norte),015,S 17° E,General Luna (Surigao Del Norte)
-2026-01-19T13:10:00.000Z,19 January 2026 - 01:10 PM,12.78,120.38,032,1.3,044km S 81° W of Sablayan (Occidental Mindoro),044,S 81° W,Sablayan (Occidental Mindoro)
