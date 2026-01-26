@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T00:47:00.000Z,27 January 2026 - 12:47 AM,06.58,124.01,019,1.4,005km N 54° W of Kalamansig (Sultan Kudarat),005,N 54° W,Kalamansig (Sultan Kudarat)
 2026-01-27T00:18:00.000Z,27 January 2026 - 12:18 AM,08.42,123.02,022,1.4,003km S 02° E of Jose Dalman (Zamboanga Del Norte),003,S 02° E,Jose Dalman (Zamboanga Del Norte)
 2026-01-27T00:11:00.000Z,27 January 2026 - 12:11 AM,20.09,121.23,033,2.2,073km S 68° W of Sabtang (Batanes),073,S 68° W,Sabtang (Batanes)
 2026-01-27T00:07:00.000Z,27 January 2026 - 12:07 AM,06.59,123.93,002,1.8,013km N 76° W of Kalamansig (Sultan Kudarat),013,N 76° W,Kalamansig (Sultan Kudarat)
@@ -78,8 +79,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T02:08:00.000Z,26 January 2026 - 02:08 AM,07.84,126.61,034,2.1,018km N 72° E of Cateel (Davao Oriental),018,N 72° E,Cateel (Davao Oriental)
 2026-01-26T01:22:00.000Z,26 January 2026 - 01:22 AM,06.44,123.73,003,2.0,037km S 71° W of Kalamansig (Sultan Kudarat),037,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-26T00:59:00.000Z,26 January 2026 - 12:59 AM,07.85,125.86,032,1.7,008km N 68° E of Laak (Davao De Oro),008,N 68° E,Laak (Davao De Oro)
-2026-01-26T00:38:00.000Z,26 January 2026 - 12:38 AM,08.83,126.70,028,1.6,045km S 77° E of Cagwait (Surigao Del Sur),045,S 77° E,Cagwait (Surigao Del Sur)
-2026-01-26T00:36:00.000Z,26 January 2026 - 12:36 AM,06.39,123.82,030,2.2,031km S 55° W of Kalamansig (Sultan Kudarat),031,S 55° W,Kalamansig (Sultan Kudarat)
-2026-01-26T00:35:00.000Z,26 January 2026 - 12:35 AM,09.77,122.39,014,2.3,005km N 90° W of City Of Sipalay (Negros Occidental),005,N 90° W,City Of Sipalay (Negros Occidental)
-2026-01-26T00:28:00.000Z,26 January 2026 - 12:28 AM,16.27,120.70,024,1.2,010km S 11° E of Itogon (Benguet),010,S 11° E,Itogon (Benguet)
-2026-01-26T00:20:00.000Z,26 January 2026 - 12:20 AM,18.36,121.07,014,1.4,012km N 14° E of Calanasan (Apayao),012,N 14° E,Calanasan (Apayao)
