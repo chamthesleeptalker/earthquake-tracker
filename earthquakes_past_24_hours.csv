@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-26T21:25:00.000Z,26 January 2026 - 09:25 PM,07.29,126.28,002,2.3,018km S 79° E of Maragusan (Davao De Oro),018,S 79° E,Maragusan (Davao De Oro)
+2026-01-26T21:24:00.000Z,26 January 2026 - 09:24 PM,06.54,126.58,118,1.6,058km S 77° E of Governor Generoso (Davao Oriental),058,S 77° E,Governor Generoso (Davao Oriental)
+2026-01-26T20:44:00.000Z,26 January 2026 - 08:44 PM,10.97,123.88,030,1.4,014km S 50° W of City Of Bogo (Cebu),014,S 50° W,City Of Bogo (Cebu)
 2026-01-26T20:10:00.000Z,26 January 2026 - 08:10 PM,06.52,123.68,004,2.6,041km S 84° W of Kalamansig (Sultan Kudarat),041,S 84° W,Kalamansig (Sultan Kudarat)
 2026-01-26T19:54:00.000Z,26 January 2026 - 07:54 PM,08.45,125.83,009,1.9,005km S 86° E of Talacogon (Agusan Del Sur),005,S 86° E,Talacogon (Agusan Del Sur)
 2026-01-26T19:52:00.000Z,26 January 2026 - 07:52 PM,06.49,123.67,003,3.2,043km S 80° W of Kalamansig (Sultan Kudarat),043,S 80° W,Kalamansig (Sultan Kudarat)
@@ -69,10 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T22:48:00.000Z,25 January 2026 - 10:48 PM,11.72,121.94,028,1.8,006km S 29° E of Libertad (Antique),006,S 29° E,Libertad (Antique)
 2026-01-25T22:31:00.000Z,25 January 2026 - 10:31 PM,13.70,120.60,090,1.8,015km S 15° W of Calatagan (Batangas),015,S 15° W,Calatagan (Batangas)
 2026-01-25T21:25:00.000Z,25 January 2026 - 09:25 PM,16.57,121.26,010,1.8,004km S 14° E of Bagabag (Nueva Vizcaya),004,S 14° E,Bagabag (Nueva Vizcaya)
-2026-01-25T21:14:00.000Z,25 January 2026 - 09:14 PM,07.76,122.15,020,2.0,006km N 11° E of Siocon (Zamboanga Del Norte),006,N 11° E,Siocon (Zamboanga Del Norte)
-2026-01-25T21:09:00.000Z,25 January 2026 - 09:09 PM,17.49,120.85,033,1.5,006km N 11° W of Bucloc (Abra),006,N 11° W,Bucloc (Abra)
-2026-01-25T21:06:00.000Z,25 January 2026 - 09:06 PM,16.91,121.02,036,1.4,005km West of Banaue (Ifugao),005,West of Banaue,
-2026-01-25T21:04:00.000Z,25 January 2026 - 09:04 PM,13.55,120.96,034,1.5,005km N 01° E of Puerto Galera (Oriental Mindoro),005,N 01° E,Puerto Galera (Oriental Mindoro)
-2026-01-25T20:57:00.000Z,25 January 2026 - 08:57 PM,07.13,126.85,009,2.3,035km S 75° E of Manay (Davao Oriental),035,S 75° E,Manay (Davao Oriental)
-2026-01-25T20:49:00.000Z,25 January 2026 - 08:49 PM,06.61,123.76,009,3.0,032km N 80° W of Kalamansig (Sultan Kudarat),032,N 80° W,Kalamansig (Sultan Kudarat)
-2026-01-25T20:27:00.000Z,25 January 2026 - 08:27 PM,18.44,120.83,008,2.8,008km S 75° W of Adams (Ilocos Norte),008,S 75° W,Adams (Ilocos Norte)
