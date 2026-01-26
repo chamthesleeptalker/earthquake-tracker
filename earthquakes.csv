@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T03:57:00.000Z,27 January 2026 - 03:57 AM,06.89,124.16,050,1.4,004km N 18° E of South Upi (Maguindanao Del Sur),004,N 18° E,South Upi (Maguindanao Del Sur)
+2026-01-27T03:45:00.000Z,27 January 2026 - 03:45 AM,10.99,124.03,009,2.2,009km S 40° E of City Of Bogo (Cebu),009,S 40° E,City Of Bogo (Cebu)
+2026-01-27T03:43:00.000Z,27 January 2026 - 03:43 AM,06.55,123.69,007,2.0,040km S 88° W of Kalamansig (Sultan Kudarat),040,S 88° W,Kalamansig (Sultan Kudarat)
 2026-01-27T03:09:00.000Z,27 January 2026 - 03:09 AM,05.89,125.81,131,2.5,019km S 84° E of Jose Abad Santos (Davao Occidental),019,S 84° E,Jose Abad Santos (Davao Occidental)
 2026-01-27T03:00:00.000Z,27 January 2026 - 03:00 AM,06.51,123.77,003,2.6,031km S 81° W of Kalamansig (Sultan Kudarat),031,S 81° W,Kalamansig (Sultan Kudarat)
 2026-01-27T02:48:00.000Z,27 January 2026 - 02:48 AM,06.40,123.65,015,3.3,047km S 69° W of Kalamansig (Sultan Kudarat),047,S 69° W,Kalamansig (Sultan Kudarat)
