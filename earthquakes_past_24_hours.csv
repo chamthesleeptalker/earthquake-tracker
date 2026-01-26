@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T05:58:00.000Z,27 January 2026 - 05:58 AM,06.99,126.87,010,3.8,043km S 56° E of Manay (Davao Oriental),043,S 56° E,Manay (Davao Oriental)
+2026-01-27T05:53:00.000Z,27 January 2026 - 05:53 AM,06.35,123.80,033,1.4,035km S 51° W of Kalamansig (Sultan Kudarat),035,S 51° W,Kalamansig (Sultan Kudarat)
+2026-01-27T05:39:00.000Z,27 January 2026 - 05:39 AM,06.26,123.70,025,1.9,051km S 50° W of Kalamansig (Sultan Kudarat),051,S 50° W,Kalamansig (Sultan Kudarat)
+2026-01-27T05:54:00.000Z,27 January 2026 - 05:54 AM,06.50,125.88,008,2.2,027km S 51° W of Governor Generoso (Davao Oriental),027,S 51° W,Governor Generoso (Davao Oriental)
 2026-01-27T05:36:00.000Z,27 January 2026 - 05:36 AM,06.35,123.65,015,2.0,049km S 63° W of Kalamansig (Sultan Kudarat),049,S 63° W,Kalamansig (Sultan Kudarat)
 2026-01-27T04:57:00.000Z,27 January 2026 - 04:57 AM,08.80,126.65,023,1.5,040km S 71° E of Cagwait (Surigao Del Sur),040,S 71° E,Cagwait (Surigao Del Sur)
 2026-01-27T04:45:00.000Z,27 January 2026 - 04:45 AM,15.25,121.67,005,2.1,034km S 63° E of Dingalan (Aurora),034,S 63° E,Dingalan (Aurora)
@@ -67,6 +71,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T06:11:00.000Z,26 January 2026 - 06:11 AM,10.90,123.99,003,2.8,016km S 04° E of City Of Bogo (Cebu),016,S 04° E,City Of Bogo (Cebu)
 2026-01-26T06:07:00.000Z,26 January 2026 - 06:07 AM,09.49,122.68,029,2.4,017km N 45° W of City Of Bayawan (Negros Oriental),017,N 45° W,City Of Bayawan (Negros Oriental)
 2026-01-26T06:03:00.000Z,26 January 2026 - 06:03 AM,06.55,123.74,003,2.5,034km S 88° W of Kalamansig (Sultan Kudarat),034,S 88° W,Kalamansig (Sultan Kudarat)
-2026-01-26T05:56:00.000Z,26 January 2026 - 05:56 AM,10.50,122.39,027,2.0,017km S 80° W of Nueva Valencia (Guimaras),017,S 80° W,Nueva Valencia (Guimaras)
-2026-01-26T05:54:00.000Z,26 January 2026 - 05:54 AM,06.41,126.25,008,2.2,033km S 37° E of Governor Generoso (Davao Oriental),033,S 37° E,Governor Generoso (Davao Oriental)
-2026-01-26T05:53:00.000Z,26 January 2026 - 05:53 AM,06.35,123.82,023,2.3,035km S 48° W of Kalamansig (Sultan Kudarat),035,S 48° W,Kalamansig (Sultan Kudarat)
