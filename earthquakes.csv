@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T03:09:00.000Z,27 January 2026 - 03:09 AM,05.89,125.81,131,2.5,019km S 84° E of Jose Abad Santos (Davao Occidental),019,S 84° E,Jose Abad Santos (Davao Occidental)
+2026-01-27T03:00:00.000Z,27 January 2026 - 03:00 AM,06.51,123.77,003,2.6,031km S 81° W of Kalamansig (Sultan Kudarat),031,S 81° W,Kalamansig (Sultan Kudarat)
+2026-01-27T02:48:00.000Z,27 January 2026 - 02:48 AM,06.40,123.65,015,3.3,047km S 69° W of Kalamansig (Sultan Kudarat),047,S 69° W,Kalamansig (Sultan Kudarat)
+2026-01-27T02:48:00.000Z,27 January 2026 - 02:48 AM,21.83,120.68,015,3.9,167km N 46° W of Itbayat (Batanes),167,N 46° W,Itbayat (Batanes)
 2026-01-27T02:24:00.000Z,27 January 2026 - 02:24 AM,06.51,123.64,005,2.2,045km S 84° W of Kalamansig (Sultan Kudarat),045,S 84° W,Kalamansig (Sultan Kudarat)
 2026-01-27T02:01:00.000Z,27 January 2026 - 02:01 AM,06.43,123.74,122,2.9,037km S 68° W of Kalamansig (Sultan Kudarat),037,S 68° W,Kalamansig (Sultan Kudarat)
 2026-01-27T01:40:00.000Z,27 January 2026 - 01:40 AM,06.25,123.68,024,2.1,054km S 50° W of Kalamansig (Sultan Kudarat),054,S 50° W,Kalamansig (Sultan Kudarat)
