@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-28T06:54:00.000Z,28 January 2026 - 06:54 AM,06.44,125.75,140,3.3,016km N 78° E of Malita (Davao Occidental),016,N 78° E,Malita (Davao Occidental)
+2026-01-28T06:41:00.000Z,28 January 2026 - 06:41 AM,09.54,126.40,028,2.2,037km N 39° E of Cortes (Surigao Del Sur),037,N 39° E,Cortes (Surigao Del Sur)
+2026-01-28T06:28:00.000Z,28 January 2026 - 06:28 AM,06.49,123.75,002,3.5,034km S 77° W of Kalamansig (Sultan Kudarat),034,S 77° W,Kalamansig (Sultan Kudarat)
 2026-01-28T06:17:00.000Z,28 January 2026 - 06:17 AM,06.57,123.87,002,1.5,021km N 85° W of Kalamansig (Sultan Kudarat),021,N 85° W,Kalamansig (Sultan Kudarat)
 2026-01-28T06:11:00.000Z,28 January 2026 - 06:11 AM,06.47,123.67,004,3.0,043km S 78° W of Kalamansig (Sultan Kudarat),043,S 78° W,Kalamansig (Sultan Kudarat)
 2026-01-28T06:07:00.000Z,28 January 2026 - 06:07 AM,06.54,123.80,007,2.1,028km S 87° W of Kalamansig (Sultan Kudarat),028,S 87° W,Kalamansig (Sultan Kudarat)
@@ -127,6 +130,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-27T08:39:00.000Z,27 January 2026 - 08:39 AM,10.63,122.47,031,1.7,007km S 04° W of Oton (Iloilo),007,S 04° W,Oton (Iloilo)
 2026-01-27T08:11:00.000Z,27 January 2026 - 08:11 AM,06.40,123.68,032,2.1,045km S 68° W of Kalamansig (Sultan Kudarat),045,S 68° W,Kalamansig (Sultan Kudarat)
 2026-01-27T08:00:00.000Z,27 January 2026 - 08:00 AM,06.63,123.80,013,2.0,029km N 73° W of Kalamansig (Sultan Kudarat),029,N 73° W,Kalamansig (Sultan Kudarat)
-2026-01-27T06:43:00.000Z,27 January 2026 - 06:43 AM,16.19,119.55,022,2.7,028km N 73° W of Agno (Pangasinan),028,N 73° W,Agno (Pangasinan)
-2026-01-27T06:33:00.000Z,27 January 2026 - 06:33 AM,07.65,124.94,008,2.0,006km N 27° E of Kadingilan (Bukidnon),006,N 27° E,Kadingilan (Bukidnon)
-2026-01-27T06:31:00.000Z,27 January 2026 - 06:31 AM,08.67,125.84,034,1.4,011km S 61° E of City Of Bayugan (Agusan Del Sur),011,S 61° E,City Of Bayugan (Agusan Del Sur)
