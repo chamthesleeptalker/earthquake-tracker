@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T14:14:00.000Z,27 January 2026 - 02:14 PM,09.11,127.29,044,2.2,111km N 79° E of Cagwait (Surigao Del Sur),111,N 79° E,Cagwait (Surigao Del Sur)
+2026-01-27T13:55:00.000Z,27 January 2026 - 01:55 PM,18.01,120.44,029,1.5,005km S 77° W of Currimao (Ilocos Norte),005,S 77° W,Currimao (Ilocos Norte)
+2026-01-27T13:41:00.000Z,27 January 2026 - 01:41 PM,06.58,123.99,012,1.7,007km N 63° W of Kalamansig (Sultan Kudarat),007,N 63° W,Kalamansig (Sultan Kudarat)
 2026-01-27T13:08:00.000Z,27 January 2026 - 01:08 PM,05.89,125.88,151,2.1,026km S 84° E of Jose Abad Santos (Davao Occidental),026,S 84° E,Jose Abad Santos (Davao Occidental)
 2026-01-27T13:03:00.000Z,27 January 2026 - 01:03 PM,07.14,124.04,025,1.2,008km N 18° E of Datu Blah T. Sinsuat (Maguindanao Del Norte),008,N 18° E,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-27T12:12:00.000Z,27 January 2026 - 12:12 PM,16.02,119.84,012,1.9,005km S 36° W of Burgos (Pangasinan),005,S 36° W,Burgos (Pangasinan)

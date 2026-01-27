@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T14:14:00.000Z,27 January 2026 - 02:14 PM,09.11,127.29,044,2.2,111km N 79° E of Cagwait (Surigao Del Sur),111,N 79° E,Cagwait (Surigao Del Sur)
+2026-01-27T13:55:00.000Z,27 January 2026 - 01:55 PM,18.01,120.44,029,1.5,005km S 77° W of Currimao (Ilocos Norte),005,S 77° W,Currimao (Ilocos Norte)
+2026-01-27T13:41:00.000Z,27 January 2026 - 01:41 PM,06.58,123.99,012,1.7,007km N 63° W of Kalamansig (Sultan Kudarat),007,N 63° W,Kalamansig (Sultan Kudarat)
 2026-01-27T13:08:00.000Z,27 January 2026 - 01:08 PM,05.89,125.88,151,2.1,026km S 84° E of Jose Abad Santos (Davao Occidental),026,S 84° E,Jose Abad Santos (Davao Occidental)
 2026-01-27T13:03:00.000Z,27 January 2026 - 01:03 PM,07.14,124.04,025,1.2,008km N 18° E of Datu Blah T. Sinsuat (Maguindanao Del Norte),008,N 18° E,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-27T12:12:00.000Z,27 January 2026 - 12:12 PM,16.02,119.84,012,1.9,005km S 36° W of Burgos (Pangasinan),005,S 36° W,Burgos (Pangasinan)
@@ -560,5 +563,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-20T15:17:00.000Z,20 January 2026 - 03:17 PM,09.86,122.31,020,2.3,017km N 52° W of City Of Sipalay (Negros Occidental),017,N 52° W,City Of Sipalay (Negros Occidental)
 2026-01-20T14:46:00.000Z,20 January 2026 - 02:46 PM,06.32,123.71,005,3.0,045km S 56° W of Kalamansig (Sultan Kudarat),045,S 56° W,Kalamansig (Sultan Kudarat)
 2026-01-20T14:43:00.000Z,20 January 2026 - 02:43 PM,09.02,126.32,040,4.2,006km N 35° E of Bayabas (Surigao Del Sur),006,N 35° E,Bayabas (Surigao Del Sur)
-2026-01-20T13:45:00.000Z,20 January 2026 - 01:45 PM,06.63,123.87,008,2.7,021km N 66° W of Kalamansig (Sultan Kudarat),021,N 66° W,Kalamansig (Sultan Kudarat)
-2026-01-20T13:36:00.000Z,20 January 2026 - 01:36 PM,06.46,123.75,003,3.1,034km S 73° W of Kalamansig (Sultan Kudarat),034,S 73° W,Kalamansig (Sultan Kudarat)
