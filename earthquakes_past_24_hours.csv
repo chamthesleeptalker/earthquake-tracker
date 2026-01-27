@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T23:26:00.000Z,27 January 2026 - 11:26 PM,06.61,123.72,016,3.2,037km N 81° W of Kalamansig (Sultan Kudarat),037,N 81° W,Kalamansig (Sultan Kudarat)
+2026-01-27T23:11:00.000Z,27 January 2026 - 11:11 PM,06.19,123.64,018,2.6,062km S 48° W of Kalamansig (Sultan Kudarat),062,S 48° W,Kalamansig (Sultan Kudarat)
+2026-01-27T23:03:00.000Z,27 January 2026 - 11:03 PM,06.53,123.76,004,2.8,032km S 85° W of Kalamansig (Sultan Kudarat),032,S 85° W,Kalamansig (Sultan Kudarat)
+2026-01-27T22:53:00.000Z,27 January 2026 - 10:53 PM,06.49,123.76,002,2.9,033km S 77° W of Kalamansig (Sultan Kudarat),033,S 77° W,Kalamansig (Sultan Kudarat)
+2026-01-27T22:51:00.000Z,27 January 2026 - 10:51 PM,06.49,123.85,027,2.2,023km S 71° W of Kalamansig (Sultan Kudarat),023,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-27T22:47:00.000Z,27 January 2026 - 10:47 PM,06.51,123.68,010,4.7,041km S 82° W of Kalamansig (Sultan Kudarat),041,S 82° W,Kalamansig (Sultan Kudarat)
 2026-01-27T21:04:00.000Z,27 January 2026 - 09:04 PM,06.27,126.03,137,2.2,038km N 77° E of Don Marcelino (Davao Occidental),038,N 77° E,Don Marcelino (Davao Occidental)
 2026-01-27T20:51:00.000Z,27 January 2026 - 08:51 PM,08.08,125.94,033,1.4,003km N 57° W of Veruela (Agusan Del Sur),003,N 57° W,Veruela (Agusan Del Sur)
@@ -61,6 +66,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T23:39:00.000Z,26 January 2026 - 11:39 PM,11.35,124.53,009,1.5,005km S 57° E of Leyte (Leyte),005,S 57° E,Leyte (Leyte)
 2026-01-26T23:39:00.000Z,26 January 2026 - 11:39 PM,05.25,126.55,004,3.3,122km S 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),122,S 78° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-26T23:30:00.000Z,26 January 2026 - 11:30 PM,05.74,125.89,009,3.2,033km S 54° E of Jose Abad Santos (Davao Occidental),033,S 54° E,Jose Abad Santos (Davao Occidental)
-2026-01-26T23:22:00.000Z,26 January 2026 - 11:22 PM,15.69,121.96,009,2.6,043km S 80° E of Baler (Aurora),043,S 80° E,Baler (Aurora)
-2026-01-26T22:59:00.000Z,26 January 2026 - 10:59 PM,06.35,123.67,019,2.5,048km S 62° W of Kalamansig (Sultan Kudarat),048,S 62° W,Kalamansig (Sultan Kudarat)
-2026-01-26T22:53:00.000Z,26 January 2026 - 10:53 PM,06.56,123.72,013,2.4,037km N 89° W of Kalamansig (Sultan Kudarat),037,N 89° W,Kalamansig (Sultan Kudarat)
