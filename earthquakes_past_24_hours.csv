@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T17:57:00.000Z,27 January 2026 - 05:57 PM,12.61,124.80,010,1.9,011km N 43° W of San Roque (Northern Samar),011,N 43° W,San Roque (Northern Samar)
+2026-01-27T17:24:00.000Z,27 January 2026 - 05:24 PM,07.03,124.48,013,1.7,003km N 84° W of Datu Piang (Maguindanao Del Sur),003,N 84° W,Datu Piang (Maguindanao Del Sur)
 2026-01-27T16:41:00.000Z,27 January 2026 - 04:41 PM,05.08,126.98,083,3.4,172km S 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),172,S 75° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-27T15:37:00.000Z,27 January 2026 - 03:37 PM,08.75,126.59,022,2.9,033km S 80° E of Marihatag (Surigao Del Sur),033,S 80° E,Marihatag (Surigao Del Sur)
 2026-01-27T15:09:00.000Z,27 January 2026 - 03:09 PM,06.63,123.66,026,1.8,044km N 80° W of Kalamansig (Sultan Kudarat),044,N 80° W,Kalamansig (Sultan Kudarat)
@@ -75,5 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T18:27:00.000Z,26 January 2026 - 06:27 PM,18.85,121.23,004,2.5,015km S 88° W of Fuga Island (Aparri) (Cagayan),015,S 88° W,Fuga Island (Aparri) (Cagayan)
 2026-01-26T18:25:00.000Z,26 January 2026 - 06:25 PM,06.46,123.64,003,3.6,046km S 77° W of Kalamansig (Sultan Kudarat),046,S 77° W,Kalamansig (Sultan Kudarat)
 2026-01-26T18:06:00.000Z,26 January 2026 - 06:06 PM,06.48,123.70,015,3.7,039km S 78° W of Kalamansig (Sultan Kudarat),039,S 78° W,Kalamansig (Sultan Kudarat)
-2026-01-26T17:46:00.000Z,26 January 2026 - 05:46 PM,10.91,123.99,006,2.3,015km S 05° E of City Of Bogo (Cebu),015,S 05° E,City Of Bogo (Cebu)
-2026-01-26T16:42:00.000Z,26 January 2026 - 04:42 PM,08.97,126.08,018,1.8,006km N 58° E of San Miguel (Surigao Del Sur),006,N 58° E,San Miguel (Surigao Del Sur)
