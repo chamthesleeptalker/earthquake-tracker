@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-28T07:34:00.000Z,28 January 2026 - 07:34 AM,06.27,123.80,030,1.7,042km S 42° W of Kalamansig (Sultan Kudarat),042,S 42° W,Kalamansig (Sultan Kudarat)
+2026-01-28T07:27:00.000Z,28 January 2026 - 07:27 AM,06.59,123.76,002,2.7,032km N 83° W of Kalamansig (Sultan Kudarat),032,N 83° W,Kalamansig (Sultan Kudarat)
+2026-01-28T07:19:00.000Z,28 January 2026 - 07:19 AM,06.52,123.67,010,4.6,042km S 84° W of Kalamansig (Sultan Kudarat),042,S 84° W,Kalamansig (Sultan Kudarat)
+2026-01-28T07:14:00.000Z,28 January 2026 - 07:14 AM,06.69,123.78,012,2.4,034km N 63° W of Kalamansig (Sultan Kudarat),034,N 63° W,Kalamansig (Sultan Kudarat)
 2026-01-28T06:54:00.000Z,28 January 2026 - 06:54 AM,06.44,125.75,140,3.3,016km N 78° E of Malita (Davao Occidental),016,N 78° E,Malita (Davao Occidental)
 2026-01-28T06:41:00.000Z,28 January 2026 - 06:41 AM,09.54,126.40,028,2.2,037km N 39° E of Cortes (Surigao Del Sur),037,N 39° E,Cortes (Surigao Del Sur)
 2026-01-28T06:28:00.000Z,28 January 2026 - 06:28 AM,06.49,123.75,002,3.5,034km S 77° W of Kalamansig (Sultan Kudarat),034,S 77° W,Kalamansig (Sultan Kudarat)
@@ -615,6 +619,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-21T07:42:00.000Z,21 January 2026 - 07:42 AM,06.42,123.67,015,2.3,045km S 71° W of Kalamansig (Sultan Kudarat),045,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-21T07:42:00.000Z,21 January 2026 - 07:42 AM,06.46,123.74,007,2.1,036km S 74° W of Kalamansig (Sultan Kudarat),036,S 74° W,Kalamansig (Sultan Kudarat)
 2026-01-21T07:40:00.000Z,21 January 2026 - 07:40 AM,06.41,123.71,008,2.7,042km S 67° W of Kalamansig (Sultan Kudarat),042,S 67° W,Kalamansig (Sultan Kudarat)
-2026-01-21T07:30:00.000Z,21 January 2026 - 07:30 AM,06.39,123.67,012,3.2,046km S 66° W of Kalamansig (Sultan Kudarat),046,S 66° W,Kalamansig (Sultan Kudarat)
-2026-01-21T07:27:00.000Z,21 January 2026 - 07:27 AM,06.44,123.81,025,2.9,030km S 65° W of Kalamansig (Sultan Kudarat),030,S 65° W,Kalamansig (Sultan Kudarat)
-2026-01-21T07:25:00.000Z,21 January 2026 - 07:25 AM,06.43,123.76,010,4.7,035km S 66° W of Kalamansig (Sultan Kudarat),035,S 66° W,Kalamansig (Sultan Kudarat)
