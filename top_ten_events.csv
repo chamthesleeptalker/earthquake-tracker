@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-28T01:05:00.000Z,28 January 2026 - 01:05 AM,06.38,123.59,19,5.7,055km S 69° W of Kalamansig (Sultan Kudarat),055,S 69° W,Kalamansig (Sultan Kudarat)
 2026-01-21T09:33:00.000Z,21 January 2026 - 09:33 AM,06.39,123.72,10,5.3,040km S 63° W of Kalamansig (Sultan Kudarat),040,S 63° W,Kalamansig (Sultan Kudarat)
 2026-01-27T23:50:00.000Z,27 January 2026 - 11:50 PM,06.46,123.72,10,4.8,038km S 73° W of Kalamansig (Sultan Kudarat),038,S 73° W,Kalamansig (Sultan Kudarat)
 2026-01-24T18:45:00.000Z,24 January 2026 - 06:45 PM,04.96,125.44,186,4.8,050km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 03° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-21T20:59:00.000Z,21 January 2026 - 08:59 PM,06.33,123.59,3,4.5,057km S 65° W of Kalamansig (Sultan Kudarat),057,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-21T19:55:00.000Z,21 January 2026 - 07:55 PM,06.33,123.68,21,4.4,047km S 59° W of Kalamansig (Sultan Kudarat),047,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-21T13:14:00.000Z,21 January 2026 - 01:14 PM,06.45,123.72,15,4.4,038km S 72° W of Kalamansig (Sultan Kudarat),038,S 72° W,Kalamansig (Sultan Kudarat)
-2026-01-21T22:56:00.000Z,21 January 2026 - 10:56 PM,09.79,126.91,31,4.2,083km N 90° E of General Luna (Surigao Del Norte),083,N 90° E,General Luna (Surigao Del Norte)
