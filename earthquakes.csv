@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T13:08:00.000Z,27 January 2026 - 01:08 PM,05.89,125.88,151,2.1,026km S 84° E of Jose Abad Santos (Davao Occidental),026,S 84° E,Jose Abad Santos (Davao Occidental)
+2026-01-27T13:03:00.000Z,27 January 2026 - 01:03 PM,07.14,124.04,025,1.2,008km N 18° E of Datu Blah T. Sinsuat (Maguindanao Del Norte),008,N 18° E,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-01-27T12:12:00.000Z,27 January 2026 - 12:12 PM,16.02,119.84,012,1.9,005km S 36° W of Burgos (Pangasinan),005,S 36° W,Burgos (Pangasinan)
 2026-01-27T11:58:00.000Z,27 January 2026 - 11:58 AM,13.84,120.42,146,2.4,023km N 87° W of Calatagan (Batangas),023,N 87° W,Calatagan (Batangas)
 2026-01-27T11:27:00.000Z,27 January 2026 - 11:27 AM,07.39,126.76,019,2.7,022km N 72° E of Caraga (Davao Oriental),022,N 72° E,Caraga (Davao Oriental)
