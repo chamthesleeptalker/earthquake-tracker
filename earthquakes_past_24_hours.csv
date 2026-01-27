@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-28T03:54:00.000Z,28 January 2026 - 03:54 AM,06.43,123.68,010,5.1,043km S 71° W of Kalamansig (Sultan Kudarat),043,S 71° W,Kalamansig (Sultan Kudarat)
+2026-01-28T03:40:00.000Z,28 January 2026 - 03:40 AM,06.58,123.89,021,1.6,018km N 83° W of Kalamansig (Sultan Kudarat),018,N 83° W,Kalamansig (Sultan Kudarat)
+2026-01-28T03:46:00.000Z,28 January 2026 - 03:46 AM,06.42,123.67,010,4.8,044km S 70° W of Kalamansig (Sultan Kudarat),044,S 70° W,Kalamansig (Sultan Kudarat)
+2026-01-28T03:25:00.000Z,28 January 2026 - 03:25 AM,06.62,123.80,003,3.5,029km N 76° W of Kalamansig (Sultan Kudarat),029,N 76° W,Kalamansig (Sultan Kudarat)
 2026-01-28T03:32:00.000Z,28 January 2026 - 03:32 AM,06.34,123.65,025,3.7,050km S 62° W of Kalamansig (Sultan Kudarat),050,S 62° W,Kalamansig (Sultan Kudarat)
 2026-01-28T03:35:00.000Z,28 January 2026 - 03:35 AM,10.12,123.15,024,2.1,014km N 89° W of City Of Guihulngan (Negros Oriental),014,N 89° W,City Of Guihulngan (Negros Oriental)
 2026-01-28T03:26:00.000Z,28 January 2026 - 03:26 AM,14.06,121.19,034,1.6,004km N 75° E of Malvar (Batangas),004,N 75° E,Malvar (Batangas)
@@ -112,5 +116,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-27T04:57:00.000Z,27 January 2026 - 04:57 AM,08.80,126.65,023,1.5,040km S 71° E of Cagwait (Surigao Del Sur),040,S 71° E,Cagwait (Surigao Del Sur)
 2026-01-27T04:45:00.000Z,27 January 2026 - 04:45 AM,15.25,121.67,005,2.1,034km S 63° E of Dingalan (Aurora),034,S 63° E,Dingalan (Aurora)
 2026-01-27T03:57:00.000Z,27 January 2026 - 03:57 AM,06.89,124.16,050,1.4,004km N 18° E of South Upi (Maguindanao Del Sur),004,N 18° E,South Upi (Maguindanao Del Sur)
-2026-01-27T03:45:00.000Z,27 January 2026 - 03:45 AM,10.99,124.03,009,2.2,009km S 40° E of City Of Bogo (Cebu),009,S 40° E,City Of Bogo (Cebu)
-2026-01-27T03:43:00.000Z,27 January 2026 - 03:43 AM,06.55,123.69,007,2.0,040km S 88° W of Kalamansig (Sultan Kudarat),040,S 88° W,Kalamansig (Sultan Kudarat)
