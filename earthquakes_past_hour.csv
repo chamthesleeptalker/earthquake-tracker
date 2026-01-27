@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-27T15:09:00.000Z,27 January 2026 - 03:09 PM,06.63,123.66,026,1.8,044km N 80° W of Kalamansig (Sultan Kudarat),044,N 80° W,Kalamansig (Sultan Kudarat)
+2026-01-27T15:01:00.000Z,27 January 2026 - 03:01 PM,09.49,126.20,002,2.5,023km N 01° E of Cortes (Surigao Del Sur),023,N 01° E,Cortes (Surigao Del Sur)
+2026-01-27T14:45:00.000Z,27 January 2026 - 02:45 PM,15.48,120.35,029,1.5,012km S 89° W of San Jose (Tarlac),012,S 89° W,San Jose (Tarlac)
+2026-01-27T14:38:00.000Z,27 January 2026 - 02:38 PM,15.45,121.94,015,1.8,053km S 50° E of Baler (Aurora),053,S 50° E,Baler (Aurora)
 2026-01-27T14:14:00.000Z,27 January 2026 - 02:14 PM,09.11,127.29,044,2.2,111km N 79° E of Cagwait (Surigao Del Sur),111,N 79° E,Cagwait (Surigao Del Sur)
-2026-01-27T13:55:00.000Z,27 January 2026 - 01:55 PM,18.01,120.44,029,1.5,005km S 77° W of Currimao (Ilocos Norte),005,S 77° W,Currimao (Ilocos Norte)
-2026-01-27T13:41:00.000Z,27 January 2026 - 01:41 PM,06.58,123.99,012,1.7,007km N 63° W of Kalamansig (Sultan Kudarat),007,N 63° W,Kalamansig (Sultan Kudarat)
