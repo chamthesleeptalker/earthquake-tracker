@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-27T06:43:00.000Z,27 January 2026 - 06:43 AM,16.19,119.55,022,2.7,028km N 73° W of Agno (Pangasinan),028,N 73° W,Agno (Pangasinan)
-2026-01-27T06:33:00.000Z,27 January 2026 - 06:33 AM,07.65,124.94,008,2.0,006km N 27° E of Kadingilan (Bukidnon),006,N 27° E,Kadingilan (Bukidnon)
-2026-01-27T06:31:00.000Z,27 January 2026 - 06:31 AM,08.67,125.84,034,1.4,011km S 61° E of City Of Bayugan (Agusan Del Sur),011,S 61° E,City Of Bayugan (Agusan Del Sur)
-2026-01-27T05:58:00.000Z,27 January 2026 - 05:58 AM,06.99,126.87,010,3.8,043km S 56° E of Manay (Davao Oriental),043,S 56° E,Manay (Davao Oriental)
-2026-01-27T05:53:00.000Z,27 January 2026 - 05:53 AM,06.35,123.80,033,1.4,035km S 51° W of Kalamansig (Sultan Kudarat),035,S 51° W,Kalamansig (Sultan Kudarat)
-2026-01-27T05:54:00.000Z,27 January 2026 - 05:54 AM,06.50,125.88,008,2.2,027km S 51° W of Governor Generoso (Davao Oriental),027,S 51° W,Governor Generoso (Davao Oriental)
+2026-01-27T09:38:00.000Z,27 January 2026 - 09:38 AM,15.12,119.47,032,1.5,059km S 54° W of Palauig (Zambales),059,S 54° W,Palauig (Zambales)
+2026-01-27T09:11:00.000Z,27 January 2026 - 09:11 AM,06.44,123.84,049,2.3,026km S 61° W of Kalamansig (Sultan Kudarat),026,S 61° W,Kalamansig (Sultan Kudarat)
+2026-01-27T09:10:00.000Z,27 January 2026 - 09:10 AM,06.30,123.70,033,2.4,048km S 54° W of Kalamansig (Sultan Kudarat),048,S 54° W,Kalamansig (Sultan Kudarat)
+2026-01-27T09:08:00.000Z,27 January 2026 - 09:08 AM,06.50,123.86,004,2.1,023km S 73° W of Kalamansig (Sultan Kudarat),023,S 73° W,Kalamansig (Sultan Kudarat)
+2026-01-27T08:39:00.000Z,27 January 2026 - 08:39 AM,10.63,122.47,031,1.7,007km S 04° W of Oton (Iloilo),007,S 04° W,Oton (Iloilo)
