@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-29T03:30:00.000Z,29 January 2026 - 03:30 AM,06.41,123.63,003,2.8,049km S 70° W of Kalamansig (Sultan Kudarat),049,S 70° W,Kalamansig (Sultan Kudarat)
+2026-01-29T03:29:00.000Z,29 January 2026 - 03:29 AM,06.62,123.68,033,2.3,041km N 80° W of Kalamansig (Sultan Kudarat),041,N 80° W,Kalamansig (Sultan Kudarat)
+2026-01-29T03:25:00.000Z,29 January 2026 - 03:25 AM,06.40,123.58,016,2.3,055km S 72° W of Kalamansig (Sultan Kudarat),055,S 72° W,Kalamansig (Sultan Kudarat)
+2026-01-28T03:14:00.000Z,28 January 2026 - 03:14 AM,12.46,123.68,010,2.4,009km S 73° W of San Fernando (Masbate),009,S 73° W,San Fernando (Masbate)
 2026-01-29T03:04:00.000Z,29 January 2026 - 03:04 AM,10.05,126.16,033,1.7,010km N 68° E of Burgos (Surigao Del Norte),010,N 68° E,Burgos (Surigao Del Norte)
 2026-01-29T03:03:00.000Z,29 January 2026 - 03:03 AM,06.49,123.70,033,1.4,040km S 79° W of Kalamansig (Sultan Kudarat),040,S 79° W,Kalamansig (Sultan Kudarat)
 2026-01-29T02:54:00.000Z,29 January 2026 - 02:54 AM,06.62,123.77,010,2.0,032km N 78° W of Kalamansig (Sultan Kudarat),032,N 78° W,Kalamansig (Sultan Kudarat)
