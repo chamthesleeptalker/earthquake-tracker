@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-29T07:27:00.000Z,29 January 2026 - 07:27 AM,06.37,123.71,042,2.1,044km S 61° W of Kalamansig (Sultan Kudarat),044,S 61° W,Kalamansig (Sultan Kudarat)
 2026-01-29T07:16:00.000Z,29 January 2026 - 07:16 AM,06.52,123.64,015,3.0,046km S 85° W of Kalamansig (Sultan Kudarat),046,S 85° W,Kalamansig (Sultan Kudarat)
 2026-01-29T06:34:00.000Z,29 January 2026 - 06:34 AM,08.40,122.69,051,1.9,031km N 03° E of Liloy (Zamboanga Del Norte),031,N 03° E,Liloy (Zamboanga Del Norte)
 2026-01-29T06:22:00.000Z,29 January 2026 - 06:22 AM,06.74,123.71,022,2.1,043km N 62° W of Kalamansig (Sultan Kudarat),043,N 62° W,Kalamansig (Sultan Kudarat)
@@ -753,4 +754,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-22T08:40:00.000Z,22 January 2026 - 08:40 AM,06.33,123.80,020,1.7,037km S 48° W of Kalamansig (Sultan Kudarat),037,S 48° W,Kalamansig (Sultan Kudarat)
 2026-01-22T08:36:00.000Z,22 January 2026 - 08:36 AM,07.41,126.75,019,3.5,032km N 46° E of Manay (Davao Oriental),032,N 46° E,Manay (Davao Oriental)
 2026-01-22T07:52:00.000Z,22 January 2026 - 07:52 AM,05.26,125.91,079,3.2,054km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),054,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-01-22T07:18:00.000Z,22 January 2026 - 07:18 AM,06.36,123.71,011,3.3,044km S 60° W of Kalamansig (Sultan Kudarat),044,S 60° W,Kalamansig (Sultan Kudarat)
