@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-28T19:09:00.000Z,28 January 2026 - 07:09 PM,06.16,123.32,033,2.7,091km S 61° W of Kalamansig (Sultan Kudarat),091,S 61° W,Kalamansig (Sultan Kudarat)
+2026-01-28T19:06:00.000Z,28 January 2026 - 07:06 PM,06.62,123.75,008,1.9,034km N 77° W of Kalamansig (Sultan Kudarat),034,N 77° W,Kalamansig (Sultan Kudarat)
+2026-01-28T19:02:00.000Z,28 January 2026 - 07:02 PM,06.75,123.79,021,2.2,036km N 54° W of Kalamansig (Sultan Kudarat),036,N 54° W,Kalamansig (Sultan Kudarat)
+2026-01-28T19:01:00.000Z,28 January 2026 - 07:01 PM,06.52,123.69,007,2.0,040km S 84° W of Kalamansig (Sultan Kudarat),040,S 84° W,Kalamansig (Sultan Kudarat)
+2026-01-28T18:57:00.000Z,28 January 2026 - 06:57 PM,06.86,123.88,016,1.9,039km N 30° W of Kalamansig (Sultan Kudarat),039,N 30° W,Kalamansig (Sultan Kudarat)
+2026-01-28T18:55:00.000Z,28 January 2026 - 06:55 PM,06.52,123.63,012,2.9,047km S 85° W of Kalamansig (Sultan Kudarat),047,S 85° W,Kalamansig (Sultan Kudarat)
+2026-01-28T18:53:00.000Z,28 January 2026 - 06:53 PM,06.73,123.82,020,1.8,033km N 53° W of Kalamansig (Sultan Kudarat),033,N 53° W,Kalamansig (Sultan Kudarat)
 2026-01-28T18:48:00.000Z,28 January 2026 - 06:48 PM,06.78,123.82,015,2.3,035km N 46° W of Kalamansig (Sultan Kudarat),035,N 46° W,Kalamansig (Sultan Kudarat)
 2026-01-28T18:39:00.000Z,28 January 2026 - 06:39 PM,06.65,123.93,003,2.0,017km N 51° W of Kalamansig (Sultan Kudarat),017,N 51° W,Kalamansig (Sultan Kudarat)
 2026-01-28T18:37:00.000Z,28 January 2026 - 06:37 PM,06.67,123.77,007,2.2,034km N 69° W of Kalamansig (Sultan Kudarat),034,N 69° W,Kalamansig (Sultan Kudarat)
@@ -232,5 +239,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-27T21:04:00.000Z,27 January 2026 - 09:04 PM,06.27,126.03,137,2.2,038km N 77° E of Don Marcelino (Davao Occidental),038,N 77° E,Don Marcelino (Davao Occidental)
 2026-01-27T20:51:00.000Z,27 January 2026 - 08:51 PM,08.08,125.94,033,1.4,003km N 57° W of Veruela (Agusan Del Sur),003,N 57° W,Veruela (Agusan Del Sur)
 2026-01-27T19:14:00.000Z,27 January 2026 - 07:14 PM,09.66,126.16,021,2.5,014km S 01° E of General Luna (Surigao Del Norte),014,S 01° E,General Luna (Surigao Del Norte)
-2026-01-27T18:59:00.000Z,27 January 2026 - 06:59 PM,09.59,126.08,029,2.4,013km S 74° E of Socorro (Surigao Del Norte),013,S 74° E,Socorro (Surigao Del Norte)
-2026-01-27T18:57:00.000Z,27 January 2026 - 06:57 PM,18.17,120.77,002,2.3,005km N 83° E of Piddig (Ilocos Norte),005,N 83° E,Piddig (Ilocos Norte)
