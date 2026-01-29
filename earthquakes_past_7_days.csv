@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T07:28:00.000Z,30 January 2026 - 07:28 AM,06.56,123.58,019,2.0,052km N 90° W of Kalamansig (Sultan Kudarat),052,N 90° W,Kalamansig (Sultan Kudarat)
+2026-01-30T07:19:00.000Z,30 January 2026 - 07:19 AM,06.51,123.60,010,2.2,050km S 84° W of Kalamansig (Sultan Kudarat),050,S 84° W,Kalamansig (Sultan Kudarat)
 2026-01-30T07:05:00.000Z,30 January 2026 - 07:05 AM,06.49,123.64,010,4.9,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-30T07:02:00.000Z,30 January 2026 - 07:02 AM,06.45,123.66,015,2.5,045km S 75° W of Kalamansig (Sultan Kudarat),045,S 75° W,Kalamansig (Sultan Kudarat)
 2026-01-30T06:56:00.000Z,30 January 2026 - 06:56 AM,06.53,123.71,008,2.1,038km S 86° W of Kalamansig (Sultan Kudarat),038,S 86° W,Kalamansig (Sultan Kudarat)
@@ -809,5 +811,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-23T07:59:00.000Z,23 January 2026 - 07:59 AM,06.44,123.74,012,2.4,037km S 70° W of Kalamansig (Sultan Kudarat),037,S 70° W,Kalamansig (Sultan Kudarat)
 2026-01-23T07:59:00.000Z,23 January 2026 - 07:59 AM,09.33,126.98,001,3.1,086km N 63° E of Bayabas (Surigao Del Sur),086,N 63° E,Bayabas (Surigao Del Sur)
 2026-01-23T07:34:00.000Z,23 January 2026 - 07:34 AM,06.27,123.67,018,1.6,052km S 53° W of Kalamansig (Sultan Kudarat),052,S 53° W,Kalamansig (Sultan Kudarat)
-2026-01-23T07:09:00.000Z,23 January 2026 - 07:09 AM,06.46,123.69,004,2.5,041km S 76° W of Kalamansig (Sultan Kudarat),041,S 76° W,Kalamansig (Sultan Kudarat)
-2026-01-23T07:08:00.000Z,23 January 2026 - 07:08 AM,06.56,123.81,008,1.5,027km N 89° W of Kalamansig (Sultan Kudarat),027,N 89° W,Kalamansig (Sultan Kudarat)
