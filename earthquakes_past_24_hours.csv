@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T06:01:00.000Z,30 January 2026 - 06:01 AM,06.55,123.70,013,2.0,039km S 89° W of Kalamansig (Sultan Kudarat),039,S 89° W,Kalamansig (Sultan Kudarat)
+2026-01-30T05:56:00.000Z,30 January 2026 - 05:56 AM,13.85,120.52,067,2.0,012km N 81° W of Calatagan (Batangas),012,N 81° W,Calatagan (Batangas)
 2026-01-30T05:38:00.000Z,30 January 2026 - 05:38 AM,06.72,123.68,028,1.8,045km N 67° W of Kalamansig (Sultan Kudarat),045,N 67° W,Kalamansig (Sultan Kudarat)
 2026-01-30T05:11:00.000Z,30 January 2026 - 05:11 AM,06.58,123.63,005,1.7,046km N 87° W of Kalamansig (Sultan Kudarat),046,N 87° W,Kalamansig (Sultan Kudarat)
 2026-01-30T04:43:00.000Z,30 January 2026 - 04:43 AM,06.39,123.63,016,1.8,050km S 68° W of Kalamansig (Sultan Kudarat),050,S 68° W,Kalamansig (Sultan Kudarat)
@@ -125,5 +127,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-29T06:22:00.000Z,29 January 2026 - 06:22 AM,06.74,123.71,022,2.1,043km N 62° W of Kalamansig (Sultan Kudarat),043,N 62° W,Kalamansig (Sultan Kudarat)
 2026-01-29T06:12:00.000Z,29 January 2026 - 06:12 AM,11.11,124.11,003,2.9,016km N 66° E of City Of Bogo (Cebu),016,N 66° E,City Of Bogo (Cebu)
 2026-01-29T06:10:00.000Z,29 January 2026 - 06:10 AM,06.42,123.76,008,3.1,035km S 64° W of Kalamansig (Sultan Kudarat),035,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-29T06:00:00.000Z,29 January 2026 - 06:00 AM,13.70,120.56,108,1.8,017km S 28° W of Calatagan (Batangas),017,S 28° W,Calatagan (Batangas)
-2026-01-29T05:40:00.000Z,29 January 2026 - 05:40 AM,06.54,123.69,036,1.7,040km S 87° W of Kalamansig (Sultan Kudarat),040,S 87° W,Kalamansig (Sultan Kudarat)
