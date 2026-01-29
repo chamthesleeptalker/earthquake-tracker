@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T01:45:00.000Z,30 January 2026 - 01:45 AM,05.77,125.35,020,2.1,017km S 72° E of Glan (Sarangani),017,S 72° E,Glan (Sarangani)
+2026-01-30T01:43:00.000Z,30 January 2026 - 01:43 AM,06.52,123.81,010,1.4,027km S 82° W of Kalamansig (Sultan Kudarat),027,S 82° W,Kalamansig (Sultan Kudarat)
+2026-01-30T01:42:00.000Z,30 January 2026 - 01:42 AM,06.28,123.67,033,2.2,052km S 54° W of Kalamansig (Sultan Kudarat),052,S 54° W,Kalamansig (Sultan Kudarat)
+2026-01-30T01:37:00.000Z,30 January 2026 - 01:37 AM,06.59,124.18,008,2.0,014km S 71° E of Lebak (Sultan Kudarat),014,S 71° E,Lebak (Sultan Kudarat)
+2026-01-30T01:35:00.000Z,30 January 2026 - 01:35 AM,06.45,123.81,004,2.2,027km S 69° W of Kalamansig (Sultan Kudarat),027,S 69° W,Kalamansig (Sultan Kudarat)
+2026-01-30T01:23:00.000Z,30 January 2026 - 01:23 AM,10.94,123.94,011,2.2,013km S 21° W of City Of Bogo (Cebu),013,S 21° W,City Of Bogo (Cebu)
+2026-01-30T01:13:00.000Z,30 January 2026 - 01:13 AM,06.20,123.92,051,2.2,041km S 20° W of Kalamansig (Sultan Kudarat),041,S 20° W,Kalamansig (Sultan Kudarat)
+2026-01-30T00:57:00.000Z,30 January 2026 - 12:57 AM,06.49,123.79,014,1.5,030km S 76° W of Kalamansig (Sultan Kudarat),030,S 76° W,Kalamansig (Sultan Kudarat)
+2026-01-30T00:55:00.000Z,30 January 2026 - 12:55 AM,06.34,123.69,032,2.6,047km S 59° W of Kalamansig (Sultan Kudarat),047,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-30T00:53:00.000Z,30 January 2026 - 12:53 AM,06.74,123.77,007,1.6,038km N 56° W of Kalamansig (Sultan Kudarat),038,N 56° W,Kalamansig (Sultan Kudarat)
 2026-01-30T00:44:00.000Z,30 January 2026 - 12:44 AM,06.66,123.65,002,2.2,045km N 76° W of Kalamansig (Sultan Kudarat),045,N 76° W,Kalamansig (Sultan Kudarat)
 2026-01-30T00:32:00.000Z,30 January 2026 - 12:32 AM,06.24,124.08,048,1.6,013km N 74° W of Palimbang (Sultan Kudarat),013,N 74° W,Palimbang (Sultan Kudarat)
