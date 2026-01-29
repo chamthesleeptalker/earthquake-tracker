@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T02:54:00.000Z,30 January 2026 - 02:54 AM,06.51,123.85,033,1.8,023km S 78° W of Kalamansig (Sultan Kudarat),023,S 78° W,Kalamansig (Sultan Kudarat)
+2026-01-30T02:43:00.000Z,30 January 2026 - 02:43 AM,06.63,123.67,008,2.9,042km N 79° W of Kalamansig (Sultan Kudarat),042,N 79° W,Kalamansig (Sultan Kudarat)
+2026-01-30T02:14:00.000Z,30 January 2026 - 02:14 AM,06.45,124.44,014,2.2,013km S 84° E of Senator Ninoy Aquino (Sultan Kudarat),013,S 84° E,Senator Ninoy Aquino (Sultan Kudarat)
+2026-01-30T02:01:00.000Z,30 January 2026 - 02:01 AM,06.43,123.77,020,1.7,034km S 66° W of Kalamansig (Sultan Kudarat),034,S 66° W,Kalamansig (Sultan Kudarat)
 2026-01-30T01:45:00.000Z,30 January 2026 - 01:45 AM,05.77,125.35,020,2.1,017km S 72° E of Glan (Sarangani),017,S 72° E,Glan (Sarangani)
 2026-01-30T01:43:00.000Z,30 January 2026 - 01:43 AM,06.52,123.81,010,1.4,027km S 82° W of Kalamansig (Sultan Kudarat),027,S 82° W,Kalamansig (Sultan Kudarat)
 2026-01-30T01:42:00.000Z,30 January 2026 - 01:42 AM,06.28,123.67,033,2.2,052km S 54° W of Kalamansig (Sultan Kudarat),052,S 54° W,Kalamansig (Sultan Kudarat)
@@ -809,6 +813,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-23T03:26:00.000Z,23 January 2026 - 03:26 AM,08.15,122.83,008,2.9,010km N 60° E of Salug (Zamboanga Del Norte),010,N 60° E,Salug (Zamboanga Del Norte)
 2026-01-23T03:16:00.000Z,23 January 2026 - 03:16 AM,06.48,123.65,008,2.0,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-23T03:07:00.000Z,23 January 2026 - 03:07 AM,07.97,126.05,010,2.1,003km S 63° E of Santa Josefa (Agusan Del Sur),003,S 63° E,Santa Josefa (Agusan Del Sur)
-2026-01-23T02:09:00.000Z,23 January 2026 - 02:09 AM,11.42,121.94,002,2.8,012km S 88° W of Culasi (Antique),012,S 88° W,Culasi (Antique)
-2026-01-23T02:04:00.000Z,23 January 2026 - 02:04 AM,13.66,122.97,007,2.2,010km S 07° W of Sipocot (Camarines Sur),010,S 07° W,Sipocot (Camarines Sur)
-2026-01-23T02:03:00.000Z,23 January 2026 - 02:03 AM,07.53,126.50,013,2.0,009km S 55° W of Baganga (Davao Oriental),009,S 55° W,Baganga (Davao Oriental)
