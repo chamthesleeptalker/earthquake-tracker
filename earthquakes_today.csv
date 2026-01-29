@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T07:05:00.000Z,30 January 2026 - 07:05 AM,06.49,123.64,010,4.9,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
+2026-01-30T07:02:00.000Z,30 January 2026 - 07:02 AM,06.45,123.66,015,2.5,045km S 75° W of Kalamansig (Sultan Kudarat),045,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:56:00.000Z,30 January 2026 - 06:56 AM,06.53,123.71,008,2.1,038km S 86° W of Kalamansig (Sultan Kudarat),038,S 86° W,Kalamansig (Sultan Kudarat)
 2026-01-30T06:35:00.000Z,30 January 2026 - 06:35 AM,12.84,123.12,007,1.5,015km S 64° W of Claveria (Masbate),015,S 64° W,Claveria (Masbate)
 2026-01-30T06:31:00.000Z,30 January 2026 - 06:31 AM,06.46,123.71,014,3.5,039km S 75° W of Kalamansig (Sultan Kudarat),039,S 75° W,Kalamansig (Sultan Kudarat)
 2026-01-30T06:28:00.000Z,30 January 2026 - 06:28 AM,06.47,123.77,009,2.1,032km S 72° W of Kalamansig (Sultan Kudarat),032,S 72° W,Kalamansig (Sultan Kudarat)
