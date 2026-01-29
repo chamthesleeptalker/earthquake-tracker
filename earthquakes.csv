@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T06:35:00.000Z,30 January 2026 - 06:35 AM,12.84,123.12,007,1.5,015km S 64° W of Claveria (Masbate),015,S 64° W,Claveria (Masbate)
+2026-01-30T06:31:00.000Z,30 January 2026 - 06:31 AM,06.46,123.71,014,3.5,039km S 75° W of Kalamansig (Sultan Kudarat),039,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:28:00.000Z,30 January 2026 - 06:28 AM,06.47,123.77,009,2.1,032km S 72° W of Kalamansig (Sultan Kudarat),032,S 72° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:26:00.000Z,30 January 2026 - 06:26 AM,06.72,123.71,018,1.8,041km N 64° W of Kalamansig (Sultan Kudarat),041,N 64° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:24:00.000Z,30 January 2026 - 06:24 AM,06.76,123.70,017,2.4,044km N 60° W of Kalamansig (Sultan Kudarat),044,N 60° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:19:00.000Z,30 January 2026 - 06:19 AM,06.51,123.71,031,2.4,038km S 83° W of Kalamansig (Sultan Kudarat),038,S 83° W,Kalamansig (Sultan Kudarat)
 2026-01-30T06:01:00.000Z,30 January 2026 - 06:01 AM,06.55,123.70,013,2.0,039km S 89° W of Kalamansig (Sultan Kudarat),039,S 89° W,Kalamansig (Sultan Kudarat)
 2026-01-30T05:56:00.000Z,30 January 2026 - 05:56 AM,13.85,120.52,067,2.0,012km N 81° W of Calatagan (Batangas),012,N 81° W,Calatagan (Batangas)
 2026-01-30T05:38:00.000Z,30 January 2026 - 05:38 AM,06.72,123.68,028,1.8,045km N 67° W of Kalamansig (Sultan Kudarat),045,N 67° W,Kalamansig (Sultan Kudarat)

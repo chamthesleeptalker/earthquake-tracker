@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T06:35:00.000Z,30 January 2026 - 06:35 AM,12.84,123.12,007,1.5,015km S 64° W of Claveria (Masbate),015,S 64° W,Claveria (Masbate)
+2026-01-30T06:31:00.000Z,30 January 2026 - 06:31 AM,06.46,123.71,014,3.5,039km S 75° W of Kalamansig (Sultan Kudarat),039,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:28:00.000Z,30 January 2026 - 06:28 AM,06.47,123.77,009,2.1,032km S 72° W of Kalamansig (Sultan Kudarat),032,S 72° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:26:00.000Z,30 January 2026 - 06:26 AM,06.72,123.71,018,1.8,041km N 64° W of Kalamansig (Sultan Kudarat),041,N 64° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:24:00.000Z,30 January 2026 - 06:24 AM,06.76,123.70,017,2.4,044km N 60° W of Kalamansig (Sultan Kudarat),044,N 60° W,Kalamansig (Sultan Kudarat)
+2026-01-30T06:19:00.000Z,30 January 2026 - 06:19 AM,06.51,123.71,031,2.4,038km S 83° W of Kalamansig (Sultan Kudarat),038,S 83° W,Kalamansig (Sultan Kudarat)
 2026-01-30T06:01:00.000Z,30 January 2026 - 06:01 AM,06.55,123.70,013,2.0,039km S 89° W of Kalamansig (Sultan Kudarat),039,S 89° W,Kalamansig (Sultan Kudarat)
 2026-01-30T05:56:00.000Z,30 January 2026 - 05:56 AM,13.85,120.52,067,2.0,012km N 81° W of Calatagan (Batangas),012,N 81° W,Calatagan (Batangas)
 2026-01-30T05:38:00.000Z,30 January 2026 - 05:38 AM,06.72,123.68,028,1.8,045km N 67° W of Kalamansig (Sultan Kudarat),045,N 67° W,Kalamansig (Sultan Kudarat)
@@ -123,7 +129,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-29T07:43:00.000Z,29 January 2026 - 07:43 AM,06.40,123.74,010,5.1,038km S 63° W of Kalamansig (Sultan Kudarat),038,S 63° W,Kalamansig (Sultan Kudarat)
 2026-01-29T07:27:00.000Z,29 January 2026 - 07:27 AM,06.37,123.71,042,2.1,044km S 61° W of Kalamansig (Sultan Kudarat),044,S 61° W,Kalamansig (Sultan Kudarat)
 2026-01-29T07:16:00.000Z,29 January 2026 - 07:16 AM,06.52,123.64,015,3.0,046km S 85° W of Kalamansig (Sultan Kudarat),046,S 85° W,Kalamansig (Sultan Kudarat)
-2026-01-29T06:34:00.000Z,29 January 2026 - 06:34 AM,08.40,122.69,051,1.9,031km N 03° E of Liloy (Zamboanga Del Norte),031,N 03° E,Liloy (Zamboanga Del Norte)
-2026-01-29T06:22:00.000Z,29 January 2026 - 06:22 AM,06.74,123.71,022,2.1,043km N 62° W of Kalamansig (Sultan Kudarat),043,N 62° W,Kalamansig (Sultan Kudarat)
-2026-01-29T06:12:00.000Z,29 January 2026 - 06:12 AM,11.11,124.11,003,2.9,016km N 66° E of City Of Bogo (Cebu),016,N 66° E,City Of Bogo (Cebu)
-2026-01-29T06:10:00.000Z,29 January 2026 - 06:10 AM,06.42,123.76,008,3.1,035km S 64° W of Kalamansig (Sultan Kudarat),035,S 64° W,Kalamansig (Sultan Kudarat)
