@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-28T18:44:00.000Z,28 January 2026 - 06:44 PM,06.61,123.68,005,2.5,042km N 81° W of Kalamansig (Sultan Kudarat),042,N 81° W,Kalamansig (Sultan Kudarat)
+2026-01-30T03:24:00.000Z,30 January 2026 - 03:24 AM,06.74,123.80,010,2.5,034km N 54° W of Kalamansig (Sultan Kudarat),034,N 54° W,Kalamansig (Sultan Kudarat)
+2026-01-30T03:08:00.000Z,30 January 2026 - 03:08 AM,06.53,123.77,008,1.6,031km S 85° W of Kalamansig (Sultan Kudarat),031,S 85° W,Kalamansig (Sultan Kudarat)
+2026-01-30T03:04:00.000Z,30 January 2026 - 03:04 AM,06.78,123.81,010,2.6,036km N 48° W of Kalamansig (Sultan Kudarat),036,N 48° W,Kalamansig (Sultan Kudarat)
+2026-01-28T10:19:00.000Z,28 January 2026 - 10:19 AM,06.41,123.81,031,2.5,031km S 59° W of Kalamansig (Sultan Kudarat),031,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-30T02:54:00.000Z,30 January 2026 - 02:54 AM,06.51,123.85,033,1.8,023km S 78° W of Kalamansig (Sultan Kudarat),023,S 78° W,Kalamansig (Sultan Kudarat)
 2026-01-30T02:43:00.000Z,30 January 2026 - 02:43 AM,06.63,123.67,008,2.9,042km N 79° W of Kalamansig (Sultan Kudarat),042,N 79° W,Kalamansig (Sultan Kudarat)
 2026-01-30T02:14:00.000Z,30 January 2026 - 02:14 AM,06.45,124.44,014,2.2,013km S 84° E of Senator Ninoy Aquino (Sultan Kudarat),013,S 84° E,Senator Ninoy Aquino (Sultan Kudarat)
@@ -811,5 +816,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-23T03:32:00.000Z,23 January 2026 - 03:32 AM,07.72,124.08,006,2.3,005km S 04° W of Pagayawan (Lanao Del Sur),005,S 04° W,Pagayawan (Lanao Del Sur)
 2026-01-23T03:29:00.000Z,23 January 2026 - 03:29 AM,06.58,123.78,010,2.6,030km N 85° W of Kalamansig (Sultan Kudarat),030,N 85° W,Kalamansig (Sultan Kudarat)
 2026-01-23T03:26:00.000Z,23 January 2026 - 03:26 AM,08.15,122.83,008,2.9,010km N 60° E of Salug (Zamboanga Del Norte),010,N 60° E,Salug (Zamboanga Del Norte)
-2026-01-23T03:16:00.000Z,23 January 2026 - 03:16 AM,06.48,123.65,008,2.0,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
-2026-01-23T03:07:00.000Z,23 January 2026 - 03:07 AM,07.97,126.05,010,2.1,003km S 63° E of Santa Josefa (Agusan Del Sur),003,S 63° E,Santa Josefa (Agusan Del Sur)
