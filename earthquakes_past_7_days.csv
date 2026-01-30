@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T15:22:00.000Z,30 January 2026 - 03:22 PM,06.36,123.74,004,2.5,041km S 58° W of Kalamansig (Sultan Kudarat),041,S 58° W,Kalamansig (Sultan Kudarat)
+2026-01-30T15:16:00.000Z,30 January 2026 - 03:16 PM,06.39,123.69,035,2.3,044km S 65° W of Kalamansig (Sultan Kudarat),044,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-30T14:14:00.000Z,30 January 2026 - 02:14 PM,06.08,126.01,041,4.4,037km S 69° E of Don Marcelino (Davao Occidental),037,S 69° E,Don Marcelino (Davao Occidental)
 2026-01-30T13:59:00.000Z,30 January 2026 - 01:59 PM,06.54,123.58,007,1.7,053km S 89° W of Kalamansig (Sultan Kudarat),053,S 89° W,Kalamansig (Sultan Kudarat)
 2026-01-30T12:47:00.000Z,30 January 2026 - 12:47 PM,06.43,123.65,005,2.6,046km S 73° W of Kalamansig (Sultan Kudarat),046,S 73° W,Kalamansig (Sultan Kudarat)
@@ -829,4 +831,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-23T15:34:00.000Z,23 January 2026 - 03:34 PM,13.15,120.40,002,2.1,025km S 72° W of Mamburao (Occidental Mindoro),025,S 72° W,Mamburao (Occidental Mindoro)
 2026-01-23T15:30:00.000Z,23 January 2026 - 03:30 PM,06.38,123.82,034,1.9,032km S 53° W of Kalamansig (Sultan Kudarat),032,S 53° W,Kalamansig (Sultan Kudarat)
 2026-01-23T15:25:00.000Z,23 January 2026 - 03:25 PM,06.59,123.75,016,2.5,034km N 84° W of Kalamansig (Sultan Kudarat),034,N 84° W,Kalamansig (Sultan Kudarat)
-2026-01-23T14:58:00.000Z,23 January 2026 - 02:58 PM,07.67,126.63,027,3.1,013km N 37° E of Baganga (Davao Oriental),013,N 37° E,Baganga (Davao Oriental)
