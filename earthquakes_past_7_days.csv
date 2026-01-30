@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-31T04:41:00.000Z,31 January 2026 - 04:41 AM,06.57,123.87,015,2.1,020km N 86° W of Kalamansig (Sultan Kudarat),020,N 86° W,Kalamansig (Sultan Kudarat)
+2026-01-31T04:35:00.000Z,31 January 2026 - 04:35 AM,20.73,122.45,136,3.0,059km N 58° E of Basco (Batanes),059,N 58° E,Basco (Batanes)
+2026-01-31T04:31:00.000Z,31 January 2026 - 04:31 AM,06.54,124.00,004,2.0,005km S 71° W of Kalamansig (Sultan Kudarat),005,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-31T04:06:00.000Z,31 January 2026 - 04:06 AM,10.90,123.96,011,1.9,016km S 07° W of City Of Bogo (Cebu),016,S 07° W,City Of Bogo (Cebu)
 2026-01-31T04:03:00.000Z,31 January 2026 - 04:03 AM,06.62,123.73,002,2.5,036km N 78° W of Kalamansig (Sultan Kudarat),036,N 78° W,Kalamansig (Sultan Kudarat)
 2026-01-31T03:55:00.000Z,31 January 2026 - 03:55 AM,06.46,123.67,011,2.2,043km S 76° W of Kalamansig (Sultan Kudarat),043,S 76° W,Kalamansig (Sultan Kudarat)
@@ -844,9 +847,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T05:11:00.000Z,24 January 2026 - 05:11 AM,06.48,123.66,016,2.2,044km S 79° W of Kalamansig (Sultan Kudarat),044,S 79° W,Kalamansig (Sultan Kudarat)
 2026-01-24T05:10:00.000Z,24 January 2026 - 05:10 AM,14.33,121.84,002,2.8,008km N 15° E of Cagbalete Island (Mauban) (Quezon),008,N 15° E,Cagbalete Island (Mauban) (Quezon)
 2026-01-24T05:06:00.000Z,24 January 2026 - 05:06 AM,06.94,124.41,003,1.8,001km N 22° W of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 22° W,Datu Saudi Ampatuan (Maguindanao Del Sur)
-2026-01-24T04:39:00.000Z,24 January 2026 - 04:39 AM,06.19,123.56,034,1.8,068km S 53° W of Kalamansig (Sultan Kudarat),068,S 53° W,Kalamansig (Sultan Kudarat)
-2026-01-24T04:37:00.000Z,24 January 2026 - 04:37 AM,19.17,121.90,018,1.7,030km N 08° E of Camiguin Island (Calayan) (Cagayan),030,N 08° E,Camiguin Island (Calayan) (Cagayan)
-2026-01-24T04:37:00.000Z,24 January 2026 - 04:37 AM,16.28,121.91,035,2.0,016km N 18° W of Dinalungan (Aurora),016,N 18° W,Dinalungan (Aurora)
-2026-01-24T04:23:00.000Z,24 January 2026 - 04:23 AM,06.42,123.78,021,2.0,034km S 64° W of Kalamansig (Sultan Kudarat),034,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-24T04:20:00.000Z,24 January 2026 - 04:20 AM,14.03,121.17,033,2.6,003km S 35° E of Malvar (Batangas),003,S 35° E,Malvar (Batangas)
-2026-01-24T04:13:00.000Z,24 January 2026 - 04:13 AM,06.36,124.27,013,1.5,013km S 23° W of Senator Ninoy Aquino (Sultan Kudarat),013,S 23° W,Senator Ninoy Aquino (Sultan Kudarat)
