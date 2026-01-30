@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-30T11:53:00.000Z,30 January 2026 - 11:53 AM,06.66,123.92,006,1.7,018km N 53° W of Kalamansig (Sultan Kudarat),018,N 53° W,Kalamansig (Sultan Kudarat)
+2026-01-30T11:47:00.000Z,30 January 2026 - 11:47 AM,06.75,124.61,033,1.4,006km S 22° W of Lambayong (Sultan Kudarat),006,S 22° W,Lambayong (Sultan Kudarat)
+2026-01-30T11:28:00.000Z,30 January 2026 - 11:28 AM,12.35,123.79,007,2.2,007km S 06° E of Batuan (Masbate),007,S 06° E,Batuan (Masbate)
+2026-01-30T11:14:00.000Z,30 January 2026 - 11:14 AM,07.91,124.90,034,1.6,012km N 41° E of Pangantucan (Bukidnon),012,N 41° E,Pangantucan (Bukidnon)
+2026-01-30T11:03:00.000Z,30 January 2026 - 11:03 AM,06.50,123.77,020,2.1,036km S 80° W of Kalamansig (Sultan Kudarat),036,S 80° W,Kalamansig (Sultan Kudarat)
+2026-01-30T10:25:00.000Z,30 January 2026 - 10:25 AM,06.40,123.89,035,1.7,024km S 45° W of Kalamansig (Sultan Kudarat),024,S 45° W,Kalamansig (Sultan Kudarat)
+2026-01-30T10:24:00.000Z,30 January 2026 - 10:24 AM,06.43,123.83,023,2.0,029km S 60° W of Kalamansig (Sultan Kudarat),029,S 60° W,Kalamansig (Sultan Kudarat)
+2026-01-30T10:20:00.000Z,30 January 2026 - 10:20 AM,06.71,123.70,010,2.7,043km N 66° W of Kalamansig (Sultan Kudarat),043,N 66° W,Kalamansig (Sultan Kudarat)
+2026-01-30T09:43:00.000Z,30 January 2026 - 09:43 AM,06.76,123.76,020,3.1,039km N 55° W of Kalamansig (Sultan Kudarat),039,N 55° W,Kalamansig (Sultan Kudarat)
 2026-01-30T09:25:00.000Z,30 January 2026 - 09:25 AM,06.48,123.63,010,2.4,048km S 80° W of Kalamansig (Sultan Kudarat),048,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-30T09:21:00.000Z,30 January 2026 - 09:21 AM,06.30,123.63,014,2.0,055km S 59° W of Kalamansig (Sultan Kudarat),055,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-30T09:14:00.000Z,30 January 2026 - 09:14 AM,08.59,122.47,028,2.0,057km N 23° W of Liloy (Zamboanga Del Norte),057,N 23° W,Liloy (Zamboanga Del Norte)
