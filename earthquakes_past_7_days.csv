@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-31T03:08:00.000Z,31 January 2026 - 03:08 AM,06.73,123.78,019,1.9,035km N 58° W of Kalamansig (Sultan Kudarat),035,N 58° W,Kalamansig (Sultan Kudarat)
+2026-01-31T03:03:00.000Z,31 January 2026 - 03:03 AM,16.12,121.77,007,2.2,020km S 84° W of Dinalungan (Aurora),020,S 84° W,Dinalungan (Aurora)
+2026-01-31T02:30:00.000Z,31 January 2026 - 02:30 AM,15.16,122.89,004,3.9,076km N 05° W of Tinaga Island (Vinzons) (Camarines Norte),076,N 05° W,Tinaga Island (Vinzons) (Camarines Norte)
 2026-01-31T02:28:00.000Z,31 January 2026 - 02:28 AM,06.45,123.75,004,2.3,035km S 70° W of Kalamansig (Sultan Kudarat),035,S 70° W,Kalamansig (Sultan Kudarat)
 2026-01-31T02:27:00.000Z,31 January 2026 - 02:27 AM,18.49,120.77,003,2.4,005km S 07° E of Bangui (Ilocos Norte),005,S 07° E,Bangui (Ilocos Norte)
 2026-01-31T02:27:00.000Z,31 January 2026 - 02:27 AM,10.89,125.10,014,2.3,011km S 47° E of Dulag (Leyte),011,S 47° E,Dulag (Leyte)
@@ -843,7 +846,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T04:13:00.000Z,24 January 2026 - 04:13 AM,06.36,124.27,013,1.5,013km S 23° W of Senator Ninoy Aquino (Sultan Kudarat),013,S 23° W,Senator Ninoy Aquino (Sultan Kudarat)
 2026-01-24T03:58:00.000Z,24 January 2026 - 03:58 AM,06.38,123.67,015,2.6,046km S 64° W of Kalamansig (Sultan Kudarat),046,S 64° W,Kalamansig (Sultan Kudarat)
 2026-01-24T03:57:00.000Z,24 January 2026 - 03:57 AM,06.39,123.68,015,1.7,045km S 65° W of Kalamansig (Sultan Kudarat),045,S 65° W,Kalamansig (Sultan Kudarat)
-2026-01-24T02:57:00.000Z,24 January 2026 - 02:57 AM,13.45,120.07,030,1.4,036km S 32° W of Looc (Occidental Mindoro),036,S 32° W,Looc (Occidental Mindoro)
-2026-01-24T02:46:00.000Z,24 January 2026 - 02:46 AM,09.84,122.38,018,1.8,010km N 37° W of City Of Sipalay (Negros Occidental),010,N 37° W,City Of Sipalay (Negros Occidental)
-2026-01-24T02:45:00.000Z,24 January 2026 - 02:45 AM,07.76,124.80,032,1.6,007km N 75° E of Kalilangan (Bukidnon),007,N 75° E,Kalilangan (Bukidnon)
-2026-01-24T02:30:00.000Z,24 January 2026 - 02:30 AM,06.49,123.79,029,2.5,030km S 76° W of Kalamansig (Sultan Kudarat),030,S 76° W,Kalamansig (Sultan Kudarat)
