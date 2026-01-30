@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-31T05:19:00.000Z,31 January 2026 - 05:19 AM,06.49,123.81,005,3.3,028km S 75° W of Kalamansig (Sultan Kudarat),028,S 75° W,Kalamansig (Sultan Kudarat)
+2026-01-31T05:05:00.000Z,31 January 2026 - 05:05 AM,06.70,123.88,008,2.3,024km N 49° W of Kalamansig (Sultan Kudarat),024,N 49° W,Kalamansig (Sultan Kudarat)
+2026-01-31T04:55:00.000Z,31 January 2026 - 04:55 AM,06.59,123.84,009,2.6,024km N 81° W of Kalamansig (Sultan Kudarat),024,N 81° W,Kalamansig (Sultan Kudarat)
 2026-01-31T04:41:00.000Z,31 January 2026 - 04:41 AM,06.57,123.87,015,2.1,020km N 86° W of Kalamansig (Sultan Kudarat),020,N 86° W,Kalamansig (Sultan Kudarat)
 2026-01-31T04:35:00.000Z,31 January 2026 - 04:35 AM,20.73,122.45,136,3.0,059km N 58° E of Basco (Batanes),059,N 58° E,Basco (Batanes)
 2026-01-31T04:31:00.000Z,31 January 2026 - 04:31 AM,06.54,124.00,004,2.0,005km S 71° W of Kalamansig (Sultan Kudarat),005,S 71° W,Kalamansig (Sultan Kudarat)
@@ -843,7 +846,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T05:31:00.000Z,24 January 2026 - 05:31 AM,08.24,126.49,030,1.6,020km N 82° E of City Of Bislig (Surigao Del Sur),020,N 82° E,City Of Bislig (Surigao Del Sur)
 2026-01-24T05:26:00.000Z,24 January 2026 - 05:26 AM,06.32,123.65,016,1.9,051km S 59° W of Kalamansig (Sultan Kudarat),051,S 59° W,Kalamansig (Sultan Kudarat)
 2026-01-24T05:21:00.000Z,24 January 2026 - 05:21 AM,06.34,123.75,027,2.0,041km S 55° W of Kalamansig (Sultan Kudarat),041,S 55° W,Kalamansig (Sultan Kudarat)
-2026-01-24T05:17:00.000Z,24 January 2026 - 05:17 AM,17.25,120.00,014,2.4,048km N 79° W of City Of Candon (Ilocos Sur),048,N 79° W,City Of Candon (Ilocos Sur)
-2026-01-24T05:11:00.000Z,24 January 2026 - 05:11 AM,06.48,123.66,016,2.2,044km S 79° W of Kalamansig (Sultan Kudarat),044,S 79° W,Kalamansig (Sultan Kudarat)
-2026-01-24T05:10:00.000Z,24 January 2026 - 05:10 AM,14.33,121.84,002,2.8,008km N 15° E of Cagbalete Island (Mauban) (Quezon),008,N 15° E,Cagbalete Island (Mauban) (Quezon)
-2026-01-24T05:06:00.000Z,24 January 2026 - 05:06 AM,06.94,124.41,003,1.8,001km N 22° W of Datu Saudi Ampatuan (Maguindanao Del Sur),001,N 22° W,Datu Saudi Ampatuan (Maguindanao Del Sur)
