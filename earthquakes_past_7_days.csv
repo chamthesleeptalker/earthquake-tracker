@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-31T12:51:00.000Z,31 January 2026 - 12:51 PM,06.30,123.72,028,2.1,046km S 52° W of Kalamansig (Sultan Kudarat),046,S 52° W,Kalamansig (Sultan Kudarat)
+2026-01-31T12:50:00.000Z,31 January 2026 - 12:50 PM,06.55,123.71,031,1.8,038km S 89° W of Kalamansig (Sultan Kudarat),038,S 89° W,Kalamansig (Sultan Kudarat)
+2026-01-31T12:35:00.000Z,31 January 2026 - 12:35 PM,06.56,123.69,004,2.0,040km N 89° W of Kalamansig (Sultan Kudarat),040,N 89° W,Kalamansig (Sultan Kudarat)
+2026-01-31T12:27:00.000Z,31 January 2026 - 12:27 PM,09.65,126.16,037,1.4,015km South of General Luna (Surigao Del Norte),015,South of General,(Surigao Del Norte)
 2026-01-31T11:07:00.000Z,31 January 2026 - 11:07 AM,06.50,123.72,018,2.2,037km S 81° W of Kalamansig (Sultan Kudarat),037,S 81° W,Kalamansig (Sultan Kudarat)
 2026-01-31T10:31:00.000Z,31 January 2026 - 10:31 AM,06.57,123.69,055,2.2,040km N 88° W of Kalamansig (Sultan Kudarat),040,N 88° W,Kalamansig (Sultan Kudarat)
 2026-01-31T09:53:00.000Z,31 January 2026 - 09:53 AM,06.37,123.68,019,2.5,046km S 63° W of Kalamansig (Sultan Kudarat),046,S 63° W,Kalamansig (Sultan Kudarat)
@@ -841,9 +845,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T14:59:00.000Z,24 January 2026 - 02:59 PM,09.98,126.15,021,1.4,010km S 62° E of Burgos (Surigao Del Norte),010,S 62° E,Burgos (Surigao Del Norte)
 2026-01-24T14:58:00.000Z,24 January 2026 - 02:58 PM,10.00,126.30,024,1.4,025km S 85° E of Burgos (Surigao Del Norte),025,S 85° E,Burgos (Surigao Del Norte)
 2026-01-24T12:58:00.000Z,24 January 2026 - 12:58 PM,11.04,122.42,006,2.3,006km S 69° W of Lambunao (Iloilo),006,S 69° W,Lambunao (Iloilo)
-2026-01-24T12:44:00.000Z,24 January 2026 - 12:44 PM,07.34,122.51,015,1.4,030km S 18° E of Tungawan (Zamboanga Sibugay),030,S 18° E,Tungawan (Zamboanga Sibugay)
-2026-01-24T12:40:00.000Z,24 January 2026 - 12:40 PM,12.83,122.96,008,1.6,032km S 76° W of Claveria (Masbate),032,S 76° W,Claveria (Masbate)
-2026-01-24T12:13:00.000Z,24 January 2026 - 12:13 PM,06.63,123.56,043,1.7,055km N 81° W of Kalamansig (Sultan Kudarat),055,N 81° W,Kalamansig (Sultan Kudarat)
-2026-01-24T12:06:00.000Z,24 January 2026 - 12:06 PM,10.93,123.91,002,2.7,016km S 30° W of City Of Bogo (Cebu),016,S 30° W,City Of Bogo (Cebu)
-2026-01-24T11:52:00.000Z,24 January 2026 - 11:52 AM,09.99,126.18,027,1.8,012km S 76° E of Burgos (Surigao Del Norte),012,S 76° E,Burgos (Surigao Del Norte)
-2026-01-24T11:25:00.000Z,24 January 2026 - 11:25 AM,16.52,122.14,006,1.8,013km S 89° W of Dinapigue (Isabela),013,S 89° W,Dinapigue (Isabela)

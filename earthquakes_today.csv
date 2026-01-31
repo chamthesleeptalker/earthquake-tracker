@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-31T12:51:00.000Z,31 January 2026 - 12:51 PM,06.30,123.72,028,2.1,046km S 52° W of Kalamansig (Sultan Kudarat),046,S 52° W,Kalamansig (Sultan Kudarat)
+2026-01-31T12:50:00.000Z,31 January 2026 - 12:50 PM,06.55,123.71,031,1.8,038km S 89° W of Kalamansig (Sultan Kudarat),038,S 89° W,Kalamansig (Sultan Kudarat)
+2026-01-31T12:35:00.000Z,31 January 2026 - 12:35 PM,06.56,123.69,004,2.0,040km N 89° W of Kalamansig (Sultan Kudarat),040,N 89° W,Kalamansig (Sultan Kudarat)
+2026-01-31T12:27:00.000Z,31 January 2026 - 12:27 PM,09.65,126.16,037,1.4,015km South of General Luna (Surigao Del Norte),015,South of General,(Surigao Del Norte)
 2026-01-31T11:07:00.000Z,31 January 2026 - 11:07 AM,06.50,123.72,018,2.2,037km S 81° W of Kalamansig (Sultan Kudarat),037,S 81° W,Kalamansig (Sultan Kudarat)
 2026-01-31T10:31:00.000Z,31 January 2026 - 10:31 AM,06.57,123.69,055,2.2,040km N 88° W of Kalamansig (Sultan Kudarat),040,N 88° W,Kalamansig (Sultan Kudarat)
 2026-01-31T09:53:00.000Z,31 January 2026 - 09:53 AM,06.37,123.68,019,2.5,046km S 63° W of Kalamansig (Sultan Kudarat),046,S 63° W,Kalamansig (Sultan Kudarat)
