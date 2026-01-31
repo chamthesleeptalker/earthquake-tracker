@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T07:05:00.000Z,01 February 2026 - 07:05 AM,06.51,124.08,002,1.6,006km S 31° E of Kalamansig (Sultan Kudarat),006,S 31° E,Kalamansig (Sultan Kudarat)
+2026-02-01T07:02:00.000Z,01 February 2026 - 07:02 AM,06.29,123.71,009,3.5,047km S 52° W of Kalamansig (Sultan Kudarat),047,S 52° W,Kalamansig (Sultan Kudarat)
+2026-02-01T06:48:00.000Z,01 February 2026 - 06:48 AM,13.60,120.66,104,2.3,018km N 22° W of Abra De Ilog (Occidental Mindoro),018,N 22° W,Abra De Ilog (Occidental Mindoro)
 2026-02-01T06:22:00.000Z,01 February 2026 - 06:22 AM,13.82,120.57,122,1.7,007km S 83° W of Calatagan (Batangas),007,S 83° W,Calatagan (Batangas)
 2026-02-01T06:15:00.000Z,01 February 2026 - 06:15 AM,06.42,123.80,018,1.8,031km S 61° W of Kalamansig (Sultan Kudarat),031,S 61° W,Kalamansig (Sultan Kudarat)
 2026-02-01T06:14:00.000Z,01 February 2026 - 06:14 AM,06.51,123.77,021,2.1,031km S 81° W of Kalamansig (Sultan Kudarat),031,S 81° W,Kalamansig (Sultan Kudarat)
@@ -111,5 +114,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-31T08:04:00.000Z,31 January 2026 - 08:04 AM,17.83,120.72,001,2.1,011km S 33° E of Nueva Era (Ilocos Norte),011,S 33° E,Nueva Era (Ilocos Norte)
 2026-01-31T07:56:00.000Z,31 January 2026 - 07:56 AM,06.55,123.80,022,2.5,028km S 90° W of Kalamansig (Sultan Kudarat),028,S 90° W,Kalamansig (Sultan Kudarat)
 2026-01-31T07:26:00.000Z,31 January 2026 - 07:26 AM,06.44,123.71,002,2.0,040km S 72° W of Kalamansig (Sultan Kudarat),040,S 72° W,Kalamansig (Sultan Kudarat)
-2026-01-31T06:58:00.000Z,31 January 2026 - 06:58 AM,21.30,120.37,015,3.4,161km N 71° W of Itbayat (Batanes),161,N 71° W,Itbayat (Batanes)
-2026-01-31T06:57:00.000Z,31 January 2026 - 06:57 AM,15.61,120.49,159,2.1,006km S 77° E of Santa Ignacia (Tarlac),006,S 77° E,Santa Ignacia (Tarlac)
