@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T01:06:00.000Z,01 February 2026 - 01:06 AM,13.60,120.67,115,1.8,018km N 18° W of Abra De Ilog (Occidental Mindoro),018,N 18° W,Abra De Ilog (Occidental Mindoro)
+2026-02-01T00:50:00.000Z,01 February 2026 - 12:50 AM,13.63,120.30,029,2.0,011km S 27° E of Looc (Occidental Mindoro),011,S 27° E,Looc (Occidental Mindoro)
 2026-02-01T00:30:00.000Z,01 February 2026 - 12:30 AM,06.46,123.84,006,1.9,025km S 66° W of Kalamansig (Sultan Kudarat),025,S 66° W,Kalamansig (Sultan Kudarat)
 2026-02-01T00:02:00.000Z,01 February 2026 - 12:02 AM,08.47,126.92,002,2.1,066km N 80° E of Hinatuan (Surigao Del Sur),066,N 80° E,Hinatuan (Surigao Del Sur)
 2026-01-31T23:43:00.000Z,31 January 2026 - 11:43 PM,06.60,123.87,029,1.6,021km N 77° W of Kalamansig (Sultan Kudarat),021,N 77° W,Kalamansig (Sultan Kudarat)
@@ -884,7 +886,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T02:22:00.000Z,25 January 2026 - 02:22 AM,12.88,123.07,006,1.9,019km S 83° W of Claveria (Masbate),019,S 83° W,Claveria (Masbate)
 2026-01-25T01:58:00.000Z,25 January 2026 - 01:58 AM,06.44,123.65,008,2.2,045km S 75° W of Kalamansig (Sultan Kudarat),045,S 75° W,Kalamansig (Sultan Kudarat)
 2026-01-25T01:54:00.000Z,25 January 2026 - 01:54 AM,06.68,123.65,019,3.1,047km N 72° W of Kalamansig (Sultan Kudarat),047,N 72° W,Kalamansig (Sultan Kudarat)
-2026-01-25T01:04:00.000Z,25 January 2026 - 01:04 AM,06.40,123.77,010,2.5,035km S 60° W of Kalamansig (Sultan Kudarat),035,S 60° W,Kalamansig (Sultan Kudarat)
-2026-01-25T00:59:00.000Z,25 January 2026 - 12:59 AM,06.67,123.73,021,2.2,038km N 71° W of Kalamansig (Sultan Kudarat),038,N 71° W,Kalamansig (Sultan Kudarat)
-2026-01-25T00:47:00.000Z,25 January 2026 - 12:47 AM,06.42,123.75,014,2.0,036km S 65° W of Kalamansig (Sultan Kudarat),036,S 65° W,Kalamansig (Sultan Kudarat)
-2026-01-25T00:38:00.000Z,25 January 2026 - 12:38 AM,07.85,126.46,034,1.8,007km N 06° E of Cateel (Davao Oriental),007,N 06° E,Cateel (Davao Oriental)
