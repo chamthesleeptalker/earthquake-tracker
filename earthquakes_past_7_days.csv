@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T04:00:00.000Z,01 February 2026 - 04:00 AM,06.53,123.66,017,1.7,043km S 86° W of Kalamansig (Sultan Kudarat),043,S 86° W,Kalamansig (Sultan Kudarat)
+2026-02-01T03:43:00.000Z,01 February 2026 - 03:43 AM,06.51,125.65,027,1.6,012km N 24° E of Malita (Davao Occidental),012,N 24° E,Malita (Davao Occidental)
 2026-02-01T03:29:00.000Z,01 February 2026 - 03:29 AM,07.93,126.35,033,2.1,007km N 27° W of Boston (Davao Oriental),007,N 27° W,Boston (Davao Oriental)
 2026-02-01T03:28:00.000Z,01 February 2026 - 03:28 AM,06.52,123.78,018,2.5,030km S 83° W of Kalamansig (Sultan Kudarat),030,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-01T03:24:00.000Z,01 February 2026 - 03:24 AM,06.15,124.10,034,1.5,046km S 07° E of Kalamansig (Sultan Kudarat),046,S 07° E,Kalamansig (Sultan Kudarat)
@@ -889,5 +891,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T07:38:00.000Z,25 January 2026 - 07:38 AM,06.50,123.71,003,2.4,038km S 80° W of Kalamansig (Sultan Kudarat),038,S 80° W,Kalamansig (Sultan Kudarat)
 2026-01-25T07:11:00.000Z,25 January 2026 - 07:11 AM,13.74,120.54,027,1.4,014km S 45° W of Calatagan (Batangas),014,S 45° W,Calatagan (Batangas)
 2026-01-25T06:27:00.000Z,25 January 2026 - 06:27 AM,10.87,123.79,002,2.5,010km N 57° W of Tabuelan (Cebu),010,N 57° W,Tabuelan (Cebu)
-2026-01-25T03:50:00.000Z,25 January 2026 - 03:50 AM,06.40,123.73,028,1.8,039km S 64° W of Kalamansig (Sultan Kudarat),039,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-25T03:38:00.000Z,25 January 2026 - 03:38 AM,06.62,123.92,002,2.0,016km N 62° W of Kalamansig (Sultan Kudarat),016,N 62° W,Kalamansig (Sultan Kudarat)
