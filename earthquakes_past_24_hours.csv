@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T00:30:00.000Z,01 February 2026 - 12:30 AM,06.46,123.84,006,1.9,025km S 66° W of Kalamansig (Sultan Kudarat),025,S 66° W,Kalamansig (Sultan Kudarat)
 2026-02-01T00:02:00.000Z,01 February 2026 - 12:02 AM,08.47,126.92,002,2.1,066km N 80° E of Hinatuan (Surigao Del Sur),066,N 80° E,Hinatuan (Surigao Del Sur)
 2026-01-31T23:43:00.000Z,31 January 2026 - 11:43 PM,06.60,123.87,029,1.6,021km N 77° W of Kalamansig (Sultan Kudarat),021,N 77° W,Kalamansig (Sultan Kudarat)
 2026-01-31T23:43:00.000Z,31 January 2026 - 11:43 PM,07.93,126.63,018,2.0,025km N 53° E of Cateel (Davao Oriental),025,N 53° E,Cateel (Davao Oriental)
@@ -113,5 +114,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-31T01:40:00.000Z,31 January 2026 - 01:40 AM,07.32,126.82,018,2.5,028km S 88° E of Caraga (Davao Oriental),028,S 88° E,Caraga (Davao Oriental)
 2026-01-31T01:40:00.000Z,31 January 2026 - 01:40 AM,06.41,123.84,032,1.7,028km S 56° W of Kalamansig (Sultan Kudarat),028,S 56° W,Kalamansig (Sultan Kudarat)
 2026-01-31T01:26:00.000Z,31 January 2026 - 01:26 AM,06.79,123.74,009,2.1,043km N 53° W of Kalamansig (Sultan Kudarat),043,N 53° W,Kalamansig (Sultan Kudarat)
-2026-01-31T00:28:00.000Z,31 January 2026 - 12:28 AM,06.41,123.70,007,2.1,042km S 67° W of Kalamansig (Sultan Kudarat),042,S 67° W,Kalamansig (Sultan Kudarat)
-2026-01-31T00:05:00.000Z,31 January 2026 - 12:05 AM,13.08,120.87,034,1.7,016km S 89° E of Santa Cruz (Occidental Mindoro),016,S 89° E,Santa Cruz (Occidental Mindoro)

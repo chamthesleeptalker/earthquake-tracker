@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T00:30:00.000Z,01 February 2026 - 12:30 AM,06.46,123.84,006,1.9,025km S 66° W of Kalamansig (Sultan Kudarat),025,S 66° W,Kalamansig (Sultan Kudarat)
 2026-02-01T00:02:00.000Z,01 February 2026 - 12:02 AM,08.47,126.92,002,2.1,066km N 80° E of Hinatuan (Surigao Del Sur),066,N 80° E,Hinatuan (Surigao Del Sur)
 2026-01-31T23:43:00.000Z,31 January 2026 - 11:43 PM,06.60,123.87,029,1.6,021km N 77° W of Kalamansig (Sultan Kudarat),021,N 77° W,Kalamansig (Sultan Kudarat)
 2026-01-31T23:43:00.000Z,31 January 2026 - 11:43 PM,07.93,126.63,018,2.0,025km N 53° E of Cateel (Davao Oriental),025,N 53° E,Cateel (Davao Oriental)
@@ -887,5 +888,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T00:59:00.000Z,25 January 2026 - 12:59 AM,06.67,123.73,021,2.2,038km N 71° W of Kalamansig (Sultan Kudarat),038,N 71° W,Kalamansig (Sultan Kudarat)
 2026-01-25T00:47:00.000Z,25 January 2026 - 12:47 AM,06.42,123.75,014,2.0,036km S 65° W of Kalamansig (Sultan Kudarat),036,S 65° W,Kalamansig (Sultan Kudarat)
 2026-01-25T00:38:00.000Z,25 January 2026 - 12:38 AM,07.85,126.46,034,1.8,007km N 06° E of Cateel (Davao Oriental),007,N 06° E,Cateel (Davao Oriental)
-2026-01-25T00:22:00.000Z,25 January 2026 - 12:22 AM,06.54,123.80,004,2.6,028km S 87° W of Kalamansig (Sultan Kudarat),028,S 87° W,Kalamansig (Sultan Kudarat)
-2026-01-25T00:05:00.000Z,25 January 2026 - 12:05 AM,06.50,123.72,022,2.6,037km S 81° W of Kalamansig (Sultan Kudarat),037,S 81° W,Kalamansig (Sultan Kudarat)
