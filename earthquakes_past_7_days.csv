@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-01-31T15:07:00.000Z,31 January 2026 - 03:07 PM,06.62,123.86,025,1.6,031km S 69° W of Kalamansig (Sultan Kudarat),031,S 69° W,Kalamansig (Sultan Kudarat)
+2026-01-31T14:52:00.000Z,31 January 2026 - 02:52 PM,06.26,123.83,002,2.2,041km S 37° W of Kalamansig (Sultan Kudarat),041,S 37° W,Kalamansig (Sultan Kudarat)
+2026-01-31T14:42:00.000Z,31 January 2026 - 02:42 PM,06.60,124.01,004,2.0,007km N 46° W of Kalamansig (Sultan Kudarat),007,N 46° W,Kalamansig (Sultan Kudarat)
 2026-01-31T14:00:00.000Z,31 January 2026 - 02:00 PM,13.66,120.55,058,1.4,021km S 24° W of Calatagan (Batangas),021,S 24° W,Calatagan (Batangas)
 2026-01-31T13:34:00.000Z,31 January 2026 - 01:34 PM,07.94,127.49,026,2.8,111km N 68° E of Baganga (Davao Oriental),111,N 68° E,Baganga (Davao Oriental)
 2026-01-31T13:27:00.000Z,31 January 2026 - 01:27 PM,06.66,123.55,033,2.4,056km N 78° W of Kalamansig (Sultan Kudarat),056,N 78° W,Kalamansig (Sultan Kudarat)
@@ -844,7 +847,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-24T16:58:00.000Z,24 January 2026 - 04:58 PM,06.41,123.68,035,2.2,045km S 69° W of Kalamansig (Sultan Kudarat),045,S 69° W,Kalamansig (Sultan Kudarat)
 2026-01-24T16:58:00.000Z,24 January 2026 - 04:58 PM,11.90,125.20,035,1.6,023km S 89° W of Taft (Eastern Samar),023,S 89° W,Taft (Eastern Samar)
 2026-01-24T16:36:00.000Z,24 January 2026 - 04:36 PM,07.35,126.95,019,1.6,047km N 71° E of Manay (Davao Oriental),047,N 71° E,Manay (Davao Oriental)
-2026-01-24T15:05:00.000Z,24 January 2026 - 03:05 PM,09.98,126.19,021,2.3,014km S 70° E of Burgos (Surigao Del Norte),014,S 70° E,Burgos (Surigao Del Norte)
-2026-01-24T15:04:00.000Z,24 January 2026 - 03:04 PM,10.02,126.18,023,1.3,012km N 87° E of Burgos (Surigao Del Norte),012,N 87° E,Burgos (Surigao Del Norte)
-2026-01-24T14:59:00.000Z,24 January 2026 - 02:59 PM,09.98,126.15,021,1.4,010km S 62° E of Burgos (Surigao Del Norte),010,S 62° E,Burgos (Surigao Del Norte)
-2026-01-24T14:58:00.000Z,24 January 2026 - 02:58 PM,10.00,126.30,024,1.4,025km S 85° E of Burgos (Surigao Del Norte),025,S 85° E,Burgos (Surigao Del Norte)
