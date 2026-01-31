@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T06:01:00.000Z,01 February 2026 - 06:01 AM,06.46,124.29,004,2.0,004km West of Senator Ninoy Aquino (Sultan Kudarat),004,West of Senator,Aquino (Sultan Kudarat)
+2026-02-01T05:54:00.000Z,01 February 2026 - 05:54 AM,06.37,123.82,023,3.2,032km S 51° W of Kalamansig (Sultan Kudarat),032,S 51° W,Kalamansig (Sultan Kudarat)
+2026-02-01T05:45:00.000Z,01 February 2026 - 05:45 AM,09.67,126.05,022,2.7,010km S 02° W of Dapa (Surigao Del Norte),010,S 02° W,Dapa (Surigao Del Norte)
 2026-02-01T04:37:00.000Z,01 February 2026 - 04:37 AM,12.92,123.06,007,2.0,020km N 83° W of Claveria (Masbate),020,N 83° W,Claveria (Masbate)
 2026-02-01T04:36:00.000Z,01 February 2026 - 04:36 AM,13.77,120.59,092,1.6,008km S 31° W of Calatagan (Batangas),008,S 31° W,Calatagan (Batangas)
 2026-02-01T04:34:00.000Z,01 February 2026 - 04:34 AM,05.58,125.68,200,2.5,026km N 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),026,N 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
