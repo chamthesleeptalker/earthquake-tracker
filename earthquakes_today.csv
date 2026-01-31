@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T03:00:00.000Z,01 February 2026 - 03:00 AM,15.74,121.91,012,2.0,037km S 87° E of Baler (Aurora),037,S 87° E,Baler (Aurora)
+2026-02-01T02:50:00.000Z,01 February 2026 - 02:50 AM,12.84,122.95,010,1.9,032km S 06° W of San Pascual (Masbate),032,S 06° W,San Pascual (Masbate)
+2026-02-01T02:43:00.000Z,01 February 2026 - 02:43 AM,06.51,123.70,009,2.0,039km S 82° W of Kalamansig (Sultan Kudarat),039,S 82° W,Kalamansig (Sultan Kudarat)
+2026-02-01T02:40:00.000Z,01 February 2026 - 02:40 AM,14.45,122.34,015,1.9,021km N 52° W of Capalonga (Camarines Norte),021,N 52° W,Capalonga (Camarines Norte)
+2026-02-01T02:35:00.000Z,01 February 2026 - 02:35 AM,08.31,126.59,014,3.1,029km S 77° E of Hinatuan (Surigao Del Sur),029,S 77° E,Hinatuan (Surigao Del Sur)
+2026-02-01T02:34:00.000Z,01 February 2026 - 02:34 AM,06.75,123.81,570,3.9,034km N 52° W of Kalamansig (Sultan Kudarat),034,N 52° W,Kalamansig (Sultan Kudarat)
+2026-02-01T02:34:00.000Z,01 February 2026 - 02:34 AM,06.61,123.73,015,2.3,036km N 81° W of Kalamansig (Sultan Kudarat),036,N 81° W,Kalamansig (Sultan Kudarat)
+2026-02-01T02:24:00.000Z,01 February 2026 - 02:24 AM,05.89,125.68,124,2.2,004km S 62° E of Jose Abad Santos (Davao Occidental),004,S 62° E,Jose Abad Santos (Davao Occidental)
 2026-02-01T02:21:00.000Z,01 February 2026 - 02:21 AM,15.76,120.01,033,1.6,011km East of Santa Cruz (Zambales),011,East of Santa,(Zambales)
 2026-02-01T01:28:00.000Z,01 February 2026 - 01:28 AM,06.52,123.75,015,2.5,034km S 83° W of Kalamansig (Sultan Kudarat),034,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-01T01:25:00.000Z,01 February 2026 - 01:25 AM,06.25,123.90,021,1.6,038km S 26° W of Kalamansig (Sultan Kudarat),038,S 26° W,Kalamansig (Sultan Kudarat)
