@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T22:08:00.000Z,01 February 2026 - 10:08 PM,18.79,120.63,008,3.8,030km N 33° W of Pagudpud (Ilocos Norte),030,N 33° W,Pagudpud (Ilocos Norte)
+2026-02-01T22:10:00.000Z,01 February 2026 - 10:10 PM,11.15,124.01,024,2.5,012km N 15° E of City Of Bogo (Cebu),012,N 15° E,City Of Bogo (Cebu)
 2026-02-01T21:11:00.000Z,01 February 2026 - 09:11 PM,07.86,126.55,051,2.6,013km N 52° E of Cateel (Davao Oriental),013,N 52° E,Cateel (Davao Oriental)
 2026-02-01T20:45:00.000Z,01 February 2026 - 08:45 PM,08.89,126.43,019,1.4,015km S 76° E of Cagwait (Surigao Del Sur),015,S 76° E,Cagwait (Surigao Del Sur)
 2026-02-01T20:41:00.000Z,01 February 2026 - 08:41 PM,06.51,126.23,051,1.8,023km S 48° E of Governor Generoso (Davao Oriental),023,S 48° E,Governor Generoso (Davao Oriental)
@@ -920,5 +922,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T23:04:00.000Z,25 January 2026 - 11:04 PM,08.61,122.63,031,2.1,047km N 67° W of Jose Dalman (Zamboanga Del Norte),047,N 67° W,Jose Dalman (Zamboanga Del Norte)
 2026-01-25T22:48:00.000Z,25 January 2026 - 10:48 PM,11.72,121.94,028,1.8,006km S 29° E of Libertad (Antique),006,S 29° E,Libertad (Antique)
 2026-01-25T22:31:00.000Z,25 January 2026 - 10:31 PM,13.70,120.60,090,1.8,015km S 15° W of Calatagan (Batangas),015,S 15° W,Calatagan (Batangas)
-2026-01-25T21:25:00.000Z,25 January 2026 - 09:25 PM,16.57,121.26,010,1.8,004km S 14° E of Bagabag (Nueva Vizcaya),004,S 14° E,Bagabag (Nueva Vizcaya)
-2026-01-25T21:14:00.000Z,25 January 2026 - 09:14 PM,07.76,122.15,020,2.0,006km N 11° E of Siocon (Zamboanga Del Norte),006,N 11° E,Siocon (Zamboanga Del Norte)
