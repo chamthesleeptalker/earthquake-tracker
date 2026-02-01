@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T15:41:00.000Z,01 February 2026 - 03:41 PM,06.55,123.71,055,2.2,037km S 89° W of Kalamansig (Sultan Kudarat),037,S 89° W,Kalamansig (Sultan Kudarat)
+2026-02-01T15:18:00.000Z,01 February 2026 - 03:18 PM,06.28,123.65,018,2.2,054km S 55° W of Kalamansig (Sultan Kudarat),054,S 55° W,Kalamansig (Sultan Kudarat)
+2026-02-01T15:15:00.000Z,01 February 2026 - 03:15 PM,10.78,123.89,016,2.5,005km S 24° E of Tabuelan (Cebu),005,S 24° E,Tabuelan (Cebu)
+2026-02-01T15:15:00.000Z,01 February 2026 - 03:15 PM,09.66,126.28,034,1.3,019km S 46° E of General Luna (Surigao Del Norte),019,S 46° E,General Luna (Surigao Del Norte)
+2026-02-01T15:12:00.000Z,01 February 2026 - 03:12 PM,06.67,124.25,007,1.8,025km N 60° E of Kalamansig (Sultan Kudarat),025,N 60° E,Kalamansig (Sultan Kudarat)
+2026-02-01T15:02:00.000Z,01 February 2026 - 03:02 PM,15.76,120.67,011,1.7,002km S 31° E of Cuyapo (Nueva Ecija),002,S 31° E,Cuyapo (Nueva Ecija)
+2026-02-01T14:59:00.000Z,01 February 2026 - 02:59 PM,06.50,123.74,019,3.1,034km S 80° W of Kalamansig (Sultan Kudarat),034,S 80° W,Kalamansig (Sultan Kudarat)
+2026-02-01T14:55:00.000Z,01 February 2026 - 02:55 PM,06.34,123.75,016,3.6,041km S 55° W of Kalamansig (Sultan Kudarat),041,S 55° W,Kalamansig (Sultan Kudarat)
 2026-02-01T14:51:00.000Z,01 February 2026 - 02:51 PM,06.53,123.83,030,1.8,024km S 83° W of Kalamansig (Sultan Kudarat),024,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-01T14:33:00.000Z,01 February 2026 - 02:33 PM,06.42,123.75,014,2.9,037km S 65° W of Kalamansig (Sultan Kudarat),037,S 65° W,Kalamansig (Sultan Kudarat)
 2026-02-01T14:13:00.000Z,01 February 2026 - 02:13 PM,06.52,123.77,022,2.3,032km S 82° W of Kalamansig (Sultan Kudarat),032,S 82° W,Kalamansig (Sultan Kudarat)
@@ -913,4 +921,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-25T18:05:00.000Z,25 January 2026 - 06:05 PM,07.85,127.16,012,3.6,072km N 65° E of Baganga (Davao Oriental),072,N 65° E,Baganga (Davao Oriental)
 2026-01-25T17:42:00.000Z,25 January 2026 - 05:42 PM,06.51,123.68,004,2.6,041km S 83° W of Kalamansig (Sultan Kudarat),041,S 83° W,Kalamansig (Sultan Kudarat)
 2026-01-25T15:53:00.000Z,25 January 2026 - 03:53 PM,13.77,120.85,008,1.7,010km N 78° W of Mabini (Batangas),010,N 78° W,Mabini (Batangas)
-2026-01-25T15:39:00.000Z,25 January 2026 - 03:39 PM,11.09,123.86,019,1.9,014km N 70° W of City Of Bogo (Cebu),014,N 70° W,City Of Bogo (Cebu)
