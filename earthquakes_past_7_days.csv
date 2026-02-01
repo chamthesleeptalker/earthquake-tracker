@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T02:18:00.000Z,02 February 2026 - 02:18 AM,05.69,125.81,044,2.2,031km S 36° E of Jose Abad Santos (Davao Occidental),031,S 36° E,Jose Abad Santos (Davao Occidental)
+2026-02-02T01:44:00.000Z,02 February 2026 - 01:44 AM,12.95,123.16,012,1.8,028km S 44° E of San Pascual (Masbate),028,S 44° E,San Pascual (Masbate)
 2026-02-02T01:40:00.000Z,02 February 2026 - 01:40 AM,12.77,122.86,025,1.7,042km S 17° W of San Pascual (Masbate),042,S 17° W,San Pascual (Masbate)
 2026-02-02T01:14:00.000Z,02 February 2026 - 01:14 AM,06.50,123.67,004,2.1,042km S 82° W of Kalamansig (Sultan Kudarat),042,S 82° W,Kalamansig (Sultan Kudarat)
 2026-02-01T10:57:00.000Z,01 February 2026 - 10:57 AM,06.36,123.72,008,3.8,042km S 59° W of Kalamansig (Sultan Kudarat),042,S 59° W,Kalamansig (Sultan Kudarat)
@@ -920,5 +922,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T03:00:00.000Z,26 January 2026 - 03:00 AM,06.48,123.68,002,2.2,042km S 79° W of Kalamansig (Sultan Kudarat),042,S 79° W,Kalamansig (Sultan Kudarat)
 2026-01-26T02:58:00.000Z,26 January 2026 - 02:58 AM,13.00,123.14,009,1.8,016km N 48° W of Claveria (Masbate),016,N 48° W,Claveria (Masbate)
 2026-01-26T02:23:00.000Z,26 January 2026 - 02:23 AM,15.77,121.96,012,2.3,041km N 88° E of Baler (Aurora),041,N 88° E,Baler (Aurora)
-2026-01-26T02:13:00.000Z,26 January 2026 - 02:13 AM,06.46,123.94,027,1.9,016km S 50° W of Kalamansig (Sultan Kudarat),016,S 50° W,Kalamansig (Sultan Kudarat)
-2026-01-26T02:08:00.000Z,26 January 2026 - 02:08 AM,07.84,126.61,034,2.1,018km N 72° E of Cateel (Davao Oriental),018,N 72° E,Cateel (Davao Oriental)
