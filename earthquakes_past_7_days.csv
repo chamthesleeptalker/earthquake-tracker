@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T07:35:00.000Z,02 February 2026 - 07:35 AM,06.55,123.86,030,1.7,022km S 88° W of Kalamansig (Sultan Kudarat),022,S 88° W,Kalamansig (Sultan Kudarat)
+2026-02-02T07:21:00.000Z,02 February 2026 - 07:21 AM,10.33,125.14,001,3.3,005km N 05° E of Saint Bernard (Southern Leyte),005,N 05° E,Saint Bernard (Southern Leyte)
 2026-02-02T06:39:00.000Z,02 February 2026 - 06:39 AM,06.45,123.66,022,2.0,045km S 75° W of Kalamansig (Sultan Kudarat),045,S 75° W,Kalamansig (Sultan Kudarat)
 2026-02-02T06:01:00.000Z,02 February 2026 - 06:01 AM,17.85,121.04,019,2.1,023km N 28° E of Lacub (Abra),023,N 28° E,Lacub (Abra)
 2026-02-02T05:58:00.000Z,02 February 2026 - 05:58 AM,06.54,123.65,013,2.4,044km S 88° W of Kalamansig (Sultan Kudarat),044,S 88° W,Kalamansig (Sultan Kudarat)
@@ -904,7 +906,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T07:58:00.000Z,26 January 2026 - 07:58 AM,08.71,126.54,017,1.5,035km S 48° E of Cagwait (Surigao Del Sur),035,S 48° E,Cagwait (Surigao Del Sur)
 2026-01-26T07:38:00.000Z,26 January 2026 - 07:38 AM,06.55,123.84,003,2.3,024km S 89° W of Kalamansig (Sultan Kudarat),024,S 89° W,Kalamansig (Sultan Kudarat)
 2026-01-26T07:36:00.000Z,26 January 2026 - 07:36 AM,06.49,123.91,024,2.3,017km S 64° W of Kalamansig (Sultan Kudarat),017,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-26T07:07:00.000Z,26 January 2026 - 07:07 AM,06.46,123.71,018,2.2,039km S 74° W of Kalamansig (Sultan Kudarat),039,S 74° W,Kalamansig (Sultan Kudarat)
-2026-01-26T07:03:00.000Z,26 January 2026 - 07:03 AM,06.63,123.80,004,1.4,029km N 75° W of Kalamansig (Sultan Kudarat),029,N 75° W,Kalamansig (Sultan Kudarat)
-2026-01-26T06:50:00.000Z,26 January 2026 - 06:50 AM,18.71,121.04,029,2.4,012km N 23° W of Claveria (Cagayan),012,N 23° W,Claveria (Cagayan)
-2026-01-26T06:48:00.000Z,26 January 2026 - 06:48 AM,06.45,123.69,003,3.6,041km S 74° W of Kalamansig (Sultan Kudarat),041,S 74° W,Kalamansig (Sultan Kudarat)
