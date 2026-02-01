@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T19:17:00.000Z,01 February 2026 - 07:17 PM,06.05,125.13,025,2.3,019km S 73° W of Alabel (Sarangani),019,S 73° W,Alabel (Sarangani)
 2026-02-01T17:49:00.000Z,01 February 2026 - 05:49 PM,10.88,123.95,005,2.1,018km S 11° W of City Of Bogo (Cebu),018,S 11° W,City Of Bogo (Cebu)
 2026-02-01T17:37:00.000Z,01 February 2026 - 05:37 PM,06.40,123.72,003,2.1,040km S 65° W of Kalamansig (Sultan Kudarat),040,S 65° W,Kalamansig (Sultan Kudarat)
 2026-02-01T17:32:00.000Z,01 February 2026 - 05:32 PM,07.95,126.32,005,1.8,011km N 37° W of Boston (Davao Oriental),011,N 37° W,Boston (Davao Oriental)
@@ -112,7 +113,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-31T19:28:00.000Z,31 January 2026 - 07:28 PM,06.29,123.73,027,2.0,046km S 51° W of Kalamansig (Sultan Kudarat),046,S 51° W,Kalamansig (Sultan Kudarat)
 2026-01-31T19:22:00.000Z,31 January 2026 - 07:22 PM,06.84,123.63,005,1.9,056km N 56° W of Kalamansig (Sultan Kudarat),056,N 56° W,Kalamansig (Sultan Kudarat)
 2026-01-31T19:18:00.000Z,31 January 2026 - 07:18 PM,06.29,123.73,019,2.3,046km S 50° W of Kalamansig (Sultan Kudarat),046,S 50° W,Kalamansig (Sultan Kudarat)
-2026-01-31T19:16:00.000Z,31 January 2026 - 07:16 PM,06.58,123.73,026,2.1,036km N 85° W of Kalamansig (Sultan Kudarat),036,N 85° W,Kalamansig (Sultan Kudarat)
-2026-01-31T19:08:00.000Z,31 January 2026 - 07:08 PM,06.43,123.87,012,1.8,025km S 56° W of Kalamansig (Sultan Kudarat),025,S 56° W,Kalamansig (Sultan Kudarat)
-2026-01-31T18:20:00.000Z,31 January 2026 - 06:20 PM,06.43,123.80,039,1.7,031km S 64° W of Kalamansig (Sultan Kudarat),031,S 64° W,Kalamansig (Sultan Kudarat)
-2026-01-31T17:59:00.000Z,31 January 2026 - 05:59 PM,10.88,123.94,009,3.8,019km S 15° W of City Of Bogo (Cebu),019,S 15° W,City Of Bogo (Cebu)
