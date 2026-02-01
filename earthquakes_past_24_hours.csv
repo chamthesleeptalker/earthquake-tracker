@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T06:39:00.000Z,02 February 2026 - 06:39 AM,06.45,123.66,022,2.0,045km S 75° W of Kalamansig (Sultan Kudarat),045,S 75° W,Kalamansig (Sultan Kudarat)
 2026-02-02T06:01:00.000Z,02 February 2026 - 06:01 AM,17.85,121.04,019,2.1,023km N 28° E of Lacub (Abra),023,N 28° E,Lacub (Abra)
 2026-02-02T05:58:00.000Z,02 February 2026 - 05:58 AM,06.54,123.65,013,2.4,044km S 88° W of Kalamansig (Sultan Kudarat),044,S 88° W,Kalamansig (Sultan Kudarat)
 2026-02-02T05:14:00.000Z,02 February 2026 - 05:14 AM,12.72,123.49,006,1.5,020km N 65° W of Monreal (Masbate),020,N 65° W,Monreal (Masbate)
@@ -83,7 +84,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T07:05:00.000Z,01 February 2026 - 07:05 AM,06.51,124.08,002,1.6,006km S 31° E of Kalamansig (Sultan Kudarat),006,S 31° E,Kalamansig (Sultan Kudarat)
 2026-02-01T07:02:00.000Z,01 February 2026 - 07:02 AM,06.29,123.71,009,3.5,047km S 52° W of Kalamansig (Sultan Kudarat),047,S 52° W,Kalamansig (Sultan Kudarat)
 2026-02-01T06:48:00.000Z,01 February 2026 - 06:48 AM,13.60,120.66,104,2.3,018km N 22° W of Abra De Ilog (Occidental Mindoro),018,N 22° W,Abra De Ilog (Occidental Mindoro)
-2026-02-01T06:22:00.000Z,01 February 2026 - 06:22 AM,13.82,120.57,122,1.7,007km S 83° W of Calatagan (Batangas),007,S 83° W,Calatagan (Batangas)
-2026-02-01T06:15:00.000Z,01 February 2026 - 06:15 AM,06.42,123.80,018,1.8,031km S 61° W of Kalamansig (Sultan Kudarat),031,S 61° W,Kalamansig (Sultan Kudarat)
-2026-02-01T06:14:00.000Z,01 February 2026 - 06:14 AM,06.51,123.77,021,2.1,031km S 81° W of Kalamansig (Sultan Kudarat),031,S 81° W,Kalamansig (Sultan Kudarat)
-2026-02-01T06:01:00.000Z,01 February 2026 - 06:01 AM,06.46,124.29,004,2.0,004km West of Senator Ninoy Aquino (Sultan Kudarat),004,West of Senator,Aquino (Sultan Kudarat)

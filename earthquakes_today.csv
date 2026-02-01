@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T06:39:00.000Z,02 February 2026 - 06:39 AM,06.45,123.66,022,2.0,045km S 75° W of Kalamansig (Sultan Kudarat),045,S 75° W,Kalamansig (Sultan Kudarat)
 2026-02-02T06:01:00.000Z,02 February 2026 - 06:01 AM,17.85,121.04,019,2.1,023km N 28° E of Lacub (Abra),023,N 28° E,Lacub (Abra)
 2026-02-02T05:58:00.000Z,02 February 2026 - 05:58 AM,06.54,123.65,013,2.4,044km S 88° W of Kalamansig (Sultan Kudarat),044,S 88° W,Kalamansig (Sultan Kudarat)
 2026-02-02T05:14:00.000Z,02 February 2026 - 05:14 AM,12.72,123.49,006,1.5,020km N 65° W of Monreal (Masbate),020,N 65° W,Monreal (Masbate)
