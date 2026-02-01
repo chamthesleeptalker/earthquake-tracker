@@ -1,4 +1,14 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-01T10:01:00.000Z,01 February 2026 - 10:01 AM,06.61,123.77,011,2.0,031km N 79° W of Kalamansig (Sultan Kudarat),031,N 79° W,Kalamansig (Sultan Kudarat)
+2026-02-01T09:13:00.000Z,01 February 2026 - 09:13 AM,08.44,126.95,002,2.7,068km N 83° E of Hinatuan (Surigao Del Sur),068,N 83° E,Hinatuan (Surigao Del Sur)
+2026-02-01T08:38:00.000Z,01 February 2026 - 08:38 AM,06.76,123.77,011,1.8,038km N 54° W of Kalamansig (Sultan Kudarat),038,N 54° W,Kalamansig (Sultan Kudarat)
+2026-02-01T08:25:00.000Z,01 February 2026 - 08:25 AM,11.59,122.14,018,2.0,005km East of Sebaste (Antique),005,East of Sebaste,
+2026-02-01T08:25:00.000Z,01 February 2026 - 08:25 AM,08.45,125.92,024,2.2,009km S 47° W of San Francisco (Agusan Del Sur),009,S 47° W,San Francisco (Agusan Del Sur)
+2026-02-01T08:24:00.000Z,01 February 2026 - 08:24 AM,06.71,124.24,003,1.8,020km S 47° E of South Upi (Maguindanao Del Sur),020,S 47° E,South Upi (Maguindanao Del Sur)
+2026-02-01T08:08:00.000Z,01 February 2026 - 08:08 AM,16.91,121.60,033,1.5,003km N 24° E of San Mateo (Isabela),003,N 24° E,San Mateo (Isabela)
+2026-02-01T08:01:00.000Z,01 February 2026 - 08:01 AM,09.10,126.33,033,1.6,014km N 52° E of Tago (Surigao Del Sur),014,N 52° E,Tago (Surigao Del Sur)
+2026-02-01T07:48:00.000Z,01 February 2026 - 07:48 AM,06.63,123.68,015,1.9,041km N 79° W of Kalamansig (Sultan Kudarat),041,N 79° W,Kalamansig (Sultan Kudarat)
+2026-02-01T07:40:00.000Z,01 February 2026 - 07:40 AM,08.41,126.70,014,2.3,041km N 83° E of Hinatuan (Surigao Del Sur),041,N 83° E,Hinatuan (Surigao Del Sur)
 2026-02-01T07:34:00.000Z,01 February 2026 - 07:34 AM,06.47,123.69,017,3.6,041km S 77° W of Kalamansig (Sultan Kudarat),041,S 77° W,Kalamansig (Sultan Kudarat)
 2026-02-01T07:15:00.000Z,01 February 2026 - 07:15 AM,11.00,124.05,034,1.6,009km S 58° E of City Of Bogo (Cebu),009,S 58° E,City Of Bogo (Cebu)
 2026-02-01T07:13:00.000Z,01 February 2026 - 07:13 AM,17.49,120.49,023,3.0,006km N 39° W of Nagbukel (Ilocos Sur),006,N 39° W,Nagbukel (Ilocos Sur)
