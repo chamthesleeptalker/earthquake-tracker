@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T04:31:00.000Z,02 February 2026 - 04:31 AM,08.31,123.25,032,2.2,017km N 66° E of Siayan (Zamboanga Del Norte),017,N 66° E,Siayan (Zamboanga Del Norte)
+2026-02-02T04:28:00.000Z,02 February 2026 - 04:28 AM,06.38,123.71,016,2.3,042km S 63° W of Kalamansig (Sultan Kudarat),042,S 63° W,Kalamansig (Sultan Kudarat)
 2026-02-02T04:05:00.000Z,02 February 2026 - 04:05 AM,12.75,121.36,020,2.1,014km N 88° W of Bongabong (Oriental Mindoro),014,N 88° W,Bongabong (Oriental Mindoro)
 2026-02-02T03:57:00.000Z,02 February 2026 - 03:57 AM,06.42,123.73,009,4.1,038km S 68° W of Kalamansig (Sultan Kudarat),038,S 68° W,Kalamansig (Sultan Kudarat)
 2026-02-02T02:18:00.000Z,02 February 2026 - 02:18 AM,05.69,125.81,044,2.2,031km S 36° E of Jose Abad Santos (Davao Occidental),031,S 36° E,Jose Abad Santos (Davao Occidental)
@@ -910,5 +912,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T05:16:00.000Z,26 January 2026 - 05:16 AM,07.39,124.14,031,1.9,013km S 06° E of Balabagan (Lanao Del Sur),013,S 06° E,Balabagan (Lanao Del Sur)
 2026-01-26T04:44:00.000Z,26 January 2026 - 04:44 AM,10.99,124.12,001,2.7,016km S 67° E of City Of Bogo (Cebu),016,S 67° E,City Of Bogo (Cebu)
 2026-01-26T04:37:00.000Z,26 January 2026 - 04:37 AM,06.44,123.67,004,1.9,043km S 73° W of Kalamansig (Sultan Kudarat),043,S 73° W,Kalamansig (Sultan Kudarat)
-2026-01-26T04:27:00.000Z,26 January 2026 - 04:27 AM,17.39,120.36,006,2.3,012km S 77° W of Narvacan (Ilocos Sur),012,S 77° W,Narvacan (Ilocos Sur)
-2026-01-26T04:21:00.000Z,26 January 2026 - 04:21 AM,17.95,120.74,035,1.4,009km N 65° E of Nueva Era (Ilocos Norte),009,N 65° E,Nueva Era (Ilocos Norte)
