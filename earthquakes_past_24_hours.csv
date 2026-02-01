@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T01:14:00.000Z,02 February 2026 - 01:14 AM,06.50,123.67,004,2.1,042km S 82° W of Kalamansig (Sultan Kudarat),042,S 82° W,Kalamansig (Sultan Kudarat)
+2026-02-01T10:57:00.000Z,01 February 2026 - 10:57 AM,06.36,123.72,008,3.8,042km S 59° W of Kalamansig (Sultan Kudarat),042,S 59° W,Kalamansig (Sultan Kudarat)
 2026-02-01T23:58:00.000Z,01 February 2026 - 11:58 PM,11.17,123.98,013,1.9,013km N 01° E of City Of Bogo (Cebu),013,N 01° E,City Of Bogo (Cebu)
 2026-02-01T23:56:00.000Z,01 February 2026 - 11:56 PM,11.14,123.97,011,1.9,011km N 04° W of City Of Bogo (Cebu),011,N 04° W,City Of Bogo (Cebu)
 2026-02-01T23:51:00.000Z,01 February 2026 - 11:51 PM,13.64,120.68,116,2.8,020km S 85° W of Tingloy (Batangas),020,S 85° W,Tingloy (Batangas)
@@ -96,7 +98,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T02:21:00.000Z,01 February 2026 - 02:21 AM,15.76,120.01,033,1.6,011km East of Santa Cruz (Zambales),011,East of Santa,(Zambales)
 2026-02-01T01:28:00.000Z,01 February 2026 - 01:28 AM,06.52,123.75,015,2.5,034km S 83° W of Kalamansig (Sultan Kudarat),034,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-01T01:25:00.000Z,01 February 2026 - 01:25 AM,06.25,123.90,021,1.6,038km S 26° W of Kalamansig (Sultan Kudarat),038,S 26° W,Kalamansig (Sultan Kudarat)
-2026-02-01T01:06:00.000Z,01 February 2026 - 01:06 AM,13.60,120.67,115,1.8,018km N 18° W of Abra De Ilog (Occidental Mindoro),018,N 18° W,Abra De Ilog (Occidental Mindoro)
-2026-02-01T00:50:00.000Z,01 February 2026 - 12:50 AM,13.63,120.30,029,2.0,011km S 27° E of Looc (Occidental Mindoro),011,S 27° E,Looc (Occidental Mindoro)
-2026-02-01T00:30:00.000Z,01 February 2026 - 12:30 AM,06.46,123.84,006,1.9,025km S 66° W of Kalamansig (Sultan Kudarat),025,S 66° W,Kalamansig (Sultan Kudarat)
-2026-02-01T00:02:00.000Z,01 February 2026 - 12:02 AM,08.47,126.92,002,2.1,066km N 80° E of Hinatuan (Surigao Del Sur),066,N 80° E,Hinatuan (Surigao Del Sur)

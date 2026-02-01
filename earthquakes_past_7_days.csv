@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T01:14:00.000Z,02 February 2026 - 01:14 AM,06.50,123.67,004,2.1,042km S 82° W of Kalamansig (Sultan Kudarat),042,S 82° W,Kalamansig (Sultan Kudarat)
+2026-02-01T10:57:00.000Z,01 February 2026 - 10:57 AM,06.36,123.72,008,3.8,042km S 59° W of Kalamansig (Sultan Kudarat),042,S 59° W,Kalamansig (Sultan Kudarat)
 2026-02-01T23:58:00.000Z,01 February 2026 - 11:58 PM,11.17,123.98,013,1.9,013km N 01° E of City Of Bogo (Cebu),013,N 01° E,City Of Bogo (Cebu)
 2026-02-01T23:56:00.000Z,01 February 2026 - 11:56 PM,11.14,123.97,011,1.9,011km N 04° W of City Of Bogo (Cebu),011,N 04° W,City Of Bogo (Cebu)
 2026-02-01T23:51:00.000Z,01 February 2026 - 11:51 PM,13.64,120.68,116,2.8,020km S 85° W of Tingloy (Batangas),020,S 85° W,Tingloy (Batangas)
@@ -920,9 +922,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-26T02:13:00.000Z,26 January 2026 - 02:13 AM,06.46,123.94,027,1.9,016km S 50° W of Kalamansig (Sultan Kudarat),016,S 50° W,Kalamansig (Sultan Kudarat)
 2026-01-26T02:08:00.000Z,26 January 2026 - 02:08 AM,07.84,126.61,034,2.1,018km N 72° E of Cateel (Davao Oriental),018,N 72° E,Cateel (Davao Oriental)
 2026-01-26T01:22:00.000Z,26 January 2026 - 01:22 AM,06.44,123.73,003,2.0,037km S 71° W of Kalamansig (Sultan Kudarat),037,S 71° W,Kalamansig (Sultan Kudarat)
-2026-01-26T00:59:00.000Z,26 January 2026 - 12:59 AM,07.85,125.86,032,1.7,008km N 68° E of Laak (Davao De Oro),008,N 68° E,Laak (Davao De Oro)
-2026-01-26T00:38:00.000Z,26 January 2026 - 12:38 AM,08.83,126.70,028,1.6,045km S 77° E of Cagwait (Surigao Del Sur),045,S 77° E,Cagwait (Surigao Del Sur)
-2026-01-26T00:36:00.000Z,26 January 2026 - 12:36 AM,06.39,123.82,030,2.2,031km S 55° W of Kalamansig (Sultan Kudarat),031,S 55° W,Kalamansig (Sultan Kudarat)
-2026-01-26T00:35:00.000Z,26 January 2026 - 12:35 AM,09.77,122.39,014,2.3,005km N 90° W of City Of Sipalay (Negros Occidental),005,N 90° W,City Of Sipalay (Negros Occidental)
-2026-01-26T00:28:00.000Z,26 January 2026 - 12:28 AM,16.27,120.70,024,1.2,010km S 11° E of Itogon (Benguet),010,S 11° E,Itogon (Benguet)
-2026-01-26T00:20:00.000Z,26 January 2026 - 12:20 AM,18.36,121.07,014,1.4,012km N 14° E of Calanasan (Apayao),012,N 14° E,Calanasan (Apayao)
