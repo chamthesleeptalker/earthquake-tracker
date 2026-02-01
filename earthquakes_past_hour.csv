@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-01T12:06:00.000Z,01 February 2026 - 12:06 PM,06.45,123.76,018,3.8,034km S 70° W of Kalamansig (Sultan Kudarat),034,S 70° W,Kalamansig (Sultan Kudarat)
-2026-02-01T11:28:00.000Z,01 February 2026 - 11:28 AM,06.34,123.70,003,2.3,046km S 59° W of Kalamansig (Sultan Kudarat),046,S 59° W,Kalamansig (Sultan Kudarat)
-2026-02-01T11:15:00.000Z,01 February 2026 - 11:15 AM,07.85,127.13,009,2.7,070km N 64° E of Baganga (Davao Oriental),070,N 64° E,Baganga (Davao Oriental)
+2026-02-01T13:46:00.000Z,01 February 2026 - 01:46 PM,06.60,123.76,008,2.7,032km N 82° W of Kalamansig (Sultan Kudarat),032,N 82° W,Kalamansig (Sultan Kudarat)
+2026-02-01T13:39:00.000Z,01 February 2026 - 01:39 PM,06.58,123.89,029,1.5,018km N 81° W of Kalamansig (Sultan Kudarat),018,N 81° W,Kalamansig (Sultan Kudarat)
+2026-02-01T13:36:00.000Z,01 February 2026 - 01:36 PM,06.39,123.63,032,1.7,050km S 68° W of Kalamansig (Sultan Kudarat),050,S 68° W,Kalamansig (Sultan Kudarat)
+2026-02-01T13:25:00.000Z,01 February 2026 - 01:25 PM,06.43,123.50,030,2.5,063km S 78° W of Kalamansig (Sultan Kudarat),063,S 78° W,Kalamansig (Sultan Kudarat)
+2026-02-01T13:16:00.000Z,01 February 2026 - 01:16 PM,06.46,123.78,010,2.5,031km S 70° W of Kalamansig (Sultan Kudarat),031,S 70° W,Kalamansig (Sultan Kudarat)
+2026-02-01T13:03:00.000Z,01 February 2026 - 01:03 PM,06.33,124.01,013,1.7,023km N 55° W of Palimbang (Sultan Kudarat),023,N 55° W,Palimbang (Sultan Kudarat)
+2026-02-01T13:00:00.000Z,01 February 2026 - 01:00 PM,06.54,123.80,075,2.7,027km S 87° W of Kalamansig (Sultan Kudarat),027,S 87° W,Kalamansig (Sultan Kudarat)
+2026-02-01T12:53:00.000Z,01 February 2026 - 12:53 PM,06.35,123.61,015,2.0,054km S 66° W of Kalamansig (Sultan Kudarat),054,S 66° W,Kalamansig (Sultan Kudarat)
+2026-02-01T12:48:00.000Z,01 February 2026 - 12:48 PM,06.60,124.39,006,1.9,018km N 27° E of Senator Ninoy Aquino (Sultan Kudarat),018,N 27° E,Senator Ninoy Aquino (Sultan Kudarat)
