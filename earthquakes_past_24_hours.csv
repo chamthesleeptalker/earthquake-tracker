@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T01:40:00.000Z,02 February 2026 - 01:40 AM,12.77,122.86,025,1.7,042km S 17° W of San Pascual (Masbate),042,S 17° W,San Pascual (Masbate)
 2026-02-02T01:14:00.000Z,02 February 2026 - 01:14 AM,06.50,123.67,004,2.1,042km S 82° W of Kalamansig (Sultan Kudarat),042,S 82° W,Kalamansig (Sultan Kudarat)
 2026-02-01T10:57:00.000Z,01 February 2026 - 10:57 AM,06.36,123.72,008,3.8,042km S 59° W of Kalamansig (Sultan Kudarat),042,S 59° W,Kalamansig (Sultan Kudarat)
 2026-02-01T23:58:00.000Z,01 February 2026 - 11:58 PM,11.17,123.98,013,1.9,013km N 01° E of City Of Bogo (Cebu),013,N 01° E,City Of Bogo (Cebu)
@@ -96,5 +97,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T02:34:00.000Z,01 February 2026 - 02:34 AM,06.61,123.73,015,2.3,036km N 81° W of Kalamansig (Sultan Kudarat),036,N 81° W,Kalamansig (Sultan Kudarat)
 2026-02-01T02:24:00.000Z,01 February 2026 - 02:24 AM,05.89,125.68,124,2.2,004km S 62° E of Jose Abad Santos (Davao Occidental),004,S 62° E,Jose Abad Santos (Davao Occidental)
 2026-02-01T02:21:00.000Z,01 February 2026 - 02:21 AM,15.76,120.01,033,1.6,011km East of Santa Cruz (Zambales),011,East of Santa,(Zambales)
-2026-02-01T01:28:00.000Z,01 February 2026 - 01:28 AM,06.52,123.75,015,2.5,034km S 83° W of Kalamansig (Sultan Kudarat),034,S 83° W,Kalamansig (Sultan Kudarat)
-2026-02-01T01:25:00.000Z,01 February 2026 - 01:25 AM,06.25,123.90,021,1.6,038km S 26° W of Kalamansig (Sultan Kudarat),038,S 26° W,Kalamansig (Sultan Kudarat)
