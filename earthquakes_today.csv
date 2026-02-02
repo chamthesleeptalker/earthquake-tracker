@@ -1,3 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-03T01:22:00.000Z,03 February 2026 - 01:22 AM,06.53,123.97,006,1.8,010km S 76° W of Kalamansig (Sultan Kudarat),010,S 76° W,Kalamansig (Sultan Kudarat)
+2026-02-03T01:14:00.000Z,03 February 2026 - 01:14 AM,06.54,124.30,007,2.8,009km N 12° W of Senator Ninoy Aquino (Sultan Kudarat),009,N 12° W,Senator Ninoy Aquino (Sultan Kudarat)
+2026-02-03T00:56:00.000Z,03 February 2026 - 12:56 AM,06.60,124.17,006,1.6,014km N 71° E of Kalamansig (Sultan Kudarat),014,N 71° E,Kalamansig (Sultan Kudarat)
+2026-02-03T00:51:00.000Z,03 February 2026 - 12:51 AM,06.53,124.30,009,1.5,008km N 19° W of Senator Ninoy Aquino (Sultan Kudarat),008,N 19° W,Senator Ninoy Aquino (Sultan Kudarat)
+2026-02-03T00:47:00.000Z,03 February 2026 - 12:47 AM,09.13,126.54,005,2.5,035km N 48° E of Cagwait (Surigao Del Sur),035,N 48° E,Cagwait (Surigao Del Sur)
+2026-02-03T00:44:00.000Z,03 February 2026 - 12:44 AM,06.19,123.42,025,2.4,080km S 60° W of Kalamansig (Sultan Kudarat),080,S 60° W,Kalamansig (Sultan Kudarat)
 2026-02-03T00:37:00.000Z,03 February 2026 - 12:37 AM,06.64,123.66,003,2.6,044km N 78° W of Kalamansig (Sultan Kudarat),044,N 78° W,Kalamansig (Sultan Kudarat)
 2026-02-03T00:15:00.000Z,03 February 2026 - 12:15 AM,09.71,126.32,024,1.7,020km S 65° E of General Luna (Surigao Del Norte),020,S 65° E,General Luna (Surigao Del Norte)
