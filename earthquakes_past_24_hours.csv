@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-02T12:45:00.000Z,02 February 2026 - 12:45 PM,11.03,123.95,006,2.0,004km S 60° W of City Of Bogo (Cebu),004,S 60° W,City Of Bogo (Cebu)
+2026-02-02T12:39:00.000Z,02 February 2026 - 12:39 PM,07.29,123.44,010,4.1,022km S 39° E of Pitogo (Zamboanga Del Sur),022,S 39° E,Pitogo (Zamboanga Del Sur)
 2026-02-02T12:24:00.000Z,02 February 2026 - 12:24 PM,10.12,122.21,011,2.2,046km S 42° E of Anini-y (Antique),046,S 42° E,Anini-y (Antique)
 2026-02-02T12:16:00.000Z,02 February 2026 - 12:16 PM,10.89,123.93,003,1.7,018km S 15° W of City Of Bogo (Cebu),018,S 15° W,City Of Bogo (Cebu)
 2026-02-02T12:07:00.000Z,02 February 2026 - 12:07 PM,06.38,123.69,028,2.9,044km S 64° W of Kalamansig (Sultan Kudarat),044,S 64° W,Kalamansig (Sultan Kudarat)
@@ -76,4 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T13:00:00.000Z,01 February 2026 - 01:00 PM,06.54,123.80,075,2.7,027km S 87° W of Kalamansig (Sultan Kudarat),027,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-01T12:53:00.000Z,01 February 2026 - 12:53 PM,06.35,123.61,015,2.0,054km S 66° W of Kalamansig (Sultan Kudarat),054,S 66° W,Kalamansig (Sultan Kudarat)
 2026-02-01T12:48:00.000Z,01 February 2026 - 12:48 PM,06.60,124.39,006,1.9,018km N 27° E of Senator Ninoy Aquino (Sultan Kudarat),018,N 27° E,Senator Ninoy Aquino (Sultan Kudarat)
-2026-02-01T12:38:00.000Z,01 February 2026 - 12:38 PM,06.33,123.70,015,2.9,046km S 57° W of Kalamansig (Sultan Kudarat),046,S 57° W,Kalamansig (Sultan Kudarat)
