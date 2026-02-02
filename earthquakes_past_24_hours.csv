@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-03T00:37:00.000Z,03 February 2026 - 12:37 AM,06.64,123.66,003,2.6,044km N 78° W of Kalamansig (Sultan Kudarat),044,N 78° W,Kalamansig (Sultan Kudarat)
+2026-02-03T00:15:00.000Z,03 February 2026 - 12:15 AM,09.71,126.32,024,1.7,020km S 65° E of General Luna (Surigao Del Norte),020,S 65° E,General Luna (Surigao Del Norte)
 2026-02-02T23:30:00.000Z,02 February 2026 - 11:30 PM,09.18,126.59,007,2.3,043km N 48° E of Cagwait (Surigao Del Sur),043,N 48° E,Cagwait (Surigao Del Sur)
 2026-02-02T23:24:00.000Z,02 February 2026 - 11:24 PM,06.68,123.79,004,2.3,032km N 65° W of Kalamansig (Sultan Kudarat),032,N 65° W,Kalamansig (Sultan Kudarat)
 2026-02-02T23:22:00.000Z,02 February 2026 - 11:22 PM,06.49,123.84,015,2.6,024km S 72° W of Kalamansig (Sultan Kudarat),024,S 72° W,Kalamansig (Sultan Kudarat)
@@ -55,7 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-02T01:44:00.000Z,02 February 2026 - 01:44 AM,12.95,123.16,012,1.8,028km S 44° E of San Pascual (Masbate),028,S 44° E,San Pascual (Masbate)
 2026-02-02T01:40:00.000Z,02 February 2026 - 01:40 AM,12.77,122.86,025,1.7,042km S 17° W of San Pascual (Masbate),042,S 17° W,San Pascual (Masbate)
 2026-02-02T01:14:00.000Z,02 February 2026 - 01:14 AM,06.50,123.67,004,2.1,042km S 82° W of Kalamansig (Sultan Kudarat),042,S 82° W,Kalamansig (Sultan Kudarat)
-2026-02-01T23:58:00.000Z,01 February 2026 - 11:58 PM,11.17,123.98,013,1.9,013km N 01° E of City Of Bogo (Cebu),013,N 01° E,City Of Bogo (Cebu)
-2026-02-01T23:56:00.000Z,01 February 2026 - 11:56 PM,11.14,123.97,011,1.9,011km N 04° W of City Of Bogo (Cebu),011,N 04° W,City Of Bogo (Cebu)
-2026-02-01T23:51:00.000Z,01 February 2026 - 11:51 PM,13.64,120.68,116,2.8,020km S 85° W of Tingloy (Batangas),020,S 85° W,Tingloy (Batangas)
-2026-02-01T23:43:00.000Z,01 February 2026 - 11:43 PM,14.86,123.12,005,2.8,046km N 23° E of Tinaga Island (Vinzons) (Camarines Norte),046,N 23° E,Tinaga Island (Vinzons) (Camarines Norte)

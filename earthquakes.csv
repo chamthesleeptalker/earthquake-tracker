@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-03T00:37:00.000Z,03 February 2026 - 12:37 AM,06.64,123.66,003,2.6,044km N 78° W of Kalamansig (Sultan Kudarat),044,N 78° W,Kalamansig (Sultan Kudarat)
+2026-02-03T00:15:00.000Z,03 February 2026 - 12:15 AM,09.71,126.32,024,1.7,020km S 65° E of General Luna (Surigao Del Norte),020,S 65° E,General Luna (Surigao Del Norte)
 2026-02-02T23:30:00.000Z,02 February 2026 - 11:30 PM,09.18,126.59,007,2.3,043km N 48° E of Cagwait (Surigao Del Sur),043,N 48° E,Cagwait (Surigao Del Sur)
 2026-02-02T23:24:00.000Z,02 February 2026 - 11:24 PM,06.68,123.79,004,2.3,032km N 65° W of Kalamansig (Sultan Kudarat),032,N 65° W,Kalamansig (Sultan Kudarat)
 2026-02-02T23:22:00.000Z,02 February 2026 - 11:22 PM,06.49,123.84,015,2.6,024km S 72° W of Kalamansig (Sultan Kudarat),024,S 72° W,Kalamansig (Sultan Kudarat)
