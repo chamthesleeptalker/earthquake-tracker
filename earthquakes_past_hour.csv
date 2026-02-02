@@ -1,7 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-02T09:47:00.000Z,02 February 2026 - 09:47 AM,15.48,121.83,010,2.1,043km S 43° E of Baler (Aurora),043,S 43° E,Baler (Aurora)
-2026-02-02T09:47:00.000Z,02 February 2026 - 09:47 AM,06.36,123.52,025,2.2,063km S 69° W of Kalamansig (Sultan Kudarat),063,S 69° W,Kalamansig (Sultan Kudarat)
-2026-02-02T09:25:00.000Z,02 February 2026 - 09:25 AM,07.29,125.60,011,2.0,008km N 88° W of City Of Panabo (Davao Del Norte),008,N 88° W,City Of Panabo (Davao Del Norte)
-2026-02-02T09:06:00.000Z,02 February 2026 - 09:06 AM,06.65,123.88,014,2.1,022km N 61° W of Kalamansig (Sultan Kudarat),022,N 61° W,Kalamansig (Sultan Kudarat)
-2026-02-02T09:04:00.000Z,02 February 2026 - 09:04 AM,06.67,123.79,003,2.4,032km N 66° W of Kalamansig (Sultan Kudarat),032,N 66° W,Kalamansig (Sultan Kudarat)
-2026-02-02T08:54:00.000Z,02 February 2026 - 08:54 AM,06.52,123.85,034,1.5,023km S 80° W of Kalamansig (Sultan Kudarat),023,S 80° W,Kalamansig (Sultan Kudarat)
+2026-02-02T12:24:00.000Z,02 February 2026 - 12:24 PM,10.12,122.21,011,2.2,046km S 42° E of Anini-y (Antique),046,S 42° E,Anini-y (Antique)
+2026-02-02T12:16:00.000Z,02 February 2026 - 12:16 PM,10.89,123.93,003,1.7,018km S 15° W of City Of Bogo (Cebu),018,S 15° W,City Of Bogo (Cebu)
+2026-02-02T12:07:00.000Z,02 February 2026 - 12:07 PM,06.38,123.69,028,2.9,044km S 64° W of Kalamansig (Sultan Kudarat),044,S 64° W,Kalamansig (Sultan Kudarat)
+2026-02-02T11:54:00.000Z,02 February 2026 - 11:54 AM,11.02,123.93,017,2.0,006km S 62° W of City Of Bogo (Cebu),006,S 62° W,City Of Bogo (Cebu)
