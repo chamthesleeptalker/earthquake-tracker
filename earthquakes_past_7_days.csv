@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-03T18:09:00.000Z,03 February 2026 - 06:09 PM,07.43,123.35,033,1.5,005km S 65° E of Pitogo (Zamboanga Del Sur),005,S 65° E,Pitogo (Zamboanga Del Sur)
+2026-02-02T23:21:00.000Z,02 February 2026 - 11:21 PM,06.46,123.79,008,2.6,031km S 69° W of Kalamansig (Sultan Kudarat),031,S 69° W,Kalamansig (Sultan Kudarat)
 2026-02-03T17:01:00.000Z,03 February 2026 - 05:01 PM,12.79,122.89,025,1.7,039km S 14° W of San Pascual (Masbate),039,S 14° W,San Pascual (Masbate)
 2026-02-03T16:06:00.000Z,03 February 2026 - 04:06 PM,09.75,126.24,032,1.8,010km S 66° E of General Luna (Surigao Del Norte),010,S 66° E,General Luna (Surigao Del Norte)
 2026-02-03T11:46:00.000Z,03 February 2026 - 11:46 AM,06.62,124.08,004,2.0,009km N 27° E of Kalamansig (Sultan Kudarat),009,N 27° E,Kalamansig (Sultan Kudarat)
@@ -885,5 +887,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-27T19:14:00.000Z,27 January 2026 - 07:14 PM,09.66,126.16,021,2.5,014km S 01° E of General Luna (Surigao Del Norte),014,S 01° E,General Luna (Surigao Del Norte)
 2026-01-27T18:59:00.000Z,27 January 2026 - 06:59 PM,09.59,126.08,029,2.4,013km S 74° E of Socorro (Surigao Del Norte),013,S 74° E,Socorro (Surigao Del Norte)
 2026-01-27T18:57:00.000Z,27 January 2026 - 06:57 PM,18.17,120.77,002,2.3,005km N 83° E of Piddig (Ilocos Norte),005,N 83° E,Piddig (Ilocos Norte)
-2026-01-27T17:57:00.000Z,27 January 2026 - 05:57 PM,12.61,124.80,010,1.9,011km N 43° W of San Roque (Northern Samar),011,N 43° W,San Roque (Northern Samar)
-2026-01-27T17:24:00.000Z,27 January 2026 - 05:24 PM,07.03,124.48,013,1.7,003km N 84° W of Datu Piang (Maguindanao Del Sur),003,N 84° W,Datu Piang (Maguindanao Del Sur)
