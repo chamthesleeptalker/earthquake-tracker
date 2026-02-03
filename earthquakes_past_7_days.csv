@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-03T21:03:00.000Z,03 February 2026 - 09:03 PM,09.75,122.50,016,2.4,008km S 71° E of City Of Sipalay (Negros Occidental),008,S 71° E,City Of Sipalay (Negros Occidental)
+2026-02-03T20:54:00.000Z,03 February 2026 - 08:54 PM,06.66,123.71,029,1.6,039km N 73° W of Kalamansig (Sultan Kudarat),039,N 73° W,Kalamansig (Sultan Kudarat)
 2026-02-03T20:31:00.000Z,03 February 2026 - 08:31 PM,06.30,126.69,017,2.5,079km S 61° E of Governor Generoso (Davao Oriental),079,S 61° E,Governor Generoso (Davao Oriental)
 2026-02-03T20:06:00.000Z,03 February 2026 - 08:06 PM,15.49,121.68,007,1.7,031km S 34° E of San Luis (Aurora),031,S 34° E,San Luis (Aurora)
 2026-02-03T20:05:00.000Z,03 February 2026 - 08:05 PM,06.25,123.58,009,2.4,060km S 58° W of Kalamansig (Sultan Kudarat),060,S 58° W,Kalamansig (Sultan Kudarat)
@@ -889,4 +891,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-27T22:51:00.000Z,27 January 2026 - 10:51 PM,06.49,123.85,027,2.2,023km S 71° W of Kalamansig (Sultan Kudarat),023,S 71° W,Kalamansig (Sultan Kudarat)
 2026-01-27T22:47:00.000Z,27 January 2026 - 10:47 PM,06.51,123.68,010,4.7,041km S 82° W of Kalamansig (Sultan Kudarat),041,S 82° W,Kalamansig (Sultan Kudarat)
 2026-01-27T21:04:00.000Z,27 January 2026 - 09:04 PM,06.27,126.03,137,2.2,038km N 77° E of Don Marcelino (Davao Occidental),038,N 77° E,Don Marcelino (Davao Occidental)
-2026-01-27T20:51:00.000Z,27 January 2026 - 08:51 PM,08.08,125.94,033,1.4,003km N 57° W of Veruela (Agusan Del Sur),003,N 57° W,Veruela (Agusan Del Sur)
