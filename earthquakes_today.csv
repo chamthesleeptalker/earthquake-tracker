@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-03T22:23:00.000Z,03 February 2026 - 10:23 PM,10.93,123.97,011,2.3,013km S 04° W of City Of Bogo (Cebu),013,S 04° W,City Of Bogo (Cebu)
+2026-02-03T22:01:00.000Z,03 February 2026 - 10:01 PM,11.13,124.15,006,2.9,021km N 63° E of City Of Bogo (Cebu),021,N 63° E,City Of Bogo (Cebu)
 2026-02-03T21:03:00.000Z,03 February 2026 - 09:03 PM,09.75,122.50,016,2.4,008km S 71° E of City Of Sipalay (Negros Occidental),008,S 71° E,City Of Sipalay (Negros Occidental)
 2026-02-03T20:54:00.000Z,03 February 2026 - 08:54 PM,06.66,123.71,029,1.6,039km N 73° W of Kalamansig (Sultan Kudarat),039,N 73° W,Kalamansig (Sultan Kudarat)
 2026-02-03T20:31:00.000Z,03 February 2026 - 08:31 PM,06.30,126.69,017,2.5,079km S 61° E of Governor Generoso (Davao Oriental),079,S 61° E,Governor Generoso (Davao Oriental)
