@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-04T11:50:00.000Z,04 February 2026 - 11:50 AM,05.85,125.68,122,2.7,008km S 32° E of Jose Abad Santos (Davao Occidental),008,S 32° E,Jose Abad Santos (Davao Occidental)
+2026-02-04T10:55:00.000Z,04 February 2026 - 10:55 AM,10.44,125.14,033,1.6,008km N 53° W of Hinunangan (Southern Leyte),008,N 53° W,Hinunangan (Southern Leyte)
+2026-02-04T10:53:00.000Z,04 February 2026 - 10:53 AM,04.40,126.49,040,2.9,163km S 47° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),163,S 47° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-04T09:54:00.000Z,04 February 2026 - 09:54 AM,06.26,123.58,033,2.4,061km S 58° W of Kalamansig (Sultan Kudarat),061,S 58° W,Kalamansig (Sultan Kudarat)
 2026-02-04T09:00:00.000Z,04 February 2026 - 09:00 AM,09.47,126.14,033,2.4,022km N 15° W of Cortes (Surigao Del Sur),022,N 15° W,Cortes (Surigao Del Sur)
 2026-02-04T08:10:00.000Z,04 February 2026 - 08:10 AM,08.80,127.25,024,2.1,105km S 83° E of Cagwait (Surigao Del Sur),105,S 83° E,Cagwait (Surigao Del Sur)
 2026-02-04T04:46:00.000Z,04 February 2026 - 04:46 AM,07.40,126.99,020,1.6,048km N 80° E of Caraga (Davao Oriental),048,N 80° E,Caraga (Davao Oriental)
@@ -34,6 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-03T18:09:00.000Z,03 February 2026 - 06:09 PM,07.43,123.35,033,1.5,005km S 65° E of Pitogo (Zamboanga Del Sur),005,S 65° E,Pitogo (Zamboanga Del Sur)
 2026-02-03T17:01:00.000Z,03 February 2026 - 05:01 PM,12.79,122.89,025,1.7,039km S 14° W of San Pascual (Masbate),039,S 14° W,San Pascual (Masbate)
 2026-02-03T16:06:00.000Z,03 February 2026 - 04:06 PM,09.75,126.24,032,1.8,010km S 66° E of General Luna (Surigao Del Norte),010,S 66° E,General Luna (Surigao Del Norte)
-2026-02-03T11:46:00.000Z,03 February 2026 - 11:46 AM,06.62,124.08,004,2.0,009km N 27° E of Kalamansig (Sultan Kudarat),009,N 27° E,Kalamansig (Sultan Kudarat)
-2026-02-03T11:29:00.000Z,03 February 2026 - 11:29 AM,06.44,123.60,036,1.7,052km S 76° W of Kalamansig (Sultan Kudarat),052,S 76° W,Kalamansig (Sultan Kudarat)
-2026-02-03T10:51:00.000Z,03 February 2026 - 10:51 AM,06.38,123.87,022,2.0,027km S 46° W of Kalamansig (Sultan Kudarat),027,S 46° W,Kalamansig (Sultan Kudarat)
