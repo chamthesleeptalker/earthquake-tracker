@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-04T13:07:00.000Z,04 February 2026 - 01:07 PM,15.19,123.14,028,2.9,082km N 14° E of Tinaga Island (Vinzons) (Camarines Norte),082,N 14° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-02-04T11:50:00.000Z,04 February 2026 - 11:50 AM,05.85,125.68,122,2.7,008km S 32° E of Jose Abad Santos (Davao Occidental),008,S 32° E,Jose Abad Santos (Davao Occidental)
 2026-02-04T10:55:00.000Z,04 February 2026 - 10:55 AM,10.44,125.14,033,1.6,008km N 53° W of Hinunangan (Southern Leyte),008,N 53° W,Hinunangan (Southern Leyte)
 2026-02-04T10:53:00.000Z,04 February 2026 - 10:53 AM,04.40,126.49,040,2.9,163km S 47° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),163,S 47° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -767,7 +768,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-28T13:15:00.000Z,28 January 2026 - 01:15 PM,06.21,123.70,008,2.0,054km S 46° W of Kalamansig (Sultan Kudarat),054,S 46° W,Kalamansig (Sultan Kudarat)
 2026-01-28T13:10:00.000Z,28 January 2026 - 01:10 PM,06.58,123.71,004,2.8,038km N 86° W of Kalamansig (Sultan Kudarat),038,N 86° W,Kalamansig (Sultan Kudarat)
 2026-01-28T13:08:00.000Z,28 January 2026 - 01:08 PM,06.49,123.74,010,4.5,035km S 78° W of Kalamansig (Sultan Kudarat),035,S 78° W,Kalamansig (Sultan Kudarat)
-2026-01-28T12:58:00.000Z,28 January 2026 - 12:58 PM,09.46,126.05,028,1.7,015km N 47° E of Carrascal (Surigao Del Sur),015,N 47° E,Carrascal (Surigao Del Sur)
-2026-01-28T12:56:00.000Z,28 January 2026 - 12:56 PM,06.56,123.77,016,2.1,031km N 88° W of Kalamansig (Sultan Kudarat),031,N 88° W,Kalamansig (Sultan Kudarat)
-2026-01-28T12:26:00.000Z,28 January 2026 - 12:26 PM,06.48,123.72,004,1.8,037km S 77° W of Kalamansig (Sultan Kudarat),037,S 77° W,Kalamansig (Sultan Kudarat)
-2026-01-28T12:06:00.000Z,28 January 2026 - 12:06 PM,06.47,123.88,036,1.8,022km S 63° W of Kalamansig (Sultan Kudarat),022,S 63° W,Kalamansig (Sultan Kudarat)
