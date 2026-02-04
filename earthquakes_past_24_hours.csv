@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T02:47:00.000Z,05 February 2026 - 02:47 AM,14.92,119.88,035,1.6,023km S 81° W of San Antonio (Zambales),023,S 81° W,San Antonio (Zambales)
+2026-02-05T02:40:00.000Z,05 February 2026 - 02:40 AM,04.77,124.44,033,3.3,130km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),130,S 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-05T02:34:00.000Z,05 February 2026 - 02:34 AM,07.24,127.08,009,3.6,060km N 87° E of Manay (Davao Oriental),060,N 87° E,Manay (Davao Oriental)
+2026-02-05T02:03:00.000Z,05 February 2026 - 02:03 AM,03.94,126.57,012,3.4,207km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),207,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-05T01:46:00.000Z,05 February 2026 - 01:46 AM,15.71,121.94,010,3.8,040km S 82° E of Baler (Aurora),040,S 82° E,Baler (Aurora)
 2026-02-05T01:44:00.000Z,05 February 2026 - 01:44 AM,09.07,126.08,101,2.2,010km S 88° W of City Of Tandag (Surigao Del Sur),010,S 88° W,City Of Tandag (Surigao Del Sur)
 2026-02-05T01:39:00.000Z,05 February 2026 - 01:39 AM,06.53,123.85,003,1.7,022km S 83° W of Kalamansig (Sultan Kudarat),022,S 83° W,Kalamansig (Sultan Kudarat)
@@ -59,8 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-04T04:07:00.000Z,04 February 2026 - 04:07 AM,09.96,122.38,015,2.5,022km N 15° W of City Of Sipalay (Negros Occidental),022,N 15° W,City Of Sipalay (Negros Occidental)
 2026-02-04T03:34:00.000Z,04 February 2026 - 03:34 AM,06.44,123.71,002,3.1,040km S 70° W of Kalamansig (Sultan Kudarat),040,S 70° W,Kalamansig (Sultan Kudarat)
 2026-02-04T02:53:00.000Z,04 February 2026 - 02:53 AM,09.40,126.19,016,2.8,013km N 01° W of Cortes (Surigao Del Sur),013,N 01° W,Cortes (Surigao Del Sur)
-2026-02-04T02:45:00.000Z,04 February 2026 - 02:45 AM,13.48,120.70,001,1.7,005km N 43° W of Abra De Ilog (Occidental Mindoro),005,N 43° W,Abra De Ilog (Occidental Mindoro)
-2026-02-04T02:24:00.000Z,04 February 2026 - 02:24 AM,06.44,123.78,009,2.1,033km S 67° W of Kalamansig (Sultan Kudarat),033,S 67° W,Kalamansig (Sultan Kudarat)
-2026-02-04T02:21:00.000Z,04 February 2026 - 02:21 AM,05.80,126.48,015,2.4,093km S 83° E of Jose Abad Santos (Davao Occidental),093,S 83° E,Jose Abad Santos (Davao Occidental)
-2026-02-04T01:59:00.000Z,04 February 2026 - 01:59 AM,06.54,123.90,012,2.2,026km S 82° W of Kalamansig (Sultan Kudarat),026,S 82° W,Kalamansig (Sultan Kudarat)
-2026-02-04T01:56:00.000Z,04 February 2026 - 01:56 AM,18.25,121.24,018,1.7,014km N 82° W of Pudtol (Apayao),014,N 82° W,Pudtol (Apayao)
