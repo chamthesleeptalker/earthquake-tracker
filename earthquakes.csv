@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T01:46:00.000Z,05 February 2026 - 01:46 AM,15.71,121.94,010,3.8,040km S 82° E of Baler (Aurora),040,S 82° E,Baler (Aurora)
+2026-02-05T01:44:00.000Z,05 February 2026 - 01:44 AM,09.07,126.08,101,2.2,010km S 88° W of City Of Tandag (Surigao Del Sur),010,S 88° W,City Of Tandag (Surigao Del Sur)
+2026-02-05T01:39:00.000Z,05 February 2026 - 01:39 AM,06.53,123.85,003,1.7,022km S 83° W of Kalamansig (Sultan Kudarat),022,S 83° W,Kalamansig (Sultan Kudarat)
+2026-02-05T01:33:00.000Z,05 February 2026 - 01:33 AM,18.00,120.20,022,4.1,030km N 75° W of Badoc (Ilocos Norte),030,N 75° W,Badoc (Ilocos Norte)
+2026-02-05T01:33:00.000Z,05 February 2026 - 01:33 AM,06.55,123.84,003,2.3,023km S 89° W of Kalamansig (Sultan Kudarat),023,S 89° W,Kalamansig (Sultan Kudarat)
+2026-02-05T01:30:00.000Z,05 February 2026 - 01:30 AM,18.11,119.93,014,3.1,059km N 81° W of Currimao (Ilocos Norte),059,N 81° W,Currimao (Ilocos Norte)
+2026-02-05T01:27:00.000Z,05 February 2026 - 01:27 AM,15.71,122.01,012,3.5,048km S 84° E of Baler (Aurora),048,S 84° E,Baler (Aurora)
+2026-02-05T01:18:00.000Z,05 February 2026 - 01:18 AM,13.83,120.58,075,1.7,006km S 86° W of Calatagan (Batangas),006,S 86° W,Calatagan (Batangas)
+2026-02-05T01:16:00.000Z,05 February 2026 - 01:16 AM,07.26,127.05,009,3.4,053km S 82° E of Caraga (Davao Oriental),053,S 82° E,Caraga (Davao Oriental)
 2026-02-05T01:06:00.000Z,05 February 2026 - 01:06 AM,17.23,120.77,110,2.0,006km S 53° E of Tubo (Abra),006,S 53° E,Tubo (Abra)
 2026-02-05T01:06:00.000Z,05 February 2026 - 01:06 AM,06.52,123.78,002,1.7,030km S 83° W of Kalamansig (Sultan Kudarat),030,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-05T00:33:00.000Z,05 February 2026 - 12:33 AM,06.63,123.81,018,2.0,028km N 74° W of Kalamansig (Sultan Kudarat),028,N 74° W,Kalamansig (Sultan Kudarat)
