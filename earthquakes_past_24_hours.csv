@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-04T18:47:00.000Z,04 February 2026 - 06:47 PM,06.33,123.52,005,2.5,064km S 67° W of Kalamansig (Sultan Kudarat),064,S 67° W,Kalamansig (Sultan Kudarat)
 2026-02-04T17:53:00.000Z,04 February 2026 - 05:53 PM,10.56,125.58,025,1.4,023km N 01° E of Loreto (Dinagat Islands),023,N 01° E,Loreto (Dinagat Islands)
 2026-02-04T17:41:00.000Z,04 February 2026 - 05:41 PM,07.89,126.56,015,2.1,016km N 48° E of Cateel (Davao Oriental),016,N 48° E,Cateel (Davao Oriental)
 2026-02-04T17:15:00.000Z,04 February 2026 - 05:15 PM,06.66,124.23,005,2.1,022km N 60° E of Kalamansig (Sultan Kudarat),022,N 60° E,Kalamansig (Sultan Kudarat)
@@ -46,4 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-03T20:05:00.000Z,03 February 2026 - 08:05 PM,06.25,123.58,009,2.4,060km S 58° W of Kalamansig (Sultan Kudarat),060,S 58° W,Kalamansig (Sultan Kudarat)
 2026-02-03T19:54:00.000Z,03 February 2026 - 07:54 PM,06.37,123.78,023,1.8,037km S 56° W of Kalamansig (Sultan Kudarat),037,S 56° W,Kalamansig (Sultan Kudarat)
 2026-02-03T19:49:00.000Z,03 February 2026 - 07:49 PM,07.48,126.68,023,2.3,017km S 53° E of Baganga (Davao Oriental),017,S 53° E,Baganga (Davao Oriental)
-2026-02-03T18:09:00.000Z,03 February 2026 - 06:09 PM,07.43,123.35,033,1.5,005km S 65° E of Pitogo (Zamboanga Del Sur),005,S 65° E,Pitogo (Zamboanga Del Sur)
