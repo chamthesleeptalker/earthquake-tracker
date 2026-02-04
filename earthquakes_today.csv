@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T03:32:00.000Z,05 February 2026 - 03:32 AM,15.72,121.93,013,2.0,039km S 84° E of Baler (Aurora),039,S 84° E,Baler (Aurora)
+2026-02-05T03:20:00.000Z,05 February 2026 - 03:20 AM,06.43,124.08,035,2.1,014km S 14° E of Kalamansig (Sultan Kudarat),014,S 14° E,Kalamansig (Sultan Kudarat)
+2026-02-05T03:18:00.000Z,05 February 2026 - 03:18 AM,06.54,123.80,012,2.2,027km S 87° W of Kalamansig (Sultan Kudarat),027,S 87° W,Kalamansig (Sultan Kudarat)
+2026-02-05T03:13:00.000Z,05 February 2026 - 03:13 AM,07.34,127.31,017,3.4,086km N 81° E of Manay (Davao Oriental),086,N 81° E,Manay (Davao Oriental)
 2026-02-05T02:47:00.000Z,05 February 2026 - 02:47 AM,14.92,119.88,035,1.6,023km S 81° W of San Antonio (Zambales),023,S 81° W,San Antonio (Zambales)
 2026-02-05T02:40:00.000Z,05 February 2026 - 02:40 AM,04.77,124.44,033,3.3,130km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),130,S 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-05T02:34:00.000Z,05 February 2026 - 02:34 AM,07.24,127.08,009,3.6,060km N 87° E of Manay (Davao Oriental),060,N 87° E,Manay (Davao Oriental)
