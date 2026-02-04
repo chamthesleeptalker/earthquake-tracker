@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T01:06:00.000Z,05 February 2026 - 01:06 AM,17.23,120.77,110,2.0,006km S 53° E of Tubo (Abra),006,S 53° E,Tubo (Abra)
+2026-02-05T01:06:00.000Z,05 February 2026 - 01:06 AM,06.52,123.78,002,1.7,030km S 83° W of Kalamansig (Sultan Kudarat),030,S 83° W,Kalamansig (Sultan Kudarat)
+2026-02-05T00:33:00.000Z,05 February 2026 - 12:33 AM,06.63,123.81,018,2.0,028km N 74° W of Kalamansig (Sultan Kudarat),028,N 74° W,Kalamansig (Sultan Kudarat)
+2026-02-05T00:15:00.000Z,05 February 2026 - 12:15 AM,05.91,124.38,010,2.6,021km S 36° W of Maitum (Sarangani),021,S 36° W,Maitum (Sarangani)
+2026-02-05T00:13:00.000Z,05 February 2026 - 12:13 AM,06.28,123.67,034,1.9,051km S 55° W of Kalamansig (Sultan Kudarat),051,S 55° W,Kalamansig (Sultan Kudarat)
+2026-02-05T00:06:00.000Z,05 February 2026 - 12:06 AM,13.38,121.00,033,1.6,006km S 16° W of San Teodoro (Oriental Mindoro),006,S 16° W,San Teodoro (Oriental Mindoro)
 2026-02-04T22:53:00.000Z,04 February 2026 - 10:53 PM,06.66,123.80,011,2.4,029km N 78° W of Kalamansig (Sultan Kudarat),029,N 78° W,Kalamansig (Sultan Kudarat)
 2026-02-04T22:21:00.000Z,04 February 2026 - 10:21 PM,16.11,122.14,049,1.7,019km S 06° E of Casiguran (Aurora),019,S 06° E,Casiguran (Aurora)
 2026-02-04T21:59:00.000Z,04 February 2026 - 09:59 PM,09.14,126.65,001,2.6,045km N 64° E of Bayabas (Surigao Del Sur),045,N 64° E,Bayabas (Surigao Del Sur)
@@ -53,7 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-04T01:34:00.000Z,04 February 2026 - 01:34 AM,07.03,125.70,022,1.4,005km S 19° W of Island Garden City Of Samal (Davao Del Norte),005,S 19° W,Island Garden City Of Samal (Davao Del Norte)
 2026-02-04T01:25:00.000Z,04 February 2026 - 01:25 AM,06.47,123.77,010,2.1,033km S 73° W of Kalamansig (Sultan Kudarat),033,S 73° W,Kalamansig (Sultan Kudarat)
 2026-02-04T01:16:00.000Z,04 February 2026 - 01:16 AM,04.59,125.19,033,3.6,095km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),095,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-04T01:04:00.000Z,04 February 2026 - 01:04 AM,07.29,126.47,164,2.3,011km N 42° W of Manay (Davao Oriental),011,N 42° W,Manay (Davao Oriental)
-2026-02-03T23:33:00.000Z,03 February 2026 - 11:33 PM,06.19,123.78,029,2.1,050km S 37° W of Kalamansig (Sultan Kudarat),050,S 37° W,Kalamansig (Sultan Kudarat)
-2026-02-03T23:33:00.000Z,03 February 2026 - 11:33 PM,07.12,127.07,019,3.4,059km S 81° E of Manay (Davao Oriental),059,S 81° E,Manay (Davao Oriental)
-2026-02-03T23:10:00.000Z,03 February 2026 - 11:10 PM,10.05,125.20,004,1.9,005km S 84° E of San Francisco (Southern Leyte),005,S 84° E,San Francisco (Southern Leyte)
