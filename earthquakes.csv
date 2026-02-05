@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T19:23:00.000Z,05 February 2026 - 07:23 PM,06.50,124.02,002,1.7,008km S 61° W of Kalamansig (Sultan Kudarat),008,S 61° W,Kalamansig (Sultan Kudarat)
+2026-02-05T18:44:00.000Z,05 February 2026 - 06:44 PM,07.74,127.12,013,2.3,074km S 85° E of Cateel (Davao Oriental),074,S 85° E,Cateel (Davao Oriental)
+2026-02-05T18:28:00.000Z,05 February 2026 - 06:28 PM,18.35,120.82,009,1.8,014km S 34° W of Adams (Ilocos Norte),014,S 34° W,Adams (Ilocos Norte)
+2026-02-04T21:18:00.000Z,04 February 2026 - 09:18 PM,06.45,123.67,011,2.2,043km S 75° W of Kalamansig (Sultan Kudarat),043,S 75° W,Kalamansig (Sultan Kudarat)
 2026-02-05T16:52:00.000Z,05 February 2026 - 04:52 PM,06.55,123.80,034,2.5,028km S 88° W of Kalamansig (Sultan Kudarat),028,S 88° W,Kalamansig (Sultan Kudarat)
 2026-02-05T15:45:00.000Z,05 February 2026 - 03:45 PM,05.86,125.95,138,2.5,034km S 80° E of Jose Abad Santos (Davao Occidental),034,S 80° E,Jose Abad Santos (Davao Occidental)
 2026-02-05T12:19:00.000Z,05 February 2026 - 12:19 PM,06.17,124.10,570,3.5,011km S 66° W of Palimbang (Sultan Kudarat),011,S 66° W,Palimbang (Sultan Kudarat)
