@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T16:52:00.000Z,05 February 2026 - 04:52 PM,06.55,123.80,034,2.5,028km S 88° W of Kalamansig (Sultan Kudarat),028,S 88° W,Kalamansig (Sultan Kudarat)
 2026-02-05T15:45:00.000Z,05 February 2026 - 03:45 PM,05.86,125.95,138,2.5,034km S 80° E of Jose Abad Santos (Davao Occidental),034,S 80° E,Jose Abad Santos (Davao Occidental)
 2026-02-05T12:19:00.000Z,05 February 2026 - 12:19 PM,06.17,124.10,570,3.5,011km S 66° W of Palimbang (Sultan Kudarat),011,S 66° W,Palimbang (Sultan Kudarat)
 2026-02-05T12:43:00.000Z,05 February 2026 - 12:43 PM,06.43,123.69,003,2.5,042km S 70° W of Kalamansig (Sultan Kudarat),042,S 70° W,Kalamansig (Sultan Kudarat)
@@ -67,6 +68,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-04T17:53:00.000Z,04 February 2026 - 05:53 PM,10.56,125.58,025,1.4,023km N 01° E of Loreto (Dinagat Islands),023,N 01° E,Loreto (Dinagat Islands)
 2026-02-04T17:41:00.000Z,04 February 2026 - 05:41 PM,07.89,126.56,015,2.1,016km N 48° E of Cateel (Davao Oriental),016,N 48° E,Cateel (Davao Oriental)
 2026-02-04T17:15:00.000Z,04 February 2026 - 05:15 PM,06.66,124.23,005,2.1,022km N 60° E of Kalamansig (Sultan Kudarat),022,N 60° E,Kalamansig (Sultan Kudarat)
-2026-02-04T16:30:00.000Z,04 February 2026 - 04:30 PM,06.39,123.73,006,2.4,040km S 62° W of Kalamansig (Sultan Kudarat),040,S 62° W,Kalamansig (Sultan Kudarat)
-2026-02-04T16:17:00.000Z,04 February 2026 - 04:17 PM,06.34,123.89,002,1.4,029km S 37° W of Kalamansig (Sultan Kudarat),029,S 37° W,Kalamansig (Sultan Kudarat)
-2026-02-04T15:59:00.000Z,04 February 2026 - 03:59 PM,13.53,120.67,105,1.5,011km N 33° W of Abra De Ilog (Occidental Mindoro),011,N 33° W,Abra De Ilog (Occidental Mindoro)
