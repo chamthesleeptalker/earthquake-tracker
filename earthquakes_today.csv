@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T22:42:00.000Z,05 February 2026 - 10:42 PM,09.01,126.31,010,1.6,006km N 29° E of Bayabas (Surigao Del Sur),006,N 29° E,Bayabas (Surigao Del Sur)
+2026-02-05T22:16:00.000Z,05 February 2026 - 10:16 PM,15.75,119.94,026,1.4,004km S 61° E of Santa Cruz (Zambales),004,S 61° E,Santa Cruz (Zambales)
+2026-02-05T22:15:00.000Z,05 February 2026 - 10:15 PM,07.07,125.43,033,1.8,026km N 04° E of Santa Cruz (Davao Del Sur),026,N 04° E,Santa Cruz (Davao Del Sur)
+2026-02-05T22:08:00.000Z,05 February 2026 - 10:08 PM,07.79,127.02,002,2.5,056km N 65° E of Baganga (Davao Oriental),056,N 65° E,Baganga (Davao Oriental)
 2026-02-05T21:57:00.000Z,05 February 2026 - 09:57 PM,06.50,123.82,019,1.5,026km S 75° W of Kalamansig (Sultan Kudarat),026,S 75° W,Kalamansig (Sultan Kudarat)
 2026-02-05T21:24:00.000Z,05 February 2026 - 09:24 PM,08.76,126.40,032,3.2,011km S 70° E of Marihatag (Surigao Del Sur),011,S 70° E,Marihatag (Surigao Del Sur)
 2026-02-05T19:43:00.000Z,05 February 2026 - 07:43 PM,06.60,123.79,019,1.9,029km N 81° W of Kalamansig (Sultan Kudarat),029,N 81° W,Kalamansig (Sultan Kudarat)
