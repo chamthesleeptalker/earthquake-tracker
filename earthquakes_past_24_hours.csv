@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T05:40:00.000Z,06 February 2026 - 05:40 AM,06.52,123.82,019,1.8,025km S 81° W of Kalamansig (Sultan Kudarat),025,S 81° W,Kalamansig (Sultan Kudarat)
 2026-02-06T03:46:00.000Z,06 February 2026 - 03:46 AM,16.81,121.35,008,2.8,017km N 07° W of Diadi (Nueva Vizcaya),017,N 07° W,Diadi (Nueva Vizcaya)
 2026-02-06T03:36:00.000Z,06 February 2026 - 03:36 AM,19.28,121.30,032,2.2,018km N 83° W of Calayan (Cagayan),018,N 83° W,Calayan (Cagayan)
 2026-02-06T03:27:00.000Z,06 February 2026 - 03:27 AM,19.02,121.09,003,1.7,016km S 50° W of Dalupiri Island (Calayan) (Cagayan),016,S 50° W,Dalupiri Island (Calayan) (Cagayan)
@@ -36,9 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T05:55:00.000Z,05 February 2026 - 05:55 AM,07.32,123.30,033,2.1,015km S 08° W of Pitogo (Zamboanga Del Sur),015,S 08° W,Pitogo (Zamboanga Del Sur)
 2026-02-05T05:41:00.000Z,05 February 2026 - 05:41 AM,06.69,123.94,008,1.9,019km N 39° W of Kalamansig (Sultan Kudarat),019,N 39° W,Kalamansig (Sultan Kudarat)
 2026-02-05T05:41:00.000Z,05 February 2026 - 05:41 AM,15.71,121.95,013,2.3,042km S 83° E of Baler (Aurora),042,S 83° E,Baler (Aurora)
-2026-02-05T05:34:00.000Z,05 February 2026 - 05:34 AM,06.31,123.77,010,4.7,041km S 48° W of Kalamansig (Sultan Kudarat),041,S 48° W,Kalamansig (Sultan Kudarat)
-2026-02-05T05:10:00.000Z,05 February 2026 - 05:10 AM,07.21,126.45,131,2.1,010km S 89° W of Manay (Davao Oriental),010,S 89° W,Manay (Davao Oriental)
-2026-02-05T04:43:00.000Z,05 February 2026 - 04:43 AM,15.74,121.84,016,2.2,030km S 87° E of Baler (Aurora),030,S 87° E,Baler (Aurora)
-2026-02-05T04:07:00.000Z,05 February 2026 - 04:07 AM,07.20,127.16,032,3.0,068km S 89° E of Manay (Davao Oriental),068,S 89° E,Manay (Davao Oriental)
-2026-02-05T04:06:00.000Z,05 February 2026 - 04:06 AM,19.11,121.32,016,2.4,012km N 88° E of Dalupiri Island (Calayan) (Cagayan),012,N 88° E,Dalupiri Island (Calayan) (Cagayan)
-2026-02-05T04:00:00.000Z,05 February 2026 - 04:00 AM,06.67,123.77,003,2.5,033km N 67° W of Kalamansig (Sultan Kudarat),033,N 67° W,Kalamansig (Sultan Kudarat)
