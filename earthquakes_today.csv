@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T23:43:00.000Z,05 February 2026 - 11:43 PM,13.45,120.74,010,1.6,001km N 70° E of Abra De Ilog (Occidental Mindoro),001,N 70° E,Abra De Ilog (Occidental Mindoro)
+2026-02-05T23:28:00.000Z,05 February 2026 - 11:28 PM,16.99,119.50,030,1.9,078km N 32° W of Bolinao (Pangasinan),078,N 32° W,Bolinao (Pangasinan)
+2026-02-05T23:20:00.000Z,05 February 2026 - 11:20 PM,18.09,120.06,010,1.6,046km N 81° W of Currimao (Ilocos Norte),046,N 81° W,Currimao (Ilocos Norte)
 2026-02-05T22:42:00.000Z,05 February 2026 - 10:42 PM,09.01,126.31,010,1.6,006km N 29° E of Bayabas (Surigao Del Sur),006,N 29° E,Bayabas (Surigao Del Sur)
 2026-02-05T22:16:00.000Z,05 February 2026 - 10:16 PM,15.75,119.94,026,1.4,004km S 61° E of Santa Cruz (Zambales),004,S 61° E,Santa Cruz (Zambales)
 2026-02-05T22:15:00.000Z,05 February 2026 - 10:15 PM,07.07,125.43,033,1.8,026km N 04° E of Santa Cruz (Davao Del Sur),026,N 04° E,Santa Cruz (Davao Del Sur)
