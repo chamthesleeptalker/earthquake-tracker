@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-01-29T07:43:00.000Z,29 January 2026 - 07:43 AM,06.40,123.74,10,5.1,038km S 63° W of Kalamansig (Sultan Kudarat),038,S 63° W,Kalamansig (Sultan Kudarat)
 2026-01-30T08:49:00.000Z,30 January 2026 - 08:49 AM,06.48,123.75,10,5.0,034km S 75° W of Kalamansig (Sultan Kudarat),034,S 75° W,Kalamansig (Sultan Kudarat)
 2026-02-04T15:11:00.000Z,04 February 2026 - 03:11 PM,09.38,126.70,10,4.9,056km N 78° E of Cortes (Surigao Del Sur),056,N 78° E,Cortes (Surigao Del Sur)
 2026-01-30T07:05:00.000Z,30 January 2026 - 07:05 AM,06.49,123.64,10,4.9,045km S 80° W of Kalamansig (Sultan Kudarat),045,S 80° W,Kalamansig (Sultan Kudarat)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-31T08:36:00.000Z,31 January 2026 - 08:36 AM,03.21,124.60,344,4.4,260km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),260,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-30T14:14:00.000Z,30 January 2026 - 02:14 PM,06.08,126.01,41,4.4,037km S 69° E of Don Marcelino (Davao Occidental),037,S 69° E,Don Marcelino (Davao Occidental)
 2026-02-05T01:33:00.000Z,05 February 2026 - 01:33 AM,18.00,120.20,22,4.1,030km N 75° W of Badoc (Ilocos Norte),030,N 75° W,Badoc (Ilocos Norte)
+2026-02-02T12:39:00.000Z,02 February 2026 - 12:39 PM,07.29,123.44,10,4.1,022km S 39° E of Pitogo (Zamboanga Del Sur),022,S 39° E,Pitogo (Zamboanga Del Sur)
