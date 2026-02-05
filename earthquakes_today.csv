@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-05T12:01:00.000Z,05 February 2026 - 12:01 PM,06.67,124.29,013,1.6,025km N 82° E of Lebak (Sultan Kudarat),025,N 82° E,Lebak (Sultan Kudarat)
+2026-02-05T11:18:00.000Z,05 February 2026 - 11:18 AM,14.04,122.27,003,3.6,009km N 10° W of Calauag (Quezon),009,N 10° W,Calauag (Quezon)
+2026-02-05T11:00:00.000Z,05 February 2026 - 11:00 AM,09.58,126.01,030,2.0,007km S 52° E of Socorro (Surigao Del Norte),007,S 52° E,Socorro (Surigao Del Norte)
+2026-02-05T10:03:00.000Z,05 February 2026 - 10:03 AM,06.65,124.17,005,1.6,011km N 81° E of Lebak (Sultan Kudarat),011,N 81° E,Lebak (Sultan Kudarat)
 2026-02-05T08:43:00.000Z,05 February 2026 - 08:43 AM,07.18,127.39,033,2.6,093km S 80° E of Caraga (Davao Oriental),093,S 80° E,Caraga (Davao Oriental)
 2026-02-05T08:38:00.000Z,05 February 2026 - 08:38 AM,09.75,126.23,020,2.1,009km S 69° E of General Luna (Surigao Del Norte),009,S 69° E,General Luna (Surigao Del Norte)
 2026-02-05T08:15:00.000Z,05 February 2026 - 08:15 AM,06.26,123.75,036,2.2,046km S 46° W of Kalamansig (Sultan Kudarat),046,S 46° W,Kalamansig (Sultan Kudarat)
