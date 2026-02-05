@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T03:36:00.000Z,06 February 2026 - 03:36 AM,19.28,121.30,032,2.2,018km N 83° W of Calayan (Cagayan),018,N 83° W,Calayan (Cagayan)
+2026-02-06T03:27:00.000Z,06 February 2026 - 03:27 AM,19.02,121.09,003,1.7,016km S 50° W of Dalupiri Island (Calayan) (Cagayan),016,S 50° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-06T02:40:00.000Z,06 February 2026 - 02:40 AM,06.76,123.83,028,2.0,033km N 48° W of Kalamansig (Sultan Kudarat),033,N 48° W,Kalamansig (Sultan Kudarat)
 2026-02-06T02:36:00.000Z,06 February 2026 - 02:36 AM,07.56,123.62,553,3.3,021km S 61° E of San Pablo (Zamboanga Del Sur),021,S 61° E,San Pablo (Zamboanga Del Sur)
 2026-02-06T02:15:00.000Z,06 February 2026 - 02:15 AM,09.96,125.67,157,4.2,004km N 05° W of Cagdianao (Dinagat Islands),004,N 05° W,Cagdianao (Dinagat Islands)
@@ -39,9 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T04:07:00.000Z,05 February 2026 - 04:07 AM,07.20,127.16,032,3.0,068km S 89° E of Manay (Davao Oriental),068,S 89° E,Manay (Davao Oriental)
 2026-02-05T04:06:00.000Z,05 February 2026 - 04:06 AM,19.11,121.32,016,2.4,012km N 88° E of Dalupiri Island (Calayan) (Cagayan),012,N 88° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-05T04:00:00.000Z,05 February 2026 - 04:00 AM,06.67,123.77,003,2.5,033km N 67° W of Kalamansig (Sultan Kudarat),033,N 67° W,Kalamansig (Sultan Kudarat)
-2026-02-05T03:32:00.000Z,05 February 2026 - 03:32 AM,15.72,121.93,013,2.0,039km S 84° E of Baler (Aurora),039,S 84° E,Baler (Aurora)
-2026-02-05T03:20:00.000Z,05 February 2026 - 03:20 AM,06.43,124.08,035,2.1,014km S 14° E of Kalamansig (Sultan Kudarat),014,S 14° E,Kalamansig (Sultan Kudarat)
-2026-02-05T03:18:00.000Z,05 February 2026 - 03:18 AM,06.54,123.80,012,2.2,027km S 87° W of Kalamansig (Sultan Kudarat),027,S 87° W,Kalamansig (Sultan Kudarat)
-2026-02-05T03:13:00.000Z,05 February 2026 - 03:13 AM,07.34,127.31,017,3.4,086km N 81° E of Manay (Davao Oriental),086,N 81° E,Manay (Davao Oriental)
-2026-02-05T02:47:00.000Z,05 February 2026 - 02:47 AM,14.92,119.88,035,1.6,023km S 81° W of San Antonio (Zambales),023,S 81° W,San Antonio (Zambales)
-2026-02-05T02:40:00.000Z,05 February 2026 - 02:40 AM,04.77,124.44,033,3.3,130km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),130,S 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
