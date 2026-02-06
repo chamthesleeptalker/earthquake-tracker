@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T16:43:00.000Z,06 February 2026 - 04:43 PM,15.09,119.89,032,1.5,020km N 81° W of San Felipe (Zambales),020,N 81° W,San Felipe (Zambales)
+2026-02-06T16:34:00.000Z,06 February 2026 - 04:34 PM,06.59,123.99,003,2.6,008km N 63° W of Kalamansig (Sultan Kudarat),008,N 63° W,Kalamansig (Sultan Kudarat)
 2026-02-06T15:49:00.000Z,06 February 2026 - 03:49 PM,13.51,119.56,039,2.1,072km S 58° W of Lubang (Occidental Mindoro),072,S 58° W,Lubang (Occidental Mindoro)
 2026-02-06T15:44:00.000Z,06 February 2026 - 03:44 PM,09.08,126.18,026,2.2,001km N 73° E of City Of Tandag (Surigao Del Sur),001,N 73° E,City Of Tandag (Surigao Del Sur)
 2026-02-06T14:00:00.000Z,06 February 2026 - 02:00 PM,16.19,121.79,034,1.8,019km N 74° W of Dinalungan (Aurora),019,N 74° W,Dinalungan (Aurora)
@@ -491,4 +493,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-30T17:31:00.000Z,30 January 2026 - 05:31 PM,06.61,123.75,029,1.8,033km N 79° W of Kalamansig (Sultan Kudarat),033,N 79° W,Kalamansig (Sultan Kudarat)
 2026-01-30T17:25:00.000Z,30 January 2026 - 05:25 PM,07.30,123.84,012,1.4,022km S 76° W of Bongo Island (Parang) (Maguindanao Del Norte),022,S 76° W,Bongo Island (Parang) (Maguindanao Del Norte)
 2026-01-30T16:47:00.000Z,30 January 2026 - 04:47 PM,18.61,121.65,012,1.8,026km N 32° E of Ballesteros (Cagayan),026,N 32° E,Ballesteros (Cagayan)
-2026-01-30T16:03:00.000Z,30 January 2026 - 04:03 PM,06.47,123.84,017,2.0,026km S 68° W of Kalamansig (Sultan Kudarat),026,S 68° W,Kalamansig (Sultan Kudarat)
