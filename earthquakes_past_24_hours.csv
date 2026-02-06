@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T23:45:00.000Z,06 February 2026 - 11:45 PM,06.42,123.76,019,3.1,035km S 64° W of Kalamansig (Sultan Kudarat),035,S 64° W,Kalamansig (Sultan Kudarat)
+2026-02-06T23:42:00.000Z,06 February 2026 - 11:42 PM,10.98,124.04,003,2.9,010km S 41° E of City Of Bogo (Cebu),010,S 41° E,City Of Bogo (Cebu)
+2026-02-06T23:08:00.000Z,06 February 2026 - 11:08 PM,18.34,121.14,034,1.5,013km N 48° E of Calanasan (Apayao),013,N 48° E,Calanasan (Apayao)
 2026-02-06T22:19:00.000Z,06 February 2026 - 10:19 PM,15.04,120.05,039,1.6,003km S 46° W of San Felipe (Zambales),003,S 46° W,San Felipe (Zambales)
 2026-02-06T21:38:00.000Z,06 February 2026 - 09:38 PM,18.10,120.21,012,3.6,030km N 73° W of Currimao (Ilocos Norte),030,N 73° W,Currimao (Ilocos Norte)
 2026-02-06T20:48:00.000Z,06 February 2026 - 08:48 PM,04.13,125.77,169,3.7,148km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -29,7 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T02:36:00.000Z,06 February 2026 - 02:36 AM,07.56,123.62,553,3.3,021km S 61° E of San Pablo (Zamboanga Del Sur),021,S 61° E,San Pablo (Zamboanga Del Sur)
 2026-02-06T02:15:00.000Z,06 February 2026 - 02:15 AM,09.96,125.67,157,4.2,004km N 05° W of Cagdianao (Dinagat Islands),004,N 05° W,Cagdianao (Dinagat Islands)
 2026-02-06T00:20:00.000Z,06 February 2026 - 12:20 AM,07.79,126.67,029,2.1,024km N 89° E of Cateel (Davao Oriental),024,N 89° E,Cateel (Davao Oriental)
-2026-02-05T23:43:00.000Z,05 February 2026 - 11:43 PM,13.45,120.74,010,1.6,001km N 70° E of Abra De Ilog (Occidental Mindoro),001,N 70° E,Abra De Ilog (Occidental Mindoro)
-2026-02-05T23:28:00.000Z,05 February 2026 - 11:28 PM,16.99,119.50,030,1.9,078km N 32° W of Bolinao (Pangasinan),078,N 32° W,Bolinao (Pangasinan)
-2026-02-05T23:20:00.000Z,05 February 2026 - 11:20 PM,18.09,120.06,010,1.6,046km N 81° W of Currimao (Ilocos Norte),046,N 81° W,Currimao (Ilocos Norte)
-2026-02-05T22:42:00.000Z,05 February 2026 - 10:42 PM,09.01,126.31,010,1.6,006km N 29° E of Bayabas (Surigao Del Sur),006,N 29° E,Bayabas (Surigao Del Sur)

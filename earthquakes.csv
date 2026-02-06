@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T23:45:00.000Z,06 February 2026 - 11:45 PM,06.42,123.76,019,3.1,035km S 64° W of Kalamansig (Sultan Kudarat),035,S 64° W,Kalamansig (Sultan Kudarat)
+2026-02-06T23:42:00.000Z,06 February 2026 - 11:42 PM,10.98,124.04,003,2.9,010km S 41° E of City Of Bogo (Cebu),010,S 41° E,City Of Bogo (Cebu)
+2026-02-06T23:08:00.000Z,06 February 2026 - 11:08 PM,18.34,121.14,034,1.5,013km N 48° E of Calanasan (Apayao),013,N 48° E,Calanasan (Apayao)
 2026-02-06T22:19:00.000Z,06 February 2026 - 10:19 PM,15.04,120.05,039,1.6,003km S 46° W of San Felipe (Zambales),003,S 46° W,San Felipe (Zambales)
 2026-02-06T21:38:00.000Z,06 February 2026 - 09:38 PM,18.10,120.21,012,3.6,030km N 73° W of Currimao (Ilocos Norte),030,N 73° W,Currimao (Ilocos Norte)
 2026-02-06T20:48:00.000Z,06 February 2026 - 08:48 PM,04.13,125.77,169,3.7,148km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
