@@ -1,11 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T21:38:00.000Z,06 February 2026 - 09:38 PM,18.10,120.21,012,3.6,030km N 73° W of Currimao (Ilocos Norte),030,N 73° W,Currimao (Ilocos Norte)
+2026-02-06T20:48:00.000Z,06 February 2026 - 08:48 PM,04.13,125.77,169,3.7,148km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-06T20:33:00.000Z,06 February 2026 - 08:33 PM,13.56,120.03,025,2.5,029km S 54° W of Looc (Occidental Mindoro),029,S 54° W,Looc (Occidental Mindoro)
 2026-02-06T20:01:00.000Z,06 February 2026 - 08:01 PM,15.43,120.42,033,1.5,007km S 44° W of San Jose (Tarlac),007,S 44° W,San Jose (Tarlac)
 2026-02-06T19:50:00.000Z,06 February 2026 - 07:50 PM,14.23,123.46,006,1.5,032km N 45° E of Siruma (Camarines Sur),032,N 45° E,Siruma (Camarines Sur)
 2026-02-06T19:20:00.000Z,06 February 2026 - 07:20 PM,17.99,120.53,020,2.8,004km N 05° E of Pinili (Ilocos Norte),004,N 05° E,Pinili (Ilocos Norte)
 2026-02-06T18:01:00.000Z,06 February 2026 - 06:01 PM,06.51,123.68,023,2.3,041km S 83° W of Kalamansig (Sultan Kudarat),041,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-06T18:00:00.000Z,06 February 2026 - 06:00 PM,06.25,126.41,047,2.6,058km S 40° E of Governor Generoso (Davao Oriental),058,S 40° E,Governor Generoso (Davao Oriental)
-2026-02-05T21:23:00.000Z,05 February 2026 - 09:23 PM,08.82,126.44,028,3.3,016km N 83° E of Marihatag (Surigao Del Sur),016,N 83° E,Marihatag (Surigao Del Sur)
 2026-02-06T16:43:00.000Z,06 February 2026 - 04:43 PM,15.09,119.89,032,1.5,020km N 81° W of San Felipe (Zambales),020,N 81° W,San Felipe (Zambales)
 2026-02-06T16:34:00.000Z,06 February 2026 - 04:34 PM,06.59,123.99,003,2.6,008km N 63° W of Kalamansig (Sultan Kudarat),008,N 63° W,Kalamansig (Sultan Kudarat)
 2026-02-06T15:49:00.000Z,06 February 2026 - 03:49 PM,13.51,119.56,039,2.1,072km S 58° W of Lubang (Occidental Mindoro),072,S 58° W,Lubang (Occidental Mindoro)
@@ -35,4 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T22:15:00.000Z,05 February 2026 - 10:15 PM,07.07,125.43,033,1.8,026km N 04° E of Santa Cruz (Davao Del Sur),026,N 04° E,Santa Cruz (Davao Del Sur)
 2026-02-05T22:08:00.000Z,05 February 2026 - 10:08 PM,07.79,127.02,002,2.5,056km N 65° E of Baganga (Davao Oriental),056,N 65° E,Baganga (Davao Oriental)
 2026-02-05T21:57:00.000Z,05 February 2026 - 09:57 PM,06.50,123.82,019,1.5,026km S 75° W of Kalamansig (Sultan Kudarat),026,S 75° W,Kalamansig (Sultan Kudarat)
-2026-02-05T21:24:00.000Z,05 February 2026 - 09:24 PM,08.76,126.40,032,3.2,011km S 70° E of Marihatag (Surigao Del Sur),011,S 70° E,Marihatag (Surigao Del Sur)
