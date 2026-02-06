@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T14:00:00.000Z,06 February 2026 - 02:00 PM,16.19,121.79,034,1.8,019km N 74° W of Dinalungan (Aurora),019,N 74° W,Dinalungan (Aurora)
 2026-02-06T10:20:00.000Z,06 February 2026 - 10:20 AM,15.72,121.98,006,2.3,045km S 84° E of Baler (Aurora),045,S 84° E,Baler (Aurora)
 2026-02-06T10:14:00.000Z,06 February 2026 - 10:14 AM,09.33,125.60,007,1.7,009km S 84° E of Jabonga (Agusan Del Norte),009,S 84° E,Jabonga (Agusan Del Norte)
 2026-02-06T08:51:00.000Z,06 February 2026 - 08:51 AM,07.83,122.82,033,1.3,007km N 67° E of Kabasalan (Zamboanga Sibugay),007,N 67° E,Kabasalan (Zamboanga Sibugay)
@@ -30,10 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T18:28:00.000Z,05 February 2026 - 06:28 PM,18.35,120.82,009,1.8,014km S 34° W of Adams (Ilocos Norte),014,S 34° W,Adams (Ilocos Norte)
 2026-02-05T16:52:00.000Z,05 February 2026 - 04:52 PM,06.55,123.80,034,2.5,028km S 88° W of Kalamansig (Sultan Kudarat),028,S 88° W,Kalamansig (Sultan Kudarat)
 2026-02-05T15:45:00.000Z,05 February 2026 - 03:45 PM,05.86,125.95,138,2.5,034km S 80° E of Jose Abad Santos (Davao Occidental),034,S 80° E,Jose Abad Santos (Davao Occidental)
-2026-02-05T12:19:00.000Z,05 February 2026 - 12:19 PM,06.17,124.10,570,3.5,011km S 66° W of Palimbang (Sultan Kudarat),011,S 66° W,Palimbang (Sultan Kudarat)
-2026-02-05T12:43:00.000Z,05 February 2026 - 12:43 PM,06.43,123.69,003,2.5,042km S 70° W of Kalamansig (Sultan Kudarat),042,S 70° W,Kalamansig (Sultan Kudarat)
-2026-02-05T12:36:00.000Z,05 February 2026 - 12:36 PM,06.40,123.73,008,3.5,040km S 64° W of Kalamansig (Sultan Kudarat),040,S 64° W,Kalamansig (Sultan Kudarat)
-2026-02-05T12:22:00.000Z,05 February 2026 - 12:22 PM,06.30,123.68,021,2.4,050km S 56° W of Kalamansig (Sultan Kudarat),050,S 56° W,Kalamansig (Sultan Kudarat)
-2026-02-05T12:01:00.000Z,05 February 2026 - 12:01 PM,06.67,124.29,013,1.6,025km N 82° E of Lebak (Sultan Kudarat),025,N 82° E,Lebak (Sultan Kudarat)
-2026-02-05T11:18:00.000Z,05 February 2026 - 11:18 AM,14.04,122.27,003,3.6,009km N 10° W of Calauag (Quezon),009,N 10° W,Calauag (Quezon)
-2026-02-05T11:00:00.000Z,05 February 2026 - 11:00 AM,09.58,126.01,030,2.0,007km S 52° E of Socorro (Surigao Del Norte),007,S 52° E,Socorro (Surigao Del Norte)
