@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T19:20:00.000Z,06 February 2026 - 07:20 PM,17.99,120.53,020,2.8,004km N 05° E of Pinili (Ilocos Norte),004,N 05° E,Pinili (Ilocos Norte)
 2026-02-06T18:01:00.000Z,06 February 2026 - 06:01 PM,06.51,123.68,023,2.3,041km S 83° W of Kalamansig (Sultan Kudarat),041,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-06T18:00:00.000Z,06 February 2026 - 06:00 PM,06.25,126.41,047,2.6,058km S 40° E of Governor Generoso (Davao Oriental),058,S 40° E,Governor Generoso (Davao Oriental)
 2026-02-05T21:23:00.000Z,05 February 2026 - 09:23 PM,08.82,126.44,028,3.3,016km N 83° E of Marihatag (Surigao Del Sur),016,N 83° E,Marihatag (Surigao Del Sur)
@@ -486,8 +487,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-30T20:18:00.000Z,30 January 2026 - 08:18 PM,07.95,126.66,018,1.8,029km N 52° E of Cateel (Davao Oriental),029,N 52° E,Cateel (Davao Oriental)
 2026-01-30T20:11:00.000Z,30 January 2026 - 08:11 PM,06.36,123.55,013,2.0,059km S 69° W of Kalamansig (Sultan Kudarat),059,S 69° W,Kalamansig (Sultan Kudarat)
 2026-01-30T19:49:00.000Z,30 January 2026 - 07:49 PM,06.20,123.38,034,1.9,084km S 62° W of Kalamansig (Sultan Kudarat),084,S 62° W,Kalamansig (Sultan Kudarat)
-2026-01-30T19:07:00.000Z,30 January 2026 - 07:07 PM,08.50,127.11,004,2.5,086km N 80° E of Hinatuan (Surigao Del Sur),086,N 80° E,Hinatuan (Surigao Del Sur)
-2026-01-30T18:59:00.000Z,30 January 2026 - 06:59 PM,06.77,123.75,006,1.7,041km N 54° W of Kalamansig (Sultan Kudarat),041,N 54° W,Kalamansig (Sultan Kudarat)
-2026-01-30T18:46:00.000Z,30 January 2026 - 06:46 PM,06.39,123.44,017,2.0,071km S 75° W of Kalamansig (Sultan Kudarat),071,S 75° W,Kalamansig (Sultan Kudarat)
-2026-01-30T18:26:00.000Z,30 January 2026 - 06:26 PM,06.30,123.71,006,1.6,047km S 54° W of Kalamansig (Sultan Kudarat),047,S 54° W,Kalamansig (Sultan Kudarat)
-2026-01-30T18:20:00.000Z,30 January 2026 - 06:20 PM,06.35,124.06,009,1.7,022km S 04° E of Kalamansig (Sultan Kudarat),022,S 04° E,Kalamansig (Sultan Kudarat)

@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T19:20:00.000Z,06 February 2026 - 07:20 PM,17.99,120.53,020,2.8,004km N 05° E of Pinili (Ilocos Norte),004,N 05° E,Pinili (Ilocos Norte)
 2026-02-06T18:01:00.000Z,06 February 2026 - 06:01 PM,06.51,123.68,023,2.3,041km S 83° W of Kalamansig (Sultan Kudarat),041,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-06T18:00:00.000Z,06 February 2026 - 06:00 PM,06.25,126.41,047,2.6,058km S 40° E of Governor Generoso (Davao Oriental),058,S 40° E,Governor Generoso (Davao Oriental)
 2026-02-05T21:23:00.000Z,05 February 2026 - 09:23 PM,08.82,126.44,028,3.3,016km N 83° E of Marihatag (Surigao Del Sur),016,N 83° E,Marihatag (Surigao Del Sur)
@@ -34,5 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T21:24:00.000Z,05 February 2026 - 09:24 PM,08.76,126.40,032,3.2,011km S 70° E of Marihatag (Surigao Del Sur),011,S 70° E,Marihatag (Surigao Del Sur)
 2026-02-05T19:43:00.000Z,05 February 2026 - 07:43 PM,06.60,123.79,019,1.9,029km N 81° W of Kalamansig (Sultan Kudarat),029,N 81° W,Kalamansig (Sultan Kudarat)
 2026-02-05T19:23:00.000Z,05 February 2026 - 07:23 PM,06.50,124.02,002,1.7,008km S 61° W of Kalamansig (Sultan Kudarat),008,S 61° W,Kalamansig (Sultan Kudarat)
-2026-02-05T18:44:00.000Z,05 February 2026 - 06:44 PM,07.74,127.12,013,2.3,074km S 85° E of Cateel (Davao Oriental),074,S 85° E,Cateel (Davao Oriental)
-2026-02-05T18:28:00.000Z,05 February 2026 - 06:28 PM,18.35,120.82,009,1.8,014km S 34° W of Adams (Ilocos Norte),014,S 34° W,Adams (Ilocos Norte)
