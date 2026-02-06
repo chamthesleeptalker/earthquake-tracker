@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-07T03:37:00.000Z,07 February 2026 - 03:37 AM,13.89,122.89,005,1.7,011km N 12° W of Lupi (Camarines Sur),011,N 12° W,Lupi (Camarines Sur)
+2026-02-07T03:03:00.000Z,07 February 2026 - 03:03 AM,14.10,121.23,001,2.0,009km S 08° E of Los Baños (Laguna),009,S 08° E,Los BaÃ±os (Laguna)
+2026-02-07T03:03:00.000Z,07 February 2026 - 03:03 AM,14.15,121.21,036,1.6,003km S 33° W of Los Baños (Laguna),003,S 33° W,Los BaÃ±os (Laguna)
 2026-02-07T02:35:00.000Z,07 February 2026 - 02:35 AM,06.41,123.75,015,2.5,037km S 64° W of Kalamansig (Sultan Kudarat),037,S 64° W,Kalamansig (Sultan Kudarat)
 2026-02-07T00:32:00.000Z,07 February 2026 - 12:32 AM,19.18,121.21,008,2.9,008km N 06° E of Dalupiri Island (Calayan) (Cagayan),008,N 06° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-07T00:27:00.000Z,07 February 2026 - 12:27 AM,06.62,123.70,010,2.7,039km N 80° W of Kalamansig (Sultan Kudarat),039,N 80° W,Kalamansig (Sultan Kudarat)
@@ -458,5 +461,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-31T03:50:00.000Z,31 January 2026 - 03:50 AM,07.65,127.48,086,2.2,102km N 86° E of Baganga (Davao Oriental),102,N 86° E,Baganga (Davao Oriental)
 2026-01-31T03:49:00.000Z,31 January 2026 - 03:49 AM,05.42,125.91,016,2.3,048km S 84° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),048,S 84° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-01-31T03:47:00.000Z,31 January 2026 - 03:47 AM,17.41,121.32,028,1.7,016km S 50° E of Balbalan (Kalinga),016,S 50° E,Balbalan (Kalinga)
-2026-01-31T03:08:00.000Z,31 January 2026 - 03:08 AM,06.73,123.78,019,1.9,035km N 58° W of Kalamansig (Sultan Kudarat),035,N 58° W,Kalamansig (Sultan Kudarat)
-2026-01-31T03:03:00.000Z,31 January 2026 - 03:03 AM,16.12,121.77,007,2.2,020km S 84° W of Dinalungan (Aurora),020,S 84° W,Dinalungan (Aurora)

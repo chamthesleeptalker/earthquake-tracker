@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-07T02:35:00.000Z,07 February 2026 - 02:35 AM,06.41,123.75,015,2.5,037km S 64° W of Kalamansig (Sultan Kudarat),037,S 64° W,Kalamansig (Sultan Kudarat)
+2026-02-07T03:37:00.000Z,07 February 2026 - 03:37 AM,13.89,122.89,005,1.7,011km N 12° W of Lupi (Camarines Sur),011,N 12° W,Lupi (Camarines Sur)
+2026-02-07T03:03:00.000Z,07 February 2026 - 03:03 AM,14.10,121.23,001,2.0,009km S 08° E of Los Baños (Laguna),009,S 08° E,Los BaÃ±os (Laguna)
+2026-02-07T03:03:00.000Z,07 February 2026 - 03:03 AM,14.15,121.21,036,1.6,003km S 33° W of Los Baños (Laguna),003,S 33° W,Los BaÃ±os (Laguna)
