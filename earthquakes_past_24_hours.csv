@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-06T10:20:00.000Z,06 February 2026 - 10:20 AM,15.72,121.98,006,2.3,045km S 84° E of Baler (Aurora),045,S 84° E,Baler (Aurora)
+2026-02-06T10:14:00.000Z,06 February 2026 - 10:14 AM,09.33,125.60,007,1.7,009km S 84° E of Jabonga (Agusan Del Norte),009,S 84° E,Jabonga (Agusan Del Norte)
 2026-02-06T08:51:00.000Z,06 February 2026 - 08:51 AM,07.83,122.82,033,1.3,007km N 67° E of Kabasalan (Zamboanga Sibugay),007,N 67° E,Kabasalan (Zamboanga Sibugay)
 2026-02-06T08:25:00.000Z,06 February 2026 - 08:25 AM,07.45,126.81,010,2.5,030km N 64° E of Caraga (Davao Oriental),030,N 64° E,Caraga (Davao Oriental)
 2026-02-06T08:23:00.000Z,06 February 2026 - 08:23 AM,13.81,120.84,020,1.5,010km S 57° W of San Luis (Batangas),010,S 57° W,San Luis (Batangas)
@@ -35,4 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T12:01:00.000Z,05 February 2026 - 12:01 PM,06.67,124.29,013,1.6,025km N 82° E of Lebak (Sultan Kudarat),025,N 82° E,Lebak (Sultan Kudarat)
 2026-02-05T11:18:00.000Z,05 February 2026 - 11:18 AM,14.04,122.27,003,3.6,009km N 10° W of Calauag (Quezon),009,N 10° W,Calauag (Quezon)
 2026-02-05T11:00:00.000Z,05 February 2026 - 11:00 AM,09.58,126.01,030,2.0,007km S 52° E of Socorro (Surigao Del Norte),007,S 52° E,Socorro (Surigao Del Norte)
-2026-02-05T10:03:00.000Z,05 February 2026 - 10:03 AM,06.65,124.17,005,1.6,011km N 81° E of Lebak (Sultan Kudarat),011,N 81° E,Lebak (Sultan Kudarat)
