@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-07T17:25:00.000Z,07 February 2026 - 05:25 PM,12.27,124.98,024,2.4,009km S 35° W of Las Navas (Northern Samar),009,S 35° W,Las Navas (Northern Samar)
+2026-02-07T17:24:00.000Z,07 February 2026 - 05:24 PM,06.74,124.75,017,1.4,003km S 88° W of Pandag (Maguindanao Del Sur),003,S 88° W,Pandag (Maguindanao Del Sur)
+2026-02-07T17:15:00.000Z,07 February 2026 - 05:15 PM,15.73,121.80,014,1.9,026km S 84° E of Baler (Aurora),026,S 84° E,Baler (Aurora)
+2026-02-07T17:15:00.000Z,07 February 2026 - 05:15 PM,15.73,121.80,014,1.9,026km S 84° E of Baler (Aurora),026,S 84° E,Baler (Aurora)
+2026-02-07T16:50:00.000Z,07 February 2026 - 04:50 PM,06.68,124.01,013,2.0,015km N 18° W of Kalamansig (Sultan Kudarat),015,N 18° W,Kalamansig (Sultan Kudarat)
 2026-02-07T15:36:00.000Z,07 February 2026 - 03:36 PM,10.43,124.91,032,2.3,009km N 59° W of Sogod (Southern Leyte),009,N 59° W,Sogod (Southern Leyte)
 2026-02-07T14:33:00.000Z,07 February 2026 - 02:33 PM,11.30,125.56,003,2.4,006km N 22° E of General Macarthur (Eastern Samar),006,N 22° E,General Macarthur (Eastern Samar)
 2026-02-07T13:45:00.000Z,07 February 2026 - 01:45 PM,06.60,123.81,004,2.3,027km N 79° W of Kalamansig (Sultan Kudarat),027,N 79° W,Kalamansig (Sultan Kudarat)
@@ -35,7 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T19:20:00.000Z,06 February 2026 - 07:20 PM,17.99,120.53,020,2.8,004km N 05° E of Pinili (Ilocos Norte),004,N 05° E,Pinili (Ilocos Norte)
 2026-02-06T18:01:00.000Z,06 February 2026 - 06:01 PM,06.51,123.68,023,2.3,041km S 83° W of Kalamansig (Sultan Kudarat),041,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-06T18:00:00.000Z,06 February 2026 - 06:00 PM,06.25,126.41,047,2.6,058km S 40° E of Governor Generoso (Davao Oriental),058,S 40° E,Governor Generoso (Davao Oriental)
-2026-02-06T16:43:00.000Z,06 February 2026 - 04:43 PM,15.09,119.89,032,1.5,020km N 81° W of San Felipe (Zambales),020,N 81° W,San Felipe (Zambales)
-2026-02-06T16:34:00.000Z,06 February 2026 - 04:34 PM,06.59,123.99,003,2.6,008km N 63° W of Kalamansig (Sultan Kudarat),008,N 63° W,Kalamansig (Sultan Kudarat)
-2026-02-06T15:49:00.000Z,06 February 2026 - 03:49 PM,13.51,119.56,039,2.1,072km S 58° W of Lubang (Occidental Mindoro),072,S 58° W,Lubang (Occidental Mindoro)
-2026-02-06T15:44:00.000Z,06 February 2026 - 03:44 PM,09.08,126.18,026,2.2,001km N 73° E of City Of Tandag (Surigao Del Sur),001,N 73° E,City Of Tandag (Surigao Del Sur)
