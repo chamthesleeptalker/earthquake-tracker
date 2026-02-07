@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-07T18:10:00.000Z,07 February 2026 - 06:10 PM,20.51,121.46,033,2.3,047km N 65° W of Sabtang (Batanes),047,N 65° W,Sabtang (Batanes)
+2026-02-07T17:51:00.000Z,07 February 2026 - 05:51 PM,08.67,126.40,004,1.9,018km S 37° E of Marihatag (Surigao Del Sur),018,S 37° E,Marihatag (Surigao Del Sur)
+2026-02-07T17:38:00.000Z,07 February 2026 - 05:38 PM,16.76,120.68,009,1.7,006km S 63° W of Bakun (Benguet),006,S 63° W,Bakun (Benguet)
+2026-02-07T17:35:00.000Z,07 February 2026 - 05:35 PM,08.38,126.15,132,2.4,003km S 47° W of Tagbina (Surigao Del Sur),003,S 47° W,Tagbina (Surigao Del Sur)
 2026-02-07T17:25:00.000Z,07 February 2026 - 05:25 PM,12.27,124.98,024,2.4,009km S 35° W of Las Navas (Northern Samar),009,S 35° W,Las Navas (Northern Samar)
 2026-02-07T17:24:00.000Z,07 February 2026 - 05:24 PM,06.74,124.75,017,1.4,003km S 88° W of Pandag (Maguindanao Del Sur),003,S 88° W,Pandag (Maguindanao Del Sur)
 2026-02-07T17:15:00.000Z,07 February 2026 - 05:15 PM,15.73,121.80,014,1.9,026km S 84° E of Baler (Aurora),026,S 84° E,Baler (Aurora)
@@ -38,5 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T20:01:00.000Z,06 February 2026 - 08:01 PM,15.43,120.42,033,1.5,007km S 44° W of San Jose (Tarlac),007,S 44° W,San Jose (Tarlac)
 2026-02-06T19:50:00.000Z,06 February 2026 - 07:50 PM,14.23,123.46,006,1.5,032km N 45° E of Siruma (Camarines Sur),032,N 45° E,Siruma (Camarines Sur)
 2026-02-06T19:20:00.000Z,06 February 2026 - 07:20 PM,17.99,120.53,020,2.8,004km N 05° E of Pinili (Ilocos Norte),004,N 05° E,Pinili (Ilocos Norte)
-2026-02-06T18:01:00.000Z,06 February 2026 - 06:01 PM,06.51,123.68,023,2.3,041km S 83° W of Kalamansig (Sultan Kudarat),041,S 83° W,Kalamansig (Sultan Kudarat)
-2026-02-06T18:00:00.000Z,06 February 2026 - 06:00 PM,06.25,126.41,047,2.6,058km S 40° E of Governor Generoso (Davao Oriental),058,S 40° E,Governor Generoso (Davao Oriental)
