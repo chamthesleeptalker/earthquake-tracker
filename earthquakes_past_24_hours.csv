@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T02:50:00.000Z,08 February 2026 - 02:50 AM,15.52,121.44,014,1.9,013km N 58° E of Gabaldon (Nueva Ecija),013,N 58° E,Gabaldon (Nueva Ecija)
 2026-02-08T02:18:00.000Z,08 February 2026 - 02:18 AM,16.62,119.92,022,1.9,026km N 07° E of Bolinao (Pangasinan),026,N 07° E,Bolinao (Pangasinan)
 2026-02-08T02:08:00.000Z,08 February 2026 - 02:08 AM,07.29,127.26,027,3.2,080km N 84° E of Manay (Davao Oriental),080,N 84° E,Manay (Davao Oriental)
 2026-02-08T01:05:00.000Z,08 February 2026 - 01:05 AM,12.93,121.23,032,2.1,024km S 54° W of Socorro (Oriental Mindoro),024,S 54° W,Socorro (Oriental Mindoro)
@@ -49,4 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T03:37:00.000Z,07 February 2026 - 03:37 AM,13.89,122.89,005,1.7,011km N 12° W of Lupi (Camarines Sur),011,N 12° W,Lupi (Camarines Sur)
 2026-02-07T03:03:00.000Z,07 February 2026 - 03:03 AM,14.10,121.23,001,2.0,009km S 08° E of Los Baños (Laguna),009,S 08° E,Los BaÃ±os (Laguna)
 2026-02-07T03:03:00.000Z,07 February 2026 - 03:03 AM,14.15,121.21,036,1.6,003km S 33° W of Los Baños (Laguna),003,S 33° W,Los BaÃ±os (Laguna)
-2026-02-07T02:35:00.000Z,07 February 2026 - 02:35 AM,06.41,123.75,015,2.5,037km S 64° W of Kalamansig (Sultan Kudarat),037,S 64° W,Kalamansig (Sultan Kudarat)

@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T02:50:00.000Z,08 February 2026 - 02:50 AM,15.52,121.44,014,1.9,013km N 58° E of Gabaldon (Nueva Ecija),013,N 58° E,Gabaldon (Nueva Ecija)
 2026-02-08T02:18:00.000Z,08 February 2026 - 02:18 AM,16.62,119.92,022,1.9,026km N 07° E of Bolinao (Pangasinan),026,N 07° E,Bolinao (Pangasinan)
 2026-02-08T02:08:00.000Z,08 February 2026 - 02:08 AM,07.29,127.26,027,3.2,080km N 84° E of Manay (Davao Oriental),080,N 84° E,Manay (Davao Oriental)
 2026-02-08T01:05:00.000Z,08 February 2026 - 01:05 AM,12.93,121.23,032,2.1,024km S 54° W of Socorro (Oriental Mindoro),024,S 54° W,Socorro (Oriental Mindoro)
@@ -397,10 +398,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T03:17:00.000Z,01 February 2026 - 03:17 AM,06.46,123.72,023,2.1,038km S 75° W of Kalamansig (Sultan Kudarat),038,S 75° W,Kalamansig (Sultan Kudarat)
 2026-02-01T03:00:00.000Z,01 February 2026 - 03:00 AM,15.74,121.91,012,2.0,037km S 87° E of Baler (Aurora),037,S 87° E,Baler (Aurora)
 2026-02-01T02:50:00.000Z,01 February 2026 - 02:50 AM,12.84,122.95,010,1.9,032km S 06° W of San Pascual (Masbate),032,S 06° W,San Pascual (Masbate)
-2026-02-01T02:43:00.000Z,01 February 2026 - 02:43 AM,06.51,123.70,009,2.0,039km S 82° W of Kalamansig (Sultan Kudarat),039,S 82° W,Kalamansig (Sultan Kudarat)
-2026-02-01T02:40:00.000Z,01 February 2026 - 02:40 AM,14.45,122.34,015,1.9,021km N 52° W of Capalonga (Camarines Norte),021,N 52° W,Capalonga (Camarines Norte)
-2026-02-01T02:35:00.000Z,01 February 2026 - 02:35 AM,08.31,126.59,014,3.1,029km S 77° E of Hinatuan (Surigao Del Sur),029,S 77° E,Hinatuan (Surigao Del Sur)
-2026-02-01T02:34:00.000Z,01 February 2026 - 02:34 AM,06.75,123.81,570,3.9,034km N 52° W of Kalamansig (Sultan Kudarat),034,N 52° W,Kalamansig (Sultan Kudarat)
-2026-02-01T02:34:00.000Z,01 February 2026 - 02:34 AM,06.61,123.73,015,2.3,036km N 81° W of Kalamansig (Sultan Kudarat),036,N 81° W,Kalamansig (Sultan Kudarat)
-2026-02-01T02:24:00.000Z,01 February 2026 - 02:24 AM,05.89,125.68,124,2.2,004km S 62° E of Jose Abad Santos (Davao Occidental),004,S 62° E,Jose Abad Santos (Davao Occidental)
-2026-02-01T02:21:00.000Z,01 February 2026 - 02:21 AM,15.76,120.01,033,1.6,011km East of Santa Cruz (Zambales),011,East of Santa,(Zambales)
