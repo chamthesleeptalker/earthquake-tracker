@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-07T14:33:00.000Z,07 February 2026 - 02:33 PM,11.30,125.56,003,2.4,006km N 22° E of General Macarthur (Eastern Samar),006,N 22° E,General Macarthur (Eastern Samar)
 2026-02-07T13:45:00.000Z,07 February 2026 - 01:45 PM,06.60,123.81,004,2.3,027km N 79° W of Kalamansig (Sultan Kudarat),027,N 79° W,Kalamansig (Sultan Kudarat)
 2026-02-07T12:03:00.000Z,07 February 2026 - 12:03 PM,07.15,126.82,025,2.8,032km S 77° E of Manay (Davao Oriental),032,S 77° E,Manay (Davao Oriental)
 2026-02-07T11:15:00.000Z,07 February 2026 - 11:15 AM,13.04,120.83,012,2.6,013km S 70° E of Santa Cruz (Occidental Mindoro),013,S 70° E,Santa Cruz (Occidental Mindoro)
@@ -37,4 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T16:34:00.000Z,06 February 2026 - 04:34 PM,06.59,123.99,003,2.6,008km N 63° W of Kalamansig (Sultan Kudarat),008,N 63° W,Kalamansig (Sultan Kudarat)
 2026-02-06T15:49:00.000Z,06 February 2026 - 03:49 PM,13.51,119.56,039,2.1,072km S 58° W of Lubang (Occidental Mindoro),072,S 58° W,Lubang (Occidental Mindoro)
 2026-02-06T15:44:00.000Z,06 February 2026 - 03:44 PM,09.08,126.18,026,2.2,001km N 73° E of City Of Tandag (Surigao Del Sur),001,N 73° E,City Of Tandag (Surigao Del Sur)
-2026-02-06T14:00:00.000Z,06 February 2026 - 02:00 PM,16.19,121.79,034,1.8,019km N 74° W of Dinalungan (Aurora),019,N 74° W,Dinalungan (Aurora)
