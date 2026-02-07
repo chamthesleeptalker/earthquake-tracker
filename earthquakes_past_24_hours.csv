@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-07T20:26:00.000Z,07 February 2026 - 08:26 PM,15.82,121.55,016,1.8,004km S 22° E of Dipaculao (Aurora),004,S 22° E,Dipaculao (Aurora)
+2026-02-07T19:46:00.000Z,07 February 2026 - 07:46 PM,15.70,121.98,012,1.8,046km S 82° E of Baler (Aurora),046,S 82° E,Baler (Aurora)
 2026-02-07T19:13:00.000Z,07 February 2026 - 07:13 PM,06.70,126.03,034,1.6,007km N 44° W of Governor Generoso (Davao Oriental),007,N 44° W,Governor Generoso (Davao Oriental)
 2026-02-07T19:08:00.000Z,07 February 2026 - 07:08 PM,08.92,126.18,016,1.6,013km N 88° W of Cagwait (Surigao Del Sur),013,N 88° W,Cagwait (Surigao Del Sur)
 2026-02-07T18:32:00.000Z,07 February 2026 - 06:32 PM,16.87,122.48,005,3.7,022km S 15° E of Palanan (Isabela),022,S 15° E,Palanan (Isabela)
@@ -43,6 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T21:38:00.000Z,06 February 2026 - 09:38 PM,18.10,120.21,012,3.6,030km N 73° W of Currimao (Ilocos Norte),030,N 73° W,Currimao (Ilocos Norte)
 2026-02-06T20:48:00.000Z,06 February 2026 - 08:48 PM,04.13,125.77,169,3.7,148km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-06T20:33:00.000Z,06 February 2026 - 08:33 PM,13.56,120.03,025,2.5,029km S 54° W of Looc (Occidental Mindoro),029,S 54° W,Looc (Occidental Mindoro)
-2026-02-06T20:01:00.000Z,06 February 2026 - 08:01 PM,15.43,120.42,033,1.5,007km S 44° W of San Jose (Tarlac),007,S 44° W,San Jose (Tarlac)
-2026-02-06T19:50:00.000Z,06 February 2026 - 07:50 PM,14.23,123.46,006,1.5,032km N 45° E of Siruma (Camarines Sur),032,N 45° E,Siruma (Camarines Sur)
-2026-02-06T19:20:00.000Z,06 February 2026 - 07:20 PM,17.99,120.53,020,2.8,004km N 05° E of Pinili (Ilocos Norte),004,N 05° E,Pinili (Ilocos Norte)
