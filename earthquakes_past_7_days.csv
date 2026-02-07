@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-07T21:36:00.000Z,07 February 2026 - 09:36 PM,07.72,122.01,017,3.0,014km N 83° W of Siocon (Zamboanga Del Norte),014,N 83° W,Siocon (Zamboanga Del Norte)
 2026-02-07T21:06:00.000Z,07 February 2026 - 09:06 PM,06.48,123.85,002,2.1,023km S 69° W of Kalamansig (Sultan Kudarat),023,S 69° W,Kalamansig (Sultan Kudarat)
 2026-02-07T20:51:00.000Z,07 February 2026 - 08:51 PM,13.10,120.73,025,1.6,002km N 20° E of Santa Cruz (Occidental Mindoro),002,N 20° E,Santa Cruz (Occidental Mindoro)
 2026-02-07T20:48:00.000Z,07 February 2026 - 08:48 PM,13.74,120.50,072,1.9,018km S 55° W of Calatagan (Batangas),018,S 55° W,Calatagan (Batangas)
@@ -411,6 +412,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-01-31T22:42:00.000Z,31 January 2026 - 10:42 PM,06.46,123.71,018,1.9,039km S 74° W of Kalamansig (Sultan Kudarat),039,S 74° W,Kalamansig (Sultan Kudarat)
 2026-01-31T22:39:00.000Z,31 January 2026 - 10:39 PM,07.49,126.52,125,2.4,010km S 24° W of Baganga (Davao Oriental),010,S 24° W,Baganga (Davao Oriental)
 2026-01-31T21:40:00.000Z,31 January 2026 - 09:40 PM,06.50,123.84,004,2.7,024km S 74° W of Kalamansig (Sultan Kudarat),024,S 74° W,Kalamansig (Sultan Kudarat)
-2026-01-31T21:32:00.000Z,31 January 2026 - 09:32 PM,06.75,123.87,003,1.8,029km N 42° W of Kalamansig (Sultan Kudarat),029,N 42° W,Kalamansig (Sultan Kudarat)
-2026-01-31T21:23:00.000Z,31 January 2026 - 09:23 PM,20.61,121.18,028,3.0,072km S 74° W of Itbayat (Batanes),072,S 74° W,Itbayat (Batanes)
-2026-01-31T21:14:00.000Z,31 January 2026 - 09:14 PM,05.13,124.05,602,3.7,115km S 33° W of Kiamba (Sarangani),115,S 33° W,Kiamba (Sarangani)
