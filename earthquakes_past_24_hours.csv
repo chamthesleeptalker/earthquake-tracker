@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T04:31:00.000Z,08 February 2026 - 04:31 AM,13.70,123.77,013,1.5,003km S 61° E of Presentacion (Camarines Sur),003,S 61° E,Presentacion (Camarines Sur)
 2026-02-08T03:41:00.000Z,08 February 2026 - 03:41 AM,10.92,123.98,001,2.4,014km South of City Of Bogo (Cebu),014,South of City,Bogo (Cebu)
 2026-02-08T02:50:00.000Z,08 February 2026 - 02:50 AM,15.52,121.44,014,1.9,013km N 58° E of Gabaldon (Nueva Ecija),013,N 58° E,Gabaldon (Nueva Ecija)
 2026-02-08T02:18:00.000Z,08 February 2026 - 02:18 AM,16.62,119.92,022,1.9,026km N 07° E of Bolinao (Pangasinan),026,N 07° E,Bolinao (Pangasinan)
@@ -42,9 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T08:58:00.000Z,07 February 2026 - 08:58 AM,07.08,126.83,031,2.4,035km S 66° E of Manay (Davao Oriental),035,S 66° E,Manay (Davao Oriental)
 2026-02-07T08:23:00.000Z,07 February 2026 - 08:23 AM,08.58,126.06,001,2.4,007km S 38° W of Lianga (Surigao Del Sur),007,S 38° W,Lianga (Surigao Del Sur)
 2026-02-07T04:46:00.000Z,07 February 2026 - 04:46 AM,10.47,126.25,016,1.8,053km N 21° E of Burgos (Surigao Del Norte),053,N 21° E,Burgos (Surigao Del Norte)
-2026-02-07T04:14:00.000Z,07 February 2026 - 04:14 AM,12.95,125.09,028,3.3,043km N 11° E of Laoang (Northern Samar),043,N 11° E,Laoang (Northern Samar)
-2026-02-07T04:11:00.000Z,07 February 2026 - 04:11 AM,13.23,123.25,005,2.2,010km S 04° E of Balatan (Camarines Sur),010,S 04° E,Balatan (Camarines Sur)
-2026-02-07T04:10:00.000Z,07 February 2026 - 04:10 AM,12.34,125.21,011,2.6,007km N 25° W of Jipapad (Eastern Samar),007,N 25° W,Jipapad (Eastern Samar)
-2026-02-07T04:03:00.000Z,07 February 2026 - 04:03 AM,12.83,120.94,006,1.8,017km S 84° E of Sablayan (Occidental Mindoro),017,S 84° E,Sablayan (Occidental Mindoro)
-2026-02-07T04:00:00.000Z,07 February 2026 - 04:00 AM,12.89,125.02,013,3.6,035km N 02° E of Laoang (Northern Samar),035,N 02° E,Laoang (Northern Samar)
-2026-02-07T03:59:00.000Z,07 February 2026 - 03:59 AM,12.82,120.93,009,2.2,017km S 81° E of Sablayan (Occidental Mindoro),017,S 81° E,Sablayan (Occidental Mindoro)

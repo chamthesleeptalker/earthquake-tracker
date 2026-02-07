@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T04:31:00.000Z,08 February 2026 - 04:31 AM,13.70,123.77,013,1.5,003km S 61° E of Presentacion (Camarines Sur),003,S 61° E,Presentacion (Camarines Sur)
 2026-02-08T03:41:00.000Z,08 February 2026 - 03:41 AM,10.92,123.98,001,2.4,014km South of City Of Bogo (Cebu),014,South of City,Bogo (Cebu)
 2026-02-08T02:50:00.000Z,08 February 2026 - 02:50 AM,15.52,121.44,014,1.9,013km N 58° E of Gabaldon (Nueva Ecija),013,N 58° E,Gabaldon (Nueva Ecija)
 2026-02-08T02:18:00.000Z,08 February 2026 - 02:18 AM,16.62,119.92,022,1.9,026km N 07° E of Bolinao (Pangasinan),026,N 07° E,Bolinao (Pangasinan)
