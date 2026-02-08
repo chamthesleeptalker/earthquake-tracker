@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T18:13:00.000Z,08 February 2026 - 06:13 PM,06.56,123.70,019,2.4,039km N 89° W of Kalamansig (Sultan Kudarat),039,N 89° W,Kalamansig (Sultan Kudarat)
+2026-02-08T18:00:00.000Z,08 February 2026 - 06:00 PM,08.90,125.71,008,2.0,009km N 11° E of Sibagat (Agusan Del Sur),009,N 11° E,Sibagat (Agusan Del Sur)
 2026-02-08T17:40:00.000Z,08 February 2026 - 05:40 PM,11.09,124.09,013,2.3,013km N 70° E of City Of Bogo (Cebu),013,N 70° E,City Of Bogo (Cebu)
 2026-02-08T17:36:00.000Z,08 February 2026 - 05:36 PM,06.28,123.66,032,1.6,053km S 54° W of Kalamansig (Sultan Kudarat),053,S 54° W,Kalamansig (Sultan Kudarat)
 2026-02-08T17:36:00.000Z,08 February 2026 - 05:36 PM,07.18,126.68,019,1.7,016km S 80° E of Manay (Davao Oriental),016,S 80° E,Manay (Davao Oriental)
@@ -358,4 +360,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T19:41:00.000Z,01 February 2026 - 07:41 PM,06.35,123.73,017,2.4,042km S 60° W of Kalamansig (Sultan Kudarat),042,S 60° W,Kalamansig (Sultan Kudarat)
 2026-02-01T19:39:00.000Z,01 February 2026 - 07:39 PM,13.65,120.59,093,2.2,020km S 12° W of Calatagan (Batangas),020,S 12° W,Calatagan (Batangas)
 2026-02-01T19:17:00.000Z,01 February 2026 - 07:17 PM,06.05,125.13,025,2.3,019km S 73° W of Alabel (Sarangani),019,S 73° W,Alabel (Sarangani)
-2026-02-01T17:49:00.000Z,01 February 2026 - 05:49 PM,10.88,123.95,005,2.1,018km S 11° W of City Of Bogo (Cebu),018,S 11° W,City Of Bogo (Cebu)
