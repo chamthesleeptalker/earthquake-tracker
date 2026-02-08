@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T22:18:00.000Z,08 February 2026 - 10:18 PM,10.32,124.96,015,2.2,003km N 62° W of Tomas Oppus (Southern Leyte),003,N 62° W,Tomas Oppus (Southern Leyte)
 2026-02-08T21:33:00.000Z,08 February 2026 - 09:33 PM,08.46,127.43,006,3.0,121km N 85° E of Hinatuan (Surigao Del Sur),121,N 85° E,Hinatuan (Surigao Del Sur)
 2026-02-08T20:44:00.000Z,08 February 2026 - 08:44 PM,06.17,123.57,035,1.7,068km S 51° W of Kalamansig (Sultan Kudarat),068,S 51° W,Kalamansig (Sultan Kudarat)
 2026-02-08T20:15:00.000Z,08 February 2026 - 08:15 PM,08.51,127.26,015,3.0,103km N 81° E of Hinatuan (Surigao Del Sur),103,N 81° E,Hinatuan (Surigao Del Sur)
@@ -52,4 +53,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T23:11:00.000Z,07 February 2026 - 11:11 PM,06.46,123.97,003,2.0,014km S 38° W of Kalamansig (Sultan Kudarat),014,S 38° W,Kalamansig (Sultan Kudarat)
 2026-02-07T23:09:00.000Z,07 February 2026 - 11:09 PM,06.39,126.05,121,2.5,029km S 06° W of Governor Generoso (Davao Oriental),029,S 06° W,Governor Generoso (Davao Oriental)
 2026-02-07T22:25:00.000Z,07 February 2026 - 10:25 PM,12.73,124.93,024,3.3,019km N 02° E of Pambujan (Northern Samar),019,N 02° E,Pambujan (Northern Samar)
-2026-02-07T21:36:00.000Z,07 February 2026 - 09:36 PM,07.72,122.01,017,3.0,014km N 83° W of Siocon (Zamboanga Del Norte),014,N 83° W,Siocon (Zamboanga Del Norte)
