@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-09T00:09:00.000Z,09 February 2026 - 12:09 AM,06.89,124.24,021,1.6,010km S 69° W of Datu Anggal Midtimbang (Maguindanao Del Sur),010,S 69° W,Datu Anggal Midtimbang (Maguindanao Del Sur)
+2026-02-08T23:49:00.000Z,08 February 2026 - 11:49 PM,06.57,123.81,005,2.2,027km N 87° W of Kalamansig (Sultan Kudarat),027,N 87° W,Kalamansig (Sultan Kudarat)
+2026-02-08T23:47:00.000Z,08 February 2026 - 11:47 PM,06.57,123.83,003,2.0,025km N 87° W of Kalamansig (Sultan Kudarat),025,N 87° W,Kalamansig (Sultan Kudarat)
 2026-02-08T23:15:00.000Z,08 February 2026 - 11:15 PM,10.43,124.97,009,2.3,005km N 07° W of Sogod (Southern Leyte),005,N 07° W,Sogod (Southern Leyte)
 2026-02-08T23:07:00.000Z,08 February 2026 - 11:07 PM,17.42,120.85,033,1.4,002km S 10° W of Bucloc (Abra),002,S 10° W,Bucloc (Abra)
 2026-02-08T23:02:00.000Z,08 February 2026 - 11:02 PM,19.75,121.64,050,2.0,039km N 47° W of Babuyan Island (Calayan) (Cagayan),039,N 47° W,Babuyan Island (Calayan) (Cagayan)
@@ -49,7 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-08T02:08:00.000Z,08 February 2026 - 02:08 AM,07.29,127.26,027,3.2,080km N 84° E of Manay (Davao Oriental),080,N 84° E,Manay (Davao Oriental)
 2026-02-08T01:05:00.000Z,08 February 2026 - 01:05 AM,12.93,121.23,032,2.1,024km S 54° W of Socorro (Oriental Mindoro),024,S 54° W,Socorro (Oriental Mindoro)
 2026-02-08T00:54:00.000Z,08 February 2026 - 12:54 AM,11.42,120.82,027,1.6,032km N 24° W of Agutaya (Palawan),032,N 24° W,Agutaya (Palawan)
-2026-02-07T23:52:00.000Z,07 February 2026 - 11:52 PM,16.15,120.42,019,1.5,004km N 29° E of San Fabian (Pangasinan),004,N 29° E,San Fabian (Pangasinan)
-2026-02-07T23:45:00.000Z,07 February 2026 - 11:45 PM,17.56,120.76,033,1.5,005km N 61° E of Bucay (Abra),005,N 61° E,Bucay (Abra)
-2026-02-07T23:28:00.000Z,07 February 2026 - 11:28 PM,12.91,123.16,009,2.2,010km N 82° W of Claveria (Masbate),010,N 82° W,Claveria (Masbate)
-2026-02-07T23:23:00.000Z,07 February 2026 - 11:23 PM,06.65,123.74,007,2.3,037km N 73° W of Kalamansig (Sultan Kudarat),037,N 73° W,Kalamansig (Sultan Kudarat)
