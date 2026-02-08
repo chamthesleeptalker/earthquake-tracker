@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-09T03:55:00.000Z,09 February 2026 - 03:55 AM,06.46,123.60,013,2.7,051km S 78° W of Kalamansig (Sultan Kudarat),051,S 78° W,Kalamansig (Sultan Kudarat)
 2026-02-09T03:25:00.000Z,09 February 2026 - 03:25 AM,08.83,126.82,008,2.4,057km S 80° E of Cagwait (Surigao Del Sur),057,S 80° E,Cagwait (Surigao Del Sur)
 2026-02-09T03:18:00.000Z,09 February 2026 - 03:18 AM,04.51,127.85,026,4.4,285km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),285,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-09T03:07:00.000Z,09 February 2026 - 03:07 AM,07.77,122.22,008,2.3,010km S 62° E of Baliguian (Zamboanga Del Norte),010,S 62° E,Baliguian (Zamboanga Del Norte)
@@ -57,4 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-08T05:11:00.000Z,08 February 2026 - 05:11 AM,15.36,120.43,121,1.7,013km S 13° W of San Jose (Tarlac),013,S 13° W,San Jose (Tarlac)
 2026-02-08T04:49:00.000Z,08 February 2026 - 04:49 AM,09.92,125.96,009,2.0,006km N 08° W of Del Carmen (Surigao Del Norte),006,N 08° W,Del Carmen (Surigao Del Norte)
 2026-02-08T04:31:00.000Z,08 February 2026 - 04:31 AM,13.70,123.77,013,1.5,003km S 61° E of Presentacion (Camarines Sur),003,S 61° E,Presentacion (Camarines Sur)
-2026-02-08T03:41:00.000Z,08 February 2026 - 03:41 AM,10.92,123.98,001,2.4,014km South of City Of Bogo (Cebu),014,South of City,Bogo (Cebu)
