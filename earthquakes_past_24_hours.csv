@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T23:07:00.000Z,08 February 2026 - 11:07 PM,17.42,120.85,033,1.4,002km S 10° W of Bucloc (Abra),002,S 10° W,Bucloc (Abra)
+2026-02-08T23:02:00.000Z,08 February 2026 - 11:02 PM,19.75,121.64,050,2.0,039km N 47° W of Babuyan Island (Calayan) (Cagayan),039,N 47° W,Babuyan Island (Calayan) (Cagayan)
 2026-02-08T22:18:00.000Z,08 February 2026 - 10:18 PM,10.32,124.96,015,2.2,003km N 62° W of Tomas Oppus (Southern Leyte),003,N 62° W,Tomas Oppus (Southern Leyte)
 2026-02-08T21:33:00.000Z,08 February 2026 - 09:33 PM,08.46,127.43,006,3.0,121km N 85° E of Hinatuan (Surigao Del Sur),121,N 85° E,Hinatuan (Surigao Del Sur)
 2026-02-08T20:44:00.000Z,08 February 2026 - 08:44 PM,06.17,123.57,035,1.7,068km S 51° W of Kalamansig (Sultan Kudarat),068,S 51° W,Kalamansig (Sultan Kudarat)
@@ -52,4 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T23:23:00.000Z,07 February 2026 - 11:23 PM,06.65,123.74,007,2.3,037km N 73° W of Kalamansig (Sultan Kudarat),037,N 73° W,Kalamansig (Sultan Kudarat)
 2026-02-07T23:11:00.000Z,07 February 2026 - 11:11 PM,06.46,123.97,003,2.0,014km S 38° W of Kalamansig (Sultan Kudarat),014,S 38° W,Kalamansig (Sultan Kudarat)
 2026-02-07T23:09:00.000Z,07 February 2026 - 11:09 PM,06.39,126.05,121,2.5,029km S 06° W of Governor Generoso (Davao Oriental),029,S 06° W,Governor Generoso (Davao Oriental)
-2026-02-07T22:25:00.000Z,07 February 2026 - 10:25 PM,12.73,124.93,024,3.3,019km N 02° E of Pambujan (Northern Samar),019,N 02° E,Pambujan (Northern Samar)
