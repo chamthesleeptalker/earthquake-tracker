@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T15:56:00.000Z,08 February 2026 - 03:56 PM,04.98,127.79,041,3.4,259km S 66° E of Jose Abad Santos (Davao Occidental),259,S 66° E,Jose Abad Santos (Davao Occidental)
 2026-02-08T15:01:00.000Z,08 February 2026 - 03:01 PM,06.26,123.61,017,2.8,059km S 55° W of Kalamansig (Sultan Kudarat),059,S 55° W,Kalamansig (Sultan Kudarat)
 2026-02-08T14:05:00.000Z,08 February 2026 - 02:05 PM,12.96,123.13,010,1.7,014km N 63° W of Claveria (Masbate),014,N 63° W,Claveria (Masbate)
 2026-02-08T13:58:00.000Z,08 February 2026 - 01:58 PM,06.74,126.46,002,3.6,034km S 03° E of Tarragona (Davao Oriental),034,S 03° E,Tarragona (Davao Oriental)
@@ -51,4 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T17:15:00.000Z,07 February 2026 - 05:15 PM,15.73,121.80,014,1.9,026km S 84° E of Baler (Aurora),026,S 84° E,Baler (Aurora)
 2026-02-07T17:15:00.000Z,07 February 2026 - 05:15 PM,15.73,121.80,014,1.9,026km S 84° E of Baler (Aurora),026,S 84° E,Baler (Aurora)
 2026-02-07T16:50:00.000Z,07 February 2026 - 04:50 PM,06.68,124.01,013,2.0,015km N 18° W of Kalamansig (Sultan Kudarat),015,N 18° W,Kalamansig (Sultan Kudarat)
-2026-02-07T15:36:00.000Z,07 February 2026 - 03:36 PM,10.43,124.91,032,2.3,009km N 59° W of Sogod (Southern Leyte),009,N 59° W,Sogod (Southern Leyte)

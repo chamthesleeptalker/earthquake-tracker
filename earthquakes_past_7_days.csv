@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T15:56:00.000Z,08 February 2026 - 03:56 PM,04.98,127.79,041,3.4,259km S 66° E of Jose Abad Santos (Davao Occidental),259,S 66° E,Jose Abad Santos (Davao Occidental)
 2026-02-08T15:01:00.000Z,08 February 2026 - 03:01 PM,06.26,123.61,017,2.8,059km S 55° W of Kalamansig (Sultan Kudarat),059,S 55° W,Kalamansig (Sultan Kudarat)
 2026-02-08T14:05:00.000Z,08 February 2026 - 02:05 PM,12.96,123.13,010,1.7,014km N 63° W of Claveria (Masbate),014,N 63° W,Claveria (Masbate)
 2026-02-08T13:58:00.000Z,08 February 2026 - 01:58 PM,06.74,126.46,002,3.6,034km S 03° E of Tarragona (Davao Oriental),034,S 03° E,Tarragona (Davao Oriental)
@@ -356,9 +357,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T16:59:00.000Z,01 February 2026 - 04:59 PM,06.45,123.75,010,2.4,035km S 71° W of Kalamansig (Sultan Kudarat),035,S 71° W,Kalamansig (Sultan Kudarat)
 2026-02-01T16:57:00.000Z,01 February 2026 - 04:57 PM,07.81,126.43,015,1.5,004km N 49° W of Cateel (Davao Oriental),004,N 49° W,Cateel (Davao Oriental)
 2026-02-01T16:42:00.000Z,01 February 2026 - 04:42 PM,10.26,126.22,010,4.0,031km N 31° E of Burgos (Surigao Del Norte),031,N 31° E,Burgos (Surigao Del Norte)
-2026-02-01T15:41:00.000Z,01 February 2026 - 03:41 PM,06.55,123.71,055,2.2,037km S 89° W of Kalamansig (Sultan Kudarat),037,S 89° W,Kalamansig (Sultan Kudarat)
-2026-02-01T15:18:00.000Z,01 February 2026 - 03:18 PM,06.28,123.65,018,2.2,054km S 55° W of Kalamansig (Sultan Kudarat),054,S 55° W,Kalamansig (Sultan Kudarat)
-2026-02-01T15:15:00.000Z,01 February 2026 - 03:15 PM,10.78,123.89,016,2.5,005km S 24° E of Tabuelan (Cebu),005,S 24° E,Tabuelan (Cebu)
-2026-02-01T15:15:00.000Z,01 February 2026 - 03:15 PM,09.66,126.28,034,1.3,019km S 46° E of General Luna (Surigao Del Norte),019,S 46° E,General Luna (Surigao Del Norte)
-2026-02-01T15:12:00.000Z,01 February 2026 - 03:12 PM,06.67,124.25,007,1.8,025km N 60° E of Kalamansig (Sultan Kudarat),025,N 60° E,Kalamansig (Sultan Kudarat)
-2026-02-01T15:02:00.000Z,01 February 2026 - 03:02 PM,15.76,120.67,011,1.7,002km S 31° E of Cuyapo (Nueva Ecija),002,S 31° E,Cuyapo (Nueva Ecija)
