@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T10:38:00.000Z,08 February 2026 - 10:38 AM,05.95,127.50,153,1.9,168km S 44° E of Tarragona (Davao Oriental),168,S 44° E,Tarragona (Davao Oriental)
+2026-02-08T09:26:00.000Z,08 February 2026 - 09:26 AM,11.02,124.03,027,2.2,007km S 62° E of City Of Bogo (Cebu),007,S 62° E,City Of Bogo (Cebu)
+2026-02-08T08:05:00.000Z,08 February 2026 - 08:05 AM,09.56,126.24,021,1.9,026km S 21° E of General Luna (Surigao Del Norte),026,S 21° E,General Luna (Surigao Del Norte)
 2026-02-08T06:39:00.000Z,08 February 2026 - 06:39 AM,07.39,126.68,020,3.0,015km N 61° E of Caraga (Davao Oriental),015,N 61° E,Caraga (Davao Oriental)
 2026-02-08T06:32:00.000Z,08 February 2026 - 06:32 AM,04.57,127.59,098,3.2,255km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),255,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-08T05:57:00.000Z,08 February 2026 - 05:57 AM,17.64,120.70,041,2.2,002km S 64° W of Dolores (Abra),002,S 64° W,Dolores (Abra)
@@ -45,7 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T12:03:00.000Z,07 February 2026 - 12:03 PM,07.15,126.82,025,2.8,032km S 77° E of Manay (Davao Oriental),032,S 77° E,Manay (Davao Oriental)
 2026-02-07T11:15:00.000Z,07 February 2026 - 11:15 AM,13.04,120.83,012,2.6,013km S 70° E of Santa Cruz (Occidental Mindoro),013,S 70° E,Santa Cruz (Occidental Mindoro)
 2026-02-07T11:10:00.000Z,07 February 2026 - 11:10 AM,13.03,120.83,016,2.0,014km S 64° E of Santa Cruz (Occidental Mindoro),014,S 64° E,Santa Cruz (Occidental Mindoro)
-2026-02-07T10:26:00.000Z,07 February 2026 - 10:26 AM,18.03,120.94,033,1.9,026km N 89° W of Kabugao (Apayao),026,N 89° W,Kabugao (Apayao)
-2026-02-07T09:09:00.000Z,07 February 2026 - 09:09 AM,16.12,122.77,024,2.4,067km S 63° E of Dilasag (Aurora),067,S 63° E,Dilasag (Aurora)
-2026-02-07T08:58:00.000Z,07 February 2026 - 08:58 AM,07.08,126.83,031,2.4,035km S 66° E of Manay (Davao Oriental),035,S 66° E,Manay (Davao Oriental)
-2026-02-07T08:23:00.000Z,07 February 2026 - 08:23 AM,08.58,126.06,001,2.4,007km S 38° W of Lianga (Surigao Del Sur),007,S 38° W,Lianga (Surigao Del Sur)
