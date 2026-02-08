@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T20:15:00.000Z,08 February 2026 - 08:15 PM,08.51,127.26,015,3.0,103km N 81° E of Hinatuan (Surigao Del Sur),103,N 81° E,Hinatuan (Surigao Del Sur)
+2026-02-08T19:40:00.000Z,08 February 2026 - 07:40 PM,14.06,124.28,002,2.2,013km N 02° W of Bagamanoc (Catanduanes),013,N 02° W,Bagamanoc (Catanduanes)
+2026-02-08T19:38:00.000Z,08 February 2026 - 07:38 PM,14.18,124.48,004,3.3,033km N 38° E of Bagamanoc (Catanduanes),033,N 38° E,Bagamanoc (Catanduanes)
 2026-02-08T19:26:00.000Z,08 February 2026 - 07:26 PM,06.20,124.12,016,2.2,040km S 12° E of Kalamansig (Sultan Kudarat),040,S 12° E,Kalamansig (Sultan Kudarat)
 2026-02-08T19:24:00.000Z,08 February 2026 - 07:24 PM,06.49,123.48,032,2.2,064km S 83° W of Kalamansig (Sultan Kudarat),064,S 83° W,Kalamansig (Sultan Kudarat)
 2026-02-08T19:16:00.000Z,08 February 2026 - 07:16 PM,06.54,123.83,007,2.4,024km S 87° W of Kalamansig (Sultan Kudarat),024,S 87° W,Kalamansig (Sultan Kudarat)
@@ -359,8 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-01T20:45:00.000Z,01 February 2026 - 08:45 PM,08.89,126.43,019,1.4,015km S 76° E of Cagwait (Surigao Del Sur),015,S 76° E,Cagwait (Surigao Del Sur)
 2026-02-01T20:41:00.000Z,01 February 2026 - 08:41 PM,06.51,126.23,051,1.8,023km S 48° E of Governor Generoso (Davao Oriental),023,S 48° E,Governor Generoso (Davao Oriental)
 2026-02-01T20:30:00.000Z,01 February 2026 - 08:30 PM,09.83,126.17,071,1.9,006km N 19° E of General Luna (Surigao Del Norte),006,N 19° E,General Luna (Surigao Del Norte)
-2026-02-01T19:56:00.000Z,01 February 2026 - 07:56 PM,06.54,123.78,008,2.7,030km S 88° W of Kalamansig (Sultan Kudarat),030,S 88° W,Kalamansig (Sultan Kudarat)
-2026-02-01T19:47:00.000Z,01 February 2026 - 07:47 PM,06.61,123.89,011,2.5,018km N 72° W of Kalamansig (Sultan Kudarat),018,N 72° W,Kalamansig (Sultan Kudarat)
-2026-02-01T19:42:00.000Z,01 February 2026 - 07:42 PM,12.94,123.08,008,2.1,019km N 77° W of Claveria (Masbate),019,N 77° W,Claveria (Masbate)
-2026-02-01T19:41:00.000Z,01 February 2026 - 07:41 PM,06.35,123.73,017,2.4,042km S 60° W of Kalamansig (Sultan Kudarat),042,S 60° W,Kalamansig (Sultan Kudarat)
-2026-02-01T19:39:00.000Z,01 February 2026 - 07:39 PM,13.65,120.59,093,2.2,020km S 12° W of Calatagan (Batangas),020,S 12° W,Calatagan (Batangas)
