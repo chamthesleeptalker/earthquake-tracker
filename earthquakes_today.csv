@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T17:40:00.000Z,08 February 2026 - 05:40 PM,11.09,124.09,013,2.3,013km N 70° E of City Of Bogo (Cebu),013,N 70° E,City Of Bogo (Cebu)
+2026-02-08T17:36:00.000Z,08 February 2026 - 05:36 PM,06.28,123.66,032,1.6,053km S 54° W of Kalamansig (Sultan Kudarat),053,S 54° W,Kalamansig (Sultan Kudarat)
+2026-02-08T17:36:00.000Z,08 February 2026 - 05:36 PM,07.18,126.68,019,1.7,016km S 80° E of Manay (Davao Oriental),016,S 80° E,Manay (Davao Oriental)
+2026-02-08T17:18:00.000Z,08 February 2026 - 05:18 PM,18.57,121.77,016,1.7,028km N 31° E of Aparri (Cagayan),028,N 31° E,Aparri (Cagayan)
 2026-02-08T17:09:00.000Z,08 February 2026 - 05:09 PM,14.15,121.11,033,1.8,006km N 41° W of City Of Santo Tomas (Batangas),006,N 41° W,City Of Santo Tomas (Batangas)
 2026-02-08T16:37:00.000Z,08 February 2026 - 04:37 PM,09.92,126.17,033,2.4,010km N 54° E of Pilar (Surigao Del Norte),010,N 54° E,Pilar (Surigao Del Norte)
 2026-02-08T16:35:00.000Z,08 February 2026 - 04:35 PM,06.24,123.52,004,2.4,068km S 59° W of Kalamansig (Sultan Kudarat),068,S 59° W,Kalamansig (Sultan Kudarat)

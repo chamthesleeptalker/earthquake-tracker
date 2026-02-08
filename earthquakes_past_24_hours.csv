@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-08T17:40:00.000Z,08 February 2026 - 05:40 PM,11.09,124.09,013,2.3,013km N 70° E of City Of Bogo (Cebu),013,N 70° E,City Of Bogo (Cebu)
+2026-02-08T17:36:00.000Z,08 February 2026 - 05:36 PM,06.28,123.66,032,1.6,053km S 54° W of Kalamansig (Sultan Kudarat),053,S 54° W,Kalamansig (Sultan Kudarat)
+2026-02-08T17:36:00.000Z,08 February 2026 - 05:36 PM,07.18,126.68,019,1.7,016km S 80° E of Manay (Davao Oriental),016,S 80° E,Manay (Davao Oriental)
+2026-02-08T17:18:00.000Z,08 February 2026 - 05:18 PM,18.57,121.77,016,1.7,028km N 31° E of Aparri (Cagayan),028,N 31° E,Aparri (Cagayan)
 2026-02-08T17:09:00.000Z,08 February 2026 - 05:09 PM,14.15,121.11,033,1.8,006km N 41° W of City Of Santo Tomas (Batangas),006,N 41° W,City Of Santo Tomas (Batangas)
 2026-02-08T16:37:00.000Z,08 February 2026 - 04:37 PM,09.92,126.17,033,2.4,010km N 54° E of Pilar (Surigao Del Norte),010,N 54° E,Pilar (Surigao Del Norte)
 2026-02-08T16:35:00.000Z,08 February 2026 - 04:35 PM,06.24,123.52,004,2.4,068km S 59° W of Kalamansig (Sultan Kudarat),068,S 59° W,Kalamansig (Sultan Kudarat)
@@ -48,9 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T18:32:00.000Z,07 February 2026 - 06:32 PM,16.87,122.48,005,3.7,022km S 15° E of Palanan (Isabela),022,S 15° E,Palanan (Isabela)
 2026-02-07T18:10:00.000Z,07 February 2026 - 06:10 PM,20.51,121.46,033,2.3,047km N 65° W of Sabtang (Batanes),047,N 65° W,Sabtang (Batanes)
 2026-02-07T17:51:00.000Z,07 February 2026 - 05:51 PM,08.67,126.40,004,1.9,018km S 37° E of Marihatag (Surigao Del Sur),018,S 37° E,Marihatag (Surigao Del Sur)
-2026-02-07T17:38:00.000Z,07 February 2026 - 05:38 PM,16.76,120.68,009,1.7,006km S 63° W of Bakun (Benguet),006,S 63° W,Bakun (Benguet)
-2026-02-07T17:35:00.000Z,07 February 2026 - 05:35 PM,08.38,126.15,132,2.4,003km S 47° W of Tagbina (Surigao Del Sur),003,S 47° W,Tagbina (Surigao Del Sur)
-2026-02-07T17:25:00.000Z,07 February 2026 - 05:25 PM,12.27,124.98,024,2.4,009km S 35° W of Las Navas (Northern Samar),009,S 35° W,Las Navas (Northern Samar)
-2026-02-07T17:24:00.000Z,07 February 2026 - 05:24 PM,06.74,124.75,017,1.4,003km S 88° W of Pandag (Maguindanao Del Sur),003,S 88° W,Pandag (Maguindanao Del Sur)
-2026-02-07T17:15:00.000Z,07 February 2026 - 05:15 PM,15.73,121.80,014,1.9,026km S 84° E of Baler (Aurora),026,S 84° E,Baler (Aurora)
-2026-02-07T17:15:00.000Z,07 February 2026 - 05:15 PM,15.73,121.80,014,1.9,026km S 84° E of Baler (Aurora),026,S 84° E,Baler (Aurora)
