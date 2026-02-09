@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-09T06:25:00.000Z,09 February 2026 - 06:25 AM,07.58,126.07,009,2.6,008km N 64° W of New Bataan (Davao De Oro),008,N 64° W,New Bataan (Davao De Oro)
-2026-02-09T06:08:00.000Z,09 February 2026 - 06:08 AM,13.80,120.64,105,1.6,003km S 14° E of Calatagan (Batangas),003,S 14° E,Calatagan (Batangas)
+2026-02-09T08:45:00.000Z,09 February 2026 - 08:45 AM,08.40,125.96,031,1.8,005km N 63° W of Rosario (Agusan Del Sur),005,N 63° W,Rosario (Agusan Del Sur)
+2026-02-09T08:30:00.000Z,09 February 2026 - 08:30 AM,06.79,123.61,019,2.5,055km N 62° W of Kalamansig (Sultan Kudarat),055,N 62° W,Kalamansig (Sultan Kudarat)
+2026-02-09T08:24:00.000Z,09 February 2026 - 08:24 AM,06.54,126.53,132,2.4,053km S 77° E of Governor Generoso (Davao Oriental),053,S 77° E,Governor Generoso (Davao Oriental)
+2026-02-09T08:05:00.000Z,09 February 2026 - 08:05 AM,13.76,120.56,111,3.2,011km S 48° W of Calatagan (Batangas),011,S 48° W,Calatagan (Batangas)
