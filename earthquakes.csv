@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-10T01:34:00.000Z,10 February 2026 - 01:34 AM,10.38,125.06,021,2.1,009km S 85° E of Sogod (Southern Leyte),009,S 85° E,Sogod (Southern Leyte)
+2026-02-10T00:47:00.000Z,10 February 2026 - 12:47 AM,15.99,121.89,023,2.8,018km S 25° W of Dinalungan (Aurora),018,S 25° W,Dinalungan (Aurora)
 2026-02-09T23:31:00.000Z,09 February 2026 - 11:31 PM,06.43,125.15,028,2.1,015km N 65° W of Malungon (Sarangani),015,N 65° W,Malungon (Sarangani)
 2026-02-09T23:20:00.000Z,09 February 2026 - 11:20 PM,17.79,120.34,026,1.6,012km West of Cabugao (Ilocos Sur),012,West of Cabugao,Sur)
 2026-02-09T23:09:00.000Z,09 February 2026 - 11:09 PM,17.90,120.14,021,3.4,034km N 83° W of Sinait (Ilocos Sur),034,N 83° W,Sinait (Ilocos Sur)
