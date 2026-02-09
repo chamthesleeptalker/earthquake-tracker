@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-09T16:30:00.000Z,09 February 2026 - 04:30 PM,02.34,126.23,006,4.4,351km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),351,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-09T11:44:00.000Z,09 February 2026 - 11:44 AM,17.06,121.45,037,1.6,016km N 16° W of Alfonso Lista (Ifugao),016,N 16° W,Alfonso Lista (Ifugao)
 2026-02-08T17:35:00.000Z,08 February 2026 - 05:35 PM,07.11,126.87,033,2.0,039km S 74° E of Manay (Davao Oriental),039,S 74° E,Manay (Davao Oriental)
 2026-02-09T08:45:00.000Z,09 February 2026 - 08:45 AM,08.40,125.96,031,1.8,005km N 63° W of Rosario (Agusan Del Sur),005,N 63° W,Rosario (Agusan Del Sur)
@@ -345,12 +346,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-02T18:12:00.000Z,02 February 2026 - 06:12 PM,21.51,120.33,030,3.3,177km N 63° W of Itbayat (Batanes),177,N 63° W,Itbayat (Batanes)
 2026-02-02T17:58:00.000Z,02 February 2026 - 05:58 PM,06.59,123.61,005,3.7,049km N 85° W of Kalamansig (Sultan Kudarat),049,N 85° W,Kalamansig (Sultan Kudarat)
 2026-02-02T17:01:00.000Z,02 February 2026 - 05:01 PM,17.06,120.41,019,2.3,005km S 61° W of Santa Cruz (Ilocos Sur),005,S 61° W,Santa Cruz (Ilocos Sur)
-2026-02-02T16:03:00.000Z,02 February 2026 - 04:03 PM,06.20,126.71,032,2.8,087km S 55° E of Governor Generoso (Davao Oriental),087,S 55° E,Governor Generoso (Davao Oriental)
-2026-02-02T15:27:00.000Z,02 February 2026 - 03:27 PM,08.46,125.89,024,1.9,011km S 64° W of San Francisco (Agusan Del Sur),011,S 64° W,San Francisco (Agusan Del Sur)
-2026-02-02T14:56:00.000Z,02 February 2026 - 02:56 PM,09.81,125.36,024,2.4,007km N 61° W of San Francisco (Surigao Del Norte),007,N 61° W,San Francisco (Surigao Del Norte)
-2026-02-02T12:45:00.000Z,02 February 2026 - 12:45 PM,11.03,123.95,006,2.0,004km S 60° W of City Of Bogo (Cebu),004,S 60° W,City Of Bogo (Cebu)
-2026-02-02T12:39:00.000Z,02 February 2026 - 12:39 PM,07.29,123.44,010,4.1,022km S 39° E of Pitogo (Zamboanga Del Sur),022,S 39° E,Pitogo (Zamboanga Del Sur)
-2026-02-02T12:24:00.000Z,02 February 2026 - 12:24 PM,10.12,122.21,011,2.2,046km S 42° E of Anini-y (Antique),046,S 42° E,Anini-y (Antique)
-2026-02-02T12:16:00.000Z,02 February 2026 - 12:16 PM,10.89,123.93,003,1.7,018km S 15° W of City Of Bogo (Cebu),018,S 15° W,City Of Bogo (Cebu)
-2026-02-02T12:07:00.000Z,02 February 2026 - 12:07 PM,06.38,123.69,028,2.9,044km S 64° W of Kalamansig (Sultan Kudarat),044,S 64° W,Kalamansig (Sultan Kudarat)
-2026-02-02T11:54:00.000Z,02 February 2026 - 11:54 AM,11.02,123.93,017,2.0,006km S 62° W of City Of Bogo (Cebu),006,S 62° W,City Of Bogo (Cebu)
