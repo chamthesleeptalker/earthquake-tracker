@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-11T00:15:00.000Z,11 February 2026 - 12:15 AM,16.20,122.02,036,1.5,010km N 47° E of Dinalungan (Aurora),010,N 47° E,Dinalungan (Aurora)
+2026-02-11T00:00:00.000Z,11 February 2026 - 12:00 AM,10.41,124.97,011,1.5,003km N 12° W of Sogod (Southern Leyte),003,N 12° W,Sogod (Southern Leyte)
+2026-02-10T23:52:00.000Z,10 February 2026 - 11:52 PM,06.30,123.63,012,1.9,055km S 59° W of Kalamansig (Sultan Kudarat),055,S 59° W,Kalamansig (Sultan Kudarat)
+2026-02-10T23:37:00.000Z,10 February 2026 - 11:37 PM,06.18,123.78,030,2.6,051km S 36° W of Kalamansig (Sultan Kudarat),051,S 36° W,Kalamansig (Sultan Kudarat)
 2026-02-10T22:13:00.000Z,10 February 2026 - 10:13 PM,07.70,124.77,015,1.5,005km S 32° E of Kalilangan (Bukidnon),005,S 32° E,Kalilangan (Bukidnon)
 2026-02-10T21:28:00.000Z,10 February 2026 - 09:28 PM,07.94,124.72,017,1.6,017km N 42° W of Pangantucan (Bukidnon),017,N 42° W,Pangantucan (Bukidnon)
 2026-02-10T20:04:00.000Z,10 February 2026 - 08:04 PM,05.92,127.28,150,2.0,155km S 36° E of Tarragona (Davao Oriental),155,S 36° E,Tarragona (Davao Oriental)
@@ -341,7 +345,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-04T01:25:00.000Z,04 February 2026 - 01:25 AM,06.47,123.77,010,2.1,033km S 73° W of Kalamansig (Sultan Kudarat),033,S 73° W,Kalamansig (Sultan Kudarat)
 2026-02-04T01:16:00.000Z,04 February 2026 - 01:16 AM,04.59,125.19,033,3.6,095km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),095,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-04T01:04:00.000Z,04 February 2026 - 01:04 AM,07.29,126.47,164,2.3,011km N 42° W of Manay (Davao Oriental),011,N 42° W,Manay (Davao Oriental)
-2026-02-03T23:33:00.000Z,03 February 2026 - 11:33 PM,06.19,123.78,029,2.1,050km S 37° W of Kalamansig (Sultan Kudarat),050,S 37° W,Kalamansig (Sultan Kudarat)
-2026-02-03T23:33:00.000Z,03 February 2026 - 11:33 PM,07.12,127.07,019,3.4,059km S 81° E of Manay (Davao Oriental),059,S 81° E,Manay (Davao Oriental)
-2026-02-03T23:10:00.000Z,03 February 2026 - 11:10 PM,10.05,125.20,004,1.9,005km S 84° E of San Francisco (Southern Leyte),005,S 84° E,San Francisco (Southern Leyte)
-2026-02-03T22:23:00.000Z,03 February 2026 - 10:23 PM,10.93,123.97,011,2.3,013km S 04° W of City Of Bogo (Cebu),013,S 04° W,City Of Bogo (Cebu)

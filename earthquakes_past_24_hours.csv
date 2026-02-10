@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-11T00:15:00.000Z,11 February 2026 - 12:15 AM,16.20,122.02,036,1.5,010km N 47° E of Dinalungan (Aurora),010,N 47° E,Dinalungan (Aurora)
+2026-02-11T00:00:00.000Z,11 February 2026 - 12:00 AM,10.41,124.97,011,1.5,003km N 12° W of Sogod (Southern Leyte),003,N 12° W,Sogod (Southern Leyte)
+2026-02-10T23:52:00.000Z,10 February 2026 - 11:52 PM,06.30,123.63,012,1.9,055km S 59° W of Kalamansig (Sultan Kudarat),055,S 59° W,Kalamansig (Sultan Kudarat)
+2026-02-10T23:37:00.000Z,10 February 2026 - 11:37 PM,06.18,123.78,030,2.6,051km S 36° W of Kalamansig (Sultan Kudarat),051,S 36° W,Kalamansig (Sultan Kudarat)
 2026-02-10T22:13:00.000Z,10 February 2026 - 10:13 PM,07.70,124.77,015,1.5,005km S 32° E of Kalilangan (Bukidnon),005,S 32° E,Kalilangan (Bukidnon)
 2026-02-10T21:28:00.000Z,10 February 2026 - 09:28 PM,07.94,124.72,017,1.6,017km N 42° W of Pangantucan (Bukidnon),017,N 42° W,Pangantucan (Bukidnon)
 2026-02-10T20:04:00.000Z,10 February 2026 - 08:04 PM,05.92,127.28,150,2.0,155km S 36° E of Tarragona (Davao Oriental),155,S 36° E,Tarragona (Davao Oriental)
@@ -48,7 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T02:15:00.000Z,10 February 2026 - 02:15 AM,13.80,120.61,115,1.8,005km S 31° W of Calatagan (Batangas),005,S 31° W,Calatagan (Batangas)
 2026-02-10T01:34:00.000Z,10 February 2026 - 01:34 AM,10.38,125.06,021,2.1,009km S 85° E of Sogod (Southern Leyte),009,S 85° E,Sogod (Southern Leyte)
 2026-02-10T00:47:00.000Z,10 February 2026 - 12:47 AM,15.99,121.89,023,2.8,018km S 25° W of Dinalungan (Aurora),018,S 25° W,Dinalungan (Aurora)
-2026-02-09T23:31:00.000Z,09 February 2026 - 11:31 PM,06.43,125.15,028,2.1,015km N 65° W of Malungon (Sarangani),015,N 65° W,Malungon (Sarangani)
-2026-02-09T23:20:00.000Z,09 February 2026 - 11:20 PM,17.79,120.34,026,1.6,012km West of Cabugao (Ilocos Sur),012,West of Cabugao,Sur)
-2026-02-09T23:09:00.000Z,09 February 2026 - 11:09 PM,17.90,120.14,021,3.4,034km N 83° W of Sinait (Ilocos Sur),034,N 83° W,Sinait (Ilocos Sur)
-2026-02-09T22:43:00.000Z,09 February 2026 - 10:43 PM,11.22,124.11,007,2.6,024km N 35° E of City Of Bogo (Cebu),024,N 35° E,City Of Bogo (Cebu)
