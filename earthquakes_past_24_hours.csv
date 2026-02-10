@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-11T03:09:00.000Z,11 February 2026 - 03:09 AM,10.15,124.98,028,1.6,003km S 78° W of Malitbog (Southern Leyte),003,S 78° W,Malitbog (Southern Leyte)
+2026-02-11T02:32:00.000Z,11 February 2026 - 02:32 AM,18.35,120.11,007,1.9,054km N 71° W of City Of Laoag (Ilocos Norte),054,N 71° W,City Of Laoag (Ilocos Norte)
+2026-02-11T02:31:00.000Z,11 February 2026 - 02:31 AM,19.21,121.29,010,2.0,015km N 38° E of Dalupiri Island (Calayan) (Cagayan),015,N 38° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-11T01:36:00.000Z,11 February 2026 - 01:36 AM,05.67,126.15,152,2.0,062km S 64° E of Jose Abad Santos (Davao Occidental),062,S 64° E,Jose Abad Santos (Davao Occidental)
 2026-02-11T01:28:00.000Z,11 February 2026 - 01:28 AM,11.04,124.06,018,2.3,009km S 84° E of City Of Bogo (Cebu),009,S 84° E,City Of Bogo (Cebu)
 2026-02-11T01:20:00.000Z,11 February 2026 - 01:20 AM,06.23,126.31,002,1.9,054km S 30° E of Governor Generoso (Davao Oriental),054,S 30° E,Governor Generoso (Davao Oriental)
@@ -55,6 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T04:18:00.000Z,10 February 2026 - 04:18 AM,19.66,121.23,002,4.1,051km N 30° W of Calayan (Cagayan),051,N 30° W,Calayan (Cagayan)
 2026-02-10T04:18:00.000Z,10 February 2026 - 04:18 AM,06.54,123.70,012,2.5,039km S 87° W of Kalamansig (Sultan Kudarat),039,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-10T03:31:00.000Z,10 February 2026 - 03:31 AM,17.83,120.64,024,1.6,010km S 13° W of Nueva Era (Ilocos Norte),010,S 13° W,Nueva Era (Ilocos Norte)
-2026-02-10T02:52:00.000Z,10 February 2026 - 02:52 AM,17.86,121.00,032,1.4,022km N 16° E of Lacub (Abra),022,N 16° E,Lacub (Abra)
-2026-02-10T02:29:00.000Z,10 February 2026 - 02:29 AM,12.82,123.06,011,2.0,022km S 66° W of Claveria (Masbate),022,S 66° W,Claveria (Masbate)
-2026-02-10T02:15:00.000Z,10 February 2026 - 02:15 AM,13.80,120.61,115,1.8,005km S 31° W of Calatagan (Batangas),005,S 31° W,Calatagan (Batangas)
