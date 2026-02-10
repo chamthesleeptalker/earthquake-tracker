@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-10T18:19:00.000Z,10 February 2026 - 06:19 PM,07.29,126.35,003,2.0,023km N 68° W of Manay (Davao Oriental),023,N 68° W,Manay (Davao Oriental)
+2026-02-10T17:45:00.000Z,10 February 2026 - 05:45 PM,08.95,126.43,032,1.5,015km N 77° E of Cagwait (Surigao Del Sur),015,N 77° E,Cagwait (Surigao Del Sur)
+2026-02-10T17:03:00.000Z,10 February 2026 - 05:03 PM,07.93,126.83,027,3.0,044km N 69° E of Cateel (Davao Oriental),044,N 69° E,Cateel (Davao Oriental)
 2026-02-10T15:01:00.000Z,10 February 2026 - 03:01 PM,08.14,122.96,027,1.7,008km S 62° W of Bayog (Zamboanga Del Sur),008,S 62° W,Bayog (Zamboanga Del Sur)
 2026-02-10T13:44:00.000Z,10 February 2026 - 01:44 PM,06.65,124.33,007,1.5,021km S 59° W of Datu Abdullah Sangki (Maguindanao Del Sur),021,S 59° W,Datu Abdullah Sangki (Maguindanao Del Sur)
 2026-02-10T13:38:00.000Z,10 February 2026 - 01:38 PM,11.76,125.30,021,2.4,016km N 87° W of San Julian (Eastern Samar),016,N 87° W,San Julian (Eastern Samar)
