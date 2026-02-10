@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-10T22:13:00.000Z,10 February 2026 - 10:13 PM,07.70,124.77,015,1.5,005km S 32° E of Kalilangan (Bukidnon),005,S 32° E,Kalilangan (Bukidnon)
 2026-02-10T21:28:00.000Z,10 February 2026 - 09:28 PM,07.94,124.72,017,1.6,017km N 42° W of Pangantucan (Bukidnon),017,N 42° W,Pangantucan (Bukidnon)
 2026-02-10T20:04:00.000Z,10 February 2026 - 08:04 PM,05.92,127.28,150,2.0,155km S 36° E of Tarragona (Davao Oriental),155,S 36° E,Tarragona (Davao Oriental)
 2026-02-10T19:24:00.000Z,10 February 2026 - 07:24 PM,10.50,125.71,028,2.0,021km N 44° E of Loreto (Dinagat Islands),021,N 44° E,Loreto (Dinagat Islands)
@@ -51,4 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-09T23:20:00.000Z,09 February 2026 - 11:20 PM,17.79,120.34,026,1.6,012km West of Cabugao (Ilocos Sur),012,West of Cabugao,Sur)
 2026-02-09T23:09:00.000Z,09 February 2026 - 11:09 PM,17.90,120.14,021,3.4,034km N 83° W of Sinait (Ilocos Sur),034,N 83° W,Sinait (Ilocos Sur)
 2026-02-09T22:43:00.000Z,09 February 2026 - 10:43 PM,11.22,124.11,007,2.6,024km N 35° E of City Of Bogo (Cebu),024,N 35° E,City Of Bogo (Cebu)
-2026-02-09T21:29:00.000Z,09 February 2026 - 09:29 PM,11.83,120.70,027,1.3,057km S 72° E of Coron (Palawan),057,S 72° E,Coron (Palawan)
