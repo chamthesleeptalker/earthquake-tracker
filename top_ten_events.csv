@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-05T05:34:00.000Z,05 February 2026 - 05:34 AM,06.31,123.77,10,4.7,041km S 48° W of Kalamansig (Sultan Kudarat),041,S 48° W,Kalamansig (Sultan Kudarat)
 2026-02-10T09:04:00.000Z,10 February 2026 - 09:04 AM,06.21,123.72,35,4.4,052km S 44° W of Kalamansig (Sultan Kudarat),052,S 44° W,Kalamansig (Sultan Kudarat)
 2026-02-09T16:30:00.000Z,09 February 2026 - 04:30 PM,02.34,126.23,6,4.4,351km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),351,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-09T03:18:00.000Z,09 February 2026 - 03:18 AM,04.51,127.85,26,4.4,285km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),285,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T18:32:00.000Z,07 February 2026 - 06:32 PM,16.87,122.48,5,3.7,022km S 15° E of Palanan (Isabela),022,S 15° E,Palanan (Isabela)
 2026-02-06T20:47:00.000Z,06 February 2026 - 08:47 PM,03.82,125.76,134,3.7,179km S 12° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),179,S 12° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-06T20:48:00.000Z,06 February 2026 - 08:48 PM,04.13,125.77,169,3.7,148km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-08T13:58:00.000Z,08 February 2026 - 01:58 PM,06.74,126.46,2,3.6,034km S 03° E of Tarragona (Davao Oriental),034,S 03° E,Tarragona (Davao Oriental)
