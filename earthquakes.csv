@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T05:17:00.000Z,12 February 2026 - 05:17 AM,14.96,122.57,001,1.5,039km N 42° E of Jomalig (Quezon),039,N 42° E,Jomalig (Quezon)
+2026-02-12T04:53:00.000Z,12 February 2026 - 04:53 AM,16.86,120.54,027,1.5,003km S 13° E of Alilem (Ilocos Sur),003,S 13° E,Alilem (Ilocos Sur)
 2026-02-12T03:28:00.000Z,12 February 2026 - 03:28 AM,10.31,122.44,006,2.2,026km S 23° W of Nueva Valencia (Guimaras),026,S 23° W,Nueva Valencia (Guimaras)
 2026-02-12T03:20:00.000Z,12 February 2026 - 03:20 AM,06.51,123.82,004,2.5,026km S 78° W of Kalamansig (Sultan Kudarat),026,S 78° W,Kalamansig (Sultan Kudarat)
 2026-02-12T02:58:00.000Z,12 February 2026 - 02:58 AM,10.40,125.17,002,2.8,003km N 74° W of Hinunangan (Southern Leyte),003,N 74° W,Hinunangan (Southern Leyte)

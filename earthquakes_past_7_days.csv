@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T05:17:00.000Z,12 February 2026 - 05:17 AM,14.96,122.57,001,1.5,039km N 42° E of Jomalig (Quezon),039,N 42° E,Jomalig (Quezon)
+2026-02-12T04:53:00.000Z,12 February 2026 - 04:53 AM,16.86,120.54,027,1.5,003km S 13° E of Alilem (Ilocos Sur),003,S 13° E,Alilem (Ilocos Sur)
 2026-02-12T03:28:00.000Z,12 February 2026 - 03:28 AM,10.31,122.44,006,2.2,026km S 23° W of Nueva Valencia (Guimaras),026,S 23° W,Nueva Valencia (Guimaras)
 2026-02-12T03:20:00.000Z,12 February 2026 - 03:20 AM,06.51,123.82,004,2.5,026km S 78° W of Kalamansig (Sultan Kudarat),026,S 78° W,Kalamansig (Sultan Kudarat)
 2026-02-12T02:58:00.000Z,12 February 2026 - 02:58 AM,10.40,125.17,002,2.8,003km N 74° W of Hinunangan (Southern Leyte),003,N 74° W,Hinunangan (Southern Leyte)
@@ -310,9 +312,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T05:41:00.000Z,05 February 2026 - 05:41 AM,06.69,123.94,008,1.9,019km N 39° W of Kalamansig (Sultan Kudarat),019,N 39° W,Kalamansig (Sultan Kudarat)
 2026-02-05T05:41:00.000Z,05 February 2026 - 05:41 AM,15.71,121.95,013,2.3,042km S 83° E of Baler (Aurora),042,S 83° E,Baler (Aurora)
 2026-02-05T05:34:00.000Z,05 February 2026 - 05:34 AM,06.31,123.77,010,4.7,041km S 48° W of Kalamansig (Sultan Kudarat),041,S 48° W,Kalamansig (Sultan Kudarat)
-2026-02-05T05:10:00.000Z,05 February 2026 - 05:10 AM,07.21,126.45,131,2.1,010km S 89° W of Manay (Davao Oriental),010,S 89° W,Manay (Davao Oriental)
-2026-02-05T04:43:00.000Z,05 February 2026 - 04:43 AM,15.74,121.84,016,2.2,030km S 87° E of Baler (Aurora),030,S 87° E,Baler (Aurora)
-2026-02-05T04:07:00.000Z,05 February 2026 - 04:07 AM,07.20,127.16,032,3.0,068km S 89° E of Manay (Davao Oriental),068,S 89° E,Manay (Davao Oriental)
-2026-02-05T04:06:00.000Z,05 February 2026 - 04:06 AM,19.11,121.32,016,2.4,012km N 88° E of Dalupiri Island (Calayan) (Cagayan),012,N 88° E,Dalupiri Island (Calayan) (Cagayan)
-2026-02-05T04:00:00.000Z,05 February 2026 - 04:00 AM,06.67,123.77,003,2.5,033km N 67° W of Kalamansig (Sultan Kudarat),033,N 67° W,Kalamansig (Sultan Kudarat)
-2026-02-05T03:32:00.000Z,05 February 2026 - 03:32 AM,15.72,121.93,013,2.0,039km S 84° E of Baler (Aurora),039,S 84° E,Baler (Aurora)
