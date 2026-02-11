@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T01:28:00.000Z,12 February 2026 - 01:28 AM,06.51,123.71,004,3.8,038km S 82° W of Kalamansig (Sultan Kudarat),038,S 82° W,Kalamansig (Sultan Kudarat)
+2026-02-12T01:00:00.000Z,12 February 2026 - 01:00 AM,10.25,122.39,017,1.9,034km S 29° W of Nueva Valencia (Guimaras),034,S 29° W,Nueva Valencia (Guimaras)
 2026-02-12T00:55:00.000Z,12 February 2026 - 12:55 AM,11.18,123.92,033,1.5,016km N 23° W of City Of Bogo (Cebu),016,N 23° W,City Of Bogo (Cebu)
 2026-02-12T00:42:00.000Z,12 February 2026 - 12:42 AM,08.23,126.92,010,2.4,060km N 69° E of Lingig (Surigao Del Sur),060,N 69° E,Lingig (Surigao Del Sur)
 2026-02-11T23:01:00.000Z,11 February 2026 - 11:01 PM,06.49,123.69,017,2.1,040km S 80° W of Kalamansig (Sultan Kudarat),040,S 80° W,Kalamansig (Sultan Kudarat)
@@ -35,7 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T02:31:00.000Z,11 February 2026 - 02:31 AM,19.21,121.29,010,2.0,015km N 38° E of Dalupiri Island (Calayan) (Cagayan),015,N 38° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-11T01:36:00.000Z,11 February 2026 - 01:36 AM,05.67,126.15,152,2.0,062km S 64° E of Jose Abad Santos (Davao Occidental),062,S 64° E,Jose Abad Santos (Davao Occidental)
 2026-02-11T01:28:00.000Z,11 February 2026 - 01:28 AM,11.04,124.06,018,2.3,009km S 84° E of City Of Bogo (Cebu),009,S 84° E,City Of Bogo (Cebu)
-2026-02-11T01:20:00.000Z,11 February 2026 - 01:20 AM,06.23,126.31,002,1.9,054km S 30° E of Governor Generoso (Davao Oriental),054,S 30° E,Governor Generoso (Davao Oriental)
-2026-02-11T01:17:00.000Z,11 February 2026 - 01:17 AM,15.71,121.89,002,1.9,036km S 81° E of Baler (Aurora),036,S 81° E,Baler (Aurora)
-2026-02-11T01:04:00.000Z,11 February 2026 - 01:04 AM,10.85,124.92,033,1.8,006km N 14° W of Javier (Leyte),006,N 14° W,Javier (Leyte)
-2026-02-11T01:04:00.000Z,11 February 2026 - 01:04 AM,15.67,121.94,002,2.1,041km S 76° E of Baler (Aurora),041,S 76° E,Baler (Aurora)
