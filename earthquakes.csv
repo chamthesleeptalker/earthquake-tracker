@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T00:55:00.000Z,12 February 2026 - 12:55 AM,11.18,123.92,033,1.5,016km N 23° W of City Of Bogo (Cebu),016,N 23° W,City Of Bogo (Cebu)
+2026-02-12T00:42:00.000Z,12 February 2026 - 12:42 AM,08.23,126.92,010,2.4,060km N 69° E of Lingig (Surigao Del Sur),060,N 69° E,Lingig (Surigao Del Sur)
 2026-02-11T23:01:00.000Z,11 February 2026 - 11:01 PM,06.49,123.69,017,2.1,040km S 80° W of Kalamansig (Sultan Kudarat),040,S 80° W,Kalamansig (Sultan Kudarat)
 2026-02-11T22:26:00.000Z,11 February 2026 - 10:26 PM,13.81,120.58,075,2.0,007km S 63° W of Calatagan (Batangas),007,S 63° W,Calatagan (Batangas)
 2026-02-11T22:19:00.000Z,11 February 2026 - 10:19 PM,09.06,126.14,032,2.2,004km S 58° W of City Of Tandag (Surigao Del Sur),004,S 58° W,City Of Tandag (Surigao Del Sur)

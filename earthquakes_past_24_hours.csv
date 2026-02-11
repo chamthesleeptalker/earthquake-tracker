@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T00:55:00.000Z,12 February 2026 - 12:55 AM,11.18,123.92,033,1.5,016km N 23° W of City Of Bogo (Cebu),016,N 23° W,City Of Bogo (Cebu)
+2026-02-12T00:42:00.000Z,12 February 2026 - 12:42 AM,08.23,126.92,010,2.4,060km N 69° E of Lingig (Surigao Del Sur),060,N 69° E,Lingig (Surigao Del Sur)
 2026-02-11T23:01:00.000Z,11 February 2026 - 11:01 PM,06.49,123.69,017,2.1,040km S 80° W of Kalamansig (Sultan Kudarat),040,S 80° W,Kalamansig (Sultan Kudarat)
 2026-02-11T22:26:00.000Z,11 February 2026 - 10:26 PM,13.81,120.58,075,2.0,007km S 63° W of Calatagan (Batangas),007,S 63° W,Calatagan (Batangas)
 2026-02-11T22:19:00.000Z,11 February 2026 - 10:19 PM,09.06,126.14,032,2.2,004km S 58° W of City Of Tandag (Surigao Del Sur),004,S 58° W,City Of Tandag (Surigao Del Sur)
@@ -37,9 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T01:17:00.000Z,11 February 2026 - 01:17 AM,15.71,121.89,002,1.9,036km S 81° E of Baler (Aurora),036,S 81° E,Baler (Aurora)
 2026-02-11T01:04:00.000Z,11 February 2026 - 01:04 AM,10.85,124.92,033,1.8,006km N 14° W of Javier (Leyte),006,N 14° W,Javier (Leyte)
 2026-02-11T01:04:00.000Z,11 February 2026 - 01:04 AM,15.67,121.94,002,2.1,041km S 76° E of Baler (Aurora),041,S 76° E,Baler (Aurora)
-2026-02-11T00:49:00.000Z,11 February 2026 - 12:49 AM,05.58,125.74,077,1.6,032km N 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),032,N 69° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-11T00:26:00.000Z,11 February 2026 - 12:26 AM,11.09,124.11,007,3.0,015km N 72° E of City Of Bogo (Cebu),015,N 72° E,City Of Bogo (Cebu)
-2026-02-11T00:15:00.000Z,11 February 2026 - 12:15 AM,16.20,122.02,036,1.5,010km N 47° E of Dinalungan (Aurora),010,N 47° E,Dinalungan (Aurora)
-2026-02-11T00:00:00.000Z,11 February 2026 - 12:00 AM,10.41,124.97,011,1.5,003km N 12° W of Sogod (Southern Leyte),003,N 12° W,Sogod (Southern Leyte)
-2026-02-10T23:52:00.000Z,10 February 2026 - 11:52 PM,06.30,123.63,012,1.9,055km S 59° W of Kalamansig (Sultan Kudarat),055,S 59° W,Kalamansig (Sultan Kudarat)
-2026-02-10T23:37:00.000Z,10 February 2026 - 11:37 PM,06.18,123.78,030,2.6,051km S 36° W of Kalamansig (Sultan Kudarat),051,S 36° W,Kalamansig (Sultan Kudarat)
