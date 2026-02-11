@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-11T14:20:00.000Z,11 February 2026 - 02:20 PM,08.59,126.42,031,2.4,026km N 21° E of Hinatuan (Surigao Del Sur),026,N 21° E,Hinatuan (Surigao Del Sur)
+2026-02-11T13:41:00.000Z,11 February 2026 - 01:41 PM,07.79,126.79,016,2.1,037km S 90° E of Cateel (Davao Oriental),037,S 90° E,Cateel (Davao Oriental)
 2026-02-11T13:14:00.000Z,11 February 2026 - 01:14 PM,06.43,123.81,033,2.3,030km S 63° W of Kalamansig (Sultan Kudarat),030,S 63° W,Kalamansig (Sultan Kudarat)
 2026-02-11T13:04:00.000Z,11 February 2026 - 01:04 PM,09.43,126.34,024,2.4,044km S 28° E of General Luna (Surigao Del Norte),044,S 28° E,General Luna (Surigao Del Norte)
 2026-02-11T11:50:00.000Z,11 February 2026 - 11:50 AM,08.78,126.27,031,1.8,004km S 46° W of Marihatag (Surigao Del Sur),004,S 46° W,Marihatag (Surigao Del Sur)
@@ -345,5 +347,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-04T15:59:00.000Z,04 February 2026 - 03:59 PM,13.53,120.67,105,1.5,011km N 33° W of Abra De Ilog (Occidental Mindoro),011,N 33° W,Abra De Ilog (Occidental Mindoro)
 2026-02-04T15:11:00.000Z,04 February 2026 - 03:11 PM,09.38,126.70,010,4.9,056km N 78° E of Cortes (Surigao Del Sur),056,N 78° E,Cortes (Surigao Del Sur)
 2026-02-04T14:44:00.000Z,04 February 2026 - 02:44 PM,10.51,125.18,002,1.9,002km S 49° E of Silago (Southern Leyte),002,S 49° E,Silago (Southern Leyte)
-2026-02-04T13:49:00.000Z,04 February 2026 - 01:49 PM,06.36,124.59,011,3.1,012km S 52° W of Santo Niño (South Cotabato),012,S 52° W,Santo NiÃ±o (South Cotabato)
-2026-02-04T13:34:00.000Z,04 February 2026 - 01:34 PM,09.96,122.46,012,1.8,019km S 84° W of Cauayan (Negros Occidental),019,S 84° W,Cauayan (Negros Occidental)
