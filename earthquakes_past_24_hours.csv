@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-11T16:14:00.000Z,11 February 2026 - 04:14 PM,14.87,120.55,033,1.6,006km N 46° E of Hermosa (Bataan),006,N 46° E,Hermosa (Bataan)
 2026-02-11T14:36:00.000Z,11 February 2026 - 02:36 PM,11.01,123.91,005,2.5,008km S 60° W of City Of Bogo (Cebu),008,S 60° W,City Of Bogo (Cebu)
 2026-02-11T14:20:00.000Z,11 February 2026 - 02:20 PM,08.59,126.42,031,2.4,026km N 21° E of Hinatuan (Surigao Del Sur),026,N 21° E,Hinatuan (Surigao Del Sur)
 2026-02-11T13:41:00.000Z,11 February 2026 - 01:41 PM,07.79,126.79,016,2.1,037km S 90° E of Cateel (Davao Oriental),037,S 90° E,Cateel (Davao Oriental)
@@ -41,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T18:19:00.000Z,10 February 2026 - 06:19 PM,07.29,126.35,003,2.0,023km N 68° W of Manay (Davao Oriental),023,N 68° W,Manay (Davao Oriental)
 2026-02-10T17:45:00.000Z,10 February 2026 - 05:45 PM,08.95,126.43,032,1.5,015km N 77° E of Cagwait (Surigao Del Sur),015,N 77° E,Cagwait (Surigao Del Sur)
 2026-02-10T17:03:00.000Z,10 February 2026 - 05:03 PM,07.93,126.83,027,3.0,044km N 69° E of Cateel (Davao Oriental),044,N 69° E,Cateel (Davao Oriental)
-2026-02-10T15:01:00.000Z,10 February 2026 - 03:01 PM,08.14,122.96,027,1.7,008km S 62° W of Bayog (Zamboanga Del Sur),008,S 62° W,Bayog (Zamboanga Del Sur)
