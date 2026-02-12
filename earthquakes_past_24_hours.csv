@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T00:34:00.000Z,13 February 2026 - 12:34 AM,06.04,126.39,045,3.7,076km S 27° E of Governor Generoso (Davao Oriental),076,S 27° E,Governor Generoso (Davao Oriental)
 2026-02-12T22:46:00.000Z,12 February 2026 - 10:46 PM,17.58,121.31,030,1.9,011km S 71° W of Pinukpuk (Kalinga),011,S 71° W,Pinukpuk (Kalinga)
 2026-02-12T22:34:00.000Z,12 February 2026 - 10:34 PM,11.43,125.49,023,2.4,005km S 24° W of Balangkayan (Eastern Samar),005,S 24° W,Balangkayan (Eastern Samar)
 2026-02-12T22:02:00.000Z,12 February 2026 - 10:02 PM,20.15,121.30,076,4.5,063km S 71° W of Sabtang (Batanes),063,S 71° W,Sabtang (Batanes)
@@ -38,4 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-12T01:00:00.000Z,12 February 2026 - 01:00 AM,10.25,122.39,017,1.9,034km S 29° W of Nueva Valencia (Guimaras),034,S 29° W,Nueva Valencia (Guimaras)
 2026-02-12T00:55:00.000Z,12 February 2026 - 12:55 AM,11.18,123.92,033,1.5,016km N 23° W of City Of Bogo (Cebu),016,N 23° W,City Of Bogo (Cebu)
 2026-02-12T00:42:00.000Z,12 February 2026 - 12:42 AM,08.23,126.92,010,2.4,060km N 69° E of Lingig (Surigao Del Sur),060,N 69° E,Lingig (Surigao Del Sur)
-2026-02-11T23:01:00.000Z,11 February 2026 - 11:01 PM,06.49,123.69,017,2.1,040km S 80° W of Kalamansig (Sultan Kudarat),040,S 80° W,Kalamansig (Sultan Kudarat)
