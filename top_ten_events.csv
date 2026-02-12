@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-02-12T06:27:00.000Z,12 February 2026 - 06:27 AM,20.60,119.99,32,5.3,194km S 83° W of Itbayat (Batanes),194,S 83° W,Itbayat (Batanes)
 2026-02-12T06:28:00.000Z,12 February 2026 - 06:28 AM,20.38,120.23,35,4.9,172km N 88° W of Sabtang (Batanes),172,N 88° W,Sabtang (Batanes)
+2026-02-12T22:02:00.000Z,12 February 2026 - 10:02 PM,20.15,121.30,76,4.5,063km S 71° W of Sabtang (Batanes),063,S 71° W,Sabtang (Batanes)
 2026-02-10T09:04:00.000Z,10 February 2026 - 09:04 AM,06.21,123.72,35,4.4,052km S 44° W of Kalamansig (Sultan Kudarat),052,S 44° W,Kalamansig (Sultan Kudarat)
 2026-02-09T16:30:00.000Z,09 February 2026 - 04:30 PM,02.34,126.23,6,4.4,351km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),351,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-09T03:18:00.000Z,09 February 2026 - 03:18 AM,04.51,127.85,26,4.4,285km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),285,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T04:18:00.000Z,10 February 2026 - 04:18 AM,19.66,121.23,2,4.1,051km N 30° W of Calayan (Cagayan),051,N 30° W,Calayan (Cagayan)
 2026-02-12T01:28:00.000Z,12 February 2026 - 01:28 AM,06.51,123.71,4,3.8,038km S 82° W of Kalamansig (Sultan Kudarat),038,S 82° W,Kalamansig (Sultan Kudarat)
 2026-02-07T18:32:00.000Z,07 February 2026 - 06:32 PM,16.87,122.48,5,3.7,022km S 15° E of Palanan (Isabela),022,S 15° E,Palanan (Isabela)
-2026-02-06T20:47:00.000Z,06 February 2026 - 08:47 PM,03.82,125.76,134,3.7,179km S 12° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),179,S 12° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
