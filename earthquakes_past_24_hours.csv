@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T11:33:00.000Z,12 February 2026 - 11:33 AM,10.96,123.92,006,1.9,011km S 35° W of City Of Bogo (Cebu),011,S 35° W,City Of Bogo (Cebu)
+2026-02-12T10:14:00.000Z,12 February 2026 - 10:14 AM,17.90,120.13,010,2.6,035km N 84° W of Sinait (Ilocos Sur),035,N 84° W,Sinait (Ilocos Sur)
+2026-02-12T10:01:00.000Z,12 February 2026 - 10:01 AM,13.74,120.42,043,3.4,025km S 65° W of Calatagan (Batangas),025,S 65° W,Calatagan (Batangas)
 2026-02-12T08:51:00.000Z,12 February 2026 - 08:51 AM,07.16,125.95,031,1.8,007km N 63° E of Pantukan (Davao De Oro),007,N 63° E,Pantukan (Davao De Oro)
 2026-02-12T08:29:00.000Z,12 February 2026 - 08:29 AM,13.57,120.65,093,1.6,016km N 32° W of Abra De Ilog (Occidental Mindoro),016,N 32° W,Abra De Ilog (Occidental Mindoro)
 2026-02-12T08:24:00.000Z,12 February 2026 - 08:24 AM,06.51,123.79,018,2.6,029km S 81° W of Kalamansig (Sultan Kudarat),029,S 81° W,Kalamansig (Sultan Kudarat)
@@ -34,7 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T13:14:00.000Z,11 February 2026 - 01:14 PM,06.43,123.81,033,2.3,030km S 63° W of Kalamansig (Sultan Kudarat),030,S 63° W,Kalamansig (Sultan Kudarat)
 2026-02-11T13:04:00.000Z,11 February 2026 - 01:04 PM,09.43,126.34,024,2.4,044km S 28° E of General Luna (Surigao Del Norte),044,S 28° E,General Luna (Surigao Del Norte)
 2026-02-11T11:50:00.000Z,11 February 2026 - 11:50 AM,08.78,126.27,031,1.8,004km S 46° W of Marihatag (Surigao Del Sur),004,S 46° W,Marihatag (Surigao Del Sur)
-2026-02-11T11:17:00.000Z,11 February 2026 - 11:17 AM,07.62,127.34,002,3.1,086km N 87° E of Baganga (Davao Oriental),086,N 87° E,Baganga (Davao Oriental)
-2026-02-11T11:08:00.000Z,11 February 2026 - 11:08 AM,11.17,123.89,026,1.8,010km N 59° W of Medellin (Cebu),010,N 59° W,Medellin (Cebu)
-2026-02-11T10:46:00.000Z,11 February 2026 - 10:46 AM,12.81,122.99,022,2.1,030km S 71° W of Claveria (Masbate),030,S 71° W,Claveria (Masbate)
-2026-02-11T09:16:00.000Z,11 February 2026 - 09:16 AM,19.92,121.13,012,2.4,082km N 27° W of Calayan (Cagayan),082,N 27° W,Calayan (Cagayan)
