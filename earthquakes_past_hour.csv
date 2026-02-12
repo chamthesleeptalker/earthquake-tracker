@@ -1,6 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-13T03:01:00.000Z,13 February 2026 - 03:01 AM,14.12,120.41,110,1.5,024km N 79° W of Nasugbu (Batangas),024,N 79° W,Nasugbu (Batangas)
-2026-02-13T02:47:00.000Z,13 February 2026 - 02:47 AM,11.12,124.12,005,2.8,018km N 64° E of City Of Bogo (Cebu),018,N 64° E,City Of Bogo (Cebu)
-2026-02-13T02:33:00.000Z,13 February 2026 - 02:33 AM,19.74,121.23,014,2.8,059km N 26° W of Calayan (Cagayan),059,N 26° W,Calayan (Cagayan)
-2026-02-13T02:32:00.000Z,13 February 2026 - 02:32 AM,05.99,126.46,025,2.2,085km S 30° E of Governor Generoso (Davao Oriental),085,S 30° E,Governor Generoso (Davao Oriental)
-2026-02-13T02:18:00.000Z,13 February 2026 - 02:18 AM,13.48,120.57,004,1.8,014km N 58° E of Paluan (Occidental Mindoro),014,N 58° E,Paluan (Occidental Mindoro)
+2026-02-13T05:10:00.000Z,13 February 2026 - 05:10 AM,06.32,123.66,016,2.7,050km S 59° W of Kalamansig (Sultan Kudarat),050,S 59° W,Kalamansig (Sultan Kudarat)
+2026-02-13T04:52:00.000Z,13 February 2026 - 04:52 AM,08.53,125.83,065,2.6,011km N 29° E of Talacogon (Agusan Del Sur),011,N 29° E,Talacogon (Agusan Del Sur)
+2026-02-13T04:38:00.000Z,13 February 2026 - 04:38 AM,13.94,120.52,114,1.3,017km N 45° W of Calatagan (Batangas),017,N 45° W,Calatagan (Batangas)

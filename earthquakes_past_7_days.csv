@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T05:10:00.000Z,13 February 2026 - 05:10 AM,06.32,123.66,016,2.7,050km S 59° W of Kalamansig (Sultan Kudarat),050,S 59° W,Kalamansig (Sultan Kudarat)
+2026-02-13T04:52:00.000Z,13 February 2026 - 04:52 AM,08.53,125.83,065,2.6,011km N 29° E of Talacogon (Agusan Del Sur),011,N 29° E,Talacogon (Agusan Del Sur)
+2026-02-13T04:38:00.000Z,13 February 2026 - 04:38 AM,13.94,120.52,114,1.3,017km N 45° W of Calatagan (Batangas),017,N 45° W,Calatagan (Batangas)
 2026-02-13T03:01:00.000Z,13 February 2026 - 03:01 AM,14.12,120.41,110,1.5,024km N 79° W of Nasugbu (Batangas),024,N 79° W,Nasugbu (Batangas)
 2026-02-13T02:47:00.000Z,13 February 2026 - 02:47 AM,11.12,124.12,005,2.8,018km N 64° E of City Of Bogo (Cebu),018,N 64° E,City Of Bogo (Cebu)
 2026-02-13T02:33:00.000Z,13 February 2026 - 02:33 AM,19.74,121.23,014,2.8,059km N 26° W of Calayan (Cagayan),059,N 26° W,Calayan (Cagayan)
@@ -314,6 +317,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T06:13:00.000Z,06 February 2026 - 06:13 AM,18.60,120.80,011,1.8,004km N 12° E of Pagudpud (Ilocos Norte),004,N 12° E,Pagudpud (Ilocos Norte)
 2026-02-06T06:09:00.000Z,06 February 2026 - 06:09 AM,12.27,122.36,004,2.1,027km S 81° W of San Fernando (Romblon),027,S 81° W,San Fernando (Romblon)
 2026-02-06T05:40:00.000Z,06 February 2026 - 05:40 AM,06.52,123.82,019,1.8,025km S 81° W of Kalamansig (Sultan Kudarat),025,S 81° W,Kalamansig (Sultan Kudarat)
-2026-02-06T03:46:00.000Z,06 February 2026 - 03:46 AM,16.81,121.35,008,2.8,017km N 07° W of Diadi (Nueva Vizcaya),017,N 07° W,Diadi (Nueva Vizcaya)
-2026-02-06T03:36:00.000Z,06 February 2026 - 03:36 AM,19.28,121.30,032,2.2,018km N 83° W of Calayan (Cagayan),018,N 83° W,Calayan (Cagayan)
-2026-02-06T03:27:00.000Z,06 February 2026 - 03:27 AM,19.02,121.09,003,1.7,016km S 50° W of Dalupiri Island (Calayan) (Cagayan),016,S 50° W,Dalupiri Island (Calayan) (Cagayan)
