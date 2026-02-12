@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T03:01:00.000Z,13 February 2026 - 03:01 AM,14.12,120.41,110,1.5,024km N 79° W of Nasugbu (Batangas),024,N 79° W,Nasugbu (Batangas)
+2026-02-13T02:47:00.000Z,13 February 2026 - 02:47 AM,11.12,124.12,005,2.8,018km N 64° E of City Of Bogo (Cebu),018,N 64° E,City Of Bogo (Cebu)
+2026-02-13T02:33:00.000Z,13 February 2026 - 02:33 AM,19.74,121.23,014,2.8,059km N 26° W of Calayan (Cagayan),059,N 26° W,Calayan (Cagayan)
+2026-02-13T02:32:00.000Z,13 February 2026 - 02:32 AM,05.99,126.46,025,2.2,085km S 30° E of Governor Generoso (Davao Oriental),085,S 30° E,Governor Generoso (Davao Oriental)
+2026-02-13T02:18:00.000Z,13 February 2026 - 02:18 AM,13.48,120.57,004,1.8,014km N 58° E of Paluan (Occidental Mindoro),014,N 58° E,Paluan (Occidental Mindoro)
+2026-02-13T01:50:00.000Z,13 February 2026 - 01:50 AM,12.46,125.00,021,2.3,008km N 47° W of Catubig (Northern Samar),008,N 47° W,Catubig (Northern Samar)
 2026-02-13T01:42:00.000Z,13 February 2026 - 01:42 AM,12.35,124.87,027,2.0,004km N 42° E of Silvino Lobos (Northern Samar),004,N 42° E,Silvino Lobos (Northern Samar)
 2026-02-13T01:38:00.000Z,13 February 2026 - 01:38 AM,12.47,124.98,021,3.0,011km S 19° W of Laoang (Northern Samar),011,S 19° W,Laoang (Northern Samar)
 2026-02-13T01:36:00.000Z,13 February 2026 - 01:36 AM,12.40,124.91,053,1.9,010km N 39° E of Silvino Lobos (Northern Samar),010,N 39° E,Silvino Lobos (Northern Samar)
