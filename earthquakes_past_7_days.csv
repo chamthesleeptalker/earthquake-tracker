@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T13:21:00.000Z,12 February 2026 - 01:21 PM,05.88,125.17,001,1.9,008km N 28° W of Glan (Sarangani),008,N 28° W,Glan (Sarangani)
 2026-02-12T11:33:00.000Z,12 February 2026 - 11:33 AM,10.96,123.92,006,1.9,011km S 35° W of City Of Bogo (Cebu),011,S 35° W,City Of Bogo (Cebu)
 2026-02-12T10:14:00.000Z,12 February 2026 - 10:14 AM,17.90,120.13,010,2.6,035km N 84° W of Sinait (Ilocos Sur),035,N 84° W,Sinait (Ilocos Sur)
 2026-02-12T10:01:00.000Z,12 February 2026 - 10:01 AM,13.74,120.42,043,3.4,025km S 65° W of Calatagan (Batangas),025,S 65° W,Calatagan (Batangas)
@@ -307,8 +308,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-05T18:28:00.000Z,05 February 2026 - 06:28 PM,18.35,120.82,009,1.8,014km S 34° W of Adams (Ilocos Norte),014,S 34° W,Adams (Ilocos Norte)
 2026-02-05T16:52:00.000Z,05 February 2026 - 04:52 PM,06.55,123.80,034,2.5,028km S 88° W of Kalamansig (Sultan Kudarat),028,S 88° W,Kalamansig (Sultan Kudarat)
 2026-02-05T15:45:00.000Z,05 February 2026 - 03:45 PM,05.86,125.95,138,2.5,034km S 80° E of Jose Abad Santos (Davao Occidental),034,S 80° E,Jose Abad Santos (Davao Occidental)
-2026-02-05T12:19:00.000Z,05 February 2026 - 12:19 PM,06.17,124.10,570,3.5,011km S 66° W of Palimbang (Sultan Kudarat),011,S 66° W,Palimbang (Sultan Kudarat)
-2026-02-05T12:43:00.000Z,05 February 2026 - 12:43 PM,06.43,123.69,003,2.5,042km S 70° W of Kalamansig (Sultan Kudarat),042,S 70° W,Kalamansig (Sultan Kudarat)
-2026-02-05T12:36:00.000Z,05 February 2026 - 12:36 PM,06.40,123.73,008,3.5,040km S 64° W of Kalamansig (Sultan Kudarat),040,S 64° W,Kalamansig (Sultan Kudarat)
-2026-02-05T12:22:00.000Z,05 February 2026 - 12:22 PM,06.30,123.68,021,2.4,050km S 56° W of Kalamansig (Sultan Kudarat),050,S 56° W,Kalamansig (Sultan Kudarat)
-2026-02-05T12:01:00.000Z,05 February 2026 - 12:01 PM,06.67,124.29,013,1.6,025km N 82° E of Lebak (Sultan Kudarat),025,N 82° E,Lebak (Sultan Kudarat)
