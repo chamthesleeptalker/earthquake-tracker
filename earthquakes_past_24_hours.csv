@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-12T19:22:00.000Z,12 February 2026 - 07:22 PM,06.29,126.97,092,2.9,102km S 35° E of Tarragona (Davao Oriental),102,S 35° E,Tarragona (Davao Oriental)
+2026-02-12T19:19:00.000Z,12 February 2026 - 07:19 PM,12.96,121.67,032,1.6,008km N 52° W of Concepcion (Romblon),008,N 52° W,Concepcion (Romblon)
 2026-02-12T16:45:00.000Z,12 February 2026 - 04:45 PM,09.72,126.34,036,2.5,021km S 70° E of General Luna (Surigao Del Norte),021,S 70° E,General Luna (Surigao Del Norte)
 2026-02-12T14:26:00.000Z,12 February 2026 - 02:26 PM,13.82,120.50,072,2.0,014km S 86° W of Calatagan (Batangas),014,S 86° W,Calatagan (Batangas)
 2026-02-12T13:21:00.000Z,12 February 2026 - 01:21 PM,05.88,125.17,001,1.9,008km N 28° W of Glan (Sarangani),008,N 28° W,Glan (Sarangani)
@@ -31,5 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T21:04:00.000Z,11 February 2026 - 09:04 PM,11.07,124.10,002,2.9,013km N 77° E of City Of Bogo (Cebu),013,N 77° E,City Of Bogo (Cebu)
 2026-02-11T20:15:00.000Z,11 February 2026 - 08:15 PM,14.45,119.61,065,1.8,075km S 70° W of Morong (Bataan),075,S 70° W,Morong (Bataan)
 2026-02-11T20:10:00.000Z,11 February 2026 - 08:10 PM,18.63,121.02,015,1.9,006km N 71° W of Claveria (Cagayan),006,N 71° W,Claveria (Cagayan)
-2026-02-11T18:37:00.000Z,11 February 2026 - 06:37 PM,06.60,123.65,023,2.4,044km N 84° W of Kalamansig (Sultan Kudarat),044,N 84° W,Kalamansig (Sultan Kudarat)
-2026-02-11T16:50:00.000Z,11 February 2026 - 04:50 PM,04.94,124.33,004,3.2,121km S 16° W of Kiamba (Sarangani),121,S 16° W,Kiamba (Sarangani)
