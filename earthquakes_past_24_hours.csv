@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T21:33:00.000Z,13 February 2026 - 09:33 PM,08.29,126.68,034,2.2,039km S 77° E of Hinatuan (Surigao Del Sur),039,S 77° E,Hinatuan (Surigao Del Sur)
+2026-02-13T21:12:00.000Z,13 February 2026 - 09:12 PM,02.65,127.01,024,4.5,353km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),353,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-13T20:50:00.000Z,13 February 2026 - 08:50 PM,06.22,127.10,110,4.3,117km S 38° E of Tarragona (Davao Oriental),117,S 38° E,Tarragona (Davao Oriental)
 2026-02-13T19:56:00.000Z,13 February 2026 - 07:56 PM,13.76,120.53,084,4.2,013km S 53° W of Calatagan (Batangas),013,S 53° W,Calatagan (Batangas)
 2026-02-13T19:02:00.000Z,13 February 2026 - 07:02 PM,06.23,123.62,006,2.2,060km S 53° W of Kalamansig (Sultan Kudarat),060,S 53° W,Kalamansig (Sultan Kudarat)
 2026-02-13T18:49:00.000Z,13 February 2026 - 06:49 PM,03.41,128.03,005,4.4,365km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),365,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -39,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-12T21:48:00.000Z,12 February 2026 - 09:48 PM,06.53,123.61,005,2.2,049km S 87° W of Kalamansig (Sultan Kudarat),049,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-12T21:45:00.000Z,12 February 2026 - 09:45 PM,20.46,121.33,029,2.4,059km N 76° W of Sabtang (Batanes),059,N 76° W,Sabtang (Batanes)
 2026-02-12T21:40:00.000Z,12 February 2026 - 09:40 PM,09.13,124.44,002,2.2,026km N 87° W of Catarman (Camiguin),026,N 87° W,Catarman (Camiguin)
-2026-02-12T20:05:00.000Z,12 February 2026 - 08:05 PM,06.17,126.22,120,2.2,056km S 18° E of Governor Generoso (Davao Oriental),056,S 18° E,Governor Generoso (Davao Oriental)
