@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T22:57:00.000Z,13 February 2026 - 10:57 PM,05.10,128.37,010,5.8,303km S 44° E of Tarragona (Davao Oriental),303,S 44° E,Tarragona (Davao Oriental)
+2026-02-13T22:32:00.000Z,13 February 2026 - 10:32 PM,15.38,119.83,034,1.6,010km S 57° W of Palauig (Zambales),010,S 57° W,Palauig (Zambales)
+2026-02-13T22:14:00.000Z,13 February 2026 - 10:14 PM,13.58,120.93,035,1.8,009km N 14° W of Puerto Galera (Oriental Mindoro),009,N 14° W,Puerto Galera (Oriental Mindoro)
+2026-02-13T22:10:00.000Z,13 February 2026 - 10:10 PM,15.76,120.00,044,1.8,009km N 89° E of Santa Cruz (Zambales),009,N 89° E,Santa Cruz (Zambales)
 2026-02-13T21:33:00.000Z,13 February 2026 - 09:33 PM,08.29,126.68,034,2.2,039km S 77° E of Hinatuan (Surigao Del Sur),039,S 77° E,Hinatuan (Surigao Del Sur)
 2026-02-13T21:12:00.000Z,13 February 2026 - 09:12 PM,02.65,127.01,024,4.5,353km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),353,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-13T20:50:00.000Z,13 February 2026 - 08:50 PM,06.22,127.10,110,4.3,117km S 38° E of Tarragona (Davao Oriental),117,S 38° E,Tarragona (Davao Oriental)
@@ -313,5 +317,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T23:45:00.000Z,06 February 2026 - 11:45 PM,06.42,123.76,019,3.1,035km S 64° W of Kalamansig (Sultan Kudarat),035,S 64° W,Kalamansig (Sultan Kudarat)
 2026-02-06T23:42:00.000Z,06 February 2026 - 11:42 PM,10.98,124.04,003,2.9,010km S 41° E of City Of Bogo (Cebu),010,S 41° E,City Of Bogo (Cebu)
 2026-02-06T23:08:00.000Z,06 February 2026 - 11:08 PM,18.34,121.14,034,1.5,013km N 48° E of Calanasan (Apayao),013,N 48° E,Calanasan (Apayao)
-2026-02-06T22:19:00.000Z,06 February 2026 - 10:19 PM,15.04,120.05,039,1.6,003km S 46° W of San Felipe (Zambales),003,S 46° W,San Felipe (Zambales)
-2026-02-06T21:38:00.000Z,06 February 2026 - 09:38 PM,18.10,120.21,012,3.6,030km N 73° W of Currimao (Ilocos Norte),030,N 73° W,Currimao (Ilocos Norte)
