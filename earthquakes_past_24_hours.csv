@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-14T02:56:00.000Z,14 February 2026 - 02:56 AM,02.95,128.13,053,4.7,373km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),373,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-14T02:16:00.000Z,14 February 2026 - 02:16 AM,16.91,119.95,028,2.3,046km N 83° W of Luna (La Union),046,N 83° W,Luna (La Union)
 2026-02-14T01:39:00.000Z,14 February 2026 - 01:39 AM,04.83,128.50,113,4.2,334km S 43° E of Tarragona (Davao Oriental),334,S 43° E,Tarragona (Davao Oriental)
 2026-02-14T01:35:00.000Z,14 February 2026 - 01:35 AM,08.80,122.49,042,2.3,067km S 64° W of Siaton (Negros Oriental),067,S 64° W,Siaton (Negros Oriental)
 2026-02-13T23:55:00.000Z,13 February 2026 - 11:55 PM,04.43,128.30,010,4.8,334km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),334,S 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -32,9 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-13T04:52:00.000Z,13 February 2026 - 04:52 AM,08.53,125.83,065,2.6,011km N 29° E of Talacogon (Agusan Del Sur),011,N 29° E,Talacogon (Agusan Del Sur)
 2026-02-13T04:38:00.000Z,13 February 2026 - 04:38 AM,13.94,120.52,114,1.3,017km N 45° W of Calatagan (Batangas),017,N 45° W,Calatagan (Batangas)
 2026-02-13T03:01:00.000Z,13 February 2026 - 03:01 AM,14.12,120.41,110,1.5,024km N 79° W of Nasugbu (Batangas),024,N 79° W,Nasugbu (Batangas)
-2026-02-13T02:47:00.000Z,13 February 2026 - 02:47 AM,11.12,124.12,005,2.8,018km N 64° E of City Of Bogo (Cebu),018,N 64° E,City Of Bogo (Cebu)
-2026-02-13T02:33:00.000Z,13 February 2026 - 02:33 AM,19.74,121.23,014,2.8,059km N 26° W of Calayan (Cagayan),059,N 26° W,Calayan (Cagayan)
-2026-02-13T02:32:00.000Z,13 February 2026 - 02:32 AM,05.99,126.46,025,2.2,085km S 30° E of Governor Generoso (Davao Oriental),085,S 30° E,Governor Generoso (Davao Oriental)
-2026-02-13T02:18:00.000Z,13 February 2026 - 02:18 AM,13.48,120.57,004,1.8,014km N 58° E of Paluan (Occidental Mindoro),014,N 58° E,Paluan (Occidental Mindoro)
-2026-02-13T01:50:00.000Z,13 February 2026 - 01:50 AM,12.46,125.00,021,2.3,008km N 47° W of Catubig (Northern Samar),008,N 47° W,Catubig (Northern Samar)
-2026-02-13T01:42:00.000Z,13 February 2026 - 01:42 AM,12.35,124.87,027,2.0,004km N 42° E of Silvino Lobos (Northern Samar),004,N 42° E,Silvino Lobos (Northern Samar)
