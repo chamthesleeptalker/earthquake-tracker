@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T23:09:00.000Z,13 February 2026 - 11:09 PM,04.07,128.10,080,4.5,330km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),330,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-13T22:57:00.000Z,13 February 2026 - 10:57 PM,05.10,128.37,010,5.8,303km S 44° E of Tarragona (Davao Oriental),303,S 44° E,Tarragona (Davao Oriental)
 2026-02-13T22:32:00.000Z,13 February 2026 - 10:32 PM,15.38,119.83,034,1.6,010km S 57° W of Palauig (Zambales),010,S 57° W,Palauig (Zambales)
 2026-02-13T22:14:00.000Z,13 February 2026 - 10:14 PM,13.58,120.93,035,1.8,009km N 14° W of Puerto Galera (Oriental Mindoro),009,N 14° W,Puerto Galera (Oriental Mindoro)
@@ -316,4 +317,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T00:04:00.000Z,07 February 2026 - 12:04 AM,09.54,126.20,007,2.5,028km S 10° E of General Luna (Surigao Del Norte),028,S 10° E,General Luna (Surigao Del Norte)
 2026-02-06T23:45:00.000Z,06 February 2026 - 11:45 PM,06.42,123.76,019,3.1,035km S 64° W of Kalamansig (Sultan Kudarat),035,S 64° W,Kalamansig (Sultan Kudarat)
 2026-02-06T23:42:00.000Z,06 February 2026 - 11:42 PM,10.98,124.04,003,2.9,010km S 41° E of City Of Bogo (Cebu),010,S 41° E,City Of Bogo (Cebu)
-2026-02-06T23:08:00.000Z,06 February 2026 - 11:08 PM,18.34,121.14,034,1.5,013km N 48° E of Calanasan (Apayao),013,N 48° E,Calanasan (Apayao)
