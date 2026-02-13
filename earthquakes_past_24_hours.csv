@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T19:56:00.000Z,13 February 2026 - 07:56 PM,13.76,120.53,084,4.2,013km S 53° W of Calatagan (Batangas),013,S 53° W,Calatagan (Batangas)
 2026-02-13T19:02:00.000Z,13 February 2026 - 07:02 PM,06.23,123.62,006,2.2,060km S 53° W of Kalamansig (Sultan Kudarat),060,S 53° W,Kalamansig (Sultan Kudarat)
 2026-02-13T18:49:00.000Z,13 February 2026 - 06:49 PM,03.41,128.03,005,4.4,365km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),365,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-13T18:33:00.000Z,13 February 2026 - 06:33 PM,06.30,123.69,010,2.5,048km S 54° W of Kalamansig (Sultan Kudarat),048,S 54° W,Kalamansig (Sultan Kudarat)
@@ -39,7 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-12T21:45:00.000Z,12 February 2026 - 09:45 PM,20.46,121.33,029,2.4,059km N 76° W of Sabtang (Batanes),059,N 76° W,Sabtang (Batanes)
 2026-02-12T21:40:00.000Z,12 February 2026 - 09:40 PM,09.13,124.44,002,2.2,026km N 87° W of Catarman (Camiguin),026,N 87° W,Catarman (Camiguin)
 2026-02-12T20:05:00.000Z,12 February 2026 - 08:05 PM,06.17,126.22,120,2.2,056km S 18° E of Governor Generoso (Davao Oriental),056,S 18° E,Governor Generoso (Davao Oriental)
-2026-02-12T19:38:00.000Z,12 February 2026 - 07:38 PM,10.12,126.17,010,3.2,015km N 45° E of Burgos (Surigao Del Norte),015,N 45° E,Burgos (Surigao Del Norte)
-2026-02-12T19:37:00.000Z,12 February 2026 - 07:37 PM,15.36,119.84,027,2.8,011km S 45° W of Palauig (Zambales),011,S 45° W,Palauig (Zambales)
-2026-02-12T19:22:00.000Z,12 February 2026 - 07:22 PM,06.29,126.97,092,2.9,102km S 35° E of Tarragona (Davao Oriental),102,S 35° E,Tarragona (Davao Oriental)
-2026-02-12T19:19:00.000Z,12 February 2026 - 07:19 PM,12.96,121.67,032,1.6,008km N 52° W of Concepcion (Romblon),008,N 52° W,Concepcion (Romblon)

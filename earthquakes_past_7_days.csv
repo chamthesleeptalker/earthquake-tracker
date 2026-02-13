@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T19:56:00.000Z,13 February 2026 - 07:56 PM,13.76,120.53,084,4.2,013km S 53° W of Calatagan (Batangas),013,S 53° W,Calatagan (Batangas)
 2026-02-13T19:02:00.000Z,13 February 2026 - 07:02 PM,06.23,123.62,006,2.2,060km S 53° W of Kalamansig (Sultan Kudarat),060,S 53° W,Kalamansig (Sultan Kudarat)
 2026-02-13T18:49:00.000Z,13 February 2026 - 06:49 PM,03.41,128.03,005,4.4,365km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),365,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-13T18:33:00.000Z,13 February 2026 - 06:33 PM,06.30,123.69,010,2.5,048km S 54° W of Kalamansig (Sultan Kudarat),048,S 54° W,Kalamansig (Sultan Kudarat)
@@ -315,5 +316,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-06T20:48:00.000Z,06 February 2026 - 08:48 PM,04.13,125.77,169,3.7,148km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-06T20:33:00.000Z,06 February 2026 - 08:33 PM,13.56,120.03,025,2.5,029km S 54° W of Looc (Occidental Mindoro),029,S 54° W,Looc (Occidental Mindoro)
 2026-02-06T20:01:00.000Z,06 February 2026 - 08:01 PM,15.43,120.42,033,1.5,007km S 44° W of San Jose (Tarlac),007,S 44° W,San Jose (Tarlac)
-2026-02-06T19:50:00.000Z,06 February 2026 - 07:50 PM,14.23,123.46,006,1.5,032km N 45° E of Siruma (Camarines Sur),032,N 45° E,Siruma (Camarines Sur)
-2026-02-06T19:20:00.000Z,06 February 2026 - 07:20 PM,17.99,120.53,020,2.8,004km N 05° E of Pinili (Ilocos Norte),004,N 05° E,Pinili (Ilocos Norte)
