@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T14:55:00.000Z,13 February 2026 - 02:55 PM,15.85,121.86,005,2.0,033km N 72° E of Baler (Aurora),033,N 72° E,Baler (Aurora)
+2026-02-13T14:42:00.000Z,13 February 2026 - 02:42 PM,15.74,120.43,019,2.0,006km N 19° E of Camiling (Tarlac),006,N 19° E,Camiling (Tarlac)
+2026-02-13T14:11:00.000Z,13 February 2026 - 02:11 PM,08.82,126.38,033,3.1,010km N 76° E of Marihatag (Surigao Del Sur),010,N 76° E,Marihatag (Surigao Del Sur)
+2026-02-13T14:07:00.000Z,13 February 2026 - 02:07 PM,08.82,126.25,034,2.1,006km N 63° W of Marihatag (Surigao Del Sur),006,N 63° W,Marihatag (Surigao Del Sur)
 2026-02-13T13:30:00.000Z,13 February 2026 - 01:30 PM,13.36,121.68,031,1.4,018km N 79° W of Gasan (Marinduque),018,N 79° W,Gasan (Marinduque)
 2026-02-13T12:40:00.000Z,13 February 2026 - 12:40 PM,18.90,121.25,030,1.7,014km N 69° W of Fuga Island (Aparri) (Cagayan),014,N 69° W,Fuga Island (Aparri) (Cagayan)
 2026-02-13T12:35:00.000Z,13 February 2026 - 12:35 PM,07.47,126.28,002,2.1,017km S 62° E of New Bataan (Davao De Oro),017,S 62° E,New Bataan (Davao De Oro)
@@ -33,4 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-12T19:22:00.000Z,12 February 2026 - 07:22 PM,06.29,126.97,092,2.9,102km S 35° E of Tarragona (Davao Oriental),102,S 35° E,Tarragona (Davao Oriental)
 2026-02-12T19:19:00.000Z,12 February 2026 - 07:19 PM,12.96,121.67,032,1.6,008km N 52° W of Concepcion (Romblon),008,N 52° W,Concepcion (Romblon)
 2026-02-12T16:45:00.000Z,12 February 2026 - 04:45 PM,09.72,126.34,036,2.5,021km S 70° E of General Luna (Surigao Del Norte),021,S 70° E,General Luna (Surigao Del Norte)
-2026-02-12T14:26:00.000Z,12 February 2026 - 02:26 PM,13.82,120.50,072,2.0,014km S 86° W of Calatagan (Batangas),014,S 86° W,Calatagan (Batangas)
