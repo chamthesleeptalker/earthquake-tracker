@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-13T18:49:00.000Z,13 February 2026 - 06:49 PM,03.41,128.03,005,4.4,365km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),365,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-13T18:33:00.000Z,13 February 2026 - 06:33 PM,06.30,123.69,010,2.5,048km S 54° W of Kalamansig (Sultan Kudarat),048,S 54° W,Kalamansig (Sultan Kudarat)
+2026-02-13T18:27:00.000Z,13 February 2026 - 06:27 PM,06.41,123.83,015,2.7,029km S 56° W of Kalamansig (Sultan Kudarat),029,S 56° W,Kalamansig (Sultan Kudarat)
+2026-02-13T18:26:00.000Z,13 February 2026 - 06:26 PM,02.74,128.75,020,4.1,473km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),473,S 51° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-13T15:37:00.000Z,13 February 2026 - 03:37 PM,05.66,124.62,018,2.3,036km S 02° W of Kiamba (Sarangani),036,S 02° W,Kiamba (Sarangani)
 2026-02-13T15:27:00.000Z,13 February 2026 - 03:27 PM,16.22,120.34,039,1.9,009km S 34° W of Santo Tomas (La Union),009,S 34° W,Santo Tomas (La Union)
 2026-02-13T14:55:00.000Z,13 February 2026 - 02:55 PM,15.85,121.86,005,2.0,033km N 72° E of Baler (Aurora),033,N 72° E,Baler (Aurora)
@@ -38,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-12T19:37:00.000Z,12 February 2026 - 07:37 PM,15.36,119.84,027,2.8,011km S 45° W of Palauig (Zambales),011,S 45° W,Palauig (Zambales)
 2026-02-12T19:22:00.000Z,12 February 2026 - 07:22 PM,06.29,126.97,092,2.9,102km S 35° E of Tarragona (Davao Oriental),102,S 35° E,Tarragona (Davao Oriental)
 2026-02-12T19:19:00.000Z,12 February 2026 - 07:19 PM,12.96,121.67,032,1.6,008km N 52° W of Concepcion (Romblon),008,N 52° W,Concepcion (Romblon)
-2026-02-12T16:45:00.000Z,12 February 2026 - 04:45 PM,09.72,126.34,036,2.5,021km S 70° E of General Luna (Surigao Del Norte),021,S 70° E,General Luna (Surigao Del Norte)
