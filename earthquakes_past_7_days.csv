@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-14T09:12:00.000Z,14 February 2026 - 09:12 AM,13.97,119.20,033,2.9,101km N 83° W of Lubang (Occidental Mindoro),101,N 83° W,Lubang (Occidental Mindoro)
+2026-02-14T09:02:00.000Z,14 February 2026 - 09:02 AM,04.01,126.75,040,4.4,215km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),215,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-14T08:51:00.000Z,14 February 2026 - 08:51 AM,11.05,124.02,003,1.5,005km N 85° E of City Of Bogo (Cebu),005,N 85° E,City Of Bogo (Cebu)
+2026-02-14T08:35:00.000Z,14 February 2026 - 08:35 AM,02.63,127.38,019,4.2,370km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),370,S 36° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-14T06:36:00.000Z,14 February 2026 - 06:36 AM,15.89,120.63,033,2.9,000km S 26° E of Rosales (Pangasinan),000,S 26° E,Rosales (Pangasinan)
 2026-02-14T06:02:00.000Z,14 February 2026 - 06:02 AM,06.50,125.88,151,3.3,027km S 51° W of Governor Generoso (Davao Oriental),027,S 51° W,Governor Generoso (Davao Oriental)
 2026-02-14T05:49:00.000Z,14 February 2026 - 05:49 AM,03.99,126.51,132,4.3,198km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),198,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -312,6 +316,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T11:15:00.000Z,07 February 2026 - 11:15 AM,13.04,120.83,012,2.6,013km S 70° E of Santa Cruz (Occidental Mindoro),013,S 70° E,Santa Cruz (Occidental Mindoro)
 2026-02-07T11:10:00.000Z,07 February 2026 - 11:10 AM,13.03,120.83,016,2.0,014km S 64° E of Santa Cruz (Occidental Mindoro),014,S 64° E,Santa Cruz (Occidental Mindoro)
 2026-02-07T10:26:00.000Z,07 February 2026 - 10:26 AM,18.03,120.94,033,1.9,026km N 89° W of Kabugao (Apayao),026,N 89° W,Kabugao (Apayao)
-2026-02-07T09:09:00.000Z,07 February 2026 - 09:09 AM,16.12,122.77,024,2.4,067km S 63° E of Dilasag (Aurora),067,S 63° E,Dilasag (Aurora)
-2026-02-07T08:58:00.000Z,07 February 2026 - 08:58 AM,07.08,126.83,031,2.4,035km S 66° E of Manay (Davao Oriental),035,S 66° E,Manay (Davao Oriental)
-2026-02-07T08:23:00.000Z,07 February 2026 - 08:23 AM,08.58,126.06,001,2.4,007km S 38° W of Lianga (Surigao Del Sur),007,S 38° W,Lianga (Surigao Del Sur)
