@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T06:38:00.000Z,15 February 2026 - 06:38 AM,13.82,120.51,024,2.3,014km S 82° W of Calatagan (Batangas),014,S 82° W,Calatagan (Batangas)
+2026-02-15T06:17:00.000Z,15 February 2026 - 06:17 AM,13.78,120.49,027,2.0,017km S 69° W of Calatagan (Batangas),017,S 69° W,Calatagan (Batangas)
 2026-02-15T06:07:00.000Z,15 February 2026 - 06:07 AM,13.75,120.48,031,1.6,019km S 62° W of Calatagan (Batangas),019,S 62° W,Calatagan (Batangas)
 2026-02-15T05:48:00.000Z,15 February 2026 - 05:48 AM,13.79,120.48,031,1.5,018km S 73° W of Calatagan (Batangas),018,S 73° W,Calatagan (Batangas)
 2026-02-15T05:29:00.000Z,15 February 2026 - 05:29 AM,13.76,120.48,034,2.0,018km S 65° W of Calatagan (Batangas),018,S 65° W,Calatagan (Batangas)
@@ -317,4 +319,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-08T09:26:00.000Z,08 February 2026 - 09:26 AM,11.02,124.03,027,2.2,007km S 62° E of City Of Bogo (Cebu),007,S 62° E,City Of Bogo (Cebu)
 2026-02-08T08:05:00.000Z,08 February 2026 - 08:05 AM,09.56,126.24,021,1.9,026km S 21° E of General Luna (Surigao Del Norte),026,S 21° E,General Luna (Surigao Del Norte)
 2026-02-08T06:39:00.000Z,08 February 2026 - 06:39 AM,07.39,126.68,020,3.0,015km N 61° E of Caraga (Davao Oriental),015,N 61° E,Caraga (Davao Oriental)
-2026-02-08T06:32:00.000Z,08 February 2026 - 06:32 AM,04.57,127.59,098,3.2,255km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),255,S 67° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
