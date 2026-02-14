@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-14T14:41:00.000Z,14 February 2026 - 02:41 PM,09.65,125.93,001,2.0,005km N 52° W of Socorro (Surigao Del Norte),005,N 52° W,Socorro (Surigao Del Norte)
 2026-02-14T13:21:00.000Z,14 February 2026 - 01:21 PM,16.15,121.84,020,1.9,013km N 83° W of Dinalungan (Aurora),013,N 83° W,Dinalungan (Aurora)
 2026-02-14T13:01:00.000Z,14 February 2026 - 01:01 PM,12.77,123.27,015,3.1,015km S 09° E of Claveria (Masbate),015,S 09° E,Claveria (Masbate)
 2026-02-14T12:10:00.000Z,14 February 2026 - 12:10 PM,09.01,125.97,025,1.7,010km N 48° W of San Miguel (Surigao Del Sur),010,N 48° W,San Miguel (Surigao Del Sur)
@@ -40,6 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-13T15:27:00.000Z,13 February 2026 - 03:27 PM,16.22,120.34,039,1.9,009km S 34° W of Santo Tomas (La Union),009,S 34° W,Santo Tomas (La Union)
 2026-02-13T14:55:00.000Z,13 February 2026 - 02:55 PM,15.85,121.86,005,2.0,033km N 72° E of Baler (Aurora),033,N 72° E,Baler (Aurora)
 2026-02-13T14:42:00.000Z,13 February 2026 - 02:42 PM,15.74,120.43,019,2.0,006km N 19° E of Camiling (Tarlac),006,N 19° E,Camiling (Tarlac)
-2026-02-13T14:11:00.000Z,13 February 2026 - 02:11 PM,08.82,126.38,033,3.1,010km N 76° E of Marihatag (Surigao Del Sur),010,N 76° E,Marihatag (Surigao Del Sur)
-2026-02-13T14:07:00.000Z,13 February 2026 - 02:07 PM,08.82,126.25,034,2.1,006km N 63° W of Marihatag (Surigao Del Sur),006,N 63° W,Marihatag (Surigao Del Sur)
-2026-02-13T13:30:00.000Z,13 February 2026 - 01:30 PM,13.36,121.68,031,1.4,018km N 79° W of Gasan (Marinduque),018,N 79° W,Gasan (Marinduque)
