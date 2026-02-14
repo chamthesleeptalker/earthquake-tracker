@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-14T13:21:00.000Z,14 February 2026 - 01:21 PM,16.15,121.84,020,1.9,013km N 83° W of Dinalungan (Aurora),013,N 83° W,Dinalungan (Aurora)
 2026-02-14T13:01:00.000Z,14 February 2026 - 01:01 PM,12.77,123.27,015,3.1,015km S 09° E of Claveria (Masbate),015,S 09° E,Claveria (Masbate)
 2026-02-14T12:10:00.000Z,14 February 2026 - 12:10 PM,09.01,125.97,025,1.7,010km N 48° W of San Miguel (Surigao Del Sur),010,N 48° W,San Miguel (Surigao Del Sur)
 2026-02-14T11:36:00.000Z,14 February 2026 - 11:36 AM,13.72,120.57,088,1.5,014km S 31° W of Calatagan (Batangas),014,S 31° W,Calatagan (Batangas)
