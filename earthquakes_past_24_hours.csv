@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T04:22:00.000Z,15 February 2026 - 04:22 AM,13.76,120.51,028,1.5,016km S 60° W of Calatagan (Batangas),016,S 60° W,Calatagan (Batangas)
+2026-02-15T04:18:00.000Z,15 February 2026 - 04:18 AM,13.73,120.49,032,1.7,019km S 53° W of Calatagan (Batangas),019,S 53° W,Calatagan (Batangas)
+2026-02-15T04:18:00.000Z,15 February 2026 - 04:18 AM,13.78,120.49,029,1.8,016km S 68° W of Calatagan (Batangas),016,S 68° W,Calatagan (Batangas)
 2026-02-15T03:58:00.000Z,15 February 2026 - 03:58 AM,08.21,124.52,002,2.4,009km S 77° W of Talakag (Bukidnon),009,S 77° W,Talakag (Bukidnon)
 2026-02-15T03:53:00.000Z,15 February 2026 - 03:53 AM,16.73,119.16,034,1.9,087km N 65° W of Bolinao (Pangasinan),087,N 65° W,Bolinao (Pangasinan)
 2026-02-15T03:40:00.000Z,15 February 2026 - 03:40 AM,16.55,119.55,059,2.4,040km N 64° W of Bolinao (Pangasinan),040,N 64° W,Bolinao (Pangasinan)
@@ -48,5 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-14T05:49:00.000Z,14 February 2026 - 05:49 AM,03.99,126.51,132,4.3,198km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),198,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-14T05:00:00.000Z,14 February 2026 - 05:00 AM,10.28,125.67,094,2.7,013km S 46° E of Loreto (Dinagat Islands),013,S 46° E,Loreto (Dinagat Islands)
 2026-02-14T04:28:00.000Z,14 February 2026 - 04:28 AM,04.92,126.33,028,4.6,113km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),113,S 57° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-14T04:18:00.000Z,14 February 2026 - 04:18 AM,18.40,121.11,090,1.6,018km N 22° E of Calanasan (Apayao),018,N 22° E,Calanasan (Apayao)
-2026-02-14T04:11:00.000Z,14 February 2026 - 04:11 AM,10.13,126.54,033,3.2,053km N 76° E of Burgos (Surigao Del Norte),053,N 76° E,Burgos (Surigao Del Norte)
