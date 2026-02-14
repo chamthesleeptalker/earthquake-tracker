@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T04:59:00.000Z,15 February 2026 - 04:59 AM,13.89,120.56,079,1.7,010km N 53° W of Calatagan (Batangas),010,N 53° W,Calatagan (Batangas)
 2026-02-15T04:22:00.000Z,15 February 2026 - 04:22 AM,13.76,120.51,028,1.5,016km S 60° W of Calatagan (Batangas),016,S 60° W,Calatagan (Batangas)
 2026-02-15T04:18:00.000Z,15 February 2026 - 04:18 AM,13.73,120.49,032,1.7,019km S 53° W of Calatagan (Batangas),019,S 53° W,Calatagan (Batangas)
 2026-02-15T04:18:00.000Z,15 February 2026 - 04:18 AM,13.78,120.49,029,1.8,016km S 68° W of Calatagan (Batangas),016,S 68° W,Calatagan (Batangas)
@@ -318,5 +319,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-08T05:51:00.000Z,08 February 2026 - 05:51 AM,06.53,125.88,153,2.6,026km S 57° W of Governor Generoso (Davao Oriental),026,S 57° W,Governor Generoso (Davao Oriental)
 2026-02-08T05:26:00.000Z,08 February 2026 - 05:26 AM,12.26,124.24,030,2.4,016km S 83° E of San Vicente (Northern Samar),016,S 83° E,San Vicente (Northern Samar)
 2026-02-08T05:11:00.000Z,08 February 2026 - 05:11 AM,15.36,120.43,121,1.7,013km S 13° W of San Jose (Tarlac),013,S 13° W,San Jose (Tarlac)
-2026-02-08T04:49:00.000Z,08 February 2026 - 04:49 AM,09.92,125.96,009,2.0,006km N 08° W of Del Carmen (Surigao Del Norte),006,N 08° W,Del Carmen (Surigao Del Norte)
-2026-02-08T04:31:00.000Z,08 February 2026 - 04:31 AM,13.70,123.77,013,1.5,003km S 61° E of Presentacion (Camarines Sur),003,S 61° E,Presentacion (Camarines Sur)
