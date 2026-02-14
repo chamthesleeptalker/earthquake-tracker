@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T02:08:00.000Z,15 February 2026 - 02:08 AM,13.76,120.48,032,1.5,019km S 63° W of Calatagan (Batangas),019,S 63° W,Calatagan (Batangas)
+2026-02-15T01:55:00.000Z,15 February 2026 - 01:55 AM,13.81,120.47,026,2.5,018km S 83° W of Calatagan (Batangas),018,S 83° W,Calatagan (Batangas)
+2026-02-15T01:52:00.000Z,15 February 2026 - 01:52 AM,13.72,120.46,043,2.6,022km S 57° W of Calatagan (Batangas),022,S 57° W,Calatagan (Batangas)
+2026-02-15T01:51:00.000Z,15 February 2026 - 01:51 AM,05.68,125.94,055,4.8,041km S 52° E of Jose Abad Santos (Davao Occidental),041,S 52° E,Jose Abad Santos (Davao Occidental)
+2026-02-15T01:45:00.000Z,15 February 2026 - 01:45 AM,13.73,120.56,095,1.4,014km S 33° W of Calatagan (Batangas),014,S 33° W,Calatagan (Batangas)
 2026-02-15T01:22:00.000Z,15 February 2026 - 01:22 AM,05.23,127.49,052,5.3,217km S 70° E of Jose Abad Santos (Davao Occidental),217,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-02-15T01:07:00.000Z,15 February 2026 - 01:07 AM,10.16,126.04,019,2.4,016km N 15° W of Burgos (Surigao Del Norte),016,N 15° W,Burgos (Surigao Del Norte)
 2026-02-15T00:53:00.000Z,15 February 2026 - 12:53 AM,10.64,122.42,015,1.8,006km S 54° E of Tigbauan (Iloilo),006,S 54° E,Tigbauan (Iloilo)
@@ -37,5 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-14T03:12:00.000Z,14 February 2026 - 03:12 AM,19.08,121.09,019,3.0,012km S 77° W of Dalupiri Island (Calayan) (Cagayan),012,S 77° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-14T02:56:00.000Z,14 February 2026 - 02:56 AM,02.95,128.13,053,4.7,373km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),373,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-14T02:16:00.000Z,14 February 2026 - 02:16 AM,16.91,119.95,028,2.3,046km N 83° W of Luna (La Union),046,N 83° W,Luna (La Union)
-2026-02-14T01:39:00.000Z,14 February 2026 - 01:39 AM,04.83,128.50,113,4.2,334km S 43° E of Tarragona (Davao Oriental),334,S 43° E,Tarragona (Davao Oriental)
-2026-02-14T01:35:00.000Z,14 February 2026 - 01:35 AM,08.80,122.49,042,2.3,067km S 64° W of Siaton (Negros Oriental),067,S 64° W,Siaton (Negros Oriental)
