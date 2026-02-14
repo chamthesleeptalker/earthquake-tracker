@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-14T20:21:00.000Z,14 February 2026 - 08:21 PM,07.84,125.16,014,2.6,010km S 50° E of City Of Valencia (Bukidnon),010,S 50° E,City Of Valencia (Bukidnon)
+2026-02-14T20:10:00.000Z,14 February 2026 - 08:10 PM,08.54,126.65,033,1.6,039km N 61° E of Hinatuan (Surigao Del Sur),039,N 61° E,Hinatuan (Surigao Del Sur)
+2026-02-14T19:42:00.000Z,14 February 2026 - 07:42 PM,07.83,126.63,033,1.6,020km N 78° E of Cateel (Davao Oriental),020,N 78° E,Cateel (Davao Oriental)
+2026-02-14T19:40:00.000Z,14 February 2026 - 07:40 PM,15.12,120.02,011,1.6,006km S 40° W of Cabangan (Zambales),006,S 40° W,Cabangan (Zambales)
 2026-02-14T18:11:00.000Z,14 February 2026 - 06:11 PM,03.23,127.93,033,3.3,369km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),369,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-14T17:13:00.000Z,14 February 2026 - 05:13 PM,06.50,123.77,032,1.5,032km S 79° W of Kalamansig (Sultan Kudarat),032,S 79° W,Kalamansig (Sultan Kudarat)
 2026-02-14T14:41:00.000Z,14 February 2026 - 02:41 PM,09.65,125.93,001,2.0,005km N 52° W of Socorro (Surigao Del Norte),005,N 52° W,Socorro (Surigao Del Norte)
@@ -304,7 +308,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-07T20:48:00.000Z,07 February 2026 - 08:48 PM,13.74,120.50,072,1.9,018km S 55° W of Calatagan (Batangas),018,S 55° W,Calatagan (Batangas)
 2026-02-07T20:39:00.000Z,07 February 2026 - 08:39 PM,06.20,123.68,033,2.1,057km S 47° W of Kalamansig (Sultan Kudarat),057,S 47° W,Kalamansig (Sultan Kudarat)
 2026-02-07T20:26:00.000Z,07 February 2026 - 08:26 PM,15.82,121.55,016,1.8,004km S 22° E of Dipaculao (Aurora),004,S 22° E,Dipaculao (Aurora)
-2026-02-07T19:46:00.000Z,07 February 2026 - 07:46 PM,15.70,121.98,012,1.8,046km S 82° E of Baler (Aurora),046,S 82° E,Baler (Aurora)
-2026-02-07T19:13:00.000Z,07 February 2026 - 07:13 PM,06.70,126.03,034,1.6,007km N 44° W of Governor Generoso (Davao Oriental),007,N 44° W,Governor Generoso (Davao Oriental)
-2026-02-07T19:08:00.000Z,07 February 2026 - 07:08 PM,08.92,126.18,016,1.6,013km N 88° W of Cagwait (Surigao Del Sur),013,N 88° W,Cagwait (Surigao Del Sur)
-2026-02-07T18:32:00.000Z,07 February 2026 - 06:32 PM,16.87,122.48,005,3.7,022km S 15° E of Palanan (Isabela),022,S 15° E,Palanan (Isabela)
