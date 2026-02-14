@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T00:12:00.000Z,15 February 2026 - 12:12 AM,06.48,123.69,011,3.0,040km S 78° W of Kalamansig (Sultan Kudarat),040,S 78° W,Kalamansig (Sultan Kudarat)
 2026-02-14T23:31:00.000Z,14 February 2026 - 11:31 PM,06.39,126.08,026,1.7,029km S 02° E of Governor Generoso (Davao Oriental),029,S 02° E,Governor Generoso (Davao Oriental)
 2026-02-14T23:11:00.000Z,14 February 2026 - 11:11 PM,13.49,120.77,022,2.5,007km N 46° E of Abra De Ilog (Occidental Mindoro),007,N 46° E,Abra De Ilog (Occidental Mindoro)
 2026-02-14T22:52:00.000Z,14 February 2026 - 10:52 PM,06.36,126.14,014,1.8,034km S 12° E of Governor Generoso (Davao Oriental),034,S 12° E,Governor Generoso (Davao Oriental)
@@ -302,5 +303,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-08T02:08:00.000Z,08 February 2026 - 02:08 AM,07.29,127.26,027,3.2,080km N 84° E of Manay (Davao Oriental),080,N 84° E,Manay (Davao Oriental)
 2026-02-08T01:05:00.000Z,08 February 2026 - 01:05 AM,12.93,121.23,032,2.1,024km S 54° W of Socorro (Oriental Mindoro),024,S 54° W,Socorro (Oriental Mindoro)
 2026-02-08T00:54:00.000Z,08 February 2026 - 12:54 AM,11.42,120.82,027,1.6,032km N 24° W of Agutaya (Palawan),032,N 24° W,Agutaya (Palawan)
-2026-02-07T23:52:00.000Z,07 February 2026 - 11:52 PM,16.15,120.42,019,1.5,004km N 29° E of San Fabian (Pangasinan),004,N 29° E,San Fabian (Pangasinan)
-2026-02-07T23:45:00.000Z,07 February 2026 - 11:45 PM,17.56,120.76,033,1.5,005km N 61° E of Bucay (Abra),005,N 61° E,Bucay (Abra)
