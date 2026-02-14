@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-14T21:09:00.000Z,14 February 2026 - 09:09 PM,09.84,126.39,009,2.2,027km N 76° E of General Luna (Surigao Del Norte),027,N 76° E,General Luna (Surigao Del Norte)
+2026-02-14T21:06:00.000Z,14 February 2026 - 09:06 PM,10.93,122.77,017,2.7,005km S 19° E of Anilao (Iloilo),005,S 19° E,Anilao (Iloilo)
 2026-02-14T20:21:00.000Z,14 February 2026 - 08:21 PM,07.84,125.16,014,2.6,010km S 50° E of City Of Valencia (Bukidnon),010,S 50° E,City Of Valencia (Bukidnon)
 2026-02-14T20:10:00.000Z,14 February 2026 - 08:10 PM,08.54,126.65,033,1.6,039km N 61° E of Hinatuan (Surigao Del Sur),039,N 61° E,Hinatuan (Surigao Del Sur)
 2026-02-14T19:42:00.000Z,14 February 2026 - 07:42 PM,07.83,126.63,033,1.6,020km N 78° E of Cateel (Davao Oriental),020,N 78° E,Cateel (Davao Oriental)
@@ -36,4 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-13T22:10:00.000Z,13 February 2026 - 10:10 PM,15.76,120.00,044,1.8,009km N 89° E of Santa Cruz (Zambales),009,N 89° E,Santa Cruz (Zambales)
 2026-02-13T21:33:00.000Z,13 February 2026 - 09:33 PM,08.29,126.68,034,2.2,039km S 77° E of Hinatuan (Surigao Del Sur),039,S 77° E,Hinatuan (Surigao Del Sur)
 2026-02-13T21:12:00.000Z,13 February 2026 - 09:12 PM,02.65,127.01,024,4.5,353km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),353,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-13T20:50:00.000Z,13 February 2026 - 08:50 PM,06.22,127.10,110,4.3,117km S 38° E of Tarragona (Davao Oriental),117,S 38° E,Tarragona (Davao Oriental)
