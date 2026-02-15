@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T11:21:00.000Z,15 February 2026 - 11:21 AM,06.82,126.25,043,3.1,016km S 14° E of City Of Mati (Davao Oriental),016,S 14° E,City Of Mati (Davao Oriental)
+2026-02-15T10:52:00.000Z,15 February 2026 - 10:52 AM,17.85,120.82,036,2.1,014km North of Tineg (Abra),014,North of Tineg,
 2026-02-15T09:52:00.000Z,15 February 2026 - 09:52 AM,09.93,121.99,003,2.7,051km N 70° W of City Of Sipalay (Negros Occidental),051,N 70° W,City Of Sipalay (Negros Occidental)
 2026-02-15T09:50:00.000Z,15 February 2026 - 09:50 AM,18.57,120.56,011,2.0,011km N 54° W of Burgos (Ilocos Norte),011,N 54° W,Burgos (Ilocos Norte)
 2026-02-15T08:09:00.000Z,15 February 2026 - 08:09 AM,13.80,120.67,109,1.8,005km S 42° E of Calatagan (Batangas),005,S 42° E,Calatagan (Batangas)
@@ -321,4 +323,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-08T12:26:00.000Z,08 February 2026 - 12:26 PM,16.76,120.59,003,1.7,010km N 41° W of Kibungan (Benguet),010,N 41° W,Kibungan (Benguet)
 2026-02-08T12:25:00.000Z,08 February 2026 - 12:25 PM,10.10,126.26,015,2.6,024km N 65° E of Burgos (Surigao Del Norte),024,N 65° E,Burgos (Surigao Del Norte)
 2026-02-08T11:27:00.000Z,08 February 2026 - 11:27 AM,10.05,125.98,004,2.2,007km N 58° W of Santa Monica (Surigao Del Norte),007,N 58° W,Santa Monica (Surigao Del Norte)
-2026-02-08T10:38:00.000Z,08 February 2026 - 10:38 AM,05.95,127.50,153,1.9,168km S 44° E of Tarragona (Davao Oriental),168,S 44° E,Tarragona (Davao Oriental)
