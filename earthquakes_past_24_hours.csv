@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T00:54:00.000Z,16 February 2026 - 12:54 AM,08.42,126.50,002,2.7,019km N 71° E of Hinatuan (Surigao Del Sur),019,N 71° E,Hinatuan (Surigao Del Sur)
 2026-02-15T23:23:00.000Z,15 February 2026 - 11:23 PM,09.69,126.15,011,3.6,011km S 02° W of General Luna (Surigao Del Norte),011,S 02° W,General Luna (Surigao Del Norte)
 2026-02-15T20:23:00.000Z,15 February 2026 - 08:23 PM,13.38,120.47,021,1.8,004km S 03° E of Paluan (Occidental Mindoro),004,S 03° E,Paluan (Occidental Mindoro)
 2026-02-15T20:06:00.000Z,15 February 2026 - 08:06 PM,09.02,125.80,005,1.8,024km S 82° E of Remedios T. Romualdez (Agusan Del Norte),024,S 82° E,Remedios T. Romualdez (Agusan Del Norte)
@@ -49,7 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T01:45:00.000Z,15 February 2026 - 01:45 AM,13.73,120.56,095,1.4,014km S 33° W of Calatagan (Batangas),014,S 33° W,Calatagan (Batangas)
 2026-02-15T01:22:00.000Z,15 February 2026 - 01:22 AM,05.23,127.49,052,5.3,217km S 70° E of Jose Abad Santos (Davao Occidental),217,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-02-15T01:07:00.000Z,15 February 2026 - 01:07 AM,10.16,126.04,019,2.4,016km N 15° W of Burgos (Surigao Del Norte),016,N 15° W,Burgos (Surigao Del Norte)
-2026-02-15T00:53:00.000Z,15 February 2026 - 12:53 AM,10.64,122.42,015,1.8,006km S 54° E of Tigbauan (Iloilo),006,S 54° E,Tigbauan (Iloilo)
-2026-02-15T00:31:00.000Z,15 February 2026 - 12:31 AM,02.81,128.41,031,4.0,439km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),439,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-15T00:12:00.000Z,15 February 2026 - 12:12 AM,06.48,123.69,011,3.0,040km S 78° W of Kalamansig (Sultan Kudarat),040,S 78° W,Kalamansig (Sultan Kudarat)
-2026-02-14T23:31:00.000Z,14 February 2026 - 11:31 PM,06.39,126.08,026,1.7,029km S 02° E of Governor Generoso (Davao Oriental),029,S 02° E,Governor Generoso (Davao Oriental)

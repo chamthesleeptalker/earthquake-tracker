@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T00:54:00.000Z,16 February 2026 - 12:54 AM,08.42,126.50,002,2.7,019km N 71° E of Hinatuan (Surigao Del Sur),019,N 71° E,Hinatuan (Surigao Del Sur)
 2026-02-15T23:23:00.000Z,15 February 2026 - 11:23 PM,09.69,126.15,011,3.6,011km S 02° W of General Luna (Surigao Del Norte),011,S 02° W,General Luna (Surigao Del Norte)
 2026-02-15T20:23:00.000Z,15 February 2026 - 08:23 PM,13.38,120.47,021,1.8,004km S 03° E of Paluan (Occidental Mindoro),004,S 03° E,Paluan (Occidental Mindoro)
 2026-02-15T20:06:00.000Z,15 February 2026 - 08:06 PM,09.02,125.80,005,1.8,024km S 82° E of Remedios T. Romualdez (Agusan Del Norte),024,S 82° E,Remedios T. Romualdez (Agusan Del Norte)
@@ -300,7 +301,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-09T01:24:00.000Z,09 February 2026 - 01:24 AM,10.41,124.98,007,2.0,003km North of Sogod (Southern Leyte),003,North of Sogod,Leyte)
 2026-02-09T01:07:00.000Z,09 February 2026 - 01:07 AM,10.44,124.90,002,2.5,011km N 56° W of Sogod (Southern Leyte),011,N 56° W,Sogod (Southern Leyte)
 2026-02-09T00:55:00.000Z,09 February 2026 - 12:55 AM,06.51,123.97,003,2.1,010km S 58° W of Kalamansig (Sultan Kudarat),010,S 58° W,Kalamansig (Sultan Kudarat)
-2026-02-09T00:25:00.000Z,09 February 2026 - 12:25 AM,05.57,126.14,066,2.5,066km S 55° E of Jose Abad Santos (Davao Occidental),066,S 55° E,Jose Abad Santos (Davao Occidental)
-2026-02-09T00:09:00.000Z,09 February 2026 - 12:09 AM,06.89,124.24,021,1.6,010km S 69° W of Datu Anggal Midtimbang (Maguindanao Del Sur),010,S 69° W,Datu Anggal Midtimbang (Maguindanao Del Sur)
-2026-02-08T23:49:00.000Z,08 February 2026 - 11:49 PM,06.57,123.81,005,2.2,027km N 87° W of Kalamansig (Sultan Kudarat),027,N 87° W,Kalamansig (Sultan Kudarat)
-2026-02-08T23:47:00.000Z,08 February 2026 - 11:47 PM,06.57,123.83,003,2.0,025km N 87° W of Kalamansig (Sultan Kudarat),025,N 87° W,Kalamansig (Sultan Kudarat)
