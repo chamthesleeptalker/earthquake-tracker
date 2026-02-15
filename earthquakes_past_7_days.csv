@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T18:14:00.000Z,15 February 2026 - 06:14 PM,13.34,120.31,012,1.6,019km S 63° W of Paluan (Occidental Mindoro),019,S 63° W,Paluan (Occidental Mindoro)
 2026-02-15T17:39:00.000Z,15 February 2026 - 05:39 PM,13.34,120.15,027,2.9,035km S 77° W of Paluan (Occidental Mindoro),035,S 77° W,Paluan (Occidental Mindoro)
 2026-02-15T17:08:00.000Z,15 February 2026 - 05:08 PM,06.20,126.06,139,2.4,041km East of Don Marcelino (Davao Occidental),041,East of Don,(Davao Occidental)
 2026-02-15T16:57:00.000Z,15 February 2026 - 04:57 PM,13.48,120.07,026,2.1,033km S 37° W of Looc (Occidental Mindoro),033,S 37° W,Looc (Occidental Mindoro)
@@ -312,6 +313,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-08T19:16:00.000Z,08 February 2026 - 07:16 PM,06.54,123.83,007,2.4,024km S 87° W of Kalamansig (Sultan Kudarat),024,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-08T19:01:00.000Z,08 February 2026 - 07:01 PM,11.03,124.09,005,2.1,012km S 82° E of City Of Bogo (Cebu),012,S 82° E,City Of Bogo (Cebu)
 2026-02-08T18:40:00.000Z,08 February 2026 - 06:40 PM,15.05,119.90,023,1.7,018km S 86° W of San Felipe (Zambales),018,S 86° W,San Felipe (Zambales)
-2026-02-08T18:13:00.000Z,08 February 2026 - 06:13 PM,06.56,123.70,019,2.4,039km N 89° W of Kalamansig (Sultan Kudarat),039,N 89° W,Kalamansig (Sultan Kudarat)
-2026-02-08T18:00:00.000Z,08 February 2026 - 06:00 PM,08.90,125.71,008,2.0,009km N 11° E of Sibagat (Agusan Del Sur),009,N 11° E,Sibagat (Agusan Del Sur)
-2026-02-08T17:40:00.000Z,08 February 2026 - 05:40 PM,11.09,124.09,013,2.3,013km N 70° E of City Of Bogo (Cebu),013,N 70° E,City Of Bogo (Cebu)
