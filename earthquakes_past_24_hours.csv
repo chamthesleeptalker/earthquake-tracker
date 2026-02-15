@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T23:23:00.000Z,15 February 2026 - 11:23 PM,09.69,126.15,011,3.6,011km S 02° W of General Luna (Surigao Del Norte),011,S 02° W,General Luna (Surigao Del Norte)
 2026-02-15T20:23:00.000Z,15 February 2026 - 08:23 PM,13.38,120.47,021,1.8,004km S 03° E of Paluan (Occidental Mindoro),004,S 03° E,Paluan (Occidental Mindoro)
 2026-02-15T20:06:00.000Z,15 February 2026 - 08:06 PM,09.02,125.80,005,1.8,024km S 82° E of Remedios T. Romualdez (Agusan Del Norte),024,S 82° E,Remedios T. Romualdez (Agusan Del Norte)
 2026-02-15T19:32:00.000Z,15 February 2026 - 07:32 PM,06.20,123.59,033,1.6,065km S 52° W of Kalamansig (Sultan Kudarat),065,S 52° W,Kalamansig (Sultan Kudarat)
@@ -52,9 +53,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T00:31:00.000Z,15 February 2026 - 12:31 AM,02.81,128.41,031,4.0,439km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),439,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-15T00:12:00.000Z,15 February 2026 - 12:12 AM,06.48,123.69,011,3.0,040km S 78° W of Kalamansig (Sultan Kudarat),040,S 78° W,Kalamansig (Sultan Kudarat)
 2026-02-14T23:31:00.000Z,14 February 2026 - 11:31 PM,06.39,126.08,026,1.7,029km S 02° E of Governor Generoso (Davao Oriental),029,S 02° E,Governor Generoso (Davao Oriental)
-2026-02-14T23:11:00.000Z,14 February 2026 - 11:11 PM,13.49,120.77,022,2.5,007km N 46° E of Abra De Ilog (Occidental Mindoro),007,N 46° E,Abra De Ilog (Occidental Mindoro)
-2026-02-14T22:52:00.000Z,14 February 2026 - 10:52 PM,06.36,126.14,014,1.8,034km S 12° E of Governor Generoso (Davao Oriental),034,S 12° E,Governor Generoso (Davao Oriental)
-2026-02-14T22:36:00.000Z,14 February 2026 - 10:36 PM,06.79,126.77,123,1.8,046km S 51° E of Tarragona (Davao Oriental),046,S 51° E,Tarragona (Davao Oriental)
-2026-02-14T22:27:00.000Z,14 February 2026 - 10:27 PM,11.07,124.08,005,2.6,011km N 79° E of City Of Bogo (Cebu),011,N 79° E,City Of Bogo (Cebu)
-2026-02-14T21:09:00.000Z,14 February 2026 - 09:09 PM,09.84,126.39,009,2.2,027km N 76° E of General Luna (Surigao Del Norte),027,N 76° E,General Luna (Surigao Del Norte)
-2026-02-14T21:06:00.000Z,14 February 2026 - 09:06 PM,10.93,122.77,017,2.7,005km S 19° E of Anilao (Iloilo),005,S 19° E,Anilao (Iloilo)
