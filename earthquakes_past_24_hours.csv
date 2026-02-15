@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-15T09:52:00.000Z,15 February 2026 - 09:52 AM,09.93,121.99,003,2.7,051km N 70° W of City Of Sipalay (Negros Occidental),051,N 70° W,City Of Sipalay (Negros Occidental)
+2026-02-15T09:50:00.000Z,15 February 2026 - 09:50 AM,18.57,120.56,011,2.0,011km N 54° W of Burgos (Ilocos Norte),011,N 54° W,Burgos (Ilocos Norte)
+2026-02-15T08:09:00.000Z,15 February 2026 - 08:09 AM,13.80,120.67,109,1.8,005km S 42° E of Calatagan (Batangas),005,S 42° E,Calatagan (Batangas)
 2026-02-15T07:35:00.000Z,15 February 2026 - 07:35 AM,08.63,126.88,026,2.9,067km N 64° E of Hinatuan (Surigao Del Sur),067,N 64° E,Hinatuan (Surigao Del Sur)
 2026-02-15T07:32:00.000Z,15 February 2026 - 07:32 AM,07.84,126.44,016,1.6,006km N 19° W of Cateel (Davao Oriental),006,N 19° W,Cateel (Davao Oriental)
 2026-02-15T07:19:00.000Z,15 February 2026 - 07:19 AM,12.80,122.97,020,2.3,032km S 70° W of Claveria (Masbate),032,S 70° W,Claveria (Masbate)
@@ -51,7 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-14T12:10:00.000Z,14 February 2026 - 12:10 PM,09.01,125.97,025,1.7,010km N 48° W of San Miguel (Surigao Del Sur),010,N 48° W,San Miguel (Surigao Del Sur)
 2026-02-14T11:36:00.000Z,14 February 2026 - 11:36 AM,13.72,120.57,088,1.5,014km S 31° W of Calatagan (Batangas),014,S 31° W,Calatagan (Batangas)
 2026-02-14T10:45:00.000Z,14 February 2026 - 10:45 AM,10.97,124.10,003,2.1,016km S 58° E of City Of Bogo (Cebu),016,S 58° E,City Of Bogo (Cebu)
-2026-02-14T09:12:00.000Z,14 February 2026 - 09:12 AM,13.97,119.20,033,2.9,101km N 83° W of Lubang (Occidental Mindoro),101,N 83° W,Lubang (Occidental Mindoro)
-2026-02-14T09:02:00.000Z,14 February 2026 - 09:02 AM,04.01,126.75,040,4.4,215km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),215,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-14T08:51:00.000Z,14 February 2026 - 08:51 AM,11.05,124.02,003,1.5,005km N 85° E of City Of Bogo (Cebu),005,N 85° E,City Of Bogo (Cebu)
-2026-02-14T08:35:00.000Z,14 February 2026 - 08:35 AM,02.63,127.38,019,4.2,370km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),370,S 36° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
