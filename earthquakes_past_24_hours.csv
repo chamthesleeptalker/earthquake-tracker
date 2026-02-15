@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T06:58:00.000Z,16 February 2026 - 06:58 AM,06.30,123.59,031,1.9,058km S 61° W of Kalamansig (Sultan Kudarat),058,S 61° W,Kalamansig (Sultan Kudarat)
 2026-02-16T06:18:00.000Z,16 February 2026 - 06:18 AM,15.33,119.98,018,2.6,001km N 63° E of Iba (Zambales),001,N 63° E,Iba (Zambales)
 2026-02-16T04:28:00.000Z,16 February 2026 - 04:28 AM,08.92,126.60,033,1.7,033km N 89° E of Cagwait (Surigao Del Sur),033,N 89° E,Cagwait (Surigao Del Sur)
 2026-02-16T04:18:00.000Z,16 February 2026 - 04:18 AM,12.51,125.00,007,2.4,007km S 12° W of Laoang (Northern Samar),007,S 12° W,Laoang (Northern Samar)
@@ -30,4 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T07:35:00.000Z,15 February 2026 - 07:35 AM,08.63,126.88,026,2.9,067km N 64° E of Hinatuan (Surigao Del Sur),067,N 64° E,Hinatuan (Surigao Del Sur)
 2026-02-15T07:32:00.000Z,15 February 2026 - 07:32 AM,07.84,126.44,016,1.6,006km N 19° W of Cateel (Davao Oriental),006,N 19° W,Cateel (Davao Oriental)
 2026-02-15T07:19:00.000Z,15 February 2026 - 07:19 AM,12.80,122.97,020,2.3,032km S 70° W of Claveria (Masbate),032,S 70° W,Claveria (Masbate)
-2026-02-15T06:38:00.000Z,15 February 2026 - 06:38 AM,13.82,120.51,024,2.3,014km S 82° W of Calatagan (Batangas),014,S 82° W,Calatagan (Batangas)

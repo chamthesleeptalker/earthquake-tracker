@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T06:58:00.000Z,16 February 2026 - 06:58 AM,06.30,123.59,031,1.9,058km S 61° W of Kalamansig (Sultan Kudarat),058,S 61° W,Kalamansig (Sultan Kudarat)
 2026-02-16T06:18:00.000Z,16 February 2026 - 06:18 AM,15.33,119.98,018,2.6,001km N 63° E of Iba (Zambales),001,N 63° E,Iba (Zambales)
 2026-02-16T04:28:00.000Z,16 February 2026 - 04:28 AM,08.92,126.60,033,1.7,033km N 89° E of Cagwait (Surigao Del Sur),033,N 89° E,Cagwait (Surigao Del Sur)
 2026-02-16T04:18:00.000Z,16 February 2026 - 04:18 AM,12.51,125.00,007,2.4,007km S 12° W of Laoang (Northern Samar),007,S 12° W,Laoang (Northern Samar)
@@ -291,4 +292,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-09T08:30:00.000Z,09 February 2026 - 08:30 AM,06.79,123.61,019,2.5,055km N 62° W of Kalamansig (Sultan Kudarat),055,N 62° W,Kalamansig (Sultan Kudarat)
 2026-02-09T08:24:00.000Z,09 February 2026 - 08:24 AM,06.54,126.53,132,2.4,053km S 77° E of Governor Generoso (Davao Oriental),053,S 77° E,Governor Generoso (Davao Oriental)
 2026-02-09T08:05:00.000Z,09 February 2026 - 08:05 AM,13.76,120.56,111,3.2,011km S 48° W of Calatagan (Batangas),011,S 48° W,Calatagan (Batangas)
-2026-02-09T06:25:00.000Z,09 February 2026 - 06:25 AM,07.58,126.07,009,2.6,008km N 64° W of New Bataan (Davao De Oro),008,N 64° W,New Bataan (Davao De Oro)
