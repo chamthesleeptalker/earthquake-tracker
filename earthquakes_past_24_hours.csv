@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T04:50:00.000Z,17 February 2026 - 04:50 AM,06.08,123.68,026,2.3,066km S 38° W of Kalamansig (Sultan Kudarat),066,S 38° W,Kalamansig (Sultan Kudarat)
 2026-02-17T03:54:00.000Z,17 February 2026 - 03:54 AM,17.57,120.73,032,1.4,003km N 13° E of Bucay (Abra),003,N 13° E,Bucay (Abra)
 2026-02-17T03:30:00.000Z,17 February 2026 - 03:30 AM,11.13,123.94,003,2.3,011km N 27° W of City Of Bogo (Cebu),011,N 27° W,City Of Bogo (Cebu)
 2026-02-17T03:04:00.000Z,17 February 2026 - 03:04 AM,15.47,121.46,025,1.6,012km N 42° E of Dingalan (Aurora),012,N 42° E,Dingalan (Aurora)
@@ -22,6 +23,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-16T08:51:00.000Z,16 February 2026 - 08:51 AM,07.31,126.80,010,2.5,026km S 86° E of Caraga (Davao Oriental),026,S 86° E,Caraga (Davao Oriental)
 2026-02-16T06:58:00.000Z,16 February 2026 - 06:58 AM,06.30,123.59,031,1.9,058km S 61° W of Kalamansig (Sultan Kudarat),058,S 61° W,Kalamansig (Sultan Kudarat)
 2026-02-16T06:18:00.000Z,16 February 2026 - 06:18 AM,15.33,119.98,018,2.6,001km N 63° E of Iba (Zambales),001,N 63° E,Iba (Zambales)
-2026-02-16T04:28:00.000Z,16 February 2026 - 04:28 AM,08.92,126.60,033,1.7,033km N 89° E of Cagwait (Surigao Del Sur),033,N 89° E,Cagwait (Surigao Del Sur)
-2026-02-16T04:18:00.000Z,16 February 2026 - 04:18 AM,12.51,125.00,007,2.4,007km S 12° W of Laoang (Northern Samar),007,S 12° W,Laoang (Northern Samar)
-2026-02-16T04:02:00.000Z,16 February 2026 - 04:02 AM,12.61,123.04,006,1.6,039km S 34° W of Claveria (Masbate),039,S 34° W,Claveria (Masbate)
