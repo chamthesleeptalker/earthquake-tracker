@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T23:27:00.000Z,16 February 2026 - 11:27 PM,19.19,121.25,017,2.2,010km N 29° E of Dalupiri Island (Calayan) (Cagayan),010,N 29° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-16T16:59:00.000Z,16 February 2026 - 04:59 PM,16.94,120.09,023,2.3,032km N 73° W of Luna (La Union),032,N 73° W,Luna (La Union)
 2026-02-16T15:52:00.000Z,16 February 2026 - 03:52 PM,12.99,123.07,004,1.6,021km N 63° W of Claveria (Masbate),021,N 63° W,Claveria (Masbate)
 2026-02-16T14:25:00.000Z,16 February 2026 - 02:25 PM,17.77,120.77,033,1.2,007km N 47° W of Tineg (Abra),007,N 47° W,Tineg (Abra)
@@ -18,11 +19,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-16T02:54:00.000Z,16 February 2026 - 02:54 AM,17.07,121.84,028,1.5,002km N 07° E of Gamu (Isabela),002,N 07° E,Gamu (Isabela)
 2026-02-16T01:38:00.000Z,16 February 2026 - 01:38 AM,09.69,126.30,027,1.9,019km S 58° E of General Luna (Surigao Del Norte),019,S 58° E,General Luna (Surigao Del Norte)
 2026-02-16T00:54:00.000Z,16 February 2026 - 12:54 AM,08.42,126.50,002,2.7,019km N 71° E of Hinatuan (Surigao Del Sur),019,N 71° E,Hinatuan (Surigao Del Sur)
-2026-02-15T23:23:00.000Z,15 February 2026 - 11:23 PM,09.69,126.15,011,3.6,011km S 02° W of General Luna (Surigao Del Norte),011,S 02° W,General Luna (Surigao Del Norte)
-2026-02-15T20:23:00.000Z,15 February 2026 - 08:23 PM,13.38,120.47,021,1.8,004km S 03° E of Paluan (Occidental Mindoro),004,S 03° E,Paluan (Occidental Mindoro)
-2026-02-15T20:06:00.000Z,15 February 2026 - 08:06 PM,09.02,125.80,005,1.8,024km S 82° E of Remedios T. Romualdez (Agusan Del Norte),024,S 82° E,Remedios T. Romualdez (Agusan Del Norte)
-2026-02-15T19:32:00.000Z,15 February 2026 - 07:32 PM,06.20,123.59,033,1.6,065km S 52° W of Kalamansig (Sultan Kudarat),065,S 52° W,Kalamansig (Sultan Kudarat)
-2026-02-15T18:27:00.000Z,15 February 2026 - 06:27 PM,16.32,119.66,038,1.3,026km N 55° W of Bani (Pangasinan),026,N 55° W,Bani (Pangasinan)
-2026-02-15T18:14:00.000Z,15 February 2026 - 06:14 PM,13.34,120.31,012,1.6,019km S 63° W of Paluan (Occidental Mindoro),019,S 63° W,Paluan (Occidental Mindoro)
-2026-02-15T17:39:00.000Z,15 February 2026 - 05:39 PM,13.34,120.15,027,2.9,035km S 77° W of Paluan (Occidental Mindoro),035,S 77° W,Paluan (Occidental Mindoro)
-2026-02-15T17:08:00.000Z,15 February 2026 - 05:08 PM,06.20,126.06,139,2.4,041km East of Don Marcelino (Davao Occidental),041,East of Don,(Davao Occidental)
