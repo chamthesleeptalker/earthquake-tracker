@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T09:36:00.000Z,16 February 2026 - 09:36 AM,17.26,119.98,010,5.0,049km S 81° W of San Esteban (Ilocos Sur),049,S 81° W,San Esteban (Ilocos Sur)
+2026-02-16T09:22:00.000Z,16 February 2026 - 09:22 AM,02.68,128.54,031,3.8,460km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),460,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-16T08:56:00.000Z,16 February 2026 - 08:56 AM,08.16,122.64,025,2.6,006km N 42° W of Liloy (Zamboanga Del Norte),006,N 42° W,Liloy (Zamboanga Del Norte)
+2026-02-16T08:51:00.000Z,16 February 2026 - 08:51 AM,07.31,126.80,010,2.5,026km S 86° E of Caraga (Davao Oriental),026,S 86° E,Caraga (Davao Oriental)
 2026-02-16T06:58:00.000Z,16 February 2026 - 06:58 AM,06.30,123.59,031,1.9,058km S 61° W of Kalamansig (Sultan Kudarat),058,S 61° W,Kalamansig (Sultan Kudarat)
 2026-02-16T06:18:00.000Z,16 February 2026 - 06:18 AM,15.33,119.98,018,2.6,001km N 63° E of Iba (Zambales),001,N 63° E,Iba (Zambales)
 2026-02-16T04:28:00.000Z,16 February 2026 - 04:28 AM,08.92,126.60,033,1.7,033km N 89° E of Cagwait (Surigao Del Sur),033,N 89° E,Cagwait (Surigao Del Sur)
@@ -27,7 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T10:52:00.000Z,15 February 2026 - 10:52 AM,17.85,120.82,036,2.1,014km North of Tineg (Abra),014,North of Tineg,
 2026-02-15T09:52:00.000Z,15 February 2026 - 09:52 AM,09.93,121.99,003,2.7,051km N 70° W of City Of Sipalay (Negros Occidental),051,N 70° W,City Of Sipalay (Negros Occidental)
 2026-02-15T09:50:00.000Z,15 February 2026 - 09:50 AM,18.57,120.56,011,2.0,011km N 54° W of Burgos (Ilocos Norte),011,N 54° W,Burgos (Ilocos Norte)
-2026-02-15T08:09:00.000Z,15 February 2026 - 08:09 AM,13.80,120.67,109,1.8,005km S 42° E of Calatagan (Batangas),005,S 42° E,Calatagan (Batangas)
-2026-02-15T07:35:00.000Z,15 February 2026 - 07:35 AM,08.63,126.88,026,2.9,067km N 64° E of Hinatuan (Surigao Del Sur),067,N 64° E,Hinatuan (Surigao Del Sur)
-2026-02-15T07:32:00.000Z,15 February 2026 - 07:32 AM,07.84,126.44,016,1.6,006km N 19° W of Cateel (Davao Oriental),006,N 19° W,Cateel (Davao Oriental)
-2026-02-15T07:19:00.000Z,15 February 2026 - 07:19 AM,12.80,122.97,020,2.3,032km S 70° W of Claveria (Masbate),032,S 70° W,Claveria (Masbate)
