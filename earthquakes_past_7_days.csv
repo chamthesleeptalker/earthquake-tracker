@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T23:57:00.000Z,16 February 2026 - 11:57 PM,08.43,126.63,028,1.5,033km N 77° E of Hinatuan (Surigao Del Sur),033,N 77° E,Hinatuan (Surigao Del Sur)
 2026-02-16T23:27:00.000Z,16 February 2026 - 11:27 PM,19.19,121.25,017,2.2,010km N 29° E of Dalupiri Island (Calayan) (Cagayan),010,N 29° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-16T16:59:00.000Z,16 February 2026 - 04:59 PM,16.94,120.09,023,2.3,032km N 73° W of Luna (La Union),032,N 73° W,Luna (La Union)
 2026-02-16T15:52:00.000Z,16 February 2026 - 03:52 PM,12.99,123.07,004,1.6,021km N 63° W of Claveria (Masbate),021,N 63° W,Claveria (Masbate)
@@ -282,4 +283,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T02:15:00.000Z,10 February 2026 - 02:15 AM,13.80,120.61,115,1.8,005km S 31° W of Calatagan (Batangas),005,S 31° W,Calatagan (Batangas)
 2026-02-10T01:34:00.000Z,10 February 2026 - 01:34 AM,10.38,125.06,021,2.1,009km S 85° E of Sogod (Southern Leyte),009,S 85° E,Sogod (Southern Leyte)
 2026-02-10T00:47:00.000Z,10 February 2026 - 12:47 AM,15.99,121.89,023,2.8,018km S 25° W of Dinalungan (Aurora),018,S 25° W,Dinalungan (Aurora)
-2026-02-09T23:31:00.000Z,09 February 2026 - 11:31 PM,06.43,125.15,028,2.1,015km N 65° W of Malungon (Sarangani),015,N 65° W,Malungon (Sarangani)
