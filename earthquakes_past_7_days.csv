@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T12:52:00.000Z,16 February 2026 - 12:52 PM,06.75,125.44,018,2.1,010km N 87° E of City Of Digos (Davao Del Sur),010,N 87° E,City Of Digos (Davao Del Sur)
 2026-02-16T11:31:00.000Z,16 February 2026 - 11:31 AM,09.00,126.25,029,3.1,004km N 48° W of Bayabas (Surigao Del Sur),004,N 48° W,Bayabas (Surigao Del Sur)
 2026-02-16T09:36:00.000Z,16 February 2026 - 09:36 AM,17.26,119.98,010,5.0,049km S 81° W of San Esteban (Ilocos Sur),049,S 81° W,San Esteban (Ilocos Sur)
 2026-02-16T09:22:00.000Z,16 February 2026 - 09:22 AM,02.68,128.54,031,3.8,460km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),460,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -292,4 +293,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-09T17:43:00.000Z,09 February 2026 - 05:43 PM,13.14,121.33,018,1.5,007km S 54° E of Victoria (Oriental Mindoro),007,S 54° E,Victoria (Oriental Mindoro)
 2026-02-09T17:08:00.000Z,09 February 2026 - 05:08 PM,03.86,128.17,131,3.2,349km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),349,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-09T16:30:00.000Z,09 February 2026 - 04:30 PM,02.34,126.23,006,4.4,351km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),351,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-09T11:44:00.000Z,09 February 2026 - 11:44 AM,17.06,121.45,037,1.6,016km N 16° W of Alfonso Lista (Ifugao),016,N 16° W,Alfonso Lista (Ifugao)
