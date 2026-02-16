@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-16T15:52:00.000Z,16 February 2026 - 03:52 PM,12.99,123.07,004,1.6,021km N 63° W of Claveria (Masbate),021,N 63° W,Claveria (Masbate)
 2026-02-16T14:25:00.000Z,16 February 2026 - 02:25 PM,17.77,120.77,033,1.2,007km N 47° W of Tineg (Abra),007,N 47° W,Tineg (Abra)
 2026-02-16T14:17:00.000Z,16 February 2026 - 02:17 PM,07.87,126.46,024,2.0,008km N 05° E of Cateel (Davao Oriental),008,N 05° E,Cateel (Davao Oriental)
 2026-02-16T12:52:00.000Z,16 February 2026 - 12:52 PM,06.75,125.44,018,2.1,010km N 87° E of City Of Digos (Davao Del Sur),010,N 87° E,City Of Digos (Davao Del Sur)
@@ -28,6 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T16:40:00.000Z,15 February 2026 - 04:40 PM,13.34,120.20,039,3.3,030km S 74° W of Paluan (Occidental Mindoro),030,S 74° W,Paluan (Occidental Mindoro)
 2026-02-15T16:24:00.000Z,15 February 2026 - 04:24 PM,05.29,127.53,033,3.5,220km S 72° E of Jose Abad Santos (Davao Occidental),220,S 72° E,Jose Abad Santos (Davao Occidental)
 2026-02-15T15:57:00.000Z,15 February 2026 - 03:57 PM,13.75,120.27,040,1.3,004km N 35° E of Looc (Occidental Mindoro),004,N 35° E,Looc (Occidental Mindoro)
-2026-02-15T15:29:00.000Z,15 February 2026 - 03:29 PM,07.90,127.02,011,2.6,062km N 54° E of Baganga (Davao Oriental),062,N 54° E,Baganga (Davao Oriental)
-2026-02-15T15:21:00.000Z,15 February 2026 - 03:21 PM,02.69,126.85,032,4.5,340km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),340,S 28° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-15T15:05:00.000Z,15 February 2026 - 03:05 PM,06.76,126.11,024,2.5,008km S 24° E of San Isidro (Davao Oriental),008,S 24° E,San Isidro (Davao Oriental)
