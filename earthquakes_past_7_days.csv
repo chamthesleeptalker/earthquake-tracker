@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T02:47:00.000Z,17 February 2026 - 02:47 AM,14.87,123.31,005,1.8,058km N 41° E of Tinaga Island (Vinzons) (Camarines Norte),058,N 41° E,Tinaga Island (Vinzons) (Camarines Norte)
+2026-02-17T02:47:00.000Z,17 February 2026 - 02:47 AM,07.57,126.53,022,2.2,003km S 86° W of Baganga (Davao Oriental),003,S 86° W,Baganga (Davao Oriental)
+2026-02-17T02:22:00.000Z,17 February 2026 - 02:22 AM,07.40,126.70,024,2.2,017km N 61° E of Caraga (Davao Oriental),017,N 61° E,Caraga (Davao Oriental)
+2026-02-17T02:13:00.000Z,17 February 2026 - 02:13 AM,13.71,120.03,013,1.6,019km S 31° W of Lubang (Occidental Mindoro),019,S 31° W,Lubang (Occidental Mindoro)
+2026-02-17T02:12:00.000Z,17 February 2026 - 02:12 AM,18.94,120.70,002,2.3,044km N 12° W of Pagudpud (Ilocos Norte),044,N 12° W,Pagudpud (Ilocos Norte)
+2026-02-17T02:01:00.000Z,17 February 2026 - 02:01 AM,15.02,123.38,018,4.3,076km N 37° E of Tinaga Island (Vinzons) (Camarines Norte),076,N 37° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-02-16T23:57:00.000Z,16 February 2026 - 11:57 PM,08.43,126.63,028,1.5,033km N 77° E of Hinatuan (Surigao Del Sur),033,N 77° E,Hinatuan (Surigao Del Sur)
 2026-02-16T23:27:00.000Z,16 February 2026 - 11:27 PM,19.19,121.25,017,2.2,010km N 29° E of Dalupiri Island (Calayan) (Cagayan),010,N 29° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-16T16:59:00.000Z,16 February 2026 - 04:59 PM,16.94,120.09,023,2.3,032km N 73° W of Luna (La Union),032,N 73° W,Luna (La Union)
@@ -279,7 +285,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T04:18:00.000Z,10 February 2026 - 04:18 AM,06.54,123.70,012,2.5,039km S 87° W of Kalamansig (Sultan Kudarat),039,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-10T03:31:00.000Z,10 February 2026 - 03:31 AM,17.83,120.64,024,1.6,010km S 13° W of Nueva Era (Ilocos Norte),010,S 13° W,Nueva Era (Ilocos Norte)
 2026-02-10T02:52:00.000Z,10 February 2026 - 02:52 AM,17.86,121.00,032,1.4,022km N 16° E of Lacub (Abra),022,N 16° E,Lacub (Abra)
-2026-02-10T02:29:00.000Z,10 February 2026 - 02:29 AM,12.82,123.06,011,2.0,022km S 66° W of Claveria (Masbate),022,S 66° W,Claveria (Masbate)
-2026-02-10T02:15:00.000Z,10 February 2026 - 02:15 AM,13.80,120.61,115,1.8,005km S 31° W of Calatagan (Batangas),005,S 31° W,Calatagan (Batangas)
-2026-02-10T01:34:00.000Z,10 February 2026 - 01:34 AM,10.38,125.06,021,2.1,009km S 85° E of Sogod (Southern Leyte),009,S 85° E,Sogod (Southern Leyte)
-2026-02-10T00:47:00.000Z,10 February 2026 - 12:47 AM,15.99,121.89,023,2.8,018km S 25° W of Dinalungan (Aurora),018,S 25° W,Dinalungan (Aurora)
