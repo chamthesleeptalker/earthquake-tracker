@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T18:17:00.000Z,17 February 2026 - 06:17 PM,03.82,128.05,030,3.3,339km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),339,S 57° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-17T18:13:00.000Z,17 February 2026 - 06:13 PM,13.68,120.64,089,1.5,017km S 03° E of Calatagan (Batangas),017,S 03° E,Calatagan (Batangas)
 2026-02-17T17:31:00.000Z,17 February 2026 - 05:31 PM,19.82,121.42,016,3.2,062km N 57° W of Babuyan Island (Calayan) (Cagayan),062,N 57° W,Babuyan Island (Calayan) (Cagayan)
 2026-02-17T16:30:00.000Z,17 February 2026 - 04:30 PM,05.97,124.55,011,3.0,008km S 76° W of Kiamba (Sarangani),008,S 76° W,Kiamba (Sarangani)
 2026-02-17T16:02:00.000Z,17 February 2026 - 04:02 PM,17.27,121.47,033,2.1,012km N 35° E of Paracelis (Mountain Province),012,N 35° E,Paracelis (Mountain Province)
@@ -269,4 +271,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T19:24:00.000Z,10 February 2026 - 07:24 PM,10.50,125.71,028,2.0,021km N 44° E of Loreto (Dinagat Islands),021,N 44° E,Loreto (Dinagat Islands)
 2026-02-10T19:13:00.000Z,10 February 2026 - 07:13 PM,06.38,123.68,019,2.9,046km S 65° W of Kalamansig (Sultan Kudarat),046,S 65° W,Kalamansig (Sultan Kudarat)
 2026-02-10T18:19:00.000Z,10 February 2026 - 06:19 PM,07.29,126.35,003,2.0,023km N 68° W of Manay (Davao Oriental),023,N 68° W,Manay (Davao Oriental)
-2026-02-10T17:45:00.000Z,10 February 2026 - 05:45 PM,08.95,126.43,032,1.5,015km N 77° E of Cagwait (Surigao Del Sur),015,N 77° E,Cagwait (Surigao Del Sur)
