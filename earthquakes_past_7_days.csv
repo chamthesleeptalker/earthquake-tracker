@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T23:08:00.000Z,17 February 2026 - 11:08 PM,18.86,121.23,019,2.3,014km N 84° W of Fuga Island (Aparri) (Cagayan),014,N 84° W,Fuga Island (Aparri) (Cagayan)
+2026-02-17T22:44:00.000Z,17 February 2026 - 10:44 PM,09.68,126.26,016,2.4,016km S 44° E of General Luna (Surigao Del Norte),016,S 44° E,General Luna (Surigao Del Norte)
+2026-02-17T22:31:00.000Z,17 February 2026 - 10:31 PM,05.47,126.30,007,3.1,088km S 56° E of Jose Abad Santos (Davao Occidental),088,S 56° E,Jose Abad Santos (Davao Occidental)
+2026-02-17T22:20:00.000Z,17 February 2026 - 10:20 PM,04.16,129.24,031,4.3,443km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),443,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-17T22:07:00.000Z,17 February 2026 - 10:07 PM,10.73,122.53,021,1.6,005km S 21° W of Pavia (Iloilo),005,S 21° W,Pavia (Iloilo)
 2026-02-17T21:35:00.000Z,17 February 2026 - 09:35 PM,09.94,124.84,032,2.0,021km S 01° E of City Of Maasin  (Southern Leyte),021,S 01° E,City Of Maasin  (Southern Leyte)
 2026-02-17T20:53:00.000Z,17 February 2026 - 08:53 PM,07.39,126.70,018,2.4,016km N 66° E of Caraga (Davao Oriental),016,N 66° E,Caraga (Davao Oriental)
@@ -272,4 +276,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T00:00:00.000Z,11 February 2026 - 12:00 AM,10.41,124.97,011,1.5,003km N 12° W of Sogod (Southern Leyte),003,N 12° W,Sogod (Southern Leyte)
 2026-02-10T23:52:00.000Z,10 February 2026 - 11:52 PM,06.30,123.63,012,1.9,055km S 59° W of Kalamansig (Sultan Kudarat),055,S 59° W,Kalamansig (Sultan Kudarat)
 2026-02-10T23:37:00.000Z,10 February 2026 - 11:37 PM,06.18,123.78,030,2.6,051km S 36° W of Kalamansig (Sultan Kudarat),051,S 36° W,Kalamansig (Sultan Kudarat)
-2026-02-10T22:13:00.000Z,10 February 2026 - 10:13 PM,07.70,124.77,015,1.5,005km S 32° E of Kalilangan (Bukidnon),005,S 32° E,Kalilangan (Bukidnon)
