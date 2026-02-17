@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-18T00:49:00.000Z,18 February 2026 - 12:49 AM,19.02,121.15,010,3.0,011km S 31° W of Dalupiri Island (Calayan) (Cagayan),011,S 31° W,Dalupiri Island (Calayan) (Cagayan)
+2026-02-18T00:22:00.000Z,18 February 2026 - 12:22 AM,07.64,126.62,028,2.5,009km N 43° E of Baganga (Davao Oriental),009,N 43° E,Baganga (Davao Oriental)
 2026-02-17T23:08:00.000Z,17 February 2026 - 11:08 PM,18.86,121.23,019,2.3,014km N 84° W of Fuga Island (Aparri) (Cagayan),014,N 84° W,Fuga Island (Aparri) (Cagayan)
 2026-02-17T22:44:00.000Z,17 February 2026 - 10:44 PM,09.68,126.26,016,2.4,016km S 44° E of General Luna (Surigao Del Norte),016,S 44° E,General Luna (Surigao Del Norte)
 2026-02-17T22:31:00.000Z,17 February 2026 - 10:31 PM,05.47,126.30,007,3.1,088km S 56° E of Jose Abad Santos (Davao Occidental),088,S 56° E,Jose Abad Santos (Davao Occidental)
@@ -41,5 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-17T02:13:00.000Z,17 February 2026 - 02:13 AM,13.71,120.03,013,1.6,019km S 31° W of Lubang (Occidental Mindoro),019,S 31° W,Lubang (Occidental Mindoro)
 2026-02-17T02:12:00.000Z,17 February 2026 - 02:12 AM,18.94,120.70,002,2.3,044km N 12° W of Pagudpud (Ilocos Norte),044,N 12° W,Pagudpud (Ilocos Norte)
 2026-02-17T02:01:00.000Z,17 February 2026 - 02:01 AM,15.02,123.38,018,4.3,076km N 37° E of Tinaga Island (Vinzons) (Camarines Norte),076,N 37° E,Tinaga Island (Vinzons) (Camarines Norte)
-2026-02-16T23:57:00.000Z,16 February 2026 - 11:57 PM,08.43,126.63,028,1.5,033km N 77° E of Hinatuan (Surigao Del Sur),033,N 77° E,Hinatuan (Surigao Del Sur)
-2026-02-16T23:27:00.000Z,16 February 2026 - 11:27 PM,19.19,121.25,017,2.2,010km N 29° E of Dalupiri Island (Calayan) (Cagayan),010,N 29° E,Dalupiri Island (Calayan) (Cagayan)
