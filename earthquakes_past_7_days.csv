@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T13:24:00.000Z,17 February 2026 - 01:24 PM,09.40,126.63,008,2.1,050km N 75° E of Cortes (Surigao Del Sur),050,N 75° E,Cortes (Surigao Del Sur)
 2026-02-17T12:04:00.000Z,17 February 2026 - 12:04 PM,09.34,126.35,043,2.1,018km N 66° E of Cortes (Surigao Del Sur),018,N 66° E,Cortes (Surigao Del Sur)
 2026-02-17T11:43:00.000Z,17 February 2026 - 11:43 AM,10.34,125.94,012,2.9,037km N 17° W of Santa Monica (Surigao Del Norte),037,N 17° W,Santa Monica (Surigao Del Norte)
 2026-02-17T11:40:00.000Z,17 February 2026 - 11:40 AM,09.30,126.24,010,2.2,006km N 62° E of Cortes (Surigao Del Sur),006,N 62° E,Cortes (Surigao Del Sur)
@@ -267,5 +268,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T15:01:00.000Z,10 February 2026 - 03:01 PM,08.14,122.96,027,1.7,008km S 62° W of Bayog (Zamboanga Del Sur),008,S 62° W,Bayog (Zamboanga Del Sur)
 2026-02-10T13:44:00.000Z,10 February 2026 - 01:44 PM,06.65,124.33,007,1.5,021km S 59° W of Datu Abdullah Sangki (Maguindanao Del Sur),021,S 59° W,Datu Abdullah Sangki (Maguindanao Del Sur)
 2026-02-10T13:38:00.000Z,10 February 2026 - 01:38 PM,11.76,125.30,021,2.4,016km N 87° W of San Julian (Eastern Samar),016,N 87° W,San Julian (Eastern Samar)
-2026-02-10T13:05:00.000Z,10 February 2026 - 01:05 PM,06.49,123.62,016,3.0,048km S 81° W of Kalamansig (Sultan Kudarat),048,S 81° W,Kalamansig (Sultan Kudarat)
-2026-02-10T13:01:00.000Z,10 February 2026 - 01:01 PM,06.56,123.80,007,1.8,028km West of Kalamansig (Sultan Kudarat),028,West of Kalamansig,Kudarat)
