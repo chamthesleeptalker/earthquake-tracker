@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T15:36:00.000Z,17 February 2026 - 03:36 PM,12.78,122.98,016,2.2,031km S 65° W of Claveria (Masbate),031,S 65° W,Claveria (Masbate)
 2026-02-17T14:20:00.000Z,17 February 2026 - 02:20 PM,08.87,126.32,033,2.5,006km S 20° E of Cagwait (Surigao Del Sur),006,S 20° E,Cagwait (Surigao Del Sur)
 2026-02-17T13:45:00.000Z,17 February 2026 - 01:45 PM,06.03,125.87,153,2.7,027km S 45° E of Don Marcelino (Davao Occidental),027,S 45° E,Don Marcelino (Davao Occidental)
 2026-02-17T13:24:00.000Z,17 February 2026 - 01:24 PM,09.40,126.63,008,2.1,050km N 75° E of Cortes (Surigao Del Sur),050,N 75° E,Cortes (Surigao Del Sur)
@@ -267,4 +268,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T18:19:00.000Z,10 February 2026 - 06:19 PM,07.29,126.35,003,2.0,023km N 68° W of Manay (Davao Oriental),023,N 68° W,Manay (Davao Oriental)
 2026-02-10T17:45:00.000Z,10 February 2026 - 05:45 PM,08.95,126.43,032,1.5,015km N 77° E of Cagwait (Surigao Del Sur),015,N 77° E,Cagwait (Surigao Del Sur)
 2026-02-10T17:03:00.000Z,10 February 2026 - 05:03 PM,07.93,126.83,027,3.0,044km N 69° E of Cateel (Davao Oriental),044,N 69° E,Cateel (Davao Oriental)
-2026-02-10T15:01:00.000Z,10 February 2026 - 03:01 PM,08.14,122.96,027,1.7,008km S 62° W of Bayog (Zamboanga Del Sur),008,S 62° W,Bayog (Zamboanga Del Sur)
