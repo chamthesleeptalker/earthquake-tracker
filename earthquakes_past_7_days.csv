@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-18T06:23:00.000Z,18 February 2026 - 06:23 AM,08.64,127.25,009,3.8,105km N 73° E of Hinatuan (Surigao Del Sur),105,N 73° E,Hinatuan (Surigao Del Sur)
 2026-02-18T06:02:00.000Z,18 February 2026 - 06:02 AM,16.87,121.31,028,1.4,012km S 10° W of Aguinaldo (Ifugao),012,S 10° W,Aguinaldo (Ifugao)
 2026-02-18T05:52:00.000Z,18 February 2026 - 05:52 AM,11.06,123.95,032,2.4,004km N 59° W of City Of Bogo (Cebu),004,N 59° W,City Of Bogo (Cebu)
 2026-02-18T04:49:00.000Z,18 February 2026 - 04:49 AM,17.28,119.96,013,2.2,051km S 88° W of Santiago (Ilocos Sur),051,S 88° W,Santiago (Ilocos Sur)
@@ -270,4 +271,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T07:28:00.000Z,11 February 2026 - 07:28 AM,11.07,124.04,006,2.4,008km N 66° E of City Of Bogo (Cebu),008,N 66° E,City Of Bogo (Cebu)
 2026-02-11T07:12:00.000Z,11 February 2026 - 07:12 AM,04.95,124.97,016,2.6,072km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 44° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-11T06:43:00.000Z,11 February 2026 - 06:43 AM,07.22,126.78,024,2.5,027km N 87° E of Manay (Davao Oriental),027,N 87° E,Manay (Davao Oriental)
-2026-02-11T06:15:00.000Z,11 February 2026 - 06:15 AM,06.55,124.11,002,1.5,007km S 81° E of Kalamansig (Sultan Kudarat),007,S 81° E,Kalamansig (Sultan Kudarat)
