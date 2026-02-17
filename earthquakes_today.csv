@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T12:04:00.000Z,17 February 2026 - 12:04 PM,09.34,126.35,043,2.1,018km N 66° E of Cortes (Surigao Del Sur),018,N 66° E,Cortes (Surigao Del Sur)
+2026-02-17T11:43:00.000Z,17 February 2026 - 11:43 AM,10.34,125.94,012,2.9,037km N 17° W of Santa Monica (Surigao Del Norte),037,N 17° W,Santa Monica (Surigao Del Norte)
+2026-02-17T11:40:00.000Z,17 February 2026 - 11:40 AM,09.30,126.24,010,2.2,006km N 62° E of Cortes (Surigao Del Sur),006,N 62° E,Cortes (Surigao Del Sur)
+2026-02-17T11:32:00.000Z,17 February 2026 - 11:32 AM,09.42,126.62,007,4.4,049km N 71° E of Cortes (Surigao Del Sur),049,N 71° E,Cortes (Surigao Del Sur)
+2026-02-17T11:13:00.000Z,17 February 2026 - 11:13 AM,16.05,121.53,033,1.5,022km N 03° W of Dipaculao (Aurora),022,N 03° W,Dipaculao (Aurora)
 2026-02-17T09:37:00.000Z,17 February 2026 - 09:37 AM,12.19,120.63,033,1.5,050km S 70° W of San Jose (Occidental Mindoro),050,S 70° W,San Jose (Occidental Mindoro)
 2026-02-17T09:16:00.000Z,17 February 2026 - 09:16 AM,11.91,120.78,020,2.8,058km S 33° W of San Jose (Occidental Mindoro),058,S 33° W,San Jose (Occidental Mindoro)
 2026-02-17T09:06:00.000Z,17 February 2026 - 09:06 AM,09.81,126.42,014,2.4,029km N 83° E of General Luna (Surigao Del Norte),029,N 83° E,General Luna (Surigao Del Norte)
