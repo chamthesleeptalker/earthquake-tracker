@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-17T22:07:00.000Z,17 February 2026 - 10:07 PM,10.73,122.53,021,1.6,005km S 21° W of Pavia (Iloilo),005,S 21° W,Pavia (Iloilo)
+2026-02-17T21:35:00.000Z,17 February 2026 - 09:35 PM,09.94,124.84,032,2.0,021km S 01° E of City Of Maasin  (Southern Leyte),021,S 01° E,City Of Maasin  (Southern Leyte)
+2026-02-17T20:53:00.000Z,17 February 2026 - 08:53 PM,07.39,126.70,018,2.4,016km N 66° E of Caraga (Davao Oriental),016,N 66° E,Caraga (Davao Oriental)
 2026-02-17T20:49:00.000Z,17 February 2026 - 08:49 PM,10.03,124.57,037,1.4,010km S 10° E of President Carlos P. Garcia (Bohol),010,S 10° E,President Carlos P. Garcia (Bohol)
 2026-02-17T20:21:00.000Z,17 February 2026 - 08:21 PM,13.66,120.63,088,1.5,020km South of Calatagan (Batangas),020,South of Calatagan,
 2026-02-17T19:30:00.000Z,17 February 2026 - 07:30 PM,06.51,124.06,003,1.8,005km S 18° E of Kalamansig (Sultan Kudarat),005,S 18° E,Kalamansig (Sultan Kudarat)
@@ -270,4 +273,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-10T23:52:00.000Z,10 February 2026 - 11:52 PM,06.30,123.63,012,1.9,055km S 59° W of Kalamansig (Sultan Kudarat),055,S 59° W,Kalamansig (Sultan Kudarat)
 2026-02-10T23:37:00.000Z,10 February 2026 - 11:37 PM,06.18,123.78,030,2.6,051km S 36° W of Kalamansig (Sultan Kudarat),051,S 36° W,Kalamansig (Sultan Kudarat)
 2026-02-10T22:13:00.000Z,10 February 2026 - 10:13 PM,07.70,124.77,015,1.5,005km S 32° E of Kalilangan (Bukidnon),005,S 32° E,Kalilangan (Bukidnon)
-2026-02-10T21:28:00.000Z,10 February 2026 - 09:28 PM,07.94,124.72,017,1.6,017km N 42° W of Pangantucan (Bukidnon),017,N 42° W,Pangantucan (Bukidnon)
