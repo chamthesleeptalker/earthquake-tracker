@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-18T09:35:00.000Z,18 February 2026 - 09:35 AM,08.28,126.80,003,2.8,050km N 58° E of Lingig (Surigao Del Sur),050,N 58° E,Lingig (Surigao Del Sur)
+2026-02-18T08:43:00.000Z,18 February 2026 - 08:43 AM,11.25,124.16,012,1.8,030km N 42° E of City Of Bogo (Cebu),030,N 42° E,City Of Bogo (Cebu)
+2026-02-18T08:35:00.000Z,18 February 2026 - 08:35 AM,08.25,126.95,006,2.7,064km N 69° E of Lingig (Surigao Del Sur),064,N 69° E,Lingig (Surigao Del Sur)
 2026-02-18T06:23:00.000Z,18 February 2026 - 06:23 AM,08.64,127.25,009,3.8,105km N 73° E of Hinatuan (Surigao Del Sur),105,N 73° E,Hinatuan (Surigao Del Sur)
 2026-02-18T06:02:00.000Z,18 February 2026 - 06:02 AM,16.87,121.31,028,1.4,012km S 10° W of Aguinaldo (Ifugao),012,S 10° W,Aguinaldo (Ifugao)
 2026-02-18T05:52:00.000Z,18 February 2026 - 05:52 AM,11.06,123.95,032,2.4,004km N 59° W of City Of Bogo (Cebu),004,N 59° W,City Of Bogo (Cebu)
