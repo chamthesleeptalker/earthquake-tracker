@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-18T21:26:00.000Z,18 February 2026 - 09:26 PM,19.62,121.48,016,2.0,040km North of Calayan (Cagayan),040,North of Calayan,
 2026-02-18T20:57:00.000Z,18 February 2026 - 08:57 PM,06.51,123.68,006,2.6,041km S 84° W of Kalamansig (Sultan Kudarat),041,S 84° W,Kalamansig (Sultan Kudarat)
 2026-02-18T20:04:00.000Z,18 February 2026 - 08:04 PM,16.32,120.79,032,1.4,012km S 66° W of Kayapa (Nueva Vizcaya),012,S 66° W,Kayapa (Nueva Vizcaya)
 2026-02-18T19:47:00.000Z,18 February 2026 - 07:47 PM,18.93,121.89,014,1.6,004km N 48° E of Camiguin Island (Calayan) (Cagayan),004,N 48° E,Camiguin Island (Calayan) (Cagayan)
@@ -265,4 +266,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T22:26:00.000Z,11 February 2026 - 10:26 PM,13.81,120.58,075,2.0,007km S 63° W of Calatagan (Batangas),007,S 63° W,Calatagan (Batangas)
 2026-02-11T22:19:00.000Z,11 February 2026 - 10:19 PM,09.06,126.14,032,2.2,004km S 58° W of City Of Tandag (Surigao Del Sur),004,S 58° W,City Of Tandag (Surigao Del Sur)
 2026-02-11T21:39:00.000Z,11 February 2026 - 09:39 PM,17.40,121.58,032,1.9,010km N 15° W of Quezon (Isabela),010,N 15° W,Quezon (Isabela)
-2026-02-11T21:04:00.000Z,11 February 2026 - 09:04 PM,11.07,124.10,002,2.9,013km N 77° E of City Of Bogo (Cebu),013,N 77° E,City Of Bogo (Cebu)
