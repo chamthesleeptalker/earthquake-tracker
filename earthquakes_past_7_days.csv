@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-18T20:57:00.000Z,18 February 2026 - 08:57 PM,06.51,123.68,006,2.6,041km S 84° W of Kalamansig (Sultan Kudarat),041,S 84° W,Kalamansig (Sultan Kudarat)
+2026-02-18T20:04:00.000Z,18 February 2026 - 08:04 PM,16.32,120.79,032,1.4,012km S 66° W of Kayapa (Nueva Vizcaya),012,S 66° W,Kayapa (Nueva Vizcaya)
+2026-02-18T19:47:00.000Z,18 February 2026 - 07:47 PM,18.93,121.89,014,1.6,004km N 48° E of Camiguin Island (Calayan) (Cagayan),004,N 48° E,Camiguin Island (Calayan) (Cagayan)
 2026-02-17T19:31:00.000Z,17 February 2026 - 07:31 PM,06.57,124.28,006,1.9,013km N 21° W of Senator Ninoy Aquino (Sultan Kudarat),013,N 21° W,Senator Ninoy Aquino (Sultan Kudarat)
 2026-02-18T18:00:00.000Z,18 February 2026 - 06:00 PM,07.59,123.89,032,1.5,012km S 46° W of Picong (Lanao Del Sur),012,S 46° W,Picong (Lanao Del Sur)
 2026-02-18T14:18:00.000Z,18 February 2026 - 02:18 PM,16.75,121.13,033,1.7,005km S 61° E of Kiangan (Ifugao),005,S 61° E,Kiangan (Ifugao)
@@ -263,6 +266,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-11T22:19:00.000Z,11 February 2026 - 10:19 PM,09.06,126.14,032,2.2,004km S 58° W of City Of Tandag (Surigao Del Sur),004,S 58° W,City Of Tandag (Surigao Del Sur)
 2026-02-11T21:39:00.000Z,11 February 2026 - 09:39 PM,17.40,121.58,032,1.9,010km N 15° W of Quezon (Isabela),010,N 15° W,Quezon (Isabela)
 2026-02-11T21:04:00.000Z,11 February 2026 - 09:04 PM,11.07,124.10,002,2.9,013km N 77° E of City Of Bogo (Cebu),013,N 77° E,City Of Bogo (Cebu)
-2026-02-11T20:15:00.000Z,11 February 2026 - 08:15 PM,14.45,119.61,065,1.8,075km S 70° W of Morong (Bataan),075,S 70° W,Morong (Bataan)
-2026-02-11T20:10:00.000Z,11 February 2026 - 08:10 PM,18.63,121.02,015,1.9,006km N 71° W of Claveria (Cagayan),006,N 71° W,Claveria (Cagayan)
-2026-02-11T18:37:00.000Z,11 February 2026 - 06:37 PM,06.60,123.65,023,2.4,044km N 84° W of Kalamansig (Sultan Kudarat),044,N 84° W,Kalamansig (Sultan Kudarat)

@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-17T19:31:00.000Z,17 February 2026 - 07:31 PM,06.57,124.28,006,1.9,013km N 21° W of Senator Ninoy Aquino (Sultan Kudarat),013,N 21° W,Senator Ninoy Aquino (Sultan Kudarat)
+2026-02-18T20:57:00.000Z,18 February 2026 - 08:57 PM,06.51,123.68,006,2.6,041km S 84° W of Kalamansig (Sultan Kudarat),041,S 84° W,Kalamansig (Sultan Kudarat)
+2026-02-18T20:04:00.000Z,18 February 2026 - 08:04 PM,16.32,120.79,032,1.4,012km S 66° W of Kayapa (Nueva Vizcaya),012,S 66° W,Kayapa (Nueva Vizcaya)
+2026-02-18T19:47:00.000Z,18 February 2026 - 07:47 PM,18.93,121.89,014,1.6,004km N 48° E of Camiguin Island (Calayan) (Cagayan),004,N 48° E,Camiguin Island (Calayan) (Cagayan)
 2026-02-18T18:00:00.000Z,18 February 2026 - 06:00 PM,07.59,123.89,032,1.5,012km S 46° W of Picong (Lanao Del Sur),012,S 46° W,Picong (Lanao Del Sur)
 2026-02-18T14:18:00.000Z,18 February 2026 - 02:18 PM,16.75,121.13,033,1.7,005km S 61° E of Kiangan (Ifugao),005,S 61° E,Kiangan (Ifugao)
 2026-02-18T14:10:00.000Z,18 February 2026 - 02:10 PM,09.88,126.58,010,2.6,047km N 76° E of General Luna (Surigao Del Norte),047,N 76° E,General Luna (Surigao Del Norte)
@@ -31,10 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-17T22:20:00.000Z,17 February 2026 - 10:20 PM,04.16,129.24,031,4.3,443km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),443,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-17T22:07:00.000Z,17 February 2026 - 10:07 PM,10.73,122.53,021,1.6,005km S 21° W of Pavia (Iloilo),005,S 21° W,Pavia (Iloilo)
 2026-02-17T21:35:00.000Z,17 February 2026 - 09:35 PM,09.94,124.84,032,2.0,021km S 01° E of City Of Maasin  (Southern Leyte),021,S 01° E,City Of Maasin  (Southern Leyte)
-2026-02-17T20:53:00.000Z,17 February 2026 - 08:53 PM,07.39,126.70,018,2.4,016km N 66° E of Caraga (Davao Oriental),016,N 66° E,Caraga (Davao Oriental)
-2026-02-17T20:49:00.000Z,17 February 2026 - 08:49 PM,10.03,124.57,037,1.4,010km S 10° E of President Carlos P. Garcia (Bohol),010,S 10° E,President Carlos P. Garcia (Bohol)
-2026-02-17T20:21:00.000Z,17 February 2026 - 08:21 PM,13.66,120.63,088,1.5,020km South of Calatagan (Batangas),020,South of Calatagan,
-2026-02-17T19:30:00.000Z,17 February 2026 - 07:30 PM,06.51,124.06,003,1.8,005km S 18° E of Kalamansig (Sultan Kudarat),005,S 18° E,Kalamansig (Sultan Kudarat)
-2026-02-17T18:58:00.000Z,17 February 2026 - 06:58 PM,07.68,126.76,035,1.8,025km N 62° E of Baganga (Davao Oriental),025,N 62° E,Baganga (Davao Oriental)
-2026-02-17T18:17:00.000Z,17 February 2026 - 06:17 PM,03.82,128.05,030,3.3,339km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),339,S 57° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-17T18:13:00.000Z,17 February 2026 - 06:13 PM,13.68,120.64,089,1.5,017km S 03° E of Calatagan (Batangas),017,S 03° E,Calatagan (Batangas)
