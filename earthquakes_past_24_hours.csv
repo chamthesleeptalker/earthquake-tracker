@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-19T03:41:00.000Z,19 February 2026 - 03:41 AM,06.34,123.76,001,3.0,040km S 53° W of Kalamansig (Sultan Kudarat),040,S 53° W,Kalamansig (Sultan Kudarat)
+2026-02-19T03:38:00.000Z,19 February 2026 - 03:38 AM,13.57,120.64,116,2.5,017km N 35° W of Abra De Ilog (Occidental Mindoro),017,N 35° W,Abra De Ilog (Occidental Mindoro)
 2026-02-19T02:23:00.000Z,19 February 2026 - 02:23 AM,06.46,123.95,006,1.7,015km S 47° W of Kalamansig (Sultan Kudarat),015,S 47° W,Kalamansig (Sultan Kudarat)
 2026-02-19T02:16:00.000Z,19 February 2026 - 02:16 AM,16.56,120.57,020,1.5,004km S 64° W of Kapangan (Benguet),004,S 64° W,Kapangan (Benguet)
 2026-02-19T01:58:00.000Z,19 February 2026 - 01:58 AM,12.25,122.17,021,1.8,013km S 85° E of Alcantara (Romblon),013,S 85° E,Alcantara (Romblon)
@@ -28,6 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T04:37:00.000Z,18 February 2026 - 04:37 AM,06.64,124.22,003,1.7,021km N 63° E of Kalamansig (Sultan Kudarat),021,N 63° E,Kalamansig (Sultan Kudarat)
 2026-02-18T04:36:00.000Z,18 February 2026 - 04:36 AM,17.51,120.89,014,1.6,007km N 35° W of Daguioman (Abra),007,N 35° W,Daguioman (Abra)
 2026-02-18T04:21:00.000Z,18 February 2026 - 04:21 AM,11.05,124.06,002,2.0,009km N 87° E of City Of Bogo (Cebu),009,N 87° E,City Of Bogo (Cebu)
-2026-02-18T03:39:00.000Z,18 February 2026 - 03:39 AM,07.16,123.49,024,1.6,038km S 31° E of Pitogo (Zamboanga Del Sur),038,S 31° E,Pitogo (Zamboanga Del Sur)
-2026-02-18T03:38:00.000Z,18 February 2026 - 03:38 AM,18.06,120.51,017,1.8,002km S 74° W of Paoay (Ilocos Norte),002,S 74° W,Paoay (Ilocos Norte)
-2026-02-18T02:52:00.000Z,18 February 2026 - 02:52 AM,13.08,125.83,043,2.5,091km N 43° E of Mapanas (Northern Samar),091,N 43° E,Mapanas (Northern Samar)
