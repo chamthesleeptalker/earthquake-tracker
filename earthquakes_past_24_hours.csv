@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-19T00:23:00.000Z,19 February 2026 - 12:23 AM,12.60,122.67,010,4.0,020km N 55° E of Magdiwang (Romblon),020,N 55° E,Magdiwang (Romblon)
 2026-02-18T23:03:00.000Z,18 February 2026 - 11:03 PM,12.82,122.61,034,2.0,037km N 16° E of Magdiwang (Romblon),037,N 16° E,Magdiwang (Romblon)
 2026-02-18T21:26:00.000Z,18 February 2026 - 09:26 PM,19.62,121.48,016,2.0,040km North of Calayan (Cagayan),040,North of Calayan,
 2026-02-18T20:57:00.000Z,18 February 2026 - 08:57 PM,06.51,123.68,006,2.6,041km S 84° W of Kalamansig (Sultan Kudarat),041,S 84° W,Kalamansig (Sultan Kudarat)
@@ -28,5 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T01:38:00.000Z,18 February 2026 - 01:38 AM,17.11,121.52,039,2.0,010km S 85° W of Roxas (Isabela),010,S 85° W,Roxas (Isabela)
 2026-02-18T01:29:00.000Z,18 February 2026 - 01:29 AM,11.25,124.20,025,2.0,020km S 73° W of Tabango (Leyte),020,S 73° W,Tabango (Leyte)
 2026-02-18T00:49:00.000Z,18 February 2026 - 12:49 AM,19.02,121.15,010,3.0,011km S 31° W of Dalupiri Island (Calayan) (Cagayan),011,S 31° W,Dalupiri Island (Calayan) (Cagayan)
-2026-02-18T00:22:00.000Z,18 February 2026 - 12:22 AM,07.64,126.62,028,2.5,009km N 43° E of Baganga (Davao Oriental),009,N 43° E,Baganga (Davao Oriental)
-2026-02-17T23:08:00.000Z,17 February 2026 - 11:08 PM,18.86,121.23,019,2.3,014km N 84° W of Fuga Island (Aparri) (Cagayan),014,N 84° W,Fuga Island (Aparri) (Cagayan)
