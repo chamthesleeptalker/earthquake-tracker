@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-19T09:40:00.000Z,19 February 2026 - 09:40 AM,06.51,123.94,002,2.1,013km S 68° W of Kalamansig (Sultan Kudarat),013,S 68° W,Kalamansig (Sultan Kudarat)
+2026-02-19T08:13:00.000Z,19 February 2026 - 08:13 AM,08.40,123.05,009,1.6,005km S 41° E of Jose Dalman (Zamboanga Del Norte),005,S 41° E,Jose Dalman (Zamboanga Del Norte)
+2026-02-19T08:03:00.000Z,19 February 2026 - 08:03 AM,14.54,121.70,036,1.5,018km S 37° E of Real (Quezon),018,S 37° E,Real (Quezon)
 2026-02-19T07:19:00.000Z,19 February 2026 - 07:19 AM,14.13,120.46,119,1.5,019km N 69° W of Nasugbu (Batangas),019,N 69° W,Nasugbu (Batangas)
 2026-02-19T07:18:00.000Z,19 February 2026 - 07:18 AM,15.60,122.32,018,2.1,071km S 33° E of Dinalungan (Aurora),071,S 33° E,Dinalungan (Aurora)
 2026-02-19T06:31:00.000Z,19 February 2026 - 06:31 AM,13.53,121.73,025,2.0,015km N 52° W of Boac (Marinduque),015,N 52° W,Boac (Marinduque)
@@ -259,6 +262,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-12T11:33:00.000Z,12 February 2026 - 11:33 AM,10.96,123.92,006,1.9,011km S 35° W of City Of Bogo (Cebu),011,S 35° W,City Of Bogo (Cebu)
 2026-02-12T10:14:00.000Z,12 February 2026 - 10:14 AM,17.90,120.13,010,2.6,035km N 84° W of Sinait (Ilocos Sur),035,N 84° W,Sinait (Ilocos Sur)
 2026-02-12T10:01:00.000Z,12 February 2026 - 10:01 AM,13.74,120.42,043,3.4,025km S 65° W of Calatagan (Batangas),025,S 65° W,Calatagan (Batangas)
-2026-02-12T08:51:00.000Z,12 February 2026 - 08:51 AM,07.16,125.95,031,1.8,007km N 63° E of Pantukan (Davao De Oro),007,N 63° E,Pantukan (Davao De Oro)
-2026-02-12T08:29:00.000Z,12 February 2026 - 08:29 AM,13.57,120.65,093,1.6,016km N 32° W of Abra De Ilog (Occidental Mindoro),016,N 32° W,Abra De Ilog (Occidental Mindoro)
-2026-02-12T08:24:00.000Z,12 February 2026 - 08:24 AM,06.51,123.79,018,2.6,029km S 81° W of Kalamansig (Sultan Kudarat),029,S 81° W,Kalamansig (Sultan Kudarat)
