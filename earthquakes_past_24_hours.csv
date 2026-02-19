@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-19T18:07:00.000Z,19 February 2026 - 06:07 PM,09.59,126.05,034,2.0,010km S 69° E of Socorro (Surigao Del Norte),010,S 69° E,Socorro (Surigao Del Norte)
 2026-02-19T16:48:00.000Z,19 February 2026 - 04:48 PM,06.51,123.81,033,1.6,027km S 79° W of Kalamansig (Sultan Kudarat),027,S 79° W,Kalamansig (Sultan Kudarat)
 2026-02-19T15:01:00.000Z,19 February 2026 - 03:01 PM,12.82,122.96,008,2.2,032km S 75° W of Claveria (Masbate),032,S 75° W,Claveria (Masbate)
 2026-02-19T09:40:00.000Z,19 February 2026 - 09:40 AM,06.51,123.94,002,2.1,013km S 68° W of Kalamansig (Sultan Kudarat),013,S 68° W,Kalamansig (Sultan Kudarat)
@@ -26,4 +27,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T20:57:00.000Z,18 February 2026 - 08:57 PM,06.51,123.68,006,2.6,041km S 84° W of Kalamansig (Sultan Kudarat),041,S 84° W,Kalamansig (Sultan Kudarat)
 2026-02-18T20:04:00.000Z,18 February 2026 - 08:04 PM,16.32,120.79,032,1.4,012km S 66° W of Kayapa (Nueva Vizcaya),012,S 66° W,Kayapa (Nueva Vizcaya)
 2026-02-18T19:47:00.000Z,18 February 2026 - 07:47 PM,18.93,121.89,014,1.6,004km N 48° E of Camiguin Island (Calayan) (Cagayan),004,N 48° E,Camiguin Island (Calayan) (Cagayan)
-2026-02-18T18:00:00.000Z,18 February 2026 - 06:00 PM,07.59,123.89,032,1.5,012km S 46° W of Picong (Lanao Del Sur),012,S 46° W,Picong (Lanao Del Sur)
