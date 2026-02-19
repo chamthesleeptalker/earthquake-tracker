@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-19T23:33:00.000Z,19 February 2026 - 11:33 PM,06.23,123.69,009,2.8,053km S 48° W of Kalamansig (Sultan Kudarat),053,S 48° W,Kalamansig (Sultan Kudarat)
+2026-02-19T23:29:00.000Z,19 February 2026 - 11:29 PM,13.05,123.09,034,1.5,015km S 54° E of San Pascual (Masbate),015,S 54° E,San Pascual (Masbate)
+2026-02-19T22:59:00.000Z,19 February 2026 - 10:59 PM,17.83,120.22,031,2.7,025km N 81° W of Cabugao (Ilocos Sur),025,N 81° W,Cabugao (Ilocos Sur)
+2026-02-19T22:43:00.000Z,19 February 2026 - 10:43 PM,09.80,126.45,005,4.7,031km N 87° E of General Luna (Surigao Del Norte),031,N 87° E,General Luna (Surigao Del Norte)
+2026-02-19T22:41:00.000Z,19 February 2026 - 10:41 PM,12.87,123.13,020,2.5,013km S 74° W of Claveria (Masbate),013,S 74° W,Claveria (Masbate)
 2026-02-19T21:44:00.000Z,19 February 2026 - 09:44 PM,05.84,126.99,080,3.9,136km S 48° E of Governor Generoso (Davao Oriental),136,S 48° E,Governor Generoso (Davao Oriental)
 2026-02-19T21:33:00.000Z,19 February 2026 - 09:33 PM,06.50,123.93,013,2.0,015km S 67° W of Kalamansig (Sultan Kudarat),015,S 67° W,Kalamansig (Sultan Kudarat)
 2026-02-19T21:18:00.000Z,19 February 2026 - 09:18 PM,06.23,123.40,042,2.8,080km S 64° W of Kalamansig (Sultan Kudarat),080,S 64° W,Kalamansig (Sultan Kudarat)
@@ -27,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-19T00:53:00.000Z,19 February 2026 - 12:53 AM,06.38,123.65,017,3.4,049km S 66° W of Kalamansig (Sultan Kudarat),049,S 66° W,Kalamansig (Sultan Kudarat)
 2026-02-19T00:22:00.000Z,19 February 2026 - 12:22 AM,12.45,122.31,004,3.8,014km S 15° E of Romblon (Romblon),014,S 15° E,Romblon (Romblon)
 2026-02-19T00:23:00.000Z,19 February 2026 - 12:23 AM,12.60,122.67,010,4.0,020km N 55° E of Magdiwang (Romblon),020,N 55° E,Magdiwang (Romblon)
-2026-02-18T23:03:00.000Z,18 February 2026 - 11:03 PM,12.82,122.61,034,2.0,037km N 16° E of Magdiwang (Romblon),037,N 16° E,Magdiwang (Romblon)
