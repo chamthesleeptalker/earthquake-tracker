@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-20T02:38:00.000Z,20 February 2026 - 02:38 AM,09.54,126.10,032,1.5,017km S 60° E of Socorro (Surigao Del Norte),017,S 60° E,Socorro (Surigao Del Norte)
+2026-02-20T01:58:00.000Z,20 February 2026 - 01:58 AM,04.63,126.37,008,3.4,132km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),132,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-20T01:45:00.000Z,20 February 2026 - 01:45 AM,09.50,125.32,017,2.7,017km S 35° W of Malimono (Surigao Del Norte),017,S 35° W,Malimono (Surigao Del Norte)
+2026-02-19T08:04:00.000Z,19 February 2026 - 08:04 AM,14.48,121.73,014,1.6,025km S 33° E of Real (Quezon),025,S 33° E,Real (Quezon)
 2026-02-20T01:22:00.000Z,20 February 2026 - 01:22 AM,09.65,126.20,005,2.2,016km S 19° E of General Luna (Surigao Del Norte),016,S 19° E,General Luna (Surigao Del Norte)
 2026-02-20T01:11:00.000Z,20 February 2026 - 01:11 AM,06.76,123.88,018,2.1,030km N 40° W of Kalamansig (Sultan Kudarat),030,N 40° W,Kalamansig (Sultan Kudarat)
 2026-02-20T01:03:00.000Z,20 February 2026 - 01:03 AM,09.74,126.14,018,2.5,005km S 18° W of General Luna (Surigao Del Norte),005,S 18° W,General Luna (Surigao Del Norte)
@@ -29,7 +33,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-19T04:57:00.000Z,19 February 2026 - 04:57 AM,09.79,123.87,032,1.4,004km N 66° W of Antequera (Bohol),004,N 66° W,Antequera (Bohol)
 2026-02-19T03:41:00.000Z,19 February 2026 - 03:41 AM,06.34,123.76,001,3.0,040km S 53° W of Kalamansig (Sultan Kudarat),040,S 53° W,Kalamansig (Sultan Kudarat)
 2026-02-19T03:38:00.000Z,19 February 2026 - 03:38 AM,13.57,120.64,116,2.5,017km N 35° W of Abra De Ilog (Occidental Mindoro),017,N 35° W,Abra De Ilog (Occidental Mindoro)
-2026-02-19T02:23:00.000Z,19 February 2026 - 02:23 AM,06.46,123.95,006,1.7,015km S 47° W of Kalamansig (Sultan Kudarat),015,S 47° W,Kalamansig (Sultan Kudarat)
-2026-02-19T02:16:00.000Z,19 February 2026 - 02:16 AM,16.56,120.57,020,1.5,004km S 64° W of Kapangan (Benguet),004,S 64° W,Kapangan (Benguet)
-2026-02-19T01:58:00.000Z,19 February 2026 - 01:58 AM,12.25,122.17,021,1.8,013km S 85° E of Alcantara (Romblon),013,S 85° E,Alcantara (Romblon)
-2026-02-19T01:36:00.000Z,19 February 2026 - 01:36 AM,07.44,124.43,020,1.7,009km S 67° E of Barira (Maguindanao Del Norte),009,S 67° E,Barira (Maguindanao Del Norte)
