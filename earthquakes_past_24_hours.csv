@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-19T15:01:00.000Z,19 February 2026 - 03:01 PM,12.82,122.96,008,2.2,032km S 75° W of Claveria (Masbate),032,S 75° W,Claveria (Masbate)
 2026-02-19T09:40:00.000Z,19 February 2026 - 09:40 AM,06.51,123.94,002,2.1,013km S 68° W of Kalamansig (Sultan Kudarat),013,S 68° W,Kalamansig (Sultan Kudarat)
 2026-02-19T08:13:00.000Z,19 February 2026 - 08:13 AM,08.40,123.05,009,1.6,005km S 41° E of Jose Dalman (Zamboanga Del Norte),005,S 41° E,Jose Dalman (Zamboanga Del Norte)
 2026-02-19T08:03:00.000Z,19 February 2026 - 08:03 AM,14.54,121.70,036,1.5,018km S 37° E of Real (Quezon),018,S 37° E,Real (Quezon)
@@ -25,9 +26,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T20:04:00.000Z,18 February 2026 - 08:04 PM,16.32,120.79,032,1.4,012km S 66° W of Kayapa (Nueva Vizcaya),012,S 66° W,Kayapa (Nueva Vizcaya)
 2026-02-18T19:47:00.000Z,18 February 2026 - 07:47 PM,18.93,121.89,014,1.6,004km N 48° E of Camiguin Island (Calayan) (Cagayan),004,N 48° E,Camiguin Island (Calayan) (Cagayan)
 2026-02-18T18:00:00.000Z,18 February 2026 - 06:00 PM,07.59,123.89,032,1.5,012km S 46° W of Picong (Lanao Del Sur),012,S 46° W,Picong (Lanao Del Sur)
-2026-02-18T14:18:00.000Z,18 February 2026 - 02:18 PM,16.75,121.13,033,1.7,005km S 61° E of Kiangan (Ifugao),005,S 61° E,Kiangan (Ifugao)
-2026-02-18T14:10:00.000Z,18 February 2026 - 02:10 PM,09.88,126.58,010,2.6,047km N 76° E of General Luna (Surigao Del Norte),047,N 76° E,General Luna (Surigao Del Norte)
-2026-02-18T14:07:00.000Z,18 February 2026 - 02:07 PM,07.60,127.05,027,1.9,054km N 87° E of Baganga (Davao Oriental),054,N 87° E,Baganga (Davao Oriental)
-2026-02-18T13:55:00.000Z,18 February 2026 - 01:55 PM,18.83,121.98,004,2.1,015km S 53° E of Camiguin Island (Calayan) (Cagayan),015,S 53° E,Camiguin Island (Calayan) (Cagayan)
-2026-02-18T10:01:00.000Z,18 February 2026 - 10:01 AM,08.38,126.26,027,1.7,008km N 76° W of Hinatuan (Surigao Del Sur),008,N 76° W,Hinatuan (Surigao Del Sur)
-2026-02-18T10:00:00.000Z,18 February 2026 - 10:00 AM,05.08,125.51,015,2.9,038km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),038,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)

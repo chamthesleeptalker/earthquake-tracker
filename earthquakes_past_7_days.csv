@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-19T15:01:00.000Z,19 February 2026 - 03:01 PM,12.82,122.96,008,2.2,032km S 75° W of Claveria (Masbate),032,S 75° W,Claveria (Masbate)
 2026-02-19T09:40:00.000Z,19 February 2026 - 09:40 AM,06.51,123.94,002,2.1,013km S 68° W of Kalamansig (Sultan Kudarat),013,S 68° W,Kalamansig (Sultan Kudarat)
 2026-02-19T08:13:00.000Z,19 February 2026 - 08:13 AM,08.40,123.05,009,1.6,005km S 41° E of Jose Dalman (Zamboanga Del Norte),005,S 41° E,Jose Dalman (Zamboanga Del Norte)
 2026-02-19T08:03:00.000Z,19 February 2026 - 08:03 AM,14.54,121.70,036,1.5,018km S 37° E of Real (Quezon),018,S 37° E,Real (Quezon)
@@ -257,8 +258,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-12T19:22:00.000Z,12 February 2026 - 07:22 PM,06.29,126.97,092,2.9,102km S 35° E of Tarragona (Davao Oriental),102,S 35° E,Tarragona (Davao Oriental)
 2026-02-12T19:19:00.000Z,12 February 2026 - 07:19 PM,12.96,121.67,032,1.6,008km N 52° W of Concepcion (Romblon),008,N 52° W,Concepcion (Romblon)
 2026-02-12T16:45:00.000Z,12 February 2026 - 04:45 PM,09.72,126.34,036,2.5,021km S 70° E of General Luna (Surigao Del Norte),021,S 70° E,General Luna (Surigao Del Norte)
-2026-02-12T14:26:00.000Z,12 February 2026 - 02:26 PM,13.82,120.50,072,2.0,014km S 86° W of Calatagan (Batangas),014,S 86° W,Calatagan (Batangas)
-2026-02-12T13:21:00.000Z,12 February 2026 - 01:21 PM,05.88,125.17,001,1.9,008km N 28° W of Glan (Sarangani),008,N 28° W,Glan (Sarangani)
-2026-02-12T11:33:00.000Z,12 February 2026 - 11:33 AM,10.96,123.92,006,1.9,011km S 35° W of City Of Bogo (Cebu),011,S 35° W,City Of Bogo (Cebu)
-2026-02-12T10:14:00.000Z,12 February 2026 - 10:14 AM,17.90,120.13,010,2.6,035km N 84° W of Sinait (Ilocos Sur),035,N 84° W,Sinait (Ilocos Sur)
-2026-02-12T10:01:00.000Z,12 February 2026 - 10:01 AM,13.74,120.42,043,3.4,025km S 65° W of Calatagan (Batangas),025,S 65° W,Calatagan (Batangas)
