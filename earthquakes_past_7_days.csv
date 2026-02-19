@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-20T01:22:00.000Z,20 February 2026 - 01:22 AM,09.65,126.20,005,2.2,016km S 19° E of General Luna (Surigao Del Norte),016,S 19° E,General Luna (Surigao Del Norte)
+2026-02-20T01:11:00.000Z,20 February 2026 - 01:11 AM,06.76,123.88,018,2.1,030km N 40° W of Kalamansig (Sultan Kudarat),030,N 40° W,Kalamansig (Sultan Kudarat)
+2026-02-20T01:03:00.000Z,20 February 2026 - 01:03 AM,09.74,126.14,018,2.5,005km S 18° W of General Luna (Surigao Del Norte),005,S 18° W,General Luna (Surigao Del Norte)
+2026-02-20T00:58:00.000Z,20 February 2026 - 12:58 AM,08.86,126.49,023,2.9,022km S 72° E of Cagwait (Surigao Del Sur),022,S 72° E,Cagwait (Surigao Del Sur)
 2026-02-19T23:33:00.000Z,19 February 2026 - 11:33 PM,06.23,123.69,009,2.8,053km S 48° W of Kalamansig (Sultan Kudarat),053,S 48° W,Kalamansig (Sultan Kudarat)
 2026-02-19T23:29:00.000Z,19 February 2026 - 11:29 PM,13.05,123.09,034,1.5,015km S 54° E of San Pascual (Masbate),015,S 54° E,San Pascual (Masbate)
 2026-02-19T22:59:00.000Z,19 February 2026 - 10:59 PM,17.83,120.22,031,2.7,025km N 81° W of Cabugao (Ilocos Sur),025,N 81° W,Cabugao (Ilocos Sur)
@@ -255,5 +259,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-13T01:36:00.000Z,13 February 2026 - 01:36 AM,12.40,124.91,053,1.9,010km N 39° E of Silvino Lobos (Northern Samar),010,N 39° E,Silvino Lobos (Northern Samar)
 2026-02-13T01:32:00.000Z,13 February 2026 - 01:32 AM,12.34,124.76,063,2.3,009km N 82° W of Silvino Lobos (Northern Samar),009,N 82° W,Silvino Lobos (Northern Samar)
 2026-02-13T01:31:00.000Z,13 February 2026 - 01:31 AM,12.47,124.97,019,3.0,011km S 21° W of Laoang (Northern Samar),011,S 21° W,Laoang (Northern Samar)
-2026-02-13T01:05:00.000Z,13 February 2026 - 01:05 AM,06.07,126.38,027,2.5,072km S 28° E of Governor Generoso (Davao Oriental),072,S 28° E,Governor Generoso (Davao Oriental)
-2026-02-13T00:34:00.000Z,13 February 2026 - 12:34 AM,06.04,126.39,045,3.7,076km S 27° E of Governor Generoso (Davao Oriental),076,S 27° E,Governor Generoso (Davao Oriental)
