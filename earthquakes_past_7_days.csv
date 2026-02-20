@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-21T00:28:00.000Z,21 February 2026 - 12:28 AM,12.74,120.61,022,1.8,022km S 59° W of Sablayan (Occidental Mindoro),022,S 59° W,Sablayan (Occidental Mindoro)
+2026-02-20T23:57:00.000Z,20 February 2026 - 11:57 PM,18.59,120.63,010,1.5,009km N 13° W of Burgos (Ilocos Norte),009,N 13° W,Burgos (Ilocos Norte)
 2026-02-20T23:48:00.000Z,20 February 2026 - 11:48 PM,06.00,123.48,043,1.9,088km S 46° W of Kalamansig (Sultan Kudarat),088,S 46° W,Kalamansig (Sultan Kudarat)
 2026-02-20T22:50:00.000Z,20 February 2026 - 10:50 PM,11.08,123.97,027,1.8,004km N 15° W of City Of Bogo (Cebu),004,N 15° W,City Of Bogo (Cebu)
 2026-02-20T22:37:00.000Z,20 February 2026 - 10:37 PM,09.07,125.96,012,2.0,017km N 32° W of San Miguel (Surigao Del Sur),017,N 32° W,San Miguel (Surigao Del Sur)
@@ -247,4 +249,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-14T02:16:00.000Z,14 February 2026 - 02:16 AM,16.91,119.95,028,2.3,046km N 83° W of Luna (La Union),046,N 83° W,Luna (La Union)
 2026-02-14T01:39:00.000Z,14 February 2026 - 01:39 AM,04.83,128.50,113,4.2,334km S 43° E of Tarragona (Davao Oriental),334,S 43° E,Tarragona (Davao Oriental)
 2026-02-14T01:35:00.000Z,14 February 2026 - 01:35 AM,08.80,122.49,042,2.3,067km S 64° W of Siaton (Negros Oriental),067,S 64° W,Siaton (Negros Oriental)
-2026-02-13T23:55:00.000Z,13 February 2026 - 11:55 PM,04.43,128.30,010,4.8,334km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),334,S 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
