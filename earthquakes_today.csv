@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-20T12:12:00.000Z,20 February 2026 - 12:12 PM,05.93,125.32,024,1.5,005km S 34° E of Malapatan (Sarangani),005,S 34° E,Malapatan (Sarangani)
+2026-02-20T12:04:00.000Z,20 February 2026 - 12:04 PM,09.75,126.18,027,2.1,005km S 36° E of General Luna (Surigao Del Norte),005,S 36° E,General Luna (Surigao Del Norte)
+2026-02-20T11:29:00.000Z,20 February 2026 - 11:29 AM,06.57,123.63,003,2.2,046km N 88° W of Kalamansig (Sultan Kudarat),046,N 88° W,Kalamansig (Sultan Kudarat)
+2026-02-20T11:10:00.000Z,20 February 2026 - 11:10 AM,05.50,123.96,017,2.3,086km S 43° W of Maitum (Sarangani),086,S 43° W,Maitum (Sarangani)
+2026-02-20T11:02:00.000Z,20 February 2026 - 11:02 AM,05.65,126.21,119,2.7,069km S 65° E of Jose Abad Santos (Davao Occidental),069,S 65° E,Jose Abad Santos (Davao Occidental)
 2026-02-20T07:14:00.000Z,20 February 2026 - 07:14 AM,06.60,123.91,008,1.9,017km N 73° W of Kalamansig (Sultan Kudarat),017,N 73° W,Kalamansig (Sultan Kudarat)
 2026-02-20T06:51:00.000Z,20 February 2026 - 06:51 AM,10.02,126.03,062,2.4,000km West of Santa Monica (Surigao Del Norte),000,West of Santa,(Surigao Del Norte)
 2026-02-20T05:17:00.000Z,20 February 2026 - 05:17 AM,10.61,126.53,005,3.0,082km N 37° E of Burgos (Surigao Del Norte),082,N 37° E,Burgos (Surigao Del Norte)
