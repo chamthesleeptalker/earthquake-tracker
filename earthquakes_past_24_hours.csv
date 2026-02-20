@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-21T01:24:00.000Z,21 February 2026 - 01:24 AM,13.82,123.65,007,2.1,009km S 34° W of Garchitorena (Camarines Sur),009,S 34° W,Garchitorena (Camarines Sur)
+2026-02-21T01:19:00.000Z,21 February 2026 - 01:19 AM,13.87,122.36,012,1.9,011km S 72° W of Guinayangan (Quezon),011,S 72° W,Guinayangan (Quezon)
+2026-02-21T00:54:00.000Z,21 February 2026 - 12:54 AM,15.40,119.84,032,1.5,009km S 64° W of Palauig (Zambales),009,S 64° W,Palauig (Zambales)
 2026-02-21T00:28:00.000Z,21 February 2026 - 12:28 AM,12.74,120.61,022,1.8,022km S 59° W of Sablayan (Occidental Mindoro),022,S 59° W,Sablayan (Occidental Mindoro)
 2026-02-20T23:57:00.000Z,20 February 2026 - 11:57 PM,18.59,120.63,010,1.5,009km N 13° W of Burgos (Ilocos Norte),009,N 13° W,Burgos (Ilocos Norte)
 2026-02-20T23:48:00.000Z,20 February 2026 - 11:48 PM,06.00,123.48,043,1.9,088km S 46° W of Kalamansig (Sultan Kudarat),088,S 46° W,Kalamansig (Sultan Kudarat)
@@ -29,7 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-20T02:38:00.000Z,20 February 2026 - 02:38 AM,09.54,126.10,032,1.5,017km S 60° E of Socorro (Surigao Del Norte),017,S 60° E,Socorro (Surigao Del Norte)
 2026-02-20T01:58:00.000Z,20 February 2026 - 01:58 AM,04.63,126.37,008,3.4,132km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),132,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-20T01:45:00.000Z,20 February 2026 - 01:45 AM,09.50,125.32,017,2.7,017km S 35° W of Malimono (Surigao Del Norte),017,S 35° W,Malimono (Surigao Del Norte)
-2026-02-20T01:22:00.000Z,20 February 2026 - 01:22 AM,09.65,126.20,005,2.2,016km S 19° E of General Luna (Surigao Del Norte),016,S 19° E,General Luna (Surigao Del Norte)
-2026-02-20T01:11:00.000Z,20 February 2026 - 01:11 AM,06.76,123.88,018,2.1,030km N 40° W of Kalamansig (Sultan Kudarat),030,N 40° W,Kalamansig (Sultan Kudarat)
-2026-02-20T01:03:00.000Z,20 February 2026 - 01:03 AM,09.74,126.14,018,2.5,005km S 18° W of General Luna (Surigao Del Norte),005,S 18° W,General Luna (Surigao Del Norte)
-2026-02-20T00:58:00.000Z,20 February 2026 - 12:58 AM,08.86,126.49,023,2.9,022km S 72° E of Cagwait (Surigao Del Sur),022,S 72° E,Cagwait (Surigao Del Sur)
