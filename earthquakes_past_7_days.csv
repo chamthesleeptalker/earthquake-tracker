@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-20T12:57:00.000Z,20 February 2026 - 12:57 PM,14.02,120.51,122,1.8,014km S 67° W of Nasugbu (Batangas),014,S 67° W,Nasugbu (Batangas)
+2026-02-20T12:56:00.000Z,20 February 2026 - 12:56 PM,13.68,120.59,088,1.6,018km S 16° W of Calatagan (Batangas),018,S 16° W,Calatagan (Batangas)
 2026-02-20T12:12:00.000Z,20 February 2026 - 12:12 PM,05.93,125.32,024,1.5,005km S 34° E of Malapatan (Sarangani),005,S 34° E,Malapatan (Sarangani)
 2026-02-20T12:04:00.000Z,20 February 2026 - 12:04 PM,09.75,126.18,027,2.1,005km S 36° E of General Luna (Surigao Del Norte),005,S 36° E,General Luna (Surigao Del Norte)
 2026-02-20T11:29:00.000Z,20 February 2026 - 11:29 AM,06.57,123.63,003,2.2,046km N 88° W of Kalamansig (Sultan Kudarat),046,N 88° W,Kalamansig (Sultan Kudarat)
@@ -255,5 +257,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-13T14:11:00.000Z,13 February 2026 - 02:11 PM,08.82,126.38,033,3.1,010km N 76° E of Marihatag (Surigao Del Sur),010,N 76° E,Marihatag (Surigao Del Sur)
 2026-02-13T14:07:00.000Z,13 February 2026 - 02:07 PM,08.82,126.25,034,2.1,006km N 63° W of Marihatag (Surigao Del Sur),006,N 63° W,Marihatag (Surigao Del Sur)
 2026-02-13T13:30:00.000Z,13 February 2026 - 01:30 PM,13.36,121.68,031,1.4,018km N 79° W of Gasan (Marinduque),018,N 79° W,Gasan (Marinduque)
-2026-02-13T12:40:00.000Z,13 February 2026 - 12:40 PM,18.90,121.25,030,1.7,014km N 69° W of Fuga Island (Aparri) (Cagayan),014,N 69° W,Fuga Island (Aparri) (Cagayan)
-2026-02-13T12:35:00.000Z,13 February 2026 - 12:35 PM,07.47,126.28,002,2.1,017km S 62° E of New Bataan (Davao De Oro),017,S 62° E,New Bataan (Davao De Oro)
