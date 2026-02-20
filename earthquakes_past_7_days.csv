@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-20T21:38:00.000Z,20 February 2026 - 09:38 PM,15.32,120.03,029,1.9,004km N 15° E of Botolan (Zambales),004,N 15° E,Botolan (Zambales)
+2026-02-20T21:17:00.000Z,20 February 2026 - 09:17 PM,17.01,119.37,287,3.8,088km N 39° W of Bolinao (Pangasinan),088,N 39° W,Bolinao (Pangasinan)
 2026-02-20T19:01:00.000Z,20 February 2026 - 07:01 PM,05.47,125.31,036,2.1,014km N 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,N 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-20T18:22:00.000Z,20 February 2026 - 06:22 PM,04.77,126.16,034,3.6,109km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),109,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-20T18:03:00.000Z,20 February 2026 - 06:03 PM,12.40,122.27,007,2.6,019km S 01° E of Romblon (Romblon),019,S 01° E,Romblon (Romblon)
@@ -248,8 +250,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-13T22:32:00.000Z,13 February 2026 - 10:32 PM,15.38,119.83,034,1.6,010km S 57° W of Palauig (Zambales),010,S 57° W,Palauig (Zambales)
 2026-02-13T22:14:00.000Z,13 February 2026 - 10:14 PM,13.58,120.93,035,1.8,009km N 14° W of Puerto Galera (Oriental Mindoro),009,N 14° W,Puerto Galera (Oriental Mindoro)
 2026-02-13T22:10:00.000Z,13 February 2026 - 10:10 PM,15.76,120.00,044,1.8,009km N 89° E of Santa Cruz (Zambales),009,N 89° E,Santa Cruz (Zambales)
-2026-02-13T21:33:00.000Z,13 February 2026 - 09:33 PM,08.29,126.68,034,2.2,039km S 77° E of Hinatuan (Surigao Del Sur),039,S 77° E,Hinatuan (Surigao Del Sur)
-2026-02-13T21:12:00.000Z,13 February 2026 - 09:12 PM,02.65,127.01,024,4.5,353km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),353,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-13T20:50:00.000Z,13 February 2026 - 08:50 PM,06.22,127.10,110,4.3,117km S 38° E of Tarragona (Davao Oriental),117,S 38° E,Tarragona (Davao Oriental)
-2026-02-13T19:56:00.000Z,13 February 2026 - 07:56 PM,13.76,120.53,084,4.2,013km S 53° W of Calatagan (Batangas),013,S 53° W,Calatagan (Batangas)
-2026-02-13T19:02:00.000Z,13 February 2026 - 07:02 PM,06.23,123.62,006,2.2,060km S 53° W of Kalamansig (Sultan Kudarat),060,S 53° W,Kalamansig (Sultan Kudarat)
