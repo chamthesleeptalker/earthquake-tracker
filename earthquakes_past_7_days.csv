@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-21T06:42:00.000Z,21 February 2026 - 06:42 AM,06.37,123.84,033,1.8,031km S 48° W of Kalamansig (Sultan Kudarat),031,S 48° W,Kalamansig (Sultan Kudarat)
 2026-02-21T05:48:00.000Z,21 February 2026 - 05:48 AM,13.74,120.60,110,1.8,010km S 17° W of Calatagan (Batangas),010,S 17° W,Calatagan (Batangas)
 2026-02-21T05:27:00.000Z,21 February 2026 - 05:27 AM,19.13,121.09,013,2.2,012km N 78° W of Dalupiri Island (Calayan) (Cagayan),012,N 78° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-21T04:37:00.000Z,21 February 2026 - 04:37 AM,18.29,120.66,027,1.7,007km S 43° E of Pasuquin (Ilocos Norte),007,S 43° E,Pasuquin (Ilocos Norte)
@@ -250,6 +251,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-14T09:02:00.000Z,14 February 2026 - 09:02 AM,04.01,126.75,040,4.4,215km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),215,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-14T08:51:00.000Z,14 February 2026 - 08:51 AM,11.05,124.02,003,1.5,005km N 85° E of City Of Bogo (Cebu),005,N 85° E,City Of Bogo (Cebu)
 2026-02-14T08:35:00.000Z,14 February 2026 - 08:35 AM,02.63,127.38,019,4.2,370km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),370,S 36° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-14T06:36:00.000Z,14 February 2026 - 06:36 AM,15.89,120.63,033,2.9,000km S 26° E of Rosales (Pangasinan),000,S 26° E,Rosales (Pangasinan)
-2026-02-14T06:02:00.000Z,14 February 2026 - 06:02 AM,06.50,125.88,151,3.3,027km S 51° W of Governor Generoso (Davao Oriental),027,S 51° W,Governor Generoso (Davao Oriental)
-2026-02-14T05:49:00.000Z,14 February 2026 - 05:49 AM,03.99,126.51,132,4.3,198km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),198,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
