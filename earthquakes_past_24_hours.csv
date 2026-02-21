@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-21T23:00:00.000Z,21 February 2026 - 11:00 PM,14.71,122.25,007,2.3,006km S 34° E of Patnanungan (Quezon),006,S 34° E,Patnanungan (Quezon)
+2026-02-21T22:47:00.000Z,21 February 2026 - 10:47 PM,14.22,122.34,010,1.5,007km N 52° W of Santa Elena (Camarines Norte),007,N 52° W,Santa Elena (Camarines Norte)
 2026-02-21T21:12:00.000Z,21 February 2026 - 09:12 PM,17.82,120.93,033,2.3,016km N 48° E of Tineg (Abra),016,N 48° E,Tineg (Abra)
 2026-02-21T21:08:00.000Z,21 February 2026 - 09:08 PM,13.90,119.40,015,2.0,078km N 87° W of Lubang (Occidental Mindoro),078,N 87° W,Lubang (Occidental Mindoro)
 2026-02-21T20:42:00.000Z,21 February 2026 - 08:42 PM,05.87,126.33,021,3.5,076km S 87° E of Jose Abad Santos (Davao Occidental),076,S 87° E,Jose Abad Santos (Davao Occidental)
@@ -35,8 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-21T00:28:00.000Z,21 February 2026 - 12:28 AM,12.74,120.61,022,1.8,022km S 59° W of Sablayan (Occidental Mindoro),022,S 59° W,Sablayan (Occidental Mindoro)
 2026-02-20T23:57:00.000Z,20 February 2026 - 11:57 PM,18.59,120.63,010,1.5,009km N 13° W of Burgos (Ilocos Norte),009,N 13° W,Burgos (Ilocos Norte)
 2026-02-20T23:48:00.000Z,20 February 2026 - 11:48 PM,06.00,123.48,043,1.9,088km S 46° W of Kalamansig (Sultan Kudarat),088,S 46° W,Kalamansig (Sultan Kudarat)
-2026-02-20T22:50:00.000Z,20 February 2026 - 10:50 PM,11.08,123.97,027,1.8,004km N 15° W of City Of Bogo (Cebu),004,N 15° W,City Of Bogo (Cebu)
-2026-02-20T22:37:00.000Z,20 February 2026 - 10:37 PM,09.07,125.96,012,2.0,017km N 32° W of San Miguel (Surigao Del Sur),017,N 32° W,San Miguel (Surigao Del Sur)
-2026-02-20T22:23:00.000Z,20 February 2026 - 10:23 PM,14.02,120.96,028,1.8,004km N 77° W of Taal Volcano Island (San Nicolas / Talisay) (Batangas),004,N 77° W,Taal Volcano Island (San Nicolas / Talisay) (Batangas)
-2026-02-20T21:38:00.000Z,20 February 2026 - 09:38 PM,15.32,120.03,029,1.9,004km N 15° E of Botolan (Zambales),004,N 15° E,Botolan (Zambales)
-2026-02-20T21:17:00.000Z,20 February 2026 - 09:17 PM,17.01,119.37,287,3.8,088km N 39° W of Bolinao (Pangasinan),088,N 39° W,Bolinao (Pangasinan)
