@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T02:25:00.000Z,22 February 2026 - 02:25 AM,14.02,125.21,010,3.5,092km N 73° E of Gigmoto (Catanduanes),092,N 73° E,Gigmoto (Catanduanes)
+2026-02-22T02:09:00.000Z,22 February 2026 - 02:09 AM,07.94,125.19,027,1.8,012km N 70° E of City Of Valencia (Bukidnon),012,N 70° E,City Of Valencia (Bukidnon)
 2026-02-22T00:43:00.000Z,22 February 2026 - 12:43 AM,12.33,122.39,007,3.0,031km S 26° E of Romblon (Romblon),031,S 26° E,Romblon (Romblon)
 2026-02-21T23:00:00.000Z,21 February 2026 - 11:00 PM,14.71,122.25,007,2.3,006km S 34° E of Patnanungan (Quezon),006,S 34° E,Patnanungan (Quezon)
 2026-02-21T22:47:00.000Z,21 February 2026 - 10:47 PM,14.22,122.34,010,1.5,007km N 52° W of Santa Elena (Camarines Norte),007,N 52° W,Santa Elena (Camarines Norte)
@@ -240,11 +242,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T02:53:00.000Z,15 February 2026 - 02:53 AM,17.94,120.21,020,2.0,028km N 88° W of Badoc (Ilocos Norte),028,N 88° W,Badoc (Ilocos Norte)
 2026-02-15T02:33:00.000Z,15 February 2026 - 02:33 AM,17.82,120.70,021,1.5,011km N 05° W of Lagayan (Abra),011,N 05° W,Lagayan (Abra)
 2026-02-15T02:25:00.000Z,15 February 2026 - 02:25 AM,06.48,125.23,011,1.6,012km N 24° W of Malungon (Sarangani),012,N 24° W,Malungon (Sarangani)
-2026-02-15T02:08:00.000Z,15 February 2026 - 02:08 AM,13.76,120.48,032,1.5,019km S 63° W of Calatagan (Batangas),019,S 63° W,Calatagan (Batangas)
-2026-02-15T01:55:00.000Z,15 February 2026 - 01:55 AM,13.81,120.47,026,2.5,018km S 83° W of Calatagan (Batangas),018,S 83° W,Calatagan (Batangas)
-2026-02-15T01:52:00.000Z,15 February 2026 - 01:52 AM,13.72,120.46,043,2.6,022km S 57° W of Calatagan (Batangas),022,S 57° W,Calatagan (Batangas)
-2026-02-15T01:51:00.000Z,15 February 2026 - 01:51 AM,05.68,125.94,055,4.8,041km S 52° E of Jose Abad Santos (Davao Occidental),041,S 52° E,Jose Abad Santos (Davao Occidental)
-2026-02-15T01:45:00.000Z,15 February 2026 - 01:45 AM,13.73,120.56,095,1.4,014km S 33° W of Calatagan (Batangas),014,S 33° W,Calatagan (Batangas)
-2026-02-15T01:22:00.000Z,15 February 2026 - 01:22 AM,05.23,127.49,052,5.3,217km S 70° E of Jose Abad Santos (Davao Occidental),217,S 70° E,Jose Abad Santos (Davao Occidental)
-2026-02-15T01:07:00.000Z,15 February 2026 - 01:07 AM,10.16,126.04,019,2.4,016km N 15° W of Burgos (Surigao Del Norte),016,N 15° W,Burgos (Surigao Del Norte)
-2026-02-15T00:53:00.000Z,15 February 2026 - 12:53 AM,10.64,122.42,015,1.8,006km S 54° E of Tigbauan (Iloilo),006,S 54° E,Tigbauan (Iloilo)
