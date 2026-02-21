@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T00:43:00.000Z,22 February 2026 - 12:43 AM,12.33,122.39,007,3.0,031km S 26° E of Romblon (Romblon),031,S 26° E,Romblon (Romblon)
 2026-02-21T23:00:00.000Z,21 February 2026 - 11:00 PM,14.71,122.25,007,2.3,006km S 34° E of Patnanungan (Quezon),006,S 34° E,Patnanungan (Quezon)
 2026-02-21T22:47:00.000Z,21 February 2026 - 10:47 PM,14.22,122.34,010,1.5,007km N 52° W of Santa Elena (Camarines Norte),007,N 52° W,Santa Elena (Camarines Norte)
 2026-02-21T21:12:00.000Z,21 February 2026 - 09:12 PM,17.82,120.93,033,2.3,016km N 48° E of Tineg (Abra),016,N 48° E,Tineg (Abra)
@@ -247,7 +248,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T01:22:00.000Z,15 February 2026 - 01:22 AM,05.23,127.49,052,5.3,217km S 70° E of Jose Abad Santos (Davao Occidental),217,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-02-15T01:07:00.000Z,15 February 2026 - 01:07 AM,10.16,126.04,019,2.4,016km N 15° W of Burgos (Surigao Del Norte),016,N 15° W,Burgos (Surigao Del Norte)
 2026-02-15T00:53:00.000Z,15 February 2026 - 12:53 AM,10.64,122.42,015,1.8,006km S 54° E of Tigbauan (Iloilo),006,S 54° E,Tigbauan (Iloilo)
-2026-02-15T00:31:00.000Z,15 February 2026 - 12:31 AM,02.81,128.41,031,4.0,439km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),439,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-15T00:12:00.000Z,15 February 2026 - 12:12 AM,06.48,123.69,011,3.0,040km S 78° W of Kalamansig (Sultan Kudarat),040,S 78° W,Kalamansig (Sultan Kudarat)
-2026-02-14T23:31:00.000Z,14 February 2026 - 11:31 PM,06.39,126.08,026,1.7,029km S 02° E of Governor Generoso (Davao Oriental),029,S 02° E,Governor Generoso (Davao Oriental)
-2026-02-14T23:11:00.000Z,14 February 2026 - 11:11 PM,13.49,120.77,022,2.5,007km N 46° E of Abra De Ilog (Occidental Mindoro),007,N 46° E,Abra De Ilog (Occidental Mindoro)
