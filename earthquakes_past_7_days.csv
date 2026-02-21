@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T07:09:00.000Z,22 February 2026 - 07:09 AM,14.70,122.23,011,1.7,006km S 14° E of Patnanungan (Quezon),006,S 14° E,Patnanungan (Quezon)
+2026-02-22T07:00:00.000Z,22 February 2026 - 07:00 AM,06.40,123.60,032,2.3,053km S 71° W of Kalamansig (Sultan Kudarat),053,S 71° W,Kalamansig (Sultan Kudarat)
 2026-02-22T06:00:00.000Z,22 February 2026 - 06:00 AM,07.43,126.89,017,2.6,038km N 74° E of Caraga (Davao Oriental),038,N 74° E,Caraga (Davao Oriental)
 2026-02-22T04:48:00.000Z,22 February 2026 - 04:48 AM,06.37,123.73,018,3.8,040km S 65° W of Kalamansig (Sultan Kudarat),040,S 65° W,Kalamansig (Sultan Kudarat)
 2026-02-22T04:31:00.000Z,22 February 2026 - 04:31 AM,13.91,119.65,004,2.3,051km N 84° W of Lubang (Occidental Mindoro),051,N 84° W,Lubang (Occidental Mindoro)
@@ -229,6 +231,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T07:35:00.000Z,15 February 2026 - 07:35 AM,08.63,126.88,026,2.9,067km N 64° E of Hinatuan (Surigao Del Sur),067,N 64° E,Hinatuan (Surigao Del Sur)
 2026-02-15T07:32:00.000Z,15 February 2026 - 07:32 AM,07.84,126.44,016,1.6,006km N 19° W of Cateel (Davao Oriental),006,N 19° W,Cateel (Davao Oriental)
 2026-02-15T07:19:00.000Z,15 February 2026 - 07:19 AM,12.80,122.97,020,2.3,032km S 70° W of Claveria (Masbate),032,S 70° W,Claveria (Masbate)
-2026-02-15T06:38:00.000Z,15 February 2026 - 06:38 AM,13.82,120.51,024,2.3,014km S 82° W of Calatagan (Batangas),014,S 82° W,Calatagan (Batangas)
-2026-02-15T06:17:00.000Z,15 February 2026 - 06:17 AM,13.78,120.49,027,2.0,017km S 69° W of Calatagan (Batangas),017,S 69° W,Calatagan (Batangas)
-2026-02-15T06:07:00.000Z,15 February 2026 - 06:07 AM,13.75,120.48,031,1.6,019km S 62° W of Calatagan (Batangas),019,S 62° W,Calatagan (Batangas)

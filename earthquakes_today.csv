@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T07:09:00.000Z,22 February 2026 - 07:09 AM,14.70,122.23,011,1.7,006km S 14° E of Patnanungan (Quezon),006,S 14° E,Patnanungan (Quezon)
+2026-02-22T07:00:00.000Z,22 February 2026 - 07:00 AM,06.40,123.60,032,2.3,053km S 71° W of Kalamansig (Sultan Kudarat),053,S 71° W,Kalamansig (Sultan Kudarat)
 2026-02-22T06:00:00.000Z,22 February 2026 - 06:00 AM,07.43,126.89,017,2.6,038km N 74° E of Caraga (Davao Oriental),038,N 74° E,Caraga (Davao Oriental)
 2026-02-22T04:48:00.000Z,22 February 2026 - 04:48 AM,06.37,123.73,018,3.8,040km S 65° W of Kalamansig (Sultan Kudarat),040,S 65° W,Kalamansig (Sultan Kudarat)
 2026-02-22T04:31:00.000Z,22 February 2026 - 04:31 AM,13.91,119.65,004,2.3,051km N 84° W of Lubang (Occidental Mindoro),051,N 84° W,Lubang (Occidental Mindoro)

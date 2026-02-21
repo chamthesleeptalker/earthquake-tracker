@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T07:09:00.000Z,22 February 2026 - 07:09 AM,14.70,122.23,011,1.7,006km S 14° E of Patnanungan (Quezon),006,S 14° E,Patnanungan (Quezon)
+2026-02-22T07:00:00.000Z,22 February 2026 - 07:00 AM,06.40,123.60,032,2.3,053km S 71° W of Kalamansig (Sultan Kudarat),053,S 71° W,Kalamansig (Sultan Kudarat)
 2026-02-22T06:00:00.000Z,22 February 2026 - 06:00 AM,07.43,126.89,017,2.6,038km N 74° E of Caraga (Davao Oriental),038,N 74° E,Caraga (Davao Oriental)
 2026-02-22T04:48:00.000Z,22 February 2026 - 04:48 AM,06.37,123.73,018,3.8,040km S 65° W of Kalamansig (Sultan Kudarat),040,S 65° W,Kalamansig (Sultan Kudarat)
 2026-02-22T04:31:00.000Z,22 February 2026 - 04:31 AM,13.91,119.65,004,2.3,051km N 84° W of Lubang (Occidental Mindoro),051,N 84° W,Lubang (Occidental Mindoro)
@@ -30,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-21T09:29:00.000Z,21 February 2026 - 09:29 AM,14.72,122.99,025,2.6,027km N 09° E of Tinaga Island (Vinzons) (Camarines Norte),027,N 09° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-02-21T07:52:00.000Z,21 February 2026 - 07:52 AM,18.98,121.14,011,2.4,015km S 26° W of Dalupiri Island (Calayan) (Cagayan),015,S 26° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-21T07:31:00.000Z,21 February 2026 - 07:31 AM,15.55,121.28,030,1.6,012km N 29° W of Gabaldon (Nueva Ecija),012,N 29° W,Gabaldon (Nueva Ecija)
-2026-02-21T06:42:00.000Z,21 February 2026 - 06:42 AM,06.37,123.84,033,1.8,031km S 48° W of Kalamansig (Sultan Kudarat),031,S 48° W,Kalamansig (Sultan Kudarat)
