@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T09:51:00.000Z,22 February 2026 - 09:51 AM,17.23,120.00,011,2.2,048km N 81° W of City Of Candon (Ilocos Sur),048,N 81° W,City Of Candon (Ilocos Sur)
+2026-02-22T09:01:00.000Z,22 February 2026 - 09:01 AM,08.99,126.41,026,2.5,014km N 82° E of Bayabas (Surigao Del Sur),014,N 82° E,Bayabas (Surigao Del Sur)
+2026-02-22T08:33:00.000Z,22 February 2026 - 08:33 AM,14.15,120.39,116,1.6,028km N 72° W of Nasugbu (Batangas),028,N 72° W,Nasugbu (Batangas)
+2026-02-22T08:06:00.000Z,22 February 2026 - 08:06 AM,08.68,126.38,048,1.8,017km S 34° E of Marihatag (Surigao Del Sur),017,S 34° E,Marihatag (Surigao Del Sur)
+2026-02-22T06:05:00.000Z,22 February 2026 - 06:05 AM,11.15,123.94,007,2.5,013km N 21° W of City Of Bogo (Cebu),013,N 21° W,City Of Bogo (Cebu)
 2026-02-22T07:09:00.000Z,22 February 2026 - 07:09 AM,14.70,122.23,011,1.7,006km S 14° E of Patnanungan (Quezon),006,S 14° E,Patnanungan (Quezon)
 2026-02-22T07:00:00.000Z,22 February 2026 - 07:00 AM,06.40,123.60,032,2.3,053km S 71° W of Kalamansig (Sultan Kudarat),053,S 71° W,Kalamansig (Sultan Kudarat)
 2026-02-22T06:00:00.000Z,22 February 2026 - 06:00 AM,07.43,126.89,017,2.6,038km N 74° E of Caraga (Davao Oriental),038,N 74° E,Caraga (Davao Oriental)
@@ -226,8 +231,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T11:21:00.000Z,15 February 2026 - 11:21 AM,06.82,126.25,043,3.1,016km S 14° E of City Of Mati (Davao Oriental),016,S 14° E,City Of Mati (Davao Oriental)
 2026-02-15T10:52:00.000Z,15 February 2026 - 10:52 AM,17.85,120.82,036,2.1,014km North of Tineg (Abra),014,North of Tineg,
 2026-02-15T09:52:00.000Z,15 February 2026 - 09:52 AM,09.93,121.99,003,2.7,051km N 70° W of City Of Sipalay (Negros Occidental),051,N 70° W,City Of Sipalay (Negros Occidental)
-2026-02-15T09:50:00.000Z,15 February 2026 - 09:50 AM,18.57,120.56,011,2.0,011km N 54° W of Burgos (Ilocos Norte),011,N 54° W,Burgos (Ilocos Norte)
-2026-02-15T08:09:00.000Z,15 February 2026 - 08:09 AM,13.80,120.67,109,1.8,005km S 42° E of Calatagan (Batangas),005,S 42° E,Calatagan (Batangas)
-2026-02-15T07:35:00.000Z,15 February 2026 - 07:35 AM,08.63,126.88,026,2.9,067km N 64° E of Hinatuan (Surigao Del Sur),067,N 64° E,Hinatuan (Surigao Del Sur)
-2026-02-15T07:32:00.000Z,15 February 2026 - 07:32 AM,07.84,126.44,016,1.6,006km N 19° W of Cateel (Davao Oriental),006,N 19° W,Cateel (Davao Oriental)
-2026-02-15T07:19:00.000Z,15 February 2026 - 07:19 AM,12.80,122.97,020,2.3,032km S 70° W of Claveria (Masbate),032,S 70° W,Claveria (Masbate)
