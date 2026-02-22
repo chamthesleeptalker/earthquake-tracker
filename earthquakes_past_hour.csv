@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-22T17:28:00.000Z,22 February 2026 - 05:28 PM,06.32,123.79,031,1.7,040km S 44° W of Kalamansig (Sultan Kudarat),040,S 44° W,Kalamansig (Sultan Kudarat)
-2026-02-22T17:08:00.000Z,22 February 2026 - 05:08 PM,11.17,123.90,027,1.6,008km N 59° W of Medellin (Cebu),008,N 59° W,Medellin (Cebu)
-2026-02-22T16:36:00.000Z,22 February 2026 - 04:36 PM,09.49,124.34,026,1.9,015km S 18° E of Garcia Hernandez (Bohol),015,S 18° E,Garcia Hernandez (Bohol)
+2026-02-22T19:04:00.000Z,22 February 2026 - 07:04 PM,06.33,123.74,032,1.5,043km S 55° W of Kalamansig (Sultan Kudarat),043,S 55° W,Kalamansig (Sultan Kudarat)
+2026-02-22T18:51:00.000Z,22 February 2026 - 06:51 PM,19.44,121.12,032,2.2,038km N 13° W of Dalupiri Island (Calayan) (Cagayan),038,N 13° W,Dalupiri Island (Calayan) (Cagayan)
+2026-02-22T18:50:00.000Z,22 February 2026 - 06:50 PM,04.86,124.21,015,3.1,133km S 20° W of Kiamba (Sarangani),133,S 20° W,Kiamba (Sarangani)
+2026-02-22T18:45:00.000Z,22 February 2026 - 06:45 PM,07.25,126.97,018,3.0,045km S 79° E of Caraga (Davao Oriental),045,S 79° E,Caraga (Davao Oriental)
+2026-02-22T18:40:00.000Z,22 February 2026 - 06:40 PM,19.37,121.04,018,4.7,034km N 31° W of Dalupiri Island (Calayan) (Cagayan),034,N 31° W,Dalupiri Island (Calayan) (Cagayan)
