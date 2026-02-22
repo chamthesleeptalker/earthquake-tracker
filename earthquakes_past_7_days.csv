@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T07:06:00.000Z,23 February 2026 - 07:06 AM,10.51,123.08,001,2.9,012km S 23° E of Murcia (Negros Occidental),012,S 23° E,Murcia (Negros Occidental)
 2026-02-23T06:18:00.000Z,23 February 2026 - 06:18 AM,12.38,122.32,008,2.7,023km S 14° E of Romblon (Romblon),023,S 14° E,Romblon (Romblon)
 2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
 2026-02-23T03:42:00.000Z,23 February 2026 - 03:42 AM,09.75,126.23,020,2.7,009km S 66° E of General Luna (Surigao Del Norte),009,S 66° E,General Luna (Surigao Del Norte)
@@ -238,5 +239,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-16T09:22:00.000Z,16 February 2026 - 09:22 AM,02.68,128.54,031,3.8,460km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),460,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-16T08:56:00.000Z,16 February 2026 - 08:56 AM,08.16,122.64,025,2.6,006km N 42° W of Liloy (Zamboanga Del Norte),006,N 42° W,Liloy (Zamboanga Del Norte)
 2026-02-16T08:51:00.000Z,16 February 2026 - 08:51 AM,07.31,126.80,010,2.5,026km S 86° E of Caraga (Davao Oriental),026,S 86° E,Caraga (Davao Oriental)
-2026-02-16T06:58:00.000Z,16 February 2026 - 06:58 AM,06.30,123.59,031,1.9,058km S 61° W of Kalamansig (Sultan Kudarat),058,S 61° W,Kalamansig (Sultan Kudarat)
-2026-02-16T06:18:00.000Z,16 February 2026 - 06:18 AM,15.33,119.98,018,2.6,001km N 63° E of Iba (Zambales),001,N 63° E,Iba (Zambales)
