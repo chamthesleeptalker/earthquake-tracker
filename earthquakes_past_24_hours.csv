@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T02:23:00.000Z,23 February 2026 - 02:23 AM,19.41,121.17,050,1.6,033km N 06° W of Dalupiri Island (Calayan) (Cagayan),033,N 06° W,Dalupiri Island (Calayan) (Cagayan)
+2026-02-23T02:15:00.000Z,23 February 2026 - 02:15 AM,07.89,126.41,020,1.6,004km N 65° E of Boston (Davao Oriental),004,N 65° E,Boston (Davao Oriental)
+2026-02-23T02:01:00.000Z,23 February 2026 - 02:01 AM,19.94,121.26,007,2.2,077km S 56° W of Sabtang (Batanes),077,S 56° W,Sabtang (Batanes)
 2026-02-22T23:17:00.000Z,22 February 2026 - 11:17 PM,07.48,126.87,019,2.8,035km S 74° E of Baganga (Davao Oriental),035,S 74° E,Baganga (Davao Oriental)
 2026-02-22T23:16:00.000Z,22 February 2026 - 11:16 PM,14.82,121.80,026,1.5,013km S 07° W of Panukulan (Quezon),013,S 07° W,Panukulan (Quezon)
 2026-02-22T23:15:00.000Z,22 February 2026 - 11:15 PM,06.46,123.90,024,1.7,020km S 59° W of Kalamansig (Sultan Kudarat),020,S 59° W,Kalamansig (Sultan Kudarat)
@@ -40,5 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-22T03:36:00.000Z,22 February 2026 - 03:36 AM,13.71,120.56,086,1.8,015km S 29° W of Calatagan (Batangas),015,S 29° W,Calatagan (Batangas)
 2026-02-22T03:01:00.000Z,22 February 2026 - 03:01 AM,06.82,124.02,002,1.7,030km N 07° W of Kalamansig (Sultan Kudarat),030,N 07° W,Kalamansig (Sultan Kudarat)
 2026-02-22T02:25:00.000Z,22 February 2026 - 02:25 AM,14.02,125.21,010,3.5,092km N 73° E of Gigmoto (Catanduanes),092,N 73° E,Gigmoto (Catanduanes)
-2026-02-22T02:09:00.000Z,22 February 2026 - 02:09 AM,07.94,125.19,027,1.8,012km N 70° E of City Of Valencia (Bukidnon),012,N 70° E,City Of Valencia (Bukidnon)
-2026-02-22T00:43:00.000Z,22 February 2026 - 12:43 AM,12.33,122.39,007,3.0,031km S 26° E of Romblon (Romblon),031,S 26° E,Romblon (Romblon)
