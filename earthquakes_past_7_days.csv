@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T19:33:00.000Z,22 February 2026 - 07:33 PM,19.44,121.17,033,1.6,037km N 06° W of Dalupiri Island (Calayan) (Cagayan),037,N 06° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-22T19:04:00.000Z,22 February 2026 - 07:04 PM,06.33,123.74,032,1.5,043km S 55° W of Kalamansig (Sultan Kudarat),043,S 55° W,Kalamansig (Sultan Kudarat)
 2026-02-22T18:51:00.000Z,22 February 2026 - 06:51 PM,19.44,121.12,032,2.2,038km N 13° W of Dalupiri Island (Calayan) (Cagayan),038,N 13° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-22T18:50:00.000Z,22 February 2026 - 06:50 PM,04.86,124.21,015,3.1,133km S 20° W of Kiamba (Sarangani),133,S 20° W,Kiamba (Sarangani)
@@ -228,4 +229,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T23:23:00.000Z,15 February 2026 - 11:23 PM,09.69,126.15,011,3.6,011km S 02° W of General Luna (Surigao Del Norte),011,S 02° W,General Luna (Surigao Del Norte)
 2026-02-15T20:23:00.000Z,15 February 2026 - 08:23 PM,13.38,120.47,021,1.8,004km S 03° E of Paluan (Occidental Mindoro),004,S 03° E,Paluan (Occidental Mindoro)
 2026-02-15T20:06:00.000Z,15 February 2026 - 08:06 PM,09.02,125.80,005,1.8,024km S 82° E of Remedios T. Romualdez (Agusan Del Norte),024,S 82° E,Remedios T. Romualdez (Agusan Del Norte)
-2026-02-15T19:32:00.000Z,15 February 2026 - 07:32 PM,06.20,123.59,033,1.6,065km S 52° W of Kalamansig (Sultan Kudarat),065,S 52° W,Kalamansig (Sultan Kudarat)
