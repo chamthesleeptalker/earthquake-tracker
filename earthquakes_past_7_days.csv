@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T20:33:00.000Z,22 February 2026 - 08:33 PM,17.92,120.54,003,2.1,004km S 24° E of Pinili (Ilocos Norte),004,S 24° E,Pinili (Ilocos Norte)
+2026-02-22T20:24:00.000Z,22 February 2026 - 08:24 PM,19.17,120.71,015,1.5,052km N 83° W of Dalupiri Island (Calayan) (Cagayan),052,N 83° W,Dalupiri Island (Calayan) (Cagayan)
+2026-02-22T20:05:00.000Z,22 February 2026 - 08:05 PM,17.34,120.32,041,1.8,013km N 84° W of San Esteban (Ilocos Sur),013,N 84° W,San Esteban (Ilocos Sur)
+2026-02-22T20:00:00.000Z,22 February 2026 - 08:00 PM,19.29,121.18,030,1.6,020km N 09° W of Dalupiri Island (Calayan) (Cagayan),020,N 09° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-22T19:33:00.000Z,22 February 2026 - 07:33 PM,19.44,121.17,033,1.6,037km N 06° W of Dalupiri Island (Calayan) (Cagayan),037,N 06° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-22T19:04:00.000Z,22 February 2026 - 07:04 PM,06.33,123.74,032,1.5,043km S 55° W of Kalamansig (Sultan Kudarat),043,S 55° W,Kalamansig (Sultan Kudarat)
 2026-02-22T18:51:00.000Z,22 February 2026 - 06:51 PM,19.44,121.12,032,2.2,038km N 13° W of Dalupiri Island (Calayan) (Cagayan),038,N 13° W,Dalupiri Island (Calayan) (Cagayan)
@@ -227,5 +231,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-16T01:38:00.000Z,16 February 2026 - 01:38 AM,09.69,126.30,027,1.9,019km S 58° E of General Luna (Surigao Del Norte),019,S 58° E,General Luna (Surigao Del Norte)
 2026-02-16T00:54:00.000Z,16 February 2026 - 12:54 AM,08.42,126.50,002,2.7,019km N 71° E of Hinatuan (Surigao Del Sur),019,N 71° E,Hinatuan (Surigao Del Sur)
 2026-02-15T23:23:00.000Z,15 February 2026 - 11:23 PM,09.69,126.15,011,3.6,011km S 02° W of General Luna (Surigao Del Norte),011,S 02° W,General Luna (Surigao Del Norte)
-2026-02-15T20:23:00.000Z,15 February 2026 - 08:23 PM,13.38,120.47,021,1.8,004km S 03° E of Paluan (Occidental Mindoro),004,S 03° E,Paluan (Occidental Mindoro)
-2026-02-15T20:06:00.000Z,15 February 2026 - 08:06 PM,09.02,125.80,005,1.8,024km S 82° E of Remedios T. Romualdez (Agusan Del Norte),024,S 82° E,Remedios T. Romualdez (Agusan Del Norte)
