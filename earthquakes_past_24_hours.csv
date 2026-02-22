@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T21:13:00.000Z,22 February 2026 - 09:13 PM,08.90,126.20,012,2.6,011km S 78° W of Cagwait (Surigao Del Sur),011,S 78° W,Cagwait (Surigao Del Sur)
+2026-02-22T20:45:00.000Z,22 February 2026 - 08:45 PM,14.23,119.02,026,1.9,126km N 71° W of Lubang (Occidental Mindoro),126,N 71° W,Lubang (Occidental Mindoro)
+2026-02-22T20:44:00.000Z,22 February 2026 - 08:44 PM,07.15,126.69,033,2.9,018km S 68° E of Manay (Davao Oriental),018,S 68° E,Manay (Davao Oriental)
+2026-02-22T20:44:00.000Z,22 February 2026 - 08:44 PM,18.16,122.20,014,2.4,025km S 62° E of Gonzaga (Cagayan),025,S 62° E,Gonzaga (Cagayan)
 2026-02-22T20:33:00.000Z,22 February 2026 - 08:33 PM,17.92,120.54,003,2.1,004km S 24° E of Pinili (Ilocos Norte),004,S 24° E,Pinili (Ilocos Norte)
 2026-02-22T20:24:00.000Z,22 February 2026 - 08:24 PM,19.17,120.71,015,1.5,052km N 83° W of Dalupiri Island (Calayan) (Cagayan),052,N 83° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-22T20:05:00.000Z,22 February 2026 - 08:05 PM,17.34,120.32,041,1.8,013km N 84° W of San Esteban (Ilocos Sur),013,N 84° W,San Esteban (Ilocos Sur)
@@ -35,6 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-22T00:43:00.000Z,22 February 2026 - 12:43 AM,12.33,122.39,007,3.0,031km S 26° E of Romblon (Romblon),031,S 26° E,Romblon (Romblon)
 2026-02-21T23:00:00.000Z,21 February 2026 - 11:00 PM,14.71,122.25,007,2.3,006km S 34° E of Patnanungan (Quezon),006,S 34° E,Patnanungan (Quezon)
 2026-02-21T22:47:00.000Z,21 February 2026 - 10:47 PM,14.22,122.34,010,1.5,007km N 52° W of Santa Elena (Camarines Norte),007,N 52° W,Santa Elena (Camarines Norte)
-2026-02-21T21:12:00.000Z,21 February 2026 - 09:12 PM,17.82,120.93,033,2.3,016km N 48° E of Tineg (Abra),016,N 48° E,Tineg (Abra)
-2026-02-21T21:08:00.000Z,21 February 2026 - 09:08 PM,13.90,119.40,015,2.0,078km N 87° W of Lubang (Occidental Mindoro),078,N 87° W,Lubang (Occidental Mindoro)
-2026-02-21T20:42:00.000Z,21 February 2026 - 08:42 PM,05.87,126.33,021,3.5,076km S 87° E of Jose Abad Santos (Davao Occidental),076,S 87° E,Jose Abad Santos (Davao Occidental)
