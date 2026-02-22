@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T17:28:00.000Z,22 February 2026 - 05:28 PM,06.32,123.79,031,1.7,040km S 44° W of Kalamansig (Sultan Kudarat),040,S 44° W,Kalamansig (Sultan Kudarat)
 2026-02-22T17:08:00.000Z,22 February 2026 - 05:08 PM,11.17,123.90,027,1.6,008km N 59° W of Medellin (Cebu),008,N 59° W,Medellin (Cebu)
 2026-02-22T16:36:00.000Z,22 February 2026 - 04:36 PM,09.49,124.34,026,1.9,015km S 18° E of Garcia Hernandez (Bohol),015,S 18° E,Garcia Hernandez (Bohol)
 2026-02-22T15:48:00.000Z,22 February 2026 - 03:48 PM,07.26,126.62,007,2.5,009km S 41° E of Caraga (Davao Oriental),009,S 41° E,Caraga (Davao Oriental)
@@ -31,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-21T19:22:00.000Z,21 February 2026 - 07:22 PM,06.60,123.75,002,2.8,034km N 82° W of Kalamansig (Sultan Kudarat),034,N 82° W,Kalamansig (Sultan Kudarat)
 2026-02-21T18:25:00.000Z,21 February 2026 - 06:25 PM,14.64,122.23,005,3.3,013km S 61° W of Jomalig (Quezon),013,S 61° W,Jomalig (Quezon)
 2026-02-21T18:24:00.000Z,21 February 2026 - 06:24 PM,14.18,122.86,122,4.0,005km N 82° W of Vinzons (Camarines Norte),005,N 82° W,Vinzons (Camarines Norte)
-2026-02-21T17:08:00.000Z,21 February 2026 - 05:08 PM,13.76,120.48,033,2.3,018km S 65° W of Calatagan (Batangas),018,S 65° W,Calatagan (Batangas)
