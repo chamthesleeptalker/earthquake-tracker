@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
 2026-02-23T03:42:00.000Z,23 February 2026 - 03:42 AM,09.75,126.23,020,2.7,009km S 66° E of General Luna (Surigao Del Norte),009,S 66° E,General Luna (Surigao Del Norte)
 2026-02-23T03:10:00.000Z,23 February 2026 - 03:10 AM,07.67,126.25,001,1.9,018km N 89° E of Compostela (Davao De Oro),018,N 89° E,Compostela (Davao De Oro)
 2026-02-23T02:27:00.000Z,23 February 2026 - 02:27 AM,18.64,121.02,012,2.6,008km N 60° W of Claveria (Cagayan),008,N 60° W,Claveria (Cagayan)
@@ -238,6 +239,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-16T08:51:00.000Z,16 February 2026 - 08:51 AM,07.31,126.80,010,2.5,026km S 86° E of Caraga (Davao Oriental),026,S 86° E,Caraga (Davao Oriental)
 2026-02-16T06:58:00.000Z,16 February 2026 - 06:58 AM,06.30,123.59,031,1.9,058km S 61° W of Kalamansig (Sultan Kudarat),058,S 61° W,Kalamansig (Sultan Kudarat)
 2026-02-16T06:18:00.000Z,16 February 2026 - 06:18 AM,15.33,119.98,018,2.6,001km N 63° E of Iba (Zambales),001,N 63° E,Iba (Zambales)
-2026-02-16T04:28:00.000Z,16 February 2026 - 04:28 AM,08.92,126.60,033,1.7,033km N 89° E of Cagwait (Surigao Del Sur),033,N 89° E,Cagwait (Surigao Del Sur)
-2026-02-16T04:18:00.000Z,16 February 2026 - 04:18 AM,12.51,125.00,007,2.4,007km S 12° W of Laoang (Northern Samar),007,S 12° W,Laoang (Northern Samar)
-2026-02-16T04:02:00.000Z,16 February 2026 - 04:02 AM,12.61,123.04,006,1.6,039km S 34° W of Claveria (Masbate),039,S 34° W,Claveria (Masbate)

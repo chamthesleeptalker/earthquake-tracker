@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
 2026-02-23T03:42:00.000Z,23 February 2026 - 03:42 AM,09.75,126.23,020,2.7,009km S 66° E of General Luna (Surigao Del Norte),009,S 66° E,General Luna (Surigao Del Norte)
 2026-02-23T03:10:00.000Z,23 February 2026 - 03:10 AM,07.67,126.25,001,1.9,018km N 89° E of Compostela (Davao De Oro),018,N 89° E,Compostela (Davao De Oro)
 2026-02-23T02:27:00.000Z,23 February 2026 - 02:27 AM,18.64,121.02,012,2.6,008km N 60° W of Claveria (Cagayan),008,N 60° W,Claveria (Cagayan)
@@ -39,7 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-22T07:09:00.000Z,22 February 2026 - 07:09 AM,14.70,122.23,011,1.7,006km S 14° E of Patnanungan (Quezon),006,S 14° E,Patnanungan (Quezon)
 2026-02-22T07:00:00.000Z,22 February 2026 - 07:00 AM,06.40,123.60,032,2.3,053km S 71° W of Kalamansig (Sultan Kudarat),053,S 71° W,Kalamansig (Sultan Kudarat)
 2026-02-22T06:00:00.000Z,22 February 2026 - 06:00 AM,07.43,126.89,017,2.6,038km N 74° E of Caraga (Davao Oriental),038,N 74° E,Caraga (Davao Oriental)
-2026-02-22T04:48:00.000Z,22 February 2026 - 04:48 AM,06.37,123.73,018,3.8,040km S 65° W of Kalamansig (Sultan Kudarat),040,S 65° W,Kalamansig (Sultan Kudarat)
-2026-02-22T04:31:00.000Z,22 February 2026 - 04:31 AM,13.91,119.65,004,2.3,051km N 84° W of Lubang (Occidental Mindoro),051,N 84° W,Lubang (Occidental Mindoro)
-2026-02-22T04:28:00.000Z,22 February 2026 - 04:28 AM,02.69,127.57,032,4.3,384km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),384,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-22T04:20:00.000Z,22 February 2026 - 04:20 AM,17.68,119.39,030,3.5,103km N 84° W of Santa Catalina (Ilocos Sur),103,N 84° W,Santa Catalina (Ilocos Sur)
