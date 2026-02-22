@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T03:10:00.000Z,23 February 2026 - 03:10 AM,07.67,126.25,001,1.9,018km N 89° E of Compostela (Davao De Oro),018,N 89° E,Compostela (Davao De Oro)
+2026-02-23T02:27:00.000Z,23 February 2026 - 02:27 AM,18.64,121.02,012,2.6,008km N 60° W of Claveria (Cagayan),008,N 60° W,Claveria (Cagayan)
 2026-02-23T02:23:00.000Z,23 February 2026 - 02:23 AM,19.41,121.17,050,1.6,033km N 06° W of Dalupiri Island (Calayan) (Cagayan),033,N 06° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-23T02:15:00.000Z,23 February 2026 - 02:15 AM,07.89,126.41,020,1.6,004km N 65° E of Boston (Davao Oriental),004,N 65° E,Boston (Davao Oriental)
 2026-02-23T02:01:00.000Z,23 February 2026 - 02:01 AM,19.94,121.26,007,2.2,077km S 56° W of Sabtang (Batanes),077,S 56° W,Sabtang (Batanes)
@@ -239,4 +241,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-16T04:18:00.000Z,16 February 2026 - 04:18 AM,12.51,125.00,007,2.4,007km S 12° W of Laoang (Northern Samar),007,S 12° W,Laoang (Northern Samar)
 2026-02-16T04:02:00.000Z,16 February 2026 - 04:02 AM,12.61,123.04,006,1.6,039km S 34° W of Claveria (Masbate),039,S 34° W,Claveria (Masbate)
 2026-02-16T03:10:00.000Z,16 February 2026 - 03:10 AM,07.27,126.79,033,2.2,026km S 76° E of Caraga (Davao Oriental),026,S 76° E,Caraga (Davao Oriental)
-2026-02-16T02:54:00.000Z,16 February 2026 - 02:54 AM,17.07,121.84,028,1.5,002km N 07° E of Gamu (Isabela),002,N 07° E,Gamu (Isabela)
