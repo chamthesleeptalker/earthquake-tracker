@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-22T13:23:00.000Z,22 February 2026 - 01:23 PM,08.89,126.42,019,2.5,013km S 76° E of Cagwait (Surigao Del Sur),013,S 76° E,Cagwait (Surigao Del Sur)
 2026-02-22T10:35:00.000Z,22 February 2026 - 10:35 AM,14.73,122.35,032,1.7,004km N 34° E of Jomalig (Quezon),004,N 34° E,Jomalig (Quezon)
 2026-02-22T09:51:00.000Z,22 February 2026 - 09:51 AM,17.23,120.00,011,2.2,048km N 81° W of City Of Candon (Ilocos Sur),048,N 81° W,City Of Candon (Ilocos Sur)
 2026-02-22T09:01:00.000Z,22 February 2026 - 09:01 AM,08.99,126.41,026,2.5,014km N 82° E of Bayabas (Surigao Del Sur),014,N 82° E,Bayabas (Surigao Del Sur)
@@ -229,5 +230,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-15T15:29:00.000Z,15 February 2026 - 03:29 PM,07.90,127.02,011,2.6,062km N 54° E of Baganga (Davao Oriental),062,N 54° E,Baganga (Davao Oriental)
 2026-02-15T15:21:00.000Z,15 February 2026 - 03:21 PM,02.69,126.85,032,4.5,340km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),340,S 28° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-15T15:05:00.000Z,15 February 2026 - 03:05 PM,06.76,126.11,024,2.5,008km S 24° E of San Isidro (Davao Oriental),008,S 24° E,San Isidro (Davao Oriental)
-2026-02-15T11:21:00.000Z,15 February 2026 - 11:21 AM,06.82,126.25,043,3.1,016km S 14° E of City Of Mati (Davao Oriental),016,S 14° E,City Of Mati (Davao Oriental)
-2026-02-15T10:52:00.000Z,15 February 2026 - 10:52 AM,17.85,120.82,036,2.1,014km North of Tineg (Abra),014,North of Tineg,
