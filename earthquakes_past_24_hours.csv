@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-24T05:52:00.000Z,24 February 2026 - 05:52 AM,09.54,126.00,025,2.0,009km S 26° E of Socorro (Surigao Del Norte),009,S 26° E,Socorro (Surigao Del Norte)
+2026-02-24T05:09:00.000Z,24 February 2026 - 05:09 AM,19.18,121.14,005,2.5,011km N 42° W of Dalupiri Island (Calayan) (Cagayan),011,N 42° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-24T04:22:00.000Z,24 February 2026 - 04:22 AM,10.15,124.87,033,1.4,004km N 55° E of City Of Maasin  (Southern Leyte),004,N 55° E,City Of Maasin  (Southern Leyte)
 2026-02-24T04:23:00.000Z,24 February 2026 - 04:23 AM,18.22,120.15,005,2.9,042km N 58° W of Currimao (Ilocos Norte),042,N 58° W,Currimao (Ilocos Norte)
 2026-02-24T04:16:00.000Z,24 February 2026 - 04:16 AM,17.58,120.71,033,1.7,005km N 15° W of Bucay (Abra),005,N 15° W,Bucay (Abra)
@@ -40,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T08:43:00.000Z,23 February 2026 - 08:43 AM,09.59,126.21,034,1.8,022km S 15° E of General Luna (Surigao Del Norte),022,S 15° E,General Luna (Surigao Del Norte)
 2026-02-23T07:06:00.000Z,23 February 2026 - 07:06 AM,10.51,123.08,001,2.9,012km S 23° E of Murcia (Negros Occidental),012,S 23° E,Murcia (Negros Occidental)
 2026-02-23T06:18:00.000Z,23 February 2026 - 06:18 AM,12.38,122.32,008,2.7,023km S 14° E of Romblon (Romblon),023,S 14° E,Romblon (Romblon)
-2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
