@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T09:32:00.000Z,23 February 2026 - 09:32 AM,05.47,126.47,020,3.3,104km S 62° E of Jose Abad Santos (Davao Occidental),104,S 62° E,Jose Abad Santos (Davao Occidental)
+2026-02-23T08:43:00.000Z,23 February 2026 - 08:43 AM,09.59,126.21,034,1.8,022km S 15° E of General Luna (Surigao Del Norte),022,S 15° E,General Luna (Surigao Del Norte)
 2026-02-23T07:06:00.000Z,23 February 2026 - 07:06 AM,10.51,123.08,001,2.9,012km S 23° E of Murcia (Negros Occidental),012,S 23° E,Murcia (Negros Occidental)
 2026-02-23T06:18:00.000Z,23 February 2026 - 06:18 AM,12.38,122.32,008,2.7,023km S 14° E of Romblon (Romblon),023,S 14° E,Romblon (Romblon)
 2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
@@ -35,7 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-22T13:23:00.000Z,22 February 2026 - 01:23 PM,08.89,126.42,019,2.5,013km S 76° E of Cagwait (Surigao Del Sur),013,S 76° E,Cagwait (Surigao Del Sur)
 2026-02-22T10:35:00.000Z,22 February 2026 - 10:35 AM,14.73,122.35,032,1.7,004km N 34° E of Jomalig (Quezon),004,N 34° E,Jomalig (Quezon)
 2026-02-22T09:51:00.000Z,22 February 2026 - 09:51 AM,17.23,120.00,011,2.2,048km N 81° W of City Of Candon (Ilocos Sur),048,N 81° W,City Of Candon (Ilocos Sur)
-2026-02-22T09:01:00.000Z,22 February 2026 - 09:01 AM,08.99,126.41,026,2.5,014km N 82° E of Bayabas (Surigao Del Sur),014,N 82° E,Bayabas (Surigao Del Sur)
-2026-02-22T08:33:00.000Z,22 February 2026 - 08:33 AM,14.15,120.39,116,1.6,028km N 72° W of Nasugbu (Batangas),028,N 72° W,Nasugbu (Batangas)
-2026-02-22T08:06:00.000Z,22 February 2026 - 08:06 AM,08.68,126.38,048,1.8,017km S 34° E of Marihatag (Surigao Del Sur),017,S 34° E,Marihatag (Surigao Del Sur)
-2026-02-22T07:09:00.000Z,22 February 2026 - 07:09 AM,14.70,122.23,011,1.7,006km S 14° E of Patnanungan (Quezon),006,S 14° E,Patnanungan (Quezon)

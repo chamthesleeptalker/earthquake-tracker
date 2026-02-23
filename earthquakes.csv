@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T09:32:00.000Z,23 February 2026 - 09:32 AM,05.47,126.47,020,3.3,104km S 62° E of Jose Abad Santos (Davao Occidental),104,S 62° E,Jose Abad Santos (Davao Occidental)
+2026-02-23T08:43:00.000Z,23 February 2026 - 08:43 AM,09.59,126.21,034,1.8,022km S 15° E of General Luna (Surigao Del Norte),022,S 15° E,General Luna (Surigao Del Norte)
 2026-02-23T07:06:00.000Z,23 February 2026 - 07:06 AM,10.51,123.08,001,2.9,012km S 23° E of Murcia (Negros Occidental),012,S 23° E,Murcia (Negros Occidental)
 2026-02-23T06:18:00.000Z,23 February 2026 - 06:18 AM,12.38,122.32,008,2.7,023km S 14° E of Romblon (Romblon),023,S 14° E,Romblon (Romblon)
 2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
