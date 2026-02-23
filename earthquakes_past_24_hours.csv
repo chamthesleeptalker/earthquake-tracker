@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-24T03:39:00.000Z,24 February 2026 - 03:39 AM,16.92,121.73,032,1.9,005km S 69° W of City Of Cauayan (Isabela),005,S 69° W,City Of Cauayan (Isabela)
+2026-02-24T03:26:00.000Z,24 February 2026 - 03:26 AM,06.79,127.17,012,2.3,084km S 57° E of Manay (Davao Oriental),084,S 57° E,Manay (Davao Oriental)
+2026-02-24T03:22:00.000Z,24 February 2026 - 03:22 AM,15.47,119.99,042,1.6,007km S 30° E of Masinloc (Zambales),007,S 30° E,Masinloc (Zambales)
+2026-02-24T03:19:00.000Z,24 February 2026 - 03:19 AM,07.39,126.62,033,3.8,009km N 44° E of Caraga (Davao Oriental),009,N 44° E,Caraga (Davao Oriental)
 2026-02-24T01:07:00.000Z,24 February 2026 - 01:07 AM,19.21,121.07,005,2.4,017km N 59° W of Dalupiri Island (Calayan) (Cagayan),017,N 59° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-24T00:54:00.000Z,24 February 2026 - 12:54 AM,18.76,120.80,024,1.5,023km N 02° E of Pagudpud (Ilocos Norte),023,N 02° E,Pagudpud (Ilocos Norte)
 2026-02-24T00:16:00.000Z,24 February 2026 - 12:16 AM,06.56,123.89,029,2.1,018km N 88° W of Kalamansig (Sultan Kudarat),018,N 88° W,Kalamansig (Sultan Kudarat)
@@ -33,8 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T06:18:00.000Z,23 February 2026 - 06:18 AM,12.38,122.32,008,2.7,023km S 14° E of Romblon (Romblon),023,S 14° E,Romblon (Romblon)
 2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
 2026-02-23T03:42:00.000Z,23 February 2026 - 03:42 AM,09.75,126.23,020,2.7,009km S 66° E of General Luna (Surigao Del Norte),009,S 66° E,General Luna (Surigao Del Norte)
-2026-02-23T03:10:00.000Z,23 February 2026 - 03:10 AM,07.67,126.25,001,1.9,018km N 89° E of Compostela (Davao De Oro),018,N 89° E,Compostela (Davao De Oro)
-2026-02-23T02:27:00.000Z,23 February 2026 - 02:27 AM,18.64,121.02,012,2.6,008km N 60° W of Claveria (Cagayan),008,N 60° W,Claveria (Cagayan)
-2026-02-23T02:23:00.000Z,23 February 2026 - 02:23 AM,19.41,121.17,050,1.6,033km N 06° W of Dalupiri Island (Calayan) (Cagayan),033,N 06° W,Dalupiri Island (Calayan) (Cagayan)
-2026-02-23T02:15:00.000Z,23 February 2026 - 02:15 AM,07.89,126.41,020,1.6,004km N 65° E of Boston (Davao Oriental),004,N 65° E,Boston (Davao Oriental)
-2026-02-23T02:01:00.000Z,23 February 2026 - 02:01 AM,19.94,121.26,007,2.2,077km S 56° W of Sabtang (Batanes),077,S 56° W,Sabtang (Batanes)
