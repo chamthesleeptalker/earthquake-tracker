@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T18:26:00.000Z,23 February 2026 - 06:26 PM,09.65,126.14,025,2.0,015km S 06° W of General Luna (Surigao Del Norte),015,S 06° W,General Luna (Surigao Del Norte)
+2026-02-23T18:06:00.000Z,23 February 2026 - 06:06 PM,10.41,123.01,016,1.7,010km S 77° E of City Of La Carlota (Negros Occidental),010,S 77° E,City Of La Carlota (Negros Occidental)
+2026-02-23T17:56:00.000Z,23 February 2026 - 05:56 PM,07.04,126.79,026,2.0,033km S 56° E of Manay (Davao Oriental),033,S 56° E,Manay (Davao Oriental)
+2026-02-23T17:40:00.000Z,23 February 2026 - 05:40 PM,10.46,123.07,010,3.2,027km S 72° E of City Of Bago (Negros Occidental),027,S 72° E,City Of Bago (Negros Occidental)
 2026-02-23T17:39:00.000Z,23 February 2026 - 05:39 PM,10.43,123.02,010,2.8,011km N 86° E of City Of La Carlota (Negros Occidental),011,N 86° E,City Of La Carlota (Negros Occidental)
