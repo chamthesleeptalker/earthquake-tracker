@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T13:18:00.000Z,23 February 2026 - 01:18 PM,06.28,126.55,023,2.7,067km S 51° E of Governor Generoso (Davao Oriental),067,S 51° E,Governor Generoso (Davao Oriental)
+2026-02-23T13:12:00.000Z,23 February 2026 - 01:12 PM,05.40,127.04,015,2.4,165km S 70° E of Jose Abad Santos (Davao Occidental),165,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-02-23T12:11:00.000Z,23 February 2026 - 12:11 PM,14.89,122.58,055,1.5,034km N 51° E of Jomalig (Quezon),034,N 51° E,Jomalig (Quezon)
 2026-02-23T11:57:00.000Z,23 February 2026 - 11:57 AM,07.19,126.77,013,2.7,025km S 86° E of Manay (Davao Oriental),025,S 86° E,Manay (Davao Oriental)
 2026-02-23T11:55:00.000Z,23 February 2026 - 11:55 AM,07.21,126.69,010,2.9,016km S 89° E of Manay (Davao Oriental),016,S 89° E,Manay (Davao Oriental)
@@ -240,4 +242,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-16T15:52:00.000Z,16 February 2026 - 03:52 PM,12.99,123.07,004,1.6,021km N 63° W of Claveria (Masbate),021,N 63° W,Claveria (Masbate)
 2026-02-16T14:25:00.000Z,16 February 2026 - 02:25 PM,17.77,120.77,033,1.2,007km N 47° W of Tineg (Abra),007,N 47° W,Tineg (Abra)
 2026-02-16T14:17:00.000Z,16 February 2026 - 02:17 PM,07.87,126.46,024,2.0,008km N 05° E of Cateel (Davao Oriental),008,N 05° E,Cateel (Davao Oriental)
-2026-02-16T12:52:00.000Z,16 February 2026 - 12:52 PM,06.75,125.44,018,2.1,010km N 87° E of City Of Digos (Davao Del Sur),010,N 87° E,City Of Digos (Davao Del Sur)
