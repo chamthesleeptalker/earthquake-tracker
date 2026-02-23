@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-24T04:22:00.000Z,24 February 2026 - 04:22 AM,10.15,124.87,033,1.4,004km N 55° E of City Of Maasin  (Southern Leyte),004,N 55° E,City Of Maasin  (Southern Leyte)
+2026-02-24T04:23:00.000Z,24 February 2026 - 04:23 AM,18.22,120.15,005,2.9,042km N 58° W of Currimao (Ilocos Norte),042,N 58° W,Currimao (Ilocos Norte)
+2026-02-24T04:16:00.000Z,24 February 2026 - 04:16 AM,17.58,120.71,033,1.7,005km N 15° W of Bucay (Abra),005,N 15° W,Bucay (Abra)
+2026-02-24T04:07:00.000Z,24 February 2026 - 04:07 AM,13.56,120.79,003,2.1,014km S 39° W of Tingloy (Batangas),014,S 39° W,Tingloy (Batangas)
+2026-02-24T03:53:00.000Z,24 February 2026 - 03:53 AM,18.12,120.36,026,3.1,017km N 52° W of Currimao (Ilocos Norte),017,N 52° W,Currimao (Ilocos Norte)
 2026-02-24T03:39:00.000Z,24 February 2026 - 03:39 AM,16.92,121.73,032,1.9,005km S 69° W of City Of Cauayan (Isabela),005,S 69° W,City Of Cauayan (Isabela)
 2026-02-24T03:26:00.000Z,24 February 2026 - 03:26 AM,06.79,127.17,012,2.3,084km S 57° E of Manay (Davao Oriental),084,S 57° E,Manay (Davao Oriental)
 2026-02-24T03:22:00.000Z,24 February 2026 - 03:22 AM,15.47,119.99,042,1.6,007km S 30° E of Masinloc (Zambales),007,S 30° E,Masinloc (Zambales)
@@ -36,4 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T07:06:00.000Z,23 February 2026 - 07:06 AM,10.51,123.08,001,2.9,012km S 23° E of Murcia (Negros Occidental),012,S 23° E,Murcia (Negros Occidental)
 2026-02-23T06:18:00.000Z,23 February 2026 - 06:18 AM,12.38,122.32,008,2.7,023km S 14° E of Romblon (Romblon),023,S 14° E,Romblon (Romblon)
 2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
-2026-02-23T03:42:00.000Z,23 February 2026 - 03:42 AM,09.75,126.23,020,2.7,009km S 66° E of General Luna (Surigao Del Norte),009,S 66° E,General Luna (Surigao Del Norte)
