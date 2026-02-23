@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-23T12:11:00.000Z,23 February 2026 - 12:11 PM,14.89,122.58,055,1.5,034km N 51° E of Jomalig (Quezon),034,N 51° E,Jomalig (Quezon)
+2026-02-23T11:57:00.000Z,23 February 2026 - 11:57 AM,07.19,126.77,013,2.7,025km S 86° E of Manay (Davao Oriental),025,S 86° E,Manay (Davao Oriental)
+2026-02-23T11:55:00.000Z,23 February 2026 - 11:55 AM,07.21,126.69,010,2.9,016km S 89° E of Manay (Davao Oriental),016,S 89° E,Manay (Davao Oriental)
+2026-02-23T10:09:00.000Z,23 February 2026 - 10:09 AM,11.10,124.21,002,2.0,026km N 77° E of City Of Bogo (Cebu),026,N 77° E,City Of Bogo (Cebu)
+2026-02-23T09:58:00.000Z,23 February 2026 - 09:58 AM,14.74,122.59,001,1.8,029km N 80° E of Jomalig (Quezon),029,N 80° E,Jomalig (Quezon)
 2026-02-23T09:32:00.000Z,23 February 2026 - 09:32 AM,05.47,126.47,020,3.3,104km S 62° E of Jose Abad Santos (Davao Occidental),104,S 62° E,Jose Abad Santos (Davao Occidental)
 2026-02-23T08:43:00.000Z,23 February 2026 - 08:43 AM,09.59,126.21,034,1.8,022km S 15° E of General Luna (Surigao Del Norte),022,S 15° E,General Luna (Surigao Del Norte)
 2026-02-23T07:06:00.000Z,23 February 2026 - 07:06 AM,10.51,123.08,001,2.9,012km S 23° E of Murcia (Negros Occidental),012,S 23° E,Murcia (Negros Occidental)
@@ -35,5 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-22T15:48:00.000Z,22 February 2026 - 03:48 PM,07.26,126.62,007,2.5,009km S 41° E of Caraga (Davao Oriental),009,S 41° E,Caraga (Davao Oriental)
 2026-02-22T14:18:00.000Z,22 February 2026 - 02:18 PM,07.55,125.94,031,1.6,005km N 18° E of Mawab (Davao De Oro),005,N 18° E,Mawab (Davao De Oro)
 2026-02-22T13:23:00.000Z,22 February 2026 - 01:23 PM,08.89,126.42,019,2.5,013km S 76° E of Cagwait (Surigao Del Sur),013,S 76° E,Cagwait (Surigao Del Sur)
-2026-02-22T10:35:00.000Z,22 February 2026 - 10:35 AM,14.73,122.35,032,1.7,004km N 34° E of Jomalig (Quezon),004,N 34° E,Jomalig (Quezon)
-2026-02-22T09:51:00.000Z,22 February 2026 - 09:51 AM,17.23,120.00,011,2.2,048km N 81° W of City Of Candon (Ilocos Sur),048,N 81° W,City Of Candon (Ilocos Sur)
