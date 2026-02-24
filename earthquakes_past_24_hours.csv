@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T00:53:00.000Z,25 February 2026 - 12:53 AM,15.53,120.06,018,3.0,011km S 86° E of Masinloc (Zambales),011,S 86° E,Masinloc (Zambales)
+2026-02-25T00:36:00.000Z,25 February 2026 - 12:36 AM,12.16,120.62,009,2.2,050km S 49° W of Rizal (Occidental Mindoro),050,S 49° W,Rizal (Occidental Mindoro)
+2026-02-25T00:09:00.000Z,25 February 2026 - 12:09 AM,06.93,125.65,032,3.1,018km S 25° W of Island Garden City Of Samal (Davao Del Norte),018,S 25° W,Island Garden City Of Samal (Davao Del Norte)
+2026-02-25T00:04:00.000Z,25 February 2026 - 12:04 AM,12.40,120.79,010,2.4,020km S 70° W of Rizal (Occidental Mindoro),020,S 70° W,Rizal (Occidental Mindoro)
 2026-02-24T23:41:00.000Z,24 February 2026 - 11:41 PM,06.05,125.89,137,2.5,027km S 54° E of Don Marcelino (Davao Occidental),027,S 54° E,Don Marcelino (Davao Occidental)
 2026-02-24T22:52:00.000Z,24 February 2026 - 10:52 PM,08.05,126.84,009,3.0,047km N 88° E of Lingig (Surigao Del Sur),047,N 88° E,Lingig (Surigao Del Sur)
 2026-02-24T22:47:00.000Z,24 February 2026 - 10:47 PM,05.55,125.79,020,2.7,036km N 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),036,N 77° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -10,7 +14,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T20:04:00.000Z,24 February 2026 - 08:04 PM,07.13,123.67,021,1.6,039km N 79° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),039,N 79° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-02-24T09:36:00.000Z,24 February 2026 - 09:36 AM,07.68,126.54,018,2.4,015km S 36° E of Cateel (Davao Oriental),015,S 36° E,Cateel (Davao Oriental)
 2026-02-24T18:55:00.000Z,24 February 2026 - 06:55 PM,07.88,126.47,024,1.6,010km N 13° E of Cateel (Davao Oriental),010,N 13° E,Cateel (Davao Oriental)
-2026-02-24T00:15:00.000Z,24 February 2026 - 12:15 AM,06.16,123.88,040,2.1,046km S 22° W of Kalamansig (Sultan Kudarat),046,S 22° W,Kalamansig (Sultan Kudarat)
 2026-02-24T18:33:00.000Z,24 February 2026 - 06:33 PM,19.84,121.72,025,2.3,041km N 30° W of Babuyan Island (Calayan) (Cagayan),041,N 30° W,Babuyan Island (Calayan) (Cagayan)
 2026-02-24T18:23:00.000Z,24 February 2026 - 06:23 PM,08.38,126.82,009,1.8,053km N 88° E of Hinatuan (Surigao Del Sur),053,N 88° E,Hinatuan (Surigao Del Sur)
 2026-02-24T18:02:00.000Z,24 February 2026 - 06:02 PM,11.96,120.92,002,2.2,046km S 33° W of Magsaysay (Occidental Mindoro),046,S 33° W,Magsaysay (Occidental Mindoro)
@@ -39,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T03:19:00.000Z,24 February 2026 - 03:19 AM,07.39,126.62,033,3.8,009km N 44° E of Caraga (Davao Oriental),009,N 44° E,Caraga (Davao Oriental)
 2026-02-24T01:07:00.000Z,24 February 2026 - 01:07 AM,19.21,121.07,005,2.4,017km N 59° W of Dalupiri Island (Calayan) (Cagayan),017,N 59° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-24T00:54:00.000Z,24 February 2026 - 12:54 AM,18.76,120.80,024,1.5,023km N 02° E of Pagudpud (Ilocos Norte),023,N 02° E,Pagudpud (Ilocos Norte)
-2026-02-24T00:16:00.000Z,24 February 2026 - 12:16 AM,06.56,123.89,029,2.1,018km N 88° W of Kalamansig (Sultan Kudarat),018,N 88° W,Kalamansig (Sultan Kudarat)

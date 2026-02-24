@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-24T23:41:00.000Z,24 February 2026 - 11:41 PM,06.05,125.89,137,2.5,027km S 54° E of Don Marcelino (Davao Occidental),027,S 54° E,Don Marcelino (Davao Occidental)
-2026-02-24T22:52:00.000Z,24 February 2026 - 10:52 PM,08.05,126.84,009,3.0,047km N 88° E of Lingig (Surigao Del Sur),047,N 88° E,Lingig (Surigao Del Sur)
-2026-02-24T22:47:00.000Z,24 February 2026 - 10:47 PM,05.55,125.79,020,2.7,036km N 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),036,N 77° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-25T00:53:00.000Z,25 February 2026 - 12:53 AM,15.53,120.06,018,3.0,011km S 86° E of Masinloc (Zambales),011,S 86° E,Masinloc (Zambales)
+2026-02-25T00:36:00.000Z,25 February 2026 - 12:36 AM,12.16,120.62,009,2.2,050km S 49° W of Rizal (Occidental Mindoro),050,S 49° W,Rizal (Occidental Mindoro)
+2026-02-25T00:09:00.000Z,25 February 2026 - 12:09 AM,06.93,125.65,032,3.1,018km S 25° W of Island Garden City Of Samal (Davao Del Norte),018,S 25° W,Island Garden City Of Samal (Davao Del Norte)
+2026-02-25T00:04:00.000Z,25 February 2026 - 12:04 AM,12.40,120.79,010,2.4,020km S 70° W of Rizal (Occidental Mindoro),020,S 70° W,Rizal (Occidental Mindoro)
