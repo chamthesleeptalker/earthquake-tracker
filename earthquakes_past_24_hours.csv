@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-24T17:39:00.000Z,24 February 2026 - 05:39 PM,08.15,126.73,019,2.2,037km N 70° E of Lingig (Surigao Del Sur),037,N 70° E,Lingig (Surigao Del Sur)
+2026-02-24T16:49:00.000Z,24 February 2026 - 04:49 PM,09.11,126.24,029,2.0,008km N 61° E of City Of Tandag (Surigao Del Sur),008,N 61° E,City Of Tandag (Surigao Del Sur)
 2026-02-24T15:13:00.000Z,24 February 2026 - 03:13 PM,09.05,126.91,006,3.2,069km N 78° E of Cagwait (Surigao Del Sur),069,N 78° E,Cagwait (Surigao Del Sur)
 2026-02-24T12:20:00.000Z,24 February 2026 - 12:20 PM,09.64,126.23,035,1.6,017km S 28° E of General Luna (Surigao Del Norte),017,S 28° E,General Luna (Surigao Del Norte)
 2026-02-24T11:29:00.000Z,24 February 2026 - 11:29 AM,07.24,126.70,013,3.0,018km N 81° E of Manay (Davao Oriental),018,N 81° E,Manay (Davao Oriental)
@@ -37,5 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T17:56:00.000Z,23 February 2026 - 05:56 PM,07.04,126.79,026,2.0,033km S 56° E of Manay (Davao Oriental),033,S 56° E,Manay (Davao Oriental)
 2026-02-23T17:40:00.000Z,23 February 2026 - 05:40 PM,10.46,123.07,010,3.2,027km S 72° E of City Of Bago (Negros Occidental),027,S 72° E,City Of Bago (Negros Occidental)
 2026-02-23T17:39:00.000Z,23 February 2026 - 05:39 PM,10.43,123.02,010,2.8,011km N 86° E of City Of La Carlota (Negros Occidental),011,N 86° E,City Of La Carlota (Negros Occidental)
-2026-02-23T16:27:00.000Z,23 February 2026 - 04:27 PM,09.83,124.32,023,2.0,002km S 63° W of Pilar (Bohol),002,S 63° W,Pilar (Bohol)
-2026-02-23T15:20:00.000Z,23 February 2026 - 03:20 PM,18.50,121.60,004,1.8,014km N 42° E of Ballesteros (Cagayan),014,N 42° E,Ballesteros (Cagayan)
