@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-24T11:29:00.000Z,24 February 2026 - 11:29 AM,07.24,126.70,013,3.0,018km N 81° E of Manay (Davao Oriental),018,N 81° E,Manay (Davao Oriental)
+2026-02-24T11:28:00.000Z,24 February 2026 - 11:28 AM,12.14,125.65,015,2.4,016km S 74° E of San Policarpo (Eastern Samar),016,S 74° E,San Policarpo (Eastern Samar)
+2026-02-24T10:47:00.000Z,24 February 2026 - 10:47 AM,12.73,121.33,033,1.4,018km S 85° W of Bongabong (Oriental Mindoro),018,S 85° W,Bongabong (Oriental Mindoro)
+2026-02-24T10:41:00.000Z,24 February 2026 - 10:41 AM,13.58,120.47,077,1.5,018km N 01° E of Paluan (Occidental Mindoro),018,N 01° E,Paluan (Occidental Mindoro)
+2026-02-24T10:02:00.000Z,24 February 2026 - 10:02 AM,09.82,126.64,024,2.6,054km N 86° E of General Luna (Surigao Del Norte),054,N 86° E,General Luna (Surigao Del Norte)
 2026-02-24T09:37:00.000Z,24 February 2026 - 09:37 AM,07.81,126.44,017,2.4,003km N 25° W of Cateel (Davao Oriental),003,N 25° W,Cateel (Davao Oriental)
 2026-02-24T07:51:00.000Z,24 February 2026 - 07:51 AM,07.75,126.49,135,2.2,006km S 44° E of Cateel (Davao Oriental),006,S 44° E,Cateel (Davao Oriental)
 2026-02-24T07:40:00.000Z,24 February 2026 - 07:40 AM,19.15,121.20,033,1.7,005km N 13° W of Dalupiri Island (Calayan) (Cagayan),005,N 13° W,Dalupiri Island (Calayan) (Cagayan)
@@ -39,5 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T12:11:00.000Z,23 February 2026 - 12:11 PM,14.89,122.58,055,1.5,034km N 51° E of Jomalig (Quezon),034,N 51° E,Jomalig (Quezon)
 2026-02-23T11:57:00.000Z,23 February 2026 - 11:57 AM,07.19,126.77,013,2.7,025km S 86° E of Manay (Davao Oriental),025,S 86° E,Manay (Davao Oriental)
 2026-02-23T11:55:00.000Z,23 February 2026 - 11:55 AM,07.21,126.69,010,2.9,016km S 89° E of Manay (Davao Oriental),016,S 89° E,Manay (Davao Oriental)
-2026-02-23T10:09:00.000Z,23 February 2026 - 10:09 AM,11.10,124.21,002,2.0,026km N 77° E of City Of Bogo (Cebu),026,N 77° E,City Of Bogo (Cebu)
-2026-02-23T09:58:00.000Z,23 February 2026 - 09:58 AM,14.74,122.59,001,1.8,029km N 80° E of Jomalig (Quezon),029,N 80° E,Jomalig (Quezon)
