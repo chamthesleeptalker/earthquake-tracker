@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-25T00:53:00.000Z,25 February 2026 - 12:53 AM,15.53,120.06,018,3.0,011km S 86° E of Masinloc (Zambales),011,S 86° E,Masinloc (Zambales)
-2026-02-25T00:36:00.000Z,25 February 2026 - 12:36 AM,12.16,120.62,009,2.2,050km S 49° W of Rizal (Occidental Mindoro),050,S 49° W,Rizal (Occidental Mindoro)
-2026-02-25T00:09:00.000Z,25 February 2026 - 12:09 AM,06.93,125.65,032,3.1,018km S 25° W of Island Garden City Of Samal (Davao Del Norte),018,S 25° W,Island Garden City Of Samal (Davao Del Norte)
-2026-02-25T00:04:00.000Z,25 February 2026 - 12:04 AM,12.40,120.79,010,2.4,020km S 70° W of Rizal (Occidental Mindoro),020,S 70° W,Rizal (Occidental Mindoro)
+2026-02-25T02:20:00.000Z,25 February 2026 - 02:20 AM,12.83,121.18,006,2.1,030km S 82° W of Bansud (Oriental Mindoro),030,S 82° W,Bansud (Oriental Mindoro)
+2026-02-25T02:09:00.000Z,25 February 2026 - 02:09 AM,19.14,121.31,024,2.4,012km N 70° E of Dalupiri Island (Calayan) (Cagayan),012,N 70° E,Dalupiri Island (Calayan) (Cagayan)
+2026-02-25T01:54:00.000Z,25 February 2026 - 01:54 AM,11.28,125.44,026,2.3,012km N 69° W of General Macarthur (Eastern Samar),012,N 69° W,General Macarthur (Eastern Samar)

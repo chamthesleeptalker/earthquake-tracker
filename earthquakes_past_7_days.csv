@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T02:20:00.000Z,25 February 2026 - 02:20 AM,12.83,121.18,006,2.1,030km S 82° W of Bansud (Oriental Mindoro),030,S 82° W,Bansud (Oriental Mindoro)
+2026-02-25T02:09:00.000Z,25 February 2026 - 02:09 AM,19.14,121.31,024,2.4,012km N 70° E of Dalupiri Island (Calayan) (Cagayan),012,N 70° E,Dalupiri Island (Calayan) (Cagayan)
+2026-02-25T01:54:00.000Z,25 February 2026 - 01:54 AM,11.28,125.44,026,2.3,012km N 69° W of General Macarthur (Eastern Samar),012,N 69° W,General Macarthur (Eastern Samar)
+2026-02-25T01:16:00.000Z,25 February 2026 - 01:16 AM,06.55,123.86,028,2.3,021km S 89° W of Kalamansig (Sultan Kudarat),021,S 89° W,Kalamansig (Sultan Kudarat)
 2026-02-25T00:53:00.000Z,25 February 2026 - 12:53 AM,15.53,120.06,018,3.0,011km S 86° E of Masinloc (Zambales),011,S 86° E,Masinloc (Zambales)
 2026-02-25T00:36:00.000Z,25 February 2026 - 12:36 AM,12.16,120.62,009,2.2,050km S 49° W of Rizal (Occidental Mindoro),050,S 49° W,Rizal (Occidental Mindoro)
 2026-02-25T00:09:00.000Z,25 February 2026 - 12:09 AM,06.93,125.65,032,3.1,018km S 25° W of Island Garden City Of Samal (Davao Del Norte),018,S 25° W,Island Garden City Of Samal (Davao Del Norte)
@@ -251,6 +255,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T03:39:00.000Z,18 February 2026 - 03:39 AM,07.16,123.49,024,1.6,038km S 31° E of Pitogo (Zamboanga Del Sur),038,S 31° E,Pitogo (Zamboanga Del Sur)
 2026-02-18T03:38:00.000Z,18 February 2026 - 03:38 AM,18.06,120.51,017,1.8,002km S 74° W of Paoay (Ilocos Norte),002,S 74° W,Paoay (Ilocos Norte)
 2026-02-18T02:52:00.000Z,18 February 2026 - 02:52 AM,13.08,125.83,043,2.5,091km N 43° E of Mapanas (Northern Samar),091,N 43° E,Mapanas (Northern Samar)
-2026-02-18T02:17:00.000Z,18 February 2026 - 02:17 AM,07.37,123.34,015,1.6,009km S 16° E of Pitogo (Zamboanga Del Sur),009,S 16° E,Pitogo (Zamboanga Del Sur)
-2026-02-18T01:38:00.000Z,18 February 2026 - 01:38 AM,17.11,121.52,039,2.0,010km S 85° W of Roxas (Isabela),010,S 85° W,Roxas (Isabela)
-2026-02-18T01:29:00.000Z,18 February 2026 - 01:29 AM,11.25,124.20,025,2.0,020km S 73° W of Tabango (Leyte),020,S 73° W,Tabango (Leyte)
