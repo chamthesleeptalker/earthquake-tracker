@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T05:19:00.000Z,25 February 2026 - 05:19 AM,12.07,125.56,005,2.1,009km N 70° E of Dolores (Eastern Samar),009,N 70° E,Dolores (Eastern Samar)
+2026-02-25T04:58:00.000Z,25 February 2026 - 04:58 AM,16.96,120.22,019,1.9,020km N 55° W of Luna (La Union),020,N 55° W,Luna (La Union)
+2026-02-25T04:48:00.000Z,25 February 2026 - 04:48 AM,10.45,124.01,040,1.2,000km S 14° W of Compostela (Cebu),000,S 14° W,Compostela (Cebu)
+2026-02-25T04:36:00.000Z,25 February 2026 - 04:36 AM,08.22,126.53,033,1.4,023km N 89° E of City Of Bislig (Surigao Del Sur),023,N 89° E,City Of Bislig (Surigao Del Sur)
 2026-02-25T04:12:00.000Z,25 February 2026 - 04:12 AM,11.14,124.17,010,1.7,023km N 63° E of City Of Bogo (Cebu),023,N 63° E,City Of Bogo (Cebu)
 2026-02-25T04:10:00.000Z,25 February 2026 - 04:10 AM,13.10,121.03,001,2.8,028km S 73° W of Victoria (Oriental Mindoro),028,S 73° W,Victoria (Oriental Mindoro)
 2026-02-25T04:03:00.000Z,25 February 2026 - 04:03 AM,11.13,124.17,010,1.9,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)

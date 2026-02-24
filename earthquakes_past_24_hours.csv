@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T05:19:00.000Z,25 February 2026 - 05:19 AM,12.07,125.56,005,2.1,009km N 70° E of Dolores (Eastern Samar),009,N 70° E,Dolores (Eastern Samar)
+2026-02-25T04:58:00.000Z,25 February 2026 - 04:58 AM,16.96,120.22,019,1.9,020km N 55° W of Luna (La Union),020,N 55° W,Luna (La Union)
+2026-02-25T04:48:00.000Z,25 February 2026 - 04:48 AM,10.45,124.01,040,1.2,000km S 14° W of Compostela (Cebu),000,S 14° W,Compostela (Cebu)
+2026-02-25T04:36:00.000Z,25 February 2026 - 04:36 AM,08.22,126.53,033,1.4,023km N 89° E of City Of Bislig (Surigao Del Sur),023,N 89° E,City Of Bislig (Surigao Del Sur)
 2026-02-25T04:12:00.000Z,25 February 2026 - 04:12 AM,11.14,124.17,010,1.7,023km N 63° E of City Of Bogo (Cebu),023,N 63° E,City Of Bogo (Cebu)
 2026-02-25T04:10:00.000Z,25 February 2026 - 04:10 AM,13.10,121.03,001,2.8,028km S 73° W of Victoria (Oriental Mindoro),028,S 73° W,Victoria (Oriental Mindoro)
 2026-02-25T04:03:00.000Z,25 February 2026 - 04:03 AM,11.13,124.17,010,1.9,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)
@@ -48,7 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T07:51:00.000Z,24 February 2026 - 07:51 AM,07.75,126.49,135,2.2,006km S 44° E of Cateel (Davao Oriental),006,S 44° E,Cateel (Davao Oriental)
 2026-02-24T07:40:00.000Z,24 February 2026 - 07:40 AM,19.15,121.20,033,1.7,005km N 13° W of Dalupiri Island (Calayan) (Cagayan),005,N 13° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-24T05:52:00.000Z,24 February 2026 - 05:52 AM,09.54,126.00,025,2.0,009km S 26° E of Socorro (Surigao Del Norte),009,S 26° E,Socorro (Surigao Del Norte)
-2026-02-24T05:09:00.000Z,24 February 2026 - 05:09 AM,19.18,121.14,005,2.5,011km N 42° W of Dalupiri Island (Calayan) (Cagayan),011,N 42° W,Dalupiri Island (Calayan) (Cagayan)
-2026-02-24T04:22:00.000Z,24 February 2026 - 04:22 AM,10.15,124.87,033,1.4,004km N 55° E of City Of Maasin  (Southern Leyte),004,N 55° E,City Of Maasin  (Southern Leyte)
-2026-02-24T04:23:00.000Z,24 February 2026 - 04:23 AM,18.22,120.15,005,2.9,042km N 58° W of Currimao (Ilocos Norte),042,N 58° W,Currimao (Ilocos Norte)
-2026-02-24T04:16:00.000Z,24 February 2026 - 04:16 AM,17.58,120.71,033,1.7,005km N 15° W of Bucay (Abra),005,N 15° W,Bucay (Abra)
