@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T04:12:00.000Z,25 February 2026 - 04:12 AM,11.14,124.17,010,1.7,023km N 63° E of City Of Bogo (Cebu),023,N 63° E,City Of Bogo (Cebu)
+2026-02-25T04:10:00.000Z,25 February 2026 - 04:10 AM,13.10,121.03,001,2.8,028km S 73° W of Victoria (Oriental Mindoro),028,S 73° W,Victoria (Oriental Mindoro)
+2026-02-25T04:03:00.000Z,25 February 2026 - 04:03 AM,11.13,124.17,010,1.9,022km N 66° E of City Of Bogo (Cebu),022,N 66° E,City Of Bogo (Cebu)
+2026-02-25T03:56:00.000Z,25 February 2026 - 03:56 AM,06.31,126.17,029,1.9,040km S 16° E of Governor Generoso (Davao Oriental),040,S 16° E,Governor Generoso (Davao Oriental)
+2026-02-25T03:54:00.000Z,25 February 2026 - 03:54 AM,11.15,124.16,012,1.8,023km N 60° E of City Of Bogo (Cebu),023,N 60° E,City Of Bogo (Cebu)
+2026-02-25T03:45:00.000Z,25 February 2026 - 03:45 AM,11.14,124.17,008,2.5,023km N 64° E of City Of Bogo (Cebu),023,N 64° E,City Of Bogo (Cebu)
+2026-02-25T03:39:00.000Z,25 February 2026 - 03:39 AM,06.57,126.71,100,2.1,060km S 29° E of Tarragona (Davao Oriental),060,S 29° E,Tarragona (Davao Oriental)
 2026-02-25T03:37:00.000Z,25 February 2026 - 03:37 AM,06.17,126.99,013,2.2,114km S 62° E of Governor Generoso (Davao Oriental),114,S 62° E,Governor Generoso (Davao Oriental)
 2026-02-25T03:31:00.000Z,25 February 2026 - 03:31 AM,09.62,126.03,024,1.9,007km S 88° E of Socorro (Surigao Del Norte),007,S 88° E,Socorro (Surigao Del Norte)
 2026-02-25T03:28:00.000Z,25 February 2026 - 03:28 AM,16.00,119.59,024,2.1,026km S 59° W of Agno (Pangasinan),026,S 59° W,Agno (Pangasinan)
