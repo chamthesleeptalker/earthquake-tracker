@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-24T15:13:00.000Z,24 February 2026 - 03:13 PM,09.05,126.91,006,3.2,069km N 78° E of Cagwait (Surigao Del Sur),069,N 78° E,Cagwait (Surigao Del Sur)
 2026-02-24T12:20:00.000Z,24 February 2026 - 12:20 PM,09.64,126.23,035,1.6,017km S 28° E of General Luna (Surigao Del Norte),017,S 28° E,General Luna (Surigao Del Norte)
 2026-02-24T11:29:00.000Z,24 February 2026 - 11:29 AM,07.24,126.70,013,3.0,018km N 81° E of Manay (Davao Oriental),018,N 81° E,Manay (Davao Oriental)
 2026-02-24T11:28:00.000Z,24 February 2026 - 11:28 AM,12.14,125.65,015,2.4,016km S 74° E of San Policarpo (Eastern Samar),016,S 74° E,San Policarpo (Eastern Samar)
@@ -38,7 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T17:39:00.000Z,23 February 2026 - 05:39 PM,10.43,123.02,010,2.8,011km N 86° E of City Of La Carlota (Negros Occidental),011,N 86° E,City Of La Carlota (Negros Occidental)
 2026-02-23T16:27:00.000Z,23 February 2026 - 04:27 PM,09.83,124.32,023,2.0,002km S 63° W of Pilar (Bohol),002,S 63° W,Pilar (Bohol)
 2026-02-23T15:20:00.000Z,23 February 2026 - 03:20 PM,18.50,121.60,004,1.8,014km N 42° E of Ballesteros (Cagayan),014,N 42° E,Ballesteros (Cagayan)
-2026-02-23T14:23:00.000Z,23 February 2026 - 02:23 PM,14.88,122.54,001,1.6,030km N 48° E of Jomalig (Quezon),030,N 48° E,Jomalig (Quezon)
-2026-02-23T13:53:00.000Z,23 February 2026 - 01:53 PM,12.18,125.77,012,3.3,028km East of San Policarpo (Eastern Samar),028,East of San,(Eastern Samar)
-2026-02-23T13:18:00.000Z,23 February 2026 - 01:18 PM,06.28,126.55,023,2.7,067km S 51° E of Governor Generoso (Davao Oriental),067,S 51° E,Governor Generoso (Davao Oriental)
-2026-02-23T13:12:00.000Z,23 February 2026 - 01:12 PM,05.40,127.04,015,2.4,165km S 70° E of Jose Abad Santos (Davao Occidental),165,S 70° E,Jose Abad Santos (Davao Occidental)
