@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-26T04:56:00.000Z,26 February 2026 - 04:56 AM,15.67,120.15,024,1.5,021km S 51° W of Mangatarem (Pangasinan),021,S 51° W,Mangatarem (Pangasinan)
+2026-02-26T04:39:00.000Z,26 February 2026 - 04:39 AM,08.96,126.45,018,2.2,017km N 73° E of Cagwait (Surigao Del Sur),017,N 73° E,Cagwait (Surigao Del Sur)
 2026-02-26T03:27:00.000Z,26 February 2026 - 03:27 AM,07.80,126.98,011,1.7,053km N 62° E of Baganga (Davao Oriental),053,N 62° E,Baganga (Davao Oriental)
 2026-02-26T02:36:00.000Z,26 February 2026 - 02:36 AM,19.23,121.08,032,1.7,019km N 46° W of Dalupiri Island (Calayan) (Cagayan),019,N 46° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-25T21:55:00.000Z,25 February 2026 - 09:55 PM,13.32,120.47,033,2.0,011km S 05° E of Paluan (Occidental Mindoro),011,S 05° E,Paluan (Occidental Mindoro)
@@ -265,5 +267,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-19T05:08:00.000Z,19 February 2026 - 05:08 AM,14.97,119.82,005,2.4,028km S 79° W of San Narciso (Zambales),028,S 79° W,San Narciso (Zambales)
 2026-02-19T04:59:00.000Z,19 February 2026 - 04:59 AM,11.21,124.64,015,2.4,009km S 04° W of Capoocan (Leyte),009,S 04° W,Capoocan (Leyte)
 2026-02-19T04:57:00.000Z,19 February 2026 - 04:57 AM,09.79,123.87,032,1.4,004km N 66° W of Antequera (Bohol),004,N 66° W,Antequera (Bohol)
-2026-02-19T03:41:00.000Z,19 February 2026 - 03:41 AM,06.34,123.76,001,3.0,040km S 53° W of Kalamansig (Sultan Kudarat),040,S 53° W,Kalamansig (Sultan Kudarat)
-2026-02-19T03:38:00.000Z,19 February 2026 - 03:38 AM,13.57,120.64,116,2.5,017km N 35° W of Abra De Ilog (Occidental Mindoro),017,N 35° W,Abra De Ilog (Occidental Mindoro)
