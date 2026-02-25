@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-26T07:36:00.000Z,26 February 2026 - 07:36 AM,08.57,126.36,023,1.9,023km N 07° E of Hinatuan (Surigao Del Sur),023,N 07° E,Hinatuan (Surigao Del Sur)
+2026-02-26T07:30:00.000Z,26 February 2026 - 07:30 AM,09.15,126.13,027,1.5,009km N 25° W of City Of Tandag (Surigao Del Sur),009,N 25° W,City Of Tandag (Surigao Del Sur)
 2026-02-26T06:56:00.000Z,26 February 2026 - 06:56 AM,19.87,121.55,002,3.2,055km N 44° W of Babuyan Island (Calayan) (Cagayan),055,N 44° W,Babuyan Island (Calayan) (Cagayan)
 2026-02-26T06:48:00.000Z,26 February 2026 - 06:48 AM,19.45,121.56,018,1.5,023km N 23° E of Calayan (Cagayan),023,N 23° E,Calayan (Cagayan)
 2026-02-26T06:00:00.000Z,26 February 2026 - 06:00 AM,10.55,125.41,002,2.1,027km N 84° E of Silago (Southern Leyte),027,N 84° E,Silago (Southern Leyte)
@@ -262,5 +264,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-19T09:40:00.000Z,19 February 2026 - 09:40 AM,06.51,123.94,002,2.1,013km S 68° W of Kalamansig (Sultan Kudarat),013,S 68° W,Kalamansig (Sultan Kudarat)
 2026-02-19T08:13:00.000Z,19 February 2026 - 08:13 AM,08.40,123.05,009,1.6,005km S 41° E of Jose Dalman (Zamboanga Del Norte),005,S 41° E,Jose Dalman (Zamboanga Del Norte)
 2026-02-19T08:03:00.000Z,19 February 2026 - 08:03 AM,14.54,121.70,036,1.5,018km S 37° E of Real (Quezon),018,S 37° E,Real (Quezon)
-2026-02-19T07:19:00.000Z,19 February 2026 - 07:19 AM,14.13,120.46,119,1.5,019km N 69° W of Nasugbu (Batangas),019,N 69° W,Nasugbu (Batangas)
-2026-02-19T07:18:00.000Z,19 February 2026 - 07:18 AM,15.60,122.32,018,2.1,071km S 33° E of Dinalungan (Aurora),071,S 33° E,Dinalungan (Aurora)
