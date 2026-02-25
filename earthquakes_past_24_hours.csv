@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T13:16:00.000Z,25 February 2026 - 01:16 PM,11.81,125.48,032,1.6,002km S 82° E of Sulat (Eastern Samar),002,S 82° E,Sulat (Eastern Samar)
+2026-02-25T12:51:00.000Z,25 February 2026 - 12:51 PM,13.40,122.12,019,2.2,010km N 24° E of Torrijos (Marinduque),010,N 24° E,Torrijos (Marinduque)
 2026-02-25T09:46:00.000Z,25 February 2026 - 09:46 AM,09.11,127.00,010,2.9,079km N 74° E of Cagwait (Surigao Del Sur),079,N 74° E,Cagwait (Surigao Del Sur)
 2026-02-25T09:12:00.000Z,25 February 2026 - 09:12 AM,06.20,126.11,125,2.4,046km N 90° E of Don Marcelino (Davao Occidental),046,N 90° E,Don Marcelino (Davao Occidental)
 2026-02-25T09:07:00.000Z,25 February 2026 - 09:07 AM,13.59,120.55,021,1.4,022km N 26° E of Paluan (Occidental Mindoro),022,N 26° E,Paluan (Occidental Mindoro)
@@ -52,9 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T17:39:00.000Z,24 February 2026 - 05:39 PM,08.15,126.73,019,2.2,037km N 70° E of Lingig (Surigao Del Sur),037,N 70° E,Lingig (Surigao Del Sur)
 2026-02-24T16:49:00.000Z,24 February 2026 - 04:49 PM,09.11,126.24,029,2.0,008km N 61° E of City Of Tandag (Surigao Del Sur),008,N 61° E,City Of Tandag (Surigao Del Sur)
 2026-02-24T15:13:00.000Z,24 February 2026 - 03:13 PM,09.05,126.91,006,3.2,069km N 78° E of Cagwait (Surigao Del Sur),069,N 78° E,Cagwait (Surigao Del Sur)
-2026-02-24T12:20:00.000Z,24 February 2026 - 12:20 PM,09.64,126.23,035,1.6,017km S 28° E of General Luna (Surigao Del Norte),017,S 28° E,General Luna (Surigao Del Norte)
-2026-02-24T11:29:00.000Z,24 February 2026 - 11:29 AM,07.24,126.70,013,3.0,018km N 81° E of Manay (Davao Oriental),018,N 81° E,Manay (Davao Oriental)
-2026-02-24T11:28:00.000Z,24 February 2026 - 11:28 AM,12.14,125.65,015,2.4,016km S 74° E of San Policarpo (Eastern Samar),016,S 74° E,San Policarpo (Eastern Samar)
-2026-02-24T10:47:00.000Z,24 February 2026 - 10:47 AM,12.73,121.33,033,1.4,018km S 85° W of Bongabong (Oriental Mindoro),018,S 85° W,Bongabong (Oriental Mindoro)
-2026-02-24T10:41:00.000Z,24 February 2026 - 10:41 AM,13.58,120.47,077,1.5,018km N 01° E of Paluan (Occidental Mindoro),018,N 01° E,Paluan (Occidental Mindoro)
-2026-02-24T10:02:00.000Z,24 February 2026 - 10:02 AM,09.82,126.64,024,2.6,054km N 86° E of General Luna (Surigao Del Norte),054,N 86° E,General Luna (Surigao Del Norte)
