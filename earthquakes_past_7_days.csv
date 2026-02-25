@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T14:57:00.000Z,25 February 2026 - 02:57 PM,06.70,126.66,031,2.4,045km S 31° E of Tarragona (Davao Oriental),045,S 31° E,Tarragona (Davao Oriental)
+2026-02-25T13:54:00.000Z,25 February 2026 - 01:54 PM,07.17,126.92,015,2.6,043km S 83° E of Manay (Davao Oriental),043,S 83° E,Manay (Davao Oriental)
 2026-02-25T13:16:00.000Z,25 February 2026 - 01:16 PM,11.81,125.48,032,1.6,002km S 82° E of Sulat (Eastern Samar),002,S 82° E,Sulat (Eastern Samar)
 2026-02-25T12:51:00.000Z,25 February 2026 - 12:51 PM,13.40,122.12,019,2.2,010km N 24° E of Torrijos (Marinduque),010,N 24° E,Torrijos (Marinduque)
 2026-02-25T09:46:00.000Z,25 February 2026 - 09:46 AM,09.11,127.00,010,2.9,079km N 74° E of Cagwait (Surigao Del Sur),079,N 74° E,Cagwait (Surigao Del Sur)
@@ -267,7 +269,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T20:04:00.000Z,18 February 2026 - 08:04 PM,16.32,120.79,032,1.4,012km S 66° W of Kayapa (Nueva Vizcaya),012,S 66° W,Kayapa (Nueva Vizcaya)
 2026-02-18T19:47:00.000Z,18 February 2026 - 07:47 PM,18.93,121.89,014,1.6,004km N 48° E of Camiguin Island (Calayan) (Cagayan),004,N 48° E,Camiguin Island (Calayan) (Cagayan)
 2026-02-18T18:00:00.000Z,18 February 2026 - 06:00 PM,07.59,123.89,032,1.5,012km S 46° W of Picong (Lanao Del Sur),012,S 46° W,Picong (Lanao Del Sur)
-2026-02-18T14:18:00.000Z,18 February 2026 - 02:18 PM,16.75,121.13,033,1.7,005km S 61° E of Kiangan (Ifugao),005,S 61° E,Kiangan (Ifugao)
-2026-02-18T14:10:00.000Z,18 February 2026 - 02:10 PM,09.88,126.58,010,2.6,047km N 76° E of General Luna (Surigao Del Norte),047,N 76° E,General Luna (Surigao Del Norte)
-2026-02-18T14:07:00.000Z,18 February 2026 - 02:07 PM,07.60,127.05,027,1.9,054km N 87° E of Baganga (Davao Oriental),054,N 87° E,Baganga (Davao Oriental)
-2026-02-18T13:55:00.000Z,18 February 2026 - 01:55 PM,18.83,121.98,004,2.1,015km S 53° E of Camiguin Island (Calayan) (Cagayan),015,S 53° E,Camiguin Island (Calayan) (Cagayan)
