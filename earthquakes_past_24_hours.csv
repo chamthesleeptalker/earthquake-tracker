@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T19:05:00.000Z,25 February 2026 - 07:05 PM,17.13,120.58,100,1.7,004km S 70° W of Gregorio Del Pilar (Ilocos Sur),004,S 70° W,Gregorio Del Pilar (Ilocos Sur)
+2026-02-25T18:17:00.000Z,25 February 2026 - 06:17 PM,10.78,124.22,036,2.3,022km S 73° E of Borbon (Cebu),022,S 73° E,Borbon (Cebu)
 2026-02-25T18:14:00.000Z,25 February 2026 - 06:14 PM,08.36,124.69,023,1.7,001km S 09° E of Libona (Bukidnon),001,S 09° E,Libona (Bukidnon)
 2026-02-25T18:05:00.000Z,25 February 2026 - 06:05 PM,08.50,124.94,034,1.0,007km S 56° E of Malitbog (Bukidnon),007,S 56° E,Malitbog (Bukidnon)
 2026-02-25T17:11:00.000Z,25 February 2026 - 05:11 PM,18.03,121.69,082,2.1,006km S 55° E of Gattaran (Cagayan),006,S 55° E,Gattaran (Cagayan)
@@ -54,6 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T20:25:00.000Z,24 February 2026 - 08:25 PM,12.12,121.47,033,2.4,022km N 22° W of Caluya (Antique),022,N 22° W,Caluya (Antique)
 2026-02-24T20:18:00.000Z,24 February 2026 - 08:18 PM,08.00,126.63,023,2.1,024km S 80° E of Lingig (Surigao Del Sur),024,S 80° E,Lingig (Surigao Del Sur)
 2026-02-24T20:04:00.000Z,24 February 2026 - 08:04 PM,07.13,123.67,021,1.6,039km N 79° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),039,N 79° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-02-24T18:55:00.000Z,24 February 2026 - 06:55 PM,07.88,126.47,024,1.6,010km N 13° E of Cateel (Davao Oriental),010,N 13° E,Cateel (Davao Oriental)
-2026-02-24T18:33:00.000Z,24 February 2026 - 06:33 PM,19.84,121.72,025,2.3,041km N 30° W of Babuyan Island (Calayan) (Cagayan),041,N 30° W,Babuyan Island (Calayan) (Cagayan)
-2026-02-24T18:23:00.000Z,24 February 2026 - 06:23 PM,08.38,126.82,009,1.8,053km N 88° E of Hinatuan (Surigao Del Sur),053,N 88° E,Hinatuan (Surigao Del Sur)
