@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T18:14:00.000Z,25 February 2026 - 06:14 PM,08.36,124.69,023,1.7,001km S 09° E of Libona (Bukidnon),001,S 09° E,Libona (Bukidnon)
+2026-02-25T18:05:00.000Z,25 February 2026 - 06:05 PM,08.50,124.94,034,1.0,007km S 56° E of Malitbog (Bukidnon),007,S 56° E,Malitbog (Bukidnon)
 2026-02-25T17:11:00.000Z,25 February 2026 - 05:11 PM,18.03,121.69,082,2.1,006km S 55° E of Gattaran (Cagayan),006,S 55° E,Gattaran (Cagayan)
 2026-02-25T16:40:00.000Z,25 February 2026 - 04:40 PM,13.57,120.91,018,1.4,009km N 35° W of Puerto Galera (Oriental Mindoro),009,N 35° W,Puerto Galera (Oriental Mindoro)
 2026-02-25T15:51:00.000Z,25 February 2026 - 03:51 PM,15.74,121.93,018,3.9,040km S 87° E of Baler (Aurora),040,S 87° E,Baler (Aurora)
@@ -271,4 +273,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T20:57:00.000Z,18 February 2026 - 08:57 PM,06.51,123.68,006,2.6,041km S 84° W of Kalamansig (Sultan Kudarat),041,S 84° W,Kalamansig (Sultan Kudarat)
 2026-02-18T20:04:00.000Z,18 February 2026 - 08:04 PM,16.32,120.79,032,1.4,012km S 66° W of Kayapa (Nueva Vizcaya),012,S 66° W,Kayapa (Nueva Vizcaya)
 2026-02-18T19:47:00.000Z,18 February 2026 - 07:47 PM,18.93,121.89,014,1.6,004km N 48° E of Camiguin Island (Calayan) (Cagayan),004,N 48° E,Camiguin Island (Calayan) (Cagayan)
-2026-02-18T18:00:00.000Z,18 February 2026 - 06:00 PM,07.59,123.89,032,1.5,012km S 46° W of Picong (Lanao Del Sur),012,S 46° W,Picong (Lanao Del Sur)
