@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-26T06:56:00.000Z,26 February 2026 - 06:56 AM,19.87,121.55,002,3.2,055km N 44° W of Babuyan Island (Calayan) (Cagayan),055,N 44° W,Babuyan Island (Calayan) (Cagayan)
+2026-02-26T06:48:00.000Z,26 February 2026 - 06:48 AM,19.45,121.56,018,1.5,023km N 23° E of Calayan (Cagayan),023,N 23° E,Calayan (Cagayan)
 2026-02-26T06:00:00.000Z,26 February 2026 - 06:00 AM,10.55,125.41,002,2.1,027km N 84° E of Silago (Southern Leyte),027,N 84° E,Silago (Southern Leyte)
 2026-02-26T04:56:00.000Z,26 February 2026 - 04:56 AM,15.67,120.15,024,1.5,021km S 51° W of Mangatarem (Pangasinan),021,S 51° W,Mangatarem (Pangasinan)
 2026-02-26T04:39:00.000Z,26 February 2026 - 04:39 AM,08.96,126.45,018,2.2,017km N 73° E of Cagwait (Surigao Del Sur),017,N 73° E,Cagwait (Surigao Del Sur)
@@ -262,4 +264,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-19T08:03:00.000Z,19 February 2026 - 08:03 AM,14.54,121.70,036,1.5,018km S 37° E of Real (Quezon),018,S 37° E,Real (Quezon)
 2026-02-19T07:19:00.000Z,19 February 2026 - 07:19 AM,14.13,120.46,119,1.5,019km N 69° W of Nasugbu (Batangas),019,N 69° W,Nasugbu (Batangas)
 2026-02-19T07:18:00.000Z,19 February 2026 - 07:18 AM,15.60,122.32,018,2.1,071km S 33° E of Dinalungan (Aurora),071,S 33° E,Dinalungan (Aurora)
-2026-02-19T06:31:00.000Z,19 February 2026 - 06:31 AM,13.53,121.73,025,2.0,015km N 52° W of Boac (Marinduque),015,N 52° W,Boac (Marinduque)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-26T06:56:00.000Z,26 February 2026 - 06:56 AM,19.87,121.55,002,3.2,055km N 44° W of Babuyan Island (Calayan) (Cagayan),055,N 44° W,Babuyan Island (Calayan) (Cagayan)
+2026-02-26T06:48:00.000Z,26 February 2026 - 06:48 AM,19.45,121.56,018,1.5,023km N 23° E of Calayan (Cagayan),023,N 23° E,Calayan (Cagayan)
 2026-02-26T06:00:00.000Z,26 February 2026 - 06:00 AM,10.55,125.41,002,2.1,027km N 84° E of Silago (Southern Leyte),027,N 84° E,Silago (Southern Leyte)
 2026-02-26T04:56:00.000Z,26 February 2026 - 04:56 AM,15.67,120.15,024,1.5,021km S 51° W of Mangatarem (Pangasinan),021,S 51° W,Mangatarem (Pangasinan)
 2026-02-26T04:39:00.000Z,26 February 2026 - 04:39 AM,08.96,126.45,018,2.2,017km N 73° E of Cagwait (Surigao Del Sur),017,N 73° E,Cagwait (Surigao Del Sur)
@@ -26,4 +28,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-25T07:27:00.000Z,25 February 2026 - 07:27 AM,18.80,121.37,020,1.6,006km S 02° W of Fuga Island (Aparri) (Cagayan),006,S 02° W,Fuga Island (Aparri) (Cagayan)
 2026-02-25T07:16:00.000Z,25 February 2026 - 07:16 AM,09.79,124.74,002,2.4,019km N 73° E of Anda (Bohol),019,N 73° E,Anda (Bohol)
 2026-02-25T07:02:00.000Z,25 February 2026 - 07:02 AM,19.66,121.66,002,1.6,031km N 58° W of Babuyan Island (Calayan) (Cagayan),031,N 58° W,Babuyan Island (Calayan) (Cagayan)
-2026-02-25T06:50:00.000Z,25 February 2026 - 06:50 AM,16.84,122.40,010,2.1,025km S 07° W of Palanan (Isabela),025,S 07° W,Palanan (Isabela)
