@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-25T09:46:00.000Z,25 February 2026 - 09:46 AM,09.11,127.00,010,2.9,079km N 74° E of Cagwait (Surigao Del Sur),079,N 74° E,Cagwait (Surigao Del Sur)
+2026-02-25T09:12:00.000Z,25 February 2026 - 09:12 AM,06.20,126.11,125,2.4,046km N 90° E of Don Marcelino (Davao Occidental),046,N 90° E,Don Marcelino (Davao Occidental)
+2026-02-25T09:07:00.000Z,25 February 2026 - 09:07 AM,13.59,120.55,021,1.4,022km N 26° E of Paluan (Occidental Mindoro),022,N 26° E,Paluan (Occidental Mindoro)
+2026-02-25T08:39:00.000Z,25 February 2026 - 08:39 AM,06.30,123.55,024,2.5,062km S 63° W of Kalamansig (Sultan Kudarat),062,S 63° W,Kalamansig (Sultan Kudarat)
+2026-02-25T08:35:00.000Z,25 February 2026 - 08:35 AM,08.71,127.59,033,2.2,143km N 75° E of Hinatuan (Surigao Del Sur),143,N 75° E,Hinatuan (Surigao Del Sur)
+2026-02-25T08:18:00.000Z,25 February 2026 - 08:18 AM,14.97,121.50,034,1.8,026km N 29° W of General Nakar (Quezon),026,N 29° W,General Nakar (Quezon)
+2026-02-25T07:27:00.000Z,25 February 2026 - 07:27 AM,18.80,121.37,020,1.6,006km S 02° W of Fuga Island (Aparri) (Cagayan),006,S 02° W,Fuga Island (Aparri) (Cagayan)
 2026-02-25T07:16:00.000Z,25 February 2026 - 07:16 AM,09.79,124.74,002,2.4,019km N 73° E of Anda (Bohol),019,N 73° E,Anda (Bohol)
 2026-02-25T07:02:00.000Z,25 February 2026 - 07:02 AM,19.66,121.66,002,1.6,031km N 58° W of Babuyan Island (Calayan) (Cagayan),031,N 58° W,Babuyan Island (Calayan) (Cagayan)
 2026-02-25T06:50:00.000Z,25 February 2026 - 06:50 AM,16.84,122.40,010,2.1,025km S 07° W of Palanan (Isabela),025,S 07° W,Palanan (Isabela)
@@ -264,6 +271,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-18T13:55:00.000Z,18 February 2026 - 01:55 PM,18.83,121.98,004,2.1,015km S 53° E of Camiguin Island (Calayan) (Cagayan),015,S 53° E,Camiguin Island (Calayan) (Cagayan)
 2026-02-18T10:01:00.000Z,18 February 2026 - 10:01 AM,08.38,126.26,027,1.7,008km N 76° W of Hinatuan (Surigao Del Sur),008,N 76° W,Hinatuan (Surigao Del Sur)
 2026-02-18T10:00:00.000Z,18 February 2026 - 10:00 AM,05.08,125.51,015,2.9,038km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),038,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-18T09:35:00.000Z,18 February 2026 - 09:35 AM,08.28,126.80,003,2.8,050km N 58° E of Lingig (Surigao Del Sur),050,N 58° E,Lingig (Surigao Del Sur)
-2026-02-18T08:43:00.000Z,18 February 2026 - 08:43 AM,11.25,124.16,012,1.8,030km N 42° E of City Of Bogo (Cebu),030,N 42° E,City Of Bogo (Cebu)
-2026-02-18T08:35:00.000Z,18 February 2026 - 08:35 AM,08.25,126.95,006,2.7,064km N 69° E of Lingig (Surigao Del Sur),064,N 69° E,Lingig (Surigao Del Sur)
