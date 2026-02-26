@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-26T09:44:00.000Z,26 February 2026 - 09:44 AM,08.14,126.04,023,2.4,006km S 51° E of Bunawan (Agusan Del Sur),006,S 51° E,Bunawan (Agusan Del Sur)
 2026-02-26T07:36:00.000Z,26 February 2026 - 07:36 AM,08.57,126.36,023,1.9,023km N 07° E of Hinatuan (Surigao Del Sur),023,N 07° E,Hinatuan (Surigao Del Sur)
 2026-02-26T07:30:00.000Z,26 February 2026 - 07:30 AM,09.15,126.13,027,1.5,009km N 25° W of City Of Tandag (Surigao Del Sur),009,N 25° W,City Of Tandag (Surigao Del Sur)
 2026-02-26T06:56:00.000Z,26 February 2026 - 06:56 AM,19.87,121.55,002,3.2,055km N 44° W of Babuyan Island (Calayan) (Cagayan),055,N 44° W,Babuyan Island (Calayan) (Cagayan)
@@ -243,7 +244,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-20T02:38:00.000Z,20 February 2026 - 02:38 AM,09.54,126.10,032,1.5,017km S 60° E of Socorro (Surigao Del Norte),017,S 60° E,Socorro (Surigao Del Norte)
 2026-02-20T01:58:00.000Z,20 February 2026 - 01:58 AM,04.63,126.37,008,3.4,132km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),132,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-20T01:45:00.000Z,20 February 2026 - 01:45 AM,09.50,125.32,017,2.7,017km S 35° W of Malimono (Surigao Del Norte),017,S 35° W,Malimono (Surigao Del Norte)
-2026-02-19T08:04:00.000Z,19 February 2026 - 08:04 AM,14.48,121.73,014,1.6,025km S 33° E of Real (Quezon),025,S 33° E,Real (Quezon)
 2026-02-20T01:22:00.000Z,20 February 2026 - 01:22 AM,09.65,126.20,005,2.2,016km S 19° E of General Luna (Surigao Del Norte),016,S 19° E,General Luna (Surigao Del Norte)
 2026-02-20T01:11:00.000Z,20 February 2026 - 01:11 AM,06.76,123.88,018,2.1,030km N 40° W of Kalamansig (Sultan Kudarat),030,N 40° W,Kalamansig (Sultan Kudarat)
 2026-02-20T01:03:00.000Z,20 February 2026 - 01:03 AM,09.74,126.14,018,2.5,005km S 18° W of General Luna (Surigao Del Norte),005,S 18° W,General Luna (Surigao Del Norte)
@@ -261,6 +261,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-19T18:07:00.000Z,19 February 2026 - 06:07 PM,09.59,126.05,034,2.0,010km S 69° E of Socorro (Surigao Del Norte),010,S 69° E,Socorro (Surigao Del Norte)
 2026-02-19T16:48:00.000Z,19 February 2026 - 04:48 PM,06.51,123.81,033,1.6,027km S 79° W of Kalamansig (Sultan Kudarat),027,S 79° W,Kalamansig (Sultan Kudarat)
 2026-02-19T15:01:00.000Z,19 February 2026 - 03:01 PM,12.82,122.96,008,2.2,032km S 75° W of Claveria (Masbate),032,S 75° W,Claveria (Masbate)
-2026-02-19T09:40:00.000Z,19 February 2026 - 09:40 AM,06.51,123.94,002,2.1,013km S 68° W of Kalamansig (Sultan Kudarat),013,S 68° W,Kalamansig (Sultan Kudarat)
-2026-02-19T08:13:00.000Z,19 February 2026 - 08:13 AM,08.40,123.05,009,1.6,005km S 41° E of Jose Dalman (Zamboanga Del Norte),005,S 41° E,Jose Dalman (Zamboanga Del Norte)
-2026-02-19T08:03:00.000Z,19 February 2026 - 08:03 AM,14.54,121.70,036,1.5,018km S 37° E of Real (Quezon),018,S 37° E,Real (Quezon)
