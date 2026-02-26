@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-27T01:19:00.000Z,27 February 2026 - 01:19 AM,06.47,123.86,007,3.0,024km S 66° W of Kalamansig (Sultan Kudarat),024,S 66° W,Kalamansig (Sultan Kudarat)
+2026-02-27T01:05:00.000Z,27 February 2026 - 01:05 AM,10.01,123.29,035,1.8,006km S 78° E of La Libertad (Negros Oriental),006,S 78° E,La Libertad (Negros Oriental)
+2026-02-27T00:36:00.000Z,27 February 2026 - 12:36 AM,06.54,123.70,006,2.3,039km S 87° W of Kalamansig (Sultan Kudarat),039,S 87° W,Kalamansig (Sultan Kudarat)
+2026-02-27T00:24:00.000Z,27 February 2026 - 12:24 AM,10.00,125.53,194,4.2,006km S 64° W of San Jose (Dinagat Islands),006,S 64° W,San Jose (Dinagat Islands)
 2026-02-26T23:45:00.000Z,26 February 2026 - 11:45 PM,06.23,123.65,062,2.2,057km S 51° W of Kalamansig (Sultan Kudarat),057,S 51° W,Kalamansig (Sultan Kudarat)
 2026-02-26T23:29:00.000Z,26 February 2026 - 11:29 PM,11.28,125.59,013,2.9,007km N 60° E of General Macarthur (Eastern Samar),007,N 60° E,General Macarthur (Eastern Samar)
 2026-02-26T23:28:00.000Z,26 February 2026 - 11:28 PM,14.67,122.33,027,1.7,002km S 12° W of Jomalig (Quezon),002,S 12° W,Jomalig (Quezon)
