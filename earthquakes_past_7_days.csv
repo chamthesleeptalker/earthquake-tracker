@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-27T07:41:00.000Z,27 February 2026 - 07:41 AM,17.83,121.02,027,1.8,020km N 23° E of Lacub (Abra),020,N 23° E,Lacub (Abra)
 2026-02-27T07:06:00.000Z,27 February 2026 - 07:06 AM,02.51,125.77,049,4.2,323km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),323,S 07° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-27T06:25:00.000Z,27 February 2026 - 06:25 AM,08.26,125.95,026,2.4,010km N 26° W of Bunawan (Agusan Del Sur),010,N 26° W,Bunawan (Agusan Del Sur)
 2026-02-27T06:06:00.000Z,27 February 2026 - 06:06 AM,19.18,121.28,029,2.2,012km N 43° E of Dalupiri Island (Calayan) (Cagayan),012,N 43° E,Dalupiri Island (Calayan) (Cagayan)
@@ -266,4 +267,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-20T11:29:00.000Z,20 February 2026 - 11:29 AM,06.57,123.63,003,2.2,046km N 88° W of Kalamansig (Sultan Kudarat),046,N 88° W,Kalamansig (Sultan Kudarat)
 2026-02-20T11:10:00.000Z,20 February 2026 - 11:10 AM,05.50,123.96,017,2.3,086km S 43° W of Maitum (Sarangani),086,S 43° W,Maitum (Sarangani)
 2026-02-20T11:02:00.000Z,20 February 2026 - 11:02 AM,05.65,126.21,119,2.7,069km S 65° E of Jose Abad Santos (Davao Occidental),069,S 65° E,Jose Abad Santos (Davao Occidental)
-2026-02-20T07:14:00.000Z,20 February 2026 - 07:14 AM,06.60,123.91,008,1.9,017km N 73° W of Kalamansig (Sultan Kudarat),017,N 73° W,Kalamansig (Sultan Kudarat)

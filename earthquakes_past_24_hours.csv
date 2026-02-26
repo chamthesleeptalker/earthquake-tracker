@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-27T07:41:00.000Z,27 February 2026 - 07:41 AM,17.83,121.02,027,1.8,020km N 23° E of Lacub (Abra),020,N 23° E,Lacub (Abra)
 2026-02-27T07:06:00.000Z,27 February 2026 - 07:06 AM,02.51,125.77,049,4.2,323km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),323,S 07° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-27T06:25:00.000Z,27 February 2026 - 06:25 AM,08.26,125.95,026,2.4,010km N 26° W of Bunawan (Agusan Del Sur),010,N 26° W,Bunawan (Agusan Del Sur)
 2026-02-27T06:06:00.000Z,27 February 2026 - 06:06 AM,19.18,121.28,029,2.2,012km N 43° E of Dalupiri Island (Calayan) (Cagayan),012,N 43° E,Dalupiri Island (Calayan) (Cagayan)
@@ -30,5 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T16:39:00.000Z,26 February 2026 - 04:39 PM,04.18,125.67,060,2.9,139km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),139,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-26T14:54:00.000Z,26 February 2026 - 02:54 PM,10.71,125.72,025,2.3,004km S 12° W of Homonhon Island (Guiuan) (Eastern Samar),004,S 12° W,Homonhon Island (Guiuan) (Eastern Samar)
 2026-02-26T09:44:00.000Z,26 February 2026 - 09:44 AM,08.14,126.04,023,2.4,006km S 51° E of Bunawan (Agusan Del Sur),006,S 51° E,Bunawan (Agusan Del Sur)
-2026-02-26T07:36:00.000Z,26 February 2026 - 07:36 AM,08.57,126.36,023,1.9,023km N 07° E of Hinatuan (Surigao Del Sur),023,N 07° E,Hinatuan (Surigao Del Sur)
-2026-02-26T07:30:00.000Z,26 February 2026 - 07:30 AM,09.15,126.13,027,1.5,009km N 25° W of City Of Tandag (Surigao Del Sur),009,N 25° W,City Of Tandag (Surigao Del Sur)
