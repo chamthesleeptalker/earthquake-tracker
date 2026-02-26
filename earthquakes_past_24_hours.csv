@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-26T19:10:00.000Z,26 February 2026 - 07:10 PM,05.76,126.05,024,3.0,048km S 69° E of Jose Abad Santos (Davao Occidental),048,S 69° E,Jose Abad Santos (Davao Occidental)
+2026-02-26T19:04:00.000Z,26 February 2026 - 07:04 PM,10.23,123.04,008,2.8,006km N 66° E of Isabela (Negros Occidental),006,N 66° E,Isabela (Negros Occidental)
 2026-02-26T18:11:00.000Z,26 February 2026 - 06:11 PM,12.12,125.69,012,3.2,021km S 73° E of San Policarpo (Eastern Samar),021,S 73° E,San Policarpo (Eastern Samar)
 2026-02-26T16:39:00.000Z,26 February 2026 - 04:39 PM,04.18,125.67,060,2.9,139km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),139,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-26T14:54:00.000Z,26 February 2026 - 02:54 PM,10.71,125.72,025,2.3,004km S 12° W of Homonhon Island (Guiuan) (Eastern Samar),004,S 12° W,Homonhon Island (Guiuan) (Eastern Samar)
@@ -14,6 +16,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T02:36:00.000Z,26 February 2026 - 02:36 AM,19.23,121.08,032,1.7,019km N 46° W of Dalupiri Island (Calayan) (Cagayan),019,N 46° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-25T21:55:00.000Z,25 February 2026 - 09:55 PM,13.32,120.47,033,2.0,011km S 05° E of Paluan (Occidental Mindoro),011,S 05° E,Paluan (Occidental Mindoro)
 2026-02-25T20:39:00.000Z,25 February 2026 - 08:39 PM,06.45,123.86,004,1.9,024km S 62° W of Kalamansig (Sultan Kudarat),024,S 62° W,Kalamansig (Sultan Kudarat)
-2026-02-25T19:05:00.000Z,25 February 2026 - 07:05 PM,17.13,120.58,100,1.7,004km S 70° W of Gregorio Del Pilar (Ilocos Sur),004,S 70° W,Gregorio Del Pilar (Ilocos Sur)
-2026-02-25T18:17:00.000Z,25 February 2026 - 06:17 PM,10.78,124.22,036,2.3,022km S 73° E of Borbon (Cebu),022,S 73° E,Borbon (Cebu)
-2026-02-25T18:14:00.000Z,25 February 2026 - 06:14 PM,08.36,124.69,023,1.7,001km S 09° E of Libona (Bukidnon),001,S 09° E,Libona (Bukidnon)
