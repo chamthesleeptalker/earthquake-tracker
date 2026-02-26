@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-26T22:20:00.000Z,26 February 2026 - 10:20 PM,07.82,126.92,011,2.0,048km N 55° E of Baganga (Davao Oriental),048,N 55° E,Baganga (Davao Oriental)
+2026-02-26T21:20:00.000Z,26 February 2026 - 09:20 PM,14.67,122.21,032,1.2,009km S 09° W of Patnanungan (Quezon),009,S 09° W,Patnanungan (Quezon)
 2026-02-26T19:10:00.000Z,26 February 2026 - 07:10 PM,05.76,126.05,024,3.0,048km S 69° E of Jose Abad Santos (Davao Occidental),048,S 69° E,Jose Abad Santos (Davao Occidental)
 2026-02-26T19:04:00.000Z,26 February 2026 - 07:04 PM,10.23,123.04,008,2.8,006km N 66° E of Isabela (Negros Occidental),006,N 66° E,Isabela (Negros Occidental)
 2026-02-26T18:11:00.000Z,26 February 2026 - 06:11 PM,12.12,125.69,012,3.2,021km S 73° E of San Policarpo (Eastern Samar),021,S 73° E,San Policarpo (Eastern Samar)
@@ -14,5 +16,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T04:39:00.000Z,26 February 2026 - 04:39 AM,08.96,126.45,018,2.2,017km N 73° E of Cagwait (Surigao Del Sur),017,N 73° E,Cagwait (Surigao Del Sur)
 2026-02-26T03:27:00.000Z,26 February 2026 - 03:27 AM,07.80,126.98,011,1.7,053km N 62° E of Baganga (Davao Oriental),053,N 62° E,Baganga (Davao Oriental)
 2026-02-26T02:36:00.000Z,26 February 2026 - 02:36 AM,19.23,121.08,032,1.7,019km N 46° W of Dalupiri Island (Calayan) (Cagayan),019,N 46° W,Dalupiri Island (Calayan) (Cagayan)
-2026-02-25T21:55:00.000Z,25 February 2026 - 09:55 PM,13.32,120.47,033,2.0,011km S 05° E of Paluan (Occidental Mindoro),011,S 05° E,Paluan (Occidental Mindoro)
-2026-02-25T20:39:00.000Z,25 February 2026 - 08:39 PM,06.45,123.86,004,1.9,024km S 62° W of Kalamansig (Sultan Kudarat),024,S 62° W,Kalamansig (Sultan Kudarat)
