@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-02-22T18:40:00.000Z,22 February 2026 - 06:40 PM,19.37,121.04,18,4.7,034km N 31° W of Dalupiri Island (Calayan) (Cagayan),034,N 31° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-22T04:28:00.000Z,22 February 2026 - 04:28 AM,02.69,127.57,32,4.3,384km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),384,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-27T07:06:00.000Z,27 February 2026 - 07:06 AM,02.51,125.77,49,4.2,323km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),323,S 07° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-27T00:24:00.000Z,27 February 2026 - 12:24 AM,10.00,125.53,194,4.2,006km S 64° W of San Jose (Dinagat Islands),006,S 64° W,San Jose (Dinagat Islands)
 2026-02-25T03:01:00.000Z,25 February 2026 - 03:01 AM,05.87,123.60,27,4.1,075km S 60° W of Palimbang (Sultan Kudarat),075,S 60° W,Palimbang (Sultan Kudarat)
 2026-02-21T18:24:00.000Z,21 February 2026 - 06:24 PM,14.18,122.86,122,4.0,005km N 82° W of Vinzons (Camarines Norte),005,N 82° W,Vinzons (Camarines Norte)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T03:19:00.000Z,24 February 2026 - 03:19 AM,07.39,126.62,33,3.8,009km N 44° E of Caraga (Davao Oriental),009,N 44° E,Caraga (Davao Oriental)
 2026-02-22T04:48:00.000Z,22 February 2026 - 04:48 AM,06.37,123.73,18,3.8,040km S 65° W of Kalamansig (Sultan Kudarat),040,S 65° W,Kalamansig (Sultan Kudarat)
 2026-02-20T21:17:00.000Z,20 February 2026 - 09:17 PM,17.01,119.37,287,3.8,088km N 39° W of Bolinao (Pangasinan),088,N 39° W,Bolinao (Pangasinan)
-2026-02-27T01:47:00.000Z,27 February 2026 - 01:47 AM,12.70,120.89,7,3.6,015km N 22° W of Calintaan (Occidental Mindoro),015,N 22° W,Calintaan (Occidental Mindoro)
