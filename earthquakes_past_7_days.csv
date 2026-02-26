@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-27T02:40:00.000Z,27 February 2026 - 02:40 AM,12.70,120.95,036,1.9,024km S 50° E of Sablayan (Occidental Mindoro),024,S 50° E,Sablayan (Occidental Mindoro)
+2026-02-27T01:54:00.000Z,27 February 2026 - 01:54 AM,12.76,120.75,033,1.4,010km S 19° W of Sablayan (Occidental Mindoro),010,S 19° W,Sablayan (Occidental Mindoro)
+2026-02-27T01:47:00.000Z,27 February 2026 - 01:47 AM,12.70,120.89,007,3.6,015km N 22° W of Calintaan (Occidental Mindoro),015,N 22° W,Calintaan (Occidental Mindoro)
+2026-02-27T01:32:00.000Z,27 February 2026 - 01:32 AM,12.88,123.04,009,1.5,022km S 84° W of Claveria (Masbate),022,S 84° W,Claveria (Masbate)
 2026-02-27T01:19:00.000Z,27 February 2026 - 01:19 AM,06.47,123.86,007,3.0,024km S 66° W of Kalamansig (Sultan Kudarat),024,S 66° W,Kalamansig (Sultan Kudarat)
 2026-02-27T01:05:00.000Z,27 February 2026 - 01:05 AM,10.01,123.29,035,1.8,006km S 78° E of La Libertad (Negros Oriental),006,S 78° E,La Libertad (Negros Oriental)
 2026-02-27T00:36:00.000Z,27 February 2026 - 12:36 AM,06.54,123.70,006,2.3,039km S 87° W of Kalamansig (Sultan Kudarat),039,S 87° W,Kalamansig (Sultan Kudarat)
@@ -260,7 +264,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-20T05:17:00.000Z,20 February 2026 - 05:17 AM,10.61,126.53,005,3.0,082km N 37° E of Burgos (Surigao Del Norte),082,N 37° E,Burgos (Surigao Del Norte)
 2026-02-20T04:51:00.000Z,20 February 2026 - 04:51 AM,05.74,126.92,022,3.5,138km S 43° E of Governor Generoso (Davao Oriental),138,S 43° E,Governor Generoso (Davao Oriental)
 2026-02-20T04:09:00.000Z,20 February 2026 - 04:09 AM,17.08,120.62,032,1.4,001km N 65° E of Sigay (Ilocos Sur),001,N 65° E,Sigay (Ilocos Sur)
-2026-02-20T02:38:00.000Z,20 February 2026 - 02:38 AM,09.54,126.10,032,1.5,017km S 60° E of Socorro (Surigao Del Norte),017,S 60° E,Socorro (Surigao Del Norte)
-2026-02-20T01:58:00.000Z,20 February 2026 - 01:58 AM,04.63,126.37,008,3.4,132km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),132,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-20T01:45:00.000Z,20 February 2026 - 01:45 AM,09.50,125.32,017,2.7,017km S 35° W of Malimono (Surigao Del Norte),017,S 35° W,Malimono (Surigao Del Norte)
-2026-02-20T01:22:00.000Z,20 February 2026 - 01:22 AM,09.65,126.20,005,2.2,016km S 19° E of General Luna (Surigao Del Norte),016,S 19° E,General Luna (Surigao Del Norte)
