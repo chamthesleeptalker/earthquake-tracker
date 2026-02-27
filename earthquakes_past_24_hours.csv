@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-28T05:40:00.000Z,28 February 2026 - 05:40 AM,07.91,126.95,005,3.1,057km N 49° E of Baganga (Davao Oriental),057,N 49° E,Baganga (Davao Oriental)
 2026-02-28T03:29:00.000Z,28 February 2026 - 03:29 AM,10.86,123.90,002,2.6,005km N 32° E of Tabuelan (Cebu),005,N 32° E,Tabuelan (Cebu)
 2026-02-28T03:17:00.000Z,28 February 2026 - 03:17 AM,07.22,126.62,003,2.6,009km N 83° E of Manay (Davao Oriental),009,N 83° E,Manay (Davao Oriental)
 2026-02-28T02:53:00.000Z,28 February 2026 - 02:53 AM,10.95,123.98,020,2.0,011km S 02° W of City Of Bogo (Cebu),011,S 02° W,City Of Bogo (Cebu)
@@ -46,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T06:06:00.000Z,27 February 2026 - 06:06 AM,19.18,121.28,029,2.2,012km N 43° E of Dalupiri Island (Calayan) (Cagayan),012,N 43° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-27T06:01:00.000Z,27 February 2026 - 06:01 AM,06.45,123.77,030,1.7,034km S 69° W of Kalamansig (Sultan Kudarat),034,S 69° W,Kalamansig (Sultan Kudarat)
 2026-02-27T05:54:00.000Z,27 February 2026 - 05:54 AM,05.81,126.00,143,2.7,041km S 74° E of Jose Abad Santos (Davao Occidental),041,S 74° E,Jose Abad Santos (Davao Occidental)
-2026-02-27T04:44:00.000Z,27 February 2026 - 04:44 AM,08.69,126.54,027,2.5,029km S 67° E of Marihatag (Surigao Del Sur),029,S 67° E,Marihatag (Surigao Del Sur)
-2026-02-27T03:59:00.000Z,27 February 2026 - 03:59 AM,12.78,120.76,034,1.4,008km S 16° W of Sablayan (Occidental Mindoro),008,S 16° W,Sablayan (Occidental Mindoro)
