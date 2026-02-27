@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-27T16:55:00.000Z,27 February 2026 - 04:55 PM,10.96,123.87,005,2.0,015km N 02° W of Tabuelan (Cebu),015,N 02° W,Tabuelan (Cebu)
 2026-02-27T16:17:00.000Z,27 February 2026 - 04:17 PM,16.15,120.02,033,2.3,004km S 88° E of City Of Alaminos (Pangasinan),004,S 88° E,City Of Alaminos (Pangasinan)
 2026-02-27T15:28:00.000Z,27 February 2026 - 03:28 PM,05.48,126.81,019,2.5,138km S 70° E of Jose Abad Santos (Davao Occidental),138,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-02-27T11:41:00.000Z,27 February 2026 - 11:41 AM,12.30,125.85,013,2.3,039km N 70° E of San Policarpo (Eastern Samar),039,N 70° E,San Policarpo (Eastern Samar)
@@ -44,4 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T19:10:00.000Z,26 February 2026 - 07:10 PM,05.76,126.05,024,3.0,048km S 69° E of Jose Abad Santos (Davao Occidental),048,S 69° E,Jose Abad Santos (Davao Occidental)
 2026-02-26T19:04:00.000Z,26 February 2026 - 07:04 PM,10.23,123.04,008,2.8,006km N 66° E of Isabela (Negros Occidental),006,N 66° E,Isabela (Negros Occidental)
 2026-02-26T18:11:00.000Z,26 February 2026 - 06:11 PM,12.12,125.69,012,3.2,021km S 73° E of San Policarpo (Eastern Samar),021,S 73° E,San Policarpo (Eastern Samar)
-2026-02-26T16:39:00.000Z,26 February 2026 - 04:39 PM,04.18,125.67,060,2.9,139km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),139,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
