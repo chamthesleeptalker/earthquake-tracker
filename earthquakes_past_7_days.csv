@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-28T10:15:00.000Z,28 February 2026 - 10:15 AM,09.09,126.97,007,3.4,076km N 76° E of Cagwait (Surigao Del Sur),076,N 76° E,Cagwait (Surigao Del Sur)
+2026-02-28T10:12:00.000Z,28 February 2026 - 10:12 AM,06.30,123.63,028,3.1,054km S 59° W of Kalamansig (Sultan Kudarat),054,S 59° W,Kalamansig (Sultan Kudarat)
+2026-02-28T09:48:00.000Z,28 February 2026 - 09:48 AM,06.41,123.86,005,3.8,027km S 52° W of Kalamansig (Sultan Kudarat),027,S 52° W,Kalamansig (Sultan Kudarat)
+2026-02-28T09:42:00.000Z,28 February 2026 - 09:42 AM,07.41,126.65,027,2.8,013km N 43° E of Caraga (Davao Oriental),013,N 43° E,Caraga (Davao Oriental)
+2026-02-28T00:08:00.000Z,28 February 2026 - 12:08 AM,18.36,122.26,005,3.5,030km N 69° E of Gonzaga (Cagayan),030,N 69° E,Gonzaga (Cagayan)
 2026-02-28T08:41:00.000Z,28 February 2026 - 08:41 AM,13.74,120.61,190,2.3,011km S 14° W of Calatagan (Batangas),011,S 14° W,Calatagan (Batangas)
 2026-02-28T08:29:00.000Z,28 February 2026 - 08:29 AM,06.59,125.62,011,2.1,017km N 75° E of Santa Maria (Davao Occidental),017,N 75° E,Santa Maria (Davao Occidental)
 2026-02-28T07:41:00.000Z,28 February 2026 - 07:41 AM,14.98,119.13,022,2.1,098km S 59° W of Palauig (Zambales),098,S 59° W,Palauig (Zambales)
@@ -272,6 +277,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-21T11:17:00.000Z,21 February 2026 - 11:17 AM,10.17,126.16,033,1.7,019km N 30° E of Burgos (Surigao Del Norte),019,N 30° E,Burgos (Surigao Del Norte)
 2026-02-21T10:34:00.000Z,21 February 2026 - 10:34 AM,09.67,125.72,026,1.6,008km N 17° E of Gigaquit (Surigao Del Norte),008,N 17° E,Gigaquit (Surigao Del Norte)
 2026-02-21T10:18:00.000Z,21 February 2026 - 10:18 AM,09.61,125.33,047,1.4,008km S 81° W of Malimono (Surigao Del Norte),008,S 81° W,Malimono (Surigao Del Norte)
-2026-02-21T09:51:00.000Z,21 February 2026 - 09:51 AM,09.48,125.51,025,2.4,006km S 09° W of Mainit (Surigao Del Norte),006,S 09° W,Mainit (Surigao Del Norte)
-2026-02-21T09:41:00.000Z,21 February 2026 - 09:41 AM,13.73,120.60,091,1.5,012km S 16° W of Calatagan (Batangas),012,S 16° W,Calatagan (Batangas)
-2026-02-21T09:29:00.000Z,21 February 2026 - 09:29 AM,14.72,122.99,025,2.6,027km N 09° E of Tinaga Island (Vinzons) (Camarines Norte),027,N 09° E,Tinaga Island (Vinzons) (Camarines Norte)
