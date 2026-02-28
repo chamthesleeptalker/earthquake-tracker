@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-01T03:11:00.000Z,01 March 2026 - 03:11 AM,09.27,126.33,011,1.9,015km S 86° E of Cortes (Surigao Del Sur),015,S 86° E,Cortes (Surigao Del Sur)
 2026-03-01T01:33:00.000Z,01 March 2026 - 01:33 AM,19.30,121.03,018,1.8,028km N 40° W of Dalupiri Island (Calayan) (Cagayan),028,N 40° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-01T01:22:00.000Z,01 March 2026 - 01:22 AM,04.84,126.26,089,6.0,112km S 55° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),112,S 55° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-01T01:08:00.000Z,01 March 2026 - 01:08 AM,15.57,119.97,033,1.4,004km N 14° E of Masinloc (Zambales),004,N 14° E,Masinloc (Zambales)
@@ -290,6 +291,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-22T04:28:00.000Z,22 February 2026 - 04:28 AM,02.69,127.57,032,4.3,384km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),384,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-22T04:20:00.000Z,22 February 2026 - 04:20 AM,17.68,119.39,030,3.5,103km N 84° W of Santa Catalina (Ilocos Sur),103,N 84° W,Santa Catalina (Ilocos Sur)
 2026-02-22T03:36:00.000Z,22 February 2026 - 03:36 AM,13.71,120.56,086,1.8,015km S 29° W of Calatagan (Batangas),015,S 29° W,Calatagan (Batangas)
-2026-02-22T03:01:00.000Z,22 February 2026 - 03:01 AM,06.82,124.02,002,1.7,030km N 07° W of Kalamansig (Sultan Kudarat),030,N 07° W,Kalamansig (Sultan Kudarat)
-2026-02-22T02:25:00.000Z,22 February 2026 - 02:25 AM,14.02,125.21,010,3.5,092km N 73° E of Gigmoto (Catanduanes),092,N 73° E,Gigmoto (Catanduanes)
-2026-02-22T02:09:00.000Z,22 February 2026 - 02:09 AM,07.94,125.19,027,1.8,012km N 70° E of City Of Valencia (Bukidnon),012,N 70° E,City Of Valencia (Bukidnon)
