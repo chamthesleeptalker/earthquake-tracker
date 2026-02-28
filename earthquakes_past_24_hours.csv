@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-28T17:22:00.000Z,28 February 2026 - 05:22 PM,06.53,123.68,022,2.3,041km S 87° W of Kalamansig (Sultan Kudarat),041,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-28T15:49:00.000Z,28 February 2026 - 03:49 PM,07.33,126.57,004,2.5,001km East of Caraga (Davao Oriental),001,East of Caraga,Oriental)
 2026-02-28T15:42:00.000Z,28 February 2026 - 03:42 PM,10.73,123.97,054,2.5,004km N 84° W of Catmon (Cebu),004,N 84° W,Catmon (Cebu)
 2026-02-28T14:19:00.000Z,28 February 2026 - 02:19 PM,21.29,121.94,112,2.8,057km N 11° E of Itbayat (Batanes),057,N 11° E,Itbayat (Batanes)
@@ -42,5 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T17:46:00.000Z,27 February 2026 - 05:46 PM,16.02,120.17,004,3.2,002km S 64° E of Labrador (Pangasinan),002,S 64° E,Labrador (Pangasinan)
 2026-02-27T17:44:00.000Z,27 February 2026 - 05:44 PM,19.12,121.09,006,2.5,013km N 82° W of Dalupiri Island (Calayan) (Cagayan),013,N 82° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-27T17:38:00.000Z,27 February 2026 - 05:38 PM,06.18,126.03,005,3.1,037km S 87° E of Don Marcelino (Davao Occidental),037,S 87° E,Don Marcelino (Davao Occidental)
-2026-02-27T16:55:00.000Z,27 February 2026 - 04:55 PM,10.96,123.87,005,2.0,015km N 02° W of Tabuelan (Cebu),015,N 02° W,Tabuelan (Cebu)
-2026-02-27T16:17:00.000Z,27 February 2026 - 04:17 PM,16.15,120.02,033,2.3,004km S 88° E of City Of Alaminos (Pangasinan),004,S 88° E,City Of Alaminos (Pangasinan)

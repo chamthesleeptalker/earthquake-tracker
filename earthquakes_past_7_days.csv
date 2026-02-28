@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-28T17:22:00.000Z,28 February 2026 - 05:22 PM,06.53,123.68,022,2.3,041km S 87° W of Kalamansig (Sultan Kudarat),041,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-28T15:49:00.000Z,28 February 2026 - 03:49 PM,07.33,126.57,004,2.5,001km East of Caraga (Davao Oriental),001,East of Caraga,Oriental)
 2026-02-28T15:42:00.000Z,28 February 2026 - 03:42 PM,10.73,123.97,054,2.5,004km N 84° W of Catmon (Cebu),004,N 84° W,Catmon (Cebu)
 2026-02-28T14:19:00.000Z,28 February 2026 - 02:19 PM,21.29,121.94,112,2.8,057km N 11° E of Itbayat (Batanes),057,N 11° E,Itbayat (Batanes)
@@ -279,4 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-21T19:22:00.000Z,21 February 2026 - 07:22 PM,06.60,123.75,002,2.8,034km N 82° W of Kalamansig (Sultan Kudarat),034,N 82° W,Kalamansig (Sultan Kudarat)
 2026-02-21T18:25:00.000Z,21 February 2026 - 06:25 PM,14.64,122.23,005,3.3,013km S 61° W of Jomalig (Quezon),013,S 61° W,Jomalig (Quezon)
 2026-02-21T18:24:00.000Z,21 February 2026 - 06:24 PM,14.18,122.86,122,4.0,005km N 82° W of Vinzons (Camarines Norte),005,N 82° W,Vinzons (Camarines Norte)
-2026-02-21T17:08:00.000Z,21 February 2026 - 05:08 PM,13.76,120.48,033,2.3,018km S 65° W of Calatagan (Batangas),018,S 65° W,Calatagan (Batangas)
