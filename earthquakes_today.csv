@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-01T06:53:00.000Z,01 March 2026 - 06:53 AM,15.52,121.71,012,2.4,031km S 31° E of Baler (Aurora),031,S 31° E,Baler (Aurora)
 2026-03-01T04:28:00.000Z,01 March 2026 - 04:28 AM,19.10,121.76,092,2.4,024km N 27° W of Camiguin Island (Calayan) (Cagayan),024,N 27° W,Camiguin Island (Calayan) (Cagayan)
 2026-03-01T04:20:00.000Z,01 March 2026 - 04:20 AM,09.08,125.01,001,1.7,017km N 55° E of Talisayan (Misamis Oriental),017,N 55° E,Talisayan (Misamis Oriental)
 2026-03-01T03:58:00.000Z,01 March 2026 - 03:58 AM,05.97,126.07,121,2.3,048km S 59° E of Don Marcelino (Davao Occidental),048,S 59° E,Don Marcelino (Davao Occidental)
