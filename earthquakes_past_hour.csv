@@ -1,6 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-02-28T23:06:00.000Z,28 February 2026 - 11:06 PM,10.79,124.84,003,2.2,010km West of Javier (Leyte),010,West of Javier,
-2026-02-28T22:39:00.000Z,28 February 2026 - 10:39 PM,12.78,123.00,006,1.6,029km S 63° W of Claveria (Masbate),029,S 63° W,Claveria (Masbate)
-2026-02-28T22:30:00.000Z,28 February 2026 - 10:30 PM,13.88,120.51,079,1.7,014km N 67° W of Calatagan (Batangas),014,N 67° W,Calatagan (Batangas)
-2026-02-28T22:30:00.000Z,28 February 2026 - 10:30 PM,14.80,122.74,015,1.6,043km N 32° W of Tinaga Island (Vinzons) (Camarines Norte),043,N 32° W,Tinaga Island (Vinzons) (Camarines Norte)
-2026-02-28T22:23:00.000Z,28 February 2026 - 10:23 PM,13.62,120.64,090,1.7,021km N 25° W of Abra De Ilog (Occidental Mindoro),021,N 25° W,Abra De Ilog (Occidental Mindoro)
+2026-03-01T00:16:00.000Z,01 March 2026 - 12:16 AM,16.62,122.02,027,1.8,025km S 63° E of San Guillermo (Isabela),025,S 63° E,San Guillermo (Isabela)

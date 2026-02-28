@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-01T00:16:00.000Z,01 March 2026 - 12:16 AM,16.62,122.02,027,1.8,025km S 63° E of San Guillermo (Isabela),025,S 63° E,San Guillermo (Isabela)
 2026-02-28T23:06:00.000Z,28 February 2026 - 11:06 PM,10.79,124.84,003,2.2,010km West of Javier (Leyte),010,West of Javier,
 2026-02-28T22:39:00.000Z,28 February 2026 - 10:39 PM,12.78,123.00,006,1.6,029km S 63° W of Claveria (Masbate),029,S 63° W,Claveria (Masbate)
 2026-02-28T22:30:00.000Z,28 February 2026 - 10:30 PM,13.88,120.51,079,1.7,014km N 67° W of Calatagan (Batangas),014,N 67° W,Calatagan (Batangas)
@@ -30,7 +31,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-28T10:12:00.000Z,28 February 2026 - 10:12 AM,06.30,123.63,028,3.1,054km S 59° W of Kalamansig (Sultan Kudarat),054,S 59° W,Kalamansig (Sultan Kudarat)
 2026-02-28T09:48:00.000Z,28 February 2026 - 09:48 AM,06.41,123.86,005,3.8,027km S 52° W of Kalamansig (Sultan Kudarat),027,S 52° W,Kalamansig (Sultan Kudarat)
 2026-02-28T09:42:00.000Z,28 February 2026 - 09:42 AM,07.41,126.65,027,2.8,013km N 43° E of Caraga (Davao Oriental),013,N 43° E,Caraga (Davao Oriental)
-2026-02-28T00:08:00.000Z,28 February 2026 - 12:08 AM,18.36,122.26,005,3.5,030km N 69° E of Gonzaga (Cagayan),030,N 69° E,Gonzaga (Cagayan)
 2026-02-28T08:41:00.000Z,28 February 2026 - 08:41 AM,13.74,120.61,190,2.3,011km S 14° W of Calatagan (Batangas),011,S 14° W,Calatagan (Batangas)
 2026-02-28T08:29:00.000Z,28 February 2026 - 08:29 AM,06.59,125.62,011,2.1,017km N 75° E of Santa Maria (Davao Occidental),017,N 75° E,Santa Maria (Davao Occidental)
 2026-02-28T07:41:00.000Z,28 February 2026 - 07:41 AM,14.98,119.13,022,2.1,098km S 59° W of Palauig (Zambales),098,S 59° W,Palauig (Zambales)
@@ -44,7 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-28T01:26:00.000Z,28 February 2026 - 01:26 AM,05.65,125.21,021,3.0,019km S 02° E of Glan (Sarangani),019,S 02° E,Glan (Sarangani)
 2026-02-28T01:25:00.000Z,28 February 2026 - 01:25 AM,10.43,125.07,021,2.0,011km N 62° E of Sogod (Southern Leyte),011,N 62° E,Sogod (Southern Leyte)
 2026-02-28T00:23:00.000Z,28 February 2026 - 12:23 AM,08.96,126.70,010,4.8,043km N 83° E of Cagwait (Surigao Del Sur),043,N 83° E,Cagwait (Surigao Del Sur)
-2026-02-28T00:09:00.000Z,28 February 2026 - 12:09 AM,18.26,122.13,005,3.4,014km S 89° E of Gonzaga (Cagayan),014,S 89° E,Gonzaga (Cagayan)
-2026-02-27T23:55:00.000Z,27 February 2026 - 11:55 PM,06.17,125.47,072,2.9,021km N 68° E of Alabel (Sarangani),021,N 68° E,Alabel (Sarangani)
-2026-02-27T23:49:00.000Z,27 February 2026 - 11:49 PM,19.78,122.13,017,3.1,037km N 38° E of Babuyan Island (Calayan) (Cagayan),037,N 38° E,Babuyan Island (Calayan) (Cagayan)
-2026-02-27T23:37:00.000Z,27 February 2026 - 11:37 PM,05.81,127.28,074,2.9,163km S 55° E of Governor Generoso (Davao Oriental),163,S 55° E,Governor Generoso (Davao Oriental)
