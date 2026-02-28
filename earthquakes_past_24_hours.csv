@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-28T12:15:00.000Z,28 February 2026 - 12:15 PM,03.47,124.85,357,4.5,224km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),224,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-02-28T11:51:00.000Z,28 February 2026 - 11:51 AM,19.58,121.57,029,2.1,036km N 16° E of Calayan (Cagayan),036,N 16° E,Calayan (Cagayan)
+2026-02-28T11:44:00.000Z,28 February 2026 - 11:44 AM,06.42,124.18,011,1.8,014km S 17° W of Kalamansig (Sultan Kudarat),014,S 17° W,Kalamansig (Sultan Kudarat)
 2026-02-28T10:15:00.000Z,28 February 2026 - 10:15 AM,09.09,126.97,007,3.4,076km N 76° E of Cagwait (Surigao Del Sur),076,N 76° E,Cagwait (Surigao Del Sur)
 2026-02-28T10:12:00.000Z,28 February 2026 - 10:12 AM,06.30,123.63,028,3.1,054km S 59° W of Kalamansig (Sultan Kudarat),054,S 59° W,Kalamansig (Sultan Kudarat)
 2026-02-28T09:48:00.000Z,28 February 2026 - 09:48 AM,06.41,123.86,005,3.8,027km S 52° W of Kalamansig (Sultan Kudarat),027,S 52° W,Kalamansig (Sultan Kudarat)
@@ -36,7 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T16:55:00.000Z,27 February 2026 - 04:55 PM,10.96,123.87,005,2.0,015km N 02° W of Tabuelan (Cebu),015,N 02° W,Tabuelan (Cebu)
 2026-02-27T16:17:00.000Z,27 February 2026 - 04:17 PM,16.15,120.02,033,2.3,004km S 88° E of City Of Alaminos (Pangasinan),004,S 88° E,City Of Alaminos (Pangasinan)
 2026-02-27T15:28:00.000Z,27 February 2026 - 03:28 PM,05.48,126.81,019,2.5,138km S 70° E of Jose Abad Santos (Davao Occidental),138,S 70° E,Jose Abad Santos (Davao Occidental)
-2026-02-27T11:41:00.000Z,27 February 2026 - 11:41 AM,12.30,125.85,013,2.3,039km N 70° E of San Policarpo (Eastern Samar),039,N 70° E,San Policarpo (Eastern Samar)
-2026-02-27T11:06:00.000Z,27 February 2026 - 11:06 AM,09.42,123.24,032,1.5,001km N 56° W of San Jose (Negros Oriental),001,N 56° W,San Jose (Negros Oriental)
-2026-02-27T10:59:00.000Z,27 February 2026 - 10:59 AM,12.35,126.14,010,3.3,071km N 75° E of San Policarpo (Eastern Samar),071,N 75° E,San Policarpo (Eastern Samar)
-2026-02-27T10:55:00.000Z,27 February 2026 - 10:55 AM,12.09,125.58,011,2.3,012km N 59° E of Dolores (Eastern Samar),012,N 59° E,Dolores (Eastern Samar)
