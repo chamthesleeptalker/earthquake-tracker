@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-02-28T08:41:00.000Z,28 February 2026 - 08:41 AM,13.74,120.61,190,2.3,011km S 14° W of Calatagan (Batangas),011,S 14° W,Calatagan (Batangas)
+2026-02-28T08:29:00.000Z,28 February 2026 - 08:29 AM,06.59,125.62,011,2.1,017km N 75° E of Santa Maria (Davao Occidental),017,N 75° E,Santa Maria (Davao Occidental)
+2026-02-28T07:41:00.000Z,28 February 2026 - 07:41 AM,14.98,119.13,022,2.1,098km S 59° W of Palauig (Zambales),098,S 59° W,Palauig (Zambales)
 2026-02-28T06:51:00.000Z,28 February 2026 - 06:51 AM,14.69,119.53,034,1.8,067km S 65° W of San Antonio (Zambales),067,S 65° W,San Antonio (Zambales)
 2026-02-28T05:40:00.000Z,28 February 2026 - 05:40 AM,07.91,126.95,005,3.1,057km N 49° E of Baganga (Davao Oriental),057,N 49° E,Baganga (Davao Oriental)
 2026-02-28T03:29:00.000Z,28 February 2026 - 03:29 AM,10.86,123.90,002,2.6,005km N 32° E of Tabuelan (Cebu),005,N 32° E,Tabuelan (Cebu)
