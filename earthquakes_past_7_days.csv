@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T05:09:00.000Z,02 March 2026 - 05:09 AM,17.62,120.77,028,1.7,003km N 84° E of Lagangilang (Abra),003,N 84° E,Lagangilang (Abra)
+2026-03-02T04:44:00.000Z,02 March 2026 - 04:44 AM,15.41,121.83,005,2.2,047km N 87° E of Dingalan (Aurora),047,N 87° E,Dingalan (Aurora)
 2026-03-02T04:25:00.000Z,02 March 2026 - 04:25 AM,12.09,125.62,008,2.6,016km N 70° E of Dolores (Eastern Samar),016,N 70° E,Dolores (Eastern Samar)
 2026-03-02T04:10:00.000Z,02 March 2026 - 04:10 AM,17.29,120.27,004,2.3,019km S 76° W of San Esteban (Ilocos Sur),019,S 76° W,San Esteban (Ilocos Sur)
 2026-03-02T03:51:00.000Z,02 March 2026 - 03:51 AM,06.61,126.45,026,1.6,042km S 84° E of Governor Generoso (Davao Oriental),042,S 84° E,Governor Generoso (Davao Oriental)
