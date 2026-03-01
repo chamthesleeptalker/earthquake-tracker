@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T04:25:00.000Z,02 March 2026 - 04:25 AM,12.09,125.62,008,2.6,016km N 70° E of Dolores (Eastern Samar),016,N 70° E,Dolores (Eastern Samar)
 2026-03-02T04:10:00.000Z,02 March 2026 - 04:10 AM,17.29,120.27,004,2.3,019km S 76° W of San Esteban (Ilocos Sur),019,S 76° W,San Esteban (Ilocos Sur)
 2026-03-02T03:51:00.000Z,02 March 2026 - 03:51 AM,06.61,126.45,026,1.6,042km S 84° E of Governor Generoso (Davao Oriental),042,S 84° E,Governor Generoso (Davao Oriental)
 2026-03-02T03:41:00.000Z,02 March 2026 - 03:41 AM,12.86,122.88,008,2.2,031km S 19° W of San Pascual (Masbate),031,S 19° W,San Pascual (Masbate)
@@ -30,4 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-01T07:35:00.000Z,01 March 2026 - 07:35 AM,11.18,124.08,024,1.9,019km N 35° E of City Of Bogo (Cebu),019,N 35° E,City Of Bogo (Cebu)
 2026-03-01T06:53:00.000Z,01 March 2026 - 06:53 AM,15.52,121.71,012,2.4,031km S 31° E of Baler (Aurora),031,S 31° E,Baler (Aurora)
 2026-03-01T04:28:00.000Z,01 March 2026 - 04:28 AM,19.10,121.76,092,2.4,024km N 27° W of Camiguin Island (Calayan) (Cagayan),024,N 27° W,Camiguin Island (Calayan) (Cagayan)
-2026-03-01T04:20:00.000Z,01 March 2026 - 04:20 AM,09.08,125.01,001,1.7,017km N 55° E of Talisayan (Misamis Oriental),017,N 55° E,Talisayan (Misamis Oriental)
