@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T07:13:00.000Z,02 March 2026 - 07:13 AM,04.91,125.98,078,2.9,083km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-02T06:51:00.000Z,02 March 2026 - 06:51 AM,06.18,124.17,033,2.8,038km N 70° W of Maitum (Sarangani),038,N 70° W,Maitum (Sarangani)
 2026-03-02T06:33:00.000Z,02 March 2026 - 06:33 AM,06.28,127.08,045,2.6,110km S 39° E of Tarragona (Davao Oriental),110,S 39° E,Tarragona (Davao Oriental)
 2026-03-02T00:42:00.000Z,02 March 2026 - 12:42 AM,17.12,120.26,007,2.4,020km S 75° W of City Of Candon (Ilocos Sur),020,S 75° W,City Of Candon (Ilocos Sur)
 2026-03-02T05:09:00.000Z,02 March 2026 - 05:09 AM,17.62,120.77,028,1.7,003km N 84° E of Lagangilang (Abra),003,N 84° E,Lagangilang (Abra)
@@ -285,4 +287,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T09:58:00.000Z,23 February 2026 - 09:58 AM,14.74,122.59,001,1.8,029km N 80° E of Jomalig (Quezon),029,N 80° E,Jomalig (Quezon)
 2026-02-23T09:32:00.000Z,23 February 2026 - 09:32 AM,05.47,126.47,020,3.3,104km S 62° E of Jose Abad Santos (Davao Occidental),104,S 62° E,Jose Abad Santos (Davao Occidental)
 2026-02-23T08:43:00.000Z,23 February 2026 - 08:43 AM,09.59,126.21,034,1.8,022km S 15° E of General Luna (Surigao Del Norte),022,S 15° E,General Luna (Surigao Del Norte)
-2026-02-23T07:06:00.000Z,23 February 2026 - 07:06 AM,10.51,123.08,001,2.9,012km S 23° E of Murcia (Negros Occidental),012,S 23° E,Murcia (Negros Occidental)

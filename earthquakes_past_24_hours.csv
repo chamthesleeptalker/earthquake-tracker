@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T07:13:00.000Z,02 March 2026 - 07:13 AM,04.91,125.98,078,2.9,083km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-02T06:51:00.000Z,02 March 2026 - 06:51 AM,06.18,124.17,033,2.8,038km N 70° W of Maitum (Sarangani),038,N 70° W,Maitum (Sarangani)
 2026-03-02T06:33:00.000Z,02 March 2026 - 06:33 AM,06.28,127.08,045,2.6,110km S 39° E of Tarragona (Davao Oriental),110,S 39° E,Tarragona (Davao Oriental)
 2026-03-02T00:42:00.000Z,02 March 2026 - 12:42 AM,17.12,120.26,007,2.4,020km S 75° W of City Of Candon (Ilocos Sur),020,S 75° W,City Of Candon (Ilocos Sur)
 2026-03-02T05:09:00.000Z,02 March 2026 - 05:09 AM,17.62,120.77,028,1.7,003km N 84° E of Lagangilang (Abra),003,N 84° E,Lagangilang (Abra)
@@ -33,4 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-01T08:04:00.000Z,01 March 2026 - 08:04 AM,19.53,121.10,029,2.7,048km N 14° W of Dalupiri Island (Calayan) (Cagayan),048,N 14° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-01T07:59:00.000Z,01 March 2026 - 07:59 AM,11.41,121.84,006,2.1,024km S 84° W of Culasi (Antique),024,S 84° W,Culasi (Antique)
 2026-03-01T07:35:00.000Z,01 March 2026 - 07:35 AM,11.18,124.08,024,1.9,019km N 35° E of City Of Bogo (Cebu),019,N 35° E,City Of Bogo (Cebu)
-2026-03-01T06:53:00.000Z,01 March 2026 - 06:53 AM,15.52,121.71,012,2.4,031km S 31° E of Baler (Aurora),031,S 31° E,Baler (Aurora)
