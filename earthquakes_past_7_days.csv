@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-01T09:45:00.000Z,01 March 2026 - 09:45 AM,06.44,123.80,005,2.3,030km S 66° W of Kalamansig (Sultan Kudarat),030,S 66° W,Kalamansig (Sultan Kudarat)
+2026-03-01T08:20:00.000Z,01 March 2026 - 08:20 AM,09.75,125.82,034,1.8,021km S 52° W of Del Carmen (Surigao Del Norte),021,S 52° W,Del Carmen (Surigao Del Norte)
+2026-03-01T08:17:00.000Z,01 March 2026 - 08:17 AM,08.61,126.36,029,2.2,021km S 45° E of San Agustin (Surigao Del Sur),021,S 45° E,San Agustin (Surigao Del Sur)
+2026-03-01T08:04:00.000Z,01 March 2026 - 08:04 AM,19.53,121.10,029,2.7,048km N 14° W of Dalupiri Island (Calayan) (Cagayan),048,N 14° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-01T07:59:00.000Z,01 March 2026 - 07:59 AM,11.41,121.84,006,2.1,024km S 84° W of Culasi (Antique),024,S 84° W,Culasi (Antique)
+2026-02-28T10:04:00.000Z,28 February 2026 - 10:04 AM,06.50,124.08,002,2.4,007km S 31° E of Kalamansig (Sultan Kudarat),007,S 31° E,Kalamansig (Sultan Kudarat)
 2026-03-01T07:35:00.000Z,01 March 2026 - 07:35 AM,11.18,124.08,024,1.9,019km N 35° E of City Of Bogo (Cebu),019,N 35° E,City Of Bogo (Cebu)
 2026-03-01T06:53:00.000Z,01 March 2026 - 06:53 AM,15.52,121.71,012,2.4,031km S 31° E of Baler (Aurora),031,S 31° E,Baler (Aurora)
 2026-03-01T04:28:00.000Z,01 March 2026 - 04:28 AM,19.10,121.76,092,2.4,024km N 27° W of Camiguin Island (Calayan) (Cagayan),024,N 27° W,Camiguin Island (Calayan) (Cagayan)
@@ -287,6 +293,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-22T13:23:00.000Z,22 February 2026 - 01:23 PM,08.89,126.42,019,2.5,013km S 76° E of Cagwait (Surigao Del Sur),013,S 76° E,Cagwait (Surigao Del Sur)
 2026-02-22T10:35:00.000Z,22 February 2026 - 10:35 AM,14.73,122.35,032,1.7,004km N 34° E of Jomalig (Quezon),004,N 34° E,Jomalig (Quezon)
 2026-02-22T09:51:00.000Z,22 February 2026 - 09:51 AM,17.23,120.00,011,2.2,048km N 81° W of City Of Candon (Ilocos Sur),048,N 81° W,City Of Candon (Ilocos Sur)
-2026-02-22T09:01:00.000Z,22 February 2026 - 09:01 AM,08.99,126.41,026,2.5,014km N 82° E of Bayabas (Surigao Del Sur),014,N 82° E,Bayabas (Surigao Del Sur)
-2026-02-22T08:33:00.000Z,22 February 2026 - 08:33 AM,14.15,120.39,116,1.6,028km N 72° W of Nasugbu (Batangas),028,N 72° W,Nasugbu (Batangas)
-2026-02-22T08:06:00.000Z,22 February 2026 - 08:06 AM,08.68,126.38,048,1.8,017km S 34° E of Marihatag (Surigao Del Sur),017,S 34° E,Marihatag (Surigao Del Sur)
