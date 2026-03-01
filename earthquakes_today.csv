@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T04:10:00.000Z,02 March 2026 - 04:10 AM,17.29,120.27,004,2.3,019km S 76° W of San Esteban (Ilocos Sur),019,S 76° W,San Esteban (Ilocos Sur)
+2026-03-02T03:51:00.000Z,02 March 2026 - 03:51 AM,06.61,126.45,026,1.6,042km S 84° E of Governor Generoso (Davao Oriental),042,S 84° E,Governor Generoso (Davao Oriental)
+2026-03-02T03:41:00.000Z,02 March 2026 - 03:41 AM,12.86,122.88,008,2.2,031km S 19° W of San Pascual (Masbate),031,S 19° W,San Pascual (Masbate)
+2026-03-02T03:39:00.000Z,02 March 2026 - 03:39 AM,08.75,126.28,041,1.7,006km S 18° W of Marihatag (Surigao Del Sur),006,S 18° W,Marihatag (Surigao Del Sur)
 2026-03-02T03:21:00.000Z,02 March 2026 - 03:21 AM,19.87,121.25,010,2.0,071km N 19° W of Calayan (Cagayan),071,N 19° W,Calayan (Cagayan)
 2026-03-02T02:33:00.000Z,02 March 2026 - 02:33 AM,02.74,128.03,140,4.8,414km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),414,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-02T01:42:00.000Z,02 March 2026 - 01:42 AM,16.94,121.72,035,1.6,003km S 14° W of Luna (Isabela),003,S 14° W,Luna (Isabela)

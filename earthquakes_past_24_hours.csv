@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T04:10:00.000Z,02 March 2026 - 04:10 AM,17.29,120.27,004,2.3,019km S 76° W of San Esteban (Ilocos Sur),019,S 76° W,San Esteban (Ilocos Sur)
+2026-03-02T03:51:00.000Z,02 March 2026 - 03:51 AM,06.61,126.45,026,1.6,042km S 84° E of Governor Generoso (Davao Oriental),042,S 84° E,Governor Generoso (Davao Oriental)
+2026-03-02T03:41:00.000Z,02 March 2026 - 03:41 AM,12.86,122.88,008,2.2,031km S 19° W of San Pascual (Masbate),031,S 19° W,San Pascual (Masbate)
+2026-03-02T03:39:00.000Z,02 March 2026 - 03:39 AM,08.75,126.28,041,1.7,006km S 18° W of Marihatag (Surigao Del Sur),006,S 18° W,Marihatag (Surigao Del Sur)
 2026-03-02T03:21:00.000Z,02 March 2026 - 03:21 AM,19.87,121.25,010,2.0,071km N 19° W of Calayan (Cagayan),071,N 19° W,Calayan (Cagayan)
 2026-03-02T02:33:00.000Z,02 March 2026 - 02:33 AM,02.74,128.03,140,4.8,414km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),414,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-02T01:42:00.000Z,02 March 2026 - 01:42 AM,16.94,121.72,035,1.6,003km S 14° W of Luna (Isabela),003,S 14° W,Luna (Isabela)
@@ -27,6 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-01T06:53:00.000Z,01 March 2026 - 06:53 AM,15.52,121.71,012,2.4,031km S 31° E of Baler (Aurora),031,S 31° E,Baler (Aurora)
 2026-03-01T04:28:00.000Z,01 March 2026 - 04:28 AM,19.10,121.76,092,2.4,024km N 27° W of Camiguin Island (Calayan) (Cagayan),024,N 27° W,Camiguin Island (Calayan) (Cagayan)
 2026-03-01T04:20:00.000Z,01 March 2026 - 04:20 AM,09.08,125.01,001,1.7,017km N 55° E of Talisayan (Misamis Oriental),017,N 55° E,Talisayan (Misamis Oriental)
-2026-03-01T03:58:00.000Z,01 March 2026 - 03:58 AM,05.97,126.07,121,2.3,048km S 59° E of Don Marcelino (Davao Occidental),048,S 59° E,Don Marcelino (Davao Occidental)
-2026-03-01T03:37:00.000Z,01 March 2026 - 03:37 AM,09.20,126.24,023,2.7,009km S 32° E of Cortes (Surigao Del Sur),009,S 32° E,Cortes (Surigao Del Sur)
-2026-03-01T03:25:00.000Z,01 March 2026 - 03:25 AM,06.06,123.69,015,2.0,068km S 36° W of Kalamansig (Sultan Kudarat),068,S 36° W,Kalamansig (Sultan Kudarat)
