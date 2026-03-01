@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T03:21:00.000Z,02 March 2026 - 03:21 AM,19.87,121.25,010,2.0,071km N 19° W of Calayan (Cagayan),071,N 19° W,Calayan (Cagayan)
 2026-03-02T02:33:00.000Z,02 March 2026 - 02:33 AM,02.74,128.03,140,4.8,414km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),414,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-02T01:42:00.000Z,02 March 2026 - 01:42 AM,16.94,121.72,035,1.6,003km S 14° W of Luna (Isabela),003,S 14° W,Luna (Isabela)
 2026-03-02T01:06:00.000Z,02 March 2026 - 01:06 AM,05.94,125.18,024,2.1,012km S 74° W of Malapatan (Sarangani),012,S 74° W,Malapatan (Sarangani)
@@ -279,4 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T06:18:00.000Z,23 February 2026 - 06:18 AM,12.38,122.32,008,2.7,023km S 14° E of Romblon (Romblon),023,S 14° E,Romblon (Romblon)
 2026-02-23T05:21:00.000Z,23 February 2026 - 05:21 AM,06.36,127.05,059,3.0,101km S 41° E of Tarragona (Davao Oriental),101,S 41° E,Tarragona (Davao Oriental)
 2026-02-23T03:42:00.000Z,23 February 2026 - 03:42 AM,09.75,126.23,020,2.7,009km S 66° E of General Luna (Surigao Del Norte),009,S 66° E,General Luna (Surigao Del Norte)
-2026-02-23T03:10:00.000Z,23 February 2026 - 03:10 AM,07.67,126.25,001,1.9,018km N 89° E of Compostela (Davao De Oro),018,N 89° E,Compostela (Davao De Oro)
