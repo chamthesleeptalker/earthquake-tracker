@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T01:06:00.000Z,02 March 2026 - 01:06 AM,05.94,125.18,024,2.1,012km S 74° W of Malapatan (Sarangani),012,S 74° W,Malapatan (Sarangani)
 2026-03-02T00:07:00.000Z,02 March 2026 - 12:07 AM,05.99,126.03,147,3.0,044km S 59° E of Don Marcelino (Davao Occidental),044,S 59° E,Don Marcelino (Davao Occidental)
 2026-03-02T00:05:00.000Z,02 March 2026 - 12:05 AM,19.97,121.72,020,2.2,043km S 21° W of Sabtang (Batanes),043,S 21° W,Sabtang (Batanes)
 2026-03-01T23:21:00.000Z,01 March 2026 - 11:21 PM,04.44,125.94,151,3.5,122km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),122,S 28° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
