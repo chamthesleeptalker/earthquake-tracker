@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-01T15:12:00.000Z,01 March 2026 - 03:12 PM,16.14,120.72,010,1.4,009km N 27° W of San Nicolas (Pangasinan),009,N 27° W,San Nicolas (Pangasinan)
+2026-03-01T15:08:00.000Z,01 March 2026 - 03:08 PM,14.37,120.51,169,2.4,008km S 13° E of Mariveles (Bataan),008,S 13° E,Mariveles (Bataan)
 2026-03-01T14:02:00.000Z,01 March 2026 - 02:02 PM,08.91,126.26,029,1.7,004km S 74° W of Cagwait (Surigao Del Sur),004,S 74° W,Cagwait (Surigao Del Sur)
 2026-03-01T12:45:00.000Z,01 March 2026 - 12:45 PM,12.80,123.16,018,1.9,015km S 40° W of Claveria (Masbate),015,S 40° W,Claveria (Masbate)
 2026-03-01T09:45:00.000Z,01 March 2026 - 09:45 AM,06.44,123.80,005,2.3,030km S 66° W of Kalamansig (Sultan Kudarat),030,S 66° W,Kalamansig (Sultan Kudarat)
@@ -39,5 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-28T17:22:00.000Z,28 February 2026 - 05:22 PM,06.53,123.68,022,2.3,041km S 87° W of Kalamansig (Sultan Kudarat),041,S 87° W,Kalamansig (Sultan Kudarat)
 2026-02-28T15:49:00.000Z,28 February 2026 - 03:49 PM,07.33,126.57,004,2.5,001km East of Caraga (Davao Oriental),001,East of Caraga,Oriental)
 2026-02-28T15:42:00.000Z,28 February 2026 - 03:42 PM,10.73,123.97,054,2.5,004km N 84° W of Catmon (Cebu),004,N 84° W,Catmon (Cebu)
-2026-02-28T14:19:00.000Z,28 February 2026 - 02:19 PM,21.29,121.94,112,2.8,057km N 11° E of Itbayat (Batanes),057,N 11° E,Itbayat (Batanes)
-2026-02-28T14:12:00.000Z,28 February 2026 - 02:12 PM,15.17,119.85,030,2.4,022km N 87° W of Cabangan (Zambales),022,N 87° W,Cabangan (Zambales)
