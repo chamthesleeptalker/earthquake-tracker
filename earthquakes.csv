@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T11:02:00.000Z,02 March 2026 - 11:02 AM,12.07,125.63,008,2.0,017km N 79° E of Dolores (Eastern Samar),017,N 79° E,Dolores (Eastern Samar)
+2026-03-02T10:57:00.000Z,02 March 2026 - 10:57 AM,09.83,126.04,031,1.4,008km S 62° E of Del Carmen (Surigao Del Norte),008,S 62° E,Del Carmen (Surigao Del Norte)
+2026-03-02T10:29:00.000Z,02 March 2026 - 10:29 AM,09.11,126.37,035,1.6,018km N 31° E of Bayabas (Surigao Del Sur),018,N 31° E,Bayabas (Surigao Del Sur)
+2026-03-02T09:53:00.000Z,02 March 2026 - 09:53 AM,12.73,123.17,033,2.1,020km S 23° W of Claveria (Masbate),020,S 23° W,Claveria (Masbate)
+2026-03-01T16:34:00.000Z,01 March 2026 - 04:34 PM,16.66,119.84,033,2.0,030km N 11° W of Bolinao (Pangasinan),030,N 11° W,Bolinao (Pangasinan)
 2026-03-02T07:13:00.000Z,02 March 2026 - 07:13 AM,04.91,125.98,078,2.9,083km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-02T06:51:00.000Z,02 March 2026 - 06:51 AM,06.18,124.17,033,2.8,038km N 70° W of Maitum (Sarangani),038,N 70° W,Maitum (Sarangani)
 2026-03-02T06:33:00.000Z,02 March 2026 - 06:33 AM,06.28,127.08,045,2.6,110km S 39° E of Tarragona (Davao Oriental),110,S 39° E,Tarragona (Davao Oriental)
