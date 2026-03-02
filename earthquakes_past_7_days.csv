@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-03T00:32:00.000Z,03 March 2026 - 12:32 AM,06.62,126.23,025,2.4,017km S 79° E of Governor Generoso (Davao Oriental),017,S 79° E,Governor Generoso (Davao Oriental)
 2026-03-02T23:44:00.000Z,02 March 2026 - 11:44 PM,09.42,126.12,013,2.6,018km N 27° W of Cortes (Surigao Del Sur),018,N 27° W,Cortes (Surigao Del Sur)
 2026-03-02T23:34:00.000Z,02 March 2026 - 11:34 PM,13.10,121.05,033,1.4,026km S 72° W of Victoria (Oriental Mindoro),026,S 72° W,Victoria (Oriental Mindoro)
 2026-03-02T23:26:00.000Z,02 March 2026 - 11:26 PM,16.13,119.96,016,2.0,003km S 34° W of City Of Alaminos (Pangasinan),003,S 34° W,City Of Alaminos (Pangasinan)
@@ -261,7 +262,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T20:04:00.000Z,24 February 2026 - 08:04 PM,07.13,123.67,021,1.6,039km N 79° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),039,N 79° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-02-24T09:36:00.000Z,24 February 2026 - 09:36 AM,07.68,126.54,018,2.4,015km S 36° E of Cateel (Davao Oriental),015,S 36° E,Cateel (Davao Oriental)
 2026-02-24T18:55:00.000Z,24 February 2026 - 06:55 PM,07.88,126.47,024,1.6,010km N 13° E of Cateel (Davao Oriental),010,N 13° E,Cateel (Davao Oriental)
-2026-02-24T00:15:00.000Z,24 February 2026 - 12:15 AM,06.16,123.88,040,2.1,046km S 22° W of Kalamansig (Sultan Kudarat),046,S 22° W,Kalamansig (Sultan Kudarat)
 2026-02-24T18:33:00.000Z,24 February 2026 - 06:33 PM,19.84,121.72,025,2.3,041km N 30° W of Babuyan Island (Calayan) (Cagayan),041,N 30° W,Babuyan Island (Calayan) (Cagayan)
 2026-02-24T18:23:00.000Z,24 February 2026 - 06:23 PM,08.38,126.82,009,1.8,053km N 88° E of Hinatuan (Surigao Del Sur),053,N 88° E,Hinatuan (Surigao Del Sur)
 2026-02-24T18:02:00.000Z,24 February 2026 - 06:02 PM,11.96,120.92,002,2.2,046km S 33° W of Magsaysay (Occidental Mindoro),046,S 33° W,Magsaysay (Occidental Mindoro)
@@ -290,4 +290,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T03:19:00.000Z,24 February 2026 - 03:19 AM,07.39,126.62,033,3.8,009km N 44° E of Caraga (Davao Oriental),009,N 44° E,Caraga (Davao Oriental)
 2026-02-24T01:07:00.000Z,24 February 2026 - 01:07 AM,19.21,121.07,005,2.4,017km N 59° W of Dalupiri Island (Calayan) (Cagayan),017,N 59° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-24T00:54:00.000Z,24 February 2026 - 12:54 AM,18.76,120.80,024,1.5,023km N 02° E of Pagudpud (Ilocos Norte),023,N 02° E,Pagudpud (Ilocos Norte)
-2026-02-24T00:16:00.000Z,24 February 2026 - 12:16 AM,06.56,123.89,029,2.1,018km N 88° W of Kalamansig (Sultan Kudarat),018,N 88° W,Kalamansig (Sultan Kudarat)
