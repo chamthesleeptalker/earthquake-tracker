@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T19:11:00.000Z,02 March 2026 - 07:11 PM,10.62,122.60,029,2.5,005km S 14° E of Jordan (Guimaras),005,S 14° E,Jordan (Guimaras)
+2026-03-02T18:34:00.000Z,02 March 2026 - 06:34 PM,10.48,122.42,001,2.1,013km S 70° W of Nueva Valencia (Guimaras),013,S 70° W,Nueva Valencia (Guimaras)
 2026-03-02T18:13:00.000Z,02 March 2026 - 06:13 PM,10.66,122.39,010,5.0,002km S 43° E of Tigbauan (Iloilo),002,S 43° E,Tigbauan (Iloilo)
 2026-03-02T17:56:00.000Z,02 March 2026 - 05:56 PM,13.58,120.63,093,2.0,018km N 33° W of Abra De Ilog (Occidental Mindoro),018,N 33° W,Abra De Ilog (Occidental Mindoro)
 2026-03-02T17:02:00.000Z,02 March 2026 - 05:02 PM,14.53,121.27,035,1.6,001km N 56° E of Baras (Rizal),001,N 56° E,Baras (Rizal)
@@ -282,5 +284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T19:25:00.000Z,23 February 2026 - 07:25 PM,13.74,120.00,001,2.7,019km S 45° W of Lubang (Occidental Mindoro),019,S 45° W,Lubang (Occidental Mindoro)
 2026-02-23T19:19:00.000Z,23 February 2026 - 07:19 PM,13.82,120.54,080,1.8,010km S 85° W of Calatagan (Batangas),010,S 85° W,Calatagan (Batangas)
 2026-02-23T19:12:00.000Z,23 February 2026 - 07:12 PM,08.79,126.41,011,2.5,019km S 38° E of Cagwait (Surigao Del Sur),019,S 38° E,Cagwait (Surigao Del Sur)
-2026-02-23T19:10:00.000Z,23 February 2026 - 07:10 PM,08.78,126.47,011,2.4,024km S 50° E of Cagwait (Surigao Del Sur),024,S 50° E,Cagwait (Surigao Del Sur)
-2026-02-23T18:26:00.000Z,23 February 2026 - 06:26 PM,09.65,126.14,025,2.0,015km S 06° W of General Luna (Surigao Del Norte),015,S 06° W,General Luna (Surigao Del Norte)
