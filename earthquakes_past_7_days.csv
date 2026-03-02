@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-02T17:02:00.000Z,02 March 2026 - 05:02 PM,14.53,121.27,035,1.6,001km N 56° E of Baras (Rizal),001,N 56° E,Baras (Rizal)
 2026-03-02T15:12:00.000Z,02 March 2026 - 03:12 PM,12.85,123.07,010,1.8,020km S 73° W of Claveria (Masbate),020,S 73° W,Claveria (Masbate)
 2026-03-02T14:06:00.000Z,02 March 2026 - 02:06 PM,11.59,125.40,010,1.8,004km S 58° W of City Of Borongan (Eastern Samar),004,S 58° W,City Of Borongan (Eastern Samar)
 2026-03-02T14:02:00.000Z,02 March 2026 - 02:02 PM,11.59,125.50,021,2.2,008km S 77° E of City Of Borongan (Eastern Samar),008,S 77° E,City Of Borongan (Eastern Samar)
@@ -285,5 +286,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-23T17:56:00.000Z,23 February 2026 - 05:56 PM,07.04,126.79,026,2.0,033km S 56° E of Manay (Davao Oriental),033,S 56° E,Manay (Davao Oriental)
 2026-02-23T17:40:00.000Z,23 February 2026 - 05:40 PM,10.46,123.07,010,3.2,027km S 72° E of City Of Bago (Negros Occidental),027,S 72° E,City Of Bago (Negros Occidental)
 2026-02-23T17:39:00.000Z,23 February 2026 - 05:39 PM,10.43,123.02,010,2.8,011km N 86° E of City Of La Carlota (Negros Occidental),011,N 86° E,City Of La Carlota (Negros Occidental)
-2026-02-23T16:27:00.000Z,23 February 2026 - 04:27 PM,09.83,124.32,023,2.0,002km S 63° W of Pilar (Bohol),002,S 63° W,Pilar (Bohol)
-2026-02-23T15:20:00.000Z,23 February 2026 - 03:20 PM,18.50,121.60,004,1.8,014km N 42° E of Ballesteros (Cagayan),014,N 42° E,Ballesteros (Cagayan)
