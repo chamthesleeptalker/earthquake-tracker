@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-03T01:43:00.000Z,03 March 2026 - 01:43 AM,13.22,120.83,051,2.4,020km N 39° E of Santa Cruz (Occidental Mindoro),020,N 39° E,Santa Cruz (Occidental Mindoro)
+2026-03-03T01:34:00.000Z,03 March 2026 - 01:34 AM,07.43,122.95,003,1.7,009km S 08° E of Alicia (Zamboanga Sibugay),009,S 08° E,Alicia (Zamboanga Sibugay)
+2026-03-03T01:19:00.000Z,03 March 2026 - 01:19 AM,19.35,120.93,001,2.0,040km N 47° W of Dalupiri Island (Calayan) (Cagayan),040,N 47° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-03T01:14:00.000Z,03 March 2026 - 01:14 AM,15.49,119.12,005,2.9,085km N 86° W of Palauig (Zambales),085,N 86° W,Palauig (Zambales)
 2026-03-03T00:32:00.000Z,03 March 2026 - 12:32 AM,06.62,126.23,025,2.4,017km S 79° E of Governor Generoso (Davao Oriental),017,S 79° E,Governor Generoso (Davao Oriental)
 2026-03-02T23:44:00.000Z,02 March 2026 - 11:44 PM,09.42,126.12,013,2.6,018km N 27° W of Cortes (Surigao Del Sur),018,N 27° W,Cortes (Surigao Del Sur)
 2026-03-02T23:34:00.000Z,02 March 2026 - 11:34 PM,13.10,121.05,033,1.4,026km S 72° W of Victoria (Oriental Mindoro),026,S 72° W,Victoria (Oriental Mindoro)
@@ -33,7 +37,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-02T07:13:00.000Z,02 March 2026 - 07:13 AM,04.91,125.98,078,2.9,083km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-02T06:51:00.000Z,02 March 2026 - 06:51 AM,06.18,124.17,033,2.8,038km N 70° W of Maitum (Sarangani),038,N 70° W,Maitum (Sarangani)
 2026-03-02T06:33:00.000Z,02 March 2026 - 06:33 AM,06.28,127.08,045,2.6,110km S 39° E of Tarragona (Davao Oriental),110,S 39° E,Tarragona (Davao Oriental)
-2026-03-02T00:42:00.000Z,02 March 2026 - 12:42 AM,17.12,120.26,007,2.4,020km S 75° W of City Of Candon (Ilocos Sur),020,S 75° W,City Of Candon (Ilocos Sur)
 2026-03-02T05:09:00.000Z,02 March 2026 - 05:09 AM,17.62,120.77,028,1.7,003km N 84° E of Lagangilang (Abra),003,N 84° E,Lagangilang (Abra)
 2026-03-02T04:44:00.000Z,02 March 2026 - 04:44 AM,15.41,121.83,005,2.2,047km N 87° E of Dingalan (Aurora),047,N 87° E,Dingalan (Aurora)
 2026-03-02T04:25:00.000Z,02 March 2026 - 04:25 AM,12.09,125.62,008,2.6,016km N 70° E of Dolores (Eastern Samar),016,N 70° E,Dolores (Eastern Samar)
@@ -43,5 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-02T03:39:00.000Z,02 March 2026 - 03:39 AM,08.75,126.28,041,1.7,006km S 18° W of Marihatag (Surigao Del Sur),006,S 18° W,Marihatag (Surigao Del Sur)
 2026-03-02T03:21:00.000Z,02 March 2026 - 03:21 AM,19.87,121.25,010,2.0,071km N 19° W of Calayan (Cagayan),071,N 19° W,Calayan (Cagayan)
 2026-03-02T02:33:00.000Z,02 March 2026 - 02:33 AM,02.74,128.03,140,4.8,414km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),414,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-02T01:42:00.000Z,02 March 2026 - 01:42 AM,16.94,121.72,035,1.6,003km S 14° W of Luna (Isabela),003,S 14° W,Luna (Isabela)
-2026-03-02T01:06:00.000Z,02 March 2026 - 01:06 AM,05.94,125.18,024,2.1,012km S 74° W of Malapatan (Sarangani),012,S 74° W,Malapatan (Sarangani)
