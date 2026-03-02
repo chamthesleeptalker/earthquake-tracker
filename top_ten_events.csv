@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-03-01T01:22:00.000Z,01 March 2026 - 01:22 AM,04.84,126.26,89,6.0,112km S 55° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),112,S 55° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-02T18:13:00.000Z,02 March 2026 - 06:13 PM,10.66,122.39,10,5.0,002km S 43° E of Tigbauan (Iloilo),002,S 43° E,Tigbauan (Iloilo)
 2026-03-02T02:33:00.000Z,02 March 2026 - 02:33 AM,02.74,128.03,140,4.8,414km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),414,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-28T00:23:00.000Z,28 February 2026 - 12:23 AM,08.96,126.70,10,4.8,043km N 83° E of Cagwait (Surigao Del Sur),043,N 83° E,Cagwait (Surigao Del Sur)
 2026-02-28T12:15:00.000Z,28 February 2026 - 12:15 PM,03.47,124.85,357,4.5,224km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),224,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-25T03:01:00.000Z,25 February 2026 - 03:01 AM,05.87,123.60,27,4.1,075km S 60° W of Palimbang (Sultan Kudarat),075,S 60° W,Palimbang (Sultan Kudarat)
 2026-02-25T15:51:00.000Z,25 February 2026 - 03:51 PM,15.74,121.93,18,3.9,040km S 87° E of Baler (Aurora),040,S 87° E,Baler (Aurora)
 2026-02-28T09:48:00.000Z,28 February 2026 - 09:48 AM,06.41,123.86,5,3.8,027km S 52° W of Kalamansig (Sultan Kudarat),027,S 52° W,Kalamansig (Sultan Kudarat)
-2026-02-27T20:00:00.000Z,27 February 2026 - 08:00 PM,06.62,126.31,51,3.8,026km S 82° E of Governor Generoso (Davao Oriental),026,S 82° E,Governor Generoso (Davao Oriental)
