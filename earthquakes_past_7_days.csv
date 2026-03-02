@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-03T07:07:00.000Z,03 March 2026 - 07:07 AM,12.11,125.71,012,2.4,023km S 70° E of San Policarpo (Eastern Samar),023,S 70° E,San Policarpo (Eastern Samar)
+2026-03-03T06:49:00.000Z,03 March 2026 - 06:49 AM,12.12,125.73,014,3.3,025km S 75° E of San Policarpo (Eastern Samar),025,S 75° E,San Policarpo (Eastern Samar)
 2026-03-03T06:37:00.000Z,03 March 2026 - 06:37 AM,10.91,123.92,003,2.2,011km N 25° E of Tabuelan (Cebu),011,N 25° E,Tabuelan (Cebu)
 2026-03-03T06:19:00.000Z,03 March 2026 - 06:19 AM,08.69,126.42,002,1.7,018km S 49° E of Marihatag (Surigao Del Sur),018,S 49° E,Marihatag (Surigao Del Sur)
 2026-03-03T05:52:00.000Z,03 March 2026 - 05:52 AM,07.68,125.96,011,1.9,004km S 51° W of Montevista (Davao De Oro),004,S 51° W,Montevista (Davao De Oro)
