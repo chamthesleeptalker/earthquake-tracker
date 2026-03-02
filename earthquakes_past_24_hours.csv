@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-03T05:52:00.000Z,03 March 2026 - 05:52 AM,07.68,125.96,011,1.9,004km S 51° W of Montevista (Davao De Oro),004,S 51° W,Montevista (Davao De Oro)
+2026-03-03T05:48:00.000Z,03 March 2026 - 05:48 AM,13.77,122.92,001,2.1,003km S 09° E of Lupi (Camarines Sur),003,S 09° E,Lupi (Camarines Sur)
+2026-03-03T05:46:00.000Z,03 March 2026 - 05:46 AM,10.63,122.58,027,2.5,003km S 14° W of Jordan (Guimaras),003,S 14° W,Jordan (Guimaras)
 2026-03-03T04:18:00.000Z,03 March 2026 - 04:18 AM,14.12,120.43,113,1.7,022km N 77° W of Nasugbu (Batangas),022,N 77° W,Nasugbu (Batangas)
 2026-03-03T03:10:00.000Z,03 March 2026 - 03:10 AM,09.57,126.65,023,2.4,059km S 66° E of General Luna (Surigao Del Norte),059,S 66° E,General Luna (Surigao Del Norte)
 2026-03-03T03:07:00.000Z,03 March 2026 - 03:07 AM,16.59,122.52,005,1.8,028km N 75° E of Dinapigue (Isabela),028,N 75° E,Dinapigue (Isabela)
@@ -42,6 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-02T07:13:00.000Z,02 March 2026 - 07:13 AM,04.91,125.98,078,2.9,083km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-02T06:51:00.000Z,02 March 2026 - 06:51 AM,06.18,124.17,033,2.8,038km N 70° W of Maitum (Sarangani),038,N 70° W,Maitum (Sarangani)
 2026-03-02T06:33:00.000Z,02 March 2026 - 06:33 AM,06.28,127.08,045,2.6,110km S 39° E of Tarragona (Davao Oriental),110,S 39° E,Tarragona (Davao Oriental)
-2026-03-02T05:09:00.000Z,02 March 2026 - 05:09 AM,17.62,120.77,028,1.7,003km N 84° E of Lagangilang (Abra),003,N 84° E,Lagangilang (Abra)
-2026-03-02T04:44:00.000Z,02 March 2026 - 04:44 AM,15.41,121.83,005,2.2,047km N 87° E of Dingalan (Aurora),047,N 87° E,Dingalan (Aurora)
-2026-03-02T04:25:00.000Z,02 March 2026 - 04:25 AM,12.09,125.62,008,2.6,016km N 70° E of Dolores (Eastern Samar),016,N 70° E,Dolores (Eastern Samar)
