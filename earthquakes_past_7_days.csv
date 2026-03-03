@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T00:25:00.000Z,04 March 2026 - 12:25 AM,06.57,123.70,004,3.4,039km N 88° W of Kalamansig (Sultan Kudarat),039,N 88° W,Kalamansig (Sultan Kudarat)
+2026-03-04T00:14:00.000Z,04 March 2026 - 12:14 AM,17.58,120.56,005,1.8,001km N 18° W of Langiden (Abra),001,N 18° W,Langiden (Abra)
+2026-03-04T00:00:00.000Z,04 March 2026 - 12:00 AM,17.01,121.57,033,1.8,007km N 74° W of Aurora (Isabela),007,N 74° W,Aurora (Isabela)
+2026-03-03T23:42:00.000Z,03 March 2026 - 11:42 PM,12.17,125.68,019,1.9,019km S 85° E of San Policarpo (Eastern Samar),019,S 85° E,San Policarpo (Eastern Samar)
 2026-03-03T22:55:00.000Z,03 March 2026 - 10:55 PM,14.55,121.88,033,1.4,019km S 20° W of Polillo (Quezon),019,S 20° W,Polillo (Quezon)
 2026-03-03T22:16:00.000Z,03 March 2026 - 10:16 PM,09.17,125.92,023,1.7,011km S 26° W of Madrid (Surigao Del Sur),011,S 26° W,Madrid (Surigao Del Sur)
 2026-03-03T21:28:00.000Z,03 March 2026 - 09:28 PM,14.41,121.87,014,1.7,017km N 17° E of Cagbalete Island (Mauban) (Quezon),017,N 17° E,Cagbalete Island (Mauban) (Quezon)
@@ -283,6 +287,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-25T01:16:00.000Z,25 February 2026 - 01:16 AM,06.55,123.86,028,2.3,021km S 89° W of Kalamansig (Sultan Kudarat),021,S 89° W,Kalamansig (Sultan Kudarat)
 2026-02-25T00:53:00.000Z,25 February 2026 - 12:53 AM,15.53,120.06,018,3.0,011km S 86° E of Masinloc (Zambales),011,S 86° E,Masinloc (Zambales)
 2026-02-25T00:36:00.000Z,25 February 2026 - 12:36 AM,12.16,120.62,009,2.2,050km S 49° W of Rizal (Occidental Mindoro),050,S 49° W,Rizal (Occidental Mindoro)
-2026-02-25T00:09:00.000Z,25 February 2026 - 12:09 AM,06.93,125.65,032,3.1,018km S 25° W of Island Garden City Of Samal (Davao Del Norte),018,S 25° W,Island Garden City Of Samal (Davao Del Norte)
-2026-02-25T00:04:00.000Z,25 February 2026 - 12:04 AM,12.40,120.79,010,2.4,020km S 70° W of Rizal (Occidental Mindoro),020,S 70° W,Rizal (Occidental Mindoro)
-2026-02-24T23:41:00.000Z,24 February 2026 - 11:41 PM,06.05,125.89,137,2.5,027km S 54° E of Don Marcelino (Davao Occidental),027,S 54° E,Don Marcelino (Davao Occidental)

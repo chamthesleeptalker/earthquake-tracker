@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-03T22:55:00.000Z,03 March 2026 - 10:55 PM,14.55,121.88,033,1.4,019km S 20° W of Polillo (Quezon),019,S 20° W,Polillo (Quezon)
-2026-03-03T22:16:00.000Z,03 March 2026 - 10:16 PM,09.17,125.92,023,1.7,011km S 26° W of Madrid (Surigao Del Sur),011,S 26° W,Madrid (Surigao Del Sur)
+2026-03-04T00:25:00.000Z,04 March 2026 - 12:25 AM,06.57,123.70,004,3.4,039km N 88° W of Kalamansig (Sultan Kudarat),039,N 88° W,Kalamansig (Sultan Kudarat)
+2026-03-04T00:14:00.000Z,04 March 2026 - 12:14 AM,17.58,120.56,005,1.8,001km N 18° W of Langiden (Abra),001,N 18° W,Langiden (Abra)
+2026-03-04T00:00:00.000Z,04 March 2026 - 12:00 AM,17.01,121.57,033,1.8,007km N 74° W of Aurora (Isabela),007,N 74° W,Aurora (Isabela)
+2026-03-03T23:42:00.000Z,03 March 2026 - 11:42 PM,12.17,125.68,019,1.9,019km S 85° E of San Policarpo (Eastern Samar),019,S 85° E,San Policarpo (Eastern Samar)
