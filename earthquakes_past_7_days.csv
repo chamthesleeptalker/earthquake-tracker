@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T03:24:00.000Z,04 March 2026 - 03:24 AM,07.95,127.29,010,4.6,090km N 62° E of Baganga (Davao Oriental),090,N 62° E,Baganga (Davao Oriental)
+2026-03-04T02:52:00.000Z,04 March 2026 - 02:52 AM,06.59,123.68,014,2.1,041km N 85° W of Kalamansig (Sultan Kudarat),041,N 85° W,Kalamansig (Sultan Kudarat)
 2026-03-04T02:06:00.000Z,04 March 2026 - 02:06 AM,10.20,125.34,010,1.9,012km S 50° E of Anahawan (Southern Leyte),012,S 50° E,Anahawan (Southern Leyte)
 2026-03-04T02:02:00.000Z,04 March 2026 - 02:02 AM,13.16,121.15,036,1.7,014km S 85° W of Victoria (Oriental Mindoro),014,S 85° W,Victoria (Oriental Mindoro)
 2026-03-04T01:35:00.000Z,04 March 2026 - 01:35 AM,10.41,125.08,004,1.7,013km N 62° E of Bontoc (Southern Leyte),013,N 62° E,Bontoc (Southern Leyte)
@@ -282,9 +284,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-25T03:37:00.000Z,25 February 2026 - 03:37 AM,06.17,126.99,013,2.2,114km S 62° E of Governor Generoso (Davao Oriental),114,S 62° E,Governor Generoso (Davao Oriental)
 2026-02-25T03:31:00.000Z,25 February 2026 - 03:31 AM,09.62,126.03,024,1.9,007km S 88° E of Socorro (Surigao Del Norte),007,S 88° E,Socorro (Surigao Del Norte)
 2026-02-25T03:28:00.000Z,25 February 2026 - 03:28 AM,16.00,119.59,024,2.1,026km S 59° W of Agno (Pangasinan),026,S 59° W,Agno (Pangasinan)
-2026-02-25T03:08:00.000Z,25 February 2026 - 03:08 AM,15.66,119.77,019,2.1,018km N 76° W of Candelaria (Zambales),018,N 76° W,Candelaria (Zambales)
-2026-02-25T03:01:00.000Z,25 February 2026 - 03:01 AM,05.87,123.60,027,4.1,075km S 60° W of Palimbang (Sultan Kudarat),075,S 60° W,Palimbang (Sultan Kudarat)
-2026-02-25T02:44:00.000Z,25 February 2026 - 02:44 AM,12.76,122.85,019,1.8,045km S 70° W of Claveria (Masbate),045,S 70° W,Claveria (Masbate)
-2026-02-25T02:41:00.000Z,25 February 2026 - 02:41 AM,05.21,126.70,008,3.1,139km S 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),139,S 78° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-25T02:20:00.000Z,25 February 2026 - 02:20 AM,12.83,121.18,006,2.1,030km S 82° W of Bansud (Oriental Mindoro),030,S 82° W,Bansud (Oriental Mindoro)
-2026-02-25T02:09:00.000Z,25 February 2026 - 02:09 AM,19.14,121.31,024,2.4,012km N 70° E of Dalupiri Island (Calayan) (Cagayan),012,N 70° E,Dalupiri Island (Calayan) (Cagayan)
