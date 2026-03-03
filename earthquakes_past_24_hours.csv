@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T02:06:00.000Z,04 March 2026 - 02:06 AM,10.20,125.34,010,1.9,012km S 50° E of Anahawan (Southern Leyte),012,S 50° E,Anahawan (Southern Leyte)
+2026-03-04T02:02:00.000Z,04 March 2026 - 02:02 AM,13.16,121.15,036,1.7,014km S 85° W of Victoria (Oriental Mindoro),014,S 85° W,Victoria (Oriental Mindoro)
+2026-03-04T01:35:00.000Z,04 March 2026 - 01:35 AM,10.41,125.08,004,1.7,013km N 62° E of Bontoc (Southern Leyte),013,N 62° E,Bontoc (Southern Leyte)
 2026-03-04T00:47:00.000Z,04 March 2026 - 12:47 AM,13.86,120.57,079,1.4,008km N 70° W of Calatagan (Batangas),008,N 70° W,Calatagan (Batangas)
 2026-03-04T00:16:00.000Z,04 March 2026 - 12:16 AM,09.60,126.36,029,2.5,030km S 49° E of General Luna (Surigao Del Norte),030,S 49° E,General Luna (Surigao Del Norte)
 2026-03-04T00:25:00.000Z,04 March 2026 - 12:25 AM,06.57,123.70,004,3.4,039km N 88° W of Kalamansig (Sultan Kudarat),039,N 88° W,Kalamansig (Sultan Kudarat)
@@ -35,7 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-03T03:07:00.000Z,03 March 2026 - 03:07 AM,16.59,122.52,005,1.8,028km N 75° E of Dinapigue (Isabela),028,N 75° E,Dinapigue (Isabela)
 2026-03-03T02:36:00.000Z,03 March 2026 - 02:36 AM,13.58,120.95,035,1.7,008km N 01° W of Puerto Galera (Oriental Mindoro),008,N 01° W,Puerto Galera (Oriental Mindoro)
 2026-03-03T02:13:00.000Z,03 March 2026 - 02:13 AM,17.77,120.91,004,1.9,010km N 59° E of Tineg (Abra),010,N 59° E,Tineg (Abra)
-2026-03-03T01:43:00.000Z,03 March 2026 - 01:43 AM,13.22,120.83,051,2.4,020km N 39° E of Santa Cruz (Occidental Mindoro),020,N 39° E,Santa Cruz (Occidental Mindoro)
-2026-03-03T01:34:00.000Z,03 March 2026 - 01:34 AM,07.43,122.95,003,1.7,009km S 08° E of Alicia (Zamboanga Sibugay),009,S 08° E,Alicia (Zamboanga Sibugay)
-2026-03-03T01:19:00.000Z,03 March 2026 - 01:19 AM,19.35,120.93,001,2.0,040km N 47° W of Dalupiri Island (Calayan) (Cagayan),040,N 47° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-03T01:14:00.000Z,03 March 2026 - 01:14 AM,15.49,119.12,005,2.9,085km N 86° W of Palauig (Zambales),085,N 86° W,Palauig (Zambales)
