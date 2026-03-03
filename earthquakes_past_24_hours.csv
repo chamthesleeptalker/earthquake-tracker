@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T00:47:00.000Z,04 March 2026 - 12:47 AM,13.86,120.57,079,1.4,008km N 70° W of Calatagan (Batangas),008,N 70° W,Calatagan (Batangas)
+2026-03-04T00:16:00.000Z,04 March 2026 - 12:16 AM,09.60,126.36,029,2.5,030km S 49° E of General Luna (Surigao Del Norte),030,S 49° E,General Luna (Surigao Del Norte)
 2026-03-04T00:25:00.000Z,04 March 2026 - 12:25 AM,06.57,123.70,004,3.4,039km N 88° W of Kalamansig (Sultan Kudarat),039,N 88° W,Kalamansig (Sultan Kudarat)
 2026-03-04T00:14:00.000Z,04 March 2026 - 12:14 AM,17.58,120.56,005,1.8,001km N 18° W of Langiden (Abra),001,N 18° W,Langiden (Abra)
 2026-03-04T00:00:00.000Z,04 March 2026 - 12:00 AM,17.01,121.57,033,1.8,007km N 74° W of Aurora (Isabela),007,N 74° W,Aurora (Isabela)
@@ -37,4 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-03T01:34:00.000Z,03 March 2026 - 01:34 AM,07.43,122.95,003,1.7,009km S 08° E of Alicia (Zamboanga Sibugay),009,S 08° E,Alicia (Zamboanga Sibugay)
 2026-03-03T01:19:00.000Z,03 March 2026 - 01:19 AM,19.35,120.93,001,2.0,040km N 47° W of Dalupiri Island (Calayan) (Cagayan),040,N 47° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-03T01:14:00.000Z,03 March 2026 - 01:14 AM,15.49,119.12,005,2.9,085km N 86° W of Palauig (Zambales),085,N 86° W,Palauig (Zambales)
-2026-03-03T00:32:00.000Z,03 March 2026 - 12:32 AM,06.62,126.23,025,2.4,017km S 79° E of Governor Generoso (Davao Oriental),017,S 79° E,Governor Generoso (Davao Oriental)

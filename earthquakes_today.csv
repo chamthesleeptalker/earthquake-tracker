@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T00:47:00.000Z,04 March 2026 - 12:47 AM,13.86,120.57,079,1.4,008km N 70° W of Calatagan (Batangas),008,N 70° W,Calatagan (Batangas)
+2026-03-04T00:16:00.000Z,04 March 2026 - 12:16 AM,09.60,126.36,029,2.5,030km S 49° E of General Luna (Surigao Del Norte),030,S 49° E,General Luna (Surigao Del Norte)
 2026-03-04T00:25:00.000Z,04 March 2026 - 12:25 AM,06.57,123.70,004,3.4,039km N 88° W of Kalamansig (Sultan Kudarat),039,N 88° W,Kalamansig (Sultan Kudarat)
 2026-03-04T00:14:00.000Z,04 March 2026 - 12:14 AM,17.58,120.56,005,1.8,001km N 18° W of Langiden (Abra),001,N 18° W,Langiden (Abra)
 2026-03-04T00:00:00.000Z,04 March 2026 - 12:00 AM,17.01,121.57,033,1.8,007km N 74° W of Aurora (Isabela),007,N 74° W,Aurora (Isabela)
