@@ -1,4 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-03T12:04:00.000Z,03 March 2026 - 12:04 PM,10.61,122.29,007,2.4,007km S 30° W of Guimbal (Iloilo),007,S 30° W,Guimbal (Iloilo)
-2026-03-03T11:35:00.000Z,03 March 2026 - 11:35 AM,17.30,119.94,008,2.7,054km S 87° W of San Esteban (Ilocos Sur),054,S 87° W,San Esteban (Ilocos Sur)
-2026-03-03T11:24:00.000Z,03 March 2026 - 11:24 AM,06.24,123.66,033,2.1,056km S 51° W of Kalamansig (Sultan Kudarat),056,S 51° W,Kalamansig (Sultan Kudarat)
+2026-03-03T13:15:00.000Z,03 March 2026 - 01:15 PM,12.24,120.62,010,1.7,045km S 55° W of Rizal (Occidental Mindoro),045,S 55° W,Rizal (Occidental Mindoro)
