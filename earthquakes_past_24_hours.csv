@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-03T20:41:00.000Z,03 March 2026 - 08:41 PM,17.42,120.20,024,1.5,024km S 54° W of Caoayan (Ilocos Sur),024,S 54° W,Caoayan (Ilocos Sur)
+2026-03-03T20:25:00.000Z,03 March 2026 - 08:25 PM,15.64,121.78,006,1.5,026km S 61° E of Baler (Aurora),026,S 61° E,Baler (Aurora)
+2026-03-03T20:09:00.000Z,03 March 2026 - 08:09 PM,07.76,123.23,024,1.8,007km S 08° E of Tigbao (Zamboanga Del Sur),007,S 08° E,Tigbao (Zamboanga Del Sur)
+2026-03-03T19:25:00.000Z,03 March 2026 - 07:25 PM,04.67,127.22,003,3.6,213km S 65° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),213,S 65° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-03T19:19:00.000Z,03 March 2026 - 07:19 PM,10.40,124.88,033,2.3,011km N 60° W of Bontoc (Southern Leyte),011,N 60° W,Bontoc (Southern Leyte)
 2026-03-03T16:54:00.000Z,03 March 2026 - 04:54 PM,19.88,121.35,012,2.8,070km N 11° W of Calayan (Cagayan),070,N 11° W,Calayan (Cagayan)
 2026-03-03T16:21:00.000Z,03 March 2026 - 04:21 PM,09.63,126.02,032,1.7,006km N 78° E of Socorro (Surigao Del Norte),006,N 78° E,Socorro (Surigao Del Norte)
@@ -39,6 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-02T21:21:00.000Z,02 March 2026 - 09:21 PM,07.59,126.73,033,2.1,018km N 86° E of Baganga (Davao Oriental),018,N 86° E,Baganga (Davao Oriental)
 2026-03-02T21:12:00.000Z,02 March 2026 - 09:12 PM,18.69,120.97,009,2.1,014km N 11° W of Santa Praxedes (Cagayan),014,N 11° W,Santa Praxedes (Cagayan)
 2026-03-02T20:53:00.000Z,02 March 2026 - 08:53 PM,12.80,120.84,033,1.6,008km S 55° E of Sablayan (Occidental Mindoro),008,S 55° E,Sablayan (Occidental Mindoro)
-2026-03-02T20:28:00.000Z,02 March 2026 - 08:28 PM,11.09,124.05,034,1.4,009km N 57° E of City Of Bogo (Cebu),009,N 57° E,City Of Bogo (Cebu)
-2026-03-02T20:19:00.000Z,02 March 2026 - 08:19 PM,10.61,122.59,025,1.5,006km S 02° E of Jordan (Guimaras),006,S 02° E,Jordan (Guimaras)
-2026-03-02T19:52:00.000Z,02 March 2026 - 07:52 PM,08.87,126.48,002,1.4,020km S 74° E of Cagwait (Surigao Del Sur),020,S 74° E,Cagwait (Surigao Del Sur)

@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-03T19:19:00.000Z,03 March 2026 - 07:19 PM,10.40,124.88,033,2.3,011km N 60° W of Bontoc (Southern Leyte),011,N 60° W,Bontoc (Southern Leyte)
+2026-03-03T20:41:00.000Z,03 March 2026 - 08:41 PM,17.42,120.20,024,1.5,024km S 54° W of Caoayan (Ilocos Sur),024,S 54° W,Caoayan (Ilocos Sur)
+2026-03-03T20:25:00.000Z,03 March 2026 - 08:25 PM,15.64,121.78,006,1.5,026km S 61° E of Baler (Aurora),026,S 61° E,Baler (Aurora)
+2026-03-03T20:09:00.000Z,03 March 2026 - 08:09 PM,07.76,123.23,024,1.8,007km S 08° E of Tigbao (Zamboanga Del Sur),007,S 08° E,Tigbao (Zamboanga Del Sur)
