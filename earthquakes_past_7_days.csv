@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-03T16:54:00.000Z,03 March 2026 - 04:54 PM,19.88,121.35,012,2.8,070km N 11° W of Calayan (Cagayan),070,N 11° W,Calayan (Cagayan)
 2026-03-03T16:21:00.000Z,03 March 2026 - 04:21 PM,09.63,126.02,032,1.7,006km N 78° E of Socorro (Surigao Del Norte),006,N 78° E,Socorro (Surigao Del Norte)
 2026-03-03T15:28:00.000Z,03 March 2026 - 03:28 PM,07.45,126.65,026,2.4,016km N 34° E of Caraga (Davao Oriental),016,N 34° E,Caraga (Davao Oriental)
 2026-03-03T13:15:00.000Z,03 March 2026 - 01:15 PM,12.24,120.62,010,1.7,045km S 55° W of Rizal (Occidental Mindoro),045,S 55° W,Rizal (Occidental Mindoro)
@@ -290,4 +291,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-24T18:23:00.000Z,24 February 2026 - 06:23 PM,08.38,126.82,009,1.8,053km N 88° E of Hinatuan (Surigao Del Sur),053,N 88° E,Hinatuan (Surigao Del Sur)
 2026-02-24T18:02:00.000Z,24 February 2026 - 06:02 PM,11.96,120.92,002,2.2,046km S 33° W of Magsaysay (Occidental Mindoro),046,S 33° W,Magsaysay (Occidental Mindoro)
 2026-02-24T17:39:00.000Z,24 February 2026 - 05:39 PM,08.15,126.73,019,2.2,037km N 70° E of Lingig (Surigao Del Sur),037,N 70° E,Lingig (Surigao Del Sur)
-2026-02-24T16:49:00.000Z,24 February 2026 - 04:49 PM,09.11,126.24,029,2.0,008km N 61° E of City Of Tandag (Surigao Del Sur),008,N 61° E,City Of Tandag (Surigao Del Sur)
