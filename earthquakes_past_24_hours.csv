@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T20:18:00.000Z,04 March 2026 - 08:18 PM,11.73,125.41,061,2.1,005km S 60° W of San Julian (Eastern Samar),005,S 60° W,San Julian (Eastern Samar)
+2026-03-04T19:45:00.000Z,04 March 2026 - 07:45 PM,10.32,125.28,004,2.6,005km S 48° E of Hinundayan (Southern Leyte),005,S 48° E,Hinundayan (Southern Leyte)
 2026-03-04T19:10:00.000Z,04 March 2026 - 07:10 PM,19.09,121.48,033,1.9,019km S 02° E of Calayan (Cagayan),019,S 02° E,Calayan (Cagayan)
 2026-03-04T18:48:00.000Z,04 March 2026 - 06:48 PM,17.94,120.12,019,2.4,037km N 77° W of Sinait (Ilocos Sur),037,N 77° W,Sinait (Ilocos Sur)
 2026-03-04T18:19:00.000Z,04 March 2026 - 06:19 PM,06.88,127.26,003,2.9,095km S 71° E of Manay (Davao Oriental),095,S 71° E,Manay (Davao Oriental)
@@ -43,6 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-03T21:28:00.000Z,03 March 2026 - 09:28 PM,14.41,121.87,014,1.7,017km N 17° E of Cagbalete Island (Mauban) (Quezon),017,N 17° E,Cagbalete Island (Mauban) (Quezon)
 2026-03-03T20:41:00.000Z,03 March 2026 - 08:41 PM,17.42,120.20,024,1.5,024km S 54° W of Caoayan (Ilocos Sur),024,S 54° W,Caoayan (Ilocos Sur)
 2026-03-03T20:25:00.000Z,03 March 2026 - 08:25 PM,15.64,121.78,006,1.5,026km S 61° E of Baler (Aurora),026,S 61° E,Baler (Aurora)
-2026-03-03T20:09:00.000Z,03 March 2026 - 08:09 PM,07.76,123.23,024,1.8,007km S 08° E of Tigbao (Zamboanga Del Sur),007,S 08° E,Tigbao (Zamboanga Del Sur)
-2026-03-03T19:25:00.000Z,03 March 2026 - 07:25 PM,04.67,127.22,003,3.6,213km S 65° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),213,S 65° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-03T19:19:00.000Z,03 March 2026 - 07:19 PM,10.40,124.88,033,2.3,011km N 60° W of Bontoc (Southern Leyte),011,N 60° W,Bontoc (Southern Leyte)
