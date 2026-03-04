@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T14:39:00.000Z,04 March 2026 - 02:39 PM,13.06,122.77,010,2.4,024km S 72° W of San Pascual (Masbate),024,S 72° W,San Pascual (Masbate)
+2026-03-04T14:25:00.000Z,04 March 2026 - 02:25 PM,13.96,120.52,084,1.6,017km S 59° W of Lian (Batangas),017,S 59° W,Lian (Batangas)
 2026-03-04T13:54:00.000Z,04 March 2026 - 01:54 PM,16.16,122.19,021,2.6,015km S 29° E of Casiguran (Aurora),015,S 29° E,Casiguran (Aurora)
 2026-03-04T13:12:00.000Z,04 March 2026 - 01:12 PM,09.26,125.58,003,1.9,002km S 87° E of Santiago (Agusan Del Norte),002,S 87° E,Santiago (Agusan Del Norte)
 2026-03-04T12:50:00.000Z,04 March 2026 - 12:50 PM,13.78,120.55,095,1.9,010km S 54° W of Calatagan (Batangas),010,S 54° W,Calatagan (Batangas)

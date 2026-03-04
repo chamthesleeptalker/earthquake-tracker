@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T14:39:00.000Z,04 March 2026 - 02:39 PM,13.06,122.77,010,2.4,024km S 72° W of San Pascual (Masbate),024,S 72° W,San Pascual (Masbate)
+2026-03-04T14:25:00.000Z,04 March 2026 - 02:25 PM,13.96,120.52,084,1.6,017km S 59° W of Lian (Batangas),017,S 59° W,Lian (Batangas)
 2026-03-04T13:54:00.000Z,04 March 2026 - 01:54 PM,16.16,122.19,021,2.6,015km S 29° E of Casiguran (Aurora),015,S 29° E,Casiguran (Aurora)
 2026-03-04T13:12:00.000Z,04 March 2026 - 01:12 PM,09.26,125.58,003,1.9,002km S 87° E of Santiago (Agusan Del Norte),002,S 87° E,Santiago (Agusan Del Norte)
 2026-03-04T12:50:00.000Z,04 March 2026 - 12:50 PM,13.78,120.55,095,1.9,010km S 54° W of Calatagan (Batangas),010,S 54° W,Calatagan (Batangas)
@@ -276,4 +278,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-25T16:40:00.000Z,25 February 2026 - 04:40 PM,13.57,120.91,018,1.4,009km N 35° W of Puerto Galera (Oriental Mindoro),009,N 35° W,Puerto Galera (Oriental Mindoro)
 2026-02-25T15:51:00.000Z,25 February 2026 - 03:51 PM,15.74,121.93,018,3.9,040km S 87° E of Baler (Aurora),040,S 87° E,Baler (Aurora)
 2026-02-25T14:57:00.000Z,25 February 2026 - 02:57 PM,06.70,126.66,031,2.4,045km S 31° E of Tarragona (Davao Oriental),045,S 31° E,Tarragona (Davao Oriental)
-2026-02-25T13:54:00.000Z,25 February 2026 - 01:54 PM,07.17,126.92,015,2.6,043km S 83° E of Manay (Davao Oriental),043,S 83° E,Manay (Davao Oriental)
