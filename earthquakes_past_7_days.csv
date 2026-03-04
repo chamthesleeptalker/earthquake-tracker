@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-05T03:28:00.000Z,05 March 2026 - 03:28 AM,12.42,126.20,014,2.3,080km N 71° E of San Policarpo (Eastern Samar),080,N 71° E,San Policarpo (Eastern Samar)
+2026-03-05T03:14:00.000Z,05 March 2026 - 03:14 AM,17.36,120.18,019,2.6,029km N 83° W of San Esteban (Ilocos Sur),029,N 83° W,San Esteban (Ilocos Sur)
 2026-03-05T02:30:00.000Z,05 March 2026 - 02:30 AM,12.28,125.92,024,2.7,046km N 76° E of San Policarpo (Eastern Samar),046,N 76° E,San Policarpo (Eastern Samar)
 2026-03-05T01:23:00.000Z,05 March 2026 - 01:23 AM,13.17,122.63,016,1.4,018km S 16° W of San Andres (Quezon),018,S 16° W,San Andres (Quezon)
 2026-03-05T00:57:00.000Z,05 March 2026 - 12:57 AM,09.46,126.53,019,2.2,055km S 49° E of General Luna (Surigao Del Norte),055,S 49° E,General Luna (Surigao Del Norte)
@@ -285,5 +287,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T06:00:00.000Z,26 February 2026 - 06:00 AM,10.55,125.41,002,2.1,027km N 84° E of Silago (Southern Leyte),027,N 84° E,Silago (Southern Leyte)
 2026-02-26T04:56:00.000Z,26 February 2026 - 04:56 AM,15.67,120.15,024,1.5,021km S 51° W of Mangatarem (Pangasinan),021,S 51° W,Mangatarem (Pangasinan)
 2026-02-26T04:39:00.000Z,26 February 2026 - 04:39 AM,08.96,126.45,018,2.2,017km N 73° E of Cagwait (Surigao Del Sur),017,N 73° E,Cagwait (Surigao Del Sur)
-2026-02-26T03:27:00.000Z,26 February 2026 - 03:27 AM,07.80,126.98,011,1.7,053km N 62° E of Baganga (Davao Oriental),053,N 62° E,Baganga (Davao Oriental)
-2026-02-26T02:36:00.000Z,26 February 2026 - 02:36 AM,19.23,121.08,032,1.7,019km N 46° W of Dalupiri Island (Calayan) (Cagayan),019,N 46° W,Dalupiri Island (Calayan) (Cagayan)
