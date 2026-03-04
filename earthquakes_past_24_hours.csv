@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-05T02:30:00.000Z,05 March 2026 - 02:30 AM,12.28,125.92,024,2.7,046km N 76° E of San Policarpo (Eastern Samar),046,N 76° E,San Policarpo (Eastern Samar)
 2026-03-05T01:23:00.000Z,05 March 2026 - 01:23 AM,13.17,122.63,016,1.4,018km S 16° W of San Andres (Quezon),018,S 16° W,San Andres (Quezon)
 2026-03-05T00:57:00.000Z,05 March 2026 - 12:57 AM,09.46,126.53,019,2.2,055km S 49° E of General Luna (Surigao Del Norte),055,S 49° E,General Luna (Surigao Del Norte)
 2026-03-05T00:39:00.000Z,05 March 2026 - 12:39 AM,05.35,126.44,021,3.1,108km S 55° E of Jose Abad Santos (Davao Occidental),108,S 55° E,Jose Abad Santos (Davao Occidental)
@@ -41,6 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-04T03:28:00.000Z,04 March 2026 - 03:28 AM,08.61,126.39,043,2.2,024km S 26° E of Marihatag (Surigao Del Sur),024,S 26° E,Marihatag (Surigao Del Sur)
 2026-03-04T03:24:00.000Z,04 March 2026 - 03:24 AM,07.95,127.29,010,4.6,090km N 62° E of Baganga (Davao Oriental),090,N 62° E,Baganga (Davao Oriental)
 2026-03-04T02:52:00.000Z,04 March 2026 - 02:52 AM,06.59,123.68,014,2.1,041km N 85° W of Kalamansig (Sultan Kudarat),041,N 85° W,Kalamansig (Sultan Kudarat)
-2026-03-04T02:06:00.000Z,04 March 2026 - 02:06 AM,10.20,125.34,010,1.9,012km S 50° E of Anahawan (Southern Leyte),012,S 50° E,Anahawan (Southern Leyte)
-2026-03-04T02:02:00.000Z,04 March 2026 - 02:02 AM,13.16,121.15,036,1.7,014km S 85° W of Victoria (Oriental Mindoro),014,S 85° W,Victoria (Oriental Mindoro)
-2026-03-04T01:35:00.000Z,04 March 2026 - 01:35 AM,10.41,125.08,004,1.7,013km N 62° E of Bontoc (Southern Leyte),013,N 62° E,Bontoc (Southern Leyte)
