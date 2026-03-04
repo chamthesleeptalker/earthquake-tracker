@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T18:19:00.000Z,04 March 2026 - 06:19 PM,06.88,127.26,003,2.9,095km S 71° E of Manay (Davao Oriental),095,S 71° E,Manay (Davao Oriental)
+2026-03-04T17:35:00.000Z,04 March 2026 - 05:35 PM,08.65,123.43,010,2.4,002km N 66° E of City Of Dapitan (Zamboanga Del Norte),002,N 66° E,City Of Dapitan (Zamboanga Del Norte)
 2026-03-04T16:58:00.000Z,04 March 2026 - 04:58 PM,12.85,121.02,008,2.4,026km N 90° E of Sablayan (Occidental Mindoro),026,N 90° E,Sablayan (Occidental Mindoro)
 2026-03-04T15:11:00.000Z,04 March 2026 - 03:11 PM,10.57,122.50,035,1.9,007km N 42° W of Nueva Valencia (Guimaras),007,N 42° W,Nueva Valencia (Guimaras)
 2026-03-04T14:39:00.000Z,04 March 2026 - 02:39 PM,13.06,122.77,010,2.4,024km S 72° W of San Pascual (Masbate),024,S 72° W,San Pascual (Masbate)
@@ -273,7 +275,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-25T21:55:00.000Z,25 February 2026 - 09:55 PM,13.32,120.47,033,2.0,011km S 05° E of Paluan (Occidental Mindoro),011,S 05° E,Paluan (Occidental Mindoro)
 2026-02-25T20:39:00.000Z,25 February 2026 - 08:39 PM,06.45,123.86,004,1.9,024km S 62° W of Kalamansig (Sultan Kudarat),024,S 62° W,Kalamansig (Sultan Kudarat)
 2026-02-25T19:05:00.000Z,25 February 2026 - 07:05 PM,17.13,120.58,100,1.7,004km S 70° W of Gregorio Del Pilar (Ilocos Sur),004,S 70° W,Gregorio Del Pilar (Ilocos Sur)
-2026-02-25T18:17:00.000Z,25 February 2026 - 06:17 PM,10.78,124.22,036,2.3,022km S 73° E of Borbon (Cebu),022,S 73° E,Borbon (Cebu)
-2026-02-25T18:14:00.000Z,25 February 2026 - 06:14 PM,08.36,124.69,023,1.7,001km S 09° E of Libona (Bukidnon),001,S 09° E,Libona (Bukidnon)
-2026-02-25T18:05:00.000Z,25 February 2026 - 06:05 PM,08.50,124.94,034,1.0,007km S 56° E of Malitbog (Bukidnon),007,S 56° E,Malitbog (Bukidnon)
-2026-02-25T17:11:00.000Z,25 February 2026 - 05:11 PM,18.03,121.69,082,2.1,006km S 55° E of Gattaran (Cagayan),006,S 55° E,Gattaran (Cagayan)
