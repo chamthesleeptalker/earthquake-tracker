@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-04T19:10:00.000Z,04 March 2026 - 07:10 PM,19.09,121.48,033,1.9,019km S 02° E of Calayan (Cagayan),019,S 02° E,Calayan (Cagayan)
+2026-03-04T18:48:00.000Z,04 March 2026 - 06:48 PM,17.94,120.12,019,2.4,037km N 77° W of Sinait (Ilocos Sur),037,N 77° W,Sinait (Ilocos Sur)
 2026-03-04T18:19:00.000Z,04 March 2026 - 06:19 PM,06.88,127.26,003,2.9,095km S 71° E of Manay (Davao Oriental),095,S 71° E,Manay (Davao Oriental)
 2026-03-04T17:35:00.000Z,04 March 2026 - 05:35 PM,08.65,123.43,010,2.4,002km N 66° E of City Of Dapitan (Zamboanga Del Norte),002,N 66° E,City Of Dapitan (Zamboanga Del Norte)
 2026-03-04T16:58:00.000Z,04 March 2026 - 04:58 PM,12.85,121.02,008,2.4,026km N 90° E of Sablayan (Occidental Mindoro),026,N 90° E,Sablayan (Occidental Mindoro)
@@ -274,4 +276,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T02:36:00.000Z,26 February 2026 - 02:36 AM,19.23,121.08,032,1.7,019km N 46° W of Dalupiri Island (Calayan) (Cagayan),019,N 46° W,Dalupiri Island (Calayan) (Cagayan)
 2026-02-25T21:55:00.000Z,25 February 2026 - 09:55 PM,13.32,120.47,033,2.0,011km S 05° E of Paluan (Occidental Mindoro),011,S 05° E,Paluan (Occidental Mindoro)
 2026-02-25T20:39:00.000Z,25 February 2026 - 08:39 PM,06.45,123.86,004,1.9,024km S 62° W of Kalamansig (Sultan Kudarat),024,S 62° W,Kalamansig (Sultan Kudarat)
-2026-02-25T19:05:00.000Z,25 February 2026 - 07:05 PM,17.13,120.58,100,1.7,004km S 70° W of Gregorio Del Pilar (Ilocos Sur),004,S 70° W,Gregorio Del Pilar (Ilocos Sur)
