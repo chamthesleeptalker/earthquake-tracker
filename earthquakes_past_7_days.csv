@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-05T01:23:00.000Z,05 March 2026 - 01:23 AM,13.17,122.63,016,1.4,018km S 16° W of San Andres (Quezon),018,S 16° W,San Andres (Quezon)
+2026-03-05T00:57:00.000Z,05 March 2026 - 12:57 AM,09.46,126.53,019,2.2,055km S 49° E of General Luna (Surigao Del Norte),055,S 49° E,General Luna (Surigao Del Norte)
+2026-03-05T00:39:00.000Z,05 March 2026 - 12:39 AM,05.35,126.44,021,3.1,108km S 55° E of Jose Abad Santos (Davao Occidental),108,S 55° E,Jose Abad Santos (Davao Occidental)
 2026-03-05T00:13:00.000Z,05 March 2026 - 12:13 AM,11.87,125.45,017,1.6,005km S 45° E of Taft (Eastern Samar),005,S 45° E,Taft (Eastern Samar)
 2026-03-04T23:40:00.000Z,04 March 2026 - 11:40 PM,14.21,123.28,002,1.9,021km N 07° E of Siruma (Camarines Sur),021,N 07° E,Siruma (Camarines Sur)
 2026-03-04T22:38:00.000Z,04 March 2026 - 10:38 PM,06.44,123.64,017,3.0,047km S 75° W of Kalamansig (Sultan Kudarat),047,S 75° W,Kalamansig (Sultan Kudarat)
