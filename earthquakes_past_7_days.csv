@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-05T22:11:00.000Z,05 March 2026 - 10:11 PM,16.24,120.06,023,2.6,013km N 41° E of City Of Alaminos (Pangasinan),013,N 41° E,City Of Alaminos (Pangasinan)
+2026-03-05T21:59:00.000Z,05 March 2026 - 09:59 PM,18.52,120.48,035,1.8,017km N 88° W of Burgos (Ilocos Norte),017,N 88° W,Burgos (Ilocos Norte)
 2026-03-05T21:06:00.000Z,05 March 2026 - 09:06 PM,18.80,120.84,020,1.8,027km N 11° E of Pagudpud (Ilocos Norte),027,N 11° E,Pagudpud (Ilocos Norte)
 2026-03-05T20:48:00.000Z,05 March 2026 - 08:48 PM,17.26,120.66,088,2.5,007km S 87° W of Tubo (Abra),007,S 87° W,Tubo (Abra)
 2026-03-05T20:46:00.000Z,05 March 2026 - 08:46 PM,10.98,122.27,030,2.0,016km S 82° E of Valderrama (Antique),016,S 82° E,Valderrama (Antique)
@@ -293,4 +295,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T22:47:00.000Z,26 February 2026 - 10:47 PM,05.03,126.21,020,2.8,096km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),096,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-02-26T22:42:00.000Z,26 February 2026 - 10:42 PM,11.11,124.07,005,2.9,012km N 53° E of City Of Bogo (Cebu),012,N 53° E,City Of Bogo (Cebu)
 2026-02-26T22:20:00.000Z,26 February 2026 - 10:20 PM,07.82,126.92,011,2.0,048km N 55° E of Baganga (Davao Oriental),048,N 55° E,Baganga (Davao Oriental)
-2026-02-26T21:20:00.000Z,26 February 2026 - 09:20 PM,14.67,122.21,032,1.2,009km S 09° W of Patnanungan (Quezon),009,S 09° W,Patnanungan (Quezon)
