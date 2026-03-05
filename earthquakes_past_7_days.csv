@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-05T16:53:00.000Z,05 March 2026 - 04:53 PM,07.22,126.56,015,2.1,002km N 55° E of Manay (Davao Oriental),002,N 55° E,Manay (Davao Oriental)
 2026-03-05T14:46:00.000Z,05 March 2026 - 02:46 PM,13.97,120.55,094,1.4,014km S 55° W of Lian (Batangas),014,S 55° W,Lian (Batangas)
 2026-03-05T11:37:00.000Z,05 March 2026 - 11:37 AM,12.27,120.68,042,1.4,037km S 57° W of Rizal (Occidental Mindoro),037,S 57° W,Rizal (Occidental Mindoro)
 2026-03-05T09:33:00.000Z,05 March 2026 - 09:33 AM,08.37,126.09,015,1.9,010km S 80° E of Rosario (Agusan Del Sur),010,S 80° E,Rosario (Agusan Del Sur)
@@ -288,5 +289,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-26T19:10:00.000Z,26 February 2026 - 07:10 PM,05.76,126.05,024,3.0,048km S 69° E of Jose Abad Santos (Davao Occidental),048,S 69° E,Jose Abad Santos (Davao Occidental)
 2026-02-26T19:04:00.000Z,26 February 2026 - 07:04 PM,10.23,123.04,008,2.8,006km N 66° E of Isabela (Negros Occidental),006,N 66° E,Isabela (Negros Occidental)
 2026-02-26T18:11:00.000Z,26 February 2026 - 06:11 PM,12.12,125.69,012,3.2,021km S 73° E of San Policarpo (Eastern Samar),021,S 73° E,San Policarpo (Eastern Samar)
-2026-02-26T16:39:00.000Z,26 February 2026 - 04:39 PM,04.18,125.67,060,2.9,139km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),139,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-26T14:54:00.000Z,26 February 2026 - 02:54 PM,10.71,125.72,025,2.3,004km S 12° W of Homonhon Island (Guiuan) (Eastern Samar),004,S 12° W,Homonhon Island (Guiuan) (Eastern Samar)
