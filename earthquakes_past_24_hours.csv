@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-05T23:32:00.000Z,05 March 2026 - 11:32 PM,09.55,126.08,029,1.9,015km S 58° E of Socorro (Surigao Del Norte),015,S 58° E,Socorro (Surigao Del Norte)
 2026-03-05T22:11:00.000Z,05 March 2026 - 10:11 PM,16.24,120.06,023,2.6,013km N 41° E of City Of Alaminos (Pangasinan),013,N 41° E,City Of Alaminos (Pangasinan)
 2026-03-05T21:59:00.000Z,05 March 2026 - 09:59 PM,18.52,120.48,035,1.8,017km N 88° W of Burgos (Ilocos Norte),017,N 88° W,Burgos (Ilocos Norte)
 2026-03-05T21:06:00.000Z,05 March 2026 - 09:06 PM,18.80,120.84,020,1.8,027km N 11° E of Pagudpud (Ilocos Norte),027,N 11° E,Pagudpud (Ilocos Norte)
@@ -29,6 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-05T00:39:00.000Z,05 March 2026 - 12:39 AM,05.35,126.44,021,3.1,108km S 55° E of Jose Abad Santos (Davao Occidental),108,S 55° E,Jose Abad Santos (Davao Occidental)
 2026-03-05T00:13:00.000Z,05 March 2026 - 12:13 AM,11.87,125.45,017,1.6,005km S 45° E of Taft (Eastern Samar),005,S 45° E,Taft (Eastern Samar)
 2026-03-04T23:40:00.000Z,04 March 2026 - 11:40 PM,14.21,123.28,002,1.9,021km N 07° E of Siruma (Camarines Sur),021,N 07° E,Siruma (Camarines Sur)
-2026-03-04T22:38:00.000Z,04 March 2026 - 10:38 PM,06.44,123.64,017,3.0,047km S 75° W of Kalamansig (Sultan Kudarat),047,S 75° W,Kalamansig (Sultan Kudarat)
-2026-03-04T22:28:00.000Z,04 March 2026 - 10:28 PM,09.94,126.21,010,3.3,013km N 88° E of San Isidro (Surigao Del Norte),013,N 88° E,San Isidro (Surigao Del Norte)
-2026-03-04T22:28:00.000Z,04 March 2026 - 10:28 PM,09.94,126.21,010,3.3,013km N 88° E of San Isidro (Surigao Del Norte),013,N 88° E,San Isidro (Surigao Del Norte)
