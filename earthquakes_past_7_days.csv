@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T05:21:00.000Z,06 March 2026 - 05:21 AM,10.34,125.19,032,1.9,006km S 09° W of Hinunangan (Southern Leyte),006,S 09° W,Hinunangan (Southern Leyte)
+2026-03-06T04:55:00.000Z,06 March 2026 - 04:55 AM,06.62,123.93,006,1.8,015km N 61° W of Kalamansig (Sultan Kudarat),015,N 61° W,Kalamansig (Sultan Kudarat)
+2026-03-06T04:51:00.000Z,06 March 2026 - 04:51 AM,06.27,123.65,033,2.0,054km S 54° W of Kalamansig (Sultan Kudarat),054,S 54° W,Kalamansig (Sultan Kudarat)
+2026-03-06T04:33:00.000Z,06 March 2026 - 04:33 AM,08.82,126.40,034,3.0,011km N 79° E of Marihatag (Surigao Del Sur),011,N 79° E,Marihatag (Surigao Del Sur)
 2026-03-06T04:25:00.000Z,06 March 2026 - 04:25 AM,06.36,123.53,005,2.9,062km S 70° W of Kalamansig (Sultan Kudarat),062,S 70° W,Kalamansig (Sultan Kudarat)
 2026-03-06T04:15:00.000Z,06 March 2026 - 04:15 AM,16.57,119.87,026,2.9,020km N 06° W of Bolinao (Pangasinan),020,N 06° W,Bolinao (Pangasinan)
 2026-03-06T04:13:00.000Z,06 March 2026 - 04:13 AM,06.57,125.21,008,2.2,007km S 38° W of Kiblawan (Davao Del Sur),007,S 38° W,Kiblawan (Davao Del Sur)
@@ -289,4 +293,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T06:06:00.000Z,27 February 2026 - 06:06 AM,19.18,121.28,029,2.2,012km N 43° E of Dalupiri Island (Calayan) (Cagayan),012,N 43° E,Dalupiri Island (Calayan) (Cagayan)
 2026-02-27T06:01:00.000Z,27 February 2026 - 06:01 AM,06.45,123.77,030,1.7,034km S 69° W of Kalamansig (Sultan Kudarat),034,S 69° W,Kalamansig (Sultan Kudarat)
 2026-02-27T05:54:00.000Z,27 February 2026 - 05:54 AM,05.81,126.00,143,2.7,041km S 74° E of Jose Abad Santos (Davao Occidental),041,S 74° E,Jose Abad Santos (Davao Occidental)
-2026-02-27T04:44:00.000Z,27 February 2026 - 04:44 AM,08.69,126.54,027,2.5,029km S 67° E of Marihatag (Surigao Del Sur),029,S 67° E,Marihatag (Surigao Del Sur)
