@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T03:21:00.000Z,06 March 2026 - 03:21 AM,14.62,121.91,005,1.7,011km S 14° W of Polillo (Quezon),011,S 14° W,Polillo (Quezon)
+2026-03-06T02:31:00.000Z,06 March 2026 - 02:31 AM,07.19,125.82,070,2.0,011km N 49° W of Pantukan (Davao De Oro),011,N 49° W,Pantukan (Davao De Oro)
 2026-03-06T02:01:00.000Z,06 March 2026 - 02:01 AM,11.41,124.48,008,2.1,005km N 13° W of Leyte (Leyte),005,N 13° W,Leyte (Leyte)
 2026-03-06T02:01:00.000Z,06 March 2026 - 02:01 AM,06.42,123.85,010,2.0,027km S 55° W of Kalamansig (Sultan Kudarat),027,S 55° W,Kalamansig (Sultan Kudarat)
 2026-03-06T01:49:00.000Z,06 March 2026 - 01:49 AM,13.44,122.99,002,1.8,010km S 35° W of Pasacao (Camarines Sur),010,S 35° W,Pasacao (Camarines Sur)
@@ -30,5 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-05T05:18:00.000Z,05 March 2026 - 05:18 AM,10.28,125.67,104,2.4,013km S 50° E of Loreto (Dinagat Islands),013,S 50° E,Loreto (Dinagat Islands)
 2026-03-05T04:56:00.000Z,05 March 2026 - 04:56 AM,10.06,126.17,028,2.1,009km N 48° E of Burgos (Surigao Del Norte),009,N 48° E,Burgos (Surigao Del Norte)
 2026-03-05T03:28:00.000Z,05 March 2026 - 03:28 AM,12.42,126.20,014,2.3,080km N 71° E of San Policarpo (Eastern Samar),080,N 71° E,San Policarpo (Eastern Samar)
-2026-03-05T03:14:00.000Z,05 March 2026 - 03:14 AM,17.36,120.18,019,2.6,029km N 83° W of San Esteban (Ilocos Sur),029,N 83° W,San Esteban (Ilocos Sur)
-2026-03-05T02:30:00.000Z,05 March 2026 - 02:30 AM,12.28,125.92,024,2.7,046km N 76° E of San Policarpo (Eastern Samar),046,N 76° E,San Policarpo (Eastern Samar)

@@ -1,8 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-06T02:01:00.000Z,06 March 2026 - 02:01 AM,11.41,124.48,008,2.1,005km N 13° W of Leyte (Leyte),005,N 13° W,Leyte (Leyte)
-2026-03-06T02:01:00.000Z,06 March 2026 - 02:01 AM,06.42,123.85,010,2.0,027km S 55° W of Kalamansig (Sultan Kudarat),027,S 55° W,Kalamansig (Sultan Kudarat)
-2026-03-06T01:49:00.000Z,06 March 2026 - 01:49 AM,13.44,122.99,002,1.8,010km S 35° W of Pasacao (Camarines Sur),010,S 35° W,Pasacao (Camarines Sur)
-2026-03-06T01:45:00.000Z,06 March 2026 - 01:45 AM,06.75,125.19,028,3.3,003km S 83° E of Magsaysay (Davao Del Sur),003,S 83° E,Magsaysay (Davao Del Sur)
-2026-03-06T01:39:00.000Z,06 March 2026 - 01:39 AM,06.41,125.32,010,1.9,006km N 53° E of Malungon (Sarangani),006,N 53° E,Malungon (Sarangani)
-2026-03-06T01:21:00.000Z,06 March 2026 - 01:21 AM,08.04,126.54,011,1.9,014km N 88° E of Lingig (Surigao Del Sur),014,N 88° E,Lingig (Surigao Del Sur)
-2026-03-06T01:06:00.000Z,06 March 2026 - 01:06 AM,07.42,126.77,009,1.7,024km N 66° E of Caraga (Davao Oriental),024,N 66° E,Caraga (Davao Oriental)
+2026-03-06T03:21:00.000Z,06 March 2026 - 03:21 AM,14.62,121.91,005,1.7,011km S 14° W of Polillo (Quezon),011,S 14° W,Polillo (Quezon)
+2026-03-06T02:31:00.000Z,06 March 2026 - 02:31 AM,07.19,125.82,070,2.0,011km N 49° W of Pantukan (Davao De Oro),011,N 49° W,Pantukan (Davao De Oro)
