@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T04:25:00.000Z,06 March 2026 - 04:25 AM,06.36,123.53,005,2.9,062km S 70° W of Kalamansig (Sultan Kudarat),062,S 70° W,Kalamansig (Sultan Kudarat)
+2026-03-06T04:15:00.000Z,06 March 2026 - 04:15 AM,16.57,119.87,026,2.9,020km N 06° W of Bolinao (Pangasinan),020,N 06° W,Bolinao (Pangasinan)
+2026-03-06T04:13:00.000Z,06 March 2026 - 04:13 AM,06.57,125.21,008,2.2,007km S 38° W of Kiblawan (Davao Del Sur),007,S 38° W,Kiblawan (Davao Del Sur)
 2026-03-06T03:21:00.000Z,06 March 2026 - 03:21 AM,14.62,121.91,005,1.7,011km S 14° W of Polillo (Quezon),011,S 14° W,Polillo (Quezon)
 2026-03-06T02:31:00.000Z,06 March 2026 - 02:31 AM,07.19,125.82,070,2.0,011km N 49° W of Pantukan (Davao De Oro),011,N 49° W,Pantukan (Davao De Oro)
 2026-03-06T02:01:00.000Z,06 March 2026 - 02:01 AM,11.41,124.48,008,2.1,005km N 13° W of Leyte (Leyte),005,N 13° W,Leyte (Leyte)
@@ -287,4 +290,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T06:01:00.000Z,27 February 2026 - 06:01 AM,06.45,123.77,030,1.7,034km S 69° W of Kalamansig (Sultan Kudarat),034,S 69° W,Kalamansig (Sultan Kudarat)
 2026-02-27T05:54:00.000Z,27 February 2026 - 05:54 AM,05.81,126.00,143,2.7,041km S 74° E of Jose Abad Santos (Davao Occidental),041,S 74° E,Jose Abad Santos (Davao Occidental)
 2026-02-27T04:44:00.000Z,27 February 2026 - 04:44 AM,08.69,126.54,027,2.5,029km S 67° E of Marihatag (Surigao Del Sur),029,S 67° E,Marihatag (Surigao Del Sur)
-2026-02-27T03:59:00.000Z,27 February 2026 - 03:59 AM,12.78,120.76,034,1.4,008km S 16° W of Sablayan (Occidental Mindoro),008,S 16° W,Sablayan (Occidental Mindoro)

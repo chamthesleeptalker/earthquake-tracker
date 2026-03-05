@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T04:25:00.000Z,06 March 2026 - 04:25 AM,06.36,123.53,005,2.9,062km S 70° W of Kalamansig (Sultan Kudarat),062,S 70° W,Kalamansig (Sultan Kudarat)
+2026-03-06T04:15:00.000Z,06 March 2026 - 04:15 AM,16.57,119.87,026,2.9,020km N 06° W of Bolinao (Pangasinan),020,N 06° W,Bolinao (Pangasinan)
+2026-03-06T04:13:00.000Z,06 March 2026 - 04:13 AM,06.57,125.21,008,2.2,007km S 38° W of Kiblawan (Davao Del Sur),007,S 38° W,Kiblawan (Davao Del Sur)
 2026-03-06T03:21:00.000Z,06 March 2026 - 03:21 AM,14.62,121.91,005,1.7,011km S 14° W of Polillo (Quezon),011,S 14° W,Polillo (Quezon)
 2026-03-06T02:31:00.000Z,06 March 2026 - 02:31 AM,07.19,125.82,070,2.0,011km N 49° W of Pantukan (Davao De Oro),011,N 49° W,Pantukan (Davao De Oro)
 2026-03-06T02:01:00.000Z,06 March 2026 - 02:01 AM,11.41,124.48,008,2.1,005km N 13° W of Leyte (Leyte),005,N 13° W,Leyte (Leyte)
@@ -31,4 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-05T06:49:00.000Z,05 March 2026 - 06:49 AM,09.67,122.25,022,2.5,023km S 61° W of City Of Sipalay (Negros Occidental),023,S 61° W,City Of Sipalay (Negros Occidental)
 2026-03-05T05:18:00.000Z,05 March 2026 - 05:18 AM,10.28,125.67,104,2.4,013km S 50° E of Loreto (Dinagat Islands),013,S 50° E,Loreto (Dinagat Islands)
 2026-03-05T04:56:00.000Z,05 March 2026 - 04:56 AM,10.06,126.17,028,2.1,009km N 48° E of Burgos (Surigao Del Norte),009,N 48° E,Burgos (Surigao Del Norte)
-2026-03-05T03:28:00.000Z,05 March 2026 - 03:28 AM,12.42,126.20,014,2.3,080km N 71° E of San Policarpo (Eastern Samar),080,N 71° E,San Policarpo (Eastern Samar)
