@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T19:31:00.000Z,06 March 2026 - 07:31 PM,07.51,126.99,014,2.0,048km S 81° E of Baganga (Davao Oriental),048,S 81° E,Baganga (Davao Oriental)
 2026-03-06T19:18:00.000Z,06 March 2026 - 07:18 PM,11.76,125.28,030,1.7,019km N 87° W of San Julian (Eastern Samar),019,N 87° W,San Julian (Eastern Samar)
 2026-03-06T19:03:00.000Z,06 March 2026 - 07:03 PM,12.26,125.74,023,2.4,027km N 71° E of San Policarpo (Eastern Samar),027,N 71° E,San Policarpo (Eastern Samar)
 2026-03-06T19:00:00.000Z,06 March 2026 - 07:00 PM,07.32,126.42,022,2.4,018km N 46° W of Manay (Davao Oriental),018,N 46° W,Manay (Davao Oriental)
@@ -38,4 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-05T20:30:00.000Z,05 March 2026 - 08:30 PM,10.67,122.36,028,2.0,002km S 81° W of Tigbauan (Iloilo),002,S 81° W,Tigbauan (Iloilo)
 2026-03-05T20:28:00.000Z,05 March 2026 - 08:28 PM,05.69,126.55,051,3.2,103km S 76° E of Jose Abad Santos (Davao Occidental),103,S 76° E,Jose Abad Santos (Davao Occidental)
 2026-03-05T20:13:00.000Z,05 March 2026 - 08:13 PM,10.48,122.51,004,1.9,006km S 31° W of Nueva Valencia (Guimaras),006,S 31° W,Nueva Valencia (Guimaras)
-2026-03-05T19:20:00.000Z,05 March 2026 - 07:20 PM,14.58,122.40,028,1.6,015km S 31° E of Jomalig (Quezon),015,S 31° E,Jomalig (Quezon)
