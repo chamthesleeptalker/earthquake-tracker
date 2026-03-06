@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T03:08:00.000Z,07 March 2026 - 03:08 AM,17.72,120.56,028,1.6,012km N 74° W of Danglas (Abra),012,N 74° W,Danglas (Abra)
+2026-03-07T03:01:00.000Z,07 March 2026 - 03:01 AM,14.96,121.98,018,2.0,013km N 05° E of Burdeos (Quezon),013,N 05° E,Burdeos (Quezon)
+2026-03-07T02:36:00.000Z,07 March 2026 - 02:36 AM,14.70,121.89,024,2.0,006km S 73° W of Polillo (Quezon),006,S 73° W,Polillo (Quezon)
 2026-03-07T02:32:00.000Z,07 March 2026 - 02:32 AM,12.08,125.81,010,3.3,035km S 71° E of San Policarpo (Eastern Samar),035,S 71° E,San Policarpo (Eastern Samar)
 2026-03-07T02:21:00.000Z,07 March 2026 - 02:21 AM,12.29,126.11,015,3.6,067km N 79° E of San Policarpo (Eastern Samar),067,N 79° E,San Policarpo (Eastern Samar)
 2026-03-07T02:18:00.000Z,07 March 2026 - 02:18 AM,08.79,126.33,004,1.7,003km S 75° E of Marihatag (Surigao Del Sur),003,S 75° E,Marihatag (Surigao Del Sur)
-2026-03-07T01:54:00.000Z,07 March 2026 - 01:54 AM,11.97,121.87,031,2.2,009km N 25° W of Malay (Aklan),009,N 25° W,Malay (Aklan)
-2026-03-07T01:44:00.000Z,07 March 2026 - 01:44 AM,12.27,124.52,014,2.8,012km S 75° W of Lope De Vega (Northern Samar),012,S 75° W,Lope De Vega (Northern Samar)
