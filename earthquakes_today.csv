@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T01:15:00.000Z,07 March 2026 - 01:15 AM,17.32,121.08,010,1.6,010km S 70° W of Lubuagan (Kalinga),010,S 70° W,Lubuagan (Kalinga)
+2026-03-07T01:07:00.000Z,07 March 2026 - 01:07 AM,11.12,124.07,006,1.9,013km N 50° E of City Of Bogo (Cebu),013,N 50° E,City Of Bogo (Cebu)
+2026-03-07T01:03:00.000Z,07 March 2026 - 01:03 AM,12.16,125.74,020,2.1,025km S 85° E of San Policarpo (Eastern Samar),025,S 85° E,San Policarpo (Eastern Samar)
 2026-03-07T00:11:00.000Z,07 March 2026 - 12:11 AM,12.08,125.93,006,3.2,047km S 77° E of San Policarpo (Eastern Samar),047,S 77° E,San Policarpo (Eastern Samar)
