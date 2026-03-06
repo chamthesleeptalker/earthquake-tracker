@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T06:24:00.000Z,07 March 2026 - 06:24 AM,06.21,123.81,033,1.8,047km S 35° W of Kalamansig (Sultan Kudarat),047,S 35° W,Kalamansig (Sultan Kudarat)
 2026-03-07T05:32:00.000Z,07 March 2026 - 05:32 AM,14.95,122.07,002,2.4,017km N 42° E of Burdeos (Quezon),017,N 42° E,Burdeos (Quezon)
 2026-03-07T04:36:00.000Z,07 March 2026 - 04:36 AM,14.98,121.96,010,3.5,015km N 3° W of Burdeos (Quezon),015,N 3° W,Burdeos (Quezon)
 2026-03-07T03:54:00.000Z,07 March 2026 - 03:54 AM,06.70,126.30,044,2.8,026km N 77° E of Governor Generoso (Davao Oriental),026,N 77° E,Governor Generoso (Davao Oriental)
@@ -285,4 +286,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-28T08:29:00.000Z,28 February 2026 - 08:29 AM,06.59,125.62,011,2.1,017km N 75° E of Santa Maria (Davao Occidental),017,N 75° E,Santa Maria (Davao Occidental)
 2026-02-28T07:41:00.000Z,28 February 2026 - 07:41 AM,14.98,119.13,022,2.1,098km S 59° W of Palauig (Zambales),098,S 59° W,Palauig (Zambales)
 2026-02-28T06:51:00.000Z,28 February 2026 - 06:51 AM,14.69,119.53,034,1.8,067km S 65° W of San Antonio (Zambales),067,S 65° W,San Antonio (Zambales)
-2026-02-28T05:40:00.000Z,28 February 2026 - 05:40 AM,07.91,126.95,005,3.1,057km N 49° E of Baganga (Davao Oriental),057,N 49° E,Baganga (Davao Oriental)
