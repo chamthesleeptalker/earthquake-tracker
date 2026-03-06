@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T19:18:00.000Z,06 March 2026 - 07:18 PM,11.76,125.28,030,1.7,019km N 87° W of San Julian (Eastern Samar),019,N 87° W,San Julian (Eastern Samar)
+2026-03-06T19:03:00.000Z,06 March 2026 - 07:03 PM,12.26,125.74,023,2.4,027km N 71° E of San Policarpo (Eastern Samar),027,N 71° E,San Policarpo (Eastern Samar)
+2026-03-06T19:00:00.000Z,06 March 2026 - 07:00 PM,07.32,126.42,022,2.4,018km N 46° W of Manay (Davao Oriental),018,N 46° W,Manay (Davao Oriental)
 2026-03-06T18:06:00.000Z,06 March 2026 - 06:06 PM,12.12,125.72,016,2.5,024km S 74° E of San Policarpo (Eastern Samar),024,S 74° E,San Policarpo (Eastern Samar)
 2026-03-06T16:48:00.000Z,06 March 2026 - 04:48 PM,14.96,122.01,010,3.4,013km N 19° E of Burdeos (Quezon),013,N 19° E,Burdeos (Quezon)
 2026-03-06T16:35:00.000Z,06 March 2026 - 04:35 PM,07.31,123.74,024,2.1,033km S 83° W of Bongo Island (Parang) (Maguindanao Del Norte),033,S 83° W,Bongo Island (Parang) (Maguindanao Del Norte)
@@ -277,4 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T21:55:00.000Z,27 February 2026 - 09:55 PM,09.84,124.20,042,1.8,002km N 03° W of Carmen (Bohol),002,N 03° W,Carmen (Bohol)
 2026-02-27T20:55:00.000Z,27 February 2026 - 08:55 PM,07.74,126.38,011,1.7,010km S 59° W of Cateel (Davao Oriental),010,S 59° W,Cateel (Davao Oriental)
 2026-02-27T20:00:00.000Z,27 February 2026 - 08:00 PM,06.62,126.31,051,3.8,026km S 82° E of Governor Generoso (Davao Oriental),026,S 82° E,Governor Generoso (Davao Oriental)
-2026-02-27T18:27:00.000Z,27 February 2026 - 06:27 PM,20.07,120.85,007,2.4,111km S 75° W of Sabtang (Batanes),111,S 75° W,Sabtang (Batanes)
