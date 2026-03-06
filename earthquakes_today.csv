@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T21:51:00.000Z,06 March 2026 - 09:51 PM,07.58,126.87,052,2.0,034km N 89° E of Baganga (Davao Oriental),034,N 89° E,Baganga (Davao Oriental)
 2026-03-06T21:11:00.000Z,06 March 2026 - 09:11 PM,12.17,125.35,063,1.8,011km N 86° E of Maslog (Eastern Samar),011,N 86° E,Maslog (Eastern Samar)
 2026-03-06T21:05:00.000Z,06 March 2026 - 09:05 PM,05.90,126.33,008,2.5,076km S 89° E of Jose Abad Santos (Davao Occidental),076,S 89° E,Jose Abad Santos (Davao Occidental)
 2026-03-06T20:54:00.000Z,06 March 2026 - 08:54 PM,16.38,120.08,024,1.8,017km N 54° E of Anda (Pangasinan),017,N 54° E,Anda (Pangasinan)
