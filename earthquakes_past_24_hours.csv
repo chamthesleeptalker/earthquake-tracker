@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T18:06:00.000Z,06 March 2026 - 06:06 PM,12.12,125.72,016,2.5,024km S 74° E of San Policarpo (Eastern Samar),024,S 74° E,San Policarpo (Eastern Samar)
 2026-03-06T16:48:00.000Z,06 March 2026 - 04:48 PM,14.96,122.01,010,3.4,013km N 19° E of Burdeos (Quezon),013,N 19° E,Burdeos (Quezon)
 2026-03-06T16:35:00.000Z,06 March 2026 - 04:35 PM,07.31,123.74,024,2.1,033km S 83° W of Bongo Island (Parang) (Maguindanao Del Norte),033,S 83° W,Bongo Island (Parang) (Maguindanao Del Norte)
 2026-03-06T16:28:00.000Z,06 March 2026 - 04:28 PM,13.62,120.66,098,1.8,023km S 07° E of Calatagan (Batangas),023,S 07° E,Calatagan (Batangas)
@@ -35,5 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-05T20:28:00.000Z,05 March 2026 - 08:28 PM,05.69,126.55,051,3.2,103km S 76° E of Jose Abad Santos (Davao Occidental),103,S 76° E,Jose Abad Santos (Davao Occidental)
 2026-03-05T20:13:00.000Z,05 March 2026 - 08:13 PM,10.48,122.51,004,1.9,006km S 31° W of Nueva Valencia (Guimaras),006,S 31° W,Nueva Valencia (Guimaras)
 2026-03-05T19:20:00.000Z,05 March 2026 - 07:20 PM,14.58,122.40,028,1.6,015km S 31° E of Jomalig (Quezon),015,S 31° E,Jomalig (Quezon)
-2026-03-05T17:54:00.000Z,05 March 2026 - 05:54 PM,16.85,119.96,005,2.7,044km N 71° W of Bacnotan (La Union),044,N 71° W,Bacnotan (La Union)
-2026-03-05T16:53:00.000Z,05 March 2026 - 04:53 PM,07.22,126.56,015,2.1,002km N 55° E of Manay (Davao Oriental),002,N 55° E,Manay (Davao Oriental)

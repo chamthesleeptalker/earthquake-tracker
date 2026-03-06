@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T18:06:00.000Z,06 March 2026 - 06:06 PM,12.12,125.72,016,2.5,024km S 74° E of San Policarpo (Eastern Samar),024,S 74° E,San Policarpo (Eastern Samar)
 2026-03-06T16:48:00.000Z,06 March 2026 - 04:48 PM,14.96,122.01,010,3.4,013km N 19° E of Burdeos (Quezon),013,N 19° E,Burdeos (Quezon)
 2026-03-06T16:35:00.000Z,06 March 2026 - 04:35 PM,07.31,123.74,024,2.1,033km S 83° W of Bongo Island (Parang) (Maguindanao Del Norte),033,S 83° W,Bongo Island (Parang) (Maguindanao Del Norte)
 2026-03-06T16:28:00.000Z,06 March 2026 - 04:28 PM,13.62,120.66,098,1.8,023km S 07° E of Calatagan (Batangas),023,S 07° E,Calatagan (Batangas)
@@ -277,7 +278,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T20:55:00.000Z,27 February 2026 - 08:55 PM,07.74,126.38,011,1.7,010km S 59° W of Cateel (Davao Oriental),010,S 59° W,Cateel (Davao Oriental)
 2026-02-27T20:00:00.000Z,27 February 2026 - 08:00 PM,06.62,126.31,051,3.8,026km S 82° E of Governor Generoso (Davao Oriental),026,S 82° E,Governor Generoso (Davao Oriental)
 2026-02-27T18:27:00.000Z,27 February 2026 - 06:27 PM,20.07,120.85,007,2.4,111km S 75° W of Sabtang (Batanes),111,S 75° W,Sabtang (Batanes)
-2026-02-27T17:46:00.000Z,27 February 2026 - 05:46 PM,16.02,120.17,004,3.2,002km S 64° E of Labrador (Pangasinan),002,S 64° E,Labrador (Pangasinan)
-2026-02-27T17:44:00.000Z,27 February 2026 - 05:44 PM,19.12,121.09,006,2.5,013km N 82° W of Dalupiri Island (Calayan) (Cagayan),013,N 82° W,Dalupiri Island (Calayan) (Cagayan)
-2026-02-27T17:38:00.000Z,27 February 2026 - 05:38 PM,06.18,126.03,005,3.1,037km S 87° E of Don Marcelino (Davao Occidental),037,S 87° E,Don Marcelino (Davao Occidental)
-2026-02-27T16:55:00.000Z,27 February 2026 - 04:55 PM,10.96,123.87,005,2.0,015km N 02° W of Tabuelan (Cebu),015,N 02° W,Tabuelan (Cebu)
