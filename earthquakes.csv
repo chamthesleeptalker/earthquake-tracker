@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T21:11:00.000Z,06 March 2026 - 09:11 PM,12.17,125.35,063,1.8,011km N 86° E of Maslog (Eastern Samar),011,N 86° E,Maslog (Eastern Samar)
+2026-03-06T21:05:00.000Z,06 March 2026 - 09:05 PM,05.90,126.33,008,2.5,076km S 89° E of Jose Abad Santos (Davao Occidental),076,S 89° E,Jose Abad Santos (Davao Occidental)
+2026-03-06T20:54:00.000Z,06 March 2026 - 08:54 PM,16.38,120.08,024,1.8,017km N 54° E of Anda (Pangasinan),017,N 54° E,Anda (Pangasinan)
+2026-03-06T20:48:00.000Z,06 March 2026 - 08:48 PM,15.02,122.06,010,2.6,022km N 28° E of Burdeos (Quezon),022,N 28° E,Burdeos (Quezon)
 2026-03-06T19:46:00.000Z,06 March 2026 - 07:46 PM,06.26,125.27,009,2.5,013km S 01° W of Malungon (Sarangani),013,S 01° W,Malungon (Sarangani)
 2026-03-06T19:31:00.000Z,06 March 2026 - 07:31 PM,07.51,126.99,014,2.0,048km S 81° E of Baganga (Davao Oriental),048,S 81° E,Baganga (Davao Oriental)
 2026-03-06T19:18:00.000Z,06 March 2026 - 07:18 PM,11.76,125.28,030,1.7,019km N 87° W of San Julian (Eastern Samar),019,N 87° W,San Julian (Eastern Samar)
