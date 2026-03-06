@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T09:10:00.000Z,06 March 2026 - 09:10 AM,06.93,126.66,131,2.6,027km S 60° E of Tarragona (Davao Oriental),027,S 60° E,Tarragona (Davao Oriental)
+2026-03-05T23:37:00.000Z,05 March 2026 - 11:37 PM,12.49,122.14,003,2.2,008km S 07° E of San Agustin (Romblon),008,S 07° E,San Agustin (Romblon)
 2026-03-06T07:25:00.000Z,06 March 2026 - 07:25 AM,09.23,126.58,010,4.5,042km S 83° E of Cortes (Surigao Del Sur),042,S 83° E,Cortes (Surigao Del Sur)
 2026-03-06T06:38:00.000Z,06 March 2026 - 06:38 AM,18.01,120.94,011,1.5,019km S 41° E of Carasi (Ilocos Norte),019,S 41° E,Carasi (Ilocos Norte)
 2026-03-06T05:21:00.000Z,06 March 2026 - 05:21 AM,10.34,125.19,032,1.9,006km S 09° W of Hinunangan (Southern Leyte),006,S 09° W,Hinunangan (Southern Leyte)
@@ -285,8 +287,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T09:50:00.000Z,27 February 2026 - 09:50 AM,08.72,125.96,002,1.6,014km N 20° E of Prosperidad (Agusan Del Sur),014,N 20° E,Prosperidad (Agusan Del Sur)
 2026-02-27T09:27:00.000Z,27 February 2026 - 09:27 AM,13.67,120.49,087,1.5,023km S 41° W of Calatagan (Batangas),023,S 41° W,Calatagan (Batangas)
 2026-02-27T09:18:00.000Z,27 February 2026 - 09:18 AM,12.35,125.34,027,2.3,005km N 48° E of Lapinig (Northern Samar),005,N 48° E,Lapinig (Northern Samar)
-2026-02-27T08:27:00.000Z,27 February 2026 - 08:27 AM,16.33,120.82,033,1.4,007km S 67° W of Kayapa (Nueva Vizcaya),007,S 67° W,Kayapa (Nueva Vizcaya)
-2026-02-27T08:08:00.000Z,27 February 2026 - 08:08 AM,07.41,126.41,013,2.0,019km N 63° W of Caraga (Davao Oriental),019,N 63° W,Caraga (Davao Oriental)
-2026-02-27T07:48:00.000Z,27 February 2026 - 07:48 AM,13.18,122.52,027,2.2,018km S 01° E of San Francisco (Quezon),018,S 01° E,San Francisco (Quezon)
-2026-02-27T07:47:00.000Z,27 February 2026 - 07:47 AM,03.90,126.43,078,3.2,201km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),201,S 34° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-02-27T07:41:00.000Z,27 February 2026 - 07:41 AM,17.83,121.02,027,1.8,020km N 23° E of Lacub (Abra),020,N 23° E,Lacub (Abra)
