@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-06T22:41:00.000Z,06 March 2026 - 10:41 PM,06.35,126.29,028,2.6,041km S 36° E of Governor Generoso (Davao Oriental),041,S 36° E,Governor Generoso (Davao Oriental)
 2026-03-06T21:51:00.000Z,06 March 2026 - 09:51 PM,07.58,126.87,052,2.0,034km N 89° E of Baganga (Davao Oriental),034,N 89° E,Baganga (Davao Oriental)
 2026-03-06T21:11:00.000Z,06 March 2026 - 09:11 PM,12.17,125.35,063,1.8,011km N 86° E of Maslog (Eastern Samar),011,N 86° E,Maslog (Eastern Samar)
 2026-03-06T21:05:00.000Z,06 March 2026 - 09:05 PM,05.90,126.33,008,2.5,076km S 89° E of Jose Abad Santos (Davao Occidental),076,S 89° E,Jose Abad Santos (Davao Occidental)
@@ -282,6 +283,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-27T23:04:00.000Z,27 February 2026 - 11:04 PM,12.47,121.75,052,2.2,025km N 55° W of Ferrol (Romblon),025,N 55° W,Ferrol (Romblon)
 2026-02-27T23:01:00.000Z,27 February 2026 - 11:01 PM,08.51,125.54,043,2.1,022km S 32° W of Esperanza (Agusan Del Sur),022,S 32° W,Esperanza (Agusan Del Sur)
 2026-02-27T22:59:00.000Z,27 February 2026 - 10:59 PM,07.04,127.01,011,2.4,055km S 70° E of Manay (Davao Oriental),055,S 70° E,Manay (Davao Oriental)
-2026-02-27T22:16:00.000Z,27 February 2026 - 10:16 PM,08.92,123.22,029,2.1,020km S 07° E of Zamboanguita (Negros Oriental),020,S 07° E,Zamboanguita (Negros Oriental)
-2026-02-27T22:10:00.000Z,27 February 2026 - 10:10 PM,10.01,124.19,035,2.2,008km N 30° W of Danao (Bohol),008,N 30° W,Danao (Bohol)
-2026-02-27T21:55:00.000Z,27 February 2026 - 09:55 PM,09.84,124.20,042,1.8,002km N 03° W of Carmen (Bohol),002,N 03° W,Carmen (Bohol)
