@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T11:23:00.000Z,07 March 2026 - 11:23 AM,15.40,121.35,030,1.7,005km N 78° W of Dingalan (Aurora),005,N 78° W,Dingalan (Aurora)
+2026-03-07T10:49:00.000Z,07 March 2026 - 10:49 AM,10.81,123.91,016,1.6,004km S 73° E of Tabuelan (Cebu),004,S 73° E,Tabuelan (Cebu)
+2026-03-07T10:47:00.000Z,07 March 2026 - 10:47 AM,06.43,126.87,022,2.4,083km S 34° E of Tarragona (Davao Oriental),083,S 34° E,Tarragona (Davao Oriental)
+2026-03-07T10:06:00.000Z,07 March 2026 - 10:06 AM,17.79,120.72,027,2.2,007km N 13° E of Lagayan (Abra),007,N 13° E,Lagayan (Abra)
 2026-03-07T08:52:00.000Z,07 March 2026 - 08:52 AM,19.95,121.36,004,2.0,087km S 71° W of Sabtang (Batanes),087,S 71° W,Sabtang (Batanes)
 2026-03-07T08:35:00.000Z,07 March 2026 - 08:35 AM,12.43,125.32,026,2.1,005km N 23° E of Gamay (Northern Samar),005,N 23° E,Gamay (Northern Samar)
 2026-03-07T07:49:00.000Z,07 March 2026 - 07:49 AM,13.57,120.64,121,2.0,017km N 32° W of Abra De Ilog (Occidental Mindoro),017,N 32° W,Abra De Ilog (Occidental Mindoro)
