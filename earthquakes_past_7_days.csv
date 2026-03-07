@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T21:40:00.000Z,07 March 2026 - 09:40 PM,17.29,121.04,008,2.0,013km N 75° W of Tinglayan (Kalinga),013,N 75° W,Tinglayan (Kalinga)
 2026-03-07T20:54:00.000Z,07 March 2026 - 08:54 PM,13.40,120.55,082,1.7,009km S 78° E of Paluan (Occidental Mindoro),009,S 78° E,Paluan (Occidental Mindoro)
 2026-03-07T20:19:00.000Z,07 March 2026 - 08:19 PM,13.74,120.07,006,1.6,014km S 25° W of Lubang (Occidental Mindoro),014,S 25° W,Lubang (Occidental Mindoro)
 2026-03-07T19:22:00.000Z,07 March 2026 - 07:22 PM,08.03,125.94,033,1.4,005km S 28° W of Veruela (Agusan Del Sur),005,S 28° W,Veruela (Agusan Del Sur)
@@ -284,7 +285,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-02-28T22:30:00.000Z,28 February 2026 - 10:30 PM,14.80,122.74,015,1.6,043km N 32° W of Tinaga Island (Vinzons) (Camarines Norte),043,N 32° W,Tinaga Island (Vinzons) (Camarines Norte)
 2026-02-28T22:23:00.000Z,28 February 2026 - 10:23 PM,13.62,120.64,090,1.7,021km N 25° W of Abra De Ilog (Occidental Mindoro),021,N 25° W,Abra De Ilog (Occidental Mindoro)
 2026-02-28T21:46:00.000Z,28 February 2026 - 09:46 PM,15.70,121.91,005,2.2,038km S 80° E of Baler (Aurora),038,S 80° E,Baler (Aurora)
-2026-02-28T21:23:00.000Z,28 February 2026 - 09:23 PM,06.78,126.37,041,3.0,026km S 42° E of City Of Mati (Davao Oriental),026,S 42° E,City Of Mati (Davao Oriental)
-2026-02-28T21:23:00.000Z,28 February 2026 - 09:23 PM,06.78,126.37,041,3.0,026km S 42° E of City Of Mati (Davao Oriental),026,S 42° E,City Of Mati (Davao Oriental)
-2026-02-28T21:10:00.000Z,28 February 2026 - 09:10 PM,11.77,121.09,036,1.4,053km S 70° W of Caluya (Antique),053,S 70° W,Caluya (Antique)
-2026-02-28T21:02:00.000Z,28 February 2026 - 09:02 PM,08.02,126.27,033,1.9,015km S 83° W of Lingig (Surigao Del Sur),015,S 83° W,Lingig (Surigao Del Sur)
