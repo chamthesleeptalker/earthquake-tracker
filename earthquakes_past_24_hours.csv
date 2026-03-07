@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T20:54:00.000Z,07 March 2026 - 08:54 PM,13.40,120.55,082,1.7,009km S 78° E of Paluan (Occidental Mindoro),009,S 78° E,Paluan (Occidental Mindoro)
 2026-03-07T20:19:00.000Z,07 March 2026 - 08:19 PM,13.74,120.07,006,1.6,014km S 25° W of Lubang (Occidental Mindoro),014,S 25° W,Lubang (Occidental Mindoro)
 2026-03-07T19:22:00.000Z,07 March 2026 - 07:22 PM,08.03,125.94,033,1.4,005km S 28° W of Veruela (Agusan Del Sur),005,S 28° W,Veruela (Agusan Del Sur)
 2026-03-07T18:53:00.000Z,07 March 2026 - 06:53 PM,06.12,126.37,118,1.8,067km S 30° E of Governor Generoso (Davao Oriental),067,S 30° E,Governor Generoso (Davao Oriental)
@@ -50,4 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T21:11:00.000Z,06 March 2026 - 09:11 PM,12.17,125.35,063,1.8,011km N 86° E of Maslog (Eastern Samar),011,N 86° E,Maslog (Eastern Samar)
 2026-03-06T21:05:00.000Z,06 March 2026 - 09:05 PM,05.90,126.33,008,2.5,076km S 89° E of Jose Abad Santos (Davao Occidental),076,S 89° E,Jose Abad Santos (Davao Occidental)
 2026-03-06T20:54:00.000Z,06 March 2026 - 08:54 PM,16.38,120.08,024,1.8,017km N 54° E of Anda (Pangasinan),017,N 54° E,Anda (Pangasinan)
-2026-03-06T20:48:00.000Z,06 March 2026 - 08:48 PM,15.02,122.06,010,2.6,022km N 28° E of Burdeos (Quezon),022,N 28° E,Burdeos (Quezon)
