@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T23:12:00.000Z,07 March 2026 - 11:12 PM,08.91,122.99,002,1.9,017km S 15° W of Siaton (Negros Oriental),017,S 15° W,Siaton (Negros Oriental)
+2026-03-07T22:55:00.000Z,07 March 2026 - 10:55 PM,14.89,119.95,035,1.6,017km S 66° W of San Antonio (Zambales),017,S 66° W,San Antonio (Zambales)
 2026-03-07T22:33:00.000Z,07 March 2026 - 10:33 PM,12.65,121.99,010,3.7,009km N 68° W of Calatrava (Romblon),009,N 68° W,Calatrava (Romblon)
 2026-03-07T21:40:00.000Z,07 March 2026 - 09:40 PM,17.29,121.04,008,2.0,013km N 75° W of Tinglayan (Kalinga),013,N 75° W,Tinglayan (Kalinga)
 2026-03-07T20:54:00.000Z,07 March 2026 - 08:54 PM,13.40,120.55,082,1.7,009km S 78° E of Paluan (Occidental Mindoro),009,S 78° E,Paluan (Occidental Mindoro)
