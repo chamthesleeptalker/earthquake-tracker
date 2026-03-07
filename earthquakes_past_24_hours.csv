@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T19:22:00.000Z,07 March 2026 - 07:22 PM,08.03,125.94,033,1.4,005km S 28° W of Veruela (Agusan Del Sur),005,S 28° W,Veruela (Agusan Del Sur)
 2026-03-07T18:53:00.000Z,07 March 2026 - 06:53 PM,06.12,126.37,118,1.8,067km S 30° E of Governor Generoso (Davao Oriental),067,S 30° E,Governor Generoso (Davao Oriental)
 2026-03-07T16:44:00.000Z,07 March 2026 - 04:44 PM,18.98,121.03,017,2.1,024km S 53° W of Dalupiri Island (Calayan) (Cagayan),024,S 53° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-07T15:24:00.000Z,07 March 2026 - 03:24 PM,13.65,120.61,080,2.1,020km S 08° W of Calatagan (Batangas),020,S 08° W,Calatagan (Batangas)
@@ -51,6 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T20:48:00.000Z,06 March 2026 - 08:48 PM,15.02,122.06,010,2.6,022km N 28° E of Burdeos (Quezon),022,N 28° E,Burdeos (Quezon)
 2026-03-06T19:46:00.000Z,06 March 2026 - 07:46 PM,06.26,125.27,009,2.5,013km S 01° W of Malungon (Sarangani),013,S 01° W,Malungon (Sarangani)
 2026-03-06T19:31:00.000Z,06 March 2026 - 07:31 PM,07.51,126.99,014,2.0,048km S 81° E of Baganga (Davao Oriental),048,S 81° E,Baganga (Davao Oriental)
-2026-03-06T19:18:00.000Z,06 March 2026 - 07:18 PM,11.76,125.28,030,1.7,019km N 87° W of San Julian (Eastern Samar),019,N 87° W,San Julian (Eastern Samar)
-2026-03-06T19:03:00.000Z,06 March 2026 - 07:03 PM,12.26,125.74,023,2.4,027km N 71° E of San Policarpo (Eastern Samar),027,N 71° E,San Policarpo (Eastern Samar)
-2026-03-06T19:00:00.000Z,06 March 2026 - 07:00 PM,07.32,126.42,022,2.4,018km N 46° W of Manay (Davao Oriental),018,N 46° W,Manay (Davao Oriental)
