@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-08T00:15:00.000Z,08 March 2026 - 12:15 AM,17.19,120.26,045,2.4,019km N 83° W of City Of Candon (Ilocos Sur),019,N 83° W,City Of Candon (Ilocos Sur)
+2026-03-08T00:11:00.000Z,08 March 2026 - 12:11 AM,17.47,120.53,016,2.0,002km N 24° E of Nagbukel (Ilocos Sur),002,N 24° E,Nagbukel (Ilocos Sur)
+2026-03-08T00:04:00.000Z,08 March 2026 - 12:04 AM,13.85,120.46,118,4.8,018km N 84° W of Calatagan (Batangas),018,N 84° W,Calatagan (Batangas)
+2026-03-07T23:53:00.000Z,07 March 2026 - 11:53 PM,12.99,124.82,010,4.9,048km N 14° W of Pambujan (Northern Samar),048,N 14° W,Pambujan (Northern Samar)
+2026-03-07T23:39:00.000Z,07 March 2026 - 11:39 PM,06.12,124.81,017,2.5,010km S 11° W of T'boli (South Cotabato),010,S 11° W,T'boli (South Cotabato)
+2026-03-07T23:37:00.000Z,07 March 2026 - 11:37 PM,05.27,126.81,041,2.5,148km S 61° E of Jose Abad Santos (Davao Occidental),148,S 61° E,Jose Abad Santos (Davao Occidental)
 2026-03-07T23:31:00.000Z,07 March 2026 - 11:31 PM,06.50,124.02,036,2.0,007km S 28° W of Kalamansig (Sultan Kudarat),007,S 28° W,Kalamansig (Sultan Kudarat)
 2026-03-07T23:12:00.000Z,07 March 2026 - 11:12 PM,08.91,122.99,002,1.9,017km S 15° W of Siaton (Negros Oriental),017,S 15° W,Siaton (Negros Oriental)
 2026-03-07T22:55:00.000Z,07 March 2026 - 10:55 PM,14.89,119.95,035,1.6,017km S 66° W of San Antonio (Zambales),017,S 66° W,San Antonio (Zambales)
