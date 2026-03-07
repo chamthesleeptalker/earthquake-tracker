@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-07T12:33:00.000Z,07 March 2026 - 12:33 PM,10.67,122.53,029,2.1,005km S 67° W of City Of Iloilo (Iloilo),005,S 67° W,City Of Iloilo (Iloilo)
+2026-03-07T11:58:00.000Z,07 March 2026 - 11:58 AM,07.36,126.64,025,2.5,009km N 70° E of Caraga (Davao Oriental),009,N 70° E,Caraga (Davao Oriental)
 2026-03-07T11:23:00.000Z,07 March 2026 - 11:23 AM,15.40,121.35,030,1.7,005km N 78° W of Dingalan (Aurora),005,N 78° W,Dingalan (Aurora)
 2026-03-07T10:49:00.000Z,07 March 2026 - 10:49 AM,10.81,123.91,016,1.6,004km S 73° E of Tabuelan (Cebu),004,S 73° E,Tabuelan (Cebu)
 2026-03-07T10:47:00.000Z,07 March 2026 - 10:47 AM,06.43,126.87,022,2.4,083km S 34° E of Tarragona (Davao Oriental),083,S 34° E,Tarragona (Davao Oriental)
@@ -46,4 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T16:48:00.000Z,06 March 2026 - 04:48 PM,14.96,122.01,010,3.4,013km N 19° E of Burdeos (Quezon),013,N 19° E,Burdeos (Quezon)
 2026-03-06T16:35:00.000Z,06 March 2026 - 04:35 PM,07.31,123.74,024,2.1,033km S 83° W of Bongo Island (Parang) (Maguindanao Del Norte),033,S 83° W,Bongo Island (Parang) (Maguindanao Del Norte)
 2026-03-06T16:28:00.000Z,06 March 2026 - 04:28 PM,13.62,120.66,098,1.8,023km S 07° E of Calatagan (Batangas),023,S 07° E,Calatagan (Batangas)
-2026-03-06T11:48:00.000Z,06 March 2026 - 11:48 AM,09.62,122.44,015,2.1,003km N 60° W of Hinoba-an (Negros Occidental),003,N 60° W,Hinoba-an (Negros Occidental)
