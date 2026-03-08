@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-09T04:28:00.000Z,09 March 2026 - 04:28 AM,09.14,122.29,002,2.3,048km S 52° W of Basay (Negros Oriental),048,S 52° W,Basay (Negros Oriental)
 2026-03-09T03:50:00.000Z,09 March 2026 - 03:50 AM,16.82,120.56,031,1.5,005km S 61° E of Sugpon (Ilocos Sur),005,S 61° E,Sugpon (Ilocos Sur)
 2026-03-09T03:42:00.000Z,09 March 2026 - 03:42 AM,16.75,120.15,026,2.2,023km N 50° W of City Of San Fernando (La Union),023,N 50° W,City Of San Fernando (La Union)
 2026-03-09T03:30:00.000Z,09 March 2026 - 03:30 AM,16.89,121.61,030,1.5,003km N 80° E of San Mateo (Isabela),003,N 80° E,San Mateo (Isabela)
@@ -29,5 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-08T09:21:00.000Z,08 March 2026 - 09:21 AM,14.95,119.96,028,2.0,014km N 87° W of San Antonio (Zambales),014,N 87° W,San Antonio (Zambales)
 2026-03-08T08:15:00.000Z,08 March 2026 - 08:15 AM,08.07,123.49,039,1.4,002km S 06° E of Molave (Zamboanga Del Sur),002,S 06° E,Molave (Zamboanga Del Sur)
 2026-03-08T05:08:00.000Z,08 March 2026 - 05:08 AM,17.19,120.37,014,1.9,009km N 70° W of City Of Candon (Ilocos Sur),009,N 70° W,City Of Candon (Ilocos Sur)
-2026-03-08T04:03:00.000Z,08 March 2026 - 04:03 AM,12.78,123.22,006,3.0,013km S 14° W of Claveria (Masbate),013,S 14° W,Claveria (Masbate)
-2026-03-08T03:58:00.000Z,08 March 2026 - 03:58 AM,08.20,126.61,038,1.8,028km N 52° E of Lingig (Surigao Del Sur),028,N 52° E,Lingig (Surigao Del Sur)
