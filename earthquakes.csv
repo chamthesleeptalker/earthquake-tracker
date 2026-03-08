@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-08T20:30:00.000Z,08 March 2026 - 08:30 PM,13.72,120.35,053,1.6,011km East of Looc (Occidental Mindoro),011,East of Looc,Mindoro)
+2026-03-08T20:01:00.000Z,08 March 2026 - 08:01 PM,07.05,126.85,014,2.0,039km S 63° E of Manay (Davao Oriental),039,S 63° E,Manay (Davao Oriental)
+2026-03-08T19:47:00.000Z,08 March 2026 - 07:47 PM,06.08,126.52,007,2.7,080km S 38° E of Governor Generoso (Davao Oriental),080,S 38° E,Governor Generoso (Davao Oriental)
 2026-03-07T19:23:00.000Z,07 March 2026 - 07:23 PM,08.28,126.23,033,1.4,012km N 52° W of City Of Bislig (Surigao Del Sur),012,N 52° W,City Of Bislig (Surigao Del Sur)
 2026-03-08T15:03:00.000Z,08 March 2026 - 03:03 PM,05.04,126.96,033,3.5,172km S 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),172,S 74° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-08T13:35:00.000Z,08 March 2026 - 01:35 PM,12.78,124.76,018,2.4,044km N 74° E of Biri (Northern Samar),044,N 74° E,Biri (Northern Samar)
