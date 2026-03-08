@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-08T12:08:00.000Z,08 March 2026 - 12:08 PM,11.33,124.56,016,2.0,009km S 63° E of Leyte (Leyte),009,S 63° E,Leyte (Leyte)
 2026-03-08T09:50:00.000Z,08 March 2026 - 09:50 AM,18.02,120.20,025,2.9,030km West of Currimao (Ilocos Norte),030,West of Currimao,Norte)
 2026-03-08T09:21:00.000Z,08 March 2026 - 09:21 AM,14.95,119.96,028,2.0,014km N 87° W of San Antonio (Zambales),014,N 87° W,San Antonio (Zambales)
 2026-03-08T08:15:00.000Z,08 March 2026 - 08:15 AM,08.07,123.49,039,1.4,002km S 06° E of Molave (Zamboanga Del Sur),002,S 06° E,Molave (Zamboanga Del Sur)
@@ -33,8 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-07T13:53:00.000Z,07 March 2026 - 01:53 PM,06.47,123.85,017,2.2,024km S 68° W of Kalamansig (Sultan Kudarat),024,S 68° W,Kalamansig (Sultan Kudarat)
 2026-03-07T13:42:00.000Z,07 March 2026 - 01:42 PM,15.58,121.16,096,1.4,007km N 82° E of City Of Palayan (Nueva Ecija),007,N 82° E,City Of Palayan (Nueva Ecija)
 2026-03-07T12:33:00.000Z,07 March 2026 - 12:33 PM,10.67,122.53,029,2.1,005km S 67° W of City Of Iloilo (Iloilo),005,S 67° W,City Of Iloilo (Iloilo)
-2026-03-07T11:58:00.000Z,07 March 2026 - 11:58 AM,07.36,126.64,025,2.5,009km N 70° E of Caraga (Davao Oriental),009,N 70° E,Caraga (Davao Oriental)
-2026-03-07T11:23:00.000Z,07 March 2026 - 11:23 AM,15.40,121.35,030,1.7,005km N 78° W of Dingalan (Aurora),005,N 78° W,Dingalan (Aurora)
-2026-03-07T10:49:00.000Z,07 March 2026 - 10:49 AM,10.81,123.91,016,1.6,004km S 73° E of Tabuelan (Cebu),004,S 73° E,Tabuelan (Cebu)
-2026-03-07T10:47:00.000Z,07 March 2026 - 10:47 AM,06.43,126.87,022,2.4,083km S 34° E of Tarragona (Davao Oriental),083,S 34° E,Tarragona (Davao Oriental)
-2026-03-07T10:06:00.000Z,07 March 2026 - 10:06 AM,17.79,120.72,027,2.2,007km N 13° E of Lagayan (Abra),007,N 13° E,Lagayan (Abra)
