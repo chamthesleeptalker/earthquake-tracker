@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-08T22:40:00.000Z,08 March 2026 - 10:40 PM,11.15,123.97,014,1.9,012km N 04° W of City Of Bogo (Cebu),012,N 04° W,City Of Bogo (Cebu)
+2026-03-08T22:38:00.000Z,08 March 2026 - 10:38 PM,10.59,122.37,013,2.0,010km S 31° E of Guimbal (Iloilo),010,S 31° E,Guimbal (Iloilo)
 2026-03-08T21:20:00.000Z,08 March 2026 - 09:20 PM,13.93,120.35,111,1.6,026km N 24° E of Looc (Occidental Mindoro),026,N 24° E,Looc (Occidental Mindoro)
 2026-03-08T21:09:00.000Z,08 March 2026 - 09:09 PM,13.70,120.53,088,1.9,018km S 37° W of Calatagan (Batangas),018,S 37° W,Calatagan (Batangas)
 2026-03-08T20:30:00.000Z,08 March 2026 - 08:30 PM,13.72,120.35,053,1.6,011km East of Looc (Occidental Mindoro),011,East of Looc,Mindoro)
