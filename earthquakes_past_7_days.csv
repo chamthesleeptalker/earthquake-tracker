@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-09T00:32:00.000Z,09 March 2026 - 12:32 AM,08.89,126.70,037,2.1,044km S 86° E of Cagwait (Surigao Del Sur),044,S 86° E,Cagwait (Surigao Del Sur)
+2026-03-09T00:30:00.000Z,09 March 2026 - 12:30 AM,17.59,122.23,022,1.7,022km N 01° W of Maconacon (Isabela),022,N 01° W,Maconacon (Isabela)
+2026-03-09T00:24:00.000Z,09 March 2026 - 12:24 AM,18.42,120.50,044,2.0,015km N 53° W of Pasuquin (Ilocos Norte),015,N 53° W,Pasuquin (Ilocos Norte)
 2026-03-08T23:28:00.000Z,08 March 2026 - 11:28 PM,12.88,123.00,004,2.0,027km S 85° W of Claveria (Masbate),027,S 85° W,Claveria (Masbate)
 2026-03-08T22:59:00.000Z,08 March 2026 - 10:59 PM,06.47,124.30,009,1.8,029km S 71° E of Kalamansig (Sultan Kudarat),029,S 71° E,Kalamansig (Sultan Kudarat)
 2026-03-08T22:52:00.000Z,08 March 2026 - 10:52 PM,10.61,122.33,021,1.9,006km S 06° E of Guimbal (Iloilo),006,S 06° E,Guimbal (Iloilo)
@@ -280,5 +283,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-02T02:33:00.000Z,02 March 2026 - 02:33 AM,02.74,128.03,140,4.8,414km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),414,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-02T01:42:00.000Z,02 March 2026 - 01:42 AM,16.94,121.72,035,1.6,003km S 14° W of Luna (Isabela),003,S 14° W,Luna (Isabela)
 2026-03-02T01:06:00.000Z,02 March 2026 - 01:06 AM,05.94,125.18,024,2.1,012km S 74° W of Malapatan (Sarangani),012,S 74° W,Malapatan (Sarangani)
-2026-03-02T00:07:00.000Z,02 March 2026 - 12:07 AM,05.99,126.03,147,3.0,044km S 59° E of Don Marcelino (Davao Occidental),044,S 59° E,Don Marcelino (Davao Occidental)
-2026-03-02T00:05:00.000Z,02 March 2026 - 12:05 AM,19.97,121.72,020,2.2,043km S 21° W of Sabtang (Batanes),043,S 21° W,Sabtang (Batanes)
