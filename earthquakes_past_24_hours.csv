@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-08T22:59:00.000Z,08 March 2026 - 10:59 PM,06.47,124.30,009,1.8,029km S 71° E of Kalamansig (Sultan Kudarat),029,S 71° E,Kalamansig (Sultan Kudarat)
+2026-03-08T22:52:00.000Z,08 March 2026 - 10:52 PM,10.61,122.33,021,1.9,006km S 06° E of Guimbal (Iloilo),006,S 06° E,Guimbal (Iloilo)
+2026-03-08T22:49:00.000Z,08 March 2026 - 10:49 PM,16.69,121.06,005,2.5,003km S 11° W of Asipulo (Ifugao),003,S 11° W,Asipulo (Ifugao)
 2026-03-08T22:40:00.000Z,08 March 2026 - 10:40 PM,11.15,123.97,014,1.9,012km N 04° W of City Of Bogo (Cebu),012,N 04° W,City Of Bogo (Cebu)
 2026-03-08T22:38:00.000Z,08 March 2026 - 10:38 PM,10.59,122.37,013,2.0,010km S 31° E of Guimbal (Iloilo),010,S 31° E,Guimbal (Iloilo)
 2026-03-08T21:20:00.000Z,08 March 2026 - 09:20 PM,13.93,120.35,111,1.6,026km N 24° E of Looc (Occidental Mindoro),026,N 24° E,Looc (Occidental Mindoro)
@@ -29,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-07T23:37:00.000Z,07 March 2026 - 11:37 PM,05.27,126.81,041,2.5,148km S 61° E of Jose Abad Santos (Davao Occidental),148,S 61° E,Jose Abad Santos (Davao Occidental)
 2026-03-07T23:31:00.000Z,07 March 2026 - 11:31 PM,06.50,124.02,036,2.0,007km S 28° W of Kalamansig (Sultan Kudarat),007,S 28° W,Kalamansig (Sultan Kudarat)
 2026-03-07T23:12:00.000Z,07 March 2026 - 11:12 PM,08.91,122.99,002,1.9,017km S 15° W of Siaton (Negros Oriental),017,S 15° W,Siaton (Negros Oriental)
-2026-03-07T22:55:00.000Z,07 March 2026 - 10:55 PM,14.89,119.95,035,1.6,017km S 66° W of San Antonio (Zambales),017,S 66° W,San Antonio (Zambales)
