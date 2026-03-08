@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-08T09:50:00.000Z,08 March 2026 - 09:50 AM,18.02,120.20,025,2.9,030km West of Currimao (Ilocos Norte),030,West of Currimao,Norte)
+2026-03-08T09:21:00.000Z,08 March 2026 - 09:21 AM,14.95,119.96,028,2.0,014km N 87° W of San Antonio (Zambales),014,N 87° W,San Antonio (Zambales)
+2026-03-08T08:15:00.000Z,08 March 2026 - 08:15 AM,08.07,123.49,039,1.4,002km S 06° E of Molave (Zamboanga Del Sur),002,S 06° E,Molave (Zamboanga Del Sur)
 2026-03-08T05:08:00.000Z,08 March 2026 - 05:08 AM,17.19,120.37,014,1.9,009km N 70° W of City Of Candon (Ilocos Sur),009,N 70° W,City Of Candon (Ilocos Sur)
 2026-03-08T04:03:00.000Z,08 March 2026 - 04:03 AM,12.78,123.22,006,3.0,013km S 14° W of Claveria (Masbate),013,S 14° W,Claveria (Masbate)
 2026-03-08T03:58:00.000Z,08 March 2026 - 03:58 AM,08.20,126.61,038,1.8,028km N 52° E of Lingig (Surigao Del Sur),028,N 52° E,Lingig (Surigao Del Sur)
@@ -275,10 +278,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-01T15:08:00.000Z,01 March 2026 - 03:08 PM,14.37,120.51,169,2.4,008km S 13° E of Mariveles (Bataan),008,S 13° E,Mariveles (Bataan)
 2026-03-01T14:02:00.000Z,01 March 2026 - 02:02 PM,08.91,126.26,029,1.7,004km S 74° W of Cagwait (Surigao Del Sur),004,S 74° W,Cagwait (Surigao Del Sur)
 2026-03-01T12:45:00.000Z,01 March 2026 - 12:45 PM,12.80,123.16,018,1.9,015km S 40° W of Claveria (Masbate),015,S 40° W,Claveria (Masbate)
-2026-03-01T09:45:00.000Z,01 March 2026 - 09:45 AM,06.44,123.80,005,2.3,030km S 66° W of Kalamansig (Sultan Kudarat),030,S 66° W,Kalamansig (Sultan Kudarat)
-2026-03-01T08:20:00.000Z,01 March 2026 - 08:20 AM,09.75,125.82,034,1.8,021km S 52° W of Del Carmen (Surigao Del Norte),021,S 52° W,Del Carmen (Surigao Del Norte)
-2026-03-01T08:17:00.000Z,01 March 2026 - 08:17 AM,08.61,126.36,029,2.2,021km S 45° E of San Agustin (Surigao Del Sur),021,S 45° E,San Agustin (Surigao Del Sur)
-2026-03-01T08:04:00.000Z,01 March 2026 - 08:04 AM,19.53,121.10,029,2.7,048km N 14° W of Dalupiri Island (Calayan) (Cagayan),048,N 14° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-01T07:59:00.000Z,01 March 2026 - 07:59 AM,11.41,121.84,006,2.1,024km S 84° W of Culasi (Antique),024,S 84° W,Culasi (Antique)
-2026-03-01T07:35:00.000Z,01 March 2026 - 07:35 AM,11.18,124.08,024,1.9,019km N 35° E of City Of Bogo (Cebu),019,N 35° E,City Of Bogo (Cebu)
-2026-03-01T06:53:00.000Z,01 March 2026 - 06:53 AM,15.52,121.71,012,2.4,031km S 31° E of Baler (Aurora),031,S 31° E,Baler (Aurora)
