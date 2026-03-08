@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-09T04:45:00.000Z,09 March 2026 - 04:45 AM,09.01,121.87,027,2.0,095km S 63° W of Basay (Negros Oriental),095,S 63° W,Basay (Negros Oriental)
 2026-03-09T04:28:00.000Z,09 March 2026 - 04:28 AM,09.14,122.29,002,2.3,048km S 52° W of Basay (Negros Oriental),048,S 52° W,Basay (Negros Oriental)
 2026-03-09T03:50:00.000Z,09 March 2026 - 03:50 AM,16.82,120.56,031,1.5,005km S 61° E of Sugpon (Ilocos Sur),005,S 61° E,Sugpon (Ilocos Sur)
 2026-03-09T03:42:00.000Z,09 March 2026 - 03:42 AM,16.75,120.15,026,2.2,023km N 50° W of City Of San Fernando (La Union),023,N 50° W,City Of San Fernando (La Union)
@@ -279,4 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-02T06:51:00.000Z,02 March 2026 - 06:51 AM,06.18,124.17,033,2.8,038km N 70° W of Maitum (Sarangani),038,N 70° W,Maitum (Sarangani)
 2026-03-02T06:33:00.000Z,02 March 2026 - 06:33 AM,06.28,127.08,045,2.6,110km S 39° E of Tarragona (Davao Oriental),110,S 39° E,Tarragona (Davao Oriental)
 2026-03-02T05:09:00.000Z,02 March 2026 - 05:09 AM,17.62,120.77,028,1.7,003km N 84° E of Lagangilang (Abra),003,N 84° E,Lagangilang (Abra)
-2026-03-02T04:44:00.000Z,02 March 2026 - 04:44 AM,15.41,121.83,005,2.2,047km N 87° E of Dingalan (Aurora),047,N 87° E,Dingalan (Aurora)
