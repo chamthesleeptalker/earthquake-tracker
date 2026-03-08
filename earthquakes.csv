@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-08T21:20:00.000Z,08 March 2026 - 09:20 PM,13.93,120.35,111,1.6,026km N 24° E of Looc (Occidental Mindoro),026,N 24° E,Looc (Occidental Mindoro)
+2026-03-08T21:09:00.000Z,08 March 2026 - 09:09 PM,13.70,120.53,088,1.9,018km S 37° W of Calatagan (Batangas),018,S 37° W,Calatagan (Batangas)
 2026-03-08T20:30:00.000Z,08 March 2026 - 08:30 PM,13.72,120.35,053,1.6,011km East of Looc (Occidental Mindoro),011,East of Looc,Mindoro)
 2026-03-08T20:01:00.000Z,08 March 2026 - 08:01 PM,07.05,126.85,014,2.0,039km S 63° E of Manay (Davao Oriental),039,S 63° E,Manay (Davao Oriental)
 2026-03-08T19:47:00.000Z,08 March 2026 - 07:47 PM,06.08,126.52,007,2.7,080km S 38° E of Governor Generoso (Davao Oriental),080,S 38° E,Governor Generoso (Davao Oriental)
