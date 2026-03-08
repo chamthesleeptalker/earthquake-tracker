@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-09T01:25:00.000Z,09 March 2026 - 01:25 AM,11.73,125.30,031,2.1,017km S 82° W of San Julian (Eastern Samar),017,S 82° W,San Julian (Eastern Samar)
 2026-03-09T01:12:00.000Z,09 March 2026 - 01:12 AM,09.48,122.57,016,1.9,011km N 42° W of Basay (Negros Oriental),011,N 42° W,Basay (Negros Oriental)
 2026-03-09T00:32:00.000Z,09 March 2026 - 12:32 AM,08.89,126.70,037,2.1,044km S 86° E of Cagwait (Surigao Del Sur),044,S 86° E,Cagwait (Surigao Del Sur)
 2026-03-09T00:30:00.000Z,09 March 2026 - 12:30 AM,17.59,122.23,022,1.7,022km N 01° W of Maconacon (Isabela),022,N 01° W,Maconacon (Isabela)
