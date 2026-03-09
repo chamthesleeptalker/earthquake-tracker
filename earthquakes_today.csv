@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T03:23:00.000Z,10 March 2026 - 03:23 AM,13.48,122.61,032,2.0,010km S 26° E of San Narciso (Quezon),010,S 26° E,San Narciso (Quezon)
+2026-03-10T03:17:00.000Z,10 March 2026 - 03:17 AM,12.16,125.69,004,2.4,020km S 84° E of San Policarpo (Eastern Samar),020,S 84° E,San Policarpo (Eastern Samar)
+2026-03-10T03:16:00.000Z,10 March 2026 - 03:16 AM,11.02,124.47,032,1.8,010km S 71° E of Palompon (Leyte),010,S 71° E,Palompon (Leyte)
+2026-03-10T02:50:00.000Z,10 March 2026 - 02:50 AM,06.96,124.99,013,3.1,011km N 89° W of Makilala (Cotabato),011,N 89° W,Makilala (Cotabato)
+2026-03-10T02:49:00.000Z,10 March 2026 - 02:49 AM,12.06,125.55,011,2.6,014km S 21° E of San Policarpo (Eastern Samar),014,S 21° E,San Policarpo (Eastern Samar)
+2026-03-10T02:45:00.000Z,10 March 2026 - 02:45 AM,12.10,125.66,021,2.2,019km S 64° E of San Policarpo (Eastern Samar),019,S 64° E,San Policarpo (Eastern Samar)
 2026-03-10T00:59:00.000Z,10 March 2026 - 12:59 AM,06.81,124.73,013,1.5,004km S 60° W of General Salipada K. Pendatun (Maguindanao Del Sur),004,S 60° W,General Salipada K. Pendatun (Maguindanao Del Sur)
 2026-03-10T00:45:00.000Z,10 March 2026 - 12:45 AM,12.11,125.54,012,2.4,009km S 21° E of San Policarpo (Eastern Samar),009,S 21° E,San Policarpo (Eastern Samar)
 2026-03-10T00:40:00.000Z,10 March 2026 - 12:40 AM,10.14,126.00,030,2.0,014km N 15° W of Santa Monica (Surigao Del Norte),014,N 15° W,Santa Monica (Surigao Del Norte)

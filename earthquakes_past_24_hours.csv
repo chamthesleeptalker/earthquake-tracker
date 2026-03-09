@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T03:23:00.000Z,10 March 2026 - 03:23 AM,13.48,122.61,032,2.0,010km S 26° E of San Narciso (Quezon),010,S 26° E,San Narciso (Quezon)
+2026-03-10T03:17:00.000Z,10 March 2026 - 03:17 AM,12.16,125.69,004,2.4,020km S 84° E of San Policarpo (Eastern Samar),020,S 84° E,San Policarpo (Eastern Samar)
+2026-03-10T03:16:00.000Z,10 March 2026 - 03:16 AM,11.02,124.47,032,1.8,010km S 71° E of Palompon (Leyte),010,S 71° E,Palompon (Leyte)
+2026-03-10T02:50:00.000Z,10 March 2026 - 02:50 AM,06.96,124.99,013,3.1,011km N 89° W of Makilala (Cotabato),011,N 89° W,Makilala (Cotabato)
+2026-03-10T02:49:00.000Z,10 March 2026 - 02:49 AM,12.06,125.55,011,2.6,014km S 21° E of San Policarpo (Eastern Samar),014,S 21° E,San Policarpo (Eastern Samar)
+2026-03-10T02:45:00.000Z,10 March 2026 - 02:45 AM,12.10,125.66,021,2.2,019km S 64° E of San Policarpo (Eastern Samar),019,S 64° E,San Policarpo (Eastern Samar)
 2026-03-10T00:59:00.000Z,10 March 2026 - 12:59 AM,06.81,124.73,013,1.5,004km S 60° W of General Salipada K. Pendatun (Maguindanao Del Sur),004,S 60° W,General Salipada K. Pendatun (Maguindanao Del Sur)
 2026-03-10T00:45:00.000Z,10 March 2026 - 12:45 AM,12.11,125.54,012,2.4,009km S 21° E of San Policarpo (Eastern Samar),009,S 21° E,San Policarpo (Eastern Samar)
 2026-03-10T00:40:00.000Z,10 March 2026 - 12:40 AM,10.14,126.00,030,2.0,014km N 15° W of Santa Monica (Surigao Del Norte),014,N 15° W,Santa Monica (Surigao Del Norte)
@@ -40,6 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-09T03:50:00.000Z,09 March 2026 - 03:50 AM,16.82,120.56,031,1.5,005km S 61° E of Sugpon (Ilocos Sur),005,S 61° E,Sugpon (Ilocos Sur)
 2026-03-09T03:42:00.000Z,09 March 2026 - 03:42 AM,16.75,120.15,026,2.2,023km N 50° W of City Of San Fernando (La Union),023,N 50° W,City Of San Fernando (La Union)
 2026-03-09T03:30:00.000Z,09 March 2026 - 03:30 AM,16.89,121.61,030,1.5,003km N 80° E of San Mateo (Isabela),003,N 80° E,San Mateo (Isabela)
-2026-03-09T02:53:00.000Z,09 March 2026 - 02:53 AM,19.33,121.10,030,1.7,027km N 24° W of Dalupiri Island (Calayan) (Cagayan),027,N 24° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-09T01:25:00.000Z,09 March 2026 - 01:25 AM,11.73,125.30,031,2.1,017km S 82° W of San Julian (Eastern Samar),017,S 82° W,San Julian (Eastern Samar)
-2026-03-09T01:12:00.000Z,09 March 2026 - 01:12 AM,09.48,122.57,016,1.9,011km N 42° W of Basay (Negros Oriental),011,N 42° W,Basay (Negros Oriental)
