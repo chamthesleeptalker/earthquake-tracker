@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-09T14:36:00.000Z,09 March 2026 - 02:36 PM,09.51,122.43,023,3.5,011km S 23° W of Hinoba-an (Negros Occidental),011,S 23° W,Hinoba-an (Negros Occidental)
-2026-03-09T13:42:00.000Z,09 March 2026 - 01:42 PM,10.94,123.97,009,1.7,012km S 05° W of City Of Bogo (Cebu),012,S 05° W,City Of Bogo (Cebu)
+2026-03-09T16:50:00.000Z,09 March 2026 - 04:50 PM,12.17,125.76,010,3.5,027km S 88° E of San Policarpo (Eastern Samar),027,S 88° E,San Policarpo (Eastern Samar)
+2026-03-09T16:38:00.000Z,09 March 2026 - 04:38 PM,12.12,125.57,012,2.4,010km S 48° E of San Policarpo (Eastern Samar),010,S 48° E,San Policarpo (Eastern Samar)
+2026-03-09T16:27:00.000Z,09 March 2026 - 04:27 PM,16.99,121.38,034,1.4,006km N 77° E of Aguinaldo (Ifugao),006,N 77° E,Aguinaldo (Ifugao)
