@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T07:42:00.000Z,10 March 2026 - 07:42 AM,08.00,126.58,008,2.0,019km S 76° E of Lingig (Surigao Del Sur),019,S 76° E,Lingig (Surigao Del Sur)
+2026-03-10T07:29:00.000Z,10 March 2026 - 07:29 AM,09.70,126.13,008,2.8,010km S 18° W of General Luna (Surigao Del Norte),010,S 18° W,General Luna (Surigao Del Norte)
 2026-03-10T06:39:00.000Z,10 March 2026 - 06:39 AM,12.14,125.64,013,2.6,015km S 72° E of San Policarpo (Eastern Samar),015,S 72° E,San Policarpo (Eastern Samar)
 2026-03-10T06:31:00.000Z,10 March 2026 - 06:31 AM,12.20,125.72,021,2.7,023km N 85° E of San Policarpo (Eastern Samar),023,N 85° E,San Policarpo (Eastern Samar)
 2026-03-10T06:14:00.000Z,10 March 2026 - 06:14 AM,10.73,124.33,022,2.6,011km N 35° W of San Francisco (Cebu),011,N 35° W,San Francisco (Cebu)
