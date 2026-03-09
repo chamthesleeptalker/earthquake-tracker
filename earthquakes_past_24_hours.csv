@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-09T14:36:00.000Z,09 March 2026 - 02:36 PM,09.51,122.43,023,3.5,011km S 23° W of Hinoba-an (Negros Occidental),011,S 23° W,Hinoba-an (Negros Occidental)
+2026-03-09T13:42:00.000Z,09 March 2026 - 01:42 PM,10.94,123.97,009,1.7,012km S 05° W of City Of Bogo (Cebu),012,S 05° W,City Of Bogo (Cebu)
 2026-03-09T13:21:00.000Z,09 March 2026 - 01:21 PM,08.56,122.61,024,2.5,048km N 74° W of Jose Dalman (Zamboanga Del Norte),048,N 74° W,Jose Dalman (Zamboanga Del Norte)
 2026-03-09T12:53:00.000Z,09 March 2026 - 12:53 PM,06.65,124.00,010,1.8,012km N 27° W of Kalamansig (Sultan Kudarat),012,N 27° W,Kalamansig (Sultan Kudarat)
 2026-03-09T12:46:00.000Z,09 March 2026 - 12:46 PM,09.99,125.97,032,2.0,006km N 49° W of San Benito (Surigao Del Norte),006,N 49° W,San Benito (Surigao Del Norte)
@@ -33,4 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-08T20:01:00.000Z,08 March 2026 - 08:01 PM,07.05,126.85,014,2.0,039km S 63° E of Manay (Davao Oriental),039,S 63° E,Manay (Davao Oriental)
 2026-03-08T19:47:00.000Z,08 March 2026 - 07:47 PM,06.08,126.52,007,2.7,080km S 38° E of Governor Generoso (Davao Oriental),080,S 38° E,Governor Generoso (Davao Oriental)
 2026-03-08T15:03:00.000Z,08 March 2026 - 03:03 PM,05.04,126.96,033,3.5,172km S 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),172,S 74° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-08T13:35:00.000Z,08 March 2026 - 01:35 PM,12.78,124.76,018,2.4,044km N 74° E of Biri (Northern Samar),044,N 74° E,Biri (Northern Samar)
