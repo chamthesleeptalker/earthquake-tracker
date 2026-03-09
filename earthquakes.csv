@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T05:16:00.000Z,10 March 2026 - 05:16 AM,12.22,125.62,024,2.1,013km N 70° E of San Policarpo (Eastern Samar),013,N 70° E,San Policarpo (Eastern Samar)
+2026-03-10T04:45:00.000Z,10 March 2026 - 04:45 AM,13.06,121.08,022,1.7,025km S 60° W of Victoria (Oriental Mindoro),025,S 60° W,Victoria (Oriental Mindoro)
 2026-03-10T03:37:00.000Z,10 March 2026 - 03:37 AM,12.11,125.81,011,4.0,033km S 77° E of San Policarpo (Eastern Samar),033,S 77° E,San Policarpo (Eastern Samar)
 2026-03-10T03:23:00.000Z,10 March 2026 - 03:23 AM,13.48,122.61,032,2.0,010km S 26° E of San Narciso (Quezon),010,S 26° E,San Narciso (Quezon)
 2026-03-10T03:17:00.000Z,10 March 2026 - 03:17 AM,12.16,125.69,004,2.4,020km S 84° E of San Policarpo (Eastern Samar),020,S 84° E,San Policarpo (Eastern Samar)
