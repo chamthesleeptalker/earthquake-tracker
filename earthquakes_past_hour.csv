@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-09T22:52:00.000Z,09 March 2026 - 10:52 PM,19.90,121.39,034,1.5,069km S 46° W of Sabtang (Batanes),069,S 46° W,Sabtang (Batanes)
-2026-03-09T22:29:00.000Z,09 March 2026 - 10:29 PM,21.23,121.98,088,2.9,051km N 17° E of Itbayat (Batanes),051,N 17° E,Itbayat (Batanes)
+2026-03-10T00:45:00.000Z,10 March 2026 - 12:45 AM,12.11,125.54,012,2.4,009km S 21° E of San Policarpo (Eastern Samar),009,S 21° E,San Policarpo (Eastern Samar)
+2026-03-10T00:40:00.000Z,10 March 2026 - 12:40 AM,10.14,126.00,030,2.0,014km N 15° W of Santa Monica (Surigao Del Norte),014,N 15° W,Santa Monica (Surigao Del Norte)
+2026-03-10T00:00:00.000Z,10 March 2026 - 12:00 AM,12.02,125.60,005,3.1,020km S 29° E of San Policarpo (Eastern Samar),020,S 29° E,San Policarpo (Eastern Samar)
+2026-03-09T23:51:00.000Z,09 March 2026 - 11:51 PM,12.11,125.77,007,3.1,030km S 74° E of San Policarpo (Eastern Samar),030,S 74° E,San Policarpo (Eastern Samar)
