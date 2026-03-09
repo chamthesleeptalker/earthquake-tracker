@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-09T05:59:00.000Z,09 March 2026 - 05:59 AM,13.52,120.67,111,3.2,011km N 37° W of Abra De Ilog (Occidental Mindoro),011,N 37° W,Abra De Ilog (Occidental Mindoro)
-2026-03-09T05:15:00.000Z,09 March 2026 - 05:15 AM,11.04,123.96,022,1.8,003km S 78° W of City Of Bogo (Cebu),003,S 78° W,City Of Bogo (Cebu)
+2026-03-09T09:38:00.000Z,09 March 2026 - 09:38 AM,08.65,126.44,004,2.2,023km S 44° E of Marihatag (Surigao Del Sur),023,S 44° E,Marihatag (Surigao Del Sur)
+2026-03-09T09:10:00.000Z,09 March 2026 - 09:10 AM,08.82,126.69,036,2.6,043km N 87° E of Marihatag (Surigao Del Sur),043,N 87° E,Marihatag (Surigao Del Sur)
+2026-03-09T09:02:00.000Z,09 March 2026 - 09:02 AM,18.09,122.13,032,1.7,024km S 37° E of Gonzaga (Cagayan),024,S 37° E,Gonzaga (Cagayan)
+2026-03-09T08:55:00.000Z,09 March 2026 - 08:55 AM,08.77,126.43,040,2.4,015km S 77° E of Marihatag (Surigao Del Sur),015,S 77° E,Marihatag (Surigao Del Sur)

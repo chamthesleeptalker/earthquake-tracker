@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-09T09:38:00.000Z,09 March 2026 - 09:38 AM,08.65,126.44,004,2.2,023km S 44° E of Marihatag (Surigao Del Sur),023,S 44° E,Marihatag (Surigao Del Sur)
+2026-03-09T09:10:00.000Z,09 March 2026 - 09:10 AM,08.82,126.69,036,2.6,043km N 87° E of Marihatag (Surigao Del Sur),043,N 87° E,Marihatag (Surigao Del Sur)
+2026-03-09T09:02:00.000Z,09 March 2026 - 09:02 AM,18.09,122.13,032,1.7,024km S 37° E of Gonzaga (Cagayan),024,S 37° E,Gonzaga (Cagayan)
+2026-03-09T08:55:00.000Z,09 March 2026 - 08:55 AM,08.77,126.43,040,2.4,015km S 77° E of Marihatag (Surigao Del Sur),015,S 77° E,Marihatag (Surigao Del Sur)
+2026-03-09T08:25:00.000Z,09 March 2026 - 08:25 AM,10.70,121.90,010,2.5,007km S 44° W of San Jose De Buenavista (Antique),007,S 44° W,San Jose De Buenavista (Antique)
 2026-03-09T05:59:00.000Z,09 March 2026 - 05:59 AM,13.52,120.67,111,3.2,011km N 37° W of Abra De Ilog (Occidental Mindoro),011,N 37° W,Abra De Ilog (Occidental Mindoro)
 2026-03-09T05:15:00.000Z,09 March 2026 - 05:15 AM,11.04,123.96,022,1.8,003km S 78° W of City Of Bogo (Cebu),003,S 78° W,City Of Bogo (Cebu)
 2026-03-09T04:45:00.000Z,09 March 2026 - 04:45 AM,09.01,121.87,027,2.0,095km S 63° W of Basay (Negros Oriental),095,S 63° W,Basay (Negros Oriental)
@@ -278,6 +283,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-02T10:57:00.000Z,02 March 2026 - 10:57 AM,09.83,126.04,031,1.4,008km S 62° E of Del Carmen (Surigao Del Norte),008,S 62° E,Del Carmen (Surigao Del Norte)
 2026-03-02T10:29:00.000Z,02 March 2026 - 10:29 AM,09.11,126.37,035,1.6,018km N 31° E of Bayabas (Surigao Del Sur),018,N 31° E,Bayabas (Surigao Del Sur)
 2026-03-02T09:53:00.000Z,02 March 2026 - 09:53 AM,12.73,123.17,033,2.1,020km S 23° W of Claveria (Masbate),020,S 23° W,Claveria (Masbate)
-2026-03-02T07:13:00.000Z,02 March 2026 - 07:13 AM,04.91,125.98,078,2.9,083km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-02T06:51:00.000Z,02 March 2026 - 06:51 AM,06.18,124.17,033,2.8,038km N 70° W of Maitum (Sarangani),038,N 70° W,Maitum (Sarangani)
-2026-03-02T06:33:00.000Z,02 March 2026 - 06:33 AM,06.28,127.08,045,2.6,110km S 39° E of Tarragona (Davao Oriental),110,S 39° E,Tarragona (Davao Oriental)

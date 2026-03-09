@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-09T09:38:00.000Z,09 March 2026 - 09:38 AM,08.65,126.44,004,2.2,023km S 44° E of Marihatag (Surigao Del Sur),023,S 44° E,Marihatag (Surigao Del Sur)
+2026-03-09T09:10:00.000Z,09 March 2026 - 09:10 AM,08.82,126.69,036,2.6,043km N 87° E of Marihatag (Surigao Del Sur),043,N 87° E,Marihatag (Surigao Del Sur)
+2026-03-09T09:02:00.000Z,09 March 2026 - 09:02 AM,18.09,122.13,032,1.7,024km S 37° E of Gonzaga (Cagayan),024,S 37° E,Gonzaga (Cagayan)
+2026-03-09T08:55:00.000Z,09 March 2026 - 08:55 AM,08.77,126.43,040,2.4,015km S 77° E of Marihatag (Surigao Del Sur),015,S 77° E,Marihatag (Surigao Del Sur)
+2026-03-09T08:25:00.000Z,09 March 2026 - 08:25 AM,10.70,121.90,010,2.5,007km S 44° W of San Jose De Buenavista (Antique),007,S 44° W,San Jose De Buenavista (Antique)
 2026-03-09T05:59:00.000Z,09 March 2026 - 05:59 AM,13.52,120.67,111,3.2,011km N 37° W of Abra De Ilog (Occidental Mindoro),011,N 37° W,Abra De Ilog (Occidental Mindoro)
 2026-03-09T05:15:00.000Z,09 March 2026 - 05:15 AM,11.04,123.96,022,1.8,003km S 78° W of City Of Bogo (Cebu),003,S 78° W,City Of Bogo (Cebu)
 2026-03-09T04:45:00.000Z,09 March 2026 - 04:45 AM,09.01,121.87,027,2.0,095km S 63° W of Basay (Negros Oriental),095,S 63° W,Basay (Negros Oriental)
@@ -30,5 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-08T12:45:00.000Z,08 March 2026 - 12:45 PM,09.79,125.44,020,3.1,002km N 68° E of San Francisco (Surigao Del Norte),002,N 68° E,San Francisco (Surigao Del Norte)
 2026-03-08T12:08:00.000Z,08 March 2026 - 12:08 PM,11.33,124.56,016,2.0,009km S 63° E of Leyte (Leyte),009,S 63° E,Leyte (Leyte)
 2026-03-08T09:50:00.000Z,08 March 2026 - 09:50 AM,18.02,120.20,025,2.9,030km West of Currimao (Ilocos Norte),030,West of Currimao,Norte)
-2026-03-08T09:21:00.000Z,08 March 2026 - 09:21 AM,14.95,119.96,028,2.0,014km N 87° W of San Antonio (Zambales),014,N 87° W,San Antonio (Zambales)
-2026-03-08T08:15:00.000Z,08 March 2026 - 08:15 AM,08.07,123.49,039,1.4,002km S 06° E of Molave (Zamboanga Del Sur),002,S 06° E,Molave (Zamboanga Del Sur)
