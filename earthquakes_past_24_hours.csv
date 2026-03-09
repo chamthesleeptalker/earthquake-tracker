@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T03:37:00.000Z,10 March 2026 - 03:37 AM,12.11,125.81,011,4.0,033km S 77° E of San Policarpo (Eastern Samar),033,S 77° E,San Policarpo (Eastern Samar)
 2026-03-10T03:23:00.000Z,10 March 2026 - 03:23 AM,13.48,122.61,032,2.0,010km S 26° E of San Narciso (Quezon),010,S 26° E,San Narciso (Quezon)
 2026-03-10T03:17:00.000Z,10 March 2026 - 03:17 AM,12.16,125.69,004,2.4,020km S 84° E of San Policarpo (Eastern Samar),020,S 84° E,San Policarpo (Eastern Samar)
 2026-03-10T03:16:00.000Z,10 March 2026 - 03:16 AM,11.02,124.47,032,1.8,010km S 71° E of Palompon (Leyte),010,S 71° E,Palompon (Leyte)
@@ -45,4 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-09T04:28:00.000Z,09 March 2026 - 04:28 AM,09.14,122.29,002,2.3,048km S 52° W of Basay (Negros Oriental),048,S 52° W,Basay (Negros Oriental)
 2026-03-09T03:50:00.000Z,09 March 2026 - 03:50 AM,16.82,120.56,031,1.5,005km S 61° E of Sugpon (Ilocos Sur),005,S 61° E,Sugpon (Ilocos Sur)
 2026-03-09T03:42:00.000Z,09 March 2026 - 03:42 AM,16.75,120.15,026,2.2,023km N 50° W of City Of San Fernando (La Union),023,N 50° W,City Of San Fernando (La Union)
-2026-03-09T03:30:00.000Z,09 March 2026 - 03:30 AM,16.89,121.61,030,1.5,003km N 80° E of San Mateo (Isabela),003,N 80° E,San Mateo (Isabela)
