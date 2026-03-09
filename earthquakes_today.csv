@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T06:39:00.000Z,10 March 2026 - 06:39 AM,12.14,125.64,013,2.6,015km S 72° E of San Policarpo (Eastern Samar),015,S 72° E,San Policarpo (Eastern Samar)
+2026-03-10T06:31:00.000Z,10 March 2026 - 06:31 AM,12.20,125.72,021,2.7,023km N 85° E of San Policarpo (Eastern Samar),023,N 85° E,San Policarpo (Eastern Samar)
 2026-03-10T06:14:00.000Z,10 March 2026 - 06:14 AM,10.73,124.33,022,2.6,011km N 35° W of San Francisco (Cebu),011,N 35° W,San Francisco (Cebu)
 2026-03-10T06:09:00.000Z,10 March 2026 - 06:09 AM,19.04,121.12,011,2.1,012km S 53° W of Dalupiri Island (Calayan) (Cagayan),012,S 53° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-10T05:16:00.000Z,10 March 2026 - 05:16 AM,12.22,125.62,024,2.1,013km N 70° E of San Policarpo (Eastern Samar),013,N 70° E,San Policarpo (Eastern Samar)
