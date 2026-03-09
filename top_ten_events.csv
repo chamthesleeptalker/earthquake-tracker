@@ -1,7 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-02T18:13:00.000Z,02 March 2026 - 06:13 PM,10.66,122.39,10,5.0,002km S 43° E of Tigbauan (Iloilo),002,S 43° E,Tigbauan (Iloilo)
 2026-03-07T23:53:00.000Z,07 March 2026 - 11:53 PM,12.99,124.82,10,4.9,048km N 14° W of Pambujan (Northern Samar),048,N 14° W,Pambujan (Northern Samar)
 2026-03-08T00:04:00.000Z,08 March 2026 - 12:04 AM,13.85,120.46,118,4.8,018km N 84° W of Calatagan (Batangas),018,N 84° W,Calatagan (Batangas)
+2026-03-09T18:52:00.000Z,09 March 2026 - 06:52 PM,12.07,125.86,10,4.6,040km S 72° E of San Policarpo (Eastern Samar),040,S 72° E,San Policarpo (Eastern Samar)
 2026-03-04T03:24:00.000Z,04 March 2026 - 03:24 AM,07.95,127.29,10,4.6,090km N 62° E of Baganga (Davao Oriental),090,N 62° E,Baganga (Davao Oriental)
 2026-03-06T07:25:00.000Z,06 March 2026 - 07:25 AM,09.23,126.58,10,4.5,042km S 83° E of Cortes (Surigao Del Sur),042,S 83° E,Cortes (Surigao Del Sur)
 2026-03-08T02:25:00.000Z,08 March 2026 - 02:25 AM,12.80,123.28,10,4.3,011km S 18° E of Claveria (Masbate),011,S 18° E,Claveria (Masbate)
