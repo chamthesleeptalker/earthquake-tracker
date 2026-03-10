@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T23:42:00.000Z,10 March 2026 - 11:42 PM,11.13,124.11,008,2.2,017km N 56° E of City Of Bogo (Cebu),017,N 56° E,City Of Bogo (Cebu)
+2026-03-10T23:29:00.000Z,10 March 2026 - 11:29 PM,07.60,126.70,021,2.6,016km N 81° E of Baganga (Davao Oriental),016,N 81° E,Baganga (Davao Oriental)
 2026-03-10T23:17:00.000Z,10 March 2026 - 11:17 PM,13.46,120.75,032,1.8,003km N 46° E of Abra De Ilog (Occidental Mindoro),003,N 46° E,Abra De Ilog (Occidental Mindoro)
 2026-03-10T23:06:00.000Z,10 March 2026 - 11:06 PM,12.35,126.02,010,4.4,058km N 71° E of San Policarpo (Eastern Samar),058,N 71° E,San Policarpo (Eastern Samar)
-2026-03-10T22:23:00.000Z,10 March 2026 - 10:23 PM,14.17,120.46,117,2.3,022km N 61° W of Nasugbu (Batangas),022,N 61° W,Nasugbu (Batangas)
