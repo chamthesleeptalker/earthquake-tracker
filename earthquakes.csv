@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T20:24:00.000Z,10 March 2026 - 08:24 PM,07.40,125.90,032,1.6,005km N 53° E of Maco (Davao De Oro),005,N 53° E,Maco (Davao De Oro)
+2026-03-10T20:08:00.000Z,10 March 2026 - 08:08 PM,07.99,126.23,017,2.1,020km N 51° W of Boston (Davao Oriental),020,N 51° W,Boston (Davao Oriental)
+2026-03-10T19:48:00.000Z,10 March 2026 - 07:48 PM,07.73,126.44,030,1.8,007km S 15° W of Cateel (Davao Oriental),007,S 15° W,Cateel (Davao Oriental)
 2026-03-10T19:04:00.000Z,10 March 2026 - 07:04 PM,11.10,124.08,009,2.0,013km N 57° E of City Of Bogo (Cebu),013,N 57° E,City Of Bogo (Cebu)
 2026-03-10T18:50:00.000Z,10 March 2026 - 06:50 PM,11.01,124.02,006,1.9,006km S 46° E of City Of Bogo (Cebu),006,S 46° E,City Of Bogo (Cebu)
 2026-03-10T18:13:00.000Z,10 March 2026 - 06:13 PM,12.78,120.99,023,2.4,023km N 14° E of Calintaan (Occidental Mindoro),023,N 14° E,Calintaan (Occidental Mindoro)
