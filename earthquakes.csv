@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T23:17:00.000Z,10 March 2026 - 11:17 PM,13.46,120.75,032,1.8,003km N 46° E of Abra De Ilog (Occidental Mindoro),003,N 46° E,Abra De Ilog (Occidental Mindoro)
+2026-03-10T23:06:00.000Z,10 March 2026 - 11:06 PM,12.35,126.02,010,4.4,058km N 71° E of San Policarpo (Eastern Samar),058,N 71° E,San Policarpo (Eastern Samar)
+2026-03-10T22:23:00.000Z,10 March 2026 - 10:23 PM,14.17,120.46,117,2.3,022km N 61° W of Nasugbu (Batangas),022,N 61° W,Nasugbu (Batangas)
+2026-03-10T22:12:00.000Z,10 March 2026 - 10:12 PM,12.13,125.64,016,2.6,016km S 68° E of San Policarpo (Eastern Samar),016,S 68° E,San Policarpo (Eastern Samar)
+2026-03-10T21:56:00.000Z,10 March 2026 - 09:56 PM,06.63,123.72,011,2.0,038km N 77° W of Kalamansig (Sultan Kudarat),038,N 77° W,Kalamansig (Sultan Kudarat)
+2026-03-10T21:55:00.000Z,10 March 2026 - 09:55 PM,06.57,123.67,010,2.0,042km N 88° W of Kalamansig (Sultan Kudarat),042,N 88° W,Kalamansig (Sultan Kudarat)
 2026-03-10T20:24:00.000Z,10 March 2026 - 08:24 PM,07.40,125.90,032,1.6,005km N 53° E of Maco (Davao De Oro),005,N 53° E,Maco (Davao De Oro)
 2026-03-10T20:08:00.000Z,10 March 2026 - 08:08 PM,07.99,126.23,017,2.1,020km N 51° W of Boston (Davao Oriental),020,N 51° W,Boston (Davao Oriental)
 2026-03-10T19:48:00.000Z,10 March 2026 - 07:48 PM,07.73,126.44,030,1.8,007km S 15° W of Cateel (Davao Oriental),007,S 15° W,Cateel (Davao Oriental)
