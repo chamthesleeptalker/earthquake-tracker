@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-10T12:42:00.000Z,10 March 2026 - 12:42 PM,07.44,126.90,025,3.1,039km N 71° E of Caraga (Davao Oriental),039,N 71° E,Caraga (Davao Oriental)
+2026-03-10T12:23:00.000Z,10 March 2026 - 12:23 PM,16.64,120.19,022,2.0,014km N 79° W of City Of San Fernando (La Union),014,N 79° W,City Of San Fernando (La Union)
 2026-03-10T07:42:00.000Z,10 March 2026 - 07:42 AM,08.00,126.58,008,2.0,019km S 76° E of Lingig (Surigao Del Sur),019,S 76° E,Lingig (Surigao Del Sur)
 2026-03-10T07:29:00.000Z,10 March 2026 - 07:29 AM,09.70,126.13,008,2.8,010km S 18° W of General Luna (Surigao Del Norte),010,S 18° W,General Luna (Surigao Del Norte)
 2026-03-10T06:39:00.000Z,10 March 2026 - 06:39 AM,12.14,125.64,013,2.6,015km S 72° E of San Policarpo (Eastern Samar),015,S 72° E,San Policarpo (Eastern Samar)
