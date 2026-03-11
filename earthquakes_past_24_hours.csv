@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-11T12:55:00.000Z,11 March 2026 - 12:55 PM,13.97,120.47,022,1.6,021km S 58° W of Nasugbu (Batangas),021,S 58° W,Nasugbu (Batangas)
+2026-03-11T12:53:00.000Z,11 March 2026 - 12:53 PM,13.90,120.44,049,1.8,022km N 70° W of Calatagan (Batangas),022,N 70° W,Calatagan (Batangas)
 2026-03-11T11:51:00.000Z,11 March 2026 - 11:51 AM,11.84,124.14,004,2.3,011km S 66° E of Pio V. Corpus (Masbate),011,S 66° E,Pio V. Corpus (Masbate)
 2026-03-11T10:30:00.000Z,11 March 2026 - 10:30 AM,13.67,120.55,047,1.7,020km S 27° W of Calatagan (Batangas),020,S 27° W,Calatagan (Batangas)
 2026-03-11T09:10:00.000Z,11 March 2026 - 09:10 AM,12.12,125.67,014,3.2,019km S 69° E of San Policarpo (Eastern Samar),019,S 69° E,San Policarpo (Eastern Samar)
@@ -34,5 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-10T18:50:00.000Z,10 March 2026 - 06:50 PM,11.01,124.02,006,1.9,006km S 46° E of City Of Bogo (Cebu),006,S 46° E,City Of Bogo (Cebu)
 2026-03-10T18:13:00.000Z,10 March 2026 - 06:13 PM,12.78,120.99,023,2.4,023km N 14° E of Calintaan (Occidental Mindoro),023,N 14° E,Calintaan (Occidental Mindoro)
 2026-03-10T13:39:00.000Z,10 March 2026 - 01:39 PM,13.21,121.21,033,1.6,009km N 65° W of Victoria (Oriental Mindoro),009,N 65° W,Victoria (Oriental Mindoro)
-2026-03-10T12:42:00.000Z,10 March 2026 - 12:42 PM,07.44,126.90,025,3.1,039km N 71° E of Caraga (Davao Oriental),039,N 71° E,Caraga (Davao Oriental)
-2026-03-10T12:23:00.000Z,10 March 2026 - 12:23 PM,16.64,120.19,022,2.0,014km N 79° W of City Of San Fernando (La Union),014,N 79° W,City Of San Fernando (La Union)
