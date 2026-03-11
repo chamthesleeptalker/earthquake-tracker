@@ -1,6 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-12T02:20:00.000Z,12 March 2026 - 02:20 AM,13.08,120.96,033,1.3,026km S 90° E of Santa Cruz (Occidental Mindoro),026,S 90° E,Santa Cruz (Occidental Mindoro)
-2026-03-12T02:19:00.000Z,12 March 2026 - 02:19 AM,11.42,124.47,008,3.2,005km S 05° W of Biliran (Biliran),005,S 05° W,Biliran (Biliran)
-2026-03-12T02:00:00.000Z,12 March 2026 - 02:00 AM,13.74,120.18,025,2.0,008km N 71° W of Looc (Occidental Mindoro),008,N 71° W,Looc (Occidental Mindoro)
-2026-03-12T01:46:00.000Z,12 March 2026 - 01:46 AM,13.71,125.51,034,3.0,121km S 86° E of Gigmoto (Catanduanes),121,S 86° E,Gigmoto (Catanduanes)
-2026-03-12T01:37:00.000Z,12 March 2026 - 01:37 AM,12.18,125.86,010,4.4,038km N 89° E of San Policarpo (Eastern Samar),038,N 89° E,San Policarpo (Eastern Samar)
+2026-03-12T03:39:00.000Z,12 March 2026 - 03:39 AM,12.30,125.63,030,2.1,019km N 44° E of San Policarpo (Eastern Samar),019,N 44° E,San Policarpo (Eastern Samar)
+2026-03-12T03:33:00.000Z,12 March 2026 - 03:33 AM,10.92,123.91,007,2.4,016km S 27° W of City Of Bogo (Cebu),016,S 27° W,City Of Bogo (Cebu)
