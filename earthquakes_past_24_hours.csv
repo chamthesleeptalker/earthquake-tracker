@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-11T09:10:00.000Z,11 March 2026 - 09:10 AM,12.12,125.67,014,3.2,019km S 69° E of San Policarpo (Eastern Samar),019,S 69° E,San Policarpo (Eastern Samar)
+2026-03-11T08:22:00.000Z,11 March 2026 - 08:22 AM,17.24,120.06,005,2.4,041km N 78° W of City Of Candon (Ilocos Sur),041,N 78° W,City Of Candon (Ilocos Sur)
 2026-03-11T04:51:00.000Z,11 March 2026 - 04:51 AM,17.25,120.06,007,3.3,048km S 47° W of Caoayan (Ilocos Sur),048,S 47° W,Caoayan (Ilocos Sur)
 2026-03-11T02:51:00.000Z,11 March 2026 - 02:51 AM,12.20,125.85,014,3.8,029km S 77° E of San Policarpo (Eastern Samar),029,S 77° E,San Policarpo (Eastern Samar)
 2026-03-11T04:15:00.000Z,11 March 2026 - 04:15 AM,13.32,120.58,034,2.0,011km N 06° W of Mamburao (Occidental Mindoro),011,N 06° W,Mamburao (Occidental Mindoro)
@@ -32,10 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-10T13:39:00.000Z,10 March 2026 - 01:39 PM,13.21,121.21,033,1.6,009km N 65° W of Victoria (Oriental Mindoro),009,N 65° W,Victoria (Oriental Mindoro)
 2026-03-10T12:42:00.000Z,10 March 2026 - 12:42 PM,07.44,126.90,025,3.1,039km N 71° E of Caraga (Davao Oriental),039,N 71° E,Caraga (Davao Oriental)
 2026-03-10T12:23:00.000Z,10 March 2026 - 12:23 PM,16.64,120.19,022,2.0,014km N 79° W of City Of San Fernando (La Union),014,N 79° W,City Of San Fernando (La Union)
-2026-03-10T07:42:00.000Z,10 March 2026 - 07:42 AM,08.00,126.58,008,2.0,019km S 76° E of Lingig (Surigao Del Sur),019,S 76° E,Lingig (Surigao Del Sur)
-2026-03-10T07:29:00.000Z,10 March 2026 - 07:29 AM,09.70,126.13,008,2.8,010km S 18° W of General Luna (Surigao Del Norte),010,S 18° W,General Luna (Surigao Del Norte)
-2026-03-10T06:39:00.000Z,10 March 2026 - 06:39 AM,12.14,125.64,013,2.6,015km S 72° E of San Policarpo (Eastern Samar),015,S 72° E,San Policarpo (Eastern Samar)
-2026-03-10T06:31:00.000Z,10 March 2026 - 06:31 AM,12.20,125.72,021,2.7,023km N 85° E of San Policarpo (Eastern Samar),023,N 85° E,San Policarpo (Eastern Samar)
-2026-03-10T06:14:00.000Z,10 March 2026 - 06:14 AM,10.73,124.33,022,2.6,011km N 35° W of San Francisco (Cebu),011,N 35° W,San Francisco (Cebu)
-2026-03-10T06:09:00.000Z,10 March 2026 - 06:09 AM,19.04,121.12,011,2.1,012km S 53° W of Dalupiri Island (Calayan) (Cagayan),012,S 53° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-10T05:16:00.000Z,10 March 2026 - 05:16 AM,12.22,125.62,024,2.1,013km N 70° E of San Policarpo (Eastern Samar),013,N 70° E,San Policarpo (Eastern Samar)

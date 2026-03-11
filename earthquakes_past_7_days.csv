@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-11T09:10:00.000Z,11 March 2026 - 09:10 AM,12.12,125.67,014,3.2,019km S 69° E of San Policarpo (Eastern Samar),019,S 69° E,San Policarpo (Eastern Samar)
+2026-03-11T08:22:00.000Z,11 March 2026 - 08:22 AM,17.24,120.06,005,2.4,041km N 78° W of City Of Candon (Ilocos Sur),041,N 78° W,City Of Candon (Ilocos Sur)
 2026-03-11T04:51:00.000Z,11 March 2026 - 04:51 AM,17.25,120.06,007,3.3,048km S 47° W of Caoayan (Ilocos Sur),048,S 47° W,Caoayan (Ilocos Sur)
 2026-03-11T02:51:00.000Z,11 March 2026 - 02:51 AM,12.20,125.85,014,3.8,029km S 77° E of San Policarpo (Eastern Samar),029,S 77° E,San Policarpo (Eastern Samar)
 2026-03-11T04:15:00.000Z,11 March 2026 - 04:15 AM,13.32,120.58,034,2.0,011km N 06° W of Mamburao (Occidental Mindoro),011,N 06° W,Mamburao (Occidental Mindoro)
@@ -272,9 +274,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-04T11:47:00.000Z,04 March 2026 - 11:47 AM,12.12,125.62,013,2.5,014km S 60° E of San Policarpo (Eastern Samar),014,S 60° E,San Policarpo (Eastern Samar)
 2026-03-04T10:55:00.000Z,04 March 2026 - 10:55 AM,15.79,119.76,014,3.1,016km S 76° W of Infanta (Pangasinan),016,S 76° W,Infanta (Pangasinan)
 2026-03-04T10:30:00.000Z,04 March 2026 - 10:30 AM,20.51,121.41,015,2.9,052km N 69° W of Sabtang (Batanes),052,N 69° W,Sabtang (Batanes)
-2026-03-04T07:45:00.000Z,04 March 2026 - 07:45 AM,07.72,124.65,005,1.6,009km S 28° W of Amai Manabilang (Lanao Del Sur),009,S 28° W,Amai Manabilang (Lanao Del Sur)
-2026-03-04T07:08:00.000Z,04 March 2026 - 07:08 AM,08.73,126.19,032,1.5,004km S 57° W of San Agustin (Surigao Del Sur),004,S 57° W,San Agustin (Surigao Del Sur)
-2026-03-04T07:05:00.000Z,04 March 2026 - 07:05 AM,06.42,123.66,003,2.4,046km S 71° W of Kalamansig (Sultan Kudarat),046,S 71° W,Kalamansig (Sultan Kudarat)
-2026-03-04T06:33:00.000Z,04 March 2026 - 06:33 AM,12.84,123.31,010,4.1,009km S 45° E of Claveria (Masbate),009,S 45° E,Claveria (Masbate)
-2026-03-04T06:20:00.000Z,04 March 2026 - 06:20 AM,06.40,123.58,016,2.0,055km S 72° W of Kalamansig (Sultan Kudarat),055,S 72° W,Kalamansig (Sultan Kudarat)
-2026-03-04T06:17:00.000Z,04 March 2026 - 06:17 AM,16.21,120.92,011,1.8,006km N 17° W of Santa Fe (Nueva Vizcaya),006,N 17° W,Santa Fe (Nueva Vizcaya)
