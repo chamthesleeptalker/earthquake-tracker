@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-11T17:03:00.000Z,11 March 2026 - 05:03 PM,06.19,123.94,038,1.7,042km S 17° W of Kalamansig (Sultan Kudarat),042,S 17° W,Kalamansig (Sultan Kudarat)
 2026-03-11T13:54:00.000Z,11 March 2026 - 01:54 PM,18.53,120.73,027,2.4,003km S 60° W of Bangui (Ilocos Norte),003,S 60° W,Bangui (Ilocos Norte)
 2026-03-11T12:55:00.000Z,11 March 2026 - 12:55 PM,13.97,120.47,022,1.6,021km S 58° W of Nasugbu (Batangas),021,S 58° W,Nasugbu (Batangas)
 2026-03-11T12:53:00.000Z,11 March 2026 - 12:53 PM,13.90,120.44,049,1.8,022km N 70° W of Calatagan (Batangas),022,N 70° W,Calatagan (Batangas)
@@ -267,8 +268,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-04T18:48:00.000Z,04 March 2026 - 06:48 PM,17.94,120.12,019,2.4,037km N 77° W of Sinait (Ilocos Sur),037,N 77° W,Sinait (Ilocos Sur)
 2026-03-04T18:19:00.000Z,04 March 2026 - 06:19 PM,06.88,127.26,003,2.9,095km S 71° E of Manay (Davao Oriental),095,S 71° E,Manay (Davao Oriental)
 2026-03-04T17:35:00.000Z,04 March 2026 - 05:35 PM,08.65,123.43,010,2.4,002km N 66° E of City Of Dapitan (Zamboanga Del Norte),002,N 66° E,City Of Dapitan (Zamboanga Del Norte)
-2026-03-04T16:58:00.000Z,04 March 2026 - 04:58 PM,12.85,121.02,008,2.4,026km N 90° E of Sablayan (Occidental Mindoro),026,N 90° E,Sablayan (Occidental Mindoro)
-2026-03-04T15:11:00.000Z,04 March 2026 - 03:11 PM,10.57,122.50,035,1.9,007km N 42° W of Nueva Valencia (Guimaras),007,N 42° W,Nueva Valencia (Guimaras)
-2026-03-04T14:39:00.000Z,04 March 2026 - 02:39 PM,13.06,122.77,010,2.4,024km S 72° W of San Pascual (Masbate),024,S 72° W,San Pascual (Masbate)
-2026-03-04T14:25:00.000Z,04 March 2026 - 02:25 PM,13.96,120.52,084,1.6,017km S 59° W of Lian (Batangas),017,S 59° W,Lian (Batangas)
-2026-03-04T13:54:00.000Z,04 March 2026 - 01:54 PM,16.16,122.19,021,2.6,015km S 29° E of Casiguran (Aurora),015,S 29° E,Casiguran (Aurora)
