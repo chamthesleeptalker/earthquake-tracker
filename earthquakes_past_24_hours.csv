@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T03:55:00.000Z,13 March 2026 - 03:55 AM,19.93,121.27,012,3.5,078km N 16° W of Calayan (Cagayan),078,N 16° W,Calayan (Cagayan)
 2026-03-13T03:26:00.000Z,13 March 2026 - 03:26 AM,17.80,119.92,026,2.3,053km N 64° W of Santa Catalina (Ilocos Sur),053,N 64° W,Santa Catalina (Ilocos Sur)
 2026-03-13T03:04:00.000Z,13 March 2026 - 03:04 AM,08.72,126.65,029,2.0,040km S 77° E of Marihatag (Surigao Del Sur),040,S 77° E,Marihatag (Surigao Del Sur)
 2026-03-13T02:58:00.000Z,13 March 2026 - 02:58 AM,05.55,127.01,062,2.9,157km S 75° E of Jose Abad Santos (Davao Occidental),157,S 75° E,Jose Abad Santos (Davao Occidental)
@@ -30,5 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-12T06:00:00.000Z,12 March 2026 - 06:00 AM,05.49,125.29,019,2.3,017km N 58° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 58° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-12T04:42:00.000Z,12 March 2026 - 04:42 AM,17.89,121.25,036,1.7,011km N 62° W of Rizal (Cagayan),011,N 62° W,Rizal (Cagayan)
 2026-03-12T03:55:00.000Z,12 March 2026 - 03:55 AM,13.02,120.90,007,3.5,021km S 71° E of Santa Cruz (Occidental Mindoro),021,S 71° E,Santa Cruz (Occidental Mindoro)
-2026-03-12T03:39:00.000Z,12 March 2026 - 03:39 AM,12.30,125.63,030,2.1,019km N 44° E of San Policarpo (Eastern Samar),019,N 44° E,San Policarpo (Eastern Samar)
-2026-03-12T03:33:00.000Z,12 March 2026 - 03:33 AM,10.92,123.91,007,2.4,016km S 27° W of City Of Bogo (Cebu),016,S 27° W,City Of Bogo (Cebu)
