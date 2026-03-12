@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-12T20:53:00.000Z,12 March 2026 - 08:53 PM,19.07,121.07,008,2.4,015km S 73° W of Dalupiri Island (Calayan) (Cagayan),015,S 73° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-12T20:05:00.000Z,12 March 2026 - 08:05 PM,02.49,122.89,479,4.2,401km S 42° E of South Ubian (Tawi-tawi),401,S 42° E,South Ubian (Tawi-tawi)
 2026-03-12T18:12:00.000Z,12 March 2026 - 06:12 PM,19.10,121.09,012,2.8,012km S 84° W of Dalupiri Island (Calayan) (Cagayan),012,S 84° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-12T16:46:00.000Z,12 March 2026 - 04:46 PM,10.92,124.03,021,1.7,002km S 09° E of Tabogon (Cebu),002,S 09° E,Tabogon (Cebu)
@@ -271,8 +272,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-05T22:11:00.000Z,05 March 2026 - 10:11 PM,16.24,120.06,023,2.6,013km N 41° E of City Of Alaminos (Pangasinan),013,N 41° E,City Of Alaminos (Pangasinan)
 2026-03-05T21:59:00.000Z,05 March 2026 - 09:59 PM,18.52,120.48,035,1.8,017km N 88° W of Burgos (Ilocos Norte),017,N 88° W,Burgos (Ilocos Norte)
 2026-03-05T21:06:00.000Z,05 March 2026 - 09:06 PM,18.80,120.84,020,1.8,027km N 11° E of Pagudpud (Ilocos Norte),027,N 11° E,Pagudpud (Ilocos Norte)
-2026-03-05T20:48:00.000Z,05 March 2026 - 08:48 PM,17.26,120.66,088,2.5,007km S 87° W of Tubo (Abra),007,S 87° W,Tubo (Abra)
-2026-03-05T20:46:00.000Z,05 March 2026 - 08:46 PM,10.98,122.27,030,2.0,016km S 82° E of Valderrama (Antique),016,S 82° E,Valderrama (Antique)
-2026-03-05T20:30:00.000Z,05 March 2026 - 08:30 PM,10.67,122.36,028,2.0,002km S 81° W of Tigbauan (Iloilo),002,S 81° W,Tigbauan (Iloilo)
-2026-03-05T20:28:00.000Z,05 March 2026 - 08:28 PM,05.69,126.55,051,3.2,103km S 76° E of Jose Abad Santos (Davao Occidental),103,S 76° E,Jose Abad Santos (Davao Occidental)
-2026-03-05T20:13:00.000Z,05 March 2026 - 08:13 PM,10.48,122.51,004,1.9,006km S 31° W of Nueva Valencia (Guimaras),006,S 31° W,Nueva Valencia (Guimaras)
