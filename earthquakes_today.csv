@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-12T10:29:00.000Z,12 March 2026 - 10:29 AM,17.99,120.43,033,1.4,006km S 62° W of Currimao (Ilocos Norte),006,S 62° W,Currimao (Ilocos Norte)
 2026-03-12T09:34:00.000Z,12 March 2026 - 09:34 AM,08.52,125.71,008,1.9,004km N 61° W of San Luis (Agusan Del Sur),004,N 61° W,San Luis (Agusan Del Sur)
 2026-03-12T09:07:00.000Z,12 March 2026 - 09:07 AM,08.01,122.80,009,2.1,005km N 74° W of Godod (Zamboanga Del Norte),005,N 74° W,Godod (Zamboanga Del Norte)
 2026-03-12T08:23:00.000Z,12 March 2026 - 08:23 AM,08.82,126.66,007,2.2,040km N 87° E of Marihatag (Surigao Del Sur),040,N 87° E,Marihatag (Surigao Del Sur)
