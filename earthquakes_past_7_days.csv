@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-12T23:12:00.000Z,12 March 2026 - 11:12 PM,11.07,123.95,006,3.2,005km N 48° W of City Of Bogo (Cebu),005,N 48° W,City Of Bogo (Cebu)
+2026-03-12T22:08:00.000Z,12 March 2026 - 10:08 PM,09.43,125.82,013,2.3,016km N 65° W of Carrascal (Surigao Del Sur),016,N 65° W,Carrascal (Surigao Del Sur)
 2026-03-12T20:53:00.000Z,12 March 2026 - 08:53 PM,19.07,121.07,008,2.4,015km S 73° W of Dalupiri Island (Calayan) (Cagayan),015,S 73° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-12T20:05:00.000Z,12 March 2026 - 08:05 PM,02.49,122.89,479,4.2,401km S 42° E of South Ubian (Tawi-tawi),401,S 42° E,South Ubian (Tawi-tawi)
 2026-03-12T18:12:00.000Z,12 March 2026 - 06:12 PM,19.10,121.09,012,2.8,012km S 84° W of Dalupiri Island (Calayan) (Cagayan),012,S 84° W,Dalupiri Island (Calayan) (Cagayan)
@@ -269,6 +271,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T01:21:00.000Z,06 March 2026 - 01:21 AM,08.04,126.54,011,1.9,014km N 88° E of Lingig (Surigao Del Sur),014,N 88° E,Lingig (Surigao Del Sur)
 2026-03-06T01:06:00.000Z,06 March 2026 - 01:06 AM,07.42,126.77,009,1.7,024km N 66° E of Caraga (Davao Oriental),024,N 66° E,Caraga (Davao Oriental)
 2026-03-05T23:32:00.000Z,05 March 2026 - 11:32 PM,09.55,126.08,029,1.9,015km S 58° E of Socorro (Surigao Del Norte),015,S 58° E,Socorro (Surigao Del Norte)
-2026-03-05T22:11:00.000Z,05 March 2026 - 10:11 PM,16.24,120.06,023,2.6,013km N 41° E of City Of Alaminos (Pangasinan),013,N 41° E,City Of Alaminos (Pangasinan)
-2026-03-05T21:59:00.000Z,05 March 2026 - 09:59 PM,18.52,120.48,035,1.8,017km N 88° W of Burgos (Ilocos Norte),017,N 88° W,Burgos (Ilocos Norte)
-2026-03-05T21:06:00.000Z,05 March 2026 - 09:06 PM,18.80,120.84,020,1.8,027km N 11° E of Pagudpud (Ilocos Norte),027,N 11° E,Pagudpud (Ilocos Norte)
