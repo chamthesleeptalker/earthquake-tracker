@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-12T09:34:00.000Z,12 March 2026 - 09:34 AM,08.52,125.71,008,1.9,004km N 61° W of San Luis (Agusan Del Sur),004,N 61° W,San Luis (Agusan Del Sur)
+2026-03-12T09:07:00.000Z,12 March 2026 - 09:07 AM,08.01,122.80,009,2.1,005km N 74° W of Godod (Zamboanga Del Norte),005,N 74° W,Godod (Zamboanga Del Norte)
+2026-03-12T08:23:00.000Z,12 March 2026 - 08:23 AM,08.82,126.66,007,2.2,040km N 87° E of Marihatag (Surigao Del Sur),040,N 87° E,Marihatag (Surigao Del Sur)
+2026-03-12T08:06:00.000Z,12 March 2026 - 08:06 AM,08.82,126.67,010,5.0,040km N 86° E of Marihatag (Surigao Del Sur),040,N 86° E,Marihatag (Surigao Del Sur)
 2026-03-12T07:13:00.000Z,12 March 2026 - 07:13 AM,12.75,123.05,046,1.9,027km S 51° W of Claveria (Masbate),027,S 51° W,Claveria (Masbate)
 2026-03-12T06:52:00.000Z,12 March 2026 - 06:52 AM,09.57,126.69,010,3.9,063km S 68° E of General Luna (Surigao Del Norte),063,S 68° E,General Luna (Surigao Del Norte)
 2026-03-12T06:07:00.000Z,12 March 2026 - 06:07 AM,12.92,123.11,005,2.3,015km N 83° W of Claveria (Masbate),015,N 83° W,Claveria (Masbate)
@@ -266,7 +270,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-05T16:53:00.000Z,05 March 2026 - 04:53 PM,07.22,126.56,015,2.1,002km N 55° E of Manay (Davao Oriental),002,N 55° E,Manay (Davao Oriental)
 2026-03-05T14:46:00.000Z,05 March 2026 - 02:46 PM,13.97,120.55,094,1.4,014km S 55° W of Lian (Batangas),014,S 55° W,Lian (Batangas)
 2026-03-05T11:37:00.000Z,05 March 2026 - 11:37 AM,12.27,120.68,042,1.4,037km S 57° W of Rizal (Occidental Mindoro),037,S 57° W,Rizal (Occidental Mindoro)
-2026-03-05T09:33:00.000Z,05 March 2026 - 09:33 AM,08.37,126.09,015,1.9,010km S 80° E of Rosario (Agusan Del Sur),010,S 80° E,Rosario (Agusan Del Sur)
-2026-03-05T07:35:00.000Z,05 March 2026 - 07:35 AM,09.47,122.57,028,1.3,010km N 46° W of Basay (Negros Oriental),010,N 46° W,Basay (Negros Oriental)
-2026-03-05T07:29:00.000Z,05 March 2026 - 07:29 AM,12.81,123.00,008,1.6,029km S 69° W of Claveria (Masbate),029,S 69° W,Claveria (Masbate)
-2026-03-05T07:14:00.000Z,05 March 2026 - 07:14 AM,06.15,126.61,103,2.7,081km S 47° E of Governor Generoso (Davao Oriental),081,S 47° E,Governor Generoso (Davao Oriental)
