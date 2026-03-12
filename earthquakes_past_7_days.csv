@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T05:54:00.000Z,13 March 2026 - 05:54 AM,06.32,126.00,101,2.2,036km N 68° E of Don Marcelino (Davao Occidental),036,N 68° E,Don Marcelino (Davao Occidental)
 2026-03-13T03:55:00.000Z,13 March 2026 - 03:55 AM,19.93,121.27,012,3.5,078km N 16° W of Calayan (Cagayan),078,N 16° W,Calayan (Cagayan)
 2026-03-13T03:26:00.000Z,13 March 2026 - 03:26 AM,17.80,119.92,026,2.3,053km N 64° W of Santa Catalina (Ilocos Sur),053,N 64° W,Santa Catalina (Ilocos Sur)
 2026-03-13T03:04:00.000Z,13 March 2026 - 03:04 AM,08.72,126.65,029,2.0,040km S 77° E of Marihatag (Surigao Del Sur),040,S 77° E,Marihatag (Surigao Del Sur)
@@ -261,10 +262,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T09:10:00.000Z,06 March 2026 - 09:10 AM,06.93,126.66,131,2.6,027km S 60° E of Tarragona (Davao Oriental),027,S 60° E,Tarragona (Davao Oriental)
 2026-03-06T07:25:00.000Z,06 March 2026 - 07:25 AM,09.23,126.58,010,4.5,042km S 83° E of Cortes (Surigao Del Sur),042,S 83° E,Cortes (Surigao Del Sur)
 2026-03-06T06:38:00.000Z,06 March 2026 - 06:38 AM,18.01,120.94,011,1.5,019km S 41° E of Carasi (Ilocos Norte),019,S 41° E,Carasi (Ilocos Norte)
-2026-03-06T05:21:00.000Z,06 March 2026 - 05:21 AM,10.34,125.19,032,1.9,006km S 09° W of Hinunangan (Southern Leyte),006,S 09° W,Hinunangan (Southern Leyte)
-2026-03-06T04:55:00.000Z,06 March 2026 - 04:55 AM,06.62,123.93,006,1.8,015km N 61° W of Kalamansig (Sultan Kudarat),015,N 61° W,Kalamansig (Sultan Kudarat)
-2026-03-06T04:51:00.000Z,06 March 2026 - 04:51 AM,06.27,123.65,033,2.0,054km S 54° W of Kalamansig (Sultan Kudarat),054,S 54° W,Kalamansig (Sultan Kudarat)
-2026-03-06T04:33:00.000Z,06 March 2026 - 04:33 AM,08.82,126.40,034,3.0,011km N 79° E of Marihatag (Surigao Del Sur),011,N 79° E,Marihatag (Surigao Del Sur)
-2026-03-06T04:25:00.000Z,06 March 2026 - 04:25 AM,06.36,123.53,005,2.9,062km S 70° W of Kalamansig (Sultan Kudarat),062,S 70° W,Kalamansig (Sultan Kudarat)
-2026-03-06T04:15:00.000Z,06 March 2026 - 04:15 AM,16.57,119.87,026,2.9,020km N 06° W of Bolinao (Pangasinan),020,N 06° W,Bolinao (Pangasinan)
-2026-03-06T04:13:00.000Z,06 March 2026 - 04:13 AM,06.57,125.21,008,2.2,007km S 38° W of Kiblawan (Davao Del Sur),007,S 38° W,Kiblawan (Davao Del Sur)
