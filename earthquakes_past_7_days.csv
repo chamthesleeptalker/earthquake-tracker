@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T06:41:00.000Z,13 March 2026 - 06:41 AM,08.83,126.42,019,2.8,014km N 75° E of Marihatag (Surigao Del Sur),014,N 75° E,Marihatag (Surigao Del Sur)
+2026-03-13T06:21:00.000Z,13 March 2026 - 06:21 AM,11.08,123.92,007,2.9,008km N 58° W of City Of Bogo (Cebu),008,N 58° W,City Of Bogo (Cebu)
 2026-03-13T05:54:00.000Z,13 March 2026 - 05:54 AM,06.32,126.00,101,2.2,036km N 68° E of Don Marcelino (Davao Occidental),036,N 68° E,Don Marcelino (Davao Occidental)
 2026-03-13T03:55:00.000Z,13 March 2026 - 03:55 AM,19.93,121.27,012,3.5,078km N 16° W of Calayan (Cagayan),078,N 16° W,Calayan (Cagayan)
 2026-03-13T03:26:00.000Z,13 March 2026 - 03:26 AM,17.80,119.92,026,2.3,053km N 64° W of Santa Catalina (Ilocos Sur),053,N 64° W,Santa Catalina (Ilocos Sur)
@@ -261,4 +263,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T10:49:00.000Z,06 March 2026 - 10:49 AM,08.53,127.06,001,3.0,081km N 77° E of Hinatuan (Surigao Del Sur),081,N 77° E,Hinatuan (Surigao Del Sur)
 2026-03-06T09:10:00.000Z,06 March 2026 - 09:10 AM,06.93,126.66,131,2.6,027km S 60° E of Tarragona (Davao Oriental),027,S 60° E,Tarragona (Davao Oriental)
 2026-03-06T07:25:00.000Z,06 March 2026 - 07:25 AM,09.23,126.58,010,4.5,042km S 83° E of Cortes (Surigao Del Sur),042,S 83° E,Cortes (Surigao Del Sur)
-2026-03-06T06:38:00.000Z,06 March 2026 - 06:38 AM,18.01,120.94,011,1.5,019km S 41° E of Carasi (Ilocos Norte),019,S 41° E,Carasi (Ilocos Norte)
