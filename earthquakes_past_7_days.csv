@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T03:26:00.000Z,13 March 2026 - 03:26 AM,17.80,119.92,026,2.3,053km N 64° W of Santa Catalina (Ilocos Sur),053,N 64° W,Santa Catalina (Ilocos Sur)
+2026-03-13T03:04:00.000Z,13 March 2026 - 03:04 AM,08.72,126.65,029,2.0,040km S 77° E of Marihatag (Surigao Del Sur),040,S 77° E,Marihatag (Surigao Del Sur)
+2026-03-13T02:58:00.000Z,13 March 2026 - 02:58 AM,05.55,127.01,062,2.9,157km S 75° E of Jose Abad Santos (Davao Occidental),157,S 75° E,Jose Abad Santos (Davao Occidental)
+2026-03-13T02:55:00.000Z,13 March 2026 - 02:55 AM,06.09,125.63,132,2.0,013km S 30° W of Don Marcelino (Davao Occidental),013,S 30° W,Don Marcelino (Davao Occidental)
 2026-03-13T02:03:00.000Z,13 March 2026 - 02:03 AM,14.22,123.33,002,2.5,036km N 71° E of Mercedes (Camarines Norte),036,N 71° E,Mercedes (Camarines Norte)
 2026-03-13T00:54:00.000Z,13 March 2026 - 12:54 AM,07.62,126.57,030,2.0,005km N 11° E of Baganga (Davao Oriental),005,N 11° E,Baganga (Davao Oriental)
 2026-03-12T23:18:00.000Z,12 March 2026 - 11:18 PM,06.60,123.75,019,2.5,033km N 81° W of Kalamansig (Sultan Kudarat),033,N 81° W,Kalamansig (Sultan Kudarat)
@@ -263,5 +267,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T04:25:00.000Z,06 March 2026 - 04:25 AM,06.36,123.53,005,2.9,062km S 70° W of Kalamansig (Sultan Kudarat),062,S 70° W,Kalamansig (Sultan Kudarat)
 2026-03-06T04:15:00.000Z,06 March 2026 - 04:15 AM,16.57,119.87,026,2.9,020km N 06° W of Bolinao (Pangasinan),020,N 06° W,Bolinao (Pangasinan)
 2026-03-06T04:13:00.000Z,06 March 2026 - 04:13 AM,06.57,125.21,008,2.2,007km S 38° W of Kiblawan (Davao Del Sur),007,S 38° W,Kiblawan (Davao Del Sur)
-2026-03-06T03:21:00.000Z,06 March 2026 - 03:21 AM,14.62,121.91,005,1.7,011km S 14° W of Polillo (Quezon),011,S 14° W,Polillo (Quezon)
-2026-03-06T02:31:00.000Z,06 March 2026 - 02:31 AM,07.19,125.82,070,2.0,011km N 49° W of Pantukan (Davao De Oro),011,N 49° W,Pantukan (Davao De Oro)
