@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T01:43:00.000Z,14 March 2026 - 01:43 AM,13.89,120.54,083,2.2,012km N 57° W of Calatagan (Batangas),012,N 57° W,Calatagan (Batangas)
+2026-03-14T01:31:00.000Z,14 March 2026 - 01:31 AM,08.69,126.51,001,2.2,026km S 62° E of Marihatag (Surigao Del Sur),026,S 62° E,Marihatag (Surigao Del Sur)
+2026-03-14T01:24:00.000Z,14 March 2026 - 01:24 AM,08.89,126.53,025,1.8,025km S 82° E of Cagwait (Surigao Del Sur),025,S 82° E,Cagwait (Surigao Del Sur)
+2026-03-14T01:17:00.000Z,14 March 2026 - 01:17 AM,15.06,122.05,002,3.1,025km N 20° E of Burdeos (Quezon),025,N 20° E,Burdeos (Quezon)
 2026-03-14T00:44:00.000Z,14 March 2026 - 12:44 AM,08.89,126.57,027,2.4,030km S 83° E of Cagwait (Surigao Del Sur),030,S 83° E,Cagwait (Surigao Del Sur)
-2026-03-14T00:39:00.000Z,14 March 2026 - 12:39 AM,09.04,126.20,070,1.7,004km N 54° W of Tago (Surigao Del Sur),004,N 54° W,Tago (Surigao Del Sur)
-2026-03-14T00:30:00.000Z,14 March 2026 - 12:30 AM,08.93,126.51,034,1.8,023km N 86° E of Cagwait (Surigao Del Sur),023,N 86° E,Cagwait (Surigao Del Sur)
-2026-03-14T00:21:00.000Z,14 March 2026 - 12:21 AM,06.59,123.80,016,1.9,028km N 83° W of Kalamansig (Sultan Kudarat),028,N 83° W,Kalamansig (Sultan Kudarat)
