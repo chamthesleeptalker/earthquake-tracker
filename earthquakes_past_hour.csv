@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-13T21:42:00.000Z,13 March 2026 - 09:42 PM,11.65,121.95,007,2.5,014km S 13° E of Libertad (Antique),014,S 13° E,Libertad (Antique)
+2026-03-14T00:44:00.000Z,14 March 2026 - 12:44 AM,08.89,126.57,027,2.4,030km S 83° E of Cagwait (Surigao Del Sur),030,S 83° E,Cagwait (Surigao Del Sur)
+2026-03-14T00:39:00.000Z,14 March 2026 - 12:39 AM,09.04,126.20,070,1.7,004km N 54° W of Tago (Surigao Del Sur),004,N 54° W,Tago (Surigao Del Sur)
+2026-03-14T00:30:00.000Z,14 March 2026 - 12:30 AM,08.93,126.51,034,1.8,023km N 86° E of Cagwait (Surigao Del Sur),023,N 86° E,Cagwait (Surigao Del Sur)
+2026-03-14T00:21:00.000Z,14 March 2026 - 12:21 AM,06.59,123.80,016,1.9,028km N 83° W of Kalamansig (Sultan Kudarat),028,N 83° W,Kalamansig (Sultan Kudarat)
