@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T04:59:00.000Z,14 March 2026 - 04:59 AM,05.62,124.60,003,2.0,041km S 04° W of Kiamba (Sarangani),041,S 04° W,Kiamba (Sarangani)
+2026-03-14T04:42:00.000Z,14 March 2026 - 04:42 AM,08.13,122.29,033,1.9,021km N 37° W of Gutalac (Zamboanga Del Norte),021,N 37° W,Gutalac (Zamboanga Del Norte)
 2026-03-14T04:27:00.000Z,14 March 2026 - 04:27 AM,08.28,122.90,026,2.3,012km N 64° W of Sindangan (Zamboanga Del Norte),012,N 64° W,Sindangan (Zamboanga Del Norte)
 2026-03-14T04:24:00.000Z,14 March 2026 - 04:24 AM,05.77,125.01,023,2.5,010km S 10° E of Maasim (Sarangani),010,S 10° E,Maasim (Sarangani)
 2026-03-14T04:21:00.000Z,14 March 2026 - 04:21 AM,12.75,123.08,021,1.9,025km S 47° W of Claveria (Masbate),025,S 47° W,Claveria (Masbate)
@@ -259,4 +261,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-07T06:49:00.000Z,07 March 2026 - 06:49 AM,08.23,126.41,033,1.7,011km N 81° E of City Of Bislig (Surigao Del Sur),011,N 81° E,City Of Bislig (Surigao Del Sur)
 2026-03-07T06:24:00.000Z,07 March 2026 - 06:24 AM,06.21,123.81,033,1.8,047km S 35° W of Kalamansig (Sultan Kudarat),047,S 35° W,Kalamansig (Sultan Kudarat)
 2026-03-07T05:32:00.000Z,07 March 2026 - 05:32 AM,14.95,122.07,002,2.4,017km N 42° E of Burdeos (Quezon),017,N 42° E,Burdeos (Quezon)
-2026-03-07T04:36:00.000Z,07 March 2026 - 04:36 AM,14.98,121.96,010,3.5,015km N 3° W of Burdeos (Quezon),015,N 3° W,Burdeos (Quezon)
