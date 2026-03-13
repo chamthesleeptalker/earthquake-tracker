@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T19:38:00.000Z,13 March 2026 - 07:38 PM,18.00,121.78,029,1.5,015km S 63° E of Gattaran (Cagayan),015,S 63° E,Gattaran (Cagayan)
 2026-03-13T19:19:00.000Z,13 March 2026 - 07:19 PM,14.82,119.99,041,2.4,018km S 38° W of San Antonio (Zambales),018,S 38° W,San Antonio (Zambales)
 2026-03-13T18:44:00.000Z,13 March 2026 - 06:44 PM,08.19,122.40,028,3.6,019km N 45° W of Labason (Zamboanga Del Norte),019,N 45° W,Labason (Zamboanga Del Norte)
 2026-03-13T18:31:00.000Z,13 March 2026 - 06:31 PM,05.72,127.10,092,3.1,154km S 48° E of Governor Generoso (Davao Oriental),154,S 48° E,Governor Generoso (Davao Oriental)
@@ -268,4 +269,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T20:54:00.000Z,06 March 2026 - 08:54 PM,16.38,120.08,024,1.8,017km N 54° E of Anda (Pangasinan),017,N 54° E,Anda (Pangasinan)
 2026-03-06T20:48:00.000Z,06 March 2026 - 08:48 PM,15.02,122.06,010,2.6,022km N 28° E of Burdeos (Quezon),022,N 28° E,Burdeos (Quezon)
 2026-03-06T19:46:00.000Z,06 March 2026 - 07:46 PM,06.26,125.27,009,2.5,013km S 01° W of Malungon (Sarangani),013,S 01° W,Malungon (Sarangani)
-2026-03-06T19:31:00.000Z,06 March 2026 - 07:31 PM,07.51,126.99,014,2.0,048km S 81° E of Baganga (Davao Oriental),048,S 81° E,Baganga (Davao Oriental)
