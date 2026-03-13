@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T07:01:00.000Z,14 March 2026 - 07:01 AM,09.66,126.34,031,2.4,024km S 55° E of General Luna (Surigao Del Norte),024,S 55° E,General Luna (Surigao Del Norte)
 2026-03-14T06:22:00.000Z,14 March 2026 - 06:22 AM,11.53,124.37,003,2.6,005km S 43° W of Naval (Biliran),005,S 43° W,Naval (Biliran)
 2026-03-14T06:07:00.000Z,14 March 2026 - 06:07 AM,05.08,125.97,112,2.4,071km S 52° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),071,S 52° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-14T04:59:00.000Z,14 March 2026 - 04:59 AM,05.62,124.60,003,2.0,041km S 04° W of Kiamba (Sarangani),041,S 04° W,Kiamba (Sarangani)
@@ -260,5 +261,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-07T07:49:00.000Z,07 March 2026 - 07:49 AM,13.57,120.64,121,2.0,017km N 32° W of Abra De Ilog (Occidental Mindoro),017,N 32° W,Abra De Ilog (Occidental Mindoro)
 2026-03-07T07:34:00.000Z,07 March 2026 - 07:34 AM,14.92,122.00,020,1.7,009km N 23° E of Burdeos (Quezon),009,N 23° E,Burdeos (Quezon)
 2026-03-07T07:27:00.000Z,07 March 2026 - 07:27 AM,09.80,125.59,031,1.6,011km N 83° E of City Of Surigao (Surigao Del Norte),011,N 83° E,City Of Surigao (Surigao Del Norte)
-2026-03-07T06:49:00.000Z,07 March 2026 - 06:49 AM,08.23,126.41,033,1.7,011km N 81° E of City Of Bislig (Surigao Del Sur),011,N 81° E,City Of Bislig (Surigao Del Sur)
-2026-03-07T06:24:00.000Z,07 March 2026 - 06:24 AM,06.21,123.81,033,1.8,047km S 35° W of Kalamansig (Sultan Kudarat),047,S 35° W,Kalamansig (Sultan Kudarat)
