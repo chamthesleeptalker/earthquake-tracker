@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T21:42:00.000Z,13 March 2026 - 09:42 PM,11.65,121.95,007,2.5,014km S 13° E of Libertad (Antique),014,S 13° E,Libertad (Antique)
 2026-03-13T19:38:00.000Z,13 March 2026 - 07:38 PM,18.00,121.78,029,1.5,015km S 63° E of Gattaran (Cagayan),015,S 63° E,Gattaran (Cagayan)
 2026-03-13T19:19:00.000Z,13 March 2026 - 07:19 PM,14.82,119.99,041,2.4,018km S 38° W of San Antonio (Zambales),018,S 38° W,San Antonio (Zambales)
 2026-03-13T18:44:00.000Z,13 March 2026 - 06:44 PM,08.19,122.40,028,3.6,019km N 45° W of Labason (Zamboanga Del Norte),019,N 45° W,Labason (Zamboanga Del Norte)
@@ -264,8 +265,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-06T23:37:00.000Z,06 March 2026 - 11:37 PM,12.26,126.07,016,3.4,062km N 81° E of San Policarpo (Eastern Samar),062,N 81° E,San Policarpo (Eastern Samar)
 2026-03-06T22:41:00.000Z,06 March 2026 - 10:41 PM,06.35,126.29,028,2.6,041km S 36° E of Governor Generoso (Davao Oriental),041,S 36° E,Governor Generoso (Davao Oriental)
 2026-03-06T21:51:00.000Z,06 March 2026 - 09:51 PM,07.58,126.87,052,2.0,034km N 89° E of Baganga (Davao Oriental),034,N 89° E,Baganga (Davao Oriental)
-2026-03-06T21:11:00.000Z,06 March 2026 - 09:11 PM,12.17,125.35,063,1.8,011km N 86° E of Maslog (Eastern Samar),011,N 86° E,Maslog (Eastern Samar)
-2026-03-06T21:05:00.000Z,06 March 2026 - 09:05 PM,05.90,126.33,008,2.5,076km S 89° E of Jose Abad Santos (Davao Occidental),076,S 89° E,Jose Abad Santos (Davao Occidental)
-2026-03-06T20:54:00.000Z,06 March 2026 - 08:54 PM,16.38,120.08,024,1.8,017km N 54° E of Anda (Pangasinan),017,N 54° E,Anda (Pangasinan)
-2026-03-06T20:48:00.000Z,06 March 2026 - 08:48 PM,15.02,122.06,010,2.6,022km N 28° E of Burdeos (Quezon),022,N 28° E,Burdeos (Quezon)
-2026-03-06T19:46:00.000Z,06 March 2026 - 07:46 PM,06.26,125.27,009,2.5,013km S 01° W of Malungon (Sarangani),013,S 01° W,Malungon (Sarangani)
