@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T16:08:00.000Z,13 March 2026 - 04:08 PM,09.25,126.13,048,2.7,007km S 65° W of Cortes (Surigao Del Sur),007,S 65° W,Cortes (Surigao Del Sur)
+2026-03-13T15:45:00.000Z,13 March 2026 - 03:45 PM,11.04,124.02,034,1.4,005km S 86° E of City Of Bogo (Cebu),005,S 86° E,City Of Bogo (Cebu)
 2026-03-13T15:30:00.000Z,13 March 2026 - 03:30 PM,12.19,125.55,026,2.8,005km N 79° E of San Policarpo (Eastern Samar),005,N 79° E,San Policarpo (Eastern Samar)
 2026-03-13T13:30:00.000Z,13 March 2026 - 01:30 PM,11.06,124.05,010,1.9,008km N 77° E of City Of Bogo (Cebu),008,N 77° E,City Of Bogo (Cebu)
 2026-03-13T12:51:00.000Z,13 March 2026 - 12:51 PM,16.39,120.25,011,1.6,011km S 89° W of Aringay (La Union),011,S 89° W,Aringay (La Union)
@@ -28,5 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-12T16:46:00.000Z,12 March 2026 - 04:46 PM,10.92,124.03,021,1.7,002km S 09° E of Tabogon (Cebu),002,S 09° E,Tabogon (Cebu)
 2026-03-12T16:42:00.000Z,12 March 2026 - 04:42 PM,19.19,121.08,002,2.2,016km N 55° W of Dalupiri Island (Calayan) (Cagayan),016,N 55° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-12T16:33:00.000Z,12 March 2026 - 04:33 PM,10.86,124.03,002,2.7,022km S 14° E of City Of Bogo (Cebu),022,S 14° E,City Of Bogo (Cebu)
-2026-03-12T15:54:00.000Z,12 March 2026 - 03:54 PM,05.68,124.57,012,2.3,035km S 11° W of Kiamba (Sarangani),035,S 11° W,Kiamba (Sarangani)
-2026-03-12T15:39:00.000Z,12 March 2026 - 03:39 PM,12.13,125.74,014,2.8,026km S 78° E of San Policarpo (Eastern Samar),026,S 78° E,San Policarpo (Eastern Samar)
