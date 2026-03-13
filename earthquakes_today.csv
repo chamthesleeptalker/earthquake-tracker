@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-13T17:03:00.000Z,13 March 2026 - 05:03 PM,10.22,123.34,025,2.2,013km N 33° E of City Of Guihulngan (Negros Oriental),013,N 33° E,City Of Guihulngan (Negros Oriental)
+2026-03-13T17:01:00.000Z,13 March 2026 - 05:01 PM,09.61,125.55,033,1.9,006km S 27° E of Sison (Surigao Del Norte),006,S 27° E,Sison (Surigao Del Norte)
+2026-03-13T16:47:00.000Z,13 March 2026 - 04:47 PM,07.34,123.58,027,2.0,023km S 53° E of Tabina (Zamboanga Del Sur),023,S 53° E,Tabina (Zamboanga Del Sur)
 2026-03-13T16:08:00.000Z,13 March 2026 - 04:08 PM,09.25,126.13,048,2.7,007km S 65° W of Cortes (Surigao Del Sur),007,S 65° W,Cortes (Surigao Del Sur)
 2026-03-13T15:45:00.000Z,13 March 2026 - 03:45 PM,11.04,124.02,034,1.4,005km S 86° E of City Of Bogo (Cebu),005,S 86° E,City Of Bogo (Cebu)
 2026-03-13T15:30:00.000Z,13 March 2026 - 03:30 PM,12.19,125.55,026,2.8,005km N 79° E of San Policarpo (Eastern Samar),005,N 79° E,San Policarpo (Eastern Samar)
