@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-15T05:22:00.000Z,15 March 2026 - 05:22 AM,15.04,122.05,009,2.0,024km N 22° E of Burdeos (Quezon),024,N 22° E,Burdeos (Quezon)
 2026-03-15T04:57:00.000Z,15 March 2026 - 04:57 AM,17.58,122.65,034,1.4,047km N 54° E of Divilacan (Isabela),047,N 54° E,Divilacan (Isabela)
 2026-03-15T04:50:00.000Z,15 March 2026 - 04:50 AM,07.43,126.54,013,1.5,011km N 13° W of Caraga (Davao Oriental),011,N 13° W,Caraga (Davao Oriental)
 2026-03-15T04:50:00.000Z,15 March 2026 - 04:50 AM,05.76,125.92,033,1.6,035km S 61° E of Jose Abad Santos (Davao Occidental),035,S 61° E,Jose Abad Santos (Davao Occidental)
