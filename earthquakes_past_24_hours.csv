@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T18:33:00.000Z,14 March 2026 - 06:33 PM,14.10,120.44,119,2.1,021km N 83° W of Nasugbu (Batangas),021,N 83° W,Nasugbu (Batangas)
+2026-03-14T00:45:00.000Z,14 March 2026 - 12:45 AM,08.73,126.45,002,2.5,027km S 32° E of Cagwait (Surigao Del Sur),027,S 32° E,Cagwait (Surigao Del Sur)
 2026-03-14T04:25:00.000Z,14 March 2026 - 04:25 AM,05.81,124.99,020,2.4,006km S 02° W of Maasim (Sarangani),006,S 02° W,Maasim (Sarangani)
 2026-03-14T16:00:00.000Z,14 March 2026 - 04:00 PM,14.29,123.96,067,2.5,036km N 40° W of Pandan (Catanduanes),036,N 40° W,Pandan (Catanduanes)
 2026-03-14T15:52:00.000Z,14 March 2026 - 03:52 PM,12.21,125.76,024,3.1,028km N 83° E of San Policarpo (Eastern Samar),028,N 83° E,San Policarpo (Eastern Samar)
@@ -34,9 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-13T19:38:00.000Z,13 March 2026 - 07:38 PM,18.00,121.78,029,1.5,015km S 63° E of Gattaran (Cagayan),015,S 63° E,Gattaran (Cagayan)
 2026-03-13T19:19:00.000Z,13 March 2026 - 07:19 PM,14.82,119.99,041,2.4,018km S 38° W of San Antonio (Zambales),018,S 38° W,San Antonio (Zambales)
 2026-03-13T18:44:00.000Z,13 March 2026 - 06:44 PM,08.19,122.40,028,3.6,019km N 45° W of Labason (Zamboanga Del Norte),019,N 45° W,Labason (Zamboanga Del Norte)
-2026-03-13T18:31:00.000Z,13 March 2026 - 06:31 PM,05.72,127.10,092,3.1,154km S 48° E of Governor Generoso (Davao Oriental),154,S 48° E,Governor Generoso (Davao Oriental)
-2026-03-13T17:54:00.000Z,13 March 2026 - 05:54 PM,07.15,126.99,013,2.8,050km S 82° E of Manay (Davao Oriental),050,S 82° E,Manay (Davao Oriental)
-2026-03-13T17:03:00.000Z,13 March 2026 - 05:03 PM,10.22,123.34,025,2.2,013km N 33° E of City Of Guihulngan (Negros Oriental),013,N 33° E,City Of Guihulngan (Negros Oriental)
-2026-03-13T17:01:00.000Z,13 March 2026 - 05:01 PM,09.61,125.55,033,1.9,006km S 27° E of Sison (Surigao Del Norte),006,S 27° E,Sison (Surigao Del Norte)
-2026-03-13T16:47:00.000Z,13 March 2026 - 04:47 PM,07.34,123.58,027,2.0,023km S 53° E of Tabina (Zamboanga Del Sur),023,S 53° E,Tabina (Zamboanga Del Sur)
-2026-03-13T16:08:00.000Z,13 March 2026 - 04:08 PM,09.25,126.13,048,2.7,007km S 65° W of Cortes (Surigao Del Sur),007,S 65° W,Cortes (Surigao Del Sur)
