@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T19:10:00.000Z,14 March 2026 - 07:10 PM,13.84,120.50,085,1.5,015km N 87° W of Calatagan (Batangas),015,N 87° W,Calatagan (Batangas)
 2026-03-14T18:33:00.000Z,14 March 2026 - 06:33 PM,14.10,120.44,119,2.1,021km N 83° W of Nasugbu (Batangas),021,N 83° W,Nasugbu (Batangas)
 2026-03-14T00:45:00.000Z,14 March 2026 - 12:45 AM,08.73,126.45,002,2.5,027km S 32° E of Cagwait (Surigao Del Sur),027,S 32° E,Cagwait (Surigao Del Sur)
 2026-03-14T04:25:00.000Z,14 March 2026 - 04:25 AM,05.81,124.99,020,2.4,006km S 02° W of Maasim (Sarangani),006,S 02° W,Maasim (Sarangani)
