@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T04:25:00.000Z,14 March 2026 - 04:25 AM,05.81,124.99,020,2.4,006km S 02° W of Maasim (Sarangani),006,S 02° W,Maasim (Sarangani)
 2026-03-14T16:00:00.000Z,14 March 2026 - 04:00 PM,14.29,123.96,067,2.5,036km N 40° W of Pandan (Catanduanes),036,N 40° W,Pandan (Catanduanes)
 2026-03-14T15:52:00.000Z,14 March 2026 - 03:52 PM,12.21,125.76,024,3.1,028km N 83° E of San Policarpo (Eastern Samar),028,N 83° E,San Policarpo (Eastern Samar)
 2026-03-14T14:57:00.000Z,14 March 2026 - 02:57 PM,13.97,120.65,010,3.5,007km S 2° W of Lian (Batangas),007,S 2° W,Lian (Batangas)
