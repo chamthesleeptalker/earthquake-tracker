@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T20:35:00.000Z,14 March 2026 - 08:35 PM,07.21,124.44,009,2.2,004km N 70° W of Northern Kabuntalan (Maguindanao Del Norte),004,N 70° W,Northern Kabuntalan (Maguindanao Del Norte)
+2026-03-14T20:08:00.000Z,14 March 2026 - 08:08 PM,06.84,126.36,029,2.3,020km S 53° E of City Of Mati (Davao Oriental),020,S 53° E,City Of Mati (Davao Oriental)
+2026-03-14T19:54:00.000Z,14 March 2026 - 07:54 PM,10.68,126.32,014,1.6,065km S 84° E of Homonhon Island (Guiuan) (Eastern Samar),065,S 84° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-14T19:10:00.000Z,14 March 2026 - 07:10 PM,13.84,120.50,085,1.5,015km N 87° W of Calatagan (Batangas),015,N 87° W,Calatagan (Batangas)
 2026-03-14T18:33:00.000Z,14 March 2026 - 06:33 PM,14.10,120.44,119,2.1,021km N 83° W of Nasugbu (Batangas),021,N 83° W,Nasugbu (Batangas)
 2026-03-14T00:45:00.000Z,14 March 2026 - 12:45 AM,08.73,126.45,002,2.5,027km S 32° E of Cagwait (Surigao Del Sur),027,S 32° E,Cagwait (Surigao Del Sur)
@@ -34,5 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-14T00:30:00.000Z,14 March 2026 - 12:30 AM,08.93,126.51,034,1.8,023km N 86° E of Cagwait (Surigao Del Sur),023,N 86° E,Cagwait (Surigao Del Sur)
 2026-03-14T00:21:00.000Z,14 March 2026 - 12:21 AM,06.59,123.80,016,1.9,028km N 83° W of Kalamansig (Sultan Kudarat),028,N 83° W,Kalamansig (Sultan Kudarat)
 2026-03-13T21:42:00.000Z,13 March 2026 - 09:42 PM,11.65,121.95,007,2.5,014km S 13° E of Libertad (Antique),014,S 13° E,Libertad (Antique)
-2026-03-13T19:38:00.000Z,13 March 2026 - 07:38 PM,18.00,121.78,029,1.5,015km S 63° E of Gattaran (Cagayan),015,S 63° E,Gattaran (Cagayan)
-2026-03-13T19:19:00.000Z,13 March 2026 - 07:19 PM,14.82,119.99,041,2.4,018km S 38° W of San Antonio (Zambales),018,S 38° W,San Antonio (Zambales)

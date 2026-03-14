@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-14T20:35:00.000Z,14 March 2026 - 08:35 PM,07.21,124.44,009,2.2,004km N 70° W of Northern Kabuntalan (Maguindanao Del Norte),004,N 70° W,Northern Kabuntalan (Maguindanao Del Norte)
+2026-03-14T20:08:00.000Z,14 March 2026 - 08:08 PM,06.84,126.36,029,2.3,020km S 53° E of City Of Mati (Davao Oriental),020,S 53° E,City Of Mati (Davao Oriental)
+2026-03-14T19:54:00.000Z,14 March 2026 - 07:54 PM,10.68,126.32,014,1.6,065km S 84° E of Homonhon Island (Guiuan) (Eastern Samar),065,S 84° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-14T19:10:00.000Z,14 March 2026 - 07:10 PM,13.84,120.50,085,1.5,015km N 87° W of Calatagan (Batangas),015,N 87° W,Calatagan (Batangas)
 2026-03-14T18:33:00.000Z,14 March 2026 - 06:33 PM,14.10,120.44,119,2.1,021km N 83° W of Nasugbu (Batangas),021,N 83° W,Nasugbu (Batangas)
 2026-03-14T00:45:00.000Z,14 March 2026 - 12:45 AM,08.73,126.45,002,2.5,027km S 32° E of Cagwait (Surigao Del Sur),027,S 32° E,Cagwait (Surigao Del Sur)
@@ -223,7 +226,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-08T20:30:00.000Z,08 March 2026 - 08:30 PM,13.72,120.35,053,1.6,011km East of Looc (Occidental Mindoro),011,East of Looc,Mindoro)
 2026-03-08T20:01:00.000Z,08 March 2026 - 08:01 PM,07.05,126.85,014,2.0,039km S 63° E of Manay (Davao Oriental),039,S 63° E,Manay (Davao Oriental)
 2026-03-08T19:47:00.000Z,08 March 2026 - 07:47 PM,06.08,126.52,007,2.7,080km S 38° E of Governor Generoso (Davao Oriental),080,S 38° E,Governor Generoso (Davao Oriental)
-2026-03-07T19:23:00.000Z,07 March 2026 - 07:23 PM,08.28,126.23,033,1.4,012km N 52° W of City Of Bislig (Surigao Del Sur),012,N 52° W,City Of Bislig (Surigao Del Sur)
 2026-03-08T15:03:00.000Z,08 March 2026 - 03:03 PM,05.04,126.96,033,3.5,172km S 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),172,S 74° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-08T13:35:00.000Z,08 March 2026 - 01:35 PM,12.78,124.76,018,2.4,044km N 74° E of Biri (Northern Samar),044,N 74° E,Biri (Northern Samar)
 2026-03-08T13:04:00.000Z,08 March 2026 - 01:04 PM,10.01,125.97,033,1.3,007km N 33° W of San Benito (Surigao Del Norte),007,N 33° W,San Benito (Surigao Del Norte)
@@ -251,5 +253,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-07T22:33:00.000Z,07 March 2026 - 10:33 PM,12.65,121.99,010,3.7,009km N 68° W of Calatrava (Romblon),009,N 68° W,Calatrava (Romblon)
 2026-03-07T21:40:00.000Z,07 March 2026 - 09:40 PM,17.29,121.04,008,2.0,013km N 75° W of Tinglayan (Kalinga),013,N 75° W,Tinglayan (Kalinga)
 2026-03-07T20:54:00.000Z,07 March 2026 - 08:54 PM,13.40,120.55,082,1.7,009km S 78° E of Paluan (Occidental Mindoro),009,S 78° E,Paluan (Occidental Mindoro)
-2026-03-07T20:19:00.000Z,07 March 2026 - 08:19 PM,13.74,120.07,006,1.6,014km S 25° W of Lubang (Occidental Mindoro),014,S 25° W,Lubang (Occidental Mindoro)
-2026-03-07T19:22:00.000Z,07 March 2026 - 07:22 PM,08.03,125.94,033,1.4,005km S 28° W of Veruela (Agusan Del Sur),005,S 28° W,Veruela (Agusan Del Sur)
