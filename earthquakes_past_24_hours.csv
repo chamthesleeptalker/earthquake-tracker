@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-15T15:08:00.000Z,15 March 2026 - 03:08 PM,11.90,125.60,020,2.6,018km N 61° E of Sulat (Eastern Samar),018,N 61° E,Sulat (Eastern Samar)
 2026-03-15T12:40:00.000Z,15 March 2026 - 12:40 PM,15.48,121.26,005,1.9,008km N 68° W of Gabaldon (Nueva Ecija),008,N 68° W,Gabaldon (Nueva Ecija)
 2026-03-15T12:37:00.000Z,15 March 2026 - 12:37 PM,15.08,122.07,001,3.5,028km N 23° E of Burdeos (Quezon),028,N 23° E,Burdeos (Quezon)
 2026-03-15T12:01:00.000Z,15 March 2026 - 12:01 PM,06.48,123.87,003,1.5,022km S 52° W of Kalamansig (Sultan Kudarat),022,S 52° W,Kalamansig (Sultan Kudarat)
@@ -30,6 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-14T18:33:00.000Z,14 March 2026 - 06:33 PM,14.10,120.44,119,2.1,021km N 83° W of Nasugbu (Batangas),021,N 83° W,Nasugbu (Batangas)
 2026-03-14T16:00:00.000Z,14 March 2026 - 04:00 PM,14.29,123.96,067,2.5,036km N 40° W of Pandan (Catanduanes),036,N 40° W,Pandan (Catanduanes)
 2026-03-14T15:52:00.000Z,14 March 2026 - 03:52 PM,12.21,125.76,024,3.1,028km N 83° E of San Policarpo (Eastern Samar),028,N 83° E,San Policarpo (Eastern Samar)
-2026-03-14T14:57:00.000Z,14 March 2026 - 02:57 PM,13.97,120.65,010,3.5,007km S 2° W of Lian (Batangas),007,S 2° W,Lian (Batangas)
-2026-03-14T14:41:00.000Z,14 March 2026 - 02:41 PM,12.12,125.66,012,2.8,018km S 68° E of San Policarpo (Eastern Samar),018,S 68° E,San Policarpo (Eastern Samar)
-2026-03-14T14:11:00.000Z,14 March 2026 - 02:11 PM,07.98,125.99,034,1.7,004km S 85° W of Santa Josefa (Agusan Del Sur),004,S 85° W,Santa Josefa (Agusan Del Sur)
