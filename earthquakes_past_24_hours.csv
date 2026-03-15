@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-15T20:33:00.000Z,15 March 2026 - 08:33 PM,18.37,120.70,007,2.6,010km N 66° E of Pasuquin (Ilocos Norte),010,N 66° E,Pasuquin (Ilocos Norte)
+2026-03-15T20:31:00.000Z,15 March 2026 - 08:31 PM,19.17,121.17,032,2.1,009km N 29° W of Dalupiri Island (Calayan) (Cagayan),009,N 29° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-15T00:27:00.000Z,15 March 2026 - 12:27 AM,08.44,124.42,004,1.9,015km N 76° E of Manticao (Misamis Oriental),015,N 76° E,Manticao (Misamis Oriental)
 2026-03-15T18:38:00.000Z,15 March 2026 - 06:38 PM,07.15,126.79,018,2.5,028km S 76° E of Manay (Davao Oriental),028,S 76° E,Manay (Davao Oriental)
 2026-03-15T17:31:00.000Z,15 March 2026 - 05:31 PM,10.91,123.85,001,2.4,020km S 44° W of City Of Bogo (Cebu),020,S 44° W,City Of Bogo (Cebu)
@@ -30,6 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-14T23:50:00.000Z,14 March 2026 - 11:50 PM,12.32,120.64,007,1.4,039km S 67° W of Rizal (Occidental Mindoro),039,S 67° W,Rizal (Occidental Mindoro)
 2026-03-14T23:35:00.000Z,14 March 2026 - 11:35 PM,12.34,120.60,008,1.5,042km S 72° W of Rizal (Occidental Mindoro),042,S 72° W,Rizal (Occidental Mindoro)
 2026-03-14T20:35:00.000Z,14 March 2026 - 08:35 PM,07.21,124.44,009,2.2,004km N 70° W of Northern Kabuntalan (Maguindanao Del Norte),004,N 70° W,Northern Kabuntalan (Maguindanao Del Norte)
-2026-03-14T20:08:00.000Z,14 March 2026 - 08:08 PM,06.84,126.36,029,2.3,020km S 53° E of City Of Mati (Davao Oriental),020,S 53° E,City Of Mati (Davao Oriental)
-2026-03-14T19:54:00.000Z,14 March 2026 - 07:54 PM,10.68,126.32,014,1.6,065km S 84° E of Homonhon Island (Guiuan) (Eastern Samar),065,S 84° E,Homonhon Island (Guiuan) (Eastern Samar)
-2026-03-14T19:10:00.000Z,14 March 2026 - 07:10 PM,13.84,120.50,085,1.5,015km N 87° W of Calatagan (Batangas),015,N 87° W,Calatagan (Batangas)
