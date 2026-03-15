@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T03:43:00.000Z,16 March 2026 - 03:43 AM,17.62,121.46,033,2.7,005km N 80° E of Pinukpuk (Kalinga),005,N 80° E,Pinukpuk (Kalinga)
 2026-03-16T03:27:00.000Z,16 March 2026 - 03:27 AM,18.49,120.47,033,1.6,019km S 83° W of Burgos (Ilocos Norte),019,S 83° W,Burgos (Ilocos Norte)
 2026-03-16T03:13:00.000Z,16 March 2026 - 03:13 AM,06.51,125.76,159,2.3,020km N 59° E of Malita (Davao Occidental),020,N 59° E,Malita (Davao Occidental)
 2026-03-16T03:01:00.000Z,16 March 2026 - 03:01 AM,16.89,120.65,103,2.5,012km N 88° E of Alilem (Ilocos Sur),012,N 88° E,Alilem (Ilocos Sur)
@@ -258,5 +259,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-09T04:45:00.000Z,09 March 2026 - 04:45 AM,09.01,121.87,027,2.0,095km S 63° W of Basay (Negros Oriental),095,S 63° W,Basay (Negros Oriental)
 2026-03-09T04:28:00.000Z,09 March 2026 - 04:28 AM,09.14,122.29,002,2.3,048km S 52° W of Basay (Negros Oriental),048,S 52° W,Basay (Negros Oriental)
 2026-03-09T03:50:00.000Z,09 March 2026 - 03:50 AM,16.82,120.56,031,1.5,005km S 61° E of Sugpon (Ilocos Sur),005,S 61° E,Sugpon (Ilocos Sur)
-2026-03-09T03:42:00.000Z,09 March 2026 - 03:42 AM,16.75,120.15,026,2.2,023km N 50° W of City Of San Fernando (La Union),023,N 50° W,City Of San Fernando (La Union)
-2026-03-09T03:30:00.000Z,09 March 2026 - 03:30 AM,16.89,121.61,030,1.5,003km N 80° E of San Mateo (Isabela),003,N 80° E,San Mateo (Isabela)
