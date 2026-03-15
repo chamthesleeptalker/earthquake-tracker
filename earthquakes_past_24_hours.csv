@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-15T20:56:00.000Z,15 March 2026 - 08:56 PM,18.85,120.25,033,3.0,057km N 48° W of Burgos (Ilocos Norte),057,N 48° W,Burgos (Ilocos Norte)
+2026-03-15T20:56:00.000Z,15 March 2026 - 08:56 PM,18.48,120.48,028,1.5,018km S 79° W of Burgos (Ilocos Norte),018,S 79° W,Burgos (Ilocos Norte)
+2026-03-15T20:51:00.000Z,15 March 2026 - 08:51 PM,12.14,125.86,013,4.1,038km S 84° E of San Policarpo (Eastern Samar),038,S 84° E,San Policarpo (Eastern Samar)
+2026-03-15T20:44:00.000Z,15 March 2026 - 08:44 PM,18.34,120.58,015,2.2,004km N 81° W of Pasuquin (Ilocos Norte),004,N 81° W,Pasuquin (Ilocos Norte)
+2026-03-15T20:44:00.000Z,15 March 2026 - 08:44 PM,19.36,121.94,035,1.7,017km S 10° E of Babuyan Island (Calayan) (Cagayan),017,S 10° E,Babuyan Island (Calayan) (Cagayan)
 2026-03-15T20:33:00.000Z,15 March 2026 - 08:33 PM,18.37,120.70,007,2.6,010km N 66° E of Pasuquin (Ilocos Norte),010,N 66° E,Pasuquin (Ilocos Norte)
 2026-03-15T20:31:00.000Z,15 March 2026 - 08:31 PM,19.17,121.17,032,2.1,009km N 29° W of Dalupiri Island (Calayan) (Cagayan),009,N 29° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-15T00:27:00.000Z,15 March 2026 - 12:27 AM,08.44,124.42,004,1.9,015km N 76° E of Manticao (Misamis Oriental),015,N 76° E,Manticao (Misamis Oriental)
@@ -31,4 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T00:28:00.000Z,15 March 2026 - 12:28 AM,08.40,124.39,015,1.8,011km S 85° E of Manticao (Misamis Oriental),011,S 85° E,Manticao (Misamis Oriental)
 2026-03-14T23:50:00.000Z,14 March 2026 - 11:50 PM,12.32,120.64,007,1.4,039km S 67° W of Rizal (Occidental Mindoro),039,S 67° W,Rizal (Occidental Mindoro)
 2026-03-14T23:35:00.000Z,14 March 2026 - 11:35 PM,12.34,120.60,008,1.5,042km S 72° W of Rizal (Occidental Mindoro),042,S 72° W,Rizal (Occidental Mindoro)
-2026-03-14T20:35:00.000Z,14 March 2026 - 08:35 PM,07.21,124.44,009,2.2,004km N 70° W of Northern Kabuntalan (Maguindanao Del Norte),004,N 70° W,Northern Kabuntalan (Maguindanao Del Norte)
