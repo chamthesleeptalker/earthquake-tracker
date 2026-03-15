@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T00:11:00.000Z,16 March 2026 - 12:11 AM,13.05,120.90,029,2.1,020km S 80° E of Santa Cruz (Occidental Mindoro),020,S 80° E,Santa Cruz (Occidental Mindoro)
+2026-03-15T23:27:00.000Z,15 March 2026 - 11:27 PM,10.21,126.22,033,2.0,026km N 38° E of Burgos (Surigao Del Norte),026,N 38° E,Burgos (Surigao Del Norte)
 2026-03-15T20:56:00.000Z,15 March 2026 - 08:56 PM,18.85,120.25,033,3.0,057km N 48° W of Burgos (Ilocos Norte),057,N 48° W,Burgos (Ilocos Norte)
 2026-03-15T20:56:00.000Z,15 March 2026 - 08:56 PM,18.48,120.48,028,1.5,018km S 79° W of Burgos (Ilocos Norte),018,S 79° W,Burgos (Ilocos Norte)
 2026-03-15T20:51:00.000Z,15 March 2026 - 08:51 PM,12.14,125.86,013,4.1,038km S 84° E of San Policarpo (Eastern Samar),038,S 84° E,San Policarpo (Eastern Samar)
@@ -252,11 +254,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-09T00:32:00.000Z,09 March 2026 - 12:32 AM,08.89,126.70,037,2.1,044km S 86° E of Cagwait (Surigao Del Sur),044,S 86° E,Cagwait (Surigao Del Sur)
 2026-03-09T00:30:00.000Z,09 March 2026 - 12:30 AM,17.59,122.23,022,1.7,022km N 01° W of Maconacon (Isabela),022,N 01° W,Maconacon (Isabela)
 2026-03-09T00:24:00.000Z,09 March 2026 - 12:24 AM,18.42,120.50,044,2.0,015km N 53° W of Pasuquin (Ilocos Norte),015,N 53° W,Pasuquin (Ilocos Norte)
-2026-03-08T23:28:00.000Z,08 March 2026 - 11:28 PM,12.88,123.00,004,2.0,027km S 85° W of Claveria (Masbate),027,S 85° W,Claveria (Masbate)
-2026-03-08T22:59:00.000Z,08 March 2026 - 10:59 PM,06.47,124.30,009,1.8,029km S 71° E of Kalamansig (Sultan Kudarat),029,S 71° E,Kalamansig (Sultan Kudarat)
-2026-03-08T22:52:00.000Z,08 March 2026 - 10:52 PM,10.61,122.33,021,1.9,006km S 06° E of Guimbal (Iloilo),006,S 06° E,Guimbal (Iloilo)
-2026-03-08T22:49:00.000Z,08 March 2026 - 10:49 PM,16.69,121.06,005,2.5,003km S 11° W of Asipulo (Ifugao),003,S 11° W,Asipulo (Ifugao)
-2026-03-08T22:40:00.000Z,08 March 2026 - 10:40 PM,11.15,123.97,014,1.9,012km N 04° W of City Of Bogo (Cebu),012,N 04° W,City Of Bogo (Cebu)
-2026-03-08T22:38:00.000Z,08 March 2026 - 10:38 PM,10.59,122.37,013,2.0,010km S 31° E of Guimbal (Iloilo),010,S 31° E,Guimbal (Iloilo)
-2026-03-08T21:20:00.000Z,08 March 2026 - 09:20 PM,13.93,120.35,111,1.6,026km N 24° E of Looc (Occidental Mindoro),026,N 24° E,Looc (Occidental Mindoro)
-2026-03-08T21:09:00.000Z,08 March 2026 - 09:09 PM,13.70,120.53,088,1.9,018km S 37° W of Calatagan (Batangas),018,S 37° W,Calatagan (Batangas)
