@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T02:22:00.000Z,16 March 2026 - 02:22 AM,09.66,126.27,035,2.7,018km S 42° E of General Luna (Surigao Del Norte),018,S 42° E,General Luna (Surigao Del Norte)
+2026-03-16T02:16:00.000Z,16 March 2026 - 02:16 AM,18.33,120.73,009,2.3,012km S 86° E of Pasuquin (Ilocos Norte),012,S 86° E,Pasuquin (Ilocos Norte)
 2026-03-16T01:42:00.000Z,16 March 2026 - 01:42 AM,14.73,121.90,028,1.4,005km N 68° W of Polillo (Quezon),005,N 68° W,Polillo (Quezon)
 2026-03-16T01:31:00.000Z,16 March 2026 - 01:31 AM,06.58,123.97,007,2.2,010km N 72° W of Kalamansig (Sultan Kudarat),010,N 72° W,Kalamansig (Sultan Kudarat)
 2026-03-16T01:27:00.000Z,16 March 2026 - 01:27 AM,09.12,126.34,032,2.1,016km N 47° E of Tago (Surigao Del Sur),016,N 47° E,Tago (Surigao Del Sur)
