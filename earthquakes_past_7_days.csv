@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-15T12:40:00.000Z,15 March 2026 - 12:40 PM,15.48,121.26,005,1.9,008km N 68° W of Gabaldon (Nueva Ecija),008,N 68° W,Gabaldon (Nueva Ecija)
+2026-03-15T12:37:00.000Z,15 March 2026 - 12:37 PM,15.08,122.07,001,3.5,028km N 23° E of Burdeos (Quezon),028,N 23° E,Burdeos (Quezon)
 2026-03-15T12:01:00.000Z,15 March 2026 - 12:01 PM,06.48,123.87,003,1.5,022km S 52° W of Kalamansig (Sultan Kudarat),022,S 52° W,Kalamansig (Sultan Kudarat)
 2026-03-15T11:50:00.000Z,15 March 2026 - 11:50 AM,17.66,120.17,026,2.5,022km N 71° W of Santa Catalina (Ilocos Sur),022,N 71° W,Santa Catalina (Ilocos Sur)
 2026-03-15T10:39:00.000Z,15 March 2026 - 10:39 AM,07.26,126.96,010,2.9,047km N 83° E of Manay (Davao Oriental),047,N 83° E,Manay (Davao Oriental)
@@ -253,4 +255,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-08T13:04:00.000Z,08 March 2026 - 01:04 PM,10.01,125.97,033,1.3,007km N 33° W of San Benito (Surigao Del Norte),007,N 33° W,San Benito (Surigao Del Norte)
 2026-03-08T12:48:00.000Z,08 March 2026 - 12:48 PM,12.66,122.03,009,2.2,006km N 42° W of Calatrava (Romblon),006,N 42° W,Calatrava (Romblon)
 2026-03-08T12:45:00.000Z,08 March 2026 - 12:45 PM,09.79,125.44,020,3.1,002km N 68° E of San Francisco (Surigao Del Norte),002,N 68° E,San Francisco (Surigao Del Norte)
-2026-03-08T12:08:00.000Z,08 March 2026 - 12:08 PM,11.33,124.56,016,2.0,009km S 63° E of Leyte (Leyte),009,S 63° E,Leyte (Leyte)
