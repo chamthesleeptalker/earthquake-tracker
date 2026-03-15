@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T05:02:00.000Z,16 March 2026 - 05:02 AM,06.67,126.10,006,1.5,003km N 66° E of Governor Generoso (Davao Oriental),003,N 66° E,Governor Generoso (Davao Oriental)
+2026-03-16T04:57:00.000Z,16 March 2026 - 04:57 AM,11.96,120.97,025,2.5,043km S 25° W of Magsaysay (Occidental Mindoro),043,S 25° W,Magsaysay (Occidental Mindoro)
 2026-03-16T03:43:00.000Z,16 March 2026 - 03:43 AM,17.62,121.46,033,2.7,005km N 80° E of Pinukpuk (Kalinga),005,N 80° E,Pinukpuk (Kalinga)
 2026-03-16T03:27:00.000Z,16 March 2026 - 03:27 AM,18.49,120.47,033,1.6,019km S 83° W of Burgos (Ilocos Norte),019,S 83° W,Burgos (Ilocos Norte)
 2026-03-16T03:13:00.000Z,16 March 2026 - 03:13 AM,06.51,125.76,159,2.3,020km N 59° E of Malita (Davao Occidental),020,N 59° E,Malita (Davao Occidental)
