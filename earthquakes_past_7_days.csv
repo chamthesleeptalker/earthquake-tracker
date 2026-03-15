@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T01:42:00.000Z,16 March 2026 - 01:42 AM,14.73,121.90,028,1.4,005km N 68° W of Polillo (Quezon),005,N 68° W,Polillo (Quezon)
+2026-03-16T01:31:00.000Z,16 March 2026 - 01:31 AM,06.58,123.97,007,2.2,010km N 72° W of Kalamansig (Sultan Kudarat),010,N 72° W,Kalamansig (Sultan Kudarat)
+2026-03-16T01:27:00.000Z,16 March 2026 - 01:27 AM,09.12,126.34,032,2.1,016km N 47° E of Tago (Surigao Del Sur),016,N 47° E,Tago (Surigao Del Sur)
+2026-03-16T01:20:00.000Z,16 March 2026 - 01:20 AM,06.49,123.78,015,3.6,030km S 77° W of Kalamansig (Sultan Kudarat),030,S 77° W,Kalamansig (Sultan Kudarat)
 2026-03-16T00:39:00.000Z,16 March 2026 - 12:39 AM,18.32,120.58,046,1.8,005km S 67° W of Pasuquin (Ilocos Norte),005,S 67° W,Pasuquin (Ilocos Norte)
 2026-03-16T00:28:00.000Z,16 March 2026 - 12:28 AM,14.96,122.64,004,1.7,044km N 49° E of Jomalig (Quezon),044,N 49° E,Jomalig (Quezon)
 2026-03-16T00:11:00.000Z,16 March 2026 - 12:11 AM,13.05,120.90,029,2.1,020km S 80° E of Santa Cruz (Occidental Mindoro),020,S 80° E,Santa Cruz (Occidental Mindoro)
@@ -251,5 +255,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-09T03:42:00.000Z,09 March 2026 - 03:42 AM,16.75,120.15,026,2.2,023km N 50° W of City Of San Fernando (La Union),023,N 50° W,City Of San Fernando (La Union)
 2026-03-09T03:30:00.000Z,09 March 2026 - 03:30 AM,16.89,121.61,030,1.5,003km N 80° E of San Mateo (Isabela),003,N 80° E,San Mateo (Isabela)
 2026-03-09T02:53:00.000Z,09 March 2026 - 02:53 AM,19.33,121.10,030,1.7,027km N 24° W of Dalupiri Island (Calayan) (Cagayan),027,N 24° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-09T01:25:00.000Z,09 March 2026 - 01:25 AM,11.73,125.30,031,2.1,017km S 82° W of San Julian (Eastern Samar),017,S 82° W,San Julian (Eastern Samar)
-2026-03-09T01:12:00.000Z,09 March 2026 - 01:12 AM,09.48,122.57,016,1.9,011km N 42° W of Basay (Negros Oriental),011,N 42° W,Basay (Negros Oriental)

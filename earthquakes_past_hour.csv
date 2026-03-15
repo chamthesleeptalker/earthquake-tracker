@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-16T00:39:00.000Z,16 March 2026 - 12:39 AM,18.32,120.58,046,1.8,005km S 67° W of Pasuquin (Ilocos Norte),005,S 67° W,Pasuquin (Ilocos Norte)
-2026-03-16T00:28:00.000Z,16 March 2026 - 12:28 AM,14.96,122.64,004,1.7,044km N 49° E of Jomalig (Quezon),044,N 49° E,Jomalig (Quezon)
-2026-03-16T00:11:00.000Z,16 March 2026 - 12:11 AM,13.05,120.90,029,2.1,020km S 80° E of Santa Cruz (Occidental Mindoro),020,S 80° E,Santa Cruz (Occidental Mindoro)
+2026-03-16T01:42:00.000Z,16 March 2026 - 01:42 AM,14.73,121.90,028,1.4,005km N 68° W of Polillo (Quezon),005,N 68° W,Polillo (Quezon)
+2026-03-16T01:31:00.000Z,16 March 2026 - 01:31 AM,06.58,123.97,007,2.2,010km N 72° W of Kalamansig (Sultan Kudarat),010,N 72° W,Kalamansig (Sultan Kudarat)
+2026-03-16T01:27:00.000Z,16 March 2026 - 01:27 AM,09.12,126.34,032,2.1,016km N 47° E of Tago (Surigao Del Sur),016,N 47° E,Tago (Surigao Del Sur)
+2026-03-16T01:20:00.000Z,16 March 2026 - 01:20 AM,06.49,123.78,015,3.6,030km S 77° W of Kalamansig (Sultan Kudarat),030,S 77° W,Kalamansig (Sultan Kudarat)
