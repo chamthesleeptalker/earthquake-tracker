@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T14:59:00.000Z,16 March 2026 - 02:59 PM,18.99,121.16,031,1.8,014km S 22° W of Dalupiri Island (Calayan) (Cagayan),014,S 22° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-16T13:33:00.000Z,16 March 2026 - 01:33 PM,14.15,120.39,122,2.5,028km N 73° W of Nasugbu (Batangas),028,N 73° W,Nasugbu (Batangas)
 2026-03-16T12:54:00.000Z,16 March 2026 - 12:54 PM,20.07,121.38,032,1.8,059km S 60° W of Sabtang (Batanes),059,S 60° W,Sabtang (Batanes)
 2026-03-16T12:39:00.000Z,16 March 2026 - 12:39 PM,08.79,126.58,024,1.9,031km S 89° E of Marihatag (Surigao Del Sur),031,S 89° E,Marihatag (Surigao Del Sur)
@@ -254,5 +255,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-09T16:50:00.000Z,09 March 2026 - 04:50 PM,12.17,125.76,010,3.5,027km S 88° E of San Policarpo (Eastern Samar),027,S 88° E,San Policarpo (Eastern Samar)
 2026-03-09T16:38:00.000Z,09 March 2026 - 04:38 PM,12.12,125.57,012,2.4,010km S 48° E of San Policarpo (Eastern Samar),010,S 48° E,San Policarpo (Eastern Samar)
 2026-03-09T16:27:00.000Z,09 March 2026 - 04:27 PM,16.99,121.38,034,1.4,006km N 77° E of Aguinaldo (Ifugao),006,N 77° E,Aguinaldo (Ifugao)
-2026-03-09T14:36:00.000Z,09 March 2026 - 02:36 PM,09.51,122.43,023,3.5,011km S 23° W of Hinoba-an (Negros Occidental),011,S 23° W,Hinoba-an (Negros Occidental)
-2026-03-09T13:42:00.000Z,09 March 2026 - 01:42 PM,10.94,123.97,009,1.7,012km S 05° W of City Of Bogo (Cebu),012,S 05° W,City Of Bogo (Cebu)
