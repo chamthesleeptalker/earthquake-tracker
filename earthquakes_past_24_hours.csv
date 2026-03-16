@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-17T03:09:00.000Z,17 March 2026 - 03:09 AM,08.88,126.32,030,4.3,005km S 23° E of Cagwait (Surigao Del Sur),005,S 23° E,Cagwait (Surigao Del Sur)
 2026-03-17T02:34:00.000Z,17 March 2026 - 02:34 AM,16.22,119.86,061,1.9,004km N 03° E of Bani (Pangasinan),004,N 03° E,Bani (Pangasinan)
 2026-03-17T01:54:00.000Z,17 March 2026 - 01:54 AM,17.40,120.72,006,1.7,004km S 29° E of Manabo (Abra),004,S 29° E,Manabo (Abra)
 2026-03-17T00:04:00.000Z,17 March 2026 - 12:04 AM,16.23,120.51,013,2.1,003km N 88° E of Rosario (La Union),003,N 88° E,Rosario (La Union)
@@ -30,5 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-16T03:43:00.000Z,16 March 2026 - 03:43 AM,17.62,121.46,033,2.7,005km N 80° E of Pinukpuk (Kalinga),005,N 80° E,Pinukpuk (Kalinga)
 2026-03-16T03:27:00.000Z,16 March 2026 - 03:27 AM,18.49,120.47,033,1.6,019km S 83° W of Burgos (Ilocos Norte),019,S 83° W,Burgos (Ilocos Norte)
 2026-03-16T03:13:00.000Z,16 March 2026 - 03:13 AM,06.51,125.76,159,2.3,020km N 59° E of Malita (Davao Occidental),020,N 59° E,Malita (Davao Occidental)
-2026-03-16T03:01:00.000Z,16 March 2026 - 03:01 AM,16.89,120.65,103,2.5,012km N 88° E of Alilem (Ilocos Sur),012,N 88° E,Alilem (Ilocos Sur)
-2026-03-16T02:36:00.000Z,16 March 2026 - 02:36 AM,10.95,124.80,007,2.2,010km S 75° W of Burauen (Leyte),010,S 75° W,Burauen (Leyte)

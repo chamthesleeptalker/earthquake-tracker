@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-17T03:09:00.000Z,17 March 2026 - 03:09 AM,08.88,126.32,030,4.3,005km S 23° E of Cagwait (Surigao Del Sur),005,S 23° E,Cagwait (Surigao Del Sur)
 2026-03-17T02:34:00.000Z,17 March 2026 - 02:34 AM,16.22,119.86,061,1.9,004km N 03° E of Bani (Pangasinan),004,N 03° E,Bani (Pangasinan)
 2026-03-17T01:54:00.000Z,17 March 2026 - 01:54 AM,17.40,120.72,006,1.7,004km S 29° E of Manabo (Abra),004,S 29° E,Manabo (Abra)
 2026-03-17T00:04:00.000Z,17 March 2026 - 12:04 AM,16.23,120.51,013,2.1,003km N 88° E of Rosario (La Union),003,N 88° E,Rosario (La Union)
@@ -245,6 +246,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-10T03:23:00.000Z,10 March 2026 - 03:23 AM,13.48,122.61,032,2.0,010km S 26° E of San Narciso (Quezon),010,S 26° E,San Narciso (Quezon)
 2026-03-10T03:17:00.000Z,10 March 2026 - 03:17 AM,12.16,125.69,004,2.4,020km S 84° E of San Policarpo (Eastern Samar),020,S 84° E,San Policarpo (Eastern Samar)
 2026-03-10T03:16:00.000Z,10 March 2026 - 03:16 AM,11.02,124.47,032,1.8,010km S 71° E of Palompon (Leyte),010,S 71° E,Palompon (Leyte)
-2026-03-10T02:50:00.000Z,10 March 2026 - 02:50 AM,06.96,124.99,013,3.1,011km N 89° W of Makilala (Cotabato),011,N 89° W,Makilala (Cotabato)
-2026-03-10T02:49:00.000Z,10 March 2026 - 02:49 AM,12.06,125.55,011,2.6,014km S 21° E of San Policarpo (Eastern Samar),014,S 21° E,San Policarpo (Eastern Samar)
-2026-03-10T02:45:00.000Z,10 March 2026 - 02:45 AM,12.10,125.66,021,2.2,019km S 64° E of San Policarpo (Eastern Samar),019,S 64° E,San Policarpo (Eastern Samar)
