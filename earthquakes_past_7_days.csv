@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-17T02:34:00.000Z,17 March 2026 - 02:34 AM,16.22,119.86,061,1.9,004km N 03° E of Bani (Pangasinan),004,N 03° E,Bani (Pangasinan)
+2026-03-17T01:54:00.000Z,17 March 2026 - 01:54 AM,17.40,120.72,006,1.7,004km S 29° E of Manabo (Abra),004,S 29° E,Manabo (Abra)
 2026-03-17T00:04:00.000Z,17 March 2026 - 12:04 AM,16.23,120.51,013,2.1,003km N 88° E of Rosario (La Union),003,N 88° E,Rosario (La Union)
 2026-03-16T23:47:00.000Z,16 March 2026 - 11:47 PM,05.08,126.82,091,2.4,156km S 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),156,S 74° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-16T23:26:00.000Z,16 March 2026 - 11:26 PM,05.85,126.97,015,3.4,133km S 48° E of Governor Generoso (Davao Oriental),133,S 48° E,Governor Generoso (Davao Oriental)
@@ -246,6 +248,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-10T02:50:00.000Z,10 March 2026 - 02:50 AM,06.96,124.99,013,3.1,011km N 89° W of Makilala (Cotabato),011,N 89° W,Makilala (Cotabato)
 2026-03-10T02:49:00.000Z,10 March 2026 - 02:49 AM,12.06,125.55,011,2.6,014km S 21° E of San Policarpo (Eastern Samar),014,S 21° E,San Policarpo (Eastern Samar)
 2026-03-10T02:45:00.000Z,10 March 2026 - 02:45 AM,12.10,125.66,021,2.2,019km S 64° E of San Policarpo (Eastern Samar),019,S 64° E,San Policarpo (Eastern Samar)
-2026-03-10T00:59:00.000Z,10 March 2026 - 12:59 AM,06.81,124.73,013,1.5,004km S 60° W of General Salipada K. Pendatun (Maguindanao Del Sur),004,S 60° W,General Salipada K. Pendatun (Maguindanao Del Sur)
-2026-03-10T00:45:00.000Z,10 March 2026 - 12:45 AM,12.11,125.54,012,2.4,009km S 21° E of San Policarpo (Eastern Samar),009,S 21° E,San Policarpo (Eastern Samar)
-2026-03-10T00:40:00.000Z,10 March 2026 - 12:40 AM,10.14,126.00,030,2.0,014km N 15° W of Santa Monica (Surigao Del Norte),014,N 15° W,Santa Monica (Surigao Del Norte)
