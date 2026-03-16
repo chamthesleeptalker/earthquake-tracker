@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T09:13:00.000Z,16 March 2026 - 09:13 AM,17.24,121.87,025,2.1,011km N 13° W of City Of Ilagan (Isabela),011,N 13° W,City Of Ilagan (Isabela)
+2026-03-16T08:49:00.000Z,16 March 2026 - 08:49 AM,15.05,119.47,033,2.2,062km S 61° W of Iba (Zambales),062,S 61° W,Iba (Zambales)
+2026-03-16T07:57:00.000Z,16 March 2026 - 07:57 AM,17.97,120.80,008,2.7,014km S 14° E of Solsona (Ilocos Norte),014,S 14° E,Solsona (Ilocos Norte)
 2026-03-16T05:42:00.000Z,16 March 2026 - 05:42 AM,18.24,120.87,025,1.4,012km N 28° E of Carasi (Ilocos Norte),012,N 28° E,Carasi (Ilocos Norte)
 2026-03-16T05:02:00.000Z,16 March 2026 - 05:02 AM,06.67,126.10,006,1.5,003km N 66° E of Governor Generoso (Davao Oriental),003,N 66° E,Governor Generoso (Davao Oriental)
 2026-03-16T04:57:00.000Z,16 March 2026 - 04:57 AM,11.96,120.97,025,2.5,043km S 25° W of Magsaysay (Occidental Mindoro),043,S 25° W,Magsaysay (Occidental Mindoro)

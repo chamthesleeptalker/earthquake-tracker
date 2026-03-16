@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T09:13:00.000Z,16 March 2026 - 09:13 AM,17.24,121.87,025,2.1,011km N 13° W of City Of Ilagan (Isabela),011,N 13° W,City Of Ilagan (Isabela)
+2026-03-16T08:49:00.000Z,16 March 2026 - 08:49 AM,15.05,119.47,033,2.2,062km S 61° W of Iba (Zambales),062,S 61° W,Iba (Zambales)
+2026-03-16T07:57:00.000Z,16 March 2026 - 07:57 AM,17.97,120.80,008,2.7,014km S 14° E of Solsona (Ilocos Norte),014,S 14° E,Solsona (Ilocos Norte)
 2026-03-16T05:42:00.000Z,16 March 2026 - 05:42 AM,18.24,120.87,025,1.4,012km N 28° E of Carasi (Ilocos Norte),012,N 28° E,Carasi (Ilocos Norte)
 2026-03-16T05:02:00.000Z,16 March 2026 - 05:02 AM,06.67,126.10,006,1.5,003km N 66° E of Governor Generoso (Davao Oriental),003,N 66° E,Governor Generoso (Davao Oriental)
 2026-03-16T04:57:00.000Z,16 March 2026 - 04:57 AM,11.96,120.97,025,2.5,043km S 25° W of Magsaysay (Occidental Mindoro),043,S 25° W,Magsaysay (Occidental Mindoro)
@@ -35,6 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T11:50:00.000Z,15 March 2026 - 11:50 AM,17.66,120.17,026,2.5,022km N 71° W of Santa Catalina (Ilocos Sur),022,N 71° W,Santa Catalina (Ilocos Sur)
 2026-03-15T10:39:00.000Z,15 March 2026 - 10:39 AM,07.26,126.96,010,2.9,047km N 83° E of Manay (Davao Oriental),047,N 83° E,Manay (Davao Oriental)
 2026-03-15T09:51:00.000Z,15 March 2026 - 09:51 AM,07.82,126.31,005,1.7,009km S 53° W of Boston (Davao Oriental),009,S 53° W,Boston (Davao Oriental)
-2026-03-15T09:09:00.000Z,15 March 2026 - 09:09 AM,08.75,126.23,025,1.7,001km N 39° E of San Agustin (Surigao Del Sur),001,N 39° E,San Agustin (Surigao Del Sur)
-2026-03-15T07:19:00.000Z,15 March 2026 - 07:19 AM,11.14,124.18,008,3.4,025km N 64° E of City Of Bogo (Cebu),025,N 64° E,City Of Bogo (Cebu)
-2026-03-15T06:14:00.000Z,15 March 2026 - 06:14 AM,12.56,124.82,030,1.5,006km N 73° W of San Roque (Northern Samar),006,N 73° W,San Roque (Northern Samar)
