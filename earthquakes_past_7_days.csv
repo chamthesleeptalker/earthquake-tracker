@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-16T13:33:00.000Z,16 March 2026 - 01:33 PM,14.15,120.39,122,2.5,028km N 73° W of Nasugbu (Batangas),028,N 73° W,Nasugbu (Batangas)
+2026-03-16T12:54:00.000Z,16 March 2026 - 12:54 PM,20.07,121.38,032,1.8,059km S 60° W of Sabtang (Batanes),059,S 60° W,Sabtang (Batanes)
 2026-03-16T12:39:00.000Z,16 March 2026 - 12:39 PM,08.79,126.58,024,1.9,031km S 89° E of Marihatag (Surigao Del Sur),031,S 89° E,Marihatag (Surigao Del Sur)
 2026-03-16T11:34:00.000Z,16 March 2026 - 11:34 AM,08.90,126.42,033,1.6,014km S 83° E of Cagwait (Surigao Del Sur),014,S 83° E,Cagwait (Surigao Del Sur)
 2026-03-16T11:14:00.000Z,16 March 2026 - 11:14 AM,10.04,126.02,006,1.7,003km N 42° W of Santa Monica (Surigao Del Norte),003,N 42° W,Santa Monica (Surigao Del Norte)
@@ -254,6 +256,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-09T16:27:00.000Z,09 March 2026 - 04:27 PM,16.99,121.38,034,1.4,006km N 77° E of Aguinaldo (Ifugao),006,N 77° E,Aguinaldo (Ifugao)
 2026-03-09T14:36:00.000Z,09 March 2026 - 02:36 PM,09.51,122.43,023,3.5,011km S 23° W of Hinoba-an (Negros Occidental),011,S 23° W,Hinoba-an (Negros Occidental)
 2026-03-09T13:42:00.000Z,09 March 2026 - 01:42 PM,10.94,123.97,009,1.7,012km S 05° W of City Of Bogo (Cebu),012,S 05° W,City Of Bogo (Cebu)
-2026-03-09T13:21:00.000Z,09 March 2026 - 01:21 PM,08.56,122.61,024,2.5,048km N 74° W of Jose Dalman (Zamboanga Del Norte),048,N 74° W,Jose Dalman (Zamboanga Del Norte)
-2026-03-09T12:53:00.000Z,09 March 2026 - 12:53 PM,06.65,124.00,010,1.8,012km N 27° W of Kalamansig (Sultan Kudarat),012,N 27° W,Kalamansig (Sultan Kudarat)
-2026-03-09T12:46:00.000Z,09 March 2026 - 12:46 PM,09.99,125.97,032,2.0,006km N 49° W of San Benito (Surigao Del Norte),006,N 49° W,San Benito (Surigao Del Norte)
