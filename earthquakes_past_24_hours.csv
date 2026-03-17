@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-18T02:33:00.000Z,18 March 2026 - 02:33 AM,13.47,125.39,036,3.8,114km S 72° E of Gigmoto (Catanduanes),114,S 72° E,Gigmoto (Catanduanes)
+2026-03-18T02:21:00.000Z,18 March 2026 - 02:21 AM,07.38,126.70,018,3.6,016km N 68° E of Caraga (Davao Oriental),016,N 68° E,Caraga (Davao Oriental)
+2026-03-18T02:11:00.000Z,18 March 2026 - 02:11 AM,19.94,121.31,012,2.0,073km S 53° W of Sabtang (Batanes),073,S 53° W,Sabtang (Batanes)
 2026-03-18T01:19:00.000Z,18 March 2026 - 01:19 AM,07.81,124.51,008,1.5,017km S 69° E of Lumba-bayabao (Lanao Del Sur),017,S 69° E,Lumba-bayabao (Lanao Del Sur)
 2026-03-18T00:32:00.000Z,18 March 2026 - 12:32 AM,11.04,123.86,020,2.2,013km S 85° W of City Of Bogo (Cebu),013,S 85° W,City Of Bogo (Cebu)
 2026-03-17T22:40:00.000Z,17 March 2026 - 10:40 PM,08.41,124.32,076,2.4,004km N 73° E of Manticao (Misamis Oriental),004,N 73° E,Manticao (Misamis Oriental)
@@ -29,4 +32,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-17T03:48:00.000Z,17 March 2026 - 03:48 AM,17.65,121.40,036,2.0,004km N 11° W of Pinukpuk (Kalinga),004,N 11° W,Pinukpuk (Kalinga)
 2026-03-17T03:09:00.000Z,17 March 2026 - 03:09 AM,08.88,126.32,030,4.3,005km S 23° E of Cagwait (Surigao Del Sur),005,S 23° E,Cagwait (Surigao Del Sur)
 2026-03-17T02:34:00.000Z,17 March 2026 - 02:34 AM,16.22,119.86,061,1.9,004km N 03° E of Bani (Pangasinan),004,N 03° E,Bani (Pangasinan)
-2026-03-17T01:54:00.000Z,17 March 2026 - 01:54 AM,17.40,120.72,006,1.7,004km S 29° E of Manabo (Abra),004,S 29° E,Manabo (Abra)
