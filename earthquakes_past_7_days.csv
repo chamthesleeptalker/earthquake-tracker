@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-18T01:19:00.000Z,18 March 2026 - 01:19 AM,07.81,124.51,008,1.5,017km S 69° E of Lumba-bayabao (Lanao Del Sur),017,S 69° E,Lumba-bayabao (Lanao Del Sur)
+2026-03-18T00:32:00.000Z,18 March 2026 - 12:32 AM,11.04,123.86,020,2.2,013km S 85° W of City Of Bogo (Cebu),013,S 85° W,City Of Bogo (Cebu)
 2026-03-17T22:40:00.000Z,17 March 2026 - 10:40 PM,08.41,124.32,076,2.4,004km N 73° E of Manticao (Misamis Oriental),004,N 73° E,Manticao (Misamis Oriental)
 2026-03-17T22:40:00.000Z,17 March 2026 - 10:40 PM,09.83,126.23,032,2.1,010km N 60° E of General Luna (Surigao Del Norte),010,N 60° E,General Luna (Surigao Del Norte)
 2026-03-17T22:18:00.000Z,17 March 2026 - 10:18 PM,09.17,125.69,012,2.6,017km N 71° E of City Of Cabadbaran (Agusan Del Norte),017,N 71° E,City Of Cabadbaran (Agusan Del Norte)
@@ -239,11 +241,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-11T01:57:00.000Z,11 March 2026 - 01:57 AM,12.08,125.61,015,3.2,015km S 44° E of San Policarpo (Eastern Samar),015,S 44° E,San Policarpo (Eastern Samar)
 2026-03-11T01:56:00.000Z,11 March 2026 - 01:56 AM,12.10,125.71,012,3.3,024km S 67° E of San Policarpo (Eastern Samar),024,S 67° E,San Policarpo (Eastern Samar)
 2026-03-11T01:33:00.000Z,11 March 2026 - 01:33 AM,03.06,125.83,097,3.9,264km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),264,S 10° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-11T01:06:00.000Z,11 March 2026 - 01:06 AM,12.23,125.89,015,4.1,042km N 82° E of San Policarpo (Eastern Samar),042,N 82° E,San Policarpo (Eastern Samar)
-2026-03-11T01:04:00.000Z,11 March 2026 - 01:04 AM,12.08,125.62,012,2.8,017km S 46° E of San Policarpo (Eastern Samar),017,S 46° E,San Policarpo (Eastern Samar)
-2026-03-11T00:37:00.000Z,11 March 2026 - 12:37 AM,12.14,125.61,013,2.4,012km S 71° E of San Policarpo (Eastern Samar),012,S 71° E,San Policarpo (Eastern Samar)
-2026-03-11T00:32:00.000Z,11 March 2026 - 12:32 AM,07.19,123.48,021,2.0,031km S 14° E of Tabina (Zamboanga Del Sur),031,S 14° E,Tabina (Zamboanga Del Sur)
-2026-03-10T23:42:00.000Z,10 March 2026 - 11:42 PM,11.13,124.11,008,2.2,017km N 56° E of City Of Bogo (Cebu),017,N 56° E,City Of Bogo (Cebu)
-2026-03-10T23:29:00.000Z,10 March 2026 - 11:29 PM,07.60,126.70,021,2.6,016km N 81° E of Baganga (Davao Oriental),016,N 81° E,Baganga (Davao Oriental)
-2026-03-10T23:17:00.000Z,10 March 2026 - 11:17 PM,13.46,120.75,032,1.8,003km N 46° E of Abra De Ilog (Occidental Mindoro),003,N 46° E,Abra De Ilog (Occidental Mindoro)
-2026-03-10T23:06:00.000Z,10 March 2026 - 11:06 PM,12.35,126.02,010,4.4,058km N 71° E of San Policarpo (Eastern Samar),058,N 71° E,San Policarpo (Eastern Samar)
