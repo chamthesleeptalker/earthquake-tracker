@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-17T14:00:00.000Z,17 March 2026 - 02:00 PM,09.87,125.04,024,2.5,006km S 33° W of Limasawa (Southern Leyte),006,S 33° W,Limasawa (Southern Leyte)
+2026-03-17T13:52:00.000Z,17 March 2026 - 01:52 PM,19.58,121.27,015,1.8,041km N 31° W of Calayan (Cagayan),041,N 31° W,Calayan (Cagayan)
 2026-03-17T11:22:00.000Z,17 March 2026 - 11:22 AM,17.42,120.65,005,2.0,003km S 58° E of Villaviciosa (Abra),003,S 58° E,Villaviciosa (Abra)
 2026-03-17T09:55:00.000Z,17 March 2026 - 09:55 AM,18.71,120.95,028,1.9,017km N 16° W of Santa Praxedes (Cagayan),017,N 16° W,Santa Praxedes (Cagayan)
 2026-03-17T06:53:00.000Z,17 March 2026 - 06:53 AM,07.21,126.77,023,4.0,025km S 89° E of Manay (Davao Oriental),025,S 89° E,Manay (Davao Oriental)

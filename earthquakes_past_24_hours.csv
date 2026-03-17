@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-17T14:00:00.000Z,17 March 2026 - 02:00 PM,09.87,125.04,024,2.5,006km S 33° W of Limasawa (Southern Leyte),006,S 33° W,Limasawa (Southern Leyte)
+2026-03-17T13:52:00.000Z,17 March 2026 - 01:52 PM,19.58,121.27,015,1.8,041km N 31° W of Calayan (Cagayan),041,N 31° W,Calayan (Cagayan)
 2026-03-17T11:22:00.000Z,17 March 2026 - 11:22 AM,17.42,120.65,005,2.0,003km S 58° E of Villaviciosa (Abra),003,S 58° E,Villaviciosa (Abra)
 2026-03-17T09:55:00.000Z,17 March 2026 - 09:55 AM,18.71,120.95,028,1.9,017km N 16° W of Santa Praxedes (Cagayan),017,N 16° W,Santa Praxedes (Cagayan)
 2026-03-17T06:53:00.000Z,17 March 2026 - 06:53 AM,07.21,126.77,023,4.0,025km S 89° E of Manay (Davao Oriental),025,S 89° E,Manay (Davao Oriental)
@@ -27,7 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-16T16:23:00.000Z,16 March 2026 - 04:23 PM,10.94,124.75,002,2.3,007km N 73° E of Albuera (Leyte),007,N 73° E,Albuera (Leyte)
 2026-03-16T16:18:00.000Z,16 March 2026 - 04:18 PM,09.90,126.19,021,1.7,010km N 70° E of Pilar (Surigao Del Norte),010,N 70° E,Pilar (Surigao Del Norte)
 2026-03-16T14:59:00.000Z,16 March 2026 - 02:59 PM,18.99,121.16,031,1.8,014km S 22° W of Dalupiri Island (Calayan) (Cagayan),014,S 22° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-16T13:33:00.000Z,16 March 2026 - 01:33 PM,14.15,120.39,122,2.5,028km N 73° W of Nasugbu (Batangas),028,N 73° W,Nasugbu (Batangas)
-2026-03-16T12:54:00.000Z,16 March 2026 - 12:54 PM,20.07,121.38,032,1.8,059km S 60° W of Sabtang (Batanes),059,S 60° W,Sabtang (Batanes)
-2026-03-16T12:39:00.000Z,16 March 2026 - 12:39 PM,08.79,126.58,024,1.9,031km S 89° E of Marihatag (Surigao Del Sur),031,S 89° E,Marihatag (Surigao Del Sur)
-2026-03-16T11:34:00.000Z,16 March 2026 - 11:34 AM,08.90,126.42,033,1.6,014km S 83° E of Cagwait (Surigao Del Sur),014,S 83° E,Cagwait (Surigao Del Sur)
