@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-17T09:55:00.000Z,17 March 2026 - 09:55 AM,18.71,120.95,028,1.9,017km N 16° W of Santa Praxedes (Cagayan),017,N 16° W,Santa Praxedes (Cagayan)
 2026-03-17T06:53:00.000Z,17 March 2026 - 06:53 AM,07.21,126.77,023,4.0,025km S 89° E of Manay (Davao Oriental),025,S 89° E,Manay (Davao Oriental)
 2026-03-17T05:41:00.000Z,17 March 2026 - 05:41 AM,10.94,123.92,005,2.6,012km West of Tabogon (Cebu),012,West of Tabogon,
 2026-03-17T05:39:00.000Z,17 March 2026 - 05:39 AM,12.85,123.06,031,2.1,021km S 76° W of Claveria (Masbate),021,S 76° W,Claveria (Masbate)
@@ -30,6 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-16T12:39:00.000Z,16 March 2026 - 12:39 PM,08.79,126.58,024,1.9,031km S 89° E of Marihatag (Surigao Del Sur),031,S 89° E,Marihatag (Surigao Del Sur)
 2026-03-16T11:34:00.000Z,16 March 2026 - 11:34 AM,08.90,126.42,033,1.6,014km S 83° E of Cagwait (Surigao Del Sur),014,S 83° E,Cagwait (Surigao Del Sur)
 2026-03-16T11:14:00.000Z,16 March 2026 - 11:14 AM,10.04,126.02,006,1.7,003km N 42° W of Santa Monica (Surigao Del Norte),003,N 42° W,Santa Monica (Surigao Del Norte)
-2026-03-16T09:13:00.000Z,16 March 2026 - 09:13 AM,17.24,121.87,025,2.1,011km N 13° W of City Of Ilagan (Isabela),011,N 13° W,City Of Ilagan (Isabela)
-2026-03-16T08:49:00.000Z,16 March 2026 - 08:49 AM,15.05,119.47,033,2.2,062km S 61° W of Iba (Zambales),062,S 61° W,Iba (Zambales)
-2026-03-16T07:57:00.000Z,16 March 2026 - 07:57 AM,17.97,120.80,008,2.7,014km S 14° E of Solsona (Ilocos Norte),014,S 14° E,Solsona (Ilocos Norte)
