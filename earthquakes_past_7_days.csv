@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-17T21:42:00.000Z,17 March 2026 - 09:42 PM,19.29,121.13,034,2.2,021km N 23° W of Dalupiri Island (Calayan) (Cagayan),021,N 23° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-17T20:56:00.000Z,17 March 2026 - 08:56 PM,09.79,126.21,047,2.1,006km N 80° E of General Luna (Surigao Del Norte),006,N 80° E,General Luna (Surigao Del Norte)
+2026-03-17T20:21:00.000Z,17 March 2026 - 08:21 PM,19.38,120.71,015,2.6,060km N 60° W of Dalupiri Island (Calayan) (Cagayan),060,N 60° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-17T20:01:00.000Z,17 March 2026 - 08:01 PM,11.05,124.12,026,2.0,015km S 90° E of City Of Bogo (Cebu),015,S 90° E,City Of Bogo (Cebu)
 2026-03-17T19:38:00.000Z,17 March 2026 - 07:38 PM,08.49,122.37,002,3.2,050km N 19° W of Labason (Zamboanga Del Norte),050,N 19° W,Labason (Zamboanga Del Norte)
 2026-03-17T18:55:00.000Z,17 March 2026 - 06:55 PM,11.27,126.36,026,4.0,073km N 75° E of Mercedes (Eastern Samar),073,N 75° E,Mercedes (Eastern Samar)
 2026-03-17T16:40:00.000Z,17 March 2026 - 04:40 PM,05.28,126.67,050,3.9,134km S 59° E of Jose Abad Santos (Davao Occidental),134,S 59° E,Jose Abad Santos (Davao Occidental)
@@ -243,6 +247,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-10T22:12:00.000Z,10 March 2026 - 10:12 PM,12.13,125.64,016,2.6,016km S 68° E of San Policarpo (Eastern Samar),016,S 68° E,San Policarpo (Eastern Samar)
 2026-03-10T21:56:00.000Z,10 March 2026 - 09:56 PM,06.63,123.72,011,2.0,038km N 77° W of Kalamansig (Sultan Kudarat),038,N 77° W,Kalamansig (Sultan Kudarat)
 2026-03-10T21:55:00.000Z,10 March 2026 - 09:55 PM,06.57,123.67,010,2.0,042km N 88° W of Kalamansig (Sultan Kudarat),042,N 88° W,Kalamansig (Sultan Kudarat)
-2026-03-10T20:24:00.000Z,10 March 2026 - 08:24 PM,07.40,125.90,032,1.6,005km N 53° E of Maco (Davao De Oro),005,N 53° E,Maco (Davao De Oro)
-2026-03-10T20:08:00.000Z,10 March 2026 - 08:08 PM,07.99,126.23,017,2.1,020km N 51° W of Boston (Davao Oriental),020,N 51° W,Boston (Davao Oriental)
-2026-03-10T19:48:00.000Z,10 March 2026 - 07:48 PM,07.73,126.44,030,1.8,007km S 15° W of Cateel (Davao Oriental),007,S 15° W,Cateel (Davao Oriental)
