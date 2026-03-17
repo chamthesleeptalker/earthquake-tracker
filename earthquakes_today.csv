@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-18T05:02:00.000Z,18 March 2026 - 05:02 AM,11.06,124.10,034,2.0,013km N 82° E of City Of Bogo (Cebu),013,N 82° E,City Of Bogo (Cebu)
+2026-03-18T04:47:00.000Z,18 March 2026 - 04:47 AM,14.97,120.00,015,2.3,009km N 75° W of San Antonio (Zambales),009,N 75° W,San Antonio (Zambales)
 2026-03-18T04:01:00.000Z,18 March 2026 - 04:01 AM,17.40,120.49,079,1.7,003km S 34° E of Narvacan (Ilocos Sur),003,S 34° E,Narvacan (Ilocos Sur)
 2026-03-18T03:00:00.000Z,18 March 2026 - 03:00 AM,07.70,126.32,116,2.8,017km S 54° W of Cateel (Davao Oriental),017,S 54° W,Cateel (Davao Oriental)
 2026-03-18T02:33:00.000Z,18 March 2026 - 02:33 AM,13.47,125.39,036,3.8,114km S 72° E of Gigmoto (Catanduanes),114,S 72° E,Gigmoto (Catanduanes)
