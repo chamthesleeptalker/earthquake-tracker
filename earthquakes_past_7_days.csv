@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-19T06:13:00.000Z,19 March 2026 - 06:13 AM,11.06,124.03,004,2.6,005km N 79° E of City Of Bogo (Cebu),005,N 79° E,City Of Bogo (Cebu)
+2026-03-19T06:11:00.000Z,19 March 2026 - 06:11 AM,16.42,119.96,026,4.1,008km N 60° E of Bolinao (Pangasinan),008,N 60° E,Bolinao (Pangasinan)
+2026-03-19T05:48:00.000Z,19 March 2026 - 05:48 AM,11.18,125.51,029,2.4,003km N 38° W of Quinapondan (Eastern Samar),003,N 38° W,Quinapondan (Eastern Samar)
+2026-03-19T05:41:00.000Z,19 March 2026 - 05:41 AM,09.56,126.05,055,1.5,011km S 52° E of Socorro (Surigao Del Norte),011,S 52° E,Socorro (Surigao Del Norte)
 2026-03-19T05:13:00.000Z,19 March 2026 - 05:13 AM,14.86,121.97,017,2.2,002km N 07° W of Burdeos (Quezon),002,N 07° W,Burdeos (Quezon)
 2026-03-19T04:54:00.000Z,19 March 2026 - 04:54 AM,17.97,120.01,019,2.9,049km N 76° W of Sinait (Ilocos Sur),049,N 76° W,Sinait (Ilocos Sur)
 2026-03-19T04:08:00.000Z,19 March 2026 - 04:08 AM,07.91,125.27,026,1.7,007km S 82° W of San Fernando (Bukidnon),007,S 82° W,San Fernando (Bukidnon)
@@ -239,5 +243,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-12T08:06:00.000Z,12 March 2026 - 08:06 AM,08.82,126.67,010,5.0,040km N 86° E of Marihatag (Surigao Del Sur),040,N 86° E,Marihatag (Surigao Del Sur)
 2026-03-12T07:13:00.000Z,12 March 2026 - 07:13 AM,12.75,123.05,046,1.9,027km S 51° W of Claveria (Masbate),027,S 51° W,Claveria (Masbate)
 2026-03-12T06:52:00.000Z,12 March 2026 - 06:52 AM,09.57,126.69,010,3.9,063km S 68° E of General Luna (Surigao Del Norte),063,S 68° E,General Luna (Surigao Del Norte)
-2026-03-12T06:07:00.000Z,12 March 2026 - 06:07 AM,12.92,123.11,005,2.3,015km N 83° W of Claveria (Masbate),015,N 83° W,Claveria (Masbate)
-2026-03-12T06:00:00.000Z,12 March 2026 - 06:00 AM,05.49,125.29,019,2.3,017km N 58° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 58° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
