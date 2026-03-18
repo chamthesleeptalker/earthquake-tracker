@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-19T04:08:00.000Z,19 March 2026 - 04:08 AM,07.91,125.27,026,1.7,007km S 82° W of San Fernando (Bukidnon),007,S 82° W,San Fernando (Bukidnon)
+2026-03-19T04:07:00.000Z,19 March 2026 - 04:07 AM,13.74,120.52,083,1.7,015km S 51° W of Calatagan (Batangas),015,S 51° W,Calatagan (Batangas)
+2026-03-19T04:04:00.000Z,19 March 2026 - 04:04 AM,13.45,120.17,029,1.5,031km S 16° W of Looc (Occidental Mindoro),031,S 16° W,Looc (Occidental Mindoro)
 2026-03-19T03:22:00.000Z,19 March 2026 - 03:22 AM,13.80,122.90,002,2.0,002km N 52° W of Lupi (Camarines Sur),002,N 52° W,Lupi (Camarines Sur)
 2026-03-19T02:07:00.000Z,19 March 2026 - 02:07 AM,14.71,121.90,026,1.7,005km S 87° W of Polillo (Quezon),005,S 87° W,Polillo (Quezon)
 2026-03-19T01:58:00.000Z,19 March 2026 - 01:58 AM,09.80,122.18,014,1.8,028km N 82° W of City Of Sipalay (Negros Occidental),028,N 82° W,City Of Sipalay (Negros Occidental)
@@ -237,6 +240,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-12T06:07:00.000Z,12 March 2026 - 06:07 AM,12.92,123.11,005,2.3,015km N 83° W of Claveria (Masbate),015,N 83° W,Claveria (Masbate)
 2026-03-12T06:00:00.000Z,12 March 2026 - 06:00 AM,05.49,125.29,019,2.3,017km N 58° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 58° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-12T04:42:00.000Z,12 March 2026 - 04:42 AM,17.89,121.25,036,1.7,011km N 62° W of Rizal (Cagayan),011,N 62° W,Rizal (Cagayan)
-2026-03-12T03:55:00.000Z,12 March 2026 - 03:55 AM,13.02,120.90,007,3.5,021km S 71° E of Santa Cruz (Occidental Mindoro),021,S 71° E,Santa Cruz (Occidental Mindoro)
-2026-03-12T03:39:00.000Z,12 March 2026 - 03:39 AM,12.30,125.63,030,2.1,019km N 44° E of San Policarpo (Eastern Samar),019,N 44° E,San Policarpo (Eastern Samar)
-2026-03-12T03:33:00.000Z,12 March 2026 - 03:33 AM,10.92,123.91,007,2.4,016km S 27° W of City Of Bogo (Cebu),016,S 27° W,City Of Bogo (Cebu)
