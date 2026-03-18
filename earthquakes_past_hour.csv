@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-18T19:29:00.000Z,18 March 2026 - 07:29 PM,11.18,124.18,008,2.6,026km N 55° E of City Of Bogo (Cebu),026,N 55° E,City Of Bogo (Cebu)
-2026-03-18T19:00:00.000Z,18 March 2026 - 07:00 PM,14.12,121.05,091,1.5,006km N 52° E of Talisay (Batangas),006,N 52° E,Talisay (Batangas)
+2026-03-18T21:02:00.000Z,18 March 2026 - 09:02 PM,14.11,121.23,005,3.4,005km N 20° W of Alaminos (Laguna),005,N 20° W,Alaminos (Laguna)
+2026-03-18T20:48:00.000Z,18 March 2026 - 08:48 PM,17.25,121.94,018,1.7,013km N 27° E of City Of Ilagan (Isabela),013,N 27° E,City Of Ilagan (Isabela)
+2026-03-18T20:18:00.000Z,18 March 2026 - 08:18 PM,19.08,121.19,009,2.0,004km S 24° W of Dalupiri Island (Calayan) (Cagayan),004,S 24° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-18T20:12:00.000Z,18 March 2026 - 08:12 PM,13.89,120.07,021,1.5,006km N 55° W of Lubang (Occidental Mindoro),006,N 55° W,Lubang (Occidental Mindoro)
