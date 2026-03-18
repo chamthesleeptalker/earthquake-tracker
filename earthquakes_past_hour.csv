@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-19T06:54:00.000Z,19 March 2026 - 06:54 AM,16.44,119.72,033,1.9,019km N 73° W of Bolinao (Pangasinan),019,N 73° W,Bolinao (Pangasinan)
+2026-03-19T06:27:00.000Z,19 March 2026 - 06:27 AM,10.21,122.65,004,1.8,023km N 85° W of Binalbagan (Negros Occidental),023,N 85° W,Binalbagan (Negros Occidental)
 2026-03-19T06:13:00.000Z,19 March 2026 - 06:13 AM,11.06,124.03,004,2.6,005km N 79° E of City Of Bogo (Cebu),005,N 79° E,City Of Bogo (Cebu)
 2026-03-19T06:11:00.000Z,19 March 2026 - 06:11 AM,16.42,119.96,026,4.1,008km N 60° E of Bolinao (Pangasinan),008,N 60° E,Bolinao (Pangasinan)
-2026-03-19T05:48:00.000Z,19 March 2026 - 05:48 AM,11.18,125.51,029,2.4,003km N 38° W of Quinapondan (Eastern Samar),003,N 38° W,Quinapondan (Eastern Samar)
-2026-03-19T05:41:00.000Z,19 March 2026 - 05:41 AM,09.56,126.05,055,1.5,011km S 52° E of Socorro (Surigao Del Norte),011,S 52° E,Socorro (Surigao Del Norte)
-2026-03-19T05:13:00.000Z,19 March 2026 - 05:13 AM,14.86,121.97,017,2.2,002km N 07° W of Burdeos (Quezon),002,N 07° W,Burdeos (Quezon)
