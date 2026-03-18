@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-18T12:23:00.000Z,18 March 2026 - 12:23 PM,06.31,123.67,022,1.8,050km S 57° W of Kalamansig (Sultan Kudarat),050,S 57° W,Kalamansig (Sultan Kudarat)
+2026-03-18T11:33:00.000Z,18 March 2026 - 11:33 AM,11.28,125.73,012,2.7,015km S 59° E of Hernani (Eastern Samar),015,S 59° E,Hernani (Eastern Samar)
+2026-03-18T10:54:00.000Z,18 March 2026 - 10:54 AM,15.63,121.83,003,1.7,032km S 64° E of Baler (Aurora),032,S 64° E,Baler (Aurora)
 2026-03-18T08:19:00.000Z,18 March 2026 - 08:19 AM,17.29,120.04,020,1.7,043km S 85° W of San Esteban (Ilocos Sur),043,S 85° W,San Esteban (Ilocos Sur)
 2026-03-18T08:14:00.000Z,18 March 2026 - 08:14 AM,11.02,124.06,001,2.2,010km S 70° E of City Of Bogo (Cebu),010,S 70° E,City Of Bogo (Cebu)
 2026-03-18T08:09:00.000Z,18 March 2026 - 08:09 AM,06.84,126.80,028,2.1,046km S 60° E of Tarragona (Davao Oriental),046,S 60° E,Tarragona (Davao Oriental)
@@ -222,7 +225,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-12T02:00:00.000Z,12 March 2026 - 02:00 AM,13.74,120.18,025,2.0,008km N 71° W of Looc (Occidental Mindoro),008,N 71° W,Looc (Occidental Mindoro)
 2026-03-12T01:46:00.000Z,12 March 2026 - 01:46 AM,13.71,125.51,034,3.0,121km S 86° E of Gigmoto (Catanduanes),121,S 86° E,Gigmoto (Catanduanes)
 2026-03-12T01:37:00.000Z,12 March 2026 - 01:37 AM,12.18,125.86,010,4.4,038km N 89° E of San Policarpo (Eastern Samar),038,N 89° E,San Policarpo (Eastern Samar)
-2026-03-11T09:09:00.000Z,11 March 2026 - 09:09 AM,12.32,126.01,014,3.2,056km N 75° E of San Policarpo (Eastern Samar),056,N 75° E,San Policarpo (Eastern Samar)
 2026-03-12T01:17:00.000Z,12 March 2026 - 01:17 AM,13.03,120.89,031,1.7,019km S 72° E of Santa Cruz (Occidental Mindoro),019,S 72° E,Santa Cruz (Occidental Mindoro)
 2026-03-12T00:09:00.000Z,12 March 2026 - 12:09 AM,17.90,121.13,032,1.2,015km S 24° W of Kabugao (Apayao),015,S 24° W,Kabugao (Apayao)
 2026-03-11T23:51:00.000Z,11 March 2026 - 11:51 PM,13.69,120.60,097,1.7,016km S 12° W of Calatagan (Batangas),016,S 12° W,Calatagan (Batangas)
@@ -239,7 +241,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-11T13:54:00.000Z,11 March 2026 - 01:54 PM,18.53,120.73,027,2.4,003km S 60° W of Bangui (Ilocos Norte),003,S 60° W,Bangui (Ilocos Norte)
 2026-03-11T12:55:00.000Z,11 March 2026 - 12:55 PM,13.97,120.47,022,1.6,021km S 58° W of Nasugbu (Batangas),021,S 58° W,Nasugbu (Batangas)
 2026-03-11T12:53:00.000Z,11 March 2026 - 12:53 PM,13.90,120.44,049,1.8,022km N 70° W of Calatagan (Batangas),022,N 70° W,Calatagan (Batangas)
-2026-03-11T11:51:00.000Z,11 March 2026 - 11:51 AM,11.84,124.14,004,2.3,011km S 66° E of Pio V. Corpus (Masbate),011,S 66° E,Pio V. Corpus (Masbate)
-2026-03-11T10:30:00.000Z,11 March 2026 - 10:30 AM,13.67,120.55,047,1.7,020km S 27° W of Calatagan (Batangas),020,S 27° W,Calatagan (Batangas)
-2026-03-11T09:10:00.000Z,11 March 2026 - 09:10 AM,12.12,125.67,014,3.2,019km S 69° E of San Policarpo (Eastern Samar),019,S 69° E,San Policarpo (Eastern Samar)
-2026-03-11T08:22:00.000Z,11 March 2026 - 08:22 AM,17.24,120.06,005,2.4,041km N 78° W of City Of Candon (Ilocos Sur),041,N 78° W,City Of Candon (Ilocos Sur)

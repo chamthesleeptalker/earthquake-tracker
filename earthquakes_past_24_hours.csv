@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-18T12:23:00.000Z,18 March 2026 - 12:23 PM,06.31,123.67,022,1.8,050km S 57° W of Kalamansig (Sultan Kudarat),050,S 57° W,Kalamansig (Sultan Kudarat)
+2026-03-18T11:33:00.000Z,18 March 2026 - 11:33 AM,11.28,125.73,012,2.7,015km S 59° E of Hernani (Eastern Samar),015,S 59° E,Hernani (Eastern Samar)
+2026-03-18T10:54:00.000Z,18 March 2026 - 10:54 AM,15.63,121.83,003,1.7,032km S 64° E of Baler (Aurora),032,S 64° E,Baler (Aurora)
 2026-03-18T08:19:00.000Z,18 March 2026 - 08:19 AM,17.29,120.04,020,1.7,043km S 85° W of San Esteban (Ilocos Sur),043,S 85° W,San Esteban (Ilocos Sur)
 2026-03-18T08:14:00.000Z,18 March 2026 - 08:14 AM,11.02,124.06,001,2.2,010km S 70° E of City Of Bogo (Cebu),010,S 70° E,City Of Bogo (Cebu)
 2026-03-18T08:09:00.000Z,18 March 2026 - 08:09 AM,06.84,126.80,028,2.1,046km S 60° E of Tarragona (Davao Oriental),046,S 60° E,Tarragona (Davao Oriental)
@@ -31,5 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-17T15:06:00.000Z,17 March 2026 - 03:06 PM,19.80,121.39,017,1.8,060km N 09° W of Calayan (Cagayan),060,N 09° W,Calayan (Cagayan)
 2026-03-17T14:00:00.000Z,17 March 2026 - 02:00 PM,09.87,125.04,024,2.5,006km S 33° W of Limasawa (Southern Leyte),006,S 33° W,Limasawa (Southern Leyte)
 2026-03-17T13:52:00.000Z,17 March 2026 - 01:52 PM,19.58,121.27,015,1.8,041km N 31° W of Calayan (Cagayan),041,N 31° W,Calayan (Cagayan)
-2026-03-17T11:22:00.000Z,17 March 2026 - 11:22 AM,17.42,120.65,005,2.0,003km S 58° E of Villaviciosa (Abra),003,S 58° E,Villaviciosa (Abra)
-2026-03-17T09:55:00.000Z,17 March 2026 - 09:55 AM,18.71,120.95,028,1.9,017km N 16° W of Santa Praxedes (Cagayan),017,N 16° W,Santa Praxedes (Cagayan)
