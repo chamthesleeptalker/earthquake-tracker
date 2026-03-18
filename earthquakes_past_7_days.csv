@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-18T13:02:00.000Z,18 March 2026 - 01:02 PM,18.44,120.88,005,1.6,003km S 54° W of Adams (Ilocos Norte),003,S 54° W,Adams (Ilocos Norte)
 2026-03-18T12:23:00.000Z,18 March 2026 - 12:23 PM,06.31,123.67,022,1.8,050km S 57° W of Kalamansig (Sultan Kudarat),050,S 57° W,Kalamansig (Sultan Kudarat)
 2026-03-18T11:33:00.000Z,18 March 2026 - 11:33 AM,11.28,125.73,012,2.7,015km S 59° E of Hernani (Eastern Samar),015,S 59° E,Hernani (Eastern Samar)
 2026-03-18T10:54:00.000Z,18 March 2026 - 10:54 AM,15.63,121.83,003,1.7,032km S 64° E of Baler (Aurora),032,S 64° E,Baler (Aurora)
@@ -239,5 +240,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-11T17:38:00.000Z,11 March 2026 - 05:38 PM,07.34,126.66,016,1.9,020km N 43° E of Manay (Davao Oriental),020,N 43° E,Manay (Davao Oriental)
 2026-03-11T17:03:00.000Z,11 March 2026 - 05:03 PM,06.19,123.94,038,1.7,042km S 17° W of Kalamansig (Sultan Kudarat),042,S 17° W,Kalamansig (Sultan Kudarat)
 2026-03-11T13:54:00.000Z,11 March 2026 - 01:54 PM,18.53,120.73,027,2.4,003km S 60° W of Bangui (Ilocos Norte),003,S 60° W,Bangui (Ilocos Norte)
-2026-03-11T12:55:00.000Z,11 March 2026 - 12:55 PM,13.97,120.47,022,1.6,021km S 58° W of Nasugbu (Batangas),021,S 58° W,Nasugbu (Batangas)
-2026-03-11T12:53:00.000Z,11 March 2026 - 12:53 PM,13.90,120.44,049,1.8,022km N 70° W of Calatagan (Batangas),022,N 70° W,Calatagan (Batangas)
