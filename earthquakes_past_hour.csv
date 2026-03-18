@@ -1,5 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-19T02:07:00.000Z,19 March 2026 - 02:07 AM,14.71,121.90,026,1.7,005km S 87° W of Polillo (Quezon),005,S 87° W,Polillo (Quezon)
+2026-03-19T01:58:00.000Z,19 March 2026 - 01:58 AM,09.80,122.18,014,1.8,028km N 82° W of City Of Sipalay (Negros Occidental),028,N 82° W,City Of Sipalay (Negros Occidental)
+2026-03-19T01:43:00.000Z,19 March 2026 - 01:43 AM,13.38,119.97,046,2.0,048km S 39° W of Looc (Occidental Mindoro),048,S 39° W,Looc (Occidental Mindoro)
 2026-03-19T01:07:00.000Z,19 March 2026 - 01:07 AM,13.23,120.49,027,2.3,011km S 89° W of Mamburao (Occidental Mindoro),011,S 89° W,Mamburao (Occidental Mindoro)
-2026-03-19T01:05:00.000Z,19 March 2026 - 01:05 AM,13.62,120.11,033,1.8,018km S 53° W of Looc (Occidental Mindoro),018,S 53° W,Looc (Occidental Mindoro)
-2026-03-19T00:54:00.000Z,19 March 2026 - 12:54 AM,13.31,120.34,035,2.0,018km S 49° W of Paluan (Occidental Mindoro),018,S 49° W,Paluan (Occidental Mindoro)
-2026-03-19T00:10:00.000Z,19 March 2026 - 12:10 AM,13.77,123.87,056,1.8,001km S 14° E of Caramoan (Camarines Sur),001,S 14° E,Caramoan (Camarines Sur)
