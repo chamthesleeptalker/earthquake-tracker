@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-19T19:29:00.000Z,19 March 2026 - 07:29 PM,11.28,124.08,014,2.3,028km N 22° E of City Of Bogo (Cebu),028,N 22° E,City Of Bogo (Cebu)
+2026-03-19T20:50:00.000Z,19 March 2026 - 08:50 PM,08.68,126.31,032,1.4,012km S 53° E of San Agustin (Surigao Del Sur),012,S 53° E,San Agustin (Surigao Del Sur)
+2026-03-19T20:35:00.000Z,19 March 2026 - 08:35 PM,08.00,126.69,033,1.9,031km S 82° E of Lingig (Surigao Del Sur),031,S 82° E,Lingig (Surigao Del Sur)
+2026-03-19T19:52:00.000Z,19 March 2026 - 07:52 PM,08.02,126.07,002,2.0,001km S 15° E of Trento (Agusan Del Sur),001,S 15° E,Trento (Agusan Del Sur)
