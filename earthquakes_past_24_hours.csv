@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T04:10:00.000Z,20 March 2026 - 04:10 AM,17.90,120.38,011,1.7,009km N 65° W of Sinait (Ilocos Sur),009,N 65° W,Sinait (Ilocos Sur)
+2026-03-20T04:08:00.000Z,20 March 2026 - 04:08 AM,17.92,120.26,032,1.7,021km N 73° W of Sinait (Ilocos Sur),021,N 73° W,Sinait (Ilocos Sur)
+2026-03-20T03:43:00.000Z,20 March 2026 - 03:43 AM,17.93,120.35,012,2.0,013km N 89° W of Badoc (Ilocos Norte),013,N 89° W,Badoc (Ilocos Norte)
 2026-03-20T02:51:00.000Z,20 March 2026 - 02:51 AM,18.27,120.22,014,2.6,039km N 46° W of Currimao (Ilocos Norte),039,N 46° W,Currimao (Ilocos Norte)
 2026-03-20T02:36:00.000Z,20 March 2026 - 02:36 AM,11.03,123.96,004,1.8,003km S 40° W of City Of Bogo (Cebu),003,S 40° W,City Of Bogo (Cebu)
 2026-03-20T02:03:00.000Z,20 March 2026 - 02:03 AM,11.75,125.68,025,2.8,024km S 89° E of San Julian (Eastern Samar),024,S 89° E,San Julian (Eastern Samar)
@@ -38,7 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-19T05:41:00.000Z,19 March 2026 - 05:41 AM,09.56,126.05,055,1.5,011km S 52° E of Socorro (Surigao Del Norte),011,S 52° E,Socorro (Surigao Del Norte)
 2026-03-19T05:13:00.000Z,19 March 2026 - 05:13 AM,14.86,121.97,017,2.2,002km N 07° W of Burdeos (Quezon),002,N 07° W,Burdeos (Quezon)
 2026-03-19T04:54:00.000Z,19 March 2026 - 04:54 AM,17.97,120.01,019,2.9,049km N 76° W of Sinait (Ilocos Sur),049,N 76° W,Sinait (Ilocos Sur)
-2026-03-19T04:08:00.000Z,19 March 2026 - 04:08 AM,07.91,125.27,026,1.7,007km S 82° W of San Fernando (Bukidnon),007,S 82° W,San Fernando (Bukidnon)
-2026-03-19T04:07:00.000Z,19 March 2026 - 04:07 AM,13.74,120.52,083,1.7,015km S 51° W of Calatagan (Batangas),015,S 51° W,Calatagan (Batangas)
-2026-03-19T04:04:00.000Z,19 March 2026 - 04:04 AM,13.45,120.17,029,1.5,031km S 16° W of Looc (Occidental Mindoro),031,S 16° W,Looc (Occidental Mindoro)
-2026-03-19T03:22:00.000Z,19 March 2026 - 03:22 AM,13.80,122.90,002,2.0,002km N 52° W of Lupi (Camarines Sur),002,N 52° W,Lupi (Camarines Sur)
