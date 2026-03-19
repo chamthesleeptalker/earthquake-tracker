@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-19T09:12:00.000Z,19 March 2026 - 09:12 AM,13.98,122.77,003,2.0,012km S 57° W of San Lorenzo Ruiz (Camarines Norte),012,S 57° W,San Lorenzo Ruiz (Camarines Norte)
+2026-03-19T08:55:00.000Z,19 March 2026 - 08:55 AM,11.02,124.01,029,2.6,005km S 50° E of City Of Bogo (Cebu),005,S 50° E,City Of Bogo (Cebu)
+2026-03-19T07:47:00.000Z,19 March 2026 - 07:47 AM,06.64,126.25,031,1.8,020km S 85° E of Governor Generoso (Davao Oriental),020,S 85° E,Governor Generoso (Davao Oriental)
 2026-03-19T06:54:00.000Z,19 March 2026 - 06:54 AM,16.44,119.72,033,1.9,019km N 73° W of Bolinao (Pangasinan),019,N 73° W,Bolinao (Pangasinan)
 2026-03-19T06:27:00.000Z,19 March 2026 - 06:27 AM,10.21,122.65,004,1.8,023km N 85° W of Binalbagan (Negros Occidental),023,N 85° W,Binalbagan (Negros Occidental)
 2026-03-19T06:13:00.000Z,19 March 2026 - 06:13 AM,11.06,124.03,004,2.6,005km N 79° E of City Of Bogo (Cebu),005,N 79° E,City Of Bogo (Cebu)
@@ -240,7 +243,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-12T13:53:00.000Z,12 March 2026 - 01:53 PM,09.67,126.30,017,2.7,020km S 53° E of General Luna (Surigao Del Norte),020,S 53° E,General Luna (Surigao Del Norte)
 2026-03-12T10:29:00.000Z,12 March 2026 - 10:29 AM,17.99,120.43,033,1.4,006km S 62° W of Currimao (Ilocos Norte),006,S 62° W,Currimao (Ilocos Norte)
 2026-03-12T09:34:00.000Z,12 March 2026 - 09:34 AM,08.52,125.71,008,1.9,004km N 61° W of San Luis (Agusan Del Sur),004,N 61° W,San Luis (Agusan Del Sur)
-2026-03-12T09:07:00.000Z,12 March 2026 - 09:07 AM,08.01,122.80,009,2.1,005km N 74° W of Godod (Zamboanga Del Norte),005,N 74° W,Godod (Zamboanga Del Norte)
-2026-03-12T08:23:00.000Z,12 March 2026 - 08:23 AM,08.82,126.66,007,2.2,040km N 87° E of Marihatag (Surigao Del Sur),040,N 87° E,Marihatag (Surigao Del Sur)
-2026-03-12T08:06:00.000Z,12 March 2026 - 08:06 AM,08.82,126.67,010,5.0,040km N 86° E of Marihatag (Surigao Del Sur),040,N 86° E,Marihatag (Surigao Del Sur)
-2026-03-12T07:13:00.000Z,12 March 2026 - 07:13 AM,12.75,123.05,046,1.9,027km S 51° W of Claveria (Masbate),027,S 51° W,Claveria (Masbate)
