@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T04:58:00.000Z,20 March 2026 - 04:58 AM,07.95,127.46,012,2.7,107km N 67° E of Baganga (Davao Oriental),107,N 67° E,Baganga (Davao Oriental)
 2026-03-20T04:10:00.000Z,20 March 2026 - 04:10 AM,17.90,120.38,011,1.7,009km N 65° W of Sinait (Ilocos Sur),009,N 65° W,Sinait (Ilocos Sur)
 2026-03-20T04:08:00.000Z,20 March 2026 - 04:08 AM,17.92,120.26,032,1.7,021km N 73° W of Sinait (Ilocos Sur),021,N 73° W,Sinait (Ilocos Sur)
 2026-03-20T03:43:00.000Z,20 March 2026 - 03:43 AM,17.93,120.35,012,2.0,013km N 89° W of Badoc (Ilocos Norte),013,N 89° W,Badoc (Ilocos Norte)
@@ -40,4 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-19T05:48:00.000Z,19 March 2026 - 05:48 AM,11.18,125.51,029,2.4,003km N 38° W of Quinapondan (Eastern Samar),003,N 38° W,Quinapondan (Eastern Samar)
 2026-03-19T05:41:00.000Z,19 March 2026 - 05:41 AM,09.56,126.05,055,1.5,011km S 52° E of Socorro (Surigao Del Norte),011,S 52° E,Socorro (Surigao Del Norte)
 2026-03-19T05:13:00.000Z,19 March 2026 - 05:13 AM,14.86,121.97,017,2.2,002km N 07° W of Burdeos (Quezon),002,N 07° W,Burdeos (Quezon)
-2026-03-19T04:54:00.000Z,19 March 2026 - 04:54 AM,17.97,120.01,019,2.9,049km N 76° W of Sinait (Ilocos Sur),049,N 76° W,Sinait (Ilocos Sur)
