@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T01:20:00.000Z,20 March 2026 - 01:20 AM,17.14,120.24,021,2.1,022km S 82° W of City Of Candon (Ilocos Sur),022,S 82° W,City Of Candon (Ilocos Sur)
+2026-03-20T01:01:00.000Z,20 March 2026 - 01:01 AM,13.85,120.21,031,1.6,010km S 82° E of Lubang (Occidental Mindoro),010,S 82° E,Lubang (Occidental Mindoro)
 2026-03-20T00:16:00.000Z,20 March 2026 - 12:16 AM,13.79,120.46,069,2.3,019km S 74° W of Calatagan (Batangas),019,S 74° W,Calatagan (Batangas)
 2026-03-19T23:46:00.000Z,19 March 2026 - 11:46 PM,08.73,126.29,002,2.3,008km S 04° W of Marihatag (Surigao Del Sur),008,S 04° W,Marihatag (Surigao Del Sur)
 2026-03-19T23:33:00.000Z,19 March 2026 - 11:33 PM,08.88,126.85,009,2.5,060km S 86° E of Cagwait (Surigao Del Sur),060,S 86° E,Cagwait (Surigao Del Sur)
