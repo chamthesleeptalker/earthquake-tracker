@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-19T11:35:00.000Z,19 March 2026 - 11:35 AM,07.97,126.47,006,2.1,010km S 44° E of Lingig (Surigao Del Sur),010,S 44° E,Lingig (Surigao Del Sur)
+2026-03-19T10:26:00.000Z,19 March 2026 - 10:26 AM,04.47,125.66,099,2.6,108km S 14° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),108,S 14° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-19T10:18:00.000Z,19 March 2026 - 10:18 AM,07.21,124.90,027,1.5,011km N 89° E of Carmen (Cotabato),011,N 89° E,Carmen (Cotabato)
 2026-03-19T09:12:00.000Z,19 March 2026 - 09:12 AM,13.98,122.77,003,2.0,012km S 57° W of San Lorenzo Ruiz (Camarines Norte),012,S 57° W,San Lorenzo Ruiz (Camarines Norte)
 2026-03-19T08:55:00.000Z,19 March 2026 - 08:55 AM,11.02,124.01,029,2.6,005km S 50° E of City Of Bogo (Cebu),005,S 50° E,City Of Bogo (Cebu)
 2026-03-19T07:47:00.000Z,19 March 2026 - 07:47 AM,06.64,126.25,031,1.8,020km S 85° E of Governor Generoso (Davao Oriental),020,S 85° E,Governor Generoso (Davao Oriental)
@@ -34,5 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-18T14:31:00.000Z,18 March 2026 - 02:31 PM,06.60,124.47,007,1.5,013km N 54° W of Bagumbayan (Sultan Kudarat),013,N 54° W,Bagumbayan (Sultan Kudarat)
 2026-03-18T13:02:00.000Z,18 March 2026 - 01:02 PM,18.44,120.88,005,1.6,003km S 54° W of Adams (Ilocos Norte),003,S 54° W,Adams (Ilocos Norte)
 2026-03-18T12:23:00.000Z,18 March 2026 - 12:23 PM,06.31,123.67,022,1.8,050km S 57° W of Kalamansig (Sultan Kudarat),050,S 57° W,Kalamansig (Sultan Kudarat)
-2026-03-18T11:33:00.000Z,18 March 2026 - 11:33 AM,11.28,125.73,012,2.7,015km S 59° E of Hernani (Eastern Samar),015,S 59° E,Hernani (Eastern Samar)
-2026-03-18T10:54:00.000Z,18 March 2026 - 10:54 AM,15.63,121.83,003,1.7,032km S 64° E of Baler (Aurora),032,S 64° E,Baler (Aurora)
