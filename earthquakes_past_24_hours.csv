@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T21:49:00.000Z,20 March 2026 - 09:49 PM,06.38,124.71,004,1.8,005km N 85° W of Surallah (South Cotabato),005,N 85° W,Surallah (South Cotabato)
+2026-03-20T20:56:00.000Z,20 March 2026 - 08:56 PM,18.08,121.48,035,1.4,013km N 84° W of Lasam (Cagayan),013,N 84° W,Lasam (Cagayan)
 2026-03-20T20:34:00.000Z,20 March 2026 - 08:34 PM,06.55,125.87,167,2.8,025km S 62° W of Governor Generoso (Davao Oriental),025,S 62° W,Governor Generoso (Davao Oriental)
 2026-03-20T20:01:00.000Z,20 March 2026 - 08:01 PM,10.57,122.67,017,1.4,003km S 45° W of San Lorenzo (Guimaras),003,S 45° W,San Lorenzo (Guimaras)
 2026-03-20T19:59:00.000Z,20 March 2026 - 07:59 PM,07.23,125.75,033,2.1,010km S 55° E of City Of Panabo (Davao Del Norte),010,S 55° E,City Of Panabo (Davao Del Norte)
@@ -34,7 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-19T23:46:00.000Z,19 March 2026 - 11:46 PM,08.73,126.29,002,2.3,008km S 04° W of Marihatag (Surigao Del Sur),008,S 04° W,Marihatag (Surigao Del Sur)
 2026-03-19T23:33:00.000Z,19 March 2026 - 11:33 PM,08.88,126.85,009,2.5,060km S 86° E of Cagwait (Surigao Del Sur),060,S 86° E,Cagwait (Surigao Del Sur)
 2026-03-19T23:07:00.000Z,19 March 2026 - 11:07 PM,10.00,126.33,007,2.6,028km N 75° E of San Isidro (Surigao Del Norte),028,N 75° E,San Isidro (Surigao Del Norte)
-2026-03-19T21:31:00.000Z,19 March 2026 - 09:31 PM,15.32,119.92,029,2.0,006km S 79° W of Iba (Zambales),006,S 79° W,Iba (Zambales)
-2026-03-19T21:30:00.000Z,19 March 2026 - 09:30 PM,15.23,119.90,015,3.1,014km S 37° W of Iba (Zambales),014,S 37° W,Iba (Zambales)
-2026-03-19T20:50:00.000Z,19 March 2026 - 08:50 PM,08.68,126.31,032,1.4,012km S 53° E of San Agustin (Surigao Del Sur),012,S 53° E,San Agustin (Surigao Del Sur)
-2026-03-19T20:35:00.000Z,19 March 2026 - 08:35 PM,08.00,126.69,033,1.9,031km S 82° E of Lingig (Surigao Del Sur),031,S 82° E,Lingig (Surigao Del Sur)
