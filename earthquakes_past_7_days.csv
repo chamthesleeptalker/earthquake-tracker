@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T14:40:00.000Z,20 March 2026 - 02:40 PM,11.05,124.06,007,1.5,009km N 87° E of City Of Bogo (Cebu),009,N 87° E,City Of Bogo (Cebu)
+2026-03-20T14:04:00.000Z,20 March 2026 - 02:04 PM,10.37,125.98,008,2.2,039km N 10° W of Santa Monica (Surigao Del Norte),039,N 10° W,Santa Monica (Surigao Del Norte)
+2026-03-20T13:47:00.000Z,20 March 2026 - 01:47 PM,06.04,125.95,125,3.0,033km S 58° E of Don Marcelino (Davao Occidental),033,S 58° E,Don Marcelino (Davao Occidental)
 2026-03-20T13:21:00.000Z,20 March 2026 - 01:21 PM,09.65,124.35,033,1.7,008km N 56° E of Garcia Hernandez (Bohol),008,N 56° E,Garcia Hernandez (Bohol)
 2026-03-20T12:09:00.000Z,20 March 2026 - 12:09 PM,13.46,120.96,032,1.2,004km S 01° E of Puerto Galera (Oriental Mindoro),004,S 01° E,Puerto Galera (Oriental Mindoro)
 2026-03-20T11:59:00.000Z,20 March 2026 - 11:59 AM,09.76,126.17,031,1.4,003km S 26° E of General Luna (Surigao Del Norte),003,S 26° E,General Luna (Surigao Del Norte)
@@ -244,4 +247,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-13T16:08:00.000Z,13 March 2026 - 04:08 PM,09.25,126.13,048,2.7,007km S 65° W of Cortes (Surigao Del Sur),007,S 65° W,Cortes (Surigao Del Sur)
 2026-03-13T15:45:00.000Z,13 March 2026 - 03:45 PM,11.04,124.02,034,1.4,005km S 86° E of City Of Bogo (Cebu),005,S 86° E,City Of Bogo (Cebu)
 2026-03-13T15:30:00.000Z,13 March 2026 - 03:30 PM,12.19,125.55,026,2.8,005km N 79° E of San Policarpo (Eastern Samar),005,N 79° E,San Policarpo (Eastern Samar)
-2026-03-13T13:30:00.000Z,13 March 2026 - 01:30 PM,11.06,124.05,010,1.9,008km N 77° E of City Of Bogo (Cebu),008,N 77° E,City Of Bogo (Cebu)
