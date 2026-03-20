@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T07:16:00.000Z,21 March 2026 - 07:16 AM,17.37,120.16,022,3.3,030km N 83° W of San Esteban (Ilocos Sur),030,N 83° W,San Esteban (Ilocos Sur)
+2026-03-21T07:09:00.000Z,21 March 2026 - 07:09 AM,06.11,124.17,015,1.7,012km S 11° W of Palimbang (Sultan Kudarat),012,S 11° W,Palimbang (Sultan Kudarat)
 2026-03-21T05:22:00.000Z,21 March 2026 - 05:22 AM,11.21,124.01,031,1.6,005km S 20° E of Daanbantayan (Cebu),005,S 20° E,Daanbantayan (Cebu)
 2026-03-21T05:13:00.000Z,21 March 2026 - 05:13 AM,10.31,124.98,024,1.5,001km N 20° W of Tomas Oppus (Southern Leyte),001,N 20° W,Tomas Oppus (Southern Leyte)
 2026-03-21T04:13:00.000Z,21 March 2026 - 04:13 AM,09.93,124.18,019,1.5,004km S 68° W of Danao (Bohol),004,S 68° W,Danao (Bohol)
@@ -245,6 +247,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-14T10:34:00.000Z,14 March 2026 - 10:34 AM,07.71,124.78,017,2.1,005km S 44° E of Kalilangan (Bukidnon),005,S 44° E,Kalilangan (Bukidnon)
 2026-03-14T09:57:00.000Z,14 March 2026 - 09:57 AM,05.93,124.45,022,2.6,016km S 20° W of Maitum (Sarangani),016,S 20° W,Maitum (Sarangani)
 2026-03-14T09:36:00.000Z,14 March 2026 - 09:36 AM,08.56,125.95,033,1.6,006km S 41° E of Prosperidad (Agusan Del Sur),006,S 41° E,Prosperidad (Agusan Del Sur)
-2026-03-14T07:01:00.000Z,14 March 2026 - 07:01 AM,09.66,126.34,031,2.4,024km S 55° E of General Luna (Surigao Del Norte),024,S 55° E,General Luna (Surigao Del Norte)
-2026-03-14T06:22:00.000Z,14 March 2026 - 06:22 AM,11.53,124.37,003,2.6,005km S 43° W of Naval (Biliran),005,S 43° W,Naval (Biliran)
-2026-03-14T06:07:00.000Z,14 March 2026 - 06:07 AM,05.08,125.97,112,2.4,071km S 52° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),071,S 52° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
