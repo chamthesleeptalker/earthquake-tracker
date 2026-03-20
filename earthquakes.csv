@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T12:09:00.000Z,20 March 2026 - 12:09 PM,13.46,120.96,032,1.2,004km S 01° E of Puerto Galera (Oriental Mindoro),004,S 01° E,Puerto Galera (Oriental Mindoro)
+2026-03-20T11:59:00.000Z,20 March 2026 - 11:59 AM,09.76,126.17,031,1.4,003km S 26° E of General Luna (Surigao Del Norte),003,S 26° E,General Luna (Surigao Del Norte)
 2026-03-20T08:07:00.000Z,20 March 2026 - 08:07 AM,13.63,120.44,090,1.7,022km S 64° E of Looc (Occidental Mindoro),022,S 64° E,Looc (Occidental Mindoro)
 2026-03-20T04:58:00.000Z,20 March 2026 - 04:58 AM,07.95,127.46,012,2.7,107km N 67° E of Baganga (Davao Oriental),107,N 67° E,Baganga (Davao Oriental)
 2026-03-20T04:10:00.000Z,20 March 2026 - 04:10 AM,17.90,120.38,011,1.7,009km N 65° W of Sinait (Ilocos Sur),009,N 65° W,Sinait (Ilocos Sur)

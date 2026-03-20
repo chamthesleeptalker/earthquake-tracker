@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T12:09:00.000Z,20 March 2026 - 12:09 PM,13.46,120.96,032,1.2,004km S 01° E of Puerto Galera (Oriental Mindoro),004,S 01° E,Puerto Galera (Oriental Mindoro)
+2026-03-20T11:59:00.000Z,20 March 2026 - 11:59 AM,09.76,126.17,031,1.4,003km S 26° E of General Luna (Surigao Del Norte),003,S 26° E,General Luna (Surigao Del Norte)
 2026-03-20T08:07:00.000Z,20 March 2026 - 08:07 AM,13.63,120.44,090,1.7,022km S 64° E of Looc (Occidental Mindoro),022,S 64° E,Looc (Occidental Mindoro)
 2026-03-20T04:58:00.000Z,20 March 2026 - 04:58 AM,07.95,127.46,012,2.7,107km N 67° E of Baganga (Davao Oriental),107,N 67° E,Baganga (Davao Oriental)
 2026-03-20T04:10:00.000Z,20 March 2026 - 04:10 AM,17.90,120.38,011,1.7,009km N 65° W of Sinait (Ilocos Sur),009,N 65° W,Sinait (Ilocos Sur)
@@ -29,8 +31,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-19T14:24:00.000Z,19 March 2026 - 02:24 PM,11.37,125.42,026,2.0,015km S 39° W of Balangkayan (Eastern Samar),015,S 39° W,Balangkayan (Eastern Samar)
 2026-03-19T12:56:00.000Z,19 March 2026 - 12:56 PM,17.49,120.71,002,1.5,006km S 21° W of Bucay (Abra),006,S 21° W,Bucay (Abra)
 2026-03-19T12:40:00.000Z,19 March 2026 - 12:40 PM,11.32,124.16,010,1.5,019km N 66° E of Daanbantayan (Cebu),019,N 66° E,Daanbantayan (Cebu)
-2026-03-19T11:35:00.000Z,19 March 2026 - 11:35 AM,07.97,126.47,006,2.1,010km S 44° E of Lingig (Surigao Del Sur),010,S 44° E,Lingig (Surigao Del Sur)
-2026-03-19T10:26:00.000Z,19 March 2026 - 10:26 AM,04.47,125.66,099,2.6,108km S 14° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),108,S 14° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-19T10:18:00.000Z,19 March 2026 - 10:18 AM,07.21,124.90,027,1.5,011km N 89° E of Carmen (Cotabato),011,N 89° E,Carmen (Cotabato)
-2026-03-19T09:12:00.000Z,19 March 2026 - 09:12 AM,13.98,122.77,003,2.0,012km S 57° W of San Lorenzo Ruiz (Camarines Norte),012,S 57° W,San Lorenzo Ruiz (Camarines Norte)
-2026-03-19T08:55:00.000Z,19 March 2026 - 08:55 AM,11.02,124.01,029,2.6,005km S 50° E of City Of Bogo (Cebu),005,S 50° E,City Of Bogo (Cebu)
