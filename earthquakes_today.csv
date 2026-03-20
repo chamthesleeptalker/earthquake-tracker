@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T15:31:00.000Z,20 March 2026 - 03:31 PM,17.70,122.11,030,1.4,033km S 50° E of Baggao (Cagayan),033,S 50° E,Baggao (Cagayan)
+2026-03-20T15:25:00.000Z,20 March 2026 - 03:25 PM,08.43,126.28,024,1.7,010km N 39° W of Hinatuan (Surigao Del Sur),010,N 39° W,Hinatuan (Surigao Del Sur)
+2026-03-20T15:25:00.000Z,20 March 2026 - 03:25 PM,08.43,126.28,024,1.7,010km N 39° W of Hinatuan (Surigao Del Sur),010,N 39° W,Hinatuan (Surigao Del Sur)
 2026-03-20T14:40:00.000Z,20 March 2026 - 02:40 PM,11.05,124.06,007,1.5,009km N 87° E of City Of Bogo (Cebu),009,N 87° E,City Of Bogo (Cebu)
 2026-03-20T14:04:00.000Z,20 March 2026 - 02:04 PM,10.37,125.98,008,2.2,039km N 10° W of Santa Monica (Surigao Del Norte),039,N 10° W,Santa Monica (Surigao Del Norte)
 2026-03-20T13:47:00.000Z,20 March 2026 - 01:47 PM,06.04,125.95,125,3.0,033km S 58° E of Don Marcelino (Davao Occidental),033,S 58° E,Don Marcelino (Davao Occidental)
