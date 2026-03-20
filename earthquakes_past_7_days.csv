@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T01:26:00.000Z,21 March 2026 - 01:26 AM,08.44,126.55,005,1.8,025km N 70° E of Hinatuan (Surigao Del Sur),025,N 70° E,Hinatuan (Surigao Del Sur)
+2026-03-21T01:07:00.000Z,21 March 2026 - 01:07 AM,08.51,126.65,009,3.8,038km N 66° E of Hinatuan (Surigao Del Sur),038,N 66° E,Hinatuan (Surigao Del Sur)
 2026-03-21T00:26:00.000Z,21 March 2026 - 12:26 AM,11.02,124.74,006,2.5,012km N 22° E of Albuera (Leyte),012,N 22° E,Albuera (Leyte)
 2026-03-21T00:17:00.000Z,21 March 2026 - 12:17 AM,11.01,124.73,010,3.7,011km N 20° E of Albuera (Leyte),011,N 20° E,Albuera (Leyte)
 2026-03-20T23:59:00.000Z,20 March 2026 - 11:59 PM,11.14,124.77,015,1.6,006km S 16° W of Jaro (Leyte),006,S 16° W,Jaro (Leyte)
@@ -229,7 +231,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-14T19:54:00.000Z,14 March 2026 - 07:54 PM,10.68,126.32,014,1.6,065km S 84° E of Homonhon Island (Guiuan) (Eastern Samar),065,S 84° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-14T19:10:00.000Z,14 March 2026 - 07:10 PM,13.84,120.50,085,1.5,015km N 87° W of Calatagan (Batangas),015,N 87° W,Calatagan (Batangas)
 2026-03-14T18:33:00.000Z,14 March 2026 - 06:33 PM,14.10,120.44,119,2.1,021km N 83° W of Nasugbu (Batangas),021,N 83° W,Nasugbu (Batangas)
-2026-03-14T00:45:00.000Z,14 March 2026 - 12:45 AM,08.73,126.45,002,2.5,027km S 32° E of Cagwait (Surigao Del Sur),027,S 32° E,Cagwait (Surigao Del Sur)
 2026-03-14T04:25:00.000Z,14 March 2026 - 04:25 AM,05.81,124.99,020,2.4,006km S 02° W of Maasim (Sarangani),006,S 02° W,Maasim (Sarangani)
 2026-03-14T16:00:00.000Z,14 March 2026 - 04:00 PM,14.29,123.96,067,2.5,036km N 40° W of Pandan (Catanduanes),036,N 40° W,Pandan (Catanduanes)
 2026-03-14T15:52:00.000Z,14 March 2026 - 03:52 PM,12.21,125.76,024,3.1,028km N 83° E of San Policarpo (Eastern Samar),028,N 83° E,San Policarpo (Eastern Samar)
@@ -255,8 +256,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-14T02:12:00.000Z,14 March 2026 - 02:12 AM,11.27,124.58,008,2.9,008km S 72° W of Capoocan (Leyte),008,S 72° W,Capoocan (Leyte)
 2026-03-14T01:43:00.000Z,14 March 2026 - 01:43 AM,13.89,120.54,083,2.2,012km N 57° W of Calatagan (Batangas),012,N 57° W,Calatagan (Batangas)
 2026-03-14T01:31:00.000Z,14 March 2026 - 01:31 AM,08.69,126.51,001,2.2,026km S 62° E of Marihatag (Surigao Del Sur),026,S 62° E,Marihatag (Surigao Del Sur)
-2026-03-14T01:24:00.000Z,14 March 2026 - 01:24 AM,08.89,126.53,025,1.8,025km S 82° E of Cagwait (Surigao Del Sur),025,S 82° E,Cagwait (Surigao Del Sur)
-2026-03-14T01:17:00.000Z,14 March 2026 - 01:17 AM,15.06,122.05,002,3.1,025km N 20° E of Burdeos (Quezon),025,N 20° E,Burdeos (Quezon)
-2026-03-14T00:44:00.000Z,14 March 2026 - 12:44 AM,08.89,126.57,027,2.4,030km S 83° E of Cagwait (Surigao Del Sur),030,S 83° E,Cagwait (Surigao Del Sur)
-2026-03-14T00:39:00.000Z,14 March 2026 - 12:39 AM,09.04,126.20,070,1.7,004km N 54° W of Tago (Surigao Del Sur),004,N 54° W,Tago (Surigao Del Sur)
-2026-03-14T00:30:00.000Z,14 March 2026 - 12:30 AM,08.93,126.51,034,1.8,023km N 86° E of Cagwait (Surigao Del Sur),023,N 86° E,Cagwait (Surigao Del Sur)

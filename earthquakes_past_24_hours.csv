@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T01:26:00.000Z,21 March 2026 - 01:26 AM,08.44,126.55,005,1.8,025km N 70° E of Hinatuan (Surigao Del Sur),025,N 70° E,Hinatuan (Surigao Del Sur)
+2026-03-21T01:07:00.000Z,21 March 2026 - 01:07 AM,08.51,126.65,009,3.8,038km N 66° E of Hinatuan (Surigao Del Sur),038,N 66° E,Hinatuan (Surigao Del Sur)
 2026-03-21T00:26:00.000Z,21 March 2026 - 12:26 AM,11.02,124.74,006,2.5,012km N 22° E of Albuera (Leyte),012,N 22° E,Albuera (Leyte)
 2026-03-21T00:17:00.000Z,21 March 2026 - 12:17 AM,11.01,124.73,010,3.7,011km N 20° E of Albuera (Leyte),011,N 20° E,Albuera (Leyte)
 2026-03-20T23:59:00.000Z,20 March 2026 - 11:59 PM,11.14,124.77,015,1.6,006km S 16° W of Jaro (Leyte),006,S 16° W,Jaro (Leyte)
@@ -39,5 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-20T02:51:00.000Z,20 March 2026 - 02:51 AM,18.27,120.22,014,2.6,039km N 46° W of Currimao (Ilocos Norte),039,N 46° W,Currimao (Ilocos Norte)
 2026-03-20T02:36:00.000Z,20 March 2026 - 02:36 AM,11.03,123.96,004,1.8,003km S 40° W of City Of Bogo (Cebu),003,S 40° W,City Of Bogo (Cebu)
 2026-03-20T02:03:00.000Z,20 March 2026 - 02:03 AM,11.75,125.68,025,2.8,024km S 89° E of San Julian (Eastern Samar),024,S 89° E,San Julian (Eastern Samar)
-2026-03-20T01:20:00.000Z,20 March 2026 - 01:20 AM,17.14,120.24,021,2.1,022km S 82° W of City Of Candon (Ilocos Sur),022,S 82° W,City Of Candon (Ilocos Sur)
-2026-03-20T01:01:00.000Z,20 March 2026 - 01:01 AM,13.85,120.21,031,1.6,010km S 82° E of Lubang (Occidental Mindoro),010,S 82° E,Lubang (Occidental Mindoro)
