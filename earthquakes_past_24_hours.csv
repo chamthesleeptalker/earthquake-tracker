@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T20:34:00.000Z,20 March 2026 - 08:34 PM,06.55,125.87,167,2.8,025km S 62° W of Governor Generoso (Davao Oriental),025,S 62° W,Governor Generoso (Davao Oriental)
+2026-03-20T20:01:00.000Z,20 March 2026 - 08:01 PM,10.57,122.67,017,1.4,003km S 45° W of San Lorenzo (Guimaras),003,S 45° W,San Lorenzo (Guimaras)
+2026-03-20T19:59:00.000Z,20 March 2026 - 07:59 PM,07.23,125.75,033,2.1,010km S 55° E of City Of Panabo (Davao Del Norte),010,S 55° E,City Of Panabo (Davao Del Norte)
+2026-03-20T19:32:00.000Z,20 March 2026 - 07:32 PM,17.05,120.43,032,1.6,005km S 24° W of Santa Cruz (Ilocos Sur),005,S 24° W,Santa Cruz (Ilocos Sur)
+2026-03-20T19:21:00.000Z,20 March 2026 - 07:21 PM,07.34,126.57,002,2.4,001km N 38° E of Caraga (Davao Oriental),001,N 38° E,Caraga (Davao Oriental)
+2026-03-20T19:20:00.000Z,20 March 2026 - 07:20 PM,11.21,123.98,030,1.7,005km S 23° W of Daanbantayan (Cebu),005,S 23° W,Daanbantayan (Cebu)
 2026-03-20T19:09:00.000Z,20 March 2026 - 07:09 PM,06.12,126.92,082,2.2,110km S 58° E of Governor Generoso (Davao Oriental),110,S 58° E,Governor Generoso (Davao Oriental)
 2026-03-20T18:59:00.000Z,20 March 2026 - 06:59 PM,11.79,125.45,033,1.7,003km S 02° E of Sulat (Eastern Samar),003,S 02° E,Sulat (Eastern Samar)
 2026-03-20T03:42:00.000Z,20 March 2026 - 03:42 AM,17.93,120.33,012,2.5,015km N 89° W of Badoc (Ilocos Norte),015,N 89° W,Badoc (Ilocos Norte)
@@ -32,5 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-19T21:30:00.000Z,19 March 2026 - 09:30 PM,15.23,119.90,015,3.1,014km S 37° W of Iba (Zambales),014,S 37° W,Iba (Zambales)
 2026-03-19T20:50:00.000Z,19 March 2026 - 08:50 PM,08.68,126.31,032,1.4,012km S 53° E of San Agustin (Surigao Del Sur),012,S 53° E,San Agustin (Surigao Del Sur)
 2026-03-19T20:35:00.000Z,19 March 2026 - 08:35 PM,08.00,126.69,033,1.9,031km S 82° E of Lingig (Surigao Del Sur),031,S 82° E,Lingig (Surigao Del Sur)
-2026-03-19T19:52:00.000Z,19 March 2026 - 07:52 PM,08.02,126.07,002,2.0,001km S 15° E of Trento (Agusan Del Sur),001,S 15° E,Trento (Agusan Del Sur)
-2026-03-19T19:29:00.000Z,19 March 2026 - 07:29 PM,11.28,124.08,014,2.3,028km N 22° E of City Of Bogo (Cebu),028,N 22° E,City Of Bogo (Cebu)
