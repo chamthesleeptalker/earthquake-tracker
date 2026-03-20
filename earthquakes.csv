@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-20T08:07:00.000Z,20 March 2026 - 08:07 AM,13.63,120.44,090,1.7,022km S 64° E of Looc (Occidental Mindoro),022,S 64° E,Looc (Occidental Mindoro)
 2026-03-20T04:58:00.000Z,20 March 2026 - 04:58 AM,07.95,127.46,012,2.7,107km N 67° E of Baganga (Davao Oriental),107,N 67° E,Baganga (Davao Oriental)
 2026-03-20T04:10:00.000Z,20 March 2026 - 04:10 AM,17.90,120.38,011,1.7,009km N 65° W of Sinait (Ilocos Sur),009,N 65° W,Sinait (Ilocos Sur)
 2026-03-20T04:08:00.000Z,20 March 2026 - 04:08 AM,17.92,120.26,032,1.7,021km N 73° W of Sinait (Ilocos Sur),021,N 73° W,Sinait (Ilocos Sur)
