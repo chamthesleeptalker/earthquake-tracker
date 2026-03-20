@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T05:13:00.000Z,21 March 2026 - 05:13 AM,10.31,124.98,024,1.5,001km N 20° W of Tomas Oppus (Southern Leyte),001,N 20° W,Tomas Oppus (Southern Leyte)
 2026-03-21T04:13:00.000Z,21 March 2026 - 04:13 AM,09.93,124.18,019,1.5,004km S 68° W of Danao (Bohol),004,S 68° W,Danao (Bohol)
 2026-03-21T03:12:00.000Z,21 March 2026 - 03:12 AM,17.94,120.32,025,2.1,016km N 86° W of Badoc (Ilocos Norte),016,N 86° W,Badoc (Ilocos Norte)
 2026-03-21T02:52:00.000Z,21 March 2026 - 02:52 AM,13.78,120.54,053,1.9,011km S 58° W of Calatagan (Batangas),011,S 58° W,Calatagan (Batangas)
@@ -36,4 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-20T12:09:00.000Z,20 March 2026 - 12:09 PM,13.46,120.96,032,1.2,004km S 01° E of Puerto Galera (Oriental Mindoro),004,S 01° E,Puerto Galera (Oriental Mindoro)
 2026-03-20T11:59:00.000Z,20 March 2026 - 11:59 AM,09.76,126.17,031,1.4,003km S 26° E of General Luna (Surigao Del Norte),003,S 26° E,General Luna (Surigao Del Norte)
 2026-03-20T08:07:00.000Z,20 March 2026 - 08:07 AM,13.63,120.44,090,1.7,022km S 64° E of Looc (Occidental Mindoro),022,S 64° E,Looc (Occidental Mindoro)
-2026-03-20T04:58:00.000Z,20 March 2026 - 04:58 AM,07.95,127.46,012,2.7,107km N 67° E of Baganga (Davao Oriental),107,N 67° E,Baganga (Davao Oriental)
