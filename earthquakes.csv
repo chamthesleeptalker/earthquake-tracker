@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T05:22:00.000Z,21 March 2026 - 05:22 AM,11.21,124.01,031,1.6,005km S 20° E of Daanbantayan (Cebu),005,S 20° E,Daanbantayan (Cebu)
 2026-03-21T05:13:00.000Z,21 March 2026 - 05:13 AM,10.31,124.98,024,1.5,001km N 20° W of Tomas Oppus (Southern Leyte),001,N 20° W,Tomas Oppus (Southern Leyte)
 2026-03-21T04:13:00.000Z,21 March 2026 - 04:13 AM,09.93,124.18,019,1.5,004km S 68° W of Danao (Bohol),004,S 68° W,Danao (Bohol)
 2026-03-21T03:12:00.000Z,21 March 2026 - 03:12 AM,17.94,120.32,025,2.1,016km N 86° W of Badoc (Ilocos Norte),016,N 86° W,Badoc (Ilocos Norte)
