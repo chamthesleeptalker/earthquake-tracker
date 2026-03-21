@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T23:23:00.000Z,21 March 2026 - 11:23 PM,07.61,127.02,035,1.7,050km N 85° E of Baganga (Davao Oriental),050,N 85° E,Baganga (Davao Oriental)
+2026-03-21T23:21:00.000Z,21 March 2026 - 11:21 PM,12.42,120.82,010,2.2,017km S 74° W of Rizal (Occidental Mindoro),017,S 74° W,Rizal (Occidental Mindoro)
 2026-03-21T21:40:00.000Z,21 March 2026 - 09:40 PM,05.87,124.78,029,2.8,022km S 54° E of Kiamba (Sarangani),022,S 54° E,Kiamba (Sarangani)
 2026-03-21T20:18:00.000Z,21 March 2026 - 08:18 PM,07.08,126.74,010,2.5,026km S 57° E of Manay (Davao Oriental),026,S 57° E,Manay (Davao Oriental)
 2026-03-21T18:30:00.000Z,21 March 2026 - 06:30 PM,15.52,120.08,035,2.3,013km S 85° E of Masinloc (Zambales),013,S 85° E,Masinloc (Zambales)
