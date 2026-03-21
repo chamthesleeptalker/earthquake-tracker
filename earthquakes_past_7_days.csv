@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T04:10:00.000Z,22 March 2026 - 04:10 AM,11.11,124.98,191,3.1,004km West of Tanauan (Leyte),004,West of Tanauan,
+2026-03-22T04:07:00.000Z,22 March 2026 - 04:07 AM,07.02,126.86,013,2.9,041km S 59° E of Manay (Davao Oriental),041,S 59° E,Manay (Davao Oriental)
 2026-03-22T03:08:00.000Z,22 March 2026 - 03:08 AM,17.70,120.49,003,2.3,006km S 33° E of San Juan (Ilocos Sur),006,S 33° E,San Juan (Ilocos Sur)
 2026-03-22T02:45:00.000Z,22 March 2026 - 02:45 AM,10.64,125.71,009,3.3,012km S 07° W of Homonhon Island (Guiuan) (Eastern Samar),012,S 07° W,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-22T01:58:00.000Z,22 March 2026 - 01:58 AM,09.17,126.07,140,2.1,007km S 10° E of Lanuza (Surigao Del Sur),007,S 10° E,Lanuza (Surigao Del Sur)
@@ -246,4 +248,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T04:57:00.000Z,15 March 2026 - 04:57 AM,17.58,122.65,034,1.4,047km N 54° E of Divilacan (Isabela),047,N 54° E,Divilacan (Isabela)
 2026-03-15T04:50:00.000Z,15 March 2026 - 04:50 AM,07.43,126.54,013,1.5,011km N 13° W of Caraga (Davao Oriental),011,N 13° W,Caraga (Davao Oriental)
 2026-03-15T04:50:00.000Z,15 March 2026 - 04:50 AM,05.76,125.92,033,1.6,035km S 61° E of Jose Abad Santos (Davao Occidental),035,S 61° E,Jose Abad Santos (Davao Occidental)
-2026-03-15T03:09:00.000Z,15 March 2026 - 03:09 AM,16.10,120.08,029,1.3,004km N 25° W of Sual (Pangasinan),004,N 25° W,Sual (Pangasinan)
