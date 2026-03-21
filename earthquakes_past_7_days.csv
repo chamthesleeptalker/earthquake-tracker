@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T21:40:00.000Z,21 March 2026 - 09:40 PM,05.87,124.78,029,2.8,022km S 54° E of Kiamba (Sarangani),022,S 54° E,Kiamba (Sarangani)
 2026-03-21T20:18:00.000Z,21 March 2026 - 08:18 PM,07.08,126.74,010,2.5,026km S 57° E of Manay (Davao Oriental),026,S 57° E,Manay (Davao Oriental)
 2026-03-21T18:30:00.000Z,21 March 2026 - 06:30 PM,15.52,120.08,035,2.3,013km S 85° E of Masinloc (Zambales),013,S 85° E,Masinloc (Zambales)
 2026-03-21T17:54:00.000Z,21 March 2026 - 05:54 PM,07.01,125.01,029,2.3,009km N 89° W of City Of Kidapawan (Cotabato),009,N 89° W,City Of Kidapawan (Cotabato)
@@ -244,4 +245,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T00:28:00.000Z,15 March 2026 - 12:28 AM,08.40,124.39,015,1.8,011km S 85° E of Manticao (Misamis Oriental),011,S 85° E,Manticao (Misamis Oriental)
 2026-03-14T23:50:00.000Z,14 March 2026 - 11:50 PM,12.32,120.64,007,1.4,039km S 67° W of Rizal (Occidental Mindoro),039,S 67° W,Rizal (Occidental Mindoro)
 2026-03-14T23:35:00.000Z,14 March 2026 - 11:35 PM,12.34,120.60,008,1.5,042km S 72° W of Rizal (Occidental Mindoro),042,S 72° W,Rizal (Occidental Mindoro)
-2026-03-14T20:35:00.000Z,14 March 2026 - 08:35 PM,07.21,124.44,009,2.2,004km N 70° W of Northern Kabuntalan (Maguindanao Del Norte),004,N 70° W,Northern Kabuntalan (Maguindanao Del Norte)

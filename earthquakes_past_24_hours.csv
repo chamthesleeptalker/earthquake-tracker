@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-21T21:40:00.000Z,21 March 2026 - 09:40 PM,05.87,124.78,029,2.8,022km S 54° E of Kiamba (Sarangani),022,S 54° E,Kiamba (Sarangani)
 2026-03-21T20:18:00.000Z,21 March 2026 - 08:18 PM,07.08,126.74,010,2.5,026km S 57° E of Manay (Davao Oriental),026,S 57° E,Manay (Davao Oriental)
 2026-03-21T18:30:00.000Z,21 March 2026 - 06:30 PM,15.52,120.08,035,2.3,013km S 85° E of Masinloc (Zambales),013,S 85° E,Masinloc (Zambales)
 2026-03-21T17:54:00.000Z,21 March 2026 - 05:54 PM,07.01,125.01,029,2.3,009km N 89° W of City Of Kidapawan (Cotabato),009,N 89° W,City Of Kidapawan (Cotabato)
@@ -29,5 +30,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-20T22:24:00.000Z,20 March 2026 - 10:24 PM,10.96,124.77,021,3.1,010km N 62° E of Albuera (Leyte),010,N 62° E,Albuera (Leyte)
 2026-03-20T22:21:00.000Z,20 March 2026 - 10:21 PM,10.19,125.97,010,2.1,025km N 22° E of Burgos (Surigao Del Norte),025,N 22° E,Burgos (Surigao Del Norte)
 2026-03-20T21:49:00.000Z,20 March 2026 - 09:49 PM,06.38,124.71,004,1.8,005km N 85° W of Surallah (South Cotabato),005,N 85° W,Surallah (South Cotabato)
-2026-03-20T20:56:00.000Z,20 March 2026 - 08:56 PM,18.08,121.48,035,1.4,013km N 84° W of Lasam (Cagayan),013,N 84° W,Lasam (Cagayan)
-2026-03-20T20:34:00.000Z,20 March 2026 - 08:34 PM,06.55,125.87,167,2.8,025km S 62° W of Governor Generoso (Davao Oriental),025,S 62° W,Governor Generoso (Davao Oriental)
