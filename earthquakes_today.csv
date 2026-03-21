@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T03:08:00.000Z,22 March 2026 - 03:08 AM,17.70,120.49,003,2.3,006km S 33° E of San Juan (Ilocos Sur),006,S 33° E,San Juan (Ilocos Sur)
+2026-03-22T02:45:00.000Z,22 March 2026 - 02:45 AM,10.64,125.71,009,3.3,012km S 07° W of Homonhon Island (Guiuan) (Eastern Samar),012,S 07° W,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-22T01:58:00.000Z,22 March 2026 - 01:58 AM,09.17,126.07,140,2.1,007km S 10° E of Lanuza (Surigao Del Sur),007,S 10° E,Lanuza (Surigao Del Sur)
 2026-03-22T01:38:00.000Z,22 March 2026 - 01:38 AM,05.51,127.22,038,3.3,179km S 45° E of Governor Generoso (Davao Oriental),179,S 45° E,Governor Generoso (Davao Oriental)
 2026-03-22T00:45:00.000Z,22 March 2026 - 12:45 AM,16.13,122.16,045,2.2,017km S 12° E of Casiguran (Aurora),017,S 12° E,Casiguran (Aurora)
