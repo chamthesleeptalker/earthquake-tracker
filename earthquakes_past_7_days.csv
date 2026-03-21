@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T00:45:00.000Z,22 March 2026 - 12:45 AM,16.13,122.16,045,2.2,017km S 12° E of Casiguran (Aurora),017,S 12° E,Casiguran (Aurora)
+2026-03-22T00:44:00.000Z,22 March 2026 - 12:44 AM,16.29,122.06,020,1.6,007km N 74° W of Casiguran (Aurora),007,N 74° W,Casiguran (Aurora)
+2026-03-22T00:24:00.000Z,22 March 2026 - 12:24 AM,13.71,120.15,015,2.3,010km S 84° W of Looc (Occidental Mindoro),010,S 84° W,Looc (Occidental Mindoro)
 2026-03-22T00:08:00.000Z,22 March 2026 - 12:08 AM,13.80,120.51,110,3.0,014km S 73° W of Calatagan (Batangas),014,S 73° W,Calatagan (Batangas)
 2026-03-22T00:05:00.000Z,22 March 2026 - 12:05 AM,13.81,120.57,119,2.5,007km S 73° W of Calatagan (Batangas),007,S 73° W,Calatagan (Batangas)
 2026-03-21T23:57:00.000Z,21 March 2026 - 11:57 PM,06.72,126.26,030,2.0,022km N 69° E of Governor Generoso (Davao Oriental),022,N 69° E,Governor Generoso (Davao Oriental)
@@ -221,7 +224,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T20:44:00.000Z,15 March 2026 - 08:44 PM,19.36,121.94,035,1.7,017km S 10° E of Babuyan Island (Calayan) (Cagayan),017,S 10° E,Babuyan Island (Calayan) (Cagayan)
 2026-03-15T20:33:00.000Z,15 March 2026 - 08:33 PM,18.37,120.70,007,2.6,010km N 66° E of Pasuquin (Ilocos Norte),010,N 66° E,Pasuquin (Ilocos Norte)
 2026-03-15T20:31:00.000Z,15 March 2026 - 08:31 PM,19.17,121.17,032,2.1,009km N 29° W of Dalupiri Island (Calayan) (Cagayan),009,N 29° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-15T00:27:00.000Z,15 March 2026 - 12:27 AM,08.44,124.42,004,1.9,015km N 76° E of Manticao (Misamis Oriental),015,N 76° E,Manticao (Misamis Oriental)
 2026-03-15T18:38:00.000Z,15 March 2026 - 06:38 PM,07.15,126.79,018,2.5,028km S 76° E of Manay (Davao Oriental),028,S 76° E,Manay (Davao Oriental)
 2026-03-15T17:31:00.000Z,15 March 2026 - 05:31 PM,10.91,123.85,001,2.4,020km S 44° W of City Of Bogo (Cebu),020,S 44° W,City Of Bogo (Cebu)
 2026-03-15T16:49:00.000Z,15 March 2026 - 04:49 PM,12.18,125.79,024,2.3,031km N 89° E of San Policarpo (Eastern Samar),031,N 89° E,San Policarpo (Eastern Samar)
@@ -247,5 +249,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T01:34:00.000Z,15 March 2026 - 01:34 AM,07.24,127.05,003,3.5,055km S 79° E of Caraga (Davao Oriental),055,S 79° E,Caraga (Davao Oriental)
 2026-03-15T01:32:00.000Z,15 March 2026 - 01:32 AM,09.74,125.51,030,2.4,006km S 17° E of City Of Surigao (Surigao Del Norte),006,S 17° E,City Of Surigao (Surigao Del Norte)
 2026-03-15T01:28:00.000Z,15 March 2026 - 01:28 AM,12.24,120.65,004,1.3,041km S 55° W of Rizal (Occidental Mindoro),041,S 55° W,Rizal (Occidental Mindoro)
-2026-03-15T00:37:00.000Z,15 March 2026 - 12:37 AM,07.15,126.58,002,2.5,004km S 03° E of Manay (Davao Oriental),004,S 03° E,Manay (Davao Oriental)
-2026-03-15T00:28:00.000Z,15 March 2026 - 12:28 AM,08.40,124.39,015,1.8,011km S 85° E of Manticao (Misamis Oriental),011,S 85° E,Manticao (Misamis Oriental)

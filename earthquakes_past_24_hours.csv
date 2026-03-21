@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T00:45:00.000Z,22 March 2026 - 12:45 AM,16.13,122.16,045,2.2,017km S 12° E of Casiguran (Aurora),017,S 12° E,Casiguran (Aurora)
+2026-03-22T00:44:00.000Z,22 March 2026 - 12:44 AM,16.29,122.06,020,1.6,007km N 74° W of Casiguran (Aurora),007,N 74° W,Casiguran (Aurora)
+2026-03-22T00:24:00.000Z,22 March 2026 - 12:24 AM,13.71,120.15,015,2.3,010km S 84° W of Looc (Occidental Mindoro),010,S 84° W,Looc (Occidental Mindoro)
 2026-03-22T00:08:00.000Z,22 March 2026 - 12:08 AM,13.80,120.51,110,3.0,014km S 73° W of Calatagan (Batangas),014,S 73° W,Calatagan (Batangas)
 2026-03-22T00:05:00.000Z,22 March 2026 - 12:05 AM,13.81,120.57,119,2.5,007km S 73° W of Calatagan (Batangas),007,S 73° W,Calatagan (Batangas)
 2026-03-21T23:57:00.000Z,21 March 2026 - 11:57 PM,06.72,126.26,030,2.0,022km N 69° E of Governor Generoso (Davao Oriental),022,N 69° E,Governor Generoso (Davao Oriental)
@@ -26,5 +29,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-21T02:52:00.000Z,21 March 2026 - 02:52 AM,13.78,120.54,053,1.9,011km S 58° W of Calatagan (Batangas),011,S 58° W,Calatagan (Batangas)
 2026-03-21T01:26:00.000Z,21 March 2026 - 01:26 AM,08.44,126.55,005,1.8,025km N 70° E of Hinatuan (Surigao Del Sur),025,N 70° E,Hinatuan (Surigao Del Sur)
 2026-03-21T01:07:00.000Z,21 March 2026 - 01:07 AM,08.51,126.65,009,3.8,038km N 66° E of Hinatuan (Surigao Del Sur),038,N 66° E,Hinatuan (Surigao Del Sur)
-2026-03-21T00:26:00.000Z,21 March 2026 - 12:26 AM,11.02,124.74,006,2.5,012km N 22° E of Albuera (Leyte),012,N 22° E,Albuera (Leyte)
-2026-03-21T00:17:00.000Z,21 March 2026 - 12:17 AM,11.01,124.73,010,3.7,011km N 20° E of Albuera (Leyte),011,N 20° E,Albuera (Leyte)
