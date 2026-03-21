@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T07:21:00.000Z,22 March 2026 - 07:21 AM,13.78,120.56,119,2.8,010km S 56° W of Calatagan (Batangas),010,S 56° W,Calatagan (Batangas)
 2026-03-22T05:55:00.000Z,22 March 2026 - 05:55 AM,15.59,119.31,016,3.5,067km S 87° W of Candelaria (Zambales),067,S 87° W,Candelaria (Zambales)
 2026-03-22T05:16:00.000Z,22 March 2026 - 05:16 AM,13.80,120.48,028,2.0,017km S 77° W of Calatagan (Batangas),017,S 77° W,Calatagan (Batangas)
 2026-03-22T05:08:00.000Z,22 March 2026 - 05:08 AM,13.76,120.48,031,1.6,018km S 65° W of Calatagan (Batangas),018,S 65° W,Calatagan (Batangas)
@@ -246,5 +247,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T10:39:00.000Z,15 March 2026 - 10:39 AM,07.26,126.96,010,2.9,047km N 83° E of Manay (Davao Oriental),047,N 83° E,Manay (Davao Oriental)
 2026-03-15T09:51:00.000Z,15 March 2026 - 09:51 AM,07.82,126.31,005,1.7,009km S 53° W of Boston (Davao Oriental),009,S 53° W,Boston (Davao Oriental)
 2026-03-15T09:09:00.000Z,15 March 2026 - 09:09 AM,08.75,126.23,025,1.7,001km N 39° E of San Agustin (Surigao Del Sur),001,N 39° E,San Agustin (Surigao Del Sur)
-2026-03-15T07:19:00.000Z,15 March 2026 - 07:19 AM,11.14,124.18,008,3.4,025km N 64° E of City Of Bogo (Cebu),025,N 64° E,City Of Bogo (Cebu)
-2026-03-15T06:14:00.000Z,15 March 2026 - 06:14 AM,12.56,124.82,030,1.5,006km N 73° W of San Roque (Northern Samar),006,N 73° W,San Roque (Northern Samar)

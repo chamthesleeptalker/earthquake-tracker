@@ -1,4 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-22T05:55:00.000Z,22 March 2026 - 05:55 AM,15.59,119.31,016,3.5,067km S 87° W of Candelaria (Zambales),067,S 87° W,Candelaria (Zambales)
-2026-03-22T05:16:00.000Z,22 March 2026 - 05:16 AM,13.80,120.48,028,2.0,017km S 77° W of Calatagan (Batangas),017,S 77° W,Calatagan (Batangas)
-2026-03-22T05:08:00.000Z,22 March 2026 - 05:08 AM,13.76,120.48,031,1.6,018km S 65° W of Calatagan (Batangas),018,S 65° W,Calatagan (Batangas)
+2026-03-22T07:21:00.000Z,22 March 2026 - 07:21 AM,13.78,120.56,119,2.8,010km S 56° W of Calatagan (Batangas),010,S 56° W,Calatagan (Batangas)
