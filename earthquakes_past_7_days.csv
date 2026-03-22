@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T20:42:00.000Z,22 March 2026 - 08:42 PM,18.11,120.81,062,2.3,004km S 15° W of Carasi (Ilocos Norte),004,S 15° W,Carasi (Ilocos Norte)
+2026-03-22T20:41:00.000Z,22 March 2026 - 08:41 PM,10.29,126.01,028,2.0,030km N 07° W of Santa Monica (Surigao Del Norte),030,N 07° W,Santa Monica (Surigao Del Norte)
+2026-03-22T20:30:00.000Z,22 March 2026 - 08:30 PM,09.52,126.52,010,4.3,049km S 54° E of General Luna (Surigao Del Norte),049,S 54° E,General Luna (Surigao Del Norte)
+2026-03-22T20:10:00.000Z,22 March 2026 - 08:10 PM,13.38,120.52,035,3.4,007km S 58° E of Paluan (Occidental Mindoro),007,S 58° E,Paluan (Occidental Mindoro)
+2026-03-22T20:08:00.000Z,22 March 2026 - 08:08 PM,06.47,126.56,078,2.5,058km S 70° E of Governor Generoso (Davao Oriental),058,S 70° E,Governor Generoso (Davao Oriental)
 2026-03-22T19:33:00.000Z,22 March 2026 - 07:33 PM,06.10,124.60,015,2.3,012km N 11° W of Kiamba (Sarangani),012,N 11° W,Kiamba (Sarangani)
 2026-03-22T03:09:00.000Z,22 March 2026 - 03:09 AM,17.71,120.57,010,2.3,010km N 79° W of Danglas (Abra),010,N 79° W,Danglas (Abra)
 2026-03-22T19:12:00.000Z,22 March 2026 - 07:12 PM,16.90,119.85,023,2.1,056km N 85° W of Luna (La Union),056,N 85° W,Luna (La Union)
@@ -250,5 +255,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T20:51:00.000Z,15 March 2026 - 08:51 PM,12.14,125.86,013,4.1,038km S 84° E of San Policarpo (Eastern Samar),038,S 84° E,San Policarpo (Eastern Samar)
 2026-03-15T20:44:00.000Z,15 March 2026 - 08:44 PM,18.34,120.58,015,2.2,004km N 81° W of Pasuquin (Ilocos Norte),004,N 81° W,Pasuquin (Ilocos Norte)
 2026-03-15T20:44:00.000Z,15 March 2026 - 08:44 PM,19.36,121.94,035,1.7,017km S 10° E of Babuyan Island (Calayan) (Cagayan),017,S 10° E,Babuyan Island (Calayan) (Cagayan)
-2026-03-15T20:33:00.000Z,15 March 2026 - 08:33 PM,18.37,120.70,007,2.6,010km N 66° E of Pasuquin (Ilocos Norte),010,N 66° E,Pasuquin (Ilocos Norte)
-2026-03-15T20:31:00.000Z,15 March 2026 - 08:31 PM,19.17,121.17,032,2.1,009km N 29° W of Dalupiri Island (Calayan) (Cagayan),009,N 29° W,Dalupiri Island (Calayan) (Cagayan)
