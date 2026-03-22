@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T13:43:00.000Z,22 March 2026 - 01:43 PM,14.83,120.02,046,2.1,016km S 29° W of San Antonio (Zambales),016,S 29° W,San Antonio (Zambales)
+2026-03-22T13:30:00.000Z,22 March 2026 - 01:30 PM,13.64,120.59,108,4.2,021km S 12° W of Calatagan (Batangas),021,S 12° W,Calatagan (Batangas)
 2026-03-22T12:09:00.000Z,22 March 2026 - 12:09 PM,15.11,120.04,047,1.5,006km S 18° W of Cabangan (Zambales),006,S 18° W,Cabangan (Zambales)
 2026-03-22T10:48:00.000Z,22 March 2026 - 10:48 AM,19.36,121.47,032,2.6,040km N 45° E of Dalupiri Island (Calayan) (Cagayan),040,N 45° E,Dalupiri Island (Calayan) (Cagayan)
 2026-03-22T10:34:00.000Z,22 March 2026 - 10:34 AM,09.70,126.44,032,2.6,032km S 74° E of General Luna (Surigao Del Norte),032,S 74° E,General Luna (Surigao Del Norte)
@@ -245,5 +247,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T16:49:00.000Z,15 March 2026 - 04:49 PM,12.18,125.79,024,2.3,031km N 89° E of San Policarpo (Eastern Samar),031,N 89° E,San Policarpo (Eastern Samar)
 2026-03-15T16:20:00.000Z,15 March 2026 - 04:20 PM,10.94,123.92,007,2.4,013km S 30° W of City Of Bogo (Cebu),013,S 30° W,City Of Bogo (Cebu)
 2026-03-15T15:08:00.000Z,15 March 2026 - 03:08 PM,11.90,125.60,020,2.6,018km N 61° E of Sulat (Eastern Samar),018,N 61° E,Sulat (Eastern Samar)
-2026-03-15T12:40:00.000Z,15 March 2026 - 12:40 PM,15.48,121.26,005,1.9,008km N 68° W of Gabaldon (Nueva Ecija),008,N 68° W,Gabaldon (Nueva Ecija)
-2026-03-15T12:37:00.000Z,15 March 2026 - 12:37 PM,15.08,122.07,001,3.5,028km N 23° E of Burdeos (Quezon),028,N 23° E,Burdeos (Quezon)
