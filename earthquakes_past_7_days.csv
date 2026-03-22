@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T17:35:00.000Z,22 March 2026 - 05:35 PM,19.84,121.68,010,2.2,043km N 34° W of Babuyan Island (Calayan) (Cagayan),043,N 34° W,Babuyan Island (Calayan) (Cagayan)
+2026-03-22T17:17:00.000Z,22 March 2026 - 05:17 PM,13.50,120.86,033,1.7,011km S 89° W of Puerto Galera (Oriental Mindoro),011,S 89° W,Puerto Galera (Oriental Mindoro)
 2026-03-22T17:09:00.000Z,22 March 2026 - 05:09 PM,13.64,120.23,021,2.2,009km S 11° W of Looc (Occidental Mindoro),009,S 11° W,Looc (Occidental Mindoro)
 2026-03-22T17:01:00.000Z,22 March 2026 - 05:01 PM,15.11,122.35,007,1.8,041km N 20° E of Patnanungan (Quezon),041,N 20° E,Patnanungan (Quezon)
 2026-03-22T14:55:00.000Z,22 March 2026 - 02:55 PM,07.30,127.24,016,3.3,074km S 87° E of Caraga (Davao Oriental),074,S 87° E,Caraga (Davao Oriental)
@@ -248,4 +250,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T20:33:00.000Z,15 March 2026 - 08:33 PM,18.37,120.70,007,2.6,010km N 66° E of Pasuquin (Ilocos Norte),010,N 66° E,Pasuquin (Ilocos Norte)
 2026-03-15T20:31:00.000Z,15 March 2026 - 08:31 PM,19.17,121.17,032,2.1,009km N 29° W of Dalupiri Island (Calayan) (Cagayan),009,N 29° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-15T18:38:00.000Z,15 March 2026 - 06:38 PM,07.15,126.79,018,2.5,028km S 76° E of Manay (Davao Oriental),028,S 76° E,Manay (Davao Oriental)
-2026-03-15T17:31:00.000Z,15 March 2026 - 05:31 PM,10.91,123.85,001,2.4,020km S 44° W of City Of Bogo (Cebu),020,S 44° W,City Of Bogo (Cebu)
