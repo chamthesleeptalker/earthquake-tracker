@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-22T17:09:00.000Z,22 March 2026 - 05:09 PM,13.64,120.23,021,2.2,009km S 11° W of Looc (Occidental Mindoro),009,S 11° W,Looc (Occidental Mindoro)
+2026-03-22T17:01:00.000Z,22 March 2026 - 05:01 PM,15.11,122.35,007,1.8,041km N 20° E of Patnanungan (Quezon),041,N 20° E,Patnanungan (Quezon)
 2026-03-22T14:55:00.000Z,22 March 2026 - 02:55 PM,07.30,127.24,016,3.3,074km S 87° E of Caraga (Davao Oriental),074,S 87° E,Caraga (Davao Oriental)
 2026-03-22T14:46:00.000Z,22 March 2026 - 02:46 PM,14.49,123.44,007,2.1,053km N 89° E of Tinaga Island (Vinzons) (Camarines Norte),053,N 89° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-03-22T13:45:00.000Z,22 March 2026 - 01:45 PM,17.88,120.20,017,2.6,027km N 86° W of Sinait (Ilocos Sur),027,N 86° W,Sinait (Ilocos Sur)
@@ -247,6 +249,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-15T20:31:00.000Z,15 March 2026 - 08:31 PM,19.17,121.17,032,2.1,009km N 29° W of Dalupiri Island (Calayan) (Cagayan),009,N 29° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-15T18:38:00.000Z,15 March 2026 - 06:38 PM,07.15,126.79,018,2.5,028km S 76° E of Manay (Davao Oriental),028,S 76° E,Manay (Davao Oriental)
 2026-03-15T17:31:00.000Z,15 March 2026 - 05:31 PM,10.91,123.85,001,2.4,020km S 44° W of City Of Bogo (Cebu),020,S 44° W,City Of Bogo (Cebu)
-2026-03-15T16:49:00.000Z,15 March 2026 - 04:49 PM,12.18,125.79,024,2.3,031km N 89° E of San Policarpo (Eastern Samar),031,N 89° E,San Policarpo (Eastern Samar)
-2026-03-15T16:20:00.000Z,15 March 2026 - 04:20 PM,10.94,123.92,007,2.4,013km S 30° W of City Of Bogo (Cebu),013,S 30° W,City Of Bogo (Cebu)
-2026-03-15T15:08:00.000Z,15 March 2026 - 03:08 PM,11.90,125.60,020,2.6,018km N 61° E of Sulat (Eastern Samar),018,N 61° E,Sulat (Eastern Samar)
