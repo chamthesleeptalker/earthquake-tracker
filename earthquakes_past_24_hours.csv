@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T07:24:00.000Z,23 March 2026 - 07:24 AM,10.94,124.01,012,2.3,013km S 14° E of City Of Bogo (Cebu),013,S 14° E,City Of Bogo (Cebu)
 2026-03-23T07:07:00.000Z,23 March 2026 - 07:07 AM,10.90,123.90,002,3.1,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
 2026-03-23T06:08:00.000Z,23 March 2026 - 06:08 AM,04.26,125.52,003,3.5,128km S 05° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),128,S 05° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-23T05:35:00.000Z,23 March 2026 - 05:35 AM,08.99,126.42,025,2.5,015km N 81° E of Bayabas (Surigao Del Sur),015,N 81° E,Bayabas (Surigao Del Sur)
@@ -48,4 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-22T10:34:00.000Z,22 March 2026 - 10:34 AM,09.70,126.44,032,2.6,032km S 74° E of General Luna (Surigao Del Norte),032,S 74° E,General Luna (Surigao Del Norte)
 2026-03-22T10:16:00.000Z,22 March 2026 - 10:16 AM,19.21,121.19,029,2.0,012km N 08° W of Dalupiri Island (Calayan) (Cagayan),012,N 08° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-22T09:53:00.000Z,22 March 2026 - 09:53 AM,19.19,121.28,018,2.3,011km N 41° E of Dalupiri Island (Calayan) (Cagayan),011,N 41° E,Dalupiri Island (Calayan) (Cagayan)
-2026-03-22T07:21:00.000Z,22 March 2026 - 07:21 AM,13.78,120.56,119,2.8,010km S 56° W of Calatagan (Batangas),010,S 56° W,Calatagan (Batangas)
