@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T22:39:00.000Z,23 March 2026 - 10:39 PM,16.52,121.28,032,1.4,004km N 25° E of Quezon (Nueva Vizcaya),004,N 25° E,Quezon (Nueva Vizcaya)
+2026-03-23T22:16:00.000Z,23 March 2026 - 10:16 PM,15.67,119.87,029,1.6,008km N 55° W of Candelaria (Zambales),008,N 55° W,Candelaria (Zambales)
+2026-03-23T22:00:00.000Z,23 March 2026 - 10:00 PM,10.11,122.41,026,1.5,028km N 58° W of Cauayan (Negros Occidental),028,N 58° W,Cauayan (Negros Occidental)
 2026-03-23T21:46:00.000Z,23 March 2026 - 09:46 PM,13.70,120.61,080,1.8,015km S 11° W of Calatagan (Batangas),015,S 11° W,Calatagan (Batangas)
 2026-03-23T21:26:00.000Z,23 March 2026 - 09:26 PM,18.98,121.13,033,1.8,016km S 30° W of Dalupiri Island (Calayan) (Cagayan),016,S 30° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-23T21:10:00.000Z,23 March 2026 - 09:10 PM,17.70,122.00,027,1.5,024km N 71° E of Peñablanca (Cagayan),024,N 71° E,PeÃ±ablanca (Cagayan)
@@ -263,4 +266,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-16T23:26:00.000Z,16 March 2026 - 11:26 PM,05.85,126.97,015,3.4,133km S 48° E of Governor Generoso (Davao Oriental),133,S 48° E,Governor Generoso (Davao Oriental)
 2026-03-16T23:12:00.000Z,16 March 2026 - 11:12 PM,11.08,123.74,004,3.7,010km S 31° W of Santa Fe (Cebu),010,S 31° W,Santa Fe (Cebu)
 2026-03-16T23:06:00.000Z,16 March 2026 - 11:06 PM,05.96,126.29,027,2.3,071km N 86° E of Jose Abad Santos (Davao Occidental),071,N 86° E,Jose Abad Santos (Davao Occidental)
-2026-03-16T21:55:00.000Z,16 March 2026 - 09:55 PM,12.87,123.24,008,2.4,003km S 16° W of Claveria (Masbate),003,S 16° W,Claveria (Masbate)
