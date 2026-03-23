@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T12:25:00.000Z,23 March 2026 - 12:25 PM,10.91,123.82,004,3.2,023km S 48° W of City Of Bogo (Cebu),023,S 48° W,City Of Bogo (Cebu)
+2026-03-23T12:02:00.000Z,23 March 2026 - 12:02 PM,08.64,126.27,033,2.3,013km S 25° E of San Agustin (Surigao Del Sur),013,S 25° E,San Agustin (Surigao Del Sur)
+2026-03-23T11:18:00.000Z,23 March 2026 - 11:18 AM,17.78,120.24,033,2.6,023km S 87° W of Cabugao (Ilocos Sur),023,S 87° W,Cabugao (Ilocos Sur)
 2026-03-23T08:45:00.000Z,23 March 2026 - 08:45 AM,06.20,126.28,027,2.0,055km S 24° E of Governor Generoso (Davao Oriental),055,S 24° E,Governor Generoso (Davao Oriental)
 2026-03-23T07:24:00.000Z,23 March 2026 - 07:24 AM,10.94,124.01,012,2.3,013km S 14° E of City Of Bogo (Cebu),013,S 14° E,City Of Bogo (Cebu)
 2026-03-23T07:07:00.000Z,23 March 2026 - 07:07 AM,10.90,123.90,002,3.1,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
@@ -45,8 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-22T13:45:00.000Z,22 March 2026 - 01:45 PM,17.88,120.20,017,2.6,027km N 86° W of Sinait (Ilocos Sur),027,N 86° W,Sinait (Ilocos Sur)
 2026-03-22T13:43:00.000Z,22 March 2026 - 01:43 PM,14.83,120.02,046,2.1,016km S 29° W of San Antonio (Zambales),016,S 29° W,San Antonio (Zambales)
 2026-03-22T13:30:00.000Z,22 March 2026 - 01:30 PM,13.64,120.59,108,4.2,021km S 12° W of Calatagan (Batangas),021,S 12° W,Calatagan (Batangas)
-2026-03-22T12:09:00.000Z,22 March 2026 - 12:09 PM,15.11,120.04,047,1.5,006km S 18° W of Cabangan (Zambales),006,S 18° W,Cabangan (Zambales)
-2026-03-22T10:48:00.000Z,22 March 2026 - 10:48 AM,19.36,121.47,032,2.6,040km N 45° E of Dalupiri Island (Calayan) (Cagayan),040,N 45° E,Dalupiri Island (Calayan) (Cagayan)
-2026-03-22T10:34:00.000Z,22 March 2026 - 10:34 AM,09.70,126.44,032,2.6,032km S 74° E of General Luna (Surigao Del Norte),032,S 74° E,General Luna (Surigao Del Norte)
-2026-03-22T10:16:00.000Z,22 March 2026 - 10:16 AM,19.21,121.19,029,2.0,012km N 08° W of Dalupiri Island (Calayan) (Cagayan),012,N 08° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-22T09:53:00.000Z,22 March 2026 - 09:53 AM,19.19,121.28,018,2.3,011km N 41° E of Dalupiri Island (Calayan) (Cagayan),011,N 41° E,Dalupiri Island (Calayan) (Cagayan)
