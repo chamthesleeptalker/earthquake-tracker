@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-24T05:20:00.000Z,24 March 2026 - 05:20 AM,15.64,119.96,035,1.6,004km N 70° E of Candelaria (Zambales),004,N 70° E,Candelaria (Zambales)
 2026-03-24T04:42:00.000Z,24 March 2026 - 04:42 AM,08.13,125.03,017,2.2,011km N 89° W of City Of  Malaybalay (Bukidnon),011,N 89° W,City Of  Malaybalay (Bukidnon)
 2026-03-24T04:38:00.000Z,24 March 2026 - 04:38 AM,10.95,123.96,002,2.4,012km S 15° W of City Of Bogo (Cebu),012,S 15° W,City Of Bogo (Cebu)
 2026-03-24T03:29:00.000Z,24 March 2026 - 03:29 AM,09.20,125.94,032,1.6,007km S 22° W of Madrid (Surigao Del Sur),007,S 22° W,Madrid (Surigao Del Sur)
@@ -270,4 +271,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-17T05:39:00.000Z,17 March 2026 - 05:39 AM,12.85,123.06,031,2.1,021km S 76° W of Claveria (Masbate),021,S 76° W,Claveria (Masbate)
 2026-03-17T05:29:00.000Z,17 March 2026 - 05:29 AM,10.93,123.91,004,3.4,015km S 32° W of City Of Bogo (Cebu),015,S 32° W,City Of Bogo (Cebu)
 2026-03-17T05:22:00.000Z,17 March 2026 - 05:22 AM,16.18,120.45,032,2.0,006km S 36° W of Rosario (La Union),006,S 36° W,Rosario (La Union)
-2026-03-17T04:56:00.000Z,17 March 2026 - 04:56 AM,16.47,120.79,026,2.3,005km S 64° W of Bokod (Benguet),005,S 64° W,Bokod (Benguet)
