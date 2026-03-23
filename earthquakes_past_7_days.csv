@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T23:25:00.000Z,23 March 2026 - 11:25 PM,19.95,121.22,013,2.1,081km S 58° W of Sabtang (Batanes),081,S 58° W,Sabtang (Batanes)
+2026-03-23T23:08:00.000Z,23 March 2026 - 11:08 PM,08.42,126.67,002,2.0,037km N 81° E of Hinatuan (Surigao Del Sur),037,N 81° E,Hinatuan (Surigao Del Sur)
+2026-03-23T22:54:00.000Z,23 March 2026 - 10:54 PM,12.78,122.98,007,2.4,032km S 64° W of Claveria (Masbate),032,S 64° W,Claveria (Masbate)
+2026-03-23T22:43:00.000Z,23 March 2026 - 10:43 PM,07.18,126.42,078,2.1,013km S 77° W of Manay (Davao Oriental),013,S 77° W,Manay (Davao Oriental)
 2026-03-23T22:39:00.000Z,23 March 2026 - 10:39 PM,16.52,121.28,032,1.4,004km N 25° E of Quezon (Nueva Vizcaya),004,N 25° E,Quezon (Nueva Vizcaya)
 2026-03-23T22:16:00.000Z,23 March 2026 - 10:16 PM,15.67,119.87,029,1.6,008km N 55° W of Candelaria (Zambales),008,N 55° W,Candelaria (Zambales)
 2026-03-23T22:00:00.000Z,23 March 2026 - 10:00 PM,10.11,122.41,026,1.5,028km N 58° W of Cauayan (Negros Occidental),028,N 58° W,Cauayan (Negros Occidental)
@@ -264,5 +268,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-17T00:04:00.000Z,17 March 2026 - 12:04 AM,16.23,120.51,013,2.1,003km N 88° E of Rosario (La Union),003,N 88° E,Rosario (La Union)
 2026-03-16T23:47:00.000Z,16 March 2026 - 11:47 PM,05.08,126.82,091,2.4,156km S 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),156,S 74° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-16T23:26:00.000Z,16 March 2026 - 11:26 PM,05.85,126.97,015,3.4,133km S 48° E of Governor Generoso (Davao Oriental),133,S 48° E,Governor Generoso (Davao Oriental)
-2026-03-16T23:12:00.000Z,16 March 2026 - 11:12 PM,11.08,123.74,004,3.7,010km S 31° W of Santa Fe (Cebu),010,S 31° W,Santa Fe (Cebu)
-2026-03-16T23:06:00.000Z,16 March 2026 - 11:06 PM,05.96,126.29,027,2.3,071km N 86° E of Jose Abad Santos (Davao Occidental),071,N 86° E,Jose Abad Santos (Davao Occidental)
