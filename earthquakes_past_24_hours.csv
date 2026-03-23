@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-24T06:12:00.000Z,24 March 2026 - 06:12 AM,09.69,126.32,017,3.1,021km S 60° E of General Luna (Surigao Del Norte),021,S 60° E,General Luna (Surigao Del Norte)
 2026-03-24T05:20:00.000Z,24 March 2026 - 05:20 AM,15.64,119.96,035,1.6,004km N 70° E of Candelaria (Zambales),004,N 70° E,Candelaria (Zambales)
 2026-03-24T04:42:00.000Z,24 March 2026 - 04:42 AM,08.13,125.03,017,2.2,011km N 89° W of City Of  Malaybalay (Bukidnon),011,N 89° W,City Of  Malaybalay (Bukidnon)
 2026-03-24T04:38:00.000Z,24 March 2026 - 04:38 AM,10.95,123.96,002,2.4,012km S 15° W of City Of Bogo (Cebu),012,S 15° W,City Of Bogo (Cebu)
@@ -40,6 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-23T08:45:00.000Z,23 March 2026 - 08:45 AM,06.20,126.28,027,2.0,055km S 24° E of Governor Generoso (Davao Oriental),055,S 24° E,Governor Generoso (Davao Oriental)
 2026-03-23T07:24:00.000Z,23 March 2026 - 07:24 AM,10.94,124.01,012,2.3,013km S 14° E of City Of Bogo (Cebu),013,S 14° E,City Of Bogo (Cebu)
 2026-03-23T07:07:00.000Z,23 March 2026 - 07:07 AM,10.90,123.90,002,3.1,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
-2026-03-23T06:08:00.000Z,23 March 2026 - 06:08 AM,04.26,125.52,003,3.5,128km S 05° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),128,S 05° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-23T05:35:00.000Z,23 March 2026 - 05:35 AM,08.99,126.42,025,2.5,015km N 81° E of Bayabas (Surigao Del Sur),015,N 81° E,Bayabas (Surigao Del Sur)
-2026-03-23T05:24:00.000Z,23 March 2026 - 05:24 AM,14.42,121.46,033,1.3,002km N 19° W of Pangil (Laguna),002,N 19° W,Pangil (Laguna)
