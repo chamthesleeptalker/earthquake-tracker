@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T21:46:00.000Z,23 March 2026 - 09:46 PM,13.70,120.61,080,1.8,015km S 11° W of Calatagan (Batangas),015,S 11° W,Calatagan (Batangas)
+2026-03-23T21:26:00.000Z,23 March 2026 - 09:26 PM,18.98,121.13,033,1.8,016km S 30° W of Dalupiri Island (Calayan) (Cagayan),016,S 30° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-23T21:10:00.000Z,23 March 2026 - 09:10 PM,17.70,122.00,027,1.5,024km N 71° E of Peñablanca (Cagayan),024,N 71° E,PeÃ±ablanca (Cagayan)
+2026-03-23T20:09:00.000Z,23 March 2026 - 08:09 PM,18.75,120.92,015,2.7,022km N 20° W of Santa Praxedes (Cagayan),022,N 20° W,Santa Praxedes (Cagayan)
 2026-03-23T17:55:00.000Z,23 March 2026 - 05:55 PM,06.76,125.14,007,2.0,002km N 50° W of Magsaysay (Davao Del Sur),002,N 50° W,Magsaysay (Davao Del Sur)
 2026-03-23T17:43:00.000Z,23 March 2026 - 05:43 PM,16.84,120.34,019,1.7,005km S 73° W of Luna (La Union),005,S 73° W,Luna (La Union)
 2026-03-23T16:35:00.000Z,23 March 2026 - 04:35 PM,08.01,123.95,027,1.6,004km S 15° E of Tangcal (Lanao Del Norte),004,S 15° E,Tangcal (Lanao Del Norte)
@@ -260,7 +264,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-16T23:12:00.000Z,16 March 2026 - 11:12 PM,11.08,123.74,004,3.7,010km S 31° W of Santa Fe (Cebu),010,S 31° W,Santa Fe (Cebu)
 2026-03-16T23:06:00.000Z,16 March 2026 - 11:06 PM,05.96,126.29,027,2.3,071km N 86° E of Jose Abad Santos (Davao Occidental),071,N 86° E,Jose Abad Santos (Davao Occidental)
 2026-03-16T21:55:00.000Z,16 March 2026 - 09:55 PM,12.87,123.24,008,2.4,003km S 16° W of Claveria (Masbate),003,S 16° W,Claveria (Masbate)
-2026-03-16T21:44:00.000Z,16 March 2026 - 09:44 PM,17.62,121.07,022,2.1,008km N 55° E of Malibcong (Abra),008,N 55° E,Malibcong (Abra)
-2026-03-16T21:41:00.000Z,16 March 2026 - 09:41 PM,11.08,123.75,002,2.5,010km S 18° E of Bantayan (Cebu),010,S 18° E,Bantayan (Cebu)
-2026-03-16T20:06:00.000Z,16 March 2026 - 08:06 PM,10.30,126.08,015,2.7,032km N 01° E of Burgos (Surigao Del Norte),032,N 01° E,Burgos (Surigao Del Norte)
-2026-03-16T19:06:00.000Z,16 March 2026 - 07:06 PM,11.74,125.54,020,2.6,009km S 79° E of San Julian (Eastern Samar),009,S 79° E,San Julian (Eastern Samar)
