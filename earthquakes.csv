@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T13:44:00.000Z,23 March 2026 - 01:44 PM,08.55,126.84,032,2.6,059km N 69° E of Hinatuan (Surigao Del Sur),059,N 69° E,Hinatuan (Surigao Del Sur)
+2026-03-23T12:44:00.000Z,23 March 2026 - 12:44 PM,09.95,126.21,035,2.1,014km N 84° E of San Isidro (Surigao Del Norte),014,N 84° E,San Isidro (Surigao Del Norte)
+2026-03-23T12:29:00.000Z,23 March 2026 - 12:29 PM,10.93,123.81,006,2.8,023km S 54° W of City Of Bogo (Cebu),023,S 54° W,City Of Bogo (Cebu)
 2026-03-23T12:25:00.000Z,23 March 2026 - 12:25 PM,10.91,123.82,004,3.2,023km S 48° W of City Of Bogo (Cebu),023,S 48° W,City Of Bogo (Cebu)
 2026-03-23T12:02:00.000Z,23 March 2026 - 12:02 PM,08.64,126.27,033,2.3,013km S 25° E of San Agustin (Surigao Del Sur),013,S 25° E,San Agustin (Surigao Del Sur)
 2026-03-23T11:18:00.000Z,23 March 2026 - 11:18 AM,17.78,120.24,033,2.6,023km S 87° W of Cabugao (Ilocos Sur),023,S 87° W,Cabugao (Ilocos Sur)

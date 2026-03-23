@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T13:44:00.000Z,23 March 2026 - 01:44 PM,08.55,126.84,032,2.6,059km N 69° E of Hinatuan (Surigao Del Sur),059,N 69° E,Hinatuan (Surigao Del Sur)
+2026-03-23T12:44:00.000Z,23 March 2026 - 12:44 PM,09.95,126.21,035,2.1,014km N 84° E of San Isidro (Surigao Del Norte),014,N 84° E,San Isidro (Surigao Del Norte)
+2026-03-23T12:29:00.000Z,23 March 2026 - 12:29 PM,10.93,123.81,006,2.8,023km S 54° W of City Of Bogo (Cebu),023,S 54° W,City Of Bogo (Cebu)
 2026-03-23T12:25:00.000Z,23 March 2026 - 12:25 PM,10.91,123.82,004,3.2,023km S 48° W of City Of Bogo (Cebu),023,S 48° W,City Of Bogo (Cebu)
 2026-03-23T12:02:00.000Z,23 March 2026 - 12:02 PM,08.64,126.27,033,2.3,013km S 25° E of San Agustin (Surigao Del Sur),013,S 25° E,San Agustin (Surigao Del Sur)
 2026-03-23T11:18:00.000Z,23 March 2026 - 11:18 AM,17.78,120.24,033,2.6,023km S 87° W of Cabugao (Ilocos Sur),023,S 87° W,Cabugao (Ilocos Sur)
@@ -46,5 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-22T14:55:00.000Z,22 March 2026 - 02:55 PM,07.30,127.24,016,3.3,074km S 87° E of Caraga (Davao Oriental),074,S 87° E,Caraga (Davao Oriental)
 2026-03-22T14:46:00.000Z,22 March 2026 - 02:46 PM,14.49,123.44,007,2.1,053km N 89° E of Tinaga Island (Vinzons) (Camarines Norte),053,N 89° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-03-22T13:45:00.000Z,22 March 2026 - 01:45 PM,17.88,120.20,017,2.6,027km N 86° W of Sinait (Ilocos Sur),027,N 86° W,Sinait (Ilocos Sur)
-2026-03-22T13:43:00.000Z,22 March 2026 - 01:43 PM,14.83,120.02,046,2.1,016km S 29° W of San Antonio (Zambales),016,S 29° W,San Antonio (Zambales)
-2026-03-22T13:30:00.000Z,22 March 2026 - 01:30 PM,13.64,120.59,108,4.2,021km S 12° W of Calatagan (Batangas),021,S 12° W,Calatagan (Batangas)
