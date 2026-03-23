@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-24T01:52:00.000Z,24 March 2026 - 01:52 AM,07.14,124.48,033,1.6,007km South of Northern Kabuntalan (Maguindanao Del Norte),007,South of Northern,(Maguindanao Del Norte)
+2026-03-24T01:47:00.000Z,24 March 2026 - 01:47 AM,12.82,122.96,004,2.3,033km S 74° W of Claveria (Masbate),033,S 74° W,Claveria (Masbate)
+2026-03-24T01:43:00.000Z,24 March 2026 - 01:43 AM,13.77,119.76,025,2.3,040km S 76° W of Lubang (Occidental Mindoro),040,S 76° W,Lubang (Occidental Mindoro)
+2026-03-24T01:39:00.000Z,24 March 2026 - 01:39 AM,06.27,124.25,033,1.7,009km N 50° E of Palimbang (Sultan Kudarat),009,N 50° E,Palimbang (Sultan Kudarat)
+2026-03-24T01:22:00.000Z,24 March 2026 - 01:22 AM,05.29,126.51,115,3.3,117km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),117,S 80° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-23T23:48:00.000Z,23 March 2026 - 11:48 PM,08.07,124.92,035,1.8,013km N 55° W of Lantapan (Bukidnon),013,N 55° W,Lantapan (Bukidnon)
 2026-03-23T23:25:00.000Z,23 March 2026 - 11:25 PM,19.95,121.22,013,2.1,081km S 58° W of Sabtang (Batanes),081,S 58° W,Sabtang (Batanes)
 2026-03-23T23:08:00.000Z,23 March 2026 - 11:08 PM,08.42,126.67,002,2.0,037km N 81° E of Hinatuan (Surigao Del Sur),037,N 81° E,Hinatuan (Surigao Del Sur)
@@ -266,4 +271,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-17T03:09:00.000Z,17 March 2026 - 03:09 AM,08.88,126.32,030,4.3,005km S 23° E of Cagwait (Surigao Del Sur),005,S 23° E,Cagwait (Surigao Del Sur)
 2026-03-17T02:34:00.000Z,17 March 2026 - 02:34 AM,16.22,119.86,061,1.9,004km N 03° E of Bani (Pangasinan),004,N 03° E,Bani (Pangasinan)
 2026-03-17T01:54:00.000Z,17 March 2026 - 01:54 AM,17.40,120.72,006,1.7,004km S 29° E of Manabo (Abra),004,S 29° E,Manabo (Abra)
-2026-03-17T00:04:00.000Z,17 March 2026 - 12:04 AM,16.23,120.51,013,2.1,003km N 88° E of Rosario (La Union),003,N 88° E,Rosario (La Union)
