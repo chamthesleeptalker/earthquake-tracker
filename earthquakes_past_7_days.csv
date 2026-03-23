@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-23T17:55:00.000Z,23 March 2026 - 05:55 PM,06.76,125.14,007,2.0,002km N 50° W of Magsaysay (Davao Del Sur),002,N 50° W,Magsaysay (Davao Del Sur)
 2026-03-23T17:43:00.000Z,23 March 2026 - 05:43 PM,16.84,120.34,019,1.7,005km S 73° W of Luna (La Union),005,S 73° W,Luna (La Union)
 2026-03-23T16:35:00.000Z,23 March 2026 - 04:35 PM,08.01,123.95,027,1.6,004km S 15° E of Tangcal (Lanao Del Norte),004,S 15° E,Tangcal (Lanao Del Norte)
 2026-03-23T16:13:00.000Z,23 March 2026 - 04:13 PM,09.77,126.14,030,1.9,002km S 41° W of General Luna (Surigao Del Norte),002,S 41° W,General Luna (Surigao Del Norte)
@@ -263,4 +264,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-16T21:41:00.000Z,16 March 2026 - 09:41 PM,11.08,123.75,002,2.5,010km S 18° E of Bantayan (Cebu),010,S 18° E,Bantayan (Cebu)
 2026-03-16T20:06:00.000Z,16 March 2026 - 08:06 PM,10.30,126.08,015,2.7,032km N 01° E of Burgos (Surigao Del Norte),032,N 01° E,Burgos (Surigao Del Norte)
 2026-03-16T19:06:00.000Z,16 March 2026 - 07:06 PM,11.74,125.54,020,2.6,009km S 79° E of San Julian (Eastern Samar),009,S 79° E,San Julian (Eastern Samar)
-2026-03-16T17:53:00.000Z,16 March 2026 - 05:53 PM,11.60,125.17,031,1.3,016km S 80° E of Calbiga (Samar),016,S 80° E,Calbiga (Samar)
