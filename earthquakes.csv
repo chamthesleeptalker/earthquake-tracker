@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-25T07:25:00.000Z,25 March 2026 - 07:25 AM,13.82,120.51,082,2.0,013km S 86° W of Calatagan (Batangas),013,S 86° W,Calatagan (Batangas)
 2026-03-25T05:47:00.000Z,25 March 2026 - 05:47 AM,10.32,125.60,030,1.6,005km S 29° E of Loreto (Dinagat Islands),005,S 29° E,Loreto (Dinagat Islands)
 2026-03-25T05:46:00.000Z,25 March 2026 - 05:46 AM,06.55,126.67,036,2.3,061km S 24° E of Tarragona (Davao Oriental),061,S 24° E,Tarragona (Davao Oriental)
 2026-03-25T04:13:00.000Z,25 March 2026 - 04:13 AM,11.01,124.00,026,1.8,005km S 26° E of City Of Bogo (Cebu),005,S 26° E,City Of Bogo (Cebu)
