@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-24T21:13:00.000Z,24 March 2026 - 09:13 PM,13.62,120.54,057,1.4,024km N 20° E of Paluan (Occidental Mindoro),024,N 20° E,Paluan (Occidental Mindoro)
+2026-03-24T20:45:00.000Z,24 March 2026 - 08:45 PM,08.00,124.55,024,2.1,017km S 59° E of Tagoloan Ii (Lanao Del Sur),017,S 59° E,Tagoloan Ii (Lanao Del Sur)
+2026-03-24T20:36:00.000Z,24 March 2026 - 08:36 PM,13.94,123.33,033,1.9,012km S 38° E of Siruma (Camarines Sur),012,S 38° E,Siruma (Camarines Sur)
+2026-03-24T20:01:00.000Z,24 March 2026 - 08:01 PM,09.74,126.36,002,3.0,023km S 79° E of General Luna (Surigao Del Norte),023,S 79° E,General Luna (Surigao Del Norte)
 2026-03-24T19:22:00.000Z,24 March 2026 - 07:22 PM,12.62,123.35,007,1.8,013km N 24° W of Aroroy (Masbate),013,N 24° W,Aroroy (Masbate)
 2026-03-24T18:59:00.000Z,24 March 2026 - 06:59 PM,12.38,120.80,009,1.9,020km S 63° W of Rizal (Occidental Mindoro),020,S 63° W,Rizal (Occidental Mindoro)
 2026-03-24T01:23:00.000Z,24 March 2026 - 01:23 AM,05.47,126.48,094,3.6,104km S 62° E of Jose Abad Santos (Davao Occidental),104,S 62° E,Jose Abad Santos (Davao Occidental)
@@ -267,7 +271,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-17T22:18:00.000Z,17 March 2026 - 10:18 PM,09.17,125.69,012,2.6,017km N 71° E of City Of Cabadbaran (Agusan Del Norte),017,N 71° E,City Of Cabadbaran (Agusan Del Norte)
 2026-03-17T22:12:00.000Z,17 March 2026 - 10:12 PM,14.92,122.63,002,1.5,040km N 52° E of Jomalig (Quezon),040,N 52° E,Jomalig (Quezon)
 2026-03-17T21:42:00.000Z,17 March 2026 - 09:42 PM,19.29,121.13,034,2.2,021km N 23° W of Dalupiri Island (Calayan) (Cagayan),021,N 23° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-17T20:56:00.000Z,17 March 2026 - 08:56 PM,09.79,126.21,047,2.1,006km N 80° E of General Luna (Surigao Del Norte),006,N 80° E,General Luna (Surigao Del Norte)
-2026-03-17T20:21:00.000Z,17 March 2026 - 08:21 PM,19.38,120.71,015,2.6,060km N 60° W of Dalupiri Island (Calayan) (Cagayan),060,N 60° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-17T20:01:00.000Z,17 March 2026 - 08:01 PM,11.05,124.12,026,2.0,015km S 90° E of City Of Bogo (Cebu),015,S 90° E,City Of Bogo (Cebu)
-2026-03-17T19:38:00.000Z,17 March 2026 - 07:38 PM,08.49,122.37,002,3.2,050km N 19° W of Labason (Zamboanga Del Norte),050,N 19° W,Labason (Zamboanga Del Norte)
