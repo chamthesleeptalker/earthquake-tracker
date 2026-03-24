@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-25T02:20:00.000Z,25 March 2026 - 02:20 AM,10.37,126.05,019,1.8,039km N 04° W of Burgos (Surigao Del Norte),039,N 04° W,Burgos (Surigao Del Norte)
 2026-03-25T01:10:00.000Z,25 March 2026 - 01:10 AM,17.59,120.54,016,2.1,003km N 54° W of Langiden (Abra),003,N 54° W,Langiden (Abra)
 2026-03-25T01:07:00.000Z,25 March 2026 - 01:07 AM,12.79,123.28,002,2.2,013km S 16° E of Claveria (Masbate),013,S 16° E,Claveria (Masbate)
 2026-03-25T00:32:00.000Z,25 March 2026 - 12:32 AM,05.96,124.02,009,1.7,033km S 34° W of Palimbang (Sultan Kudarat),033,S 34° W,Palimbang (Sultan Kudarat)
@@ -279,5 +280,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-18T03:00:00.000Z,18 March 2026 - 03:00 AM,07.70,126.32,116,2.8,017km S 54° W of Cateel (Davao Oriental),017,S 54° W,Cateel (Davao Oriental)
 2026-03-18T02:33:00.000Z,18 March 2026 - 02:33 AM,13.47,125.39,036,3.8,114km S 72° E of Gigmoto (Catanduanes),114,S 72° E,Gigmoto (Catanduanes)
 2026-03-18T02:21:00.000Z,18 March 2026 - 02:21 AM,07.38,126.70,018,3.6,016km N 68° E of Caraga (Davao Oriental),016,N 68° E,Caraga (Davao Oriental)
-2026-03-18T02:11:00.000Z,18 March 2026 - 02:11 AM,19.94,121.31,012,2.0,073km S 53° W of Sabtang (Batanes),073,S 53° W,Sabtang (Batanes)
-2026-03-18T01:19:00.000Z,18 March 2026 - 01:19 AM,07.81,124.51,008,1.5,017km S 69° E of Lumba-bayabao (Lanao Del Sur),017,S 69° E,Lumba-bayabao (Lanao Del Sur)
