@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-24T09:27:00.000Z,24 March 2026 - 09:27 AM,13.35,120.66,013,1.5,013km S 35° W of Abra De Ilog (Occidental Mindoro),013,S 35° W,Abra De Ilog (Occidental Mindoro)
+2026-03-24T09:26:00.000Z,24 March 2026 - 09:26 AM,17.80,120.52,026,2.5,007km N 84° E of Cabugao (Ilocos Sur),007,N 84° E,Cabugao (Ilocos Sur)
+2026-03-24T08:53:00.000Z,24 March 2026 - 08:53 AM,10.72,124.93,005,2.2,008km S 08° W of Javier (Leyte),008,S 08° W,Javier (Leyte)
 2026-03-24T06:12:00.000Z,24 March 2026 - 06:12 AM,09.69,126.32,017,3.1,021km S 60° E of General Luna (Surigao Del Norte),021,S 60° E,General Luna (Surigao Del Norte)
 2026-03-24T05:20:00.000Z,24 March 2026 - 05:20 AM,15.64,119.96,035,1.6,004km N 70° E of Candelaria (Zambales),004,N 70° E,Candelaria (Zambales)
 2026-03-24T04:42:00.000Z,24 March 2026 - 04:42 AM,08.13,125.03,017,2.2,011km N 89° W of City Of  Malaybalay (Bukidnon),011,N 89° W,City Of  Malaybalay (Bukidnon)
@@ -38,6 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-23T12:25:00.000Z,23 March 2026 - 12:25 PM,10.91,123.82,004,3.2,023km S 48° W of City Of Bogo (Cebu),023,S 48° W,City Of Bogo (Cebu)
 2026-03-23T12:02:00.000Z,23 March 2026 - 12:02 PM,08.64,126.27,033,2.3,013km S 25° E of San Agustin (Surigao Del Sur),013,S 25° E,San Agustin (Surigao Del Sur)
 2026-03-23T11:18:00.000Z,23 March 2026 - 11:18 AM,17.78,120.24,033,2.6,023km S 87° W of Cabugao (Ilocos Sur),023,S 87° W,Cabugao (Ilocos Sur)
-2026-03-23T08:45:00.000Z,23 March 2026 - 08:45 AM,06.20,126.28,027,2.0,055km S 24° E of Governor Generoso (Davao Oriental),055,S 24° E,Governor Generoso (Davao Oriental)
-2026-03-23T07:24:00.000Z,23 March 2026 - 07:24 AM,10.94,124.01,012,2.3,013km S 14° E of City Of Bogo (Cebu),013,S 14° E,City Of Bogo (Cebu)
-2026-03-23T07:07:00.000Z,23 March 2026 - 07:07 AM,10.90,123.90,002,3.1,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
