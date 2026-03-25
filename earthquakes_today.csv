@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-25T18:13:00.000Z,25 March 2026 - 06:13 PM,17.74,120.99,002,1.5,010km N 33° E of Lacub (Abra),010,N 33° E,Lacub (Abra)
+2026-03-25T17:19:00.000Z,25 March 2026 - 05:19 PM,11.08,126.26,027,3.0,059km N 85° E of Guiuan (Eastern Samar),059,N 85° E,Guiuan (Eastern Samar)
+2026-03-25T17:18:00.000Z,25 March 2026 - 05:18 PM,17.49,120.64,007,2.7,004km N 53° E of San Isidro (Abra),004,N 53° E,San Isidro (Abra)
+2026-03-25T17:17:00.000Z,25 March 2026 - 05:17 PM,12.98,123.62,034,2.2,009km N 17° E of Donsol (Sorsogon),009,N 17° E,Donsol (Sorsogon)
 2026-03-25T17:06:00.000Z,25 March 2026 - 05:06 PM,11.04,126.33,001,3.5,066km N 89° E of Guiuan (Eastern Samar),066,N 89° E,Guiuan (Eastern Samar)
 2026-03-25T17:01:00.000Z,25 March 2026 - 05:01 PM,11.46,125.42,033,1.7,010km S 79° W of Balangkayan (Eastern Samar),010,S 79° W,Balangkayan (Eastern Samar)
 2026-03-25T16:35:00.000Z,25 March 2026 - 04:35 PM,11.06,126.20,016,3.0,052km N 87° E of Guiuan (Eastern Samar),052,N 87° E,Guiuan (Eastern Samar)
