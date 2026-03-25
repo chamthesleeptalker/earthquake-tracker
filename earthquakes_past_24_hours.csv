@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-25T19:48:00.000Z,25 March 2026 - 07:48 PM,08.09,126.67,010,1.9,030km N 78° E of Lingig (Surigao Del Sur),030,N 78° E,Lingig (Surigao Del Sur)
 2026-03-25T18:49:00.000Z,25 March 2026 - 06:49 PM,07.86,124.80,032,1.8,004km N 41° W of Pangantucan (Bukidnon),004,N 41° W,Pangantucan (Bukidnon)
 2026-03-25T18:47:00.000Z,25 March 2026 - 06:47 PM,11.16,123.98,028,1.6,012km N 02° W of City Of Bogo (Cebu),012,N 02° W,City Of Bogo (Cebu)
 2026-03-25T18:13:00.000Z,25 March 2026 - 06:13 PM,17.74,120.99,002,1.5,010km N 33° E of Lacub (Abra),010,N 33° E,Lacub (Abra)
@@ -61,5 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-24T20:45:00.000Z,24 March 2026 - 08:45 PM,08.00,124.55,024,2.1,017km S 59° E of Tagoloan Ii (Lanao Del Sur),017,S 59° E,Tagoloan Ii (Lanao Del Sur)
 2026-03-24T20:36:00.000Z,24 March 2026 - 08:36 PM,13.94,123.33,033,1.9,012km S 38° E of Siruma (Camarines Sur),012,S 38° E,Siruma (Camarines Sur)
 2026-03-24T20:01:00.000Z,24 March 2026 - 08:01 PM,09.74,126.36,002,3.0,023km S 79° E of General Luna (Surigao Del Norte),023,S 79° E,General Luna (Surigao Del Norte)
-2026-03-24T19:22:00.000Z,24 March 2026 - 07:22 PM,12.62,123.35,007,1.8,013km N 24° W of Aroroy (Masbate),013,N 24° W,Aroroy (Masbate)
-2026-03-24T18:59:00.000Z,24 March 2026 - 06:59 PM,12.38,120.80,009,1.9,020km S 63° W of Rizal (Occidental Mindoro),020,S 63° W,Rizal (Occidental Mindoro)
