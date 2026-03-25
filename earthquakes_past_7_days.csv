@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-25T22:09:00.000Z,25 March 2026 - 10:09 PM,16.87,120.13,024,2.0,027km N 85° W of Luna (La Union),027,N 85° W,Luna (La Union)
+2026-03-25T22:00:00.000Z,25 March 2026 - 10:00 PM,13.65,120.63,083,1.6,021km S 01° E of Calatagan (Batangas),021,S 01° E,Calatagan (Batangas)
 2026-03-25T21:17:00.000Z,25 March 2026 - 09:17 PM,14.02,120.18,041,2.3,019km N 18° E of Lubang (Occidental Mindoro),019,N 18° E,Lubang (Occidental Mindoro)
 2026-03-25T21:01:00.000Z,25 March 2026 - 09:01 PM,09.89,122.35,013,2.0,016km N 32° W of City Of Sipalay (Negros Occidental),016,N 32° W,City Of Sipalay (Negros Occidental)
 2026-03-25T19:48:00.000Z,25 March 2026 - 07:48 PM,08.09,126.67,010,1.9,030km N 78° E of Lingig (Surigao Del Sur),030,N 78° E,Lingig (Surigao Del Sur)
@@ -296,4 +298,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-19T01:05:00.000Z,19 March 2026 - 01:05 AM,13.62,120.11,033,1.8,018km S 53° W of Looc (Occidental Mindoro),018,S 53° W,Looc (Occidental Mindoro)
 2026-03-19T00:54:00.000Z,19 March 2026 - 12:54 AM,13.31,120.34,035,2.0,018km S 49° W of Paluan (Occidental Mindoro),018,S 49° W,Paluan (Occidental Mindoro)
 2026-03-19T00:10:00.000Z,19 March 2026 - 12:10 AM,13.77,123.87,056,1.8,001km S 14° E of Caramoan (Camarines Sur),001,S 14° E,Caramoan (Camarines Sur)
-2026-03-18T21:49:00.000Z,18 March 2026 - 09:49 PM,12.58,121.17,034,1.4,025km N 88° E of Calintaan (Occidental Mindoro),025,N 88° E,Calintaan (Occidental Mindoro)
