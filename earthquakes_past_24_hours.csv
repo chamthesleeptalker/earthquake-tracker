@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-25T15:51:00.000Z,25 March 2026 - 03:51 PM,11.08,124.00,008,2.0,004km N 34° E of City Of Bogo (Cebu),004,N 34° E,City Of Bogo (Cebu)
+2026-03-25T15:45:00.000Z,25 March 2026 - 03:45 PM,15.26,122.93,031,1.6,087km N 01° W of Tinaga Island (Vinzons) (Camarines Norte),087,N 01° W,Tinaga Island (Vinzons) (Camarines Norte)
 2026-03-25T14:06:00.000Z,25 March 2026 - 02:06 PM,08.10,126.54,014,2.3,015km N 62° E of Lingig (Surigao Del Sur),015,N 62° E,Lingig (Surigao Del Sur)
 2026-03-25T13:40:00.000Z,25 March 2026 - 01:40 PM,15.28,119.64,032,1.6,034km S 59° W of Palauig (Zambales),034,S 59° W,Palauig (Zambales)
 2026-03-25T13:13:00.000Z,25 March 2026 - 01:13 PM,07.43,125.16,009,2.2,010km N 22° E of Arakan (Cotabato),010,N 22° E,Arakan (Cotabato)
@@ -52,6 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-24T19:22:00.000Z,24 March 2026 - 07:22 PM,12.62,123.35,007,1.8,013km N 24° W of Aroroy (Masbate),013,N 24° W,Aroroy (Masbate)
 2026-03-24T18:59:00.000Z,24 March 2026 - 06:59 PM,12.38,120.80,009,1.9,020km S 63° W of Rizal (Occidental Mindoro),020,S 63° W,Rizal (Occidental Mindoro)
 2026-03-24T16:25:00.000Z,24 March 2026 - 04:25 PM,10.32,126.29,029,1.9,041km N 35° E of Burgos (Surigao Del Norte),041,N 35° E,Burgos (Surigao Del Norte)
-2026-03-24T15:35:00.000Z,24 March 2026 - 03:35 PM,08.84,126.06,033,1.9,012km S 09° E of San Miguel (Surigao Del Sur),012,S 09° E,San Miguel (Surigao Del Sur)
-2026-03-24T15:29:00.000Z,24 March 2026 - 03:29 PM,09.05,126.39,027,2.2,015km N 55° E of Bayabas (Surigao Del Sur),015,N 55° E,Bayabas (Surigao Del Sur)
-2026-03-24T14:59:00.000Z,24 March 2026 - 02:59 PM,12.75,123.43,007,1.7,025km S 47° W of Donsol (Sorsogon),025,S 47° W,Donsol (Sorsogon)
