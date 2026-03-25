@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-26T02:34:00.000Z,26 March 2026 - 02:34 AM,18.85,120.84,033,1.6,033km N 10° E of Pagudpud (Ilocos Norte),033,N 10° E,Pagudpud (Ilocos Norte)
+2026-03-26T02:29:00.000Z,26 March 2026 - 02:29 AM,07.32,123.36,035,1.6,015km S 19° E of Pitogo (Zamboanga Del Sur),015,S 19° E,Pitogo (Zamboanga Del Sur)
+2026-03-26T01:56:00.000Z,26 March 2026 - 01:56 AM,07.95,126.39,005,1.7,009km N 12° E of Boston (Davao Oriental),009,N 12° E,Boston (Davao Oriental)
+2026-03-26T01:52:00.000Z,26 March 2026 - 01:52 AM,16.95,120.82,010,3.0,005km S 05° W of Tadian (Mountain Province),005,S 05° W,Tadian (Mountain Province)
+2026-03-26T01:51:00.000Z,26 March 2026 - 01:51 AM,12.94,123.11,008,1.6,015km N 72° W of Claveria (Masbate),015,N 72° W,Claveria (Masbate)
 2026-03-26T01:14:00.000Z,26 March 2026 - 01:14 AM,08.81,126.47,033,1.6,019km N 86° E of Marihatag (Surigao Del Sur),019,N 86° E,Marihatag (Surigao Del Sur)
 2026-03-26T00:44:00.000Z,26 March 2026 - 12:44 AM,10.30,126.28,038,2.4,039km N 36° E of Burgos (Surigao Del Norte),039,N 36° E,Burgos (Surigao Del Norte)
 2026-03-26T00:01:00.000Z,26 March 2026 - 12:01 AM,09.30,123.15,004,2.2,010km N 76° W of Valencia (Negros Oriental),010,N 76° W,Valencia (Negros Oriental)
@@ -50,5 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-25T02:56:00.000Z,25 March 2026 - 02:56 AM,07.47,126.48,013,2.0,015km S 39° W of Baganga (Davao Oriental),015,S 39° W,Baganga (Davao Oriental)
 2026-03-25T02:37:00.000Z,25 March 2026 - 02:37 AM,03.27,126.77,036,3.9,280km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),280,S 32° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-25T02:37:00.000Z,25 March 2026 - 02:37 AM,16.51,122.18,007,2.1,014km N 12° W of Dilasag (Aurora),014,N 12° W,Dilasag (Aurora)
-2026-03-25T02:30:00.000Z,25 March 2026 - 02:30 AM,16.44,122.27,018,2.7,008km N 47° E of Dilasag (Aurora),008,N 47° E,Dilasag (Aurora)
-2026-03-25T02:20:00.000Z,25 March 2026 - 02:20 AM,10.37,126.05,019,1.8,039km N 04° W of Burgos (Surigao Del Norte),039,N 04° W,Burgos (Surigao Del Norte)
