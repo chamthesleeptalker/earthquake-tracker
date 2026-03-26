@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-26T12:07:00.000Z,26 March 2026 - 12:07 PM,11.28,121.93,090,2.5,011km S 83° W of Tibiao (Antique),011,S 83° W,Tibiao (Antique)
+2026-03-26T12:02:00.000Z,26 March 2026 - 12:02 PM,08.26,126.02,005,2.6,009km N 18° E of Bunawan (Agusan Del Sur),009,N 18° E,Bunawan (Agusan Del Sur)
+2026-03-26T11:59:00.000Z,26 March 2026 - 11:59 AM,09.62,126.13,033,1.8,017km S 31° E of Dapa (Surigao Del Norte),017,S 31° E,Dapa (Surigao Del Norte)
+2026-03-26T10:12:00.000Z,26 March 2026 - 10:12 AM,12.90,122.80,012,2.4,032km S 38° W of San Pascual (Masbate),032,S 38° W,San Pascual (Masbate)
 2026-03-26T09:36:00.000Z,26 March 2026 - 09:36 AM,07.67,125.98,034,1.8,004km S 19° W of Montevista (Davao De Oro),004,S 19° W,Montevista (Davao De Oro)
 2026-03-26T09:35:00.000Z,26 March 2026 - 09:35 AM,09.48,124.84,010,2.8,029km N 26° E of Mambajao (Camiguin),029,N 26° E,Mambajao (Camiguin)
 2026-03-26T07:56:00.000Z,26 March 2026 - 07:56 AM,11.48,124.44,007,2.6,004km N 69° W of Biliran (Biliran),004,N 69° W,Biliran (Biliran)
@@ -42,8 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-25T12:28:00.000Z,25 March 2026 - 12:28 PM,04.18,126.29,112,2.1,167km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),167,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-25T12:22:00.000Z,25 March 2026 - 12:22 PM,06.65,125.59,003,1.6,016km N 50° E of Santa Maria (Davao Occidental),016,N 50° E,Santa Maria (Davao Occidental)
 2026-03-25T12:07:00.000Z,25 March 2026 - 12:07 PM,07.56,124.30,036,1.7,010km N 75° E of Kapatagan (Lanao Del Sur),010,N 75° E,Kapatagan (Lanao Del Sur)
-2026-03-25T11:39:00.000Z,25 March 2026 - 11:39 AM,05.57,126.15,017,2.0,068km S 56° E of Jose Abad Santos (Davao Occidental),068,S 56° E,Jose Abad Santos (Davao Occidental)
-2026-03-25T11:25:00.000Z,25 March 2026 - 11:25 AM,09.18,125.86,003,1.6,014km S 53° W of Madrid (Surigao Del Sur),014,S 53° W,Madrid (Surigao Del Sur)
-2026-03-25T10:59:00.000Z,25 March 2026 - 10:59 AM,12.12,125.65,013,2.4,020km N 63° E of Dolores (Eastern Samar),020,N 63° E,Dolores (Eastern Samar)
-2026-03-25T10:58:00.000Z,25 March 2026 - 10:58 AM,12.05,125.64,012,2.0,017km N 87° E of Dolores (Eastern Samar),017,N 87° E,Dolores (Eastern Samar)
-2026-03-25T10:44:00.000Z,25 March 2026 - 10:44 AM,05.37,126.64,021,3.7,126km S 61° E of Jose Abad Santos (Davao Occidental),126,S 61° E,Jose Abad Santos (Davao Occidental)
