@@ -1,3 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-26T23:32:00.000Z,26 March 2026 - 11:32 PM,09.16,125.63,015,2.4,010km N 68° E of City Of Cabadbaran (Agusan Del Norte),010,N 68° E,City Of Cabadbaran (Agusan Del Norte)
-2026-03-26T23:04:00.000Z,26 March 2026 - 11:04 PM,07.50,126.67,046,3.0,014km S 56° E of Baganga (Davao Oriental),014,S 56° E,Baganga (Davao Oriental)
+2026-03-27T00:43:00.000Z,27 March 2026 - 12:43 AM,12.47,120.48,010,1.6,051km S 77° W of Calintaan (Occidental Mindoro),051,S 77° W,Calintaan (Occidental Mindoro)
+2026-03-27T00:23:00.000Z,27 March 2026 - 12:23 AM,08.90,126.73,002,1.8,047km S 86° E of Cagwait (Surigao Del Sur),047,S 86° E,Cagwait (Surigao Del Sur)
+2026-03-27T00:16:00.000Z,27 March 2026 - 12:16 AM,13.10,121.51,035,1.6,008km N 22° E of Pinamalayan (Oriental Mindoro),008,N 22° E,Pinamalayan (Oriental Mindoro)
+2026-03-27T00:08:00.000Z,27 March 2026 - 12:08 AM,12.55,122.36,002,2.0,010km S 74° E of Romblon (Romblon),010,S 74° E,Romblon (Romblon)
+2026-03-27T00:01:00.000Z,27 March 2026 - 12:01 AM,06.83,123.79,030,1.8,037km S 45° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,S 45° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-03-26T23:52:00.000Z,26 March 2026 - 11:52 PM,16.58,121.31,032,1.5,007km S 62° E of Bagabag (Nueva Vizcaya),007,S 62° E,Bagabag (Nueva Vizcaya)
+2026-03-26T23:52:00.000Z,26 March 2026 - 11:52 PM,15.37,122.06,005,1.8,051km N 26° E of Panukulan (Quezon),051,N 26° E,Panukulan (Quezon)
