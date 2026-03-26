@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-26T17:20:00.000Z,26 March 2026 - 05:20 PM,07.27,126.62,022,2.0,008km S 41° E of Caraga (Davao Oriental),008,S 41° E,Caraga (Davao Oriental)
 2026-03-26T16:42:00.000Z,26 March 2026 - 04:42 PM,12.54,122.28,010,3.8,004km S 15° E of Romblon (Romblon),004,S 15° E,Romblon (Romblon)
 2026-03-26T13:29:00.000Z,26 March 2026 - 01:29 PM,04.28,127.81,119,3.8,291km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),291,S 63° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-26T12:07:00.000Z,26 March 2026 - 12:07 PM,11.28,121.93,090,2.5,011km S 83° W of Tibiao (Antique),011,S 83° W,Tibiao (Antique)
@@ -33,8 +34,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-25T18:49:00.000Z,25 March 2026 - 06:49 PM,07.86,124.80,032,1.8,004km N 41° W of Pangantucan (Bukidnon),004,N 41° W,Pangantucan (Bukidnon)
 2026-03-25T18:47:00.000Z,25 March 2026 - 06:47 PM,11.16,123.98,028,1.6,012km N 02° W of City Of Bogo (Cebu),012,N 02° W,City Of Bogo (Cebu)
 2026-03-25T18:13:00.000Z,25 March 2026 - 06:13 PM,17.74,120.99,002,1.5,010km N 33° E of Lacub (Abra),010,N 33° E,Lacub (Abra)
-2026-03-25T17:19:00.000Z,25 March 2026 - 05:19 PM,11.08,126.26,027,3.0,059km N 85° E of Guiuan (Eastern Samar),059,N 85° E,Guiuan (Eastern Samar)
-2026-03-25T17:18:00.000Z,25 March 2026 - 05:18 PM,17.49,120.64,007,2.7,004km N 53° E of San Isidro (Abra),004,N 53° E,San Isidro (Abra)
-2026-03-25T17:17:00.000Z,25 March 2026 - 05:17 PM,12.98,123.62,034,2.2,009km N 17° E of Donsol (Sorsogon),009,N 17° E,Donsol (Sorsogon)
-2026-03-25T17:06:00.000Z,25 March 2026 - 05:06 PM,11.04,126.33,001,3.5,066km N 89° E of Guiuan (Eastern Samar),066,N 89° E,Guiuan (Eastern Samar)
-2026-03-25T17:01:00.000Z,25 March 2026 - 05:01 PM,11.46,125.42,033,1.7,010km S 79° W of Balangkayan (Eastern Samar),010,S 79° W,Balangkayan (Eastern Samar)
