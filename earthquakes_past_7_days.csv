@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-27T03:21:00.000Z,27 March 2026 - 03:21 AM,10.94,123.96,008,2.0,012km S 12° W of City Of Bogo (Cebu),012,S 12° W,City Of Bogo (Cebu)
+2026-03-27T02:56:00.000Z,27 March 2026 - 02:56 AM,12.52,122.28,008,2.1,007km S 05° E of Romblon (Romblon),007,S 05° E,Romblon (Romblon)
+2026-03-27T02:27:00.000Z,27 March 2026 - 02:27 AM,18.26,120.88,050,2.0,015km N 23° E of Carasi (Ilocos Norte),015,N 23° E,Carasi (Ilocos Norte)
+2026-03-27T02:13:00.000Z,27 March 2026 - 02:13 AM,09.80,122.64,023,1.5,003km S 06° W of Candoni (Negros Occidental),003,S 06° W,Candoni (Negros Occidental)
 2026-03-27T01:38:00.000Z,27 March 2026 - 01:38 AM,08.74,126.64,032,1.8,038km S 81° E of Marihatag (Surigao Del Sur),038,S 81° E,Marihatag (Surigao Del Sur)
 2026-03-27T01:37:00.000Z,27 March 2026 - 01:37 AM,11.09,124.82,033,1.5,009km S 56° W of Pastrana (Leyte),009,S 56° W,Pastrana (Leyte)
 2026-03-27T01:24:00.000Z,27 March 2026 - 01:24 AM,17.98,120.86,016,2.0,016km S 37° E of Solsona (Ilocos Norte),016,S 37° E,Solsona (Ilocos Norte)
@@ -306,6 +310,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-20T04:10:00.000Z,20 March 2026 - 04:10 AM,17.90,120.38,011,1.7,009km N 65° W of Sinait (Ilocos Sur),009,N 65° W,Sinait (Ilocos Sur)
 2026-03-20T04:08:00.000Z,20 March 2026 - 04:08 AM,17.92,120.26,032,1.7,021km N 73° W of Sinait (Ilocos Sur),021,N 73° W,Sinait (Ilocos Sur)
 2026-03-20T03:43:00.000Z,20 March 2026 - 03:43 AM,17.93,120.35,012,2.0,013km N 89° W of Badoc (Ilocos Norte),013,N 89° W,Badoc (Ilocos Norte)
-2026-03-20T02:51:00.000Z,20 March 2026 - 02:51 AM,18.27,120.22,014,2.6,039km N 46° W of Currimao (Ilocos Norte),039,N 46° W,Currimao (Ilocos Norte)
-2026-03-20T02:36:00.000Z,20 March 2026 - 02:36 AM,11.03,123.96,004,1.8,003km S 40° W of City Of Bogo (Cebu),003,S 40° W,City Of Bogo (Cebu)
-2026-03-20T02:03:00.000Z,20 March 2026 - 02:03 AM,11.75,125.68,025,2.8,024km S 89° E of San Julian (Eastern Samar),024,S 89° E,San Julian (Eastern Samar)
