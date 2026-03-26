@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-26T13:29:00.000Z,26 March 2026 - 01:29 PM,04.28,127.81,119,3.8,291km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),291,S 63° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-26T12:07:00.000Z,26 March 2026 - 12:07 PM,11.28,121.93,090,2.5,011km S 83° W of Tibiao (Antique),011,S 83° W,Tibiao (Antique)
 2026-03-26T12:02:00.000Z,26 March 2026 - 12:02 PM,08.26,126.02,005,2.6,009km N 18° E of Bunawan (Agusan Del Sur),009,N 18° E,Bunawan (Agusan Del Sur)
 2026-03-26T11:59:00.000Z,26 March 2026 - 11:59 AM,09.62,126.13,033,1.8,017km S 31° E of Dapa (Surigao Del Norte),017,S 31° E,Dapa (Surigao Del Norte)
@@ -42,7 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-25T15:45:00.000Z,25 March 2026 - 03:45 PM,15.26,122.93,031,1.6,087km N 01° W of Tinaga Island (Vinzons) (Camarines Norte),087,N 01° W,Tinaga Island (Vinzons) (Camarines Norte)
 2026-03-25T14:06:00.000Z,25 March 2026 - 02:06 PM,08.10,126.54,014,2.3,015km N 62° E of Lingig (Surigao Del Sur),015,N 62° E,Lingig (Surigao Del Sur)
 2026-03-25T13:40:00.000Z,25 March 2026 - 01:40 PM,15.28,119.64,032,1.6,034km S 59° W of Palauig (Zambales),034,S 59° W,Palauig (Zambales)
-2026-03-25T13:13:00.000Z,25 March 2026 - 01:13 PM,07.43,125.16,009,2.2,010km N 22° E of Arakan (Cotabato),010,N 22° E,Arakan (Cotabato)
-2026-03-25T12:28:00.000Z,25 March 2026 - 12:28 PM,04.18,126.29,112,2.1,167km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),167,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-25T12:22:00.000Z,25 March 2026 - 12:22 PM,06.65,125.59,003,1.6,016km N 50° E of Santa Maria (Davao Occidental),016,N 50° E,Santa Maria (Davao Occidental)
-2026-03-25T12:07:00.000Z,25 March 2026 - 12:07 PM,07.56,124.30,036,1.7,010km N 75° E of Kapatagan (Lanao Del Sur),010,N 75° E,Kapatagan (Lanao Del Sur)

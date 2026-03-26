@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-26T13:29:00.000Z,26 March 2026 - 01:29 PM,04.28,127.81,119,3.8,291km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),291,S 63° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-26T12:07:00.000Z,26 March 2026 - 12:07 PM,11.28,121.93,090,2.5,011km S 83° W of Tibiao (Antique),011,S 83° W,Tibiao (Antique)
 2026-03-26T12:02:00.000Z,26 March 2026 - 12:02 PM,08.26,126.02,005,2.6,009km N 18° E of Bunawan (Agusan Del Sur),009,N 18° E,Bunawan (Agusan Del Sur)
 2026-03-26T11:59:00.000Z,26 March 2026 - 11:59 AM,09.62,126.13,033,1.8,017km S 31° E of Dapa (Surigao Del Norte),017,S 31° E,Dapa (Surigao Del Norte)
@@ -295,5 +296,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-19T15:40:00.000Z,19 March 2026 - 03:40 PM,14.02,120.25,009,3.1,023km N 37° E of Lubang (Occidental Mindoro),023,N 37° E,Lubang (Occidental Mindoro)
 2026-03-19T15:34:00.000Z,19 March 2026 - 03:34 PM,11.42,125.36,010,2.3,017km S 70° W of Balangkayan (Eastern Samar),017,S 70° W,Balangkayan (Eastern Samar)
 2026-03-19T14:24:00.000Z,19 March 2026 - 02:24 PM,11.37,125.42,026,2.0,015km S 39° W of Balangkayan (Eastern Samar),015,S 39° W,Balangkayan (Eastern Samar)
-2026-03-19T12:56:00.000Z,19 March 2026 - 12:56 PM,17.49,120.71,002,1.5,006km S 21° W of Bucay (Abra),006,S 21° W,Bucay (Abra)
-2026-03-19T12:40:00.000Z,19 March 2026 - 12:40 PM,11.32,124.16,010,1.5,019km N 66° E of Daanbantayan (Cebu),019,N 66° E,Daanbantayan (Cebu)
