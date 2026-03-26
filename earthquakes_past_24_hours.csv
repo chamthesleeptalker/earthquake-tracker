@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-26T09:36:00.000Z,26 March 2026 - 09:36 AM,07.67,125.98,034,1.8,004km S 19° W of Montevista (Davao De Oro),004,S 19° W,Montevista (Davao De Oro)
+2026-03-26T09:35:00.000Z,26 March 2026 - 09:35 AM,09.48,124.84,010,2.8,029km N 26° E of Mambajao (Camiguin),029,N 26° E,Mambajao (Camiguin)
+2026-03-26T07:56:00.000Z,26 March 2026 - 07:56 AM,11.48,124.44,007,2.6,004km N 69° W of Biliran (Biliran),004,N 69° W,Biliran (Biliran)
 2026-03-26T05:53:00.000Z,26 March 2026 - 05:53 AM,12.13,120.91,033,1.7,030km S 34° W of San Jose (Occidental Mindoro),030,S 34° W,San Jose (Occidental Mindoro)
 2026-03-26T05:17:00.000Z,26 March 2026 - 05:17 AM,07.93,126.73,007,2.6,034km N 64° E of Cateel (Davao Oriental),034,N 64° E,Cateel (Davao Oriental)
 2026-03-26T04:59:00.000Z,26 March 2026 - 04:59 AM,15.54,121.94,020,1.5,047km S 59° E of Baler (Aurora),047,S 59° E,Baler (Aurora)
@@ -44,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-25T10:59:00.000Z,25 March 2026 - 10:59 AM,12.12,125.65,013,2.4,020km N 63° E of Dolores (Eastern Samar),020,N 63° E,Dolores (Eastern Samar)
 2026-03-25T10:58:00.000Z,25 March 2026 - 10:58 AM,12.05,125.64,012,2.0,017km N 87° E of Dolores (Eastern Samar),017,N 87° E,Dolores (Eastern Samar)
 2026-03-25T10:44:00.000Z,25 March 2026 - 10:44 AM,05.37,126.64,021,3.7,126km S 61° E of Jose Abad Santos (Davao Occidental),126,S 61° E,Jose Abad Santos (Davao Occidental)
-2026-03-25T08:12:00.000Z,25 March 2026 - 08:12 AM,18.99,121.12,034,1.4,016km S 35° W of Dalupiri Island (Calayan) (Cagayan),016,S 35° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-25T07:25:00.000Z,25 March 2026 - 07:25 AM,13.82,120.51,082,2.0,013km S 86° W of Calatagan (Batangas),013,S 86° W,Calatagan (Batangas)
