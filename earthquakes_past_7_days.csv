@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T00:04:00.000Z,28 March 2026 - 12:04 AM,10.95,123.97,003,2.2,011km S 05° W of City Of Bogo (Cebu),011,S 05° W,City Of Bogo (Cebu)
 2026-03-27T23:05:00.000Z,27 March 2026 - 11:05 PM,19.92,121.27,011,3.3,076km N 17° W of Calayan (Cagayan),076,N 17° W,Calayan (Cagayan)
 2026-03-27T22:43:00.000Z,27 March 2026 - 10:43 PM,11.02,123.99,004,2.0,004km S 25° E of City Of Bogo (Cebu),004,S 25° E,City Of Bogo (Cebu)
 2026-03-27T22:20:00.000Z,27 March 2026 - 10:20 PM,14.04,119.23,031,2.8,098km N 78° W of Lubang (Occidental Mindoro),098,N 78° W,Lubang (Occidental Mindoro)
@@ -306,6 +307,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-21T01:07:00.000Z,21 March 2026 - 01:07 AM,08.51,126.65,009,3.8,038km N 66° E of Hinatuan (Surigao Del Sur),038,N 66° E,Hinatuan (Surigao Del Sur)
 2026-03-21T00:26:00.000Z,21 March 2026 - 12:26 AM,11.02,124.74,006,2.5,012km N 22° E of Albuera (Leyte),012,N 22° E,Albuera (Leyte)
 2026-03-21T00:17:00.000Z,21 March 2026 - 12:17 AM,11.01,124.73,010,3.7,011km N 20° E of Albuera (Leyte),011,N 20° E,Albuera (Leyte)
-2026-03-20T23:59:00.000Z,20 March 2026 - 11:59 PM,11.14,124.77,015,1.6,006km S 16° W of Jaro (Leyte),006,S 16° W,Jaro (Leyte)
-2026-03-20T23:32:00.000Z,20 March 2026 - 11:32 PM,18.47,120.97,024,2.1,007km N 85° E of Adams (Ilocos Norte),007,N 85° E,Adams (Ilocos Norte)
-2026-03-20T23:26:00.000Z,20 March 2026 - 11:26 PM,15.63,119.06,002,2.5,092km S 81° W of Santa Cruz (Zambales),092,S 81° W,Santa Cruz (Zambales)
