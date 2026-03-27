@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T02:37:00.000Z,28 March 2026 - 02:37 AM,16.87,119.90,009,2.5,051km N 71° W of Bacnotan (La Union),051,N 71° W,Bacnotan (La Union)
+2026-03-28T02:19:00.000Z,28 March 2026 - 02:19 AM,16.94,121.70,033,1.7,004km S 71° E of Cabatuan (Isabela),004,S 71° E,Cabatuan (Isabela)
+2026-03-28T02:13:00.000Z,28 March 2026 - 02:13 AM,13.73,120.61,111,2.1,011km S 15° W of Calatagan (Batangas),011,S 15° W,Calatagan (Batangas)
+2026-03-28T02:01:00.000Z,28 March 2026 - 02:01 AM,11.25,124.62,019,1.9,005km S 28° W of Capoocan (Leyte),005,S 28° W,Capoocan (Leyte)
 2026-03-28T01:31:00.000Z,28 March 2026 - 01:31 AM,18.03,122.08,002,1.8,027km N 55° E of Baggao (Cagayan),027,N 55° E,Baggao (Cagayan)
 2026-03-28T01:03:00.000Z,28 March 2026 - 01:03 AM,15.39,121.77,019,2.0,040km N 90° E of Dingalan (Aurora),040,N 90° E,Dingalan (Aurora)
 2026-03-28T01:02:00.000Z,28 March 2026 - 01:02 AM,08.82,126.43,028,2.6,015km N 79° E of Marihatag (Surigao Del Sur),015,N 79° E,Marihatag (Surigao Del Sur)
