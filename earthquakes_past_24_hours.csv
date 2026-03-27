@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-27T08:53:00.000Z,27 March 2026 - 08:53 AM,06.96,123.60,032,1.7,048km S 76° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),048,S 76° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-03-27T07:54:00.000Z,27 March 2026 - 07:54 AM,18.51,120.97,020,1.5,006km S 22° W of Santa Praxedes (Cagayan),006,S 22° W,Santa Praxedes (Cagayan)
 2026-03-27T07:21:00.000Z,27 March 2026 - 07:21 AM,12.33,123.76,002,2.5,010km S 11° W of Batuan (Masbate),010,S 11° W,Batuan (Masbate)
 2026-03-27T06:45:00.000Z,27 March 2026 - 06:45 AM,10.15,126.07,002,2.5,014km N 01° W of Burgos (Surigao Del Norte),014,N 01° W,Burgos (Surigao Del Norte)
 2026-03-27T05:30:00.000Z,27 March 2026 - 05:30 AM,10.00,124.83,030,2.0,015km S 05° W of City Of Maasin  (Southern Leyte),015,S 05° W,City Of Maasin  (Southern Leyte)
@@ -49,4 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-26T10:12:00.000Z,26 March 2026 - 10:12 AM,12.90,122.80,012,2.4,032km S 38° W of San Pascual (Masbate),032,S 38° W,San Pascual (Masbate)
 2026-03-26T09:36:00.000Z,26 March 2026 - 09:36 AM,07.67,125.98,034,1.8,004km S 19° W of Montevista (Davao De Oro),004,S 19° W,Montevista (Davao De Oro)
 2026-03-26T09:35:00.000Z,26 March 2026 - 09:35 AM,09.48,124.84,010,2.8,029km N 26° E of Mambajao (Camiguin),029,N 26° E,Mambajao (Camiguin)
-2026-03-26T07:56:00.000Z,26 March 2026 - 07:56 AM,11.48,124.44,007,2.6,004km N 69° W of Biliran (Biliran),004,N 69° W,Biliran (Biliran)
