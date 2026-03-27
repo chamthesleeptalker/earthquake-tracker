@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-27T21:48:00.000Z,27 March 2026 - 09:48 PM,11.68,124.31,004,1.8,005km S 84° W of Kawayan (Biliran),005,S 84° W,Kawayan (Biliran)
+2026-03-27T21:23:00.000Z,27 March 2026 - 09:23 PM,14.97,122.02,030,1.3,015km N 21° E of Burdeos (Quezon),015,N 21° E,Burdeos (Quezon)
+2026-03-27T21:07:00.000Z,27 March 2026 - 09:07 PM,19.26,121.54,011,2.1,007km N 88° E of Calayan (Cagayan),007,N 88° E,Calayan (Cagayan)
 2026-03-27T20:55:00.000Z,27 March 2026 - 08:55 PM,10.95,124.04,002,1.9,013km S 33° E of City Of Bogo (Cebu),013,S 33° E,City Of Bogo (Cebu)
 2026-03-27T20:44:00.000Z,27 March 2026 - 08:44 PM,09.86,126.86,026,3.3,078km N 84° E of General Luna (Surigao Del Norte),078,N 84° E,General Luna (Surigao Del Norte)
 2026-03-27T20:26:00.000Z,27 March 2026 - 08:26 PM,07.74,127.08,045,1.7,060km N 72° E of Baganga (Davao Oriental),060,N 72° E,Baganga (Davao Oriental)
@@ -308,4 +311,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-20T22:24:00.000Z,20 March 2026 - 10:24 PM,10.96,124.77,021,3.1,010km N 62° E of Albuera (Leyte),010,N 62° E,Albuera (Leyte)
 2026-03-20T22:21:00.000Z,20 March 2026 - 10:21 PM,10.19,125.97,010,2.1,025km N 22° E of Burgos (Surigao Del Norte),025,N 22° E,Burgos (Surigao Del Norte)
 2026-03-20T21:49:00.000Z,20 March 2026 - 09:49 PM,06.38,124.71,004,1.8,005km N 85° W of Surallah (South Cotabato),005,N 85° W,Surallah (South Cotabato)
-2026-03-20T20:56:00.000Z,20 March 2026 - 08:56 PM,18.08,121.48,035,1.4,013km N 84° W of Lasam (Cagayan),013,N 84° W,Lasam (Cagayan)
