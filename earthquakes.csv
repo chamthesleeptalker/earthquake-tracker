@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T04:27:00.000Z,28 March 2026 - 04:27 AM,17.87,121.33,035,1.7,003km N 35° W of Rizal (Cagayan),003,N 35° W,Rizal (Cagayan)
+2026-03-28T04:08:00.000Z,28 March 2026 - 04:08 AM,14.79,122.65,033,1.5,036km N 73° E of Jomalig (Quezon),036,N 73° E,Jomalig (Quezon)
+2026-03-28T04:02:00.000Z,28 March 2026 - 04:02 AM,15.86,119.82,009,2.1,009km N 67° W of Infanta (Pangasinan),009,N 67° W,Infanta (Pangasinan)
+2026-03-28T03:51:00.000Z,28 March 2026 - 03:51 AM,06.08,126.72,070,2.3,095km S 49° E of Governor Generoso (Davao Oriental),095,S 49° E,Governor Generoso (Davao Oriental)
+2026-03-28T03:40:00.000Z,28 March 2026 - 03:40 AM,12.51,120.75,039,1.6,022km S 72° W of Calintaan (Occidental Mindoro),022,S 72° W,Calintaan (Occidental Mindoro)
 2026-03-28T03:16:00.000Z,28 March 2026 - 03:16 AM,18.14,121.17,103,2.9,013km N 08° W of Kabugao (Apayao),013,N 08° W,Kabugao (Apayao)
 2026-03-28T03:16:00.000Z,28 March 2026 - 03:16 AM,08.82,122.56,046,2.1,058km S 63° W of Siaton (Negros Oriental),058,S 63° W,Siaton (Negros Oriental)
 2026-03-28T03:07:00.000Z,28 March 2026 - 03:07 AM,09.63,124.06,048,1.6,004km S 79° E of Loboc (Bohol),004,S 79° E,Loboc (Bohol)
