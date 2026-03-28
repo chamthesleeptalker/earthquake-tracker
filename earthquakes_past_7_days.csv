@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T06:21:00.000Z,29 March 2026 - 06:21 AM,18.12,122.36,010,2.7,042km S 69° E of Gonzaga (Cagayan),042,S 69° E,Gonzaga (Cagayan)
 2026-03-29T05:17:00.000Z,29 March 2026 - 05:17 AM,05.98,125.82,144,2.6,021km N 70° E of Jose Abad Santos (Davao Occidental),021,N 70° E,Jose Abad Santos (Davao Occidental)
 2026-03-29T05:11:00.000Z,29 March 2026 - 05:11 AM,14.53,119.73,021,2.5,060km S 74° W of Morong (Bataan),060,S 74° W,Morong (Bataan)
 2026-03-29T04:53:00.000Z,29 March 2026 - 04:53 AM,15.40,121.75,005,2.0,039km N 89° E of Dingalan (Aurora),039,N 89° E,Dingalan (Aurora)
@@ -350,4 +351,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-22T10:16:00.000Z,22 March 2026 - 10:16 AM,19.21,121.19,029,2.0,012km N 08° W of Dalupiri Island (Calayan) (Cagayan),012,N 08° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-22T09:53:00.000Z,22 March 2026 - 09:53 AM,19.19,121.28,018,2.3,011km N 41° E of Dalupiri Island (Calayan) (Cagayan),011,N 41° E,Dalupiri Island (Calayan) (Cagayan)
 2026-03-22T07:21:00.000Z,22 March 2026 - 07:21 AM,13.78,120.56,119,2.8,010km S 56° W of Calatagan (Batangas),010,S 56° W,Calatagan (Batangas)
-2026-03-22T05:55:00.000Z,22 March 2026 - 05:55 AM,15.59,119.31,016,3.5,067km S 87° W of Candelaria (Zambales),067,S 87° W,Candelaria (Zambales)
