@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T04:18:00.000Z,29 March 2026 - 04:18 AM,13.74,124.88,003,2.7,053km S 85° E of Gigmoto (Catanduanes),053,S 85° E,Gigmoto (Catanduanes)
 2026-03-29T03:22:00.000Z,29 March 2026 - 03:22 AM,14.05,119.86,002,2.1,036km N 54° W of Lubang (Occidental Mindoro),036,N 54° W,Lubang (Occidental Mindoro)
 2026-03-29T02:59:00.000Z,29 March 2026 - 02:59 AM,12.35,126.25,010,4.2,082km N 77° E of San Policarpo (Eastern Samar),082,N 77° E,San Policarpo (Eastern Samar)
 2026-03-29T02:29:00.000Z,29 March 2026 - 02:29 AM,17.04,122.56,006,2.3,014km S 80° E of Palanan (Isabela),014,S 80° E,Palanan (Isabela)
