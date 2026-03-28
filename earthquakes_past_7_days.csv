@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T19:09:00.000Z,28 March 2026 - 07:09 PM,18.09,122.33,008,1.8,040km S 62° E of Gonzaga (Cagayan),040,S 62° E,Gonzaga (Cagayan)
+2026-03-28T18:57:00.000Z,28 March 2026 - 06:57 PM,06.71,127.02,006,3.5,073km S 59° E of Tarragona (Davao Oriental),073,S 59° E,Tarragona (Davao Oriental)
+2026-03-28T18:48:00.000Z,28 March 2026 - 06:48 PM,16.89,121.46,034,1.9,005km S 47° W of Alfonso Lista (Ifugao),005,S 47° W,Alfonso Lista (Ifugao)
+2026-03-28T18:31:00.000Z,28 March 2026 - 06:31 PM,19.21,120.31,021,2.9,086km N 25° W of Burgos (Ilocos Norte),086,N 25° W,Burgos (Ilocos Norte)
 2026-03-28T17:01:00.000Z,28 March 2026 - 05:01 PM,10.21,124.89,011,2.1,010km N 34° E of City Of Maasin  (Southern Leyte),010,N 34° E,City Of Maasin  (Southern Leyte)
 2026-03-28T16:46:00.000Z,28 March 2026 - 04:46 PM,09.23,126.25,025,2.2,008km S 52° E of Cortes (Surigao Del Sur),008,S 52° E,Cortes (Surigao Del Sur)
 2026-03-28T15:17:00.000Z,28 March 2026 - 03:17 PM,12.15,125.77,016,2.2,030km S 85° E of San Policarpo (Eastern Samar),030,S 85° E,San Policarpo (Eastern Samar)
@@ -332,7 +336,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-21T23:21:00.000Z,21 March 2026 - 11:21 PM,12.42,120.82,010,2.2,017km S 74° W of Rizal (Occidental Mindoro),017,S 74° W,Rizal (Occidental Mindoro)
 2026-03-21T21:40:00.000Z,21 March 2026 - 09:40 PM,05.87,124.78,029,2.8,022km S 54° E of Kiamba (Sarangani),022,S 54° E,Kiamba (Sarangani)
 2026-03-21T20:18:00.000Z,21 March 2026 - 08:18 PM,07.08,126.74,010,2.5,026km S 57° E of Manay (Davao Oriental),026,S 57° E,Manay (Davao Oriental)
-2026-03-21T18:30:00.000Z,21 March 2026 - 06:30 PM,15.52,120.08,035,2.3,013km S 85° E of Masinloc (Zambales),013,S 85° E,Masinloc (Zambales)
-2026-03-21T17:54:00.000Z,21 March 2026 - 05:54 PM,07.01,125.01,029,2.3,009km N 89° W of City Of Kidapawan (Cotabato),009,N 89° W,City Of Kidapawan (Cotabato)
-2026-03-21T17:36:00.000Z,21 March 2026 - 05:36 PM,09.14,125.68,008,2.4,014km N 50° E of Remedios T. Romualdez (Agusan Del Norte),014,N 50° E,Remedios T. Romualdez (Agusan Del Norte)
-2026-03-21T17:35:00.000Z,21 March 2026 - 05:35 PM,07.89,126.78,030,1.7,038km N 74° E of Cateel (Davao Oriental),038,N 74° E,Cateel (Davao Oriental)
