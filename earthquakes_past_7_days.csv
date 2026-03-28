@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T00:26:00.000Z,29 March 2026 - 12:26 AM,11.14,124.06,008,2.8,013km N 43° E of City Of Bogo (Cebu),013,N 43° E,City Of Bogo (Cebu)
+2026-03-29T00:01:00.000Z,29 March 2026 - 12:01 AM,19.06,121.62,012,1.8,027km S 33° E of Calayan (Cagayan),027,S 33° E,Calayan (Cagayan)
 2026-03-28T23:28:00.000Z,28 March 2026 - 11:28 PM,11.12,124.07,007,2.3,012km N 51° E of City Of Bogo (Cebu),012,N 51° E,City Of Bogo (Cebu)
 2026-03-28T23:21:00.000Z,28 March 2026 - 11:21 PM,11.12,124.07,007,3.7,012km S 86° E of Medellin (Cebu),012,S 86° E,Medellin (Cebu)
 2026-03-28T23:24:00.000Z,28 March 2026 - 11:24 PM,11.12,124.07,010,3.4,012km N 50° E of City Of Bogo (Cebu),012,N 50° E,City Of Bogo (Cebu)
@@ -341,8 +343,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-22T01:38:00.000Z,22 March 2026 - 01:38 AM,05.51,127.22,038,3.3,179km S 45° E of Governor Generoso (Davao Oriental),179,S 45° E,Governor Generoso (Davao Oriental)
 2026-03-22T00:45:00.000Z,22 March 2026 - 12:45 AM,16.13,122.16,045,2.2,017km S 12° E of Casiguran (Aurora),017,S 12° E,Casiguran (Aurora)
 2026-03-22T00:44:00.000Z,22 March 2026 - 12:44 AM,16.29,122.06,020,1.6,007km N 74° W of Casiguran (Aurora),007,N 74° W,Casiguran (Aurora)
-2026-03-22T00:24:00.000Z,22 March 2026 - 12:24 AM,13.71,120.15,015,2.3,010km S 84° W of Looc (Occidental Mindoro),010,S 84° W,Looc (Occidental Mindoro)
-2026-03-22T00:08:00.000Z,22 March 2026 - 12:08 AM,13.80,120.51,110,3.0,014km S 73° W of Calatagan (Batangas),014,S 73° W,Calatagan (Batangas)
-2026-03-22T00:05:00.000Z,22 March 2026 - 12:05 AM,13.81,120.57,119,2.5,007km S 73° W of Calatagan (Batangas),007,S 73° W,Calatagan (Batangas)
-2026-03-21T23:57:00.000Z,21 March 2026 - 11:57 PM,06.72,126.26,030,2.0,022km N 69° E of Governor Generoso (Davao Oriental),022,N 69° E,Governor Generoso (Davao Oriental)
-2026-03-21T23:46:00.000Z,21 March 2026 - 11:46 PM,17.37,121.32,033,2.1,013km N 45° E of Tanudan (Kalinga),013,N 45° E,Tanudan (Kalinga)

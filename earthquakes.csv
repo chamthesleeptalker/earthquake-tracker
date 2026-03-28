@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T00:26:00.000Z,29 March 2026 - 12:26 AM,11.14,124.06,008,2.8,013km N 43° E of City Of Bogo (Cebu),013,N 43° E,City Of Bogo (Cebu)
+2026-03-29T00:01:00.000Z,29 March 2026 - 12:01 AM,19.06,121.62,012,1.8,027km S 33° E of Calayan (Cagayan),027,S 33° E,Calayan (Cagayan)
 2026-03-28T23:28:00.000Z,28 March 2026 - 11:28 PM,11.12,124.07,007,2.3,012km N 51° E of City Of Bogo (Cebu),012,N 51° E,City Of Bogo (Cebu)
 2026-03-28T23:21:00.000Z,28 March 2026 - 11:21 PM,11.12,124.07,007,3.7,012km S 86° E of Medellin (Cebu),012,S 86° E,Medellin (Cebu)
 2026-03-28T23:24:00.000Z,28 March 2026 - 11:24 PM,11.12,124.07,010,3.4,012km N 50° E of City Of Bogo (Cebu),012,N 50° E,City Of Bogo (Cebu)
