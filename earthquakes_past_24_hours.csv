@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T14:18:00.000Z,28 March 2026 - 02:18 PM,08.98,126.21,044,1.6,005km S 37° W of Tago (Surigao Del Sur),005,S 37° W,Tago (Surigao Del Sur)
+2026-03-28T14:07:00.000Z,28 March 2026 - 02:07 PM,07.03,123.83,036,1.8,021km S 77° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),021,S 77° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-03-28T13:52:00.000Z,28 March 2026 - 01:52 PM,18.15,122.06,021,2.3,014km S 27° E of Gonzaga (Cagayan),014,S 27° E,Gonzaga (Cagayan)
 2026-03-28T13:16:00.000Z,28 March 2026 - 01:16 PM,07.94,127.04,004,2.5,066km N 52° E of Baganga (Davao Oriental),066,N 52° E,Baganga (Davao Oriental)
 2026-03-28T13:08:00.000Z,28 March 2026 - 01:08 PM,09.44,126.27,023,1.8,020km N 24° E of Cortes (Surigao Del Sur),020,N 24° E,Cortes (Surigao Del Sur)
 2026-03-28T13:03:00.000Z,28 March 2026 - 01:03 PM,13.57,120.71,132,2.3,014km N 08° W of Abra De Ilog (Occidental Mindoro),014,N 08° W,Abra De Ilog (Occidental Mindoro)
@@ -54,4 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-27T16:23:00.000Z,27 March 2026 - 04:23 PM,10.17,124.22,080,1.8,007km N 69° E of Getafe (Bohol),007,N 69° E,Getafe (Bohol)
 2026-03-27T16:22:00.000Z,27 March 2026 - 04:22 PM,11.12,124.01,026,1.4,009km N 20° E of City Of Bogo (Cebu),009,N 20° E,City Of Bogo (Cebu)
 2026-03-27T15:32:00.000Z,27 March 2026 - 03:32 PM,19.18,121.19,032,1.5,008km N 11° W of Dalupiri Island (Calayan) (Cagayan),008,N 11° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-27T13:34:00.000Z,27 March 2026 - 01:34 PM,03.66,126.37,034,4.1,220km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),220,S 28° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
