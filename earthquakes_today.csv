@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T23:28:00.000Z,28 March 2026 - 11:28 PM,11.12,124.07,007,2.3,012km N 51° E of City Of Bogo (Cebu),012,N 51° E,City Of Bogo (Cebu)
+2026-03-28T23:21:00.000Z,28 March 2026 - 11:21 PM,11.12,124.07,007,3.7,012km S 86° E of Medellin (Cebu),012,S 86° E,Medellin (Cebu)
+2026-03-28T23:24:00.000Z,28 March 2026 - 11:24 PM,11.12,124.07,010,3.4,012km N 50° E of City Of Bogo (Cebu),012,N 50° E,City Of Bogo (Cebu)
 2026-03-28T23:13:00.000Z,28 March 2026 - 11:13 PM,10.14,124.88,019,2.2,004km N 70° E of City Of Maasin  (Southern Leyte),004,N 70° E,City Of Maasin  (Southern Leyte)
 2026-03-28T22:43:00.000Z,28 March 2026 - 10:43 PM,10.20,124.96,006,1.9,007km N 47° W of Malitbog (Southern Leyte),007,N 47° W,Malitbog (Southern Leyte)
 2026-03-28T21:12:00.000Z,28 March 2026 - 09:12 PM,15.96,119.02,015,2.9,085km S 78° W of Agno (Pangasinan),085,S 78° W,Agno (Pangasinan)

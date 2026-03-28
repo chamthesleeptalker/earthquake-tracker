@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T23:28:00.000Z,28 March 2026 - 11:28 PM,11.12,124.07,007,2.3,012km N 51° E of City Of Bogo (Cebu),012,N 51° E,City Of Bogo (Cebu)
+2026-03-28T23:21:00.000Z,28 March 2026 - 11:21 PM,11.12,124.07,007,3.7,012km S 86° E of Medellin (Cebu),012,S 86° E,Medellin (Cebu)
+2026-03-28T23:24:00.000Z,28 March 2026 - 11:24 PM,11.12,124.07,010,3.4,012km N 50° E of City Of Bogo (Cebu),012,N 50° E,City Of Bogo (Cebu)
 2026-03-28T23:13:00.000Z,28 March 2026 - 11:13 PM,10.14,124.88,019,2.2,004km N 70° E of City Of Maasin  (Southern Leyte),004,N 70° E,City Of Maasin  (Southern Leyte)
 2026-03-28T22:43:00.000Z,28 March 2026 - 10:43 PM,10.20,124.96,006,1.9,007km N 47° W of Malitbog (Southern Leyte),007,N 47° W,Malitbog (Southern Leyte)
 2026-03-28T21:12:00.000Z,28 March 2026 - 09:12 PM,15.96,119.02,015,2.9,085km S 78° W of Agno (Pangasinan),085,S 78° W,Agno (Pangasinan)
@@ -343,5 +346,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-22T00:05:00.000Z,22 March 2026 - 12:05 AM,13.81,120.57,119,2.5,007km S 73° W of Calatagan (Batangas),007,S 73° W,Calatagan (Batangas)
 2026-03-21T23:57:00.000Z,21 March 2026 - 11:57 PM,06.72,126.26,030,2.0,022km N 69° E of Governor Generoso (Davao Oriental),022,N 69° E,Governor Generoso (Davao Oriental)
 2026-03-21T23:46:00.000Z,21 March 2026 - 11:46 PM,17.37,121.32,033,2.1,013km N 45° E of Tanudan (Kalinga),013,N 45° E,Tanudan (Kalinga)
-2026-03-21T23:23:00.000Z,21 March 2026 - 11:23 PM,07.61,127.02,035,1.7,050km N 85° E of Baganga (Davao Oriental),050,N 85° E,Baganga (Davao Oriental)
-2026-03-21T23:21:00.000Z,21 March 2026 - 11:21 PM,12.42,120.82,010,2.2,017km S 74° W of Rizal (Occidental Mindoro),017,S 74° W,Rizal (Occidental Mindoro)
