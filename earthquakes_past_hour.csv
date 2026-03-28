@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-28T09:37:00.000Z,28 March 2026 - 09:37 AM,10.39,125.50,013,1.5,010km N 70° W of Loreto (Dinagat Islands),010,N 70° W,Loreto (Dinagat Islands)
+2026-03-28T11:51:00.000Z,28 March 2026 - 11:51 AM,11.05,126.44,027,3.3,078km N 89° E of Guiuan (Eastern Samar),078,N 89° E,Guiuan (Eastern Samar)
+2026-03-28T11:33:00.000Z,28 March 2026 - 11:33 AM,05.60,125.69,189,4.9,028km N 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),028,N 60° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-28T11:21:00.000Z,28 March 2026 - 11:21 AM,11.02,126.17,005,2.3,049km S 88° E of Guiuan (Eastern Samar),049,S 88° E,Guiuan (Eastern Samar)
+2026-03-28T10:56:00.000Z,28 March 2026 - 10:56 AM,08.00,126.85,013,1.8,049km N 62° E of Cateel (Davao Oriental),049,N 62° E,Cateel (Davao Oriental)
