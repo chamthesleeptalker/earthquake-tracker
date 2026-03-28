@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T02:36:00.000Z,28 March 2026 - 02:36 AM,16.94,119.64,023,2.5,067km N 24° W of Bolinao (Pangasinan),067,N 24° W,Bolinao (Pangasinan)
 2026-03-28T19:09:00.000Z,28 March 2026 - 07:09 PM,18.09,122.33,008,1.8,040km S 62° E of Gonzaga (Cagayan),040,S 62° E,Gonzaga (Cagayan)
 2026-03-28T18:57:00.000Z,28 March 2026 - 06:57 PM,06.71,127.02,006,3.5,073km S 59° E of Tarragona (Davao Oriental),073,S 59° E,Tarragona (Davao Oriental)
 2026-03-28T18:48:00.000Z,28 March 2026 - 06:48 PM,16.89,121.46,034,1.9,005km S 47° W of Alfonso Lista (Ifugao),005,S 47° W,Alfonso Lista (Ifugao)
