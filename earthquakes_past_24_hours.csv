@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T13:16:00.000Z,28 March 2026 - 01:16 PM,07.94,127.04,004,2.5,066km N 52° E of Baganga (Davao Oriental),066,N 52° E,Baganga (Davao Oriental)
+2026-03-28T13:08:00.000Z,28 March 2026 - 01:08 PM,09.44,126.27,023,1.8,020km N 24° E of Cortes (Surigao Del Sur),020,N 24° E,Cortes (Surigao Del Sur)
+2026-03-28T13:03:00.000Z,28 March 2026 - 01:03 PM,13.57,120.71,132,2.3,014km N 08° W of Abra De Ilog (Occidental Mindoro),014,N 08° W,Abra De Ilog (Occidental Mindoro)
+2026-03-28T12:56:00.000Z,28 March 2026 - 12:56 PM,12.78,123.41,043,3.0,022km S 53° E of Claveria (Masbate),022,S 53° E,Claveria (Masbate)
+2026-03-28T12:54:00.000Z,28 March 2026 - 12:54 PM,11.00,123.99,009,2.2,006km S 13° E of City Of Bogo (Cebu),006,S 13° E,City Of Bogo (Cebu)
+2026-03-28T12:44:00.000Z,28 March 2026 - 12:44 PM,05.32,126.79,016,3.4,143km S 63° E of Jose Abad Santos (Davao Occidental),143,S 63° E,Jose Abad Santos (Davao Occidental)
+2026-03-28T12:04:00.000Z,28 March 2026 - 12:04 PM,09.71,122.04,006,2.8,043km S 81° W of City Of Sipalay (Negros Occidental),043,S 81° W,City Of Sipalay (Negros Occidental)
+2026-03-28T12:04:00.000Z,28 March 2026 - 12:04 PM,09.66,121.98,032,1.5,051km S 76° W of City Of Sipalay (Negros Occidental),051,S 76° W,City Of Sipalay (Negros Occidental)
 2026-03-28T11:51:00.000Z,28 March 2026 - 11:51 AM,11.05,126.44,027,3.3,078km N 89° E of Guiuan (Eastern Samar),078,N 89° E,Guiuan (Eastern Samar)
 2026-03-28T11:33:00.000Z,28 March 2026 - 11:33 AM,05.60,125.69,189,4.9,028km N 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),028,N 60° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-28T11:21:00.000Z,28 March 2026 - 11:21 AM,11.02,126.17,005,2.3,049km S 88° E of Guiuan (Eastern Samar),049,S 88° E,Guiuan (Eastern Samar)
@@ -47,4 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-27T16:22:00.000Z,27 March 2026 - 04:22 PM,11.12,124.01,026,1.4,009km N 20° E of City Of Bogo (Cebu),009,N 20° E,City Of Bogo (Cebu)
 2026-03-27T15:32:00.000Z,27 March 2026 - 03:32 PM,19.18,121.19,032,1.5,008km N 11° W of Dalupiri Island (Calayan) (Cagayan),008,N 11° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-27T13:34:00.000Z,27 March 2026 - 01:34 PM,03.66,126.37,034,4.1,220km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),220,S 28° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-27T11:52:00.000Z,27 March 2026 - 11:52 AM,15.16,121.57,033,1.5,036km N 47° W of Panukulan (Quezon),036,N 47° W,Panukulan (Quezon)
