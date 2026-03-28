@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T20:29:00.000Z,28 March 2026 - 08:29 PM,13.57,120.96,011,1.9,007km N 08° E of Puerto Galera (Oriental Mindoro),007,N 08° E,Puerto Galera (Oriental Mindoro)
+2026-03-28T20:13:00.000Z,28 March 2026 - 08:13 PM,17.31,121.81,022,1.4,003km N 69° E of Delfin Albano (Isabela),003,N 69° E,Delfin Albano (Isabela)
+2026-03-28T20:08:00.000Z,28 March 2026 - 08:08 PM,08.03,126.46,009,2.0,005km S 80° E of Lingig (Surigao Del Sur),005,S 80° E,Lingig (Surigao Del Sur)
+2026-03-28T20:04:00.000Z,28 March 2026 - 08:04 PM,17.78,120.74,007,2.0,007km N 26° E of Lagayan (Abra),007,N 26° E,Lagayan (Abra)
 2026-03-28T02:36:00.000Z,28 March 2026 - 02:36 AM,16.94,119.64,023,2.5,067km N 24° W of Bolinao (Pangasinan),067,N 24° W,Bolinao (Pangasinan)
 2026-03-28T19:09:00.000Z,28 March 2026 - 07:09 PM,18.09,122.33,008,1.8,040km S 62° E of Gonzaga (Cagayan),040,S 62° E,Gonzaga (Cagayan)
 2026-03-28T18:57:00.000Z,28 March 2026 - 06:57 PM,06.71,127.02,006,3.5,073km S 59° E of Tarragona (Davao Oriental),073,S 59° E,Tarragona (Davao Oriental)
@@ -59,5 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-27T21:07:00.000Z,27 March 2026 - 09:07 PM,19.26,121.54,011,2.1,007km N 88° E of Calayan (Cagayan),007,N 88° E,Calayan (Cagayan)
 2026-03-27T20:55:00.000Z,27 March 2026 - 08:55 PM,10.95,124.04,002,1.9,013km S 33° E of City Of Bogo (Cebu),013,S 33° E,City Of Bogo (Cebu)
 2026-03-27T20:44:00.000Z,27 March 2026 - 08:44 PM,09.86,126.86,026,3.3,078km N 84° E of General Luna (Surigao Del Norte),078,N 84° E,General Luna (Surigao Del Norte)
-2026-03-27T20:26:00.000Z,27 March 2026 - 08:26 PM,07.74,127.08,045,1.7,060km N 72° E of Baganga (Davao Oriental),060,N 72° E,Baganga (Davao Oriental)
-2026-03-27T20:11:00.000Z,27 March 2026 - 08:11 PM,07.31,125.95,029,2.6,011km East of Mabini (Davao De Oro),011,East of Mabini,De Oro)
