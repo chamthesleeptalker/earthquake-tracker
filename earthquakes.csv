@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-28T23:13:00.000Z,28 March 2026 - 11:13 PM,10.14,124.88,019,2.2,004km N 70° E of City Of Maasin  (Southern Leyte),004,N 70° E,City Of Maasin  (Southern Leyte)
+2026-03-28T22:43:00.000Z,28 March 2026 - 10:43 PM,10.20,124.96,006,1.9,007km N 47° W of Malitbog (Southern Leyte),007,N 47° W,Malitbog (Southern Leyte)
 2026-03-28T21:12:00.000Z,28 March 2026 - 09:12 PM,15.96,119.02,015,2.9,085km S 78° W of Agno (Pangasinan),085,S 78° W,Agno (Pangasinan)
 2026-03-28T20:55:00.000Z,28 March 2026 - 08:55 PM,17.04,122.66,009,2.7,025km S 85° E of Palanan (Isabela),025,S 85° E,Palanan (Isabela)
 2026-03-28T20:55:00.000Z,28 March 2026 - 08:55 PM,07.48,123.44,005,2.0,003km N 59° E of Tabina (Zamboanga Del Sur),003,N 59° E,Tabina (Zamboanga Del Sur)
