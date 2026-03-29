@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T15:06:00.000Z,29 March 2026 - 03:06 PM,11.14,124.07,004,2.0,014km N 41° E of City Of Bogo (Cebu),014,N 41° E,City Of Bogo (Cebu)
+2026-03-29T14:39:00.000Z,29 March 2026 - 02:39 PM,06.48,126.61,052,2.6,062km S 72° E of Governor Generoso (Davao Oriental),062,S 72° E,Governor Generoso (Davao Oriental)
+2026-03-29T14:18:00.000Z,29 March 2026 - 02:18 PM,07.39,125.73,028,2.1,005km N 40° E of Carmen (Davao Del Norte),005,N 40° E,Carmen (Davao Del Norte)
+2026-03-29T14:16:00.000Z,29 March 2026 - 02:16 PM,06.63,125.89,030,2.5,020km S 83° W of Governor Generoso (Davao Oriental),020,S 83° W,Governor Generoso (Davao Oriental)
 2026-03-29T12:49:00.000Z,29 March 2026 - 12:49 PM,10.83,126.63,033,3.4,100km N 85° E of Homonhon Island (Guiuan) (Eastern Samar),100,N 85° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-29T12:15:00.000Z,29 March 2026 - 12:15 PM,11.14,124.09,002,2.6,015km N 50° E of City Of Bogo (Cebu),015,N 50° E,City Of Bogo (Cebu)
 2026-03-29T11:05:00.000Z,29 March 2026 - 11:05 AM,05.63,123.52,065,2.4,098km S 49° W of Palimbang (Sultan Kudarat),098,S 49° W,Palimbang (Sultan Kudarat)

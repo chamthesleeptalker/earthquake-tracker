@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T15:06:00.000Z,29 March 2026 - 03:06 PM,11.14,124.07,004,2.0,014km N 41° E of City Of Bogo (Cebu),014,N 41° E,City Of Bogo (Cebu)
+2026-03-29T14:39:00.000Z,29 March 2026 - 02:39 PM,06.48,126.61,052,2.6,062km S 72° E of Governor Generoso (Davao Oriental),062,S 72° E,Governor Generoso (Davao Oriental)
+2026-03-29T14:18:00.000Z,29 March 2026 - 02:18 PM,07.39,125.73,028,2.1,005km N 40° E of Carmen (Davao Del Norte),005,N 40° E,Carmen (Davao Del Norte)
+2026-03-29T14:16:00.000Z,29 March 2026 - 02:16 PM,06.63,125.89,030,2.5,020km S 83° W of Governor Generoso (Davao Oriental),020,S 83° W,Governor Generoso (Davao Oriental)
 2026-03-29T12:49:00.000Z,29 March 2026 - 12:49 PM,10.83,126.63,033,3.4,100km N 85° E of Homonhon Island (Guiuan) (Eastern Samar),100,N 85° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-29T12:15:00.000Z,29 March 2026 - 12:15 PM,11.14,124.09,002,2.6,015km N 50° E of City Of Bogo (Cebu),015,N 50° E,City Of Bogo (Cebu)
 2026-03-29T11:05:00.000Z,29 March 2026 - 11:05 AM,05.63,123.52,065,2.4,098km S 49° W of Palimbang (Sultan Kudarat),098,S 49° W,Palimbang (Sultan Kudarat)
@@ -347,8 +351,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-22T17:17:00.000Z,22 March 2026 - 05:17 PM,13.50,120.86,033,1.7,011km S 89° W of Puerto Galera (Oriental Mindoro),011,S 89° W,Puerto Galera (Oriental Mindoro)
 2026-03-22T17:09:00.000Z,22 March 2026 - 05:09 PM,13.64,120.23,021,2.2,009km S 11° W of Looc (Occidental Mindoro),009,S 11° W,Looc (Occidental Mindoro)
 2026-03-22T17:01:00.000Z,22 March 2026 - 05:01 PM,15.11,122.35,007,1.8,041km N 20° E of Patnanungan (Quezon),041,N 20° E,Patnanungan (Quezon)
-2026-03-22T14:55:00.000Z,22 March 2026 - 02:55 PM,07.30,127.24,016,3.3,074km S 87° E of Caraga (Davao Oriental),074,S 87° E,Caraga (Davao Oriental)
-2026-03-22T14:46:00.000Z,22 March 2026 - 02:46 PM,14.49,123.44,007,2.1,053km N 89° E of Tinaga Island (Vinzons) (Camarines Norte),053,N 89° E,Tinaga Island (Vinzons) (Camarines Norte)
-2026-03-22T13:45:00.000Z,22 March 2026 - 01:45 PM,17.88,120.20,017,2.6,027km N 86° W of Sinait (Ilocos Sur),027,N 86° W,Sinait (Ilocos Sur)
-2026-03-22T13:43:00.000Z,22 March 2026 - 01:43 PM,14.83,120.02,046,2.1,016km S 29° W of San Antonio (Zambales),016,S 29° W,San Antonio (Zambales)
-2026-03-22T13:30:00.000Z,22 March 2026 - 01:30 PM,13.64,120.59,108,4.2,021km S 12° W of Calatagan (Batangas),021,S 12° W,Calatagan (Batangas)
