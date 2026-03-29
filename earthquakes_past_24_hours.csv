@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T09:27:00.000Z,29 March 2026 - 09:27 AM,11.16,124.10,005,1.7,018km N 47° E of City Of Bogo (Cebu),018,N 47° E,City Of Bogo (Cebu)
+2026-03-29T09:14:00.000Z,29 March 2026 - 09:14 AM,17.24,122.25,034,1.4,011km S 26° W of Divilacan (Isabela),011,S 26° W,Divilacan (Isabela)
+2026-03-29T08:55:00.000Z,29 March 2026 - 08:55 AM,08.71,123.61,013,2.0,006km N 04° E of Baliangao (Misamis Occidental),006,N 04° E,Baliangao (Misamis Occidental)
+2026-03-29T08:38:00.000Z,29 March 2026 - 08:38 AM,07.54,123.61,028,1.7,021km S 51° E of San Pablo (Zamboanga Del Sur),021,S 51° E,San Pablo (Zamboanga Del Sur)
 2026-03-29T06:21:00.000Z,29 March 2026 - 06:21 AM,18.12,122.36,010,2.7,042km S 69° E of Gonzaga (Cagayan),042,S 69° E,Gonzaga (Cagayan)
 2026-03-29T05:17:00.000Z,29 March 2026 - 05:17 AM,05.98,125.82,144,2.6,021km N 70° E of Jose Abad Santos (Davao Occidental),021,N 70° E,Jose Abad Santos (Davao Occidental)
 2026-03-29T05:11:00.000Z,29 March 2026 - 05:11 AM,14.53,119.73,021,2.5,060km S 74° W of Morong (Bataan),060,S 74° W,Morong (Bataan)
@@ -59,9 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-28T11:21:00.000Z,28 March 2026 - 11:21 AM,11.02,126.17,005,2.3,049km S 88° E of Guiuan (Eastern Samar),049,S 88° E,Guiuan (Eastern Samar)
 2026-03-28T10:56:00.000Z,28 March 2026 - 10:56 AM,08.00,126.85,013,1.8,049km N 62° E of Cateel (Davao Oriental),049,N 62° E,Cateel (Davao Oriental)
 2026-03-28T09:37:00.000Z,28 March 2026 - 09:37 AM,10.39,125.50,013,1.5,010km N 70° W of Loreto (Dinagat Islands),010,N 70° W,Loreto (Dinagat Islands)
-2026-03-28T08:21:00.000Z,28 March 2026 - 08:21 AM,15.03,119.96,021,2.2,012km S 74° W of San Felipe (Zambales),012,S 74° W,San Felipe (Zambales)
-2026-03-28T08:02:00.000Z,28 March 2026 - 08:02 AM,10.97,124.00,009,2.1,008km S 18° E of City Of Bogo (Cebu),008,S 18° E,City Of Bogo (Cebu)
-2026-03-28T07:45:00.000Z,28 March 2026 - 07:45 AM,07.37,126.45,143,2.9,013km N 71° W of Caraga (Davao Oriental),013,N 71° W,Caraga (Davao Oriental)
-2026-03-28T07:31:00.000Z,28 March 2026 - 07:31 AM,13.57,120.65,110,2.0,016km N 32° W of Abra De Ilog (Occidental Mindoro),016,N 32° W,Abra De Ilog (Occidental Mindoro)
-2026-03-28T07:24:00.000Z,28 March 2026 - 07:24 AM,14.71,123.25,012,2.4,042km N 52° E of Tinaga Island (Vinzons) (Camarines Norte),042,N 52° E,Tinaga Island (Vinzons) (Camarines Norte)
-2026-03-28T06:26:00.000Z,28 March 2026 - 06:26 AM,07.82,126.78,031,1.7,037km N 41° E of Baganga (Davao Oriental),037,N 41° E,Baganga (Davao Oriental)

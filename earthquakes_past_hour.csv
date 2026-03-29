@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-29T06:21:00.000Z,29 March 2026 - 06:21 AM,18.12,122.36,010,2.7,042km S 69° E of Gonzaga (Cagayan),042,S 69° E,Gonzaga (Cagayan)
+2026-03-29T09:27:00.000Z,29 March 2026 - 09:27 AM,11.16,124.10,005,1.7,018km N 47° E of City Of Bogo (Cebu),018,N 47° E,City Of Bogo (Cebu)
+2026-03-29T09:14:00.000Z,29 March 2026 - 09:14 AM,17.24,122.25,034,1.4,011km S 26° W of Divilacan (Isabela),011,S 26° W,Divilacan (Isabela)
+2026-03-29T08:55:00.000Z,29 March 2026 - 08:55 AM,08.71,123.61,013,2.0,006km N 04° E of Baliangao (Misamis Occidental),006,N 04° E,Baliangao (Misamis Occidental)
+2026-03-29T08:38:00.000Z,29 March 2026 - 08:38 AM,07.54,123.61,028,1.7,021km S 51° E of San Pablo (Zamboanga Del Sur),021,S 51° E,San Pablo (Zamboanga Del Sur)
