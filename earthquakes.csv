@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-30T04:14:00.000Z,30 March 2026 - 04:14 AM,07.03,126.63,021,2.6,020km S 83° E of Tarragona (Davao Oriental),020,S 83° E,Tarragona (Davao Oriental)
+2026-03-30T04:13:00.000Z,30 March 2026 - 04:13 AM,17.35,120.35,012,1.8,010km N 77° W of San Esteban (Ilocos Sur),010,N 77° W,San Esteban (Ilocos Sur)
+2026-03-30T03:48:00.000Z,30 March 2026 - 03:48 AM,06.72,127.48,166,2.3,118km S 63° E of Manay (Davao Oriental),118,S 63° E,Manay (Davao Oriental)
 2026-03-30T03:14:00.000Z,30 March 2026 - 03:14 AM,17.97,121.04,098,1.8,016km S 69° W of Kabugao (Apayao),016,S 69° W,Kabugao (Apayao)
 2026-03-30T03:07:00.000Z,30 March 2026 - 03:07 AM,05.85,125.70,042,3.7,009km S 41° E of Jose Abad Santos (Davao Occidental),009,S 41° E,Jose Abad Santos (Davao Occidental)
 2026-03-30T03:13:00.000Z,30 March 2026 - 03:13 AM,16.17,122.13,030,1.7,011km S 05° E of Casiguran (Aurora),011,S 05° E,Casiguran (Aurora)
