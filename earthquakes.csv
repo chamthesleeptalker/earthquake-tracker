@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-30T01:04:00.000Z,30 March 2026 - 01:04 AM,19.09,121.24,012,3.5,005km S 58° E of Dalupiri Island (Calayan) (Cagayan),005,S 58° E,Dalupiri Island (Calayan) (Cagayan)
+2026-03-30T01:00:00.000Z,30 March 2026 - 01:00 AM,13.57,120.85,011,1.9,010km S 11° W of Tingloy (Batangas),010,S 11° W,Tingloy (Batangas)
+2026-03-30T00:59:00.000Z,30 March 2026 - 12:59 AM,12.62,121.01,041,1.8,010km N 53° E of Calintaan (Occidental Mindoro),010,N 53° E,Calintaan (Occidental Mindoro)
+2026-03-30T00:49:00.000Z,30 March 2026 - 12:49 AM,08.51,125.83,012,4.2,008km N 35° E of Talacogon (Agusan Del Sur),008,N 35° E,Talacogon (Agusan Del Sur)
+2026-03-30T00:36:00.000Z,30 March 2026 - 12:36 AM,13.83,120.70,090,1.9,007km S 88° E of Calatagan (Batangas),007,S 88° E,Calatagan (Batangas)
+2026-03-30T00:36:00.000Z,30 March 2026 - 12:36 AM,06.29,126.97,045,1.9,102km S 34° E of Tarragona (Davao Oriental),102,S 34° E,Tarragona (Davao Oriental)
+2026-03-30T00:27:00.000Z,30 March 2026 - 12:27 AM,16.82,120.22,013,1.9,018km N 53° W of Bacnotan (La Union),018,N 53° W,Bacnotan (La Union)
 2026-03-30T00:26:00.000Z,30 March 2026 - 12:26 AM,06.87,125.93,019,1.7,010km S 70° W of Lupon (Davao Oriental),010,S 70° W,Lupon (Davao Oriental)
 2026-03-29T23:50:00.000Z,29 March 2026 - 11:50 PM,14.22,121.51,029,1.2,002km S 08° E of Cavinti (Laguna),002,S 08° E,Cavinti (Laguna)
 2026-03-29T23:49:00.000Z,29 March 2026 - 11:49 PM,03.49,125.80,056,3.7,217km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),217,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
