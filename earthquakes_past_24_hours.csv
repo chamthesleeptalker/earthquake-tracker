@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T21:21:00.000Z,29 March 2026 - 09:21 PM,12.52,125.39,023,1.9,015km N 71° E of Mapanas (Northern Samar),015,N 71° E,Mapanas (Northern Samar)
+2026-03-29T21:15:00.000Z,29 March 2026 - 09:15 PM,08.16,125.97,009,2.8,004km S 52° W of Bunawan (Agusan Del Sur),004,S 52° W,Bunawan (Agusan Del Sur)
 2026-03-29T20:35:00.000Z,29 March 2026 - 08:35 PM,12.28,125.58,023,2.6,014km N 33° E of San Policarpo (Eastern Samar),014,N 33° E,San Policarpo (Eastern Samar)
 2026-03-29T20:34:00.000Z,29 March 2026 - 08:34 PM,14.20,121.41,033,1.2,006km S 51° E of Pila (Laguna),006,S 51° E,Pila (Laguna)
 2026-03-29T20:29:00.000Z,29 March 2026 - 08:29 PM,10.91,123.99,002,2.1,015km S 04° E of City Of Bogo (Cebu),015,S 04° E,City Of Bogo (Cebu)
@@ -52,7 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-28T23:24:00.000Z,28 March 2026 - 11:24 PM,11.12,124.07,010,3.4,012km N 50° E of City Of Bogo (Cebu),012,N 50° E,City Of Bogo (Cebu)
 2026-03-28T23:13:00.000Z,28 March 2026 - 11:13 PM,10.14,124.88,019,2.2,004km N 70° E of City Of Maasin  (Southern Leyte),004,N 70° E,City Of Maasin  (Southern Leyte)
 2026-03-28T22:43:00.000Z,28 March 2026 - 10:43 PM,10.20,124.96,006,1.9,007km N 47° W of Malitbog (Southern Leyte),007,N 47° W,Malitbog (Southern Leyte)
-2026-03-28T21:12:00.000Z,28 March 2026 - 09:12 PM,15.96,119.02,015,2.9,085km S 78° W of Agno (Pangasinan),085,S 78° W,Agno (Pangasinan)
-2026-03-28T20:55:00.000Z,28 March 2026 - 08:55 PM,17.04,122.66,009,2.7,025km S 85° E of Palanan (Isabela),025,S 85° E,Palanan (Isabela)
-2026-03-28T20:55:00.000Z,28 March 2026 - 08:55 PM,07.48,123.44,005,2.0,003km N 59° E of Tabina (Zamboanga Del Sur),003,N 59° E,Tabina (Zamboanga Del Sur)
-2026-03-28T20:45:00.000Z,28 March 2026 - 08:45 PM,09.10,126.38,023,2.1,018km N 34° E of Bayabas (Surigao Del Sur),018,N 34° E,Bayabas (Surigao Del Sur)
