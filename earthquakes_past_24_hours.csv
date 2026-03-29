@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T19:33:00.000Z,29 March 2026 - 07:33 PM,12.86,122.90,007,2.1,031km S 16° W of San Pascual (Masbate),031,S 16° W,San Pascual (Masbate)
+2026-03-29T19:28:00.000Z,29 March 2026 - 07:28 PM,14.21,121.39,033,1.2,004km S 37° E of Pila (Laguna),004,S 37° E,Pila (Laguna)
 2026-03-29T18:30:00.000Z,29 March 2026 - 06:30 PM,07.80,124.61,002,1.7,009km N 78° W of Amai Manabilang (Lanao Del Sur),009,N 78° W,Amai Manabilang (Lanao Del Sur)
 2026-03-29T18:28:00.000Z,29 March 2026 - 06:28 PM,11.25,124.51,055,2.0,010km N 34° W of Kananga (Leyte),010,N 34° W,Kananga (Leyte)
 2026-03-29T17:49:00.000Z,29 March 2026 - 05:49 PM,07.58,124.77,033,1.7,008km S 38° E of Wao (Lanao Del Sur),008,S 38° E,Wao (Lanao Del Sur)
@@ -52,7 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-28T20:13:00.000Z,28 March 2026 - 08:13 PM,17.31,121.81,022,1.4,003km N 69° E of Delfin Albano (Isabela),003,N 69° E,Delfin Albano (Isabela)
 2026-03-28T20:08:00.000Z,28 March 2026 - 08:08 PM,08.03,126.46,009,2.0,005km S 80° E of Lingig (Surigao Del Sur),005,S 80° E,Lingig (Surigao Del Sur)
 2026-03-28T20:04:00.000Z,28 March 2026 - 08:04 PM,17.78,120.74,007,2.0,007km N 26° E of Lagayan (Abra),007,N 26° E,Lagayan (Abra)
-2026-03-28T19:09:00.000Z,28 March 2026 - 07:09 PM,18.09,122.33,008,1.8,040km S 62° E of Gonzaga (Cagayan),040,S 62° E,Gonzaga (Cagayan)
-2026-03-28T18:57:00.000Z,28 March 2026 - 06:57 PM,06.71,127.02,006,3.5,073km S 59° E of Tarragona (Davao Oriental),073,S 59° E,Tarragona (Davao Oriental)
-2026-03-28T18:48:00.000Z,28 March 2026 - 06:48 PM,16.89,121.46,034,1.9,005km S 47° W of Alfonso Lista (Ifugao),005,S 47° W,Alfonso Lista (Ifugao)
-2026-03-28T18:31:00.000Z,28 March 2026 - 06:31 PM,19.21,120.31,021,2.9,086km N 25° W of Burgos (Ilocos Norte),086,N 25° W,Burgos (Ilocos Norte)
