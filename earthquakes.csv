@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T12:15:00.000Z,29 March 2026 - 12:15 PM,11.14,124.09,002,2.6,015km N 50° E of City Of Bogo (Cebu),015,N 50° E,City Of Bogo (Cebu)
+2026-03-29T11:05:00.000Z,29 March 2026 - 11:05 AM,05.63,123.52,065,2.4,098km S 49° W of Palimbang (Sultan Kudarat),098,S 49° W,Palimbang (Sultan Kudarat)
 2026-03-29T09:27:00.000Z,29 March 2026 - 09:27 AM,11.16,124.10,005,1.7,018km N 47° E of City Of Bogo (Cebu),018,N 47° E,City Of Bogo (Cebu)
 2026-03-29T09:14:00.000Z,29 March 2026 - 09:14 AM,17.24,122.25,034,1.4,011km S 26° W of Divilacan (Isabela),011,S 26° W,Divilacan (Isabela)
 2026-03-29T08:55:00.000Z,29 March 2026 - 08:55 AM,08.71,123.61,013,2.0,006km N 04° E of Baliangao (Misamis Occidental),006,N 04° E,Baliangao (Misamis Occidental)
