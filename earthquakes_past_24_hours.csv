@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T20:35:00.000Z,29 March 2026 - 08:35 PM,12.28,125.58,023,2.6,014km N 33° E of San Policarpo (Eastern Samar),014,N 33° E,San Policarpo (Eastern Samar)
+2026-03-29T20:34:00.000Z,29 March 2026 - 08:34 PM,14.20,121.41,033,1.2,006km S 51° E of Pila (Laguna),006,S 51° E,Pila (Laguna)
+2026-03-29T20:29:00.000Z,29 March 2026 - 08:29 PM,10.91,123.99,002,2.1,015km S 04° E of City Of Bogo (Cebu),015,S 04° E,City Of Bogo (Cebu)
+2026-03-29T20:25:00.000Z,29 March 2026 - 08:25 PM,10.92,124.00,002,1.7,015km S 11° E of City Of Bogo (Cebu),015,S 11° E,City Of Bogo (Cebu)
+2026-03-29T19:51:00.000Z,29 March 2026 - 07:51 PM,14.23,121.41,036,1.2,005km S 86° E of Pila (Laguna),005,S 86° E,Pila (Laguna)
+2026-03-29T19:51:00.000Z,29 March 2026 - 07:51 PM,19.22,121.27,032,1.7,014km N 29° E of Dalupiri Island (Calayan) (Cagayan),014,N 29° E,Dalupiri Island (Calayan) (Cagayan)
 2026-03-29T19:33:00.000Z,29 March 2026 - 07:33 PM,12.86,122.90,007,2.1,031km S 16° W of San Pascual (Masbate),031,S 16° W,San Pascual (Masbate)
 2026-03-29T19:28:00.000Z,29 March 2026 - 07:28 PM,14.21,121.39,033,1.2,004km S 37° E of Pila (Laguna),004,S 37° E,Pila (Laguna)
 2026-03-29T18:30:00.000Z,29 March 2026 - 06:30 PM,07.80,124.61,002,1.7,009km N 78° W of Amai Manabilang (Lanao Del Sur),009,N 78° W,Amai Manabilang (Lanao Del Sur)
@@ -50,7 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-28T20:55:00.000Z,28 March 2026 - 08:55 PM,17.04,122.66,009,2.7,025km S 85° E of Palanan (Isabela),025,S 85° E,Palanan (Isabela)
 2026-03-28T20:55:00.000Z,28 March 2026 - 08:55 PM,07.48,123.44,005,2.0,003km N 59° E of Tabina (Zamboanga Del Sur),003,N 59° E,Tabina (Zamboanga Del Sur)
 2026-03-28T20:45:00.000Z,28 March 2026 - 08:45 PM,09.10,126.38,023,2.1,018km N 34° E of Bayabas (Surigao Del Sur),018,N 34° E,Bayabas (Surigao Del Sur)
-2026-03-28T20:29:00.000Z,28 March 2026 - 08:29 PM,13.57,120.96,011,1.9,007km N 08° E of Puerto Galera (Oriental Mindoro),007,N 08° E,Puerto Galera (Oriental Mindoro)
-2026-03-28T20:13:00.000Z,28 March 2026 - 08:13 PM,17.31,121.81,022,1.4,003km N 69° E of Delfin Albano (Isabela),003,N 69° E,Delfin Albano (Isabela)
-2026-03-28T20:08:00.000Z,28 March 2026 - 08:08 PM,08.03,126.46,009,2.0,005km S 80° E of Lingig (Surigao Del Sur),005,S 80° E,Lingig (Surigao Del Sur)
-2026-03-28T20:04:00.000Z,28 March 2026 - 08:04 PM,17.78,120.74,007,2.0,007km N 26° E of Lagayan (Abra),007,N 26° E,Lagayan (Abra)
