@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-30T00:26:00.000Z,30 March 2026 - 12:26 AM,06.87,125.93,019,1.7,010km S 70° W of Lupon (Davao Oriental),010,S 70° W,Lupon (Davao Oriental)
+2026-03-29T23:50:00.000Z,29 March 2026 - 11:50 PM,14.22,121.51,029,1.2,002km S 08° E of Cavinti (Laguna),002,S 08° E,Cavinti (Laguna)
+2026-03-29T23:49:00.000Z,29 March 2026 - 11:49 PM,03.49,125.80,056,3.7,217km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),217,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-29T23:37:00.000Z,29 March 2026 - 11:37 PM,14.17,121.49,036,1.4,003km N 47° E of Majayjay (Laguna),003,N 47° E,Majayjay (Laguna)
+2026-03-29T23:38:00.000Z,29 March 2026 - 11:38 PM,14.23,121.41,036,1.2,005km S 88° E of Pila (Laguna),005,S 88° E,Pila (Laguna)
 2026-03-29T23:16:00.000Z,29 March 2026 - 11:16 PM,08.11,125.88,032,1.7,008km S 18° E of Loreto (Agusan Del Sur),008,S 18° E,Loreto (Agusan Del Sur)
 2026-03-29T22:50:00.000Z,29 March 2026 - 10:50 PM,14.42,123.08,002,2.0,015km S 66° E of Tinaga Island (Vinzons) (Camarines Norte),015,S 66° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-03-29T22:05:00.000Z,29 March 2026 - 10:05 PM,17.46,120.68,007,2.5,004km N 36° W of Manabo (Abra),004,N 36° W,Manabo (Abra)
