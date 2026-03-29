@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-29T12:49:00.000Z,29 March 2026 - 12:49 PM,10.83,126.63,033,3.4,100km N 85° E of Homonhon Island (Guiuan) (Eastern Samar),100,N 85° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-03-29T12:15:00.000Z,29 March 2026 - 12:15 PM,11.14,124.09,002,2.6,015km N 50° E of City Of Bogo (Cebu),015,N 50° E,City Of Bogo (Cebu)
 2026-03-29T11:05:00.000Z,29 March 2026 - 11:05 AM,05.63,123.52,065,2.4,098km S 49° W of Palimbang (Sultan Kudarat),098,S 49° W,Palimbang (Sultan Kudarat)
 2026-03-29T09:27:00.000Z,29 March 2026 - 09:27 AM,11.16,124.10,005,1.7,018km N 47° E of City Of Bogo (Cebu),018,N 47° E,City Of Bogo (Cebu)
@@ -57,4 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-28T13:03:00.000Z,28 March 2026 - 01:03 PM,13.57,120.71,132,2.3,014km N 08° W of Abra De Ilog (Occidental Mindoro),014,N 08° W,Abra De Ilog (Occidental Mindoro)
 2026-03-28T12:56:00.000Z,28 March 2026 - 12:56 PM,12.78,123.41,043,3.0,022km S 53° E of Claveria (Masbate),022,S 53° E,Claveria (Masbate)
 2026-03-28T12:54:00.000Z,28 March 2026 - 12:54 PM,11.00,123.99,009,2.2,006km S 13° E of City Of Bogo (Cebu),006,S 13° E,City Of Bogo (Cebu)
-2026-03-28T12:44:00.000Z,28 March 2026 - 12:44 PM,05.32,126.79,016,3.4,143km S 63° E of Jose Abad Santos (Davao Occidental),143,S 63° E,Jose Abad Santos (Davao Occidental)
