@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-30T07:20:00.000Z,30 March 2026 - 07:20 AM,16.13,121.94,039,2.1,002km S 56° W of Dinalungan (Aurora),002,S 56° W,Dinalungan (Aurora)
+2026-03-30T07:02:00.000Z,30 March 2026 - 07:02 AM,10.95,123.97,004,2.1,011km S 06° W of City Of Bogo (Cebu),011,S 06° W,City Of Bogo (Cebu)
 2026-03-30T06:31:00.000Z,30 March 2026 - 06:31 AM,09.84,123.78,033,1.6,004km N 20° W of Loon (Bohol),004,N 20° W,Loon (Bohol)
 2026-03-30T05:27:00.000Z,30 March 2026 - 05:27 AM,13.77,120.21,033,1.5,007km N 42° W of Looc (Occidental Mindoro),007,N 42° W,Looc (Occidental Mindoro)
 2026-03-30T05:07:00.000Z,30 March 2026 - 05:07 AM,05.67,126.19,133,1.9,066km S 66° E of Jose Abad Santos (Davao Occidental),066,S 66° E,Jose Abad Santos (Davao Occidental)
@@ -358,4 +360,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-23T11:18:00.000Z,23 March 2026 - 11:18 AM,17.78,120.24,033,2.6,023km S 87° W of Cabugao (Ilocos Sur),023,S 87° W,Cabugao (Ilocos Sur)
 2026-03-23T08:45:00.000Z,23 March 2026 - 08:45 AM,06.20,126.28,027,2.0,055km S 24° E of Governor Generoso (Davao Oriental),055,S 24° E,Governor Generoso (Davao Oriental)
 2026-03-23T07:24:00.000Z,23 March 2026 - 07:24 AM,10.94,124.01,012,2.3,013km S 14° E of City Of Bogo (Cebu),013,S 14° E,City Of Bogo (Cebu)
-2026-03-23T07:07:00.000Z,23 March 2026 - 07:07 AM,10.90,123.90,002,3.1,018km S 29° W of City Of Bogo (Cebu),018,S 29° W,City Of Bogo (Cebu)
