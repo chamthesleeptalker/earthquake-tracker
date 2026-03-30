@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T01:58:00.000Z,31 March 2026 - 01:58 AM,08.00,126.80,021,2.1,042km S 84° E of Lingig (Surigao Del Sur),042,S 84° E,Lingig (Surigao Del Sur)
+2026-03-31T01:36:00.000Z,31 March 2026 - 01:36 AM,17.22,119.80,005,2.8,068km N 85° W of City Of Candon (Ilocos Sur),068,N 85° W,City Of Candon (Ilocos Sur)
+2026-03-31T01:34:00.000Z,31 March 2026 - 01:34 AM,19.49,120.92,016,2.5,052km N 35° W of Dalupiri Island (Calayan) (Cagayan),052,N 35° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-31T01:18:00.000Z,31 March 2026 - 01:18 AM,10.75,124.85,039,1.8,010km N 35° E of City Of Baybay (Leyte),010,N 35° E,City Of Baybay (Leyte)
 2026-03-31T01:03:00.000Z,31 March 2026 - 01:03 AM,07.39,126.65,020,2.4,011km N 51° E of Caraga (Davao Oriental),011,N 51° E,Caraga (Davao Oriental)
 2026-03-31T01:00:00.000Z,31 March 2026 - 01:00 AM,07.47,124.40,010,2.6,004km N 84° E of Barira (Maguindanao Del Norte),004,N 84° E,Barira (Maguindanao Del Norte)
-2026-03-31T00:18:00.000Z,31 March 2026 - 12:18 AM,09.84,122.50,016,2.1,011km N 44° E of City Of Sipalay (Negros Occidental),011,N 44° E,City Of Sipalay (Negros Occidental)
