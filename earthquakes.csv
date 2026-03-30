@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T01:03:00.000Z,31 March 2026 - 01:03 AM,07.39,126.65,020,2.4,011km N 51° E of Caraga (Davao Oriental),011,N 51° E,Caraga (Davao Oriental)
+2026-03-31T01:00:00.000Z,31 March 2026 - 01:00 AM,07.47,124.40,010,2.6,004km N 84° E of Barira (Maguindanao Del Norte),004,N 84° E,Barira (Maguindanao Del Norte)
+2026-03-31T00:18:00.000Z,31 March 2026 - 12:18 AM,09.84,122.50,016,2.1,011km N 44° E of City Of Sipalay (Negros Occidental),011,N 44° E,City Of Sipalay (Negros Occidental)
+2026-03-31T00:01:00.000Z,31 March 2026 - 12:01 AM,09.64,125.66,033,1.8,004km N 38° E of Bacuag (Surigao Del Norte),004,N 38° E,Bacuag (Surigao Del Norte)
+2026-03-30T23:55:00.000Z,30 March 2026 - 11:55 PM,11.16,124.00,009,1.9,012km N 08° E of City Of Bogo (Cebu),012,N 08° E,City Of Bogo (Cebu)
 2026-03-30T23:37:00.000Z,30 March 2026 - 11:37 PM,13.91,119.91,013,2.0,023km N 75° W of Lubang (Occidental Mindoro),023,N 75° W,Lubang (Occidental Mindoro)
 2026-03-30T23:11:00.000Z,30 March 2026 - 11:11 PM,11.70,125.11,062,2.3,005km N 86° E of Hinabangan (Samar),005,N 86° E,Hinabangan (Samar)
 2026-03-30T22:48:00.000Z,30 March 2026 - 10:48 PM,09.93,122.17,009,2.3,034km N 59° W of City Of Sipalay (Negros Occidental),034,N 59° W,City Of Sipalay (Negros Occidental)
