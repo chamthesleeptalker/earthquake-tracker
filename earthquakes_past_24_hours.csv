@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T06:08:00.000Z,31 March 2026 - 06:08 AM,07.62,124.74,036,1.8,003km S 45° E of Wao (Lanao Del Sur),003,S 45° E,Wao (Lanao Del Sur)
+2026-03-31T05:33:00.000Z,31 March 2026 - 05:33 AM,07.24,126.67,029,2.9,015km S 50° E of Caraga (Davao Oriental),015,S 50° E,Caraga (Davao Oriental)
 2026-03-31T05:18:00.000Z,31 March 2026 - 05:18 AM,16.50,122.16,007,2.3,011km S 75° W of Dinapigue (Isabela),011,S 75° W,Dinapigue (Isabela)
 2026-03-31T05:00:00.000Z,31 March 2026 - 05:00 AM,16.53,122.19,008,2.6,007km N 85° W of Dinapigue (Isabela),007,N 85° W,Dinapigue (Isabela)
 2026-03-31T04:37:00.000Z,31 March 2026 - 04:37 AM,14.46,121.63,033,2.1,019km N 60° E of Pakil (Laguna),019,N 60° E,Pakil (Laguna)
@@ -46,4 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-30T07:20:00.000Z,30 March 2026 - 07:20 AM,16.13,121.94,039,2.1,002km S 56° W of Dinalungan (Aurora),002,S 56° W,Dinalungan (Aurora)
 2026-03-30T07:02:00.000Z,30 March 2026 - 07:02 AM,10.95,123.97,004,2.1,011km S 06° W of City Of Bogo (Cebu),011,S 06° W,City Of Bogo (Cebu)
 2026-03-30T06:31:00.000Z,30 March 2026 - 06:31 AM,09.84,123.78,033,1.6,004km N 20° W of Loon (Bohol),004,N 20° W,Loon (Bohol)
-2026-03-30T05:27:00.000Z,30 March 2026 - 05:27 AM,13.77,120.21,033,1.5,007km N 42° W of Looc (Occidental Mindoro),007,N 42° W,Looc (Occidental Mindoro)
