@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-30T22:12:00.000Z,30 March 2026 - 10:12 PM,12.65,124.53,027,1.8,014km N 15° W of Bobon (Northern Samar),014,N 15° W,Bobon (Northern Samar)
+2026-03-30T21:32:00.000Z,30 March 2026 - 09:32 PM,15.00,120.02,018,2.6,007km S 74° W of San Narciso (Zambales),007,S 74° W,San Narciso (Zambales)
+2026-03-30T21:31:00.000Z,30 March 2026 - 09:31 PM,13.98,120.29,057,2.0,022km N 52° E of Lubang (Occidental Mindoro),022,N 52° E,Lubang (Occidental Mindoro)
 2026-03-30T20:52:00.000Z,30 March 2026 - 08:52 PM,15.68,120.23,015,2.4,014km S 28° W of Mangatarem (Pangasinan),014,S 28° W,Mangatarem (Pangasinan)
 2026-03-30T20:46:00.000Z,30 March 2026 - 08:46 PM,19.83,121.21,010,2.4,068km N 24° W of Calayan (Cagayan),068,N 24° W,Calayan (Cagayan)
 2026-03-30T20:25:00.000Z,30 March 2026 - 08:25 PM,07.43,127.13,003,2.1,064km N 80° E of Caraga (Davao Oriental),064,N 80° E,Caraga (Davao Oriental)
@@ -355,7 +358,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-23T22:43:00.000Z,23 March 2026 - 10:43 PM,07.18,126.42,078,2.1,013km S 77° W of Manay (Davao Oriental),013,S 77° W,Manay (Davao Oriental)
 2026-03-23T22:39:00.000Z,23 March 2026 - 10:39 PM,16.52,121.28,032,1.4,004km N 25° E of Quezon (Nueva Vizcaya),004,N 25° E,Quezon (Nueva Vizcaya)
 2026-03-23T22:16:00.000Z,23 March 2026 - 10:16 PM,15.67,119.87,029,1.6,008km N 55° W of Candelaria (Zambales),008,N 55° W,Candelaria (Zambales)
-2026-03-23T22:00:00.000Z,23 March 2026 - 10:00 PM,10.11,122.41,026,1.5,028km N 58° W of Cauayan (Negros Occidental),028,N 58° W,Cauayan (Negros Occidental)
-2026-03-23T21:46:00.000Z,23 March 2026 - 09:46 PM,13.70,120.61,080,1.8,015km S 11° W of Calatagan (Batangas),015,S 11° W,Calatagan (Batangas)
-2026-03-23T21:26:00.000Z,23 March 2026 - 09:26 PM,18.98,121.13,033,1.8,016km S 30° W of Dalupiri Island (Calayan) (Cagayan),016,S 30° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-23T21:10:00.000Z,23 March 2026 - 09:10 PM,17.70,122.00,027,1.5,024km N 71° E of Peñablanca (Cagayan),024,N 71° E,PeÃ±ablanca (Cagayan)
