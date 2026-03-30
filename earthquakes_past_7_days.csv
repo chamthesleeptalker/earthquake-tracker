@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-30T19:16:00.000Z,30 March 2026 - 07:16 PM,13.24,120.75,020,1.8,017km N 86° E of Mamburao (Occidental Mindoro),017,N 86° E,Mamburao (Occidental Mindoro)
 2026-03-29T22:06:00.000Z,29 March 2026 - 10:06 PM,17.50,120.73,020,2.9,005km S 12° E of Bucay (Abra),005,S 12° E,Bucay (Abra)
 2026-03-30T15:26:00.000Z,30 March 2026 - 03:26 PM,14.83,122.10,030,1.8,014km S 85° E of Burdeos (Quezon),014,S 85° E,Burdeos (Quezon)
 2026-03-30T15:05:00.000Z,30 March 2026 - 03:05 PM,06.51,123.66,027,2.6,044km S 84° W of Kalamansig (Sultan Kudarat),044,S 84° W,Kalamansig (Sultan Kudarat)
@@ -354,9 +355,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-23T21:26:00.000Z,23 March 2026 - 09:26 PM,18.98,121.13,033,1.8,016km S 30° W of Dalupiri Island (Calayan) (Cagayan),016,S 30° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-23T21:10:00.000Z,23 March 2026 - 09:10 PM,17.70,122.00,027,1.5,024km N 71° E of Peñablanca (Cagayan),024,N 71° E,PeÃ±ablanca (Cagayan)
 2026-03-23T20:09:00.000Z,23 March 2026 - 08:09 PM,18.75,120.92,015,2.7,022km N 20° W of Santa Praxedes (Cagayan),022,N 20° W,Santa Praxedes (Cagayan)
-2026-03-23T17:55:00.000Z,23 March 2026 - 05:55 PM,06.76,125.14,007,2.0,002km N 50° W of Magsaysay (Davao Del Sur),002,N 50° W,Magsaysay (Davao Del Sur)
-2026-03-23T17:43:00.000Z,23 March 2026 - 05:43 PM,16.84,120.34,019,1.7,005km S 73° W of Luna (La Union),005,S 73° W,Luna (La Union)
-2026-03-23T16:35:00.000Z,23 March 2026 - 04:35 PM,08.01,123.95,027,1.6,004km S 15° E of Tangcal (Lanao Del Norte),004,S 15° E,Tangcal (Lanao Del Norte)
-2026-03-23T16:13:00.000Z,23 March 2026 - 04:13 PM,09.77,126.14,030,1.9,002km S 41° W of General Luna (Surigao Del Norte),002,S 41° W,General Luna (Surigao Del Norte)
-2026-03-23T15:44:00.000Z,23 March 2026 - 03:44 PM,08.73,126.28,033,1.9,007km S 75° E of San Agustin (Surigao Del Sur),007,S 75° E,San Agustin (Surigao Del Sur)
-2026-03-23T15:36:00.000Z,23 March 2026 - 03:36 PM,09.23,125.97,013,1.3,003km S 02° E of Madrid (Surigao Del Sur),003,S 02° E,Madrid (Surigao Del Sur)
