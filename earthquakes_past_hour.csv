@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-30T19:16:00.000Z,30 March 2026 - 07:16 PM,13.24,120.75,020,1.8,017km N 86° E of Mamburao (Occidental Mindoro),017,N 86° E,Mamburao (Occidental Mindoro)
+2026-03-30T20:52:00.000Z,30 March 2026 - 08:52 PM,15.68,120.23,015,2.4,014km S 28° W of Mangatarem (Pangasinan),014,S 28° W,Mangatarem (Pangasinan)
+2026-03-30T20:46:00.000Z,30 March 2026 - 08:46 PM,19.83,121.21,010,2.4,068km N 24° W of Calayan (Cagayan),068,N 24° W,Calayan (Cagayan)
+2026-03-30T20:25:00.000Z,30 March 2026 - 08:25 PM,07.43,127.13,003,2.1,064km N 80° E of Caraga (Davao Oriental),064,N 80° E,Caraga (Davao Oriental)
+2026-03-30T19:58:00.000Z,30 March 2026 - 07:58 PM,14.95,119.91,025,2.3,019km S 90° W of San Antonio (Zambales),019,S 90° W,San Antonio (Zambales)
