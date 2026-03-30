@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-30T12:20:00.000Z,30 March 2026 - 12:20 PM,08.54,126.99,004,3.3,074km N 75° E of Hinatuan (Surigao Del Sur),074,N 75° E,Hinatuan (Surigao Del Sur)
+2026-03-30T11:51:00.000Z,30 March 2026 - 11:51 AM,08.54,126.52,002,2.2,028km N 47° E of Hinatuan (Surigao Del Sur),028,N 47° E,Hinatuan (Surigao Del Sur)
+2026-03-30T11:48:00.000Z,30 March 2026 - 11:48 AM,06.45,123.82,002,3.3,029km S 66° W of Kalamansig (Sultan Kudarat),029,S 66° W,Kalamansig (Sultan Kudarat)
 2026-03-30T10:00:00.000Z,30 March 2026 - 10:00 AM,09.31,126.51,032,1.5,035km N 84° E of Cortes (Surigao Del Sur),035,N 84° E,Cortes (Surigao Del Sur)
 2026-03-30T09:47:00.000Z,30 March 2026 - 09:47 AM,07.38,127.11,029,2.6,061km N 85° E of Caraga (Davao Oriental),061,N 85° E,Caraga (Davao Oriental)
 2026-03-30T09:34:00.000Z,30 March 2026 - 09:34 AM,19.40,121.93,019,2.2,012km S 06° E of Babuyan Island (Calayan) (Cagayan),012,S 06° E,Babuyan Island (Calayan) (Cagayan)
@@ -359,5 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-23T12:44:00.000Z,23 March 2026 - 12:44 PM,09.95,126.21,035,2.1,014km N 84° E of San Isidro (Surigao Del Norte),014,N 84° E,San Isidro (Surigao Del Norte)
 2026-03-23T12:29:00.000Z,23 March 2026 - 12:29 PM,10.93,123.81,006,2.8,023km S 54° W of City Of Bogo (Cebu),023,S 54° W,City Of Bogo (Cebu)
 2026-03-23T12:25:00.000Z,23 March 2026 - 12:25 PM,10.91,123.82,004,3.2,023km S 48° W of City Of Bogo (Cebu),023,S 48° W,City Of Bogo (Cebu)
-2026-03-23T12:02:00.000Z,23 March 2026 - 12:02 PM,08.64,126.27,033,2.3,013km S 25° E of San Agustin (Surigao Del Sur),013,S 25° E,San Agustin (Surigao Del Sur)
-2026-03-23T11:18:00.000Z,23 March 2026 - 11:18 AM,17.78,120.24,033,2.6,023km S 87° W of Cabugao (Ilocos Sur),023,S 87° W,Cabugao (Ilocos Sur)
