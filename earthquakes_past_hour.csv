@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-03-30T22:12:00.000Z,30 March 2026 - 10:12 PM,12.65,124.53,027,1.8,014km N 15° W of Bobon (Northern Samar),014,N 15° W,Bobon (Northern Samar)
-2026-03-30T21:32:00.000Z,30 March 2026 - 09:32 PM,15.00,120.02,018,2.6,007km S 74° W of San Narciso (Zambales),007,S 74° W,San Narciso (Zambales)
-2026-03-30T21:31:00.000Z,30 March 2026 - 09:31 PM,13.98,120.29,057,2.0,022km N 52° E of Lubang (Occidental Mindoro),022,N 52° E,Lubang (Occidental Mindoro)
+2026-03-30T23:37:00.000Z,30 March 2026 - 11:37 PM,13.91,119.91,013,2.0,023km N 75° W of Lubang (Occidental Mindoro),023,N 75° W,Lubang (Occidental Mindoro)
+2026-03-30T23:11:00.000Z,30 March 2026 - 11:11 PM,11.70,125.11,062,2.3,005km N 86° E of Hinabangan (Samar),005,N 86° E,Hinabangan (Samar)
+2026-03-30T22:48:00.000Z,30 March 2026 - 10:48 PM,09.93,122.17,009,2.3,034km N 59° W of City Of Sipalay (Negros Occidental),034,N 59° W,City Of Sipalay (Negros Occidental)
+2026-03-30T22:46:00.000Z,30 March 2026 - 10:46 PM,15.38,119.85,019,2.9,009km S 51° W of Palauig (Zambales),009,S 51° W,Palauig (Zambales)
+2026-03-30T22:46:00.000Z,30 March 2026 - 10:46 PM,06.94,125.90,007,2.5,012km S 76° W of Banaybanay (Davao Oriental),012,S 76° W,Banaybanay (Davao Oriental)
+2026-03-30T22:42:00.000Z,30 March 2026 - 10:42 PM,19.14,121.11,033,1.8,010km N 71° W of Dalupiri Island (Calayan) (Cagayan),010,N 71° W,Dalupiri Island (Calayan) (Cagayan)
