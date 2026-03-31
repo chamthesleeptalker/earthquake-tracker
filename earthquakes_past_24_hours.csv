@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T15:02:00.000Z,31 March 2026 - 03:02 PM,13.57,120.68,087,1.6,014km N 19° W of Abra De Ilog (Occidental Mindoro),014,N 19° W,Abra De Ilog (Occidental Mindoro)
+2026-03-31T14:26:00.000Z,31 March 2026 - 02:26 PM,13.77,120.02,020,1.8,014km S 47° W of Lubang (Occidental Mindoro),014,S 47° W,Lubang (Occidental Mindoro)
 2026-03-31T13:29:00.000Z,31 March 2026 - 01:29 PM,12.79,123.19,021,1.9,014km S 27° W of Claveria (Masbate),014,S 27° W,Claveria (Masbate)
 2026-03-31T11:54:00.000Z,31 March 2026 - 11:54 AM,08.68,126.57,016,2.6,032km S 67° E of Marihatag (Surigao Del Sur),032,S 67° E,Marihatag (Surigao Del Sur)
 2026-03-31T11:37:00.000Z,31 March 2026 - 11:37 AM,02.97,126.46,058,4.3,294km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),294,S 23° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -45,5 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-30T19:16:00.000Z,30 March 2026 - 07:16 PM,13.24,120.75,020,1.8,017km N 86° E of Mamburao (Occidental Mindoro),017,N 86° E,Mamburao (Occidental Mindoro)
 2026-03-30T15:26:00.000Z,30 March 2026 - 03:26 PM,14.83,122.10,030,1.8,014km S 85° E of Burdeos (Quezon),014,S 85° E,Burdeos (Quezon)
 2026-03-30T15:05:00.000Z,30 March 2026 - 03:05 PM,06.51,123.66,027,2.6,044km S 84° W of Kalamansig (Sultan Kudarat),044,S 84° W,Kalamansig (Sultan Kudarat)
-2026-03-30T13:50:00.000Z,30 March 2026 - 01:50 PM,07.13,126.52,106,3.2,009km S 10° W of Manay (Davao Oriental),009,S 10° W,Manay (Davao Oriental)
-2026-03-30T13:30:00.000Z,30 March 2026 - 01:30 PM,11.13,124.05,007,2.8,012km N 39° E of City Of Bogo (Cebu),012,N 39° E,City Of Bogo (Cebu)
