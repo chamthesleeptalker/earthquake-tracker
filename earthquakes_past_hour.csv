@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-01T01:17:00.000Z,01 April 2026 - 01:17 AM,17.33,121.84,039,1.8,007km N 64° E of Delfin Albano (Isabela),007,N 64° E,Delfin Albano (Isabela)
-2026-04-01T01:01:00.000Z,01 April 2026 - 01:01 AM,13.92,120.58,096,1.4,011km N 31° W of Calatagan (Batangas),011,N 31° W,Calatagan (Batangas)
-2026-04-01T00:41:00.000Z,01 April 2026 - 12:41 AM,08.98,126.42,033,2.0,015km N 85° E of Bayabas (Surigao Del Sur),015,N 85° E,Bayabas (Surigao Del Sur)
-2026-04-01T00:33:00.000Z,01 April 2026 - 12:33 AM,11.13,124.16,006,2.1,022km N 64° E of City Of Bogo (Cebu),022,N 64° E,City Of Bogo (Cebu)
-2026-04-01T00:24:00.000Z,01 April 2026 - 12:24 AM,07.19,125.71,032,1.7,011km S 21° E of City Of Panabo (Davao Del Norte),011,S 21° E,City Of Panabo (Davao Del Norte)
+2026-04-01T03:53:00.000Z,01 April 2026 - 03:53 AM,13.35,120.23,025,2.2,027km S 74° W of Paluan (Occidental Mindoro),027,S 74° W,Paluan (Occidental Mindoro)
+2026-04-01T03:41:00.000Z,01 April 2026 - 03:41 AM,19.77,121.40,002,1.7,057km N 07° W of Calayan (Cagayan),057,N 07° W,Calayan (Cagayan)
+2026-04-01T03:07:00.000Z,01 April 2026 - 03:07 AM,12.37,120.75,008,1.6,025km S 66° W of Rizal (Occidental Mindoro),025,S 66° W,Rizal (Occidental Mindoro)
+2026-04-01T02:58:00.000Z,01 April 2026 - 02:58 AM,10.49,123.08,014,2.4,013km S 19° E of Murcia (Negros Occidental),013,S 19° E,Murcia (Negros Occidental)
