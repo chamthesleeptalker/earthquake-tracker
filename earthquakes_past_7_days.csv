@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T21:30:00.000Z,31 March 2026 - 09:30 PM,19.93,120.29,011,3.8,130km N 47° W of Dalupiri Island (Calayan) (Cagayan),130,N 47° W,Dalupiri Island (Calayan) (Cagayan)
+2026-03-31T21:06:00.000Z,31 March 2026 - 09:06 PM,07.69,126.46,020,1.8,011km S 06° E of Cateel (Davao Oriental),011,S 06° E,Cateel (Davao Oriental)
+2026-03-31T20:44:00.000Z,31 March 2026 - 08:44 PM,08.40,126.72,034,1.8,042km N 85° E of Hinatuan (Surigao Del Sur),042,N 85° E,Hinatuan (Surigao Del Sur)
 2026-03-31T16:21:00.000Z,31 March 2026 - 04:21 PM,17.40,121.90,035,1.4,012km S 64° E of San Pablo (Isabela),012,S 64° E,San Pablo (Isabela)
 2026-03-31T16:20:00.000Z,31 March 2026 - 04:20 PM,18.11,120.57,029,1.8,006km N 08° E of City Of Batac (Ilocos Norte),006,N 08° E,City Of Batac (Ilocos Norte)
 2026-03-31T15:02:00.000Z,31 March 2026 - 03:02 PM,13.57,120.68,087,1.6,014km N 19° W of Abra De Ilog (Occidental Mindoro),014,N 19° W,Abra De Ilog (Occidental Mindoro)
@@ -361,10 +364,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-24T22:53:00.000Z,24 March 2026 - 10:53 PM,14.81,122.51,010,1.8,023km N 57° E of Jomalig (Quezon),023,N 57° E,Jomalig (Quezon)
 2026-03-24T22:48:00.000Z,24 March 2026 - 10:48 PM,11.19,124.12,008,2.3,022km N 43° E of City Of Bogo (Cebu),022,N 43° E,City Of Bogo (Cebu)
 2026-03-24T22:36:00.000Z,24 March 2026 - 10:36 PM,11.20,124.11,003,2.4,022km N 41° E of City Of Bogo (Cebu),022,N 41° E,City Of Bogo (Cebu)
-2026-03-24T21:13:00.000Z,24 March 2026 - 09:13 PM,13.62,120.54,057,1.4,024km N 20° E of Paluan (Occidental Mindoro),024,N 20° E,Paluan (Occidental Mindoro)
-2026-03-24T20:45:00.000Z,24 March 2026 - 08:45 PM,08.00,124.55,024,2.1,017km S 59° E of Tagoloan Ii (Lanao Del Sur),017,S 59° E,Tagoloan Ii (Lanao Del Sur)
-2026-03-24T20:36:00.000Z,24 March 2026 - 08:36 PM,13.94,123.33,033,1.9,012km S 38° E of Siruma (Camarines Sur),012,S 38° E,Siruma (Camarines Sur)
-2026-03-24T20:01:00.000Z,24 March 2026 - 08:01 PM,09.74,126.36,002,3.0,023km S 79° E of General Luna (Surigao Del Norte),023,S 79° E,General Luna (Surigao Del Norte)
-2026-03-24T19:22:00.000Z,24 March 2026 - 07:22 PM,12.62,123.35,007,1.8,013km N 24° W of Aroroy (Masbate),013,N 24° W,Aroroy (Masbate)
-2026-03-24T18:59:00.000Z,24 March 2026 - 06:59 PM,12.38,120.80,009,1.9,020km S 63° W of Rizal (Occidental Mindoro),020,S 63° W,Rizal (Occidental Mindoro)
-2026-03-24T16:25:00.000Z,24 March 2026 - 04:25 PM,10.32,126.29,029,1.9,041km N 35° E of Burgos (Surigao Del Norte),041,N 35° E,Burgos (Surigao Del Norte)
