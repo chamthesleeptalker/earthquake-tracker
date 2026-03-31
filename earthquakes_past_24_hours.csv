@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T11:54:00.000Z,31 March 2026 - 11:54 AM,08.68,126.57,016,2.6,032km S 67° E of Marihatag (Surigao Del Sur),032,S 67° E,Marihatag (Surigao Del Sur)
+2026-03-31T11:37:00.000Z,31 March 2026 - 11:37 AM,02.97,126.46,058,4.3,294km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),294,S 23° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-31T10:53:00.000Z,31 March 2026 - 10:53 AM,17.98,121.70,019,2.7,010km N 27° E of Alcala (Cagayan),010,N 27° E,Alcala (Cagayan)
+2026-03-31T10:42:00.000Z,31 March 2026 - 10:42 AM,06.60,124.85,036,1.6,004km N 05° W of Lutayan (Sultan Kudarat),004,N 05° W,Lutayan (Sultan Kudarat)
+2026-03-31T10:00:00.000Z,31 March 2026 - 10:00 AM,09.01,126.21,021,1.8,003km S 74° W of Tago (Surigao Del Sur),003,S 74° W,Tago (Surigao Del Sur)
 2026-03-31T09:59:00.000Z,31 March 2026 - 09:59 AM,04.99,125.00,013,3.2,066km S 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),066,S 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-31T07:39:00.000Z,31 March 2026 - 07:39 AM,05.56,126.98,013,2.6,153km S 75° E of Jose Abad Santos (Davao Occidental),153,S 75° E,Jose Abad Santos (Davao Occidental)
 2026-03-31T06:08:00.000Z,31 March 2026 - 06:08 AM,07.62,124.74,036,1.8,003km S 45° E of Wao (Lanao Del Sur),003,S 45° E,Wao (Lanao Del Sur)
@@ -42,6 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-30T13:50:00.000Z,30 March 2026 - 01:50 PM,07.13,126.52,106,3.2,009km S 10° W of Manay (Davao Oriental),009,S 10° W,Manay (Davao Oriental)
 2026-03-30T13:30:00.000Z,30 March 2026 - 01:30 PM,11.13,124.05,007,2.8,012km N 39° E of City Of Bogo (Cebu),012,N 39° E,City Of Bogo (Cebu)
 2026-03-30T12:20:00.000Z,30 March 2026 - 12:20 PM,08.54,126.99,004,3.3,074km N 75° E of Hinatuan (Surigao Del Sur),074,N 75° E,Hinatuan (Surigao Del Sur)
-2026-03-30T11:51:00.000Z,30 March 2026 - 11:51 AM,08.54,126.52,002,2.2,028km N 47° E of Hinatuan (Surigao Del Sur),028,N 47° E,Hinatuan (Surigao Del Sur)
-2026-03-30T11:48:00.000Z,30 March 2026 - 11:48 AM,06.45,123.82,002,3.3,029km S 66° W of Kalamansig (Sultan Kudarat),029,S 66° W,Kalamansig (Sultan Kudarat)
-2026-03-30T10:00:00.000Z,30 March 2026 - 10:00 AM,09.31,126.51,032,1.5,035km N 84° E of Cortes (Surigao Del Sur),035,N 84° E,Cortes (Surigao Del Sur)
