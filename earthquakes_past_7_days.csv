@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T23:11:00.000Z,31 March 2026 - 11:11 PM,09.60,122.33,034,2.1,015km N 89° W of Hinoba-an (Negros Occidental),015,N 89° W,Hinoba-an (Negros Occidental)
+2026-03-31T23:08:00.000Z,31 March 2026 - 11:08 PM,11.16,123.95,021,2.3,013km N 14° W of City Of Bogo (Cebu),013,N 14° W,City Of Bogo (Cebu)
 2026-03-31T21:30:00.000Z,31 March 2026 - 09:30 PM,19.93,120.29,011,3.8,130km N 47° W of Dalupiri Island (Calayan) (Cagayan),130,N 47° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-31T21:06:00.000Z,31 March 2026 - 09:06 PM,07.69,126.46,020,1.8,011km S 06° E of Cateel (Davao Oriental),011,S 06° E,Cateel (Davao Oriental)
 2026-03-31T20:44:00.000Z,31 March 2026 - 08:44 PM,08.40,126.72,034,1.8,042km N 85° E of Hinatuan (Surigao Del Sur),042,N 85° E,Hinatuan (Surigao Del Sur)
@@ -360,7 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-24T23:32:00.000Z,24 March 2026 - 11:32 PM,07.18,123.76,034,1.4,032km N 68° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),032,N 68° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-03-24T23:28:00.000Z,24 March 2026 - 11:28 PM,17.62,120.75,018,2.1,002km N 71° E of Lagangilang (Abra),002,N 71° E,Lagangilang (Abra)
 2026-03-24T23:16:00.000Z,24 March 2026 - 11:16 PM,13.40,124.16,009,2.0,021km S 21° W of Virac (Catanduanes),021,S 21° W,Virac (Catanduanes)
-2026-03-24T23:06:00.000Z,24 March 2026 - 11:06 PM,06.15,126.84,074,2.7,101km S 57° E of Governor Generoso (Davao Oriental),101,S 57° E,Governor Generoso (Davao Oriental)
-2026-03-24T22:53:00.000Z,24 March 2026 - 10:53 PM,14.81,122.51,010,1.8,023km N 57° E of Jomalig (Quezon),023,N 57° E,Jomalig (Quezon)
-2026-03-24T22:48:00.000Z,24 March 2026 - 10:48 PM,11.19,124.12,008,2.3,022km N 43° E of City Of Bogo (Cebu),022,N 43° E,City Of Bogo (Cebu)
-2026-03-24T22:36:00.000Z,24 March 2026 - 10:36 PM,11.20,124.11,003,2.4,022km N 41° E of City Of Bogo (Cebu),022,N 41° E,City Of Bogo (Cebu)
