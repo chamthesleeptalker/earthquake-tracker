@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-03-31T09:59:00.000Z,31 March 2026 - 09:59 AM,04.99,125.00,013,3.2,066km S 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),066,S 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-03-31T07:39:00.000Z,31 March 2026 - 07:39 AM,05.56,126.98,013,2.6,153km S 75° E of Jose Abad Santos (Davao Occidental),153,S 75° E,Jose Abad Santos (Davao Occidental)
 2026-03-31T06:08:00.000Z,31 March 2026 - 06:08 AM,07.62,124.74,036,1.8,003km S 45° E of Wao (Lanao Del Sur),003,S 45° E,Wao (Lanao Del Sur)
 2026-03-31T05:33:00.000Z,31 March 2026 - 05:33 AM,07.24,126.67,029,2.9,015km S 50° E of Caraga (Davao Oriental),015,S 50° E,Caraga (Davao Oriental)
 2026-03-31T05:18:00.000Z,31 March 2026 - 05:18 AM,16.50,122.16,007,2.3,011km S 75° W of Dinapigue (Isabela),011,S 75° W,Dinapigue (Isabela)
@@ -361,8 +363,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-24T14:59:00.000Z,24 March 2026 - 02:59 PM,12.75,123.43,007,1.7,025km S 47° W of Donsol (Sorsogon),025,S 47° W,Donsol (Sorsogon)
 2026-03-24T13:20:00.000Z,24 March 2026 - 01:20 PM,06.20,126.31,047,3.0,056km S 27° E of Governor Generoso (Davao Oriental),056,S 27° E,Governor Generoso (Davao Oriental)
 2026-03-24T12:12:00.000Z,24 March 2026 - 12:12 PM,17.97,122.22,032,2.1,038km N 76° E of Baggao (Cagayan),038,N 76° E,Baggao (Cagayan)
-2026-03-24T09:53:00.000Z,24 March 2026 - 09:53 AM,10.00,126.26,036,1.9,021km S 84° E of Burgos (Surigao Del Norte),021,S 84° E,Burgos (Surigao Del Norte)
-2026-03-24T09:27:00.000Z,24 March 2026 - 09:27 AM,13.35,120.66,013,1.5,013km S 35° W of Abra De Ilog (Occidental Mindoro),013,S 35° W,Abra De Ilog (Occidental Mindoro)
-2026-03-24T09:26:00.000Z,24 March 2026 - 09:26 AM,17.80,120.52,026,2.5,007km N 84° E of Cabugao (Ilocos Sur),007,N 84° E,Cabugao (Ilocos Sur)
-2026-03-24T08:53:00.000Z,24 March 2026 - 08:53 AM,10.72,124.93,005,2.2,008km S 08° W of Javier (Leyte),008,S 08° W,Javier (Leyte)
-2026-03-24T06:12:00.000Z,24 March 2026 - 06:12 AM,09.69,126.32,017,3.1,021km S 60° E of General Luna (Surigao Del Norte),021,S 60° E,General Luna (Surigao Del Norte)
