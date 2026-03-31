@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-01T00:41:00.000Z,01 April 2026 - 12:41 AM,08.98,126.42,033,2.0,015km N 85° E of Bayabas (Surigao Del Sur),015,N 85° E,Bayabas (Surigao Del Sur)
+2026-04-01T00:33:00.000Z,01 April 2026 - 12:33 AM,11.13,124.16,006,2.1,022km N 64° E of City Of Bogo (Cebu),022,N 64° E,City Of Bogo (Cebu)
+2026-04-01T00:24:00.000Z,01 April 2026 - 12:24 AM,07.19,125.71,032,1.7,011km S 21° E of City Of Panabo (Davao Del Norte),011,S 21° E,City Of Panabo (Davao Del Norte)
+2026-04-01T00:12:00.000Z,01 April 2026 - 12:12 AM,12.62,123.54,008,3.1,013km S 78° W of Monreal (Masbate),013,S 78° W,Monreal (Masbate)
+2026-04-01T00:07:00.000Z,01 April 2026 - 12:07 AM,09.34,121.33,024,2.5,128km S 77° W of Hinoba-an (Negros Occidental),128,S 77° W,Hinoba-an (Negros Occidental)
 2026-03-31T23:11:00.000Z,31 March 2026 - 11:11 PM,09.60,122.33,034,2.1,015km N 89° W of Hinoba-an (Negros Occidental),015,N 89° W,Hinoba-an (Negros Occidental)
 2026-03-31T23:08:00.000Z,31 March 2026 - 11:08 PM,11.16,123.95,021,2.3,013km N 14° W of City Of Bogo (Cebu),013,N 14° W,City Of Bogo (Cebu)
 2026-03-31T21:30:00.000Z,31 March 2026 - 09:30 PM,19.93,120.29,011,3.8,130km N 47° W of Dalupiri Island (Calayan) (Cagayan),130,N 47° W,Dalupiri Island (Calayan) (Cagayan)
