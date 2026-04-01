@@ -1,4 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-01T15:36:00.000Z,01 April 2026 - 03:36 PM,16.84,120.23,057,2.0,016km S 86° W of Luna (La Union),016,S 86° W,Luna (La Union)
-2026-04-01T15:03:00.000Z,01 April 2026 - 03:03 PM,11.03,124.08,004,2.6,011km S 83° E of City Of Bogo (Cebu),011,S 83° E,City Of Bogo (Cebu)
-2026-04-01T14:42:00.000Z,01 April 2026 - 02:42 PM,09.17,126.30,117,1.9,017km S 44° E of Cortes (Surigao Del Sur),017,S 44° E,Cortes (Surigao Del Sur)
+2026-04-01T16:38:00.000Z,01 April 2026 - 04:38 PM,09.93,126.04,017,3.0,005km S 40° E of San Benito (Surigao Del Norte),005,S 40° E,San Benito (Surigao Del Norte)

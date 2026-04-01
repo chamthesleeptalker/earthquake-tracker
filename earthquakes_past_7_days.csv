@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-01T16:38:00.000Z,01 April 2026 - 04:38 PM,09.93,126.04,017,3.0,005km S 40° E of San Benito (Surigao Del Norte),005,S 40° E,San Benito (Surigao Del Norte)
 2026-04-01T15:36:00.000Z,01 April 2026 - 03:36 PM,16.84,120.23,057,2.0,016km S 86° W of Luna (La Union),016,S 86° W,Luna (La Union)
 2026-04-01T15:03:00.000Z,01 April 2026 - 03:03 PM,11.03,124.08,004,2.6,011km S 83° E of City Of Bogo (Cebu),011,S 83° E,City Of Bogo (Cebu)
 2026-04-01T14:42:00.000Z,01 April 2026 - 02:42 PM,09.17,126.30,117,1.9,017km S 44° E of Cortes (Surigao Del Sur),017,S 44° E,Cortes (Surigao Del Sur)
@@ -349,7 +350,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-25T17:17:00.000Z,25 March 2026 - 05:17 PM,12.98,123.62,034,2.2,009km N 17° E of Donsol (Sorsogon),009,N 17° E,Donsol (Sorsogon)
 2026-03-25T17:06:00.000Z,25 March 2026 - 05:06 PM,11.04,126.33,001,3.5,066km N 89° E of Guiuan (Eastern Samar),066,N 89° E,Guiuan (Eastern Samar)
 2026-03-25T17:01:00.000Z,25 March 2026 - 05:01 PM,11.46,125.42,033,1.7,010km S 79° W of Balangkayan (Eastern Samar),010,S 79° W,Balangkayan (Eastern Samar)
-2026-03-25T16:35:00.000Z,25 March 2026 - 04:35 PM,11.06,126.20,016,3.0,052km N 87° E of Guiuan (Eastern Samar),052,N 87° E,Guiuan (Eastern Samar)
-2026-03-25T16:31:00.000Z,25 March 2026 - 04:31 PM,09.74,123.67,009,2.0,015km S 82° E of Dalaguete (Cebu),015,S 82° E,Dalaguete (Cebu)
-2026-03-25T15:51:00.000Z,25 March 2026 - 03:51 PM,11.08,124.00,008,2.0,004km N 34° E of City Of Bogo (Cebu),004,N 34° E,City Of Bogo (Cebu)
-2026-03-25T15:45:00.000Z,25 March 2026 - 03:45 PM,15.26,122.93,031,1.6,087km N 01° W of Tinaga Island (Vinzons) (Camarines Norte),087,N 01° W,Tinaga Island (Vinzons) (Camarines Norte)
