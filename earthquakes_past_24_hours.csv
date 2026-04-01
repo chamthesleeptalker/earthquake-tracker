@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-02T06:48:00.000Z,02 April 2026 - 06:48 AM,,,,7.4,"017127 km WNW of Ternate, Indonesia",017127,km WNW of,Indonesia
+2026-04-02T06:37:00.000Z,02 April 2026 - 06:37 AM,10.89,123.98,012,3.5,017km S 01° W of City Of Bogo (Cebu),017,S 01° W,City Of Bogo (Cebu)
 2026-04-02T04:58:00.000Z,02 April 2026 - 04:58 AM,10.79,121.89,020,2.6,007km N 48° W of San Jose De Buenavista (Antique),007,N 48° W,San Jose De Buenavista (Antique)
 2026-04-02T04:55:00.000Z,02 April 2026 - 04:55 AM,12.78,122.85,016,1.8,035km S 28° W of San Pascual (Masbate),035,S 28° W,San Pascual (Masbate)
 2026-04-02T04:47:00.000Z,02 April 2026 - 04:47 AM,10.79,122.04,033,2.0,002km East of Sibalom (Antique),002,East of Sibalom,
@@ -41,7 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T09:59:00.000Z,01 April 2026 - 09:59 AM,05.84,125.90,137,1.9,030km S 74° E of Jose Abad Santos (Davao Occidental),030,S 74° E,Jose Abad Santos (Davao Occidental)
 2026-04-01T09:02:00.000Z,01 April 2026 - 09:02 AM,09.07,126.00,025,2.0,015km N 17° W of San Miguel (Surigao Del Sur),015,N 17° W,San Miguel (Surigao Del Sur)
 2026-04-01T07:06:00.000Z,01 April 2026 - 07:06 AM,09.14,122.18,019,2.8,058km S 59° W of Basay (Negros Oriental),058,S 59° W,Basay (Negros Oriental)
-2026-04-01T06:44:00.000Z,01 April 2026 - 06:44 AM,07.78,125.47,029,2.1,020km N 36° W of Talaingod (Davao Del Norte),020,N 36° W,Talaingod (Davao Del Norte)
-2026-04-01T06:35:00.000Z,01 April 2026 - 06:35 AM,07.52,127.29,019,2.7,080km S 86° E of Baganga (Davao Oriental),080,S 86° E,Baganga (Davao Oriental)
-2026-04-01T05:04:00.000Z,01 April 2026 - 05:04 AM,08.66,127.65,049,2.6,148km N 77° E of Hinatuan (Surigao Del Sur),148,N 77° E,Hinatuan (Surigao Del Sur)
-2026-04-01T04:59:00.000Z,01 April 2026 - 04:59 AM,11.03,124.04,031,1.5,007km S 77° E of City Of Bogo (Cebu),007,S 77° E,City Of Bogo (Cebu)
