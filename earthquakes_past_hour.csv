@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-01T09:59:00.000Z,01 April 2026 - 09:59 AM,05.84,125.90,137,1.9,030km S 74° E of Jose Abad Santos (Davao Occidental),030,S 74° E,Jose Abad Santos (Davao Occidental)
-2026-04-01T09:02:00.000Z,01 April 2026 - 09:02 AM,09.07,126.00,025,2.0,015km N 17° W of San Miguel (Surigao Del Sur),015,N 17° W,San Miguel (Surigao Del Sur)
+2026-04-01T13:01:00.000Z,01 April 2026 - 01:01 PM,04.93,126.58,012,4.0,137km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),137,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-01T12:57:00.000Z,01 April 2026 - 12:57 PM,16.36,122.05,006,2.1,013km N 40° W of Casiguran (Aurora),013,N 40° W,Casiguran (Aurora)
+2026-04-01T12:25:00.000Z,01 April 2026 - 12:25 PM,18.08,120.55,029,1.8,004km N 29° W of City Of Batac (Ilocos Norte),004,N 29° W,City Of Batac (Ilocos Norte)
+2026-04-01T12:23:00.000Z,01 April 2026 - 12:23 PM,17.55,120.67,009,1.5,003km S 56° E of Peñarrubia (Abra),003,S 56° E,PeÃ±arrubia (Abra)
