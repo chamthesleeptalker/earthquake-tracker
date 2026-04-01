@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-02T00:37:00.000Z,02 April 2026 - 12:37 AM,08.39,125.77,024,1.4,007km S 11° W of Talacogon (Agusan Del Sur),007,S 11° W,Talacogon (Agusan Del Sur)
+2026-04-02T00:36:00.000Z,02 April 2026 - 12:36 AM,06.51,123.83,032,1.8,010km N 71° W of Kalamansig (Sultan Kudarat),010,N 71° W,Kalamansig (Sultan Kudarat)
+2026-04-02T00:27:00.000Z,02 April 2026 - 12:27 AM,08.53,125.83,025,2.4,010km N 31° E of Talacogon (Agusan Del Sur),010,N 31° E,Talacogon (Agusan Del Sur)
+2026-04-01T23:59:00.000Z,01 April 2026 - 11:59 PM,11.94,120.69,026,2.3,054km S 83° E of Coron (Palawan),054,S 83° E,Coron (Palawan)
 2026-04-01T23:33:00.000Z,01 April 2026 - 11:33 PM,05.19,125.68,113,2.5,038km S 50° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),038,S 50° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-01T23:13:00.000Z,01 April 2026 - 11:13 PM,12.67,120.64,015,1.5,024km S 40° W of Sablayan (Occidental Mindoro),024,S 40° W,Sablayan (Occidental Mindoro)
 2026-04-01T22:02:00.000Z,01 April 2026 - 10:02 PM,15.22,120.46,001,1.7,012km S 75° W of Mabalacat City (Pampanga),012,S 75° W,Mabalacat City (Pampanga)
@@ -39,7 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T01:17:00.000Z,01 April 2026 - 01:17 AM,17.33,121.84,039,1.8,007km N 64° E of Delfin Albano (Isabela),007,N 64° E,Delfin Albano (Isabela)
 2026-04-01T01:01:00.000Z,01 April 2026 - 01:01 AM,13.92,120.58,096,1.4,011km N 31° W of Calatagan (Batangas),011,N 31° W,Calatagan (Batangas)
 2026-04-01T00:41:00.000Z,01 April 2026 - 12:41 AM,08.98,126.42,033,2.0,015km N 85° E of Bayabas (Surigao Del Sur),015,N 85° E,Bayabas (Surigao Del Sur)
-2026-04-01T00:33:00.000Z,01 April 2026 - 12:33 AM,11.13,124.16,006,2.1,022km N 64° E of City Of Bogo (Cebu),022,N 64° E,City Of Bogo (Cebu)
-2026-04-01T00:24:00.000Z,01 April 2026 - 12:24 AM,07.19,125.71,032,1.7,011km S 21° E of City Of Panabo (Davao Del Norte),011,S 21° E,City Of Panabo (Davao Del Norte)
-2026-04-01T00:12:00.000Z,01 April 2026 - 12:12 AM,12.62,123.54,008,3.1,013km S 78° W of Monreal (Masbate),013,S 78° W,Monreal (Masbate)
-2026-04-01T00:07:00.000Z,01 April 2026 - 12:07 AM,09.34,121.33,024,2.5,128km S 77° W of Hinoba-an (Negros Occidental),128,S 77° W,Hinoba-an (Negros Occidental)
