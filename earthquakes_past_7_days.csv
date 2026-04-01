@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-02T04:58:00.000Z,02 April 2026 - 04:58 AM,10.79,121.89,020,2.6,007km N 48° W of San Jose De Buenavista (Antique),007,N 48° W,San Jose De Buenavista (Antique)
+2026-04-02T04:55:00.000Z,02 April 2026 - 04:55 AM,12.78,122.85,016,1.8,035km S 28° W of San Pascual (Masbate),035,S 28° W,San Pascual (Masbate)
+2026-04-02T04:47:00.000Z,02 April 2026 - 04:47 AM,10.79,122.04,033,2.0,002km East of Sibalom (Antique),002,East of Sibalom,
+2026-04-02T04:40:00.000Z,02 April 2026 - 04:40 AM,08.05,127.50,060,2.4,117km N 63° E of Baganga (Davao Oriental),117,N 63° E,Baganga (Davao Oriental)
+2026-04-02T04:38:00.000Z,02 April 2026 - 04:38 AM,19.55,121.35,010,2.2,035km N 23° W of Calayan (Cagayan),035,N 23° W,Calayan (Cagayan)
 2026-04-02T03:59:00.000Z,02 April 2026 - 03:59 AM,13.71,120.60,087,1.5,013km S 12° W of Calatagan (Batangas),013,S 12° W,Calatagan (Batangas)
 2026-04-02T03:32:00.000Z,02 April 2026 - 03:32 AM,04.72,125.67,020,2.2,081km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),081,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-02T03:13:00.000Z,02 April 2026 - 03:13 AM,19.73,121.32,035,1.6,054km N 17° W of Calayan (Cagayan),054,N 17° W,Calayan (Cagayan)
@@ -343,4 +348,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-26T05:53:00.000Z,26 March 2026 - 05:53 AM,12.13,120.91,033,1.7,030km S 34° W of San Jose (Occidental Mindoro),030,S 34° W,San Jose (Occidental Mindoro)
 2026-03-26T05:17:00.000Z,26 March 2026 - 05:17 AM,07.93,126.73,007,2.6,034km N 64° E of Cateel (Davao Oriental),034,N 64° E,Cateel (Davao Oriental)
 2026-03-26T04:59:00.000Z,26 March 2026 - 04:59 AM,15.54,121.94,020,1.5,047km S 59° E of Baler (Aurora),047,S 59° E,Baler (Aurora)
-2026-03-26T04:13:00.000Z,26 March 2026 - 04:13 AM,19.24,121.55,006,1.9,008km S 74° E of Calayan (Cagayan),008,S 74° E,Calayan (Cagayan)
