@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-01T14:42:00.000Z,01 April 2026 - 02:42 PM,09.17,126.30,117,1.9,017km S 44° E of Cortes (Surigao Del Sur),017,S 44° E,Cortes (Surigao Del Sur)
+2026-04-01T14:21:00.000Z,01 April 2026 - 02:21 PM,11.19,123.98,031,1.9,016km N 01° W of City Of Bogo (Cebu),016,N 01° W,City Of Bogo (Cebu)
 2026-04-01T13:01:00.000Z,01 April 2026 - 01:01 PM,04.93,126.58,012,4.0,137km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),137,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-01T12:57:00.000Z,01 April 2026 - 12:57 PM,16.36,122.05,006,2.1,013km N 40° W of Casiguran (Aurora),013,N 40° W,Casiguran (Aurora)
 2026-04-01T12:25:00.000Z,01 April 2026 - 12:25 PM,18.08,120.55,029,1.8,004km N 29° W of City Of Batac (Ilocos Norte),004,N 29° W,City Of Batac (Ilocos Norte)
