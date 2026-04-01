@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-02T01:20:00.000Z,02 April 2026 - 01:20 AM,06.38,125.79,135,2.7,020km S 79° E of Malita (Davao Occidental),020,S 79° E,Malita (Davao Occidental)
 2026-04-02T00:37:00.000Z,02 April 2026 - 12:37 AM,08.39,125.77,024,1.4,007km S 11° W of Talacogon (Agusan Del Sur),007,S 11° W,Talacogon (Agusan Del Sur)
 2026-04-02T00:36:00.000Z,02 April 2026 - 12:36 AM,06.51,123.83,032,1.8,010km N 71° W of Kalamansig (Sultan Kudarat),010,N 71° W,Kalamansig (Sultan Kudarat)
 2026-04-02T00:27:00.000Z,02 April 2026 - 12:27 AM,08.53,125.83,025,2.4,010km N 31° E of Talacogon (Agusan Del Sur),010,N 31° E,Talacogon (Agusan Del Sur)
@@ -40,6 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T03:41:00.000Z,01 April 2026 - 03:41 AM,19.77,121.40,002,1.7,057km N 07° W of Calayan (Cagayan),057,N 07° W,Calayan (Cagayan)
 2026-04-01T03:07:00.000Z,01 April 2026 - 03:07 AM,12.37,120.75,008,1.6,025km S 66° W of Rizal (Occidental Mindoro),025,S 66° W,Rizal (Occidental Mindoro)
 2026-04-01T02:58:00.000Z,01 April 2026 - 02:58 AM,10.49,123.08,014,2.4,013km S 19° E of Murcia (Negros Occidental),013,S 19° E,Murcia (Negros Occidental)
-2026-04-01T01:17:00.000Z,01 April 2026 - 01:17 AM,17.33,121.84,039,1.8,007km N 64° E of Delfin Albano (Isabela),007,N 64° E,Delfin Albano (Isabela)
-2026-04-01T01:01:00.000Z,01 April 2026 - 01:01 AM,13.92,120.58,096,1.4,011km N 31° W of Calatagan (Batangas),011,N 31° W,Calatagan (Batangas)
-2026-04-01T00:41:00.000Z,01 April 2026 - 12:41 AM,08.98,126.42,033,2.0,015km N 85° E of Bayabas (Surigao Del Sur),015,N 85° E,Bayabas (Surigao Del Sur)

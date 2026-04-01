@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-02T01:20:00.000Z,02 April 2026 - 01:20 AM,06.38,125.79,135,2.7,020km S 79° E of Malita (Davao Occidental),020,S 79° E,Malita (Davao Occidental)
 2026-04-02T00:37:00.000Z,02 April 2026 - 12:37 AM,08.39,125.77,024,1.4,007km S 11° W of Talacogon (Agusan Del Sur),007,S 11° W,Talacogon (Agusan Del Sur)
 2026-04-02T00:36:00.000Z,02 April 2026 - 12:36 AM,06.51,123.83,032,1.8,010km N 71° W of Kalamansig (Sultan Kudarat),010,N 71° W,Kalamansig (Sultan Kudarat)
 2026-04-02T00:27:00.000Z,02 April 2026 - 12:27 AM,08.53,125.83,025,2.4,010km N 31° E of Talacogon (Agusan Del Sur),010,N 31° E,Talacogon (Agusan Del Sur)
