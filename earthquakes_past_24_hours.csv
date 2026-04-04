@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-04T21:37:00.000Z,04 April 2026 - 09:37 PM,13.29,122.18,001,2.2,011km S 74° E of Torrijos (Marinduque),011,S 74° E,Torrijos (Marinduque)
+2026-04-04T20:57:00.000Z,04 April 2026 - 08:57 PM,15.59,119.87,020,2.8,008km S 57° W of Candelaria (Zambales),008,S 57° W,Candelaria (Zambales)
 2026-04-04T20:37:00.000Z,04 April 2026 - 08:37 PM,04.93,126.11,019,2.7,093km S 50° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),093,S 50° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-04T20:36:00.000Z,04 April 2026 - 08:36 PM,19.02,121.18,028,2.0,010km S 16° W of Dalupiri Island (Calayan) (Cagayan),010,S 16° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-04T20:35:00.000Z,04 April 2026 - 08:35 PM,04.64,126.47,015,2.5,144km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),144,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -71,8 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-03T22:01:00.000Z,03 April 2026 - 10:01 PM,07.98,126.25,001,2.5,019km N 50° W of Boston (Davao Oriental),019,N 50° W,Boston (Davao Oriental)
 2026-04-03T21:45:00.000Z,03 April 2026 - 09:45 PM,12.77,121.01,033,1.7,023km N 20° E of Calintaan (Occidental Mindoro),023,N 20° E,Calintaan (Occidental Mindoro)
 2026-04-03T21:39:00.000Z,03 April 2026 - 09:39 PM,12.77,120.99,033,1.4,022km N 13° E of Calintaan (Occidental Mindoro),022,N 13° E,Calintaan (Occidental Mindoro)
-2026-04-03T21:34:00.000Z,03 April 2026 - 09:34 PM,07.71,124.67,006,2.9,008km S 12° W of Amai Manabilang (Lanao Del Sur),008,S 12° W,Amai Manabilang (Lanao Del Sur)
-2026-04-03T21:25:00.000Z,03 April 2026 - 09:25 PM,18.32,120.55,019,1.6,007km S 80° W of Pasuquin (Ilocos Norte),007,S 80° W,Pasuquin (Ilocos Norte)
-2026-04-03T21:17:00.000Z,03 April 2026 - 09:17 PM,18.60,121.01,035,1.5,005km N 28° E of Santa Praxedes (Cagayan),005,N 28° E,Santa Praxedes (Cagayan)
-2026-04-03T20:58:00.000Z,03 April 2026 - 08:58 PM,12.78,121.00,032,1.4,024km N 16° E of Calintaan (Occidental Mindoro),024,N 16° E,Calintaan (Occidental Mindoro)
-2026-04-03T20:45:00.000Z,03 April 2026 - 08:45 PM,13.07,120.83,027,1.5,012km S 85° E of Santa Cruz (Occidental Mindoro),012,S 85° E,Santa Cruz (Occidental Mindoro)
