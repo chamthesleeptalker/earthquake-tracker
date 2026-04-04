@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-04T18:04:00.000Z,04 April 2026 - 06:04 PM,13.55,120.70,009,2.7,012km N 13° W of Abra De Ilog (Occidental Mindoro),012,N 13° W,Abra De Ilog (Occidental Mindoro)
+2026-04-04T17:48:00.000Z,04 April 2026 - 05:48 PM,14.09,120.04,034,1.5,027km N 19° W of Lubang (Occidental Mindoro),027,N 19° W,Lubang (Occidental Mindoro)
 2026-04-04T16:34:00.000Z,04 April 2026 - 04:34 PM,09.85,126.17,033,2.4,008km N 13° E of General Luna (Surigao Del Norte),008,N 13° E,General Luna (Surigao Del Norte)
 2026-04-04T16:12:00.000Z,04 April 2026 - 04:12 PM,09.78,126.14,029,1.5,001km S 71° W of General Luna (Surigao Del Norte),001,S 71° W,General Luna (Surigao Del Norte)
 2026-04-04T15:22:00.000Z,04 April 2026 - 03:22 PM,12.14,123.93,004,2.8,001km S 35° E of Palanas (Masbate),001,S 35° E,Palanas (Masbate)
@@ -357,5 +359,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-28T18:57:00.000Z,28 March 2026 - 06:57 PM,06.71,127.02,006,3.5,073km S 59° E of Tarragona (Davao Oriental),073,S 59° E,Tarragona (Davao Oriental)
 2026-03-28T18:48:00.000Z,28 March 2026 - 06:48 PM,16.89,121.46,034,1.9,005km S 47° W of Alfonso Lista (Ifugao),005,S 47° W,Alfonso Lista (Ifugao)
 2026-03-28T18:31:00.000Z,28 March 2026 - 06:31 PM,19.21,120.31,021,2.9,086km N 25° W of Burgos (Ilocos Norte),086,N 25° W,Burgos (Ilocos Norte)
-2026-03-28T17:01:00.000Z,28 March 2026 - 05:01 PM,10.21,124.89,011,2.1,010km N 34° E of City Of Maasin  (Southern Leyte),010,N 34° E,City Of Maasin  (Southern Leyte)
-2026-03-28T16:46:00.000Z,28 March 2026 - 04:46 PM,09.23,126.25,025,2.2,008km S 52° E of Cortes (Surigao Del Sur),008,S 52° E,Cortes (Surigao Del Sur)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-04T18:04:00.000Z,04 April 2026 - 06:04 PM,13.55,120.70,009,2.7,012km N 13° W of Abra De Ilog (Occidental Mindoro),012,N 13° W,Abra De Ilog (Occidental Mindoro)
+2026-04-04T17:48:00.000Z,04 April 2026 - 05:48 PM,14.09,120.04,034,1.5,027km N 19° W of Lubang (Occidental Mindoro),027,N 19° W,Lubang (Occidental Mindoro)
 2026-04-04T16:34:00.000Z,04 April 2026 - 04:34 PM,09.85,126.17,033,2.4,008km N 13° E of General Luna (Surigao Del Norte),008,N 13° E,General Luna (Surigao Del Norte)
 2026-04-04T16:12:00.000Z,04 April 2026 - 04:12 PM,09.78,126.14,029,1.5,001km S 71° W of General Luna (Surigao Del Norte),001,S 71° W,General Luna (Surigao Del Norte)
 2026-04-04T15:22:00.000Z,04 April 2026 - 03:22 PM,12.14,123.93,004,2.8,001km S 35° E of Palanas (Masbate),001,S 35° E,Palanas (Masbate)
@@ -70,5 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-03T19:46:00.000Z,03 April 2026 - 07:46 PM,17.87,120.87,008,1.7,017km N 18° E of Tineg (Abra),017,N 18° E,Tineg (Abra)
 2026-04-03T18:40:00.000Z,03 April 2026 - 06:40 PM,09.80,126.32,002,2.0,018km N 86° E of General Luna (Surigao Del Norte),018,N 86° E,General Luna (Surigao Del Norte)
 2026-04-03T18:17:00.000Z,03 April 2026 - 06:17 PM,11.14,121.75,013,1.6,032km S 79° W of Barbaza (Antique),032,S 79° W,Barbaza (Antique)
-2026-04-03T17:53:00.000Z,03 April 2026 - 05:53 PM,14.99,122.04,002,2.7,018km N 26° E of Burdeos (Quezon),018,N 26° E,Burdeos (Quezon)
-2026-04-03T17:27:00.000Z,03 April 2026 - 05:27 PM,17.39,121.83,026,2.3,007km S 31° E of San Pablo (Isabela),007,S 31° E,San Pablo (Isabela)
