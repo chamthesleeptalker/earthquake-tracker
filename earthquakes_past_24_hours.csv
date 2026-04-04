@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T00:19:00.000Z,05 April 2026 - 12:19 AM,18.93,121.08,033,1.2,024km S 33° W of Dalupiri Island (Calayan) (Cagayan),024,S 33° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-05T00:09:00.000Z,05 April 2026 - 12:09 AM,13.25,121.78,010,1.8,011km S 42° W of Gasan (Marinduque),011,S 42° W,Gasan (Marinduque)
+2026-04-05T00:05:00.000Z,05 April 2026 - 12:05 AM,07.92,126.42,005,1.6,007km N 38° E of Boston (Davao Oriental),007,N 38° E,Boston (Davao Oriental)
+2026-04-05T00:01:00.000Z,05 April 2026 - 12:01 AM,12.40,119.63,021,2.0,045km N 49° W of Busuanga (Palawan),045,N 49° W,Busuanga (Palawan)
+2026-04-04T23:33:00.000Z,04 April 2026 - 11:33 PM,17.52,122.40,029,2.5,022km N 51° E of Maconacon (Isabela),022,N 51° E,Maconacon (Isabela)
 2026-04-04T23:05:00.000Z,04 April 2026 - 11:05 PM,13.67,120.91,028,2.0,004km N 80° E of Tingloy (Batangas),004,N 80° E,Tingloy (Batangas)
 2026-04-04T22:53:00.000Z,04 April 2026 - 10:53 PM,06.30,124.06,033,1.6,017km N 56° W of Palimbang (Sultan Kudarat),017,N 56° W,Palimbang (Sultan Kudarat)
 2026-04-04T22:50:00.000Z,04 April 2026 - 10:50 PM,05.06,126.25,014,3.0,097km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),097,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -67,7 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T00:33:00.000Z,04 April 2026 - 12:33 AM,08.55,126.54,033,1.7,048km S 33° E of Cagwait (Surigao Del Sur),048,S 33° E,Cagwait (Surigao Del Sur)
 2026-04-04T00:30:00.000Z,04 April 2026 - 12:30 AM,14.24,120.42,113,2.0,023km S 18° W of Mariveles (Bataan),023,S 18° W,Mariveles (Bataan)
 2026-04-04T00:20:00.000Z,04 April 2026 - 12:20 AM,17.33,121.99,033,2.2,020km N 73° E of Tumauini (Isabela),020,N 73° E,Tumauini (Isabela)
-2026-04-03T23:47:00.000Z,03 April 2026 - 11:47 PM,07.12,126.90,005,3.0,041km S 77° E of Manay (Davao Oriental),041,S 77° E,Manay (Davao Oriental)
-2026-04-03T23:37:00.000Z,03 April 2026 - 11:37 PM,08.04,126.68,001,2.7,030km N 89° E of Lingig (Surigao Del Sur),030,N 89° E,Lingig (Surigao Del Sur)
-2026-04-03T23:28:00.000Z,03 April 2026 - 11:28 PM,06.46,123.87,010,2.0,023km S 63° W of Kalamansig (Sultan Kudarat),023,S 63° W,Kalamansig (Sultan Kudarat)
-2026-04-03T23:16:00.000Z,03 April 2026 - 11:16 PM,06.34,124.06,034,1.7,024km S 03° E of Kalamansig (Sultan Kudarat),024,S 03° E,Kalamansig (Sultan Kudarat)
