@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T04:05:00.000Z,05 April 2026 - 04:05 AM,11.12,123.96,007,2.4,008km N 15° W of City Of Bogo (Cebu),008,N 15° W,City Of Bogo (Cebu)
+2026-04-05T04:04:00.000Z,05 April 2026 - 04:04 AM,11.14,123.94,009,2.4,011km N 21° W of City Of Bogo (Cebu),011,N 21° W,City Of Bogo (Cebu)
+2026-04-05T04:00:00.000Z,05 April 2026 - 04:00 AM,07.32,127.31,007,3.3,082km S 89° E of Caraga (Davao Oriental),082,S 89° E,Caraga (Davao Oriental)
 2026-04-05T03:38:00.000Z,05 April 2026 - 03:38 AM,13.55,120.75,032,1.6,011km N 13° E of Abra De Ilog (Occidental Mindoro),011,N 13° E,Abra De Ilog (Occidental Mindoro)
 2026-04-05T03:24:00.000Z,05 April 2026 - 03:24 AM,17.43,122.40,026,2.9,016km N 43° E of Divilacan (Isabela),016,N 43° E,Divilacan (Isabela)
 2026-04-05T03:07:00.000Z,05 April 2026 - 03:07 AM,10.39,126.30,023,2.8,048km N 30° E of Burgos (Surigao Del Norte),048,N 30° E,Burgos (Surigao Del Norte)
@@ -63,7 +66,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T04:48:00.000Z,04 April 2026 - 04:48 AM,13.89,122.83,002,2.6,009km N 31° E of Ragay (Camarines Sur),009,N 31° E,Ragay (Camarines Sur)
 2026-04-04T04:27:00.000Z,04 April 2026 - 04:27 AM,13.92,122.84,003,2.9,012km N 24° E of Ragay (Camarines Sur),012,N 24° E,Ragay (Camarines Sur)
 2026-04-04T04:12:00.000Z,04 April 2026 - 04:12 AM,05.96,126.31,083,2.5,073km S 69° E of Don Marcelino (Davao Occidental),073,S 69° E,Don Marcelino (Davao Occidental)
-2026-04-04T03:58:00.000Z,04 April 2026 - 03:58 AM,12.90,122.78,014,2.3,033km S 41° W of San Pascual (Masbate),033,S 41° W,San Pascual (Masbate)
-2026-04-04T03:52:00.000Z,04 April 2026 - 03:52 AM,07.62,126.54,030,1.8,006km N 28° W of Baganga (Davao Oriental),006,N 28° W,Baganga (Davao Oriental)
-2026-04-04T03:42:00.000Z,04 April 2026 - 03:42 AM,08.65,126.63,033,1.4,041km S 66° E of Marihatag (Surigao Del Sur),041,S 66° E,Marihatag (Surigao Del Sur)
-2026-04-04T03:39:00.000Z,04 April 2026 - 03:39 AM,06.68,124.31,009,1.5,022km S 70° W of Datu Abdullah Sangki (Maguindanao Del Sur),022,S 70° W,Datu Abdullah Sangki (Maguindanao Del Sur)
