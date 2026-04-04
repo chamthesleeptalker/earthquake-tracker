@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T05:22:00.000Z,05 April 2026 - 05:22 AM,15.07,119.67,033,1.9,043km S 77° W of Cabangan (Zambales),043,S 77° W,Cabangan (Zambales)
+2026-04-05T05:10:00.000Z,05 April 2026 - 05:10 AM,18.85,120.78,007,2.0,032km N 02° W of Pagudpud (Ilocos Norte),032,N 02° W,Pagudpud (Ilocos Norte)
+2026-04-05T04:46:00.000Z,05 April 2026 - 04:46 AM,08.43,125.93,032,1.7,010km N 55° W of Rosario (Agusan Del Sur),010,N 55° W,Rosario (Agusan Del Sur)
+2026-04-05T04:31:00.000Z,05 April 2026 - 04:31 AM,09.69,126.26,007,2.8,015km S 49° E of General Luna (Surigao Del Norte),015,S 49° E,General Luna (Surigao Del Norte)
+2026-04-05T04:28:00.000Z,05 April 2026 - 04:28 AM,11.14,123.96,008,2.1,011km N 12° W of City Of Bogo (Cebu),011,N 12° W,City Of Bogo (Cebu)
 2026-04-05T04:05:00.000Z,05 April 2026 - 04:05 AM,11.12,123.96,007,2.4,008km N 15° W of City Of Bogo (Cebu),008,N 15° W,City Of Bogo (Cebu)
 2026-04-05T04:04:00.000Z,05 April 2026 - 04:04 AM,11.14,123.94,009,2.4,011km N 21° W of City Of Bogo (Cebu),011,N 21° W,City Of Bogo (Cebu)
 2026-04-05T04:00:00.000Z,05 April 2026 - 04:00 AM,07.32,127.31,007,3.3,082km S 89° E of Caraga (Davao Oriental),082,S 89° E,Caraga (Davao Oriental)
