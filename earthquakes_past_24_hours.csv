@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-04T15:22:00.000Z,04 April 2026 - 03:22 PM,12.14,123.93,004,2.8,001km S 35° E of Palanas (Masbate),001,S 35° E,Palanas (Masbate)
+2026-04-04T15:20:00.000Z,04 April 2026 - 03:20 PM,13.72,120.60,092,1.8,013km S 16° W of Calatagan (Batangas),013,S 16° W,Calatagan (Batangas)
 2026-04-04T14:39:00.000Z,04 April 2026 - 02:39 PM,13.48,120.58,036,1.4,015km N 60° E of Paluan (Occidental Mindoro),015,N 60° E,Paluan (Occidental Mindoro)
 2026-04-04T14:33:00.000Z,04 April 2026 - 02:33 PM,15.96,120.98,033,2.0,009km N 89° W of Carranglan (Nueva Ecija),009,N 89° W,Carranglan (Nueva Ecija)
 2026-04-04T14:03:00.000Z,04 April 2026 - 02:03 PM,07.09,126.79,018,2.3,031km S 64° E of Manay (Davao Oriental),031,S 64° E,Manay (Davao Oriental)
@@ -71,4 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-03T16:28:00.000Z,03 April 2026 - 04:28 PM,07.17,125.01,003,1.8,004km N 72° W of President Roxas (Cotabato),004,N 72° W,President Roxas (Cotabato)
 2026-04-03T15:58:00.000Z,03 April 2026 - 03:58 PM,16.15,121.84,024,1.8,013km N 84° W of Dinalungan (Aurora),013,N 84° W,Dinalungan (Aurora)
 2026-04-03T15:29:00.000Z,03 April 2026 - 03:29 PM,06.54,126.58,034,1.9,058km S 15° E of Tarragona (Davao Oriental),058,S 15° E,Tarragona (Davao Oriental)
-2026-04-03T14:51:00.000Z,03 April 2026 - 02:51 PM,13.84,120.53,021,1.7,011km N 87° W of Calatagan (Batangas),011,N 87° W,Calatagan (Batangas)
