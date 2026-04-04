@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T03:38:00.000Z,05 April 2026 - 03:38 AM,13.55,120.75,032,1.6,011km N 13° E of Abra De Ilog (Occidental Mindoro),011,N 13° E,Abra De Ilog (Occidental Mindoro)
+2026-04-05T03:24:00.000Z,05 April 2026 - 03:24 AM,17.43,122.40,026,2.9,016km N 43° E of Divilacan (Isabela),016,N 43° E,Divilacan (Isabela)
+2026-04-05T03:07:00.000Z,05 April 2026 - 03:07 AM,10.39,126.30,023,2.8,048km N 30° E of Burgos (Surigao Del Norte),048,N 30° E,Burgos (Surigao Del Norte)
+2026-04-05T02:51:00.000Z,05 April 2026 - 02:51 AM,10.76,124.25,007,2.2,019km N 48° W of San Francisco (Cebu),019,N 48° W,San Francisco (Cebu)
 2026-04-05T02:38:00.000Z,05 April 2026 - 02:38 AM,07.31,127.31,037,2.7,082km S 88° E of Caraga (Davao Oriental),082,S 88° E,Caraga (Davao Oriental)
 2026-04-05T02:35:00.000Z,05 April 2026 - 02:35 AM,07.74,126.54,030,1.7,011km S 61° E of Cateel (Davao Oriental),011,S 61° E,Cateel (Davao Oriental)
 2026-04-05T02:32:00.000Z,05 April 2026 - 02:32 AM,15.09,119.85,029,2.2,024km N 83° W of San Felipe (Zambales),024,N 83° W,San Felipe (Zambales)
@@ -361,5 +365,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-29T04:41:00.000Z,29 March 2026 - 04:41 AM,18.13,122.27,019,2.3,032km S 63° E of Gonzaga (Cagayan),032,S 63° E,Gonzaga (Cagayan)
 2026-03-29T04:33:00.000Z,29 March 2026 - 04:33 AM,17.43,120.34,021,2.0,012km S 57° W of Santa (Ilocos Sur),012,S 57° W,Santa (Ilocos Sur)
 2026-03-29T04:18:00.000Z,29 March 2026 - 04:18 AM,13.74,124.88,003,2.7,053km S 85° E of Gigmoto (Catanduanes),053,S 85° E,Gigmoto (Catanduanes)
-2026-03-29T03:22:00.000Z,29 March 2026 - 03:22 AM,14.05,119.86,002,2.1,036km N 54° W of Lubang (Occidental Mindoro),036,N 54° W,Lubang (Occidental Mindoro)
-2026-03-29T02:59:00.000Z,29 March 2026 - 02:59 AM,12.35,126.25,010,4.2,082km N 77° E of San Policarpo (Eastern Samar),082,N 77° E,San Policarpo (Eastern Samar)

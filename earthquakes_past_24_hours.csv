@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T03:38:00.000Z,05 April 2026 - 03:38 AM,13.55,120.75,032,1.6,011km N 13° E of Abra De Ilog (Occidental Mindoro),011,N 13° E,Abra De Ilog (Occidental Mindoro)
+2026-04-05T03:24:00.000Z,05 April 2026 - 03:24 AM,17.43,122.40,026,2.9,016km N 43° E of Divilacan (Isabela),016,N 43° E,Divilacan (Isabela)
+2026-04-05T03:07:00.000Z,05 April 2026 - 03:07 AM,10.39,126.30,023,2.8,048km N 30° E of Burgos (Surigao Del Norte),048,N 30° E,Burgos (Surigao Del Norte)
+2026-04-05T02:51:00.000Z,05 April 2026 - 02:51 AM,10.76,124.25,007,2.2,019km N 48° W of San Francisco (Cebu),019,N 48° W,San Francisco (Cebu)
 2026-04-05T02:38:00.000Z,05 April 2026 - 02:38 AM,07.31,127.31,037,2.7,082km S 88° E of Caraga (Davao Oriental),082,S 88° E,Caraga (Davao Oriental)
 2026-04-05T02:35:00.000Z,05 April 2026 - 02:35 AM,07.74,126.54,030,1.7,011km S 61° E of Cateel (Davao Oriental),011,S 61° E,Cateel (Davao Oriental)
 2026-04-05T02:32:00.000Z,05 April 2026 - 02:32 AM,15.09,119.85,029,2.2,024km N 83° W of San Felipe (Zambales),024,N 83° W,San Felipe (Zambales)
@@ -63,9 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T03:52:00.000Z,04 April 2026 - 03:52 AM,07.62,126.54,030,1.8,006km N 28° W of Baganga (Davao Oriental),006,N 28° W,Baganga (Davao Oriental)
 2026-04-04T03:42:00.000Z,04 April 2026 - 03:42 AM,08.65,126.63,033,1.4,041km S 66° E of Marihatag (Surigao Del Sur),041,S 66° E,Marihatag (Surigao Del Sur)
 2026-04-04T03:39:00.000Z,04 April 2026 - 03:39 AM,06.68,124.31,009,1.5,022km S 70° W of Datu Abdullah Sangki (Maguindanao Del Sur),022,S 70° W,Datu Abdullah Sangki (Maguindanao Del Sur)
-2026-04-04T03:25:00.000Z,04 April 2026 - 03:25 AM,06.46,123.74,015,2.4,036km S 74° W of Kalamansig (Sultan Kudarat),036,S 74° W,Kalamansig (Sultan Kudarat)
-2026-04-04T03:15:00.000Z,04 April 2026 - 03:15 AM,05.66,126.47,015,3.1,095km S 73° E of Jose Abad Santos (Davao Occidental),095,S 73° E,Jose Abad Santos (Davao Occidental)
-2026-04-04T03:09:00.000Z,04 April 2026 - 03:09 AM,13.75,120.55,028,1.9,013km S 44° W of Calatagan (Batangas),013,S 44° W,Calatagan (Batangas)
-2026-04-04T02:54:00.000Z,04 April 2026 - 02:54 AM,10.23,126.62,151,1.5,065km N 68° E of Burgos (Surigao Del Norte),065,N 68° E,Burgos (Surigao Del Norte)
-2026-04-04T02:40:00.000Z,04 April 2026 - 02:40 AM,13.71,120.61,107,1.8,014km S 11° W of Calatagan (Batangas),014,S 11° W,Calatagan (Batangas)
-2026-04-04T02:40:00.000Z,04 April 2026 - 02:40 AM,07.61,126.55,026,2.9,004km N 15° W of Baganga (Davao Oriental),004,N 15° W,Baganga (Davao Oriental)
