@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T02:38:00.000Z,05 April 2026 - 02:38 AM,07.31,127.31,037,2.7,082km S 88° E of Caraga (Davao Oriental),082,S 88° E,Caraga (Davao Oriental)
+2026-04-05T02:35:00.000Z,05 April 2026 - 02:35 AM,07.74,126.54,030,1.7,011km S 61° E of Cateel (Davao Oriental),011,S 61° E,Cateel (Davao Oriental)
+2026-04-05T02:32:00.000Z,05 April 2026 - 02:32 AM,15.09,119.85,029,2.2,024km N 83° W of San Felipe (Zambales),024,N 83° W,San Felipe (Zambales)
+2026-04-05T01:54:00.000Z,05 April 2026 - 01:54 AM,06.84,123.82,022,1.6,033km S 42° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 42° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-04-05T01:49:00.000Z,05 April 2026 - 01:49 AM,10.86,122.37,037,1.4,008km N 53° W of Alimodian (Iloilo),008,N 53° W,Alimodian (Iloilo)
 2026-04-05T01:38:00.000Z,05 April 2026 - 01:38 AM,15.14,122.58,026,1.5,056km N 28° E of Jomalig (Quezon),056,N 28° E,Jomalig (Quezon)
 2026-04-05T01:38:00.000Z,05 April 2026 - 01:38 AM,15.14,122.58,026,1.5,056km N 28° E of Jomalig (Quezon),056,N 28° E,Jomalig (Quezon)
@@ -359,7 +363,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-29T04:18:00.000Z,29 March 2026 - 04:18 AM,13.74,124.88,003,2.7,053km S 85° E of Gigmoto (Catanduanes),053,S 85° E,Gigmoto (Catanduanes)
 2026-03-29T03:22:00.000Z,29 March 2026 - 03:22 AM,14.05,119.86,002,2.1,036km N 54° W of Lubang (Occidental Mindoro),036,N 54° W,Lubang (Occidental Mindoro)
 2026-03-29T02:59:00.000Z,29 March 2026 - 02:59 AM,12.35,126.25,010,4.2,082km N 77° E of San Policarpo (Eastern Samar),082,N 77° E,San Policarpo (Eastern Samar)
-2026-03-29T02:29:00.000Z,29 March 2026 - 02:29 AM,17.04,122.56,006,2.3,014km S 80° E of Palanan (Isabela),014,S 80° E,Palanan (Isabela)
-2026-03-29T01:57:00.000Z,29 March 2026 - 01:57 AM,07.28,124.44,009,1.7,002km N 69° E of Pigkawayan (Cotabato),002,N 69° E,Pigkawayan (Cotabato)
-2026-03-29T01:54:00.000Z,29 March 2026 - 01:54 AM,07.31,126.86,016,2.2,037km N 73° E of Manay (Davao Oriental),037,N 73° E,Manay (Davao Oriental)
-2026-03-29T01:52:00.000Z,29 March 2026 - 01:52 AM,17.62,120.65,020,2.4,000km N 55° W of Tayum (Abra),000,N 55° W,Tayum (Abra)
