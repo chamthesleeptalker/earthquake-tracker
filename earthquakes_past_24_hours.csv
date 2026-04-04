@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-04T20:37:00.000Z,04 April 2026 - 08:37 PM,04.93,126.11,019,2.7,093km S 50° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),093,S 50° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-04T20:36:00.000Z,04 April 2026 - 08:36 PM,19.02,121.18,028,2.0,010km S 16° W of Dalupiri Island (Calayan) (Cagayan),010,S 16° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-04T20:35:00.000Z,04 April 2026 - 08:35 PM,04.64,126.47,015,2.5,144km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),144,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-04T20:20:00.000Z,04 April 2026 - 08:20 PM,11.13,124.15,034,1.7,020km N 63° E of City Of Bogo (Cebu),020,N 63° E,City Of Bogo (Cebu)
+2026-04-04T20:07:00.000Z,04 April 2026 - 08:07 PM,04.87,126.22,015,2.7,107km S 51° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),107,S 51° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-04T19:51:00.000Z,04 April 2026 - 07:51 PM,18.42,120.85,033,1.2,007km S 47° W of Adams (Ilocos Norte),007,S 47° W,Adams (Ilocos Norte)
+2026-04-04T19:41:00.000Z,04 April 2026 - 07:41 PM,11.09,124.10,030,2.4,013km N 71° E of City Of Bogo (Cebu),013,N 71° E,City Of Bogo (Cebu)
 2026-04-04T19:07:00.000Z,04 April 2026 - 07:07 PM,05.00,126.34,003,2.8,112km S 66° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),112,S 66° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-04T18:34:00.000Z,04 April 2026 - 06:34 PM,05.22,125.95,010,5.9,059km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),059,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-04T18:04:00.000Z,04 April 2026 - 06:04 PM,13.55,120.70,009,2.7,012km N 13° W of Abra De Ilog (Occidental Mindoro),012,N 13° W,Abra De Ilog (Occidental Mindoro)
@@ -69,6 +76,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-03T21:17:00.000Z,03 April 2026 - 09:17 PM,18.60,121.01,035,1.5,005km N 28° E of Santa Praxedes (Cagayan),005,N 28° E,Santa Praxedes (Cagayan)
 2026-04-03T20:58:00.000Z,03 April 2026 - 08:58 PM,12.78,121.00,032,1.4,024km N 16° E of Calintaan (Occidental Mindoro),024,N 16° E,Calintaan (Occidental Mindoro)
 2026-04-03T20:45:00.000Z,03 April 2026 - 08:45 PM,13.07,120.83,027,1.5,012km S 85° E of Santa Cruz (Occidental Mindoro),012,S 85° E,Santa Cruz (Occidental Mindoro)
-2026-04-03T20:25:00.000Z,03 April 2026 - 08:25 PM,09.58,126.10,037,2.2,008km N 02° E of Carrascal (Surigao Del Sur),008,N 02° E,Carrascal (Surigao Del Sur)
-2026-04-03T19:46:00.000Z,03 April 2026 - 07:46 PM,17.92,120.66,048,2.4,001km N 55° W of Nueva Era (Ilocos Norte),001,N 55° W,Nueva Era (Ilocos Norte)
-2026-04-03T19:46:00.000Z,03 April 2026 - 07:46 PM,17.87,120.87,008,1.7,017km N 18° E of Tineg (Abra),017,N 18° E,Tineg (Abra)
