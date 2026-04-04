@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T07:34:00.000Z,05 April 2026 - 07:34 AM,08.03,126.96,004,2.3,060km S 89° E of Lingig (Surigao Del Sur),060,S 89° E,Lingig (Surigao Del Sur)
 2026-04-05T07:08:00.000Z,05 April 2026 - 07:08 AM,19.16,121.44,019,2.0,012km S 18° W of Calayan (Cagayan),012,S 18° W,Calayan (Cagayan)
 2026-04-05T05:58:00.000Z,05 April 2026 - 05:58 AM,06.68,127.27,034,2.2,100km S 54° E of Manay (Davao Oriental),100,S 54° E,Manay (Davao Oriental)
 2026-04-05T05:36:00.000Z,05 April 2026 - 05:36 AM,14.13,120.41,062,1.2,024km N 76° W of Nasugbu (Batangas),024,N 76° W,Nasugbu (Batangas)
@@ -68,4 +69,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T08:15:00.000Z,04 April 2026 - 08:15 AM,08.61,126.26,027,1.4,015km S 16° E of San Agustin (Surigao Del Sur),015,S 16° E,San Agustin (Surigao Del Sur)
 2026-04-04T08:10:00.000Z,04 April 2026 - 08:10 AM,06.97,126.73,139,2.4,032km S 73° E of Tarragona (Davao Oriental),032,S 73° E,Tarragona (Davao Oriental)
 2026-04-04T07:46:00.000Z,04 April 2026 - 07:46 AM,08.52,123.12,004,2.0,003km N 80° E of Manukan (Zamboanga Del Norte),003,N 80° E,Manukan (Zamboanga Del Norte)
-2026-04-04T07:11:00.000Z,04 April 2026 - 07:11 AM,19.34,121.15,033,1.5,027km N 12° W of Dalupiri Island (Calayan) (Cagayan),027,N 12° W,Dalupiri Island (Calayan) (Cagayan)
