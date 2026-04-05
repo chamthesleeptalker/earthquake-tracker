@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T19:10:00.000Z,05 April 2026 - 07:10 PM,10.08,121.20,033,1.5,056km N 01° E of Cagayancillo (Palawan),056,N 01° E,Cagayancillo (Palawan)
+2026-04-05T19:09:00.000Z,05 April 2026 - 07:09 PM,10.05,121.30,047,2.0,054km N 12° E of Cagayancillo (Palawan),054,N 12° E,Cagayancillo (Palawan)
+2026-04-05T18:35:00.000Z,05 April 2026 - 06:35 PM,10.25,125.93,017,2.6,028km N 25° W of Santa Monica (Surigao Del Norte),028,N 25° W,Santa Monica (Surigao Del Norte)
+2026-04-05T18:35:00.000Z,05 April 2026 - 06:35 PM,11.52,125.40,014,2.7,010km S 23° W of City Of Borongan (Eastern Samar),010,S 23° W,City Of Borongan (Eastern Samar)
 2026-04-05T17:22:00.000Z,05 April 2026 - 05:22 PM,12.51,123.56,006,2.0,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
 2026-04-05T15:52:00.000Z,05 April 2026 - 03:52 PM,13.70,120.64,119,2.0,015km S 05° E of Calatagan (Batangas),015,S 05° E,Calatagan (Batangas)
 2026-04-05T15:21:00.000Z,05 April 2026 - 03:21 PM,13.11,125.38,018,2.9,069km N 25° E of Palapag (Northern Samar),069,N 25° E,Palapag (Northern Samar)
@@ -74,7 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T20:07:00.000Z,04 April 2026 - 08:07 PM,04.87,126.22,015,2.7,107km S 51° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),107,S 51° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-04T19:51:00.000Z,04 April 2026 - 07:51 PM,18.42,120.85,033,1.2,007km S 47° W of Adams (Ilocos Norte),007,S 47° W,Adams (Ilocos Norte)
 2026-04-04T19:41:00.000Z,04 April 2026 - 07:41 PM,11.09,124.10,030,2.4,013km N 71° E of City Of Bogo (Cebu),013,N 71° E,City Of Bogo (Cebu)
-2026-04-04T19:07:00.000Z,04 April 2026 - 07:07 PM,05.00,126.34,003,2.8,112km S 66° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),112,S 66° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-04T18:34:00.000Z,04 April 2026 - 06:34 PM,05.22,125.95,010,5.9,059km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),059,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-04T18:04:00.000Z,04 April 2026 - 06:04 PM,13.55,120.70,009,2.7,012km N 13° W of Abra De Ilog (Occidental Mindoro),012,N 13° W,Abra De Ilog (Occidental Mindoro)
-2026-04-04T17:48:00.000Z,04 April 2026 - 05:48 PM,14.09,120.04,034,1.5,027km N 19° W of Lubang (Occidental Mindoro),027,N 19° W,Lubang (Occidental Mindoro)

@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-05T17:22:00.000Z,05 April 2026 - 05:22 PM,12.51,123.56,006,2.0,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
+2026-04-05T19:10:00.000Z,05 April 2026 - 07:10 PM,10.08,121.20,033,1.5,056km N 01° E of Cagayancillo (Palawan),056,N 01° E,Cagayancillo (Palawan)
+2026-04-05T19:09:00.000Z,05 April 2026 - 07:09 PM,10.05,121.30,047,2.0,054km N 12° E of Cagayancillo (Palawan),054,N 12° E,Cagayancillo (Palawan)
+2026-04-05T18:35:00.000Z,05 April 2026 - 06:35 PM,10.25,125.93,017,2.6,028km N 25° W of Santa Monica (Surigao Del Norte),028,N 25° W,Santa Monica (Surigao Del Norte)
+2026-04-05T18:35:00.000Z,05 April 2026 - 06:35 PM,11.52,125.40,014,2.7,010km S 23° W of City Of Borongan (Eastern Samar),010,S 23° W,City Of Borongan (Eastern Samar)
