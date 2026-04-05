@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T19:37:00.000Z,05 April 2026 - 07:37 PM,13.57,120.68,006,1.8,015km N 20° W of Abra De Ilog (Occidental Mindoro),015,N 20° W,Abra De Ilog (Occidental Mindoro)
 2026-04-05T19:10:00.000Z,05 April 2026 - 07:10 PM,10.08,121.20,033,1.5,056km N 01° E of Cagayancillo (Palawan),056,N 01° E,Cagayancillo (Palawan)
 2026-04-05T19:09:00.000Z,05 April 2026 - 07:09 PM,10.05,121.30,047,2.0,054km N 12° E of Cagayancillo (Palawan),054,N 12° E,Cagayancillo (Palawan)
 2026-04-05T18:35:00.000Z,05 April 2026 - 06:35 PM,10.25,125.93,017,2.6,028km N 25° W of Santa Monica (Surigao Del Norte),028,N 25° W,Santa Monica (Surigao Del Norte)
@@ -381,5 +382,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-29T20:25:00.000Z,29 March 2026 - 08:25 PM,10.92,124.00,002,1.7,015km S 11° E of City Of Bogo (Cebu),015,S 11° E,City Of Bogo (Cebu)
 2026-03-29T19:51:00.000Z,29 March 2026 - 07:51 PM,14.23,121.41,036,1.2,005km S 86° E of Pila (Laguna),005,S 86° E,Pila (Laguna)
 2026-03-29T19:51:00.000Z,29 March 2026 - 07:51 PM,19.22,121.27,032,1.7,014km N 29° E of Dalupiri Island (Calayan) (Cagayan),014,N 29° E,Dalupiri Island (Calayan) (Cagayan)
-2026-03-29T19:33:00.000Z,29 March 2026 - 07:33 PM,12.86,122.90,007,2.1,031km S 16° W of San Pascual (Masbate),031,S 16° W,San Pascual (Masbate)
-2026-03-29T19:28:00.000Z,29 March 2026 - 07:28 PM,14.21,121.39,033,1.2,004km S 37° E of Pila (Laguna),004,S 37° E,Pila (Laguna)
