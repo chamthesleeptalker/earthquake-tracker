@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T22:19:00.000Z,05 April 2026 - 10:19 PM,18.02,121.39,032,1.5,022km S 07° W of Flora (Apayao),022,S 07° W,Flora (Apayao)
+2026-04-05T22:08:00.000Z,05 April 2026 - 10:08 PM,13.09,125.37,016,2.8,067km N 25° E of Palapag (Northern Samar),067,N 25° E,Palapag (Northern Samar)
+2026-04-05T21:48:00.000Z,05 April 2026 - 09:48 PM,07.36,127.37,002,2.7,089km N 88° E of Caraga (Davao Oriental),089,N 88° E,Caraga (Davao Oriental)
 2026-04-05T20:59:00.000Z,05 April 2026 - 08:59 PM,10.94,122.07,015,1.8,009km N 68° E of Patnongon (Antique),009,N 68° E,Patnongon (Antique)
 2026-04-05T20:23:00.000Z,05 April 2026 - 08:23 PM,05.88,126.19,130,2.5,060km S 87° E of Jose Abad Santos (Davao Occidental),060,S 87° E,Jose Abad Santos (Davao Occidental)
 2026-04-05T19:48:00.000Z,05 April 2026 - 07:48 PM,13.55,120.67,004,2.6,013km N 28° W of Abra De Ilog (Occidental Mindoro),013,N 28° W,Abra De Ilog (Occidental Mindoro)
@@ -72,6 +75,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T22:50:00.000Z,04 April 2026 - 10:50 PM,05.06,126.25,014,3.0,097km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),097,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-04T22:33:00.000Z,04 April 2026 - 10:33 PM,06.46,126.55,025,3.0,057km S 69° E of Governor Generoso (Davao Oriental),057,S 69° E,Governor Generoso (Davao Oriental)
 2026-04-04T22:25:00.000Z,04 April 2026 - 10:25 PM,06.21,123.98,022,1.8,023km N 89° W of Palimbang (Sultan Kudarat),023,N 89° W,Palimbang (Sultan Kudarat)
-2026-04-04T22:07:00.000Z,04 April 2026 - 10:07 PM,06.17,126.16,112,2.2,051km S 87° E of Don Marcelino (Davao Occidental),051,S 87° E,Don Marcelino (Davao Occidental)
-2026-04-04T21:41:00.000Z,04 April 2026 - 09:41 PM,13.30,122.08,009,2.0,002km S 20° W of Torrijos (Marinduque),002,S 20° W,Torrijos (Marinduque)
-2026-04-04T21:37:00.000Z,04 April 2026 - 09:37 PM,13.29,122.18,001,2.2,011km S 74° E of Torrijos (Marinduque),011,S 74° E,Torrijos (Marinduque)
