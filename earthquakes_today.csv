@@ -1,3 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-06T01:00:00.000Z,06 April 2026 - 01:00 AM,18.46,120.76,033,1.5,008km S 06° W of Bangui (Ilocos Norte),008,S 06° W,Bangui (Ilocos Norte)
+2026-04-06T00:58:00.000Z,06 April 2026 - 12:58 AM,14.80,120.04,033,1.4,017km S 17° W of San Antonio (Zambales),017,S 17° W,San Antonio (Zambales)
+2026-04-06T00:54:00.000Z,06 April 2026 - 12:54 AM,06.07,125.99,139,2.3,036km S 67° E of Don Marcelino (Davao Occidental),036,S 67° E,Don Marcelino (Davao Occidental)
+2026-04-06T00:36:00.000Z,06 April 2026 - 12:36 AM,07.40,126.72,019,1.9,019km N 64° E of Caraga (Davao Oriental),019,N 64° E,Caraga (Davao Oriental)
+2026-04-06T00:26:00.000Z,06 April 2026 - 12:26 AM,14.06,120.60,124,1.4,004km S 56° W of Nasugbu (Batangas),004,S 56° W,Nasugbu (Batangas)
 2026-04-06T00:11:00.000Z,06 April 2026 - 12:11 AM,08.09,126.42,024,2.1,006km N 11° E of Lingig (Surigao Del Sur),006,N 11° E,Lingig (Surigao Del Sur)
 2026-04-06T00:04:00.000Z,06 April 2026 - 12:04 AM,07.04,124.94,020,2.2,007km S 40° E of Matalam (Cotabato),007,S 40° E,Matalam (Cotabato)
