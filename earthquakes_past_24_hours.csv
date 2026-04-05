@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-06T02:44:00.000Z,06 April 2026 - 02:44 AM,17.74,120.37,035,1.9,018km N 71° W of Magsingal (Ilocos Sur),018,N 71° W,Magsingal (Ilocos Sur)
+2026-04-06T02:10:00.000Z,06 April 2026 - 02:10 AM,13.66,120.92,017,1.5,005km East of Tingloy (Batangas),005,East of Tingloy,
+2026-04-06T02:09:00.000Z,06 April 2026 - 02:09 AM,04.95,127.24,154,4.0,204km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),204,S 73° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-06T02:05:00.000Z,06 April 2026 - 02:05 AM,20.05,121.30,004,2.1,067km S 62° W of Sabtang (Batanes),067,S 62° W,Sabtang (Batanes)
+2026-04-06T01:53:00.000Z,06 April 2026 - 01:53 AM,19.05,121.11,007,2.5,012km S 56° W of Dalupiri Island (Calayan) (Cagayan),012,S 56° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-06T01:48:00.000Z,06 April 2026 - 01:48 AM,13.67,120.95,018,2.1,008km S 07° E of Mabini (Batangas),008,S 07° E,Mabini (Batangas)
 2026-04-06T01:37:00.000Z,06 April 2026 - 01:37 AM,20.02,122.96,002,3.1,113km S 71° E of Uyugan (Batanes),113,S 71° E,Uyugan (Batanes)
 2026-04-06T01:24:00.000Z,06 April 2026 - 01:24 AM,16.11,119.98,033,1.5,005km S 02° W of City Of Alaminos (Pangasinan),005,S 02° W,City Of Alaminos (Pangasinan)
@@ -7,7 +12,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-06T00:54:00.000Z,06 April 2026 - 12:54 AM,06.07,125.99,139,2.3,036km S 67° E of Don Marcelino (Davao Occidental),036,S 67° E,Don Marcelino (Davao Occidental)
 2026-04-06T00:36:00.000Z,06 April 2026 - 12:36 AM,07.40,126.72,019,1.9,019km N 64° E of Caraga (Davao Oriental),019,N 64° E,Caraga (Davao Oriental)
 2026-04-06T00:26:00.000Z,06 April 2026 - 12:26 AM,14.06,120.60,124,1.4,004km S 56° W of Nasugbu (Batangas),004,S 56° W,Nasugbu (Batangas)
-2026-04-05T01:50:00.000Z,05 April 2026 - 01:50 AM,10.57,122.28,013,1.6,009km S 32° E of Miagao (Iloilo),009,S 32° E,Miagao (Iloilo)
 2026-04-06T00:11:00.000Z,06 April 2026 - 12:11 AM,08.09,126.42,024,2.1,006km N 11° E of Lingig (Surigao Del Sur),006,N 11° E,Lingig (Surigao Del Sur)
 2026-04-06T00:04:00.000Z,06 April 2026 - 12:04 AM,07.04,124.94,020,2.2,007km S 40° E of Matalam (Cotabato),007,S 40° E,Matalam (Cotabato)
 2026-04-05T23:43:00.000Z,05 April 2026 - 11:43 PM,05.93,124.86,009,1.6,017km N 64° W of Maasim (Sarangani),017,N 64° W,Maasim (Sarangani)
@@ -68,8 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-05T03:24:00.000Z,05 April 2026 - 03:24 AM,17.43,122.40,026,2.9,016km N 43° E of Divilacan (Isabela),016,N 43° E,Divilacan (Isabela)
 2026-04-05T03:07:00.000Z,05 April 2026 - 03:07 AM,10.39,126.30,023,2.8,048km N 30° E of Burgos (Surigao Del Norte),048,N 30° E,Burgos (Surigao Del Norte)
 2026-04-05T02:51:00.000Z,05 April 2026 - 02:51 AM,10.76,124.25,007,2.2,019km N 48° W of San Francisco (Cebu),019,N 48° W,San Francisco (Cebu)
-2026-04-05T02:38:00.000Z,05 April 2026 - 02:38 AM,07.31,127.31,037,2.7,082km S 88° E of Caraga (Davao Oriental),082,S 88° E,Caraga (Davao Oriental)
-2026-04-05T02:35:00.000Z,05 April 2026 - 02:35 AM,07.74,126.54,030,1.7,011km S 61° E of Cateel (Davao Oriental),011,S 61° E,Cateel (Davao Oriental)
-2026-04-05T02:32:00.000Z,05 April 2026 - 02:32 AM,15.09,119.85,029,2.2,024km N 83° W of San Felipe (Zambales),024,N 83° W,San Felipe (Zambales)
-2026-04-05T01:54:00.000Z,05 April 2026 - 01:54 AM,06.84,123.82,022,1.6,033km S 42° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 42° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-04-05T01:49:00.000Z,05 April 2026 - 01:49 AM,10.86,122.37,037,1.4,008km N 53° W of Alimodian (Iloilo),008,N 53° W,Alimodian (Iloilo)

@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-06T02:44:00.000Z,06 April 2026 - 02:44 AM,17.74,120.37,035,1.9,018km N 71° W of Magsingal (Ilocos Sur),018,N 71° W,Magsingal (Ilocos Sur)
+2026-04-06T02:10:00.000Z,06 April 2026 - 02:10 AM,13.66,120.92,017,1.5,005km East of Tingloy (Batangas),005,East of Tingloy,
+2026-04-06T02:09:00.000Z,06 April 2026 - 02:09 AM,04.95,127.24,154,4.0,204km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),204,S 73° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-06T02:05:00.000Z,06 April 2026 - 02:05 AM,20.05,121.30,004,2.1,067km S 62° W of Sabtang (Batanes),067,S 62° W,Sabtang (Batanes)
+2026-04-06T01:53:00.000Z,06 April 2026 - 01:53 AM,19.05,121.11,007,2.5,012km S 56° W of Dalupiri Island (Calayan) (Cagayan),012,S 56° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-06T01:48:00.000Z,06 April 2026 - 01:48 AM,13.67,120.95,018,2.1,008km S 07° E of Mabini (Batangas),008,S 07° E,Mabini (Batangas)
 2026-04-06T01:37:00.000Z,06 April 2026 - 01:37 AM,20.02,122.96,002,3.1,113km S 71° E of Uyugan (Batanes),113,S 71° E,Uyugan (Batanes)
 2026-04-06T01:24:00.000Z,06 April 2026 - 01:24 AM,16.11,119.98,033,1.5,005km S 02° W of City Of Alaminos (Pangasinan),005,S 02° W,City Of Alaminos (Pangasinan)
@@ -376,5 +381,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-30T03:13:00.000Z,30 March 2026 - 03:13 AM,16.17,122.13,030,1.7,011km S 05° E of Casiguran (Aurora),011,S 05° E,Casiguran (Aurora)
 2026-03-30T02:52:00.000Z,30 March 2026 - 02:52 AM,08.18,126.05,033,1.6,006km N 84° E of Bunawan (Agusan Del Sur),006,N 84° E,Bunawan (Agusan Del Sur)
 2026-03-30T02:51:00.000Z,30 March 2026 - 02:51 AM,08.50,126.06,033,1.8,008km S 65° W of Barobo (Surigao Del Sur),008,S 65° W,Barobo (Surigao Del Sur)
-2026-03-30T02:35:00.000Z,30 March 2026 - 02:35 AM,09.80,124.58,007,2.8,006km N 04° E of Anda (Bohol),006,N 04° E,Anda (Bohol)
-2026-03-30T01:53:00.000Z,30 March 2026 - 01:53 AM,07.88,122.99,016,1.6,007km N 59° W of Bayog (Zamboanga Del Sur),007,N 59° W,Bayog (Zamboanga Del Sur)
