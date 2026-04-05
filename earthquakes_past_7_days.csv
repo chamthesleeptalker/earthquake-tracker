@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T14:30:00.000Z,05 April 2026 - 02:30 PM,18.65,120.92,005,2.1,012km N 37° W of Santa Praxedes (Cagayan),012,N 37° W,Santa Praxedes (Cagayan)
+2026-04-05T13:56:00.000Z,05 April 2026 - 01:56 PM,08.49,125.62,067,2.1,013km S 85° W of San Luis (Agusan Del Sur),013,S 85° W,San Luis (Agusan Del Sur)
 2026-04-05T13:10:00.000Z,05 April 2026 - 01:10 PM,06.54,124.20,007,2.2,016km S 83° E of Kalamansig (Sultan Kudarat),016,S 83° E,Kalamansig (Sultan Kudarat)
 2026-04-05T12:50:00.000Z,05 April 2026 - 12:50 PM,17.13,121.50,029,2.2,012km N 85° W of Roxas (Isabela),012,N 85° W,Roxas (Isabela)
 2026-04-05T12:42:00.000Z,05 April 2026 - 12:42 PM,07.25,122.58,006,2.1,029km S 78° W of Olutanga (Zamboanga Sibugay),029,S 78° W,Olutanga (Zamboanga Sibugay)
@@ -381,5 +383,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-29T15:39:00.000Z,29 March 2026 - 03:39 PM,07.70,127.00,015,2.2,051km N 75° E of Baganga (Davao Oriental),051,N 75° E,Baganga (Davao Oriental)
 2026-03-29T15:06:00.000Z,29 March 2026 - 03:06 PM,11.14,124.07,004,2.0,014km N 41° E of City Of Bogo (Cebu),014,N 41° E,City Of Bogo (Cebu)
 2026-03-29T14:39:00.000Z,29 March 2026 - 02:39 PM,06.48,126.61,052,2.6,062km S 72° E of Governor Generoso (Davao Oriental),062,S 72° E,Governor Generoso (Davao Oriental)
-2026-03-29T14:18:00.000Z,29 March 2026 - 02:18 PM,07.39,125.73,028,2.1,005km N 40° E of Carmen (Davao Del Norte),005,N 40° E,Carmen (Davao Del Norte)
-2026-03-29T14:16:00.000Z,29 March 2026 - 02:16 PM,06.63,125.89,030,2.5,020km S 83° W of Governor Generoso (Davao Oriental),020,S 83° W,Governor Generoso (Davao Oriental)
