@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-05T20:23:00.000Z,05 April 2026 - 08:23 PM,05.88,126.19,130,2.5,060km S 87° E of Jose Abad Santos (Davao Occidental),060,S 87° E,Jose Abad Santos (Davao Occidental)
+2026-04-05T19:48:00.000Z,05 April 2026 - 07:48 PM,13.55,120.67,004,2.6,013km N 28° W of Abra De Ilog (Occidental Mindoro),013,N 28° W,Abra De Ilog (Occidental Mindoro)
+2026-04-05T19:46:00.000Z,05 April 2026 - 07:46 PM,11.12,124.13,040,2.2,018km N 63° E of City Of Bogo (Cebu),018,N 63° E,City Of Bogo (Cebu)
 2026-04-05T19:37:00.000Z,05 April 2026 - 07:37 PM,13.57,120.68,006,1.8,015km N 20° W of Abra De Ilog (Occidental Mindoro),015,N 20° W,Abra De Ilog (Occidental Mindoro)
 2026-04-05T19:10:00.000Z,05 April 2026 - 07:10 PM,10.08,121.20,033,1.5,056km N 01° E of Cagayancillo (Palawan),056,N 01° E,Cagayancillo (Palawan)
 2026-04-05T19:09:00.000Z,05 April 2026 - 07:09 PM,10.05,121.30,047,2.0,054km N 12° E of Cagayancillo (Palawan),054,N 12° E,Cagayancillo (Palawan)
@@ -380,5 +383,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-29T20:34:00.000Z,29 March 2026 - 08:34 PM,14.20,121.41,033,1.2,006km S 51° E of Pila (Laguna),006,S 51° E,Pila (Laguna)
 2026-03-29T20:29:00.000Z,29 March 2026 - 08:29 PM,10.91,123.99,002,2.1,015km S 04° E of City Of Bogo (Cebu),015,S 04° E,City Of Bogo (Cebu)
 2026-03-29T20:25:00.000Z,29 March 2026 - 08:25 PM,10.92,124.00,002,1.7,015km S 11° E of City Of Bogo (Cebu),015,S 11° E,City Of Bogo (Cebu)
-2026-03-29T19:51:00.000Z,29 March 2026 - 07:51 PM,14.23,121.41,036,1.2,005km S 86° E of Pila (Laguna),005,S 86° E,Pila (Laguna)
-2026-03-29T19:51:00.000Z,29 March 2026 - 07:51 PM,19.22,121.27,032,1.7,014km N 29° E of Dalupiri Island (Calayan) (Cagayan),014,N 29° E,Dalupiri Island (Calayan) (Cagayan)
