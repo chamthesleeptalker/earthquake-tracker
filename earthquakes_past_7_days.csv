@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-06T10:20:00.000Z,06 April 2026 - 10:20 AM,09.90,126.25,022,2.3,017km N 39° E of General Luna (Surigao Del Norte),017,N 39° E,General Luna (Surigao Del Norte)
+2026-04-06T10:08:00.000Z,06 April 2026 - 10:08 AM,05.74,126.19,043,2.6,063km S 72° E of Jose Abad Santos (Davao Occidental),063,S 72° E,Jose Abad Santos (Davao Occidental)
+2026-04-06T09:26:00.000Z,06 April 2026 - 09:26 AM,19.95,121.23,007,2.8,080km S 57° W of Sabtang (Batanes),080,S 57° W,Sabtang (Batanes)
+2026-04-06T09:10:00.000Z,06 April 2026 - 09:10 AM,08.64,123.77,013,1.5,007km N 71° E of Plaridel (Misamis Occidental),007,N 71° E,Plaridel (Misamis Occidental)
+2026-04-06T08:17:00.000Z,06 April 2026 - 08:17 AM,11.40,125.72,006,2.6,013km N 62° E of Hernani (Eastern Samar),013,N 62° E,Hernani (Eastern Samar)
+2026-04-06T08:06:00.000Z,06 April 2026 - 08:06 AM,05.67,126.76,043,2.5,127km S 78° E of Jose Abad Santos (Davao Occidental),127,S 78° E,Jose Abad Santos (Davao Occidental)
+2026-04-06T07:57:00.000Z,06 April 2026 - 07:57 AM,09.87,125.89,034,1.8,009km N 87° W of Del Carmen (Surigao Del Norte),009,N 87° W,Del Carmen (Surigao Del Norte)
 2026-04-06T07:38:00.000Z,06 April 2026 - 07:38 AM,17.68,120.71,017,2.1,002km S 77° W of San Juan (Abra),002,S 77° W,San Juan (Abra)
 2026-04-06T07:08:00.000Z,06 April 2026 - 07:08 AM,09.91,126.22,019,1.9,014km N 68° E of Pilar (Surigao Del Norte),014,N 68° E,Pilar (Surigao Del Norte)
 2026-04-06T06:55:00.000Z,06 April 2026 - 06:55 AM,11.34,123.84,005,2.3,036km N 25° W of City Of Bogo (Cebu),036,N 25° W,City Of Bogo (Cebu)
@@ -384,6 +391,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-30T12:20:00.000Z,30 March 2026 - 12:20 PM,08.54,126.99,004,3.3,074km N 75° E of Hinatuan (Surigao Del Sur),074,N 75° E,Hinatuan (Surigao Del Sur)
 2026-03-30T11:51:00.000Z,30 March 2026 - 11:51 AM,08.54,126.52,002,2.2,028km N 47° E of Hinatuan (Surigao Del Sur),028,N 47° E,Hinatuan (Surigao Del Sur)
 2026-03-30T11:48:00.000Z,30 March 2026 - 11:48 AM,06.45,123.82,002,3.3,029km S 66° W of Kalamansig (Sultan Kudarat),029,S 66° W,Kalamansig (Sultan Kudarat)
-2026-03-30T10:00:00.000Z,30 March 2026 - 10:00 AM,09.31,126.51,032,1.5,035km N 84° E of Cortes (Surigao Del Sur),035,N 84° E,Cortes (Surigao Del Sur)
-2026-03-30T09:47:00.000Z,30 March 2026 - 09:47 AM,07.38,127.11,029,2.6,061km N 85° E of Caraga (Davao Oriental),061,N 85° E,Caraga (Davao Oriental)
-2026-03-30T09:34:00.000Z,30 March 2026 - 09:34 AM,19.40,121.93,019,2.2,012km S 06° E of Babuyan Island (Calayan) (Cagayan),012,S 06° E,Babuyan Island (Calayan) (Cagayan)
