@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-06T19:50:00.000Z,06 April 2026 - 07:50 PM,20.76,121.54,051,3.1,032km S 84° W of Itbayat (Batanes),032,S 84° W,Itbayat (Batanes)
+2026-04-06T19:31:00.000Z,06 April 2026 - 07:31 PM,13.70,120.69,031,1.5,016km S 25° E of Calatagan (Batangas),016,S 25° E,Calatagan (Batangas)
+2026-04-06T19:21:00.000Z,06 April 2026 - 07:21 PM,09.01,126.15,047,3.0,008km S 20° W of City Of Tandag (Surigao Del Sur),008,S 20° W,City Of Tandag (Surigao Del Sur)
 2026-04-06T19:12:00.000Z,06 April 2026 - 07:12 PM,18.40,120.98,027,2.1,011km S 54° E of Adams (Ilocos Norte),011,S 54° E,Adams (Ilocos Norte)
 2026-04-06T18:22:00.000Z,06 April 2026 - 06:22 PM,10.91,123.87,031,2.2,019km S 39° W of City Of Bogo (Cebu),019,S 39° W,City Of Bogo (Cebu)
 2026-04-06T17:42:00.000Z,06 April 2026 - 05:42 PM,11.02,124.12,012,1.6,015km S 80° E of City Of Bogo (Cebu),015,S 80° E,City Of Bogo (Cebu)
@@ -68,6 +71,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-05T21:48:00.000Z,05 April 2026 - 09:48 PM,07.36,127.37,002,2.7,089km N 88° E of Caraga (Davao Oriental),089,N 88° E,Caraga (Davao Oriental)
 2026-04-05T20:59:00.000Z,05 April 2026 - 08:59 PM,10.94,122.07,015,1.8,009km N 68° E of Patnongon (Antique),009,N 68° E,Patnongon (Antique)
 2026-04-05T20:23:00.000Z,05 April 2026 - 08:23 PM,05.88,126.19,130,2.5,060km S 87° E of Jose Abad Santos (Davao Occidental),060,S 87° E,Jose Abad Santos (Davao Occidental)
-2026-04-05T19:48:00.000Z,05 April 2026 - 07:48 PM,13.55,120.67,004,2.6,013km N 28° W of Abra De Ilog (Occidental Mindoro),013,N 28° W,Abra De Ilog (Occidental Mindoro)
-2026-04-05T19:46:00.000Z,05 April 2026 - 07:46 PM,11.12,124.13,040,2.2,018km N 63° E of City Of Bogo (Cebu),018,N 63° E,City Of Bogo (Cebu)
-2026-04-05T19:37:00.000Z,05 April 2026 - 07:37 PM,13.57,120.68,006,1.8,015km N 20° W of Abra De Ilog (Occidental Mindoro),015,N 20° W,Abra De Ilog (Occidental Mindoro)
