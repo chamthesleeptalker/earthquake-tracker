@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-07T01:23:00.000Z,07 April 2026 - 01:23 AM,19.91,121.24,002,2.9,076km N 19° W of Calayan (Cagayan),076,N 19° W,Calayan (Cagayan)
-2026-04-07T01:14:00.000Z,07 April 2026 - 01:14 AM,03.88,128.33,003,3.9,362km S 61° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),362,S 61° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-07T01:11:00.000Z,07 April 2026 - 01:11 AM,20.44,121.97,029,2.6,001km S 28° E of Basco (Batanes),001,S 28° E,Basco (Batanes)
-2026-04-07T00:35:00.000Z,07 April 2026 - 12:35 AM,04.12,126.39,077,3.4,179km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),179,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-07T00:23:00.000Z,07 April 2026 - 12:23 AM,16.19,122.26,013,2.8,018km S 56° E of Casiguran (Aurora),018,S 56° E,Casiguran (Aurora)
+2026-04-07T02:47:00.000Z,07 April 2026 - 02:47 AM,12.55,124.89,018,2.4,002km N 38° E of San Roque (Northern Samar),002,N 38° E,San Roque (Northern Samar)
+2026-04-07T02:20:00.000Z,07 April 2026 - 02:20 AM,09.02,125.58,038,1.6,004km S 08° W of Remedios T. Romualdez (Agusan Del Norte),004,S 08° W,Remedios T. Romualdez (Agusan Del Norte)
+2026-04-07T02:16:00.000Z,07 April 2026 - 02:16 AM,06.51,125.96,001,1.5,020km S 39° W of Governor Generoso (Davao Oriental),020,S 39° W,Governor Generoso (Davao Oriental)
+2026-04-07T02:16:00.000Z,07 April 2026 - 02:16 AM,10.94,124.02,009,2.6,012km S 20° E of City Of Bogo (Cebu),012,S 20° E,City Of Bogo (Cebu)
+2026-04-07T02:14:00.000Z,07 April 2026 - 02:14 AM,08.44,127.32,033,2.2,109km N 86° E of Hinatuan (Surigao Del Sur),109,N 86° E,Hinatuan (Surigao Del Sur)
+2026-04-07T01:59:00.000Z,07 April 2026 - 01:59 AM,10.07,122.48,003,1.7,019km N 55° W of Cauayan (Negros Occidental),019,N 55° W,Cauayan (Negros Occidental)
