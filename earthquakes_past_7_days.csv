@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-06T23:01:00.000Z,06 April 2026 - 11:01 PM,08.12,126.08,035,1.7,010km N 13° E of Trento (Agusan Del Sur),010,N 13° E,Trento (Agusan Del Sur)
 2026-04-06T21:46:00.000Z,06 April 2026 - 09:46 PM,09.58,126.07,047,1.9,012km S 67° E of Socorro (Surigao Del Norte),012,S 67° E,Socorro (Surigao Del Norte)
 2026-04-06T21:37:00.000Z,06 April 2026 - 09:37 PM,05.84,123.98,002,1.9,047km S 29° W of Palimbang (Sultan Kudarat),047,S 29° W,Palimbang (Sultan Kudarat)
 2026-04-06T21:38:00.000Z,06 April 2026 - 09:38 PM,10.86,124.91,001,2.6,007km S 58° W of La Paz (Leyte),007,S 58° W,La Paz (Leyte)
@@ -400,8 +401,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-30T23:55:00.000Z,30 March 2026 - 11:55 PM,11.16,124.00,009,1.9,012km N 08° E of City Of Bogo (Cebu),012,N 08° E,City Of Bogo (Cebu)
 2026-03-30T23:37:00.000Z,30 March 2026 - 11:37 PM,13.91,119.91,013,2.0,023km N 75° W of Lubang (Occidental Mindoro),023,N 75° W,Lubang (Occidental Mindoro)
 2026-03-30T23:11:00.000Z,30 March 2026 - 11:11 PM,11.70,125.11,062,2.3,005km N 86° E of Hinabangan (Samar),005,N 86° E,Hinabangan (Samar)
-2026-03-30T22:48:00.000Z,30 March 2026 - 10:48 PM,09.93,122.17,009,2.3,034km N 59° W of City Of Sipalay (Negros Occidental),034,N 59° W,City Of Sipalay (Negros Occidental)
-2026-03-30T22:46:00.000Z,30 March 2026 - 10:46 PM,15.38,119.85,019,2.9,009km S 51° W of Palauig (Zambales),009,S 51° W,Palauig (Zambales)
-2026-03-30T22:46:00.000Z,30 March 2026 - 10:46 PM,06.94,125.90,007,2.5,012km S 76° W of Banaybanay (Davao Oriental),012,S 76° W,Banaybanay (Davao Oriental)
-2026-03-30T22:42:00.000Z,30 March 2026 - 10:42 PM,19.14,121.11,033,1.8,010km N 71° W of Dalupiri Island (Calayan) (Cagayan),010,N 71° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-30T22:12:00.000Z,30 March 2026 - 10:12 PM,12.65,124.53,027,1.8,014km N 15° W of Bobon (Northern Samar),014,N 15° W,Bobon (Northern Samar)
