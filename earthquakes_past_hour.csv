@@ -1,5 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-06T17:42:00.000Z,06 April 2026 - 05:42 PM,11.02,124.12,012,1.6,015km S 80° E of City Of Bogo (Cebu),015,S 80° E,City Of Bogo (Cebu)
-2026-04-06T17:40:00.000Z,06 April 2026 - 05:40 PM,05.89,124.72,019,2.4,015km S 45° E of Kiamba (Sarangani),015,S 45° E,Kiamba (Sarangani)
-2026-04-06T16:57:00.000Z,06 April 2026 - 04:57 PM,09.69,122.24,012,3.2,023km S 68° W of City Of Sipalay (Negros Occidental),023,S 68° W,City Of Sipalay (Negros Occidental)
-2026-04-06T16:51:00.000Z,06 April 2026 - 04:51 PM,18.69,120.78,023,1.4,015km N 02° W of Pagudpud (Ilocos Norte),015,N 02° W,Pagudpud (Ilocos Norte)
+2026-04-06T19:12:00.000Z,06 April 2026 - 07:12 PM,18.40,120.98,027,2.1,011km S 54° E of Adams (Ilocos Norte),011,S 54° E,Adams (Ilocos Norte)
+2026-04-06T18:22:00.000Z,06 April 2026 - 06:22 PM,10.91,123.87,031,2.2,019km S 39° W of City Of Bogo (Cebu),019,S 39° W,City Of Bogo (Cebu)
