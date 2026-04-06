@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-07T03:38:00.000Z,07 April 2026 - 03:38 AM,10.95,124.01,010,1.9,012km S 18° E of City Of Bogo (Cebu),012,S 18° E,City Of Bogo (Cebu)
+2026-04-07T03:30:00.000Z,07 April 2026 - 03:30 AM,08.73,126.57,013,2.9,031km S 75° E of Marihatag (Surigao Del Sur),031,S 75° E,Marihatag (Surigao Del Sur)
+2026-04-07T03:26:00.000Z,07 April 2026 - 03:26 AM,12.62,125.80,009,3.0,058km N 33° E of San Policarpo (Eastern Samar),058,N 33° E,San Policarpo (Eastern Samar)
+2026-04-07T03:23:00.000Z,07 April 2026 - 03:23 AM,19.26,121.39,010,3.3,008km S 88° W of Calayan (Cagayan),008,S 88° W,Calayan (Cagayan)
+2026-04-07T03:18:00.000Z,07 April 2026 - 03:18 AM,13.74,120.59,096,1.8,012km S 21° W of Calatagan (Batangas),012,S 21° W,Calatagan (Batangas)
+2026-04-07T03:12:00.000Z,07 April 2026 - 03:12 AM,10.74,124.95,032,2.3,006km S 14° E of Javier (Leyte),006,S 14° E,Javier (Leyte)
+2026-04-07T03:10:00.000Z,07 April 2026 - 03:10 AM,11.10,124.13,008,2.7,018km N 71° E of City Of Bogo (Cebu),018,N 71° E,City Of Bogo (Cebu)
 2026-04-07T02:47:00.000Z,07 April 2026 - 02:47 AM,12.55,124.89,018,2.4,002km N 38° E of San Roque (Northern Samar),002,N 38° E,San Roque (Northern Samar)
 2026-04-07T02:20:00.000Z,07 April 2026 - 02:20 AM,09.02,125.58,038,1.6,004km S 08° W of Remedios T. Romualdez (Agusan Del Norte),004,S 08° W,Remedios T. Romualdez (Agusan Del Norte)
 2026-04-07T02:16:00.000Z,07 April 2026 - 02:16 AM,06.51,125.96,001,1.5,020km S 39° W of Governor Generoso (Davao Oriental),020,S 39° W,Governor Generoso (Davao Oriental)

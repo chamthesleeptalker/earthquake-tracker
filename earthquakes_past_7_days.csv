@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-07T03:38:00.000Z,07 April 2026 - 03:38 AM,10.95,124.01,010,1.9,012km S 18° E of City Of Bogo (Cebu),012,S 18° E,City Of Bogo (Cebu)
+2026-04-07T03:30:00.000Z,07 April 2026 - 03:30 AM,08.73,126.57,013,2.9,031km S 75° E of Marihatag (Surigao Del Sur),031,S 75° E,Marihatag (Surigao Del Sur)
+2026-04-07T03:26:00.000Z,07 April 2026 - 03:26 AM,12.62,125.80,009,3.0,058km N 33° E of San Policarpo (Eastern Samar),058,N 33° E,San Policarpo (Eastern Samar)
+2026-04-07T03:23:00.000Z,07 April 2026 - 03:23 AM,19.26,121.39,010,3.3,008km S 88° W of Calayan (Cagayan),008,S 88° W,Calayan (Cagayan)
+2026-04-07T03:18:00.000Z,07 April 2026 - 03:18 AM,13.74,120.59,096,1.8,012km S 21° W of Calatagan (Batangas),012,S 21° W,Calatagan (Batangas)
+2026-04-07T03:12:00.000Z,07 April 2026 - 03:12 AM,10.74,124.95,032,2.3,006km S 14° E of Javier (Leyte),006,S 14° E,Javier (Leyte)
+2026-04-07T03:10:00.000Z,07 April 2026 - 03:10 AM,11.10,124.13,008,2.7,018km N 71° E of City Of Bogo (Cebu),018,N 71° E,City Of Bogo (Cebu)
 2026-04-07T02:47:00.000Z,07 April 2026 - 02:47 AM,12.55,124.89,018,2.4,002km N 38° E of San Roque (Northern Samar),002,N 38° E,San Roque (Northern Samar)
 2026-04-07T02:20:00.000Z,07 April 2026 - 02:20 AM,09.02,125.58,038,1.6,004km S 08° W of Remedios T. Romualdez (Agusan Del Norte),004,S 08° W,Remedios T. Romualdez (Agusan Del Norte)
 2026-04-07T02:16:00.000Z,07 April 2026 - 02:16 AM,06.51,125.96,001,1.5,020km S 39° W of Governor Generoso (Davao Oriental),020,S 39° W,Governor Generoso (Davao Oriental)
@@ -402,6 +409,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-31T04:15:00.000Z,31 March 2026 - 04:15 AM,04.79,126.41,036,2.5,128km S 54° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),128,S 54° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-31T03:55:00.000Z,31 March 2026 - 03:55 AM,20.01,120.77,005,2.3,110km N 25° W of Dalupiri Island (Calayan) (Cagayan),110,N 25° W,Dalupiri Island (Calayan) (Cagayan)
 2026-03-31T03:53:00.000Z,31 March 2026 - 03:53 AM,08.30,126.97,033,1.5,068km N 65° E of Lingig (Surigao Del Sur),068,N 65° E,Lingig (Surigao Del Sur)
-2026-03-31T03:26:00.000Z,31 March 2026 - 03:26 AM,08.22,125.60,002,2.9,023km S 73° W of La Paz (Agusan Del Sur),023,S 73° W,La Paz (Agusan Del Sur)
-2026-03-31T03:13:00.000Z,31 March 2026 - 03:13 AM,13.60,120.50,113,1.8,020km N 09° E of Paluan (Occidental Mindoro),020,N 09° E,Paluan (Occidental Mindoro)
-2026-03-31T02:59:00.000Z,31 March 2026 - 02:59 AM,18.70,120.89,037,1.9,018km N 37° W of Santa Praxedes (Cagayan),018,N 37° W,Santa Praxedes (Cagayan)
