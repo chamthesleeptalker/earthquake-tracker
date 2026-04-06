@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-07T04:59:00.000Z,07 April 2026 - 04:59 AM,18.86,120.62,005,3.5,037km N 28° W of Pagudpud (Ilocos Norte),037,N 28° W,Pagudpud (Ilocos Norte)
+2026-04-07T04:47:00.000Z,07 April 2026 - 04:47 AM,10.88,123.96,002,2.3,019km S 06° W of City Of Bogo (Cebu),019,S 06° W,City Of Bogo (Cebu)
+2026-04-07T04:37:00.000Z,07 April 2026 - 04:37 AM,12.15,125.05,024,2.6,011km N 16° E of San Jose De Buan (Samar),011,N 16° E,San Jose De Buan (Samar)
+2026-04-07T04:37:00.000Z,07 April 2026 - 04:37 AM,07.39,126.89,018,2.6,036km N 79° E of Caraga (Davao Oriental),036,N 79° E,Caraga (Davao Oriental)
 2026-04-07T03:38:00.000Z,07 April 2026 - 03:38 AM,10.95,124.01,010,1.9,012km S 18° E of City Of Bogo (Cebu),012,S 18° E,City Of Bogo (Cebu)
 2026-04-07T03:30:00.000Z,07 April 2026 - 03:30 AM,08.73,126.57,013,2.9,031km S 75° E of Marihatag (Surigao Del Sur),031,S 75° E,Marihatag (Surigao Del Sur)
 2026-04-07T03:26:00.000Z,07 April 2026 - 03:26 AM,12.62,125.80,009,3.0,058km N 33° E of San Policarpo (Eastern Samar),058,N 33° E,San Policarpo (Eastern Samar)
@@ -405,7 +409,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-31T05:33:00.000Z,31 March 2026 - 05:33 AM,07.24,126.67,029,2.9,015km S 50° E of Caraga (Davao Oriental),015,S 50° E,Caraga (Davao Oriental)
 2026-03-31T05:18:00.000Z,31 March 2026 - 05:18 AM,16.50,122.16,007,2.3,011km S 75° W of Dinapigue (Isabela),011,S 75° W,Dinapigue (Isabela)
 2026-03-31T05:00:00.000Z,31 March 2026 - 05:00 AM,16.53,122.19,008,2.6,007km N 85° W of Dinapigue (Isabela),007,N 85° W,Dinapigue (Isabela)
-2026-03-31T04:37:00.000Z,31 March 2026 - 04:37 AM,14.46,121.63,033,2.1,019km N 60° E of Pakil (Laguna),019,N 60° E,Pakil (Laguna)
-2026-03-31T04:15:00.000Z,31 March 2026 - 04:15 AM,04.79,126.41,036,2.5,128km S 54° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),128,S 54° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-31T03:55:00.000Z,31 March 2026 - 03:55 AM,20.01,120.77,005,2.3,110km N 25° W of Dalupiri Island (Calayan) (Cagayan),110,N 25° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-31T03:53:00.000Z,31 March 2026 - 03:53 AM,08.30,126.97,033,1.5,068km N 65° E of Lingig (Surigao Del Sur),068,N 65° E,Lingig (Surigao Del Sur)
