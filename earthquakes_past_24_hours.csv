@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-07T01:23:00.000Z,07 April 2026 - 01:23 AM,19.91,121.24,002,2.9,076km N 19° W of Calayan (Cagayan),076,N 19° W,Calayan (Cagayan)
+2026-04-07T01:14:00.000Z,07 April 2026 - 01:14 AM,03.88,128.33,003,3.9,362km S 61° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),362,S 61° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-07T01:11:00.000Z,07 April 2026 - 01:11 AM,20.44,121.97,029,2.6,001km S 28° E of Basco (Batanes),001,S 28° E,Basco (Batanes)
 2026-04-07T00:35:00.000Z,07 April 2026 - 12:35 AM,04.12,126.39,077,3.4,179km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),179,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-07T00:23:00.000Z,07 April 2026 - 12:23 AM,16.19,122.26,013,2.8,018km S 56° E of Casiguran (Aurora),018,S 56° E,Casiguran (Aurora)
 2026-04-07T00:07:00.000Z,07 April 2026 - 12:07 AM,09.35,127.05,010,2.0,094km N 63° E of Bayabas (Surigao Del Sur),094,N 63° E,Bayabas (Surigao Del Sur)
@@ -69,7 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-06T01:48:00.000Z,06 April 2026 - 01:48 AM,13.67,120.95,018,2.1,008km S 07° E of Mabini (Batangas),008,S 07° E,Mabini (Batangas)
 2026-04-06T01:37:00.000Z,06 April 2026 - 01:37 AM,20.02,122.96,002,3.1,113km S 71° E of Uyugan (Batanes),113,S 71° E,Uyugan (Batanes)
 2026-04-06T01:24:00.000Z,06 April 2026 - 01:24 AM,16.11,119.98,033,1.5,005km S 02° W of City Of Alaminos (Pangasinan),005,S 02° W,City Of Alaminos (Pangasinan)
-2026-04-06T01:00:00.000Z,06 April 2026 - 01:00 AM,18.46,120.76,033,1.5,008km S 06° W of Bangui (Ilocos Norte),008,S 06° W,Bangui (Ilocos Norte)
-2026-04-06T00:58:00.000Z,06 April 2026 - 12:58 AM,14.80,120.04,033,1.4,017km S 17° W of San Antonio (Zambales),017,S 17° W,San Antonio (Zambales)
-2026-04-06T00:54:00.000Z,06 April 2026 - 12:54 AM,06.07,125.99,139,2.3,036km S 67° E of Don Marcelino (Davao Occidental),036,S 67° E,Don Marcelino (Davao Occidental)
-2026-04-06T00:36:00.000Z,06 April 2026 - 12:36 AM,07.40,126.72,019,1.9,019km N 64° E of Caraga (Davao Oriental),019,N 64° E,Caraga (Davao Oriental)

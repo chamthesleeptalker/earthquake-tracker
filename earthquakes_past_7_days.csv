@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-07T01:23:00.000Z,07 April 2026 - 01:23 AM,19.91,121.24,002,2.9,076km N 19° W of Calayan (Cagayan),076,N 19° W,Calayan (Cagayan)
+2026-04-07T01:14:00.000Z,07 April 2026 - 01:14 AM,03.88,128.33,003,3.9,362km S 61° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),362,S 61° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-07T01:11:00.000Z,07 April 2026 - 01:11 AM,20.44,121.97,029,2.6,001km S 28° E of Basco (Batanes),001,S 28° E,Basco (Batanes)
 2026-04-07T00:35:00.000Z,07 April 2026 - 12:35 AM,04.12,126.39,077,3.4,179km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),179,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-07T00:23:00.000Z,07 April 2026 - 12:23 AM,16.19,122.26,013,2.8,018km S 56° E of Casiguran (Aurora),018,S 56° E,Casiguran (Aurora)
 2026-04-07T00:07:00.000Z,07 April 2026 - 12:07 AM,09.35,127.05,010,2.0,094km N 63° E of Bayabas (Surigao Del Sur),094,N 63° E,Bayabas (Surigao Del Sur)
@@ -399,6 +402,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-31T01:58:00.000Z,31 March 2026 - 01:58 AM,08.00,126.80,021,2.1,042km S 84° E of Lingig (Surigao Del Sur),042,S 84° E,Lingig (Surigao Del Sur)
 2026-03-31T01:36:00.000Z,31 March 2026 - 01:36 AM,17.22,119.80,005,2.8,068km N 85° W of City Of Candon (Ilocos Sur),068,N 85° W,City Of Candon (Ilocos Sur)
 2026-03-31T01:34:00.000Z,31 March 2026 - 01:34 AM,19.49,120.92,016,2.5,052km N 35° W of Dalupiri Island (Calayan) (Cagayan),052,N 35° W,Dalupiri Island (Calayan) (Cagayan)
-2026-03-31T01:18:00.000Z,31 March 2026 - 01:18 AM,10.75,124.85,039,1.8,010km N 35° E of City Of Baybay (Leyte),010,N 35° E,City Of Baybay (Leyte)
-2026-03-31T01:03:00.000Z,31 March 2026 - 01:03 AM,07.39,126.65,020,2.4,011km N 51° E of Caraga (Davao Oriental),011,N 51° E,Caraga (Davao Oriental)
-2026-03-31T01:00:00.000Z,31 March 2026 - 01:00 AM,07.47,124.40,010,2.6,004km N 84° E of Barira (Maguindanao Del Norte),004,N 84° E,Barira (Maguindanao Del Norte)
