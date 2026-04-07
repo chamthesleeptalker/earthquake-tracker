@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T05:31:00.000Z,08 April 2026 - 05:31 AM,11.10,121.85,009,2.0,022km S 79° W of Laua-an (Antique),022,S 79° W,Laua-an (Antique)
 2026-04-08T04:29:00.000Z,08 April 2026 - 04:29 AM,14.15,120.02,028,2.4,034km N 19° W of Lubang (Occidental Mindoro),034,N 19° W,Lubang (Occidental Mindoro)
 2026-04-08T04:13:00.000Z,08 April 2026 - 04:13 AM,11.00,124.08,006,2.1,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
 2026-04-08T03:43:00.000Z,08 April 2026 - 03:43 AM,19.13,121.76,087,2.0,027km N 25° W of Camiguin Island (Calayan) (Cagayan),027,N 25° W,Camiguin Island (Calayan) (Cagayan)
@@ -48,7 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-07T10:14:00.000Z,07 April 2026 - 10:14 AM,07.76,126.88,028,1.4,041km N 60° E of Baganga (Davao Oriental),041,N 60° E,Baganga (Davao Oriental)
 2026-04-07T08:09:00.000Z,07 April 2026 - 08:09 AM,07.34,126.84,032,2.3,030km N 87° E of Caraga (Davao Oriental),030,N 87° E,Caraga (Davao Oriental)
 2026-04-07T06:54:00.000Z,07 April 2026 - 06:54 AM,16.19,120.58,011,1.9,008km N 78° E of Sison (Pangasinan),008,N 78° E,Sison (Pangasinan)
-2026-04-07T04:59:00.000Z,07 April 2026 - 04:59 AM,18.86,120.62,005,3.5,037km N 28° W of Pagudpud (Ilocos Norte),037,N 28° W,Pagudpud (Ilocos Norte)
-2026-04-07T04:47:00.000Z,07 April 2026 - 04:47 AM,10.88,123.96,002,2.3,019km S 06° W of City Of Bogo (Cebu),019,S 06° W,City Of Bogo (Cebu)
-2026-04-07T04:37:00.000Z,07 April 2026 - 04:37 AM,12.15,125.05,024,2.6,011km N 16° E of San Jose De Buan (Samar),011,N 16° E,San Jose De Buan (Samar)
-2026-04-07T04:37:00.000Z,07 April 2026 - 04:37 AM,07.39,126.89,018,2.6,036km N 79° E of Caraga (Davao Oriental),036,N 79° E,Caraga (Davao Oriental)

@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T05:31:00.000Z,08 April 2026 - 05:31 AM,11.10,121.85,009,2.0,022km S 79° W of Laua-an (Antique),022,S 79° W,Laua-an (Antique)
 2026-04-08T04:29:00.000Z,08 April 2026 - 04:29 AM,14.15,120.02,028,2.4,034km N 19° W of Lubang (Occidental Mindoro),034,N 19° W,Lubang (Occidental Mindoro)
 2026-04-08T04:13:00.000Z,08 April 2026 - 04:13 AM,11.00,124.08,006,2.1,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
 2026-04-08T03:43:00.000Z,08 April 2026 - 03:43 AM,19.13,121.76,087,2.0,027km N 25° W of Camiguin Island (Calayan) (Cagayan),027,N 25° W,Camiguin Island (Calayan) (Cagayan)
@@ -421,6 +422,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T07:06:00.000Z,01 April 2026 - 07:06 AM,09.14,122.18,019,2.8,058km S 59° W of Basay (Negros Oriental),058,S 59° W,Basay (Negros Oriental)
 2026-04-01T06:44:00.000Z,01 April 2026 - 06:44 AM,07.78,125.47,029,2.1,020km N 36° W of Talaingod (Davao Del Norte),020,N 36° W,Talaingod (Davao Del Norte)
 2026-04-01T06:35:00.000Z,01 April 2026 - 06:35 AM,07.52,127.29,019,2.7,080km S 86° E of Baganga (Davao Oriental),080,S 86° E,Baganga (Davao Oriental)
-2026-04-01T05:04:00.000Z,01 April 2026 - 05:04 AM,08.66,127.65,049,2.6,148km N 77° E of Hinatuan (Surigao Del Sur),148,N 77° E,Hinatuan (Surigao Del Sur)
-2026-04-01T04:59:00.000Z,01 April 2026 - 04:59 AM,11.03,124.04,031,1.5,007km S 77° E of City Of Bogo (Cebu),007,S 77° E,City Of Bogo (Cebu)
-2026-04-01T04:55:00.000Z,01 April 2026 - 04:55 AM,10.91,123.94,002,2.8,016km S 17° W of City Of Bogo (Cebu),016,S 17° W,City Of Bogo (Cebu)
