@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T01:05:00.000Z,08 April 2026 - 01:05 AM,19.29,121.12,032,1.8,022km N 24° W of Dalupiri Island (Calayan) (Cagayan),022,N 24° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-08T01:00:00.000Z,08 April 2026 - 01:00 AM,04.94,126.25,005,3.4,104km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),104,S 56° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-08T00:02:00.000Z,08 April 2026 - 12:02 AM,14.02,119.71,017,2.4,048km N 68° W of Lubang (Occidental Mindoro),048,N 68° W,Lubang (Occidental Mindoro)
 2026-04-07T23:23:00.000Z,07 April 2026 - 11:23 PM,20.75,120.16,027,3.6,175km S 88° W of Itbayat (Batanes),175,S 88° W,Itbayat (Batanes)
 2026-04-07T23:21:00.000Z,07 April 2026 - 11:21 PM,21.32,121.17,005,3.5,091km N 50° W of Itbayat (Batanes),091,N 50° W,Itbayat (Batanes)
 2026-04-07T23:09:00.000Z,07 April 2026 - 11:09 PM,13.13,121.06,022,2.1,025km S 78° W of Victoria (Oriental Mindoro),025,S 78° W,Victoria (Oriental Mindoro)
