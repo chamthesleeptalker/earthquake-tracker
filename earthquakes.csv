@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-07T16:43:00.000Z,07 April 2026 - 04:43 PM,11.12,123.95,027,2.0,009km N 22° W of City Of Bogo (Cebu),009,N 22° W,City Of Bogo (Cebu)
+2026-04-07T16:41:00.000Z,07 April 2026 - 04:41 PM,10.91,123.92,002,2.9,017km S 24° W of City Of Bogo (Cebu),017,S 24° W,City Of Bogo (Cebu)
+2026-04-07T16:38:00.000Z,07 April 2026 - 04:38 PM,19.38,120.75,033,2.2,057km N 58° W of Dalupiri Island (Calayan) (Cagayan),057,N 58° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-07T16:13:00.000Z,07 April 2026 - 04:13 PM,14.45,123.38,026,2.3,046km S 86° E of Tinaga Island (Vinzons) (Camarines Norte),046,S 86° E,Tinaga Island (Vinzons) (Camarines Norte)
+2026-04-07T16:01:00.000Z,07 April 2026 - 04:01 PM,08.16,125.88,036,1.9,003km S 54° E of Loreto (Agusan Del Sur),003,S 54° E,Loreto (Agusan Del Sur)
+2026-04-07T15:52:00.000Z,07 April 2026 - 03:52 PM,08.79,125.68,017,3.5,004km S 24° W of Sibagat (Agusan Del Sur),004,S 24° W,Sibagat (Agusan Del Sur)
+2026-04-07T15:51:00.000Z,07 April 2026 - 03:51 PM,06.44,125.63,173,4.1,003km N 36° E of Malita (Davao Occidental),003,N 36° E,Malita (Davao Occidental)
 2026-04-07T13:15:00.000Z,07 April 2026 - 01:15 PM,08.68,126.70,050,1.9,052km S 59° E of Cagwait (Surigao Del Sur),052,S 59° E,Cagwait (Surigao Del Sur)
 2026-04-07T12:38:00.000Z,07 April 2026 - 12:38 PM,20.22,121.49,031,3.0,042km S 73° W of Sabtang (Batanes),042,S 73° W,Sabtang (Batanes)
 2026-04-07T12:25:00.000Z,07 April 2026 - 12:25 PM,09.35,126.04,021,1.6,007km N 76° E of Cantilan (Surigao Del Sur),007,N 76° E,Cantilan (Surigao Del Sur)
