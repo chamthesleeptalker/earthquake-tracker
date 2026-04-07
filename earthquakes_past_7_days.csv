@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-07T10:14:00.000Z,07 April 2026 - 10:14 AM,07.76,126.88,028,1.4,041km N 60° E of Baganga (Davao Oriental),041,N 60° E,Baganga (Davao Oriental)
+2026-04-07T08:09:00.000Z,07 April 2026 - 08:09 AM,07.34,126.84,032,2.3,030km N 87° E of Caraga (Davao Oriental),030,N 87° E,Caraga (Davao Oriental)
 2026-04-07T06:54:00.000Z,07 April 2026 - 06:54 AM,16.19,120.58,011,1.9,008km N 78° E of Sison (Pangasinan),008,N 78° E,Sison (Pangasinan)
 2026-04-07T04:59:00.000Z,07 April 2026 - 04:59 AM,18.86,120.62,005,3.5,037km N 28° W of Pagudpud (Ilocos Norte),037,N 28° W,Pagudpud (Ilocos Norte)
 2026-04-07T04:47:00.000Z,07 April 2026 - 04:47 AM,10.88,123.96,002,2.3,019km S 06° W of City Of Bogo (Cebu),019,S 06° W,City Of Bogo (Cebu)
@@ -403,6 +405,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-03-31T11:37:00.000Z,31 March 2026 - 11:37 AM,02.97,126.46,058,4.3,294km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),294,S 23° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-03-31T10:53:00.000Z,31 March 2026 - 10:53 AM,17.98,121.70,019,2.7,010km N 27° E of Alcala (Cagayan),010,N 27° E,Alcala (Cagayan)
 2026-03-31T10:42:00.000Z,31 March 2026 - 10:42 AM,06.60,124.85,036,1.6,004km N 05° W of Lutayan (Sultan Kudarat),004,N 05° W,Lutayan (Sultan Kudarat)
-2026-03-31T10:00:00.000Z,31 March 2026 - 10:00 AM,09.01,126.21,021,1.8,003km S 74° W of Tago (Surigao Del Sur),003,S 74° W,Tago (Surigao Del Sur)
-2026-03-31T09:59:00.000Z,31 March 2026 - 09:59 AM,04.99,125.00,013,3.2,066km S 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),066,S 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-03-31T07:39:00.000Z,31 March 2026 - 07:39 AM,05.56,126.98,013,2.6,153km S 75° E of Jose Abad Santos (Davao Occidental),153,S 75° E,Jose Abad Santos (Davao Occidental)
