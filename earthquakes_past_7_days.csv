@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T04:29:00.000Z,08 April 2026 - 04:29 AM,14.15,120.02,028,2.4,034km N 19° W of Lubang (Occidental Mindoro),034,N 19° W,Lubang (Occidental Mindoro)
+2026-04-08T04:13:00.000Z,08 April 2026 - 04:13 AM,11.00,124.08,006,2.1,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
 2026-04-08T03:43:00.000Z,08 April 2026 - 03:43 AM,19.13,121.76,087,2.0,027km N 25° W of Camiguin Island (Calayan) (Cagayan),027,N 25° W,Camiguin Island (Calayan) (Cagayan)
 2026-04-08T03:21:00.000Z,08 April 2026 - 03:21 AM,06.66,126.12,019,1.8,005km N 78° E of Governor Generoso (Davao Oriental),005,N 78° E,Governor Generoso (Davao Oriental)
 2026-04-08T03:20:00.000Z,08 April 2026 - 03:20 AM,07.37,126.67,016,3.3,012km N 71° E of Caraga (Davao Oriental),012,N 71° E,Caraga (Davao Oriental)
@@ -422,7 +424,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T05:04:00.000Z,01 April 2026 - 05:04 AM,08.66,127.65,049,2.6,148km N 77° E of Hinatuan (Surigao Del Sur),148,N 77° E,Hinatuan (Surigao Del Sur)
 2026-04-01T04:59:00.000Z,01 April 2026 - 04:59 AM,11.03,124.04,031,1.5,007km S 77° E of City Of Bogo (Cebu),007,S 77° E,City Of Bogo (Cebu)
 2026-04-01T04:55:00.000Z,01 April 2026 - 04:55 AM,10.91,123.94,002,2.8,016km S 17° W of City Of Bogo (Cebu),016,S 17° W,City Of Bogo (Cebu)
-2026-04-01T04:21:00.000Z,01 April 2026 - 04:21 AM,13.81,124.86,003,2.6,051km N 87° E of Gigmoto (Catanduanes),051,N 87° E,Gigmoto (Catanduanes)
-2026-04-01T04:21:00.000Z,01 April 2026 - 04:21 AM,12.53,123.27,004,2.2,015km N 82° W of Aroroy (Masbate),015,N 82° W,Aroroy (Masbate)
-2026-04-01T03:58:00.000Z,01 April 2026 - 03:58 AM,13.56,120.65,004,2.3,016km N 32° W of Abra De Ilog (Occidental Mindoro),016,N 32° W,Abra De Ilog (Occidental Mindoro)
-2026-04-01T03:53:00.000Z,01 April 2026 - 03:53 AM,13.35,120.23,025,2.2,027km S 74° W of Paluan (Occidental Mindoro),027,S 74° W,Paluan (Occidental Mindoro)
