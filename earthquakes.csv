@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T06:40:00.000Z,08 April 2026 - 06:40 AM,10.96,123.91,033,2.1,012km S 37° W of City Of Bogo (Cebu),012,S 37° W,City Of Bogo (Cebu)
 2026-04-08T05:31:00.000Z,08 April 2026 - 05:31 AM,11.10,121.85,009,2.0,022km S 79° W of Laua-an (Antique),022,S 79° W,Laua-an (Antique)
 2026-04-08T04:29:00.000Z,08 April 2026 - 04:29 AM,14.15,120.02,028,2.4,034km N 19° W of Lubang (Occidental Mindoro),034,N 19° W,Lubang (Occidental Mindoro)
 2026-04-08T04:13:00.000Z,08 April 2026 - 04:13 AM,11.00,124.08,006,2.1,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
