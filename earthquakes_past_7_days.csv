@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T15:05:00.000Z,08 April 2026 - 03:05 PM,11.04,124.73,020,1.6,015km N 15° E of Albuera (Leyte),015,N 15° E,Albuera (Leyte)
+2026-04-08T13:56:00.000Z,08 April 2026 - 01:56 PM,07.35,126.87,015,3.4,034km N 86° E of Caraga (Davao Oriental),034,N 86° E,Caraga (Davao Oriental)
 2026-04-08T13:26:00.000Z,08 April 2026 - 01:26 PM,08.30,125.59,023,2.1,024km N 85° W of La Paz (Agusan Del Sur),024,N 85° W,La Paz (Agusan Del Sur)
 2026-04-08T13:09:00.000Z,08 April 2026 - 01:09 PM,19.15,121.18,034,1.7,005km N 32° W of Dalupiri Island (Calayan) (Cagayan),005,N 32° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-08T12:10:00.000Z,08 April 2026 - 12:10 PM,12.42,124.49,124,2.7,012km S 01° W of San Jose (Northern Samar),012,S 01° W,San Jose (Northern Samar)
@@ -415,6 +417,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T17:44:00.000Z,01 April 2026 - 05:44 PM,03.67,125.90,040,3.6,200km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),200,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-01T16:38:00.000Z,01 April 2026 - 04:38 PM,09.93,126.04,017,3.0,005km S 40° E of San Benito (Surigao Del Norte),005,S 40° E,San Benito (Surigao Del Norte)
 2026-04-01T15:36:00.000Z,01 April 2026 - 03:36 PM,16.84,120.23,057,2.0,016km S 86° W of Luna (La Union),016,S 86° W,Luna (La Union)
-2026-04-01T15:03:00.000Z,01 April 2026 - 03:03 PM,11.03,124.08,004,2.6,011km S 83° E of City Of Bogo (Cebu),011,S 83° E,City Of Bogo (Cebu)
-2026-04-01T14:42:00.000Z,01 April 2026 - 02:42 PM,09.17,126.30,117,1.9,017km S 44° E of Cortes (Surigao Del Sur),017,S 44° E,Cortes (Surigao Del Sur)
-2026-04-01T14:21:00.000Z,01 April 2026 - 02:21 PM,11.19,123.98,031,1.9,016km N 01° W of City Of Bogo (Cebu),016,N 01° W,City Of Bogo (Cebu)
