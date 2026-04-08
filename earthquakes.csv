@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-09T00:42:00.000Z,09 April 2026 - 12:42 AM,11.79,124.22,016,2.2,014km N 85° W of Maripipi (Biliran),014,N 85° W,Maripipi (Biliran)
+2026-04-09T00:34:00.000Z,09 April 2026 - 12:34 AM,10.33,125.29,002,3.3,005km S 66° E of Hinundayan (Southern Leyte),005,S 66° E,Hinundayan (Southern Leyte)
 2026-04-08T23:16:00.000Z,08 April 2026 - 11:16 PM,07.58,126.73,025,3.3,019km N 90° E of Baganga (Davao Oriental),019,N 90° E,Baganga (Davao Oriental)
 2026-04-08T22:57:00.000Z,08 April 2026 - 10:57 PM,14.64,120.03,061,1.4,025km S 81° W of Morong (Bataan),025,S 81° W,Morong (Bataan)
 2026-04-08T22:53:00.000Z,08 April 2026 - 10:53 PM,07.60,126.64,025,2.5,010km N 71° E of Baganga (Davao Oriental),010,N 71° E,Baganga (Davao Oriental)
