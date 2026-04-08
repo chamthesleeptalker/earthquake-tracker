@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T11:05:00.000Z,08 April 2026 - 11:05 AM,06.33,126.87,051,2.3,092km S 30° E of Tarragona (Davao Oriental),092,S 30° E,Tarragona (Davao Oriental)
+2026-04-08T10:36:00.000Z,08 April 2026 - 10:36 AM,09.72,126.09,024,2.4,006km S 43° E of Dapa (Surigao Del Norte),006,S 43° E,Dapa (Surigao Del Norte)
+2026-04-08T08:35:00.000Z,08 April 2026 - 08:35 AM,11.13,124.11,006,2.1,017km N 57° E of City Of Bogo (Cebu),017,N 57° E,City Of Bogo (Cebu)
 2026-04-08T07:02:00.000Z,08 April 2026 - 07:02 AM,19.37,120.95,033,1.7,040km N 44° W of Dalupiri Island (Calayan) (Cagayan),040,N 44° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-08T06:40:00.000Z,08 April 2026 - 06:40 AM,10.96,123.91,033,2.1,012km S 37° W of City Of Bogo (Cebu),012,S 37° W,City Of Bogo (Cebu)
 2026-04-08T05:31:00.000Z,08 April 2026 - 05:31 AM,11.10,121.85,009,2.0,022km S 79° W of Laua-an (Antique),022,S 79° W,Laua-an (Antique)
@@ -418,7 +421,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T12:23:00.000Z,01 April 2026 - 12:23 PM,17.55,120.67,009,1.5,003km S 56° E of Peñarrubia (Abra),003,S 56° E,PeÃ±arrubia (Abra)
 2026-04-01T11:19:00.000Z,01 April 2026 - 11:19 AM,18.73,122.23,011,1.8,031km N 17° E of Santa Ana (Cagayan),031,N 17° E,Santa Ana (Cagayan)
 2026-04-01T11:10:00.000Z,01 April 2026 - 11:10 AM,17.50,120.70,001,1.8,004km S 23° W of Bucay (Abra),004,S 23° W,Bucay (Abra)
-2026-04-01T10:59:00.000Z,01 April 2026 - 10:59 AM,07.10,126.81,015,2.6,032km S 67° E of Manay (Davao Oriental),032,S 67° E,Manay (Davao Oriental)
-2026-04-01T09:59:00.000Z,01 April 2026 - 09:59 AM,05.84,125.90,137,1.9,030km S 74° E of Jose Abad Santos (Davao Occidental),030,S 74° E,Jose Abad Santos (Davao Occidental)
-2026-04-01T09:02:00.000Z,01 April 2026 - 09:02 AM,09.07,126.00,025,2.0,015km N 17° W of San Miguel (Surigao Del Sur),015,N 17° W,San Miguel (Surigao Del Sur)
-2026-04-01T07:06:00.000Z,01 April 2026 - 07:06 AM,09.14,122.18,019,2.8,058km S 59° W of Basay (Negros Oriental),058,S 59° W,Basay (Negros Oriental)
