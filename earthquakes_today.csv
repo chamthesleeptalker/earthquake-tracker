@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-09T04:12:00.000Z,09 April 2026 - 04:12 AM,09.76,126.46,013,1.7,033km S 86° E of General Luna (Surigao Del Norte),033,S 86° E,General Luna (Surigao Del Norte)
+2026-04-09T04:03:00.000Z,09 April 2026 - 04:03 AM,13.56,120.11,025,1.9,023km S 40° W of Looc (Occidental Mindoro),023,S 40° W,Looc (Occidental Mindoro)
 2026-04-09T03:21:00.000Z,09 April 2026 - 03:21 AM,06.75,126.98,002,2.3,071km S 44° E of Manay (Davao Oriental),071,S 44° E,Manay (Davao Oriental)
 2026-04-09T03:15:00.000Z,09 April 2026 - 03:15 AM,20.61,121.90,097,2.2,019km N 21° W of Basco (Batanes),019,N 21° W,Basco (Batanes)
 2026-04-09T02:48:00.000Z,09 April 2026 - 02:48 AM,08.38,126.35,132,2.2,002km N 55° E of Hinatuan (Surigao Del Sur),002,N 55° E,Hinatuan (Surigao Del Sur)
