@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-08T13:26:00.000Z,08 April 2026 - 01:26 PM,08.30,125.59,023,2.1,024km N 85° W of La Paz (Agusan Del Sur),024,N 85° W,La Paz (Agusan Del Sur)
+2026-04-08T13:09:00.000Z,08 April 2026 - 01:09 PM,19.15,121.18,034,1.7,005km N 32° W of Dalupiri Island (Calayan) (Cagayan),005,N 32° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-08T12:10:00.000Z,08 April 2026 - 12:10 PM,12.42,124.49,124,2.7,012km S 01° W of San Jose (Northern Samar),012,S 01° W,San Jose (Northern Samar)
 2026-04-08T11:05:00.000Z,08 April 2026 - 11:05 AM,06.33,126.87,051,2.3,092km S 30° E of Tarragona (Davao Oriental),092,S 30° E,Tarragona (Davao Oriental)
 2026-04-08T10:36:00.000Z,08 April 2026 - 10:36 AM,09.72,126.09,024,2.4,006km S 43° E of Dapa (Surigao Del Norte),006,S 43° E,Dapa (Surigao Del Norte)
 2026-04-08T08:35:00.000Z,08 April 2026 - 08:35 AM,11.13,124.11,006,2.1,017km N 57° E of City Of Bogo (Cebu),017,N 57° E,City Of Bogo (Cebu)
@@ -415,9 +418,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-01T15:03:00.000Z,01 April 2026 - 03:03 PM,11.03,124.08,004,2.6,011km S 83° E of City Of Bogo (Cebu),011,S 83° E,City Of Bogo (Cebu)
 2026-04-01T14:42:00.000Z,01 April 2026 - 02:42 PM,09.17,126.30,117,1.9,017km S 44° E of Cortes (Surigao Del Sur),017,S 44° E,Cortes (Surigao Del Sur)
 2026-04-01T14:21:00.000Z,01 April 2026 - 02:21 PM,11.19,123.98,031,1.9,016km N 01° W of City Of Bogo (Cebu),016,N 01° W,City Of Bogo (Cebu)
-2026-04-01T13:01:00.000Z,01 April 2026 - 01:01 PM,04.93,126.58,012,4.0,137km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),137,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-01T12:57:00.000Z,01 April 2026 - 12:57 PM,16.36,122.05,006,2.1,013km N 40° W of Casiguran (Aurora),013,N 40° W,Casiguran (Aurora)
-2026-04-01T12:25:00.000Z,01 April 2026 - 12:25 PM,18.08,120.55,029,1.8,004km N 29° W of City Of Batac (Ilocos Norte),004,N 29° W,City Of Batac (Ilocos Norte)
-2026-04-01T12:23:00.000Z,01 April 2026 - 12:23 PM,17.55,120.67,009,1.5,003km S 56° E of Peñarrubia (Abra),003,S 56° E,PeÃ±arrubia (Abra)
-2026-04-01T11:19:00.000Z,01 April 2026 - 11:19 AM,18.73,122.23,011,1.8,031km N 17° E of Santa Ana (Cagayan),031,N 17° E,Santa Ana (Cagayan)
-2026-04-01T11:10:00.000Z,01 April 2026 - 11:10 AM,17.50,120.70,001,1.8,004km S 23° W of Bucay (Abra),004,S 23° W,Bucay (Abra)
