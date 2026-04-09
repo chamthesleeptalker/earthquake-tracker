@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-09T12:41:00.000Z,09 April 2026 - 12:41 PM,08.12,126.43,026,1.7,009km N 14° E of Lingig (Surigao Del Sur),009,N 14° E,Lingig (Surigao Del Sur)
+2026-04-09T12:28:00.000Z,09 April 2026 - 12:28 PM,08.97,126.45,025,2.2,018km N 70° E of Cagwait (Surigao Del Sur),018,N 70° E,Cagwait (Surigao Del Sur)
+2026-04-09T12:15:00.000Z,09 April 2026 - 12:15 PM,10.43,125.13,002,2.6,008km N 61° W of Hinunangan (Southern Leyte),008,N 61° W,Hinunangan (Southern Leyte)
+2026-04-09T10:39:00.000Z,09 April 2026 - 10:39 AM,17.70,120.30,024,2.3,013km N 48° W of San Ildefonso (Ilocos Sur),013,N 48° W,San Ildefonso (Ilocos Sur)
+2026-04-09T10:11:00.000Z,09 April 2026 - 10:11 AM,16.21,120.52,033,1.6,004km S 66° E of Rosario (La Union),004,S 66° E,Rosario (La Union)
 2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.56,126.18,028,1.9,026km S 33° E of Dapa (Surigao Del Norte),026,S 33° E,Dapa (Surigao Del Norte)
 2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.70,126.05,033,1.5,006km S 01° W of Dapa (Surigao Del Norte),006,S 01° W,Dapa (Surigao Del Norte)
 2026-04-09T08:28:00.000Z,09 April 2026 - 08:28 AM,06.94,125.07,033,2.4,003km S 42° W of Makilala (Cotabato),003,S 42° W,Makilala (Cotabato)
@@ -413,8 +418,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-02T15:25:00.000Z,02 April 2026 - 03:25 PM,09.79,122.17,010,2.3,028km N 85° W of City Of Sipalay (Negros Occidental),028,N 85° W,City Of Sipalay (Negros Occidental)
 2026-04-02T14:31:00.000Z,02 April 2026 - 02:31 PM,15.01,122.05,002,2.6,020km N 26° E of Burdeos (Quezon),020,N 26° E,Burdeos (Quezon)
 2026-04-02T12:59:00.000Z,02 April 2026 - 12:59 PM,18.04,120.63,014,1.9,005km S 86° W of Marcos (Ilocos Norte),005,S 86° W,Marcos (Ilocos Norte)
-2026-04-02T11:49:00.000Z,02 April 2026 - 11:49 AM,03.37,126.70,094,4.2,267km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),267,S 32° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-02T11:40:00.000Z,02 April 2026 - 11:40 AM,13.17,120.76,004,2.6,011km N 22° E of Santa Cruz (Occidental Mindoro),011,N 22° E,Santa Cruz (Occidental Mindoro)
-2026-04-02T11:27:00.000Z,02 April 2026 - 11:27 AM,08.90,126.18,029,2.5,014km S 55° W of Bayabas (Surigao Del Sur),014,S 55° W,Bayabas (Surigao Del Sur)
-2026-04-02T11:09:00.000Z,02 April 2026 - 11:09 AM,11.35,125.78,015,2.3,018km N 87° E of Hernani (Eastern Samar),018,N 87° E,Hernani (Eastern Samar)
-2026-04-02T09:41:00.000Z,02 April 2026 - 09:41 AM,19.26,121.36,028,1.7,012km S 89° W of Calayan (Cagayan),012,S 89° W,Calayan (Cagayan)

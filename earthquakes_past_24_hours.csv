@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-09T12:41:00.000Z,09 April 2026 - 12:41 PM,08.12,126.43,026,1.7,009km N 14° E of Lingig (Surigao Del Sur),009,N 14° E,Lingig (Surigao Del Sur)
+2026-04-09T12:28:00.000Z,09 April 2026 - 12:28 PM,08.97,126.45,025,2.2,018km N 70° E of Cagwait (Surigao Del Sur),018,N 70° E,Cagwait (Surigao Del Sur)
+2026-04-09T12:15:00.000Z,09 April 2026 - 12:15 PM,10.43,125.13,002,2.6,008km N 61° W of Hinunangan (Southern Leyte),008,N 61° W,Hinunangan (Southern Leyte)
+2026-04-09T10:39:00.000Z,09 April 2026 - 10:39 AM,17.70,120.30,024,2.3,013km N 48° W of San Ildefonso (Ilocos Sur),013,N 48° W,San Ildefonso (Ilocos Sur)
+2026-04-09T10:11:00.000Z,09 April 2026 - 10:11 AM,16.21,120.52,033,1.6,004km S 66° E of Rosario (La Union),004,S 66° E,Rosario (La Union)
 2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.56,126.18,028,1.9,026km S 33° E of Dapa (Surigao Del Norte),026,S 33° E,Dapa (Surigao Del Norte)
 2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.70,126.05,033,1.5,006km S 01° W of Dapa (Surigao Del Norte),006,S 01° W,Dapa (Surigao Del Norte)
 2026-04-09T08:28:00.000Z,09 April 2026 - 08:28 AM,06.94,125.07,033,2.4,003km S 42° W of Makilala (Cotabato),003,S 42° W,Makilala (Cotabato)
@@ -35,6 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-08T13:56:00.000Z,08 April 2026 - 01:56 PM,07.35,126.87,015,3.4,034km N 86° E of Caraga (Davao Oriental),034,N 86° E,Caraga (Davao Oriental)
 2026-04-08T13:26:00.000Z,08 April 2026 - 01:26 PM,08.30,125.59,023,2.1,024km N 85° W of La Paz (Agusan Del Sur),024,N 85° W,La Paz (Agusan Del Sur)
 2026-04-08T13:09:00.000Z,08 April 2026 - 01:09 PM,19.15,121.18,034,1.7,005km N 32° W of Dalupiri Island (Calayan) (Cagayan),005,N 32° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-08T12:10:00.000Z,08 April 2026 - 12:10 PM,12.42,124.49,124,2.7,012km S 01° W of San Jose (Northern Samar),012,S 01° W,San Jose (Northern Samar)
-2026-04-08T11:05:00.000Z,08 April 2026 - 11:05 AM,06.33,126.87,051,2.3,092km S 30° E of Tarragona (Davao Oriental),092,S 30° E,Tarragona (Davao Oriental)
-2026-04-08T10:36:00.000Z,08 April 2026 - 10:36 AM,09.72,126.09,024,2.4,006km S 43° E of Dapa (Surigao Del Norte),006,S 43° E,Dapa (Surigao Del Norte)
