@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.56,126.18,028,1.9,026km S 33° E of Dapa (Surigao Del Norte),026,S 33° E,Dapa (Surigao Del Norte)
+2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.70,126.05,033,1.5,006km S 01° W of Dapa (Surigao Del Norte),006,S 01° W,Dapa (Surigao Del Norte)
+2026-04-09T08:28:00.000Z,09 April 2026 - 08:28 AM,06.94,125.07,033,2.4,003km S 42° W of Makilala (Cotabato),003,S 42° W,Makilala (Cotabato)
+2026-04-09T08:21:00.000Z,09 April 2026 - 08:21 AM,06.86,124.95,008,2.4,009km N 69° E of Tulunan (Cotabato),009,N 69° E,Tulunan (Cotabato)
 2026-04-09T05:14:00.000Z,09 April 2026 - 05:14 AM,13.31,122.66,013,2.2,002km S 63° W of San Andres (Quezon),002,S 63° W,San Andres (Quezon)
 2026-04-09T04:57:00.000Z,09 April 2026 - 04:57 AM,08.71,126.54,034,2.3,029km S 71° E of Marihatag (Surigao Del Sur),029,S 71° E,Marihatag (Surigao Del Sur)
 2026-04-09T04:55:00.000Z,09 April 2026 - 04:55 AM,05.98,126.37,130,3.2,079km S 73° E of Don Marcelino (Davao Occidental),079,S 73° E,Don Marcelino (Davao Occidental)
@@ -414,5 +418,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-02T11:27:00.000Z,02 April 2026 - 11:27 AM,08.90,126.18,029,2.5,014km S 55° W of Bayabas (Surigao Del Sur),014,S 55° W,Bayabas (Surigao Del Sur)
 2026-04-02T11:09:00.000Z,02 April 2026 - 11:09 AM,11.35,125.78,015,2.3,018km N 87° E of Hernani (Eastern Samar),018,N 87° E,Hernani (Eastern Samar)
 2026-04-02T09:41:00.000Z,02 April 2026 - 09:41 AM,19.26,121.36,028,1.7,012km S 89° W of Calayan (Cagayan),012,S 89° W,Calayan (Cagayan)
-2026-04-02T06:48:00.000Z,02 April 2026 - 06:48 AM,,,,7.4,"017127 km WNW of Ternate, Indonesia",017127,km WNW of,Indonesia
-2026-04-02T06:37:00.000Z,02 April 2026 - 06:37 AM,10.89,123.98,012,3.5,017km S 01° W of City Of Bogo (Cebu),017,S 01° W,City Of Bogo (Cebu)

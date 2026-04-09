@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.56,126.18,028,1.9,026km S 33° E of Dapa (Surigao Del Norte),026,S 33° E,Dapa (Surigao Del Norte)
+2026-04-09T09:41:00.000Z,09 April 2026 - 09:41 AM,09.70,126.05,033,1.5,006km S 01° W of Dapa (Surigao Del Norte),006,S 01° W,Dapa (Surigao Del Norte)
+2026-04-09T08:28:00.000Z,09 April 2026 - 08:28 AM,06.94,125.07,033,2.4,003km S 42° W of Makilala (Cotabato),003,S 42° W,Makilala (Cotabato)
+2026-04-09T08:21:00.000Z,09 April 2026 - 08:21 AM,06.86,124.95,008,2.4,009km N 69° E of Tulunan (Cotabato),009,N 69° E,Tulunan (Cotabato)
 2026-04-09T05:14:00.000Z,09 April 2026 - 05:14 AM,13.31,122.66,013,2.2,002km S 63° W of San Andres (Quezon),002,S 63° W,San Andres (Quezon)
 2026-04-09T04:57:00.000Z,09 April 2026 - 04:57 AM,08.71,126.54,034,2.3,029km S 71° E of Marihatag (Surigao Del Sur),029,S 71° E,Marihatag (Surigao Del Sur)
 2026-04-09T04:55:00.000Z,09 April 2026 - 04:55 AM,05.98,126.37,130,3.2,079km S 73° E of Don Marcelino (Davao Occidental),079,S 73° E,Don Marcelino (Davao Occidental)
@@ -34,7 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-08T12:10:00.000Z,08 April 2026 - 12:10 PM,12.42,124.49,124,2.7,012km S 01° W of San Jose (Northern Samar),012,S 01° W,San Jose (Northern Samar)
 2026-04-08T11:05:00.000Z,08 April 2026 - 11:05 AM,06.33,126.87,051,2.3,092km S 30° E of Tarragona (Davao Oriental),092,S 30° E,Tarragona (Davao Oriental)
 2026-04-08T10:36:00.000Z,08 April 2026 - 10:36 AM,09.72,126.09,024,2.4,006km S 43° E of Dapa (Surigao Del Norte),006,S 43° E,Dapa (Surigao Del Norte)
-2026-04-08T08:35:00.000Z,08 April 2026 - 08:35 AM,11.13,124.11,006,2.1,017km N 57° E of City Of Bogo (Cebu),017,N 57° E,City Of Bogo (Cebu)
-2026-04-08T07:02:00.000Z,08 April 2026 - 07:02 AM,19.37,120.95,033,1.7,040km N 44° W of Dalupiri Island (Calayan) (Cagayan),040,N 44° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-08T06:40:00.000Z,08 April 2026 - 06:40 AM,10.96,123.91,033,2.1,012km S 37° W of City Of Bogo (Cebu),012,S 37° W,City Of Bogo (Cebu)
-2026-04-08T05:31:00.000Z,08 April 2026 - 05:31 AM,11.10,121.85,009,2.0,022km S 79° W of Laua-an (Antique),022,S 79° W,Laua-an (Antique)
