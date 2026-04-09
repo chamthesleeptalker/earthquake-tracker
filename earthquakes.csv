@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T01:39:00.000Z,10 April 2026 - 01:39 AM,06.11,125.99,074,2.3,034km S 74° E of Don Marcelino (Davao Occidental),034,S 74° E,Don Marcelino (Davao Occidental)
+2026-04-10T01:06:00.000Z,10 April 2026 - 01:06 AM,14.58,118.94,032,2.0,130km S 72° W of San Antonio (Zambales),130,S 72° W,San Antonio (Zambales)
+2026-04-10T00:45:00.000Z,10 April 2026 - 12:45 AM,08.12,126.38,026,1.9,009km N 23° W of Lingig (Surigao Del Sur),009,N 23° W,Lingig (Surigao Del Sur)
 2026-04-10T00:36:00.000Z,10 April 2026 - 12:36 AM,13.73,122.50,033,1.4,003km S 68° E of Buenavista (Quezon),003,S 68° E,Buenavista (Quezon)
 2026-04-10T00:07:00.000Z,10 April 2026 - 12:07 AM,13.66,122.63,010,3.5,012km N 33° E of San Narciso (Quezon),012,N 33° E,San Narciso (Quezon)
 2026-04-10T00:01:00.000Z,10 April 2026 - 12:01 AM,08.22,126.91,010,4.2,058km N 69° E of Lingig (Surigao Del Sur),058,N 69° E,Lingig (Surigao Del Sur)

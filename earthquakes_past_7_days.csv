@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T01:39:00.000Z,10 April 2026 - 01:39 AM,06.11,125.99,074,2.3,034km S 74° E of Don Marcelino (Davao Occidental),034,S 74° E,Don Marcelino (Davao Occidental)
+2026-04-10T01:06:00.000Z,10 April 2026 - 01:06 AM,14.58,118.94,032,2.0,130km S 72° W of San Antonio (Zambales),130,S 72° W,San Antonio (Zambales)
+2026-04-10T00:45:00.000Z,10 April 2026 - 12:45 AM,08.12,126.38,026,1.9,009km N 23° W of Lingig (Surigao Del Sur),009,N 23° W,Lingig (Surigao Del Sur)
 2026-04-10T00:36:00.000Z,10 April 2026 - 12:36 AM,13.73,122.50,033,1.4,003km S 68° E of Buenavista (Quezon),003,S 68° E,Buenavista (Quezon)
 2026-04-10T00:07:00.000Z,10 April 2026 - 12:07 AM,13.66,122.63,010,3.5,012km N 33° E of San Narciso (Quezon),012,N 33° E,San Narciso (Quezon)
 2026-04-10T00:01:00.000Z,10 April 2026 - 12:01 AM,08.22,126.91,010,4.2,058km N 69° E of Lingig (Surigao Del Sur),058,N 69° E,Lingig (Surigao Del Sur)
@@ -423,6 +426,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-03T02:22:00.000Z,03 April 2026 - 02:22 AM,19.25,121.19,003,2.6,016km N 05° W of Dalupiri Island (Calayan) (Cagayan),016,N 05° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-03T02:19:00.000Z,03 April 2026 - 02:19 AM,05.76,125.46,023,2.3,027km S 50° W of Jose Abad Santos (Davao Occidental),027,S 50° W,Jose Abad Santos (Davao Occidental)
 2026-04-03T01:43:00.000Z,03 April 2026 - 01:43 AM,05.26,126.93,035,3.8,164km S 82° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),164,S 82° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-03T01:28:00.000Z,03 April 2026 - 01:28 AM,09.84,124.04,033,1.8,004km S 61° E of Catigbian (Bohol),004,S 61° E,Catigbian (Bohol)
-2026-04-03T01:20:00.000Z,03 April 2026 - 01:20 AM,08.17,126.34,033,1.6,005km S 33° E of City Of Bislig (Surigao Del Sur),005,S 33° E,City Of Bislig (Surigao Del Sur)
-2026-04-03T01:13:00.000Z,03 April 2026 - 01:13 AM,18.77,120.80,021,1.6,024km N 04° E of Pagudpud (Ilocos Norte),024,N 04° E,Pagudpud (Ilocos Norte)
