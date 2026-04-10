@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T19:01:00.000Z,10 April 2026 - 07:01 PM,16.83,120.35,093,1.9,004km S 51° W of Luna (La Union),004,S 51° W,Luna (La Union)
 2026-04-10T18:08:00.000Z,10 April 2026 - 06:08 PM,17.91,120.57,027,1.7,007km S 41° E of Pinili (Ilocos Norte),007,S 41° E,Pinili (Ilocos Norte)
 2026-04-10T17:14:00.000Z,10 April 2026 - 05:14 PM,08.92,126.51,033,2.1,023km N 89° E of Cagwait (Surigao Del Sur),023,N 89° E,Cagwait (Surigao Del Sur)
 2026-04-10T16:52:00.000Z,10 April 2026 - 04:52 PM,08.29,125.96,013,2.9,011km S 24° W of Rosario (Agusan Del Sur),011,S 24° W,Rosario (Agusan Del Sur)
@@ -48,5 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-09T20:04:00.000Z,09 April 2026 - 08:04 PM,18.71,120.67,035,2.0,021km N 29° W of Bangui (Ilocos Norte),021,N 29° W,Bangui (Ilocos Norte)
 2026-04-09T19:29:00.000Z,09 April 2026 - 07:29 PM,15.84,122.03,024,1.6,034km S 14° E of Dinalungan (Aurora),034,S 14° E,Dinalungan (Aurora)
 2026-04-09T19:24:00.000Z,09 April 2026 - 07:24 PM,20.38,120.14,021,3.3,180km N 39° W of Dalupiri Island (Calayan) (Cagayan),180,N 39° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-09T18:54:00.000Z,09 April 2026 - 06:54 PM,11.03,124.08,036,1.6,011km S 81° E of City Of Bogo (Cebu),011,S 81° E,City Of Bogo (Cebu)
-2026-04-09T18:45:00.000Z,09 April 2026 - 06:45 PM,08.93,126.62,010,4.3,034km N 87° E of Cagwait (Surigao Del Sur),034,N 87° E,Cagwait (Surigao Del Sur)
