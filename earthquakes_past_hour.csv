@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-11T00:31:00.000Z,11 April 2026 - 12:31 AM,13.38,120.12,022,2.7,037km S 84° W of Paluan (Occidental Mindoro),037,S 84° W,Paluan (Occidental Mindoro)
-2026-04-11T00:23:00.000Z,11 April 2026 - 12:23 AM,18.28,120.98,024,1.8,007km N 65° W of Calanasan (Apayao),007,N 65° W,Calanasan (Apayao)
-2026-04-11T00:17:00.000Z,11 April 2026 - 12:17 AM,10.90,123.92,003,2.0,018km S 21° W of City Of Bogo (Cebu),018,S 21° W,City Of Bogo (Cebu)
-2026-04-11T00:02:00.000Z,11 April 2026 - 12:02 AM,06.38,126.65,036,2.4,070km S 65° E of Governor Generoso (Davao Oriental),070,S 65° E,Governor Generoso (Davao Oriental)
-2026-04-10T23:55:00.000Z,10 April 2026 - 11:55 PM,12.26,124.55,035,1.6,009km S 58° W of Lope De Vega (Northern Samar),009,S 58° W,Lope De Vega (Northern Samar)
-2026-04-10T23:43:00.000Z,10 April 2026 - 11:43 PM,11.28,121.81,002,1.5,025km S 87° W of Tibiao (Antique),025,S 87° W,Tibiao (Antique)
+2026-04-11T01:36:00.000Z,11 April 2026 - 01:36 AM,13.49,120.07,027,2.0,032km S 37° W of Looc (Occidental Mindoro),032,S 37° W,Looc (Occidental Mindoro)
+2026-04-11T01:28:00.000Z,11 April 2026 - 01:28 AM,09.79,126.32,010,2.7,018km N 87° E of General Luna (Surigao Del Norte),018,N 87° E,General Luna (Surigao Del Norte)
+2026-04-11T01:26:00.000Z,11 April 2026 - 01:26 AM,13.38,120.11,010,3.0,038km S 84° W of Paluan (Occidental Mindoro),038,S 84° W,Paluan (Occidental Mindoro)
+2026-04-11T01:04:00.000Z,11 April 2026 - 01:04 AM,18.71,122.16,018,1.5,028km N 05° E of Santa Ana (Cagayan),028,N 05° E,Santa Ana (Cagayan)
+2026-04-11T00:53:00.000Z,11 April 2026 - 12:53 AM,09.76,126.00,030,1.5,006km N 85° W of Dapa (Surigao Del Norte),006,N 85° W,Dapa (Surigao Del Norte)
