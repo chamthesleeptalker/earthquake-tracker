@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T23:30:00.000Z,10 April 2026 - 11:30 PM,17.42,121.20,129,1.4,005km N 45° E of Pasil (Kalinga),005,N 45° E,Pasil (Kalinga)
+2026-04-10T23:00:00.000Z,10 April 2026 - 11:00 PM,17.36,120.32,026,2.3,014km N 76° W of San Esteban (Ilocos Sur),014,N 76° W,San Esteban (Ilocos Sur)
 2026-04-10T21:21:00.000Z,10 April 2026 - 09:21 PM,07.43,122.68,023,1.4,014km S 90° W of Talusan (Zamboanga Sibugay),014,S 90° W,Talusan (Zamboanga Sibugay)
 2026-04-10T21:10:00.000Z,10 April 2026 - 09:10 PM,13.73,120.55,107,2.2,015km S 40° W of Calatagan (Batangas),015,S 40° W,Calatagan (Batangas)
 2026-04-10T20:48:00.000Z,10 April 2026 - 08:48 PM,07.67,126.74,023,2.2,022km N 62° E of Baganga (Davao Oriental),022,N 62° E,Baganga (Davao Oriental)
