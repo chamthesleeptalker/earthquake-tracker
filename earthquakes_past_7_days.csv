@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T00:31:00.000Z,11 April 2026 - 12:31 AM,13.38,120.12,022,2.7,037km S 84° W of Paluan (Occidental Mindoro),037,S 84° W,Paluan (Occidental Mindoro)
+2026-04-11T00:23:00.000Z,11 April 2026 - 12:23 AM,18.28,120.98,024,1.8,007km N 65° W of Calanasan (Apayao),007,N 65° W,Calanasan (Apayao)
+2026-04-11T00:17:00.000Z,11 April 2026 - 12:17 AM,10.90,123.92,003,2.0,018km S 21° W of City Of Bogo (Cebu),018,S 21° W,City Of Bogo (Cebu)
+2026-04-11T00:02:00.000Z,11 April 2026 - 12:02 AM,06.38,126.65,036,2.4,070km S 65° E of Governor Generoso (Davao Oriental),070,S 65° E,Governor Generoso (Davao Oriental)
+2026-04-10T23:55:00.000Z,10 April 2026 - 11:55 PM,12.26,124.55,035,1.6,009km S 58° W of Lope De Vega (Northern Samar),009,S 58° W,Lope De Vega (Northern Samar)
+2026-04-10T23:43:00.000Z,10 April 2026 - 11:43 PM,11.28,121.81,002,1.5,025km S 87° W of Tibiao (Antique),025,S 87° W,Tibiao (Antique)
 2026-04-10T23:30:00.000Z,10 April 2026 - 11:30 PM,17.42,121.20,129,1.4,005km N 45° E of Pasil (Kalinga),005,N 45° E,Pasil (Kalinga)
 2026-04-10T23:00:00.000Z,10 April 2026 - 11:00 PM,17.36,120.32,026,2.3,014km N 76° W of San Esteban (Ilocos Sur),014,N 76° W,San Esteban (Ilocos Sur)
 2026-04-10T21:21:00.000Z,10 April 2026 - 09:21 PM,07.43,122.68,023,1.4,014km S 90° W of Talusan (Zamboanga Sibugay),014,S 90° W,Talusan (Zamboanga Sibugay)
@@ -401,7 +407,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T00:52:00.000Z,04 April 2026 - 12:52 AM,18.00,122.19,017,2.7,035km N 70° E of Baggao (Cagayan),035,N 70° E,Baggao (Cagayan)
 2026-04-04T00:43:00.000Z,04 April 2026 - 12:43 AM,07.75,124.66,001,2.8,010km N 81° W of Kalilangan (Bukidnon),010,N 81° W,Kalilangan (Bukidnon)
 2026-04-04T00:33:00.000Z,04 April 2026 - 12:33 AM,08.55,126.54,033,1.7,048km S 33° E of Cagwait (Surigao Del Sur),048,S 33° E,Cagwait (Surigao Del Sur)
-2026-04-04T00:30:00.000Z,04 April 2026 - 12:30 AM,14.24,120.42,113,2.0,023km S 18° W of Mariveles (Bataan),023,S 18° W,Mariveles (Bataan)
-2026-04-04T00:20:00.000Z,04 April 2026 - 12:20 AM,17.33,121.99,033,2.2,020km N 73° E of Tumauini (Isabela),020,N 73° E,Tumauini (Isabela)
-2026-04-03T23:47:00.000Z,03 April 2026 - 11:47 PM,07.12,126.90,005,3.0,041km S 77° E of Manay (Davao Oriental),041,S 77° E,Manay (Davao Oriental)
-2026-04-03T23:37:00.000Z,03 April 2026 - 11:37 PM,08.04,126.68,001,2.7,030km N 89° E of Lingig (Surigao Del Sur),030,N 89° E,Lingig (Surigao Del Sur)

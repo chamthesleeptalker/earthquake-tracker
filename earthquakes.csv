@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T00:31:00.000Z,11 April 2026 - 12:31 AM,13.38,120.12,022,2.7,037km S 84° W of Paluan (Occidental Mindoro),037,S 84° W,Paluan (Occidental Mindoro)
+2026-04-11T00:23:00.000Z,11 April 2026 - 12:23 AM,18.28,120.98,024,1.8,007km N 65° W of Calanasan (Apayao),007,N 65° W,Calanasan (Apayao)
+2026-04-11T00:17:00.000Z,11 April 2026 - 12:17 AM,10.90,123.92,003,2.0,018km S 21° W of City Of Bogo (Cebu),018,S 21° W,City Of Bogo (Cebu)
+2026-04-11T00:02:00.000Z,11 April 2026 - 12:02 AM,06.38,126.65,036,2.4,070km S 65° E of Governor Generoso (Davao Oriental),070,S 65° E,Governor Generoso (Davao Oriental)
+2026-04-10T23:55:00.000Z,10 April 2026 - 11:55 PM,12.26,124.55,035,1.6,009km S 58° W of Lope De Vega (Northern Samar),009,S 58° W,Lope De Vega (Northern Samar)
+2026-04-10T23:43:00.000Z,10 April 2026 - 11:43 PM,11.28,121.81,002,1.5,025km S 87° W of Tibiao (Antique),025,S 87° W,Tibiao (Antique)
 2026-04-10T23:30:00.000Z,10 April 2026 - 11:30 PM,17.42,121.20,129,1.4,005km N 45° E of Pasil (Kalinga),005,N 45° E,Pasil (Kalinga)
 2026-04-10T23:00:00.000Z,10 April 2026 - 11:00 PM,17.36,120.32,026,2.3,014km N 76° W of San Esteban (Ilocos Sur),014,N 76° W,San Esteban (Ilocos Sur)
 2026-04-10T21:21:00.000Z,10 April 2026 - 09:21 PM,07.43,122.68,023,1.4,014km S 90° W of Talusan (Zamboanga Sibugay),014,S 90° W,Talusan (Zamboanga Sibugay)
