@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T21:21:00.000Z,10 April 2026 - 09:21 PM,07.43,122.68,023,1.4,014km S 90° W of Talusan (Zamboanga Sibugay),014,S 90° W,Talusan (Zamboanga Sibugay)
+2026-04-10T21:10:00.000Z,10 April 2026 - 09:10 PM,13.73,120.55,107,2.2,015km S 40° W of Calatagan (Batangas),015,S 40° W,Calatagan (Batangas)
 2026-04-10T20:48:00.000Z,10 April 2026 - 08:48 PM,07.67,126.74,023,2.2,022km N 62° E of Baganga (Davao Oriental),022,N 62° E,Baganga (Davao Oriental)
 2026-04-10T20:30:00.000Z,10 April 2026 - 08:30 PM,17.59,120.53,009,2.1,004km N 61° W of Langiden (Abra),004,N 61° W,Langiden (Abra)
 2026-04-10T20:00:00.000Z,10 April 2026 - 08:00 PM,16.71,119.84,010,4.1,036km N 9° W of Bolinao (Pangasinan),036,N 9° W,Bolinao (Pangasinan)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T21:21:00.000Z,10 April 2026 - 09:21 PM,07.43,122.68,023,1.4,014km S 90° W of Talusan (Zamboanga Sibugay),014,S 90° W,Talusan (Zamboanga Sibugay)
+2026-04-10T21:10:00.000Z,10 April 2026 - 09:10 PM,13.73,120.55,107,2.2,015km S 40° W of Calatagan (Batangas),015,S 40° W,Calatagan (Batangas)
 2026-04-10T20:48:00.000Z,10 April 2026 - 08:48 PM,07.67,126.74,023,2.2,022km N 62° E of Baganga (Davao Oriental),022,N 62° E,Baganga (Davao Oriental)
 2026-04-10T20:30:00.000Z,10 April 2026 - 08:30 PM,17.59,120.53,009,2.1,004km N 61° W of Langiden (Abra),004,N 61° W,Langiden (Abra)
 2026-04-10T20:00:00.000Z,10 April 2026 - 08:00 PM,16.71,119.84,010,4.1,036km N 9° W of Bolinao (Pangasinan),036,N 9° W,Bolinao (Pangasinan)
@@ -44,6 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-09T23:07:00.000Z,09 April 2026 - 11:07 PM,06.31,125.93,036,4.6,028km N 64° E of Don Marcelino (Davao Occidental),028,N 64° E,Don Marcelino (Davao Occidental)
 2026-04-09T22:16:00.000Z,09 April 2026 - 10:16 PM,14.99,122.73,027,1.5,054km N 53° E of Jomalig (Quezon),054,N 53° E,Jomalig (Quezon)
 2026-04-09T21:46:00.000Z,09 April 2026 - 09:46 PM,14.82,119.67,022,2.9,047km S 73° W of San Antonio (Zambales),047,S 73° W,San Antonio (Zambales)
-2026-04-09T21:18:00.000Z,09 April 2026 - 09:18 PM,09.10,126.54,033,2.0,032km N 62° E of Bayabas (Surigao Del Sur),032,N 62° E,Bayabas (Surigao Del Sur)
-2026-04-09T21:19:00.000Z,09 April 2026 - 09:19 PM,10.11,124.79,012,2.4,006km S 63° W of City Of Maasin  (Southern Leyte),006,S 63° W,City Of Maasin  (Southern Leyte)
-2026-04-09T21:10:00.000Z,09 April 2026 - 09:10 PM,19.25,121.60,030,1.4,014km S 87° E of Calayan (Cagayan),014,S 87° E,Calayan (Cagayan)
