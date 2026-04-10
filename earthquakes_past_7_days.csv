@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T16:52:00.000Z,10 April 2026 - 04:52 PM,08.29,125.96,013,2.9,011km S 24° W of Rosario (Agusan Del Sur),011,S 24° W,Rosario (Agusan Del Sur)
+2026-04-10T15:56:00.000Z,10 April 2026 - 03:56 PM,07.30,126.79,009,3.3,025km S 84° E of Caraga (Davao Oriental),025,S 84° E,Caraga (Davao Oriental)
 2026-04-10T15:25:00.000Z,10 April 2026 - 03:25 PM,06.35,126.78,036,2.3,085km S 66° E of Governor Generoso (Davao Oriental),085,S 66° E,Governor Generoso (Davao Oriental)
 2026-04-10T15:21:00.000Z,10 April 2026 - 03:21 PM,04.84,126.29,010,2.8,113km S 53° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),113,S 53° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-10T15:01:00.000Z,10 April 2026 - 03:01 PM,04.95,126.22,013,3.2,101km S 55° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),101,S 55° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -416,6 +418,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-03T18:17:00.000Z,03 April 2026 - 06:17 PM,11.14,121.75,013,1.6,032km S 79° W of Barbaza (Antique),032,S 79° W,Barbaza (Antique)
 2026-04-03T17:53:00.000Z,03 April 2026 - 05:53 PM,14.99,122.04,002,2.7,018km N 26° E of Burdeos (Quezon),018,N 26° E,Burdeos (Quezon)
 2026-04-03T17:27:00.000Z,03 April 2026 - 05:27 PM,17.39,121.83,026,2.3,007km S 31° E of San Pablo (Isabela),007,S 31° E,San Pablo (Isabela)
-2026-04-03T16:28:00.000Z,03 April 2026 - 04:28 PM,07.17,125.01,003,1.8,004km N 72° W of President Roxas (Cotabato),004,N 72° W,President Roxas (Cotabato)
-2026-04-03T15:58:00.000Z,03 April 2026 - 03:58 PM,16.15,121.84,024,1.8,013km N 84° W of Dinalungan (Aurora),013,N 84° W,Dinalungan (Aurora)
-2026-04-03T15:29:00.000Z,03 April 2026 - 03:29 PM,06.54,126.58,034,1.9,058km S 15° E of Tarragona (Davao Oriental),058,S 15° E,Tarragona (Davao Oriental)
