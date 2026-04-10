@@ -1,6 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-11T01:36:00.000Z,11 April 2026 - 01:36 AM,13.49,120.07,027,2.0,032km S 37° W of Looc (Occidental Mindoro),032,S 37° W,Looc (Occidental Mindoro)
-2026-04-11T01:28:00.000Z,11 April 2026 - 01:28 AM,09.79,126.32,010,2.7,018km N 87° E of General Luna (Surigao Del Norte),018,N 87° E,General Luna (Surigao Del Norte)
-2026-04-11T01:26:00.000Z,11 April 2026 - 01:26 AM,13.38,120.11,010,3.0,038km S 84° W of Paluan (Occidental Mindoro),038,S 84° W,Paluan (Occidental Mindoro)
-2026-04-11T01:04:00.000Z,11 April 2026 - 01:04 AM,18.71,122.16,018,1.5,028km N 05° E of Santa Ana (Cagayan),028,N 05° E,Santa Ana (Cagayan)
-2026-04-11T00:53:00.000Z,11 April 2026 - 12:53 AM,09.76,126.00,030,1.5,006km N 85° W of Dapa (Surigao Del Norte),006,N 85° W,Dapa (Surigao Del Norte)
+2026-04-11T02:39:00.000Z,11 April 2026 - 02:39 AM,14.95,122.02,029,1.7,013km N 24° E of Burdeos (Quezon),013,N 24° E,Burdeos (Quezon)
+2026-04-11T02:38:00.000Z,11 April 2026 - 02:38 AM,12.91,121.27,032,2.0,021km N 75° W of Bansud (Oriental Mindoro),021,N 75° W,Bansud (Oriental Mindoro)

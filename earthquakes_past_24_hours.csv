@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T02:39:00.000Z,11 April 2026 - 02:39 AM,14.95,122.02,029,1.7,013km N 24° E of Burdeos (Quezon),013,N 24° E,Burdeos (Quezon)
+2026-04-11T02:38:00.000Z,11 April 2026 - 02:38 AM,12.91,121.27,032,2.0,021km N 75° W of Bansud (Oriental Mindoro),021,N 75° W,Bansud (Oriental Mindoro)
 2026-04-11T01:36:00.000Z,11 April 2026 - 01:36 AM,13.49,120.07,027,2.0,032km S 37° W of Looc (Occidental Mindoro),032,S 37° W,Looc (Occidental Mindoro)
 2026-04-11T01:28:00.000Z,11 April 2026 - 01:28 AM,09.79,126.32,010,2.7,018km N 87° E of General Luna (Surigao Del Norte),018,N 87° E,General Luna (Surigao Del Norte)
 2026-04-11T01:26:00.000Z,11 April 2026 - 01:26 AM,13.38,120.11,010,3.0,038km S 84° W of Paluan (Occidental Mindoro),038,S 84° W,Paluan (Occidental Mindoro)
@@ -47,6 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-10T03:31:00.000Z,10 April 2026 - 03:31 AM,20.51,122.08,107,2.0,013km N 58° E of Basco (Batanes),013,N 58° E,Basco (Batanes)
 2026-04-10T03:11:00.000Z,10 April 2026 - 03:11 AM,08.05,123.41,018,1.8,003km N 51° E of Sominot (Zamboanga Del Sur),003,N 51° E,Sominot (Zamboanga Del Sur)
 2026-04-10T02:44:00.000Z,10 April 2026 - 02:44 AM,17.38,121.84,029,1.5,008km S 74° E of Santo Tomas (Isabela),008,S 74° E,Santo Tomas (Isabela)
-2026-04-10T02:30:00.000Z,10 April 2026 - 02:30 AM,07.56,126.59,025,2.3,004km S 60° E of Baganga (Davao Oriental),004,S 60° E,Baganga (Davao Oriental)
-2026-04-10T01:47:00.000Z,10 April 2026 - 01:47 AM,06.73,125.04,004,2.3,010km N 58° E of Columbio (Sultan Kudarat),010,N 58° E,Columbio (Sultan Kudarat)
-2026-04-10T01:39:00.000Z,10 April 2026 - 01:39 AM,06.11,125.99,074,2.3,034km S 74° E of Don Marcelino (Davao Occidental),034,S 74° E,Don Marcelino (Davao Occidental)
