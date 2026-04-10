@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T06:51:00.000Z,11 April 2026 - 06:51 AM,19.49,121.58,017,1.6,027km N 23° E of Calayan (Cagayan),027,N 23° E,Calayan (Cagayan)
+2026-04-11T06:36:00.000Z,11 April 2026 - 06:36 AM,15.31,120.03,031,1.4,003km N 16° E of Botolan (Zambales),003,N 16° E,Botolan (Zambales)
 2026-04-11T06:19:00.000Z,11 April 2026 - 06:19 AM,11.78,125.74,013,2.6,031km N 86° E of San Julian (Eastern Samar),031,N 86° E,San Julian (Eastern Samar)
 2026-04-11T06:17:00.000Z,11 April 2026 - 06:17 AM,11.89,120.96,018,1.5,051km S 23° W of Magsaysay (Occidental Mindoro),051,S 23° W,Magsaysay (Occidental Mindoro)
 2026-04-11T06:13:00.000Z,11 April 2026 - 06:13 AM,14.63,120.66,004,1.4,009km N 87° E of Orion (Bataan),009,N 87° E,Orion (Bataan)
@@ -53,4 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-10T08:56:00.000Z,10 April 2026 - 08:56 AM,07.71,126.42,021,2.0,010km S 24° W of Cateel (Davao Oriental),010,S 24° W,Cateel (Davao Oriental)
 2026-04-10T08:55:00.000Z,10 April 2026 - 08:55 AM,07.50,124.62,032,1.9,009km S 88° W of Banisilan (Cotabato),009,S 88° W,Banisilan (Cotabato)
 2026-04-10T08:34:00.000Z,10 April 2026 - 08:34 AM,06.37,126.57,053,2.4,063km S 61° E of Governor Generoso (Davao Oriental),063,S 61° E,Governor Generoso (Davao Oriental)
-2026-04-10T06:28:00.000Z,10 April 2026 - 06:28 AM,08.21,123.26,033,1.5,011km N 59° W of Dumingag (Zamboanga Del Sur),011,N 59° W,Dumingag (Zamboanga Del Sur)
