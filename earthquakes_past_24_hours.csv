@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-10T20:48:00.000Z,10 April 2026 - 08:48 PM,07.67,126.74,023,2.2,022km N 62° E of Baganga (Davao Oriental),022,N 62° E,Baganga (Davao Oriental)
+2026-04-10T20:30:00.000Z,10 April 2026 - 08:30 PM,17.59,120.53,009,2.1,004km N 61° W of Langiden (Abra),004,N 61° W,Langiden (Abra)
+2026-04-10T20:00:00.000Z,10 April 2026 - 08:00 PM,16.71,119.84,010,4.1,036km N 9° W of Bolinao (Pangasinan),036,N 9° W,Bolinao (Pangasinan)
 2026-04-10T19:01:00.000Z,10 April 2026 - 07:01 PM,16.83,120.35,093,1.9,004km S 51° W of Luna (La Union),004,S 51° W,Luna (La Union)
 2026-04-10T18:08:00.000Z,10 April 2026 - 06:08 PM,17.91,120.57,027,1.7,007km S 41° E of Pinili (Ilocos Norte),007,S 41° E,Pinili (Ilocos Norte)
 2026-04-10T17:14:00.000Z,10 April 2026 - 05:14 PM,08.92,126.51,033,2.1,023km N 89° E of Cagwait (Surigao Del Sur),023,N 89° E,Cagwait (Surigao Del Sur)
@@ -44,8 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-09T21:18:00.000Z,09 April 2026 - 09:18 PM,09.10,126.54,033,2.0,032km N 62° E of Bayabas (Surigao Del Sur),032,N 62° E,Bayabas (Surigao Del Sur)
 2026-04-09T21:19:00.000Z,09 April 2026 - 09:19 PM,10.11,124.79,012,2.4,006km S 63° W of City Of Maasin  (Southern Leyte),006,S 63° W,City Of Maasin  (Southern Leyte)
 2026-04-09T21:10:00.000Z,09 April 2026 - 09:10 PM,19.25,121.60,030,1.4,014km S 87° E of Calayan (Cagayan),014,S 87° E,Calayan (Cagayan)
-2026-04-09T20:33:00.000Z,09 April 2026 - 08:33 PM,14.64,119.57,036,1.5,066km S 58° W of San Antonio (Zambales),066,S 58° W,San Antonio (Zambales)
-2026-04-09T20:07:00.000Z,09 April 2026 - 08:07 PM,06.73,125.06,004,2.6,011km S 74° W of Magsaysay (Davao Del Sur),011,S 74° W,Magsaysay (Davao Del Sur)
-2026-04-09T20:04:00.000Z,09 April 2026 - 08:04 PM,18.71,120.67,035,2.0,021km N 29° W of Bangui (Ilocos Norte),021,N 29° W,Bangui (Ilocos Norte)
-2026-04-09T19:29:00.000Z,09 April 2026 - 07:29 PM,15.84,122.03,024,1.6,034km S 14° E of Dinalungan (Aurora),034,S 14° E,Dinalungan (Aurora)
-2026-04-09T19:24:00.000Z,09 April 2026 - 07:24 PM,20.38,120.14,021,3.3,180km N 39° W of Dalupiri Island (Calayan) (Cagayan),180,N 39° W,Dalupiri Island (Calayan) (Cagayan)
