@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-12T01:18:00.000Z,12 April 2026 - 01:18 AM,10.92,126.36,048,2.4,070km S 80° E of Guiuan (Eastern Samar),070,S 80° E,Guiuan (Eastern Samar)
+2026-04-12T00:49:00.000Z,12 April 2026 - 12:49 AM,18.10,122.94,028,1.9,093km S 65° E of Santa Ana (Cagayan),093,S 65° E,Santa Ana (Cagayan)
 2026-04-12T00:18:00.000Z,12 April 2026 - 12:18 AM,05.01,125.29,021,2.6,047km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),047,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-12T00:18:00.000Z,12 April 2026 - 12:18 AM,05.69,125.83,188,2.1,032km S 40° E of Jose Abad Santos (Davao Occidental),032,S 40° E,Jose Abad Santos (Davao Occidental)
 2026-04-12T00:09:00.000Z,12 April 2026 - 12:09 AM,08.48,124.53,004,1.9,006km S 46° W of Opol (Misamis Oriental),006,S 46° W,Opol (Misamis Oriental)
@@ -51,7 +53,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-11T01:36:00.000Z,11 April 2026 - 01:36 AM,13.49,120.07,027,2.0,032km S 37° W of Looc (Occidental Mindoro),032,S 37° W,Looc (Occidental Mindoro)
 2026-04-11T01:28:00.000Z,11 April 2026 - 01:28 AM,09.79,126.32,010,2.7,018km N 87° E of General Luna (Surigao Del Norte),018,N 87° E,General Luna (Surigao Del Norte)
 2026-04-11T01:26:00.000Z,11 April 2026 - 01:26 AM,13.38,120.11,010,3.0,038km S 84° W of Paluan (Occidental Mindoro),038,S 84° W,Paluan (Occidental Mindoro)
-2026-04-11T01:04:00.000Z,11 April 2026 - 01:04 AM,18.71,122.16,018,1.5,028km N 05° E of Santa Ana (Cagayan),028,N 05° E,Santa Ana (Cagayan)
-2026-04-11T00:53:00.000Z,11 April 2026 - 12:53 AM,09.76,126.00,030,1.5,006km N 85° W of Dapa (Surigao Del Norte),006,N 85° W,Dapa (Surigao Del Norte)
-2026-04-11T00:31:00.000Z,11 April 2026 - 12:31 AM,13.38,120.12,022,2.7,037km S 84° W of Paluan (Occidental Mindoro),037,S 84° W,Paluan (Occidental Mindoro)
-2026-04-11T00:23:00.000Z,11 April 2026 - 12:23 AM,18.28,120.98,024,1.8,007km N 65° W of Calanasan (Apayao),007,N 65° W,Calanasan (Apayao)
