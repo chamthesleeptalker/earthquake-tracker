@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T15:32:00.000Z,11 April 2026 - 03:32 PM,17.59,122.04,016,1.8,028km S 82° E of Peñablanca (Cagayan),028,S 82° E,PeÃ±ablanca (Cagayan)
 2026-04-11T14:36:00.000Z,11 April 2026 - 02:36 PM,08.32,126.57,022,3.2,026km S 79° E of Hinatuan (Surigao Del Sur),026,S 79° E,Hinatuan (Surigao Del Sur)
 2026-04-11T13:32:00.000Z,11 April 2026 - 01:32 PM,09.34,126.35,032,1.9,019km N 66° E of Cortes (Surigao Del Sur),019,N 66° E,Cortes (Surigao Del Sur)
 2026-04-11T13:30:00.000Z,11 April 2026 - 01:30 PM,15.70,121.72,020,3.0,019km S 68° E of Baler (Aurora),019,S 68° E,Baler (Aurora)
@@ -399,6 +400,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T17:48:00.000Z,04 April 2026 - 05:48 PM,14.09,120.04,034,1.5,027km N 19° W of Lubang (Occidental Mindoro),027,N 19° W,Lubang (Occidental Mindoro)
 2026-04-04T16:34:00.000Z,04 April 2026 - 04:34 PM,09.85,126.17,033,2.4,008km N 13° E of General Luna (Surigao Del Norte),008,N 13° E,General Luna (Surigao Del Norte)
 2026-04-04T16:12:00.000Z,04 April 2026 - 04:12 PM,09.78,126.14,029,1.5,001km S 71° W of General Luna (Surigao Del Norte),001,S 71° W,General Luna (Surigao Del Norte)
-2026-04-04T15:22:00.000Z,04 April 2026 - 03:22 PM,12.14,123.93,004,2.8,001km S 35° E of Palanas (Masbate),001,S 35° E,Palanas (Masbate)
-2026-04-04T15:20:00.000Z,04 April 2026 - 03:20 PM,13.72,120.60,092,1.8,013km S 16° W of Calatagan (Batangas),013,S 16° W,Calatagan (Batangas)
-2026-04-04T14:39:00.000Z,04 April 2026 - 02:39 PM,13.48,120.58,036,1.4,015km N 60° E of Paluan (Occidental Mindoro),015,N 60° E,Paluan (Occidental Mindoro)
