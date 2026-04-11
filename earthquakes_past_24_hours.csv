@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T14:36:00.000Z,11 April 2026 - 02:36 PM,08.32,126.57,022,3.2,026km S 79° E of Hinatuan (Surigao Del Sur),026,S 79° E,Hinatuan (Surigao Del Sur)
 2026-04-11T13:32:00.000Z,11 April 2026 - 01:32 PM,09.34,126.35,032,1.9,019km N 66° E of Cortes (Surigao Del Sur),019,N 66° E,Cortes (Surigao Del Sur)
 2026-04-11T13:30:00.000Z,11 April 2026 - 01:30 PM,15.70,121.72,020,3.0,019km S 68° E of Baler (Aurora),019,S 68° E,Baler (Aurora)
 2026-04-11T13:27:00.000Z,11 April 2026 - 01:27 PM,18.43,120.71,029,2.0,011km S 37° E of Burgos (Ilocos Norte),011,S 37° E,Burgos (Ilocos Norte)
@@ -55,4 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-10T15:25:00.000Z,10 April 2026 - 03:25 PM,06.35,126.78,036,2.3,085km S 66° E of Governor Generoso (Davao Oriental),085,S 66° E,Governor Generoso (Davao Oriental)
 2026-04-10T15:21:00.000Z,10 April 2026 - 03:21 PM,04.84,126.29,010,2.8,113km S 53° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),113,S 53° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-10T15:01:00.000Z,10 April 2026 - 03:01 PM,04.95,126.22,013,3.2,101km S 55° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),101,S 55° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-10T14:26:00.000Z,10 April 2026 - 02:26 PM,08.64,126.57,026,2.4,035km S 59° E of Marihatag (Surigao Del Sur),035,S 59° E,Marihatag (Surigao Del Sur)

@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T14:36:00.000Z,11 April 2026 - 02:36 PM,08.32,126.57,022,3.2,026km S 79° E of Hinatuan (Surigao Del Sur),026,S 79° E,Hinatuan (Surigao Del Sur)
 2026-04-11T13:32:00.000Z,11 April 2026 - 01:32 PM,09.34,126.35,032,1.9,019km N 66° E of Cortes (Surigao Del Sur),019,N 66° E,Cortes (Surigao Del Sur)
 2026-04-11T13:30:00.000Z,11 April 2026 - 01:30 PM,15.70,121.72,020,3.0,019km S 68° E of Baler (Aurora),019,S 68° E,Baler (Aurora)
 2026-04-11T13:27:00.000Z,11 April 2026 - 01:27 PM,18.43,120.71,029,2.0,011km S 37° E of Burgos (Ilocos Norte),011,S 37° E,Burgos (Ilocos Norte)
@@ -401,9 +402,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T15:22:00.000Z,04 April 2026 - 03:22 PM,12.14,123.93,004,2.8,001km S 35° E of Palanas (Masbate),001,S 35° E,Palanas (Masbate)
 2026-04-04T15:20:00.000Z,04 April 2026 - 03:20 PM,13.72,120.60,092,1.8,013km S 16° W of Calatagan (Batangas),013,S 16° W,Calatagan (Batangas)
 2026-04-04T14:39:00.000Z,04 April 2026 - 02:39 PM,13.48,120.58,036,1.4,015km N 60° E of Paluan (Occidental Mindoro),015,N 60° E,Paluan (Occidental Mindoro)
-2026-04-04T14:33:00.000Z,04 April 2026 - 02:33 PM,15.96,120.98,033,2.0,009km N 89° W of Carranglan (Nueva Ecija),009,N 89° W,Carranglan (Nueva Ecija)
-2026-04-04T14:03:00.000Z,04 April 2026 - 02:03 PM,07.09,126.79,018,2.3,031km S 64° E of Manay (Davao Oriental),031,S 64° E,Manay (Davao Oriental)
-2026-04-04T13:51:00.000Z,04 April 2026 - 01:51 PM,09.79,126.14,033,2.1,002km N 45° W of General Luna (Surigao Del Norte),002,N 45° W,General Luna (Surigao Del Norte)
-2026-04-04T13:48:00.000Z,04 April 2026 - 01:48 PM,07.43,123.68,032,1.5,030km S 82° E of Tabina (Zamboanga Del Sur),030,S 82° E,Tabina (Zamboanga Del Sur)
-2026-04-04T13:41:00.000Z,04 April 2026 - 01:41 PM,07.09,127.06,013,2.5,059km S 77° E of Manay (Davao Oriental),059,S 77° E,Manay (Davao Oriental)
-2026-04-04T13:35:00.000Z,04 April 2026 - 01:35 PM,08.95,126.33,040,2.2,004km N 44° E of Cagwait (Surigao Del Sur),004,N 44° E,Cagwait (Surigao Del Sur)
