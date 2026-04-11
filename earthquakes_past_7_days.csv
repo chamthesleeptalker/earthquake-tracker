@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T22:55:00.000Z,11 April 2026 - 10:55 PM,09.17,126.30,027,1.7,017km N 54° E of City Of Tandag (Surigao Del Sur),017,N 54° E,City Of Tandag (Surigao Del Sur)
+2026-04-11T22:35:00.000Z,11 April 2026 - 10:35 PM,07.66,126.21,033,1.8,014km S 84° E of Compostela (Davao De Oro),014,S 84° E,Compostela (Davao De Oro)
 2026-04-11T22:17:00.000Z,11 April 2026 - 10:17 PM,13.47,120.73,202,3.3,002km N 03° E of Abra De Ilog (Occidental Mindoro),002,N 03° E,Abra De Ilog (Occidental Mindoro)
 2026-04-11T21:49:00.000Z,11 April 2026 - 09:49 PM,08.27,122.92,016,2.7,009km N 64° W of Sindangan (Zamboanga Del Norte),009,N 64° W,Sindangan (Zamboanga Del Norte)
 2026-04-11T21:23:00.000Z,11 April 2026 - 09:23 PM,10.99,125.85,042,3.0,015km S 72° E of Guiuan (Eastern Samar),015,S 72° E,Guiuan (Eastern Samar)
@@ -388,7 +390,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-05T00:01:00.000Z,05 April 2026 - 12:01 AM,12.40,119.63,021,2.0,045km N 49° W of Busuanga (Palawan),045,N 49° W,Busuanga (Palawan)
 2026-04-04T23:33:00.000Z,04 April 2026 - 11:33 PM,17.52,122.40,029,2.5,022km N 51° E of Maconacon (Isabela),022,N 51° E,Maconacon (Isabela)
 2026-04-04T23:05:00.000Z,04 April 2026 - 11:05 PM,13.67,120.91,028,2.0,004km N 80° E of Tingloy (Batangas),004,N 80° E,Tingloy (Batangas)
-2026-04-04T22:53:00.000Z,04 April 2026 - 10:53 PM,06.30,124.06,033,1.6,017km N 56° W of Palimbang (Sultan Kudarat),017,N 56° W,Palimbang (Sultan Kudarat)
-2026-04-04T22:50:00.000Z,04 April 2026 - 10:50 PM,05.06,126.25,014,3.0,097km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),097,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-04T22:33:00.000Z,04 April 2026 - 10:33 PM,06.46,126.55,025,3.0,057km S 69° E of Governor Generoso (Davao Oriental),057,S 69° E,Governor Generoso (Davao Oriental)
-2026-04-04T22:25:00.000Z,04 April 2026 - 10:25 PM,06.21,123.98,022,1.8,023km N 89° W of Palimbang (Sultan Kudarat),023,N 89° W,Palimbang (Sultan Kudarat)
