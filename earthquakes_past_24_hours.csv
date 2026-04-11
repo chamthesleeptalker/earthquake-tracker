@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T21:23:00.000Z,11 April 2026 - 09:23 PM,10.99,125.85,042,3.0,015km S 72° E of Guiuan (Eastern Samar),015,S 72° E,Guiuan (Eastern Samar)
 2026-04-11T20:41:00.000Z,11 April 2026 - 08:41 PM,10.02,124.19,002,2.2,008km N 26° W of Danao (Bohol),008,N 26° W,Danao (Bohol)
 2026-04-11T20:29:00.000Z,11 April 2026 - 08:29 PM,10.47,124.49,033,1.6,018km S 06° E of Tudela (Cebu),018,S 06° E,Tudela (Cebu)
 2026-04-11T20:28:00.000Z,11 April 2026 - 08:28 PM,10.37,124.90,029,2.0,008km N 78° W of Bontoc (Southern Leyte),008,N 78° W,Bontoc (Southern Leyte)
@@ -50,6 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-10T23:43:00.000Z,10 April 2026 - 11:43 PM,11.28,121.81,002,1.5,025km S 87° W of Tibiao (Antique),025,S 87° W,Tibiao (Antique)
 2026-04-10T23:30:00.000Z,10 April 2026 - 11:30 PM,17.42,121.20,129,1.4,005km N 45° E of Pasil (Kalinga),005,N 45° E,Pasil (Kalinga)
 2026-04-10T23:00:00.000Z,10 April 2026 - 11:00 PM,17.36,120.32,026,2.3,014km N 76° W of San Esteban (Ilocos Sur),014,N 76° W,San Esteban (Ilocos Sur)
-2026-04-10T21:21:00.000Z,10 April 2026 - 09:21 PM,07.43,122.68,023,1.4,014km S 90° W of Talusan (Zamboanga Sibugay),014,S 90° W,Talusan (Zamboanga Sibugay)
-2026-04-10T21:10:00.000Z,10 April 2026 - 09:10 PM,13.73,120.55,107,2.2,015km S 40° W of Calatagan (Batangas),015,S 40° W,Calatagan (Batangas)
-2026-04-10T20:48:00.000Z,10 April 2026 - 08:48 PM,07.67,126.74,023,2.2,022km N 62° E of Baganga (Davao Oriental),022,N 62° E,Baganga (Davao Oriental)

@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T21:23:00.000Z,11 April 2026 - 09:23 PM,10.99,125.85,042,3.0,015km S 72° E of Guiuan (Eastern Samar),015,S 72° E,Guiuan (Eastern Samar)
 2026-04-11T20:41:00.000Z,11 April 2026 - 08:41 PM,10.02,124.19,002,2.2,008km N 26° W of Danao (Bohol),008,N 26° W,Danao (Bohol)
 2026-04-11T20:29:00.000Z,11 April 2026 - 08:29 PM,10.47,124.49,033,1.6,018km S 06° E of Tudela (Cebu),018,S 06° E,Tudela (Cebu)
 2026-04-11T20:28:00.000Z,11 April 2026 - 08:28 PM,10.37,124.90,029,2.0,008km N 78° W of Bontoc (Southern Leyte),008,N 78° W,Bontoc (Southern Leyte)
