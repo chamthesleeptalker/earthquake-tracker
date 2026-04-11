@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T11:04:00.000Z,11 April 2026 - 11:04 AM,15.40,119.00,022,2.6,097km S 88° W of Palauig (Zambales),097,S 88° W,Palauig (Zambales)
+2026-04-11T10:43:00.000Z,11 April 2026 - 10:43 AM,08.02,126.20,001,2.4,015km S 84° E of Trento (Agusan Del Sur),015,S 84° E,Trento (Agusan Del Sur)
 2026-04-11T09:26:00.000Z,11 April 2026 - 09:26 AM,19.89,121.21,008,2.3,075km N 22° W of Calayan (Cagayan),075,N 22° W,Calayan (Cagayan)
 2026-04-11T09:25:00.000Z,11 April 2026 - 09:25 AM,05.61,126.21,014,2.4,071km S 61° E of Jose Abad Santos (Davao Occidental),071,S 61° E,Jose Abad Santos (Davao Occidental)
 2026-04-11T08:35:00.000Z,11 April 2026 - 08:35 AM,18.87,121.43,035,1.5,007km N 69° E of Fuga Island (Aparri) (Cagayan),007,N 69° E,Fuga Island (Aparri) (Cagayan)
@@ -401,4 +403,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-04T13:41:00.000Z,04 April 2026 - 01:41 PM,07.09,127.06,013,2.5,059km S 77° E of Manay (Davao Oriental),059,S 77° E,Manay (Davao Oriental)
 2026-04-04T13:35:00.000Z,04 April 2026 - 01:35 PM,08.95,126.33,040,2.2,004km N 44° E of Cagwait (Surigao Del Sur),004,N 44° E,Cagwait (Surigao Del Sur)
 2026-04-04T11:26:00.000Z,04 April 2026 - 11:26 AM,06.96,125.08,033,1.5,002km N 65° W of Makilala (Cotabato),002,N 65° W,Makilala (Cotabato)
-2026-04-04T09:47:00.000Z,04 April 2026 - 09:47 AM,18.00,122.15,022,2.5,032km N 67° E of Baggao (Cagayan),032,N 67° E,Baggao (Cagayan)
