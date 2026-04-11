@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-12T01:51:00.000Z,12 April 2026 - 01:51 AM,07.56,124.48,008,1.6,013km N 66° E of Buldon (Maguindanao Del Norte),013,N 66° E,Buldon (Maguindanao Del Norte)
+2026-04-12T01:44:00.000Z,12 April 2026 - 01:44 AM,07.58,124.48,008,2.2,014km N 58° E of Buldon (Maguindanao Del Norte),014,N 58° E,Buldon (Maguindanao Del Norte)
+2026-04-12T01:40:00.000Z,12 April 2026 - 01:40 AM,13.64,120.53,089,1.7,024km S 27° W of Calatagan (Batangas),024,S 27° W,Calatagan (Batangas)
+2026-04-12T01:41:00.000Z,12 April 2026 - 01:41 AM,08.18,125.93,061,1.7,007km S 87° W of Bunawan (Agusan Del Sur),007,S 87° W,Bunawan (Agusan Del Sur)
+2026-04-12T01:22:00.000Z,12 April 2026 - 01:22 AM,09.11,126.53,040,2.4,032km N 60° E of Bayabas (Surigao Del Sur),032,N 60° E,Bayabas (Surigao Del Sur)
 2026-04-12T01:18:00.000Z,12 April 2026 - 01:18 AM,10.92,126.36,048,2.4,070km S 80° E of Guiuan (Eastern Samar),070,S 80° E,Guiuan (Eastern Samar)
 2026-04-12T00:49:00.000Z,12 April 2026 - 12:49 AM,18.10,122.94,028,1.9,093km S 65° E of Santa Ana (Cagayan),093,S 65° E,Santa Ana (Cagayan)
 2026-04-12T00:18:00.000Z,12 April 2026 - 12:18 AM,05.01,125.29,021,2.6,047km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),047,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)

@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-12T01:51:00.000Z,12 April 2026 - 01:51 AM,07.56,124.48,008,1.6,013km N 66° E of Buldon (Maguindanao Del Norte),013,N 66° E,Buldon (Maguindanao Del Norte)
+2026-04-12T01:44:00.000Z,12 April 2026 - 01:44 AM,07.58,124.48,008,2.2,014km N 58° E of Buldon (Maguindanao Del Norte),014,N 58° E,Buldon (Maguindanao Del Norte)
+2026-04-12T01:40:00.000Z,12 April 2026 - 01:40 AM,13.64,120.53,089,1.7,024km S 27° W of Calatagan (Batangas),024,S 27° W,Calatagan (Batangas)
+2026-04-12T01:41:00.000Z,12 April 2026 - 01:41 AM,08.18,125.93,061,1.7,007km S 87° W of Bunawan (Agusan Del Sur),007,S 87° W,Bunawan (Agusan Del Sur)
+2026-04-12T01:22:00.000Z,12 April 2026 - 01:22 AM,09.11,126.53,040,2.4,032km N 60° E of Bayabas (Surigao Del Sur),032,N 60° E,Bayabas (Surigao Del Sur)
 2026-04-12T01:18:00.000Z,12 April 2026 - 01:18 AM,10.92,126.36,048,2.4,070km S 80° E of Guiuan (Eastern Samar),070,S 80° E,Guiuan (Eastern Samar)
 2026-04-12T00:49:00.000Z,12 April 2026 - 12:49 AM,18.10,122.94,028,1.9,093km S 65° E of Santa Ana (Cagayan),093,S 65° E,Santa Ana (Cagayan)
 2026-04-12T00:18:00.000Z,12 April 2026 - 12:18 AM,05.01,125.29,021,2.6,047km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),047,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -50,6 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-11T02:55:00.000Z,11 April 2026 - 02:55 AM,07.34,126.75,042,1.9,027km N 58° E of Manay (Davao Oriental),027,N 58° E,Manay (Davao Oriental)
 2026-04-11T02:39:00.000Z,11 April 2026 - 02:39 AM,14.95,122.02,029,1.7,013km N 24° E of Burdeos (Quezon),013,N 24° E,Burdeos (Quezon)
 2026-04-11T02:38:00.000Z,11 April 2026 - 02:38 AM,12.91,121.27,032,2.0,021km N 75° W of Bansud (Oriental Mindoro),021,N 75° W,Bansud (Oriental Mindoro)
-2026-04-11T01:36:00.000Z,11 April 2026 - 01:36 AM,13.49,120.07,027,2.0,032km S 37° W of Looc (Occidental Mindoro),032,S 37° W,Looc (Occidental Mindoro)
-2026-04-11T01:28:00.000Z,11 April 2026 - 01:28 AM,09.79,126.32,010,2.7,018km N 87° E of General Luna (Surigao Del Norte),018,N 87° E,General Luna (Surigao Del Norte)
-2026-04-11T01:26:00.000Z,11 April 2026 - 01:26 AM,13.38,120.11,010,3.0,038km S 84° W of Paluan (Occidental Mindoro),038,S 84° W,Paluan (Occidental Mindoro)
