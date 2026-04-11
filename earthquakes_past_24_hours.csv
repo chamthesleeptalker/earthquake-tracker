@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-11T17:31:00.000Z,11 April 2026 - 05:31 PM,09.33,126.24,031,2.4,008km N 38° E of Cortes (Surigao Del Sur),008,N 38° E,Cortes (Surigao Del Sur)
 2026-04-11T15:32:00.000Z,11 April 2026 - 03:32 PM,17.59,122.04,016,1.8,028km S 82° E of Peñablanca (Cagayan),028,S 82° E,PeÃ±ablanca (Cagayan)
 2026-04-11T14:36:00.000Z,11 April 2026 - 02:36 PM,08.32,126.57,022,3.2,026km S 79° E of Hinatuan (Surigao Del Sur),026,S 79° E,Hinatuan (Surigao Del Sur)
 2026-04-11T13:32:00.000Z,11 April 2026 - 01:32 PM,09.34,126.35,032,1.9,019km N 66° E of Cortes (Surigao Del Sur),019,N 66° E,Cortes (Surigao Del Sur)
@@ -51,6 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-10T20:00:00.000Z,10 April 2026 - 08:00 PM,16.71,119.84,010,4.1,036km N 9° W of Bolinao (Pangasinan),036,N 9° W,Bolinao (Pangasinan)
 2026-04-10T19:01:00.000Z,10 April 2026 - 07:01 PM,16.83,120.35,093,1.9,004km S 51° W of Luna (La Union),004,S 51° W,Luna (La Union)
 2026-04-10T18:08:00.000Z,10 April 2026 - 06:08 PM,17.91,120.57,027,1.7,007km S 41° E of Pinili (Ilocos Norte),007,S 41° E,Pinili (Ilocos Norte)
-2026-04-10T17:14:00.000Z,10 April 2026 - 05:14 PM,08.92,126.51,033,2.1,023km N 89° E of Cagwait (Surigao Del Sur),023,N 89° E,Cagwait (Surigao Del Sur)
-2026-04-10T16:52:00.000Z,10 April 2026 - 04:52 PM,08.29,125.96,013,2.9,011km S 24° W of Rosario (Agusan Del Sur),011,S 24° W,Rosario (Agusan Del Sur)
-2026-04-10T15:56:00.000Z,10 April 2026 - 03:56 PM,07.30,126.79,009,3.3,025km S 84° E of Caraga (Davao Oriental),025,S 84° E,Caraga (Davao Oriental)
