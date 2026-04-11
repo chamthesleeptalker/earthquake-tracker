@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-04T18:34:00.000Z,04 April 2026 - 06:34 PM,05.22,125.95,10,5.9,059km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),059,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-06T15:22:00.000Z,06 April 2026 - 03:22 PM,10.96,124.05,11,5.1,012km S 38° E of City Of Bogo (Cebu),012,S 38° E,City Of Bogo (Cebu)
 2026-04-09T23:07:00.000Z,09 April 2026 - 11:07 PM,06.31,125.93,36,4.6,028km N 64° E of Don Marcelino (Davao Occidental),028,N 64° E,Don Marcelino (Davao Occidental)
 2026-04-09T18:45:00.000Z,09 April 2026 - 06:45 PM,08.93,126.62,10,4.3,034km N 87° E of Cagwait (Surigao Del Sur),034,N 87° E,Cagwait (Surigao Del Sur)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-07T15:51:00.000Z,07 April 2026 - 03:51 PM,06.44,125.63,173,4.1,003km N 36° E of Malita (Davao Occidental),003,N 36° E,Malita (Davao Occidental)
 2026-04-06T02:09:00.000Z,06 April 2026 - 02:09 AM,04.95,127.24,154,4.0,204km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),204,S 73° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-07T01:14:00.000Z,07 April 2026 - 01:14 AM,03.88,128.33,3,3.9,362km S 61° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),362,S 61° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-07T23:23:00.000Z,07 April 2026 - 11:23 PM,20.75,120.16,27,3.6,175km S 88° W of Itbayat (Batanes),175,S 88° W,Itbayat (Batanes)
