@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-12T18:50:00.000Z,12 April 2026 - 06:50 PM,06.99,125.84,029,3.4,017km S 55° E of Island Garden City Of Samal (Davao Del Norte),017,S 55° E,Island Garden City Of Samal (Davao Del Norte)
+2026-04-12T18:08:00.000Z,12 April 2026 - 06:08 PM,14.39,120.21,051,2.2,031km S 81° W of Mariveles (Bataan),031,S 81° W,Mariveles (Bataan)
 2026-04-12T15:33:00.000Z,12 April 2026 - 03:33 PM,18.55,120.93,044,1.8,007km S 81° W of Santa Praxedes (Cagayan),007,S 81° W,Santa Praxedes (Cagayan)
 2026-04-12T15:30:00.000Z,12 April 2026 - 03:30 PM,18.97,120.17,011,2.6,071km N 45° W of Burgos (Ilocos Norte),071,N 45° W,Burgos (Ilocos Norte)
 2026-04-12T12:50:00.000Z,12 April 2026 - 12:50 PM,11.58,124.20,014,1.9,020km S 76° W of Almeria (Biliran),020,S 76° W,Almeria (Biliran)
@@ -368,7 +370,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-05T19:37:00.000Z,05 April 2026 - 07:37 PM,13.57,120.68,006,1.8,015km N 20° W of Abra De Ilog (Occidental Mindoro),015,N 20° W,Abra De Ilog (Occidental Mindoro)
 2026-04-05T19:10:00.000Z,05 April 2026 - 07:10 PM,10.08,121.20,033,1.5,056km N 01° E of Cagayancillo (Palawan),056,N 01° E,Cagayancillo (Palawan)
 2026-04-05T19:09:00.000Z,05 April 2026 - 07:09 PM,10.05,121.30,047,2.0,054km N 12° E of Cagayancillo (Palawan),054,N 12° E,Cagayancillo (Palawan)
-2026-04-05T18:35:00.000Z,05 April 2026 - 06:35 PM,10.25,125.93,017,2.6,028km N 25° W of Santa Monica (Surigao Del Norte),028,N 25° W,Santa Monica (Surigao Del Norte)
-2026-04-05T18:35:00.000Z,05 April 2026 - 06:35 PM,11.52,125.40,014,2.7,010km S 23° W of City Of Borongan (Eastern Samar),010,S 23° W,City Of Borongan (Eastern Samar)
-2026-04-05T17:22:00.000Z,05 April 2026 - 05:22 PM,12.51,123.56,006,2.0,009km N 57° E of Baleno (Masbate),009,N 57° E,Baleno (Masbate)
-2026-04-05T15:52:00.000Z,05 April 2026 - 03:52 PM,13.70,120.64,119,2.0,015km S 05° E of Calatagan (Batangas),015,S 05° E,Calatagan (Batangas)
