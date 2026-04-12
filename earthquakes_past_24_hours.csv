@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-12T22:28:00.000Z,12 April 2026 - 10:28 PM,06.82,127.06,020,2.2,089km S 57° E of Manay (Davao Oriental),089,S 57° E,Manay (Davao Oriental)
 2026-04-12T21:54:00.000Z,12 April 2026 - 09:54 PM,13.87,120.58,096,1.6,007km N 53° W of Calatagan (Batangas),007,N 53° W,Calatagan (Batangas)
 2026-04-12T21:48:00.000Z,12 April 2026 - 09:48 PM,14.70,121.92,026,1.8,003km S 55° W of Polillo (Quezon),003,S 55° W,Polillo (Quezon)
 2026-04-12T21:43:00.000Z,12 April 2026 - 09:43 PM,18.39,120.70,003,2.3,011km N 55° E of Pasuquin (Ilocos Norte),011,N 55° E,Pasuquin (Ilocos Norte)
@@ -48,4 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-11T23:38:00.000Z,11 April 2026 - 11:38 PM,18.64,120.96,029,2.0,009km N 19° W of Santa Praxedes (Cagayan),009,N 19° W,Santa Praxedes (Cagayan)
 2026-04-11T22:55:00.000Z,11 April 2026 - 10:55 PM,09.17,126.30,027,1.7,017km N 54° E of City Of Tandag (Surigao Del Sur),017,N 54° E,City Of Tandag (Surigao Del Sur)
 2026-04-11T22:35:00.000Z,11 April 2026 - 10:35 PM,07.66,126.21,033,1.8,014km S 84° E of Compostela (Davao De Oro),014,S 84° E,Compostela (Davao De Oro)
-2026-04-11T22:17:00.000Z,11 April 2026 - 10:17 PM,13.47,120.73,202,3.3,002km N 03° E of Abra De Ilog (Occidental Mindoro),002,N 03° E,Abra De Ilog (Occidental Mindoro)
