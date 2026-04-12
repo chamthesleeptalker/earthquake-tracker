@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-13T02:41:00.000Z,13 April 2026 - 02:41 AM,09.63,126.23,020,1.7,018km S 25° E of General Luna (Surigao Del Norte),018,S 25° E,General Luna (Surigao Del Norte)
+2026-04-13T02:34:00.000Z,13 April 2026 - 02:34 AM,20.46,121.23,032,3.1,068km N 79° W of Sabtang (Batanes),068,N 79° W,Sabtang (Batanes)
+2026-04-13T02:15:00.000Z,13 April 2026 - 02:15 AM,19.23,121.21,030,2.2,013km N 01° W of Dalupiri Island (Calayan) (Cagayan),013,N 01° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-13T02:15:00.000Z,13 April 2026 - 02:15 AM,07.37,126.80,018,3.0,026km N 80° E of Caraga (Davao Oriental),026,N 80° E,Caraga (Davao Oriental)
+2026-04-13T02:08:00.000Z,13 April 2026 - 02:08 AM,08.88,126.89,015,2.6,065km S 86° E of Cagwait (Surigao Del Sur),065,S 86° E,Cagwait (Surigao Del Sur)
+2026-04-13T01:34:00.000Z,13 April 2026 - 01:34 AM,18.87,121.05,033,1.6,030km N 06° W of Claveria (Cagayan),030,N 06° W,Claveria (Cagayan)
+2026-04-13T01:31:00.000Z,13 April 2026 - 01:31 AM,06.80,125.10,011,2.1,007km N 50° W of Magsaysay (Davao Del Sur),007,N 50° W,Magsaysay (Davao Del Sur)
+2026-04-13T01:22:00.000Z,13 April 2026 - 01:22 AM,10.19,123.27,037,1.6,008km N 01° E of City Of Guihulngan (Negros Oriental),008,N 01° E,City Of Guihulngan (Negros Oriental)
 2026-04-13T01:15:00.000Z,13 April 2026 - 01:15 AM,04.95,125.25,275,3.3,054km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-13T01:08:00.000Z,13 April 2026 - 01:08 AM,09.96,123.21,002,3.0,002km S 26° E of Jimalalud (Negros Oriental),002,S 26° E,Jimalalud (Negros Oriental)
 2026-04-13T01:07:00.000Z,13 April 2026 - 01:07 AM,14.86,122.11,018,1.9,015km N 82° E of Burdeos (Quezon),015,N 82° E,Burdeos (Quezon)
@@ -357,10 +365,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-06T03:13:00.000Z,06 April 2026 - 03:13 AM,18.64,120.58,003,1.7,015km N 26° W of Burgos (Ilocos Norte),015,N 26° W,Burgos (Ilocos Norte)
 2026-04-06T02:51:00.000Z,06 April 2026 - 02:51 AM,07.40,126.71,017,2.0,018km N 63° E of Caraga (Davao Oriental),018,N 63° E,Caraga (Davao Oriental)
 2026-04-06T02:44:00.000Z,06 April 2026 - 02:44 AM,17.74,120.37,035,1.9,018km N 71° W of Magsingal (Ilocos Sur),018,N 71° W,Magsingal (Ilocos Sur)
-2026-04-06T02:10:00.000Z,06 April 2026 - 02:10 AM,13.66,120.92,017,1.5,005km East of Tingloy (Batangas),005,East of Tingloy,
-2026-04-06T02:09:00.000Z,06 April 2026 - 02:09 AM,04.95,127.24,154,4.0,204km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),204,S 73° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-06T02:05:00.000Z,06 April 2026 - 02:05 AM,20.05,121.30,004,2.1,067km S 62° W of Sabtang (Batanes),067,S 62° W,Sabtang (Batanes)
-2026-04-06T01:53:00.000Z,06 April 2026 - 01:53 AM,19.05,121.11,007,2.5,012km S 56° W of Dalupiri Island (Calayan) (Cagayan),012,S 56° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-06T01:48:00.000Z,06 April 2026 - 01:48 AM,13.67,120.95,018,2.1,008km S 07° E of Mabini (Batangas),008,S 07° E,Mabini (Batangas)
-2026-04-06T01:37:00.000Z,06 April 2026 - 01:37 AM,20.02,122.96,002,3.1,113km S 71° E of Uyugan (Batanes),113,S 71° E,Uyugan (Batanes)
-2026-04-06T01:24:00.000Z,06 April 2026 - 01:24 AM,16.11,119.98,033,1.5,005km S 02° W of City Of Alaminos (Pangasinan),005,S 02° W,City Of Alaminos (Pangasinan)

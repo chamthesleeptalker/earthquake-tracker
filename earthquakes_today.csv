@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-13T02:41:00.000Z,13 April 2026 - 02:41 AM,09.63,126.23,020,1.7,018km S 25° E of General Luna (Surigao Del Norte),018,S 25° E,General Luna (Surigao Del Norte)
+2026-04-13T02:34:00.000Z,13 April 2026 - 02:34 AM,20.46,121.23,032,3.1,068km N 79° W of Sabtang (Batanes),068,N 79° W,Sabtang (Batanes)
+2026-04-13T02:15:00.000Z,13 April 2026 - 02:15 AM,19.23,121.21,030,2.2,013km N 01° W of Dalupiri Island (Calayan) (Cagayan),013,N 01° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-13T02:15:00.000Z,13 April 2026 - 02:15 AM,07.37,126.80,018,3.0,026km N 80° E of Caraga (Davao Oriental),026,N 80° E,Caraga (Davao Oriental)
+2026-04-13T02:08:00.000Z,13 April 2026 - 02:08 AM,08.88,126.89,015,2.6,065km S 86° E of Cagwait (Surigao Del Sur),065,S 86° E,Cagwait (Surigao Del Sur)
+2026-04-13T01:34:00.000Z,13 April 2026 - 01:34 AM,18.87,121.05,033,1.6,030km N 06° W of Claveria (Cagayan),030,N 06° W,Claveria (Cagayan)
+2026-04-13T01:31:00.000Z,13 April 2026 - 01:31 AM,06.80,125.10,011,2.1,007km N 50° W of Magsaysay (Davao Del Sur),007,N 50° W,Magsaysay (Davao Del Sur)
+2026-04-13T01:22:00.000Z,13 April 2026 - 01:22 AM,10.19,123.27,037,1.6,008km N 01° E of City Of Guihulngan (Negros Oriental),008,N 01° E,City Of Guihulngan (Negros Oriental)
 2026-04-13T01:15:00.000Z,13 April 2026 - 01:15 AM,04.95,125.25,275,3.3,054km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-13T01:08:00.000Z,13 April 2026 - 01:08 AM,09.96,123.21,002,3.0,002km S 26° E of Jimalalud (Negros Oriental),002,S 26° E,Jimalalud (Negros Oriental)
 2026-04-13T01:07:00.000Z,13 April 2026 - 01:07 AM,14.86,122.11,018,1.9,015km N 82° E of Burdeos (Quezon),015,N 82° E,Burdeos (Quezon)
