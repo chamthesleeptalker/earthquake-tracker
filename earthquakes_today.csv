@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-12T15:33:00.000Z,12 April 2026 - 03:33 PM,18.55,120.93,044,1.8,007km S 81° W of Santa Praxedes (Cagayan),007,S 81° W,Santa Praxedes (Cagayan)
+2026-04-12T15:30:00.000Z,12 April 2026 - 03:30 PM,18.97,120.17,011,2.6,071km N 45° W of Burgos (Ilocos Norte),071,N 45° W,Burgos (Ilocos Norte)
 2026-04-12T12:50:00.000Z,12 April 2026 - 12:50 PM,11.58,124.20,014,1.9,020km S 76° W of Almeria (Biliran),020,S 76° W,Almeria (Biliran)
 2026-04-12T12:10:00.000Z,12 April 2026 - 12:10 PM,09.75,126.27,017,1.9,013km S 72° E of General Luna (Surigao Del Norte),013,S 72° E,General Luna (Surigao Del Norte)
 2026-04-12T11:48:00.000Z,12 April 2026 - 11:48 AM,18.68,120.84,031,1.8,014km N 24° E of Pagudpud (Ilocos Norte),014,N 24° E,Pagudpud (Ilocos Norte)
