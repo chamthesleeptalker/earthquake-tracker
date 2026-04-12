@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-12T20:24:00.000Z,12 April 2026 - 08:24 PM,15.04,122.04,025,3.0,023km N 18° E of Burdeos (Quezon),023,N 18° E,Burdeos (Quezon)
 2026-04-12T19:03:00.000Z,12 April 2026 - 07:03 PM,07.08,125.86,019,2.0,016km N 88° E of Island Garden City Of Samal (Davao Del Norte),016,N 88° E,Island Garden City Of Samal (Davao Del Norte)
 2026-04-12T18:50:00.000Z,12 April 2026 - 06:50 PM,06.99,125.84,029,3.4,017km S 55° E of Island Garden City Of Samal (Davao Del Norte),017,S 55° E,Island Garden City Of Samal (Davao Del Norte)
 2026-04-12T18:08:00.000Z,12 April 2026 - 06:08 PM,14.39,120.21,051,2.2,031km S 81° W of Mariveles (Bataan),031,S 81° W,Mariveles (Bataan)
@@ -365,9 +366,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-05T22:08:00.000Z,05 April 2026 - 10:08 PM,13.09,125.37,016,2.8,067km N 25° E of Palapag (Northern Samar),067,N 25° E,Palapag (Northern Samar)
 2026-04-05T21:48:00.000Z,05 April 2026 - 09:48 PM,07.36,127.37,002,2.7,089km N 88° E of Caraga (Davao Oriental),089,N 88° E,Caraga (Davao Oriental)
 2026-04-05T20:59:00.000Z,05 April 2026 - 08:59 PM,10.94,122.07,015,1.8,009km N 68° E of Patnongon (Antique),009,N 68° E,Patnongon (Antique)
-2026-04-05T20:23:00.000Z,05 April 2026 - 08:23 PM,05.88,126.19,130,2.5,060km S 87° E of Jose Abad Santos (Davao Occidental),060,S 87° E,Jose Abad Santos (Davao Occidental)
-2026-04-05T19:48:00.000Z,05 April 2026 - 07:48 PM,13.55,120.67,004,2.6,013km N 28° W of Abra De Ilog (Occidental Mindoro),013,N 28° W,Abra De Ilog (Occidental Mindoro)
-2026-04-05T19:46:00.000Z,05 April 2026 - 07:46 PM,11.12,124.13,040,2.2,018km N 63° E of City Of Bogo (Cebu),018,N 63° E,City Of Bogo (Cebu)
-2026-04-05T19:37:00.000Z,05 April 2026 - 07:37 PM,13.57,120.68,006,1.8,015km N 20° W of Abra De Ilog (Occidental Mindoro),015,N 20° W,Abra De Ilog (Occidental Mindoro)
-2026-04-05T19:10:00.000Z,05 April 2026 - 07:10 PM,10.08,121.20,033,1.5,056km N 01° E of Cagayancillo (Palawan),056,N 01° E,Cagayancillo (Palawan)
-2026-04-05T19:09:00.000Z,05 April 2026 - 07:09 PM,10.05,121.30,047,2.0,054km N 12° E of Cagayancillo (Palawan),054,N 12° E,Cagayancillo (Palawan)
