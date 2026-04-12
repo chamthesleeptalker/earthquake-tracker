@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-13T01:15:00.000Z,13 April 2026 - 01:15 AM,04.95,125.25,275,3.3,054km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-13T01:08:00.000Z,13 April 2026 - 01:08 AM,09.96,123.21,002,3.0,002km S 26° E of Jimalalud (Negros Oriental),002,S 26° E,Jimalalud (Negros Oriental)
+2026-04-13T01:07:00.000Z,13 April 2026 - 01:07 AM,14.86,122.11,018,1.9,015km N 82° E of Burdeos (Quezon),015,N 82° E,Burdeos (Quezon)
 2026-04-13T00:31:00.000Z,13 April 2026 - 12:31 AM,07.35,125.85,023,1.6,003km S 31° W of Maco (Davao De Oro),003,S 31° W,Maco (Davao De Oro)
 2026-04-13T00:27:00.000Z,13 April 2026 - 12:27 AM,10.36,122.97,028,1.6,007km N 57° W of La Castellana (Negros Occidental),007,N 57° W,La Castellana (Negros Occidental)
 2026-04-12T23:59:00.000Z,12 April 2026 - 11:59 PM,05.46,125.18,017,2.8,027km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,N 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -45,4 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-12T01:41:00.000Z,12 April 2026 - 01:41 AM,08.18,125.93,061,1.7,007km S 87° W of Bunawan (Agusan Del Sur),007,S 87° W,Bunawan (Agusan Del Sur)
 2026-04-12T01:22:00.000Z,12 April 2026 - 01:22 AM,09.11,126.53,040,2.4,032km N 60° E of Bayabas (Surigao Del Sur),032,N 60° E,Bayabas (Surigao Del Sur)
 2026-04-12T01:18:00.000Z,12 April 2026 - 01:18 AM,10.92,126.36,048,2.4,070km S 80° E of Guiuan (Eastern Samar),070,S 80° E,Guiuan (Eastern Samar)
-2026-04-12T00:49:00.000Z,12 April 2026 - 12:49 AM,18.10,122.94,028,1.9,093km S 65° E of Santa Ana (Cagayan),093,S 65° E,Santa Ana (Cagayan)
