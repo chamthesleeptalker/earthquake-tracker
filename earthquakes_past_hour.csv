@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-13T12:10:00.000Z,13 April 2026 - 12:10 PM,08.92,126.19,032,1.5,012km S 61° W of Bayabas (Surigao Del Sur),012,S 61° W,Bayabas (Surigao Del Sur)
-2026-04-13T12:09:00.000Z,13 April 2026 - 12:09 PM,10.08,125.15,025,2.0,003km N 16° W of San Francisco (Southern Leyte),003,N 16° W,San Francisco (Southern Leyte)
+2026-04-13T15:44:00.000Z,13 April 2026 - 03:44 PM,13.08,125.65,039,2.9,079km N 33° E of Mapanas (Northern Samar),079,N 33° E,Mapanas (Northern Samar)
+2026-04-13T15:10:00.000Z,13 April 2026 - 03:10 PM,11.01,126.12,004,3.3,043km S 86° E of Guiuan (Eastern Samar),043,S 86° E,Guiuan (Eastern Samar)
+2026-04-13T15:09:00.000Z,13 April 2026 - 03:09 PM,10.95,126.16,006,3.7,048km S 79° E of Guiuan (Eastern Samar),048,S 79° E,Guiuan (Eastern Samar)
+2026-04-13T15:00:00.000Z,13 April 2026 - 03:00 PM,05.58,126.67,078,2.4,117km S 72° E of Jose Abad Santos (Davao Occidental),117,S 72° E,Jose Abad Santos (Davao Occidental)
+2026-04-13T14:49:00.000Z,13 April 2026 - 02:49 PM,12.77,123.07,016,2.1,024km S 53° W of Claveria (Masbate),024,S 53° W,Claveria (Masbate)
