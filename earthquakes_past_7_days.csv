@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-14T02:45:00.000Z,14 April 2026 - 02:45 AM,14.91,119.96,034,1.5,015km S 73° W of San Antonio (Zambales),015,S 73° W,San Antonio (Zambales)
+2026-04-14T02:09:00.000Z,14 April 2026 - 02:09 AM,09.15,126.29,024,2.7,016km N 59° E of City Of Tandag (Surigao Del Sur),016,N 59° E,City Of Tandag (Surigao Del Sur)
+2026-04-14T01:52:00.000Z,14 April 2026 - 01:52 AM,06.46,126.44,119,2.6,046km S 63° E of Governor Generoso (Davao Oriental),046,S 63° E,Governor Generoso (Davao Oriental)
 2026-04-14T01:45:00.000Z,14 April 2026 - 01:45 AM,05.45,125.22,025,2.2,023km N 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-14T01:12:00.000Z,14 April 2026 - 01:12 AM,13.21,120.79,042,1.6,016km N 26° E of Santa Cruz (Occidental Mindoro),016,N 26° E,Santa Cruz (Occidental Mindoro)
 2026-04-14T00:33:00.000Z,14 April 2026 - 12:33 AM,15.01,120.36,011,2.7,019km N 35° W of Dinalupihan (Bataan),019,N 35° W,Dinalupihan (Bataan)
@@ -342,8 +345,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-07T03:12:00.000Z,07 April 2026 - 03:12 AM,10.74,124.95,032,2.3,006km S 14° E of Javier (Leyte),006,S 14° E,Javier (Leyte)
 2026-04-07T03:10:00.000Z,07 April 2026 - 03:10 AM,11.10,124.13,008,2.7,018km N 71° E of City Of Bogo (Cebu),018,N 71° E,City Of Bogo (Cebu)
 2026-04-07T02:47:00.000Z,07 April 2026 - 02:47 AM,12.55,124.89,018,2.4,002km N 38° E of San Roque (Northern Samar),002,N 38° E,San Roque (Northern Samar)
-2026-04-07T02:20:00.000Z,07 April 2026 - 02:20 AM,09.02,125.58,038,1.6,004km S 08° W of Remedios T. Romualdez (Agusan Del Norte),004,S 08° W,Remedios T. Romualdez (Agusan Del Norte)
-2026-04-07T02:16:00.000Z,07 April 2026 - 02:16 AM,06.51,125.96,001,1.5,020km S 39° W of Governor Generoso (Davao Oriental),020,S 39° W,Governor Generoso (Davao Oriental)
-2026-04-07T02:16:00.000Z,07 April 2026 - 02:16 AM,10.94,124.02,009,2.6,012km S 20° E of City Of Bogo (Cebu),012,S 20° E,City Of Bogo (Cebu)
-2026-04-07T02:14:00.000Z,07 April 2026 - 02:14 AM,08.44,127.32,033,2.2,109km N 86° E of Hinatuan (Surigao Del Sur),109,N 86° E,Hinatuan (Surigao Del Sur)
-2026-04-07T01:59:00.000Z,07 April 2026 - 01:59 AM,10.07,122.48,003,1.7,019km N 55° W of Cauayan (Negros Occidental),019,N 55° W,Cauayan (Negros Occidental)
