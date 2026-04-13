@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-13T10:02:00.000Z,13 April 2026 - 10:02 AM,09.68,126.11,027,2.3,013km S 23° W of General Luna (Surigao Del Norte),013,S 23° W,General Luna (Surigao Del Norte)
+2026-04-13T09:45:00.000Z,13 April 2026 - 09:45 AM,06.06,126.54,037,2.8,084km S 38° E of Governor Generoso (Davao Oriental),084,S 38° E,Governor Generoso (Davao Oriental)
+2026-04-13T08:25:00.000Z,13 April 2026 - 08:25 AM,18.49,120.63,014,2.5,003km S 41° W of Burgos (Ilocos Norte),003,S 41° W,Burgos (Ilocos Norte)
+2026-04-13T07:56:00.000Z,13 April 2026 - 07:56 AM,13.25,120.41,023,2.0,020km N 83° W of Mamburao (Occidental Mindoro),020,N 83° W,Mamburao (Occidental Mindoro)
 2026-04-13T06:16:00.000Z,13 April 2026 - 06:16 AM,11.58,124.35,032,2.1,006km N 72° W of Naval (Biliran),006,N 72° W,Naval (Biliran)
 2026-04-13T06:10:00.000Z,13 April 2026 - 06:10 AM,07.28,123.47,032,1.9,021km S 18° E of Tabina (Zamboanga Del Sur),021,S 18° E,Tabina (Zamboanga Del Sur)
 2026-04-13T06:10:00.000Z,13 April 2026 - 06:10 AM,07.34,123.49,034,1.4,016km S 34° E of Tabina (Zamboanga Del Sur),016,S 34° E,Tabina (Zamboanga Del Sur)
