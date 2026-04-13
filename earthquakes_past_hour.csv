@@ -1,6 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-13T15:44:00.000Z,13 April 2026 - 03:44 PM,13.08,125.65,039,2.9,079km N 33° E of Mapanas (Northern Samar),079,N 33° E,Mapanas (Northern Samar)
-2026-04-13T15:10:00.000Z,13 April 2026 - 03:10 PM,11.01,126.12,004,3.3,043km S 86° E of Guiuan (Eastern Samar),043,S 86° E,Guiuan (Eastern Samar)
-2026-04-13T15:09:00.000Z,13 April 2026 - 03:09 PM,10.95,126.16,006,3.7,048km S 79° E of Guiuan (Eastern Samar),048,S 79° E,Guiuan (Eastern Samar)
-2026-04-13T15:00:00.000Z,13 April 2026 - 03:00 PM,05.58,126.67,078,2.4,117km S 72° E of Jose Abad Santos (Davao Occidental),117,S 72° E,Jose Abad Santos (Davao Occidental)
-2026-04-13T14:49:00.000Z,13 April 2026 - 02:49 PM,12.77,123.07,016,2.1,024km S 53° W of Claveria (Masbate),024,S 53° W,Claveria (Masbate)
+2026-04-13T17:40:00.000Z,13 April 2026 - 05:40 PM,08.58,127.17,015,2.6,094km N 76° E of Hinatuan (Surigao Del Sur),094,N 76° E,Hinatuan (Surigao Del Sur)
+2026-04-13T17:06:00.000Z,13 April 2026 - 05:06 PM,10.64,122.13,007,2.6,006km N 12° W of San Joaquin (Iloilo),006,N 12° W,San Joaquin (Iloilo)
+2026-04-13T16:56:00.000Z,13 April 2026 - 04:56 PM,10.66,122.27,002,3.9,004km N 63° E of Miagao (Iloilo),004,N 63° E,Miagao (Iloilo)
