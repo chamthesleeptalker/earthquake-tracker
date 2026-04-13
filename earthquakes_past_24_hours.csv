@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-14T00:17:00.000Z,14 April 2026 - 12:17 AM,08.04,126.56,006,2.0,017km S 90° E of Lingig (Surigao Del Sur),017,S 90° E,Lingig (Surigao Del Sur)
+2026-04-14T00:17:00.000Z,14 April 2026 - 12:17 AM,08.04,126.56,006,2.0,017km S 90° E of Lingig (Surigao Del Sur),017,S 90° E,Lingig (Surigao Del Sur)
+2026-04-13T23:52:00.000Z,13 April 2026 - 11:52 PM,10.96,126.16,005,2.9,048km S 80° E of Guiuan (Eastern Samar),048,S 80° E,Guiuan (Eastern Samar)
 2026-04-13T22:11:00.000Z,13 April 2026 - 10:11 PM,18.24,120.85,031,1.2,012km N 12° E of Carasi (Ilocos Norte),012,N 12° E,Carasi (Ilocos Norte)
 2026-04-13T21:51:00.000Z,13 April 2026 - 09:51 PM,17.46,120.63,018,2.1,002km N 09° E of Villaviciosa (Abra),002,N 09° E,Villaviciosa (Abra)
 2026-04-13T02:16:00.000Z,13 April 2026 - 02:16 AM,19.07,121.18,008,2.4,005km S 29° W of Dalupiri Island (Calayan) (Cagayan),005,S 29° W,Dalupiri Island (Calayan) (Cagayan)
@@ -54,7 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-13T01:07:00.000Z,13 April 2026 - 01:07 AM,14.86,122.11,018,1.9,015km N 82° E of Burdeos (Quezon),015,N 82° E,Burdeos (Quezon)
 2026-04-13T00:31:00.000Z,13 April 2026 - 12:31 AM,07.35,125.85,023,1.6,003km S 31° W of Maco (Davao De Oro),003,S 31° W,Maco (Davao De Oro)
 2026-04-13T00:27:00.000Z,13 April 2026 - 12:27 AM,10.36,122.97,028,1.6,007km N 57° W of La Castellana (Negros Occidental),007,N 57° W,La Castellana (Negros Occidental)
-2026-04-12T23:59:00.000Z,12 April 2026 - 11:59 PM,05.46,125.18,017,2.8,027km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,N 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-12T23:54:00.000Z,12 April 2026 - 11:54 PM,13.63,120.65,106,1.5,022km S 04° E of Calatagan (Batangas),022,S 04° E,Calatagan (Batangas)
-2026-04-12T23:08:00.000Z,12 April 2026 - 11:08 PM,05.39,125.36,019,3.2,007km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-12T22:28:00.000Z,12 April 2026 - 10:28 PM,06.82,127.06,020,2.2,089km S 57° E of Manay (Davao Oriental),089,S 57° E,Manay (Davao Oriental)
