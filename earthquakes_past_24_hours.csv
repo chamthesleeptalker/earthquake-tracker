@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-14T19:51:00.000Z,14 April 2026 - 07:51 PM,08.70,125.80,010,3.7,005km S 74° E of City Of Bayugan (Agusan Del Sur),005,S 74° E,City Of Bayugan (Agusan Del Sur)
 2026-04-14T18:29:00.000Z,14 April 2026 - 06:29 PM,17.50,120.02,032,1.4,037km S 75° W of Santa Catalina (Ilocos Sur),037,S 75° W,Santa Catalina (Ilocos Sur)
 2026-04-14T18:26:00.000Z,14 April 2026 - 06:26 PM,19.79,121.35,023,1.5,060km N 13° W of Calayan (Cagayan),060,N 13° W,Calayan (Cagayan)
 2026-04-14T16:59:00.000Z,14 April 2026 - 04:59 PM,09.28,126.82,002,2.9,068km N 60° E of Bayabas (Surigao Del Sur),068,N 60° E,Bayabas (Surigao Del Sur)
@@ -46,6 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-13T20:45:00.000Z,13 April 2026 - 08:45 PM,09.79,126.31,030,2.2,017km N 88° E of General Luna (Surigao Del Norte),017,N 88° E,General Luna (Surigao Del Norte)
 2026-04-13T20:36:00.000Z,13 April 2026 - 08:36 PM,09.72,126.13,020,2.0,008km S 20° W of General Luna (Surigao Del Norte),008,S 20° W,General Luna (Surigao Del Norte)
 2026-04-13T20:21:00.000Z,13 April 2026 - 08:21 PM,09.71,126.18,007,1.9,008km S 16° E of General Luna (Surigao Del Norte),008,S 16° E,General Luna (Surigao Del Norte)
-2026-04-13T19:16:00.000Z,13 April 2026 - 07:16 PM,18.71,120.87,009,2.0,019km N 29° E of Pagudpud (Ilocos Norte),019,N 29° E,Pagudpud (Ilocos Norte)
-2026-04-13T18:41:00.000Z,13 April 2026 - 06:41 PM,04.91,125.91,111,2.8,078km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),078,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-13T18:30:00.000Z,13 April 2026 - 06:30 PM,07.82,126.49,033,1.6,005km N 51° E of Cateel (Davao Oriental),005,N 51° E,Cateel (Davao Oriental)
