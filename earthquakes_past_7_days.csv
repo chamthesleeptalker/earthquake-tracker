@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T04:36:00.000Z,15 April 2026 - 04:36 AM,13.56,121.53,002,1.6,032km S 26° E of San Juan (Batangas),032,S 26° E,San Juan (Batangas)
+2026-04-15T04:18:00.000Z,15 April 2026 - 04:18 AM,06.55,123.58,002,2.6,052km S 90° W of Kalamansig (Sultan Kudarat),052,S 90° W,Kalamansig (Sultan Kudarat)
+2026-04-15T04:17:00.000Z,15 April 2026 - 04:17 AM,12.79,125.10,009,2.9,026km N 22° E of Laoang (Northern Samar),026,N 22° E,Laoang (Northern Samar)
+2026-04-15T04:11:00.000Z,15 April 2026 - 04:11 AM,13.32,125.37,025,2.9,090km N 18° E of Palapag (Northern Samar),090,N 18° E,Palapag (Northern Samar)
+2026-04-15T04:10:00.000Z,15 April 2026 - 04:10 AM,07.74,126.88,007,2.5,040km N 63° E of Baganga (Davao Oriental),040,N 63° E,Baganga (Davao Oriental)
+2026-04-15T04:05:00.000Z,15 April 2026 - 04:05 AM,04.31,126.95,025,3.8,209km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),209,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-15T03:35:00.000Z,15 April 2026 - 03:35 AM,13.45,120.78,029,1.7,006km N 81° E of Abra De Ilog (Occidental Mindoro),006,N 81° E,Abra De Ilog (Occidental Mindoro)
 2026-04-15T03:35:00.000Z,15 April 2026 - 03:35 AM,04.89,126.11,027,2.9,096km S 53° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),096,S 53° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-15T03:26:00.000Z,15 April 2026 - 03:26 AM,19.81,120.18,014,2.6,133km N 54° W of Dalupiri Island (Calayan) (Cagayan),133,N 54° W,Dalupiri Island (Calayan) (Cagayan)
@@ -340,6 +346,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-08T07:02:00.000Z,08 April 2026 - 07:02 AM,19.37,120.95,033,1.7,040km N 44° W of Dalupiri Island (Calayan) (Cagayan),040,N 44° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-08T06:40:00.000Z,08 April 2026 - 06:40 AM,10.96,123.91,033,2.1,012km S 37° W of City Of Bogo (Cebu),012,S 37° W,City Of Bogo (Cebu)
 2026-04-08T05:31:00.000Z,08 April 2026 - 05:31 AM,11.10,121.85,009,2.0,022km S 79° W of Laua-an (Antique),022,S 79° W,Laua-an (Antique)
-2026-04-08T04:29:00.000Z,08 April 2026 - 04:29 AM,14.15,120.02,028,2.4,034km N 19° W of Lubang (Occidental Mindoro),034,N 19° W,Lubang (Occidental Mindoro)
-2026-04-08T04:13:00.000Z,08 April 2026 - 04:13 AM,11.00,124.08,006,2.1,013km S 63° E of City Of Bogo (Cebu),013,S 63° E,City Of Bogo (Cebu)
-2026-04-08T03:43:00.000Z,08 April 2026 - 03:43 AM,19.13,121.76,087,2.0,027km N 25° W of Camiguin Island (Calayan) (Cagayan),027,N 25° W,Camiguin Island (Calayan) (Cagayan)
