@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T01:53:00.000Z,15 April 2026 - 01:53 AM,19.11,121.29,005,1.8,008km N 85° E of Dalupiri Island (Calayan) (Cagayan),008,N 85° E,Dalupiri Island (Calayan) (Cagayan)
+2026-04-15T01:52:00.000Z,15 April 2026 - 01:52 AM,13.41,120.46,033,1.5,001km S 21° W of Paluan (Occidental Mindoro),001,S 21° W,Paluan (Occidental Mindoro)
+2026-04-15T01:39:00.000Z,15 April 2026 - 01:39 AM,13.33,120.41,028,2.0,011km S 29° W of Paluan (Occidental Mindoro),011,S 29° W,Paluan (Occidental Mindoro)
+2026-04-15T00:54:00.000Z,15 April 2026 - 12:54 AM,19.81,121.29,007,2.0,064km N 18° W of Calayan (Cagayan),064,N 18° W,Calayan (Cagayan)
+2026-04-15T00:36:00.000Z,15 April 2026 - 12:36 AM,15.87,120.05,030,1.5,016km N 70° E of Infanta (Pangasinan),016,N 70° E,Infanta (Pangasinan)
 2026-04-15T00:23:00.000Z,15 April 2026 - 12:23 AM,09.09,126.50,033,2.2,027km N 60° E of Bayabas (Surigao Del Sur),027,N 60° E,Bayabas (Surigao Del Sur)
 2026-04-15T00:19:00.000Z,15 April 2026 - 12:19 AM,12.03,121.83,033,1.5,015km S 74° W of San Jose (Romblon),015,S 74° W,San Jose (Romblon)
 2026-04-14T23:59:00.000Z,14 April 2026 - 11:59 PM,15.03,121.97,010,1.8,020km N 02° E of Burdeos (Quezon),020,N 02° E,Burdeos (Quezon)
@@ -40,8 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-14T03:20:00.000Z,14 April 2026 - 03:20 AM,15.17,120.11,035,1.4,006km N 80° E of Cabangan (Zambales),006,N 80° E,Cabangan (Zambales)
 2026-04-14T02:45:00.000Z,14 April 2026 - 02:45 AM,14.91,119.96,034,1.5,015km S 73° W of San Antonio (Zambales),015,S 73° W,San Antonio (Zambales)
 2026-04-14T02:09:00.000Z,14 April 2026 - 02:09 AM,09.15,126.29,024,2.7,016km N 59° E of City Of Tandag (Surigao Del Sur),016,N 59° E,City Of Tandag (Surigao Del Sur)
-2026-04-14T01:52:00.000Z,14 April 2026 - 01:52 AM,06.46,126.44,119,2.6,046km S 63° E of Governor Generoso (Davao Oriental),046,S 63° E,Governor Generoso (Davao Oriental)
-2026-04-14T01:45:00.000Z,14 April 2026 - 01:45 AM,05.45,125.22,025,2.2,023km N 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-14T01:12:00.000Z,14 April 2026 - 01:12 AM,13.21,120.79,042,1.6,016km N 26° E of Santa Cruz (Occidental Mindoro),016,N 26° E,Santa Cruz (Occidental Mindoro)
-2026-04-14T00:33:00.000Z,14 April 2026 - 12:33 AM,15.01,120.36,011,2.7,019km N 35° W of Dinalupihan (Bataan),019,N 35° W,Dinalupihan (Bataan)
-2026-04-14T00:29:00.000Z,14 April 2026 - 12:29 AM,09.17,126.26,030,1.5,014km S 33° E of Cortes (Surigao Del Sur),014,S 33° E,Cortes (Surigao Del Sur)
