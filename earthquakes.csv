@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T05:43:00.000Z,15 April 2026 - 05:43 AM,13.25,125.37,016,3.1,083km N 20° E of Palapag (Northern Samar),083,N 20° E,Palapag (Northern Samar)
 2026-04-15T04:36:00.000Z,15 April 2026 - 04:36 AM,13.56,121.53,002,1.6,032km S 26° E of San Juan (Batangas),032,S 26° E,San Juan (Batangas)
 2026-04-15T04:18:00.000Z,15 April 2026 - 04:18 AM,06.55,123.58,002,2.6,052km S 90° W of Kalamansig (Sultan Kudarat),052,S 90° W,Kalamansig (Sultan Kudarat)
 2026-04-15T04:17:00.000Z,15 April 2026 - 04:17 AM,12.79,125.10,009,2.9,026km N 22° E of Laoang (Northern Samar),026,N 22° E,Laoang (Northern Samar)

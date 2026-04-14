@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T05:43:00.000Z,15 April 2026 - 05:43 AM,13.25,125.37,016,3.1,083km N 20° E of Palapag (Northern Samar),083,N 20° E,Palapag (Northern Samar)
 2026-04-15T04:36:00.000Z,15 April 2026 - 04:36 AM,13.56,121.53,002,1.6,032km S 26° E of San Juan (Batangas),032,S 26° E,San Juan (Batangas)
 2026-04-15T04:18:00.000Z,15 April 2026 - 04:18 AM,06.55,123.58,002,2.6,052km S 90° W of Kalamansig (Sultan Kudarat),052,S 90° W,Kalamansig (Sultan Kudarat)
 2026-04-15T04:17:00.000Z,15 April 2026 - 04:17 AM,12.79,125.10,009,2.9,026km N 22° E of Laoang (Northern Samar),026,N 22° E,Laoang (Northern Samar)
@@ -56,4 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-14T06:52:00.000Z,14 April 2026 - 06:52 AM,19.90,120.24,012,3.0,134km N 49° W of Dalupiri Island (Calayan) (Cagayan),134,N 49° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-14T06:23:00.000Z,14 April 2026 - 06:23 AM,17.88,119.43,015,2.3,104km N 72° W of Santa Catalina (Ilocos Sur),104,N 72° W,Santa Catalina (Ilocos Sur)
 2026-04-14T06:20:00.000Z,14 April 2026 - 06:20 AM,09.09,126.34,025,2.4,014km N 55° E of Tago (Surigao Del Sur),014,N 55° E,Tago (Surigao Del Sur)
-2026-04-14T04:44:00.000Z,14 April 2026 - 04:44 AM,06.52,125.84,149,2.5,030km S 60° W of Governor Generoso (Davao Oriental),030,S 60° W,Governor Generoso (Davao Oriental)
