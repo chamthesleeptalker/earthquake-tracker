@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-14T16:42:00.000Z,14 April 2026 - 04:42 PM,07.29,126.79,022,1.8,029km N 73° E of Manay (Davao Oriental),029,N 73° E,Manay (Davao Oriental)
+2026-04-14T15:50:00.000Z,14 April 2026 - 03:50 PM,18.45,120.88,005,2.2,003km S 56° W of Adams (Ilocos Norte),003,S 56° W,Adams (Ilocos Norte)
+2026-04-14T15:33:00.000Z,14 April 2026 - 03:33 PM,08.45,123.11,024,2.6,007km S 13° E of Manukan (Zamboanga Del Norte),007,S 13° E,Manukan (Zamboanga Del Norte)
+2026-04-14T14:59:00.000Z,14 April 2026 - 02:59 PM,15.02,122.07,002,2.6,022km N 29° E of Burdeos (Quezon),022,N 29° E,Burdeos (Quezon)
 2026-04-14T14:53:00.000Z,14 April 2026 - 02:53 PM,08.45,125.81,033,1.8,003km East of Talacogon (Agusan Del Sur),003,East of Talacogon,Del Sur)
 2026-04-14T13:44:00.000Z,14 April 2026 - 01:44 PM,10.92,126.50,027,3.0,086km S 82° E of Guiuan (Eastern Samar),086,S 82° E,Guiuan (Eastern Samar)
 2026-04-14T13:37:00.000Z,14 April 2026 - 01:37 PM,15.04,122.08,003,3.5,025km N 28° E of Burdeos (Quezon),025,N 28° E,Burdeos (Quezon)
@@ -338,9 +342,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-07T19:12:00.000Z,07 April 2026 - 07:12 PM,11.80,125.60,025,2.2,016km S 84° E of Sulat (Eastern Samar),016,S 84° E,Sulat (Eastern Samar)
 2026-04-07T18:30:00.000Z,07 April 2026 - 06:30 PM,09.75,126.57,016,2.5,046km S 85° E of General Luna (Surigao Del Norte),046,S 85° E,General Luna (Surigao Del Norte)
 2026-04-07T16:43:00.000Z,07 April 2026 - 04:43 PM,11.12,123.95,027,2.0,009km N 22° W of City Of Bogo (Cebu),009,N 22° W,City Of Bogo (Cebu)
-2026-04-07T16:41:00.000Z,07 April 2026 - 04:41 PM,10.91,123.92,002,2.9,017km S 24° W of City Of Bogo (Cebu),017,S 24° W,City Of Bogo (Cebu)
-2026-04-07T16:38:00.000Z,07 April 2026 - 04:38 PM,19.38,120.75,033,2.2,057km N 58° W of Dalupiri Island (Calayan) (Cagayan),057,N 58° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-07T16:13:00.000Z,07 April 2026 - 04:13 PM,14.45,123.38,026,2.3,046km S 86° E of Tinaga Island (Vinzons) (Camarines Norte),046,S 86° E,Tinaga Island (Vinzons) (Camarines Norte)
-2026-04-07T16:01:00.000Z,07 April 2026 - 04:01 PM,08.16,125.88,036,1.9,003km S 54° E of Loreto (Agusan Del Sur),003,S 54° E,Loreto (Agusan Del Sur)
-2026-04-07T15:52:00.000Z,07 April 2026 - 03:52 PM,08.79,125.68,017,3.5,004km S 24° W of Sibagat (Agusan Del Sur),004,S 24° W,Sibagat (Agusan Del Sur)
-2026-04-07T15:51:00.000Z,07 April 2026 - 03:51 PM,06.44,125.63,173,4.1,003km N 36° E of Malita (Davao Occidental),003,N 36° E,Malita (Davao Occidental)
