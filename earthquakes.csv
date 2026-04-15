@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T21:12:00.000Z,15 April 2026 - 09:12 PM,06.99,127.06,006,2.3,063km S 67° E of Manay (Davao Oriental),063,S 67° E,Manay (Davao Oriental)
+2026-04-15T21:10:00.000Z,15 April 2026 - 09:10 PM,15.66,120.25,021,1.9,013km S 63° W of San Clemente (Tarlac),013,S 63° W,San Clemente (Tarlac)
+2026-04-15T21:07:00.000Z,15 April 2026 - 09:07 PM,13.64,120.64,069,1.2,022km S 03° E of Calatagan (Batangas),022,S 03° E,Calatagan (Batangas)
+2026-04-15T20:53:00.000Z,15 April 2026 - 08:53 PM,13.76,120.87,032,2.2,008km N 82° W of Mabini (Batangas),008,N 82° W,Mabini (Batangas)
+2026-04-15T20:45:00.000Z,15 April 2026 - 08:45 PM,15.03,122.07,002,3.1,023km N 29° E of Burdeos (Quezon),023,N 29° E,Burdeos (Quezon)
+2026-04-15T20:09:00.000Z,15 April 2026 - 08:09 PM,12.80,123.15,029,2.4,015km S 45° W of Claveria (Masbate),015,S 45° W,Claveria (Masbate)
+2026-04-15T19:59:00.000Z,15 April 2026 - 07:59 PM,20.62,122.14,106,2.3,027km N 43° E of Basco (Batanes),027,N 43° E,Basco (Batanes)
+2026-04-14T22:21:00.000Z,14 April 2026 - 10:21 PM,02.15,120.67,064,4.0,312km S 27° E of Sitangkai (Tawi-tawi),312,S 27° E,Sitangkai (Tawi-tawi)
 2026-04-15T19:47:00.000Z,15 April 2026 - 07:47 PM,18.44,120.87,019,1.5,004km S 58° W of Adams (Ilocos Norte),004,S 58° W,Adams (Ilocos Norte)
 2026-04-15T19:19:00.000Z,15 April 2026 - 07:19 PM,09.46,126.41,017,2.2,031km N 49° E of Cortes (Surigao Del Sur),031,N 49° E,Cortes (Surigao Del Sur)
 2026-04-15T19:13:00.000Z,15 April 2026 - 07:13 PM,09.47,126.20,004,2.4,032km N 30° E of Cortes (Surigao Del Sur),032,N 30° E,Cortes (Surigao Del Sur)
