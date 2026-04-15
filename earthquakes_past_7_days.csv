@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T05:01:00.000Z,16 April 2026 - 05:01 AM,08.92,126.74,006,2.4,049km N 90° E of Cagwait (Surigao Del Sur),049,N 90° E,Cagwait (Surigao Del Sur)
+2026-04-16T04:57:00.000Z,16 April 2026 - 04:57 AM,07.37,126.68,034,2.2,014km N 68° E of Caraga (Davao Oriental),014,N 68° E,Caraga (Davao Oriental)
+2026-04-16T04:29:00.000Z,16 April 2026 - 04:29 AM,13.39,120.57,020,1.4,012km S 74° E of Paluan (Occidental Mindoro),012,S 74° E,Paluan (Occidental Mindoro)
+2026-04-16T04:14:00.000Z,16 April 2026 - 04:14 AM,14.98,122.06,004,2.8,018km N 32° E of Burdeos (Quezon),018,N 32° E,Burdeos (Quezon)
 2026-04-16T04:04:00.000Z,16 April 2026 - 04:04 AM,13.43,120.58,022,1.6,012km N 84° E of Paluan (Occidental Mindoro),012,N 84° E,Paluan (Occidental Mindoro)
 2026-04-16T03:57:00.000Z,16 April 2026 - 03:57 AM,17.75,120.71,032,1.5,003km N 13° E of Lagayan (Abra),003,N 13° E,Lagayan (Abra)
 2026-04-16T03:51:00.000Z,16 April 2026 - 03:51 AM,13.14,120.35,002,2.4,028km S 71° W of Mamburao (Occidental Mindoro),028,S 71° W,Mamburao (Occidental Mindoro)
@@ -367,6 +371,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-09T08:28:00.000Z,09 April 2026 - 08:28 AM,06.94,125.07,033,2.4,003km S 42° W of Makilala (Cotabato),003,S 42° W,Makilala (Cotabato)
 2026-04-09T08:21:00.000Z,09 April 2026 - 08:21 AM,06.86,124.95,008,2.4,009km N 69° E of Tulunan (Cotabato),009,N 69° E,Tulunan (Cotabato)
 2026-04-09T05:14:00.000Z,09 April 2026 - 05:14 AM,13.31,122.66,013,2.2,002km S 63° W of San Andres (Quezon),002,S 63° W,San Andres (Quezon)
-2026-04-09T04:57:00.000Z,09 April 2026 - 04:57 AM,08.71,126.54,034,2.3,029km S 71° E of Marihatag (Surigao Del Sur),029,S 71° E,Marihatag (Surigao Del Sur)
-2026-04-09T04:55:00.000Z,09 April 2026 - 04:55 AM,05.98,126.37,130,3.2,079km S 73° E of Don Marcelino (Davao Occidental),079,S 73° E,Don Marcelino (Davao Occidental)
-2026-04-09T04:12:00.000Z,09 April 2026 - 04:12 AM,09.76,126.46,013,1.7,033km S 86° E of General Luna (Surigao Del Norte),033,S 86° E,General Luna (Surigao Del Norte)
