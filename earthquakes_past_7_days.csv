@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T02:55:00.000Z,16 April 2026 - 02:55 AM,15.21,120.11,031,1.7,008km N 46° E of Cabangan (Zambales),008,N 46° E,Cabangan (Zambales)
+2026-04-16T02:33:00.000Z,16 April 2026 - 02:33 AM,16.13,120.40,112,2.5,001km N 52° W of San Fabian (Pangasinan),001,N 52° W,San Fabian (Pangasinan)
+2026-04-16T02:23:00.000Z,16 April 2026 - 02:23 AM,14.99,122.01,017,2.2,017km N 15° E of Burdeos (Quezon),017,N 15° E,Burdeos (Quezon)
+2026-04-16T02:07:00.000Z,16 April 2026 - 02:07 AM,05.95,124.49,028,2.0,012km S 04° W of Maitum (Sarangani),012,S 04° W,Maitum (Sarangani)
+2026-04-16T01:42:00.000Z,16 April 2026 - 01:42 AM,13.48,120.27,007,1.9,022km N 73° W of Paluan (Occidental Mindoro),022,N 73° W,Paluan (Occidental Mindoro)
+2026-04-16T01:36:00.000Z,16 April 2026 - 01:36 AM,17.15,122.07,024,2.1,019km N 88° E of City Of Ilagan (Isabela),019,N 88° E,City Of Ilagan (Isabela)
 2026-04-16T01:15:00.000Z,16 April 2026 - 01:15 AM,15.06,122.10,001,3.5,028km N 31° E of Burdeos (Quezon),028,N 31° E,Burdeos (Quezon)
 2026-04-16T01:12:00.000Z,16 April 2026 - 01:12 AM,10.75,126.86,010,2.5,115km N 46° E of Burgos (Surigao Del Norte),115,N 46° E,Burgos (Surigao Del Norte)
 2026-04-16T01:06:00.000Z,16 April 2026 - 01:06 AM,07.49,126.67,029,3.1,015km S 51° E of Baganga (Davao Oriental),015,S 51° E,Baganga (Davao Oriental)
@@ -364,6 +370,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-09T04:03:00.000Z,09 April 2026 - 04:03 AM,13.56,120.11,025,1.9,023km S 40° W of Looc (Occidental Mindoro),023,S 40° W,Looc (Occidental Mindoro)
 2026-04-09T03:21:00.000Z,09 April 2026 - 03:21 AM,06.75,126.98,002,2.3,071km S 44° E of Manay (Davao Oriental),071,S 44° E,Manay (Davao Oriental)
 2026-04-09T03:15:00.000Z,09 April 2026 - 03:15 AM,20.61,121.90,097,2.2,019km N 21° W of Basco (Batanes),019,N 21° W,Basco (Batanes)
-2026-04-09T02:48:00.000Z,09 April 2026 - 02:48 AM,08.38,126.35,132,2.2,002km N 55° E of Hinatuan (Surigao Del Sur),002,N 55° E,Hinatuan (Surigao Del Sur)
-2026-04-09T02:36:00.000Z,09 April 2026 - 02:36 AM,09.27,126.43,024,2.3,026km S 89° E of Cortes (Surigao Del Sur),026,S 89° E,Cortes (Surigao Del Sur)
-2026-04-09T01:43:00.000Z,09 April 2026 - 01:43 AM,05.08,126.03,005,2.7,074km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),074,S 56° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
