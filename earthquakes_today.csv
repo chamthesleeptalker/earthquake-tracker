@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T04:04:00.000Z,16 April 2026 - 04:04 AM,13.43,120.58,022,1.6,012km N 84° E of Paluan (Occidental Mindoro),012,N 84° E,Paluan (Occidental Mindoro)
+2026-04-16T03:57:00.000Z,16 April 2026 - 03:57 AM,17.75,120.71,032,1.5,003km N 13° E of Lagayan (Abra),003,N 13° E,Lagayan (Abra)
+2026-04-16T03:51:00.000Z,16 April 2026 - 03:51 AM,13.14,120.35,002,2.4,028km S 71° W of Mamburao (Occidental Mindoro),028,S 71° W,Mamburao (Occidental Mindoro)
 2026-04-16T02:55:00.000Z,16 April 2026 - 02:55 AM,15.21,120.11,031,1.7,008km N 46° E of Cabangan (Zambales),008,N 46° E,Cabangan (Zambales)
 2026-04-16T02:33:00.000Z,16 April 2026 - 02:33 AM,16.13,120.40,112,2.5,001km N 52° W of San Fabian (Pangasinan),001,N 52° W,San Fabian (Pangasinan)
 2026-04-16T02:23:00.000Z,16 April 2026 - 02:23 AM,14.99,122.01,017,2.2,017km N 15° E of Burdeos (Quezon),017,N 15° E,Burdeos (Quezon)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T04:04:00.000Z,16 April 2026 - 04:04 AM,13.43,120.58,022,1.6,012km N 84° E of Paluan (Occidental Mindoro),012,N 84° E,Paluan (Occidental Mindoro)
+2026-04-16T03:57:00.000Z,16 April 2026 - 03:57 AM,17.75,120.71,032,1.5,003km N 13° E of Lagayan (Abra),003,N 13° E,Lagayan (Abra)
+2026-04-16T03:51:00.000Z,16 April 2026 - 03:51 AM,13.14,120.35,002,2.4,028km S 71° W of Mamburao (Occidental Mindoro),028,S 71° W,Mamburao (Occidental Mindoro)
 2026-04-16T02:55:00.000Z,16 April 2026 - 02:55 AM,15.21,120.11,031,1.7,008km N 46° E of Cabangan (Zambales),008,N 46° E,Cabangan (Zambales)
 2026-04-16T02:33:00.000Z,16 April 2026 - 02:33 AM,16.13,120.40,112,2.5,001km N 52° W of San Fabian (Pangasinan),001,N 52° W,San Fabian (Pangasinan)
 2026-04-16T02:23:00.000Z,16 April 2026 - 02:23 AM,14.99,122.01,017,2.2,017km N 15° E of Burdeos (Quezon),017,N 15° E,Burdeos (Quezon)
@@ -367,6 +370,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-09T04:57:00.000Z,09 April 2026 - 04:57 AM,08.71,126.54,034,2.3,029km S 71° E of Marihatag (Surigao Del Sur),029,S 71° E,Marihatag (Surigao Del Sur)
 2026-04-09T04:55:00.000Z,09 April 2026 - 04:55 AM,05.98,126.37,130,3.2,079km S 73° E of Don Marcelino (Davao Occidental),079,S 73° E,Don Marcelino (Davao Occidental)
 2026-04-09T04:12:00.000Z,09 April 2026 - 04:12 AM,09.76,126.46,013,1.7,033km S 86° E of General Luna (Surigao Del Norte),033,S 86° E,General Luna (Surigao Del Norte)
-2026-04-09T04:03:00.000Z,09 April 2026 - 04:03 AM,13.56,120.11,025,1.9,023km S 40° W of Looc (Occidental Mindoro),023,S 40° W,Looc (Occidental Mindoro)
-2026-04-09T03:21:00.000Z,09 April 2026 - 03:21 AM,06.75,126.98,002,2.3,071km S 44° E of Manay (Davao Oriental),071,S 44° E,Manay (Davao Oriental)
-2026-04-09T03:15:00.000Z,09 April 2026 - 03:15 AM,20.61,121.90,097,2.2,019km N 21° W of Basco (Batanes),019,N 21° W,Basco (Batanes)
