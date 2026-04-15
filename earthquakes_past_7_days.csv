@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T22:33:00.000Z,15 April 2026 - 10:33 PM,14.90,122.49,003,2.4,028km N 38° E of Jomalig (Quezon),028,N 38° E,Jomalig (Quezon)
+2026-04-15T21:47:00.000Z,15 April 2026 - 09:47 PM,14.95,122.03,002,1.7,013km N 29° E of Burdeos (Quezon),013,N 29° E,Burdeos (Quezon)
+2026-04-15T21:46:00.000Z,15 April 2026 - 09:46 PM,14.87,121.91,031,1.7,007km N 64° W of Burdeos (Quezon),007,N 64° W,Burdeos (Quezon)
+2026-04-15T21:43:00.000Z,15 April 2026 - 09:43 PM,15.16,122.06,002,3.4,037km N 16° E of Burdeos (Quezon),037,N 16° E,Burdeos (Quezon)
+2026-04-15T21:26:00.000Z,15 April 2026 - 09:26 PM,07.34,126.70,007,2.7,015km N 86° E of Caraga (Davao Oriental),015,N 86° E,Caraga (Davao Oriental)
+2026-04-15T21:23:00.000Z,15 April 2026 - 09:23 PM,09.27,122.54,033,3.9,019km S 33° W of Basay (Negros Oriental),019,S 33° W,Basay (Negros Oriental)
 2026-04-15T21:12:00.000Z,15 April 2026 - 09:12 PM,06.99,127.06,006,2.3,063km S 67° E of Manay (Davao Oriental),063,S 67° E,Manay (Davao Oriental)
 2026-04-15T21:10:00.000Z,15 April 2026 - 09:10 PM,15.66,120.25,021,1.9,013km S 63° W of San Clemente (Tarlac),013,S 63° W,San Clemente (Tarlac)
 2026-04-15T21:07:00.000Z,15 April 2026 - 09:07 PM,13.64,120.64,069,1.2,022km S 03° E of Calatagan (Batangas),022,S 03° E,Calatagan (Batangas)
@@ -362,7 +368,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-08T22:52:00.000Z,08 April 2026 - 10:52 PM,07.54,127.06,010,4.2,055km S 85° E of Baganga (Davao Oriental),055,S 85° E,Baganga (Davao Oriental)
 2026-04-08T22:37:00.000Z,08 April 2026 - 10:37 PM,07.17,126.82,024,2.1,032km S 81° E of Manay (Davao Oriental),032,S 81° E,Manay (Davao Oriental)
 2026-04-08T22:33:00.000Z,08 April 2026 - 10:33 PM,08.83,126.52,018,3.1,024km N 82° E of Marihatag (Surigao Del Sur),024,N 82° E,Marihatag (Surigao Del Sur)
-2026-04-08T21:53:00.000Z,08 April 2026 - 09:53 PM,11.23,124.57,011,1.5,005km N 15° E of Kananga (Leyte),005,N 15° E,Kananga (Leyte)
-2026-04-08T21:40:00.000Z,08 April 2026 - 09:40 PM,10.37,124.92,001,2.4,006km N 73° W of Bontoc (Southern Leyte),006,N 73° W,Bontoc (Southern Leyte)
-2026-04-08T21:29:00.000Z,08 April 2026 - 09:29 PM,11.83,124.16,004,1.9,013km S 66° E of Pio V. Corpus (Masbate),013,S 66° E,Pio V. Corpus (Masbate)
-2026-04-08T21:19:00.000Z,08 April 2026 - 09:19 PM,14.61,123.81,024,2.6,073km N 32° W of Pandan (Catanduanes),073,N 32° W,Pandan (Catanduanes)
