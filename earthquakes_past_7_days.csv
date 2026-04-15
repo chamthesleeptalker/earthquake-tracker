@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T19:47:00.000Z,15 April 2026 - 07:47 PM,18.44,120.87,019,1.5,004km S 58° W of Adams (Ilocos Norte),004,S 58° W,Adams (Ilocos Norte)
+2026-04-15T19:19:00.000Z,15 April 2026 - 07:19 PM,09.46,126.41,017,2.2,031km N 49° E of Cortes (Surigao Del Sur),031,N 49° E,Cortes (Surigao Del Sur)
+2026-04-15T19:13:00.000Z,15 April 2026 - 07:13 PM,09.47,126.20,004,2.4,032km N 30° E of Cortes (Surigao Del Sur),032,N 30° E,Cortes (Surigao Del Sur)
+2026-04-15T18:57:00.000Z,15 April 2026 - 06:57 PM,09.17,125.87,003,2.6,015km S 46° W of Madrid (Surigao Del Sur),015,S 46° W,Madrid (Surigao Del Sur)
+2026-04-15T18:40:00.000Z,15 April 2026 - 06:40 PM,15.04,122.04,004,4.5,023km N 18° E of Burdeos (Quezon),023,N 18° E,Burdeos (Quezon)
 2026-04-15T18:17:00.000Z,15 April 2026 - 06:17 PM,13.76,120.68,034,1.7,020km S 14° W of Balayan (Batangas),020,S 14° W,Balayan (Batangas)
 2026-04-15T17:47:00.000Z,15 April 2026 - 05:47 PM,13.45,120.27,003,2.1,021km N 80° W of Paluan (Occidental Mindoro),021,N 80° W,Paluan (Occidental Mindoro)
 2026-04-15T15:51:00.000Z,15 April 2026 - 03:51 PM,16.79,121.13,034,1.4,002km S 37° E of Lagawe (Ifugao),002,S 37° E,Lagawe (Ifugao)
@@ -355,4 +360,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-08T21:19:00.000Z,08 April 2026 - 09:19 PM,14.61,123.81,024,2.6,073km N 32° W of Pandan (Catanduanes),073,N 32° W,Pandan (Catanduanes)
 2026-04-08T21:09:00.000Z,08 April 2026 - 09:09 PM,17.83,122.51,020,3.0,057km N 30° E of Maconacon (Isabela),057,N 30° E,Maconacon (Isabela)
 2026-04-08T20:02:00.000Z,08 April 2026 - 08:02 PM,10.91,123.85,001,2.1,021km S 43° W of City Of Bogo (Cebu),021,S 43° W,City Of Bogo (Cebu)
-2026-04-08T18:24:00.000Z,08 April 2026 - 06:24 PM,09.08,125.70,004,2.1,013km N 77° E of Remedios T. Romualdez (Agusan Del Norte),013,N 77° E,Remedios T. Romualdez (Agusan Del Norte)
