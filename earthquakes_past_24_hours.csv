@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T13:00:00.000Z,15 April 2026 - 01:00 PM,15.00,121.96,010,3.8,017km N 3° W of Burdeos (Quezon),017,N 3° W,Burdeos (Quezon)
+2026-04-15T11:57:00.000Z,15 April 2026 - 11:57 AM,10.38,123.33,014,2.0,005km N 06° E of Vallehermoso (Negros Oriental),005,N 06° E,Vallehermoso (Negros Oriental)
+2026-04-15T11:45:00.000Z,15 April 2026 - 11:45 AM,05.27,125.97,028,2.6,060km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),060,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-15T10:15:00.000Z,15 April 2026 - 10:15 AM,15.00,122.07,010,3.2,020km N 32° E of Burdeos (Quezon),020,N 32° E,Burdeos (Quezon)
 2026-04-15T09:21:00.000Z,15 April 2026 - 09:21 AM,10.59,122.29,010,4.3,008km S 25° W of Guimbal (Iloilo),008,S 25° W,Guimbal (Iloilo)
 2026-04-15T08:51:00.000Z,15 April 2026 - 08:51 AM,07.93,126.44,033,1.9,010km N 48° E of Boston (Davao Oriental),010,N 48° E,Boston (Davao Oriental)
@@ -55,5 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-14T13:37:00.000Z,14 April 2026 - 01:37 PM,15.04,122.08,003,3.5,025km N 28° E of Burdeos (Quezon),025,N 28° E,Burdeos (Quezon)
 2026-04-14T13:28:00.000Z,14 April 2026 - 01:28 PM,13.26,124.50,003,1.6,041km N 79° E of Rapu-rapu (Albay),041,N 79° E,Rapu-rapu (Albay)
 2026-04-14T13:24:00.000Z,14 April 2026 - 01:24 PM,15.01,122.05,004,2.5,021km N 26° E of Burdeos (Quezon),021,N 26° E,Burdeos (Quezon)
-2026-04-14T11:55:00.000Z,14 April 2026 - 11:55 AM,18.67,120.62,043,1.5,018km N 07° W of Burgos (Ilocos Norte),018,N 07° W,Burgos (Ilocos Norte)
-2026-04-14T11:39:00.000Z,14 April 2026 - 11:39 AM,11.53,122.76,035,1.4,005km S 52° W of Panay (Capiz),005,S 52° W,Panay (Capiz)
