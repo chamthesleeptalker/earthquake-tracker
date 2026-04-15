@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-15T14:25:00.000Z,15 April 2026 - 02:25 PM,16.25,119.50,031,1.8,035km N 66° W of Agno (Pangasinan),035,N 66° W,Agno (Pangasinan)
+2026-04-15T13:56:00.000Z,15 April 2026 - 01:56 PM,14.78,121.84,031,1.5,013km N 53° W of Polillo (Quezon),013,N 53° W,Polillo (Quezon)
+2026-04-15T13:31:00.000Z,15 April 2026 - 01:31 PM,09.07,126.37,031,2.3,019km N 24° E of Cagwait (Surigao Del Sur),019,N 24° E,Cagwait (Surigao Del Sur)
 2026-04-15T13:00:00.000Z,15 April 2026 - 01:00 PM,15.00,121.96,010,3.8,017km N 3° W of Burdeos (Quezon),017,N 3° W,Burdeos (Quezon)
 2026-04-15T11:57:00.000Z,15 April 2026 - 11:57 AM,10.38,123.33,014,2.0,005km N 06° E of Vallehermoso (Negros Oriental),005,N 06° E,Vallehermoso (Negros Oriental)
 2026-04-15T11:45:00.000Z,15 April 2026 - 11:45 AM,05.27,125.97,028,2.6,060km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),060,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
