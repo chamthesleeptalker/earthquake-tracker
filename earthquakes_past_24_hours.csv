@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T05:25:00.000Z,17 April 2026 - 05:25 AM,09.73,123.71,011,2.3,013km S 50° W of Loon (Bohol),013,S 50° W,Loon (Bohol)
 2026-04-17T04:54:00.000Z,17 April 2026 - 04:54 AM,06.05,125.01,061,1.5,019km S 18° W of Polomolok (South Cotabato),019,S 18° W,Polomolok (South Cotabato)
 2026-04-17T04:47:00.000Z,17 April 2026 - 04:47 AM,09.55,126.22,042,1.6,027km S 16° E of General Luna (Surigao Del Norte),027,S 16° E,General Luna (Surigao Del Norte)
 2026-04-17T03:32:00.000Z,17 April 2026 - 03:32 AM,06.90,123.90,017,1.8,023km S 35° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),023,S 35° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
@@ -42,7 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-16T08:33:00.000Z,16 April 2026 - 08:33 AM,19.17,121.58,022,1.5,014km S 48° E of Calayan (Cagayan),014,S 48° E,Calayan (Cagayan)
 2026-04-16T08:02:00.000Z,16 April 2026 - 08:02 AM,07.99,127.67,003,3.7,130km N 69° E of Baganga (Davao Oriental),130,N 69° E,Baganga (Davao Oriental)
 2026-04-16T06:51:00.000Z,16 April 2026 - 06:51 AM,19.13,120.94,032,1.9,028km N 85° W of Dalupiri Island (Calayan) (Cagayan),028,N 85° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-16T05:18:00.000Z,16 April 2026 - 05:18 AM,12.27,124.72,064,2.1,011km S 73° E of Lope De Vega (Northern Samar),011,S 73° E,Lope De Vega (Northern Samar)
-2026-04-16T05:11:00.000Z,16 April 2026 - 05:11 AM,19.16,121.24,027,2.1,007km N 32° E of Dalupiri Island (Calayan) (Cagayan),007,N 32° E,Dalupiri Island (Calayan) (Cagayan)
-2026-04-16T05:01:00.000Z,16 April 2026 - 05:01 AM,08.92,126.74,006,2.4,049km N 90° E of Cagwait (Surigao Del Sur),049,N 90° E,Cagwait (Surigao Del Sur)
-2026-04-16T04:57:00.000Z,16 April 2026 - 04:57 AM,07.37,126.68,034,2.2,014km N 68° E of Caraga (Davao Oriental),014,N 68° E,Caraga (Davao Oriental)
