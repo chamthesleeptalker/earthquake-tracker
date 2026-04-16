@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T11:00:00.000Z,16 April 2026 - 11:00 AM,05.22,126.41,008,2.7,107km S 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),107,S 75° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-16T10:53:00.000Z,16 April 2026 - 10:53 AM,18.34,120.76,032,1.7,015km N 87° E of Pasuquin (Ilocos Norte),015,N 87° E,Pasuquin (Ilocos Norte)
+2026-04-16T10:21:00.000Z,16 April 2026 - 10:21 AM,16.23,120.36,005,2.1,006km S 28° W of Santo Tomas (La Union),006,S 28° W,Santo Tomas (La Union)
+2026-04-16T09:44:00.000Z,16 April 2026 - 09:44 AM,15.03,122.08,002,2.0,024km N 31° E of Burdeos (Quezon),024,N 31° E,Burdeos (Quezon)
+2026-04-16T08:33:00.000Z,16 April 2026 - 08:33 AM,19.17,121.58,022,1.5,014km S 48° E of Calayan (Cagayan),014,S 48° E,Calayan (Cagayan)
+2026-04-16T08:02:00.000Z,16 April 2026 - 08:02 AM,07.99,127.67,003,3.7,130km N 69° E of Baganga (Davao Oriental),130,N 69° E,Baganga (Davao Oriental)
 2026-04-16T06:51:00.000Z,16 April 2026 - 06:51 AM,19.13,120.94,032,1.9,028km N 85° W of Dalupiri Island (Calayan) (Cagayan),028,N 85° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-16T05:18:00.000Z,16 April 2026 - 05:18 AM,12.27,124.72,064,2.1,011km S 73° E of Lope De Vega (Northern Samar),011,S 73° E,Lope De Vega (Northern Samar)
 2026-04-16T05:11:00.000Z,16 April 2026 - 05:11 AM,19.16,121.24,027,2.1,007km N 32° E of Dalupiri Island (Calayan) (Cagayan),007,N 32° E,Dalupiri Island (Calayan) (Cagayan)
