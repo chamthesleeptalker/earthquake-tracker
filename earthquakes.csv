@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T02:24:00.000Z,17 April 2026 - 02:24 AM,13.85,119.89,004,2.5,023km N 88° W of Lubang (Occidental Mindoro),023,N 88° W,Lubang (Occidental Mindoro)
+2026-04-17T02:19:00.000Z,17 April 2026 - 02:19 AM,11.32,124.18,032,1.7,037km N 37° E of City Of Bogo (Cebu),037,N 37° E,City Of Bogo (Cebu)
+2026-04-17T02:14:00.000Z,17 April 2026 - 02:14 AM,07.14,127.03,013,1.9,054km S 82° E of Manay (Davao Oriental),054,S 82° E,Manay (Davao Oriental)
+2026-04-17T01:56:00.000Z,17 April 2026 - 01:56 AM,18.17,122.18,015,2.3,022km S 61° E of Gonzaga (Cagayan),022,S 61° E,Gonzaga (Cagayan)
+2026-04-17T01:42:00.000Z,17 April 2026 - 01:42 AM,11.05,123.91,010,2.7,008km N 83° W of City Of Bogo (Cebu),008,N 83° W,City Of Bogo (Cebu)
+2026-04-17T01:42:00.000Z,17 April 2026 - 01:42 AM,07.18,126.98,002,3.3,048km S 71° E of Caraga (Davao Oriental),048,S 71° E,Caraga (Davao Oriental)
 2026-04-17T00:40:00.000Z,17 April 2026 - 12:40 AM,16.54,120.33,030,1.9,002km N 04° E of Bauang (La Union),002,N 04° E,Bauang (La Union)
 2026-04-17T00:34:00.000Z,17 April 2026 - 12:34 AM,04.73,125.13,023,3.4,082km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),082,S 23° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-17T00:34:00.000Z,17 April 2026 - 12:34 AM,07.63,126.10,034,1.6,004km S 27° E of Compostela (Davao De Oro),004,S 27° E,Compostela (Davao De Oro)
