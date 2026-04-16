@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T00:08:00.000Z,17 April 2026 - 12:08 AM,11.39,125.46,021,2.4,010km S 74° W of Llorente (Eastern Samar),010,S 74° W,Llorente (Eastern Samar)
+2026-04-17T00:00:00.000Z,17 April 2026 - 12:00 AM,11.06,124.05,020,2.2,008km N 82° E of City Of Bogo (Cebu),008,N 82° E,City Of Bogo (Cebu)
+2026-04-16T23:54:00.000Z,16 April 2026 - 11:54 PM,15.38,119.86,031,1.6,008km S 40° W of Palauig (Zambales),008,S 40° W,Palauig (Zambales)
+2026-04-16T22:49:00.000Z,16 April 2026 - 10:49 PM,13.59,120.90,013,1.9,008km S 24° E of Tingloy (Batangas),008,S 24° E,Tingloy (Batangas)
 2026-04-16T22:10:00.000Z,16 April 2026 - 10:10 PM,09.97,125.11,013,2.8,007km N 29° E of Limasawa (Southern Leyte),007,N 29° E,Limasawa (Southern Leyte)
 2026-04-16T21:33:00.000Z,16 April 2026 - 09:33 PM,15.59,119.99,031,1.7,007km N 33° E of Masinloc (Zambales),007,N 33° E,Masinloc (Zambales)
 2026-04-16T21:02:00.000Z,16 April 2026 - 09:02 PM,14.75,121.90,039,1.5,006km N 51° W of Polillo (Quezon),006,N 51° W,Polillo (Quezon)
@@ -367,8 +371,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-10T01:06:00.000Z,10 April 2026 - 01:06 AM,14.58,118.94,032,2.0,130km S 72° W of San Antonio (Zambales),130,S 72° W,San Antonio (Zambales)
 2026-04-10T00:45:00.000Z,10 April 2026 - 12:45 AM,08.12,126.38,026,1.9,009km N 23° W of Lingig (Surigao Del Sur),009,N 23° W,Lingig (Surigao Del Sur)
 2026-04-10T00:36:00.000Z,10 April 2026 - 12:36 AM,13.73,122.50,033,1.4,003km S 68° E of Buenavista (Quezon),003,S 68° E,Buenavista (Quezon)
-2026-04-10T00:07:00.000Z,10 April 2026 - 12:07 AM,13.66,122.63,010,3.5,012km N 33° E of San Narciso (Quezon),012,N 33° E,San Narciso (Quezon)
-2026-04-10T00:01:00.000Z,10 April 2026 - 12:01 AM,08.22,126.91,010,4.2,058km N 69° E of Lingig (Surigao Del Sur),058,N 69° E,Lingig (Surigao Del Sur)
-2026-04-09T23:13:00.000Z,09 April 2026 - 11:13 PM,15.34,120.33,034,1.4,021km S 43° W of San Jose (Tarlac),021,S 43° W,San Jose (Tarlac)
-2026-04-09T23:07:00.000Z,09 April 2026 - 11:07 PM,06.31,125.93,036,4.6,028km N 64° E of Don Marcelino (Davao Occidental),028,N 64° E,Don Marcelino (Davao Occidental)
-2026-04-09T22:16:00.000Z,09 April 2026 - 10:16 PM,14.99,122.73,027,1.5,054km N 53° E of Jomalig (Quezon),054,N 53° E,Jomalig (Quezon)

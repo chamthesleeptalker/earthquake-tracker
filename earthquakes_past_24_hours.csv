@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T00:08:00.000Z,17 April 2026 - 12:08 AM,11.39,125.46,021,2.4,010km S 74° W of Llorente (Eastern Samar),010,S 74° W,Llorente (Eastern Samar)
+2026-04-17T00:00:00.000Z,17 April 2026 - 12:00 AM,11.06,124.05,020,2.2,008km N 82° E of City Of Bogo (Cebu),008,N 82° E,City Of Bogo (Cebu)
+2026-04-16T23:54:00.000Z,16 April 2026 - 11:54 PM,15.38,119.86,031,1.6,008km S 40° W of Palauig (Zambales),008,S 40° W,Palauig (Zambales)
+2026-04-16T22:49:00.000Z,16 April 2026 - 10:49 PM,13.59,120.90,013,1.9,008km S 24° E of Tingloy (Batangas),008,S 24° E,Tingloy (Batangas)
 2026-04-16T22:10:00.000Z,16 April 2026 - 10:10 PM,09.97,125.11,013,2.8,007km N 29° E of Limasawa (Southern Leyte),007,N 29° E,Limasawa (Southern Leyte)
 2026-04-16T21:33:00.000Z,16 April 2026 - 09:33 PM,15.59,119.99,031,1.7,007km N 33° E of Masinloc (Zambales),007,N 33° E,Masinloc (Zambales)
 2026-04-16T21:02:00.000Z,16 April 2026 - 09:02 PM,14.75,121.90,039,1.5,006km N 51° W of Polillo (Quezon),006,N 51° W,Polillo (Quezon)
@@ -44,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-16T00:36:00.000Z,16 April 2026 - 12:36 AM,20.32,121.81,113,2.3,007km S 74° W of Sabtang (Batanes),007,S 74° W,Sabtang (Batanes)
 2026-04-16T00:26:00.000Z,16 April 2026 - 12:26 AM,09.51,123.97,010,2.8,011km S 07° E of Alburquerque (Bohol),011,S 07° E,Alburquerque (Bohol)
 2026-04-16T00:19:00.000Z,16 April 2026 - 12:19 AM,06.42,123.59,013,2.3,053km S 77° W of Kalamansig (Sultan Kudarat),053,S 77° W,Kalamansig (Sultan Kudarat)
-2026-04-15T23:24:00.000Z,15 April 2026 - 11:24 PM,17.97,120.44,019,1.4,006km N 37° W of Badoc (Ilocos Norte),006,N 37° W,Badoc (Ilocos Norte)
-2026-04-15T23:15:00.000Z,15 April 2026 - 11:15 PM,19.66,121.58,040,3.2,039km N 64° W of Babuyan Island (Calayan) (Cagayan),039,N 64° W,Babuyan Island (Calayan) (Cagayan)
-2026-04-15T22:33:00.000Z,15 April 2026 - 10:33 PM,14.90,122.49,003,2.4,028km N 38° E of Jomalig (Quezon),028,N 38° E,Jomalig (Quezon)
