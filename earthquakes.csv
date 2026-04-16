@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T22:10:00.000Z,16 April 2026 - 10:10 PM,09.97,125.11,013,2.8,007km N 29° E of Limasawa (Southern Leyte),007,N 29° E,Limasawa (Southern Leyte)
+2026-04-16T21:33:00.000Z,16 April 2026 - 09:33 PM,15.59,119.99,031,1.7,007km N 33° E of Masinloc (Zambales),007,N 33° E,Masinloc (Zambales)
+2026-04-16T21:02:00.000Z,16 April 2026 - 09:02 PM,14.75,121.90,039,1.5,006km N 51° W of Polillo (Quezon),006,N 51° W,Polillo (Quezon)
+2026-04-16T20:57:00.000Z,16 April 2026 - 08:57 PM,19.18,121.13,018,2.6,011km N 45° W of Dalupiri Island (Calayan) (Cagayan),011,N 45° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-16T20:48:00.000Z,16 April 2026 - 08:48 PM,14.23,120.48,108,1.6,021km S 33° W of Corregidor Island (City Of Cavite) (Cavite),021,S 33° W,Corregidor Island (City Of Cavite) (Cavite)
 2026-04-16T18:14:00.000Z,16 April 2026 - 06:14 PM,13.85,120.52,241,2.4,013km N 79° W of Calatagan (Batangas),013,N 79° W,Calatagan (Batangas)
 2026-04-16T17:48:00.000Z,16 April 2026 - 05:48 PM,16.25,120.08,021,1.6,015km N 45° E of City Of Alaminos (Pangasinan),015,N 45° E,City Of Alaminos (Pangasinan)
 2026-04-16T15:40:00.000Z,16 April 2026 - 03:40 PM,16.59,120.20,024,1.5,013km S 76° W of City Of San Fernando (La Union),013,S 76° W,City Of San Fernando (La Union)
