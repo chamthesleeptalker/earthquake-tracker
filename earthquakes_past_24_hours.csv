@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T13:45:00.000Z,16 April 2026 - 01:45 PM,07.66,125.43,005,3.8,025km N 56° W of Santo Tomas (Davao Del Norte),025,N 56° W,Santo Tomas (Davao Del Norte)
+2026-04-16T13:15:00.000Z,16 April 2026 - 01:15 PM,11.02,124.11,006,1.4,014km S 77° E of City Of Bogo (Cebu),014,S 77° E,City Of Bogo (Cebu)
+2026-04-16T12:38:00.000Z,16 April 2026 - 12:38 PM,15.17,122.09,002,1.8,038km N 21° E of Burdeos (Quezon),038,N 21° E,Burdeos (Quezon)
+2026-04-16T12:28:00.000Z,16 April 2026 - 12:28 PM,15.00,122.03,010,3.6,018km N 21° E of Burdeos (Quezon),018,N 21° E,Burdeos (Quezon)
+2026-04-16T11:47:00.000Z,16 April 2026 - 11:47 AM,16.23,120.24,028,1.6,017km S 54° W of Agoo (La Union),017,S 54° W,Agoo (La Union)
 2026-04-16T11:00:00.000Z,16 April 2026 - 11:00 AM,05.22,126.41,008,2.7,107km S 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),107,S 75° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-16T10:53:00.000Z,16 April 2026 - 10:53 AM,18.34,120.76,032,1.7,015km N 87° E of Pasuquin (Ilocos Norte),015,N 87° E,Pasuquin (Ilocos Norte)
 2026-04-16T10:21:00.000Z,16 April 2026 - 10:21 AM,16.23,120.36,005,2.1,006km S 28° W of Santo Tomas (La Union),006,S 28° W,Santo Tomas (La Union)
@@ -55,7 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-15T15:29:00.000Z,15 April 2026 - 03:29 PM,14.15,120.42,083,2.1,025km N 70° W of Nasugbu (Batangas),025,N 70° W,Nasugbu (Batangas)
 2026-04-15T14:25:00.000Z,15 April 2026 - 02:25 PM,16.25,119.50,031,1.8,035km N 66° W of Agno (Pangasinan),035,N 66° W,Agno (Pangasinan)
 2026-04-15T13:56:00.000Z,15 April 2026 - 01:56 PM,14.78,121.84,031,1.5,013km N 53° W of Polillo (Quezon),013,N 53° W,Polillo (Quezon)
-2026-04-15T13:31:00.000Z,15 April 2026 - 01:31 PM,09.07,126.37,031,2.3,019km N 24° E of Cagwait (Surigao Del Sur),019,N 24° E,Cagwait (Surigao Del Sur)
-2026-04-15T13:00:00.000Z,15 April 2026 - 01:00 PM,15.00,121.96,010,3.8,017km N 3° W of Burdeos (Quezon),017,N 3° W,Burdeos (Quezon)
-2026-04-15T11:57:00.000Z,15 April 2026 - 11:57 AM,10.38,123.33,014,2.0,005km N 06° E of Vallehermoso (Negros Oriental),005,N 06° E,Vallehermoso (Negros Oriental)
-2026-04-15T11:45:00.000Z,15 April 2026 - 11:45 AM,05.27,125.97,028,2.6,060km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),060,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)

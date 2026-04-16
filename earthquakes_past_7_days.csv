@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-16T13:45:00.000Z,16 April 2026 - 01:45 PM,07.66,125.43,005,3.8,025km N 56° W of Santo Tomas (Davao Del Norte),025,N 56° W,Santo Tomas (Davao Del Norte)
+2026-04-16T13:15:00.000Z,16 April 2026 - 01:15 PM,11.02,124.11,006,1.4,014km S 77° E of City Of Bogo (Cebu),014,S 77° E,City Of Bogo (Cebu)
+2026-04-16T12:38:00.000Z,16 April 2026 - 12:38 PM,15.17,122.09,002,1.8,038km N 21° E of Burdeos (Quezon),038,N 21° E,Burdeos (Quezon)
+2026-04-16T12:28:00.000Z,16 April 2026 - 12:28 PM,15.00,122.03,010,3.6,018km N 21° E of Burdeos (Quezon),018,N 21° E,Burdeos (Quezon)
+2026-04-16T11:47:00.000Z,16 April 2026 - 11:47 AM,16.23,120.24,028,1.6,017km S 54° W of Agoo (La Union),017,S 54° W,Agoo (La Union)
 2026-04-16T11:00:00.000Z,16 April 2026 - 11:00 AM,05.22,126.41,008,2.7,107km S 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),107,S 75° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-16T10:53:00.000Z,16 April 2026 - 10:53 AM,18.34,120.76,032,1.7,015km N 87° E of Pasuquin (Ilocos Norte),015,N 87° E,Pasuquin (Ilocos Norte)
 2026-04-16T10:21:00.000Z,16 April 2026 - 10:21 AM,16.23,120.36,005,2.1,006km S 28° W of Santo Tomas (La Union),006,S 28° W,Santo Tomas (La Union)
@@ -368,8 +373,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-09T18:45:00.000Z,09 April 2026 - 06:45 PM,08.93,126.62,010,4.3,034km N 87° E of Cagwait (Surigao Del Sur),034,N 87° E,Cagwait (Surigao Del Sur)
 2026-04-09T15:20:00.000Z,09 April 2026 - 03:20 PM,09.65,126.15,032,1.8,015km S 04° W of General Luna (Surigao Del Norte),015,S 04° W,General Luna (Surigao Del Norte)
 2026-04-09T15:02:00.000Z,09 April 2026 - 03:02 PM,09.01,126.66,028,1.4,041km N 76° E of Cagwait (Surigao Del Sur),041,N 76° E,Cagwait (Surigao Del Sur)
-2026-04-09T13:40:00.000Z,09 April 2026 - 01:40 PM,19.15,121.49,025,1.9,012km S 05° E of Calayan (Cagayan),012,S 05° E,Calayan (Cagayan)
-2026-04-09T13:31:00.000Z,09 April 2026 - 01:31 PM,11.38,122.17,034,1.9,014km S 70° E of Culasi (Antique),014,S 70° E,Culasi (Antique)
-2026-04-09T12:41:00.000Z,09 April 2026 - 12:41 PM,08.12,126.43,026,1.7,009km N 14° E of Lingig (Surigao Del Sur),009,N 14° E,Lingig (Surigao Del Sur)
-2026-04-09T12:28:00.000Z,09 April 2026 - 12:28 PM,08.97,126.45,025,2.2,018km N 70° E of Cagwait (Surigao Del Sur),018,N 70° E,Cagwait (Surigao Del Sur)
-2026-04-09T12:15:00.000Z,09 April 2026 - 12:15 PM,10.43,125.13,002,2.6,008km N 61° W of Hinunangan (Southern Leyte),008,N 61° W,Hinunangan (Southern Leyte)
