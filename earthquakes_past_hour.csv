@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T00:40:00.000Z,17 April 2026 - 12:40 AM,16.54,120.33,030,1.9,002km N 04° E of Bauang (La Union),002,N 04° E,Bauang (La Union)
+2026-04-17T00:34:00.000Z,17 April 2026 - 12:34 AM,04.73,125.13,023,3.4,082km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),082,S 23° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-17T00:34:00.000Z,17 April 2026 - 12:34 AM,07.63,126.10,034,1.6,004km S 27° E of Compostela (Davao De Oro),004,S 27° E,Compostela (Davao De Oro)
+2026-04-17T00:26:00.000Z,17 April 2026 - 12:26 AM,19.28,121.22,027,1.7,019km N 05° E of Dalupiri Island (Calayan) (Cagayan),019,N 05° E,Dalupiri Island (Calayan) (Cagayan)
+2026-04-17T00:17:00.000Z,17 April 2026 - 12:17 AM,18.75,120.83,025,1.8,022km N 14° E of Pagudpud (Ilocos Norte),022,N 14° E,Pagudpud (Ilocos Norte)
 2026-04-17T00:08:00.000Z,17 April 2026 - 12:08 AM,11.39,125.46,021,2.4,010km S 74° W of Llorente (Eastern Samar),010,S 74° W,Llorente (Eastern Samar)
 2026-04-17T00:00:00.000Z,17 April 2026 - 12:00 AM,11.06,124.05,020,2.2,008km N 82° E of City Of Bogo (Cebu),008,N 82° E,City Of Bogo (Cebu)
 2026-04-16T23:54:00.000Z,16 April 2026 - 11:54 PM,15.38,119.86,031,1.6,008km S 40° W of Palauig (Zambales),008,S 40° W,Palauig (Zambales)
