@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T14:49:00.000Z,17 April 2026 - 02:49 PM,15.31,122.11,002,1.6,052km N 38° E of Panukulan (Quezon),052,N 38° E,Panukulan (Quezon)
+2026-04-17T14:47:00.000Z,17 April 2026 - 02:47 PM,09.69,125.82,115,4.8,016km N 35° E of Claver (Surigao Del Norte),016,N 35° E,Claver (Surigao Del Norte)
 2026-04-17T13:41:00.000Z,17 April 2026 - 01:41 PM,12.45,120.79,024,1.5,019km S 87° W of Rizal (Occidental Mindoro),019,S 87° W,Rizal (Occidental Mindoro)
 2026-04-17T13:25:00.000Z,17 April 2026 - 01:25 PM,11.13,123.96,017,2.4,010km N 12° W of City Of Bogo (Cebu),010,N 12° W,City Of Bogo (Cebu)
 2026-04-17T12:32:00.000Z,17 April 2026 - 12:32 PM,15.52,119.83,033,1.5,013km N 42° W of Palauig (Zambales),013,N 42° W,Palauig (Zambales)
@@ -41,5 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-16T15:17:00.000Z,16 April 2026 - 03:17 PM,10.63,122.26,003,3.2,003km S 69° E of Miagao (Iloilo),003,S 69° E,Miagao (Iloilo)
 2026-04-16T15:02:00.000Z,16 April 2026 - 03:02 PM,09.68,126.33,024,2.6,022km S 60° E of General Luna (Surigao Del Norte),022,S 60° E,General Luna (Surigao Del Norte)
 2026-04-16T14:57:00.000Z,16 April 2026 - 02:57 PM,05.74,125.85,090,2.7,030km S 49° E of Jose Abad Santos (Davao Occidental),030,S 49° E,Jose Abad Santos (Davao Occidental)
-2026-04-16T14:11:00.000Z,16 April 2026 - 02:11 PM,09.29,125.91,012,1.8,006km N 62° W of Madrid (Surigao Del Sur),006,N 62° W,Madrid (Surigao Del Sur)
-2026-04-16T13:45:00.000Z,16 April 2026 - 01:45 PM,07.66,125.43,005,3.8,025km N 56° W of Santo Tomas (Davao Del Norte),025,N 56° W,Santo Tomas (Davao Del Norte)
