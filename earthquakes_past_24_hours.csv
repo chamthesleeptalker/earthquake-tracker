@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T05:18:00.000Z,18 April 2026 - 05:18 AM,07.23,123.61,024,2.0,035km S 40° E of Tabina (Zamboanga Del Sur),035,S 40° E,Tabina (Zamboanga Del Sur)
+2026-04-18T04:58:00.000Z,18 April 2026 - 04:58 AM,07.75,124.61,010,2.7,008km S 62° W of Amai Manabilang (Lanao Del Sur),008,S 62° W,Amai Manabilang (Lanao Del Sur)
 2026-04-18T04:26:00.000Z,18 April 2026 - 04:26 AM,07.75,124.63,007,2.1,007km S 59° W of Amai Manabilang (Lanao Del Sur),007,S 59° W,Amai Manabilang (Lanao Del Sur)
 2026-04-18T04:17:00.000Z,18 April 2026 - 04:17 AM,07.89,124.74,033,1.5,012km N 54° W of Pangantucan (Bukidnon),012,N 54° W,Pangantucan (Bukidnon)
 2026-04-18T04:16:00.000Z,18 April 2026 - 04:16 AM,17.90,120.64,026,1.8,003km S 48° W of Nueva Era (Ilocos Norte),003,S 48° W,Nueva Era (Ilocos Norte)
@@ -39,5 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-17T08:40:00.000Z,17 April 2026 - 08:40 AM,10.59,122.69,014,3.0,000km S 76° E of San Lorenzo (Guimaras),000,S 76° E,San Lorenzo (Guimaras)
 2026-04-17T06:20:00.000Z,17 April 2026 - 06:20 AM,07.49,126.75,123,2.4,023km S 66° E of Baganga (Davao Oriental),023,S 66° E,Baganga (Davao Oriental)
 2026-04-17T05:25:00.000Z,17 April 2026 - 05:25 AM,09.73,123.71,011,2.3,013km S 50° W of Loon (Bohol),013,S 50° W,Loon (Bohol)
-2026-04-17T04:54:00.000Z,17 April 2026 - 04:54 AM,06.05,125.01,061,1.5,019km S 18° W of Polomolok (South Cotabato),019,S 18° W,Polomolok (South Cotabato)
-2026-04-17T04:47:00.000Z,17 April 2026 - 04:47 AM,09.55,126.22,042,1.6,027km S 16° E of General Luna (Surigao Del Norte),027,S 16° E,General Luna (Surigao Del Norte)
