@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T13:41:00.000Z,17 April 2026 - 01:41 PM,12.45,120.79,024,1.5,019km S 87° W of Rizal (Occidental Mindoro),019,S 87° W,Rizal (Occidental Mindoro)
+2026-04-17T13:25:00.000Z,17 April 2026 - 01:25 PM,11.13,123.96,017,2.4,010km N 12° W of City Of Bogo (Cebu),010,N 12° W,City Of Bogo (Cebu)
+2026-04-17T12:32:00.000Z,17 April 2026 - 12:32 PM,15.52,119.83,033,1.5,013km N 42° W of Palauig (Zambales),013,N 42° W,Palauig (Zambales)
+2026-04-17T12:06:00.000Z,17 April 2026 - 12:06 PM,19.03,121.05,001,2.2,019km S 62° W of Dalupiri Island (Calayan) (Cagayan),019,S 62° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-17T11:32:00.000Z,17 April 2026 - 11:32 AM,05.60,125.68,149,2.2,027km N 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),027,N 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-17T11:00:00.000Z,17 April 2026 - 11:00 AM,10.74,122.46,004,1.8,004km S 12° W of San Miguel (Iloilo),004,S 12° W,San Miguel (Iloilo)
 2026-04-17T10:48:00.000Z,17 April 2026 - 10:48 AM,11.05,124.05,033,1.6,008km N 86° E of City Of Bogo (Cebu),008,N 86° E,City Of Bogo (Cebu)
@@ -39,7 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-16T14:57:00.000Z,16 April 2026 - 02:57 PM,05.74,125.85,090,2.7,030km S 49° E of Jose Abad Santos (Davao Occidental),030,S 49° E,Jose Abad Santos (Davao Occidental)
 2026-04-16T14:11:00.000Z,16 April 2026 - 02:11 PM,09.29,125.91,012,1.8,006km N 62° W of Madrid (Surigao Del Sur),006,N 62° W,Madrid (Surigao Del Sur)
 2026-04-16T13:45:00.000Z,16 April 2026 - 01:45 PM,07.66,125.43,005,3.8,025km N 56° W of Santo Tomas (Davao Del Norte),025,N 56° W,Santo Tomas (Davao Del Norte)
-2026-04-16T13:15:00.000Z,16 April 2026 - 01:15 PM,11.02,124.11,006,1.4,014km S 77° E of City Of Bogo (Cebu),014,S 77° E,City Of Bogo (Cebu)
-2026-04-16T12:38:00.000Z,16 April 2026 - 12:38 PM,15.17,122.09,002,1.8,038km N 21° E of Burdeos (Quezon),038,N 21° E,Burdeos (Quezon)
-2026-04-16T12:28:00.000Z,16 April 2026 - 12:28 PM,15.00,122.03,010,3.6,018km N 21° E of Burdeos (Quezon),018,N 21° E,Burdeos (Quezon)
-2026-04-16T11:47:00.000Z,16 April 2026 - 11:47 AM,16.23,120.24,028,1.6,017km S 54° W of Agoo (La Union),017,S 54° W,Agoo (La Union)
