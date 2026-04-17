@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-17T22:22:00.000Z,17 April 2026 - 10:22 PM,15.00,122.58,004,1.7,043km N 39° E of Jomalig (Quezon),043,N 39° E,Jomalig (Quezon)
+2026-04-17T22:10:00.000Z,17 April 2026 - 10:10 PM,06.29,126.27,126,2.2,046km S 28° E of Governor Generoso (Davao Oriental),046,S 28° E,Governor Generoso (Davao Oriental)
 2026-04-17T19:35:00.000Z,17 April 2026 - 07:35 PM,09.43,126.56,024,2.3,044km N 67° E of Cortes (Surigao Del Sur),044,N 67° E,Cortes (Surigao Del Sur)
 2026-04-17T19:16:00.000Z,17 April 2026 - 07:16 PM,11.88,125.50,010,3.9,008km N 35° E of Sulat (Eastern Samar),008,N 35° E,Sulat (Eastern Samar)
 2026-04-17T16:44:00.000Z,17 April 2026 - 04:44 PM,18.40,120.84,007,2.6,009km S 41° W of Adams (Ilocos Norte),009,S 41° W,Adams (Ilocos Norte)
@@ -363,8 +365,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-10T23:43:00.000Z,10 April 2026 - 11:43 PM,11.28,121.81,002,1.5,025km S 87° W of Tibiao (Antique),025,S 87° W,Tibiao (Antique)
 2026-04-10T23:30:00.000Z,10 April 2026 - 11:30 PM,17.42,121.20,129,1.4,005km N 45° E of Pasil (Kalinga),005,N 45° E,Pasil (Kalinga)
 2026-04-10T23:00:00.000Z,10 April 2026 - 11:00 PM,17.36,120.32,026,2.3,014km N 76° W of San Esteban (Ilocos Sur),014,N 76° W,San Esteban (Ilocos Sur)
-2026-04-10T21:21:00.000Z,10 April 2026 - 09:21 PM,07.43,122.68,023,1.4,014km S 90° W of Talusan (Zamboanga Sibugay),014,S 90° W,Talusan (Zamboanga Sibugay)
-2026-04-10T21:10:00.000Z,10 April 2026 - 09:10 PM,13.73,120.55,107,2.2,015km S 40° W of Calatagan (Batangas),015,S 40° W,Calatagan (Batangas)
-2026-04-10T20:48:00.000Z,10 April 2026 - 08:48 PM,07.67,126.74,023,2.2,022km N 62° E of Baganga (Davao Oriental),022,N 62° E,Baganga (Davao Oriental)
-2026-04-10T20:30:00.000Z,10 April 2026 - 08:30 PM,17.59,120.53,009,2.1,004km N 61° W of Langiden (Abra),004,N 61° W,Langiden (Abra)
-2026-04-10T20:00:00.000Z,10 April 2026 - 08:00 PM,16.71,119.84,010,4.1,036km N 9° W of Bolinao (Pangasinan),036,N 9° W,Bolinao (Pangasinan)
