@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T03:24:00.000Z,18 April 2026 - 03:24 AM,13.67,120.63,079,1.4,018km S 02° W of Calatagan (Batangas),018,S 02° W,Calatagan (Batangas)
+2026-04-18T03:13:00.000Z,18 April 2026 - 03:13 AM,10.69,122.59,020,1.7,001km S 81° E of City Of Iloilo (Iloilo),001,S 81° E,City Of Iloilo (Iloilo)
+2026-04-18T03:03:00.000Z,18 April 2026 - 03:03 AM,08.11,126.02,038,2.3,008km N 59° E of Veruela (Agusan Del Sur),008,N 59° E,Veruela (Agusan Del Sur)
+2026-04-18T02:38:00.000Z,18 April 2026 - 02:38 AM,06.41,123.74,030,2.2,038km S 65° W of Kalamansig (Sultan Kudarat),038,S 65° W,Kalamansig (Sultan Kudarat)
+2026-04-18T02:27:00.000Z,18 April 2026 - 02:27 AM,12.68,123.50,032,1.8,019km N 77° W of Monreal (Masbate),019,N 77° W,Monreal (Masbate)
 2026-04-18T01:59:00.000Z,18 April 2026 - 01:59 AM,14.26,124.90,151,2.4,074km N 62° E of Bagamanoc (Catanduanes),074,N 62° E,Bagamanoc (Catanduanes)
 2026-04-18T01:55:00.000Z,18 April 2026 - 01:55 AM,09.65,126.10,018,2.2,012km S 25° E of Dapa (Surigao Del Norte),012,S 25° E,Dapa (Surigao Del Norte)
 2026-04-18T01:36:00.000Z,18 April 2026 - 01:36 AM,07.97,123.11,008,1.7,013km N 13° E of Lakewood (Zamboanga Del Sur),013,N 13° E,Lakewood (Zamboanga Del Sur)
@@ -357,8 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-11T04:02:00.000Z,11 April 2026 - 04:02 AM,07.94,126.62,069,2.2,025km N 47° E of Cateel (Davao Oriental),025,N 47° E,Cateel (Davao Oriental)
 2026-04-11T03:58:00.000Z,11 April 2026 - 03:58 AM,10.95,121.89,034,1.8,012km N 73° W of Patnongon (Antique),012,N 73° W,Patnongon (Antique)
 2026-04-11T03:40:00.000Z,11 April 2026 - 03:40 AM,10.91,124.65,010,2.0,005km S 86° W of Albuera (Leyte),005,S 86° W,Albuera (Leyte)
-2026-04-11T03:06:00.000Z,11 April 2026 - 03:06 AM,18.55,120.52,003,2.1,014km N 71° W of Burgos (Ilocos Norte),014,N 71° W,Burgos (Ilocos Norte)
-2026-04-11T02:58:00.000Z,11 April 2026 - 02:58 AM,07.09,126.72,011,1.8,024km S 56° E of Manay (Davao Oriental),024,S 56° E,Manay (Davao Oriental)
-2026-04-11T02:55:00.000Z,11 April 2026 - 02:55 AM,07.34,126.75,042,1.9,027km N 58° E of Manay (Davao Oriental),027,N 58° E,Manay (Davao Oriental)
-2026-04-11T02:39:00.000Z,11 April 2026 - 02:39 AM,14.95,122.02,029,1.7,013km N 24° E of Burdeos (Quezon),013,N 24° E,Burdeos (Quezon)
-2026-04-11T02:38:00.000Z,11 April 2026 - 02:38 AM,12.91,121.27,032,2.0,021km N 75° W of Bansud (Oriental Mindoro),021,N 75° W,Bansud (Oriental Mindoro)
