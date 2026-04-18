@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T08:33:00.000Z,18 April 2026 - 08:33 AM,10.04,125.56,028,1.7,003km N 32° W of San Jose (Dinagat Islands),003,N 32° W,San Jose (Dinagat Islands)
+2026-04-18T08:12:00.000Z,18 April 2026 - 08:12 AM,13.21,125.25,055,2.0,075km N 20° E of Laoang (Northern Samar),075,N 20° E,Laoang (Northern Samar)
 2026-04-18T06:13:00.000Z,18 April 2026 - 06:13 AM,17.22,122.36,043,1.8,014km S 29° E of Divilacan (Isabela),014,S 29° E,Divilacan (Isabela)
 2026-04-18T06:02:00.000Z,18 April 2026 - 06:02 AM,09.82,126.36,031,1.7,022km N 81° E of General Luna (Surigao Del Norte),022,N 81° E,General Luna (Surigao Del Norte)
 2026-04-18T05:39:00.000Z,18 April 2026 - 05:39 AM,05.79,125.97,152,2.5,038km S 69° E of Jose Abad Santos (Davao Occidental),038,S 69° E,Jose Abad Santos (Davao Occidental)
@@ -357,9 +359,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-11T09:26:00.000Z,11 April 2026 - 09:26 AM,19.89,121.21,008,2.3,075km N 22° W of Calayan (Cagayan),075,N 22° W,Calayan (Cagayan)
 2026-04-11T09:25:00.000Z,11 April 2026 - 09:25 AM,05.61,126.21,014,2.4,071km S 61° E of Jose Abad Santos (Davao Occidental),071,S 61° E,Jose Abad Santos (Davao Occidental)
 2026-04-11T08:35:00.000Z,11 April 2026 - 08:35 AM,18.87,121.43,035,1.5,007km N 69° E of Fuga Island (Aparri) (Cagayan),007,N 69° E,Fuga Island (Aparri) (Cagayan)
-2026-04-11T08:26:00.000Z,11 April 2026 - 08:26 AM,12.99,120.82,031,1.4,015km S 47° E of Santa Cruz (Occidental Mindoro),015,S 47° E,Santa Cruz (Occidental Mindoro)
-2026-04-11T06:51:00.000Z,11 April 2026 - 06:51 AM,19.49,121.58,017,1.6,027km N 23° E of Calayan (Cagayan),027,N 23° E,Calayan (Cagayan)
-2026-04-11T06:36:00.000Z,11 April 2026 - 06:36 AM,15.31,120.03,031,1.4,003km N 16° E of Botolan (Zambales),003,N 16° E,Botolan (Zambales)
-2026-04-11T06:19:00.000Z,11 April 2026 - 06:19 AM,11.78,125.74,013,2.6,031km N 86° E of San Julian (Eastern Samar),031,N 86° E,San Julian (Eastern Samar)
-2026-04-11T06:17:00.000Z,11 April 2026 - 06:17 AM,11.89,120.96,018,1.5,051km S 23° W of Magsaysay (Occidental Mindoro),051,S 23° W,Magsaysay (Occidental Mindoro)
-2026-04-11T06:13:00.000Z,11 April 2026 - 06:13 AM,14.63,120.66,004,1.4,009km N 87° E of Orion (Bataan),009,N 87° E,Orion (Bataan)
