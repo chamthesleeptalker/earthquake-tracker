@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T06:15:00.000Z,19 April 2026 - 06:15 AM,05.27,126.80,049,3.8,146km S 61° E of Jose Abad Santos (Davao Occidental),146,S 61° E,Jose Abad Santos (Davao Occidental)
 2026-04-19T05:05:00.000Z,19 April 2026 - 05:05 AM,13.21,122.48,008,2.4,016km S 15° W of San Francisco (Quezon),016,S 15° W,San Francisco (Quezon)
 2026-04-19T05:04:00.000Z,19 April 2026 - 05:04 AM,09.72,124.22,034,1.5,011km S 50° E of Batuan (Bohol),011,S 50° E,Batuan (Bohol)
 2026-04-19T04:55:00.000Z,19 April 2026 - 04:55 AM,19.18,121.78,005,2.3,032km N 17° W of Camiguin Island (Calayan) (Cagayan),032,N 17° W,Camiguin Island (Calayan) (Cagayan)
@@ -45,7 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T11:34:00.000Z,18 April 2026 - 11:34 AM,19.80,120.23,003,2.7,128km N 53° W of Dalupiri Island (Calayan) (Cagayan),128,N 53° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-18T08:33:00.000Z,18 April 2026 - 08:33 AM,10.04,125.56,028,1.7,003km N 32° W of San Jose (Dinagat Islands),003,N 32° W,San Jose (Dinagat Islands)
 2026-04-18T08:12:00.000Z,18 April 2026 - 08:12 AM,13.21,125.25,055,2.0,075km N 20° E of Laoang (Northern Samar),075,N 20° E,Laoang (Northern Samar)
-2026-04-18T06:13:00.000Z,18 April 2026 - 06:13 AM,17.22,122.36,043,1.8,014km S 29° E of Divilacan (Isabela),014,S 29° E,Divilacan (Isabela)
-2026-04-18T06:02:00.000Z,18 April 2026 - 06:02 AM,09.82,126.36,031,1.7,022km N 81° E of General Luna (Surigao Del Norte),022,N 81° E,General Luna (Surigao Del Norte)
-2026-04-18T05:39:00.000Z,18 April 2026 - 05:39 AM,05.79,125.97,152,2.5,038km S 69° E of Jose Abad Santos (Davao Occidental),038,S 69° E,Jose Abad Santos (Davao Occidental)
-2026-04-18T05:18:00.000Z,18 April 2026 - 05:18 AM,07.23,123.61,024,2.0,035km S 40° E of Tabina (Zamboanga Del Sur),035,S 40° E,Tabina (Zamboanga Del Sur)
