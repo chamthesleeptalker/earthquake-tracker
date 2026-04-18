@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T14:04:00.000Z,18 April 2026 - 02:04 PM,09.03,126.59,028,1.9,035km N 79° E of Bayabas (Surigao Del Sur),035,N 79° E,Bayabas (Surigao Del Sur)
 2026-04-18T12:20:00.000Z,18 April 2026 - 12:20 PM,09.39,121.69,002,2.3,058km S 69° E of Cagayancillo (Palawan),058,S 69° E,Cagayancillo (Palawan)
 2026-04-18T11:34:00.000Z,18 April 2026 - 11:34 AM,19.80,120.23,003,2.7,128km N 53° W of Dalupiri Island (Calayan) (Cagayan),128,N 53° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-18T08:33:00.000Z,18 April 2026 - 08:33 AM,10.04,125.56,028,1.7,003km N 32° W of San Jose (Dinagat Islands),003,N 32° W,San Jose (Dinagat Islands)
@@ -36,6 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-17T16:17:00.000Z,17 April 2026 - 04:17 PM,05.60,126.26,046,3.0,077km S 63° E of Jose Abad Santos (Davao Occidental),077,S 63° E,Jose Abad Santos (Davao Occidental)
 2026-04-17T14:49:00.000Z,17 April 2026 - 02:49 PM,15.31,122.11,002,1.6,052km N 38° E of Panukulan (Quezon),052,N 38° E,Panukulan (Quezon)
 2026-04-17T14:47:00.000Z,17 April 2026 - 02:47 PM,09.69,125.82,115,4.8,016km N 35° E of Claver (Surigao Del Norte),016,N 35° E,Claver (Surigao Del Norte)
-2026-04-17T13:41:00.000Z,17 April 2026 - 01:41 PM,12.45,120.79,024,1.5,019km S 87° W of Rizal (Occidental Mindoro),019,S 87° W,Rizal (Occidental Mindoro)
-2026-04-17T13:25:00.000Z,17 April 2026 - 01:25 PM,11.13,123.96,017,2.4,010km N 12° W of City Of Bogo (Cebu),010,N 12° W,City Of Bogo (Cebu)
-2026-04-17T12:32:00.000Z,17 April 2026 - 12:32 PM,15.52,119.83,033,1.5,013km N 42° W of Palauig (Zambales),013,N 42° W,Palauig (Zambales)
