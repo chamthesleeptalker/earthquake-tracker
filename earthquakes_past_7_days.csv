@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T04:27:00.000Z,19 April 2026 - 04:27 AM,15.04,122.07,011,2.6,024km N 26° E of Burdeos (Quezon),024,N 26° E,Burdeos (Quezon)
 2026-04-19T03:37:00.000Z,19 April 2026 - 03:37 AM,05.45,125.24,012,2.3,020km N 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,N 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-19T02:09:00.000Z,19 April 2026 - 02:09 AM,15.07,122.08,004,3.0,027km N 26° E of Burdeos (Quezon),027,N 26° E,Burdeos (Quezon)
 2026-04-19T01:52:00.000Z,19 April 2026 - 01:52 AM,06.47,126.75,005,2.3,072km S 27° E of Tarragona (Davao Oriental),072,S 27° E,Tarragona (Davao Oriental)
@@ -356,7 +357,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-12T04:47:00.000Z,12 April 2026 - 04:47 AM,08.05,126.61,033,1.6,022km N 87° E of Lingig (Surigao Del Sur),022,N 87° E,Lingig (Surigao Del Sur)
 2026-04-12T04:38:00.000Z,12 April 2026 - 04:38 AM,12.86,125.94,066,2.1,086km N 61° E of Mapanas (Northern Samar),086,N 61° E,Mapanas (Northern Samar)
 2026-04-12T04:32:00.000Z,12 April 2026 - 04:32 AM,13.64,120.82,016,2.1,006km S 73° W of Tingloy (Batangas),006,S 73° W,Tingloy (Batangas)
-2026-04-12T04:23:00.000Z,12 April 2026 - 04:23 AM,13.52,120.71,054,1.8,008km N 13° W of Abra De Ilog (Occidental Mindoro),008,N 13° W,Abra De Ilog (Occidental Mindoro)
-2026-04-12T04:22:00.000Z,12 April 2026 - 04:22 AM,10.65,125.73,031,3.4,010km S 4° E of Homonhon Island (Guiuan) (Eastern Samar),010,S 4° E,Homonhon Island (Guiuan) (Eastern Samar)
-2026-04-12T03:42:00.000Z,12 April 2026 - 03:42 AM,09.77,126.34,003,1.7,020km S 87° E of General Luna (Surigao Del Norte),020,S 87° E,General Luna (Surigao Del Norte)
-2026-04-12T03:38:00.000Z,12 April 2026 - 03:38 AM,11.91,124.93,029,1.5,014km S 56° E of San Jorge (Samar),014,S 56° E,San Jorge (Samar)
