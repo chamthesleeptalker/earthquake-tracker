@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T21:50:00.000Z,18 April 2026 - 09:50 PM,15.06,122.01,002,2.5,025km N 10° E of Burdeos (Quezon),025,N 10° E,Burdeos (Quezon)
+2026-04-18T21:37:00.000Z,18 April 2026 - 09:37 PM,12.41,124.57,025,1.8,013km S 04° E of Bobon (Northern Samar),013,S 04° E,Bobon (Northern Samar)
+2026-04-18T21:32:00.000Z,18 April 2026 - 09:32 PM,14.98,122.05,023,1.7,018km N 30° E of Burdeos (Quezon),018,N 30° E,Burdeos (Quezon)
+2026-04-18T21:29:00.000Z,18 April 2026 - 09:29 PM,06.49,123.59,020,2.5,052km S 82° W of Kalamansig (Sultan Kudarat),052,S 82° W,Kalamansig (Sultan Kudarat)
+2026-04-18T21:14:00.000Z,18 April 2026 - 09:14 PM,15.03,122.06,002,2.5,023km N 24° E of Burdeos (Quezon),023,N 24° E,Burdeos (Quezon)
+2026-04-18T21:13:00.000Z,18 April 2026 - 09:13 PM,15.00,122.00,018,1.8,018km N 12° E of Burdeos (Quezon),018,N 12° E,Burdeos (Quezon)
+2026-04-18T20:55:00.000Z,18 April 2026 - 08:55 PM,12.95,120.93,025,1.6,020km N 56° E of Sablayan (Occidental Mindoro),020,N 56° E,Sablayan (Occidental Mindoro)
+2026-04-18T20:54:00.000Z,18 April 2026 - 08:54 PM,07.09,125.28,022,2.0,017km S 84° E of Magpet (Cotabato),017,S 84° E,Magpet (Cotabato)
 2026-04-18T20:47:00.000Z,18 April 2026 - 08:47 PM,14.98,122.00,018,2.1,016km N 12° E of Burdeos (Quezon),016,N 12° E,Burdeos (Quezon)
 2026-04-18T20:37:00.000Z,18 April 2026 - 08:37 PM,14.94,121.99,016,2.5,011km N 11° E of Burdeos (Quezon),011,N 11° E,Burdeos (Quezon)
 2026-04-18T20:30:00.000Z,18 April 2026 - 08:30 PM,05.61,125.48,206,3.5,015km N 04° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 04° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
