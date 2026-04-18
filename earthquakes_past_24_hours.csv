@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T02:09:00.000Z,19 April 2026 - 02:09 AM,15.07,122.08,004,3.0,027km N 26° E of Burdeos (Quezon),027,N 26° E,Burdeos (Quezon)
+2026-04-19T01:52:00.000Z,19 April 2026 - 01:52 AM,06.47,126.75,005,2.3,072km S 27° E of Tarragona (Davao Oriental),072,S 27° E,Tarragona (Davao Oriental)
 2026-04-19T01:24:00.000Z,19 April 2026 - 01:24 AM,08.71,122.42,033,1.8,081km S 17° W of Basay (Negros Oriental),081,S 17° W,Basay (Negros Oriental)
 2026-04-19T01:14:00.000Z,19 April 2026 - 01:14 AM,11.57,126.21,008,3.2,070km N 69° E of Hernani (Eastern Samar),070,N 69° E,Hernani (Eastern Samar)
 2026-04-19T01:08:00.000Z,19 April 2026 - 01:08 AM,05.33,126.10,078,2.1,071km S 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),071,S 77° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -52,6 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T03:03:00.000Z,18 April 2026 - 03:03 AM,08.11,126.02,038,2.3,008km N 59° E of Veruela (Agusan Del Sur),008,N 59° E,Veruela (Agusan Del Sur)
 2026-04-18T02:38:00.000Z,18 April 2026 - 02:38 AM,06.41,123.74,030,2.2,038km S 65° W of Kalamansig (Sultan Kudarat),038,S 65° W,Kalamansig (Sultan Kudarat)
 2026-04-18T02:27:00.000Z,18 April 2026 - 02:27 AM,12.68,123.50,032,1.8,019km N 77° W of Monreal (Masbate),019,N 77° W,Monreal (Masbate)
-2026-04-18T01:59:00.000Z,18 April 2026 - 01:59 AM,14.26,124.90,151,2.4,074km N 62° E of Bagamanoc (Catanduanes),074,N 62° E,Bagamanoc (Catanduanes)
-2026-04-18T01:55:00.000Z,18 April 2026 - 01:55 AM,09.65,126.10,018,2.2,012km S 25° E of Dapa (Surigao Del Norte),012,S 25° E,Dapa (Surigao Del Norte)
-2026-04-18T01:36:00.000Z,18 April 2026 - 01:36 AM,07.97,123.11,008,1.7,013km N 13° E of Lakewood (Zamboanga Del Sur),013,N 13° E,Lakewood (Zamboanga Del Sur)

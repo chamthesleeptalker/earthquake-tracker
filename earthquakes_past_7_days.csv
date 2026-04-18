@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T02:09:00.000Z,19 April 2026 - 02:09 AM,15.07,122.08,004,3.0,027km N 26° E of Burdeos (Quezon),027,N 26° E,Burdeos (Quezon)
+2026-04-19T01:52:00.000Z,19 April 2026 - 01:52 AM,06.47,126.75,005,2.3,072km S 27° E of Tarragona (Davao Oriental),072,S 27° E,Tarragona (Davao Oriental)
 2026-04-19T01:24:00.000Z,19 April 2026 - 01:24 AM,08.71,122.42,033,1.8,081km S 17° W of Basay (Negros Oriental),081,S 17° W,Basay (Negros Oriental)
 2026-04-19T01:14:00.000Z,19 April 2026 - 01:14 AM,11.57,126.21,008,3.2,070km N 69° E of Hernani (Eastern Samar),070,N 69° E,Hernani (Eastern Samar)
 2026-04-19T01:08:00.000Z,19 April 2026 - 01:08 AM,05.33,126.10,078,2.1,071km S 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),071,S 77° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -357,7 +359,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-12T04:22:00.000Z,12 April 2026 - 04:22 AM,10.65,125.73,031,3.4,010km S 4° E of Homonhon Island (Guiuan) (Eastern Samar),010,S 4° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-04-12T03:42:00.000Z,12 April 2026 - 03:42 AM,09.77,126.34,003,1.7,020km S 87° E of General Luna (Surigao Del Norte),020,S 87° E,General Luna (Surigao Del Norte)
 2026-04-12T03:38:00.000Z,12 April 2026 - 03:38 AM,11.91,124.93,029,1.5,014km S 56° E of San Jorge (Samar),014,S 56° E,San Jorge (Samar)
-2026-04-12T01:51:00.000Z,12 April 2026 - 01:51 AM,07.56,124.48,008,1.6,013km N 66° E of Buldon (Maguindanao Del Norte),013,N 66° E,Buldon (Maguindanao Del Norte)
-2026-04-12T01:44:00.000Z,12 April 2026 - 01:44 AM,07.58,124.48,008,2.2,014km N 58° E of Buldon (Maguindanao Del Norte),014,N 58° E,Buldon (Maguindanao Del Norte)
-2026-04-12T01:40:00.000Z,12 April 2026 - 01:40 AM,13.64,120.53,089,1.7,024km S 27° W of Calatagan (Batangas),024,S 27° W,Calatagan (Batangas)
-2026-04-12T01:41:00.000Z,12 April 2026 - 01:41 AM,08.18,125.93,061,1.7,007km S 87° W of Bunawan (Agusan Del Sur),007,S 87° W,Bunawan (Agusan Del Sur)
