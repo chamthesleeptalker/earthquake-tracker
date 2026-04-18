@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T15:14:00.000Z,18 April 2026 - 03:14 PM,15.69,120.15,014,2.1,019km S 55° W of Mangatarem (Pangasinan),019,S 55° W,Mangatarem (Pangasinan)
+2026-04-18T14:43:00.000Z,18 April 2026 - 02:43 PM,12.85,124.56,028,1.5,029km N 49° E of Biri (Northern Samar),029,N 49° E,Biri (Northern Samar)
 2026-04-18T14:04:00.000Z,18 April 2026 - 02:04 PM,09.03,126.59,028,1.9,035km N 79° E of Bayabas (Surigao Del Sur),035,N 79° E,Bayabas (Surigao Del Sur)
 2026-04-18T12:20:00.000Z,18 April 2026 - 12:20 PM,09.39,121.69,002,2.3,058km S 69° E of Cagayancillo (Palawan),058,S 69° E,Cagayancillo (Palawan)
 2026-04-18T11:34:00.000Z,18 April 2026 - 11:34 AM,19.80,120.23,003,2.7,128km N 53° W of Dalupiri Island (Calayan) (Cagayan),128,N 53° W,Dalupiri Island (Calayan) (Cagayan)
@@ -350,4 +352,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-11T19:52:00.000Z,11 April 2026 - 07:52 PM,20.06,121.40,024,2.1,058km S 58° W of Sabtang (Batanes),058,S 58° W,Sabtang (Batanes)
 2026-04-11T17:31:00.000Z,11 April 2026 - 05:31 PM,09.33,126.24,031,2.4,008km N 38° E of Cortes (Surigao Del Sur),008,N 38° E,Cortes (Surigao Del Sur)
 2026-04-11T15:32:00.000Z,11 April 2026 - 03:32 PM,17.59,122.04,016,1.8,028km S 82° E of Peñablanca (Cagayan),028,S 82° E,PeÃ±ablanca (Cagayan)
-2026-04-11T14:36:00.000Z,11 April 2026 - 02:36 PM,08.32,126.57,022,3.2,026km S 79° E of Hinatuan (Surigao Del Sur),026,S 79° E,Hinatuan (Surigao Del Sur)
