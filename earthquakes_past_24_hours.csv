@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T16:45:00.000Z,18 April 2026 - 04:45 PM,06.61,126.05,143,3.8,005km S 29° W of Governor Generoso (Davao Oriental),005,S 29° W,Governor Generoso (Davao Oriental)
 2026-04-18T15:14:00.000Z,18 April 2026 - 03:14 PM,15.69,120.15,014,2.1,019km S 55° W of Mangatarem (Pangasinan),019,S 55° W,Mangatarem (Pangasinan)
 2026-04-18T14:43:00.000Z,18 April 2026 - 02:43 PM,12.85,124.56,028,1.5,029km N 49° E of Biri (Northern Samar),029,N 49° E,Biri (Northern Samar)
 2026-04-18T14:04:00.000Z,18 April 2026 - 02:04 PM,09.03,126.59,028,1.9,035km N 79° E of Bayabas (Surigao Del Sur),035,N 79° E,Bayabas (Surigao Del Sur)
@@ -35,5 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-17T22:10:00.000Z,17 April 2026 - 10:10 PM,06.29,126.27,126,2.2,046km S 28° E of Governor Generoso (Davao Oriental),046,S 28° E,Governor Generoso (Davao Oriental)
 2026-04-17T19:35:00.000Z,17 April 2026 - 07:35 PM,09.43,126.56,024,2.3,044km N 67° E of Cortes (Surigao Del Sur),044,N 67° E,Cortes (Surigao Del Sur)
 2026-04-17T19:16:00.000Z,17 April 2026 - 07:16 PM,11.88,125.50,010,3.9,008km N 35° E of Sulat (Eastern Samar),008,N 35° E,Sulat (Eastern Samar)
-2026-04-17T16:44:00.000Z,17 April 2026 - 04:44 PM,18.40,120.84,007,2.6,009km S 41° W of Adams (Ilocos Norte),009,S 41° W,Adams (Ilocos Norte)
-2026-04-17T16:17:00.000Z,17 April 2026 - 04:17 PM,05.60,126.26,046,3.0,077km S 63° E of Jose Abad Santos (Davao Occidental),077,S 63° E,Jose Abad Santos (Davao Occidental)
