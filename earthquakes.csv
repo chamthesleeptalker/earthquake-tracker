@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T01:24:00.000Z,19 April 2026 - 01:24 AM,08.71,122.42,033,1.8,081km S 17° W of Basay (Negros Oriental),081,S 17° W,Basay (Negros Oriental)
+2026-04-19T01:14:00.000Z,19 April 2026 - 01:14 AM,11.57,126.21,008,3.2,070km N 69° E of Hernani (Eastern Samar),070,N 69° E,Hernani (Eastern Samar)
+2026-04-19T01:08:00.000Z,19 April 2026 - 01:08 AM,05.33,126.10,078,2.1,071km S 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),071,S 77° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-19T00:38:00.000Z,19 April 2026 - 12:38 AM,14.83,121.87,046,1.7,011km S 81° W of Burdeos (Quezon),011,S 81° W,Burdeos (Quezon)
 2026-04-18T23:43:00.000Z,18 April 2026 - 11:43 PM,13.58,120.14,039,1.5,019km S 40° W of Looc (Occidental Mindoro),019,S 40° W,Looc (Occidental Mindoro)
 2026-04-18T23:32:00.000Z,18 April 2026 - 11:32 PM,13.42,120.11,021,2.0,036km S 25° W of Looc (Occidental Mindoro),036,S 25° W,Looc (Occidental Mindoro)
