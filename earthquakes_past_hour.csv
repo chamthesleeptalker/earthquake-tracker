@@ -1,8 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-18T22:03:00.000Z,18 April 2026 - 10:03 PM,15.05,122.12,002,2.2,028km N 35° E of Burdeos (Quezon),028,N 35° E,Burdeos (Quezon)
-2026-04-18T21:50:00.000Z,18 April 2026 - 09:50 PM,15.06,122.01,002,2.5,025km N 10° E of Burdeos (Quezon),025,N 10° E,Burdeos (Quezon)
-2026-04-18T21:37:00.000Z,18 April 2026 - 09:37 PM,12.41,124.57,025,1.8,013km S 04° E of Bobon (Northern Samar),013,S 04° E,Bobon (Northern Samar)
-2026-04-18T21:32:00.000Z,18 April 2026 - 09:32 PM,14.98,122.05,023,1.7,018km N 30° E of Burdeos (Quezon),018,N 30° E,Burdeos (Quezon)
-2026-04-18T21:29:00.000Z,18 April 2026 - 09:29 PM,06.49,123.59,020,2.5,052km S 82° W of Kalamansig (Sultan Kudarat),052,S 82° W,Kalamansig (Sultan Kudarat)
-2026-04-18T21:14:00.000Z,18 April 2026 - 09:14 PM,15.03,122.06,002,2.5,023km N 24° E of Burdeos (Quezon),023,N 24° E,Burdeos (Quezon)
-2026-04-18T21:13:00.000Z,18 April 2026 - 09:13 PM,15.00,122.00,018,1.8,018km N 12° E of Burdeos (Quezon),018,N 12° E,Burdeos (Quezon)
+2026-04-18T23:43:00.000Z,18 April 2026 - 11:43 PM,13.58,120.14,039,1.5,019km S 40° W of Looc (Occidental Mindoro),019,S 40° W,Looc (Occidental Mindoro)
+2026-04-18T23:32:00.000Z,18 April 2026 - 11:32 PM,13.42,120.11,021,2.0,036km S 25° W of Looc (Occidental Mindoro),036,S 25° W,Looc (Occidental Mindoro)
+2026-04-18T23:30:00.000Z,18 April 2026 - 11:30 PM,09.79,126.33,007,2.2,020km N 88° E of General Luna (Surigao Del Norte),020,N 88° E,General Luna (Surigao Del Norte)
+2026-04-18T22:53:00.000Z,18 April 2026 - 10:53 PM,15.05,122.08,002,3.0,026km N 26° E of Burdeos (Quezon),026,N 26° E,Burdeos (Quezon)
