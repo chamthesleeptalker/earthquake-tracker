@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T12:20:00.000Z,18 April 2026 - 12:20 PM,09.39,121.69,002,2.3,058km S 69° E of Cagayancillo (Palawan),058,S 69° E,Cagayancillo (Palawan)
+2026-04-18T11:34:00.000Z,18 April 2026 - 11:34 AM,19.80,120.23,003,2.7,128km N 53° W of Dalupiri Island (Calayan) (Cagayan),128,N 53° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-18T08:33:00.000Z,18 April 2026 - 08:33 AM,10.04,125.56,028,1.7,003km N 32° W of San Jose (Dinagat Islands),003,N 32° W,San Jose (Dinagat Islands)
 2026-04-18T08:12:00.000Z,18 April 2026 - 08:12 AM,13.21,125.25,055,2.0,075km N 20° E of Laoang (Northern Samar),075,N 20° E,Laoang (Northern Samar)
 2026-04-18T06:13:00.000Z,18 April 2026 - 06:13 AM,17.22,122.36,043,1.8,014km S 29° E of Divilacan (Isabela),014,S 29° E,Divilacan (Isabela)
@@ -354,8 +356,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-11T13:27:00.000Z,11 April 2026 - 01:27 PM,18.43,120.71,029,2.0,011km S 37° E of Burgos (Ilocos Norte),011,S 37° E,Burgos (Ilocos Norte)
 2026-04-11T13:07:00.000Z,11 April 2026 - 01:07 PM,07.49,126.76,033,2.2,024km S 65° E of Baganga (Davao Oriental),024,S 65° E,Baganga (Davao Oriental)
 2026-04-11T12:31:00.000Z,11 April 2026 - 12:31 PM,13.74,123.71,027,1.6,005km N 54° W of Presentacion (Camarines Sur),005,N 54° W,Presentacion (Camarines Sur)
-2026-04-11T11:04:00.000Z,11 April 2026 - 11:04 AM,15.40,119.00,022,2.6,097km S 88° W of Palauig (Zambales),097,S 88° W,Palauig (Zambales)
-2026-04-11T10:43:00.000Z,11 April 2026 - 10:43 AM,08.02,126.20,001,2.4,015km S 84° E of Trento (Agusan Del Sur),015,S 84° E,Trento (Agusan Del Sur)
-2026-04-11T09:26:00.000Z,11 April 2026 - 09:26 AM,19.89,121.21,008,2.3,075km N 22° W of Calayan (Cagayan),075,N 22° W,Calayan (Cagayan)
-2026-04-11T09:25:00.000Z,11 April 2026 - 09:25 AM,05.61,126.21,014,2.4,071km S 61° E of Jose Abad Santos (Davao Occidental),071,S 61° E,Jose Abad Santos (Davao Occidental)
-2026-04-11T08:35:00.000Z,11 April 2026 - 08:35 AM,18.87,121.43,035,1.5,007km N 69° E of Fuga Island (Aparri) (Cagayan),007,N 69° E,Fuga Island (Aparri) (Cagayan)

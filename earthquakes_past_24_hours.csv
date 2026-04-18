@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-18T12:20:00.000Z,18 April 2026 - 12:20 PM,09.39,121.69,002,2.3,058km S 69° E of Cagayancillo (Palawan),058,S 69° E,Cagayancillo (Palawan)
+2026-04-18T11:34:00.000Z,18 April 2026 - 11:34 AM,19.80,120.23,003,2.7,128km N 53° W of Dalupiri Island (Calayan) (Cagayan),128,N 53° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-18T08:33:00.000Z,18 April 2026 - 08:33 AM,10.04,125.56,028,1.7,003km N 32° W of San Jose (Dinagat Islands),003,N 32° W,San Jose (Dinagat Islands)
 2026-04-18T08:12:00.000Z,18 April 2026 - 08:12 AM,13.21,125.25,055,2.0,075km N 20° E of Laoang (Northern Samar),075,N 20° E,Laoang (Northern Samar)
 2026-04-18T06:13:00.000Z,18 April 2026 - 06:13 AM,17.22,122.36,043,1.8,014km S 29° E of Divilacan (Isabela),014,S 29° E,Divilacan (Isabela)
@@ -37,10 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-17T13:41:00.000Z,17 April 2026 - 01:41 PM,12.45,120.79,024,1.5,019km S 87° W of Rizal (Occidental Mindoro),019,S 87° W,Rizal (Occidental Mindoro)
 2026-04-17T13:25:00.000Z,17 April 2026 - 01:25 PM,11.13,123.96,017,2.4,010km N 12° W of City Of Bogo (Cebu),010,N 12° W,City Of Bogo (Cebu)
 2026-04-17T12:32:00.000Z,17 April 2026 - 12:32 PM,15.52,119.83,033,1.5,013km N 42° W of Palauig (Zambales),013,N 42° W,Palauig (Zambales)
-2026-04-17T12:06:00.000Z,17 April 2026 - 12:06 PM,19.03,121.05,001,2.2,019km S 62° W of Dalupiri Island (Calayan) (Cagayan),019,S 62° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-17T11:32:00.000Z,17 April 2026 - 11:32 AM,05.60,125.68,149,2.2,027km N 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),027,N 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-17T11:00:00.000Z,17 April 2026 - 11:00 AM,10.74,122.46,004,1.8,004km S 12° W of San Miguel (Iloilo),004,S 12° W,San Miguel (Iloilo)
-2026-04-17T10:48:00.000Z,17 April 2026 - 10:48 AM,11.05,124.05,033,1.6,008km N 86° E of City Of Bogo (Cebu),008,N 86° E,City Of Bogo (Cebu)
-2026-04-17T09:04:00.000Z,17 April 2026 - 09:04 AM,15.41,121.92,002,2.2,054km S 45° E of Baler (Aurora),054,S 45° E,Baler (Aurora)
-2026-04-17T08:42:00.000Z,17 April 2026 - 08:42 AM,09.72,126.27,034,2.0,014km S 59° E of General Luna (Surigao Del Norte),014,S 59° E,General Luna (Surigao Del Norte)
-2026-04-17T08:40:00.000Z,17 April 2026 - 08:40 AM,10.59,122.69,014,3.0,000km S 76° E of San Lorenzo (Guimaras),000,S 76° E,San Lorenzo (Guimaras)
