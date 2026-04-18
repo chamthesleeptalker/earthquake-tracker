@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T05:05:00.000Z,19 April 2026 - 05:05 AM,13.21,122.48,008,2.4,016km S 15° W of San Francisco (Quezon),016,S 15° W,San Francisco (Quezon)
+2026-04-19T05:04:00.000Z,19 April 2026 - 05:04 AM,09.72,124.22,034,1.5,011km S 50° E of Batuan (Bohol),011,S 50° E,Batuan (Bohol)
+2026-04-19T04:55:00.000Z,19 April 2026 - 04:55 AM,19.18,121.78,005,2.3,032km N 17° W of Camiguin Island (Calayan) (Cagayan),032,N 17° W,Camiguin Island (Calayan) (Cagayan)
+2026-04-19T04:45:00.000Z,19 April 2026 - 04:45 AM,15.00,122.01,002,2.9,018km N 13° E of Burdeos (Quezon),018,N 13° E,Burdeos (Quezon)
 2026-04-19T04:27:00.000Z,19 April 2026 - 04:27 AM,15.04,122.07,011,2.6,024km N 26° E of Burdeos (Quezon),024,N 26° E,Burdeos (Quezon)
-2026-04-19T03:37:00.000Z,19 April 2026 - 03:37 AM,05.45,125.24,012,2.3,020km N 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,N 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
