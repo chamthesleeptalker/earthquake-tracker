@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T15:37:00.000Z,19 April 2026 - 03:37 PM,09.18,126.32,030,2.0,018km S 53° E of Cortes (Surigao Del Sur),018,S 53° E,Cortes (Surigao Del Sur)
+2026-04-19T15:00:00.000Z,19 April 2026 - 03:00 PM,15.14,119.60,033,1.8,045km S 63° W of Iba (Zambales),045,S 63° W,Iba (Zambales)
 2026-04-19T14:08:00.000Z,19 April 2026 - 02:08 PM,12.60,123.44,003,3.0,010km N 25° E of Aroroy (Masbate),010,N 25° E,Aroroy (Masbate)
 2026-04-19T14:07:00.000Z,19 April 2026 - 02:07 PM,13.59,120.02,031,1.7,029km S 61° W of Looc (Occidental Mindoro),029,S 61° W,Looc (Occidental Mindoro)
 2026-04-19T13:41:00.000Z,19 April 2026 - 01:41 PM,06.82,127.67,014,3.2,133km S 71° E of Manay (Davao Oriental),133,S 71° E,Manay (Davao Oriental)
@@ -352,5 +354,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-12T19:03:00.000Z,12 April 2026 - 07:03 PM,07.08,125.86,019,2.0,016km N 88° E of Island Garden City Of Samal (Davao Del Norte),016,N 88° E,Island Garden City Of Samal (Davao Del Norte)
 2026-04-12T18:50:00.000Z,12 April 2026 - 06:50 PM,06.99,125.84,029,3.4,017km S 55° E of Island Garden City Of Samal (Davao Del Norte),017,S 55° E,Island Garden City Of Samal (Davao Del Norte)
 2026-04-12T18:08:00.000Z,12 April 2026 - 06:08 PM,14.39,120.21,051,2.2,031km S 81° W of Mariveles (Bataan),031,S 81° W,Mariveles (Bataan)
-2026-04-12T15:33:00.000Z,12 April 2026 - 03:33 PM,18.55,120.93,044,1.8,007km S 81° W of Santa Praxedes (Cagayan),007,S 81° W,Santa Praxedes (Cagayan)
-2026-04-12T15:30:00.000Z,12 April 2026 - 03:30 PM,18.97,120.17,011,2.6,071km N 45° W of Burgos (Ilocos Norte),071,N 45° W,Burgos (Ilocos Norte)
