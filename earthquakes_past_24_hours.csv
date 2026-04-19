@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-20T04:41:00.000Z,20 April 2026 - 04:41 AM,05.35,125.29,016,3.2,017km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-20T04:17:00.000Z,20 April 2026 - 04:17 AM,09.80,126.27,009,1.8,013km N 80° E of General Luna (Surigao Del Norte),013,N 80° E,General Luna (Surigao Del Norte)
 2026-04-20T03:52:00.000Z,20 April 2026 - 03:52 AM,18.94,121.31,022,1.9,012km N 32° W of Fuga Island (Aparri) (Cagayan),012,N 32° W,Fuga Island (Aparri) (Cagayan)
 2026-04-20T03:30:00.000Z,20 April 2026 - 03:30 AM,06.82,124.06,030,2.0,010km S 71° W of South Upi (Maguindanao Del Sur),010,S 71° W,South Upi (Maguindanao Del Sur)
@@ -37,4 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-19T05:04:00.000Z,19 April 2026 - 05:04 AM,09.72,124.22,034,1.5,011km S 50° E of Batuan (Bohol),011,S 50° E,Batuan (Bohol)
 2026-04-19T04:55:00.000Z,19 April 2026 - 04:55 AM,19.18,121.78,005,2.3,032km N 17° W of Camiguin Island (Calayan) (Cagayan),032,N 17° W,Camiguin Island (Calayan) (Cagayan)
 2026-04-19T04:45:00.000Z,19 April 2026 - 04:45 AM,15.00,122.01,002,2.9,018km N 13° E of Burdeos (Quezon),018,N 13° E,Burdeos (Quezon)
-2026-04-19T04:27:00.000Z,19 April 2026 - 04:27 AM,15.04,122.07,011,2.6,024km N 26° E of Burdeos (Quezon),024,N 26° E,Burdeos (Quezon)
