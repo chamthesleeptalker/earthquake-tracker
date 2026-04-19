@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T18:31:00.000Z,19 April 2026 - 06:31 PM,09.95,121.28,031,1.4,042km N 12° E of Cagayancillo (Palawan),042,N 12° E,Cagayancillo (Palawan)
 2026-04-19T17:57:00.000Z,19 April 2026 - 05:57 PM,15.04,119.64,005,2.0,047km S 73° W of Cabangan (Zambales),047,S 73° W,Cabangan (Zambales)
 2026-04-19T17:45:00.000Z,19 April 2026 - 05:45 PM,15.00,122.03,021,1.9,019km N 20° E of Burdeos (Quezon),019,N 20° E,Burdeos (Quezon)
 2026-04-19T16:16:00.000Z,19 April 2026 - 04:16 PM,14.93,121.99,014,1.6,010km N 11° E of Burdeos (Quezon),010,N 11° E,Burdeos (Quezon)
@@ -356,4 +357,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-12T20:24:00.000Z,12 April 2026 - 08:24 PM,15.04,122.04,025,3.0,023km N 18° E of Burdeos (Quezon),023,N 18° E,Burdeos (Quezon)
 2026-04-12T19:03:00.000Z,12 April 2026 - 07:03 PM,07.08,125.86,019,2.0,016km N 88° E of Island Garden City Of Samal (Davao Del Norte),016,N 88° E,Island Garden City Of Samal (Davao Del Norte)
 2026-04-12T18:50:00.000Z,12 April 2026 - 06:50 PM,06.99,125.84,029,3.4,017km S 55° E of Island Garden City Of Samal (Davao Del Norte),017,S 55° E,Island Garden City Of Samal (Davao Del Norte)
-2026-04-12T18:08:00.000Z,12 April 2026 - 06:08 PM,14.39,120.21,051,2.2,031km S 81° W of Mariveles (Bataan),031,S 81° W,Mariveles (Bataan)

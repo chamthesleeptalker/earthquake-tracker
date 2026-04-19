@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T18:31:00.000Z,19 April 2026 - 06:31 PM,09.95,121.28,031,1.4,042km N 12° E of Cagayancillo (Palawan),042,N 12° E,Cagayancillo (Palawan)
 2026-04-19T17:57:00.000Z,19 April 2026 - 05:57 PM,15.04,119.64,005,2.0,047km S 73° W of Cabangan (Zambales),047,S 73° W,Cabangan (Zambales)
 2026-04-19T17:45:00.000Z,19 April 2026 - 05:45 PM,15.00,122.03,021,1.9,019km N 20° E of Burdeos (Quezon),019,N 20° E,Burdeos (Quezon)
 2026-04-19T16:16:00.000Z,19 April 2026 - 04:16 PM,14.93,121.99,014,1.6,010km N 11° E of Burdeos (Quezon),010,N 11° E,Burdeos (Quezon)
@@ -54,4 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T19:56:00.000Z,18 April 2026 - 07:56 PM,12.91,121.02,030,1.4,027km N 74° E of Sablayan (Occidental Mindoro),027,N 74° E,Sablayan (Occidental Mindoro)
 2026-04-18T19:50:00.000Z,18 April 2026 - 07:50 PM,15.00,122.03,010,2.1,019km N 19° E of Burdeos (Quezon),019,N 19° E,Burdeos (Quezon)
 2026-04-18T19:15:00.000Z,18 April 2026 - 07:15 PM,11.24,124.06,028,1.7,023km N 22° E of City Of Bogo (Cebu),023,N 22° E,City Of Bogo (Cebu)
-2026-04-18T17:58:00.000Z,18 April 2026 - 05:58 PM,15.05,122.00,002,2.7,023km N 08° E of Burdeos (Quezon),023,N 08° E,Burdeos (Quezon)
