@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T23:14:00.000Z,19 April 2026 - 11:14 PM,09.67,126.15,016,2.3,012km S 05° W of General Luna (Surigao Del Norte),012,S 05° W,General Luna (Surigao Del Norte)
 2026-04-19T22:01:00.000Z,19 April 2026 - 10:01 PM,12.02,125.42,012,2.9,016km N 54° W of Taft (Eastern Samar),016,N 54° W,Taft (Eastern Samar)
 2026-04-19T21:39:00.000Z,19 April 2026 - 09:39 PM,15.43,120.30,026,1.4,019km S 74° W of San Jose (Tarlac),019,S 74° W,San Jose (Tarlac)
 2026-04-19T21:09:00.000Z,19 April 2026 - 09:09 PM,06.42,123.73,003,2.3,039km S 67° W of Kalamansig (Sultan Kudarat),039,S 67° W,Kalamansig (Sultan Kudarat)
@@ -38,5 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T23:43:00.000Z,18 April 2026 - 11:43 PM,13.58,120.14,039,1.5,019km S 40° W of Looc (Occidental Mindoro),019,S 40° W,Looc (Occidental Mindoro)
 2026-04-18T23:32:00.000Z,18 April 2026 - 11:32 PM,13.42,120.11,021,2.0,036km S 25° W of Looc (Occidental Mindoro),036,S 25° W,Looc (Occidental Mindoro)
 2026-04-18T23:30:00.000Z,18 April 2026 - 11:30 PM,09.79,126.33,007,2.2,020km N 88° E of General Luna (Surigao Del Norte),020,N 88° E,General Luna (Surigao Del Norte)
-2026-04-18T22:53:00.000Z,18 April 2026 - 10:53 PM,15.05,122.08,002,3.0,026km N 26° E of Burdeos (Quezon),026,N 26° E,Burdeos (Quezon)
-2026-04-18T22:03:00.000Z,18 April 2026 - 10:03 PM,15.05,122.12,002,2.2,028km N 35° E of Burdeos (Quezon),028,N 35° E,Burdeos (Quezon)
