@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T08:53:00.000Z,19 April 2026 - 08:53 AM,15.27,119.88,012,2.4,012km S 62° W of Iba (Zambales),012,S 62° W,Iba (Zambales)
+2026-04-19T08:26:00.000Z,19 April 2026 - 08:26 AM,13.56,120.41,022,1.7,017km N 21° W of Paluan (Occidental Mindoro),017,N 21° W,Paluan (Occidental Mindoro)
 2026-04-19T07:21:00.000Z,19 April 2026 - 07:21 AM,16.14,121.82,021,2.3,015km N 88° W of Dinalungan (Aurora),015,N 88° W,Dinalungan (Aurora)
 2026-04-19T06:56:00.000Z,19 April 2026 - 06:56 AM,16.16,121.82,019,3.2,015km N 83° W of Dinalungan (Aurora),015,N 83° W,Dinalungan (Aurora)
 2026-04-19T06:52:00.000Z,19 April 2026 - 06:52 AM,14.73,121.91,022,1.4,014km S 25° W of Burdeos (Quezon),014,S 25° W,Burdeos (Quezon)
