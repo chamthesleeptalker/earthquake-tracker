@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-19T22:01:00.000Z,19 April 2026 - 10:01 PM,12.02,125.42,012,2.9,016km N 54° W of Taft (Eastern Samar),016,N 54° W,Taft (Eastern Samar)
 2026-04-19T21:39:00.000Z,19 April 2026 - 09:39 PM,15.43,120.30,026,1.4,019km S 74° W of San Jose (Tarlac),019,S 74° W,San Jose (Tarlac)
 2026-04-19T21:09:00.000Z,19 April 2026 - 09:09 PM,06.42,123.73,003,2.3,039km S 67° W of Kalamansig (Sultan Kudarat),039,S 67° W,Kalamansig (Sultan Kudarat)
 2026-04-19T19:58:00.000Z,19 April 2026 - 07:58 PM,13.62,120.55,087,2.2,024km N 23° E of Paluan (Occidental Mindoro),024,N 23° E,Paluan (Occidental Mindoro)
@@ -39,4 +40,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T23:30:00.000Z,18 April 2026 - 11:30 PM,09.79,126.33,007,2.2,020km N 88° E of General Luna (Surigao Del Norte),020,N 88° E,General Luna (Surigao Del Norte)
 2026-04-18T22:53:00.000Z,18 April 2026 - 10:53 PM,15.05,122.08,002,3.0,026km N 26° E of Burdeos (Quezon),026,N 26° E,Burdeos (Quezon)
 2026-04-18T22:03:00.000Z,18 April 2026 - 10:03 PM,15.05,122.12,002,2.2,028km N 35° E of Burdeos (Quezon),028,N 35° E,Burdeos (Quezon)
-2026-04-18T21:50:00.000Z,18 April 2026 - 09:50 PM,15.06,122.01,002,2.5,025km N 10° E of Burdeos (Quezon),025,N 10° E,Burdeos (Quezon)
