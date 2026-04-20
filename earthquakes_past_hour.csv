@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-20T21:00:00.000Z,20 April 2026 - 09:00 PM,12.42,125.42,011,2.7,014km N 74° E of Gamay (Northern Samar),014,N 74° E,Gamay (Northern Samar)
+2026-04-20T22:42:00.000Z,20 April 2026 - 10:42 PM,07.89,123.55,020,1.9,006km N 51° E of Labangan (Zamboanga Del Sur),006,N 51° E,Labangan (Zamboanga Del Sur)
+2026-04-20T22:21:00.000Z,20 April 2026 - 10:21 PM,14.86,119.88,035,1.5,025km S 68° W of San Antonio (Zambales),025,S 68° W,San Antonio (Zambales)
+2026-04-20T22:06:00.000Z,20 April 2026 - 10:06 PM,15.01,122.08,007,2.0,022km N 32° E of Burdeos (Quezon),022,N 32° E,Burdeos (Quezon)
+2026-04-20T21:57:00.000Z,20 April 2026 - 09:57 PM,15.47,121.25,030,2.0,009km N 78° W of Gabaldon (Nueva Ecija),009,N 78° W,Gabaldon (Nueva Ecija)
