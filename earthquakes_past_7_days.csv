@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-21T03:44:00.000Z,21 April 2026 - 03:44 AM,14.51,119.27,008,2.5,101km S 61° W of San Antonio (Zambales),101,S 61° W,San Antonio (Zambales)
+2026-04-21T03:38:00.000Z,21 April 2026 - 03:38 AM,05.80,126.30,099,2.2,074km S 80° E of Jose Abad Santos (Davao Occidental),074,S 80° E,Jose Abad Santos (Davao Occidental)
+2026-04-21T03:20:00.000Z,21 April 2026 - 03:20 AM,05.92,126.32,132,2.6,075km S 66° E of Don Marcelino (Davao Occidental),075,S 66° E,Don Marcelino (Davao Occidental)
 2026-04-21T02:14:00.000Z,21 April 2026 - 02:14 AM,10.84,126.35,007,2.8,070km N 82° E of Homonhon Island (Guiuan) (Eastern Samar),070,N 82° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-04-21T01:55:00.000Z,21 April 2026 - 01:55 AM,03.70,125.82,163,3.4,195km S 13° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),195,S 13° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-21T01:31:00.000Z,21 April 2026 - 01:31 AM,17.46,120.57,015,2.5,003km S 71° W of San Isidro (Abra),003,S 71° W,San Isidro (Abra)
@@ -332,6 +335,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-14T04:27:00.000Z,14 April 2026 - 04:27 AM,09.75,126.23,010,3.4,008km S 66° E of General Luna (Surigao Del Norte),008,S 66° E,General Luna (Surigao Del Norte)
 2026-04-14T04:26:00.000Z,14 April 2026 - 04:26 AM,10.11,122.07,033,1.9,039km S 25° E of Anini-y (Antique),039,S 25° E,Anini-y (Antique)
 2026-04-14T03:44:00.000Z,14 April 2026 - 03:44 AM,17.45,121.93,036,1.6,014km N 88° E of San Pablo (Isabela),014,N 88° E,San Pablo (Isabela)
-2026-04-14T03:22:00.000Z,14 April 2026 - 03:22 AM,09.64,126.15,035,2.0,016km S 01° W of General Luna (Surigao Del Norte),016,S 01° W,General Luna (Surigao Del Norte)
-2026-04-14T03:20:00.000Z,14 April 2026 - 03:20 AM,15.17,120.11,035,1.4,006km N 80° E of Cabangan (Zambales),006,N 80° E,Cabangan (Zambales)
-2026-04-14T02:45:00.000Z,14 April 2026 - 02:45 AM,14.91,119.96,034,1.5,015km S 73° W of San Antonio (Zambales),015,S 73° W,San Antonio (Zambales)

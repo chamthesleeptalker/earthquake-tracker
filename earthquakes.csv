@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-21T03:44:00.000Z,21 April 2026 - 03:44 AM,14.51,119.27,008,2.5,101km S 61° W of San Antonio (Zambales),101,S 61° W,San Antonio (Zambales)
+2026-04-21T03:38:00.000Z,21 April 2026 - 03:38 AM,05.80,126.30,099,2.2,074km S 80° E of Jose Abad Santos (Davao Occidental),074,S 80° E,Jose Abad Santos (Davao Occidental)
+2026-04-21T03:20:00.000Z,21 April 2026 - 03:20 AM,05.92,126.32,132,2.6,075km S 66° E of Don Marcelino (Davao Occidental),075,S 66° E,Don Marcelino (Davao Occidental)
 2026-04-21T02:14:00.000Z,21 April 2026 - 02:14 AM,10.84,126.35,007,2.8,070km N 82° E of Homonhon Island (Guiuan) (Eastern Samar),070,N 82° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-04-21T01:55:00.000Z,21 April 2026 - 01:55 AM,03.70,125.82,163,3.4,195km S 13° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),195,S 13° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-21T01:31:00.000Z,21 April 2026 - 01:31 AM,17.46,120.57,015,2.5,003km S 71° W of San Isidro (Abra),003,S 71° W,San Isidro (Abra)
