@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-20T17:22:00.000Z,20 April 2026 - 05:22 PM,13.58,120.88,012,1.7,009km S 02° E of Tingloy (Batangas),009,S 02° E,Tingloy (Batangas)
+2026-04-20T16:30:00.000Z,20 April 2026 - 04:30 PM,13.54,120.67,002,2.6,012km N 32° W of Abra De Ilog (Occidental Mindoro),012,N 32° W,Abra De Ilog (Occidental Mindoro)
 2026-04-20T15:23:00.000Z,20 April 2026 - 03:23 PM,07.97,126.62,009,2.1,024km S 72° E of Lingig (Surigao Del Sur),024,S 72° E,Lingig (Surigao Del Sur)
 2026-04-20T15:05:00.000Z,20 April 2026 - 03:05 PM,14.98,122.07,070,2.1,018km N 37° E of Burdeos (Quezon),018,N 37° E,Burdeos (Quezon)
 2026-04-20T14:42:00.000Z,20 April 2026 - 02:42 PM,05.48,126.62,062,2.5,118km S 66° E of Jose Abad Santos (Davao Occidental),118,S 66° E,Jose Abad Santos (Davao Occidental)
@@ -337,8 +339,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-13T18:30:00.000Z,13 April 2026 - 06:30 PM,07.82,126.49,033,1.6,005km N 51° E of Cateel (Davao Oriental),005,N 51° E,Cateel (Davao Oriental)
 2026-04-13T18:19:00.000Z,13 April 2026 - 06:19 PM,06.42,125.78,017,1.7,019km N 87° E of Malita (Davao Occidental),019,N 87° E,Malita (Davao Occidental)
 2026-04-13T17:40:00.000Z,13 April 2026 - 05:40 PM,08.58,127.17,015,2.6,094km N 76° E of Hinatuan (Surigao Del Sur),094,N 76° E,Hinatuan (Surigao Del Sur)
-2026-04-13T17:06:00.000Z,13 April 2026 - 05:06 PM,10.64,122.13,007,2.6,006km N 12° W of San Joaquin (Iloilo),006,N 12° W,San Joaquin (Iloilo)
-2026-04-13T16:56:00.000Z,13 April 2026 - 04:56 PM,10.66,122.27,002,3.9,004km N 63° E of Miagao (Iloilo),004,N 63° E,Miagao (Iloilo)
-2026-04-13T16:16:00.000Z,13 April 2026 - 04:16 PM,15.58,119.97,037,1.6,006km S 42° E of Candelaria (Zambales),006,S 42° E,Candelaria (Zambales)
-2026-04-13T16:15:00.000Z,13 April 2026 - 04:15 PM,04.76,125.15,007,2.4,078km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),078,S 23° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-13T15:44:00.000Z,13 April 2026 - 03:44 PM,13.08,125.65,039,2.9,079km N 33° E of Mapanas (Northern Samar),079,N 33° E,Mapanas (Northern Samar)
