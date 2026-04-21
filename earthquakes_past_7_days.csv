@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T05:08:00.000Z,22 April 2026 - 05:08 AM,10.09,121.82,034,1.8,040km S 17° W of Anini-y (Antique),040,S 17° W,Anini-y (Antique)
+2026-04-22T05:02:00.000Z,22 April 2026 - 05:02 AM,13.28,120.48,024,1.5,014km N 66° W of Mamburao (Occidental Mindoro),014,N 66° W,Mamburao (Occidental Mindoro)
 2026-04-22T04:29:00.000Z,22 April 2026 - 04:29 AM,13.74,120.73,106,2.0,015km S 45° E of Calatagan (Batangas),015,S 45° E,Calatagan (Batangas)
 2026-04-22T03:27:00.000Z,22 April 2026 - 03:27 AM,12.92,124.56,022,2.0,034km N 39° E of Biri (Northern Samar),034,N 39° E,Biri (Northern Samar)
 2026-04-22T03:08:00.000Z,22 April 2026 - 03:08 AM,05.94,125.36,020,1.8,009km S 65° E of Malapatan (Sarangani),009,S 65° E,Malapatan (Sarangani)
@@ -326,4 +328,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-15T07:13:00.000Z,15 April 2026 - 07:13 AM,05.66,126.91,157,3.0,143km S 79° E of Jose Abad Santos (Davao Occidental),143,S 79° E,Jose Abad Santos (Davao Occidental)
 2026-04-15T07:01:00.000Z,15 April 2026 - 07:01 AM,19.53,122.19,132,2.6,029km N 85° E of Babuyan Island (Calayan) (Cagayan),029,N 85° E,Babuyan Island (Calayan) (Cagayan)
 2026-04-15T05:43:00.000Z,15 April 2026 - 05:43 AM,13.25,125.37,016,3.1,083km N 20° E of Palapag (Northern Samar),083,N 20° E,Palapag (Northern Samar)
-2026-04-15T04:36:00.000Z,15 April 2026 - 04:36 AM,13.56,121.53,002,1.6,032km S 26° E of San Juan (Batangas),032,S 26° E,San Juan (Batangas)
