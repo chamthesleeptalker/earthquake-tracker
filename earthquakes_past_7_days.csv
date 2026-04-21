@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-21T07:20:00.000Z,21 April 2026 - 07:20 AM,05.57,126.49,060,2.5,101km S 68° E of Jose Abad Santos (Davao Occidental),101,S 68° E,Jose Abad Santos (Davao Occidental)
 2026-04-21T06:52:00.000Z,21 April 2026 - 06:52 AM,05.23,126.30,101,2.6,083km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),083,S 76° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-21T06:42:00.000Z,21 April 2026 - 06:42 AM,05.72,126.72,069,2.8,121km S 80° E of Jose Abad Santos (Davao Occidental),121,S 80° E,Jose Abad Santos (Davao Occidental)
 2026-04-21T06:17:00.000Z,21 April 2026 - 06:17 AM,12.33,125.36,031,2.3,006km N 80° E of Lapinig (Northern Samar),006,N 80° E,Lapinig (Northern Samar)
@@ -337,4 +338,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-14T08:05:00.000Z,14 April 2026 - 08:05 AM,05.33,125.54,195,2.8,016km S 57° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 57° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-14T07:55:00.000Z,14 April 2026 - 07:55 AM,09.69,126.11,029,1.9,009km S 42° E of Dapa (Surigao Del Norte),009,S 42° E,Dapa (Surigao Del Norte)
 2026-04-14T07:48:00.000Z,14 April 2026 - 07:48 AM,09.29,126.73,012,2.7,059km N 88° E of Cortes (Surigao Del Sur),059,N 88° E,Cortes (Surigao Del Sur)
-2026-04-14T06:52:00.000Z,14 April 2026 - 06:52 AM,19.90,120.24,012,3.0,134km N 49° W of Dalupiri Island (Calayan) (Cagayan),134,N 49° W,Dalupiri Island (Calayan) (Cagayan)
