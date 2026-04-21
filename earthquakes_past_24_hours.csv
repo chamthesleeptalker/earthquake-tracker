@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-21T18:07:00.000Z,21 April 2026 - 06:07 PM,07.63,125.60,027,2.2,003km N 86° E of Talaingod (Davao Del Norte),003,N 86° E,Talaingod (Davao Del Norte)
+2026-04-20T21:42:00.000Z,20 April 2026 - 09:42 PM,19.24,121.35,009,2.2,013km S 80° W of Calayan (Cagayan),013,S 80° W,Calayan (Cagayan)
 2026-04-21T17:58:00.000Z,21 April 2026 - 05:58 PM,17.85,120.70,007,2.3,008km S 29° E of Nueva Era (Ilocos Norte),008,S 29° E,Nueva Era (Ilocos Norte)
 2026-04-21T17:37:00.000Z,21 April 2026 - 05:37 PM,16.78,122.46,009,2.8,032km S 07° E of Palanan (Isabela),032,S 07° E,Palanan (Isabela)
 2026-04-21T14:45:00.000Z,21 April 2026 - 02:45 PM,19.91,121.28,012,2.8,074km N 16° W of Calayan (Cagayan),074,N 16° W,Calayan (Cagayan)
