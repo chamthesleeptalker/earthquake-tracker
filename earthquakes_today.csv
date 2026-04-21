@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-21T10:46:00.000Z,21 April 2026 - 10:46 AM,20.06,121.43,024,2.4,055km S 57° W of Sabtang (Batanes),055,S 57° W,Sabtang (Batanes)
+2026-04-21T10:24:00.000Z,21 April 2026 - 10:24 AM,06.90,126.19,012,2.6,006km S 27° W of City Of Mati (Davao Oriental),006,S 27° W,City Of Mati (Davao Oriental)
+2026-04-21T10:19:00.000Z,21 April 2026 - 10:19 AM,05.15,127.13,018,3.5,185km S 63° E of Jose Abad Santos (Davao Occidental),185,S 63° E,Jose Abad Santos (Davao Occidental)
+2026-04-21T10:09:00.000Z,21 April 2026 - 10:09 AM,17.68,119.55,016,4.0,087km N 83° W of Santa Catalina (Ilocos Sur),087,N 83° W,Santa Catalina (Ilocos Sur)
+2026-04-21T09:58:00.000Z,21 April 2026 - 09:58 AM,17.28,122.51,018,1.4,023km S 76° E of Divilacan (Isabela),023,S 76° E,Divilacan (Isabela)
 2026-04-21T07:20:00.000Z,21 April 2026 - 07:20 AM,05.57,126.49,060,2.5,101km S 68° E of Jose Abad Santos (Davao Occidental),101,S 68° E,Jose Abad Santos (Davao Occidental)
 2026-04-21T06:52:00.000Z,21 April 2026 - 06:52 AM,05.23,126.30,101,2.6,083km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),083,S 76° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-21T06:42:00.000Z,21 April 2026 - 06:42 AM,05.72,126.72,069,2.8,121km S 80° E of Jose Abad Santos (Davao Occidental),121,S 80° E,Jose Abad Santos (Davao Occidental)
