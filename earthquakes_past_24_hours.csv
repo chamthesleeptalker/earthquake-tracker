@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-21T17:37:00.000Z,21 April 2026 - 05:37 PM,16.78,122.46,009,2.8,032km S 07° E of Palanan (Isabela),032,S 07° E,Palanan (Isabela)
 2026-04-21T14:45:00.000Z,21 April 2026 - 02:45 PM,19.91,121.28,012,2.8,074km N 16° W of Calayan (Cagayan),074,N 16° W,Calayan (Cagayan)
 2026-04-21T14:44:00.000Z,21 April 2026 - 02:44 PM,16.54,122.35,033,2.2,009km N 81° E of Dinapigue (Isabela),009,N 81° E,Dinapigue (Isabela)
 2026-04-21T14:36:00.000Z,21 April 2026 - 02:36 PM,06.61,125.21,008,2.3,005km S 69° W of Kiblawan (Davao Del Sur),005,S 69° W,Kiblawan (Davao Del Sur)
@@ -11,8 +12,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-21T10:19:00.000Z,21 April 2026 - 10:19 AM,05.15,127.13,018,3.5,185km S 63° E of Jose Abad Santos (Davao Occidental),185,S 63° E,Jose Abad Santos (Davao Occidental)
 2026-04-21T10:09:00.000Z,21 April 2026 - 10:09 AM,17.68,119.55,016,4.0,087km N 83° W of Santa Catalina (Ilocos Sur),087,N 83° W,Santa Catalina (Ilocos Sur)
 2026-04-21T09:58:00.000Z,21 April 2026 - 09:58 AM,17.28,122.51,018,1.4,023km S 76° E of Divilacan (Isabela),023,S 76° E,Divilacan (Isabela)
-2026-04-20T17:06:00.000Z,20 April 2026 - 05:06 PM,16.25,121.88,038,1.8,015km N 34° W of Dinalungan (Aurora),015,N 34° W,Dinalungan (Aurora)
-2026-04-20T15:22:00.000Z,20 April 2026 - 03:22 PM,07.74,127.18,025,2.4,070km N 75° E of Baganga (Davao Oriental),070,N 75° E,Baganga (Davao Oriental)
 2026-04-21T07:20:00.000Z,21 April 2026 - 07:20 AM,05.57,126.49,060,2.5,101km S 68° E of Jose Abad Santos (Davao Occidental),101,S 68° E,Jose Abad Santos (Davao Occidental)
 2026-04-21T06:52:00.000Z,21 April 2026 - 06:52 AM,05.23,126.30,101,2.6,083km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),083,S 76° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-21T06:42:00.000Z,21 April 2026 - 06:42 AM,05.72,126.72,069,2.8,121km S 80° E of Jose Abad Santos (Davao Occidental),121,S 80° E,Jose Abad Santos (Davao Occidental)
@@ -42,7 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-20T21:41:00.000Z,20 April 2026 - 09:41 PM,19.54,121.33,015,2.1,034km N 26° W of Calayan (Cagayan),034,N 26° W,Calayan (Cagayan)
 2026-04-20T21:00:00.000Z,20 April 2026 - 09:00 PM,12.42,125.42,011,2.7,014km N 74° E of Gamay (Northern Samar),014,N 74° E,Gamay (Northern Samar)
 2026-04-20T19:44:00.000Z,20 April 2026 - 07:44 PM,10.96,126.16,012,4.4,048km S 80° E of Guiuan (Eastern Samar),048,S 80° E,Guiuan (Eastern Samar)
-2026-04-20T17:22:00.000Z,20 April 2026 - 05:22 PM,13.58,120.88,012,1.7,009km S 02° E of Tingloy (Batangas),009,S 02° E,Tingloy (Batangas)
-2026-04-20T16:30:00.000Z,20 April 2026 - 04:30 PM,13.54,120.67,002,2.6,012km N 32° W of Abra De Ilog (Occidental Mindoro),012,N 32° W,Abra De Ilog (Occidental Mindoro)
-2026-04-20T15:23:00.000Z,20 April 2026 - 03:23 PM,07.97,126.62,009,2.1,024km S 72° E of Lingig (Surigao Del Sur),024,S 72° E,Lingig (Surigao Del Sur)
-2026-04-20T15:05:00.000Z,20 April 2026 - 03:05 PM,14.98,122.07,070,2.1,018km N 37° E of Burdeos (Quezon),018,N 37° E,Burdeos (Quezon)
