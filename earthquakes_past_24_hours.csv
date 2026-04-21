@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T04:29:00.000Z,22 April 2026 - 04:29 AM,13.74,120.73,106,2.0,015km S 45° E of Calatagan (Batangas),015,S 45° E,Calatagan (Batangas)
 2026-04-22T03:27:00.000Z,22 April 2026 - 03:27 AM,12.92,124.56,022,2.0,034km N 39° E of Biri (Northern Samar),034,N 39° E,Biri (Northern Samar)
 2026-04-22T03:08:00.000Z,22 April 2026 - 03:08 AM,05.94,125.36,020,1.8,009km S 65° E of Malapatan (Sarangani),009,S 65° E,Malapatan (Sarangani)
 2026-04-22T02:58:00.000Z,22 April 2026 - 02:58 AM,06.46,126.61,047,2.8,063km S 70° E of Governor Generoso (Davao Oriental),063,S 70° E,Governor Generoso (Davao Oriental)
@@ -19,7 +20,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-21T23:28:00.000Z,21 April 2026 - 11:28 PM,09.01,126.28,044,3.4,004km North of Bayabas (Surigao Del Sur),004,North of Bayabas,Del Sur)
 2026-04-21T23:17:00.000Z,21 April 2026 - 11:17 PM,13.75,120.32,029,1.8,009km N 65° E of Looc (Occidental Mindoro),009,N 65° E,Looc (Occidental Mindoro)
 2026-04-21T23:08:00.000Z,21 April 2026 - 11:08 PM,09.57,126.65,073,2.0,059km S 67° E of General Luna (Surigao Del Norte),059,S 67° E,General Luna (Surigao Del Norte)
-2026-04-21T03:39:00.000Z,21 April 2026 - 03:39 AM,06.07,126.33,035,2.4,071km S 24° E of Governor Generoso (Davao Oriental),071,S 24° E,Governor Generoso (Davao Oriental)
 2026-04-21T21:50:00.000Z,21 April 2026 - 09:50 PM,17.80,122.25,032,1.4,041km S 77° E of Baggao (Cagayan),041,S 77° E,Baggao (Cagayan)
 2026-04-21T21:41:00.000Z,21 April 2026 - 09:41 PM,13.44,120.58,018,1.9,013km N 77° E of Paluan (Occidental Mindoro),013,N 77° E,Paluan (Occidental Mindoro)
 2026-04-21T20:35:00.000Z,21 April 2026 - 08:35 PM,11.10,124.07,033,1.7,012km N 62° E of City Of Bogo (Cebu),012,N 62° E,City Of Bogo (Cebu)
@@ -46,7 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-21T05:16:00.000Z,21 April 2026 - 05:16 AM,02.33,122.99,479,4.3,421km S 41° E of South Ubian (Tawi-tawi),421,S 41° E,South Ubian (Tawi-tawi)
 2026-04-21T05:07:00.000Z,21 April 2026 - 05:07 AM,16.11,121.82,010,4.4,015km S 77° W of Dinalungan (Aurora),015,S 77° W,Dinalungan (Aurora)
 2026-04-21T04:44:00.000Z,21 April 2026 - 04:44 AM,09.39,126.10,018,3.0,015km N 69° E of Cantilan (Surigao Del Sur),015,N 69° E,Cantilan (Surigao Del Sur)
-2026-04-21T04:08:00.000Z,21 April 2026 - 04:08 AM,08.20,124.60,035,1.6,004km South of Talakag (Bukidnon),004,South of Talakag,
-2026-04-21T03:58:00.000Z,21 April 2026 - 03:58 AM,11.32,124.52,005,2.4,006km S 33° E of Leyte (Leyte),006,S 33° E,Leyte (Leyte)
-2026-04-21T03:44:00.000Z,21 April 2026 - 03:44 AM,14.51,119.27,008,2.5,101km S 61° W of San Antonio (Zambales),101,S 61° W,San Antonio (Zambales)
-2026-04-21T03:38:00.000Z,21 April 2026 - 03:38 AM,05.80,126.30,099,2.2,074km S 80° E of Jose Abad Santos (Davao Occidental),074,S 80° E,Jose Abad Santos (Davao Occidental)

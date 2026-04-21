@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T04:29:00.000Z,22 April 2026 - 04:29 AM,13.74,120.73,106,2.0,015km S 45° E of Calatagan (Batangas),015,S 45° E,Calatagan (Batangas)
 2026-04-22T03:27:00.000Z,22 April 2026 - 03:27 AM,12.92,124.56,022,2.0,034km N 39° E of Biri (Northern Samar),034,N 39° E,Biri (Northern Samar)
 2026-04-22T03:08:00.000Z,22 April 2026 - 03:08 AM,05.94,125.36,020,1.8,009km S 65° E of Malapatan (Sarangani),009,S 65° E,Malapatan (Sarangani)
 2026-04-22T02:58:00.000Z,22 April 2026 - 02:58 AM,06.46,126.61,047,2.8,063km S 70° E of Governor Generoso (Davao Oriental),063,S 70° E,Governor Generoso (Davao Oriental)

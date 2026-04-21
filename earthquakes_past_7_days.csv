@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T04:29:00.000Z,22 April 2026 - 04:29 AM,13.74,120.73,106,2.0,015km S 45° E of Calatagan (Batangas),015,S 45° E,Calatagan (Batangas)
 2026-04-22T03:27:00.000Z,22 April 2026 - 03:27 AM,12.92,124.56,022,2.0,034km N 39° E of Biri (Northern Samar),034,N 39° E,Biri (Northern Samar)
 2026-04-22T03:08:00.000Z,22 April 2026 - 03:08 AM,05.94,125.36,020,1.8,009km S 65° E of Malapatan (Sarangani),009,S 65° E,Malapatan (Sarangani)
 2026-04-22T02:58:00.000Z,22 April 2026 - 02:58 AM,06.46,126.61,047,2.8,063km S 70° E of Governor Generoso (Davao Oriental),063,S 70° E,Governor Generoso (Davao Oriental)
@@ -326,10 +327,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-15T07:01:00.000Z,15 April 2026 - 07:01 AM,19.53,122.19,132,2.6,029km N 85° E of Babuyan Island (Calayan) (Cagayan),029,N 85° E,Babuyan Island (Calayan) (Cagayan)
 2026-04-15T05:43:00.000Z,15 April 2026 - 05:43 AM,13.25,125.37,016,3.1,083km N 20° E of Palapag (Northern Samar),083,N 20° E,Palapag (Northern Samar)
 2026-04-15T04:36:00.000Z,15 April 2026 - 04:36 AM,13.56,121.53,002,1.6,032km S 26° E of San Juan (Batangas),032,S 26° E,San Juan (Batangas)
-2026-04-15T04:18:00.000Z,15 April 2026 - 04:18 AM,06.55,123.58,002,2.6,052km S 90° W of Kalamansig (Sultan Kudarat),052,S 90° W,Kalamansig (Sultan Kudarat)
-2026-04-15T04:17:00.000Z,15 April 2026 - 04:17 AM,12.79,125.10,009,2.9,026km N 22° E of Laoang (Northern Samar),026,N 22° E,Laoang (Northern Samar)
-2026-04-15T04:11:00.000Z,15 April 2026 - 04:11 AM,13.32,125.37,025,2.9,090km N 18° E of Palapag (Northern Samar),090,N 18° E,Palapag (Northern Samar)
-2026-04-15T04:10:00.000Z,15 April 2026 - 04:10 AM,07.74,126.88,007,2.5,040km N 63° E of Baganga (Davao Oriental),040,N 63° E,Baganga (Davao Oriental)
-2026-04-15T04:05:00.000Z,15 April 2026 - 04:05 AM,04.31,126.95,025,3.8,209km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),209,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-15T03:35:00.000Z,15 April 2026 - 03:35 AM,13.45,120.78,029,1.7,006km N 81° E of Abra De Ilog (Occidental Mindoro),006,N 81° E,Abra De Ilog (Occidental Mindoro)
-2026-04-15T03:35:00.000Z,15 April 2026 - 03:35 AM,04.89,126.11,027,2.9,096km S 53° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),096,S 53° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
