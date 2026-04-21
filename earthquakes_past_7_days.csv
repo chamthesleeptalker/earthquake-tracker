@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T05:57:00.000Z,22 April 2026 - 05:57 AM,11.17,124.05,032,1.8,015km N 30° E of City Of Bogo (Cebu),015,N 30° E,City Of Bogo (Cebu)
 2026-04-22T05:08:00.000Z,22 April 2026 - 05:08 AM,10.09,121.82,034,1.8,040km S 17° W of Anini-y (Antique),040,S 17° W,Anini-y (Antique)
 2026-04-22T05:02:00.000Z,22 April 2026 - 05:02 AM,13.28,120.48,024,1.5,014km N 66° W of Mamburao (Occidental Mindoro),014,N 66° W,Mamburao (Occidental Mindoro)
 2026-04-22T04:29:00.000Z,22 April 2026 - 04:29 AM,13.74,120.73,106,2.0,015km S 45° E of Calatagan (Batangas),015,S 45° E,Calatagan (Batangas)
@@ -324,7 +325,5 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-15T08:30:00.000Z,15 April 2026 - 08:30 AM,06.11,123.49,033,2.1,078km S 82° W of Palimbang (Sultan Kudarat),078,S 82° W,Palimbang (Sultan Kudarat)
 2026-04-15T08:14:00.000Z,15 April 2026 - 08:14 AM,17.68,122.59,031,2.6,050km N 49° E of Maconacon (Isabela),050,N 49° E,Maconacon (Isabela)
 2026-04-15T07:57:00.000Z,15 April 2026 - 07:57 AM,15.04,122.05,002,3.1,023km N 22° E of Burdeos (Quezon),023,N 22° E,Burdeos (Quezon)
-2026-04-15T05:42:00.000Z,15 April 2026 - 05:42 AM,13.37,125.42,026,3.1,097km N 20° E of Palapag (Northern Samar),097,N 20° E,Palapag (Northern Samar)
 2026-04-15T07:13:00.000Z,15 April 2026 - 07:13 AM,05.66,126.91,157,3.0,143km S 79° E of Jose Abad Santos (Davao Occidental),143,S 79° E,Jose Abad Santos (Davao Occidental)
 2026-04-15T07:01:00.000Z,15 April 2026 - 07:01 AM,19.53,122.19,132,2.6,029km N 85° E of Babuyan Island (Calayan) (Cagayan),029,N 85° E,Babuyan Island (Calayan) (Cagayan)
-2026-04-15T05:43:00.000Z,15 April 2026 - 05:43 AM,13.25,125.37,016,3.1,083km N 20° E of Palapag (Northern Samar),083,N 20° E,Palapag (Northern Samar)
