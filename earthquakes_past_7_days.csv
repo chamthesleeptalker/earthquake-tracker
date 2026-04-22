@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T11:17:00.000Z,22 April 2026 - 11:17 AM,14.75,120.00,025,1.4,024km S 24° W of San Antonio (Zambales),024,S 24° W,San Antonio (Zambales)
 2026-04-22T09:50:00.000Z,22 April 2026 - 09:50 AM,11.19,124.00,025,2.2,016km N 09° E of City Of Bogo (Cebu),016,N 09° E,City Of Bogo (Cebu)
 2026-04-22T09:48:00.000Z,22 April 2026 - 09:48 AM,17.41,120.31,050,1.9,016km S 57° W of Santa (Ilocos Sur),016,S 57° W,Santa (Ilocos Sur)
 2026-04-22T09:42:00.000Z,22 April 2026 - 09:42 AM,06.47,123.77,026,2.5,032km S 73° W of Kalamansig (Sultan Kudarat),032,S 73° W,Kalamansig (Sultan Kudarat)
@@ -334,4 +335,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-15T13:00:00.000Z,15 April 2026 - 01:00 PM,15.00,121.96,010,3.8,017km N 3° W of Burdeos (Quezon),017,N 3° W,Burdeos (Quezon)
 2026-04-15T11:57:00.000Z,15 April 2026 - 11:57 AM,10.38,123.33,014,2.0,005km N 06° E of Vallehermoso (Negros Oriental),005,N 06° E,Vallehermoso (Negros Oriental)
 2026-04-15T11:45:00.000Z,15 April 2026 - 11:45 AM,05.27,125.97,028,2.6,060km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),060,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-15T10:15:00.000Z,15 April 2026 - 10:15 AM,15.00,122.07,010,3.2,020km N 32° E of Burdeos (Quezon),020,N 32° E,Burdeos (Quezon)
