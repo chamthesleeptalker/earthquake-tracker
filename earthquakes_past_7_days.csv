@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-23T03:59:00.000Z,23 April 2026 - 03:59 AM,17.80,120.56,029,1.9,011km N 88° E of Cabugao (Ilocos Sur),011,N 88° E,Cabugao (Ilocos Sur)
+2026-04-23T03:57:00.000Z,23 April 2026 - 03:57 AM,17.71,120.46,033,1.7,004km N 53° E of Magsingal (Ilocos Sur),004,N 53° E,Magsingal (Ilocos Sur)
 2026-04-23T02:00:00.000Z,23 April 2026 - 02:00 AM,06.38,125.49,006,1.9,014km S 73° W of Malita (Davao Occidental),014,S 73° W,Malita (Davao Occidental)
 2026-04-23T01:48:00.000Z,23 April 2026 - 01:48 AM,05.36,127.09,045,3.6,171km S 69° E of Jose Abad Santos (Davao Occidental),171,S 69° E,Jose Abad Santos (Davao Occidental)
 2026-04-23T00:46:00.000Z,23 April 2026 - 12:46 AM,11.07,123.08,033,1.8,013km N 23° W of Manapla (Negros Occidental),013,N 23° W,Manapla (Negros Occidental)
@@ -313,9 +315,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-16T04:29:00.000Z,16 April 2026 - 04:29 AM,13.39,120.57,020,1.4,012km S 74° E of Paluan (Occidental Mindoro),012,S 74° E,Paluan (Occidental Mindoro)
 2026-04-16T04:14:00.000Z,16 April 2026 - 04:14 AM,14.98,122.06,004,2.8,018km N 32° E of Burdeos (Quezon),018,N 32° E,Burdeos (Quezon)
 2026-04-16T04:04:00.000Z,16 April 2026 - 04:04 AM,13.43,120.58,022,1.6,012km N 84° E of Paluan (Occidental Mindoro),012,N 84° E,Paluan (Occidental Mindoro)
-2026-04-16T03:57:00.000Z,16 April 2026 - 03:57 AM,17.75,120.71,032,1.5,003km N 13° E of Lagayan (Abra),003,N 13° E,Lagayan (Abra)
-2026-04-16T03:51:00.000Z,16 April 2026 - 03:51 AM,13.14,120.35,002,2.4,028km S 71° W of Mamburao (Occidental Mindoro),028,S 71° W,Mamburao (Occidental Mindoro)
-2026-04-16T02:55:00.000Z,16 April 2026 - 02:55 AM,15.21,120.11,031,1.7,008km N 46° E of Cabangan (Zambales),008,N 46° E,Cabangan (Zambales)
-2026-04-16T02:33:00.000Z,16 April 2026 - 02:33 AM,16.13,120.40,112,2.5,001km N 52° W of San Fabian (Pangasinan),001,N 52° W,San Fabian (Pangasinan)
-2026-04-16T02:23:00.000Z,16 April 2026 - 02:23 AM,14.99,122.01,017,2.2,017km N 15° E of Burdeos (Quezon),017,N 15° E,Burdeos (Quezon)
-2026-04-16T02:07:00.000Z,16 April 2026 - 02:07 AM,05.95,124.49,028,2.0,012km S 04° W of Maitum (Sarangani),012,S 04° W,Maitum (Sarangani)
