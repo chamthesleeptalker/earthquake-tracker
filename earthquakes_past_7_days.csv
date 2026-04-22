@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-23T00:46:00.000Z,23 April 2026 - 12:46 AM,11.07,123.08,033,1.8,013km N 23° W of Manapla (Negros Occidental),013,N 23° W,Manapla (Negros Occidental)
 2026-04-22T23:37:00.000Z,22 April 2026 - 11:37 PM,07.43,124.42,020,2.3,008km S 62° E of Barira (Maguindanao Del Norte),008,S 62° E,Barira (Maguindanao Del Norte)
 2026-04-22T23:13:00.000Z,22 April 2026 - 11:13 PM,09.74,126.39,004,2.5,026km S 79° E of General Luna (Surigao Del Norte),026,S 79° E,General Luna (Surigao Del Norte)
 2026-04-22T23:12:00.000Z,22 April 2026 - 11:12 PM,14.98,120.12,035,2.0,004km N 74° W of San Marcelino (Zambales),004,N 74° W,San Marcelino (Zambales)
@@ -321,6 +322,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-16T01:15:00.000Z,16 April 2026 - 01:15 AM,15.06,122.10,001,3.5,028km N 31° E of Burdeos (Quezon),028,N 31° E,Burdeos (Quezon)
 2026-04-16T01:12:00.000Z,16 April 2026 - 01:12 AM,10.75,126.86,010,2.5,115km N 46° E of Burgos (Surigao Del Norte),115,N 46° E,Burgos (Surigao Del Norte)
 2026-04-16T01:06:00.000Z,16 April 2026 - 01:06 AM,07.49,126.67,029,3.1,015km S 51° E of Baganga (Davao Oriental),015,S 51° E,Baganga (Davao Oriental)
-2026-04-16T00:36:00.000Z,16 April 2026 - 12:36 AM,20.32,121.81,113,2.3,007km S 74° W of Sabtang (Batanes),007,S 74° W,Sabtang (Batanes)
-2026-04-16T00:26:00.000Z,16 April 2026 - 12:26 AM,09.51,123.97,010,2.8,011km S 07° E of Alburquerque (Bohol),011,S 07° E,Alburquerque (Bohol)
-2026-04-16T00:19:00.000Z,16 April 2026 - 12:19 AM,06.42,123.59,013,2.3,053km S 77° W of Kalamansig (Sultan Kudarat),053,S 77° W,Kalamansig (Sultan Kudarat)
