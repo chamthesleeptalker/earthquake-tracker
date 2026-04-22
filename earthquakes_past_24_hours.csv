@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T14:07:00.000Z,22 April 2026 - 02:07 PM,07.54,122.10,009,1.7,007km S 46° W of Sirawai (Zamboanga Del Norte),007,S 46° W,Sirawai (Zamboanga Del Norte)
 2026-04-22T11:17:00.000Z,22 April 2026 - 11:17 AM,14.75,120.00,025,1.4,024km S 24° W of San Antonio (Zambales),024,S 24° W,San Antonio (Zambales)
 2026-04-22T09:50:00.000Z,22 April 2026 - 09:50 AM,11.19,124.00,025,2.2,016km N 09° E of City Of Bogo (Cebu),016,N 09° E,City Of Bogo (Cebu)
 2026-04-22T09:48:00.000Z,22 April 2026 - 09:48 AM,17.41,120.31,050,1.9,016km S 57° W of Santa (Ilocos Sur),016,S 57° W,Santa (Ilocos Sur)
@@ -49,7 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-21T14:45:00.000Z,21 April 2026 - 02:45 PM,19.91,121.28,012,2.8,074km N 16° W of Calayan (Cagayan),074,N 16° W,Calayan (Cagayan)
 2026-04-21T14:44:00.000Z,21 April 2026 - 02:44 PM,16.54,122.35,033,2.2,009km N 81° E of Dinapigue (Isabela),009,N 81° E,Dinapigue (Isabela)
 2026-04-21T14:36:00.000Z,21 April 2026 - 02:36 PM,06.61,125.21,008,2.3,005km S 69° W of Kiblawan (Davao Del Sur),005,S 69° W,Kiblawan (Davao Del Sur)
-2026-04-21T13:53:00.000Z,21 April 2026 - 01:53 PM,16.62,122.41,007,2.9,019km N 57° E of Dinapigue (Isabela),019,N 57° E,Dinapigue (Isabela)
-2026-04-21T13:06:00.000Z,21 April 2026 - 01:06 PM,15.05,119.94,032,1.6,015km S 84° W of San Felipe (Zambales),015,S 84° W,San Felipe (Zambales)
-2026-04-21T12:56:00.000Z,21 April 2026 - 12:56 PM,04.85,124.47,036,2.5,122km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),122,S 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-21T12:45:00.000Z,21 April 2026 - 12:45 PM,08.23,123.19,010,1.8,008km S 72° E of Siayan (Zamboanga Del Norte),008,S 72° E,Siayan (Zamboanga Del Norte)

@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-22T14:07:00.000Z,22 April 2026 - 02:07 PM,07.54,122.10,009,1.7,007km S 46° W of Sirawai (Zamboanga Del Norte),007,S 46° W,Sirawai (Zamboanga Del Norte)
 2026-04-22T11:17:00.000Z,22 April 2026 - 11:17 AM,14.75,120.00,025,1.4,024km S 24° W of San Antonio (Zambales),024,S 24° W,San Antonio (Zambales)
 2026-04-22T09:50:00.000Z,22 April 2026 - 09:50 AM,11.19,124.00,025,2.2,016km N 09° E of City Of Bogo (Cebu),016,N 09° E,City Of Bogo (Cebu)
 2026-04-22T09:48:00.000Z,22 April 2026 - 09:48 AM,17.41,120.31,050,1.9,016km S 57° W of Santa (Ilocos Sur),016,S 57° W,Santa (Ilocos Sur)
@@ -330,8 +331,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-15T15:32:00.000Z,15 April 2026 - 03:32 PM,13.19,124.49,055,2.4,036km N 63° E of Prieto Diaz (Sorsogon),036,N 63° E,Prieto Diaz (Sorsogon)
 2026-04-15T15:29:00.000Z,15 April 2026 - 03:29 PM,14.15,120.42,083,2.1,025km N 70° W of Nasugbu (Batangas),025,N 70° W,Nasugbu (Batangas)
 2026-04-15T14:25:00.000Z,15 April 2026 - 02:25 PM,16.25,119.50,031,1.8,035km N 66° W of Agno (Pangasinan),035,N 66° W,Agno (Pangasinan)
-2026-04-15T13:56:00.000Z,15 April 2026 - 01:56 PM,14.78,121.84,031,1.5,013km N 53° W of Polillo (Quezon),013,N 53° W,Polillo (Quezon)
-2026-04-15T13:31:00.000Z,15 April 2026 - 01:31 PM,09.07,126.37,031,2.3,019km N 24° E of Cagwait (Surigao Del Sur),019,N 24° E,Cagwait (Surigao Del Sur)
-2026-04-15T13:00:00.000Z,15 April 2026 - 01:00 PM,15.00,121.96,010,3.8,017km N 3° W of Burdeos (Quezon),017,N 3° W,Burdeos (Quezon)
-2026-04-15T11:57:00.000Z,15 April 2026 - 11:57 AM,10.38,123.33,014,2.0,005km N 06° E of Vallehermoso (Negros Oriental),005,N 06° E,Vallehermoso (Negros Oriental)
-2026-04-15T11:45:00.000Z,15 April 2026 - 11:45 AM,05.27,125.97,028,2.6,060km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),060,S 68° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
