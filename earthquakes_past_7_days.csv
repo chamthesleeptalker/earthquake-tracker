@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-23T16:27:00.000Z,23 April 2026 - 04:27 PM,06.59,123.77,001,2.3,032km N 83° W of Kalamansig (Sultan Kudarat),032,N 83° W,Kalamansig (Sultan Kudarat)
+2026-04-23T16:19:00.000Z,23 April 2026 - 04:19 PM,13.51,120.68,034,1.7,009km N 33° W of Abra De Ilog (Occidental Mindoro),009,N 33° W,Abra De Ilog (Occidental Mindoro)
 2026-04-23T14:56:00.000Z,23 April 2026 - 02:56 PM,15.26,123.39,087,2.9,098km N 29° E of Tinaga Island (Vinzons) (Camarines Norte),098,N 29° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-04-23T14:24:00.000Z,23 April 2026 - 02:24 PM,18.15,120.88,019,1.5,006km N 77° E of Carasi (Ilocos Norte),006,N 77° E,Carasi (Ilocos Norte)
 2026-04-23T14:00:00.000Z,23 April 2026 - 02:00 PM,05.83,126.81,086,2.6,122km S 42° E of Governor Generoso (Davao Oriental),122,S 42° E,Governor Generoso (Davao Oriental)
@@ -314,7 +316,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-16T20:48:00.000Z,16 April 2026 - 08:48 PM,14.23,120.48,108,1.6,021km S 33° W of Corregidor Island (City Of Cavite) (Cavite),021,S 33° W,Corregidor Island (City Of Cavite) (Cavite)
 2026-04-16T18:14:00.000Z,16 April 2026 - 06:14 PM,13.85,120.52,241,2.4,013km N 79° W of Calatagan (Batangas),013,N 79° W,Calatagan (Batangas)
 2026-04-16T17:48:00.000Z,16 April 2026 - 05:48 PM,16.25,120.08,021,1.6,015km N 45° E of City Of Alaminos (Pangasinan),015,N 45° E,City Of Alaminos (Pangasinan)
-2026-04-16T15:40:00.000Z,16 April 2026 - 03:40 PM,16.59,120.20,024,1.5,013km S 76° W of City Of San Fernando (La Union),013,S 76° W,City Of San Fernando (La Union)
-2026-04-16T15:17:00.000Z,16 April 2026 - 03:17 PM,10.63,122.26,003,3.2,003km S 69° E of Miagao (Iloilo),003,S 69° E,Miagao (Iloilo)
-2026-04-16T15:02:00.000Z,16 April 2026 - 03:02 PM,09.68,126.33,024,2.6,022km S 60° E of General Luna (Surigao Del Norte),022,S 60° E,General Luna (Surigao Del Norte)
-2026-04-16T14:57:00.000Z,16 April 2026 - 02:57 PM,05.74,125.85,090,2.7,030km S 49° E of Jose Abad Santos (Davao Occidental),030,S 49° E,Jose Abad Santos (Davao Occidental)
