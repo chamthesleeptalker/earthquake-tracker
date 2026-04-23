@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-23T21:17:00.000Z,23 April 2026 - 09:17 PM,14.11,120.45,070,1.8,020km N 80° W of Nasugbu (Batangas),020,N 80° W,Nasugbu (Batangas)
+2026-04-23T21:03:00.000Z,23 April 2026 - 09:03 PM,07.58,124.46,005,2.3,012km N 53° E of Buldon (Maguindanao Del Norte),012,N 53° E,Buldon (Maguindanao Del Norte)
+2026-04-23T21:02:00.000Z,23 April 2026 - 09:02 PM,07.56,124.48,003,1.8,013km N 69° E of Buldon (Maguindanao Del Norte),013,N 69° E,Buldon (Maguindanao Del Norte)
+2026-04-23T20:51:00.000Z,23 April 2026 - 08:51 PM,07.64,126.01,032,1.4,006km N 43° E of Nabunturan (Davao De Oro),006,N 43° E,Nabunturan (Davao De Oro)
+2026-04-23T19:52:00.000Z,23 April 2026 - 07:52 PM,10.48,125.12,002,3.2,007km S 41° W of Silago (Southern Leyte),007,S 41° W,Silago (Southern Leyte)
+2026-04-23T03:58:00.000Z,23 April 2026 - 03:58 AM,17.66,120.53,025,1.6,010km N 21° W of Langiden (Abra),010,N 21° W,Langiden (Abra)
 2026-04-23T19:12:00.000Z,23 April 2026 - 07:12 PM,15.56,119.80,027,1.4,016km S 63° W of Candelaria (Zambales),016,S 63° W,Candelaria (Zambales)
 2026-04-23T18:54:00.000Z,23 April 2026 - 06:54 PM,13.60,120.42,036,1.9,021km N 15° W of Paluan (Occidental Mindoro),021,N 15° W,Paluan (Occidental Mindoro)
 2026-04-23T18:08:00.000Z,23 April 2026 - 06:08 PM,07.25,126.83,022,2.4,032km N 83° E of Manay (Davao Oriental),032,N 83° E,Manay (Davao Oriental)
