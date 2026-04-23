@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-23T09:29:00.000Z,23 April 2026 - 09:29 AM,18.74,122.09,031,2.2,030km S 53° E of Camiguin Island (Calayan) (Cagayan),030,S 53° E,Camiguin Island (Calayan) (Cagayan)
+2026-04-23T09:16:00.000Z,23 April 2026 - 09:16 AM,10.19,125.65,007,1.9,012km S 84° E of Libjo (Dinagat Islands),012,S 84° E,Libjo (Dinagat Islands)
+2026-04-23T08:59:00.000Z,23 April 2026 - 08:59 AM,13.64,120.57,086,2.2,023km S 19° W of Calatagan (Batangas),023,S 19° W,Calatagan (Batangas)
+2026-04-23T08:35:00.000Z,23 April 2026 - 08:35 AM,08.98,126.46,030,2.7,019km N 70° E of Cagwait (Surigao Del Sur),019,N 70° E,Cagwait (Surigao Del Sur)
+2026-04-23T07:50:00.000Z,23 April 2026 - 07:50 AM,17.67,120.53,015,2.2,011km N 19° W of Langiden (Abra),011,N 19° W,Langiden (Abra)
 2026-04-23T07:04:00.000Z,23 April 2026 - 07:04 AM,13.58,120.61,117,2.1,019km N 40° W of Abra De Ilog (Occidental Mindoro),019,N 40° W,Abra De Ilog (Occidental Mindoro)
 2026-04-23T06:27:00.000Z,23 April 2026 - 06:27 AM,19.26,121.26,005,2.8,018km N 17° E of Dalupiri Island (Calayan) (Cagayan),018,N 17° E,Dalupiri Island (Calayan) (Cagayan)
 2026-04-23T05:39:00.000Z,23 April 2026 - 05:39 AM,13.98,120.45,064,2.1,023km S 73° W of Lian (Batangas),023,S 73° W,Lian (Batangas)
