@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T05:45:00.000Z,24 April 2026 - 05:45 AM,13.07,125.64,024,3.1,078km N 33° E of Mapanas (Northern Samar),078,N 33° E,Mapanas (Northern Samar)
 2026-04-24T04:58:00.000Z,24 April 2026 - 04:58 AM,15.02,122.07,002,2.1,022km N 31° E of Burdeos (Quezon),022,N 31° E,Burdeos (Quezon)
 2026-04-24T04:51:00.000Z,24 April 2026 - 04:51 AM,18.50,121.33,097,1.5,004km N 21° W of Pamplona (Cagayan),004,N 21° W,Pamplona (Cagayan)
 2026-04-24T04:51:00.000Z,24 April 2026 - 04:51 AM,08.06,126.69,009,2.8,031km N 86° E of Lingig (Surigao Del Sur),031,N 86° E,Lingig (Surigao Del Sur)
@@ -331,4 +332,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-17T08:42:00.000Z,17 April 2026 - 08:42 AM,09.72,126.27,034,2.0,014km S 59° E of General Luna (Surigao Del Norte),014,S 59° E,General Luna (Surigao Del Norte)
 2026-04-17T08:40:00.000Z,17 April 2026 - 08:40 AM,10.59,122.69,014,3.0,000km S 76° E of San Lorenzo (Guimaras),000,S 76° E,San Lorenzo (Guimaras)
 2026-04-17T06:20:00.000Z,17 April 2026 - 06:20 AM,07.49,126.75,123,2.4,023km S 66° E of Baganga (Davao Oriental),023,S 66° E,Baganga (Davao Oriental)
-2026-04-17T05:25:00.000Z,17 April 2026 - 05:25 AM,09.73,123.71,011,2.3,013km S 50° W of Loon (Bohol),013,S 50° W,Loon (Bohol)

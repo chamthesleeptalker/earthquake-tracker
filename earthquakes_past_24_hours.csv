@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T05:45:00.000Z,24 April 2026 - 05:45 AM,13.07,125.64,024,3.1,078km N 33° E of Mapanas (Northern Samar),078,N 33° E,Mapanas (Northern Samar)
 2026-04-24T04:58:00.000Z,24 April 2026 - 04:58 AM,15.02,122.07,002,2.1,022km N 31° E of Burdeos (Quezon),022,N 31° E,Burdeos (Quezon)
 2026-04-24T04:51:00.000Z,24 April 2026 - 04:51 AM,18.50,121.33,097,1.5,004km N 21° W of Pamplona (Cagayan),004,N 21° W,Pamplona (Cagayan)
 2026-04-24T04:51:00.000Z,24 April 2026 - 04:51 AM,08.06,126.69,009,2.8,031km N 86° E of Lingig (Surigao Del Sur),031,N 86° E,Lingig (Surigao Del Sur)
@@ -63,5 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-23T07:50:00.000Z,23 April 2026 - 07:50 AM,17.67,120.53,015,2.2,011km N 19° W of Langiden (Abra),011,N 19° W,Langiden (Abra)
 2026-04-23T07:04:00.000Z,23 April 2026 - 07:04 AM,13.58,120.61,117,2.1,019km N 40° W of Abra De Ilog (Occidental Mindoro),019,N 40° W,Abra De Ilog (Occidental Mindoro)
 2026-04-23T06:27:00.000Z,23 April 2026 - 06:27 AM,19.26,121.26,005,2.8,018km N 17° E of Dalupiri Island (Calayan) (Cagayan),018,N 17° E,Dalupiri Island (Calayan) (Cagayan)
-2026-04-23T05:39:00.000Z,23 April 2026 - 05:39 AM,13.98,120.45,064,2.1,023km S 73° W of Lian (Batangas),023,S 73° W,Lian (Batangas)
-2026-04-23T05:25:00.000Z,23 April 2026 - 05:25 AM,14.04,123.89,061,1.6,027km N 50° E of Garchitorena (Camarines Sur),027,N 50° E,Garchitorena (Camarines Sur)
