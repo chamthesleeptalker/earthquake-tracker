@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-23T16:27:00.000Z,23 April 2026 - 04:27 PM,06.59,123.77,001,2.3,032km N 83° W of Kalamansig (Sultan Kudarat),032,N 83° W,Kalamansig (Sultan Kudarat)
-2026-04-23T16:19:00.000Z,23 April 2026 - 04:19 PM,13.51,120.68,034,1.7,009km N 33° W of Abra De Ilog (Occidental Mindoro),009,N 33° W,Abra De Ilog (Occidental Mindoro)
+2026-04-23T18:08:00.000Z,23 April 2026 - 06:08 PM,07.25,126.83,022,2.4,032km N 83° E of Manay (Davao Oriental),032,N 83° E,Manay (Davao Oriental)
+2026-04-23T17:52:00.000Z,23 April 2026 - 05:52 PM,13.57,120.69,009,2.0,014km N 16° W of Abra De Ilog (Occidental Mindoro),014,N 16° W,Abra De Ilog (Occidental Mindoro)
+2026-04-23T17:39:00.000Z,23 April 2026 - 05:39 PM,07.65,126.52,021,2.2,010km N 31° W of Baganga (Davao Oriental),010,N 31° W,Baganga (Davao Oriental)
+2026-04-23T17:19:00.000Z,23 April 2026 - 05:19 PM,18.24,121.01,033,1.9,004km S 64° W of Calanasan (Apayao),004,S 64° W,Calanasan (Apayao)
