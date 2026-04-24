@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T05:20:00.000Z,25 April 2026 - 05:20 AM,13.86,122.99,004,1.7,012km N 47° E of Lupi (Camarines Sur),012,N 47° E,Lupi (Camarines Sur)
+2026-04-25T05:05:00.000Z,25 April 2026 - 05:05 AM,10.47,126.23,024,2.4,053km N 19° E of Burgos (Surigao Del Norte),053,N 19° E,Burgos (Surigao Del Norte)
 2026-04-25T04:49:00.000Z,25 April 2026 - 04:49 AM,05.97,126.25,056,2.4,066km S 68° E of Don Marcelino (Davao Occidental),066,S 68° E,Don Marcelino (Davao Occidental)
 2026-04-25T04:42:00.000Z,25 April 2026 - 04:42 AM,12.87,123.81,028,2.2,005km N 25° W of Magallanes (Sorsogon),005,N 25° W,Magallanes (Sorsogon)
 2026-04-25T03:49:00.000Z,25 April 2026 - 03:49 AM,07.03,126.97,033,2.0,052km S 67° E of Manay (Davao Oriental),052,S 67° E,Manay (Davao Oriental)
