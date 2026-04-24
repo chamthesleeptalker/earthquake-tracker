@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T09:58:00.000Z,24 April 2026 - 09:58 AM,13.74,120.72,046,2.0,014km S 44° E of Calatagan (Batangas),014,S 44° E,Calatagan (Batangas)
+2026-04-24T09:48:00.000Z,24 April 2026 - 09:48 AM,06.40,125.95,127,2.5,031km S 25° W of Governor Generoso (Davao Oriental),031,S 25° W,Governor Generoso (Davao Oriental)
+2026-04-24T09:46:00.000Z,24 April 2026 - 09:46 AM,13.59,120.69,113,2.3,016km N 15° W of Abra De Ilog (Occidental Mindoro),016,N 15° W,Abra De Ilog (Occidental Mindoro)
+2026-04-24T09:06:00.000Z,24 April 2026 - 09:06 AM,08.91,126.51,012,2.1,023km S 88° E of Cagwait (Surigao Del Sur),023,S 88° E,Cagwait (Surigao Del Sur)
+2026-04-23T23:44:00.000Z,23 April 2026 - 11:44 PM,12.98,120.88,003,2.7,019km N 37° E of Sablayan (Occidental Mindoro),019,N 37° E,Sablayan (Occidental Mindoro)
 2026-04-24T07:22:00.000Z,24 April 2026 - 07:22 AM,14.28,120.41,109,2.1,019km S 27° W of Mariveles (Bataan),019,S 27° W,Mariveles (Bataan)
 2026-04-24T07:13:00.000Z,24 April 2026 - 07:13 AM,07.45,125.76,073,1.9,007km S 88° E of Braulio E. Dujali (Davao Del Norte),007,S 88° E,Braulio E. Dujali (Davao Del Norte)
 2026-04-24T06:43:00.000Z,24 April 2026 - 06:43 AM,12.60,123.57,008,2.4,011km S 65° W of Monreal (Masbate),011,S 65° W,Monreal (Masbate)
@@ -62,8 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-23T11:59:00.000Z,23 April 2026 - 11:59 AM,14.14,120.39,102,2.6,027km N 75° W of Nasugbu (Batangas),027,N 75° W,Nasugbu (Batangas)
 2026-04-23T10:57:00.000Z,23 April 2026 - 10:57 AM,14.96,122.00,013,1.5,013km N 15° E of Burdeos (Quezon),013,N 15° E,Burdeos (Quezon)
 2026-04-23T10:42:00.000Z,23 April 2026 - 10:42 AM,07.58,124.47,005,1.8,013km N 56° E of Buldon (Maguindanao Del Norte),013,N 56° E,Buldon (Maguindanao Del Norte)
-2026-04-23T09:29:00.000Z,23 April 2026 - 09:29 AM,18.74,122.09,031,2.2,030km S 53° E of Camiguin Island (Calayan) (Cagayan),030,S 53° E,Camiguin Island (Calayan) (Cagayan)
-2026-04-23T09:16:00.000Z,23 April 2026 - 09:16 AM,10.19,125.65,007,1.9,012km S 84° E of Libjo (Dinagat Islands),012,S 84° E,Libjo (Dinagat Islands)
-2026-04-23T08:59:00.000Z,23 April 2026 - 08:59 AM,13.64,120.57,086,2.2,023km S 19° W of Calatagan (Batangas),023,S 19° W,Calatagan (Batangas)
-2026-04-23T08:35:00.000Z,23 April 2026 - 08:35 AM,08.98,126.46,030,2.7,019km N 70° E of Cagwait (Surigao Del Sur),019,N 70° E,Cagwait (Surigao Del Sur)
-2026-04-23T07:50:00.000Z,23 April 2026 - 07:50 AM,17.67,120.53,015,2.2,011km N 19° W of Langiden (Abra),011,N 19° W,Langiden (Abra)

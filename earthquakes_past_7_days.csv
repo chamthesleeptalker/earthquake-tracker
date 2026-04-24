@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T09:58:00.000Z,24 April 2026 - 09:58 AM,13.74,120.72,046,2.0,014km S 44° E of Calatagan (Batangas),014,S 44° E,Calatagan (Batangas)
+2026-04-24T09:48:00.000Z,24 April 2026 - 09:48 AM,06.40,125.95,127,2.5,031km S 25° W of Governor Generoso (Davao Oriental),031,S 25° W,Governor Generoso (Davao Oriental)
+2026-04-24T09:46:00.000Z,24 April 2026 - 09:46 AM,13.59,120.69,113,2.3,016km N 15° W of Abra De Ilog (Occidental Mindoro),016,N 15° W,Abra De Ilog (Occidental Mindoro)
+2026-04-24T09:06:00.000Z,24 April 2026 - 09:06 AM,08.91,126.51,012,2.1,023km S 88° E of Cagwait (Surigao Del Sur),023,S 88° E,Cagwait (Surigao Del Sur)
+2026-04-23T23:44:00.000Z,23 April 2026 - 11:44 PM,12.98,120.88,003,2.7,019km N 37° E of Sablayan (Occidental Mindoro),019,N 37° E,Sablayan (Occidental Mindoro)
 2026-04-24T07:22:00.000Z,24 April 2026 - 07:22 AM,14.28,120.41,109,2.1,019km S 27° W of Mariveles (Bataan),019,S 27° W,Mariveles (Bataan)
 2026-04-24T07:13:00.000Z,24 April 2026 - 07:13 AM,07.45,125.76,073,1.9,007km S 88° E of Braulio E. Dujali (Davao Del Norte),007,S 88° E,Braulio E. Dujali (Davao Del Norte)
 2026-04-24T06:43:00.000Z,24 April 2026 - 06:43 AM,12.60,123.57,008,2.4,011km S 65° W of Monreal (Masbate),011,S 65° W,Monreal (Masbate)
@@ -333,6 +338,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-17T11:32:00.000Z,17 April 2026 - 11:32 AM,05.60,125.68,149,2.2,027km N 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),027,N 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-17T11:00:00.000Z,17 April 2026 - 11:00 AM,10.74,122.46,004,1.8,004km S 12° W of San Miguel (Iloilo),004,S 12° W,San Miguel (Iloilo)
 2026-04-17T10:48:00.000Z,17 April 2026 - 10:48 AM,11.05,124.05,033,1.6,008km N 86° E of City Of Bogo (Cebu),008,N 86° E,City Of Bogo (Cebu)
-2026-04-17T09:04:00.000Z,17 April 2026 - 09:04 AM,15.41,121.92,002,2.2,054km S 45° E of Baler (Aurora),054,S 45° E,Baler (Aurora)
-2026-04-17T08:42:00.000Z,17 April 2026 - 08:42 AM,09.72,126.27,034,2.0,014km S 59° E of General Luna (Surigao Del Norte),014,S 59° E,General Luna (Surigao Del Norte)
-2026-04-17T08:40:00.000Z,17 April 2026 - 08:40 AM,10.59,122.69,014,3.0,000km S 76° E of San Lorenzo (Guimaras),000,S 76° E,San Lorenzo (Guimaras)
