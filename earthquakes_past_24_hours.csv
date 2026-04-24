@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T03:49:00.000Z,25 April 2026 - 03:49 AM,07.03,126.97,033,2.0,052km S 67° E of Manay (Davao Oriental),052,S 67° E,Manay (Davao Oriental)
+2026-04-25T03:39:00.000Z,25 April 2026 - 03:39 AM,05.10,126.10,027,2.8,081km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),081,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-25T03:17:00.000Z,25 April 2026 - 03:17 AM,06.52,127.01,020,2.0,085km S 47° E of Tarragona (Davao Oriental),085,S 47° E,Tarragona (Davao Oriental)
 2026-04-25T03:04:00.000Z,25 April 2026 - 03:04 AM,06.59,123.94,095,2.2,013km N 74° W of Kalamansig (Sultan Kudarat),013,N 74° W,Kalamansig (Sultan Kudarat)
 2026-04-25T02:58:00.000Z,25 April 2026 - 02:58 AM,13.50,125.19,036,3.2,090km S 79° E of Baras (Catanduanes),090,S 79° E,Baras (Catanduanes)
@@ -55,5 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T04:14:00.000Z,24 April 2026 - 04:14 AM,19.11,121.25,008,2.1,004km N 81° E of Dalupiri Island (Calayan) (Cagayan),004,N 81° E,Dalupiri Island (Calayan) (Cagayan)
 2026-04-24T04:07:00.000Z,24 April 2026 - 04:07 AM,13.75,122.54,003,1.9,008km N 84° E of Buenavista (Quezon),008,N 84° E,Buenavista (Quezon)
 2026-04-24T04:01:00.000Z,24 April 2026 - 04:01 AM,12.39,120.81,030,1.6,018km S 64° W of Rizal (Occidental Mindoro),018,S 64° W,Rizal (Occidental Mindoro)
-2026-04-24T03:44:00.000Z,24 April 2026 - 03:44 AM,18.42,121.01,013,2.1,013km S 67° E of Adams (Ilocos Norte),013,S 67° E,Adams (Ilocos Norte)
-2026-04-24T03:19:00.000Z,24 April 2026 - 03:19 AM,13.88,120.49,060,3.2,016km N 73° W of Calatagan (Batangas),016,N 73° W,Calatagan (Batangas)
