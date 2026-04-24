@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T14:12:00.000Z,24 April 2026 - 02:12 PM,17.67,120.99,009,1.8,005km N 77° E of Lacub (Abra),005,N 77° E,Lacub (Abra)
+2026-04-24T13:44:00.000Z,24 April 2026 - 01:44 PM,08.57,126.29,032,1.4,018km N 50° E of Tagbina (Surigao Del Sur),018,N 50° E,Tagbina (Surigao Del Sur)
+2026-04-24T13:37:00.000Z,24 April 2026 - 01:37 PM,07.91,126.70,059,1.4,029km N 64° E of Cateel (Davao Oriental),029,N 64° E,Cateel (Davao Oriental)
 2026-04-24T10:27:00.000Z,24 April 2026 - 10:27 AM,19.90,120.29,009,3.0,130km N 48° W of Dalupiri Island (Calayan) (Cagayan),130,N 48° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-24T09:58:00.000Z,24 April 2026 - 09:58 AM,13.74,120.72,046,2.0,014km S 44° E of Calatagan (Batangas),014,S 44° E,Calatagan (Batangas)
 2026-04-24T09:48:00.000Z,24 April 2026 - 09:48 AM,06.40,125.95,127,2.5,031km S 25° W of Governor Generoso (Davao Oriental),031,S 25° W,Governor Generoso (Davao Oriental)
@@ -332,10 +335,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-17T16:17:00.000Z,17 April 2026 - 04:17 PM,05.60,126.26,046,3.0,077km S 63° E of Jose Abad Santos (Davao Occidental),077,S 63° E,Jose Abad Santos (Davao Occidental)
 2026-04-17T14:49:00.000Z,17 April 2026 - 02:49 PM,15.31,122.11,002,1.6,052km N 38° E of Panukulan (Quezon),052,N 38° E,Panukulan (Quezon)
 2026-04-17T14:47:00.000Z,17 April 2026 - 02:47 PM,09.69,125.82,115,4.8,016km N 35° E of Claver (Surigao Del Norte),016,N 35° E,Claver (Surigao Del Norte)
-2026-04-17T13:41:00.000Z,17 April 2026 - 01:41 PM,12.45,120.79,024,1.5,019km S 87° W of Rizal (Occidental Mindoro),019,S 87° W,Rizal (Occidental Mindoro)
-2026-04-17T13:25:00.000Z,17 April 2026 - 01:25 PM,11.13,123.96,017,2.4,010km N 12° W of City Of Bogo (Cebu),010,N 12° W,City Of Bogo (Cebu)
-2026-04-17T12:32:00.000Z,17 April 2026 - 12:32 PM,15.52,119.83,033,1.5,013km N 42° W of Palauig (Zambales),013,N 42° W,Palauig (Zambales)
-2026-04-17T12:06:00.000Z,17 April 2026 - 12:06 PM,19.03,121.05,001,2.2,019km S 62° W of Dalupiri Island (Calayan) (Cagayan),019,S 62° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-17T11:32:00.000Z,17 April 2026 - 11:32 AM,05.60,125.68,149,2.2,027km N 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),027,N 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-17T11:00:00.000Z,17 April 2026 - 11:00 AM,10.74,122.46,004,1.8,004km S 12° W of San Miguel (Iloilo),004,S 12° W,San Miguel (Iloilo)
-2026-04-17T10:48:00.000Z,17 April 2026 - 10:48 AM,11.05,124.05,033,1.6,008km N 86° E of City Of Bogo (Cebu),008,N 86° E,City Of Bogo (Cebu)

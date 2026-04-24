@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T14:12:00.000Z,24 April 2026 - 02:12 PM,17.67,120.99,009,1.8,005km N 77° E of Lacub (Abra),005,N 77° E,Lacub (Abra)
+2026-04-24T13:44:00.000Z,24 April 2026 - 01:44 PM,08.57,126.29,032,1.4,018km N 50° E of Tagbina (Surigao Del Sur),018,N 50° E,Tagbina (Surigao Del Sur)
+2026-04-24T13:37:00.000Z,24 April 2026 - 01:37 PM,07.91,126.70,059,1.4,029km N 64° E of Cateel (Davao Oriental),029,N 64° E,Cateel (Davao Oriental)
 2026-04-24T10:27:00.000Z,24 April 2026 - 10:27 AM,19.90,120.29,009,3.0,130km N 48° W of Dalupiri Island (Calayan) (Cagayan),130,N 48° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-24T09:58:00.000Z,24 April 2026 - 09:58 AM,13.74,120.72,046,2.0,014km S 44° E of Calatagan (Batangas),014,S 44° E,Calatagan (Batangas)
 2026-04-24T09:48:00.000Z,24 April 2026 - 09:48 AM,06.40,125.95,127,2.5,031km S 25° W of Governor Generoso (Davao Oriental),031,S 25° W,Governor Generoso (Davao Oriental)
