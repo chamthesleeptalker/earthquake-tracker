@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-25T01:53:00.000Z,25 April 2026 - 01:53 AM,13.77,123.76,003,1.6,007km N 10° E of Presentacion (Camarines Sur),007,N 10° E,Presentacion (Camarines Sur)
-2026-04-25T01:44:00.000Z,25 April 2026 - 01:44 AM,06.76,124.22,003,2.0,013km S 36° E of South Upi (Maguindanao Del Sur),013,S 36° E,South Upi (Maguindanao Del Sur)
-2026-04-25T01:33:00.000Z,25 April 2026 - 01:33 AM,07.86,126.36,013,2.3,002km S 63° W of Boston (Davao Oriental),002,S 63° W,Boston (Davao Oriental)
-2026-04-25T01:29:00.000Z,25 April 2026 - 01:29 AM,19.02,121.61,012,1.8,030km N 65° W of Camiguin Island (Calayan) (Cagayan),030,N 65° W,Camiguin Island (Calayan) (Cagayan)
-2026-04-25T01:11:00.000Z,25 April 2026 - 01:11 AM,13.38,123.38,010,2.8,003km S 12° E of Nabua (Camarines Sur),003,S 12° E,Nabua (Camarines Sur)
-2026-04-25T01:01:00.000Z,25 April 2026 - 01:01 AM,14.75,123.59,010,3.3,075km N 66° E of Tinaga Island (Vinzons) (Camarines Norte),075,N 66° E,Tinaga Island (Vinzons) (Camarines Norte)
+2026-04-25T03:17:00.000Z,25 April 2026 - 03:17 AM,06.52,127.01,020,2.0,085km S 47° E of Tarragona (Davao Oriental),085,S 47° E,Tarragona (Davao Oriental)
+2026-04-25T03:04:00.000Z,25 April 2026 - 03:04 AM,06.59,123.94,095,2.2,013km N 74° W of Kalamansig (Sultan Kudarat),013,N 74° W,Kalamansig (Sultan Kudarat)
+2026-04-25T02:58:00.000Z,25 April 2026 - 02:58 AM,13.50,125.19,036,3.2,090km S 79° E of Baras (Catanduanes),090,S 79° E,Baras (Catanduanes)
+2026-04-25T02:33:00.000Z,25 April 2026 - 02:33 AM,06.77,126.49,021,2.5,032km S 09° E of Tarragona (Davao Oriental),032,S 09° E,Tarragona (Davao Oriental)
+2026-04-25T02:26:00.000Z,25 April 2026 - 02:26 AM,12.56,125.33,013,2.8,013km N 41° E of Mapanas (Northern Samar),013,N 41° E,Mapanas (Northern Samar)
