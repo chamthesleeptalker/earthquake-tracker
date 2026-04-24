@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T01:11:00.000Z,25 April 2026 - 01:11 AM,13.38,123.38,010,2.8,003km S 12° E of Nabua (Camarines Sur),003,S 12° E,Nabua (Camarines Sur)
+2026-04-25T01:01:00.000Z,25 April 2026 - 01:01 AM,14.75,123.59,010,3.3,075km N 66° E of Tinaga Island (Vinzons) (Camarines Norte),075,N 66° E,Tinaga Island (Vinzons) (Camarines Norte)
+2026-04-25T00:24:00.000Z,25 April 2026 - 12:24 AM,06.68,126.12,043,3.2,006km N 63° E of Governor Generoso (Davao Oriental),006,N 63° E,Governor Generoso (Davao Oriental)
+2026-04-24T23:59:00.000Z,24 April 2026 - 11:59 PM,13.49,123.46,033,1.5,009km N 47° W of Buhi (Camarines Sur),009,N 47° W,Buhi (Camarines Sur)
+2026-04-24T23:55:00.000Z,24 April 2026 - 11:55 PM,13.42,123.35,010,1.7,003km N 66° W of Nabua (Camarines Sur),003,N 66° W,Nabua (Camarines Sur)
 2026-04-24T23:42:00.000Z,24 April 2026 - 11:42 PM,07.21,126.54,003,2.3,000km N 63° W of Manay (Davao Oriental),000,N 63° W,Manay (Davao Oriental)
 2026-04-24T23:40:00.000Z,24 April 2026 - 11:40 PM,08.86,126.47,033,2.1,020km S 70° E of Cagwait (Surigao Del Sur),020,S 70° E,Cagwait (Surigao Del Sur)
 2026-04-24T23:34:00.000Z,24 April 2026 - 11:34 PM,18.95,121.02,027,2.3,026km S 48° W of Dalupiri Island (Calayan) (Cagayan),026,S 48° W,Dalupiri Island (Calayan) (Cagayan)
@@ -339,5 +344,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T01:59:00.000Z,18 April 2026 - 01:59 AM,14.26,124.90,151,2.4,074km N 62° E of Bagamanoc (Catanduanes),074,N 62° E,Bagamanoc (Catanduanes)
 2026-04-18T01:55:00.000Z,18 April 2026 - 01:55 AM,09.65,126.10,018,2.2,012km S 25° E of Dapa (Surigao Del Norte),012,S 25° E,Dapa (Surigao Del Norte)
 2026-04-18T01:36:00.000Z,18 April 2026 - 01:36 AM,07.97,123.11,008,1.7,013km N 13° E of Lakewood (Zamboanga Del Sur),013,N 13° E,Lakewood (Zamboanga Del Sur)
-2026-04-18T00:32:00.000Z,18 April 2026 - 12:32 AM,04.87,125.10,010,3.1,070km S 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),070,S 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-18T00:11:00.000Z,18 April 2026 - 12:11 AM,18.93,120.64,006,3.2,044km N 21° W of Pagudpud (Ilocos Norte),044,N 21° W,Pagudpud (Ilocos Norte)
