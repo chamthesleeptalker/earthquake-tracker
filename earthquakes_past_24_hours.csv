@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T23:42:00.000Z,24 April 2026 - 11:42 PM,07.21,126.54,003,2.3,000km N 63° W of Manay (Davao Oriental),000,N 63° W,Manay (Davao Oriental)
+2026-04-24T23:40:00.000Z,24 April 2026 - 11:40 PM,08.86,126.47,033,2.1,020km S 70° E of Cagwait (Surigao Del Sur),020,S 70° E,Cagwait (Surigao Del Sur)
+2026-04-24T23:34:00.000Z,24 April 2026 - 11:34 PM,18.95,121.02,027,2.3,026km S 48° W of Dalupiri Island (Calayan) (Cagayan),026,S 48° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-24T22:49:00.000Z,24 April 2026 - 10:49 PM,07.15,126.66,013,2.6,015km S 65° E of Manay (Davao Oriental),015,S 65° E,Manay (Davao Oriental)
 2026-04-24T22:32:00.000Z,24 April 2026 - 10:32 PM,07.82,126.42,017,1.7,005km N 49° W of Cateel (Davao Oriental),005,N 49° W,Cateel (Davao Oriental)
 2026-04-24T21:45:00.000Z,24 April 2026 - 09:45 PM,14.35,119.83,019,1.7,059km S 52° W of Morong (Bataan),059,S 52° W,Morong (Bataan)
 2026-04-24T21:33:00.000Z,24 April 2026 - 09:33 PM,07.28,126.74,023,2.3,020km S 73° E of Caraga (Davao Oriental),020,S 73° E,Caraga (Davao Oriental)
@@ -53,6 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T00:33:00.000Z,24 April 2026 - 12:33 AM,12.29,125.47,014,1.5,011km N 75° E of Arteche (Eastern Samar),011,N 75° E,Arteche (Eastern Samar)
 2026-04-24T00:11:00.000Z,24 April 2026 - 12:11 AM,08.12,126.50,068,3.5,013km N 47° E of Lingig (Surigao Del Sur),013,N 47° E,Lingig (Surigao Del Sur)
 2026-04-23T23:47:00.000Z,23 April 2026 - 11:47 PM,17.14,119.78,022,2.6,071km S 87° W of City Of Candon (Ilocos Sur),071,S 87° W,City Of Candon (Ilocos Sur)
-2026-04-23T23:34:00.000Z,23 April 2026 - 11:34 PM,15.01,122.09,002,2.7,023km N 36° E of Burdeos (Quezon),023,N 36° E,Burdeos (Quezon)
-2026-04-23T23:20:00.000Z,23 April 2026 - 11:20 PM,18.23,121.16,002,1.5,012km S 76° E of Calanasan (Apayao),012,S 76° E,Calanasan (Apayao)
-2026-04-23T23:01:00.000Z,23 April 2026 - 11:01 PM,15.02,122.69,005,2.5,053km N 47° E of Jomalig (Quezon),053,N 47° E,Jomalig (Quezon)

@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-24T23:42:00.000Z,24 April 2026 - 11:42 PM,07.21,126.54,003,2.3,000km N 63° W of Manay (Davao Oriental),000,N 63° W,Manay (Davao Oriental)
+2026-04-24T23:40:00.000Z,24 April 2026 - 11:40 PM,08.86,126.47,033,2.1,020km S 70° E of Cagwait (Surigao Del Sur),020,S 70° E,Cagwait (Surigao Del Sur)
+2026-04-24T23:34:00.000Z,24 April 2026 - 11:34 PM,18.95,121.02,027,2.3,026km S 48° W of Dalupiri Island (Calayan) (Cagayan),026,S 48° W,Dalupiri Island (Calayan) (Cagayan)
+2026-04-24T22:49:00.000Z,24 April 2026 - 10:49 PM,07.15,126.66,013,2.6,015km S 65° E of Manay (Davao Oriental),015,S 65° E,Manay (Davao Oriental)
 2026-04-24T22:32:00.000Z,24 April 2026 - 10:32 PM,07.82,126.42,017,1.7,005km N 49° W of Cateel (Davao Oriental),005,N 49° W,Cateel (Davao Oriental)
 2026-04-24T21:45:00.000Z,24 April 2026 - 09:45 PM,14.35,119.83,019,1.7,059km S 52° W of Morong (Bataan),059,S 52° W,Morong (Bataan)
 2026-04-24T21:33:00.000Z,24 April 2026 - 09:33 PM,07.28,126.74,023,2.3,020km S 73° E of Caraga (Davao Oriental),020,S 73° E,Caraga (Davao Oriental)
