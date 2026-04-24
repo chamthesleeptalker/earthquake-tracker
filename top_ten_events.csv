@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-17T14:47:00.000Z,17 April 2026 - 02:47 PM,09.69,125.82,115,4.8,016km N 35° E of Claver (Surigao Del Norte),016,N 35° E,Claver (Surigao Del Norte)
 2026-04-20T02:35:00.000Z,20 April 2026 - 02:35 AM,03.40,126.82,7,4.5,271km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),271,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-18T20:01:00.000Z,18 April 2026 - 08:01 PM,15.07,122.01,2,4.5,026km N 10° E of Burdeos (Quezon),026,N 10° E,Burdeos (Quezon)
 2026-04-21T05:07:00.000Z,21 April 2026 - 05:07 AM,16.11,121.82,10,4.4,015km S 77° W of Dinalungan (Aurora),015,S 77° W,Dinalungan (Aurora)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-21T10:09:00.000Z,21 April 2026 - 10:09 AM,17.68,119.55,16,4.0,087km N 83° W of Santa Catalina (Ilocos Sur),087,N 83° W,Santa Catalina (Ilocos Sur)
 2026-04-17T19:16:00.000Z,17 April 2026 - 07:16 PM,11.88,125.50,10,3.9,008km N 35° E of Sulat (Eastern Samar),008,N 35° E,Sulat (Eastern Samar)
 2026-04-19T06:15:00.000Z,19 April 2026 - 06:15 AM,05.27,126.80,49,3.8,146km S 61° E of Jose Abad Santos (Davao Occidental),146,S 61° E,Jose Abad Santos (Davao Occidental)
+2026-04-18T16:45:00.000Z,18 April 2026 - 04:45 PM,06.61,126.05,143,3.8,005km S 29° W of Governor Generoso (Davao Oriental),005,S 29° W,Governor Generoso (Davao Oriental)
