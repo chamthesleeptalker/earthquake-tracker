@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T12:57:00.000Z,25 April 2026 - 12:57 PM,18.36,120.47,026,2.4,016km N 82° W of Pasuquin (Ilocos Norte),016,N 82° W,Pasuquin (Ilocos Norte)
+2026-04-25T12:27:00.000Z,25 April 2026 - 12:27 PM,07.00,126.73,014,2.4,031km S 42° E of Manay (Davao Oriental),031,S 42° E,Manay (Davao Oriental)
 2026-04-25T10:32:00.000Z,25 April 2026 - 10:32 AM,19.41,121.44,002,1.8,017km N 12° W of Calayan (Cagayan),017,N 12° W,Calayan (Cagayan)
 2026-04-25T09:36:00.000Z,25 April 2026 - 09:36 AM,09.97,126.46,024,2.6,040km N 58° E of General Luna (Surigao Del Norte),040,N 58° E,General Luna (Surigao Del Norte)
 2026-04-25T08:30:00.000Z,25 April 2026 - 08:30 AM,07.16,126.91,025,3.0,041km S 82° E of Manay (Davao Oriental),041,S 82° E,Manay (Davao Oriental)
@@ -345,5 +347,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T15:14:00.000Z,18 April 2026 - 03:14 PM,15.69,120.15,014,2.1,019km S 55° W of Mangatarem (Pangasinan),019,S 55° W,Mangatarem (Pangasinan)
 2026-04-18T14:43:00.000Z,18 April 2026 - 02:43 PM,12.85,124.56,028,1.5,029km N 49° E of Biri (Northern Samar),029,N 49° E,Biri (Northern Samar)
 2026-04-18T14:04:00.000Z,18 April 2026 - 02:04 PM,09.03,126.59,028,1.9,035km N 79° E of Bayabas (Surigao Del Sur),035,N 79° E,Bayabas (Surigao Del Sur)
-2026-04-18T12:20:00.000Z,18 April 2026 - 12:20 PM,09.39,121.69,002,2.3,058km S 69° E of Cagayancillo (Palawan),058,S 69° E,Cagayancillo (Palawan)
-2026-04-18T11:34:00.000Z,18 April 2026 - 11:34 AM,19.80,120.23,003,2.7,128km N 53° W of Dalupiri Island (Calayan) (Cagayan),128,N 53° W,Dalupiri Island (Calayan) (Cagayan)
