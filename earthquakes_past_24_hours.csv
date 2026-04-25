@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T22:22:00.000Z,25 April 2026 - 10:22 PM,13.57,120.53,004,2.7,019km N 21° E of Paluan (Occidental Mindoro),019,N 21° E,Paluan (Occidental Mindoro)
+2026-04-25T22:12:00.000Z,25 April 2026 - 10:12 PM,08.91,126.51,032,2.1,023km S 87° E of Cagwait (Surigao Del Sur),023,S 87° E,Cagwait (Surigao Del Sur)
 2026-04-25T21:41:00.000Z,25 April 2026 - 09:41 PM,07.72,122.20,008,1.9,007km N 78° E of Siocon (Zamboanga Del Norte),007,N 78° E,Siocon (Zamboanga Del Norte)
 2026-04-25T21:19:00.000Z,25 April 2026 - 09:19 PM,08.17,126.68,010,4.1,032km N 63° E of Lingig (Surigao Del Sur),032,N 63° E,Lingig (Surigao Del Sur)
 2026-04-25T20:32:00.000Z,25 April 2026 - 08:32 PM,17.29,122.17,039,2.1,014km S 71° W of Divilacan (Isabela),014,S 71° W,Divilacan (Isabela)
@@ -50,4 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T23:34:00.000Z,24 April 2026 - 11:34 PM,18.95,121.02,027,2.3,026km S 48° W of Dalupiri Island (Calayan) (Cagayan),026,S 48° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-24T22:49:00.000Z,24 April 2026 - 10:49 PM,07.15,126.66,013,2.6,015km S 65° E of Manay (Davao Oriental),015,S 65° E,Manay (Davao Oriental)
 2026-04-24T22:32:00.000Z,24 April 2026 - 10:32 PM,07.82,126.42,017,1.7,005km N 49° W of Cateel (Davao Oriental),005,N 49° W,Cateel (Davao Oriental)
-2026-04-24T21:45:00.000Z,24 April 2026 - 09:45 PM,14.35,119.83,019,1.7,059km S 52° W of Morong (Bataan),059,S 52° W,Morong (Bataan)
