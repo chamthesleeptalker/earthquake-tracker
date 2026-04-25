@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T07:50:00.000Z,25 April 2026 - 07:50 AM,06.92,126.58,158,3.0,020km S 45° E of Tarragona (Davao Oriental),020,S 45° E,Tarragona (Davao Oriental)
+2026-04-25T07:45:00.000Z,25 April 2026 - 07:45 AM,18.56,120.82,017,1.6,003km N 86° E of Pagudpud (Ilocos Norte),003,N 86° E,Pagudpud (Ilocos Norte)
+2026-04-25T06:59:00.000Z,25 April 2026 - 06:59 AM,14.48,120.00,031,1.6,036km S 52° W of Morong (Bataan),036,S 52° W,Morong (Bataan)
 2026-04-25T06:14:00.000Z,25 April 2026 - 06:14 AM,11.52,125.47,024,2.1,004km N 62° W of Maydolong (Eastern Samar),004,N 62° W,Maydolong (Eastern Samar)
 2026-04-25T05:20:00.000Z,25 April 2026 - 05:20 AM,13.86,122.99,004,1.7,012km N 47° E of Lupi (Camarines Sur),012,N 47° E,Lupi (Camarines Sur)
 2026-04-25T05:05:00.000Z,25 April 2026 - 05:05 AM,10.47,126.23,024,2.4,053km N 19° E of Burgos (Surigao Del Norte),053,N 19° E,Burgos (Surigao Del Norte)
