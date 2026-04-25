@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T10:32:00.000Z,25 April 2026 - 10:32 AM,19.41,121.44,002,1.8,017km N 12° W of Calayan (Cagayan),017,N 12° W,Calayan (Cagayan)
+2026-04-25T09:36:00.000Z,25 April 2026 - 09:36 AM,09.97,126.46,024,2.6,040km N 58° E of General Luna (Surigao Del Norte),040,N 58° E,General Luna (Surigao Del Norte)
+2026-04-25T08:30:00.000Z,25 April 2026 - 08:30 AM,07.16,126.91,025,3.0,041km S 82° E of Manay (Davao Oriental),041,S 82° E,Manay (Davao Oriental)
+2026-04-25T08:17:00.000Z,25 April 2026 - 08:17 AM,13.62,120.62,091,1.8,022km N 31° W of Abra De Ilog (Occidental Mindoro),022,N 31° W,Abra De Ilog (Occidental Mindoro)
 2026-04-25T07:50:00.000Z,25 April 2026 - 07:50 AM,06.92,126.58,158,3.0,020km S 45° E of Tarragona (Davao Oriental),020,S 45° E,Tarragona (Davao Oriental)
 2026-04-25T07:45:00.000Z,25 April 2026 - 07:45 AM,18.56,120.82,017,1.6,003km N 86° E of Pagudpud (Ilocos Norte),003,N 86° E,Pagudpud (Ilocos Norte)
 2026-04-25T06:59:00.000Z,25 April 2026 - 06:59 AM,14.48,120.00,031,1.6,036km S 52° W of Morong (Bataan),036,S 52° W,Morong (Bataan)
