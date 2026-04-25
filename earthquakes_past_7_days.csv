@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T14:54:00.000Z,25 April 2026 - 02:54 PM,10.23,126.15,005,2.6,025km N 20° E of Burgos (Surigao Del Norte),025,N 20° E,Burgos (Surigao Del Norte)
+2026-04-25T14:43:00.000Z,25 April 2026 - 02:43 PM,12.73,125.59,051,1.8,046km N 53° E of Mapanas (Northern Samar),046,N 53° E,Mapanas (Northern Samar)
+2026-04-25T14:18:00.000Z,25 April 2026 - 02:18 PM,18.04,120.75,061,1.8,006km S 23° W of Solsona (Ilocos Norte),006,S 23° W,Solsona (Ilocos Norte)
+2026-04-25T13:46:00.000Z,25 April 2026 - 01:46 PM,14.94,119.94,014,3.0,016km S 88° W of San Antonio (Zambales),016,S 88° W,San Antonio (Zambales)
 2026-04-25T12:57:00.000Z,25 April 2026 - 12:57 PM,18.36,120.47,026,2.4,016km N 82° W of Pasuquin (Ilocos Norte),016,N 82° W,Pasuquin (Ilocos Norte)
 2026-04-25T12:27:00.000Z,25 April 2026 - 12:27 PM,07.00,126.73,014,2.4,031km S 42° E of Manay (Davao Oriental),031,S 42° E,Manay (Davao Oriental)
 2026-04-25T10:32:00.000Z,25 April 2026 - 10:32 AM,19.41,121.44,002,1.8,017km N 12° W of Calayan (Cagayan),017,N 12° W,Calayan (Cagayan)
@@ -345,5 +349,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T17:58:00.000Z,18 April 2026 - 05:58 PM,15.05,122.00,002,2.7,023km N 08° E of Burdeos (Quezon),023,N 08° E,Burdeos (Quezon)
 2026-04-18T16:45:00.000Z,18 April 2026 - 04:45 PM,06.61,126.05,143,3.8,005km S 29° W of Governor Generoso (Davao Oriental),005,S 29° W,Governor Generoso (Davao Oriental)
 2026-04-18T15:14:00.000Z,18 April 2026 - 03:14 PM,15.69,120.15,014,2.1,019km S 55° W of Mangatarem (Pangasinan),019,S 55° W,Mangatarem (Pangasinan)
-2026-04-18T14:43:00.000Z,18 April 2026 - 02:43 PM,12.85,124.56,028,1.5,029km N 49° E of Biri (Northern Samar),029,N 49° E,Biri (Northern Samar)
-2026-04-18T14:04:00.000Z,18 April 2026 - 02:04 PM,09.03,126.59,028,1.9,035km N 79° E of Bayabas (Surigao Del Sur),035,N 79° E,Bayabas (Surigao Del Sur)
