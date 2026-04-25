@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T15:16:00.000Z,25 April 2026 - 03:16 PM,08.57,126.58,021,2.2,035km N 50° E of Hinatuan (Surigao Del Sur),035,N 50° E,Hinatuan (Surigao Del Sur)
 2026-04-25T14:54:00.000Z,25 April 2026 - 02:54 PM,10.23,126.15,005,2.6,025km N 20° E of Burgos (Surigao Del Norte),025,N 20° E,Burgos (Surigao Del Norte)
 2026-04-25T14:43:00.000Z,25 April 2026 - 02:43 PM,12.73,125.59,051,1.8,046km N 53° E of Mapanas (Northern Samar),046,N 53° E,Mapanas (Northern Samar)
 2026-04-25T14:18:00.000Z,25 April 2026 - 02:18 PM,18.04,120.75,061,1.8,006km S 23° W of Solsona (Ilocos Norte),006,S 23° W,Solsona (Ilocos Norte)
@@ -348,4 +349,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-18T19:15:00.000Z,18 April 2026 - 07:15 PM,11.24,124.06,028,1.7,023km N 22° E of City Of Bogo (Cebu),023,N 22° E,City Of Bogo (Cebu)
 2026-04-18T17:58:00.000Z,18 April 2026 - 05:58 PM,15.05,122.00,002,2.7,023km N 08° E of Burdeos (Quezon),023,N 08° E,Burdeos (Quezon)
 2026-04-18T16:45:00.000Z,18 April 2026 - 04:45 PM,06.61,126.05,143,3.8,005km S 29° W of Governor Generoso (Davao Oriental),005,S 29° W,Governor Generoso (Davao Oriental)
-2026-04-18T15:14:00.000Z,18 April 2026 - 03:14 PM,15.69,120.15,014,2.1,019km S 55° W of Mangatarem (Pangasinan),019,S 55° W,Mangatarem (Pangasinan)
