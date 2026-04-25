@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T21:41:00.000Z,25 April 2026 - 09:41 PM,07.72,122.20,008,1.9,007km N 78° E of Siocon (Zamboanga Del Norte),007,N 78° E,Siocon (Zamboanga Del Norte)
+2026-04-25T21:19:00.000Z,25 April 2026 - 09:19 PM,08.17,126.68,010,4.1,032km N 63° E of Lingig (Surigao Del Sur),032,N 63° E,Lingig (Surigao Del Sur)
 2026-04-25T20:32:00.000Z,25 April 2026 - 08:32 PM,17.29,122.17,039,2.1,014km S 71° W of Divilacan (Isabela),014,S 71° W,Divilacan (Isabela)
 2026-04-25T20:19:00.000Z,25 April 2026 - 08:19 PM,18.14,120.89,023,2.2,007km S 87° E of Carasi (Ilocos Norte),007,S 87° E,Carasi (Ilocos Norte)
 2026-04-25T20:04:00.000Z,25 April 2026 - 08:04 PM,06.59,123.70,008,2.9,039km N 85° W of Kalamansig (Sultan Kudarat),039,N 85° W,Kalamansig (Sultan Kudarat)
@@ -49,8 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T22:49:00.000Z,24 April 2026 - 10:49 PM,07.15,126.66,013,2.6,015km S 65° E of Manay (Davao Oriental),015,S 65° E,Manay (Davao Oriental)
 2026-04-24T22:32:00.000Z,24 April 2026 - 10:32 PM,07.82,126.42,017,1.7,005km N 49° W of Cateel (Davao Oriental),005,N 49° W,Cateel (Davao Oriental)
 2026-04-24T21:45:00.000Z,24 April 2026 - 09:45 PM,14.35,119.83,019,1.7,059km S 52° W of Morong (Bataan),059,S 52° W,Morong (Bataan)
-2026-04-24T21:33:00.000Z,24 April 2026 - 09:33 PM,07.28,126.74,023,2.3,020km S 73° E of Caraga (Davao Oriental),020,S 73° E,Caraga (Davao Oriental)
-2026-04-24T21:31:00.000Z,24 April 2026 - 09:31 PM,09.27,122.37,017,1.8,033km S 62° W of Basay (Negros Oriental),033,S 62° W,Basay (Negros Oriental)
-2026-04-24T21:30:00.000Z,24 April 2026 - 09:30 PM,16.29,120.83,016,2.1,010km S 36° W of Kayapa (Nueva Vizcaya),010,S 36° W,Kayapa (Nueva Vizcaya)
-2026-04-24T21:16:00.000Z,24 April 2026 - 09:16 PM,07.15,126.75,018,3.7,024km S 74° E of Manay (Davao Oriental),024,S 74° E,Manay (Davao Oriental)
-2026-04-24T20:56:00.000Z,24 April 2026 - 08:56 PM,11.16,124.17,003,2.2,024km N 58° E of City Of Bogo (Cebu),024,N 58° E,City Of Bogo (Cebu)
