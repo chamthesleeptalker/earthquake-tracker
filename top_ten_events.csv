@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-04-20T02:35:00.000Z,20 April 2026 - 02:35 AM,03.40,126.82,7,4.5,271km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),271,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-18T20:01:00.000Z,18 April 2026 - 08:01 PM,15.07,122.01,2,4.5,026km N 10° E of Burdeos (Quezon),026,N 10° E,Burdeos (Quezon)
 2026-04-21T05:07:00.000Z,21 April 2026 - 05:07 AM,16.11,121.82,10,4.4,015km S 77° W of Dinalungan (Aurora),015,S 77° W,Dinalungan (Aurora)
 2026-04-20T19:44:00.000Z,20 April 2026 - 07:44 PM,10.96,126.16,12,4.4,048km S 80° E of Guiuan (Eastern Samar),048,S 80° E,Guiuan (Eastern Samar)
 2026-04-21T05:16:00.000Z,21 April 2026 - 05:16 AM,02.33,122.99,479,4.3,421km S 41° E of South Ubian (Tawi-tawi),421,S 41° E,South Ubian (Tawi-tawi)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-19T06:15:00.000Z,19 April 2026 - 06:15 AM,05.27,126.80,49,3.8,146km S 61° E of Jose Abad Santos (Davao Occidental),146,S 61° E,Jose Abad Santos (Davao Occidental)
 2026-04-24T21:16:00.000Z,24 April 2026 - 09:16 PM,07.15,126.75,18,3.7,024km S 74° E of Manay (Davao Oriental),024,S 74° E,Manay (Davao Oriental)
 2026-04-23T01:48:00.000Z,23 April 2026 - 01:48 AM,05.36,127.09,45,3.6,171km S 69° E of Jose Abad Santos (Davao Occidental),171,S 69° E,Jose Abad Santos (Davao Occidental)
+2026-04-22T01:03:00.000Z,22 April 2026 - 01:03 AM,08.34,126.54,15,3.6,022km S 82° E of Hinatuan (Surigao Del Sur),022,S 82° E,Hinatuan (Surigao Del Sur)
