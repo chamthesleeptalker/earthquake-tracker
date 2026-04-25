@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-25T16:56:00.000Z,25 April 2026 - 04:56 PM,06.85,126.24,011,2.6,012km S 15° E of City Of Mati (Davao Oriental),012,S 15° E,City Of Mati (Davao Oriental)
+2026-04-25T16:35:00.000Z,25 April 2026 - 04:35 PM,16.36,120.88,030,1.4,001km N 36° W of Kayapa (Nueva Vizcaya),001,N 36° W,Kayapa (Nueva Vizcaya)
 2026-04-25T15:16:00.000Z,25 April 2026 - 03:16 PM,08.57,126.58,021,2.2,035km N 50° E of Hinatuan (Surigao Del Sur),035,N 50° E,Hinatuan (Surigao Del Sur)
 2026-04-25T14:54:00.000Z,25 April 2026 - 02:54 PM,10.23,126.15,005,2.6,025km N 20° E of Burgos (Surigao Del Norte),025,N 20° E,Burgos (Surigao Del Norte)
 2026-04-25T14:43:00.000Z,25 April 2026 - 02:43 PM,12.73,125.59,051,1.8,046km N 53° E of Mapanas (Northern Samar),046,N 53° E,Mapanas (Northern Samar)
@@ -49,7 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T18:12:00.000Z,24 April 2026 - 06:12 PM,13.41,123.31,013,1.8,008km S 52° W of Baao (Camarines Sur),008,S 52° W,Baao (Camarines Sur)
 2026-04-24T18:03:00.000Z,24 April 2026 - 06:03 PM,17.42,121.98,144,1.8,020km S 81° E of San Pablo (Isabela),020,S 81° E,San Pablo (Isabela)
 2026-04-24T17:42:00.000Z,24 April 2026 - 05:42 PM,13.44,123.33,019,2.7,004km S 68° W of Baao (Camarines Sur),004,S 68° W,Baao (Camarines Sur)
-2026-04-24T16:44:00.000Z,24 April 2026 - 04:44 PM,13.76,120.64,100,1.7,008km S 06° E of Calatagan (Batangas),008,S 06° E,Calatagan (Batangas)
-2026-04-24T16:22:00.000Z,24 April 2026 - 04:22 PM,09.55,122.36,017,2.3,013km S 65° W of Hinoba-an (Negros Occidental),013,S 65° W,Hinoba-an (Negros Occidental)
-2026-04-24T16:06:00.000Z,24 April 2026 - 04:06 PM,10.95,123.94,004,2.3,012km S 21° W of City Of Bogo (Cebu),012,S 21° W,City Of Bogo (Cebu)
-2026-04-24T16:00:00.000Z,24 April 2026 - 04:00 PM,19.72,120.83,010,2.4,078km N 30° W of Dalupiri Island (Calayan) (Cagayan),078,N 30° W,Dalupiri Island (Calayan) (Cagayan)
