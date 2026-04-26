@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-26T16:47:00.000Z,26 April 2026 - 04:47 PM,06.68,124.31,006,2.4,021km S 69° W of Datu Abdullah Sangki (Maguindanao Del Sur),021,S 69° W,Datu Abdullah Sangki (Maguindanao Del Sur)
+2026-04-26T16:35:00.000Z,26 April 2026 - 04:35 PM,15.22,119.95,019,1.8,011km S 46° W of Botolan (Zambales),011,S 46° W,Botolan (Zambales)
 2026-04-26T15:44:00.000Z,26 April 2026 - 03:44 PM,10.59,122.37,003,2.0,009km S 34° E of Guimbal (Iloilo),009,S 34° E,Guimbal (Iloilo)
 2026-04-26T15:20:00.000Z,26 April 2026 - 03:20 PM,03.07,126.49,155,4.4,285km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),285,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-26T15:16:00.000Z,26 April 2026 - 03:16 PM,06.84,126.71,199,2.7,037km S 51° E of Tarragona (Davao Oriental),037,S 51° E,Tarragona (Davao Oriental)
@@ -339,4 +341,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-19T18:31:00.000Z,19 April 2026 - 06:31 PM,09.95,121.28,031,1.4,042km N 12° E of Cagayancillo (Palawan),042,N 12° E,Cagayancillo (Palawan)
 2026-04-19T17:57:00.000Z,19 April 2026 - 05:57 PM,15.04,119.64,005,2.0,047km S 73° W of Cabangan (Zambales),047,S 73° W,Cabangan (Zambales)
 2026-04-19T17:45:00.000Z,19 April 2026 - 05:45 PM,15.00,122.03,021,1.9,019km N 20° E of Burdeos (Quezon),019,N 20° E,Burdeos (Quezon)
-2026-04-19T16:16:00.000Z,19 April 2026 - 04:16 PM,14.93,121.99,014,1.6,010km N 11° E of Burdeos (Quezon),010,N 11° E,Burdeos (Quezon)
