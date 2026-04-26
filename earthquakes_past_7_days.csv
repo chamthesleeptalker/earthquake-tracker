@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-27T06:10:00.000Z,27 April 2026 - 06:10 AM,13.97,120.55,084,1.7,013km S 55° W of Lian (Batangas),013,S 55° W,Lian (Batangas)
 2026-04-27T05:18:00.000Z,27 April 2026 - 05:18 AM,12.95,124.60,023,1.7,039km N 41° E of Biri (Northern Samar),039,N 41° E,Biri (Northern Samar)
 2026-04-27T05:16:00.000Z,27 April 2026 - 05:16 AM,10.72,122.39,002,2.2,006km S 02° E of Leon (Iloilo),006,S 02° E,Leon (Iloilo)
 2026-04-27T04:45:00.000Z,27 April 2026 - 04:45 AM,18.38,120.64,035,1.4,005km N 28° E of Pasuquin (Ilocos Norte),005,N 28° E,Pasuquin (Ilocos Norte)
@@ -350,6 +351,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-20T07:31:00.000Z,20 April 2026 - 07:31 AM,14.98,122.11,025,1.6,021km N 44° E of Burdeos (Quezon),021,N 44° E,Burdeos (Quezon)
 2026-04-20T07:21:00.000Z,20 April 2026 - 07:21 AM,15.07,119.97,010,3.2,010km N 84° W of San Felipe (Zambales),010,N 84° W,San Felipe (Zambales)
 2026-04-20T06:36:00.000Z,20 April 2026 - 06:36 AM,11.23,123.94,003,2.6,021km N 11° W of City Of Bogo (Cebu),021,N 11° W,City Of Bogo (Cebu)
-2026-04-20T06:00:00.000Z,20 April 2026 - 06:00 AM,10.11,123.58,014,2.5,006km N 88° W of City Of Carcar (Cebu),006,N 88° W,City Of Carcar (Cebu)
-2026-04-20T05:55:00.000Z,20 April 2026 - 05:55 AM,14.07,120.33,116,2.1,032km N 43° E of Lubang (Occidental Mindoro),032,N 43° E,Lubang (Occidental Mindoro)
-2026-04-20T05:40:00.000Z,20 April 2026 - 05:40 AM,19.00,121.09,018,1.7,017km S 48° W of Dalupiri Island (Calayan) (Cagayan),017,S 48° W,Dalupiri Island (Calayan) (Cagayan)
