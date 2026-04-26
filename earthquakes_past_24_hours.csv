@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-27T03:32:00.000Z,27 April 2026 - 03:32 AM,07.41,126.73,036,1.9,020km N 64° E of Caraga (Davao Oriental),020,N 64° E,Caraga (Davao Oriental)
+2026-04-27T03:22:00.000Z,27 April 2026 - 03:22 AM,13.12,124.13,021,1.8,007km S 01° E of Rapu-rapu (Albay),007,S 01° E,Rapu-rapu (Albay)
+2026-04-27T03:10:00.000Z,27 April 2026 - 03:10 AM,08.07,126.38,047,1.9,005km N 41° W of Lingig (Surigao Del Sur),005,N 41° W,Lingig (Surigao Del Sur)
 2026-04-27T01:54:00.000Z,27 April 2026 - 01:54 AM,10.24,126.36,040,2.6,039km N 52° E of Burgos (Surigao Del Norte),039,N 52° E,Burgos (Surigao Del Norte)
 2026-04-27T01:34:00.000Z,27 April 2026 - 01:34 AM,14.02,120.48,087,1.7,018km S 72° W of Nasugbu (Batangas),018,S 72° W,Nasugbu (Batangas)
 2026-04-27T01:23:00.000Z,27 April 2026 - 01:23 AM,13.56,120.23,031,1.7,018km S 05° W of Looc (Occidental Mindoro),018,S 05° W,Looc (Occidental Mindoro)
@@ -51,5 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-26T06:11:00.000Z,26 April 2026 - 06:11 AM,13.18,120.77,006,1.8,012km N 26° E of Santa Cruz (Occidental Mindoro),012,N 26° E,Santa Cruz (Occidental Mindoro)
 2026-04-26T05:16:00.000Z,26 April 2026 - 05:16 AM,18.20,120.76,005,2.1,007km N 52° E of Piddig (Ilocos Norte),007,N 52° E,Piddig (Ilocos Norte)
 2026-04-26T03:58:00.000Z,26 April 2026 - 03:58 AM,07.71,126.56,026,2.1,015km N 01° W of Baganga (Davao Oriental),015,N 01° W,Baganga (Davao Oriental)
-2026-04-26T02:32:00.000Z,26 April 2026 - 02:32 AM,15.74,119.99,024,2.2,009km S 77° E of Santa Cruz (Zambales),009,S 77° E,Santa Cruz (Zambales)
-2026-04-26T02:00:00.000Z,26 April 2026 - 02:00 AM,07.37,126.30,032,2.3,020km N 74° E of Maragusan (Davao De Oro),020,N 74° E,Maragusan (Davao De Oro)
