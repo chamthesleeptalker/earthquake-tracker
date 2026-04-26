@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-27T00:27:00.000Z,27 April 2026 - 12:27 AM,06.18,124.72,010,2.5,005km S 09° E of Lake Sebu (South Cotabato),005,S 09° E,Lake Sebu (South Cotabato)
+2026-04-27T00:11:00.000Z,27 April 2026 - 12:11 AM,09.59,126.17,031,1.6,022km S 05° E of General Luna (Surigao Del Norte),022,S 05° E,General Luna (Surigao Del Norte)
+2026-04-26T23:59:00.000Z,26 April 2026 - 11:59 PM,13.24,124.45,028,2.0,036km N 81° E of Rapu-rapu (Albay),036,N 81° E,Rapu-rapu (Albay)
 2026-04-26T23:19:00.000Z,26 April 2026 - 11:19 PM,09.46,126.80,012,2.7,070km N 73° E of Cortes (Surigao Del Sur),070,N 73° E,Cortes (Surigao Del Sur)
 2026-04-26T23:06:00.000Z,26 April 2026 - 11:06 PM,09.81,124.75,021,3.5,021km N 69° E of Anda (Bohol),021,N 69° E,Anda (Bohol)
 2026-04-26T22:47:00.000Z,26 April 2026 - 10:47 PM,09.80,126.33,019,3.2,019km N 85° E of General Luna (Surigao Del Norte),019,N 85° E,General Luna (Surigao Del Norte)
