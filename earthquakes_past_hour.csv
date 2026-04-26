@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-26T13:14:00.000Z,26 April 2026 - 01:14 PM,19.09,120.50,015,2.5,066km N 14° W of Burgos (Ilocos Norte),066,N 14° W,Burgos (Ilocos Norte)
-2026-04-26T12:35:00.000Z,26 April 2026 - 12:35 PM,19.06,120.38,023,4.1,067km N 25° W of Burgos (Ilocos Norte),067,N 25° W,Burgos (Ilocos Norte)
+2026-04-26T15:44:00.000Z,26 April 2026 - 03:44 PM,10.59,122.37,003,2.0,009km S 34° E of Guimbal (Iloilo),009,S 34° E,Guimbal (Iloilo)
+2026-04-26T15:20:00.000Z,26 April 2026 - 03:20 PM,03.07,126.49,155,4.4,285km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),285,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-26T15:16:00.000Z,26 April 2026 - 03:16 PM,06.84,126.71,199,2.7,037km S 51° E of Tarragona (Davao Oriental),037,S 51° E,Tarragona (Davao Oriental)
+2026-04-26T15:02:00.000Z,26 April 2026 - 03:02 PM,13.60,120.69,094,1.8,017km N 13° W of Abra De Ilog (Occidental Mindoro),017,N 13° W,Abra De Ilog (Occidental Mindoro)
+2026-04-26T14:53:00.000Z,26 April 2026 - 02:53 PM,11.43,124.42,003,1.9,002km S 07° W of Calubian (Leyte),002,S 07° W,Calubian (Leyte)
