@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-27T12:49:00.000Z,27 April 2026 - 12:49 PM,07.41,126.78,023,1.9,026km N 70° E of Caraga (Davao Oriental),026,N 70° E,Caraga (Davao Oriental)
+2026-04-27T12:36:00.000Z,27 April 2026 - 12:36 PM,14.29,120.36,035,1.4,022km S 41° W of Mariveles (Bataan),022,S 41° W,Mariveles (Bataan)
+2026-04-27T12:13:00.000Z,27 April 2026 - 12:13 PM,14.89,123.17,010,2.0,051km N 27° E of Tinaga Island (Vinzons) (Camarines Norte),051,N 27° E,Tinaga Island (Vinzons) (Camarines Norte)
+2026-04-27T11:38:00.000Z,27 April 2026 - 11:38 AM,08.03,126.32,078,2.4,011km S 86° W of Lingig (Surigao Del Sur),011,S 86° W,Lingig (Surigao Del Sur)
+2026-04-27T11:16:00.000Z,27 April 2026 - 11:16 AM,06.16,126.50,023,2.0,072km S 41° E of Governor Generoso (Davao Oriental),072,S 41° E,Governor Generoso (Davao Oriental)
+2026-04-27T11:12:00.000Z,27 April 2026 - 11:12 AM,05.96,126.68,082,2.2,102km S 41° E of Governor Generoso (Davao Oriental),102,S 41° E,Governor Generoso (Davao Oriental)
 2026-04-27T09:39:00.000Z,27 April 2026 - 09:39 AM,12.33,123.79,018,2.5,010km S 05° E of Batuan (Masbate),010,S 05° E,Batuan (Masbate)
 2026-04-27T09:35:00.000Z,27 April 2026 - 09:35 AM,07.88,127.09,013,2.0,067km N 60° E of Baganga (Davao Oriental),067,N 60° E,Baganga (Davao Oriental)
 2026-04-27T08:35:00.000Z,27 April 2026 - 08:35 AM,07.26,127.12,004,3.1,061km S 83° E of Caraga (Davao Oriental),061,S 83° E,Caraga (Davao Oriental)
@@ -50,6 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-26T14:30:00.000Z,26 April 2026 - 02:30 PM,08.08,127.02,015,3.0,067km N 86° E of Lingig (Surigao Del Sur),067,N 86° E,Lingig (Surigao Del Sur)
 2026-04-26T14:23:00.000Z,26 April 2026 - 02:23 PM,08.77,126.18,035,1.5,005km N 62° W of San Agustin (Surigao Del Sur),005,N 62° W,San Agustin (Surigao Del Sur)
 2026-04-26T13:14:00.000Z,26 April 2026 - 01:14 PM,19.09,120.50,015,2.5,066km N 14° W of Burgos (Ilocos Norte),066,N 14° W,Burgos (Ilocos Norte)
-2026-04-26T12:35:00.000Z,26 April 2026 - 12:35 PM,19.06,120.38,023,4.1,067km N 25° W of Burgos (Ilocos Norte),067,N 25° W,Burgos (Ilocos Norte)
-2026-04-26T10:24:00.000Z,26 April 2026 - 10:24 AM,17.52,120.73,007,1.8,002km S 34° E of Bucay (Abra),002,S 34° E,Bucay (Abra)
-2026-04-26T10:02:00.000Z,26 April 2026 - 10:02 AM,17.40,120.23,017,2.2,023km S 46° W of Caoayan (Ilocos Sur),023,S 46° W,Caoayan (Ilocos Sur)
