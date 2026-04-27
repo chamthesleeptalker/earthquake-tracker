@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-27T14:33:00.000Z,27 April 2026 - 02:33 PM,07.29,126.74,017,2.6,019km S 77° E of Caraga (Davao Oriental),019,S 77° E,Caraga (Davao Oriental)
+2026-04-27T14:07:00.000Z,27 April 2026 - 02:07 PM,18.92,120.96,029,1.8,033km S 51° W of Dalupiri Island (Calayan) (Cagayan),033,S 51° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-27T12:49:00.000Z,27 April 2026 - 12:49 PM,07.41,126.78,023,1.9,026km N 70° E of Caraga (Davao Oriental),026,N 70° E,Caraga (Davao Oriental)
 2026-04-27T12:36:00.000Z,27 April 2026 - 12:36 PM,14.29,120.36,035,1.4,022km S 41° W of Mariveles (Bataan),022,S 41° W,Mariveles (Bataan)
 2026-04-27T12:13:00.000Z,27 April 2026 - 12:13 PM,14.89,123.17,010,2.0,051km N 27° E of Tinaga Island (Vinzons) (Camarines Norte),051,N 27° E,Tinaga Island (Vinzons) (Camarines Norte)
@@ -53,6 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-26T14:42:00.000Z,26 April 2026 - 02:42 PM,15.05,119.95,020,2.0,013km S 85° W of San Felipe (Zambales),013,S 85° W,San Felipe (Zambales)
 2026-04-26T14:38:00.000Z,26 April 2026 - 02:38 PM,17.20,119.98,019,2.0,049km N 85° W of City Of Candon (Ilocos Sur),049,N 85° W,City Of Candon (Ilocos Sur)
 2026-04-26T14:37:00.000Z,26 April 2026 - 02:37 PM,15.38,121.91,012,2.3,050km N 12° E of Panukulan (Quezon),050,N 12° E,Panukulan (Quezon)
-2026-04-26T14:30:00.000Z,26 April 2026 - 02:30 PM,08.08,127.02,015,3.0,067km N 86° E of Lingig (Surigao Del Sur),067,N 86° E,Lingig (Surigao Del Sur)
-2026-04-26T14:23:00.000Z,26 April 2026 - 02:23 PM,08.77,126.18,035,1.5,005km N 62° W of San Agustin (Surigao Del Sur),005,N 62° W,San Agustin (Surigao Del Sur)
-2026-04-26T13:14:00.000Z,26 April 2026 - 01:14 PM,19.09,120.50,015,2.5,066km N 14° W of Burgos (Ilocos Norte),066,N 14° W,Burgos (Ilocos Norte)
