@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-28T09:33:00.000Z,28 April 2026 - 09:33 AM,05.10,126.19,004,2.1,089km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),089,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-28T07:41:00.000Z,28 April 2026 - 07:41 AM,14.02,120.39,068,1.6,027km S 77° W of Nasugbu (Batangas),027,S 77° W,Nasugbu (Batangas)
 2026-04-28T06:43:00.000Z,28 April 2026 - 06:43 AM,14.77,121.97,003,2.3,009km S 01° E of Burdeos (Quezon),009,S 01° E,Burdeos (Quezon)
 2026-04-28T05:13:00.000Z,28 April 2026 - 05:13 AM,14.72,121.89,016,1.7,015km S 31° W of Burdeos (Quezon),015,S 31° W,Burdeos (Quezon)
@@ -42,5 +43,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-27T11:12:00.000Z,27 April 2026 - 11:12 AM,05.96,126.68,082,2.2,102km S 41° E of Governor Generoso (Davao Oriental),102,S 41° E,Governor Generoso (Davao Oriental)
 2026-04-27T09:39:00.000Z,27 April 2026 - 09:39 AM,12.33,123.79,018,2.5,010km S 05° E of Batuan (Masbate),010,S 05° E,Batuan (Masbate)
 2026-04-27T09:35:00.000Z,27 April 2026 - 09:35 AM,07.88,127.09,013,2.0,067km N 60° E of Baganga (Davao Oriental),067,N 60° E,Baganga (Davao Oriental)
-2026-04-27T08:35:00.000Z,27 April 2026 - 08:35 AM,07.26,127.12,004,3.1,061km S 83° E of Caraga (Davao Oriental),061,S 83° E,Caraga (Davao Oriental)
-2026-04-27T08:31:00.000Z,27 April 2026 - 08:31 AM,06.09,127.35,029,3.4,146km S 43° E of Tarragona (Davao Oriental),146,S 43° E,Tarragona (Davao Oriental)
