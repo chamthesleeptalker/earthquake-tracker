@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-28T13:23:00.000Z,28 April 2026 - 01:23 PM,08.10,122.70,015,2.0,004km S 47° E of Liloy (Zamboanga Del Norte),004,S 47° E,Liloy (Zamboanga Del Norte)
-2026-04-28T12:31:00.000Z,28 April 2026 - 12:31 PM,08.60,126.66,011,2.1,044km N 54° E of Hinatuan (Surigao Del Sur),044,N 54° E,Hinatuan (Surigao Del Sur)
+2026-04-28T16:10:00.000Z,28 April 2026 - 04:10 PM,15.25,120.00,018,2.8,005km S 35° W of Botolan (Zambales),005,S 35° W,Botolan (Zambales)
+2026-04-28T16:06:00.000Z,28 April 2026 - 04:06 PM,13.89,120.53,073,1.5,013km N 59° W of Calatagan (Batangas),013,N 59° W,Calatagan (Batangas)
+2026-04-28T15:52:00.000Z,28 April 2026 - 03:52 PM,07.30,126.62,013,3.5,006km S 63° E of Caraga (Davao Oriental),006,S 63° E,Caraga (Davao Oriental)
+2026-04-28T15:45:00.000Z,28 April 2026 - 03:45 PM,03.61,126.47,067,3.3,231km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),231,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)

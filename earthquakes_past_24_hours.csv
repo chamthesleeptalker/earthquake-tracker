@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-28T16:10:00.000Z,28 April 2026 - 04:10 PM,15.25,120.00,018,2.8,005km S 35° W of Botolan (Zambales),005,S 35° W,Botolan (Zambales)
+2026-04-28T16:06:00.000Z,28 April 2026 - 04:06 PM,13.89,120.53,073,1.5,013km N 59° W of Calatagan (Batangas),013,N 59° W,Calatagan (Batangas)
+2026-04-28T15:52:00.000Z,28 April 2026 - 03:52 PM,07.30,126.62,013,3.5,006km S 63° E of Caraga (Davao Oriental),006,S 63° E,Caraga (Davao Oriental)
+2026-04-28T15:45:00.000Z,28 April 2026 - 03:45 PM,03.61,126.47,067,3.3,231km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),231,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-04-28T14:49:00.000Z,28 April 2026 - 02:49 PM,08.78,124.17,017,1.9,031km N 41° W of Libertad (Misamis Oriental),031,N 41° W,Libertad (Misamis Oriental)
+2026-04-28T13:56:00.000Z,28 April 2026 - 01:56 PM,15.99,119.25,019,2.8,060km S 77° W of Agno (Pangasinan),060,S 77° W,Agno (Pangasinan)
 2026-04-28T13:23:00.000Z,28 April 2026 - 01:23 PM,08.10,122.70,015,2.0,004km S 47° E of Liloy (Zamboanga Del Norte),004,S 47° E,Liloy (Zamboanga Del Norte)
 2026-04-28T12:31:00.000Z,28 April 2026 - 12:31 PM,08.60,126.66,011,2.1,044km N 54° E of Hinatuan (Surigao Del Sur),044,N 54° E,Hinatuan (Surigao Del Sur)
 2026-04-28T12:07:00.000Z,28 April 2026 - 12:07 PM,07.61,125.92,040,1.8,006km N 79° W of Nabunturan (Davao De Oro),006,N 79° W,Nabunturan (Davao De Oro)
@@ -38,5 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-27T19:06:00.000Z,27 April 2026 - 07:06 PM,06.50,124.09,018,2.0,008km S 32° E of Kalamansig (Sultan Kudarat),008,S 32° E,Kalamansig (Sultan Kudarat)
 2026-04-27T18:49:00.000Z,27 April 2026 - 06:49 PM,08.84,126.62,008,2.4,036km N 84° E of Marihatag (Surigao Del Sur),036,N 84° E,Marihatag (Surigao Del Sur)
 2026-04-27T17:12:00.000Z,27 April 2026 - 05:12 PM,08.06,126.31,021,2.1,011km N 80° W of Lingig (Surigao Del Sur),011,N 80° W,Lingig (Surigao Del Sur)
-2026-04-27T14:33:00.000Z,27 April 2026 - 02:33 PM,07.29,126.74,017,2.6,019km S 77° E of Caraga (Davao Oriental),019,S 77° E,Caraga (Davao Oriental)
-2026-04-27T14:07:00.000Z,27 April 2026 - 02:07 PM,18.92,120.96,029,1.8,033km S 51° W of Dalupiri Island (Calayan) (Cagayan),033,S 51° W,Dalupiri Island (Calayan) (Cagayan)
