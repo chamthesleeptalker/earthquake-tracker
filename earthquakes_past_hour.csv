@@ -1,5 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-29T06:10:00.000Z,29 April 2026 - 06:10 AM,06.71,125.23,037,2.4,001km N 81° E of Matanao (Davao Del Sur),001,N 81° E,Matanao (Davao Del Sur)
-2026-04-29T05:29:00.000Z,29 April 2026 - 05:29 AM,12.93,122.77,009,3.3,031km S 46° W of San Pascual (Masbate),031,S 46° W,San Pascual (Masbate)
-2026-04-29T05:24:00.000Z,29 April 2026 - 05:24 AM,13.71,123.73,002,2.3,002km N 78° W of Presentacion (Camarines Sur),002,N 78° W,Presentacion (Camarines Sur)
-2026-04-29T05:17:00.000Z,29 April 2026 - 05:17 AM,13.54,123.64,001,1.5,010km N 25° W of Tiwi (Albay),010,N 25° W,Tiwi (Albay)
+2026-04-29T07:22:00.000Z,29 April 2026 - 07:22 AM,12.23,125.35,007,2.9,005km S 23° W of Arteche (Eastern Samar),005,S 23° W,Arteche (Eastern Samar)
+2026-04-29T07:13:00.000Z,29 April 2026 - 07:13 AM,12.26,125.45,033,1.7,009km S 83° E of Arteche (Eastern Samar),009,S 83° E,Arteche (Eastern Samar)
+2026-04-29T07:08:00.000Z,29 April 2026 - 07:08 AM,12.18,125.47,030,1.5,004km N 83° W of San Policarpo (Eastern Samar),004,N 83° W,San Policarpo (Eastern Samar)
+2026-04-29T07:07:00.000Z,29 April 2026 - 07:07 AM,12.33,125.48,025,1.9,014km N 61° E of Arteche (Eastern Samar),014,N 61° E,Arteche (Eastern Samar)
+2026-04-29T06:58:00.000Z,29 April 2026 - 06:58 AM,12.50,125.74,018,4.8,044km N 36° E of San Policarpo (Eastern Samar),044,N 36° E,San Policarpo (Eastern Samar)
+2026-04-29T06:36:00.000Z,29 April 2026 - 06:36 AM,14.98,122.00,020,2.0,016km N 14° E of Burdeos (Quezon),016,N 14° E,Burdeos (Quezon)
+2026-04-29T06:34:00.000Z,29 April 2026 - 06:34 AM,15.04,122.09,003,2.0,026km N 31° E of Burdeos (Quezon),026,N 31° E,Burdeos (Quezon)
