@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-29T06:10:00.000Z,29 April 2026 - 06:10 AM,06.71,125.23,037,2.4,001km N 81° E of Matanao (Davao Del Sur),001,N 81° E,Matanao (Davao Del Sur)
+2026-04-29T05:29:00.000Z,29 April 2026 - 05:29 AM,12.93,122.77,009,3.3,031km S 46° W of San Pascual (Masbate),031,S 46° W,San Pascual (Masbate)
+2026-04-29T05:24:00.000Z,29 April 2026 - 05:24 AM,13.71,123.73,002,2.3,002km N 78° W of Presentacion (Camarines Sur),002,N 78° W,Presentacion (Camarines Sur)
+2026-04-29T05:17:00.000Z,29 April 2026 - 05:17 AM,13.54,123.64,001,1.5,010km N 25° W of Tiwi (Albay),010,N 25° W,Tiwi (Albay)
 2026-04-29T04:43:00.000Z,29 April 2026 - 04:43 AM,08.51,126.53,013,2.2,027km N 54° E of Hinatuan (Surigao Del Sur),027,N 54° E,Hinatuan (Surigao Del Sur)
 2026-04-29T04:10:00.000Z,29 April 2026 - 04:10 AM,17.56,120.04,019,1.6,035km S 84° W of Santa Catalina (Ilocos Sur),035,S 84° W,Santa Catalina (Ilocos Sur)
 2026-04-29T03:55:00.000Z,29 April 2026 - 03:55 AM,07.63,124.16,024,1.5,006km S 09° E of Marogong (Lanao Del Sur),006,S 09° E,Marogong (Lanao Del Sur)
@@ -37,6 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-28T09:33:00.000Z,28 April 2026 - 09:33 AM,05.10,126.19,004,2.1,089km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),089,S 62° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-28T07:41:00.000Z,28 April 2026 - 07:41 AM,14.02,120.39,068,1.6,027km S 77° W of Nasugbu (Batangas),027,S 77° W,Nasugbu (Batangas)
 2026-04-28T06:43:00.000Z,28 April 2026 - 06:43 AM,14.77,121.97,003,2.3,009km S 01° E of Burdeos (Quezon),009,S 01° E,Burdeos (Quezon)
-2026-04-28T05:13:00.000Z,28 April 2026 - 05:13 AM,14.72,121.89,016,1.7,015km S 31° W of Burdeos (Quezon),015,S 31° W,Burdeos (Quezon)
-2026-04-28T05:09:00.000Z,28 April 2026 - 05:09 AM,16.34,120.61,035,1.7,007km S 75° W of Itogon (Benguet),007,S 75° W,Itogon (Benguet)
-2026-04-28T05:03:00.000Z,28 April 2026 - 05:03 AM,12.24,121.50,017,2.2,019km S 62° E of Bulalacao (Oriental Mindoro),019,S 62° E,Bulalacao (Oriental Mindoro)
