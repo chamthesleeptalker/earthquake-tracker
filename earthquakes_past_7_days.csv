@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-28T23:20:00.000Z,28 April 2026 - 11:20 PM,09.99,126.39,002,2.8,034km N 79° E of San Isidro (Surigao Del Norte),034,N 79° E,San Isidro (Surigao Del Norte)
+2026-04-28T22:03:00.000Z,28 April 2026 - 10:03 PM,15.00,119.99,057,2.5,010km S 83° W of San Narciso (Zambales),010,S 83° W,San Narciso (Zambales)
+2026-04-28T21:21:00.000Z,28 April 2026 - 09:21 PM,07.20,125.97,045,1.6,011km N 43° E of Pantukan (Davao De Oro),011,N 43° E,Pantukan (Davao De Oro)
+2026-04-28T21:12:00.000Z,28 April 2026 - 09:12 PM,13.55,121.96,006,2.4,011km N 42° W of Santa Cruz (Marinduque),011,N 42° W,Santa Cruz (Marinduque)
 2026-04-28T20:49:00.000Z,28 April 2026 - 08:49 PM,16.60,122.55,008,2.6,031km N 75° E of Dinapigue (Isabela),031,N 75° E,Dinapigue (Isabela)
 2026-04-28T20:47:00.000Z,28 April 2026 - 08:47 PM,05.66,126.99,010,3.3,150km S 43° E of Governor Generoso (Davao Oriental),150,S 43° E,Governor Generoso (Davao Oriental)
 2026-04-28T19:06:00.000Z,28 April 2026 - 07:06 PM,09.74,126.21,019,2.3,007km S 49° E of General Luna (Surigao Del Norte),007,S 49° E,General Luna (Surigao Del Norte)
@@ -347,7 +351,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-22T00:01:00.000Z,22 April 2026 - 12:01 AM,05.38,126.10,115,2.4,071km S 83° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),071,S 83° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-04-21T23:41:00.000Z,21 April 2026 - 11:41 PM,13.26,123.35,023,1.4,010km S 65° W of Libon (Albay),010,S 65° W,Libon (Albay)
 2026-04-21T23:28:00.000Z,21 April 2026 - 11:28 PM,09.01,126.28,044,3.4,004km North of Bayabas (Surigao Del Sur),004,North of Bayabas,Del Sur)
-2026-04-21T23:17:00.000Z,21 April 2026 - 11:17 PM,13.75,120.32,029,1.8,009km N 65° E of Looc (Occidental Mindoro),009,N 65° E,Looc (Occidental Mindoro)
-2026-04-21T23:08:00.000Z,21 April 2026 - 11:08 PM,09.57,126.65,073,2.0,059km S 67° E of General Luna (Surigao Del Norte),059,S 67° E,General Luna (Surigao Del Norte)
-2026-04-21T21:50:00.000Z,21 April 2026 - 09:50 PM,17.80,122.25,032,1.4,041km S 77° E of Baggao (Cagayan),041,S 77° E,Baggao (Cagayan)
-2026-04-21T21:41:00.000Z,21 April 2026 - 09:41 PM,13.44,120.58,018,1.9,013km N 77° E of Paluan (Occidental Mindoro),013,N 77° E,Paluan (Occidental Mindoro)
