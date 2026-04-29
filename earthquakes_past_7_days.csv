@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-30T04:21:00.000Z,30 April 2026 - 04:21 AM,11.15,123.97,035,1.6,011km N 08° W of City Of Bogo (Cebu),011,N 08° W,City Of Bogo (Cebu)
+2026-04-30T04:16:00.000Z,30 April 2026 - 04:16 AM,18.66,120.86,002,1.7,013km N 35° E of Pagudpud (Ilocos Norte),013,N 35° E,Pagudpud (Ilocos Norte)
+2026-04-30T04:06:00.000Z,30 April 2026 - 04:06 AM,07.23,126.84,030,2.4,033km S 71° E of Caraga (Davao Oriental),033,S 71° E,Caraga (Davao Oriental)
+2026-04-30T03:52:00.000Z,30 April 2026 - 03:52 AM,09.15,126.61,021,2.7,041km N 61° E of Bayabas (Surigao Del Sur),041,N 61° E,Bayabas (Surigao Del Sur)
+2026-04-30T03:51:00.000Z,30 April 2026 - 03:51 AM,19.71,121.84,011,2.6,023km N 19° W of Babuyan Island (Calayan) (Cagayan),023,N 19° W,Babuyan Island (Calayan) (Cagayan)
 2026-04-30T03:13:00.000Z,30 April 2026 - 03:13 AM,17.53,120.41,053,2.0,004km S 52° E of Caoayan (Ilocos Sur),004,S 52° E,Caoayan (Ilocos Sur)
 2026-04-30T03:02:00.000Z,30 April 2026 - 03:02 AM,09.00,126.53,034,1.7,027km N 84° E of Bayabas (Surigao Del Sur),027,N 84° E,Bayabas (Surigao Del Sur)
 2026-04-30T02:59:00.000Z,30 April 2026 - 02:59 AM,09.96,124.12,025,2.1,006km N 29° E of Sagbayan (Bohol),006,N 29° E,Sagbayan (Bohol)
@@ -328,7 +333,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-23T21:02:00.000Z,23 April 2026 - 09:02 PM,07.56,124.48,003,1.8,013km N 69° E of Buldon (Maguindanao Del Norte),013,N 69° E,Buldon (Maguindanao Del Norte)
 2026-04-23T20:51:00.000Z,23 April 2026 - 08:51 PM,07.64,126.01,032,1.4,006km N 43° E of Nabunturan (Davao De Oro),006,N 43° E,Nabunturan (Davao De Oro)
 2026-04-23T19:52:00.000Z,23 April 2026 - 07:52 PM,10.48,125.12,002,3.2,007km S 41° W of Silago (Southern Leyte),007,S 41° W,Silago (Southern Leyte)
-2026-04-23T03:58:00.000Z,23 April 2026 - 03:58 AM,17.66,120.53,025,1.6,010km N 21° W of Langiden (Abra),010,N 21° W,Langiden (Abra)
 2026-04-23T19:12:00.000Z,23 April 2026 - 07:12 PM,15.56,119.80,027,1.4,016km S 63° W of Candelaria (Zambales),016,S 63° W,Candelaria (Zambales)
 2026-04-23T18:54:00.000Z,23 April 2026 - 06:54 PM,13.60,120.42,036,1.9,021km N 15° W of Paluan (Occidental Mindoro),021,N 15° W,Paluan (Occidental Mindoro)
 2026-04-23T18:08:00.000Z,23 April 2026 - 06:08 PM,07.25,126.83,022,2.4,032km N 83° E of Manay (Davao Oriental),032,N 83° E,Manay (Davao Oriental)
@@ -360,5 +364,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-23T06:27:00.000Z,23 April 2026 - 06:27 AM,19.26,121.26,005,2.8,018km N 17° E of Dalupiri Island (Calayan) (Cagayan),018,N 17° E,Dalupiri Island (Calayan) (Cagayan)
 2026-04-23T05:39:00.000Z,23 April 2026 - 05:39 AM,13.98,120.45,064,2.1,023km S 73° W of Lian (Batangas),023,S 73° W,Lian (Batangas)
 2026-04-23T05:25:00.000Z,23 April 2026 - 05:25 AM,14.04,123.89,061,1.6,027km N 50° E of Garchitorena (Camarines Sur),027,N 50° E,Garchitorena (Camarines Sur)
-2026-04-23T03:59:00.000Z,23 April 2026 - 03:59 AM,17.80,120.56,029,1.9,011km N 88° E of Cabugao (Ilocos Sur),011,N 88° E,Cabugao (Ilocos Sur)
-2026-04-23T03:57:00.000Z,23 April 2026 - 03:57 AM,17.71,120.46,033,1.7,004km N 53° E of Magsingal (Ilocos Sur),004,N 53° E,Magsingal (Ilocos Sur)
