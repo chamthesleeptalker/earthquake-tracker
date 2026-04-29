@@ -1,2 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-29T22:12:00.000Z,29 April 2026 - 10:12 PM,18.53,120.86,010,2.1,006km N 86° E of Dumalneg (Ilocos Norte),006,N 86° E,Dumalneg (Ilocos Norte)
+2026-04-30T00:02:00.000Z,30 April 2026 - 12:02 AM,15.02,122.02,010,2.7,020km N 16° E of Burdeos (Quezon),020,N 16° E,Burdeos (Quezon)
+2026-04-30T00:01:00.000Z,30 April 2026 - 12:01 AM,08.22,125.82,032,2.1,006km N 43° W of Loreto (Agusan Del Sur),006,N 43° W,Loreto (Agusan Del Sur)
+2026-04-29T23:57:00.000Z,29 April 2026 - 11:57 PM,08.30,125.99,013,2.3,010km S 05° W of Rosario (Agusan Del Sur),010,S 05° W,Rosario (Agusan Del Sur)
+2026-04-29T23:50:00.000Z,29 April 2026 - 11:50 PM,05.45,126.85,015,3.8,143km S 69° E of Jose Abad Santos (Davao Occidental),143,S 69° E,Jose Abad Santos (Davao Occidental)
+2026-04-29T23:41:00.000Z,29 April 2026 - 11:41 PM,15.05,121.97,010,2.7,023km N 0° E of Burdeos (Quezon),023,N 0° E,Burdeos (Quezon)
+2026-04-29T23:08:00.000Z,29 April 2026 - 11:08 PM,12.35,125.61,015,2.4,022km N 31° E of San Policarpo (Eastern Samar),022,N 31° E,San Policarpo (Eastern Samar)
