@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-30T01:02:00.000Z,30 April 2026 - 01:02 AM,16.83,122.54,006,2.7,029km S 25° E of Palanan (Isabela),029,S 25° E,Palanan (Isabela)
-2026-04-30T00:49:00.000Z,30 April 2026 - 12:49 AM,11.04,123.63,006,2.7,016km S 35° W of Bantayan (Cebu),016,S 35° W,Bantayan (Cebu)
-2026-04-30T00:32:00.000Z,30 April 2026 - 12:32 AM,07.40,126.68,137,2.8,015km N 56° E of Caraga (Davao Oriental),015,N 56° E,Caraga (Davao Oriental)
-2026-04-30T00:02:00.000Z,30 April 2026 - 12:02 AM,15.02,122.02,010,2.7,020km N 16° E of Burdeos (Quezon),020,N 16° E,Burdeos (Quezon)
+2026-04-30T03:13:00.000Z,30 April 2026 - 03:13 AM,17.53,120.41,053,2.0,004km S 52° E of Caoayan (Ilocos Sur),004,S 52° E,Caoayan (Ilocos Sur)
+2026-04-30T03:02:00.000Z,30 April 2026 - 03:02 AM,09.00,126.53,034,1.7,027km N 84° E of Bayabas (Surigao Del Sur),027,N 84° E,Bayabas (Surigao Del Sur)
+2026-04-30T02:59:00.000Z,30 April 2026 - 02:59 AM,09.96,124.12,025,2.1,006km N 29° E of Sagbayan (Bohol),006,N 29° E,Sagbayan (Bohol)
