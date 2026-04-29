@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-29T22:12:00.000Z,29 April 2026 - 10:12 PM,18.53,120.86,010,2.1,006km N 86° E of Dumalneg (Ilocos Norte),006,N 86° E,Dumalneg (Ilocos Norte)
+2026-04-29T20:46:00.000Z,29 April 2026 - 08:46 PM,06.08,126.59,002,2.8,085km S 42° E of Governor Generoso (Davao Oriental),085,S 42° E,Governor Generoso (Davao Oriental)
+2026-04-29T20:36:00.000Z,29 April 2026 - 08:36 PM,10.97,123.67,002,2.8,022km S 14° W of Bantayan (Cebu),022,S 14° W,Bantayan (Cebu)
+2026-04-29T19:59:00.000Z,29 April 2026 - 07:59 PM,15.04,122.06,003,3.1,025km N 25° E of Burdeos (Quezon),025,N 25° E,Burdeos (Quezon)
 2026-04-29T19:36:00.000Z,29 April 2026 - 07:36 PM,11.78,125.45,028,2.9,002km N 05° W of San Julian (Eastern Samar),002,N 05° W,San Julian (Eastern Samar)
 2026-04-29T19:34:00.000Z,29 April 2026 - 07:34 PM,10.94,123.91,006,3.2,014km S 32° W of City Of Bogo (Cebu),014,S 32° W,City Of Bogo (Cebu)
 2026-04-29T19:30:00.000Z,29 April 2026 - 07:30 PM,07.37,126.76,014,2.7,022km N 77° E of Caraga (Davao Oriental),022,N 77° E,Caraga (Davao Oriental)
@@ -57,8 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-29T00:28:00.000Z,29 April 2026 - 12:28 AM,15.20,122.06,003,3.5,041km N 14° E of Burdeos (Quezon),041,N 14° E,Burdeos (Quezon)
 2026-04-28T23:54:00.000Z,28 April 2026 - 11:54 PM,16.33,122.04,046,1.4,010km N 57° W of Casiguran (Aurora),010,N 57° W,Casiguran (Aurora)
 2026-04-28T23:20:00.000Z,28 April 2026 - 11:20 PM,09.99,126.39,002,2.8,034km N 79° E of San Isidro (Surigao Del Norte),034,N 79° E,San Isidro (Surigao Del Norte)
-2026-04-28T22:03:00.000Z,28 April 2026 - 10:03 PM,15.00,119.99,057,2.5,010km S 83° W of San Narciso (Zambales),010,S 83° W,San Narciso (Zambales)
-2026-04-28T21:21:00.000Z,28 April 2026 - 09:21 PM,07.20,125.97,045,1.6,011km N 43° E of Pantukan (Davao De Oro),011,N 43° E,Pantukan (Davao De Oro)
-2026-04-28T21:12:00.000Z,28 April 2026 - 09:12 PM,13.55,121.96,006,2.4,011km N 42° W of Santa Cruz (Marinduque),011,N 42° W,Santa Cruz (Marinduque)
-2026-04-28T20:49:00.000Z,28 April 2026 - 08:49 PM,16.60,122.55,008,2.6,031km N 75° E of Dinapigue (Isabela),031,N 75° E,Dinapigue (Isabela)
-2026-04-28T20:47:00.000Z,28 April 2026 - 08:47 PM,05.66,126.99,010,3.3,150km S 43° E of Governor Generoso (Davao Oriental),150,S 43° E,Governor Generoso (Davao Oriental)
