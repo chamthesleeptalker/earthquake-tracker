@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-29T19:36:00.000Z,29 April 2026 - 07:36 PM,11.78,125.45,028,2.9,002km N 05° W of San Julian (Eastern Samar),002,N 05° W,San Julian (Eastern Samar)
+2026-04-29T19:34:00.000Z,29 April 2026 - 07:34 PM,10.94,123.91,006,3.2,014km S 32° W of City Of Bogo (Cebu),014,S 32° W,City Of Bogo (Cebu)
+2026-04-29T19:30:00.000Z,29 April 2026 - 07:30 PM,07.37,126.76,014,2.7,022km N 77° E of Caraga (Davao Oriental),022,N 77° E,Caraga (Davao Oriental)
 2026-04-29T17:11:00.000Z,29 April 2026 - 05:11 PM,16.44,120.58,024,1.4,002km S 22° W of La Trinidad (Benguet),002,S 22° W,La Trinidad (Benguet)
 2026-04-29T16:51:00.000Z,29 April 2026 - 04:51 PM,09.65,126.12,031,1.6,014km S 32° E of Dapa (Surigao Del Norte),014,S 32° E,Dapa (Surigao Del Norte)
 2026-04-29T16:33:00.000Z,29 April 2026 - 04:33 PM,15.63,119.95,005,3.4,002km N 86° E of Candelaria (Zambales),002,N 86° E,Candelaria (Zambales)
@@ -356,4 +359,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-22T21:08:00.000Z,22 April 2026 - 09:08 PM,08.42,126.63,001,2.3,033km N 79° E of Hinatuan (Surigao Del Sur),033,N 79° E,Hinatuan (Surigao Del Sur)
 2026-04-22T20:28:00.000Z,22 April 2026 - 08:28 PM,07.52,127.06,042,2.0,056km S 84° E of Baganga (Davao Oriental),056,S 84° E,Baganga (Davao Oriental)
 2026-04-22T19:50:00.000Z,22 April 2026 - 07:50 PM,19.33,121.38,017,1.7,012km N 53° W of Calayan (Cagayan),012,N 53° W,Calayan (Cagayan)
-2026-04-22T18:35:00.000Z,22 April 2026 - 06:35 PM,19.04,121.10,010,3.0,013km S 57° W of Dalupiri Island (Calayan) (Cagayan),013,S 57° W,Dalupiri Island (Calayan) (Cagayan)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-29T19:36:00.000Z,29 April 2026 - 07:36 PM,11.78,125.45,028,2.9,002km N 05° W of San Julian (Eastern Samar),002,N 05° W,San Julian (Eastern Samar)
+2026-04-29T19:34:00.000Z,29 April 2026 - 07:34 PM,10.94,123.91,006,3.2,014km S 32° W of City Of Bogo (Cebu),014,S 32° W,City Of Bogo (Cebu)
+2026-04-29T19:30:00.000Z,29 April 2026 - 07:30 PM,07.37,126.76,014,2.7,022km N 77° E of Caraga (Davao Oriental),022,N 77° E,Caraga (Davao Oriental)
 2026-04-29T17:11:00.000Z,29 April 2026 - 05:11 PM,16.44,120.58,024,1.4,002km S 22° W of La Trinidad (Benguet),002,S 22° W,La Trinidad (Benguet)
 2026-04-29T16:51:00.000Z,29 April 2026 - 04:51 PM,09.65,126.12,031,1.6,014km S 32° E of Dapa (Surigao Del Norte),014,S 32° E,Dapa (Surigao Del Norte)
 2026-04-29T16:33:00.000Z,29 April 2026 - 04:33 PM,15.63,119.95,005,3.4,002km N 86° E of Candelaria (Zambales),002,N 86° E,Candelaria (Zambales)
@@ -59,7 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-28T21:12:00.000Z,28 April 2026 - 09:12 PM,13.55,121.96,006,2.4,011km N 42° W of Santa Cruz (Marinduque),011,N 42° W,Santa Cruz (Marinduque)
 2026-04-28T20:49:00.000Z,28 April 2026 - 08:49 PM,16.60,122.55,008,2.6,031km N 75° E of Dinapigue (Isabela),031,N 75° E,Dinapigue (Isabela)
 2026-04-28T20:47:00.000Z,28 April 2026 - 08:47 PM,05.66,126.99,010,3.3,150km S 43° E of Governor Generoso (Davao Oriental),150,S 43° E,Governor Generoso (Davao Oriental)
-2026-04-28T19:06:00.000Z,28 April 2026 - 07:06 PM,09.74,126.21,019,2.3,007km S 49° E of General Luna (Surigao Del Norte),007,S 49° E,General Luna (Surigao Del Norte)
-2026-04-28T18:22:00.000Z,28 April 2026 - 06:22 PM,06.24,126.00,014,2.3,034km N 82° E of Don Marcelino (Davao Occidental),034,N 82° E,Don Marcelino (Davao Occidental)
-2026-04-28T18:22:00.000Z,28 April 2026 - 06:22 PM,09.06,126.07,010,3.1,011km S 82° W of City Of Tandag (Surigao Del Sur),011,S 82° W,City Of Tandag (Surigao Del Sur)
-2026-04-28T17:58:00.000Z,28 April 2026 - 05:58 PM,17.80,120.25,025,1.7,022km N 89° W of Cabugao (Ilocos Sur),022,N 89° W,Cabugao (Ilocos Sur)
