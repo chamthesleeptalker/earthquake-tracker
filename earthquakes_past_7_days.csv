@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-30T18:44:00.000Z,30 April 2026 - 06:44 PM,07.00,126.49,150,4.1,007km S 40° E of Tarragona (Davao Oriental),007,S 40° E,Tarragona (Davao Oriental)
+2026-04-30T17:48:00.000Z,30 April 2026 - 05:48 PM,12.79,123.04,006,2.8,026km S 61° W of Claveria (Masbate),026,S 61° W,Claveria (Masbate)
 2026-04-30T17:19:00.000Z,30 April 2026 - 05:19 PM,13.26,119.66,002,2.1,082km S 51° W of Looc (Occidental Mindoro),082,S 51° W,Looc (Occidental Mindoro)
 2026-04-30T16:38:00.000Z,30 April 2026 - 04:38 PM,13.36,120.49,101,1.7,007km S 20° E of Paluan (Occidental Mindoro),007,S 20° E,Paluan (Occidental Mindoro)
 2026-04-30T14:06:00.000Z,30 April 2026 - 02:06 PM,08.06,126.02,007,2.3,006km N 67° W of Trento (Agusan Del Sur),006,N 67° W,Trento (Agusan Del Sur)
@@ -353,7 +355,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-23T19:52:00.000Z,23 April 2026 - 07:52 PM,10.48,125.12,002,3.2,007km S 41° W of Silago (Southern Leyte),007,S 41° W,Silago (Southern Leyte)
 2026-04-23T19:12:00.000Z,23 April 2026 - 07:12 PM,15.56,119.80,027,1.4,016km S 63° W of Candelaria (Zambales),016,S 63° W,Candelaria (Zambales)
 2026-04-23T18:54:00.000Z,23 April 2026 - 06:54 PM,13.60,120.42,036,1.9,021km N 15° W of Paluan (Occidental Mindoro),021,N 15° W,Paluan (Occidental Mindoro)
-2026-04-23T18:08:00.000Z,23 April 2026 - 06:08 PM,07.25,126.83,022,2.4,032km N 83° E of Manay (Davao Oriental),032,N 83° E,Manay (Davao Oriental)
-2026-04-23T17:52:00.000Z,23 April 2026 - 05:52 PM,13.57,120.69,009,2.0,014km N 16° W of Abra De Ilog (Occidental Mindoro),014,N 16° W,Abra De Ilog (Occidental Mindoro)
-2026-04-23T17:39:00.000Z,23 April 2026 - 05:39 PM,07.65,126.52,021,2.2,010km N 31° W of Baganga (Davao Oriental),010,N 31° W,Baganga (Davao Oriental)
-2026-04-23T17:19:00.000Z,23 April 2026 - 05:19 PM,18.24,121.01,033,1.9,004km S 64° W of Calanasan (Apayao),004,S 64° W,Calanasan (Apayao)
