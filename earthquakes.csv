@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-30T11:06:00.000Z,30 April 2026 - 11:06 AM,15.60,119.88,028,2.1,007km S 64° W of Candelaria (Zambales),007,S 64° W,Candelaria (Zambales)
+2026-04-30T09:33:00.000Z,30 April 2026 - 09:33 AM,08.86,126.64,010,2.3,038km S 79° E of Cagwait (Surigao Del Sur),038,S 79° E,Cagwait (Surigao Del Sur)
+2026-04-30T08:51:00.000Z,30 April 2026 - 08:51 AM,08.83,126.29,025,1.5,004km N 22° W of Marihatag (Surigao Del Sur),004,N 22° W,Marihatag (Surigao Del Sur)
+2026-04-30T08:34:00.000Z,30 April 2026 - 08:34 AM,17.67,122.59,040,2.0,049km N 40° E of Divilacan (Isabela),049,N 40° E,Divilacan (Isabela)
+2026-04-30T08:18:00.000Z,30 April 2026 - 08:18 AM,18.98,121.16,006,2.5,015km S 22° W of Dalupiri Island (Calayan) (Cagayan),015,S 22° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-30T07:53:00.000Z,30 April 2026 - 07:53 AM,15.01,122.09,017,1.9,023km N 36° E of Burdeos (Quezon),023,N 36° E,Burdeos (Quezon)
 2026-04-30T07:02:00.000Z,30 April 2026 - 07:02 AM,16.95,121.72,032,1.5,002km S 37° W of Luna (Isabela),002,S 37° W,Luna (Isabela)
 2026-04-30T06:50:00.000Z,30 April 2026 - 06:50 AM,15.03,122.07,002,2.4,023km N 29° E of Burdeos (Quezon),023,N 29° E,Burdeos (Quezon)
