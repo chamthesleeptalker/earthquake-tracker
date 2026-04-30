@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-30T23:01:00.000Z,30 April 2026 - 11:01 PM,07.48,126.90,10,4.9,038km S 74° E of Baganga (Davao Oriental),038,S 74° E,Baganga (Davao Oriental)
 2026-04-29T06:58:00.000Z,29 April 2026 - 06:58 AM,12.50,125.74,18,4.8,044km N 36° E of San Policarpo (Eastern Samar),044,N 36° E,San Policarpo (Eastern Samar)
 2026-04-30T06:04:00.000Z,30 April 2026 - 06:04 AM,08.94,126.64,16,4.6,037km N 86° E of Cagwait (Surigao Del Sur),037,N 86° E,Cagwait (Surigao Del Sur)
 2026-04-26T15:20:00.000Z,26 April 2026 - 03:20 PM,03.07,126.49,155,4.4,285km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),285,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -6,6 +7,5 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-27T19:16:00.000Z,27 April 2026 - 07:16 PM,08.80,126.57,47,4.1,030km N 90° E of Marihatag (Surigao Del Sur),030,N 90° E,Marihatag (Surigao Del Sur)
 2026-04-26T12:35:00.000Z,26 April 2026 - 12:35 PM,19.06,120.38,23,4.1,067km N 25° W of Burgos (Ilocos Norte),067,N 25° W,Burgos (Ilocos Norte)
 2026-04-25T21:19:00.000Z,25 April 2026 - 09:19 PM,08.17,126.68,10,4.1,032km N 63° E of Lingig (Surigao Del Sur),032,N 63° E,Lingig (Surigao Del Sur)
-2026-04-23T22:16:00.000Z,23 April 2026 - 10:16 PM,13.57,123.77,4,4.1,016km N 38° E of Tiwi (Albay),016,N 38° E,Tiwi (Albay)
 2026-04-29T10:20:00.000Z,29 April 2026 - 10:20 AM,16.60,120.25,85,3.9,007km S 75° W of City Of San Fernando (La Union),007,S 75° W,City Of San Fernando (La Union)
-2026-04-29T23:50:00.000Z,29 April 2026 - 11:50 PM,05.45,126.85,15,3.8,143km S 69° E of Jose Abad Santos (Davao Occidental),143,S 69° E,Jose Abad Santos (Davao Occidental)
+2026-04-30T21:53:00.000Z,30 April 2026 - 09:53 PM,09.66,125.93,58,3.8,006km N 38° W of Socorro (Surigao Del Norte),006,N 38° W,Socorro (Surigao Del Norte)
