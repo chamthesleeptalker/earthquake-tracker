@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T01:58:00.000Z,01 May 2026 - 01:58 AM,08.70,126.93,010,2.6,071km S 81° E of Marihatag (Surigao Del Sur),071,S 81° E,Marihatag (Surigao Del Sur)
 2026-05-01T00:23:00.000Z,01 May 2026 - 12:23 AM,09.92,126.27,002,2.6,019km N 40° E of General Luna (Surigao Del Norte),019,N 40° E,General Luna (Surigao Del Norte)
 2026-05-01T00:20:00.000Z,01 May 2026 - 12:20 AM,11.22,123.65,036,1.9,009km N 54° W of Bantayan (Cebu),009,N 54° W,Bantayan (Cebu)
 2026-05-01T00:07:00.000Z,01 May 2026 - 12:07 AM,05.97,126.38,135,3.2,080km S 72° E of Don Marcelino (Davao Occidental),080,S 72° E,Don Marcelino (Davao Occidental)
@@ -40,6 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-30T03:13:00.000Z,30 April 2026 - 03:13 AM,17.53,120.41,053,2.0,004km S 52° E of Caoayan (Ilocos Sur),004,S 52° E,Caoayan (Ilocos Sur)
 2026-04-30T03:02:00.000Z,30 April 2026 - 03:02 AM,09.00,126.53,034,1.7,027km N 84° E of Bayabas (Surigao Del Sur),027,N 84° E,Bayabas (Surigao Del Sur)
 2026-04-30T02:59:00.000Z,30 April 2026 - 02:59 AM,09.96,124.12,025,2.1,006km N 29° E of Sagbayan (Bohol),006,N 29° E,Sagbayan (Bohol)
-2026-04-30T01:02:00.000Z,30 April 2026 - 01:02 AM,16.83,122.54,006,2.7,029km S 25° E of Palanan (Isabela),029,S 25° E,Palanan (Isabela)
-2026-04-30T00:49:00.000Z,30 April 2026 - 12:49 AM,11.04,123.63,006,2.7,016km S 35° W of Bantayan (Cebu),016,S 35° W,Bantayan (Cebu)
-2026-04-30T00:32:00.000Z,30 April 2026 - 12:32 AM,07.40,126.68,137,2.8,015km N 56° E of Caraga (Davao Oriental),015,N 56° E,Caraga (Davao Oriental)

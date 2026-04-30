@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T01:58:00.000Z,01 May 2026 - 01:58 AM,08.70,126.93,010,2.6,071km S 81° E of Marihatag (Surigao Del Sur),071,S 81° E,Marihatag (Surigao Del Sur)
 2026-05-01T00:23:00.000Z,01 May 2026 - 12:23 AM,09.92,126.27,002,2.6,019km N 40° E of General Luna (Surigao Del Norte),019,N 40° E,General Luna (Surigao Del Norte)
 2026-05-01T00:20:00.000Z,01 May 2026 - 12:20 AM,11.22,123.65,036,1.9,009km N 54° W of Bantayan (Cebu),009,N 54° W,Bantayan (Cebu)
 2026-05-01T00:07:00.000Z,01 May 2026 - 12:07 AM,05.97,126.38,135,3.2,080km S 72° E of Don Marcelino (Davao Occidental),080,S 72° E,Don Marcelino (Davao Occidental)
@@ -348,7 +349,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T02:42:00.000Z,24 April 2026 - 02:42 AM,14.13,120.32,098,2.4,039km S 29° W of Mariveles (Bataan),039,S 29° W,Mariveles (Bataan)
 2026-04-24T02:21:00.000Z,24 April 2026 - 02:21 AM,10.30,125.23,002,2.2,007km S 19° W of Hinundayan (Southern Leyte),007,S 19° W,Hinundayan (Southern Leyte)
 2026-04-24T02:05:00.000Z,24 April 2026 - 02:05 AM,11.38,125.36,005,2.1,021km S 78° W of Llorente (Eastern Samar),021,S 78° W,Llorente (Eastern Samar)
-2026-04-24T01:19:00.000Z,24 April 2026 - 01:19 AM,14.71,121.90,026,1.4,004km S 82° W of Polillo (Quezon),004,S 82° W,Polillo (Quezon)
-2026-04-24T01:11:00.000Z,24 April 2026 - 01:11 AM,13.77,123.74,002,2.4,009km N 01° E of Presentacion (Camarines Sur),009,N 01° E,Presentacion (Camarines Sur)
-2026-04-24T00:48:00.000Z,24 April 2026 - 12:48 AM,17.62,120.64,011,1.5,002km N 71° W of Tayum (Abra),002,N 71° W,Tayum (Abra)
-2026-04-24T00:33:00.000Z,24 April 2026 - 12:33 AM,12.29,125.47,014,1.5,011km N 75° E of Arteche (Eastern Samar),011,N 75° E,Arteche (Eastern Samar)
