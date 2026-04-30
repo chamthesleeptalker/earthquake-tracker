@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-04-30T23:17:00.000Z,30 April 2026 - 11:17 PM,08.06,123.16,019,2.2,017km N 78° W of Midsalip (Zamboanga Del Sur),017,N 78° W,Midsalip (Zamboanga Del Sur)
-2026-04-30T23:01:00.000Z,30 April 2026 - 11:01 PM,07.48,126.90,010,4.9,038km S 74° E of Baganga (Davao Oriental),038,S 74° E,Baganga (Davao Oriental)
-2026-04-30T22:18:00.000Z,30 April 2026 - 10:18 PM,07.98,126.53,019,2.3,015km S 62° E of Lingig (Surigao Del Sur),015,S 62° E,Lingig (Surigao Del Sur)
+2026-05-01T00:23:00.000Z,01 May 2026 - 12:23 AM,09.92,126.27,002,2.6,019km N 40° E of General Luna (Surigao Del Norte),019,N 40° E,General Luna (Surigao Del Norte)
+2026-05-01T00:20:00.000Z,01 May 2026 - 12:20 AM,11.22,123.65,036,1.9,009km N 54° W of Bantayan (Cebu),009,N 54° W,Bantayan (Cebu)
+2026-05-01T00:07:00.000Z,01 May 2026 - 12:07 AM,05.97,126.38,135,3.2,080km S 72° E of Don Marcelino (Davao Occidental),080,S 72° E,Don Marcelino (Davao Occidental)
+2026-04-30T23:44:00.000Z,30 April 2026 - 11:44 PM,12.39,123.61,024,1.9,003km N 34° W of City Of Masbate (Masbate),003,N 34° W,City Of Masbate (Masbate)
