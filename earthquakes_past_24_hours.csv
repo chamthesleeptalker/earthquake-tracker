@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T03:48:00.000Z,01 May 2026 - 03:48 AM,13.60,120.70,118,2.8,017km N 10° W of Abra De Ilog (Occidental Mindoro),017,N 10° W,Abra De Ilog (Occidental Mindoro)
 2026-05-01T03:42:00.000Z,01 May 2026 - 03:42 AM,07.12,126.90,017,2.1,041km S 76° E of Manay (Davao Oriental),041,S 76° E,Manay (Davao Oriental)
 2026-05-01T03:33:00.000Z,01 May 2026 - 03:33 AM,13.77,120.76,110,1.8,016km S 62° E of Calatagan (Batangas),016,S 62° E,Calatagan (Batangas)
 2026-05-01T03:12:00.000Z,01 May 2026 - 03:12 AM,16.48,122.13,002,2.0,013km N 40° W of Dilasag (Aurora),013,N 40° W,Dilasag (Aurora)
