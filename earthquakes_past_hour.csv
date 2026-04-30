@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-01T01:58:00.000Z,01 May 2026 - 01:58 AM,08.70,126.93,010,2.6,071km S 81° E of Marihatag (Surigao Del Sur),071,S 81° E,Marihatag (Surigao Del Sur)
+2026-05-01T03:42:00.000Z,01 May 2026 - 03:42 AM,07.12,126.90,017,2.1,041km S 76° E of Manay (Davao Oriental),041,S 76° E,Manay (Davao Oriental)
+2026-05-01T03:33:00.000Z,01 May 2026 - 03:33 AM,13.77,120.76,110,1.8,016km S 62° E of Calatagan (Batangas),016,S 62° E,Calatagan (Batangas)
+2026-05-01T03:12:00.000Z,01 May 2026 - 03:12 AM,16.48,122.13,002,2.0,013km N 40° W of Dilasag (Aurora),013,N 40° W,Dilasag (Aurora)
+2026-05-01T03:00:00.000Z,01 May 2026 - 03:00 AM,08.46,126.24,018,2.3,009km S 89° E of Tagbina (Surigao Del Sur),009,S 89° E,Tagbina (Surigao Del Sur)
+2026-05-01T02:56:00.000Z,01 May 2026 - 02:56 AM,09.88,124.16,031,2.2,008km N 27° W of Carmen (Bohol),008,N 27° W,Carmen (Bohol)
