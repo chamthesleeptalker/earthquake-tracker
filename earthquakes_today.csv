@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-30T14:06:00.000Z,30 April 2026 - 02:06 PM,08.06,126.02,007,2.3,006km N 67° W of Trento (Agusan Del Sur),006,N 67° W,Trento (Agusan Del Sur)
+2026-04-30T13:46:00.000Z,30 April 2026 - 01:46 PM,08.67,123.09,002,1.7,017km N 02° W of Manukan (Zamboanga Del Norte),017,N 02° W,Manukan (Zamboanga Del Norte)
+2026-04-30T13:25:00.000Z,30 April 2026 - 01:25 PM,05.63,125.98,080,2.7,049km S 50° E of Jose Abad Santos (Davao Occidental),049,S 50° E,Jose Abad Santos (Davao Occidental)
+2026-04-30T13:24:00.000Z,30 April 2026 - 01:24 PM,06.88,126.85,018,2.5,048km S 66° E of Tarragona (Davao Oriental),048,S 66° E,Tarragona (Davao Oriental)
+2026-04-30T13:21:00.000Z,30 April 2026 - 01:21 PM,15.64,121.17,033,1.4,003km N 66° E of Bongabon (Nueva Ecija),003,N 66° E,Bongabon (Nueva Ecija)
+2026-04-30T12:15:00.000Z,30 April 2026 - 12:15 PM,10.12,122.06,007,3.1,037km S 23° E of Anini-y (Antique),037,S 23° E,Anini-y (Antique)
+2026-04-30T12:15:00.000Z,30 April 2026 - 12:15 PM,14.71,121.42,017,1.5,020km N 77° W of Real (Quezon),020,N 77° W,Real (Quezon)
 2026-04-30T11:06:00.000Z,30 April 2026 - 11:06 AM,15.60,119.88,028,2.1,007km S 64° W of Candelaria (Zambales),007,S 64° W,Candelaria (Zambales)
 2026-04-30T09:33:00.000Z,30 April 2026 - 09:33 AM,08.86,126.64,010,2.3,038km S 79° E of Cagwait (Surigao Del Sur),038,S 79° E,Cagwait (Surigao Del Sur)
 2026-04-30T08:51:00.000Z,30 April 2026 - 08:51 AM,08.83,126.29,025,1.5,004km N 22° W of Marihatag (Surigao Del Sur),004,N 22° W,Marihatag (Surigao Del Sur)
