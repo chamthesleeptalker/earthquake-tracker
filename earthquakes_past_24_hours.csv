@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T06:39:00.000Z,01 May 2026 - 06:39 AM,14.98,122.09,009,1.9,020km N 41° E of Burdeos (Quezon),020,N 41° E,Burdeos (Quezon)
+2026-05-01T06:12:00.000Z,01 May 2026 - 06:12 AM,14.98,122.07,017,1.9,019km N 37° E of Burdeos (Quezon),019,N 37° E,Burdeos (Quezon)
+2026-05-01T06:06:00.000Z,01 May 2026 - 06:06 AM,13.85,119.76,005,3.3,038km S 89° W of Lubang (Occidental Mindoro),038,S 89° W,Lubang (Occidental Mindoro)
 2026-05-01T05:54:00.000Z,01 May 2026 - 05:54 AM,14.65,121.89,026,1.4,008km S 37° W of Polillo (Quezon),008,S 37° W,Polillo (Quezon)
 2026-05-01T05:51:00.000Z,01 May 2026 - 05:51 AM,18.83,121.93,006,2.1,011km S 40° E of Camiguin Island (Calayan) (Cagayan),011,S 40° E,Camiguin Island (Calayan) (Cagayan)
 2026-05-01T05:46:00.000Z,01 May 2026 - 05:46 AM,18.76,121.91,008,1.4,017km S 16° E of Camiguin Island (Calayan) (Cagayan),017,S 16° E,Camiguin Island (Calayan) (Cagayan)
@@ -46,4 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-30T07:53:00.000Z,30 April 2026 - 07:53 AM,15.01,122.09,017,1.9,023km N 36° E of Burdeos (Quezon),023,N 36° E,Burdeos (Quezon)
 2026-04-30T07:02:00.000Z,30 April 2026 - 07:02 AM,16.95,121.72,032,1.5,002km S 37° W of Luna (Isabela),002,S 37° W,Luna (Isabela)
 2026-04-30T06:50:00.000Z,30 April 2026 - 06:50 AM,15.03,122.07,002,2.4,023km N 29° E of Burdeos (Quezon),023,N 29° E,Burdeos (Quezon)
-2026-04-30T06:04:00.000Z,30 April 2026 - 06:04 AM,08.94,126.64,016,4.6,037km N 86° E of Cagwait (Surigao Del Sur),037,N 86° E,Cagwait (Surigao Del Sur)
