@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-30T07:53:00.000Z,30 April 2026 - 07:53 AM,15.01,122.09,017,1.9,023km N 36° E of Burdeos (Quezon),023,N 36° E,Burdeos (Quezon)
+2026-04-30T07:02:00.000Z,30 April 2026 - 07:02 AM,16.95,121.72,032,1.5,002km S 37° W of Luna (Isabela),002,S 37° W,Luna (Isabela)
 2026-04-30T06:50:00.000Z,30 April 2026 - 06:50 AM,15.03,122.07,002,2.4,023km N 29° E of Burdeos (Quezon),023,N 29° E,Burdeos (Quezon)
 2026-04-30T06:04:00.000Z,30 April 2026 - 06:04 AM,08.94,126.64,016,4.6,037km N 86° E of Cagwait (Surigao Del Sur),037,N 86° E,Cagwait (Surigao Del Sur)
 2026-04-30T04:21:00.000Z,30 April 2026 - 04:21 AM,11.15,123.97,035,1.6,011km N 08° W of City Of Bogo (Cebu),011,N 08° W,City Of Bogo (Cebu)
@@ -56,8 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-29T08:45:00.000Z,29 April 2026 - 08:45 AM,19.02,121.94,028,2.3,015km N 33° E of Camiguin Island (Calayan) (Cagayan),015,N 33° E,Camiguin Island (Calayan) (Cagayan)
 2026-04-29T08:27:00.000Z,29 April 2026 - 08:27 AM,12.29,125.32,008,2.3,004km S 37° E of Lapinig (Northern Samar),004,S 37° E,Lapinig (Northern Samar)
 2026-04-29T08:00:00.000Z,29 April 2026 - 08:00 AM,07.44,127.06,012,2.5,056km N 77° E of Caraga (Davao Oriental),056,N 77° E,Caraga (Davao Oriental)
-2026-04-29T07:22:00.000Z,29 April 2026 - 07:22 AM,12.23,125.35,007,2.9,005km S 23° W of Arteche (Eastern Samar),005,S 23° W,Arteche (Eastern Samar)
-2026-04-29T07:13:00.000Z,29 April 2026 - 07:13 AM,12.26,125.45,033,1.7,009km S 83° E of Arteche (Eastern Samar),009,S 83° E,Arteche (Eastern Samar)
-2026-04-29T07:08:00.000Z,29 April 2026 - 07:08 AM,12.18,125.47,030,1.5,004km N 83° W of San Policarpo (Eastern Samar),004,N 83° W,San Policarpo (Eastern Samar)
-2026-04-29T07:07:00.000Z,29 April 2026 - 07:07 AM,12.33,125.48,025,1.9,014km N 61° E of Arteche (Eastern Samar),014,N 61° E,Arteche (Eastern Samar)
-2026-04-29T06:58:00.000Z,29 April 2026 - 06:58 AM,12.50,125.74,018,4.8,044km N 36° E of San Policarpo (Eastern Samar),044,N 36° E,San Policarpo (Eastern Samar)

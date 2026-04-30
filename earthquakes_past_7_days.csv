@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-04-30T07:53:00.000Z,30 April 2026 - 07:53 AM,15.01,122.09,017,1.9,023km N 36° E of Burdeos (Quezon),023,N 36° E,Burdeos (Quezon)
+2026-04-30T07:02:00.000Z,30 April 2026 - 07:02 AM,16.95,121.72,032,1.5,002km S 37° W of Luna (Isabela),002,S 37° W,Luna (Isabela)
 2026-04-30T06:50:00.000Z,30 April 2026 - 06:50 AM,15.03,122.07,002,2.4,023km N 29° E of Burdeos (Quezon),023,N 29° E,Burdeos (Quezon)
 2026-04-30T06:04:00.000Z,30 April 2026 - 06:04 AM,08.94,126.64,016,4.6,037km N 86° E of Cagwait (Surigao Del Sur),037,N 86° E,Cagwait (Surigao Del Sur)
 2026-04-30T04:21:00.000Z,30 April 2026 - 04:21 AM,11.15,123.97,035,1.6,011km N 08° W of City Of Bogo (Cebu),011,N 08° W,City Of Bogo (Cebu)
@@ -361,5 +363,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-23T09:16:00.000Z,23 April 2026 - 09:16 AM,10.19,125.65,007,1.9,012km S 84° E of Libjo (Dinagat Islands),012,S 84° E,Libjo (Dinagat Islands)
 2026-04-23T08:59:00.000Z,23 April 2026 - 08:59 AM,13.64,120.57,086,2.2,023km S 19° W of Calatagan (Batangas),023,S 19° W,Calatagan (Batangas)
 2026-04-23T08:35:00.000Z,23 April 2026 - 08:35 AM,08.98,126.46,030,2.7,019km N 70° E of Cagwait (Surigao Del Sur),019,N 70° E,Cagwait (Surigao Del Sur)
-2026-04-23T07:50:00.000Z,23 April 2026 - 07:50 AM,17.67,120.53,015,2.2,011km N 19° W of Langiden (Abra),011,N 19° W,Langiden (Abra)
-2026-04-23T07:04:00.000Z,23 April 2026 - 07:04 AM,13.58,120.61,117,2.1,019km N 40° W of Abra De Ilog (Occidental Mindoro),019,N 40° W,Abra De Ilog (Occidental Mindoro)
