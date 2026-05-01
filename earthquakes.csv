@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-02T01:13:00.000Z,02 May 2026 - 01:13 AM,16.37,120.57,018,2.3,002km S 15° E of Tuba (Benguet),002,S 15° E,Tuba (Benguet)
+2026-05-02T01:13:00.000Z,02 May 2026 - 01:13 AM,07.22,126.68,010,2.2,015km N 87° E of Manay (Davao Oriental),015,N 87° E,Manay (Davao Oriental)
+2026-05-02T01:10:00.000Z,02 May 2026 - 01:10 AM,19.84,121.90,008,3.4,036km N 02° W of Babuyan Island (Calayan) (Cagayan),036,N 02° W,Babuyan Island (Calayan) (Cagayan)
+2026-05-02T01:01:00.000Z,02 May 2026 - 01:01 AM,19.72,120.32,011,2.1,115km N 54° W of Dalupiri Island (Calayan) (Cagayan),115,N 54° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-02T00:44:00.000Z,02 May 2026 - 12:44 AM,15.44,121.92,013,2.0,052km S 48° E of Baler (Aurora),052,S 48° E,Baler (Aurora)
+2026-05-02T00:39:00.000Z,02 May 2026 - 12:39 AM,06.80,123.45,026,2.9,070km S 64° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),070,S 64° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-05-02T00:30:00.000Z,02 May 2026 - 12:30 AM,18.88,121.13,030,1.5,025km N 82° W of Fuga Island (Aparri) (Cagayan),025,N 82° W,Fuga Island (Aparri) (Cagayan)
 2026-05-02T00:15:00.000Z,02 May 2026 - 12:15 AM,16.91,120.42,091,2.4,001km N 09° W of Bangar (La Union),001,N 09° W,Bangar (La Union)
 2026-05-02T00:02:00.000Z,02 May 2026 - 12:02 AM,15.46,121.87,010,2.8,046km S 45° E of Baler (Aurora),046,S 45° E,Baler (Aurora)
 2026-05-01T23:17:00.000Z,01 May 2026 - 11:17 PM,19.92,121.29,002,2.5,075km N 15° W of Calayan (Cagayan),075,N 15° W,Calayan (Cagayan)
