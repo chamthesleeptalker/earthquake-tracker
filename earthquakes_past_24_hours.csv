@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T21:36:00.000Z,01 May 2026 - 09:36 PM,19.96,121.13,002,3.5,086km N 25° W of Calayan (Cagayan),086,N 25° W,Calayan (Cagayan)
+2026-05-01T21:15:00.000Z,01 May 2026 - 09:15 PM,06.64,125.92,025,1.9,017km S 86° W of Governor Generoso (Davao Oriental),017,S 86° W,Governor Generoso (Davao Oriental)
+2026-05-01T20:50:00.000Z,01 May 2026 - 08:50 PM,10.37,126.04,038,1.7,039km N 06° W of Burgos (Surigao Del Norte),039,N 06° W,Burgos (Surigao Del Norte)
+2026-05-01T20:42:00.000Z,01 May 2026 - 08:42 PM,13.61,120.93,014,1.5,008km S 52° E of Tingloy (Batangas),008,S 52° E,Tingloy (Batangas)
 2026-05-01T19:44:00.000Z,01 May 2026 - 07:44 PM,07.61,123.90,032,1.2,011km S 48° W of Picong (Lanao Del Sur),011,S 48° W,Picong (Lanao Del Sur)
 2026-05-01T19:30:00.000Z,01 May 2026 - 07:30 PM,09.62,126.43,022,2.1,035km S 59° E of General Luna (Surigao Del Norte),035,S 59° E,General Luna (Surigao Del Norte)
 2026-05-01T18:53:00.000Z,01 May 2026 - 06:53 PM,14.02,121.02,025,1.4,003km N 60° E of Taal Volcano Island (San Nicolas / Talisay) (Batangas),003,N 60° E,Taal Volcano Island (San Nicolas / Talisay) (Batangas)
@@ -40,7 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-30T23:01:00.000Z,30 April 2026 - 11:01 PM,07.48,126.90,010,4.9,038km S 74° E of Baganga (Davao Oriental),038,S 74° E,Baganga (Davao Oriental)
 2026-04-30T22:18:00.000Z,30 April 2026 - 10:18 PM,07.98,126.53,019,2.3,015km S 62° E of Lingig (Surigao Del Sur),015,S 62° E,Lingig (Surigao Del Sur)
 2026-04-30T21:53:00.000Z,30 April 2026 - 09:53 PM,09.66,125.93,058,3.8,006km N 38° W of Socorro (Surigao Del Norte),006,N 38° W,Socorro (Surigao Del Norte)
-2026-04-30T20:53:00.000Z,30 April 2026 - 08:53 PM,14.39,123.50,079,1.7,049km N 33° E of Siruma (Camarines Sur),049,N 33° E,Siruma (Camarines Sur)
-2026-04-30T20:35:00.000Z,30 April 2026 - 08:35 PM,15.49,119.81,042,2.1,013km N 60° W of Palauig (Zambales),013,N 60° W,Palauig (Zambales)
-2026-04-30T20:26:00.000Z,30 April 2026 - 08:26 PM,17.98,120.49,008,2.0,004km S 10° E of Currimao (Ilocos Norte),004,S 10° E,Currimao (Ilocos Norte)
-2026-04-30T20:11:00.000Z,30 April 2026 - 08:11 PM,06.01,127.22,027,2.4,143km S 36° E of Tarragona (Davao Oriental),143,S 36° E,Tarragona (Davao Oriental)
