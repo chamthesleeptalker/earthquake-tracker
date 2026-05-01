@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-02T05:10:00.000Z,02 May 2026 - 05:10 AM,06.12,125.52,172,2.8,021km S 66° W of Don Marcelino (Davao Occidental),021,S 66° W,Don Marcelino (Davao Occidental)
-2026-05-02T05:04:00.000Z,02 May 2026 - 05:04 AM,06.89,126.07,029,2.0,006km S 83° E of Lupon (Davao Oriental),006,S 83° E,Lupon (Davao Oriental)
-2026-05-02T04:57:00.000Z,02 May 2026 - 04:57 AM,18.45,121.12,079,2.0,017km S 44° W of Sanchez-mira (Cagayan),017,S 44° W,Sanchez-mira (Cagayan)
-2026-05-02T04:22:00.000Z,02 May 2026 - 04:22 AM,06.73,126.06,028,1.9,008km N 13° W of Governor Generoso (Davao Oriental),008,N 13° W,Governor Generoso (Davao Oriental)
+2026-05-02T06:48:00.000Z,02 May 2026 - 06:48 AM,11.10,124.15,008,1.4,020km N 74° E of City Of Bogo (Cebu),020,N 74° E,City Of Bogo (Cebu)
+2026-05-02T06:21:00.000Z,02 May 2026 - 06:21 AM,18.57,120.86,004,1.6,008km N 50° E of Dumalneg (Ilocos Norte),008,N 50° E,Dumalneg (Ilocos Norte)
+2026-05-02T06:18:00.000Z,02 May 2026 - 06:18 AM,05.96,126.79,028,2.5,110km S 46° E of Governor Generoso (Davao Oriental),110,S 46° E,Governor Generoso (Davao Oriental)
