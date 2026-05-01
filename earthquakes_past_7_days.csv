@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T11:40:00.000Z,01 May 2026 - 11:40 AM,15.38,119.86,025,1.7,008km S 40° W of Palauig (Zambales),008,S 40° W,Palauig (Zambales)
+2026-05-01T10:55:00.000Z,01 May 2026 - 10:55 AM,19.24,121.21,032,2.2,014km North of Dalupiri Island (Calayan) (Cagayan),014,North of Dalupiri,(Calayan) (Cagayan)
+2026-05-01T10:38:00.000Z,01 May 2026 - 10:38 AM,09.65,126.23,030,1.5,016km S 31° E of General Luna (Surigao Del Norte),016,S 31° E,General Luna (Surigao Del Norte)
+2026-05-01T09:32:00.000Z,01 May 2026 - 09:32 AM,14.00,120.35,067,1.7,028km N 58° E of Lubang (Occidental Mindoro),028,N 58° E,Lubang (Occidental Mindoro)
 2026-05-01T08:57:00.000Z,01 May 2026 - 08:57 AM,08.78,126.24,024,2.2,004km N 24° E of San Agustin (Surigao Del Sur),004,N 24° E,San Agustin (Surigao Del Sur)
 2026-05-01T08:16:00.000Z,01 May 2026 - 08:16 AM,06.08,125.98,144,3.2,034km S 67° E of Don Marcelino (Davao Occidental),034,S 67° E,Don Marcelino (Davao Occidental)
 2026-05-01T07:38:00.000Z,01 May 2026 - 07:38 AM,17.13,121.50,008,3.3,012km S 60° E of Paracelis (Mountain Province),012,S 60° E,Paracelis (Mountain Province)
@@ -340,8 +344,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T14:12:00.000Z,24 April 2026 - 02:12 PM,17.67,120.99,009,1.8,005km N 77° E of Lacub (Abra),005,N 77° E,Lacub (Abra)
 2026-04-24T13:44:00.000Z,24 April 2026 - 01:44 PM,08.57,126.29,032,1.4,018km N 50° E of Tagbina (Surigao Del Sur),018,N 50° E,Tagbina (Surigao Del Sur)
 2026-04-24T13:37:00.000Z,24 April 2026 - 01:37 PM,07.91,126.70,059,1.4,029km N 64° E of Cateel (Davao Oriental),029,N 64° E,Cateel (Davao Oriental)
-2026-04-24T10:27:00.000Z,24 April 2026 - 10:27 AM,19.90,120.29,009,3.0,130km N 48° W of Dalupiri Island (Calayan) (Cagayan),130,N 48° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-24T09:58:00.000Z,24 April 2026 - 09:58 AM,13.74,120.72,046,2.0,014km S 44° E of Calatagan (Batangas),014,S 44° E,Calatagan (Batangas)
-2026-04-24T09:48:00.000Z,24 April 2026 - 09:48 AM,06.40,125.95,127,2.5,031km S 25° W of Governor Generoso (Davao Oriental),031,S 25° W,Governor Generoso (Davao Oriental)
-2026-04-24T09:46:00.000Z,24 April 2026 - 09:46 AM,13.59,120.69,113,2.3,016km N 15° W of Abra De Ilog (Occidental Mindoro),016,N 15° W,Abra De Ilog (Occidental Mindoro)
-2026-04-24T09:06:00.000Z,24 April 2026 - 09:06 AM,08.91,126.51,012,2.1,023km S 88° E of Cagwait (Surigao Del Sur),023,S 88° E,Cagwait (Surigao Del Sur)
