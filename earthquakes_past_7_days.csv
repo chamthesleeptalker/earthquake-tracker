@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-02T05:10:00.000Z,02 May 2026 - 05:10 AM,06.12,125.52,172,2.8,021km S 66° W of Don Marcelino (Davao Occidental),021,S 66° W,Don Marcelino (Davao Occidental)
+2026-05-02T05:04:00.000Z,02 May 2026 - 05:04 AM,06.89,126.07,029,2.0,006km S 83° E of Lupon (Davao Oriental),006,S 83° E,Lupon (Davao Oriental)
+2026-05-02T04:57:00.000Z,02 May 2026 - 04:57 AM,18.45,121.12,079,2.0,017km S 44° W of Sanchez-mira (Cagayan),017,S 44° W,Sanchez-mira (Cagayan)
+2026-05-02T04:22:00.000Z,02 May 2026 - 04:22 AM,06.73,126.06,028,1.9,008km N 13° W of Governor Generoso (Davao Oriental),008,N 13° W,Governor Generoso (Davao Oriental)
 2026-05-02T03:50:00.000Z,02 May 2026 - 03:50 AM,06.98,123.77,017,1.6,029km S 71° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),029,S 71° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-05-02T03:28:00.000Z,02 May 2026 - 03:28 AM,10.83,123.71,012,2.2,017km N 47° W of Tuburan (Cebu),017,N 47° W,Tuburan (Cebu)
 2026-05-02T03:14:00.000Z,02 May 2026 - 03:14 AM,09.15,126.26,010,2.3,012km N 48° E of City Of Tandag (Surigao Del Sur),012,N 48° E,City Of Tandag (Surigao Del Sur)
@@ -331,6 +335,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-25T06:59:00.000Z,25 April 2026 - 06:59 AM,14.48,120.00,031,1.6,036km S 52° W of Morong (Bataan),036,S 52° W,Morong (Bataan)
 2026-04-25T06:14:00.000Z,25 April 2026 - 06:14 AM,11.52,125.47,024,2.1,004km N 62° W of Maydolong (Eastern Samar),004,N 62° W,Maydolong (Eastern Samar)
 2026-04-25T05:20:00.000Z,25 April 2026 - 05:20 AM,13.86,122.99,004,1.7,012km N 47° E of Lupi (Camarines Sur),012,N 47° E,Lupi (Camarines Sur)
-2026-04-25T05:05:00.000Z,25 April 2026 - 05:05 AM,10.47,126.23,024,2.4,053km N 19° E of Burgos (Surigao Del Norte),053,N 19° E,Burgos (Surigao Del Norte)
-2026-04-25T04:49:00.000Z,25 April 2026 - 04:49 AM,05.97,126.25,056,2.4,066km S 68° E of Don Marcelino (Davao Occidental),066,S 68° E,Don Marcelino (Davao Occidental)
-2026-04-25T04:42:00.000Z,25 April 2026 - 04:42 AM,12.87,123.81,028,2.2,005km N 25° W of Magallanes (Sorsogon),005,N 25° W,Magallanes (Sorsogon)

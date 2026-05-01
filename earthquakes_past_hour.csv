@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-02T03:50:00.000Z,02 May 2026 - 03:50 AM,06.98,123.77,017,1.6,029km S 71° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),029,S 71° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-05-02T03:28:00.000Z,02 May 2026 - 03:28 AM,10.83,123.71,012,2.2,017km N 47° W of Tuburan (Cebu),017,N 47° W,Tuburan (Cebu)
-2026-05-02T03:14:00.000Z,02 May 2026 - 03:14 AM,09.15,126.26,010,2.3,012km N 48° E of City Of Tandag (Surigao Del Sur),012,N 48° E,City Of Tandag (Surigao Del Sur)
+2026-05-02T05:10:00.000Z,02 May 2026 - 05:10 AM,06.12,125.52,172,2.8,021km S 66° W of Don Marcelino (Davao Occidental),021,S 66° W,Don Marcelino (Davao Occidental)
+2026-05-02T05:04:00.000Z,02 May 2026 - 05:04 AM,06.89,126.07,029,2.0,006km S 83° E of Lupon (Davao Oriental),006,S 83° E,Lupon (Davao Oriental)
+2026-05-02T04:57:00.000Z,02 May 2026 - 04:57 AM,18.45,121.12,079,2.0,017km S 44° W of Sanchez-mira (Cagayan),017,S 44° W,Sanchez-mira (Cagayan)
+2026-05-02T04:22:00.000Z,02 May 2026 - 04:22 AM,06.73,126.06,028,1.9,008km N 13° W of Governor Generoso (Davao Oriental),008,N 13° W,Governor Generoso (Davao Oriental)
