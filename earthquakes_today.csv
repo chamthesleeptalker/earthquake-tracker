@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T08:57:00.000Z,01 May 2026 - 08:57 AM,08.78,126.24,024,2.2,004km N 24° E of San Agustin (Surigao Del Sur),004,N 24° E,San Agustin (Surigao Del Sur)
+2026-05-01T08:16:00.000Z,01 May 2026 - 08:16 AM,06.08,125.98,144,3.2,034km S 67° E of Don Marcelino (Davao Occidental),034,S 67° E,Don Marcelino (Davao Occidental)
+2026-05-01T07:38:00.000Z,01 May 2026 - 07:38 AM,17.13,121.50,008,3.3,012km S 60° E of Paracelis (Mountain Province),012,S 60° E,Paracelis (Mountain Province)
 2026-05-01T06:39:00.000Z,01 May 2026 - 06:39 AM,14.98,122.09,009,1.9,020km N 41° E of Burdeos (Quezon),020,N 41° E,Burdeos (Quezon)
 2026-05-01T06:12:00.000Z,01 May 2026 - 06:12 AM,14.98,122.07,017,1.9,019km N 37° E of Burdeos (Quezon),019,N 37° E,Burdeos (Quezon)
 2026-05-01T06:06:00.000Z,01 May 2026 - 06:06 AM,13.85,119.76,005,3.3,038km S 89° W of Lubang (Occidental Mindoro),038,S 89° W,Lubang (Occidental Mindoro)
