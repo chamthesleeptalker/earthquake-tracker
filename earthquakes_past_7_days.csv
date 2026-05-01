@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-01T19:44:00.000Z,01 May 2026 - 07:44 PM,07.61,123.90,032,1.2,011km S 48° W of Picong (Lanao Del Sur),011,S 48° W,Picong (Lanao Del Sur)
+2026-05-01T19:30:00.000Z,01 May 2026 - 07:30 PM,09.62,126.43,022,2.1,035km S 59° E of General Luna (Surigao Del Norte),035,S 59° E,General Luna (Surigao Del Norte)
 2026-05-01T18:53:00.000Z,01 May 2026 - 06:53 PM,14.02,121.02,025,1.4,003km N 60° E of Taal Volcano Island (San Nicolas / Talisay) (Batangas),003,N 60° E,Taal Volcano Island (San Nicolas / Talisay) (Batangas)
 2026-05-01T17:19:00.000Z,01 May 2026 - 05:19 PM,16.74,121.02,033,1.8,006km N 64° W of Asipulo (Ifugao),006,N 64° W,Asipulo (Ifugao)
 2026-05-01T15:56:00.000Z,01 May 2026 - 03:56 PM,12.14,125.09,037,1.7,012km N 38° E of San Jose De Buan (Samar),012,N 38° E,San Jose De Buan (Samar)
@@ -339,4 +341,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-24T21:30:00.000Z,24 April 2026 - 09:30 PM,16.29,120.83,016,2.1,010km S 36° W of Kayapa (Nueva Vizcaya),010,S 36° W,Kayapa (Nueva Vizcaya)
 2026-04-24T21:16:00.000Z,24 April 2026 - 09:16 PM,07.15,126.75,018,3.7,024km S 74° E of Manay (Davao Oriental),024,S 74° E,Manay (Davao Oriental)
 2026-04-24T20:56:00.000Z,24 April 2026 - 08:56 PM,11.16,124.17,003,2.2,024km N 58° E of City Of Bogo (Cebu),024,N 58° E,City Of Bogo (Cebu)
-2026-04-24T18:55:00.000Z,24 April 2026 - 06:55 PM,12.64,123.34,033,2.1,015km N 26° W of Aroroy (Masbate),015,N 26° W,Aroroy (Masbate)
