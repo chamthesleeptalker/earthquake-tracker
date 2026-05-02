@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T06:19:00.000Z,03 May 2026 - 06:19 AM,09.61,126.11,032,1.9,016km S 88° E of Socorro (Surigao Del Norte),016,S 88° E,Socorro (Surigao Del Norte)
+2026-05-03T05:59:00.000Z,03 May 2026 - 05:59 AM,12.04,125.08,032,1.7,007km S 76° E of San Jose De Buan (Samar),007,S 76° E,San Jose De Buan (Samar)
 2026-05-03T05:02:00.000Z,03 May 2026 - 05:02 AM,07.50,126.49,092,2.1,011km S 46° W of Baganga (Davao Oriental),011,S 46° W,Baganga (Davao Oriental)
 2026-05-03T04:52:00.000Z,03 May 2026 - 04:52 AM,09.68,125.75,106,1.8,010km N 28° E of Gigaquit (Surigao Del Norte),010,N 28° E,Gigaquit (Surigao Del Norte)
 2026-05-03T03:31:00.000Z,03 May 2026 - 03:31 AM,13.77,121.47,004,2.4,010km S 52° E of San Juan (Batangas),010,S 52° E,San Juan (Batangas)
@@ -33,6 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T07:33:00.000Z,02 May 2026 - 07:33 AM,13.41,121.52,033,1.6,026km N 68° E of Naujan (Oriental Mindoro),026,N 68° E,Naujan (Oriental Mindoro)
 2026-05-02T06:48:00.000Z,02 May 2026 - 06:48 AM,11.10,124.15,008,1.4,020km N 74° E of City Of Bogo (Cebu),020,N 74° E,City Of Bogo (Cebu)
 2026-05-02T06:21:00.000Z,02 May 2026 - 06:21 AM,18.57,120.86,004,1.6,008km N 50° E of Dumalneg (Ilocos Norte),008,N 50° E,Dumalneg (Ilocos Norte)
-2026-05-02T06:18:00.000Z,02 May 2026 - 06:18 AM,05.96,126.79,028,2.5,110km S 46° E of Governor Generoso (Davao Oriental),110,S 46° E,Governor Generoso (Davao Oriental)
-2026-05-02T05:10:00.000Z,02 May 2026 - 05:10 AM,06.12,125.52,172,2.8,021km S 66° W of Don Marcelino (Davao Occidental),021,S 66° W,Don Marcelino (Davao Occidental)
-2026-05-02T05:04:00.000Z,02 May 2026 - 05:04 AM,06.89,126.07,029,2.0,006km S 83° E of Lupon (Davao Oriental),006,S 83° E,Lupon (Davao Oriental)
