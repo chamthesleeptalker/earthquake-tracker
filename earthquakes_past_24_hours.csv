@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-02T20:37:00.000Z,02 May 2026 - 08:37 PM,14.99,122.03,010,2.1,018km N 23° E of Burdeos (Quezon),018,N 23° E,Burdeos (Quezon)
+2026-05-02T20:36:00.000Z,02 May 2026 - 08:36 PM,08.73,125.64,029,2.3,005km S 80° E of Las Nieves (Agusan Del Norte),005,S 80° E,Las Nieves (Agusan Del Norte)
 2026-05-02T19:28:00.000Z,02 May 2026 - 07:28 PM,07.63,126.32,034,2.2,022km N 65° E of New Bataan (Davao De Oro),022,N 65° E,New Bataan (Davao De Oro)
 2026-05-02T19:05:00.000Z,02 May 2026 - 07:05 PM,13.77,120.60,092,1.6,008km S 30° W of Calatagan (Batangas),008,S 30° W,Calatagan (Batangas)
 2026-05-02T17:56:00.000Z,02 May 2026 - 05:56 PM,17.82,120.61,057,2.2,012km S 28° W of Nueva Era (Ilocos Norte),012,S 28° W,Nueva Era (Ilocos Norte)
@@ -37,5 +39,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-01T21:15:00.000Z,01 May 2026 - 09:15 PM,06.64,125.92,025,1.9,017km S 86° W of Governor Generoso (Davao Oriental),017,S 86° W,Governor Generoso (Davao Oriental)
 2026-05-01T20:50:00.000Z,01 May 2026 - 08:50 PM,10.37,126.04,038,1.7,039km N 06° W of Burgos (Surigao Del Norte),039,N 06° W,Burgos (Surigao Del Norte)
 2026-05-01T20:42:00.000Z,01 May 2026 - 08:42 PM,13.61,120.93,014,1.5,008km S 52° E of Tingloy (Batangas),008,S 52° E,Tingloy (Batangas)
-2026-05-01T19:44:00.000Z,01 May 2026 - 07:44 PM,07.61,123.90,032,1.2,011km S 48° W of Picong (Lanao Del Sur),011,S 48° W,Picong (Lanao Del Sur)
-2026-05-01T19:30:00.000Z,01 May 2026 - 07:30 PM,09.62,126.43,022,2.1,035km S 59° E of General Luna (Surigao Del Norte),035,S 59° E,General Luna (Surigao Del Norte)
