@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T05:02:00.000Z,03 May 2026 - 05:02 AM,07.50,126.49,092,2.1,011km S 46° W of Baganga (Davao Oriental),011,S 46° W,Baganga (Davao Oriental)
+2026-05-03T04:52:00.000Z,03 May 2026 - 04:52 AM,09.68,125.75,106,1.8,010km N 28° E of Gigaquit (Surigao Del Norte),010,N 28° E,Gigaquit (Surigao Del Norte)
 2026-05-03T03:31:00.000Z,03 May 2026 - 03:31 AM,13.77,121.47,004,2.4,010km S 52° E of San Juan (Batangas),010,S 52° E,San Juan (Batangas)
 2026-05-03T03:16:00.000Z,03 May 2026 - 03:16 AM,19.95,120.98,018,4.3,092km N 34° W of Calayan (Cagayan),092,N 34° W,Calayan (Cagayan)
 2026-05-03T03:10:00.000Z,03 May 2026 - 03:10 AM,14.79,121.94,026,1.5,007km S 33° W of Burdeos (Quezon),007,S 33° W,Burdeos (Quezon)
@@ -34,6 +36,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T06:18:00.000Z,02 May 2026 - 06:18 AM,05.96,126.79,028,2.5,110km S 46° E of Governor Generoso (Davao Oriental),110,S 46° E,Governor Generoso (Davao Oriental)
 2026-05-02T05:10:00.000Z,02 May 2026 - 05:10 AM,06.12,125.52,172,2.8,021km S 66° W of Don Marcelino (Davao Occidental),021,S 66° W,Don Marcelino (Davao Occidental)
 2026-05-02T05:04:00.000Z,02 May 2026 - 05:04 AM,06.89,126.07,029,2.0,006km S 83° E of Lupon (Davao Oriental),006,S 83° E,Lupon (Davao Oriental)
-2026-05-02T04:57:00.000Z,02 May 2026 - 04:57 AM,18.45,121.12,079,2.0,017km S 44° W of Sanchez-mira (Cagayan),017,S 44° W,Sanchez-mira (Cagayan)
-2026-05-02T04:22:00.000Z,02 May 2026 - 04:22 AM,06.73,126.06,028,1.9,008km N 13° W of Governor Generoso (Davao Oriental),008,N 13° W,Governor Generoso (Davao Oriental)
-2026-05-02T03:50:00.000Z,02 May 2026 - 03:50 AM,06.98,123.77,017,1.6,029km S 71° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),029,S 71° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
