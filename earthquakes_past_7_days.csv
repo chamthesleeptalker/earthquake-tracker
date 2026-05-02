@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-02T21:59:00.000Z,02 May 2026 - 09:59 PM,18.54,120.79,015,2.0,002km S 24° E of Pagudpud (Ilocos Norte),002,S 24° E,Pagudpud (Ilocos Norte)
+2026-05-02T21:53:00.000Z,02 May 2026 - 09:53 PM,16.46,122.04,022,2.1,019km N 67° W of Dilasag (Aurora),019,N 67° W,Dilasag (Aurora)
+2026-05-02T21:02:00.000Z,02 May 2026 - 09:02 PM,08.54,122.64,028,2.0,044km N 75° W of Jose Dalman (Zamboanga Del Norte),044,N 75° W,Jose Dalman (Zamboanga Del Norte)
 2026-05-02T20:37:00.000Z,02 May 2026 - 08:37 PM,14.99,122.03,010,2.1,018km N 23° E of Burdeos (Quezon),018,N 23° E,Burdeos (Quezon)
 2026-05-02T20:36:00.000Z,02 May 2026 - 08:36 PM,08.73,125.64,029,2.3,005km S 80° E of Las Nieves (Agusan Del Norte),005,S 80° E,Las Nieves (Agusan Del Norte)
 2026-05-02T19:28:00.000Z,02 May 2026 - 07:28 PM,07.63,126.32,034,2.2,022km N 65° E of New Bataan (Davao De Oro),022,N 65° E,New Bataan (Davao De Oro)
@@ -324,5 +327,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-25T23:10:00.000Z,25 April 2026 - 11:10 PM,07.67,124.74,042,2.2,003km N 27° E of Wao (Lanao Del Sur),003,N 27° E,Wao (Lanao Del Sur)
 2026-04-25T22:22:00.000Z,25 April 2026 - 10:22 PM,13.57,120.53,004,2.7,019km N 21° E of Paluan (Occidental Mindoro),019,N 21° E,Paluan (Occidental Mindoro)
 2026-04-25T22:12:00.000Z,25 April 2026 - 10:12 PM,08.91,126.51,032,2.1,023km S 87° E of Cagwait (Surigao Del Sur),023,S 87° E,Cagwait (Surigao Del Sur)
-2026-04-25T21:41:00.000Z,25 April 2026 - 09:41 PM,07.72,122.20,008,1.9,007km N 78° E of Siocon (Zamboanga Del Norte),007,N 78° E,Siocon (Zamboanga Del Norte)
-2026-04-25T21:19:00.000Z,25 April 2026 - 09:19 PM,08.17,126.68,010,4.1,032km N 63° E of Lingig (Surigao Del Sur),032,N 63° E,Lingig (Surigao Del Sur)
