@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T07:22:00.000Z,03 May 2026 - 07:22 AM,06.91,126.69,127,2.7,031km S 60° E of Tarragona (Davao Oriental),031,S 60° E,Tarragona (Davao Oriental)
+2026-05-03T07:19:00.000Z,03 May 2026 - 07:19 AM,11.72,121.35,013,2.1,032km S 43° W of Caluya (Antique),032,S 43° W,Caluya (Antique)
 2026-05-03T06:19:00.000Z,03 May 2026 - 06:19 AM,09.61,126.11,032,1.9,016km S 88° E of Socorro (Surigao Del Norte),016,S 88° E,Socorro (Surigao Del Norte)
 2026-05-03T05:59:00.000Z,03 May 2026 - 05:59 AM,12.04,125.08,032,1.7,007km S 76° E of San Jose De Buan (Samar),007,S 76° E,San Jose De Buan (Samar)
 2026-05-03T05:02:00.000Z,03 May 2026 - 05:02 AM,07.50,126.49,092,2.1,011km S 46° W of Baganga (Davao Oriental),011,S 46° W,Baganga (Davao Oriental)
@@ -33,5 +35,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T09:47:00.000Z,02 May 2026 - 09:47 AM,09.33,126.22,033,2.3,007km N 25° E of Cortes (Surigao Del Sur),007,N 25° E,Cortes (Surigao Del Sur)
 2026-05-02T08:29:00.000Z,02 May 2026 - 08:29 AM,14.27,123.55,006,2.5,042km N 50° E of Siruma (Camarines Sur),042,N 50° E,Siruma (Camarines Sur)
 2026-05-02T07:33:00.000Z,02 May 2026 - 07:33 AM,13.41,121.52,033,1.6,026km N 68° E of Naujan (Oriental Mindoro),026,N 68° E,Naujan (Oriental Mindoro)
-2026-05-02T06:48:00.000Z,02 May 2026 - 06:48 AM,11.10,124.15,008,1.4,020km N 74° E of City Of Bogo (Cebu),020,N 74° E,City Of Bogo (Cebu)
-2026-05-02T06:21:00.000Z,02 May 2026 - 06:21 AM,18.57,120.86,004,1.6,008km N 50° E of Dumalneg (Ilocos Norte),008,N 50° E,Dumalneg (Ilocos Norte)
