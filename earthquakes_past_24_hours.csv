@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T03:16:00.000Z,03 May 2026 - 03:16 AM,19.95,120.98,018,4.3,092km N 34° W of Calayan (Cagayan),092,N 34° W,Calayan (Cagayan)
+2026-05-03T03:10:00.000Z,03 May 2026 - 03:10 AM,14.79,121.94,026,1.5,007km S 33° W of Burdeos (Quezon),007,S 33° W,Burdeos (Quezon)
+2026-05-03T02:28:00.000Z,03 May 2026 - 02:28 AM,15.02,121.99,016,1.5,020km N 07° E of Burdeos (Quezon),020,N 07° E,Burdeos (Quezon)
+2026-05-03T02:05:00.000Z,03 May 2026 - 02:05 AM,05.84,126.68,027,3.1,113km S 37° E of Governor Generoso (Davao Oriental),113,S 37° E,Governor Generoso (Davao Oriental)
 2026-05-03T01:25:00.000Z,03 May 2026 - 01:25 AM,12.20,124.28,024,1.6,021km S 16° W of San Isidro (Northern Samar),021,S 16° W,San Isidro (Northern Samar)
 2026-05-03T01:14:00.000Z,03 May 2026 - 01:14 AM,12.27,122.07,010,2.3,002km N 47° E of Alcantara (Romblon),002,N 47° E,Alcantara (Romblon)
 2026-05-03T00:46:00.000Z,03 May 2026 - 12:46 AM,10.89,126.70,010,3.6,107km S 81° E of Guiuan (Eastern Samar),107,S 81° E,Guiuan (Eastern Samar)
@@ -33,7 +37,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T04:22:00.000Z,02 May 2026 - 04:22 AM,06.73,126.06,028,1.9,008km N 13° W of Governor Generoso (Davao Oriental),008,N 13° W,Governor Generoso (Davao Oriental)
 2026-05-02T03:50:00.000Z,02 May 2026 - 03:50 AM,06.98,123.77,017,1.6,029km S 71° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),029,S 71° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-05-02T03:28:00.000Z,02 May 2026 - 03:28 AM,10.83,123.71,012,2.2,017km N 47° W of Tuburan (Cebu),017,N 47° W,Tuburan (Cebu)
-2026-05-02T03:14:00.000Z,02 May 2026 - 03:14 AM,09.15,126.26,010,2.3,012km N 48° E of City Of Tandag (Surigao Del Sur),012,N 48° E,City Of Tandag (Surigao Del Sur)
-2026-05-02T02:34:00.000Z,02 May 2026 - 02:34 AM,08.36,126.39,127,2.2,006km S 77° E of Hinatuan (Surigao Del Sur),006,S 77° E,Hinatuan (Surigao Del Sur)
-2026-05-02T02:30:00.000Z,02 May 2026 - 02:30 AM,13.65,120.63,157,2.6,020km S 01° E of Calatagan (Batangas),020,S 01° E,Calatagan (Batangas)
-2026-05-02T02:12:00.000Z,02 May 2026 - 02:12 AM,08.72,125.86,011,2.9,012km N 84° E of City Of Bayugan (Agusan Del Sur),012,N 84° E,City Of Bayugan (Agusan Del Sur)

@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T03:16:00.000Z,03 May 2026 - 03:16 AM,19.95,120.98,018,4.3,092km N 34° W of Calayan (Cagayan),092,N 34° W,Calayan (Cagayan)
+2026-05-03T03:10:00.000Z,03 May 2026 - 03:10 AM,14.79,121.94,026,1.5,007km S 33° W of Burdeos (Quezon),007,S 33° W,Burdeos (Quezon)
+2026-05-03T02:28:00.000Z,03 May 2026 - 02:28 AM,15.02,121.99,016,1.5,020km N 07° E of Burdeos (Quezon),020,N 07° E,Burdeos (Quezon)
+2026-05-03T02:05:00.000Z,03 May 2026 - 02:05 AM,05.84,126.68,027,3.1,113km S 37° E of Governor Generoso (Davao Oriental),113,S 37° E,Governor Generoso (Davao Oriental)
 2026-05-03T01:25:00.000Z,03 May 2026 - 01:25 AM,12.20,124.28,024,1.6,021km S 16° W of San Isidro (Northern Samar),021,S 16° W,San Isidro (Northern Samar)
 2026-05-03T01:14:00.000Z,03 May 2026 - 01:14 AM,12.27,122.07,010,2.3,002km N 47° E of Alcantara (Romblon),002,N 47° E,Alcantara (Romblon)
 2026-05-03T00:46:00.000Z,03 May 2026 - 12:46 AM,10.89,126.70,010,3.6,107km S 81° E of Guiuan (Eastern Samar),107,S 81° E,Guiuan (Eastern Samar)
@@ -325,6 +329,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-26T06:11:00.000Z,26 April 2026 - 06:11 AM,13.18,120.77,006,1.8,012km N 26° E of Santa Cruz (Occidental Mindoro),012,N 26° E,Santa Cruz (Occidental Mindoro)
 2026-04-26T05:16:00.000Z,26 April 2026 - 05:16 AM,18.20,120.76,005,2.1,007km N 52° E of Piddig (Ilocos Norte),007,N 52° E,Piddig (Ilocos Norte)
 2026-04-26T03:58:00.000Z,26 April 2026 - 03:58 AM,07.71,126.56,026,2.1,015km N 01° W of Baganga (Davao Oriental),015,N 01° W,Baganga (Davao Oriental)
-2026-04-26T02:32:00.000Z,26 April 2026 - 02:32 AM,15.74,119.99,024,2.2,009km S 77° E of Santa Cruz (Zambales),009,S 77° E,Santa Cruz (Zambales)
-2026-04-26T02:00:00.000Z,26 April 2026 - 02:00 AM,07.37,126.30,032,2.3,020km N 74° E of Maragusan (Davao De Oro),020,N 74° E,Maragusan (Davao De Oro)
-2026-04-26T01:47:00.000Z,26 April 2026 - 01:47 AM,06.47,123.49,035,1.7,063km S 81° W of Kalamansig (Sultan Kudarat),063,S 81° W,Kalamansig (Sultan Kudarat)
