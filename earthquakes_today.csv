@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-02T14:30:00.000Z,02 May 2026 - 02:30 PM,05.80,127.16,094,2.9,153km S 52° E of Governor Generoso (Davao Oriental),153,S 52° E,Governor Generoso (Davao Oriental)
+2026-05-02T14:19:00.000Z,02 May 2026 - 02:19 PM,09.33,125.59,009,2.5,008km S 78° E of Jabonga (Agusan Del Norte),008,S 78° E,Jabonga (Agusan Del Norte)
 2026-05-02T11:30:00.000Z,02 May 2026 - 11:30 AM,16.15,121.76,002,2.5,019km S 61° E of Nagtipunan (Quirino),019,S 61° E,Nagtipunan (Quirino)
 2026-05-02T09:48:00.000Z,02 May 2026 - 09:48 AM,18.40,120.57,018,1.9,009km N 38° W of Pasuquin (Ilocos Norte),009,N 38° W,Pasuquin (Ilocos Norte)
 2026-05-02T09:47:00.000Z,02 May 2026 - 09:47 AM,09.33,126.22,033,2.3,007km N 25° E of Cortes (Surigao Del Sur),007,N 25° E,Cortes (Surigao Del Sur)
