@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-02T17:23:00.000Z,02 May 2026 - 05:23 PM,13.90,120.45,103,1.8,021km N 70° W of Calatagan (Batangas),021,N 70° W,Calatagan (Batangas)
 2026-05-02T14:30:00.000Z,02 May 2026 - 02:30 PM,05.80,127.16,094,2.9,153km S 52° E of Governor Generoso (Davao Oriental),153,S 52° E,Governor Generoso (Davao Oriental)
 2026-05-02T14:19:00.000Z,02 May 2026 - 02:19 PM,09.33,125.59,009,2.5,008km S 78° E of Jabonga (Agusan Del Norte),008,S 78° E,Jabonga (Agusan Del Norte)
 2026-05-02T11:30:00.000Z,02 May 2026 - 11:30 AM,16.15,121.76,002,2.5,019km S 61° E of Nagtipunan (Quirino),019,S 61° E,Nagtipunan (Quirino)
@@ -327,8 +328,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-25T19:33:00.000Z,25 April 2026 - 07:33 PM,10.93,123.77,003,2.1,026km S 60° W of City Of Bogo (Cebu),026,S 60° W,City Of Bogo (Cebu)
 2026-04-25T17:45:00.000Z,25 April 2026 - 05:45 PM,19.03,120.97,033,1.6,026km S 72° W of Dalupiri Island (Calayan) (Cagayan),026,S 72° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-25T17:43:00.000Z,25 April 2026 - 05:43 PM,12.85,121.43,034,1.9,004km S 65° W of Bansud (Oriental Mindoro),004,S 65° W,Bansud (Oriental Mindoro)
-2026-04-25T16:56:00.000Z,25 April 2026 - 04:56 PM,06.85,126.24,011,2.6,012km S 15° E of City Of Mati (Davao Oriental),012,S 15° E,City Of Mati (Davao Oriental)
-2026-04-25T16:35:00.000Z,25 April 2026 - 04:35 PM,16.36,120.88,030,1.4,001km N 36° W of Kayapa (Nueva Vizcaya),001,N 36° W,Kayapa (Nueva Vizcaya)
-2026-04-25T15:16:00.000Z,25 April 2026 - 03:16 PM,08.57,126.58,021,2.2,035km N 50° E of Hinatuan (Surigao Del Sur),035,N 50° E,Hinatuan (Surigao Del Sur)
-2026-04-25T14:54:00.000Z,25 April 2026 - 02:54 PM,10.23,126.15,005,2.6,025km N 20° E of Burgos (Surigao Del Norte),025,N 20° E,Burgos (Surigao Del Norte)
-2026-04-25T14:43:00.000Z,25 April 2026 - 02:43 PM,12.73,125.59,051,1.8,046km N 53° E of Mapanas (Northern Samar),046,N 53° E,Mapanas (Northern Samar)
