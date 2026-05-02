@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T00:00:00.000Z,03 May 2026 - 12:00 AM,08.43,126.33,014,1.7,007km N 08° W of Hinatuan (Surigao Del Sur),007,N 08° W,Hinatuan (Surigao Del Sur)
+2026-05-02T23:43:00.000Z,02 May 2026 - 11:43 PM,19.30,121.13,034,1.9,022km N 22° W of Dalupiri Island (Calayan) (Cagayan),022,N 22° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-02T23:38:00.000Z,02 May 2026 - 11:38 PM,10.10,124.99,018,3.4,006km N 68° E of Macrohon (Southern Leyte),006,N 68° E,Macrohon (Southern Leyte)
+2026-05-02T23:33:00.000Z,02 May 2026 - 11:33 PM,19.01,121.11,032,2.1,015km S 44° W of Dalupiri Island (Calayan) (Cagayan),015,S 44° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-02T22:26:00.000Z,02 May 2026 - 10:26 PM,19.01,121.06,010,4.4,018km S 56° W of Dalupiri Island (Calayan) (Cagayan),018,S 56° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-02T21:59:00.000Z,02 May 2026 - 09:59 PM,18.54,120.79,015,2.0,002km S 24° E of Pagudpud (Ilocos Norte),002,S 24° E,Pagudpud (Ilocos Norte)
 2026-05-02T21:53:00.000Z,02 May 2026 - 09:53 PM,16.46,122.04,022,2.1,019km N 67° W of Dilasag (Aurora),019,N 67° W,Dilasag (Aurora)
@@ -322,7 +326,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-26T01:47:00.000Z,26 April 2026 - 01:47 AM,06.47,123.49,035,1.7,063km S 81° W of Kalamansig (Sultan Kudarat),063,S 81° W,Kalamansig (Sultan Kudarat)
 2026-04-26T01:15:00.000Z,26 April 2026 - 01:15 AM,12.82,124.57,017,2.4,027km N 55° E of Biri (Northern Samar),027,N 55° E,Biri (Northern Samar)
 2026-04-26T00:24:00.000Z,26 April 2026 - 12:24 AM,14.14,120.26,029,1.7,034km N 26° E of Lubang (Occidental Mindoro),034,N 26° E,Lubang (Occidental Mindoro)
-2026-04-25T23:54:00.000Z,25 April 2026 - 11:54 PM,13.66,120.61,098,1.9,019km S 06° W of Calatagan (Batangas),019,S 06° W,Calatagan (Batangas)
-2026-04-25T23:38:00.000Z,25 April 2026 - 11:38 PM,16.18,119.85,021,2.3,001km S 78° W of Bani (Pangasinan),001,S 78° W,Bani (Pangasinan)
-2026-04-25T23:33:00.000Z,25 April 2026 - 11:33 PM,18.17,121.05,018,2.5,010km S 02° E of Calanasan (Apayao),010,S 02° E,Calanasan (Apayao)
-2026-04-25T23:10:00.000Z,25 April 2026 - 11:10 PM,07.67,124.74,042,2.2,003km N 27° E of Wao (Lanao Del Sur),003,N 27° E,Wao (Lanao Del Sur)

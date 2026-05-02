@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T00:00:00.000Z,03 May 2026 - 12:00 AM,08.43,126.33,014,1.7,007km N 08° W of Hinatuan (Surigao Del Sur),007,N 08° W,Hinatuan (Surigao Del Sur)
+2026-05-02T23:43:00.000Z,02 May 2026 - 11:43 PM,19.30,121.13,034,1.9,022km N 22° W of Dalupiri Island (Calayan) (Cagayan),022,N 22° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-02T23:38:00.000Z,02 May 2026 - 11:38 PM,10.10,124.99,018,3.4,006km N 68° E of Macrohon (Southern Leyte),006,N 68° E,Macrohon (Southern Leyte)
+2026-05-02T23:33:00.000Z,02 May 2026 - 11:33 PM,19.01,121.11,032,2.1,015km S 44° W of Dalupiri Island (Calayan) (Cagayan),015,S 44° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-02T22:26:00.000Z,02 May 2026 - 10:26 PM,19.01,121.06,010,4.4,018km S 56° W of Dalupiri Island (Calayan) (Cagayan),018,S 56° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-02T21:59:00.000Z,02 May 2026 - 09:59 PM,18.54,120.79,015,2.0,002km S 24° E of Pagudpud (Ilocos Norte),002,S 24° E,Pagudpud (Ilocos Norte)
 2026-05-02T21:53:00.000Z,02 May 2026 - 09:53 PM,16.46,122.04,022,2.1,019km N 67° W of Dilasag (Aurora),019,N 67° W,Dilasag (Aurora)
@@ -38,4 +42,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T00:30:00.000Z,02 May 2026 - 12:30 AM,18.88,121.13,030,1.5,025km N 82° W of Fuga Island (Aparri) (Cagayan),025,N 82° W,Fuga Island (Aparri) (Cagayan)
 2026-05-02T00:15:00.000Z,02 May 2026 - 12:15 AM,16.91,120.42,091,2.4,001km N 09° W of Bangar (La Union),001,N 09° W,Bangar (La Union)
 2026-05-02T00:02:00.000Z,02 May 2026 - 12:02 AM,15.46,121.87,010,2.8,046km S 45° E of Baler (Aurora),046,S 45° E,Baler (Aurora)
-2026-05-01T23:17:00.000Z,01 May 2026 - 11:17 PM,19.92,121.29,002,2.5,075km N 15° W of Calayan (Cagayan),075,N 15° W,Calayan (Cagayan)
