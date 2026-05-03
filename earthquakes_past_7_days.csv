@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T23:23:00.000Z,03 May 2026 - 11:23 PM,19.90,121.81,019,2.2,044km N 15° W of Babuyan Island (Calayan) (Cagayan),044,N 15° W,Babuyan Island (Calayan) (Cagayan)
+2026-05-03T23:22:00.000Z,03 May 2026 - 11:22 PM,08.28,126.01,026,1.5,011km N 08° E of Bunawan (Agusan Del Sur),011,N 08° E,Bunawan (Agusan Del Sur)
+2026-05-03T23:18:00.000Z,03 May 2026 - 11:18 PM,18.85,121.98,010,2.1,014km S 61° E of Camiguin Island (Calayan) (Cagayan),014,S 61° E,Camiguin Island (Calayan) (Cagayan)
+2026-05-03T23:17:00.000Z,03 May 2026 - 11:17 PM,09.49,126.12,041,2.4,022km S 49° E of Socorro (Surigao Del Norte),022,S 49° E,Socorro (Surigao Del Norte)
 2026-05-03T21:57:00.000Z,03 May 2026 - 09:57 PM,06.53,123.80,023,1.9,028km S 85° W of Kalamansig (Sultan Kudarat),028,S 85° W,Kalamansig (Sultan Kudarat)
 2026-05-03T21:27:00.000Z,03 May 2026 - 09:27 PM,13.66,119.78,013,1.9,043km S 59° W of Lubang (Occidental Mindoro),043,S 59° W,Lubang (Occidental Mindoro)
 2026-05-03T20:50:00.000Z,03 May 2026 - 08:50 PM,16.74,119.65,003,2.3,031km N 15° W of Bolinao (Pangasinan),031,N 15° W,Bolinao (Pangasinan)
@@ -321,9 +325,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-27T00:27:00.000Z,27 April 2026 - 12:27 AM,06.18,124.72,010,2.5,005km S 09° E of Lake Sebu (South Cotabato),005,S 09° E,Lake Sebu (South Cotabato)
 2026-04-27T00:11:00.000Z,27 April 2026 - 12:11 AM,09.59,126.17,031,1.6,022km S 05° E of General Luna (Surigao Del Norte),022,S 05° E,General Luna (Surigao Del Norte)
 2026-04-26T23:59:00.000Z,26 April 2026 - 11:59 PM,13.24,124.45,028,2.0,036km N 81° E of Rapu-rapu (Albay),036,N 81° E,Rapu-rapu (Albay)
-2026-04-26T23:19:00.000Z,26 April 2026 - 11:19 PM,09.46,126.80,012,2.7,070km N 73° E of Cortes (Surigao Del Sur),070,N 73° E,Cortes (Surigao Del Sur)
-2026-04-26T23:06:00.000Z,26 April 2026 - 11:06 PM,09.81,124.75,021,3.5,021km N 69° E of Anda (Bohol),021,N 69° E,Anda (Bohol)
-2026-04-26T22:47:00.000Z,26 April 2026 - 10:47 PM,09.80,126.33,019,3.2,019km N 85° E of General Luna (Surigao Del Norte),019,N 85° E,General Luna (Surigao Del Norte)
-2026-04-26T22:16:00.000Z,26 April 2026 - 10:16 PM,19.06,121.06,012,2.3,016km S 72° W of Dalupiri Island (Calayan) (Cagayan),016,S 72° W,Dalupiri Island (Calayan) (Cagayan)
-2026-04-26T22:09:00.000Z,26 April 2026 - 10:09 PM,13.65,123.74,008,1.9,007km S 03° W of Presentacion (Camarines Sur),007,S 03° W,Presentacion (Camarines Sur)
-2026-04-26T22:08:00.000Z,26 April 2026 - 10:08 PM,19.02,120.43,015,2.5,061km N 21° W of Burgos (Ilocos Norte),061,N 21° W,Burgos (Ilocos Norte)
