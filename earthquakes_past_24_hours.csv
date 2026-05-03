@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T05:04:00.000Z,04 May 2026 - 05:04 AM,14.12,119.12,022,2.7,112km N 75° W of Lubang (Occidental Mindoro),112,N 75° W,Lubang (Occidental Mindoro)
+2026-05-04T04:55:00.000Z,04 May 2026 - 04:55 AM,03.62,126.26,068,3.8,219km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),219,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-04T04:40:00.000Z,04 May 2026 - 04:40 AM,15.03,121.27,011,2.3,020km N 63° E of Doña Remedios Trinidad (Bulacan),020,N 63° E,DoÃ±a Remedios Trinidad (Bulacan)
+2026-05-04T04:35:00.000Z,04 May 2026 - 04:35 AM,16.66,122.35,033,2.3,017km N 33° E of Dinapigue (Isabela),017,N 33° E,Dinapigue (Isabela)
 2026-05-04T03:15:00.000Z,04 May 2026 - 03:15 AM,18.20,121.07,023,2.1,007km S 25° E of Calanasan (Apayao),007,S 25° E,Calanasan (Apayao)
 2026-05-04T03:17:00.000Z,04 May 2026 - 03:17 AM,09.58,126.13,034,1.9,019km S 76° E of Socorro (Surigao Del Norte),019,S 76° E,Socorro (Surigao Del Norte)
 2026-05-04T02:55:00.000Z,04 May 2026 - 02:55 AM,14.98,122.07,014,2.4,019km N 34° E of Burdeos (Quezon),019,N 34° E,Burdeos (Quezon)
@@ -44,6 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-03T07:19:00.000Z,03 May 2026 - 07:19 AM,11.72,121.35,013,2.1,032km S 43° W of Caluya (Antique),032,S 43° W,Caluya (Antique)
 2026-05-03T06:19:00.000Z,03 May 2026 - 06:19 AM,09.61,126.11,032,1.9,016km S 88° E of Socorro (Surigao Del Norte),016,S 88° E,Socorro (Surigao Del Norte)
 2026-05-03T05:59:00.000Z,03 May 2026 - 05:59 AM,12.04,125.08,032,1.7,007km S 76° E of San Jose De Buan (Samar),007,S 76° E,San Jose De Buan (Samar)
-2026-05-03T05:02:00.000Z,03 May 2026 - 05:02 AM,07.50,126.49,092,2.1,011km S 46° W of Baganga (Davao Oriental),011,S 46° W,Baganga (Davao Oriental)
-2026-05-03T04:52:00.000Z,03 May 2026 - 04:52 AM,09.68,125.75,106,1.8,010km N 28° E of Gigaquit (Surigao Del Norte),010,N 28° E,Gigaquit (Surigao Del Norte)
-2026-05-03T03:31:00.000Z,03 May 2026 - 03:31 AM,13.77,121.47,004,2.4,010km S 52° E of San Juan (Batangas),010,S 52° E,San Juan (Batangas)

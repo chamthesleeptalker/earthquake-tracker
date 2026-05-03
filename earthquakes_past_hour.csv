@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-04T03:15:00.000Z,04 May 2026 - 03:15 AM,18.20,121.07,023,2.1,007km S 25° E of Calanasan (Apayao),007,S 25° E,Calanasan (Apayao)
-2026-05-04T03:17:00.000Z,04 May 2026 - 03:17 AM,09.58,126.13,034,1.9,019km S 76° E of Socorro (Surigao Del Norte),019,S 76° E,Socorro (Surigao Del Norte)
-2026-05-04T02:55:00.000Z,04 May 2026 - 02:55 AM,14.98,122.07,014,2.4,019km N 34° E of Burdeos (Quezon),019,N 34° E,Burdeos (Quezon)
-2026-05-04T02:26:00.000Z,04 May 2026 - 02:26 AM,07.03,126.10,048,3.0,012km N 53° E of Banaybanay (Davao Oriental),012,N 53° E,Banaybanay (Davao Oriental)
-2026-05-04T02:18:00.000Z,04 May 2026 - 02:18 AM,19.91,121.74,005,1.7,048km S 16° W of Sabtang (Batanes),048,S 16° W,Sabtang (Batanes)
+2026-05-04T05:04:00.000Z,04 May 2026 - 05:04 AM,14.12,119.12,022,2.7,112km N 75° W of Lubang (Occidental Mindoro),112,N 75° W,Lubang (Occidental Mindoro)
+2026-05-04T04:55:00.000Z,04 May 2026 - 04:55 AM,03.62,126.26,068,3.8,219km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),219,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-04T04:40:00.000Z,04 May 2026 - 04:40 AM,15.03,121.27,011,2.3,020km N 63° E of Doña Remedios Trinidad (Bulacan),020,N 63° E,DoÃ±a Remedios Trinidad (Bulacan)
+2026-05-04T04:35:00.000Z,04 May 2026 - 04:35 AM,16.66,122.35,033,2.3,017km N 33° E of Dinapigue (Isabela),017,N 33° E,Dinapigue (Isabela)

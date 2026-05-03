@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T05:04:00.000Z,04 May 2026 - 05:04 AM,14.12,119.12,022,2.7,112km N 75° W of Lubang (Occidental Mindoro),112,N 75° W,Lubang (Occidental Mindoro)
+2026-05-04T04:55:00.000Z,04 May 2026 - 04:55 AM,03.62,126.26,068,3.8,219km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),219,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-04T04:40:00.000Z,04 May 2026 - 04:40 AM,15.03,121.27,011,2.3,020km N 63° E of Doña Remedios Trinidad (Bulacan),020,N 63° E,DoÃ±a Remedios Trinidad (Bulacan)
+2026-05-04T04:35:00.000Z,04 May 2026 - 04:35 AM,16.66,122.35,033,2.3,017km N 33° E of Dinapigue (Isabela),017,N 33° E,Dinapigue (Isabela)
 2026-05-04T03:15:00.000Z,04 May 2026 - 03:15 AM,18.20,121.07,023,2.1,007km S 25° E of Calanasan (Apayao),007,S 25° E,Calanasan (Apayao)
 2026-05-04T03:17:00.000Z,04 May 2026 - 03:17 AM,09.58,126.13,034,1.9,019km S 76° E of Socorro (Surigao Del Norte),019,S 76° E,Socorro (Surigao Del Norte)
 2026-05-04T02:55:00.000Z,04 May 2026 - 02:55 AM,14.98,122.07,014,2.4,019km N 34° E of Burdeos (Quezon),019,N 34° E,Burdeos (Quezon)
@@ -320,6 +324,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-27T06:10:00.000Z,27 April 2026 - 06:10 AM,13.97,120.55,084,1.7,013km S 55° W of Lian (Batangas),013,S 55° W,Lian (Batangas)
 2026-04-27T05:18:00.000Z,27 April 2026 - 05:18 AM,12.95,124.60,023,1.7,039km N 41° E of Biri (Northern Samar),039,N 41° E,Biri (Northern Samar)
 2026-04-27T05:16:00.000Z,27 April 2026 - 05:16 AM,10.72,122.39,002,2.2,006km S 02° E of Leon (Iloilo),006,S 02° E,Leon (Iloilo)
-2026-04-27T04:45:00.000Z,27 April 2026 - 04:45 AM,18.38,120.64,035,1.4,005km N 28° E of Pasuquin (Ilocos Norte),005,N 28° E,Pasuquin (Ilocos Norte)
-2026-04-27T03:32:00.000Z,27 April 2026 - 03:32 AM,07.41,126.73,036,1.9,020km N 64° E of Caraga (Davao Oriental),020,N 64° E,Caraga (Davao Oriental)
-2026-04-27T03:22:00.000Z,27 April 2026 - 03:22 AM,13.12,124.13,021,1.8,007km S 01° E of Rapu-rapu (Albay),007,S 01° E,Rapu-rapu (Albay)
