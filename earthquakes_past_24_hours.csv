@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T20:50:00.000Z,03 May 2026 - 08:50 PM,16.74,119.65,003,2.3,031km N 15° W of Bolinao (Pangasinan),031,N 15° W,Bolinao (Pangasinan)
+2026-05-03T20:21:00.000Z,03 May 2026 - 08:21 PM,05.28,126.75,010,3.3,141km S 60° E of Jose Abad Santos (Davao Occidental),141,S 60° E,Jose Abad Santos (Davao Occidental)
+2026-05-03T19:46:00.000Z,03 May 2026 - 07:46 PM,13.46,122.12,018,2.1,010km S 77° E of Santa Cruz (Marinduque),010,S 77° E,Santa Cruz (Marinduque)
 2026-05-03T18:44:00.000Z,03 May 2026 - 06:44 PM,08.65,126.44,032,1.9,022km S 43° E of Marihatag (Surigao Del Sur),022,S 43° E,Marihatag (Surigao Del Sur)
 2026-05-03T09:38:00.000Z,03 May 2026 - 09:38 AM,18.66,122.22,011,2.7,023km N 19° E of Santa Ana (Cagayan),023,N 19° E,Santa Ana (Cagayan)
 2026-05-03T18:37:00.000Z,03 May 2026 - 06:37 PM,16.31,120.14,022,1.9,021km N 82° E of Anda (Pangasinan),021,N 82° E,Anda (Pangasinan)
@@ -44,7 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T21:59:00.000Z,02 May 2026 - 09:59 PM,18.54,120.79,015,2.0,002km S 24° E of Pagudpud (Ilocos Norte),002,S 24° E,Pagudpud (Ilocos Norte)
 2026-05-02T21:53:00.000Z,02 May 2026 - 09:53 PM,16.46,122.04,022,2.1,019km N 67° W of Dilasag (Aurora),019,N 67° W,Dilasag (Aurora)
 2026-05-02T21:02:00.000Z,02 May 2026 - 09:02 PM,08.54,122.64,028,2.0,044km N 75° W of Jose Dalman (Zamboanga Del Norte),044,N 75° W,Jose Dalman (Zamboanga Del Norte)
-2026-05-02T20:37:00.000Z,02 May 2026 - 08:37 PM,14.99,122.03,010,2.1,018km N 23° E of Burdeos (Quezon),018,N 23° E,Burdeos (Quezon)
-2026-05-02T20:36:00.000Z,02 May 2026 - 08:36 PM,08.73,125.64,029,2.3,005km S 80° E of Las Nieves (Agusan Del Norte),005,S 80° E,Las Nieves (Agusan Del Norte)
-2026-05-02T19:28:00.000Z,02 May 2026 - 07:28 PM,07.63,126.32,034,2.2,022km N 65° E of New Bataan (Davao De Oro),022,N 65° E,New Bataan (Davao De Oro)
-2026-05-02T19:05:00.000Z,02 May 2026 - 07:05 PM,13.77,120.60,092,1.6,008km S 30° W of Calatagan (Batangas),008,S 30° W,Calatagan (Batangas)
