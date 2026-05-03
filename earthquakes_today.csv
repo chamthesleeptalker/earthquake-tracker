@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T15:27:00.000Z,03 May 2026 - 03:27 PM,07.50,124.85,011,1.8,010km N 81° W of Damulog (Bukidnon),010,N 81° W,Damulog (Bukidnon)
+2026-05-03T15:02:00.000Z,03 May 2026 - 03:02 PM,06.75,123.92,008,2.4,025km N 34° W of Kalamansig (Sultan Kudarat),025,N 34° W,Kalamansig (Sultan Kudarat)
+2026-05-03T14:49:00.000Z,03 May 2026 - 02:49 PM,08.75,126.50,033,1.5,023km S 75° E of Marihatag (Surigao Del Sur),023,S 75° E,Marihatag (Surigao Del Sur)
+2026-05-03T14:07:00.000Z,03 May 2026 - 02:07 PM,13.31,120.50,027,1.4,012km S 20° E of Paluan (Occidental Mindoro),012,S 20° E,Paluan (Occidental Mindoro)
 2026-05-03T12:42:00.000Z,03 May 2026 - 12:42 PM,05.94,127.09,085,3.0,137km S 55° E of Governor Generoso (Davao Oriental),137,S 55° E,Governor Generoso (Davao Oriental)
 2026-05-03T12:41:00.000Z,03 May 2026 - 12:41 PM,16.45,121.07,006,1.5,009km N 25° W of Bambang (Nueva Vizcaya),009,N 25° W,Bambang (Nueva Vizcaya)
 2026-05-03T12:06:00.000Z,03 May 2026 - 12:06 PM,06.46,125.93,134,1.9,026km S 37° W of Governor Generoso (Davao Oriental),026,S 37° W,Governor Generoso (Davao Oriental)
