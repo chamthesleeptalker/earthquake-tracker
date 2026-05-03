@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T01:37:00.000Z,04 May 2026 - 01:37 AM,12.29,121.43,032,1.6,011km S 68° E of Bulalacao (Oriental Mindoro),011,S 68° E,Bulalacao (Oriental Mindoro)
+2026-05-04T01:19:00.000Z,04 May 2026 - 01:19 AM,09.03,125.97,087,1.8,012km N 40° W of San Miguel (Surigao Del Sur),012,N 40° W,San Miguel (Surigao Del Sur)
 2026-05-04T00:55:00.000Z,04 May 2026 - 12:55 AM,18.29,120.47,030,2.1,016km N 74° W of Bacarra (Ilocos Norte),016,N 74° W,Bacarra (Ilocos Norte)
 2026-05-04T00:31:00.000Z,04 May 2026 - 12:31 AM,13.63,123.69,009,1.8,010km S 34° W of Presentacion (Camarines Sur),010,S 34° W,Presentacion (Camarines Sur)
 2026-05-04T00:25:00.000Z,04 May 2026 - 12:25 AM,13.37,123.61,002,2.9,010km S 75° W of Malinao (Albay),010,S 75° W,Malinao (Albay)
