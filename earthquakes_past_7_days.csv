@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-03T18:37:00.000Z,03 May 2026 - 06:37 PM,16.31,120.14,022,1.9,021km N 82° E of Anda (Pangasinan),021,N 82° E,Anda (Pangasinan)
+2026-05-03T18:33:00.000Z,03 May 2026 - 06:33 PM,07.00,126.07,033,2.1,008km N 59° E of Banaybanay (Davao Oriental),008,N 59° E,Banaybanay (Davao Oriental)
+2026-05-03T18:16:00.000Z,03 May 2026 - 06:16 PM,07.12,123.54,031,2.1,040km S 21° E of Tabina (Zamboanga Del Sur),040,S 21° E,Tabina (Zamboanga Del Sur)
 2026-05-03T16:18:00.000Z,03 May 2026 - 04:18 PM,14.62,120.05,041,1.3,025km S 74° W of Morong (Bataan),025,S 74° W,Morong (Bataan)
 2026-05-03T15:27:00.000Z,03 May 2026 - 03:27 PM,07.50,124.85,011,1.8,010km N 81° W of Damulog (Bukidnon),010,N 81° W,Damulog (Bukidnon)
 2026-05-03T15:02:00.000Z,03 May 2026 - 03:02 PM,06.75,123.92,008,2.4,025km N 34° W of Kalamansig (Sultan Kudarat),025,N 34° W,Kalamansig (Sultan Kudarat)
@@ -325,7 +328,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-26T20:47:00.000Z,26 April 2026 - 08:47 PM,06.86,126.82,025,2.6,046km S 63° E of Tarragona (Davao Oriental),046,S 63° E,Tarragona (Davao Oriental)
 2026-04-26T20:18:00.000Z,26 April 2026 - 08:18 PM,11.21,124.06,007,2.3,021km N 26° E of City Of Bogo (Cebu),021,N 26° E,City Of Bogo (Cebu)
 2026-04-26T19:09:00.000Z,26 April 2026 - 07:09 PM,11.06,124.07,020,1.7,010km N 81° E of City Of Bogo (Cebu),010,N 81° E,City Of Bogo (Cebu)
-2026-04-26T18:27:00.000Z,26 April 2026 - 06:27 PM,05.32,127.52,109,3.4,218km S 72° E of Jose Abad Santos (Davao Occidental),218,S 72° E,Jose Abad Santos (Davao Occidental)
-2026-04-26T17:54:00.000Z,26 April 2026 - 05:54 PM,05.84,126.31,087,2.5,074km S 84° E of Jose Abad Santos (Davao Occidental),074,S 84° E,Jose Abad Santos (Davao Occidental)
-2026-04-26T16:47:00.000Z,26 April 2026 - 04:47 PM,06.68,124.31,006,2.4,021km S 69° W of Datu Abdullah Sangki (Maguindanao Del Sur),021,S 69° W,Datu Abdullah Sangki (Maguindanao Del Sur)
-2026-04-26T16:35:00.000Z,26 April 2026 - 04:35 PM,15.22,119.95,019,1.8,011km S 46° W of Botolan (Zambales),011,S 46° W,Botolan (Zambales)
