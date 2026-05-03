@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T00:55:00.000Z,04 May 2026 - 12:55 AM,18.29,120.47,030,2.1,016km N 74° W of Bacarra (Ilocos Norte),016,N 74° W,Bacarra (Ilocos Norte)
+2026-05-04T00:31:00.000Z,04 May 2026 - 12:31 AM,13.63,123.69,009,1.8,010km S 34° W of Presentacion (Camarines Sur),010,S 34° W,Presentacion (Camarines Sur)
+2026-05-04T00:25:00.000Z,04 May 2026 - 12:25 AM,13.37,123.61,002,2.9,010km S 75° W of Malinao (Albay),010,S 75° W,Malinao (Albay)
 2026-05-03T23:23:00.000Z,03 May 2026 - 11:23 PM,19.90,121.81,019,2.2,044km N 15° W of Babuyan Island (Calayan) (Cagayan),044,N 15° W,Babuyan Island (Calayan) (Cagayan)
 2026-05-03T23:22:00.000Z,03 May 2026 - 11:22 PM,08.28,126.01,026,1.5,011km N 08° E of Bunawan (Agusan Del Sur),011,N 08° E,Bunawan (Agusan Del Sur)
 2026-05-03T23:18:00.000Z,03 May 2026 - 11:18 PM,18.85,121.98,010,2.1,014km S 61° E of Camiguin Island (Calayan) (Cagayan),014,S 61° E,Camiguin Island (Calayan) (Cagayan)

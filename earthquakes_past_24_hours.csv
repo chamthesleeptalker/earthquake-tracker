@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T00:55:00.000Z,04 May 2026 - 12:55 AM,18.29,120.47,030,2.1,016km N 74° W of Bacarra (Ilocos Norte),016,N 74° W,Bacarra (Ilocos Norte)
+2026-05-04T00:31:00.000Z,04 May 2026 - 12:31 AM,13.63,123.69,009,1.8,010km S 34° W of Presentacion (Camarines Sur),010,S 34° W,Presentacion (Camarines Sur)
+2026-05-04T00:25:00.000Z,04 May 2026 - 12:25 AM,13.37,123.61,002,2.9,010km S 75° W of Malinao (Albay),010,S 75° W,Malinao (Albay)
 2026-05-03T23:23:00.000Z,03 May 2026 - 11:23 PM,19.90,121.81,019,2.2,044km N 15° W of Babuyan Island (Calayan) (Cagayan),044,N 15° W,Babuyan Island (Calayan) (Cagayan)
 2026-05-03T23:22:00.000Z,03 May 2026 - 11:22 PM,08.28,126.01,026,1.5,011km N 08° E of Bunawan (Agusan Del Sur),011,N 08° E,Bunawan (Agusan Del Sur)
 2026-05-03T23:18:00.000Z,03 May 2026 - 11:18 PM,18.85,121.98,010,2.1,014km S 61° E of Camiguin Island (Calayan) (Cagayan),014,S 61° E,Camiguin Island (Calayan) (Cagayan)
@@ -43,9 +46,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-03T02:05:00.000Z,03 May 2026 - 02:05 AM,05.84,126.68,027,3.1,113km S 37° E of Governor Generoso (Davao Oriental),113,S 37° E,Governor Generoso (Davao Oriental)
 2026-05-03T01:25:00.000Z,03 May 2026 - 01:25 AM,12.20,124.28,024,1.6,021km S 16° W of San Isidro (Northern Samar),021,S 16° W,San Isidro (Northern Samar)
 2026-05-03T01:14:00.000Z,03 May 2026 - 01:14 AM,12.27,122.07,010,2.3,002km N 47° E of Alcantara (Romblon),002,N 47° E,Alcantara (Romblon)
-2026-05-03T00:46:00.000Z,03 May 2026 - 12:46 AM,10.89,126.70,010,3.6,107km S 81° E of Guiuan (Eastern Samar),107,S 81° E,Guiuan (Eastern Samar)
-2026-05-03T00:29:00.000Z,03 May 2026 - 12:29 AM,16.03,120.48,124,1.9,002km S 41° W of Manaoag (Pangasinan),002,S 41° W,Manaoag (Pangasinan)
-2026-05-03T00:00:00.000Z,03 May 2026 - 12:00 AM,08.43,126.33,014,1.7,007km N 08° W of Hinatuan (Surigao Del Sur),007,N 08° W,Hinatuan (Surigao Del Sur)
-2026-05-02T23:43:00.000Z,02 May 2026 - 11:43 PM,19.30,121.13,034,1.9,022km N 22° W of Dalupiri Island (Calayan) (Cagayan),022,N 22° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-02T23:38:00.000Z,02 May 2026 - 11:38 PM,10.10,124.99,018,3.4,006km N 68° E of Macrohon (Southern Leyte),006,N 68° E,Macrohon (Southern Leyte)
-2026-05-02T23:33:00.000Z,02 May 2026 - 11:33 PM,19.01,121.11,032,2.1,015km S 44° W of Dalupiri Island (Calayan) (Cagayan),015,S 44° W,Dalupiri Island (Calayan) (Cagayan)
