@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T06:30:00.000Z,04 May 2026 - 06:30 AM,18.86,121.10,017,1.7,028km N 03° E of Claveria (Cagayan),028,N 03° E,Claveria (Cagayan)
+2026-05-04T05:37:00.000Z,04 May 2026 - 05:37 AM,09.40,126.16,012,1.8,014km N 17° W of Cortes (Surigao Del Sur),014,N 17° W,Cortes (Surigao Del Sur)
 2026-05-04T05:04:00.000Z,04 May 2026 - 05:04 AM,14.12,119.12,022,2.7,112km N 75° W of Lubang (Occidental Mindoro),112,N 75° W,Lubang (Occidental Mindoro)
 2026-05-04T04:55:00.000Z,04 May 2026 - 04:55 AM,03.62,126.26,068,3.8,219km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),219,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-04T04:40:00.000Z,04 May 2026 - 04:40 AM,15.03,121.27,011,2.3,020km N 63° E of Doña Remedios Trinidad (Bulacan),020,N 63° E,DoÃ±a Remedios Trinidad (Bulacan)
@@ -321,6 +323,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-27T08:35:00.000Z,27 April 2026 - 08:35 AM,07.26,127.12,004,3.1,061km S 83° E of Caraga (Davao Oriental),061,S 83° E,Caraga (Davao Oriental)
 2026-04-27T08:31:00.000Z,27 April 2026 - 08:31 AM,06.09,127.35,029,3.4,146km S 43° E of Tarragona (Davao Oriental),146,S 43° E,Tarragona (Davao Oriental)
 2026-04-27T07:32:00.000Z,27 April 2026 - 07:32 AM,10.53,125.70,026,2.1,023km N 35° E of Loreto (Dinagat Islands),023,N 35° E,Loreto (Dinagat Islands)
-2026-04-27T06:10:00.000Z,27 April 2026 - 06:10 AM,13.97,120.55,084,1.7,013km S 55° W of Lian (Batangas),013,S 55° W,Lian (Batangas)
-2026-04-27T05:18:00.000Z,27 April 2026 - 05:18 AM,12.95,124.60,023,1.7,039km N 41° E of Biri (Northern Samar),039,N 41° E,Biri (Northern Samar)
-2026-04-27T05:16:00.000Z,27 April 2026 - 05:16 AM,10.72,122.39,002,2.2,006km S 02° E of Leon (Iloilo),006,S 02° E,Leon (Iloilo)
