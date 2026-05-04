@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T10:05:00.000Z,04 May 2026 - 10:05 AM,09.62,126.24,034,1.4,020km S 25° E of General Luna (Surigao Del Norte),020,S 25° E,General Luna (Surigao Del Norte)
+2026-05-04T09:18:00.000Z,04 May 2026 - 09:18 AM,09.15,126.14,057,2.2,009km N 19° W of City Of Tandag (Surigao Del Sur),009,N 19° W,City Of Tandag (Surigao Del Sur)
+2026-05-04T09:01:00.000Z,04 May 2026 - 09:01 AM,19.00,121.17,034,1.9,012km S 19° W of Dalupiri Island (Calayan) (Cagayan),012,S 19° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-04T08:52:00.000Z,04 May 2026 - 08:52 AM,06.12,126.00,099,2.3,035km S 76° E of Don Marcelino (Davao Occidental),035,S 76° E,Don Marcelino (Davao Occidental)
+2026-05-04T08:49:00.000Z,04 May 2026 - 08:49 AM,08.87,125.90,026,1.8,017km S 62° W of San Miguel (Surigao Del Sur),017,S 62° W,San Miguel (Surigao Del Sur)
+2026-05-04T08:19:00.000Z,04 May 2026 - 08:19 AM,09.47,126.54,021,2.5,044km N 61° E of Cortes (Surigao Del Sur),044,N 61° E,Cortes (Surigao Del Sur)
+2026-05-04T07:52:00.000Z,04 May 2026 - 07:52 AM,06.96,126.11,027,2.4,011km S 88° E of Banaybanay (Davao Oriental),011,S 88° E,Banaybanay (Davao Oriental)
 2026-05-04T06:30:00.000Z,04 May 2026 - 06:30 AM,18.86,121.10,017,1.7,028km N 03° E of Claveria (Cagayan),028,N 03° E,Claveria (Cagayan)
 2026-05-04T05:37:00.000Z,04 May 2026 - 05:37 AM,09.40,126.16,012,1.8,014km N 17° W of Cortes (Surigao Del Sur),014,N 17° W,Cortes (Surigao Del Sur)
 2026-05-04T05:04:00.000Z,04 May 2026 - 05:04 AM,14.12,119.12,022,2.7,112km N 75° W of Lubang (Occidental Mindoro),112,N 75° W,Lubang (Occidental Mindoro)
