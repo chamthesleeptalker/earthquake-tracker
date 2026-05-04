@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-04T23:04:00.000Z,04 May 2026 - 11:04 PM,08.39,126.52,026,1.8,020km N 84° E of Hinatuan (Surigao Del Sur),020,N 84° E,Hinatuan (Surigao Del Sur)
+2026-05-04T22:53:00.000Z,04 May 2026 - 10:53 PM,13.65,120.63,105,1.4,020km South of Calatagan (Batangas),020,South of Calatagan,
+2026-05-04T22:47:00.000Z,04 May 2026 - 10:47 PM,11.80,125.35,026,1.5,013km N 64° W of San Julian (Eastern Samar),013,N 64° W,San Julian (Eastern Samar)
+2026-05-04T22:45:00.000Z,04 May 2026 - 10:45 PM,11.79,125.35,028,1.7,012km N 68° W of San Julian (Eastern Samar),012,N 68° W,San Julian (Eastern Samar)
+2026-05-04T21:52:00.000Z,04 May 2026 - 09:52 PM,18.22,120.90,063,1.7,012km N 42° E of Carasi (Ilocos Norte),012,N 42° E,Carasi (Ilocos Norte)
+2026-05-04T21:39:00.000Z,04 May 2026 - 09:39 PM,11.78,125.35,037,1.8,012km N 74° W of San Julian (Eastern Samar),012,N 74° W,San Julian (Eastern Samar)
+2026-05-04T21:30:00.000Z,04 May 2026 - 09:30 PM,06.06,126.59,010,2.8,087km S 41° E of Governor Generoso (Davao Oriental),087,S 41° E,Governor Generoso (Davao Oriental)
+2026-05-04T21:13:00.000Z,04 May 2026 - 09:13 PM,11.43,120.90,027,2.1,031km N 07° W of Agutaya (Palawan),031,N 07° W,Agutaya (Palawan)
+2026-05-04T20:59:00.000Z,04 May 2026 - 08:59 PM,08.53,123.28,013,3.0,002km N 24° W of Katipunan (Zamboanga Del Norte),002,N 24° W,Katipunan (Zamboanga Del Norte)
 2026-05-04T20:47:00.000Z,04 May 2026 - 08:47 PM,11.04,126.29,016,2.7,062km N 89° E of Guiuan (Eastern Samar),062,N 89° E,Guiuan (Eastern Samar)
 2026-05-04T20:22:00.000Z,04 May 2026 - 08:22 PM,10.18,126.03,029,1.6,018km N 02° W of Santa Monica (Surigao Del Norte),018,N 02° W,Santa Monica (Surigao Del Norte)
 2026-05-04T20:13:00.000Z,04 May 2026 - 08:13 PM,11.81,125.33,027,2.0,015km N 67° W of San Julian (Eastern Samar),015,N 67° W,San Julian (Eastern Samar)
