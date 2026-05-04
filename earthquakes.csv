@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-05T02:52:00.000Z,05 May 2026 - 02:52 AM,14.66,121.87,030,1.4,009km S 52° W of Polillo (Quezon),009,S 52° W,Polillo (Quezon)
+2026-05-05T02:45:00.000Z,05 May 2026 - 02:45 AM,13.35,124.08,022,1.8,019km N 15° W of Rapu-rapu (Albay),019,N 15° W,Rapu-rapu (Albay)
+2026-05-05T02:37:00.000Z,05 May 2026 - 02:37 AM,09.26,125.70,030,1.4,015km S 88° E of Santiago (Agusan Del Norte),015,S 88° E,Santiago (Agusan Del Norte)
+2026-05-05T01:45:00.000Z,05 May 2026 - 01:45 AM,11.77,125.36,036,1.8,010km N 78° W of San Julian (Eastern Samar),010,N 78° W,San Julian (Eastern Samar)
+2026-05-05T01:28:00.000Z,05 May 2026 - 01:28 AM,11.82,125.40,026,2.4,009km N 42° W of San Julian (Eastern Samar),009,N 42° W,San Julian (Eastern Samar)
 2026-05-05T00:41:00.000Z,05 May 2026 - 12:41 AM,09.51,123.83,011,2.6,012km S 45° E of Panglao (Bohol),012,S 45° E,Panglao (Bohol)
 2026-05-05T00:14:00.000Z,05 May 2026 - 12:14 AM,11.81,125.39,026,2.3,009km N 48° W of San Julian (Eastern Samar),009,N 48° W,San Julian (Eastern Samar)
 2026-05-05T00:06:00.000Z,05 May 2026 - 12:06 AM,05.86,126.31,075,2.1,073km S 85° E of Jose Abad Santos (Davao Occidental),073,S 85° E,Jose Abad Santos (Davao Occidental)
