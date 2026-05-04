@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-05T00:41:00.000Z,05 May 2026 - 12:41 AM,09.51,123.83,011,2.6,012km S 45° E of Panglao (Bohol),012,S 45° E,Panglao (Bohol)
+2026-05-05T00:14:00.000Z,05 May 2026 - 12:14 AM,11.81,125.39,026,2.3,009km N 48° W of San Julian (Eastern Samar),009,N 48° W,San Julian (Eastern Samar)
+2026-05-05T00:06:00.000Z,05 May 2026 - 12:06 AM,05.86,126.31,075,2.1,073km S 85° E of Jose Abad Santos (Davao Occidental),073,S 85° E,Jose Abad Santos (Davao Occidental)
+2026-05-04T23:36:00.000Z,04 May 2026 - 11:36 PM,19.52,121.62,027,2.1,031km N 88° W of Babuyan Island (Calayan) (Cagayan),031,N 88° W,Babuyan Island (Calayan) (Cagayan)
 2026-05-04T23:04:00.000Z,04 May 2026 - 11:04 PM,08.39,126.52,026,1.8,020km N 84° E of Hinatuan (Surigao Del Sur),020,N 84° E,Hinatuan (Surigao Del Sur)
 2026-05-04T22:53:00.000Z,04 May 2026 - 10:53 PM,13.65,120.63,105,1.4,020km South of Calatagan (Batangas),020,South of Calatagan,
 2026-05-04T22:47:00.000Z,04 May 2026 - 10:47 PM,11.80,125.35,026,1.5,013km N 64° W of San Julian (Eastern Samar),013,N 64° W,San Julian (Eastern Samar)
