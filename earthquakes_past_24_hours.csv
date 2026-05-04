@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-05T06:06:00.000Z,05 May 2026 - 06:06 AM,10.82,124.84,030,1.5,011km N 75° W of Javier (Leyte),011,N 75° W,Javier (Leyte)
+2026-05-05T06:05:00.000Z,05 May 2026 - 06:05 AM,14.09,123.94,005,3.7,024km N 61° W of Caramoran (Catanduanes),024,N 61° W,Caramoran (Catanduanes)
+2026-05-05T05:59:00.000Z,05 May 2026 - 05:59 AM,11.34,122.06,007,2.1,006km N 26° E of Tibiao (Antique),006,N 26° E,Tibiao (Antique)
+2026-05-05T05:50:00.000Z,05 May 2026 - 05:50 AM,17.55,119.83,006,2.1,057km S 86° W of Santa Catalina (Ilocos Sur),057,S 86° W,Santa Catalina (Ilocos Sur)
 2026-05-05T00:28:00.000Z,05 May 2026 - 12:28 AM,19.17,121.85,002,1.8,029km N 01° W of Camiguin Island (Calayan),029,N 01° W,Camiguin Island (Calayan)
 2026-05-05T04:22:00.000Z,05 May 2026 - 04:22 AM,06.58,124.36,009,2.3,014km N 15° E of Senator Ninoy Aquino (Sultan Kudarat),014,N 15° E,Senator Ninoy Aquino (Sultan Kudarat)
 2026-05-05T04:26:00.000Z,05 May 2026 - 04:26 AM,11.22,124.79,028,1.4,004km N 10° E of Jaro (Leyte),004,N 10° E,Jaro (Leyte)
@@ -59,8 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-04T08:19:00.000Z,04 May 2026 - 08:19 AM,09.47,126.54,021,2.5,044km N 61° E of Cortes (Surigao Del Sur),044,N 61° E,Cortes (Surigao Del Sur)
 2026-05-04T07:52:00.000Z,04 May 2026 - 07:52 AM,06.96,126.11,027,2.4,011km S 88° E of Banaybanay (Davao Oriental),011,S 88° E,Banaybanay (Davao Oriental)
 2026-05-04T06:30:00.000Z,04 May 2026 - 06:30 AM,18.86,121.10,017,1.7,028km N 03° E of Claveria (Cagayan),028,N 03° E,Claveria (Cagayan)
-2026-05-04T05:37:00.000Z,04 May 2026 - 05:37 AM,09.40,126.16,012,1.8,014km N 17° W of Cortes (Surigao Del Sur),014,N 17° W,Cortes (Surigao Del Sur)
-2026-05-04T05:04:00.000Z,04 May 2026 - 05:04 AM,14.12,119.12,022,2.7,112km N 75° W of Lubang (Occidental Mindoro),112,N 75° W,Lubang (Occidental Mindoro)
-2026-05-04T04:55:00.000Z,04 May 2026 - 04:55 AM,03.62,126.26,068,3.8,219km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),219,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-05-04T04:40:00.000Z,04 May 2026 - 04:40 AM,15.03,121.27,011,2.3,020km N 63° E of Doña Remedios Trinidad (Bulacan),020,N 63° E,DoÃ±a Remedios Trinidad (Bulacan)
-2026-05-04T04:35:00.000Z,04 May 2026 - 04:35 AM,16.66,122.35,033,2.3,017km N 33° E of Dinapigue (Isabela),017,N 33° E,Dinapigue (Isabela)
