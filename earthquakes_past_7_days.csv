@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-06T07:10:00.000Z,06 May 2026 - 07:10 AM,07.57,126.90,010,4.3,037km S 89° E of Baganga (Davao Oriental),037,S 89° E,Baganga (Davao Oriental)
+2026-05-06T06:33:00.000Z,06 May 2026 - 06:33 AM,12.23,125.43,014,2.1,011km N 56° W of San Policarpo (Eastern Samar),011,N 56° W,San Policarpo (Eastern Samar)
 2026-05-06T05:26:00.000Z,06 May 2026 - 05:26 AM,08.78,126.61,015,1.6,035km S 87° E of Marihatag (Surigao Del Sur),035,S 87° E,Marihatag (Surigao Del Sur)
 2026-05-06T05:14:00.000Z,06 May 2026 - 05:14 AM,19.20,121.20,015,2.5,011km N 05° W of Dalupiri Island (Calayan) (Cagayan),011,N 05° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-06T05:05:00.000Z,06 May 2026 - 05:05 AM,16.12,121.99,020,1.5,004km S 62° E of Dinalungan (Aurora),004,S 62° E,Dinalungan (Aurora)
@@ -360,10 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-29T08:00:00.000Z,29 April 2026 - 08:00 AM,07.44,127.06,012,2.5,056km N 77° E of Caraga (Davao Oriental),056,N 77° E,Caraga (Davao Oriental)
 2026-04-29T07:22:00.000Z,29 April 2026 - 07:22 AM,12.23,125.35,007,2.9,005km S 23° W of Arteche (Eastern Samar),005,S 23° W,Arteche (Eastern Samar)
 2026-04-29T07:13:00.000Z,29 April 2026 - 07:13 AM,12.26,125.45,033,1.7,009km S 83° E of Arteche (Eastern Samar),009,S 83° E,Arteche (Eastern Samar)
-2026-04-29T07:08:00.000Z,29 April 2026 - 07:08 AM,12.18,125.47,030,1.5,004km N 83° W of San Policarpo (Eastern Samar),004,N 83° W,San Policarpo (Eastern Samar)
-2026-04-29T07:07:00.000Z,29 April 2026 - 07:07 AM,12.33,125.48,025,1.9,014km N 61° E of Arteche (Eastern Samar),014,N 61° E,Arteche (Eastern Samar)
-2026-04-29T06:58:00.000Z,29 April 2026 - 06:58 AM,12.50,125.74,018,4.8,044km N 36° E of San Policarpo (Eastern Samar),044,N 36° E,San Policarpo (Eastern Samar)
-2026-04-29T06:36:00.000Z,29 April 2026 - 06:36 AM,14.98,122.00,020,2.0,016km N 14° E of Burdeos (Quezon),016,N 14° E,Burdeos (Quezon)
-2026-04-29T06:34:00.000Z,29 April 2026 - 06:34 AM,15.04,122.09,003,2.0,026km N 31° E of Burdeos (Quezon),026,N 31° E,Burdeos (Quezon)
-2026-04-29T06:10:00.000Z,29 April 2026 - 06:10 AM,06.71,125.23,037,2.4,001km N 81° E of Matanao (Davao Del Sur),001,N 81° E,Matanao (Davao Del Sur)
-2026-04-29T05:29:00.000Z,29 April 2026 - 05:29 AM,12.93,122.77,009,3.3,031km S 46° W of San Pascual (Masbate),031,S 46° W,San Pascual (Masbate)

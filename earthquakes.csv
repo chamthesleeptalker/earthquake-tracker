@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-06T07:10:00.000Z,06 May 2026 - 07:10 AM,07.57,126.90,010,4.3,037km S 89° E of Baganga (Davao Oriental),037,S 89° E,Baganga (Davao Oriental)
+2026-05-06T06:33:00.000Z,06 May 2026 - 06:33 AM,12.23,125.43,014,2.1,011km N 56° W of San Policarpo (Eastern Samar),011,N 56° W,San Policarpo (Eastern Samar)
 2026-05-06T05:26:00.000Z,06 May 2026 - 05:26 AM,08.78,126.61,015,1.6,035km S 87° E of Marihatag (Surigao Del Sur),035,S 87° E,Marihatag (Surigao Del Sur)
 2026-05-06T05:14:00.000Z,06 May 2026 - 05:14 AM,19.20,121.20,015,2.5,011km N 05° W of Dalupiri Island (Calayan) (Cagayan),011,N 05° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-06T05:05:00.000Z,06 May 2026 - 05:05 AM,16.12,121.99,020,1.5,004km S 62° E of Dinalungan (Aurora),004,S 62° E,Dinalungan (Aurora)
