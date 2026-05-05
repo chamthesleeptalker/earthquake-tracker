@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-05T21:45:00.000Z,05 May 2026 - 09:45 PM,11.84,125.31,022,2.1,018km N 59° W of San Julian (Eastern Samar),018,N 59° W,San Julian (Eastern Samar)
-2026-05-05T21:32:00.000Z,05 May 2026 - 09:32 PM,07.11,126.59,122,2.0,012km S 27° E of Manay (Davao Oriental),012,S 27° E,Manay (Davao Oriental)
-2026-05-05T20:46:00.000Z,05 May 2026 - 08:46 PM,09.53,126.13,041,1.6,021km S 61° E of Socorro (Surigao Del Norte),021,S 61° E,Socorro (Surigao Del Norte)
+2026-05-05T23:58:00.000Z,05 May 2026 - 11:58 PM,07.09,126.47,049,2.2,005km N 31° E of Tarragona (Davao Oriental),005,N 31° E,Tarragona (Davao Oriental)
+2026-05-05T23:33:00.000Z,05 May 2026 - 11:33 PM,11.13,125.54,013,2.0,002km N 57° W of Quinapondan (Eastern Samar),002,N 57° W,Quinapondan (Eastern Samar)
+2026-05-05T23:32:00.000Z,05 May 2026 - 11:32 PM,09.66,126.13,030,1.5,014km S 38° E of Dapa (Surigao Del Norte),014,S 38° E,Dapa (Surigao Del Norte)
+2026-05-05T23:20:00.000Z,05 May 2026 - 11:20 PM,14.01,120.63,024,1.4,004km S 37° W of Lian (Batangas),004,S 37° W,Lian (Batangas)
+2026-05-05T23:07:00.000Z,05 May 2026 - 11:07 PM,11.81,125.37,030,1.9,011km N 59° W of San Julian (Eastern Samar),011,N 59° W,San Julian (Eastern Samar)
+2026-05-05T23:00:00.000Z,05 May 2026 - 11:00 PM,09.84,126.15,006,1.4,005km S 66° E of Pilar (Surigao Del Norte),005,S 66° E,Pilar (Surigao Del Norte)
