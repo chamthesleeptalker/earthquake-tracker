@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-05T19:36:00.000Z,05 May 2026 - 07:36 PM,16.30,119.95,018,1.8,001km N 18° W of Anda (Pangasinan),001,N 18° W,Anda (Pangasinan)
 2026-05-05T18:44:00.000Z,05 May 2026 - 06:44 PM,05.95,126.39,020,2.3,082km S 70° E of Don Marcelino (Davao Occidental),082,S 70° E,Don Marcelino (Davao Occidental)
 2026-05-05T18:13:00.000Z,05 May 2026 - 06:13 PM,14.09,120.42,073,1.9,023km N 87° W of Nasugbu (Batangas),023,N 87° W,Nasugbu (Batangas)
 2026-05-05T17:39:00.000Z,05 May 2026 - 05:39 PM,20.02,121.64,013,2.4,042km S 35° W of Sabtang (Batanes),042,S 35° W,Sabtang (Batanes)
@@ -344,4 +345,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-28T21:12:00.000Z,28 April 2026 - 09:12 PM,13.55,121.96,006,2.4,011km N 42° W of Santa Cruz (Marinduque),011,N 42° W,Santa Cruz (Marinduque)
 2026-04-28T20:49:00.000Z,28 April 2026 - 08:49 PM,16.60,122.55,008,2.6,031km N 75° E of Dinapigue (Isabela),031,N 75° E,Dinapigue (Isabela)
 2026-04-28T20:47:00.000Z,28 April 2026 - 08:47 PM,05.66,126.99,010,3.3,150km S 43° E of Governor Generoso (Davao Oriental),150,S 43° E,Governor Generoso (Davao Oriental)
-2026-04-28T19:06:00.000Z,28 April 2026 - 07:06 PM,09.74,126.21,019,2.3,007km S 49° E of General Luna (Surigao Del Norte),007,S 49° E,General Luna (Surigao Del Norte)
