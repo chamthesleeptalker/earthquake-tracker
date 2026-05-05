@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-06T01:28:00.000Z,06 May 2026 - 01:28 AM,05.97,126.65,016,2.6,099km S 40° E of Governor Generoso (Davao Oriental),099,S 40° E,Governor Generoso (Davao Oriental)
+2026-05-06T01:15:00.000Z,06 May 2026 - 01:15 AM,18.64,122.58,014,2.1,051km N 67° E of Santa Ana (Cagayan),051,N 67° E,Santa Ana (Cagayan)
+2026-05-06T00:29:00.000Z,06 May 2026 - 12:29 AM,13.68,120.54,127,2.5,019km S 31° W of Calatagan (Batangas),019,S 31° W,Calatagan (Batangas)
+2026-05-06T00:28:00.000Z,06 May 2026 - 12:28 AM,03.32,125.45,034,3.8,232km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),232,S 01° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-05T23:58:00.000Z,05 May 2026 - 11:58 PM,07.09,126.47,049,2.2,005km N 31° E of Tarragona (Davao Oriental),005,N 31° E,Tarragona (Davao Oriental)
 2026-05-05T23:33:00.000Z,05 May 2026 - 11:33 PM,11.13,125.54,013,2.0,002km N 57° W of Quinapondan (Eastern Samar),002,N 57° W,Quinapondan (Eastern Samar)
 2026-05-05T23:32:00.000Z,05 May 2026 - 11:32 PM,09.66,126.13,030,1.5,014km S 38° E of Dapa (Surigao Del Norte),014,S 38° E,Dapa (Surigao Del Norte)
