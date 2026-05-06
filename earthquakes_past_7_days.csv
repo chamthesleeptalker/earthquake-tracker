@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-07T01:08:00.000Z,07 May 2026 - 01:08 AM,06.39,123.71,004,2.1,042km S 64° W of Kalamansig (Sultan Kudarat),042,S 64° W,Kalamansig (Sultan Kudarat)
 2026-05-06T23:49:00.000Z,06 May 2026 - 11:49 PM,06.23,126.16,139,2.3,048km S 11° E of Governor Generoso (Davao Oriental),048,S 11° E,Governor Generoso (Davao Oriental)
 2026-05-06T23:47:00.000Z,06 May 2026 - 11:47 PM,05.37,126.63,088,2.2,125km S 61° E of Jose Abad Santos (Davao Occidental),125,S 61° E,Jose Abad Santos (Davao Occidental)
 2026-05-06T23:35:00.000Z,06 May 2026 - 11:35 PM,07.38,126.88,054,5.9,035km N 80° E of Caraga (Davao Oriental),035,N 80° E,Caraga (Davao Oriental)
@@ -343,10 +344,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-30T03:13:00.000Z,30 April 2026 - 03:13 AM,17.53,120.41,053,2.0,004km S 52° E of Caoayan (Ilocos Sur),004,S 52° E,Caoayan (Ilocos Sur)
 2026-04-30T03:02:00.000Z,30 April 2026 - 03:02 AM,09.00,126.53,034,1.7,027km N 84° E of Bayabas (Surigao Del Sur),027,N 84° E,Bayabas (Surigao Del Sur)
 2026-04-30T02:59:00.000Z,30 April 2026 - 02:59 AM,09.96,124.12,025,2.1,006km N 29° E of Sagbayan (Bohol),006,N 29° E,Sagbayan (Bohol)
-2026-04-30T01:02:00.000Z,30 April 2026 - 01:02 AM,16.83,122.54,006,2.7,029km S 25° E of Palanan (Isabela),029,S 25° E,Palanan (Isabela)
-2026-04-30T00:49:00.000Z,30 April 2026 - 12:49 AM,11.04,123.63,006,2.7,016km S 35° W of Bantayan (Cebu),016,S 35° W,Bantayan (Cebu)
-2026-04-30T00:32:00.000Z,30 April 2026 - 12:32 AM,07.40,126.68,137,2.8,015km N 56° E of Caraga (Davao Oriental),015,N 56° E,Caraga (Davao Oriental)
-2026-04-30T00:02:00.000Z,30 April 2026 - 12:02 AM,15.02,122.02,010,2.7,020km N 16° E of Burdeos (Quezon),020,N 16° E,Burdeos (Quezon)
-2026-04-30T00:01:00.000Z,30 April 2026 - 12:01 AM,08.22,125.82,032,2.1,006km N 43° W of Loreto (Agusan Del Sur),006,N 43° W,Loreto (Agusan Del Sur)
-2026-04-29T23:57:00.000Z,29 April 2026 - 11:57 PM,08.30,125.99,013,2.3,010km S 05° W of Rosario (Agusan Del Sur),010,S 05° W,Rosario (Agusan Del Sur)
-2026-04-29T23:50:00.000Z,29 April 2026 - 11:50 PM,05.45,126.85,015,3.8,143km S 69° E of Jose Abad Santos (Davao Occidental),143,S 69° E,Jose Abad Santos (Davao Occidental)
