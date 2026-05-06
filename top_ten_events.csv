@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-05-04T14:09:00.000Z,04 May 2026 - 02:09 PM,11.82,125.62,56,6.0,020km N 68° E of San Julian (Eastern Samar),020,N 68° E,San Julian (Eastern Samar)
+2026-05-06T23:35:00.000Z,06 May 2026 - 11:35 PM,07.38,126.88,54,5.9,035km N 80° E of Caraga (Davao Oriental),035,N 80° E,Caraga (Davao Oriental)
 2026-04-30T23:01:00.000Z,30 April 2026 - 11:01 PM,07.48,126.90,10,4.9,038km S 74° E of Baganga (Davao Oriental),038,S 74° E,Baganga (Davao Oriental)
 2026-04-30T06:04:00.000Z,30 April 2026 - 06:04 AM,08.94,126.64,16,4.6,037km N 86° E of Cagwait (Surigao Del Sur),037,N 86° E,Cagwait (Surigao Del Sur)
 2026-05-04T22:04:00.000Z,04 May 2026 - 10:04 PM,05.36,123.65,568,4.4,112km S 33° W of Palimbang (Sultan Kudarat),112,S 33° W,Palimbang (Sultan Kudarat)
@@ -7,5 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T22:26:00.000Z,02 May 2026 - 10:26 PM,19.01,121.06,10,4.4,018km S 56° W of Dalupiri Island (Calayan) (Cagayan),018,S 56° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-06T07:10:00.000Z,06 May 2026 - 07:10 AM,07.57,126.90,10,4.3,037km S 89° E of Baganga (Davao Oriental),037,S 89° E,Baganga (Davao Oriental)
 2026-05-03T03:16:00.000Z,03 May 2026 - 03:16 AM,19.95,120.98,18,4.3,092km N 34° W of Calayan (Cagayan),092,N 34° W,Calayan (Cagayan)
-2026-05-06T04:27:00.000Z,06 May 2026 - 04:27 AM,02.58,128.04,232,4.1,428km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),428,S 43° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-04-30T18:44:00.000Z,30 April 2026 - 06:44 PM,07.00,126.49,150,4.1,007km S 40° E of Tarragona (Davao Oriental),007,S 40° E,Tarragona (Davao Oriental)
+2026-05-06T22:56:00.000Z,06 May 2026 - 10:56 PM,02.38,126.79,58,4.2,369km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),369,S 24° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
