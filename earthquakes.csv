@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-07T03:40:00.000Z,07 May 2026 - 03:40 AM,04.90,126.40,009,3.2,121km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),121,S 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-07T03:38:00.000Z,07 May 2026 - 03:38 AM,18.67,121.05,033,1.4,008km N 27° W of Claveria (Cagayan),008,N 27° W,Claveria (Cagayan)
+2026-05-07T03:22:00.000Z,07 May 2026 - 03:22 AM,18.89,121.06,007,2.5,029km S 32° W of Dalupiri Island (Calayan) (Cagayan),029,S 32° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-07T03:09:00.000Z,07 May 2026 - 03:09 AM,09.54,123.32,017,1.9,002km N 41° E of Samboan (Cebu),002,N 41° E,Samboan (Cebu)
+2026-05-07T02:58:00.000Z,07 May 2026 - 02:58 AM,12.12,120.37,007,2.0,022km N 55° E of Coron (Palawan),022,N 55° E,Coron (Palawan)
+2026-05-07T02:28:00.000Z,07 May 2026 - 02:28 AM,12.84,123.05,012,3.4,023km S 72° W of Claveria (Masbate),023,S 72° W,Claveria (Masbate)
+2026-05-07T02:13:00.000Z,07 May 2026 - 02:13 AM,16.40,120.92,024,2.0,006km N 34° E of Kayapa (Nueva Vizcaya),006,N 34° E,Kayapa (Nueva Vizcaya)
+2026-05-07T01:50:00.000Z,07 May 2026 - 01:50 AM,09.22,126.28,027,2.0,012km S 56° E of Cortes (Surigao Del Sur),012,S 56° E,Cortes (Surigao Del Sur)
 2026-05-07T01:08:00.000Z,07 May 2026 - 01:08 AM,06.39,123.71,004,2.1,042km S 64° W of Kalamansig (Sultan Kudarat),042,S 64° W,Kalamansig (Sultan Kudarat)
 2026-05-06T23:49:00.000Z,06 May 2026 - 11:49 PM,06.23,126.16,139,2.3,048km S 11° E of Governor Generoso (Davao Oriental),048,S 11° E,Governor Generoso (Davao Oriental)
 2026-05-06T23:47:00.000Z,06 May 2026 - 11:47 PM,05.37,126.63,088,2.2,125km S 61° E of Jose Abad Santos (Davao Occidental),125,S 61° E,Jose Abad Santos (Davao Occidental)
