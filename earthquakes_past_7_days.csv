@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-07T06:49:00.000Z,07 May 2026 - 06:49 AM,13.81,121.58,025,1.8,018km S 20° E of Sariaya (Quezon),018,S 20° E,Sariaya (Quezon)
+2026-05-07T06:45:00.000Z,07 May 2026 - 06:45 AM,13.65,121.65,009,2.8,030km N 50° W of Mogpog (Marinduque),030,N 50° W,Mogpog (Marinduque)
+2026-05-07T06:41:00.000Z,07 May 2026 - 06:41 AM,13.68,121.66,003,3.5,032km N 43° W of Mogpog (Marinduque),032,N 43° W,Mogpog (Marinduque)
 2026-05-07T04:27:00.000Z,07 May 2026 - 04:27 AM,05.93,125.26,077,2.3,005km S 33° W of Malapatan (Sarangani),005,S 33° W,Malapatan (Sarangani)
 2026-05-07T04:01:00.000Z,07 May 2026 - 04:01 AM,06.92,126.17,010,3.6,007km S 57° W of City Of Mati (Davao Oriental),007,S 57° W,City Of Mati (Davao Oriental)
 2026-05-07T03:49:00.000Z,07 May 2026 - 03:49 AM,06.32,126.28,055,1.7,044km S 32° E of Governor Generoso (Davao Oriental),044,S 32° E,Governor Generoso (Davao Oriental)
@@ -346,4 +349,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-30T07:53:00.000Z,30 April 2026 - 07:53 AM,15.01,122.09,017,1.9,023km N 36° E of Burdeos (Quezon),023,N 36° E,Burdeos (Quezon)
 2026-04-30T07:02:00.000Z,30 April 2026 - 07:02 AM,16.95,121.72,032,1.5,002km S 37° W of Luna (Isabela),002,S 37° W,Luna (Isabela)
 2026-04-30T06:50:00.000Z,30 April 2026 - 06:50 AM,15.03,122.07,002,2.4,023km N 29° E of Burdeos (Quezon),023,N 29° E,Burdeos (Quezon)
-2026-04-30T06:04:00.000Z,30 April 2026 - 06:04 AM,08.94,126.64,016,4.6,037km N 86° E of Cagwait (Surigao Del Sur),037,N 86° E,Cagwait (Surigao Del Sur)
