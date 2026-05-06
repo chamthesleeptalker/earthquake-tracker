@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-06T11:49:00.000Z,06 May 2026 - 11:49 AM,11.06,124.09,033,2.1,012km N 81° E of City Of Bogo (Cebu),012,N 81° E,City Of Bogo (Cebu)
+2026-05-06T10:57:00.000Z,06 May 2026 - 10:57 AM,11.81,125.34,028,1.9,014km N 62° W of San Julian (Eastern Samar),014,N 62° W,San Julian (Eastern Samar)
+2026-05-06T08:20:00.000Z,06 May 2026 - 08:20 AM,14.96,122.01,010,1.8,014km N 19° E of Burdeos (Quezon),014,N 19° E,Burdeos (Quezon)
 2026-05-06T07:10:00.000Z,06 May 2026 - 07:10 AM,07.57,126.90,010,4.3,037km S 89° E of Baganga (Davao Oriental),037,S 89° E,Baganga (Davao Oriental)
 2026-05-06T06:33:00.000Z,06 May 2026 - 06:33 AM,12.23,125.43,014,2.1,011km N 56° W of San Policarpo (Eastern Samar),011,N 56° W,San Policarpo (Eastern Samar)
 2026-05-06T05:26:00.000Z,06 May 2026 - 05:26 AM,08.78,126.61,015,1.6,035km S 87° E of Marihatag (Surigao Del Sur),035,S 87° E,Marihatag (Surigao Del Sur)
