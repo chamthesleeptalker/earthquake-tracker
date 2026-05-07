@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-07T21:40:00.000Z,07 May 2026 - 09:40 PM,08.40,125.95,033,1.7,006km N 71° W of Rosario (Agusan Del Sur),006,N 71° W,Rosario (Agusan Del Sur)
+2026-05-07T23:58:00.000Z,07 May 2026 - 11:58 PM,13.69,121.64,003,2.4,031km S 60° E of San Juan (Batangas),031,S 60° E,San Juan (Batangas)
+2026-05-07T23:49:00.000Z,07 May 2026 - 11:49 PM,08.96,126.00,025,1.5,004km N 72° W of San Miguel (Surigao Del Sur),004,N 72° W,San Miguel (Surigao Del Sur)
+2026-05-07T23:48:00.000Z,07 May 2026 - 11:48 PM,08.09,124.50,006,1.9,010km N 84° E of Tagoloan Ii (Lanao Del Sur),010,N 84° E,Tagoloan Ii (Lanao Del Sur)
