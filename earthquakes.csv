@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-07T14:54:00.000Z,07 May 2026 - 02:54 PM,07.75,126.98,007,2.4,051km N 67° E of Baganga (Davao Oriental),051,N 67° E,Baganga (Davao Oriental)
+2026-05-07T14:45:00.000Z,07 May 2026 - 02:45 PM,12.51,121.11,034,1.5,017km N 69° E of Rizal (Occidental Mindoro),017,N 69° E,Rizal (Occidental Mindoro)
+2026-05-07T13:51:00.000Z,07 May 2026 - 01:51 PM,14.69,121.57,033,1.7,004km N 59° W of Real (Quezon),004,N 59° W,Real (Quezon)
+2026-05-07T13:37:00.000Z,07 May 2026 - 01:37 PM,11.64,125.61,002,2.7,021km S 55° E of San Julian (Eastern Samar),021,S 55° E,San Julian (Eastern Samar)
+2026-05-07T13:15:00.000Z,07 May 2026 - 01:15 PM,18.48,120.89,005,2.3,002km N 21° W of Adams (Ilocos Norte),002,N 21° W,Adams (Ilocos Norte)
+2026-05-07T13:08:00.000Z,07 May 2026 - 01:08 PM,18.36,121.26,019,1.9,011km N 72° W of Luna (Apayao),011,N 72° W,Luna (Apayao)
+2026-05-07T13:03:00.000Z,07 May 2026 - 01:03 PM,13.84,120.52,068,1.6,012km N 88° W of Calatagan (Batangas),012,N 88° W,Calatagan (Batangas)
+2026-05-07T12:35:00.000Z,07 May 2026 - 12:35 PM,08.52,122.72,030,2.3,035km N 75° W of Jose Dalman (Zamboanga Del Norte),035,N 75° W,Jose Dalman (Zamboanga Del Norte)
+2026-05-07T12:20:00.000Z,07 May 2026 - 12:20 PM,13.69,120.61,091,2.1,016km S 07° W of Calatagan (Batangas),016,S 07° W,Calatagan (Batangas)
 2026-05-07T11:57:00.000Z,07 May 2026 - 11:57 AM,05.48,127.57,089,3.0,211km S 52° E of Governor Generoso (Davao Oriental),211,S 52° E,Governor Generoso (Davao Oriental)
 2026-05-07T11:34:00.000Z,07 May 2026 - 11:34 AM,11.81,124.15,002,2.6,013km S 52° E of Pio V. Corpus (Masbate),013,S 52° E,Pio V. Corpus (Masbate)
 2026-05-07T11:23:00.000Z,07 May 2026 - 11:23 AM,13.86,120.66,106,1.9,004km N 54° E of Calatagan (Batangas),004,N 54° E,Calatagan (Batangas)
