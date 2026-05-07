@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-07T17:16:00.000Z,07 May 2026 - 05:16 PM,09.38,126.17,025,3.0,012km N 12° W of Cortes (Surigao Del Sur),012,N 12° W,Cortes (Surigao Del Sur)
+2026-05-07T17:08:00.000Z,07 May 2026 - 05:08 PM,07.52,126.65,024,4.0,012km S 60° E of Baganga (Davao Oriental),012,S 60° E,Baganga (Davao Oriental)
+2026-05-07T17:08:00.000Z,07 May 2026 - 05:08 PM,20.55,121.66,002,3.3,032km S 35° W of Itbayat (Batanes),032,S 35° W,Itbayat (Batanes)
+2026-05-07T16:53:00.000Z,07 May 2026 - 04:53 PM,11.02,123.66,018,2.0,018km S 22° W of Bantayan (Cebu),018,S 22° W,Bantayan (Cebu)
+2026-05-07T15:22:00.000Z,07 May 2026 - 03:22 PM,11.75,125.38,026,2.0,008km S 88° W of San Julian (Eastern Samar),008,S 88° W,San Julian (Eastern Samar)
 2026-05-07T14:54:00.000Z,07 May 2026 - 02:54 PM,07.75,126.98,007,2.4,051km N 67° E of Baganga (Davao Oriental),051,N 67° E,Baganga (Davao Oriental)
 2026-05-07T14:45:00.000Z,07 May 2026 - 02:45 PM,12.51,121.11,034,1.5,017km N 69° E of Rizal (Occidental Mindoro),017,N 69° E,Rizal (Occidental Mindoro)
 2026-05-07T13:51:00.000Z,07 May 2026 - 01:51 PM,14.69,121.57,033,1.7,004km N 59° W of Real (Quezon),004,N 59° W,Real (Quezon)
