@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-07T07:39:00.000Z,07 May 2026 - 07:39 AM,11.64,125.59,005,3.0,017km N 80° E of City Of Borongan (Eastern Samar),017,N 80° E,City Of Borongan (Eastern Samar)
 2026-05-07T06:49:00.000Z,07 May 2026 - 06:49 AM,13.81,121.58,025,1.8,018km S 20° E of Sariaya (Quezon),018,S 20° E,Sariaya (Quezon)
 2026-05-07T06:45:00.000Z,07 May 2026 - 06:45 AM,13.65,121.65,009,2.8,030km N 50° W of Mogpog (Marinduque),030,N 50° W,Mogpog (Marinduque)
 2026-05-07T06:41:00.000Z,07 May 2026 - 06:41 AM,13.68,121.66,003,3.5,032km N 43° W of Mogpog (Marinduque),032,N 43° W,Mogpog (Marinduque)
@@ -347,5 +348,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-04-30T08:34:00.000Z,30 April 2026 - 08:34 AM,17.67,122.59,040,2.0,049km N 40° E of Divilacan (Isabela),049,N 40° E,Divilacan (Isabela)
 2026-04-30T08:18:00.000Z,30 April 2026 - 08:18 AM,18.98,121.16,006,2.5,015km S 22° W of Dalupiri Island (Calayan) (Cagayan),015,S 22° W,Dalupiri Island (Calayan) (Cagayan)
 2026-04-30T07:53:00.000Z,30 April 2026 - 07:53 AM,15.01,122.09,017,1.9,023km N 36° E of Burdeos (Quezon),023,N 36° E,Burdeos (Quezon)
-2026-04-30T07:02:00.000Z,30 April 2026 - 07:02 AM,16.95,121.72,032,1.5,002km S 37° W of Luna (Isabela),002,S 37° W,Luna (Isabela)
-2026-04-30T06:50:00.000Z,30 April 2026 - 06:50 AM,15.03,122.07,002,2.4,023km N 29° E of Burdeos (Quezon),023,N 29° E,Burdeos (Quezon)

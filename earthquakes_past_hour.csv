@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-07T07:39:00.000Z,07 May 2026 - 07:39 AM,11.64,125.59,005,3.0,017km N 80° E of City Of Borongan (Eastern Samar),017,N 80° E,City Of Borongan (Eastern Samar)
 2026-05-07T06:49:00.000Z,07 May 2026 - 06:49 AM,13.81,121.58,025,1.8,018km S 20° E of Sariaya (Quezon),018,S 20° E,Sariaya (Quezon)
 2026-05-07T06:45:00.000Z,07 May 2026 - 06:45 AM,13.65,121.65,009,2.8,030km N 50° W of Mogpog (Marinduque),030,N 50° W,Mogpog (Marinduque)
 2026-05-07T06:41:00.000Z,07 May 2026 - 06:41 AM,13.68,121.66,003,3.5,032km N 43° W of Mogpog (Marinduque),032,N 43° W,Mogpog (Marinduque)
