@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-08T07:31:00.000Z,08 May 2026 - 07:31 AM,07.90,126.29,031,1.6,010km N 72° W of Boston (Davao Oriental),010,N 72° W,Boston (Davao Oriental)
+2026-05-08T07:30:00.000Z,08 May 2026 - 07:30 AM,14.54,119.09,026,2.0,117km S 67° W of San Antonio (Zambales),117,S 67° W,San Antonio (Zambales)
+2026-05-08T07:13:00.000Z,08 May 2026 - 07:13 AM,08.15,126.37,033,1.5,009km S 40° E of City Of Bislig (Surigao Del Sur),009,S 40° E,City Of Bislig (Surigao Del Sur)
 2026-05-08T06:11:00.000Z,08 May 2026 - 06:11 AM,14.62,122.19,010,2.3,016km S 11° W of Patnanungan (Quezon),016,S 11° W,Patnanungan (Quezon)
 2026-05-08T05:24:00.000Z,08 May 2026 - 05:24 AM,12.14,120.26,032,1.4,017km N 21° E of Coron (Palawan),017,N 21° E,Coron (Palawan)
 2026-05-08T05:22:00.000Z,08 May 2026 - 05:22 AM,07.01,126.56,049,2.1,013km S 72° E of Tarragona (Davao Oriental),013,S 72° E,Tarragona (Davao Oriental)
@@ -54,6 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-07T09:23:00.000Z,07 May 2026 - 09:23 AM,13.54,120.77,033,1.5,011km N 26° E of Abra De Ilog (Occidental Mindoro),011,N 26° E,Abra De Ilog (Occidental Mindoro)
 2026-05-07T09:07:00.000Z,07 May 2026 - 09:07 AM,11.72,125.42,027,1.9,005km S 45° W of San Julian (Eastern Samar),005,S 45° W,San Julian (Eastern Samar)
 2026-05-07T07:39:00.000Z,07 May 2026 - 07:39 AM,11.64,125.59,005,3.0,017km N 80° E of City Of Borongan (Eastern Samar),017,N 80° E,City Of Borongan (Eastern Samar)
-2026-05-07T06:49:00.000Z,07 May 2026 - 06:49 AM,13.81,121.58,025,1.8,018km S 20° E of Sariaya (Quezon),018,S 20° E,Sariaya (Quezon)
-2026-05-07T06:45:00.000Z,07 May 2026 - 06:45 AM,13.65,121.65,009,2.8,030km N 50° W of Mogpog (Marinduque),030,N 50° W,Mogpog (Marinduque)
-2026-05-07T06:41:00.000Z,07 May 2026 - 06:41 AM,13.68,121.66,003,3.5,032km N 43° W of Mogpog (Marinduque),032,N 43° W,Mogpog (Marinduque)
