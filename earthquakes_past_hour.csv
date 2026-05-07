@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-07T07:39:00.000Z,07 May 2026 - 07:39 AM,11.64,125.59,005,3.0,017km N 80° E of City Of Borongan (Eastern Samar),017,N 80° E,City Of Borongan (Eastern Samar)
-2026-05-07T06:49:00.000Z,07 May 2026 - 06:49 AM,13.81,121.58,025,1.8,018km S 20° E of Sariaya (Quezon),018,S 20° E,Sariaya (Quezon)
-2026-05-07T06:45:00.000Z,07 May 2026 - 06:45 AM,13.65,121.65,009,2.8,030km N 50° W of Mogpog (Marinduque),030,N 50° W,Mogpog (Marinduque)
-2026-05-07T06:41:00.000Z,07 May 2026 - 06:41 AM,13.68,121.66,003,3.5,032km N 43° W of Mogpog (Marinduque),032,N 43° W,Mogpog (Marinduque)
+2026-05-07T11:57:00.000Z,07 May 2026 - 11:57 AM,05.48,127.57,089,3.0,211km S 52° E of Governor Generoso (Davao Oriental),211,S 52° E,Governor Generoso (Davao Oriental)
+2026-05-07T11:34:00.000Z,07 May 2026 - 11:34 AM,11.81,124.15,002,2.6,013km S 52° E of Pio V. Corpus (Masbate),013,S 52° E,Pio V. Corpus (Masbate)
+2026-05-07T11:23:00.000Z,07 May 2026 - 11:23 AM,13.86,120.66,106,1.9,004km N 54° E of Calatagan (Batangas),004,N 54° E,Calatagan (Batangas)
