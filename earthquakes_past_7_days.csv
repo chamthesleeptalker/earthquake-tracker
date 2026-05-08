@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-08T14:25:00.000Z,08 May 2026 - 02:25 PM,09.82,125.69,033,1.6,012km S 11° E of Cagdianao (Dinagat Islands),012,S 11° E,Cagdianao (Dinagat Islands)
+2026-05-08T14:22:00.000Z,08 May 2026 - 02:22 PM,12.92,121.42,033,1.7,008km N 33° W of Bansud (Oriental Mindoro),008,N 33° W,Bansud (Oriental Mindoro)
+2026-05-08T14:21:00.000Z,08 May 2026 - 02:21 PM,11.03,123.96,003,2.0,003km S 52° W of City Of Bogo (Cebu),003,S 52° W,City Of Bogo (Cebu)
+2026-05-08T13:53:00.000Z,08 May 2026 - 01:53 PM,01.94,125.87,035,4.4,387km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),387,S 07° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-08T13:44:00.000Z,08 May 2026 - 01:44 PM,18.73,121.02,023,1.8,015km N 27° W of Claveria (Cagayan),015,N 27° W,Claveria (Cagayan)
+2026-05-08T13:43:00.000Z,08 May 2026 - 01:43 PM,07.11,126.06,015,1.8,016km N 18° E of Banaybanay (Davao Oriental),016,N 18° E,Banaybanay (Davao Oriental)
+2026-05-08T13:31:00.000Z,08 May 2026 - 01:31 PM,11.79,125.35,029,2.0,013km N 71° W of San Julian (Eastern Samar),013,N 71° W,San Julian (Eastern Samar)
 2026-05-08T12:57:00.000Z,08 May 2026 - 12:57 PM,09.45,126.33,032,1.8,025km N 37° E of Cortes (Surigao Del Sur),025,N 37° E,Cortes (Surigao Del Sur)
 2026-05-08T12:38:00.000Z,08 May 2026 - 12:38 PM,14.98,122.03,004,2.0,017km N 22° E of Burdeos (Quezon),017,N 22° E,Burdeos (Quezon)
 2026-05-08T10:06:00.000Z,08 May 2026 - 10:06 AM,06.33,123.75,019,3.3,041km S 53° W of Kalamansig (Sultan Kudarat),041,S 53° W,Kalamansig (Sultan Kudarat)
@@ -355,5 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-01T17:19:00.000Z,01 May 2026 - 05:19 PM,16.74,121.02,033,1.8,006km N 64° W of Asipulo (Ifugao),006,N 64° W,Asipulo (Ifugao)
 2026-05-01T15:56:00.000Z,01 May 2026 - 03:56 PM,12.14,125.09,037,1.7,012km N 38° E of San Jose De Buan (Samar),012,N 38° E,San Jose De Buan (Samar)
 2026-05-01T15:07:00.000Z,01 May 2026 - 03:07 PM,10.16,126.02,024,2.3,016km N 08° W of Santa Monica (Surigao Del Norte),016,N 08° W,Santa Monica (Surigao Del Norte)
-2026-05-01T13:39:00.000Z,01 May 2026 - 01:39 PM,06.60,125.25,026,2.7,003km S 04° W of Kiblawan (Davao Del Sur),003,S 04° W,Kiblawan (Davao Del Sur)
-2026-05-01T13:24:00.000Z,01 May 2026 - 01:24 PM,08.59,127.22,029,2.2,101km N 76° E of Hinatuan (Surigao Del Sur),101,N 76° E,Hinatuan (Surigao Del Sur)
