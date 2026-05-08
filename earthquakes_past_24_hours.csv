@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-08T21:29:00.000Z,08 May 2026 - 09:29 PM,11.77,125.36,028,2.3,011km N 81° W of San Julian (Eastern Samar),011,N 81° W,San Julian (Eastern Samar)
+2026-05-08T20:57:00.000Z,08 May 2026 - 08:57 PM,13.65,121.61,011,2.3,030km S 50° E of San Juan (Batangas),030,S 50° E,San Juan (Batangas)
+2026-05-08T20:28:00.000Z,08 May 2026 - 08:28 PM,06.37,126.66,114,2.2,072km S 64° E of Governor Generoso (Davao Oriental),072,S 64° E,Governor Generoso (Davao Oriental)
+2026-05-08T20:04:00.000Z,08 May 2026 - 08:04 PM,13.61,120.44,001,2.2,021km N 07° W of Paluan (Occidental Mindoro),021,N 07° W,Paluan (Occidental Mindoro)
 2026-05-08T17:38:00.000Z,08 May 2026 - 05:38 PM,07.80,126.31,032,2.3,010km S 45° W of Boston (Davao Oriental),010,S 45° W,Boston (Davao Oriental)
 2026-05-08T16:53:00.000Z,08 May 2026 - 04:53 PM,11.43,126.08,077,2.8,052km N 80° E of Hernani (Eastern Samar),052,N 80° E,Hernani (Eastern Samar)
 2026-05-08T15:08:00.000Z,08 May 2026 - 03:08 PM,06.34,124.59,009,1.9,014km S 46° W of Santo Niño (South Cotabato),014,S 46° W,Santo NiÃ±o (South Cotabato)
@@ -48,8 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-07T22:25:00.000Z,07 May 2026 - 10:25 PM,19.06,121.21,012,2.7,005km S 03° E of Dalupiri Island (Calayan) (Cagayan),005,S 03° E,Dalupiri Island (Calayan) (Cagayan)
 2026-05-07T22:24:00.000Z,07 May 2026 - 10:24 PM,12.32,120.66,007,1.6,037km S 66° W of Rizal (Occidental Mindoro),037,S 66° W,Rizal (Occidental Mindoro)
 2026-05-07T21:40:00.000Z,07 May 2026 - 09:40 PM,08.40,125.95,033,1.7,006km N 71° W of Rosario (Agusan Del Sur),006,N 71° W,Rosario (Agusan Del Sur)
-2026-05-07T20:14:00.000Z,07 May 2026 - 08:14 PM,08.45,127.20,024,2.4,095km N 85° E of Hinatuan (Surigao Del Sur),095,N 85° E,Hinatuan (Surigao Del Sur)
-2026-05-07T19:33:00.000Z,07 May 2026 - 07:33 PM,10.92,126.26,001,2.8,061km S 78° E of Guiuan (Eastern Samar),061,S 78° E,Guiuan (Eastern Samar)
-2026-05-07T19:31:00.000Z,07 May 2026 - 07:31 PM,14.78,119.25,014,2.3,087km S 78° W of San Antonio (Zambales),087,S 78° W,San Antonio (Zambales)
-2026-05-07T18:29:00.000Z,07 May 2026 - 06:29 PM,12.32,120.63,007,2.1,039km S 66° W of Rizal (Occidental Mindoro),039,S 66° W,Rizal (Occidental Mindoro)
-2026-05-07T17:59:00.000Z,07 May 2026 - 05:59 PM,13.40,119.96,016,2.3,047km S 42° W of Looc (Occidental Mindoro),047,S 42° W,Looc (Occidental Mindoro)
