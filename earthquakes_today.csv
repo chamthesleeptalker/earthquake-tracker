@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-09T01:49:00.000Z,09 May 2026 - 01:49 AM,11.77,125.41,027,2.1,005km N 76° W of San Julian (Eastern Samar),005,N 76° W,San Julian (Eastern Samar)
+2026-05-09T01:03:00.000Z,09 May 2026 - 01:03 AM,12.91,120.55,034,1.8,026km N 74° W of Sablayan (Occidental Mindoro),026,N 74° W,Sablayan (Occidental Mindoro)
 2026-05-09T00:39:00.000Z,09 May 2026 - 12:39 AM,15.68,122.19,012,2.2,057km S 26° E of Dinalungan (Aurora),057,S 26° E,Dinalungan (Aurora)
 2026-05-09T00:26:00.000Z,09 May 2026 - 12:26 AM,13.71,120.62,092,1.5,014km S 05° W of Calatagan (Batangas),014,S 05° W,Calatagan (Batangas)
 2026-05-09T00:11:00.000Z,09 May 2026 - 12:11 AM,11.13,126.32,016,3.6,066km N 81° E of Guiuan (Eastern Samar),066,N 81° E,Guiuan (Eastern Samar)
