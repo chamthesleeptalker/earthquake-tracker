@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-09T03:00:00.000Z,09 May 2026 - 03:00 AM,19.76,121.13,010,2.6,066km N 33° W of Calayan (Cagayan),066,N 33° W,Calayan (Cagayan)
+2026-05-09T02:46:00.000Z,09 May 2026 - 02:46 AM,19.27,121.38,012,2.0,010km N 82° W of Calayan (Cagayan),010,N 82° W,Calayan (Cagayan)
+2026-05-09T02:16:00.000Z,09 May 2026 - 02:16 AM,16.84,120.27,022,1.9,011km S 85° W of Luna (La Union),011,S 85° W,Luna (La Union)
 2026-05-09T01:49:00.000Z,09 May 2026 - 01:49 AM,11.77,125.41,027,2.1,005km N 76° W of San Julian (Eastern Samar),005,N 76° W,San Julian (Eastern Samar)
 2026-05-09T01:03:00.000Z,09 May 2026 - 01:03 AM,12.91,120.55,034,1.8,026km N 74° W of Sablayan (Occidental Mindoro),026,N 74° W,Sablayan (Occidental Mindoro)
 2026-05-09T00:39:00.000Z,09 May 2026 - 12:39 AM,15.68,122.19,012,2.2,057km S 26° E of Dinalungan (Aurora),057,S 26° E,Dinalungan (Aurora)
