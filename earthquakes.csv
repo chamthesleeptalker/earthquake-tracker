@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-09T00:39:00.000Z,09 May 2026 - 12:39 AM,15.68,122.19,012,2.2,057km S 26° E of Dinalungan (Aurora),057,S 26° E,Dinalungan (Aurora)
+2026-05-09T00:26:00.000Z,09 May 2026 - 12:26 AM,13.71,120.62,092,1.5,014km S 05° W of Calatagan (Batangas),014,S 05° W,Calatagan (Batangas)
+2026-05-09T00:11:00.000Z,09 May 2026 - 12:11 AM,11.13,126.32,016,3.6,066km N 81° E of Guiuan (Eastern Samar),066,N 81° E,Guiuan (Eastern Samar)
+2026-05-09T00:10:00.000Z,09 May 2026 - 12:10 AM,09.67,122.51,024,2.1,009km N 29° E of Hinoba-an (Negros Occidental),009,N 29° E,Hinoba-an (Negros Occidental)
+2026-05-08T23:35:00.000Z,08 May 2026 - 11:35 PM,10.12,123.27,031,1.8,001km N 67° W of City Of Guihulngan (Negros Oriental),001,N 67° W,City Of Guihulngan (Negros Oriental)
+2026-05-08T23:31:00.000Z,08 May 2026 - 11:31 PM,18.93,121.92,032,2.0,006km N 71° E of Camiguin Island (Calayan) (Cagayan),006,N 71° E,Camiguin Island (Calayan) (Cagayan)
+2026-05-08T23:26:00.000Z,08 May 2026 - 11:26 PM,12.16,121.46,007,2.4,022km S 34° E of Bulalacao (Oriental Mindoro),022,S 34° E,Bulalacao (Oriental Mindoro)
+2026-05-08T23:24:00.000Z,08 May 2026 - 11:24 PM,13.39,121.76,030,1.7,010km S 55° W of Boac (Marinduque),010,S 55° W,Boac (Marinduque)
+2026-05-08T23:12:00.000Z,08 May 2026 - 11:12 PM,12.15,121.42,002,2.7,022km S 23° E of Bulalacao (Oriental Mindoro),022,S 23° E,Bulalacao (Oriental Mindoro)
 2026-05-08T22:02:00.000Z,08 May 2026 - 10:02 PM,08.28,126.58,033,1.4,028km S 70° E of Hinatuan (Surigao Del Sur),028,S 70° E,Hinatuan (Surigao Del Sur)
 2026-05-08T21:47:00.000Z,08 May 2026 - 09:47 PM,11.15,123.96,033,2.1,012km N 10° W of City Of Bogo (Cebu),012,N 10° W,City Of Bogo (Cebu)
 2026-05-08T21:29:00.000Z,08 May 2026 - 09:29 PM,11.77,125.36,028,2.3,011km N 81° W of San Julian (Eastern Samar),011,N 81° W,San Julian (Eastern Samar)
