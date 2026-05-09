@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T02:29:00.000Z,10 May 2026 - 02:29 AM,12.99,121.10,029,1.5,028km S 45° W of Victoria (Oriental Mindoro),028,S 45° W,Victoria (Oriental Mindoro)
+2026-05-10T02:13:00.000Z,10 May 2026 - 02:13 AM,07.12,125.42,005,3.0,032km N 01° E of Santa Cruz (Davao Del Sur),032,N 01° E,Santa Cruz (Davao Del Sur)
 2026-05-10T01:14:00.000Z,10 May 2026 - 01:14 AM,13.56,120.67,005,2.4,014km N 24° W of Abra De Ilog (Occidental Mindoro),014,N 24° W,Abra De Ilog (Occidental Mindoro)
 2026-05-10T00:48:00.000Z,10 May 2026 - 12:48 AM,07.85,122.09,035,2.8,008km N 56° W of Baliguian (Zamboanga Del Norte),008,N 56° W,Baliguian (Zamboanga Del Norte)
 2026-05-10T00:20:00.000Z,10 May 2026 - 12:20 AM,07.61,126.42,028,2.0,017km N 75° W of Baganga (Davao Oriental),017,N 75° W,Baganga (Davao Oriental)
@@ -372,7 +374,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-03T03:31:00.000Z,03 May 2026 - 03:31 AM,13.77,121.47,004,2.4,010km S 52° E of San Juan (Batangas),010,S 52° E,San Juan (Batangas)
 2026-05-03T03:16:00.000Z,03 May 2026 - 03:16 AM,19.95,120.98,018,4.3,092km N 34° W of Calayan (Cagayan),092,N 34° W,Calayan (Cagayan)
 2026-05-03T03:10:00.000Z,03 May 2026 - 03:10 AM,14.79,121.94,026,1.5,007km S 33° W of Burdeos (Quezon),007,S 33° W,Burdeos (Quezon)
-2026-05-03T02:28:00.000Z,03 May 2026 - 02:28 AM,15.02,121.99,016,1.5,020km N 07° E of Burdeos (Quezon),020,N 07° E,Burdeos (Quezon)
-2026-05-03T02:05:00.000Z,03 May 2026 - 02:05 AM,05.84,126.68,027,3.1,113km S 37° E of Governor Generoso (Davao Oriental),113,S 37° E,Governor Generoso (Davao Oriental)
-2026-05-03T01:25:00.000Z,03 May 2026 - 01:25 AM,12.20,124.28,024,1.6,021km S 16° W of San Isidro (Northern Samar),021,S 16° W,San Isidro (Northern Samar)
-2026-05-03T01:14:00.000Z,03 May 2026 - 01:14 AM,12.27,122.07,010,2.3,002km N 47° E of Alcantara (Romblon),002,N 47° E,Alcantara (Romblon)

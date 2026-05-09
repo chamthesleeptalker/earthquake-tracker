@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T02:29:00.000Z,10 May 2026 - 02:29 AM,12.99,121.10,029,1.5,028km S 45° W of Victoria (Oriental Mindoro),028,S 45° W,Victoria (Oriental Mindoro)
+2026-05-10T02:13:00.000Z,10 May 2026 - 02:13 AM,07.12,125.42,005,3.0,032km N 01° E of Santa Cruz (Davao Del Sur),032,N 01° E,Santa Cruz (Davao Del Sur)
 2026-05-10T01:14:00.000Z,10 May 2026 - 01:14 AM,13.56,120.67,005,2.4,014km N 24° W of Abra De Ilog (Occidental Mindoro),014,N 24° W,Abra De Ilog (Occidental Mindoro)
 2026-05-10T00:48:00.000Z,10 May 2026 - 12:48 AM,07.85,122.09,035,2.8,008km N 56° W of Baliguian (Zamboanga Del Norte),008,N 56° W,Baliguian (Zamboanga Del Norte)
 2026-05-10T00:20:00.000Z,10 May 2026 - 12:20 AM,07.61,126.42,028,2.0,017km N 75° W of Baganga (Davao Oriental),017,N 75° W,Baganga (Davao Oriental)
