@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-09T09:03:00.000Z,09 May 2026 - 09:03 AM,10.05,124.31,035,1.4,005km S 50° W of Trinidad (Bohol),005,S 50° W,Trinidad (Bohol)
+2026-05-09T08:54:00.000Z,09 May 2026 - 08:54 AM,08.87,125.57,033,1.8,014km N 69° W of Sibagat (Agusan Del Sur),014,N 69° W,Sibagat (Agusan Del Sur)
+2026-05-09T08:38:00.000Z,09 May 2026 - 08:38 AM,09.62,126.17,033,1.9,018km S 06° E of General Luna (Surigao Del Norte),018,S 06° E,General Luna (Surigao Del Norte)
+2026-05-09T07:59:00.000Z,09 May 2026 - 07:59 AM,09.44,125.82,033,1.3,016km N 60° W of Carrascal (Surigao Del Sur),016,N 60° W,Carrascal (Surigao Del Sur)
 2026-05-09T06:28:00.000Z,09 May 2026 - 06:28 AM,09.78,124.77,019,1.9,022km N 79° E of Anda (Bohol),022,N 79° E,Anda (Bohol)
 2026-05-09T06:10:00.000Z,09 May 2026 - 06:10 AM,12.04,121.42,009,2.2,018km N 51° W of Caluya (Antique),018,N 51° W,Caluya (Antique)
 2026-05-09T06:02:00.000Z,09 May 2026 - 06:02 AM,12.10,121.49,003,3.5,019km N 20° W of Caluya (Antique),019,N 20° W,Caluya (Antique)
@@ -40,9 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-08T12:57:00.000Z,08 May 2026 - 12:57 PM,09.45,126.33,032,1.8,025km N 37° E of Cortes (Surigao Del Sur),025,N 37° E,Cortes (Surigao Del Sur)
 2026-05-08T12:38:00.000Z,08 May 2026 - 12:38 PM,14.98,122.03,004,2.0,017km N 22° E of Burdeos (Quezon),017,N 22° E,Burdeos (Quezon)
 2026-05-08T10:06:00.000Z,08 May 2026 - 10:06 AM,06.33,123.75,019,3.3,041km S 53° W of Kalamansig (Sultan Kudarat),041,S 53° W,Kalamansig (Sultan Kudarat)
-2026-05-08T08:44:00.000Z,08 May 2026 - 08:44 AM,07.52,124.71,033,1.8,002km N 37° E of Banisilan (Cotabato),002,N 37° E,Banisilan (Cotabato)
-2026-05-08T08:26:00.000Z,08 May 2026 - 08:26 AM,09.92,125.53,196,1.8,009km S 65° W of Dinagat (Dinagat Islands),009,S 65° W,Dinagat (Dinagat Islands)
-2026-05-08T08:07:00.000Z,08 May 2026 - 08:07 AM,09.06,126.52,033,2.3,029km N 58° E of Cagwait (Surigao Del Sur),029,N 58° E,Cagwait (Surigao Del Sur)
-2026-05-08T07:31:00.000Z,08 May 2026 - 07:31 AM,07.90,126.29,031,1.6,010km N 72° W of Boston (Davao Oriental),010,N 72° W,Boston (Davao Oriental)
-2026-05-08T07:30:00.000Z,08 May 2026 - 07:30 AM,14.54,119.09,026,2.0,117km S 67° W of San Antonio (Zambales),117,S 67° W,San Antonio (Zambales)
-2026-05-08T07:13:00.000Z,08 May 2026 - 07:13 AM,08.15,126.37,033,1.5,009km S 40° E of City Of Bislig (Surigao Del Sur),009,S 40° E,City Of Bislig (Surigao Del Sur)

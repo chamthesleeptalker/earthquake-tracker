@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-09T09:03:00.000Z,09 May 2026 - 09:03 AM,10.05,124.31,035,1.4,005km S 50° W of Trinidad (Bohol),005,S 50° W,Trinidad (Bohol)
+2026-05-09T08:54:00.000Z,09 May 2026 - 08:54 AM,08.87,125.57,033,1.8,014km N 69° W of Sibagat (Agusan Del Sur),014,N 69° W,Sibagat (Agusan Del Sur)
+2026-05-09T08:38:00.000Z,09 May 2026 - 08:38 AM,09.62,126.17,033,1.9,018km S 06° E of General Luna (Surigao Del Norte),018,S 06° E,General Luna (Surigao Del Norte)
+2026-05-09T07:59:00.000Z,09 May 2026 - 07:59 AM,09.44,125.82,033,1.3,016km N 60° W of Carrascal (Surigao Del Sur),016,N 60° W,Carrascal (Surigao Del Sur)
 2026-05-09T06:28:00.000Z,09 May 2026 - 06:28 AM,09.78,124.77,019,1.9,022km N 79° E of Anda (Bohol),022,N 79° E,Anda (Bohol)
 2026-05-09T06:10:00.000Z,09 May 2026 - 06:10 AM,12.04,121.42,009,2.2,018km N 51° W of Caluya (Antique),018,N 51° W,Caluya (Antique)
 2026-05-09T06:02:00.000Z,09 May 2026 - 06:02 AM,12.10,121.49,003,3.5,019km N 20° W of Caluya (Antique),019,N 20° W,Caluya (Antique)
@@ -358,6 +362,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-02T11:30:00.000Z,02 May 2026 - 11:30 AM,16.15,121.76,002,2.5,019km S 61° E of Nagtipunan (Quirino),019,S 61° E,Nagtipunan (Quirino)
 2026-05-02T09:48:00.000Z,02 May 2026 - 09:48 AM,18.40,120.57,018,1.9,009km N 38° W of Pasuquin (Ilocos Norte),009,N 38° W,Pasuquin (Ilocos Norte)
 2026-05-02T09:47:00.000Z,02 May 2026 - 09:47 AM,09.33,126.22,033,2.3,007km N 25° E of Cortes (Surigao Del Sur),007,N 25° E,Cortes (Surigao Del Sur)
-2026-05-02T08:29:00.000Z,02 May 2026 - 08:29 AM,14.27,123.55,006,2.5,042km N 50° E of Siruma (Camarines Sur),042,N 50° E,Siruma (Camarines Sur)
-2026-05-02T07:33:00.000Z,02 May 2026 - 07:33 AM,13.41,121.52,033,1.6,026km N 68° E of Naujan (Oriental Mindoro),026,N 68° E,Naujan (Oriental Mindoro)
-2026-05-02T06:48:00.000Z,02 May 2026 - 06:48 AM,11.10,124.15,008,1.4,020km N 74° E of City Of Bogo (Cebu),020,N 74° E,City Of Bogo (Cebu)
