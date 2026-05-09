@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T00:20:00.000Z,10 May 2026 - 12:20 AM,07.61,126.42,028,2.0,017km N 75° W of Baganga (Davao Oriental),017,N 75° W,Baganga (Davao Oriental)
+2026-05-10T00:19:00.000Z,10 May 2026 - 12:19 AM,12.54,123.60,007,2.5,013km N 58° E of Baleno (Masbate),013,N 58° E,Baleno (Masbate)
+2026-05-10T00:03:00.000Z,10 May 2026 - 12:03 AM,07.31,124.99,036,1.5,010km N 45° W of Antipas (Cotabato),010,N 45° W,Antipas (Cotabato)
 2026-05-09T23:21:00.000Z,09 May 2026 - 11:21 PM,19.03,119.90,015,3.6,097km N 54° W of Burgos (Ilocos Norte),097,N 54° W,Burgos (Ilocos Norte)
 2026-05-09T22:40:00.000Z,09 May 2026 - 10:40 PM,16.23,120.41,036,1.4,006km S 19° E of Santo Tomas (La Union),006,S 19° E,Santo Tomas (La Union)
 2026-05-09T22:23:00.000Z,09 May 2026 - 10:23 PM,12.29,120.64,009,2.3,040km S 62° W of Rizal (Occidental Mindoro),040,S 62° W,Rizal (Occidental Mindoro)
@@ -373,7 +376,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-03T01:14:00.000Z,03 May 2026 - 01:14 AM,12.27,122.07,010,2.3,002km N 47° E of Alcantara (Romblon),002,N 47° E,Alcantara (Romblon)
 2026-05-03T00:46:00.000Z,03 May 2026 - 12:46 AM,10.89,126.70,010,3.6,107km S 81° E of Guiuan (Eastern Samar),107,S 81° E,Guiuan (Eastern Samar)
 2026-05-03T00:29:00.000Z,03 May 2026 - 12:29 AM,16.03,120.48,124,1.9,002km S 41° W of Manaoag (Pangasinan),002,S 41° W,Manaoag (Pangasinan)
-2026-05-03T00:00:00.000Z,03 May 2026 - 12:00 AM,08.43,126.33,014,1.7,007km N 08° W of Hinatuan (Surigao Del Sur),007,N 08° W,Hinatuan (Surigao Del Sur)
-2026-05-02T23:43:00.000Z,02 May 2026 - 11:43 PM,19.30,121.13,034,1.9,022km N 22° W of Dalupiri Island (Calayan) (Cagayan),022,N 22° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-02T23:38:00.000Z,02 May 2026 - 11:38 PM,10.10,124.99,018,3.4,006km N 68° E of Macrohon (Southern Leyte),006,N 68° E,Macrohon (Southern Leyte)
-2026-05-02T23:33:00.000Z,02 May 2026 - 11:33 PM,19.01,121.11,032,2.1,015km S 44° W of Dalupiri Island (Calayan) (Cagayan),015,S 44° W,Dalupiri Island (Calayan) (Cagayan)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T00:20:00.000Z,10 May 2026 - 12:20 AM,07.61,126.42,028,2.0,017km N 75° W of Baganga (Davao Oriental),017,N 75° W,Baganga (Davao Oriental)
+2026-05-10T00:19:00.000Z,10 May 2026 - 12:19 AM,12.54,123.60,007,2.5,013km N 58° E of Baleno (Masbate),013,N 58° E,Baleno (Masbate)
+2026-05-10T00:03:00.000Z,10 May 2026 - 12:03 AM,07.31,124.99,036,1.5,010km N 45° W of Antipas (Cotabato),010,N 45° W,Antipas (Cotabato)
 2026-05-09T23:21:00.000Z,09 May 2026 - 11:21 PM,19.03,119.90,015,3.6,097km N 54° W of Burgos (Ilocos Norte),097,N 54° W,Burgos (Ilocos Norte)
 2026-05-09T22:40:00.000Z,09 May 2026 - 10:40 PM,16.23,120.41,036,1.4,006km S 19° E of Santo Tomas (La Union),006,S 19° E,Santo Tomas (La Union)
 2026-05-09T22:23:00.000Z,09 May 2026 - 10:23 PM,12.29,120.64,009,2.3,040km S 62° W of Rizal (Occidental Mindoro),040,S 62° W,Rizal (Occidental Mindoro)
@@ -48,9 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-09T01:03:00.000Z,09 May 2026 - 01:03 AM,12.91,120.55,034,1.8,026km N 74° W of Sablayan (Occidental Mindoro),026,N 74° W,Sablayan (Occidental Mindoro)
 2026-05-09T00:39:00.000Z,09 May 2026 - 12:39 AM,15.68,122.19,012,2.2,057km S 26° E of Dinalungan (Aurora),057,S 26° E,Dinalungan (Aurora)
 2026-05-09T00:26:00.000Z,09 May 2026 - 12:26 AM,13.71,120.62,092,1.5,014km S 05° W of Calatagan (Batangas),014,S 05° W,Calatagan (Batangas)
-2026-05-09T00:11:00.000Z,09 May 2026 - 12:11 AM,11.13,126.32,016,3.6,066km N 81° E of Guiuan (Eastern Samar),066,N 81° E,Guiuan (Eastern Samar)
-2026-05-09T00:10:00.000Z,09 May 2026 - 12:10 AM,09.67,122.51,024,2.1,009km N 29° E of Hinoba-an (Negros Occidental),009,N 29° E,Hinoba-an (Negros Occidental)
-2026-05-08T23:35:00.000Z,08 May 2026 - 11:35 PM,10.12,123.27,031,1.8,001km N 67° W of City Of Guihulngan (Negros Oriental),001,N 67° W,City Of Guihulngan (Negros Oriental)
-2026-05-08T23:31:00.000Z,08 May 2026 - 11:31 PM,18.93,121.92,032,2.0,006km N 71° E of Camiguin Island (Calayan) (Cagayan),006,N 71° E,Camiguin Island (Calayan) (Cagayan)
-2026-05-08T23:26:00.000Z,08 May 2026 - 11:26 PM,12.16,121.46,007,2.4,022km S 34° E of Bulalacao (Oriental Mindoro),022,S 34° E,Bulalacao (Oriental Mindoro)
-2026-05-08T23:24:00.000Z,08 May 2026 - 11:24 PM,13.39,121.76,030,1.7,010km S 55° W of Boac (Marinduque),010,S 55° W,Boac (Marinduque)
