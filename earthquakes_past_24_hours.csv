@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-09T22:40:00.000Z,09 May 2026 - 10:40 PM,16.23,120.41,036,1.4,006km S 19° E of Santo Tomas (La Union),006,S 19° E,Santo Tomas (La Union)
+2026-05-09T22:23:00.000Z,09 May 2026 - 10:23 PM,12.29,120.64,009,2.3,040km S 62° W of Rizal (Occidental Mindoro),040,S 62° W,Rizal (Occidental Mindoro)
 2026-05-09T21:37:00.000Z,09 May 2026 - 09:37 PM,12.26,120.63,008,3.3,043km S 59° W of Rizal (Occidental Mindoro),043,S 59° W,Rizal (Occidental Mindoro)
 2026-05-09T21:21:00.000Z,09 May 2026 - 09:21 PM,13.48,125.36,066,3.9,107km N 15° E of Palapag (Northern Samar),107,N 15° E,Palapag (Northern Samar)
 2026-05-09T20:37:00.000Z,09 May 2026 - 08:37 PM,12.80,121.40,035,1.6,009km S 43° W of Bansud (Oriental Mindoro),009,S 43° W,Bansud (Oriental Mindoro)
@@ -52,5 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-08T23:26:00.000Z,08 May 2026 - 11:26 PM,12.16,121.46,007,2.4,022km S 34° E of Bulalacao (Oriental Mindoro),022,S 34° E,Bulalacao (Oriental Mindoro)
 2026-05-08T23:24:00.000Z,08 May 2026 - 11:24 PM,13.39,121.76,030,1.7,010km S 55° W of Boac (Marinduque),010,S 55° W,Boac (Marinduque)
 2026-05-08T23:12:00.000Z,08 May 2026 - 11:12 PM,12.15,121.42,002,2.7,022km S 23° E of Bulalacao (Oriental Mindoro),022,S 23° E,Bulalacao (Oriental Mindoro)
-2026-05-08T22:02:00.000Z,08 May 2026 - 10:02 PM,08.28,126.58,033,1.4,028km S 70° E of Hinatuan (Surigao Del Sur),028,S 70° E,Hinatuan (Surigao Del Sur)
-2026-05-08T21:47:00.000Z,08 May 2026 - 09:47 PM,11.15,123.96,033,2.1,012km N 10° W of City Of Bogo (Cebu),012,N 10° W,City Of Bogo (Cebu)
