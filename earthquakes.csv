@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T16:45:00.000Z,10 May 2026 - 04:45 PM,08.52,127.02,022,2.0,077km N 78° E of Hinatuan (Surigao Del Sur),077,N 78° E,Hinatuan (Surigao Del Sur)
+2026-05-10T16:30:00.000Z,10 May 2026 - 04:30 PM,08.06,126.33,013,1.7,008km N 76° W of Lingig (Surigao Del Sur),008,N 76° W,Lingig (Surigao Del Sur)
 2026-05-10T16:02:00.000Z,10 May 2026 - 04:02 PM,11.82,125.35,027,1.6,013km N 59° W of San Julian (Eastern Samar),013,N 59° W,San Julian (Eastern Samar)
 2026-05-10T15:41:00.000Z,10 May 2026 - 03:41 PM,19.08,121.18,010,2.8,004km S 46° W of Dalupiri Island (Calayan) (Cagayan),004,S 46° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-10T14:59:00.000Z,10 May 2026 - 02:59 PM,17.02,120.25,020,2.4,022km S 71° W of Santa Cruz (Ilocos Sur),022,S 71° W,Santa Cruz (Ilocos Sur)
