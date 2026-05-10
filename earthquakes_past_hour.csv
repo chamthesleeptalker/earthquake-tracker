@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-10T22:37:00.000Z,10 May 2026 - 10:37 PM,13.77,122.40,016,1.5,008km N 62° W of Buenavista (Quezon),008,N 62° W,Buenavista (Quezon)
-2026-05-10T22:23:00.000Z,10 May 2026 - 10:23 PM,15.83,120.00,021,1.5,010km N 86° E of Infanta (Pangasinan),010,N 86° E,Infanta (Pangasinan)
-2026-05-10T21:40:00.000Z,10 May 2026 - 09:40 PM,04.01,126.54,036,3.7,199km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),199,S 39° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-10T23:39:00.000Z,10 May 2026 - 11:39 PM,17.54,120.47,006,3.0,005km S 84° W of San Quintin (Abra),005,S 84° W,San Quintin (Abra)
+2026-05-10T23:08:00.000Z,10 May 2026 - 11:08 PM,08.95,126.33,026,2.4,005km N 45° E of Cagwait (Surigao Del Sur),005,N 45° E,Cagwait (Surigao Del Sur)
+2026-05-10T23:07:00.000Z,10 May 2026 - 11:07 PM,18.47,120.82,021,2.9,006km S 07° E of Dumalneg (Ilocos Norte),006,S 07° E,Dumalneg (Ilocos Norte)
+2026-05-10T22:57:00.000Z,10 May 2026 - 10:57 PM,18.52,120.65,015,1.4,001km N 44° E of Burgos (Ilocos Norte),001,N 44° E,Burgos (Ilocos Norte)
