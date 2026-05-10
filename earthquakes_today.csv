@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T16:02:00.000Z,10 May 2026 - 04:02 PM,11.82,125.35,027,1.6,013km N 59° W of San Julian (Eastern Samar),013,N 59° W,San Julian (Eastern Samar)
+2026-05-10T15:41:00.000Z,10 May 2026 - 03:41 PM,19.08,121.18,010,2.8,004km S 46° W of Dalupiri Island (Calayan) (Cagayan),004,S 46° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-10T14:59:00.000Z,10 May 2026 - 02:59 PM,17.02,120.25,020,2.4,022km S 71° W of Santa Cruz (Ilocos Sur),022,S 71° W,Santa Cruz (Ilocos Sur)
 2026-05-10T11:32:00.000Z,10 May 2026 - 11:32 AM,09.43,125.87,035,1.4,011km N 50° W of Carrascal (Surigao Del Sur),011,N 50° W,Carrascal (Surigao Del Sur)
 2026-05-10T09:58:00.000Z,10 May 2026 - 09:58 AM,07.64,126.69,027,2.4,015km N 64° E of Baganga (Davao Oriental),015,N 64° E,Baganga (Davao Oriental)
 2026-05-10T09:50:00.000Z,10 May 2026 - 09:50 AM,05.52,126.62,085,4.4,117km S 68° E of Jose Abad Santos (Davao Occidental),117,S 68° E,Jose Abad Santos (Davao Occidental)
