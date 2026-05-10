@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-11T06:25:00.000Z,11 May 2026 - 06:25 AM,16.41,119.76,022,2.9,014km N 81° W of Bolinao (Pangasinan),014,N 81° W,Bolinao (Pangasinan)
+2026-05-11T06:17:00.000Z,11 May 2026 - 06:17 AM,17.99,120.93,008,1.4,021km S 35° E of Carasi (Ilocos Norte),021,S 35° E,Carasi (Ilocos Norte)
+2026-05-11T06:11:00.000Z,11 May 2026 - 06:11 AM,17.99,120.92,012,2.2,019km S 53° E of Solsona (Ilocos Norte),019,S 53° E,Solsona (Ilocos Norte)
+2026-05-11T06:09:00.000Z,11 May 2026 - 06:09 AM,16.49,121.40,035,1.5,014km S 90° E of Quezon (Nueva Vizcaya),014,S 90° E,Quezon (Nueva Vizcaya)
+2026-05-11T06:04:00.000Z,11 May 2026 - 06:04 AM,11.16,124.02,024,2.1,014km N 18° E of City Of Bogo (Cebu),014,N 18° E,City Of Bogo (Cebu)
 2026-05-11T05:32:00.000Z,11 May 2026 - 05:32 AM,11.07,125.58,044,1.4,012km S 31° E of Quinapondan (Eastern Samar),012,S 31° E,Quinapondan (Eastern Samar)
 2026-05-11T05:16:00.000Z,11 May 2026 - 05:16 AM,13.64,120.01,002,2.2,027km S 71° W of Looc (Occidental Mindoro),027,S 71° W,Looc (Occidental Mindoro)
 2026-05-11T05:14:00.000Z,11 May 2026 - 05:14 AM,09.70,125.62,033,1.4,004km N 81° E of Taganaan (Surigao Del Norte),004,N 81° E,Taganaan (Surigao Del Norte)
@@ -371,4 +376,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-04T08:19:00.000Z,04 May 2026 - 08:19 AM,09.47,126.54,021,2.5,044km N 61° E of Cortes (Surigao Del Sur),044,N 61° E,Cortes (Surigao Del Sur)
 2026-05-04T07:52:00.000Z,04 May 2026 - 07:52 AM,06.96,126.11,027,2.4,011km S 88° E of Banaybanay (Davao Oriental),011,S 88° E,Banaybanay (Davao Oriental)
 2026-05-04T06:30:00.000Z,04 May 2026 - 06:30 AM,18.86,121.10,017,1.7,028km N 03° E of Claveria (Cagayan),028,N 03° E,Claveria (Cagayan)
-2026-05-04T05:37:00.000Z,04 May 2026 - 05:37 AM,09.40,126.16,012,1.8,014km N 17° W of Cortes (Surigao Del Sur),014,N 17° W,Cortes (Surigao Del Sur)
