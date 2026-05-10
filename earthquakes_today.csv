@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T18:16:00.000Z,10 May 2026 - 06:16 PM,13.63,120.48,090,2.7,024km N 03° E of Paluan (Occidental Mindoro),024,N 03° E,Paluan (Occidental Mindoro)
+2026-05-10T18:02:00.000Z,10 May 2026 - 06:02 PM,12.09,121.46,002,2.2,029km S 26° E of Bulalacao (Oriental Mindoro),029,S 26° E,Bulalacao (Oriental Mindoro)
 2026-05-10T16:45:00.000Z,10 May 2026 - 04:45 PM,08.52,127.02,022,2.0,077km N 78° E of Hinatuan (Surigao Del Sur),077,N 78° E,Hinatuan (Surigao Del Sur)
 2026-05-10T16:30:00.000Z,10 May 2026 - 04:30 PM,08.06,126.33,013,1.7,008km N 76° W of Lingig (Surigao Del Sur),008,N 76° W,Lingig (Surigao Del Sur)
 2026-05-10T16:02:00.000Z,10 May 2026 - 04:02 PM,11.82,125.35,027,1.6,013km N 59° W of San Julian (Eastern Samar),013,N 59° W,San Julian (Eastern Samar)
