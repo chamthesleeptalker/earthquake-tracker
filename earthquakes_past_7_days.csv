@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T22:37:00.000Z,10 May 2026 - 10:37 PM,13.77,122.40,016,1.5,008km N 62° W of Buenavista (Quezon),008,N 62° W,Buenavista (Quezon)
+2026-05-10T22:23:00.000Z,10 May 2026 - 10:23 PM,15.83,120.00,021,1.5,010km N 86° E of Infanta (Pangasinan),010,N 86° E,Infanta (Pangasinan)
+2026-05-10T21:40:00.000Z,10 May 2026 - 09:40 PM,04.01,126.54,036,3.7,199km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),199,S 39° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-10T21:22:00.000Z,10 May 2026 - 09:22 PM,10.29,122.41,007,2.1,030km S 28° W of Nueva Valencia (Guimaras),030,S 28° W,Nueva Valencia (Guimaras)
 2026-05-10T21:06:00.000Z,10 May 2026 - 09:06 PM,03.71,126.63,028,4.0,231km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),231,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-10T20:37:00.000Z,10 May 2026 - 08:37 PM,07.52,126.08,009,1.8,007km S 59° W of New Bataan (Davao De Oro),007,S 59° W,New Bataan (Davao De Oro)
@@ -367,5 +370,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-03T23:22:00.000Z,03 May 2026 - 11:22 PM,08.28,126.01,026,1.5,011km N 08° E of Bunawan (Agusan Del Sur),011,N 08° E,Bunawan (Agusan Del Sur)
 2026-05-03T23:18:00.000Z,03 May 2026 - 11:18 PM,18.85,121.98,010,2.1,014km S 61° E of Camiguin Island (Calayan) (Cagayan),014,S 61° E,Camiguin Island (Calayan) (Cagayan)
 2026-05-03T23:17:00.000Z,03 May 2026 - 11:17 PM,09.49,126.12,041,2.4,022km S 49° E of Socorro (Surigao Del Norte),022,S 49° E,Socorro (Surigao Del Norte)
-2026-05-03T21:57:00.000Z,03 May 2026 - 09:57 PM,06.53,123.80,023,1.9,028km S 85° W of Kalamansig (Sultan Kudarat),028,S 85° W,Kalamansig (Sultan Kudarat)
-2026-05-03T21:27:00.000Z,03 May 2026 - 09:27 PM,13.66,119.78,013,1.9,043km S 59° W of Lubang (Occidental Mindoro),043,S 59° W,Lubang (Occidental Mindoro)

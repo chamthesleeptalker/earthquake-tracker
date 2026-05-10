@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T22:37:00.000Z,10 May 2026 - 10:37 PM,13.77,122.40,016,1.5,008km N 62° W of Buenavista (Quezon),008,N 62° W,Buenavista (Quezon)
+2026-05-10T22:23:00.000Z,10 May 2026 - 10:23 PM,15.83,120.00,021,1.5,010km N 86° E of Infanta (Pangasinan),010,N 86° E,Infanta (Pangasinan)
+2026-05-10T21:40:00.000Z,10 May 2026 - 09:40 PM,04.01,126.54,036,3.7,199km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),199,S 39° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-10T21:22:00.000Z,10 May 2026 - 09:22 PM,10.29,122.41,007,2.1,030km S 28° W of Nueva Valencia (Guimaras),030,S 28° W,Nueva Valencia (Guimaras)
 2026-05-10T21:06:00.000Z,10 May 2026 - 09:06 PM,03.71,126.63,028,4.0,231km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),231,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-10T20:37:00.000Z,10 May 2026 - 08:37 PM,07.52,126.08,009,1.8,007km S 59° W of New Bataan (Davao De Oro),007,S 59° W,New Bataan (Davao De Oro)
@@ -35,5 +38,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-10T00:03:00.000Z,10 May 2026 - 12:03 AM,07.31,124.99,036,1.5,010km N 45° W of Antipas (Cotabato),010,N 45° W,Antipas (Cotabato)
 2026-05-09T23:21:00.000Z,09 May 2026 - 11:21 PM,19.03,119.90,015,3.6,097km N 54° W of Burgos (Ilocos Norte),097,N 54° W,Burgos (Ilocos Norte)
 2026-05-09T22:40:00.000Z,09 May 2026 - 10:40 PM,16.23,120.41,036,1.4,006km S 19° E of Santo Tomas (La Union),006,S 19° E,Santo Tomas (La Union)
-2026-05-09T22:23:00.000Z,09 May 2026 - 10:23 PM,12.29,120.64,009,2.3,040km S 62° W of Rizal (Occidental Mindoro),040,S 62° W,Rizal (Occidental Mindoro)
-2026-05-09T21:37:00.000Z,09 May 2026 - 09:37 PM,12.26,120.63,008,3.3,043km S 59° W of Rizal (Occidental Mindoro),043,S 59° W,Rizal (Occidental Mindoro)

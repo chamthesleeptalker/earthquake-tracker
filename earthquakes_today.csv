@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-10T22:37:00.000Z,10 May 2026 - 10:37 PM,13.77,122.40,016,1.5,008km N 62° W of Buenavista (Quezon),008,N 62° W,Buenavista (Quezon)
+2026-05-10T22:23:00.000Z,10 May 2026 - 10:23 PM,15.83,120.00,021,1.5,010km N 86° E of Infanta (Pangasinan),010,N 86° E,Infanta (Pangasinan)
+2026-05-10T21:40:00.000Z,10 May 2026 - 09:40 PM,04.01,126.54,036,3.7,199km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),199,S 39° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-10T21:22:00.000Z,10 May 2026 - 09:22 PM,10.29,122.41,007,2.1,030km S 28° W of Nueva Valencia (Guimaras),030,S 28° W,Nueva Valencia (Guimaras)
 2026-05-10T21:06:00.000Z,10 May 2026 - 09:06 PM,03.71,126.63,028,4.0,231km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),231,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-10T20:37:00.000Z,10 May 2026 - 08:37 PM,07.52,126.08,009,1.8,007km S 59° W of New Bataan (Davao De Oro),007,S 59° W,New Bataan (Davao De Oro)
