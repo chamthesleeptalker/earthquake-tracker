@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-12T03:52:00.000Z,12 May 2026 - 03:52 AM,09.91,122.56,021,2.0,010km S 43° W of Cauayan (Negros Occidental),010,S 43° W,Cauayan (Negros Occidental)
+2026-05-12T03:27:00.000Z,12 May 2026 - 03:27 AM,11.10,123.96,028,1.9,007km N 16° W of City Of Bogo (Cebu),007,N 16° W,City Of Bogo (Cebu)
+2026-05-12T03:27:00.000Z,12 May 2026 - 03:27 AM,14.14,120.36,093,2.0,031km N 76° W of Nasugbu (Batangas),031,N 76° W,Nasugbu (Batangas)
+2026-05-12T03:18:00.000Z,12 May 2026 - 03:18 AM,15.26,119.92,033,1.4,010km S 39° W of Iba (Zambales),010,S 39° W,Iba (Zambales)
 2026-05-12T02:41:00.000Z,12 May 2026 - 02:41 AM,05.66,125.15,011,1.4,019km S 20° W of Glan (Sarangani),019,S 20° W,Glan (Sarangani)
 2026-05-12T01:59:00.000Z,12 May 2026 - 01:59 AM,12.30,121.46,034,1.6,013km S 77° E of Bulalacao (Oriental Mindoro),013,S 77° E,Bulalacao (Oriental Mindoro)
 2026-05-12T01:49:00.000Z,12 May 2026 - 01:49 AM,15.00,124.02,033,2.8,107km N 09° W of Pandan (Catanduanes),107,N 09° W,Pandan (Catanduanes)
