@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-11T22:07:00.000Z,11 May 2026 - 10:07 PM,09.38,126.26,020,2.2,014km N 32° E of Cortes (Surigao Del Sur),014,N 32° E,Cortes (Surigao Del Sur)
+2026-05-11T20:17:00.000Z,11 May 2026 - 08:17 PM,10.01,125.26,018,2.2,008km N 09° E of Pintuyan (Southern Leyte),008,N 09° E,Pintuyan (Southern Leyte)
 2026-05-11T19:23:00.000Z,11 May 2026 - 07:23 PM,09.83,126.03,040,2.0,008km N 22° W of Dapa (Surigao Del Norte),008,N 22° W,Dapa (Surigao Del Norte)
 2026-05-11T19:23:00.000Z,11 May 2026 - 07:23 PM,13.30,124.42,026,2.8,035km N 68° E of Rapu-rapu (Albay),035,N 68° E,Rapu-rapu (Albay)
 2026-05-11T18:55:00.000Z,11 May 2026 - 06:55 PM,16.45,119.91,038,2.5,007km N 11° E of Bolinao (Pangasinan),007,N 11° E,Bolinao (Pangasinan)
@@ -331,7 +333,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-05T10:10:00.000Z,05 May 2026 - 10:10 AM,05.78,124.89,008,2.6,015km S 52° W of Maasim (Sarangani),015,S 52° W,Maasim (Sarangani)
 2026-05-05T09:43:00.000Z,05 May 2026 - 09:43 AM,05.63,124.77,023,2.5,036km S 43° W of Maasim (Sarangani),036,S 43° W,Maasim (Sarangani)
 2026-05-05T09:03:00.000Z,05 May 2026 - 09:03 AM,11.98,125.65,021,1.8,033km N 40° E of San Julian (Eastern Samar),033,N 40° E,San Julian (Eastern Samar)
-2026-05-04T22:04:00.000Z,04 May 2026 - 10:04 PM,05.36,123.65,568,4.4,112km S 33° W of Palimbang (Sultan Kudarat),112,S 33° W,Palimbang (Sultan Kudarat)
 2026-05-05T08:51:00.000Z,05 May 2026 - 08:51 AM,06.25,123.69,031,1.8,052km S 50° W of Kalamansig (Sultan Kudarat),052,S 50° W,Kalamansig (Sultan Kudarat)
 2026-05-05T08:39:00.000Z,05 May 2026 - 08:39 AM,07.24,126.80,013,2.6,028km S 69° E of Caraga (Davao Oriental),028,S 69° E,Caraga (Davao Oriental)
 2026-05-05T07:58:00.000Z,05 May 2026 - 07:58 AM,20.92,120.37,026,3.1,154km N 85° W of Itbayat (Batanes),154,N 85° W,Itbayat (Batanes)
@@ -365,13 +366,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-04T22:53:00.000Z,04 May 2026 - 10:53 PM,13.65,120.63,105,1.4,020km South of Calatagan (Batangas),020,South of Calatagan,
 2026-05-04T22:47:00.000Z,04 May 2026 - 10:47 PM,11.80,125.35,026,1.5,013km N 64° W of San Julian (Eastern Samar),013,N 64° W,San Julian (Eastern Samar)
 2026-05-04T22:45:00.000Z,04 May 2026 - 10:45 PM,11.79,125.35,028,1.7,012km N 68° W of San Julian (Eastern Samar),012,N 68° W,San Julian (Eastern Samar)
-2026-05-04T21:52:00.000Z,04 May 2026 - 09:52 PM,18.22,120.90,063,1.7,012km N 42° E of Carasi (Ilocos Norte),012,N 42° E,Carasi (Ilocos Norte)
-2026-05-04T21:39:00.000Z,04 May 2026 - 09:39 PM,11.78,125.35,037,1.8,012km N 74° W of San Julian (Eastern Samar),012,N 74° W,San Julian (Eastern Samar)
-2026-05-04T21:30:00.000Z,04 May 2026 - 09:30 PM,06.06,126.59,010,2.8,087km S 41° E of Governor Generoso (Davao Oriental),087,S 41° E,Governor Generoso (Davao Oriental)
-2026-05-04T21:13:00.000Z,04 May 2026 - 09:13 PM,11.43,120.90,027,2.1,031km N 07° W of Agutaya (Palawan),031,N 07° W,Agutaya (Palawan)
-2026-05-04T20:59:00.000Z,04 May 2026 - 08:59 PM,08.53,123.28,013,3.0,002km N 24° W of Katipunan (Zamboanga Del Norte),002,N 24° W,Katipunan (Zamboanga Del Norte)
-2026-05-04T20:47:00.000Z,04 May 2026 - 08:47 PM,11.04,126.29,016,2.7,062km N 89° E of Guiuan (Eastern Samar),062,N 89° E,Guiuan (Eastern Samar)
-2026-05-04T20:22:00.000Z,04 May 2026 - 08:22 PM,10.18,126.03,029,1.6,018km N 02° W of Santa Monica (Surigao Del Norte),018,N 02° W,Santa Monica (Surigao Del Norte)
-2026-05-04T20:13:00.000Z,04 May 2026 - 08:13 PM,11.81,125.33,027,2.0,015km N 67° W of San Julian (Eastern Samar),015,N 67° W,San Julian (Eastern Samar)
-2026-05-04T19:44:00.000Z,04 May 2026 - 07:44 PM,11.73,125.34,033,1.9,013km S 79° W of San Julian (Eastern Samar),013,S 79° W,San Julian (Eastern Samar)
-2026-05-04T19:28:00.000Z,04 May 2026 - 07:28 PM,11.84,125.44,019,1.9,009km N 11° W of San Julian (Eastern Samar),009,N 11° W,San Julian (Eastern Samar)
