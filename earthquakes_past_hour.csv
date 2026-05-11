@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-11T22:07:00.000Z,11 May 2026 - 10:07 PM,09.38,126.26,020,2.2,014km N 32° E of Cortes (Surigao Del Sur),014,N 32° E,Cortes (Surigao Del Sur)
+2026-05-12T01:13:00.000Z,12 May 2026 - 01:13 AM,18.63,120.82,022,1.7,008km N 23° E of Pagudpud (Ilocos Norte),008,N 23° E,Pagudpud (Ilocos Norte)
+2026-05-12T00:53:00.000Z,12 May 2026 - 12:53 AM,11.10,122.34,024,1.4,016km N 72° W of Lambunao (Iloilo),016,N 72° W,Lambunao (Iloilo)
+2026-05-12T00:23:00.000Z,12 May 2026 - 12:23 AM,09.54,126.13,029,1.8,019km S 64° E of Socorro (Surigao Del Norte),019,S 64° E,Socorro (Surigao Del Norte)
+2026-05-12T00:16:00.000Z,12 May 2026 - 12:16 AM,11.80,125.38,022,2.0,009km N 59° W of San Julian (Eastern Samar),009,N 59° W,San Julian (Eastern Samar)
