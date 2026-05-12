@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-12T20:25:00.000Z,12 May 2026 - 08:25 PM,17.85,120.75,005,1.5,011km S 54° E of Nueva Era (Ilocos Norte),011,S 54° E,Nueva Era (Ilocos Norte)
+2026-05-12T19:50:00.000Z,12 May 2026 - 07:50 PM,12.17,121.45,019,2.7,021km S 34° E of Bulalacao (Oriental Mindoro),021,S 34° E,Bulalacao (Oriental Mindoro)
+2026-05-12T18:45:00.000Z,12 May 2026 - 06:45 PM,14.97,120.09,033,1.5,002km N 12° W of San Antonio (Zambales),002,N 12° W,San Antonio (Zambales)
+2026-05-12T17:22:00.000Z,12 May 2026 - 05:22 PM,09.21,126.32,017,2.5,016km S 64° E of Cortes (Surigao Del Sur),016,S 64° E,Cortes (Surigao Del Sur)
+2026-05-12T17:11:00.000Z,12 May 2026 - 05:11 PM,12.28,121.79,002,1.7,017km S 70° W of Ferrol (Romblon),017,S 70° W,Ferrol (Romblon)
+2026-05-12T16:53:00.000Z,12 May 2026 - 04:53 PM,04.85,127.81,039,4.2,267km S 64° E of Jose Abad Santos (Davao Occidental),267,S 64° E,Jose Abad Santos (Davao Occidental)
+2026-05-12T16:00:00.000Z,12 May 2026 - 04:00 PM,07.13,123.69,024,3.7,037km N 79° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),037,N 79° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-05-12T14:59:00.000Z,12 May 2026 - 02:59 PM,08.87,126.00,095,2.3,009km S 30° W of San Miguel (Surigao Del Sur),009,S 30° W,San Miguel (Surigao Del Sur)
 2026-05-12T14:48:00.000Z,12 May 2026 - 02:48 PM,10.96,124.16,035,1.8,015km N 81° E of Tabogon (Cebu),015,N 81° E,Tabogon (Cebu)
 2026-05-12T13:48:00.000Z,12 May 2026 - 01:48 PM,17.54,120.51,011,1.9,001km S 73° W of San Quintin (Abra),001,S 73° W,San Quintin (Abra)
