@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-12T12:44:00.000Z,12 May 2026 - 12:44 PM,19.18,121.21,031,1.5,009km N 01° E of Dalupiri Island (Calayan) (Cagayan),009,N 01° E,Dalupiri Island (Calayan) (Cagayan)
+2026-05-12T12:36:00.000Z,12 May 2026 - 12:36 PM,11.77,125.32,031,1.9,014km N 81° W of San Julian (Eastern Samar),014,N 81° W,San Julian (Eastern Samar)
+2026-05-12T12:21:00.000Z,12 May 2026 - 12:21 PM,06.16,126.89,092,2.5,105km S 59° E of Governor Generoso (Davao Oriental),105,S 59° E,Governor Generoso (Davao Oriental)
+2026-05-12T10:56:00.000Z,12 May 2026 - 10:56 AM,10.15,125.85,021,1.9,025km N 55° W of Santa Monica (Surigao Del Norte),025,N 55° W,Santa Monica (Surigao Del Norte)
+2026-05-12T10:53:00.000Z,12 May 2026 - 10:53 AM,18.93,121.45,027,2.7,012km N 44° E of Fuga Island (Aparri) (Cagayan),012,N 44° E,Fuga Island (Aparri) (Cagayan)
+2026-05-12T10:16:00.000Z,12 May 2026 - 10:16 AM,10.27,125.87,032,1.7,033km N 34° W of Santa Monica (Surigao Del Norte),033,N 34° W,Santa Monica (Surigao Del Norte)
 2026-05-12T07:48:00.000Z,12 May 2026 - 07:48 AM,13.74,120.16,013,1.7,011km N 77° W of Looc (Occidental Mindoro),011,N 77° W,Looc (Occidental Mindoro)
 2026-05-12T06:47:00.000Z,12 May 2026 - 06:47 AM,09.70,125.79,028,1.6,016km N 25° E of Claver (Surigao Del Norte),016,N 25° E,Claver (Surigao Del Norte)
 2026-05-12T06:18:00.000Z,12 May 2026 - 06:18 AM,06.52,126.43,023,3.2,042km S 69° E of Governor Generoso (Davao Oriental),042,S 69° E,Governor Generoso (Davao Oriental)
