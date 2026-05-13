@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-13T11:20:00.000Z,13 May 2026 - 11:20 AM,10.05,126.12,026,2.3,006km N 50° E of Burgos (Surigao Del Norte),006,N 50° E,Burgos (Surigao Del Norte)
+2026-05-13T11:18:00.000Z,13 May 2026 - 11:18 AM,10.16,125.06,015,2.6,006km N 86° E of Malitbog (Southern Leyte),006,N 86° E,Malitbog (Southern Leyte)
+2026-05-13T10:41:00.000Z,13 May 2026 - 10:41 AM,09.87,122.58,012,1.5,008km N 55° W of Candoni (Negros Occidental),008,N 55° W,Candoni (Negros Occidental)
+2026-05-13T10:16:00.000Z,13 May 2026 - 10:16 AM,19.42,121.29,037,2.3,027km N 48° W of Calayan (Cagayan),027,N 48° W,Calayan (Cagayan)
+2026-05-13T08:57:00.000Z,13 May 2026 - 08:57 AM,07.47,126.76,035,2.4,025km S 61° E of Baganga (Davao Oriental),025,S 61° E,Baganga (Davao Oriental)
 2026-05-13T07:12:00.000Z,13 May 2026 - 07:12 AM,17.92,120.56,033,1.5,005km S 40° E of Pinili (Ilocos Norte),005,S 40° E,Pinili (Ilocos Norte)
 2026-05-13T07:10:00.000Z,13 May 2026 - 07:10 AM,04.23,126.40,004,4.2,170km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),170,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-13T05:39:00.000Z,13 May 2026 - 05:39 AM,12.82,124.95,019,2.1,028km N 13° W of Laoang (Northern Samar),028,N 13° W,Laoang (Northern Samar)
