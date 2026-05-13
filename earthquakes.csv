@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-14T03:26:00.000Z,14 May 2026 - 03:26 AM,05.72,126.78,048,3.3,127km S 80° E of Jose Abad Santos (Davao Occidental),127,S 80° E,Jose Abad Santos (Davao Occidental)
+2026-05-14T03:00:00.000Z,14 May 2026 - 03:00 AM,11.28,125.91,014,2.8,030km N 48° E of Mercedes (Eastern Samar),030,N 48° E,Mercedes (Eastern Samar)
+2026-05-14T01:34:00.000Z,14 May 2026 - 01:34 AM,09.62,126.45,034,2.2,037km S 61° E of General Luna (Surigao Del Norte),037,S 61° E,General Luna (Surigao Del Norte)
 2026-05-14T01:11:00.000Z,14 May 2026 - 01:11 AM,07.01,126.80,025,3.0,036km S 52° E of Manay (Davao Oriental),036,S 52° E,Manay (Davao Oriental)
 2026-05-14T00:37:00.000Z,14 May 2026 - 12:37 AM,12.51,124.70,015,1.5,005km S 79° W of Mondragon (Northern Samar),005,S 79° W,Mondragon (Northern Samar)
 2026-05-14T00:35:00.000Z,14 May 2026 - 12:35 AM,11.82,125.38,029,3.7,008km N 85° W of Sulat (Eastern Samar),008,N 85° W,Sulat (Eastern Samar)

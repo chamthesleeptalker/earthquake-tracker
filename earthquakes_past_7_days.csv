@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-14T03:26:00.000Z,14 May 2026 - 03:26 AM,05.72,126.78,048,3.3,127km S 80° E of Jose Abad Santos (Davao Occidental),127,S 80° E,Jose Abad Santos (Davao Occidental)
+2026-05-14T03:00:00.000Z,14 May 2026 - 03:00 AM,11.28,125.91,014,2.8,030km N 48° E of Mercedes (Eastern Samar),030,N 48° E,Mercedes (Eastern Samar)
+2026-05-14T01:34:00.000Z,14 May 2026 - 01:34 AM,09.62,126.45,034,2.2,037km S 61° E of General Luna (Surigao Del Norte),037,S 61° E,General Luna (Surigao Del Norte)
 2026-05-14T01:11:00.000Z,14 May 2026 - 01:11 AM,07.01,126.80,025,3.0,036km S 52° E of Manay (Davao Oriental),036,S 52° E,Manay (Davao Oriental)
 2026-05-14T00:37:00.000Z,14 May 2026 - 12:37 AM,12.51,124.70,015,1.5,005km S 79° W of Mondragon (Northern Samar),005,S 79° W,Mondragon (Northern Samar)
 2026-05-14T00:35:00.000Z,14 May 2026 - 12:35 AM,11.82,125.38,029,3.7,008km N 85° W of Sulat (Eastern Samar),008,N 85° W,Sulat (Eastern Samar)
@@ -337,9 +340,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-07T03:49:00.000Z,07 May 2026 - 03:49 AM,06.32,126.28,055,1.7,044km S 32° E of Governor Generoso (Davao Oriental),044,S 32° E,Governor Generoso (Davao Oriental)
 2026-05-07T03:40:00.000Z,07 May 2026 - 03:40 AM,04.90,126.40,009,3.2,121km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),121,S 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-07T03:38:00.000Z,07 May 2026 - 03:38 AM,18.67,121.05,033,1.4,008km N 27° W of Claveria (Cagayan),008,N 27° W,Claveria (Cagayan)
-2026-05-07T03:22:00.000Z,07 May 2026 - 03:22 AM,18.89,121.06,007,2.5,029km S 32° W of Dalupiri Island (Calayan) (Cagayan),029,S 32° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-07T03:09:00.000Z,07 May 2026 - 03:09 AM,09.54,123.32,017,1.9,002km N 41° E of Samboan (Cebu),002,N 41° E,Samboan (Cebu)
-2026-05-07T02:58:00.000Z,07 May 2026 - 02:58 AM,12.12,120.37,007,2.0,022km N 55° E of Coron (Palawan),022,N 55° E,Coron (Palawan)
-2026-05-07T02:28:00.000Z,07 May 2026 - 02:28 AM,12.84,123.05,012,3.4,023km S 72° W of Claveria (Masbate),023,S 72° W,Claveria (Masbate)
-2026-05-07T02:13:00.000Z,07 May 2026 - 02:13 AM,16.40,120.92,024,2.0,006km N 34° E of Kayapa (Nueva Vizcaya),006,N 34° E,Kayapa (Nueva Vizcaya)
-2026-05-07T01:50:00.000Z,07 May 2026 - 01:50 AM,09.22,126.28,027,2.0,012km S 56° E of Cortes (Surigao Del Sur),012,S 56° E,Cortes (Surigao Del Sur)
