@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-13T14:48:00.000Z,13 May 2026 - 02:48 PM,05.62,127.00,016,2.4,153km S 78° E of Jose Abad Santos (Davao Occidental),153,S 78° E,Jose Abad Santos (Davao Occidental)
+2026-05-13T14:21:00.000Z,13 May 2026 - 02:21 PM,11.08,123.83,029,1.6,016km N 76° W of City Of Bogo (Cebu),016,N 76° W,City Of Bogo (Cebu)
+2026-05-13T14:11:00.000Z,13 May 2026 - 02:11 PM,07.89,126.62,032,2.0,021km N 60° E of Cateel (Davao Oriental),021,N 60° E,Cateel (Davao Oriental)
+2026-05-13T14:05:00.000Z,13 May 2026 - 02:05 PM,09.82,124.47,011,2.1,003km N 79° W of Candijay (Bohol),003,N 79° W,Candijay (Bohol)
+2026-05-13T14:02:00.000Z,13 May 2026 - 02:02 PM,14.03,119.27,069,1.7,112km N 72° W of Looc (Occidental Mindoro),112,N 72° W,Looc (Occidental Mindoro)
+2026-05-13T12:27:00.000Z,13 May 2026 - 12:27 PM,13.61,120.13,011,2.1,018km S 48° W of Looc (Occidental Mindoro),018,S 48° W,Looc (Occidental Mindoro)
 2026-05-13T11:20:00.000Z,13 May 2026 - 11:20 AM,10.05,126.12,026,2.3,006km N 50° E of Burgos (Surigao Del Norte),006,N 50° E,Burgos (Surigao Del Norte)
 2026-05-13T11:18:00.000Z,13 May 2026 - 11:18 AM,10.16,125.06,015,2.6,006km N 86° E of Malitbog (Southern Leyte),006,N 86° E,Malitbog (Southern Leyte)
 2026-05-13T10:41:00.000Z,13 May 2026 - 10:41 AM,09.87,122.58,012,1.5,008km N 55° W of Candoni (Negros Occidental),008,N 55° W,Candoni (Negros Occidental)
@@ -344,5 +350,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-06T16:10:00.000Z,06 May 2026 - 04:10 PM,13.95,120.54,112,1.6,012km N 32° W of Calatagan (Batangas),012,N 32° W,Calatagan (Batangas)
 2026-05-06T15:34:00.000Z,06 May 2026 - 03:34 PM,13.84,120.57,120,2.1,007km N 87° W of Calatagan (Batangas),007,N 87° W,Calatagan (Batangas)
 2026-05-06T15:00:00.000Z,06 May 2026 - 03:00 PM,09.51,124.41,013,1.4,017km S 16° E of Jagna (Bohol),017,S 16° E,Jagna (Bohol)
-2026-05-06T14:42:00.000Z,06 May 2026 - 02:42 PM,19.24,121.20,009,3.9,011km N 08° W of Dalupiri Island (Calayan) (Cagayan),011,N 08° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-06T11:49:00.000Z,06 May 2026 - 11:49 AM,11.06,124.09,033,2.1,012km N 81° E of City Of Bogo (Cebu),012,N 81° E,City Of Bogo (Cebu)
