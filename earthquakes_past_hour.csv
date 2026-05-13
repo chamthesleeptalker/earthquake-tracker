@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-13T23:09:00.000Z,13 May 2026 - 11:09 PM,19.56,121.15,025,3.5,048km N 46° W of Calayan (Cagayan),048,N 46° W,Calayan (Cagayan)
-2026-05-13T22:41:00.000Z,13 May 2026 - 10:41 PM,06.63,126.56,032,2.3,048km S 15° E of Tarragona (Davao Oriental),048,S 15° E,Tarragona (Davao Oriental)
-2026-05-13T22:35:00.000Z,13 May 2026 - 10:35 PM,13.85,120.25,065,2.5,014km N 02° E of Looc (Occidental Mindoro),014,N 02° E,Looc (Occidental Mindoro)
+2026-05-14T01:11:00.000Z,14 May 2026 - 01:11 AM,07.01,126.80,025,3.0,036km S 52° E of Manay (Davao Oriental),036,S 52° E,Manay (Davao Oriental)
+2026-05-14T00:37:00.000Z,14 May 2026 - 12:37 AM,12.51,124.70,015,1.5,005km S 79° W of Mondragon (Northern Samar),005,S 79° W,Mondragon (Northern Samar)
+2026-05-14T00:35:00.000Z,14 May 2026 - 12:35 AM,11.82,125.38,029,3.7,008km N 85° W of Sulat (Eastern Samar),008,N 85° W,Sulat (Eastern Samar)
+2026-05-14T00:20:00.000Z,14 May 2026 - 12:20 AM,10.39,124.99,008,2.7,001km N 49° E of Sogod (Southern Leyte),001,N 49° E,Sogod (Southern Leyte)
+2026-05-14T00:18:00.000Z,14 May 2026 - 12:18 AM,10.37,125.08,001,2.0,008km N 22° E of Libagon (Southern Leyte),008,N 22° E,Libagon (Southern Leyte)
