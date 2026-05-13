@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-14T06:10:00.000Z,14 May 2026 - 06:10 AM,19.02,121.31,010,4.6,014km S 49° E of Dalupiri Island (Calayan) (Cagayan),014,S 49° E,Dalupiri Island (Calayan) (Cagayan)
+2026-05-14T06:01:00.000Z,14 May 2026 - 06:01 AM,19.07,121.26,010,5.5,007km S 55° E of Dalupiri Island (Calayan) (Cagayan),007,S 55° E,Dalupiri Island (Calayan) (Cagayan)
+2026-05-14T05:43:00.000Z,14 May 2026 - 05:43 AM,11.00,123.92,006,2.4,008km S 56° W of City Of Bogo (Cebu),008,S 56° W,City Of Bogo (Cebu)
+2026-05-14T05:04:00.000Z,14 May 2026 - 05:04 AM,12.29,122.02,008,2.1,004km N 50° E of Looc (Romblon),004,N 50° E,Looc (Romblon)
 2026-05-14T04:06:00.000Z,14 May 2026 - 04:06 AM,19.20,121.45,012,1.6,008km S 22° W of Calayan (Cagayan),008,S 22° W,Calayan (Cagayan)
 2026-05-14T04:00:00.000Z,14 May 2026 - 04:00 AM,14.91,121.98,029,1.4,008km N 11° E of Burdeos (Quezon),008,N 11° E,Burdeos (Quezon)
 2026-05-14T03:48:00.000Z,14 May 2026 - 03:48 AM,09.73,126.26,010,2.5,012km S 64° E of General Luna (Surigao Del Norte),012,S 64° E,General Luna (Surigao Del Norte)
