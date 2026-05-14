@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-14T14:12:00.000Z,14 May 2026 - 02:12 PM,15.00,122.06,011,1.8,020km N 29° E of Burdeos (Quezon),020,N 29° E,Burdeos (Quezon)
+2026-05-14T13:39:00.000Z,14 May 2026 - 01:39 PM,10.94,123.92,005,2.4,014km S 29° W of City Of Bogo (Cebu),014,S 29° W,City Of Bogo (Cebu)
+2026-05-14T13:10:00.000Z,14 May 2026 - 01:10 PM,15.06,122.11,006,2.2,028km N 32° E of Burdeos (Quezon),028,N 32° E,Burdeos (Quezon)
+2026-05-14T13:03:00.000Z,14 May 2026 - 01:03 PM,14.88,121.97,028,2.0,004km N 02° W of Burdeos (Quezon),004,N 02° W,Burdeos (Quezon)
+2026-05-14T12:50:00.000Z,14 May 2026 - 12:50 PM,15.04,122.09,012,2.2,026km N 31° E of Burdeos (Quezon),026,N 31° E,Burdeos (Quezon)
+2026-05-14T12:01:00.000Z,14 May 2026 - 12:01 PM,14.21,120.49,110,1.9,022km N 46° W of Nasugbu (Batangas),022,N 46° W,Nasugbu (Batangas)
+2026-05-14T11:35:00.000Z,14 May 2026 - 11:35 AM,15.07,122.10,004,2.7,029km N 30° E of Burdeos (Quezon),029,N 30° E,Burdeos (Quezon)
+2026-05-13T14:03:00.000Z,13 May 2026 - 02:03 PM,14.68,119.03,031,1.9,118km S 75° W of San Antonio (Zambales),118,S 75° W,San Antonio (Zambales)
 2026-05-14T11:19:00.000Z,14 May 2026 - 11:19 AM,06.50,126.77,033,2.1,070km S 30° E of Tarragona (Davao Oriental),070,S 30° E,Tarragona (Davao Oriental)
 2026-05-14T10:33:00.000Z,14 May 2026 - 10:33 AM,12.07,125.08,033,1.6,007km N 71° E of San Jose De Buan (Samar),007,N 71° E,San Jose De Buan (Samar)
 2026-05-14T10:15:00.000Z,14 May 2026 - 10:15 AM,19.94,121.77,011,2.2,045km S 14° W of Sabtang (Batanes),045,S 14° W,Sabtang (Batanes)
