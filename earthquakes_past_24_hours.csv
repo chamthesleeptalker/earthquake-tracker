@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-15T06:45:00.000Z,15 May 2026 - 06:45 AM,10.14,125.98,025,2.6,015km N 24° W of Santa Monica (Surigao Del Norte),015,N 24° W,Santa Monica (Surigao Del Norte)
+2026-05-15T06:31:00.000Z,15 May 2026 - 06:31 AM,11.59,125.45,042,1.9,018km S 03° W of San Julian (Eastern Samar),018,S 03° W,San Julian (Eastern Samar)
+2026-05-15T06:27:00.000Z,15 May 2026 - 06:27 AM,10.15,126.03,021,1.6,015km N 19° W of Burgos (Surigao Del Norte),015,N 19° W,Burgos (Surigao Del Norte)
+2026-05-15T06:04:00.000Z,15 May 2026 - 06:04 AM,05.21,126.89,007,3.8,159km S 60° E of Jose Abad Santos (Davao Occidental),159,S 60° E,Jose Abad Santos (Davao Occidental)
+2026-05-15T05:56:00.000Z,15 May 2026 - 05:56 AM,11.55,124.36,029,1.9,005km S 70° W of Naval (Biliran),005,S 70° W,Naval (Biliran)
+2026-05-15T05:36:00.000Z,15 May 2026 - 05:36 AM,11.69,125.62,018,3.4,019km S 69° E of San Julian (Eastern Samar),019,S 69° E,San Julian (Eastern Samar)
+2026-05-15T05:33:00.000Z,15 May 2026 - 05:33 AM,11.69,125.61,018,3.4,018km S 67° E of San Julian (Eastern Samar),018,S 67° E,San Julian (Eastern Samar)
 2026-05-15T05:20:00.000Z,15 May 2026 - 05:20 AM,16.15,120.54,011,2.1,004km N 14° W of Pozorrubio (Pangasinan),004,N 14° W,Pozorrubio (Pangasinan)
 2026-05-15T04:19:00.000Z,15 May 2026 - 04:19 AM,10.83,126.55,006,3.2,091km N 84° E of Homonhon Island (Guiuan) (Eastern Samar),091,N 84° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-05-15T04:17:00.000Z,15 May 2026 - 04:17 AM,12.44,120.83,008,1.6,014km S 82° W of Rizal (Occidental Mindoro),014,S 82° W,Rizal (Occidental Mindoro)
@@ -70,6 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-14T07:46:00.000Z,14 May 2026 - 07:46 AM,09.08,126.30,031,2.7,010km N 50° E of Tago (Surigao Del Sur),010,N 50° E,Tago (Surigao Del Sur)
 2026-05-14T07:35:00.000Z,14 May 2026 - 07:35 AM,19.17,121.07,032,1.8,016km N 65° W of Dalupiri Island (Calayan) (Cagayan),016,N 65° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-14T07:03:00.000Z,14 May 2026 - 07:03 AM,19.03,121.30,016,3.4,013km S 50° E of Dalupiri Island (Calayan) (Cagayan),013,S 50° E,Dalupiri Island (Calayan) (Cagayan)
-2026-05-14T06:10:00.000Z,14 May 2026 - 06:10 AM,19.02,121.31,010,4.6,014km S 49° E of Dalupiri Island (Calayan) (Cagayan),014,S 49° E,Dalupiri Island (Calayan) (Cagayan)
-2026-05-14T06:01:00.000Z,14 May 2026 - 06:01 AM,19.07,121.26,010,5.5,007km S 55° E of Dalupiri Island (Calayan) (Cagayan),007,S 55° E,Dalupiri Island (Calayan) (Cagayan)
-2026-05-14T05:43:00.000Z,14 May 2026 - 05:43 AM,11.00,123.92,006,2.4,008km S 56° W of City Of Bogo (Cebu),008,S 56° W,City Of Bogo (Cebu)

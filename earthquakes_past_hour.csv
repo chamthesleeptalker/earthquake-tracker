@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-15T05:20:00.000Z,15 May 2026 - 05:20 AM,16.15,120.54,011,2.1,004km N 14° W of Pozorrubio (Pangasinan),004,N 14° W,Pozorrubio (Pangasinan)
+2026-05-15T06:45:00.000Z,15 May 2026 - 06:45 AM,10.14,125.98,025,2.6,015km N 24° W of Santa Monica (Surigao Del Norte),015,N 24° W,Santa Monica (Surigao Del Norte)
+2026-05-15T06:31:00.000Z,15 May 2026 - 06:31 AM,11.59,125.45,042,1.9,018km S 03° W of San Julian (Eastern Samar),018,S 03° W,San Julian (Eastern Samar)
+2026-05-15T06:27:00.000Z,15 May 2026 - 06:27 AM,10.15,126.03,021,1.6,015km N 19° W of Burgos (Surigao Del Norte),015,N 19° W,Burgos (Surigao Del Norte)
+2026-05-15T06:04:00.000Z,15 May 2026 - 06:04 AM,05.21,126.89,007,3.8,159km S 60° E of Jose Abad Santos (Davao Occidental),159,S 60° E,Jose Abad Santos (Davao Occidental)
+2026-05-15T05:56:00.000Z,15 May 2026 - 05:56 AM,11.55,124.36,029,1.9,005km S 70° W of Naval (Biliran),005,S 70° W,Naval (Biliran)
