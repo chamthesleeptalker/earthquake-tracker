@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-14T19:30:00.000Z,14 May 2026 - 07:30 PM,14.78,122.10,033,1.7,016km S 66° E of Burdeos (Quezon),016,S 66° E,Burdeos (Quezon)
+2026-05-14T21:33:00.000Z,14 May 2026 - 09:33 PM,11.24,121.50,029,1.5,059km N 86° W of Barbaza (Antique),059,N 86° W,Barbaza (Antique)
+2026-05-14T21:14:00.000Z,14 May 2026 - 09:14 PM,13.72,124.67,003,2.4,031km S 78° E of Gigmoto (Catanduanes),031,S 78° E,Gigmoto (Catanduanes)
+2026-05-14T20:54:00.000Z,14 May 2026 - 08:54 PM,15.05,122.08,014,2.4,026km N 28° E of Burdeos (Quezon),026,N 28° E,Burdeos (Quezon)
+2026-05-14T20:51:00.000Z,14 May 2026 - 08:51 PM,11.16,124.65,012,2.5,010km S 74° E of Kananga (Leyte),010,S 74° E,Kananga (Leyte)
+2026-05-14T20:37:00.000Z,14 May 2026 - 08:37 PM,08.94,126.27,059,2.3,003km S 33° W of Bayabas (Surigao Del Sur),003,S 33° W,Bayabas (Surigao Del Sur)
