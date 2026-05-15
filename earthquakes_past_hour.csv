@@ -1,9 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-15T10:41:00.000Z,15 May 2026 - 10:41 AM,18.78,120.91,024,3.5,027km N 28° E of Pagudpud (Ilocos Norte),027,N 28° E,Pagudpud (Ilocos Norte)
-2026-05-15T10:35:00.000Z,15 May 2026 - 10:35 AM,06.76,125.50,019,1.9,012km S 50° E of Santa Cruz (Davao Del Sur),012,S 50° E,Santa Cruz (Davao Del Sur)
-2026-05-15T10:34:00.000Z,15 May 2026 - 10:34 AM,11.61,125.78,025,1.5,033km N 63° E of Balangkayan (Eastern Samar),033,N 63° E,Balangkayan (Eastern Samar)
-2026-05-15T10:31:00.000Z,15 May 2026 - 10:31 AM,14.92,122.09,033,1.2,016km N 58° E of Burdeos (Quezon),016,N 58° E,Burdeos (Quezon)
-2026-05-15T10:28:00.000Z,15 May 2026 - 10:28 AM,15.07,122.11,022,1.6,030km N 31° E of Burdeos (Quezon),030,N 31° E,Burdeos (Quezon)
-2026-05-15T10:23:00.000Z,15 May 2026 - 10:23 AM,14.92,121.94,030,1.2,009km N 19° W of Burdeos (Quezon),009,N 19° W,Burdeos (Quezon)
-2026-05-15T10:17:00.000Z,15 May 2026 - 10:17 AM,12.60,121.28,008,1.4,020km N 65° W of Mansalay (Oriental Mindoro),020,N 65° W,Mansalay (Oriental Mindoro)
-2026-05-15T10:08:00.000Z,15 May 2026 - 10:08 AM,12.67,120.60,008,1.8,028km S 47° W of Sablayan (Occidental Mindoro),028,S 47° W,Sablayan (Occidental Mindoro)
+2026-05-15T13:54:00.000Z,15 May 2026 - 01:54 PM,07.12,127.42,033,2.6,097km S 76° E of Caraga (Davao Oriental),097,S 76° E,Caraga (Davao Oriental)
