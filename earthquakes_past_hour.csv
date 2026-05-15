@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-15T21:40:00.000Z,15 May 2026 - 09:40 PM,12.43,124.56,091,2.0,011km S 01° E of Bobon (Northern Samar),011,S 01° E,Bobon (Northern Samar)
-2026-05-15T20:59:00.000Z,15 May 2026 - 08:59 PM,11.20,123.98,034,1.9,006km S 15° W of Daanbantayan (Cebu),006,S 15° W,Daanbantayan (Cebu)
+2026-05-16T00:07:00.000Z,16 May 2026 - 12:07 AM,09.67,126.21,033,1.9,014km S 23° E of General Luna (Surigao Del Norte),014,S 23° E,General Luna (Surigao Del Norte)
+2026-05-16T00:00:00.000Z,16 May 2026 - 12:00 AM,13.08,125.29,035,2.0,062km N 18° E of Palapag (Northern Samar),062,N 18° E,Palapag (Northern Samar)
+2026-05-15T23:59:00.000Z,15 May 2026 - 11:59 PM,15.48,121.27,005,2.3,008km N 69° W of Gabaldon (Nueva Ecija),008,N 69° W,Gabaldon (Nueva Ecija)
