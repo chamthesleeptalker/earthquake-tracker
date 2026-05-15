@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-16T03:07:00.000Z,16 May 2026 - 03:07 AM,09.69,126.17,026,2.6,010km S 08° E of General Luna (Surigao Del Norte),010,S 08° E,General Luna (Surigao Del Norte)
-2026-05-16T03:00:00.000Z,16 May 2026 - 03:00 AM,19.14,121.25,027,1.9,005km N 51° E of Dalupiri Island (Calayan) (Cagayan),005,N 51° E,Dalupiri Island (Calayan) (Cagayan)
-2026-05-16T02:40:00.000Z,16 May 2026 - 02:40 AM,07.70,127.10,012,1.9,061km N 77° E of Baganga (Davao Oriental),061,N 77° E,Baganga (Davao Oriental)
+2026-05-16T04:59:00.000Z,16 May 2026 - 04:59 AM,14.73,119.24,002,3.0,095km S 75° W of San Antonio (Zambales),095,S 75° W,San Antonio (Zambales)
+2026-05-16T04:52:00.000Z,16 May 2026 - 04:52 AM,19.15,121.06,013,3.7,016km N 75° W of Dalupiri Island (Calayan) (Cagayan),016,N 75° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-16T04:42:00.000Z,16 May 2026 - 04:42 AM,14.67,118.95,032,3.8,126km S 76° W of San Antonio (Zambales),126,S 76° W,San Antonio (Zambales)
+2026-05-16T04:41:00.000Z,16 May 2026 - 04:41 AM,18.73,121.45,082,2.5,016km S 30° E of Fuga Island (Aparri) (Cagayan),016,S 30° E,Fuga Island (Aparri) (Cagayan)
+2026-05-16T04:37:00.000Z,16 May 2026 - 04:37 AM,15.43,120.61,032,2.2,006km S 21° E of City Of Tarlac (Tarlac),006,S 21° E,City Of Tarlac (Tarlac)
+2026-05-16T04:22:00.000Z,16 May 2026 - 04:22 AM,06.39,124.25,022,2.4,011km S 44° W of Senator Ninoy Aquino (Sultan Kudarat),011,S 44° W,Senator Ninoy Aquino (Sultan Kudarat)
