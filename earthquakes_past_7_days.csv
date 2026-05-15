@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-16T01:28:00.000Z,16 May 2026 - 01:28 AM,09.03,126.26,024,1.7,003km N 61° E of Tago (Surigao Del Sur),003,N 61° E,Tago (Surigao Del Sur)
+2026-05-16T01:20:00.000Z,16 May 2026 - 01:20 AM,06.45,126.09,024,1.7,022km S 04° E of Governor Generoso (Davao Oriental),022,S 04° E,Governor Generoso (Davao Oriental)
+2026-05-16T01:08:00.000Z,16 May 2026 - 01:08 AM,14.63,119.03,014,3.2,119km S 73° W of San Antonio (Zambales),119,S 73° W,San Antonio (Zambales)
+2026-05-16T01:07:00.000Z,16 May 2026 - 01:07 AM,18.47,121.02,033,2.0,011km S 14° E of Santa Praxedes (Cagayan),011,S 14° E,Santa Praxedes (Cagayan)
+2026-05-16T00:21:00.000Z,16 May 2026 - 12:21 AM,08.92,126.23,026,2.2,008km West of Cagwait (Surigao Del Sur),008,West of Cagwait,Del Sur)
 2026-05-16T00:07:00.000Z,16 May 2026 - 12:07 AM,09.67,126.21,033,1.9,014km S 23° E of General Luna (Surigao Del Norte),014,S 23° E,General Luna (Surigao Del Norte)
 2026-05-16T00:00:00.000Z,16 May 2026 - 12:00 AM,13.08,125.29,035,2.0,062km N 18° E of Palapag (Northern Samar),062,N 18° E,Palapag (Northern Samar)
 2026-05-15T23:59:00.000Z,15 May 2026 - 11:59 PM,15.48,121.27,005,2.3,008km N 69° W of Gabaldon (Nueva Ecija),008,N 69° W,Gabaldon (Nueva Ecija)
@@ -369,8 +374,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-09T02:46:00.000Z,09 May 2026 - 02:46 AM,19.27,121.38,012,2.0,010km N 82° W of Calayan (Cagayan),010,N 82° W,Calayan (Cagayan)
 2026-05-09T02:16:00.000Z,09 May 2026 - 02:16 AM,16.84,120.27,022,1.9,011km S 85° W of Luna (La Union),011,S 85° W,Luna (La Union)
 2026-05-09T01:49:00.000Z,09 May 2026 - 01:49 AM,11.77,125.41,027,2.1,005km N 76° W of San Julian (Eastern Samar),005,N 76° W,San Julian (Eastern Samar)
-2026-05-09T01:03:00.000Z,09 May 2026 - 01:03 AM,12.91,120.55,034,1.8,026km N 74° W of Sablayan (Occidental Mindoro),026,N 74° W,Sablayan (Occidental Mindoro)
-2026-05-09T00:39:00.000Z,09 May 2026 - 12:39 AM,15.68,122.19,012,2.2,057km S 26° E of Dinalungan (Aurora),057,S 26° E,Dinalungan (Aurora)
-2026-05-09T00:26:00.000Z,09 May 2026 - 12:26 AM,13.71,120.62,092,1.5,014km S 05° W of Calatagan (Batangas),014,S 05° W,Calatagan (Batangas)
-2026-05-09T00:11:00.000Z,09 May 2026 - 12:11 AM,11.13,126.32,016,3.6,066km N 81° E of Guiuan (Eastern Samar),066,N 81° E,Guiuan (Eastern Samar)
-2026-05-09T00:10:00.000Z,09 May 2026 - 12:10 AM,09.67,122.51,024,2.1,009km N 29° E of Hinoba-an (Negros Occidental),009,N 29° E,Hinoba-an (Negros Occidental)
