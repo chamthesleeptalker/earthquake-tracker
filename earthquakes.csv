@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-16T06:51:00.000Z,16 May 2026 - 06:51 AM,12.24,121.47,006,2.0,017km S 55° E of Bulalacao (Oriental Mindoro),017,S 55° E,Bulalacao (Oriental Mindoro)
+2026-05-16T06:30:00.000Z,16 May 2026 - 06:30 AM,15.09,122.10,010,2.2,031km N 27° E of Burdeos (Quezon),031,N 27° E,Burdeos (Quezon)
 2026-05-16T06:05:00.000Z,16 May 2026 - 06:05 AM,08.53,125.87,003,2.4,010km S 36° W of Prosperidad (Agusan Del Sur),010,S 36° W,Prosperidad (Agusan Del Sur)
 2026-05-16T05:54:00.000Z,16 May 2026 - 05:54 AM,12.53,124.70,033,1.8,006km N 73° W of Mondragon (Northern Samar),006,N 73° W,Mondragon (Northern Samar)
 2026-05-16T05:39:00.000Z,16 May 2026 - 05:39 AM,20.71,121.65,021,3.3,030km S 47° W of Itbayat (Batanes),030,S 47° W,Itbayat (Batanes)
