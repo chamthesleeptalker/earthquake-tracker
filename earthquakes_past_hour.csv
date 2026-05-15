@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-15T17:31:00.000Z,15 May 2026 - 05:31 PM,15.22,119.98,028,1.6,009km S 32° W of Botolan (Zambales),009,S 32° W,Botolan (Zambales)
-2026-05-15T16:50:00.000Z,15 May 2026 - 04:50 PM,19.18,121.18,025,2.1,009km N 21° W of Dalupiri Island (Calayan) (Cagayan),009,N 21° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-15T19:36:00.000Z,15 May 2026 - 07:36 PM,12.68,125.80,016,2.5,064km N 29° E of San Policarpo (Eastern Samar),064,N 29° E,San Policarpo (Eastern Samar)
+2026-05-15T19:29:00.000Z,15 May 2026 - 07:29 PM,07.45,126.73,031,2.8,022km N 53° E of Caraga (Davao Oriental),022,N 53° E,Caraga (Davao Oriental)
+2026-05-15T19:09:00.000Z,15 May 2026 - 07:09 PM,15.05,122.06,013,2.0,025km N 23° E of Burdeos (Quezon),025,N 23° E,Burdeos (Quezon)
+2026-05-15T19:07:00.000Z,15 May 2026 - 07:07 PM,15.04,122.12,011,2.0,028km N 37° E of Burdeos (Quezon),028,N 37° E,Burdeos (Quezon)
