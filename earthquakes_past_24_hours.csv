@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-16T23:44:00.000Z,16 May 2026 - 11:44 PM,14.93,122.04,030,1.3,013km N 36° E of Burdeos (Quezon),013,N 36° E,Burdeos (Quezon)
+2026-05-16T23:43:00.000Z,16 May 2026 - 11:43 PM,15.09,122.10,016,2.3,031km N 28° E of Burdeos (Quezon),031,N 28° E,Burdeos (Quezon)
+2026-05-16T23:35:00.000Z,16 May 2026 - 11:35 PM,10.27,122.34,035,2.1,035km S 38° W of Nueva Valencia (Guimaras),035,S 38° W,Nueva Valencia (Guimaras)
+2026-05-16T23:34:00.000Z,16 May 2026 - 11:34 PM,19.54,121.99,008,1.8,009km N 69° E of Babuyan Island (Calayan) (Cagayan),009,N 69° E,Babuyan Island (Calayan) (Cagayan)
+2026-05-16T23:34:00.000Z,16 May 2026 - 11:34 PM,19.54,121.99,008,1.8,009km N 69° E of Babuyan Island (Calayan) (Cagayan),009,N 69° E,Babuyan Island (Calayan) (Cagayan)
+2026-05-16T23:32:00.000Z,16 May 2026 - 11:32 PM,07.15,126.81,025,2.5,030km S 78° E of Manay (Davao Oriental),030,S 78° E,Manay (Davao Oriental)
+2026-05-16T22:53:00.000Z,16 May 2026 - 10:53 PM,05.26,125.59,142,2.9,025km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-16T22:10:00.000Z,16 May 2026 - 10:10 PM,08.36,125.89,007,1.9,013km N 46° E of La Paz (Agusan Del Sur),013,N 46° E,La Paz (Agusan Del Sur)
 2026-05-16T21:53:00.000Z,16 May 2026 - 09:53 PM,15.05,122.05,009,2.1,024km N 20° E of Burdeos (Quezon),024,N 20° E,Burdeos (Quezon)
 2026-05-16T20:21:00.000Z,16 May 2026 - 08:21 PM,12.16,121.45,006,2.1,021km S 32° E of Bulalacao (Oriental Mindoro),021,S 32° E,Bulalacao (Oriental Mindoro)
@@ -50,4 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-16T00:07:00.000Z,16 May 2026 - 12:07 AM,09.67,126.21,033,1.9,014km S 23° E of General Luna (Surigao Del Norte),014,S 23° E,General Luna (Surigao Del Norte)
 2026-05-16T00:00:00.000Z,16 May 2026 - 12:00 AM,13.08,125.29,035,2.0,062km N 18° E of Palapag (Northern Samar),062,N 18° E,Palapag (Northern Samar)
 2026-05-15T23:59:00.000Z,15 May 2026 - 11:59 PM,15.48,121.27,005,2.3,008km N 69° W of Gabaldon (Nueva Ecija),008,N 69° W,Gabaldon (Nueva Ecija)
-2026-05-15T22:22:00.000Z,15 May 2026 - 10:22 PM,08.90,126.62,034,2.3,035km S 86° E of Cagwait (Surigao Del Sur),035,S 86° E,Cagwait (Surigao Del Sur)
