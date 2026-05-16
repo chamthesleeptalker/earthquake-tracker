@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-17T05:14:00.000Z,17 May 2026 - 05:14 AM,14.78,122.61,013,1.8,031km N 73° E of Jomalig (Quezon),031,N 73° E,Jomalig (Quezon)
+2026-05-17T05:14:00.000Z,17 May 2026 - 05:14 AM,13.57,119.95,031,1.5,036km S 63° W of Looc (Occidental Mindoro),036,S 63° W,Looc (Occidental Mindoro)
 2026-05-17T04:26:00.000Z,17 May 2026 - 04:26 AM,12.64,124.78,007,2.6,014km N 14° E of Mondragon (Northern Samar),014,N 14° E,Mondragon (Northern Samar)
 2026-05-17T04:02:00.000Z,17 May 2026 - 04:02 AM,06.49,126.17,132,2.9,022km S 31° E of Governor Generoso (Davao Oriental),022,S 31° E,Governor Generoso (Davao Oriental)
 2026-05-17T02:58:00.000Z,17 May 2026 - 02:58 AM,12.96,120.87,034,1.1,017km N 36° E of Sablayan (Occidental Mindoro),017,N 36° E,Sablayan (Occidental Mindoro)
