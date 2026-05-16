@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-16T08:12:00.000Z,16 May 2026 - 08:12 AM,15.05,122.09,010,2.6,027km N 30° E of Burdeos (Quezon),027,N 30° E,Burdeos (Quezon)
+2026-05-16T07:59:00.000Z,16 May 2026 - 07:59 AM,13.55,120.66,125,1.6,014km N 29° W of Abra De Ilog (Occidental Mindoro),014,N 29° W,Abra De Ilog (Occidental Mindoro)
 2026-05-16T06:51:00.000Z,16 May 2026 - 06:51 AM,12.24,121.47,006,2.0,017km S 55° E of Bulalacao (Oriental Mindoro),017,S 55° E,Bulalacao (Oriental Mindoro)
 2026-05-16T06:30:00.000Z,16 May 2026 - 06:30 AM,15.09,122.10,010,2.2,031km N 27° E of Burdeos (Quezon),031,N 27° E,Burdeos (Quezon)
 2026-05-16T06:05:00.000Z,16 May 2026 - 06:05 AM,08.53,125.87,003,2.4,010km S 36° W of Prosperidad (Agusan Del Sur),010,S 36° W,Prosperidad (Agusan Del Sur)
@@ -56,9 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-15T09:28:00.000Z,15 May 2026 - 09:28 AM,11.44,124.49,007,2.5,004km S 23° E of Biliran (Biliran),004,S 23° E,Biliran (Biliran)
 2026-05-15T09:21:00.000Z,15 May 2026 - 09:21 AM,15.04,121.97,008,1.4,022km N 01° E of Burdeos (Quezon),022,N 01° E,Burdeos (Quezon)
 2026-05-15T09:01:00.000Z,15 May 2026 - 09:01 AM,19.24,121.11,033,1.6,018km N 35° W of Dalupiri Island (Calayan) (Cagayan),018,N 35° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-15T07:51:00.000Z,15 May 2026 - 07:51 AM,08.78,126.22,026,1.8,004km N 02° W of San Agustin (Surigao Del Sur),004,N 02° W,San Agustin (Surigao Del Sur)
-2026-05-15T07:33:00.000Z,15 May 2026 - 07:33 AM,04.59,125.54,010,3.1,091km S 08° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),091,S 08° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-05-15T07:32:00.000Z,15 May 2026 - 07:32 AM,05.32,123.30,089,3.0,139km S 45° W of Palimbang (Sultan Kudarat),139,S 45° W,Palimbang (Sultan Kudarat)
-2026-05-15T07:26:00.000Z,15 May 2026 - 07:26 AM,10.97,123.69,023,2.0,021km S 09° W of Bantayan (Cebu),021,S 09° W,Bantayan (Cebu)
-2026-05-15T07:21:00.000Z,15 May 2026 - 07:21 AM,15.01,122.07,009,1.9,021km N 29° E of Burdeos (Quezon),021,N 29° E,Burdeos (Quezon)
-2026-05-15T07:14:00.000Z,15 May 2026 - 07:14 AM,13.18,122.43,002,2.3,021km S 28° W of San Francisco (Quezon),021,S 28° W,San Francisco (Quezon)
