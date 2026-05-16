@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-16T22:10:00.000Z,16 May 2026 - 10:10 PM,08.36,125.89,007,1.9,013km N 46° E of La Paz (Agusan Del Sur),013,N 46° E,La Paz (Agusan Del Sur)
+2026-05-16T21:53:00.000Z,16 May 2026 - 09:53 PM,15.05,122.05,009,2.1,024km N 20° E of Burdeos (Quezon),024,N 20° E,Burdeos (Quezon)
 2026-05-16T20:21:00.000Z,16 May 2026 - 08:21 PM,12.16,121.45,006,2.1,021km S 32° E of Bulalacao (Oriental Mindoro),021,S 32° E,Bulalacao (Oriental Mindoro)
 2026-05-16T20:12:00.000Z,16 May 2026 - 08:12 PM,06.79,124.66,006,2.7,011km S 67° W of General Salipada K. Pendatun (Maguindanao Del Sur),011,S 67° W,General Salipada K. Pendatun (Maguindanao Del Sur)
 2026-05-16T20:11:00.000Z,16 May 2026 - 08:11 PM,12.17,121.26,011,1.7,019km S 27° W of Bulalacao (Oriental Mindoro),019,S 27° W,Bulalacao (Oriental Mindoro)
@@ -49,7 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-16T00:00:00.000Z,16 May 2026 - 12:00 AM,13.08,125.29,035,2.0,062km N 18° E of Palapag (Northern Samar),062,N 18° E,Palapag (Northern Samar)
 2026-05-15T23:59:00.000Z,15 May 2026 - 11:59 PM,15.48,121.27,005,2.3,008km N 69° W of Gabaldon (Nueva Ecija),008,N 69° W,Gabaldon (Nueva Ecija)
 2026-05-15T22:22:00.000Z,15 May 2026 - 10:22 PM,08.90,126.62,034,2.3,035km S 86° E of Cagwait (Surigao Del Sur),035,S 86° E,Cagwait (Surigao Del Sur)
-2026-05-15T21:40:00.000Z,15 May 2026 - 09:40 PM,12.43,124.56,091,2.0,011km S 01° E of Bobon (Northern Samar),011,S 01° E,Bobon (Northern Samar)
-2026-05-15T20:59:00.000Z,15 May 2026 - 08:59 PM,11.20,123.98,034,1.9,006km S 15° W of Daanbantayan (Cebu),006,S 15° W,Daanbantayan (Cebu)
-2026-05-15T20:21:00.000Z,15 May 2026 - 08:21 PM,08.65,126.63,028,2.0,040km S 66° E of Marihatag (Surigao Del Sur),040,S 66° E,Marihatag (Surigao Del Sur)
-2026-05-15T20:21:00.000Z,15 May 2026 - 08:21 PM,18.96,121.12,033,1.4,019km S 27° W of Dalupiri Island (Calayan) (Cagayan),019,S 27° W,Dalupiri Island (Calayan) (Cagayan)
