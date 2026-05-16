@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-16T11:31:00.000Z,16 May 2026 - 11:31 AM,17.06,121.29,048,2.1,005km S 14° E of Natonin (Mountain Province),005,S 14° E,Natonin (Mountain Province)
+2026-05-16T11:23:00.000Z,16 May 2026 - 11:23 AM,08.28,125.86,016,1.6,006km S 86° E of La Paz (Agusan Del Sur),006,S 86° E,La Paz (Agusan Del Sur)
+2026-05-16T11:14:00.000Z,16 May 2026 - 11:14 AM,07.18,126.76,015,2.0,024km S 81° E of Manay (Davao Oriental),024,S 81° E,Manay (Davao Oriental)
+2026-05-16T11:11:00.000Z,16 May 2026 - 11:11 AM,16.30,120.35,032,1.5,003km S 29° W of Agoo (La Union),003,S 29° W,Agoo (La Union)
+2026-05-16T10:53:00.000Z,16 May 2026 - 10:53 AM,12.15,123.95,004,2.7,002km N 82° E of Palanas (Masbate),002,N 82° E,Palanas (Masbate)
+2026-05-16T09:11:00.000Z,16 May 2026 - 09:11 AM,08.85,126.45,030,1.6,018km S 66° E of Cagwait (Surigao Del Sur),018,S 66° E,Cagwait (Surigao Del Sur)
 2026-05-16T08:12:00.000Z,16 May 2026 - 08:12 AM,15.05,122.09,010,2.6,027km N 30° E of Burdeos (Quezon),027,N 30° E,Burdeos (Quezon)
 2026-05-16T07:59:00.000Z,16 May 2026 - 07:59 AM,13.55,120.66,125,1.6,014km N 29° W of Abra De Ilog (Occidental Mindoro),014,N 29° W,Abra De Ilog (Occidental Mindoro)
 2026-05-16T06:51:00.000Z,16 May 2026 - 06:51 AM,12.24,121.47,006,2.0,017km S 55° E of Bulalacao (Oriental Mindoro),017,S 55° E,Bulalacao (Oriental Mindoro)
