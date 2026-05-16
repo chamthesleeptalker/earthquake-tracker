@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-05-14T06:01:00.000Z,14 May 2026 - 06:01 AM,19.07,121.26,10,5.5,007km S 55° E of Dalupiri Island (Calayan) (Cagayan),007,S 55° E,Dalupiri Island (Calayan) (Cagayan)
+2026-05-16T19:25:00.000Z,16 May 2026 - 07:25 PM,06.84,124.72,10,5.2,004km N 69° W of General Salipada K. Pendatun (Maguindanao),004,N 69° W,General Salipada K. Pendatun (Maguindanao)
 2026-05-14T06:10:00.000Z,14 May 2026 - 06:10 AM,19.02,121.31,10,4.6,014km S 49° E of Dalupiri Island (Calayan) (Cagayan),014,S 49° E,Dalupiri Island (Calayan) (Cagayan)
 2026-05-13T02:10:00.000Z,13 May 2026 - 02:10 AM,02.89,127.84,132,4.5,387km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),387,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-10T09:50:00.000Z,10 May 2026 - 09:50 AM,05.52,126.62,85,4.4,117km S 68° E of Jose Abad Santos (Davao Occidental),117,S 68° E,Jose Abad Santos (Davao Occidental)
@@ -8,4 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-12T16:53:00.000Z,12 May 2026 - 04:53 PM,04.85,127.81,39,4.2,267km S 64° E of Jose Abad Santos (Davao Occidental),267,S 64° E,Jose Abad Santos (Davao Occidental)
 2026-05-11T01:23:00.000Z,11 May 2026 - 01:23 AM,18.79,120.17,10,4.2,059km N 58° W of Burgos (Ilocos Norte),059,N 58° W,Burgos (Ilocos Norte)
 2026-05-11T15:54:00.000Z,11 May 2026 - 03:54 PM,07.98,126.12,14,4.0,008km S 45° E of Trento (Agusan Del Sur),008,S 45° E,Trento (Agusan Del Sur)
-2026-05-10T21:06:00.000Z,10 May 2026 - 09:06 PM,03.71,126.63,28,4.0,231km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),231,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
