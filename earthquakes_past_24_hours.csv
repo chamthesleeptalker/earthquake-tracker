@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-17T07:06:00.000Z,17 May 2026 - 07:06 AM,08.03,126.39,029,1.4,002km S 76° W of Lingig (Surigao Del Sur),002,S 76° W,Lingig (Surigao Del Sur)
+2026-05-17T07:03:00.000Z,17 May 2026 - 07:03 AM,13.54,120.14,033,1.6,023km S 30° W of Looc (Occidental Mindoro),023,S 30° W,Looc (Occidental Mindoro)
+2026-05-17T06:48:00.000Z,17 May 2026 - 06:48 AM,11.20,122.17,008,4.1,016km N 65° E of Laua-an (Antique),016,N 65° E,Laua-an (Antique)
 2026-05-17T05:14:00.000Z,17 May 2026 - 05:14 AM,14.78,122.61,013,1.8,031km N 73° E of Jomalig (Quezon),031,N 73° E,Jomalig (Quezon)
 2026-05-17T05:14:00.000Z,17 May 2026 - 05:14 AM,13.57,119.95,031,1.5,036km S 63° W of Looc (Occidental Mindoro),036,S 63° W,Looc (Occidental Mindoro)
 2026-05-17T04:26:00.000Z,17 May 2026 - 04:26 AM,12.64,124.78,007,2.6,014km N 14° E of Mondragon (Northern Samar),014,N 14° E,Mondragon (Northern Samar)
@@ -46,9 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-16T09:11:00.000Z,16 May 2026 - 09:11 AM,08.85,126.45,030,1.6,018km S 66° E of Cagwait (Surigao Del Sur),018,S 66° E,Cagwait (Surigao Del Sur)
 2026-05-16T08:12:00.000Z,16 May 2026 - 08:12 AM,15.05,122.09,010,2.6,027km N 30° E of Burdeos (Quezon),027,N 30° E,Burdeos (Quezon)
 2026-05-16T07:59:00.000Z,16 May 2026 - 07:59 AM,13.55,120.66,125,1.6,014km N 29° W of Abra De Ilog (Occidental Mindoro),014,N 29° W,Abra De Ilog (Occidental Mindoro)
-2026-05-16T06:51:00.000Z,16 May 2026 - 06:51 AM,12.24,121.47,006,2.0,017km S 55° E of Bulalacao (Oriental Mindoro),017,S 55° E,Bulalacao (Oriental Mindoro)
-2026-05-16T06:30:00.000Z,16 May 2026 - 06:30 AM,15.09,122.10,010,2.2,031km N 27° E of Burdeos (Quezon),031,N 27° E,Burdeos (Quezon)
-2026-05-16T06:05:00.000Z,16 May 2026 - 06:05 AM,08.53,125.87,003,2.4,010km S 36° W of Prosperidad (Agusan Del Sur),010,S 36° W,Prosperidad (Agusan Del Sur)
-2026-05-16T05:54:00.000Z,16 May 2026 - 05:54 AM,12.53,124.70,033,1.8,006km N 73° W of Mondragon (Northern Samar),006,N 73° W,Mondragon (Northern Samar)
-2026-05-16T05:39:00.000Z,16 May 2026 - 05:39 AM,20.71,121.65,021,3.3,030km S 47° W of Itbayat (Batanes),030,S 47° W,Itbayat (Batanes)
-2026-05-16T05:30:00.000Z,16 May 2026 - 05:30 AM,14.36,120.23,072,3.2,030km S 73° W of Mariveles (Bataan),030,S 73° W,Mariveles (Bataan)
