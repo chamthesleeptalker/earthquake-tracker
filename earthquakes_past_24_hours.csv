@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-16T13:22:00.000Z,16 May 2026 - 01:22 PM,19.08,121.02,003,1.8,019km S 78° W of Dalupiri Island (Calayan) (Cagayan),019,S 78° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-16T13:10:00.000Z,16 May 2026 - 01:10 PM,20.71,122.00,148,3.5,019km S 63° E of Itbayat (Batanes),019,S 63° E,Itbayat (Batanes)
 2026-05-16T11:31:00.000Z,16 May 2026 - 11:31 AM,17.06,121.29,048,2.1,005km S 14° E of Natonin (Mountain Province),005,S 14° E,Natonin (Mountain Province)
 2026-05-16T11:23:00.000Z,16 May 2026 - 11:23 AM,08.28,125.86,016,1.6,006km S 86° E of La Paz (Agusan Del Sur),006,S 86° E,La Paz (Agusan Del Sur)
 2026-05-16T11:14:00.000Z,16 May 2026 - 11:14 AM,07.18,126.76,015,2.0,024km S 81° E of Manay (Davao Oriental),024,S 81° E,Manay (Davao Oriental)
@@ -48,7 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-15T17:31:00.000Z,15 May 2026 - 05:31 PM,15.22,119.98,028,1.6,009km S 32° W of Botolan (Zambales),009,S 32° W,Botolan (Zambales)
 2026-05-15T16:50:00.000Z,15 May 2026 - 04:50 PM,19.18,121.18,025,2.1,009km N 21° W of Dalupiri Island (Calayan) (Cagayan),009,N 21° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-15T13:54:00.000Z,15 May 2026 - 01:54 PM,07.12,127.42,033,2.6,097km S 76° E of Caraga (Davao Oriental),097,S 76° E,Caraga (Davao Oriental)
-2026-05-15T12:32:00.000Z,15 May 2026 - 12:32 PM,08.67,126.19,022,1.5,009km S 34° W of San Agustin (Surigao Del Sur),009,S 34° W,San Agustin (Surigao Del Sur)
-2026-05-15T12:25:00.000Z,15 May 2026 - 12:25 PM,09.62,126.23,034,2.0,020km S 25° E of General Luna (Surigao Del Norte),020,S 25° E,General Luna (Surigao Del Norte)
-2026-05-15T12:15:00.000Z,15 May 2026 - 12:15 PM,15.05,122.06,016,1.5,025km N 24° E of Burdeos (Quezon),025,N 24° E,Burdeos (Quezon)
-2026-05-15T11:49:00.000Z,15 May 2026 - 11:49 AM,15.08,122.10,013,1.6,030km N 28° E of Burdeos (Quezon),030,N 28° E,Burdeos (Quezon)
