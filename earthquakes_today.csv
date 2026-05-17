@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-17T21:04:00.000Z,17 May 2026 - 09:04 PM,06.63,126.98,111,2.0,074km S 52° E of Tarragona (Davao Oriental),074,S 52° E,Tarragona (Davao Oriental)
+2026-05-17T20:54:00.000Z,17 May 2026 - 08:54 PM,09.20,126.80,011,2.0,062km N 66° E of Bayabas (Surigao Del Sur),062,N 66° E,Bayabas (Surigao Del Sur)
+2026-05-17T20:16:00.000Z,17 May 2026 - 08:16 PM,07.63,126.10,004,3.1,005km S 24° E of Compostela (Davao De Oro),005,S 24° E,Compostela (Davao De Oro)
+2026-05-17T19:58:00.000Z,17 May 2026 - 07:58 PM,09.14,126.77,005,2.1,056km N 71° E of Bayabas (Surigao Del Sur),056,N 71° E,Bayabas (Surigao Del Sur)
+2026-05-17T19:52:00.000Z,17 May 2026 - 07:52 PM,12.49,125.14,025,2.3,007km S 24° E of Palapag (Northern Samar),007,S 24° E,Palapag (Northern Samar)
+2026-05-17T19:46:00.000Z,17 May 2026 - 07:46 PM,07.83,123.28,032,1.6,006km N 83° E of Tigbao (Zamboanga Del Sur),006,N 83° E,Tigbao (Zamboanga Del Sur)
+2026-05-17T19:45:00.000Z,17 May 2026 - 07:45 PM,09.63,126.16,035,1.7,017km S 03° E of General Luna (Surigao Del Norte),017,S 03° E,General Luna (Surigao Del Norte)
 2026-05-17T19:09:00.000Z,17 May 2026 - 07:09 PM,18.31,121.00,033,1.9,008km N 42° W of Calanasan (Apayao),008,N 42° W,Calanasan (Apayao)
 2026-05-17T19:06:00.000Z,17 May 2026 - 07:06 PM,11.25,124.58,009,1.6,008km S 56° W of Capoocan (Leyte),008,S 56° W,Capoocan (Leyte)
 2026-05-17T19:06:00.000Z,17 May 2026 - 07:06 PM,07.73,124.23,024,1.8,004km S 42° E of Lumbaca-unayan (Lanao Del Sur),004,S 42° E,Lumbaca-unayan (Lanao Del Sur)
