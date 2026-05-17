@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-18T04:03:00.000Z,18 May 2026 - 04:03 AM,09.33,126.60,021,2.3,045km N 82° E of Cortes (Surigao Del Sur),045,N 82° E,Cortes (Surigao Del Sur)
 2026-05-18T03:49:00.000Z,18 May 2026 - 03:49 AM,14.33,120.26,066,1.9,027km S 64° W of Mariveles (Bataan),027,S 64° W,Mariveles (Bataan)
 2026-05-18T03:24:00.000Z,18 May 2026 - 03:24 AM,15.57,120.03,023,1.9,009km N 61° E of Masinloc (Zambales),009,N 61° E,Masinloc (Zambales)
 2026-05-18T03:16:00.000Z,18 May 2026 - 03:16 AM,09.62,126.18,034,1.6,018km S 09° E of General Luna (Surigao Del Norte),018,S 09° E,General Luna (Surigao Del Norte)
