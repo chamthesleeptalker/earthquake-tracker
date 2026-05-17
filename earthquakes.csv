@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-17T13:57:00.000Z,17 May 2026 - 01:57 PM,08.27,126.41,023,2.6,012km N 58° E of City Of Bislig (Surigao Del Sur),012,N 58° E,City Of Bislig (Surigao Del Sur)
+2026-05-17T13:37:00.000Z,17 May 2026 - 01:37 PM,05.79,127.20,033,3.0,157km S 52° E of Governor Generoso (Davao Oriental),157,S 52° E,Governor Generoso (Davao Oriental)
+2026-05-17T13:22:00.000Z,17 May 2026 - 01:22 PM,13.12,121.08,052,1.8,023km S 76° W of Victoria (Oriental Mindoro),023,S 76° W,Victoria (Oriental Mindoro)
+2026-05-17T12:01:00.000Z,17 May 2026 - 12:01 PM,20.24,121.75,133,2.5,017km S 52° W of Sabtang (Batanes),017,S 52° W,Sabtang (Batanes)
+2026-05-17T11:17:00.000Z,17 May 2026 - 11:17 AM,13.70,121.68,002,2.6,028km S 31° W of Padre Burgos (Quezon),028,S 31° W,Padre Burgos (Quezon)
+2026-05-17T11:09:00.000Z,17 May 2026 - 11:09 AM,15.45,121.29,016,1.5,005km S 81° W of Gabaldon (Nueva Ecija),005,S 81° W,Gabaldon (Nueva Ecija)
+2026-05-17T10:56:00.000Z,17 May 2026 - 10:56 AM,17.44,121.78,035,1.7,002km N 34° E of Cabagan (Isabela),002,N 34° E,Cabagan (Isabela)
 2026-05-17T09:19:00.000Z,17 May 2026 - 09:19 AM,08.77,126.53,028,2.0,025km S 83° E of Marihatag (Surigao Del Sur),025,S 83° E,Marihatag (Surigao Del Sur)
 2026-05-17T07:06:00.000Z,17 May 2026 - 07:06 AM,08.03,126.39,029,1.4,002km S 76° W of Lingig (Surigao Del Sur),002,S 76° W,Lingig (Surigao Del Sur)
 2026-05-17T07:03:00.000Z,17 May 2026 - 07:03 AM,13.54,120.14,033,1.6,023km S 30° W of Looc (Occidental Mindoro),023,S 30° W,Looc (Occidental Mindoro)
