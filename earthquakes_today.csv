@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-17T14:49:00.000Z,17 May 2026 - 02:49 PM,06.45,125.84,093,2.0,026km N 80° E of Malita (Davao Occidental),026,N 80° E,Malita (Davao Occidental)
+2026-05-17T14:22:00.000Z,17 May 2026 - 02:22 PM,07.32,126.70,015,2.5,015km S 85° E of Caraga (Davao Oriental),015,S 85° E,Caraga (Davao Oriental)
 2026-05-17T13:57:00.000Z,17 May 2026 - 01:57 PM,08.27,126.41,023,2.6,012km N 58° E of City Of Bislig (Surigao Del Sur),012,N 58° E,City Of Bislig (Surigao Del Sur)
 2026-05-17T13:37:00.000Z,17 May 2026 - 01:37 PM,05.79,127.20,033,3.0,157km S 52° E of Governor Generoso (Davao Oriental),157,S 52° E,Governor Generoso (Davao Oriental)
 2026-05-17T13:22:00.000Z,17 May 2026 - 01:22 PM,13.12,121.08,052,1.8,023km S 76° W of Victoria (Oriental Mindoro),023,S 76° W,Victoria (Oriental Mindoro)
