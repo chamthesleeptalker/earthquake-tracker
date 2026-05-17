@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-17T22:25:00.000Z,17 May 2026 - 10:25 PM,06.25,124.08,034,2.0,034km S 05° E of Kalamansig (Sultan Kudarat),034,S 05° E,Kalamansig (Sultan Kudarat)
+2026-05-17T22:18:00.000Z,17 May 2026 - 10:18 PM,05.59,126.70,044,3.2,122km S 73° E of Jose Abad Santos (Davao Occidental),122,S 73° E,Jose Abad Santos (Davao Occidental)
+2026-05-17T22:11:00.000Z,17 May 2026 - 10:11 PM,16.30,120.52,032,1.3,006km S 72° E of Pugo (La Union),006,S 72° E,Pugo (La Union)
+2026-05-17T21:39:00.000Z,17 May 2026 - 09:39 PM,07.34,126.91,031,1.8,043km N 70° E of Manay (Davao Oriental),043,N 70° E,Manay (Davao Oriental)
+2026-05-17T21:38:00.000Z,17 May 2026 - 09:38 PM,12.94,123.10,001,2.5,017km N 76° W of Claveria (Masbate),017,N 76° W,Claveria (Masbate)
+2026-05-17T21:37:00.000Z,17 May 2026 - 09:37 PM,12.91,123.25,024,1.8,001km N 32° E of Claveria (Masbate),001,N 32° E,Claveria (Masbate)
+2026-05-17T21:36:00.000Z,17 May 2026 - 09:36 PM,07.65,124.38,005,2.8,013km S 36° E of Butig (Lanao Del Sur),013,S 36° E,Butig (Lanao Del Sur)
 2026-05-17T21:04:00.000Z,17 May 2026 - 09:04 PM,06.63,126.98,111,2.0,074km S 52° E of Tarragona (Davao Oriental),074,S 52° E,Tarragona (Davao Oriental)
 2026-05-17T20:54:00.000Z,17 May 2026 - 08:54 PM,09.20,126.80,011,2.0,062km N 66° E of Bayabas (Surigao Del Sur),062,N 66° E,Bayabas (Surigao Del Sur)
 2026-05-17T20:16:00.000Z,17 May 2026 - 08:16 PM,07.63,126.10,004,3.1,005km S 24° E of Compostela (Davao De Oro),005,S 24° E,Compostela (Davao De Oro)
@@ -52,5 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-16T23:34:00.000Z,16 May 2026 - 11:34 PM,19.54,121.99,008,1.8,009km N 69° E of Babuyan Island (Calayan) (Cagayan),009,N 69° E,Babuyan Island (Calayan) (Cagayan)
 2026-05-16T23:32:00.000Z,16 May 2026 - 11:32 PM,07.15,126.81,025,2.5,030km S 78° E of Manay (Davao Oriental),030,S 78° E,Manay (Davao Oriental)
 2026-05-16T22:53:00.000Z,16 May 2026 - 10:53 PM,05.26,125.59,142,2.9,025km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-05-16T22:10:00.000Z,16 May 2026 - 10:10 PM,08.36,125.89,007,1.9,013km N 46° E of La Paz (Agusan Del Sur),013,N 46° E,La Paz (Agusan Del Sur)
-2026-05-16T21:53:00.000Z,16 May 2026 - 09:53 PM,15.05,122.05,009,2.1,024km N 20° E of Burdeos (Quezon),024,N 20° E,Burdeos (Quezon)
