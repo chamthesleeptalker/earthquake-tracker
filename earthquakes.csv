@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-18T00:51:00.000Z,18 May 2026 - 12:51 AM,11.23,126.17,006,2.3,054km N 66° E of Guiuan (Eastern Samar),054,N 66° E,Guiuan (Eastern Samar)
+2026-05-18T00:48:00.000Z,18 May 2026 - 12:48 AM,07.91,126.19,032,1.4,018km N 57° E of Monkayo (Davao De Oro),018,N 57° E,Monkayo (Davao De Oro)
+2026-05-18T00:43:00.000Z,18 May 2026 - 12:43 AM,12.35,124.77,033,1.3,009km N 73° W of Silvino Lobos (Northern Samar),009,N 73° W,Silvino Lobos (Northern Samar)
+2026-05-18T00:34:00.000Z,18 May 2026 - 12:34 AM,15.00,121.99,013,1.3,018km N 07° E of Burdeos (Quezon),018,N 07° E,Burdeos (Quezon)
+2026-05-18T00:26:00.000Z,18 May 2026 - 12:26 AM,15.03,121.99,011,2.0,020km N 08° E of Burdeos (Quezon),020,N 08° E,Burdeos (Quezon)
+2026-05-18T00:21:00.000Z,18 May 2026 - 12:21 AM,14.81,121.97,025,1.4,004km S 03° E of Burdeos (Quezon),004,S 03° E,Burdeos (Quezon)
+2026-05-17T23:59:00.000Z,17 May 2026 - 11:59 PM,14.76,123.39,001,2.3,057km N 57° E of Tinaga Island (Vinzons) (Camarines Norte),057,N 57° E,Tinaga Island (Vinzons) (Camarines Norte)
+2026-05-17T23:54:00.000Z,17 May 2026 - 11:54 PM,06.24,127.06,018,2.9,112km S 37° E of Tarragona (Davao Oriental),112,S 37° E,Tarragona (Davao Oriental)
+2026-05-17T23:50:00.000Z,17 May 2026 - 11:50 PM,06.48,126.50,026,2.3,051km S 68° E of Governor Generoso (Davao Oriental),051,S 68° E,Governor Generoso (Davao Oriental)
 2026-05-17T23:42:00.000Z,17 May 2026 - 11:42 PM,14.30,124.24,026,1.8,030km N 14° E of Pandan (Catanduanes),030,N 14° E,Pandan (Catanduanes)
 2026-05-17T23:24:00.000Z,17 May 2026 - 11:24 PM,14.83,121.97,026,1.4,002km S 10° E of Burdeos (Quezon),002,S 10° E,Burdeos (Quezon)
 2026-05-17T23:18:00.000Z,17 May 2026 - 11:18 PM,06.13,126.95,019,1.8,114km S 59° E of Governor Generoso (Davao Oriental),114,S 59° E,Governor Generoso (Davao Oriental)
