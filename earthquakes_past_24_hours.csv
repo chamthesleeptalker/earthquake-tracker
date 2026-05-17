@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-18T03:49:00.000Z,18 May 2026 - 03:49 AM,14.33,120.26,066,1.9,027km S 64° W of Mariveles (Bataan),027,S 64° W,Mariveles (Bataan)
+2026-05-18T03:24:00.000Z,18 May 2026 - 03:24 AM,15.57,120.03,023,1.9,009km N 61° E of Masinloc (Zambales),009,N 61° E,Masinloc (Zambales)
+2026-05-18T03:16:00.000Z,18 May 2026 - 03:16 AM,09.62,126.18,034,1.6,018km S 09° E of General Luna (Surigao Del Norte),018,S 09° E,General Luna (Surigao Del Norte)
+2026-05-18T03:05:00.000Z,18 May 2026 - 03:05 AM,09.98,123.20,023,1.9,000km N 26° W of Jimalalud (Negros Oriental),000,N 26° W,Jimalalud (Negros Oriental)
 2026-05-18T02:00:00.000Z,18 May 2026 - 02:00 AM,07.25,123.37,030,1.6,024km S 11° W of Tabina (Zamboanga Del Sur),024,S 11° W,Tabina (Zamboanga Del Sur)
 2026-05-18T01:56:00.000Z,18 May 2026 - 01:56 AM,07.98,126.78,013,1.8,041km S 81° E of Lingig (Surigao Del Sur),041,S 81° E,Lingig (Surigao Del Sur)
 2026-05-18T01:51:00.000Z,18 May 2026 - 01:51 AM,14.95,121.92,022,1.4,014km N 24° W of Burdeos (Quezon),014,N 24° W,Burdeos (Quezon)
@@ -71,8 +75,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-17T05:14:00.000Z,17 May 2026 - 05:14 AM,13.57,119.95,031,1.5,036km S 63° W of Looc (Occidental Mindoro),036,S 63° W,Looc (Occidental Mindoro)
 2026-05-17T04:26:00.000Z,17 May 2026 - 04:26 AM,12.64,124.78,007,2.6,014km N 14° E of Mondragon (Northern Samar),014,N 14° E,Mondragon (Northern Samar)
 2026-05-17T04:02:00.000Z,17 May 2026 - 04:02 AM,06.49,126.17,132,2.9,022km S 31° E of Governor Generoso (Davao Oriental),022,S 31° E,Governor Generoso (Davao Oriental)
-2026-05-17T02:58:00.000Z,17 May 2026 - 02:58 AM,12.96,120.87,034,1.1,017km N 36° E of Sablayan (Occidental Mindoro),017,N 36° E,Sablayan (Occidental Mindoro)
-2026-05-17T02:41:00.000Z,17 May 2026 - 02:41 AM,15.04,122.03,011,1.8,022km N 18° E of Burdeos (Quezon),022,N 18° E,Burdeos (Quezon)
-2026-05-17T02:34:00.000Z,17 May 2026 - 02:34 AM,14.74,119.06,033,2.9,113km S 78° W of San Antonio (Zambales),113,S 78° W,San Antonio (Zambales)
-2026-05-17T02:05:00.000Z,17 May 2026 - 02:05 AM,12.04,125.67,022,2.8,020km S 89° E of Dolores (Eastern Samar),020,S 89° E,Dolores (Eastern Samar)
-2026-05-17T02:01:00.000Z,17 May 2026 - 02:01 AM,08.90,126.38,034,1.7,008km S 75° E of Cagwait (Surigao Del Sur),008,S 75° E,Cagwait (Surigao Del Sur)
