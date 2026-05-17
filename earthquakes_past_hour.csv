@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-17T14:49:00.000Z,17 May 2026 - 02:49 PM,06.45,125.84,093,2.0,026km N 80° E of Malita (Davao Occidental),026,N 80° E,Malita (Davao Occidental)
-2026-05-17T14:22:00.000Z,17 May 2026 - 02:22 PM,07.32,126.70,015,2.5,015km S 85° E of Caraga (Davao Oriental),015,S 85° E,Caraga (Davao Oriental)
-2026-05-17T13:57:00.000Z,17 May 2026 - 01:57 PM,08.27,126.41,023,2.6,012km N 58° E of City Of Bislig (Surigao Del Sur),012,N 58° E,City Of Bislig (Surigao Del Sur)
+2026-05-17T18:10:00.000Z,17 May 2026 - 06:10 PM,08.97,126.46,029,1.7,018km N 71° E of Cagwait (Surigao Del Sur),018,N 71° E,Cagwait (Surigao Del Sur)
+2026-05-17T17:36:00.000Z,17 May 2026 - 05:36 PM,10.97,124.04,029,1.7,010km S 37° E of City Of Bogo (Cebu),010,S 37° E,City Of Bogo (Cebu)
+2026-05-17T17:25:00.000Z,17 May 2026 - 05:25 PM,07.88,123.26,032,1.4,007km N 34° E of Tigbao (Zamboanga Del Sur),007,N 34° E,Tigbao (Zamboanga Del Sur)
+2026-05-17T17:22:00.000Z,17 May 2026 - 05:22 PM,15.00,122.00,003,1.9,018km N 12° E of Burdeos (Quezon),018,N 12° E,Burdeos (Quezon)
