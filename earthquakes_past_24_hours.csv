@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-18T12:41:00.000Z,18 May 2026 - 12:41 PM,10.01,126.12,008,2.7,005km S 85° E of Burgos (Surigao Del Norte),005,S 85° E,Burgos (Surigao Del Norte)
+2026-05-18T12:27:00.000Z,18 May 2026 - 12:27 PM,06.51,126.08,010,2.7,015km S 02° E of Governor Generoso (Davao Oriental),015,S 02° E,Governor Generoso (Davao Oriental)
+2026-05-18T12:10:00.000Z,18 May 2026 - 12:10 PM,07.91,124.48,004,2.3,013km S 68° E of Buadiposo-buntong (Lanao Del Sur),013,S 68° E,Buadiposo-buntong (Lanao Del Sur)
+2026-05-18T11:38:00.000Z,18 May 2026 - 11:38 AM,14.79,119.32,005,3.5,085km S 78° W of San Antonio (Zambales),085,S 78° W,San Antonio (Zambales)
+2026-05-18T09:26:00.000Z,18 May 2026 - 09:26 AM,09.64,126.22,034,1.4,017km S 25° E of General Luna (Surigao Del Norte),017,S 25° E,General Luna (Surigao Del Norte)
 2026-05-18T08:43:00.000Z,18 May 2026 - 08:43 AM,13.66,120.11,021,1.4,017km S 67° W of Looc (Occidental Mindoro),017,S 67° W,Looc (Occidental Mindoro)
 2026-05-18T07:56:00.000Z,18 May 2026 - 07:56 AM,18.61,120.97,030,1.6,006km N 21° W of Santa Praxedes (Cagayan),006,N 21° W,Santa Praxedes (Cagayan)
 2026-05-18T07:49:00.000Z,18 May 2026 - 07:49 AM,10.81,123.81,012,2.1,032km S 35° W of City Of Bogo (Cebu),032,S 35° W,City Of Bogo (Cebu)
@@ -73,8 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-17T13:57:00.000Z,17 May 2026 - 01:57 PM,08.27,126.41,023,2.6,012km N 58° E of City Of Bislig (Surigao Del Sur),012,N 58° E,City Of Bislig (Surigao Del Sur)
 2026-05-17T13:37:00.000Z,17 May 2026 - 01:37 PM,05.79,127.20,033,3.0,157km S 52° E of Governor Generoso (Davao Oriental),157,S 52° E,Governor Generoso (Davao Oriental)
 2026-05-17T13:22:00.000Z,17 May 2026 - 01:22 PM,13.12,121.08,052,1.8,023km S 76° W of Victoria (Oriental Mindoro),023,S 76° W,Victoria (Oriental Mindoro)
-2026-05-17T12:01:00.000Z,17 May 2026 - 12:01 PM,20.24,121.75,133,2.5,017km S 52° W of Sabtang (Batanes),017,S 52° W,Sabtang (Batanes)
-2026-05-17T11:17:00.000Z,17 May 2026 - 11:17 AM,13.70,121.68,002,2.6,028km S 31° W of Padre Burgos (Quezon),028,S 31° W,Padre Burgos (Quezon)
-2026-05-17T11:09:00.000Z,17 May 2026 - 11:09 AM,15.45,121.29,016,1.5,005km S 81° W of Gabaldon (Nueva Ecija),005,S 81° W,Gabaldon (Nueva Ecija)
-2026-05-17T10:56:00.000Z,17 May 2026 - 10:56 AM,17.44,121.78,035,1.7,002km N 34° E of Cabagan (Isabela),002,N 34° E,Cabagan (Isabela)
-2026-05-17T09:19:00.000Z,17 May 2026 - 09:19 AM,08.77,126.53,028,2.0,025km S 83° E of Marihatag (Surigao Del Sur),025,S 83° E,Marihatag (Surigao Del Sur)
