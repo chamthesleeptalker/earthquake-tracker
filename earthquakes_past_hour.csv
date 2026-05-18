@@ -1,8 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-19T02:54:00.000Z,19 May 2026 - 02:54 AM,14.72,123.34,009,1.6,050km N 58° E of Tinaga Island (Vinzons) (Camarines Norte),050,N 58° E,Tinaga Island (Vinzons) (Camarines Norte)
-2026-05-19T02:51:00.000Z,19 May 2026 - 02:51 AM,07.89,123.32,033,1.6,010km N 29° W of Dumalinao (Zamboanga Del Sur),010,N 29° W,Dumalinao (Zamboanga Del Sur)
-2026-05-19T02:39:00.000Z,19 May 2026 - 02:39 AM,09.52,126.17,033,1.5,025km S 64° E of Socorro (Surigao Del Norte),025,S 64° E,Socorro (Surigao Del Norte)
-2026-05-19T02:28:00.000Z,19 May 2026 - 02:28 AM,10.03,126.09,023,2.4,003km N 55° E of Burgos (Surigao Del Norte),003,N 55° E,Burgos (Surigao Del Norte)
-2026-05-19T02:25:00.000Z,19 May 2026 - 02:25 AM,10.04,126.16,015,3.4,009km N 75° E of Burgos (Surigao Del Norte),009,N 75° E,Burgos (Surigao Del Norte)
-2026-05-19T02:05:00.000Z,19 May 2026 - 02:05 AM,05.85,127.26,010,4.8,158km S 55° E of Governor Generoso (Davao Oriental),158,S 55° E,Governor Generoso (Davao Oriental)
-2026-05-19T01:59:00.000Z,19 May 2026 - 01:59 AM,11.78,125.38,036,1.9,009km N 72° W of San Julian (Eastern Samar),009,N 72° W,San Julian (Eastern Samar)
+2026-05-19T04:14:00.000Z,19 May 2026 - 04:14 AM,08.88,126.47,026,1.5,019km S 78° E of Cagwait (Surigao Del Sur),019,S 78° E,Cagwait (Surigao Del Sur)
+2026-05-19T04:00:00.000Z,19 May 2026 - 04:00 AM,07.88,123.30,033,1.4,010km N 44° W of Dumalinao (Zamboanga Del Sur),010,N 44° W,Dumalinao (Zamboanga Del Sur)
+2026-05-19T03:51:00.000Z,19 May 2026 - 03:51 AM,11.22,123.97,006,2.6,005km S 36° W of Daanbantayan (Cebu),005,S 36° W,Daanbantayan (Cebu)
+2026-05-19T03:46:00.000Z,19 May 2026 - 03:46 AM,11.17,123.97,012,1.9,013km N 04° W of City Of Bogo (Cebu),013,N 04° W,City Of Bogo (Cebu)
