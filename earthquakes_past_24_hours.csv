@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-19T07:15:00.000Z,19 May 2026 - 07:15 AM,08.96,126.33,032,1.6,006km N 39° E of Cagwait (Surigao Del Sur),006,N 39° E,Cagwait (Surigao Del Sur)
 2026-05-19T05:27:00.000Z,19 May 2026 - 05:27 AM,11.10,124.07,003,2.3,011km N 58° E of City Of Bogo (Cebu),011,N 58° E,City Of Bogo (Cebu)
 2026-05-19T05:24:00.000Z,19 May 2026 - 05:24 AM,09.68,125.59,017,2.3,002km S 09° E of Taganaan (Surigao Del Norte),002,S 09° E,Taganaan (Surigao Del Norte)
 2026-05-19T04:14:00.000Z,19 May 2026 - 04:14 AM,08.88,126.47,026,1.5,019km S 78° E of Cagwait (Surigao Del Sur),019,S 78° E,Cagwait (Surigao Del Sur)
@@ -56,5 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-18T07:45:00.000Z,18 May 2026 - 07:45 AM,10.80,123.74,007,1.9,012km N 49° W of Tuburan (Cebu),012,N 49° W,Tuburan (Cebu)
 2026-05-18T07:39:00.000Z,18 May 2026 - 07:39 AM,12.07,125.51,032,2.1,005km N 39° E of Dolores (Eastern Samar),005,N 39° E,Dolores (Eastern Samar)
 2026-05-18T07:33:00.000Z,18 May 2026 - 07:33 AM,11.11,124.06,035,1.6,011km N 50° E of City Of Bogo (Cebu),011,N 50° E,City Of Bogo (Cebu)
-2026-05-18T06:40:00.000Z,18 May 2026 - 06:40 AM,07.26,123.43,017,2.5,022km S 06° E of Tabina (Zamboanga Del Sur),022,S 06° E,Tabina (Zamboanga Del Sur)
-2026-05-18T06:15:00.000Z,18 May 2026 - 06:15 AM,11.21,124.14,005,2.1,024km N 44° E of City Of Bogo (Cebu),024,N 44° E,City Of Bogo (Cebu)
