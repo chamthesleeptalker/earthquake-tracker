@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-18T08:43:00.000Z,18 May 2026 - 08:43 AM,13.66,120.11,021,1.4,017km S 67° W of Looc (Occidental Mindoro),017,S 67° W,Looc (Occidental Mindoro)
+2026-05-18T07:56:00.000Z,18 May 2026 - 07:56 AM,18.61,120.97,030,1.6,006km N 21° W of Santa Praxedes (Cagayan),006,N 21° W,Santa Praxedes (Cagayan)
+2026-05-18T07:49:00.000Z,18 May 2026 - 07:49 AM,10.81,123.81,012,2.1,032km S 35° W of City Of Bogo (Cebu),032,S 35° W,City Of Bogo (Cebu)
+2026-05-18T07:46:00.000Z,18 May 2026 - 07:46 AM,10.81,123.76,009,1.7,011km N 36° W of Tuburan (Cebu),011,N 36° W,Tuburan (Cebu)
+2026-05-18T07:45:00.000Z,18 May 2026 - 07:45 AM,10.80,123.74,007,1.9,012km N 49° W of Tuburan (Cebu),012,N 49° W,Tuburan (Cebu)
+2026-05-18T07:39:00.000Z,18 May 2026 - 07:39 AM,12.07,125.51,032,2.1,005km N 39° E of Dolores (Eastern Samar),005,N 39° E,Dolores (Eastern Samar)
+2026-05-18T07:33:00.000Z,18 May 2026 - 07:33 AM,11.11,124.06,035,1.6,011km N 50° E of City Of Bogo (Cebu),011,N 50° E,City Of Bogo (Cebu)
 2026-05-18T06:40:00.000Z,18 May 2026 - 06:40 AM,07.26,123.43,017,2.5,022km S 06° E of Tabina (Zamboanga Del Sur),022,S 06° E,Tabina (Zamboanga Del Sur)
 2026-05-18T06:15:00.000Z,18 May 2026 - 06:15 AM,11.21,124.14,005,2.1,024km N 44° E of City Of Bogo (Cebu),024,N 44° E,City Of Bogo (Cebu)
 2026-05-18T04:03:00.000Z,18 May 2026 - 04:03 AM,09.33,126.60,021,2.3,045km N 82° E of Cortes (Surigao Del Sur),045,N 82° E,Cortes (Surigao Del Sur)
@@ -71,6 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-17T11:09:00.000Z,17 May 2026 - 11:09 AM,15.45,121.29,016,1.5,005km S 81° W of Gabaldon (Nueva Ecija),005,S 81° W,Gabaldon (Nueva Ecija)
 2026-05-17T10:56:00.000Z,17 May 2026 - 10:56 AM,17.44,121.78,035,1.7,002km N 34° E of Cabagan (Isabela),002,N 34° E,Cabagan (Isabela)
 2026-05-17T09:19:00.000Z,17 May 2026 - 09:19 AM,08.77,126.53,028,2.0,025km S 83° E of Marihatag (Surigao Del Sur),025,S 83° E,Marihatag (Surigao Del Sur)
-2026-05-17T07:06:00.000Z,17 May 2026 - 07:06 AM,08.03,126.39,029,1.4,002km S 76° W of Lingig (Surigao Del Sur),002,S 76° W,Lingig (Surigao Del Sur)
-2026-05-17T07:03:00.000Z,17 May 2026 - 07:03 AM,13.54,120.14,033,1.6,023km S 30° W of Looc (Occidental Mindoro),023,S 30° W,Looc (Occidental Mindoro)
-2026-05-17T06:48:00.000Z,17 May 2026 - 06:48 AM,11.20,122.17,008,4.1,016km N 65° E of Laua-an (Antique),016,N 65° E,Laua-an (Antique)
