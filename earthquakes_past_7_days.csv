@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-20T05:48:00.000Z,20 May 2026 - 05:48 AM,09.24,125.73,024,2.4,019km S 82° E of Santiago (Agusan Del Norte),019,S 82° E,Santiago (Agusan Del Norte)
 2026-05-20T04:29:00.000Z,20 May 2026 - 04:29 AM,06.09,126.37,139,3.1,070km S 28° E of Governor Generoso (Davao Oriental),070,S 28° E,Governor Generoso (Davao Oriental)
 2026-05-20T04:27:00.000Z,20 May 2026 - 04:27 AM,12.23,120.78,035,1.6,033km S 38° W of Rizal (Occidental Mindoro),033,S 38° W,Rizal (Occidental Mindoro)
 2026-05-20T03:57:00.000Z,20 May 2026 - 03:57 AM,09.32,122.39,030,3.4,029km S 70° W of Basay (Negros Oriental),029,S 70° W,Basay (Negros Oriental)
@@ -421,8 +422,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-13T08:57:00.000Z,13 May 2026 - 08:57 AM,07.47,126.76,035,2.4,025km S 61° E of Baganga (Davao Oriental),025,S 61° E,Baganga (Davao Oriental)
 2026-05-13T07:12:00.000Z,13 May 2026 - 07:12 AM,17.92,120.56,033,1.5,005km S 40° E of Pinili (Ilocos Norte),005,S 40° E,Pinili (Ilocos Norte)
 2026-05-13T07:10:00.000Z,13 May 2026 - 07:10 AM,04.23,126.40,004,4.2,170km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),170,S 40° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-05-13T05:39:00.000Z,13 May 2026 - 05:39 AM,12.82,124.95,019,2.1,028km N 13° W of Laoang (Northern Samar),028,N 13° W,Laoang (Northern Samar)
-2026-05-13T05:29:00.000Z,13 May 2026 - 05:29 AM,14.03,120.52,111,1.4,014km S 68° W of Nasugbu (Batangas),014,S 68° W,Nasugbu (Batangas)
-2026-05-13T05:13:00.000Z,13 May 2026 - 05:13 AM,13.64,120.31,032,1.5,011km S 33° E of Looc (Occidental Mindoro),011,S 33° E,Looc (Occidental Mindoro)
-2026-05-13T04:42:00.000Z,13 May 2026 - 04:42 AM,12.87,121.63,032,2.0,011km S 62° W of Concepcion (Romblon),011,S 62° W,Concepcion (Romblon)
-2026-05-13T04:36:00.000Z,13 May 2026 - 04:36 AM,13.65,120.58,053,1.4,021km S 14° W of Calatagan (Batangas),021,S 14° W,Calatagan (Batangas)
