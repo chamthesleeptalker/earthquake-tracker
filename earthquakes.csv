@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-20T04:29:00.000Z,20 May 2026 - 04:29 AM,06.09,126.37,139,3.1,070km S 28° E of Governor Generoso (Davao Oriental),070,S 28° E,Governor Generoso (Davao Oriental)
+2026-05-20T04:27:00.000Z,20 May 2026 - 04:27 AM,12.23,120.78,035,1.6,033km S 38° W of Rizal (Occidental Mindoro),033,S 38° W,Rizal (Occidental Mindoro)
+2026-05-20T03:57:00.000Z,20 May 2026 - 03:57 AM,09.32,122.39,030,3.4,029km S 70° W of Basay (Negros Oriental),029,S 70° W,Basay (Negros Oriental)
+2026-05-20T03:35:00.000Z,20 May 2026 - 03:35 AM,09.68,126.35,019,2.4,025km S 61° E of General Luna (Surigao Del Norte),025,S 61° E,General Luna (Surigao Del Norte)
+2026-05-20T03:06:00.000Z,20 May 2026 - 03:06 AM,06.87,127.16,007,2.8,078km S 61° E of Manay (Davao Oriental),078,S 61° E,Manay (Davao Oriental)
+2026-05-20T03:03:00.000Z,20 May 2026 - 03:03 AM,14.66,121.91,024,1.6,021km S 17° W of Burdeos (Quezon),021,S 17° W,Burdeos (Quezon)
+2026-05-20T03:02:00.000Z,20 May 2026 - 03:02 AM,14.96,123.06,033,1.8,055km N 13° E of Tinaga Island (Vinzons) (Camarines Norte),055,N 13° E,Tinaga Island (Vinzons) (Camarines Norte)
+2026-05-20T02:51:00.000Z,20 May 2026 - 02:51 AM,19.14,121.27,024,1.8,007km N 63° E of Dalupiri Island (Calayan) (Cagayan),007,N 63° E,Dalupiri Island (Calayan) (Cagayan)
 2026-05-20T02:43:00.000Z,20 May 2026 - 02:43 AM,05.54,127.46,012,3.1,197km S 51° E of Governor Generoso (Davao Oriental),197,S 51° E,Governor Generoso (Davao Oriental)
 2026-05-20T02:30:00.000Z,20 May 2026 - 02:30 AM,13.26,120.69,017,1.5,011km N 73° E of Mamburao (Occidental Mindoro),011,N 73° E,Mamburao (Occidental Mindoro)
 2026-05-20T01:09:00.000Z,20 May 2026 - 01:09 AM,19.20,121.26,028,2.9,012km N 27° E of Dalupiri Island (Calayan) (Cagayan),012,N 27° E,Dalupiri Island (Calayan) (Cagayan)
