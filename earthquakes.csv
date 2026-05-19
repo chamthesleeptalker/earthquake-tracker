@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-19T18:20:00.000Z,19 May 2026 - 06:20 PM,07.87,126.09,033,1.5,006km N 37° E of Monkayo (Davao De Oro),006,N 37° E,Monkayo (Davao De Oro)
+2026-05-19T18:15:00.000Z,19 May 2026 - 06:15 PM,13.81,121.57,033,1.6,019km S 84° E of San Juan (Batangas),019,S 84° E,San Juan (Batangas)
+2026-05-19T18:06:00.000Z,19 May 2026 - 06:06 PM,13.37,120.74,061,2.1,008km S 07° E of Abra De Ilog (Occidental Mindoro),008,S 07° E,Abra De Ilog (Occidental Mindoro)
+2026-05-19T18:03:00.000Z,19 May 2026 - 06:03 PM,09.43,126.04,032,1.4,013km N 34° E of Cantilan (Surigao Del Sur),013,N 34° E,Cantilan (Surigao Del Sur)
+2026-05-19T18:03:00.000Z,19 May 2026 - 06:03 PM,15.04,119.45,004,2.5,065km S 61° W of Iba (Zambales),065,S 61° W,Iba (Zambales)
+2026-05-19T17:58:00.000Z,19 May 2026 - 05:58 PM,18.20,121.41,089,1.6,002km S 33° W of Flora (Apayao),002,S 33° W,Flora (Apayao)
+2026-05-19T17:36:00.000Z,19 May 2026 - 05:36 PM,06.51,126.25,019,2.8,025km S 52° E of Governor Generoso (Davao Oriental),025,S 52° E,Governor Generoso (Davao Oriental)
+2026-05-19T15:39:00.000Z,19 May 2026 - 03:39 PM,19.22,121.13,027,3.3,015km N 32° W of Dalupiri Island (Calayan) (Cagayan),015,N 32° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-19T14:04:00.000Z,19 May 2026 - 02:04 PM,17.13,120.98,029,1.4,005km N 04° E of Bontoc (Mountain Province),005,N 04° E,Bontoc (Mountain Province)
 2026-05-19T13:41:00.000Z,19 May 2026 - 01:41 PM,12.77,124.69,054,2.4,029km N 13° W of Mondragon (Northern Samar),029,N 13° W,Mondragon (Northern Samar)
 2026-05-19T13:18:00.000Z,19 May 2026 - 01:18 PM,07.86,126.95,017,2.5,053km N 53° E of Baganga (Davao Oriental),053,N 53° E,Baganga (Davao Oriental)
