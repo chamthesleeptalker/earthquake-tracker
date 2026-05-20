@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-20T13:57:00.000Z,20 May 2026 - 01:57 PM,09.75,126.53,033,1.4,041km S 86° E of General Luna (Surigao Del Norte),041,S 86° E,General Luna (Surigao Del Norte)
+2026-05-20T12:14:00.000Z,20 May 2026 - 12:14 PM,05.78,125.91,139,2.4,032km S 64° E of Jose Abad Santos (Davao Occidental),032,S 64° E,Jose Abad Santos (Davao Occidental)
+2026-05-20T12:10:00.000Z,20 May 2026 - 12:10 PM,09.92,126.08,033,1.7,001km S 18° W of San Isidro (Surigao Del Norte),001,S 18° W,San Isidro (Surigao Del Norte)
+2026-05-20T11:28:00.000Z,20 May 2026 - 11:28 AM,09.80,124.06,012,2.0,009km N 78° W of Batuan (Bohol),009,N 78° W,Batuan (Bohol)
 2026-05-20T11:10:00.000Z,20 May 2026 - 11:10 AM,16.45,122.19,015,2.4,006km N 19° W of Dilasag (Aurora),006,N 19° W,Dilasag (Aurora)
 2026-05-20T10:39:00.000Z,20 May 2026 - 10:39 AM,09.85,126.06,032,2.6,004km S 71° W of Pilar (Surigao Del Norte),004,S 71° W,Pilar (Surigao Del Norte)
 2026-05-20T10:37:00.000Z,20 May 2026 - 10:37 AM,07.21,126.83,013,3.2,032km S 65° E of Caraga (Davao Oriental),032,S 65° E,Caraga (Davao Oriental)
@@ -46,7 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-19T17:36:00.000Z,19 May 2026 - 05:36 PM,06.51,126.25,019,2.8,025km S 52° E of Governor Generoso (Davao Oriental),025,S 52° E,Governor Generoso (Davao Oriental)
 2026-05-19T15:39:00.000Z,19 May 2026 - 03:39 PM,19.22,121.13,027,3.3,015km N 32° W of Dalupiri Island (Calayan) (Cagayan),015,N 32° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-19T14:04:00.000Z,19 May 2026 - 02:04 PM,17.13,120.98,029,1.4,005km N 04° E of Bontoc (Mountain Province),005,N 04° E,Bontoc (Mountain Province)
-2026-05-19T13:41:00.000Z,19 May 2026 - 01:41 PM,12.77,124.69,054,2.4,029km N 13° W of Mondragon (Northern Samar),029,N 13° W,Mondragon (Northern Samar)
-2026-05-19T13:18:00.000Z,19 May 2026 - 01:18 PM,07.86,126.95,017,2.5,053km N 53° E of Baganga (Davao Oriental),053,N 53° E,Baganga (Davao Oriental)
-2026-05-19T11:41:00.000Z,19 May 2026 - 11:41 AM,13.72,121.14,033,1.7,009km S 64° E of Batangas City (Batangas),009,S 64° E,Batangas City (Batangas)
-2026-05-19T11:15:00.000Z,19 May 2026 - 11:15 AM,18.68,120.85,023,3.1,015km N 25° E of Pagudpud (Ilocos Norte),015,N 25° E,Pagudpud (Ilocos Norte)
