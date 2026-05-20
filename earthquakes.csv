@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-21T00:13:00.000Z,21 May 2026 - 12:13 AM,07.87,126.95,009,2.4,054km N 53° E of Baganga (Davao Oriental),054,N 53° E,Baganga (Davao Oriental)
+2026-05-20T23:56:00.000Z,20 May 2026 - 11:56 PM,16.88,121.45,017,2.2,006km S 45° W of Alfonso Lista (Ifugao),006,S 45° W,Alfonso Lista (Ifugao)
+2026-05-20T23:15:00.000Z,20 May 2026 - 11:15 PM,14.11,120.52,117,2.0,013km N 70° W of Nasugbu (Batangas),013,N 70° W,Nasugbu (Batangas)
+2026-05-20T23:15:00.000Z,20 May 2026 - 11:15 PM,14.97,122.01,024,1.9,015km N 18° E of Burdeos (Quezon),015,N 18° E,Burdeos (Quezon)
+2026-05-20T22:57:00.000Z,20 May 2026 - 10:57 PM,13.58,120.53,034,1.6,020km N 22° E of Paluan (Occidental Mindoro),020,N 22° E,Paluan (Occidental Mindoro)
+2026-05-20T22:14:00.000Z,20 May 2026 - 10:14 PM,14.85,121.93,049,1.5,005km N 75° W of Burdeos (Quezon),005,N 75° W,Burdeos (Quezon)
+2026-05-20T21:57:00.000Z,20 May 2026 - 09:57 PM,18.48,121.26,029,1.9,008km N 76° W of Pamplona (Cagayan),008,N 76° W,Pamplona (Cagayan)
+2026-05-20T21:34:00.000Z,20 May 2026 - 09:34 PM,09.04,123.07,031,2.0,004km S 54° E of Siaton (Negros Oriental),004,S 54° E,Siaton (Negros Oriental)
 2026-05-20T21:25:00.000Z,20 May 2026 - 09:25 PM,13.70,120.58,094,1.9,016km S 21° W of Calatagan (Batangas),016,S 21° W,Calatagan (Batangas)
 2026-05-20T20:19:00.000Z,20 May 2026 - 08:19 PM,07.16,125.55,002,2.1,019km S 44° W of City Of Panabo (Davao Del Norte),019,S 44° W,City Of Panabo (Davao Del Norte)
 2026-05-20T19:12:00.000Z,20 May 2026 - 07:12 PM,13.98,120.60,112,1.7,009km S 39° W of Lian (Batangas),009,S 39° W,Lian (Batangas)
