@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-21T05:05:00.000Z,21 May 2026 - 05:05 AM,07.77,126.46,021,1.5,003km S 09° E of Cateel (Davao Oriental),003,S 09° E,Cateel (Davao Oriental)
+2026-05-21T05:04:00.000Z,21 May 2026 - 05:04 AM,14.90,122.12,030,1.6,017km N 67° E of Burdeos (Quezon),017,N 67° E,Burdeos (Quezon)
+2026-05-21T04:59:00.000Z,21 May 2026 - 04:59 AM,13.91,120.55,080,1.5,012km N 49° W of Calatagan (Batangas),012,N 49° W,Calatagan (Batangas)
+2026-05-21T04:33:00.000Z,21 May 2026 - 04:33 AM,11.03,123.82,029,1.5,017km S 85° W of City Of Bogo (Cebu),017,S 85° W,City Of Bogo (Cebu)
+2026-05-21T03:45:00.000Z,21 May 2026 - 03:45 AM,17.97,120.60,019,2.2,006km S 74° W of Banna (Ilocos Norte),006,S 74° W,Banna (Ilocos Norte)
+2026-05-21T03:40:00.000Z,21 May 2026 - 03:40 AM,09.78,126.05,033,1.5,003km N 13° W of Dapa (Surigao Del Norte),003,N 13° W,Dapa (Surigao Del Norte)
+2026-05-21T03:24:00.000Z,21 May 2026 - 03:24 AM,16.29,122.13,015,2.0,002km N 41° E of Casiguran (Aurora),002,N 41° E,Casiguran (Aurora)
 2026-05-21T03:06:00.000Z,21 May 2026 - 03:06 AM,15.52,119.48,018,2.6,047km N 79° W of Palauig (Zambales),047,N 79° W,Palauig (Zambales)
 2026-05-21T02:36:00.000Z,21 May 2026 - 02:36 AM,13.77,120.56,096,1.6,011km S 49° W of Calatagan (Batangas),011,S 49° W,Calatagan (Batangas)
 2026-05-21T02:22:00.000Z,21 May 2026 - 02:22 AM,07.45,124.69,032,2.2,006km S 09° W of Banisilan (Cotabato),006,S 09° W,Banisilan (Cotabato)
