@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-20T06:16:00.000Z,20 May 2026 - 06:16 AM,14.80,119.83,050,1.8,033km S 59° W of San Antonio (Zambales),033,S 59° W,San Antonio (Zambales)
-2026-05-20T06:05:00.000Z,20 May 2026 - 06:05 AM,13.20,123.34,010,2.8,015km S 43° W of Libon (Albay),015,S 43° W,Libon (Albay)
-2026-05-20T05:48:00.000Z,20 May 2026 - 05:48 AM,09.24,125.73,024,2.4,019km S 82° E of Santiago (Agusan Del Norte),019,S 82° E,Santiago (Agusan Del Norte)
+2026-05-20T11:10:00.000Z,20 May 2026 - 11:10 AM,16.45,122.19,015,2.4,006km N 19° W of Dilasag (Aurora),006,N 19° W,Dilasag (Aurora)
+2026-05-20T10:39:00.000Z,20 May 2026 - 10:39 AM,09.85,126.06,032,2.6,004km S 71° W of Pilar (Surigao Del Norte),004,S 71° W,Pilar (Surigao Del Norte)
+2026-05-20T10:37:00.000Z,20 May 2026 - 10:37 AM,07.21,126.83,013,3.2,032km S 65° E of Caraga (Davao Oriental),032,S 65° E,Caraga (Davao Oriental)
+2026-05-20T10:35:00.000Z,20 May 2026 - 10:35 AM,09.99,126.06,026,2.7,004km S 29° W of Burgos (Surigao Del Norte),004,S 29° W,Burgos (Surigao Del Norte)
+2026-05-20T10:26:00.000Z,20 May 2026 - 10:26 AM,10.03,126.23,010,4.8,023km N 38° E of Pilar (Surigao Del Norte),023,N 38° E,Pilar (Surigao Del Norte)
