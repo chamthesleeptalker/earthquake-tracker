@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-22T05:53:00.000Z,22 May 2026 - 05:53 AM,19.07,121.80,008,2.5,019km N 22° W of Camiguin Island (Calayan) (Cagayan),019,N 22° W,Camiguin Island (Calayan) (Cagayan)
+2026-05-22T05:38:00.000Z,22 May 2026 - 05:38 AM,07.47,126.71,029,2.0,020km S 55° E of Baganga (Davao Oriental),020,S 55° E,Baganga (Davao Oriental)
 2026-05-22T04:50:00.000Z,22 May 2026 - 04:50 AM,09.71,126.49,011,2.5,037km S 78° E of General Luna (Surigao Del Norte),037,S 78° E,General Luna (Surigao Del Norte)
 2026-05-22T04:40:00.000Z,22 May 2026 - 04:40 AM,07.93,126.48,034,2.3,013km N 60° E of Boston (Davao Oriental),013,N 60° E,Boston (Davao Oriental)
 2026-05-22T04:08:00.000Z,22 May 2026 - 04:08 AM,10.03,125.06,032,2.1,005km N 86° E of Padre Burgos (Southern Leyte),005,N 86° E,Padre Burgos (Southern Leyte)
@@ -408,6 +410,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-15T06:27:00.000Z,15 May 2026 - 06:27 AM,10.15,126.03,021,1.6,015km N 19° W of Burgos (Surigao Del Norte),015,N 19° W,Burgos (Surigao Del Norte)
 2026-05-15T06:04:00.000Z,15 May 2026 - 06:04 AM,05.21,126.89,007,3.8,159km S 60° E of Jose Abad Santos (Davao Occidental),159,S 60° E,Jose Abad Santos (Davao Occidental)
 2026-05-15T05:56:00.000Z,15 May 2026 - 05:56 AM,11.55,124.36,029,1.9,005km S 70° W of Naval (Biliran),005,S 70° W,Naval (Biliran)
-2026-05-15T05:36:00.000Z,15 May 2026 - 05:36 AM,11.69,125.62,018,3.4,019km S 69° E of San Julian (Eastern Samar),019,S 69° E,San Julian (Eastern Samar)
-2026-05-15T05:33:00.000Z,15 May 2026 - 05:33 AM,11.69,125.61,018,3.4,018km S 67° E of San Julian (Eastern Samar),018,S 67° E,San Julian (Eastern Samar)
-2026-05-15T05:20:00.000Z,15 May 2026 - 05:20 AM,16.15,120.54,011,2.1,004km N 14° W of Pozorrubio (Pangasinan),004,N 14° W,Pozorrubio (Pangasinan)
