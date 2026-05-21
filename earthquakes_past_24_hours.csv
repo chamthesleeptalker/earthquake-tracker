@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-21T19:03:00.000Z,21 May 2026 - 07:03 PM,10.62,125.35,023,1.5,023km N 63° E of Silago (Southern Leyte),023,N 63° E,Silago (Southern Leyte)
+2026-05-21T18:27:00.000Z,21 May 2026 - 06:27 PM,07.70,126.55,025,2.3,014km N 04° W of Baganga (Davao Oriental),014,N 04° W,Baganga (Davao Oriental)
+2026-05-21T18:26:00.000Z,21 May 2026 - 06:26 PM,14.65,119.17,009,2.9,104km S 72° W of San Antonio (Zambales),104,S 72° W,San Antonio (Zambales)
+2026-05-21T18:24:00.000Z,21 May 2026 - 06:24 PM,05.62,125.81,002,1.9,036km S 68° E of Jose Abad Santos (Davao Occidental),036,S 68° E,Jose Abad Santos (Davao Occidental)
+2026-05-21T17:17:00.000Z,21 May 2026 - 05:17 PM,08.87,126.48,030,2.9,020km S 73° E of Cagwait (Surigao Del Sur),020,S 73° E,Cagwait (Surigao Del Sur)
+2026-05-21T17:13:00.000Z,21 May 2026 - 05:13 PM,07.36,126.01,006,2.9,013km N 68° W of Maragusan (Davao De Oro),013,N 68° W,Maragusan (Davao De Oro)
 2026-05-21T15:57:00.000Z,21 May 2026 - 03:57 PM,15.26,120.06,016,1.7,004km S 53° E of Botolan (Zambales),004,S 53° E,Botolan (Zambales)
 2026-05-21T15:49:00.000Z,21 May 2026 - 03:49 PM,07.11,126.99,018,2.7,051km S 78° E of Manay (Davao Oriental),051,S 78° E,Manay (Davao Oriental)
 2026-05-21T15:34:00.000Z,21 May 2026 - 03:34 PM,15.28,119.74,033,1.8,025km S 46° W of Palauig (Zambales),025,S 46° W,Palauig (Zambales)
@@ -50,7 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-20T21:25:00.000Z,20 May 2026 - 09:25 PM,13.70,120.58,094,1.9,016km S 21° W of Calatagan (Batangas),016,S 21° W,Calatagan (Batangas)
 2026-05-20T20:19:00.000Z,20 May 2026 - 08:19 PM,07.16,125.55,002,2.1,019km S 44° W of City Of Panabo (Davao Del Norte),019,S 44° W,City Of Panabo (Davao Del Norte)
 2026-05-20T19:12:00.000Z,20 May 2026 - 07:12 PM,13.98,120.60,112,1.7,009km S 39° W of Lian (Batangas),009,S 39° W,Lian (Batangas)
-2026-05-20T18:50:00.000Z,20 May 2026 - 06:50 PM,13.58,120.57,148,1.9,022km N 32° E of Paluan (Occidental Mindoro),022,N 32° E,Paluan (Occidental Mindoro)
-2026-05-20T18:32:00.000Z,20 May 2026 - 06:32 PM,09.85,124.09,009,2.6,007km S 02° W of Sagbayan (Bohol),007,S 02° W,Sagbayan (Bohol)
-2026-05-20T18:25:00.000Z,20 May 2026 - 06:25 PM,12.46,120.81,008,2.0,017km N 89° W of Rizal (Occidental Mindoro),017,N 89° W,Rizal (Occidental Mindoro)
-2026-05-20T18:18:00.000Z,20 May 2026 - 06:18 PM,07.45,126.68,024,3.0,019km S 45° E of Baganga (Davao Oriental),019,S 45° E,Baganga (Davao Oriental)
