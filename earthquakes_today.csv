@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-22T04:50:00.000Z,22 May 2026 - 04:50 AM,09.71,126.49,011,2.5,037km S 78° E of General Luna (Surigao Del Norte),037,S 78° E,General Luna (Surigao Del Norte)
+2026-05-22T04:40:00.000Z,22 May 2026 - 04:40 AM,07.93,126.48,034,2.3,013km N 60° E of Boston (Davao Oriental),013,N 60° E,Boston (Davao Oriental)
+2026-05-22T04:08:00.000Z,22 May 2026 - 04:08 AM,10.03,125.06,032,2.1,005km N 86° E of Padre Burgos (Southern Leyte),005,N 86° E,Padre Burgos (Southern Leyte)
+2026-05-22T04:02:00.000Z,22 May 2026 - 04:02 AM,18.87,121.27,020,1.8,027km S 15° E of Dalupiri Island (Calayan) (Cagayan),027,S 15° E,Dalupiri Island (Calayan) (Cagayan)
 2026-05-22T03:29:00.000Z,22 May 2026 - 03:29 AM,14.99,119.37,022,2.0,075km S 60° W of Iba (Zambales),075,S 60° W,Iba (Zambales)
 2026-05-22T03:20:00.000Z,22 May 2026 - 03:20 AM,09.73,126.41,020,1.8,028km S 78° E of General Luna (Surigao Del Norte),028,S 78° E,General Luna (Surigao Del Norte)
 2026-05-22T03:11:00.000Z,22 May 2026 - 03:11 AM,06.21,126.04,054,2.8,038km N 89° E of Don Marcelino (Davao Occidental),038,N 89° E,Don Marcelino (Davao Occidental)
