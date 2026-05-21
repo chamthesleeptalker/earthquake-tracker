@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-21T11:58:00.000Z,21 May 2026 - 11:58 AM,14.69,119.17,024,3.1,104km S 74° W of San Antonio (Zambales),104,S 74° W,San Antonio (Zambales)
-2026-05-21T11:35:00.000Z,21 May 2026 - 11:35 AM,06.16,126.74,014,2.6,093km S 53° E of Governor Generoso (Davao Oriental),093,S 53° E,Governor Generoso (Davao Oriental)
+2026-05-21T15:57:00.000Z,21 May 2026 - 03:57 PM,15.26,120.06,016,1.7,004km S 53° E of Botolan (Zambales),004,S 53° E,Botolan (Zambales)
+2026-05-21T15:49:00.000Z,21 May 2026 - 03:49 PM,07.11,126.99,018,2.7,051km S 78° E of Manay (Davao Oriental),051,S 78° E,Manay (Davao Oriental)
+2026-05-21T15:34:00.000Z,21 May 2026 - 03:34 PM,15.28,119.74,033,1.8,025km S 46° W of Palauig (Zambales),025,S 46° W,Palauig (Zambales)
