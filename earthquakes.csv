@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-22T19:07:00.000Z,22 May 2026 - 07:07 PM,11.34,125.19,083,2.6,014km N 62° E of Basey (Samar),014,N 62° E,Basey (Samar)
+2026-05-22T19:04:00.000Z,22 May 2026 - 07:04 PM,09.74,122.22,021,2.7,023km S 83° W of City Of Sipalay (Negros Occidental),023,S 83° W,City Of Sipalay (Negros Occidental)
+2026-05-22T17:08:00.000Z,22 May 2026 - 05:08 PM,19.33,120.76,012,1.8,054km N 62° W of Dalupiri Island (Calayan) (Cagayan),054,N 62° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-22T16:49:00.000Z,22 May 2026 - 04:49 PM,19.93,122.04,010,2.8,048km S 21° E of Sabtang (Batanes),048,S 21° E,Sabtang (Batanes)
+2026-05-22T16:47:00.000Z,22 May 2026 - 04:47 PM,10.24,122.46,009,2.3,033km S 15° W of Nueva Valencia (Guimaras),033,S 15° W,Nueva Valencia (Guimaras)
+2026-05-22T16:37:00.000Z,22 May 2026 - 04:37 PM,11.05,123.92,027,1.7,006km S 89° W of City Of Bogo (Cebu),006,S 89° W,City Of Bogo (Cebu)
+2026-05-22T16:29:00.000Z,22 May 2026 - 04:29 PM,15.80,121.60,017,1.4,006km N 38° E of Baler (Aurora),006,N 38° E,Baler (Aurora)
+2026-05-22T16:21:00.000Z,22 May 2026 - 04:21 PM,12.14,121.46,003,2.2,024km S 31° E of Bulalacao (Oriental Mindoro),024,S 31° E,Bulalacao (Oriental Mindoro)
+2026-05-22T07:25:00.000Z,22 May 2026 - 07:25 AM,16.95,120.03,007,2.3,038km N 73° W of Luna (La Union),038,N 73° W,Luna (La Union)
 2026-05-22T15:48:00.000Z,22 May 2026 - 03:48 PM,05.31,125.24,011,2.9,023km S 61° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 61° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-22T15:07:00.000Z,22 May 2026 - 03:07 PM,06.24,124.35,524,4.0,018km N 78° E of Palimbang (Sultan Kudarat),018,N 78° E,Palimbang (Sultan Kudarat)
 2026-05-22T14:53:00.000Z,22 May 2026 - 02:53 PM,12.18,121.48,028,1.8,022km S 44° E of Bulalacao (Oriental Mindoro),022,S 44° E,Bulalacao (Oriental Mindoro)
