@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-23T02:04:00.000Z,23 May 2026 - 02:04 AM,16.17,121.81,020,1.9,016km N 79° W of Dinalungan (Aurora),016,N 79° W,Dinalungan (Aurora)
+2026-05-23T00:55:00.000Z,23 May 2026 - 12:55 AM,13.80,120.56,090,1.5,008km S 63° W of Calatagan (Batangas),008,S 63° W,Calatagan (Batangas)
+2026-05-23T00:30:00.000Z,23 May 2026 - 12:30 AM,15.60,119.96,020,2.7,004km S 45° E of Candelaria (Zambales),004,S 45° E,Candelaria (Zambales)
+2026-05-23T00:23:00.000Z,23 May 2026 - 12:23 AM,15.69,121.88,019,2.0,035km S 78° E of Baler (Aurora),035,S 78° E,Baler (Aurora)
+2026-05-22T01:48:00.000Z,22 May 2026 - 01:48 AM,18.69,121.58,003,1.6,028km S 51° E of Fuga Island (Aparri) (Cagayan),028,S 51° E,Fuga Island (Aparri) (Cagayan)
 2026-05-22T23:28:00.000Z,22 May 2026 - 11:28 PM,18.48,120.99,018,1.7,009km South of Santa Praxedes (Cagayan),009,South of Santa,(Cagayan)
 2026-05-22T22:41:00.000Z,22 May 2026 - 10:41 PM,11.35,124.34,032,1.8,006km N 38° W of Tabango (Leyte),006,N 38° W,Tabango (Leyte)
 2026-05-22T22:37:00.000Z,22 May 2026 - 10:37 PM,15.42,121.35,022,1.6,004km S 20° E of Gabaldon (Nueva Ecija),004,S 20° E,Gabaldon (Nueva Ecija)
