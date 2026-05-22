@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-23T06:37:00.000Z,23 May 2026 - 06:37 AM,11.35,126.12,015,2.5,054km N 58° E of Mercedes (Eastern Samar),054,N 58° E,Mercedes (Eastern Samar)
+2026-05-23T06:29:00.000Z,23 May 2026 - 06:29 AM,12.17,125.24,019,2.3,001km N 23° W of Maslog (Eastern Samar),001,N 23° W,Maslog (Eastern Samar)
+2026-05-23T05:49:00.000Z,23 May 2026 - 05:49 AM,16.14,122.00,034,1.6,005km S 83° E of Dinalungan (Aurora),005,S 83° E,Dinalungan (Aurora)
 2026-05-23T05:23:00.000Z,23 May 2026 - 05:23 AM,18.68,120.81,002,2.7,014km N 11° E of Pagudpud (Ilocos Norte),014,N 11° E,Pagudpud (Ilocos Norte)
 2026-05-23T05:17:00.000Z,23 May 2026 - 05:17 AM,10.92,123.93,002,2.9,015km S 23° W of City Of Bogo (Cebu),015,S 23° W,City Of Bogo (Cebu)
 2026-05-23T05:14:00.000Z,23 May 2026 - 05:14 AM,16.35,118.87,032,2.8,103km N 75° W of Agno (Pangasinan),103,N 75° W,Agno (Pangasinan)
@@ -400,8 +403,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-16T08:12:00.000Z,16 May 2026 - 08:12 AM,15.05,122.09,010,2.6,027km N 30° E of Burdeos (Quezon),027,N 30° E,Burdeos (Quezon)
 2026-05-16T07:59:00.000Z,16 May 2026 - 07:59 AM,13.55,120.66,125,1.6,014km N 29° W of Abra De Ilog (Occidental Mindoro),014,N 29° W,Abra De Ilog (Occidental Mindoro)
 2026-05-16T06:51:00.000Z,16 May 2026 - 06:51 AM,12.24,121.47,006,2.0,017km S 55° E of Bulalacao (Oriental Mindoro),017,S 55° E,Bulalacao (Oriental Mindoro)
-2026-05-16T06:30:00.000Z,16 May 2026 - 06:30 AM,15.09,122.10,010,2.2,031km N 27° E of Burdeos (Quezon),031,N 27° E,Burdeos (Quezon)
-2026-05-16T06:05:00.000Z,16 May 2026 - 06:05 AM,08.53,125.87,003,2.4,010km S 36° W of Prosperidad (Agusan Del Sur),010,S 36° W,Prosperidad (Agusan Del Sur)
-2026-05-16T05:54:00.000Z,16 May 2026 - 05:54 AM,12.53,124.70,033,1.8,006km N 73° W of Mondragon (Northern Samar),006,N 73° W,Mondragon (Northern Samar)
-2026-05-16T05:39:00.000Z,16 May 2026 - 05:39 AM,20.71,121.65,021,3.3,030km S 47° W of Itbayat (Batanes),030,S 47° W,Itbayat (Batanes)
-2026-05-16T05:30:00.000Z,16 May 2026 - 05:30 AM,14.36,120.23,072,3.2,030km S 73° W of Mariveles (Bataan),030,S 73° W,Mariveles (Bataan)
