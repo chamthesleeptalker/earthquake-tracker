@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-22T23:28:00.000Z,22 May 2026 - 11:28 PM,18.48,120.99,018,1.7,009km South of Santa Praxedes (Cagayan),009,South of Santa,(Cagayan)
+2026-05-22T22:41:00.000Z,22 May 2026 - 10:41 PM,11.35,124.34,032,1.8,006km N 38° W of Tabango (Leyte),006,N 38° W,Tabango (Leyte)
+2026-05-22T22:37:00.000Z,22 May 2026 - 10:37 PM,15.42,121.35,022,1.6,004km S 20° E of Gabaldon (Nueva Ecija),004,S 20° E,Gabaldon (Nueva Ecija)
+2026-05-22T21:59:00.000Z,22 May 2026 - 09:59 PM,11.24,125.33,004,2.1,011km N 13° E of Lawaan (Eastern Samar),011,N 13° E,Lawaan (Eastern Samar)
 2026-05-22T21:30:00.000Z,22 May 2026 - 09:30 PM,07.87,123.29,034,1.8,009km N 50° E of Tigbao (Zamboanga Del Sur),009,N 50° E,Tigbao (Zamboanga Del Sur)
 2026-05-22T21:29:00.000Z,22 May 2026 - 09:29 PM,07.88,123.29,035,1.6,009km N 49° E of Tigbao (Zamboanga Del Sur),009,N 49° E,Tigbao (Zamboanga Del Sur)
 2026-05-22T20:33:00.000Z,22 May 2026 - 08:33 PM,10.69,122.01,024,1.8,003km S 74° E of Hamtic (Antique),003,S 74° E,Hamtic (Antique)
@@ -398,5 +402,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-16T00:07:00.000Z,16 May 2026 - 12:07 AM,09.67,126.21,033,1.9,014km S 23° E of General Luna (Surigao Del Norte),014,S 23° E,General Luna (Surigao Del Norte)
 2026-05-16T00:00:00.000Z,16 May 2026 - 12:00 AM,13.08,125.29,035,2.0,062km N 18° E of Palapag (Northern Samar),062,N 18° E,Palapag (Northern Samar)
 2026-05-15T23:59:00.000Z,15 May 2026 - 11:59 PM,15.48,121.27,005,2.3,008km N 69° W of Gabaldon (Nueva Ecija),008,N 69° W,Gabaldon (Nueva Ecija)
-2026-05-15T22:22:00.000Z,15 May 2026 - 10:22 PM,08.90,126.62,034,2.3,035km S 86° E of Cagwait (Surigao Del Sur),035,S 86° E,Cagwait (Surigao Del Sur)
-2026-05-15T21:40:00.000Z,15 May 2026 - 09:40 PM,12.43,124.56,091,2.0,011km S 01° E of Bobon (Northern Samar),011,S 01° E,Bobon (Northern Samar)
