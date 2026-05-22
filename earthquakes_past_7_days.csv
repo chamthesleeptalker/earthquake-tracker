@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-22T15:48:00.000Z,22 May 2026 - 03:48 PM,05.31,125.24,011,2.9,023km S 61° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 61° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-22T15:07:00.000Z,22 May 2026 - 03:07 PM,06.24,124.35,524,4.0,018km N 78° E of Palimbang (Sultan Kudarat),018,N 78° E,Palimbang (Sultan Kudarat)
+2026-05-22T14:53:00.000Z,22 May 2026 - 02:53 PM,12.18,121.48,028,1.8,022km S 44° E of Bulalacao (Oriental Mindoro),022,S 44° E,Bulalacao (Oriental Mindoro)
+2026-05-22T14:30:00.000Z,22 May 2026 - 02:30 PM,14.07,120.42,119,2.1,023km West of Nasugbu (Batangas),023,West of Nasugbu,
 2026-05-22T12:20:00.000Z,22 May 2026 - 12:20 PM,09.48,126.02,068,1.6,015km N 32° E of Carrascal (Surigao Del Sur),015,N 32° E,Carrascal (Surigao Del Sur)
 2026-05-22T11:29:00.000Z,22 May 2026 - 11:29 AM,02.95,127.36,104,4.0,347km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),347,S 38° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-22T11:18:00.000Z,22 May 2026 - 11:18 AM,19.53,121.54,004,2.4,030km N 13° E of Calayan (Cagayan),030,N 13° E,Calayan (Cagayan)
@@ -395,6 +399,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-15T17:44:00.000Z,15 May 2026 - 05:44 PM,06.20,125.42,105,2.9,017km N 54° E of Alabel (Sarangani),017,N 54° E,Alabel (Sarangani)
 2026-05-15T17:31:00.000Z,15 May 2026 - 05:31 PM,15.22,119.98,028,1.6,009km S 32° W of Botolan (Zambales),009,S 32° W,Botolan (Zambales)
 2026-05-15T16:50:00.000Z,15 May 2026 - 04:50 PM,19.18,121.18,025,2.1,009km N 21° W of Dalupiri Island (Calayan) (Cagayan),009,N 21° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-15T13:54:00.000Z,15 May 2026 - 01:54 PM,07.12,127.42,033,2.6,097km S 76° E of Caraga (Davao Oriental),097,S 76° E,Caraga (Davao Oriental)
-2026-05-15T12:32:00.000Z,15 May 2026 - 12:32 PM,08.67,126.19,022,1.5,009km S 34° W of San Agustin (Surigao Del Sur),009,S 34° W,San Agustin (Surigao Del Sur)
-2026-05-15T12:25:00.000Z,15 May 2026 - 12:25 PM,09.62,126.23,034,2.0,020km S 25° E of General Luna (Surigao Del Norte),020,S 25° E,General Luna (Surigao Del Norte)
