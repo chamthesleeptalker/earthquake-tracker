@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-23T23:45:00.000Z,23 May 2026 - 11:45 PM,06.78,126.75,020,3.6,044km S 48° E of Tarragona (Davao Oriental),044,S 48° E,Tarragona (Davao Oriental)
+2026-05-23T23:41:00.000Z,23 May 2026 - 11:41 PM,14.98,119.93,033,1.4,017km S 75° W of San Narciso (Zambales),017,S 75° W,San Narciso (Zambales)
+2026-05-23T23:13:00.000Z,23 May 2026 - 11:13 PM,11.05,124.02,007,2.9,004km N 87° E of City Of Bogo (Cebu),004,N 87° E,City Of Bogo (Cebu)
+2026-05-23T23:08:00.000Z,23 May 2026 - 11:08 PM,10.93,123.94,002,1.7,014km S 19° W of City Of Bogo (Cebu),014,S 19° W,City Of Bogo (Cebu)
+2026-05-23T23:05:00.000Z,23 May 2026 - 11:05 PM,12.49,124.66,009,1.6,003km S 79° E of Catarman (Northern Samar),003,S 79° E,Catarman (Northern Samar)
 2026-05-23T22:50:00.000Z,23 May 2026 - 10:50 PM,12.53,124.70,031,1.4,005km N 80° W of Mondragon (Northern Samar),005,N 80° W,Mondragon (Northern Samar)
-2026-05-23T22:43:00.000Z,23 May 2026 - 10:43 PM,07.89,123.31,033,1.5,010km N 39° W of Dumalinao (Zamboanga Del Sur),010,N 39° W,Dumalinao (Zamboanga Del Sur)
-2026-05-23T22:12:00.000Z,23 May 2026 - 10:12 PM,18.62,121.13,020,1.6,006km N 73° E of Claveria (Cagayan),006,N 73° E,Claveria (Cagayan)
-2026-05-23T21:50:00.000Z,23 May 2026 - 09:50 PM,19.51,121.62,011,1.6,031km S 89° W of Babuyan Island (Calayan) (Cagayan),031,S 89° W,Babuyan Island (Calayan) (Cagayan)
