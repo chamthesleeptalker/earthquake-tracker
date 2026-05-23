@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-23T07:42:00.000Z,23 May 2026 - 07:42 AM,19.13,121.24,031,1.8,004km N 61° E of Dalupiri Island (Calayan) (Cagayan),004,N 61° E,Dalupiri Island (Calayan) (Cagayan)
+2026-05-23T07:08:00.000Z,23 May 2026 - 07:08 AM,16.32,120.66,032,1.8,004km S 27° W of Itogon (Benguet),004,S 27° W,Itogon (Benguet)
+2026-05-23T06:53:00.000Z,23 May 2026 - 06:53 AM,13.55,120.93,001,2.6,006km N 30° W of Puerto Galera (Oriental Mindoro),006,N 30° W,Puerto Galera (Oriental Mindoro)
 2026-05-23T06:37:00.000Z,23 May 2026 - 06:37 AM,11.35,126.12,015,2.5,054km N 58° E of Mercedes (Eastern Samar),054,N 58° E,Mercedes (Eastern Samar)
 2026-05-23T06:29:00.000Z,23 May 2026 - 06:29 AM,12.17,125.24,019,2.3,001km N 23° W of Maslog (Eastern Samar),001,N 23° W,Maslog (Eastern Samar)
 2026-05-23T05:49:00.000Z,23 May 2026 - 05:49 AM,16.14,122.00,034,1.6,005km S 83° E of Dinalungan (Aurora),005,S 83° E,Dinalungan (Aurora)
@@ -40,7 +43,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-22T16:37:00.000Z,22 May 2026 - 04:37 PM,11.05,123.92,027,1.7,006km S 89° W of City Of Bogo (Cebu),006,S 89° W,City Of Bogo (Cebu)
 2026-05-22T16:29:00.000Z,22 May 2026 - 04:29 PM,15.80,121.60,017,1.4,006km N 38° E of Baler (Aurora),006,N 38° E,Baler (Aurora)
 2026-05-22T16:21:00.000Z,22 May 2026 - 04:21 PM,12.14,121.46,003,2.2,024km S 31° E of Bulalacao (Oriental Mindoro),024,S 31° E,Bulalacao (Oriental Mindoro)
-2026-05-22T07:25:00.000Z,22 May 2026 - 07:25 AM,16.95,120.03,007,2.3,038km N 73° W of Luna (La Union),038,N 73° W,Luna (La Union)
 2026-05-22T15:48:00.000Z,22 May 2026 - 03:48 PM,05.31,125.24,011,2.9,023km S 61° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 61° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-22T15:07:00.000Z,22 May 2026 - 03:07 PM,06.24,124.35,524,4.0,018km N 78° E of Palimbang (Sultan Kudarat),018,N 78° E,Palimbang (Sultan Kudarat)
 2026-05-22T14:53:00.000Z,22 May 2026 - 02:53 PM,12.18,121.48,028,1.8,022km S 44° E of Bulalacao (Oriental Mindoro),022,S 44° E,Bulalacao (Oriental Mindoro)
@@ -57,4 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-22T08:52:00.000Z,22 May 2026 - 08:52 AM,16.45,119.86,027,1.9,008km N 25° W of Bolinao (Pangasinan),008,N 25° W,Bolinao (Pangasinan)
 2026-05-22T08:47:00.000Z,22 May 2026 - 08:47 AM,18.44,121.27,020,1.9,008km S 74° W of Pamplona (Cagayan),008,S 74° W,Pamplona (Cagayan)
 2026-05-22T08:44:00.000Z,22 May 2026 - 08:44 AM,13.96,120.51,107,3.8,017km S 62° W of Lian (Batangas),017,S 62° W,Lian (Batangas)
-2026-05-22T07:26:00.000Z,22 May 2026 - 07:26 AM,16.83,120.41,009,1.8,001km N 28° E of Balaoan (La Union),001,N 28° E,Balaoan (La Union)
