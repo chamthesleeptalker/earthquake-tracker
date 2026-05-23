@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-23T18:30:00.000Z,23 May 2026 - 06:30 PM,07.89,126.31,078,1.7,008km N 72° W of Boston (Davao Oriental),008,N 72° W,Boston (Davao Oriental)
+2026-05-23T18:10:00.000Z,23 May 2026 - 06:10 PM,06.41,125.62,205,2.5,001km S 79° E of Malita (Davao Occidental),001,S 79° E,Malita (Davao Occidental)
+2026-05-23T18:04:00.000Z,23 May 2026 - 06:04 PM,08.77,126.41,020,1.8,013km S 77° E of Marihatag (Surigao Del Sur),013,S 77° E,Marihatag (Surigao Del Sur)
+2026-05-23T17:12:00.000Z,23 May 2026 - 05:12 PM,06.84,126.38,015,1.9,022km S 54° E of City Of Mati (Davao Oriental),022,S 54° E,City Of Mati (Davao Oriental)
 2026-05-23T16:28:00.000Z,23 May 2026 - 04:28 PM,13.23,120.59,013,2.2,001km N 60° W of Mamburao (Occidental Mindoro),001,N 60° W,Mamburao (Occidental Mindoro)
 2026-05-23T16:28:00.000Z,23 May 2026 - 04:28 PM,12.28,124.99,041,1.5,008km S 35° W of Las Navas (Northern Samar),008,S 35° W,Las Navas (Northern Samar)
 2026-05-23T15:14:00.000Z,23 May 2026 - 03:14 PM,05.94,126.64,085,2.2,101km S 38° E of Governor Generoso (Davao Oriental),101,S 38° E,Governor Generoso (Davao Oriental)
@@ -53,8 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-22T19:19:00.000Z,22 May 2026 - 07:19 PM,11.03,124.00,005,3.0,003km S 50° E of City Of Bogo (Cebu),003,S 50° E,City Of Bogo (Cebu)
 2026-05-22T19:07:00.000Z,22 May 2026 - 07:07 PM,11.34,125.19,083,2.6,014km N 62° E of Basey (Samar),014,N 62° E,Basey (Samar)
 2026-05-22T19:04:00.000Z,22 May 2026 - 07:04 PM,09.74,122.22,021,2.7,023km S 83° W of City Of Sipalay (Negros Occidental),023,S 83° W,City Of Sipalay (Negros Occidental)
-2026-05-22T17:08:00.000Z,22 May 2026 - 05:08 PM,19.33,120.76,012,1.8,054km N 62° W of Dalupiri Island (Calayan) (Cagayan),054,N 62° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-22T16:49:00.000Z,22 May 2026 - 04:49 PM,19.93,122.04,010,2.8,048km S 21° E of Sabtang (Batanes),048,S 21° E,Sabtang (Batanes)
-2026-05-22T16:47:00.000Z,22 May 2026 - 04:47 PM,10.24,122.46,009,2.3,033km S 15° W of Nueva Valencia (Guimaras),033,S 15° W,Nueva Valencia (Guimaras)
-2026-05-22T16:37:00.000Z,22 May 2026 - 04:37 PM,11.05,123.92,027,1.7,006km S 89° W of City Of Bogo (Cebu),006,S 89° W,City Of Bogo (Cebu)
-2026-05-22T16:29:00.000Z,22 May 2026 - 04:29 PM,15.80,121.60,017,1.4,006km N 38° E of Baler (Aurora),006,N 38° E,Baler (Aurora)

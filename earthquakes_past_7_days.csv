@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-23T18:30:00.000Z,23 May 2026 - 06:30 PM,07.89,126.31,078,1.7,008km N 72° W of Boston (Davao Oriental),008,N 72° W,Boston (Davao Oriental)
+2026-05-23T18:10:00.000Z,23 May 2026 - 06:10 PM,06.41,125.62,205,2.5,001km S 79° E of Malita (Davao Occidental),001,S 79° E,Malita (Davao Occidental)
+2026-05-23T18:04:00.000Z,23 May 2026 - 06:04 PM,08.77,126.41,020,1.8,013km S 77° E of Marihatag (Surigao Del Sur),013,S 77° E,Marihatag (Surigao Del Sur)
+2026-05-23T17:12:00.000Z,23 May 2026 - 05:12 PM,06.84,126.38,015,1.9,022km S 54° E of City Of Mati (Davao Oriental),022,S 54° E,City Of Mati (Davao Oriental)
 2026-05-23T16:28:00.000Z,23 May 2026 - 04:28 PM,13.23,120.59,013,2.2,001km N 60° W of Mamburao (Occidental Mindoro),001,N 60° W,Mamburao (Occidental Mindoro)
 2026-05-23T16:28:00.000Z,23 May 2026 - 04:28 PM,12.28,124.99,041,1.5,008km S 35° W of Las Navas (Northern Samar),008,S 35° W,Las Navas (Northern Samar)
 2026-05-23T15:14:00.000Z,23 May 2026 - 03:14 PM,05.94,126.64,085,2.2,101km S 38° E of Governor Generoso (Davao Oriental),101,S 38° E,Governor Generoso (Davao Oriental)
@@ -407,4 +411,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-16T19:25:00.000Z,16 May 2026 - 07:25 PM,06.84,124.72,010,5.2,004km N 69° W of General Salipada K. Pendatun (Maguindanao),004,N 69° W,General Salipada K. Pendatun (Maguindanao)
 2026-05-16T18:44:00.000Z,16 May 2026 - 06:44 PM,06.21,124.62,011,1.5,010km S 80° W of Lake Sebu (South Cotabato),010,S 80° W,Lake Sebu (South Cotabato)
 2026-05-16T18:32:00.000Z,16 May 2026 - 06:32 PM,13.64,120.44,040,1.5,023km S 67° E of Looc (Occidental Mindoro),023,S 67° E,Looc (Occidental Mindoro)
-2026-05-16T16:54:00.000Z,16 May 2026 - 04:54 PM,07.86,126.10,017,1.5,007km N 58° E of Monkayo (Davao De Oro),007,N 58° E,Monkayo (Davao De Oro)
