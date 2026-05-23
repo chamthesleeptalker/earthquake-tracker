@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-23T19:37:00.000Z,23 May 2026 - 07:37 PM,14.38,120.41,110,1.3,019km S 87° W of Corregidor Island (City Of Cavite) (Cavite),019,S 87° W,Corregidor Island (City Of Cavite) (Cavite)
 2026-05-23T18:30:00.000Z,23 May 2026 - 06:30 PM,07.89,126.31,078,1.7,008km N 72° W of Boston (Davao Oriental),008,N 72° W,Boston (Davao Oriental)
 2026-05-23T18:10:00.000Z,23 May 2026 - 06:10 PM,06.41,125.62,205,2.5,001km S 79° E of Malita (Davao Occidental),001,S 79° E,Malita (Davao Occidental)
 2026-05-23T18:04:00.000Z,23 May 2026 - 06:04 PM,08.77,126.41,020,1.8,013km S 77° E of Marihatag (Surigao Del Sur),013,S 77° E,Marihatag (Surigao Del Sur)
@@ -54,6 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-22T21:30:00.000Z,22 May 2026 - 09:30 PM,07.87,123.29,034,1.8,009km N 50° E of Tigbao (Zamboanga Del Sur),009,N 50° E,Tigbao (Zamboanga Del Sur)
 2026-05-22T21:29:00.000Z,22 May 2026 - 09:29 PM,07.88,123.29,035,1.6,009km N 49° E of Tigbao (Zamboanga Del Sur),009,N 49° E,Tigbao (Zamboanga Del Sur)
 2026-05-22T20:33:00.000Z,22 May 2026 - 08:33 PM,10.69,122.01,024,1.8,003km S 74° E of Hamtic (Antique),003,S 74° E,Hamtic (Antique)
-2026-05-22T19:19:00.000Z,22 May 2026 - 07:19 PM,11.03,124.00,005,3.0,003km S 50° E of City Of Bogo (Cebu),003,S 50° E,City Of Bogo (Cebu)
-2026-05-22T19:07:00.000Z,22 May 2026 - 07:07 PM,11.34,125.19,083,2.6,014km N 62° E of Basey (Samar),014,N 62° E,Basey (Samar)
-2026-05-22T19:04:00.000Z,22 May 2026 - 07:04 PM,09.74,122.22,021,2.7,023km S 83° W of City Of Sipalay (Negros Occidental),023,S 83° W,City Of Sipalay (Negros Occidental)
