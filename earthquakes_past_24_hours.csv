@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-24T19:43:00.000Z,24 May 2026 - 07:43 PM,11.19,124.00,030,1.8,016km N 10° E of City Of Bogo (Cebu),016,N 10° E,City Of Bogo (Cebu)
+2026-05-24T19:43:00.000Z,24 May 2026 - 07:43 PM,16.61,122.28,007,2.5,010km N 11° E of Dinapigue (Isabela),010,N 11° E,Dinapigue (Isabela)
+2026-05-24T19:40:00.000Z,24 May 2026 - 07:40 PM,16.72,120.48,003,2.0,014km N 88° E of Bacnotan (La Union),014,N 88° E,Bacnotan (La Union)
+2026-05-24T19:36:00.000Z,24 May 2026 - 07:36 PM,09.17,126.65,009,2.7,047km N 61° E of Bayabas (Surigao Del Sur),047,N 61° E,Bayabas (Surigao Del Sur)
+2026-05-24T18:53:00.000Z,24 May 2026 - 06:53 PM,18.98,121.33,026,1.9,015km N 17° W of Fuga Island (Aparri) (Cagayan),015,N 17° W,Fuga Island (Aparri) (Cagayan)
+2026-05-24T13:59:00.000Z,24 May 2026 - 01:59 PM,07.09,125.43,008,2.2,020km N 82° W of City Of Davao,020,N 82° W,City Of Davao
 2026-05-24T18:09:00.000Z,24 May 2026 - 06:09 PM,19.70,121.20,015,2.0,066km N 01° W of Dalupiri Island (Calayan) (Cagayan),066,N 01° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-24T17:58:00.000Z,24 May 2026 - 05:58 PM,16.43,122.18,017,2.0,005km N 36° W of Dilasag (Aurora),005,N 36° W,Dilasag (Aurora)
 2026-05-24T17:39:00.000Z,24 May 2026 - 05:39 PM,15.04,119.90,034,2.0,018km S 82° W of San Felipe (Zambales),018,S 82° W,San Felipe (Zambales)
@@ -65,6 +71,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-23T21:13:00.000Z,23 May 2026 - 09:13 PM,06.89,126.76,145,2.3,039km S 62° E of Tarragona (Davao Oriental),039,S 62° E,Tarragona (Davao Oriental)
 2026-05-23T20:35:00.000Z,23 May 2026 - 08:35 PM,11.12,123.96,006,2.3,009km N 14° W of City Of Bogo (Cebu),009,N 14° W,City Of Bogo (Cebu)
 2026-05-23T20:32:00.000Z,23 May 2026 - 08:32 PM,11.16,124.69,003,2.6,011km S 72° W of Jaro (Leyte),011,S 72° W,Jaro (Leyte)
-2026-05-23T19:37:00.000Z,23 May 2026 - 07:37 PM,14.38,120.41,110,1.3,019km S 87° W of Corregidor Island (City Of Cavite) (Cavite),019,S 87° W,Corregidor Island (City Of Cavite) (Cavite)
-2026-05-23T18:30:00.000Z,23 May 2026 - 06:30 PM,07.89,126.31,078,1.7,008km N 72° W of Boston (Davao Oriental),008,N 72° W,Boston (Davao Oriental)
-2026-05-23T18:10:00.000Z,23 May 2026 - 06:10 PM,06.41,125.62,205,2.5,001km S 79° E of Malita (Davao Occidental),001,S 79° E,Malita (Davao Occidental)
