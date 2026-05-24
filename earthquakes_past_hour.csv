@@ -1,3 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-24T09:14:00.000Z,24 May 2026 - 09:14 AM,10.90,123.86,006,3.5,021km S 40° W of City Of Bogo (Cebu),021,S 40° W,City Of Bogo (Cebu)
-2026-05-24T08:43:00.000Z,24 May 2026 - 08:43 AM,19.76,121.87,005,2.6,028km N 09° W of Babuyan Island (Calayan) (Cagayan),028,N 09° W,Babuyan Island (Calayan) (Cagayan)
+2026-05-24T13:49:00.000Z,24 May 2026 - 01:49 PM,16.43,122.10,010,2.0,013km N 72° W of Dilasag (Aurora),013,N 72° W,Dilasag (Aurora)
+2026-05-24T13:47:00.000Z,24 May 2026 - 01:47 PM,09.62,126.16,034,1.8,017km S 02° E of General Luna (Surigao Del Norte),017,S 02° E,General Luna (Surigao Del Norte)
+2026-05-24T13:19:00.000Z,24 May 2026 - 01:19 PM,05.50,122.34,034,2.6,088km S 45° E of Tongkil (Sulu),088,S 45° E,Tongkil (Sulu)
+2026-05-24T13:18:00.000Z,24 May 2026 - 01:18 PM,17.94,120.81,005,1.5,016km N 81° E of Nueva Era (Ilocos Norte),016,N 81° E,Nueva Era (Ilocos Norte)
+2026-05-24T12:59:00.000Z,24 May 2026 - 12:59 PM,07.30,126.92,036,2.4,044km N 77° E of Manay (Davao Oriental),044,N 77° E,Manay (Davao Oriental)
+2026-05-24T12:59:00.000Z,24 May 2026 - 12:59 PM,06.31,124.65,007,2.4,012km N 37° W of Lake Sebu (South Cotabato),012,N 37° W,Lake Sebu (South Cotabato)
