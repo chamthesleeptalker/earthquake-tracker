@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-25T03:19:00.000Z,25 May 2026 - 03:19 AM,09.19,126.27,018,2.7,024km N 03° W of Bayabas (Surigao Del Sur),024,N 03° W,Bayabas (Surigao Del Sur)
+2026-05-25T03:15:00.000Z,25 May 2026 - 03:15 AM,09.14,126.34,033,1.9,020km N 18° E of Bayabas (Surigao Del Sur),020,N 18° E,Bayabas (Surigao Del Sur)
 2026-05-25T02:59:00.000Z,25 May 2026 - 02:59 AM,07.34,126.79,023,2.8,025km N 87° E of Caraga (Davao Oriental),025,N 87° E,Caraga (Davao Oriental)
 2026-05-25T02:44:00.000Z,25 May 2026 - 02:44 AM,09.96,124.17,003,1.9,006km N 81° W of Danao (Bohol),006,N 81° W,Danao (Bohol)
 2026-05-25T02:39:00.000Z,25 May 2026 - 02:39 AM,09.16,126.43,022,2.2,026km N 37° E of Bayabas (Surigao Del Sur),026,N 37° E,Bayabas (Surigao Del Sur)
@@ -417,5 +419,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-18T04:03:00.000Z,18 May 2026 - 04:03 AM,09.33,126.60,021,2.3,045km N 82° E of Cortes (Surigao Del Sur),045,N 82° E,Cortes (Surigao Del Sur)
 2026-05-18T03:49:00.000Z,18 May 2026 - 03:49 AM,14.33,120.26,066,1.9,027km S 64° W of Mariveles (Bataan),027,S 64° W,Mariveles (Bataan)
 2026-05-18T03:24:00.000Z,18 May 2026 - 03:24 AM,15.57,120.03,023,1.9,009km N 61° E of Masinloc (Zambales),009,N 61° E,Masinloc (Zambales)
-2026-05-18T03:16:00.000Z,18 May 2026 - 03:16 AM,09.62,126.18,034,1.6,018km S 09° E of General Luna (Surigao Del Norte),018,S 09° E,General Luna (Surigao Del Norte)
-2026-05-18T03:05:00.000Z,18 May 2026 - 03:05 AM,09.98,123.20,023,1.9,000km N 26° W of Jimalalud (Negros Oriental),000,N 26° W,Jimalalud (Negros Oriental)
