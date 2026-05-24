@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-24T16:27:00.000Z,24 May 2026 - 04:27 PM,09.20,126.39,015,1.7,028km N 24° E of Bayabas (Surigao Del Sur),028,N 24° E,Bayabas (Surigao Del Sur)
+2026-05-24T16:26:00.000Z,24 May 2026 - 04:26 PM,16.45,121.30,004,1.7,006km S 42° E of Quezon (Nueva Vizcaya),006,S 42° E,Quezon (Nueva Vizcaya)
+2026-05-24T16:24:00.000Z,24 May 2026 - 04:24 PM,09.19,126.72,004,3.7,054km N 64° E of Bayabas (Surigao Del Sur),054,N 64° E,Bayabas (Surigao Del Sur)
+2026-05-24T15:09:00.000Z,24 May 2026 - 03:09 PM,09.71,126.11,028,1.5,010km S 31° W of General Luna (Surigao Del Norte),010,S 31° W,General Luna (Surigao Del Norte)
+2026-05-24T14:36:00.000Z,24 May 2026 - 02:36 PM,10.94,123.86,006,2.5,018km S 49° W of City Of Bogo (Cebu),018,S 49° W,City Of Bogo (Cebu)
+2026-05-24T14:33:00.000Z,24 May 2026 - 02:33 PM,08.70,126.26,035,1.9,006km S 42° E of San Agustin (Surigao Del Sur),006,S 42° E,San Agustin (Surigao Del Sur)
 2026-05-24T13:49:00.000Z,24 May 2026 - 01:49 PM,16.43,122.10,010,2.0,013km N 72° W of Dilasag (Aurora),013,N 72° W,Dilasag (Aurora)
 2026-05-24T13:47:00.000Z,24 May 2026 - 01:47 PM,09.62,126.16,034,1.8,017km S 02° E of General Luna (Surigao Del Norte),017,S 02° E,General Luna (Surigao Del Norte)
 2026-05-24T13:19:00.000Z,24 May 2026 - 01:19 PM,05.50,122.34,034,2.6,088km S 45° E of Tongkil (Sulu),088,S 45° E,Tongkil (Sulu)
@@ -419,6 +425,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-17T17:36:00.000Z,17 May 2026 - 05:36 PM,10.97,124.04,029,1.7,010km S 37° E of City Of Bogo (Cebu),010,S 37° E,City Of Bogo (Cebu)
 2026-05-17T17:25:00.000Z,17 May 2026 - 05:25 PM,07.88,123.26,032,1.4,007km N 34° E of Tigbao (Zamboanga Del Sur),007,N 34° E,Tigbao (Zamboanga Del Sur)
 2026-05-17T17:22:00.000Z,17 May 2026 - 05:22 PM,15.00,122.00,003,1.9,018km N 12° E of Burdeos (Quezon),018,N 12° E,Burdeos (Quezon)
-2026-05-17T14:49:00.000Z,17 May 2026 - 02:49 PM,06.45,125.84,093,2.0,026km N 80° E of Malita (Davao Occidental),026,N 80° E,Malita (Davao Occidental)
-2026-05-17T14:22:00.000Z,17 May 2026 - 02:22 PM,07.32,126.70,015,2.5,015km S 85° E of Caraga (Davao Oriental),015,S 85° E,Caraga (Davao Oriental)
-2026-05-17T13:57:00.000Z,17 May 2026 - 01:57 PM,08.27,126.41,023,2.6,012km N 58° E of City Of Bislig (Surigao Del Sur),012,N 58° E,City Of Bislig (Surigao Del Sur)

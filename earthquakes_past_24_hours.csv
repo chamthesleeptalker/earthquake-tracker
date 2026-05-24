@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-24T16:27:00.000Z,24 May 2026 - 04:27 PM,09.20,126.39,015,1.7,028km N 24° E of Bayabas (Surigao Del Sur),028,N 24° E,Bayabas (Surigao Del Sur)
+2026-05-24T16:26:00.000Z,24 May 2026 - 04:26 PM,16.45,121.30,004,1.7,006km S 42° E of Quezon (Nueva Vizcaya),006,S 42° E,Quezon (Nueva Vizcaya)
+2026-05-24T16:24:00.000Z,24 May 2026 - 04:24 PM,09.19,126.72,004,3.7,054km N 64° E of Bayabas (Surigao Del Sur),054,N 64° E,Bayabas (Surigao Del Sur)
+2026-05-24T15:09:00.000Z,24 May 2026 - 03:09 PM,09.71,126.11,028,1.5,010km S 31° W of General Luna (Surigao Del Norte),010,S 31° W,General Luna (Surigao Del Norte)
+2026-05-24T14:36:00.000Z,24 May 2026 - 02:36 PM,10.94,123.86,006,2.5,018km S 49° W of City Of Bogo (Cebu),018,S 49° W,City Of Bogo (Cebu)
+2026-05-24T14:33:00.000Z,24 May 2026 - 02:33 PM,08.70,126.26,035,1.9,006km S 42° E of San Agustin (Surigao Del Sur),006,S 42° E,San Agustin (Surigao Del Sur)
 2026-05-24T13:49:00.000Z,24 May 2026 - 01:49 PM,16.43,122.10,010,2.0,013km N 72° W of Dilasag (Aurora),013,N 72° W,Dilasag (Aurora)
 2026-05-24T13:47:00.000Z,24 May 2026 - 01:47 PM,09.62,126.16,034,1.8,017km S 02° E of General Luna (Surigao Del Norte),017,S 02° E,General Luna (Surigao Del Norte)
 2026-05-24T13:19:00.000Z,24 May 2026 - 01:19 PM,05.50,122.34,034,2.6,088km S 45° E of Tongkil (Sulu),088,S 45° E,Tongkil (Sulu)
@@ -59,6 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-23T17:12:00.000Z,23 May 2026 - 05:12 PM,06.84,126.38,015,1.9,022km S 54° E of City Of Mati (Davao Oriental),022,S 54° E,City Of Mati (Davao Oriental)
 2026-05-23T16:28:00.000Z,23 May 2026 - 04:28 PM,13.23,120.59,013,2.2,001km N 60° W of Mamburao (Occidental Mindoro),001,N 60° W,Mamburao (Occidental Mindoro)
 2026-05-23T16:28:00.000Z,23 May 2026 - 04:28 PM,12.28,124.99,041,1.5,008km S 35° W of Las Navas (Northern Samar),008,S 35° W,Las Navas (Northern Samar)
-2026-05-23T15:14:00.000Z,23 May 2026 - 03:14 PM,05.94,126.64,085,2.2,101km S 38° E of Governor Generoso (Davao Oriental),101,S 38° E,Governor Generoso (Davao Oriental)
-2026-05-23T15:06:00.000Z,23 May 2026 - 03:06 PM,15.45,120.40,135,2.0,008km S 70° W of San Jose (Tarlac),008,S 70° W,San Jose (Tarlac)
-2026-05-23T14:25:00.000Z,23 May 2026 - 02:25 PM,19.11,121.03,010,4.6,018km N 89° W of Dalupiri Island (Calayan) (Cagayan),018,N 89° W,Dalupiri Island (Calayan) (Cagayan)
