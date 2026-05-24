@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-24T16:27:00.000Z,24 May 2026 - 04:27 PM,09.20,126.39,015,1.7,028km N 24° E of Bayabas (Surigao Del Sur),028,N 24° E,Bayabas (Surigao Del Sur)
-2026-05-24T16:26:00.000Z,24 May 2026 - 04:26 PM,16.45,121.30,004,1.7,006km S 42° E of Quezon (Nueva Vizcaya),006,S 42° E,Quezon (Nueva Vizcaya)
-2026-05-24T16:24:00.000Z,24 May 2026 - 04:24 PM,09.19,126.72,004,3.7,054km N 64° E of Bayabas (Surigao Del Sur),054,N 64° E,Bayabas (Surigao Del Sur)
+2026-05-24T18:09:00.000Z,24 May 2026 - 06:09 PM,19.70,121.20,015,2.0,066km N 01° W of Dalupiri Island (Calayan) (Cagayan),066,N 01° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-24T17:58:00.000Z,24 May 2026 - 05:58 PM,16.43,122.18,017,2.0,005km N 36° W of Dilasag (Aurora),005,N 36° W,Dilasag (Aurora)
+2026-05-24T17:39:00.000Z,24 May 2026 - 05:39 PM,15.04,119.90,034,2.0,018km S 82° W of San Felipe (Zambales),018,S 82° W,San Felipe (Zambales)
+2026-05-24T17:28:00.000Z,24 May 2026 - 05:28 PM,07.34,127.02,015,2.6,051km N 88° E of Caraga (Davao Oriental),051,N 88° E,Caraga (Davao Oriental)
