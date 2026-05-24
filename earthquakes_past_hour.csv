@@ -1,6 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-25T03:19:00.000Z,25 May 2026 - 03:19 AM,09.19,126.27,018,2.7,024km N 03° W of Bayabas (Surigao Del Sur),024,N 03° W,Bayabas (Surigao Del Sur)
-2026-05-25T03:15:00.000Z,25 May 2026 - 03:15 AM,09.14,126.34,033,1.9,020km N 18° E of Bayabas (Surigao Del Sur),020,N 18° E,Bayabas (Surigao Del Sur)
-2026-05-25T02:59:00.000Z,25 May 2026 - 02:59 AM,07.34,126.79,023,2.8,025km N 87° E of Caraga (Davao Oriental),025,N 87° E,Caraga (Davao Oriental)
-2026-05-25T02:44:00.000Z,25 May 2026 - 02:44 AM,09.96,124.17,003,1.9,006km N 81° W of Danao (Bohol),006,N 81° W,Danao (Bohol)
-2026-05-25T02:39:00.000Z,25 May 2026 - 02:39 AM,09.16,126.43,022,2.2,026km N 37° E of Bayabas (Surigao Del Sur),026,N 37° E,Bayabas (Surigao Del Sur)
+2026-05-25T05:47:00.000Z,25 May 2026 - 05:47 AM,18.29,120.86,033,1.7,017km N 14° E of Carasi (Ilocos Norte),017,N 14° E,Carasi (Ilocos Norte)
+2026-05-25T05:01:00.000Z,25 May 2026 - 05:01 AM,04.81,124.41,032,2.2,131km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),131,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-25T04:58:00.000Z,25 May 2026 - 04:58 AM,14.10,120.41,099,1.9,024km N 83° W of Nasugbu (Batangas),024,N 83° W,Nasugbu (Batangas)
