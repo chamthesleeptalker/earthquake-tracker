@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-24T09:14:00.000Z,24 May 2026 - 09:14 AM,10.90,123.86,006,3.5,021km S 40° W of City Of Bogo (Cebu),021,S 40° W,City Of Bogo (Cebu)
+2026-05-24T08:43:00.000Z,24 May 2026 - 08:43 AM,19.76,121.87,005,2.6,028km N 09° W of Babuyan Island (Calayan) (Cagayan),028,N 09° W,Babuyan Island (Calayan) (Cagayan)
+2026-05-24T07:39:00.000Z,24 May 2026 - 07:39 AM,17.70,120.61,003,2.8,006km N 81° W of Danglas (Abra),006,N 81° W,Danglas (Abra)
+2026-05-24T07:32:00.000Z,24 May 2026 - 07:32 AM,09.12,126.45,019,1.7,025km N 47° E of Bayabas (Surigao Del Sur),025,N 47° E,Bayabas (Surigao Del Sur)
 2026-05-24T05:45:00.000Z,24 May 2026 - 05:45 AM,08.77,126.61,027,2.8,035km S 84° E of Marihatag (Surigao Del Sur),035,S 84° E,Marihatag (Surigao Del Sur)
 2026-05-24T05:42:00.000Z,24 May 2026 - 05:42 AM,17.67,120.48,009,3.3,006km S 74° E of Magsingal (Ilocos Sur),006,S 74° E,Magsingal (Ilocos Sur)
 2026-05-24T05:29:00.000Z,24 May 2026 - 05:29 AM,17.69,120.56,006,3.3,011km S 86° W of Danglas (Abra),011,S 86° W,Danglas (Abra)
@@ -59,9 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-23T10:26:00.000Z,23 May 2026 - 10:26 AM,11.11,123.85,031,1.6,015km N 64° W of City Of Bogo (Cebu),015,N 64° W,City Of Bogo (Cebu)
 2026-05-23T10:24:00.000Z,23 May 2026 - 10:24 AM,09.62,126.20,034,1.6,019km S 15° E of General Luna (Surigao Del Norte),019,S 15° E,General Luna (Surigao Del Norte)
 2026-05-23T09:35:00.000Z,23 May 2026 - 09:35 AM,10.41,125.01,035,1.3,004km N 41° E of Sogod (Southern Leyte),004,N 41° E,Sogod (Southern Leyte)
-2026-05-23T07:42:00.000Z,23 May 2026 - 07:42 AM,19.13,121.24,031,1.8,004km N 61° E of Dalupiri Island (Calayan) (Cagayan),004,N 61° E,Dalupiri Island (Calayan) (Cagayan)
-2026-05-23T07:08:00.000Z,23 May 2026 - 07:08 AM,16.32,120.66,032,1.8,004km S 27° W of Itogon (Benguet),004,S 27° W,Itogon (Benguet)
-2026-05-23T06:53:00.000Z,23 May 2026 - 06:53 AM,13.55,120.93,001,2.6,006km N 30° W of Puerto Galera (Oriental Mindoro),006,N 30° W,Puerto Galera (Oriental Mindoro)
-2026-05-23T06:37:00.000Z,23 May 2026 - 06:37 AM,11.35,126.12,015,2.5,054km N 58° E of Mercedes (Eastern Samar),054,N 58° E,Mercedes (Eastern Samar)
-2026-05-23T06:29:00.000Z,23 May 2026 - 06:29 AM,12.17,125.24,019,2.3,001km N 23° W of Maslog (Eastern Samar),001,N 23° W,Maslog (Eastern Samar)
-2026-05-23T05:49:00.000Z,23 May 2026 - 05:49 AM,16.14,122.00,034,1.6,005km S 83° E of Dinalungan (Aurora),005,S 83° E,Dinalungan (Aurora)

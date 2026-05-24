@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-24T09:14:00.000Z,24 May 2026 - 09:14 AM,10.90,123.86,006,3.5,021km S 40° W of City Of Bogo (Cebu),021,S 40° W,City Of Bogo (Cebu)
+2026-05-24T08:43:00.000Z,24 May 2026 - 08:43 AM,19.76,121.87,005,2.6,028km N 09° W of Babuyan Island (Calayan) (Cagayan),028,N 09° W,Babuyan Island (Calayan) (Cagayan)
+2026-05-24T07:39:00.000Z,24 May 2026 - 07:39 AM,17.70,120.61,003,2.8,006km N 81° W of Danglas (Abra),006,N 81° W,Danglas (Abra)
+2026-05-24T07:32:00.000Z,24 May 2026 - 07:32 AM,09.12,126.45,019,1.7,025km N 47° E of Bayabas (Surigao Del Sur),025,N 47° E,Bayabas (Surigao Del Sur)
 2026-05-24T05:45:00.000Z,24 May 2026 - 05:45 AM,08.77,126.61,027,2.8,035km S 84° E of Marihatag (Surigao Del Sur),035,S 84° E,Marihatag (Surigao Del Sur)
 2026-05-24T05:42:00.000Z,24 May 2026 - 05:42 AM,17.67,120.48,009,3.3,006km S 74° E of Magsingal (Ilocos Sur),006,S 74° E,Magsingal (Ilocos Sur)
 2026-05-24T05:29:00.000Z,24 May 2026 - 05:29 AM,17.69,120.56,006,3.3,011km S 86° W of Danglas (Abra),011,S 86° W,Danglas (Abra)
