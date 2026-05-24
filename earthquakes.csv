@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-24T22:49:00.000Z,24 May 2026 - 10:49 PM,09.17,126.23,023,1.5,012km S 19° E of Cortes (Surigao Del Sur),012,S 19° E,Cortes (Surigao Del Sur)
+2026-05-24T22:41:00.000Z,24 May 2026 - 10:41 PM,10.78,123.76,005,1.5,009km N 51° W of Tuburan (Cebu),009,N 51° W,Tuburan (Cebu)
+2026-05-24T22:33:00.000Z,24 May 2026 - 10:33 PM,17.46,120.84,010,1.6,003km N 44° W of Bucloc (Abra),003,N 44° W,Bucloc (Abra)
+2026-05-24T22:28:00.000Z,24 May 2026 - 10:28 PM,07.43,126.08,002,2.7,013km N 23° W of Maragusan (Davao De Oro),013,N 23° W,Maragusan (Davao De Oro)
+2026-05-24T22:22:00.000Z,24 May 2026 - 10:22 PM,07.20,126.32,032,1.8,022km N 41° W of Tarragona (Davao Oriental),022,N 41° W,Tarragona (Davao Oriental)
+2026-05-24T22:07:00.000Z,24 May 2026 - 10:07 PM,06.52,123.99,032,1.7,007km S 57° W of Kalamansig (Sultan Kudarat),007,S 57° W,Kalamansig (Sultan Kudarat)
+2026-05-24T22:06:00.000Z,24 May 2026 - 10:06 PM,09.36,126.34,017,1.9,018km N 61° E of Cortes (Surigao Del Sur),018,N 61° E,Cortes (Surigao Del Sur)
+2026-05-24T21:49:00.000Z,24 May 2026 - 09:49 PM,10.93,123.89,002,2.2,016km S 37° W of City Of Bogo (Cebu),016,S 37° W,City Of Bogo (Cebu)
 2026-05-24T21:29:00.000Z,24 May 2026 - 09:29 PM,09.09,126.41,030,1.9,020km N 46° E of Bayabas (Surigao Del Sur),020,N 46° E,Bayabas (Surigao Del Sur)
 2026-05-24T21:29:00.000Z,24 May 2026 - 09:29 PM,09.14,126.67,012,2.8,047km N 66° E of Bayabas (Surigao Del Sur),047,N 66° E,Bayabas (Surigao Del Sur)
 2026-05-24T21:26:00.000Z,24 May 2026 - 09:26 PM,09.14,126.68,004,2.3,047km N 66° E of Bayabas (Surigao Del Sur),047,N 66° E,Bayabas (Surigao Del Sur)
