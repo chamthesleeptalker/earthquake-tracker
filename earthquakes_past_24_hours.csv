@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-26T07:02:00.000Z,26 May 2026 - 07:02 AM,12.91,121.22,011,1.9,025km S 52° W of Socorro (Oriental Mindoro),025,S 52° W,Socorro (Oriental Mindoro)
+2026-05-26T06:52:00.000Z,26 May 2026 - 06:52 AM,11.90,125.61,030,2.1,019km N 60° E of Sulat (Eastern Samar),019,N 60° E,Sulat (Eastern Samar)
 2026-05-26T05:53:00.000Z,26 May 2026 - 05:53 AM,13.76,120.55,081,1.7,012km S 46° W of Calatagan (Batangas),012,S 46° W,Calatagan (Batangas)
 2026-05-26T05:43:00.000Z,26 May 2026 - 05:43 AM,07.81,127.01,008,3.2,056km N 62° E of Baganga (Davao Oriental),056,N 62° E,Baganga (Davao Oriental)
 2026-05-26T05:42:00.000Z,26 May 2026 - 05:42 AM,06.72,125.12,018,2.3,005km S 47° W of Magsaysay (Davao Del Sur),005,S 47° W,Magsaysay (Davao Del Sur)
@@ -69,4 +71,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-25T07:46:00.000Z,25 May 2026 - 07:46 AM,09.10,126.96,027,2.8,076km N 79° E of Bayabas (Surigao Del Sur),076,N 79° E,Bayabas (Surigao Del Sur)
 2026-05-25T07:23:00.000Z,25 May 2026 - 07:23 AM,08.83,123.83,033,1.6,027km N 29° E of Plaridel (Misamis Occidental),027,N 29° E,Plaridel (Misamis Occidental)
 2026-05-25T07:21:00.000Z,25 May 2026 - 07:21 AM,09.56,126.10,003,2.4,025km S 13° W of General Luna (Surigao Del Norte),025,S 13° W,General Luna (Surigao Del Norte)
-2026-05-25T06:49:00.000Z,25 May 2026 - 06:49 AM,09.15,126.45,035,1.8,027km N 43° E of Bayabas (Surigao Del Sur),027,N 43° E,Bayabas (Surigao Del Sur)
