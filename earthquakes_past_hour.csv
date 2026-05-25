@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-25T20:41:00.000Z,25 May 2026 - 08:41 PM,09.40,125.59,010,3.5,005km S 13° E of Kitcharao (Agusan Del Norte),005,S 13° E,Kitcharao (Agusan Del Norte)
-2026-05-25T19:46:00.000Z,25 May 2026 - 07:46 PM,08.13,125.94,029,2.5,007km N 11° W of Veruela (Agusan Del Sur),007,N 11° W,Veruela (Agusan Del Sur)
+2026-05-25T23:36:00.000Z,25 May 2026 - 11:36 PM,20.99,121.06,028,2.2,084km N 75° W of Itbayat (Batanes),084,N 75° W,Itbayat (Batanes)
+2026-05-25T23:31:00.000Z,25 May 2026 - 11:31 PM,07.34,126.80,014,2.1,025km N 88° E of Caraga (Davao Oriental),025,N 88° E,Caraga (Davao Oriental)
+2026-05-25T23:10:00.000Z,25 May 2026 - 11:10 PM,18.69,120.76,033,2.0,015km N 13° W of Pagudpud (Ilocos Norte),015,N 13° W,Pagudpud (Ilocos Norte)
+2026-05-25T22:40:00.000Z,25 May 2026 - 10:40 PM,17.27,120.16,006,2.4,031km S 78° W of San Esteban (Ilocos Sur),031,S 78° W,San Esteban (Ilocos Sur)

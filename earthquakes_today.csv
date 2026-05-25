@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-25T23:36:00.000Z,25 May 2026 - 11:36 PM,20.99,121.06,028,2.2,084km N 75° W of Itbayat (Batanes),084,N 75° W,Itbayat (Batanes)
+2026-05-25T23:31:00.000Z,25 May 2026 - 11:31 PM,07.34,126.80,014,2.1,025km N 88° E of Caraga (Davao Oriental),025,N 88° E,Caraga (Davao Oriental)
+2026-05-25T23:10:00.000Z,25 May 2026 - 11:10 PM,18.69,120.76,033,2.0,015km N 13° W of Pagudpud (Ilocos Norte),015,N 13° W,Pagudpud (Ilocos Norte)
+2026-05-25T22:40:00.000Z,25 May 2026 - 10:40 PM,17.27,120.16,006,2.4,031km S 78° W of San Esteban (Ilocos Sur),031,S 78° W,San Esteban (Ilocos Sur)
+2026-05-25T22:35:00.000Z,25 May 2026 - 10:35 PM,20.78,120.67,051,3.6,122km S 90° W of Itbayat (Batanes),122,S 90° W,Itbayat (Batanes)
+2026-05-25T21:58:00.000Z,25 May 2026 - 09:58 PM,10.91,123.96,010,1.7,015km S 08° W of City Of Bogo (Cebu),015,S 08° W,City Of Bogo (Cebu)
+2026-05-25T21:31:00.000Z,25 May 2026 - 09:31 PM,17.27,120.34,013,1.5,012km S 79° W of Santiago (Ilocos Sur),012,S 79° W,Santiago (Ilocos Sur)
 2026-05-25T20:41:00.000Z,25 May 2026 - 08:41 PM,09.40,125.59,010,3.5,005km S 13° E of Kitcharao (Agusan Del Norte),005,S 13° E,Kitcharao (Agusan Del Norte)
 2026-05-25T19:46:00.000Z,25 May 2026 - 07:46 PM,08.13,125.94,029,2.5,007km N 11° W of Veruela (Agusan Del Sur),007,N 11° W,Veruela (Agusan Del Sur)
 2026-05-25T19:17:00.000Z,25 May 2026 - 07:17 PM,18.44,121.16,074,2.3,015km S 31° W of Sanchez-mira (Cagayan),015,S 31° W,Sanchez-mira (Cagayan)
