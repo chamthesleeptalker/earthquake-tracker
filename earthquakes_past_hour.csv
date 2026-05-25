@@ -1,5 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-25T23:36:00.000Z,25 May 2026 - 11:36 PM,20.99,121.06,028,2.2,084km N 75° W of Itbayat (Batanes),084,N 75° W,Itbayat (Batanes)
-2026-05-25T23:31:00.000Z,25 May 2026 - 11:31 PM,07.34,126.80,014,2.1,025km N 88° E of Caraga (Davao Oriental),025,N 88° E,Caraga (Davao Oriental)
-2026-05-25T23:10:00.000Z,25 May 2026 - 11:10 PM,18.69,120.76,033,2.0,015km N 13° W of Pagudpud (Ilocos Norte),015,N 13° W,Pagudpud (Ilocos Norte)
-2026-05-25T22:40:00.000Z,25 May 2026 - 10:40 PM,17.27,120.16,006,2.4,031km S 78° W of San Esteban (Ilocos Sur),031,S 78° W,San Esteban (Ilocos Sur)
+2026-05-26T01:23:00.000Z,26 May 2026 - 01:23 AM,02.38,126.80,038,4.0,369km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),369,S 24° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-05-26T01:15:00.000Z,26 May 2026 - 01:15 AM,08.58,125.81,015,2.0,012km S 82° W of Prosperidad (Agusan Del Sur),012,S 82° W,Prosperidad (Agusan Del Sur)
+2026-05-26T01:07:00.000Z,26 May 2026 - 01:07 AM,09.55,126.20,029,1.4,026km S 12° E of General Luna (Surigao Del Norte),026,S 12° E,General Luna (Surigao Del Norte)
+2026-05-26T01:00:00.000Z,26 May 2026 - 01:00 AM,20.12,121.59,041,2.6,038km S 52° W of Sabtang (Batanes),038,S 52° W,Sabtang (Batanes)
+2026-05-26T00:59:00.000Z,26 May 2026 - 12:59 AM,13.64,121.09,003,2.5,012km N 09° E of Verde Island (Batangas City) (Batangas),012,N 09° E,Verde Island (Batangas City) (Batangas)
+2026-05-26T00:55:00.000Z,26 May 2026 - 12:55 AM,11.82,125.36,025,2.0,010km N 86° W of Sulat (Eastern Samar),010,N 86° W,Sulat (Eastern Samar)
+2026-05-26T00:53:00.000Z,26 May 2026 - 12:53 AM,09.62,125.90,002,1.7,007km N 87° W of Socorro (Surigao Del Norte),007,N 87° W,Socorro (Surigao Del Norte)
+2026-05-26T00:52:00.000Z,26 May 2026 - 12:52 AM,16.90,120.51,011,1.6,003km N 53° W of Alilem (Ilocos Sur),003,N 53° W,Alilem (Ilocos Sur)
