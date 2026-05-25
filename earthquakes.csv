@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-25T16:54:00.000Z,25 May 2026 - 04:54 PM,05.59,126.05,025,2.7,044km S 59° E of Jose Abad Santos (Davao Occidental),044,S 59° E,Jose Abad Santos (Davao Occidental)
+2026-05-25T16:29:00.000Z,25 May 2026 - 04:29 PM,16.56,119.79,024,2.2,022km N 29° W of Bolinao (Pangasinan),022,N 29° W,Bolinao (Pangasinan)
+2026-05-25T16:07:00.000Z,25 May 2026 - 04:07 PM,09.61,126.23,034,2.0,020km S 23° E of General Luna (Surigao Del Norte),020,S 23° E,General Luna (Surigao Del Norte)
+2026-05-25T15:29:00.000Z,25 May 2026 - 03:29 PM,17.22,120.16,007,2.1,031km N 80° W of City Of Candon (Ilocos Sur),031,N 80° W,City Of Candon (Ilocos Sur)
+2026-05-25T15:28:00.000Z,25 May 2026 - 03:28 PM,08.75,121.75,024,3.2,110km S 34° E of Cagayancillo (Palawan),110,S 34° E,Cagayancillo (Palawan)
+2026-05-25T15:21:00.000Z,25 May 2026 - 03:21 PM,07.17,126.59,021,2.6,007km S 50° E of Manay (Davao Oriental),007,S 50° E,Manay (Davao Oriental)
+2026-05-25T14:55:00.000Z,25 May 2026 - 02:55 PM,11.19,124.74,033,3.1,005km N 89° W of Jaro (Leyte),005,N 89° W,Jaro (Leyte)
+2026-05-25T13:07:00.000Z,25 May 2026 - 01:07 PM,09.45,126.28,032,1.4,022km N 26° E of Cortes (Surigao Del Sur),022,N 26° E,Cortes (Surigao Del Sur)
+2026-05-25T12:51:00.000Z,25 May 2026 - 12:51 PM,15.26,120.36,117,1.7,022km N 86° W of Mabalacat City (Pampanga),022,N 86° W,Mabalacat City (Pampanga)
 2026-05-25T12:44:00.000Z,25 May 2026 - 12:44 PM,09.21,125.77,019,2.3,023km S 74° W of Madrid (Surigao Del Sur),023,S 74° W,Madrid (Surigao Del Sur)
 2026-05-25T12:34:00.000Z,25 May 2026 - 12:34 PM,19.52,120.76,103,2.4,065km N 46° W of Dalupiri Island (Calayan) (Cagayan),065,N 46° W,Dalupiri Island (Calayan) (Cagayan)
 2026-05-25T12:08:00.000Z,25 May 2026 - 12:08 PM,09.09,126.14,033,1.8,004km N 60° W of City Of Tandag (Surigao Del Sur),004,N 60° W,City Of Tandag (Surigao Del Sur)
