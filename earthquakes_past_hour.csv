@@ -1,7 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-26T02:48:00.000Z,26 May 2026 - 02:48 AM,09.62,126.25,027,1.9,020km S 30° E of General Luna (Surigao Del Norte),020,S 30° E,General Luna (Surigao Del Norte)
-2026-05-26T02:36:00.000Z,26 May 2026 - 02:36 AM,07.95,126.68,019,2.4,030km N 55° E of Cateel (Davao Oriental),030,N 55° E,Cateel (Davao Oriental)
-2026-05-26T02:14:00.000Z,26 May 2026 - 02:14 AM,13.42,120.23,019,2.9,025km N 89° W of Paluan (Occidental Mindoro),025,N 89° W,Paluan (Occidental Mindoro)
-2026-05-26T02:01:00.000Z,26 May 2026 - 02:01 AM,17.65,120.60,009,2.6,008km S 52° W of Danglas (Abra),008,S 52° W,Danglas (Abra)
-2026-05-26T01:59:00.000Z,26 May 2026 - 01:59 AM,07.82,126.76,039,1.5,023km N 71° E of Cateel (Davao Oriental),023,N 71° E,Cateel (Davao Oriental)
-2026-05-26T01:52:00.000Z,26 May 2026 - 01:52 AM,09.57,126.23,029,2.0,025km S 18° E of General Luna (Surigao Del Norte),025,S 18° E,General Luna (Surigao Del Norte)
+2026-05-26T04:29:00.000Z,26 May 2026 - 04:29 AM,14.83,119.29,015,3.0,088km S 81° W of San Antonio (Zambales),088,S 81° W,San Antonio (Zambales)
+2026-05-26T04:13:00.000Z,26 May 2026 - 04:13 AM,06.21,125.80,132,1.6,012km N 81° E of Don Marcelino (Davao Occidental),012,N 81° E,Don Marcelino (Davao Occidental)
+2026-05-26T04:04:00.000Z,26 May 2026 - 04:04 AM,08.76,126.55,031,1.7,028km S 81° E of Marihatag (Surigao Del Sur),028,S 81° E,Marihatag (Surigao Del Sur)
+2026-05-26T03:33:00.000Z,26 May 2026 - 03:33 AM,11.78,125.37,026,1.9,009km N 69° W of San Julian (Eastern Samar),009,N 69° W,San Julian (Eastern Samar)
