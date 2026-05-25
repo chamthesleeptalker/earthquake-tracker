@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-25T07:46:00.000Z,25 May 2026 - 07:46 AM,09.10,126.96,027,2.8,076km N 79° E of Bayabas (Surigao Del Sur),076,N 79° E,Bayabas (Surigao Del Sur)
+2026-05-25T07:23:00.000Z,25 May 2026 - 07:23 AM,08.83,123.83,033,1.6,027km N 29° E of Plaridel (Misamis Occidental),027,N 29° E,Plaridel (Misamis Occidental)
+2026-05-25T07:21:00.000Z,25 May 2026 - 07:21 AM,09.56,126.10,003,2.4,025km S 13° W of General Luna (Surigao Del Norte),025,S 13° W,General Luna (Surigao Del Norte)
 2026-05-25T06:49:00.000Z,25 May 2026 - 06:49 AM,09.15,126.45,035,1.8,027km N 43° E of Bayabas (Surigao Del Sur),027,N 43° E,Bayabas (Surigao Del Sur)
 2026-05-25T05:47:00.000Z,25 May 2026 - 05:47 AM,18.29,120.86,033,1.7,017km N 14° E of Carasi (Ilocos Norte),017,N 14° E,Carasi (Ilocos Norte)
 2026-05-25T05:01:00.000Z,25 May 2026 - 05:01 AM,04.81,124.41,032,2.2,131km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),131,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -72,5 +75,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-24T09:42:00.000Z,24 May 2026 - 09:42 AM,20.09,121.56,003,2.9,043km S 51° W of Sabtang (Batanes),043,S 51° W,Sabtang (Batanes)
 2026-05-24T09:14:00.000Z,24 May 2026 - 09:14 AM,10.90,123.86,006,3.5,021km S 40° W of City Of Bogo (Cebu),021,S 40° W,City Of Bogo (Cebu)
 2026-05-24T08:43:00.000Z,24 May 2026 - 08:43 AM,19.76,121.87,005,2.6,028km N 09° W of Babuyan Island (Calayan) (Cagayan),028,N 09° W,Babuyan Island (Calayan) (Cagayan)
-2026-05-24T07:39:00.000Z,24 May 2026 - 07:39 AM,17.70,120.61,003,2.8,006km N 81° W of Danglas (Abra),006,N 81° W,Danglas (Abra)
-2026-05-24T07:32:00.000Z,24 May 2026 - 07:32 AM,09.12,126.45,019,1.7,025km N 47° E of Bayabas (Surigao Del Sur),025,N 47° E,Bayabas (Surigao Del Sur)

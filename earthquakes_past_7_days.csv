@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-25T07:46:00.000Z,25 May 2026 - 07:46 AM,09.10,126.96,027,2.8,076km N 79° E of Bayabas (Surigao Del Sur),076,N 79° E,Bayabas (Surigao Del Sur)
+2026-05-25T07:23:00.000Z,25 May 2026 - 07:23 AM,08.83,123.83,033,1.6,027km N 29° E of Plaridel (Misamis Occidental),027,N 29° E,Plaridel (Misamis Occidental)
+2026-05-25T07:21:00.000Z,25 May 2026 - 07:21 AM,09.56,126.10,003,2.4,025km S 13° W of General Luna (Surigao Del Norte),025,S 13° W,General Luna (Surigao Del Norte)
 2026-05-25T06:49:00.000Z,25 May 2026 - 06:49 AM,09.15,126.45,035,1.8,027km N 43° E of Bayabas (Surigao Del Sur),027,N 43° E,Bayabas (Surigao Del Sur)
 2026-05-25T05:47:00.000Z,25 May 2026 - 05:47 AM,18.29,120.86,033,1.7,017km N 14° E of Carasi (Ilocos Norte),017,N 14° E,Carasi (Ilocos Norte)
 2026-05-25T05:01:00.000Z,25 May 2026 - 05:01 AM,04.81,124.41,032,2.2,131km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),131,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -416,6 +419,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-18T07:56:00.000Z,18 May 2026 - 07:56 AM,18.61,120.97,030,1.6,006km N 21° W of Santa Praxedes (Cagayan),006,N 21° W,Santa Praxedes (Cagayan)
 2026-05-18T07:49:00.000Z,18 May 2026 - 07:49 AM,10.81,123.81,012,2.1,032km S 35° W of City Of Bogo (Cebu),032,S 35° W,City Of Bogo (Cebu)
 2026-05-18T07:46:00.000Z,18 May 2026 - 07:46 AM,10.81,123.76,009,1.7,011km N 36° W of Tuburan (Cebu),011,N 36° W,Tuburan (Cebu)
-2026-05-18T07:45:00.000Z,18 May 2026 - 07:45 AM,10.80,123.74,007,1.9,012km N 49° W of Tuburan (Cebu),012,N 49° W,Tuburan (Cebu)
-2026-05-18T07:39:00.000Z,18 May 2026 - 07:39 AM,12.07,125.51,032,2.1,005km N 39° E of Dolores (Eastern Samar),005,N 39° E,Dolores (Eastern Samar)
-2026-05-18T07:33:00.000Z,18 May 2026 - 07:33 AM,11.11,124.06,035,1.6,011km N 50° E of City Of Bogo (Cebu),011,N 50° E,City Of Bogo (Cebu)
