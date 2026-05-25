@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-25T20:41:00.000Z,25 May 2026 - 08:41 PM,09.40,125.59,010,3.5,005km S 13° E of Kitcharao (Agusan Del Norte),005,S 13° E,Kitcharao (Agusan Del Norte)
+2026-05-25T19:46:00.000Z,25 May 2026 - 07:46 PM,08.13,125.94,029,2.5,007km N 11° W of Veruela (Agusan Del Sur),007,N 11° W,Veruela (Agusan Del Sur)
+2026-05-25T19:17:00.000Z,25 May 2026 - 07:17 PM,18.44,121.16,074,2.3,015km S 31° W of Sanchez-mira (Cagayan),015,S 31° W,Sanchez-mira (Cagayan)
+2026-05-25T18:21:00.000Z,25 May 2026 - 06:21 PM,13.72,120.64,105,1.4,013km S 04° E of Calatagan (Batangas),013,S 04° E,Calatagan (Batangas)
+2026-05-25T18:00:00.000Z,25 May 2026 - 06:00 PM,09.11,126.46,030,1.7,025km N 52° E of Bayabas (Surigao Del Sur),025,N 52° E,Bayabas (Surigao Del Sur)
+2026-05-25T17:48:00.000Z,25 May 2026 - 05:48 PM,07.89,127.04,002,2.0,064km N 57° E of Baganga (Davao Oriental),064,N 57° E,Baganga (Davao Oriental)
 2026-05-25T16:54:00.000Z,25 May 2026 - 04:54 PM,05.59,126.05,025,2.7,044km S 59° E of Jose Abad Santos (Davao Occidental),044,S 59° E,Jose Abad Santos (Davao Occidental)
 2026-05-25T16:29:00.000Z,25 May 2026 - 04:29 PM,16.56,119.79,024,2.2,022km N 29° W of Bolinao (Pangasinan),022,N 29° W,Bolinao (Pangasinan)
 2026-05-25T16:07:00.000Z,25 May 2026 - 04:07 PM,09.61,126.23,034,2.0,020km S 23° E of General Luna (Surigao Del Norte),020,S 23° E,General Luna (Surigao Del Norte)
