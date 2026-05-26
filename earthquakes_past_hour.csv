@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-26T07:02:00.000Z,26 May 2026 - 07:02 AM,12.91,121.22,011,1.9,025km S 52° W of Socorro (Oriental Mindoro),025,S 52° W,Socorro (Oriental Mindoro)
-2026-05-26T06:52:00.000Z,26 May 2026 - 06:52 AM,11.90,125.61,030,2.1,019km N 60° E of Sulat (Eastern Samar),019,N 60° E,Sulat (Eastern Samar)
+2026-05-26T12:35:00.000Z,26 May 2026 - 12:35 PM,06.22,126.12,019,2.5,049km N 88° E of Don Marcelino (Davao Occidental),049,N 88° E,Don Marcelino (Davao Occidental)
+2026-05-26T12:23:00.000Z,26 May 2026 - 12:23 PM,12.01,121.60,004,2.8,010km N 36° E of Caluya (Antique),010,N 36° E,Caluya (Antique)
+2026-05-26T12:00:00.000Z,26 May 2026 - 12:00 PM,13.11,121.40,029,1.6,006km S 49° W of Pola (Oriental Mindoro),006,S 49° W,Pola (Oriental Mindoro)
