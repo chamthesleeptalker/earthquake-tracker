@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-27T06:51:00.000Z,27 May 2026 - 06:51 AM,07.75,126.63,022,1.5,020km S 76° E of Cateel (Davao Oriental),020,S 76° E,Cateel (Davao Oriental)
 2026-05-27T05:28:00.000Z,27 May 2026 - 05:28 AM,13.39,124.26,027,2.5,021km S 10° E of Virac (Catanduanes),021,S 10° E,Virac (Catanduanes)
 2026-05-27T04:48:00.000Z,27 May 2026 - 04:48 AM,14.44,121.37,036,1.4,006km N 80° W of Mabitac (Laguna),006,N 80° W,Mabitac (Laguna)
 2026-05-27T04:14:00.000Z,27 May 2026 - 04:14 AM,19.25,121.13,031,1.5,017km N 26° W of Dalupiri Island (Calayan) (Cagayan),017,N 26° W,Dalupiri Island (Calayan) (Cagayan)
@@ -71,6 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-26T07:27:00.000Z,26 May 2026 - 07:27 AM,06.75,125.27,091,2.3,007km N 21° W of Hagonoy (Davao Del Sur),007,N 21° W,Hagonoy (Davao Del Sur)
 2026-05-26T07:02:00.000Z,26 May 2026 - 07:02 AM,12.91,121.22,011,1.9,025km S 52° W of Socorro (Oriental Mindoro),025,S 52° W,Socorro (Oriental Mindoro)
 2026-05-26T06:52:00.000Z,26 May 2026 - 06:52 AM,11.90,125.61,030,2.1,019km N 60° E of Sulat (Eastern Samar),019,N 60° E,Sulat (Eastern Samar)
-2026-05-26T05:53:00.000Z,26 May 2026 - 05:53 AM,13.76,120.55,081,1.7,012km S 46° W of Calatagan (Batangas),012,S 46° W,Calatagan (Batangas)
-2026-05-26T05:43:00.000Z,26 May 2026 - 05:43 AM,07.81,127.01,008,3.2,056km N 62° E of Baganga (Davao Oriental),056,N 62° E,Baganga (Davao Oriental)
-2026-05-26T05:42:00.000Z,26 May 2026 - 05:42 AM,06.72,125.12,018,2.3,005km S 47° W of Magsaysay (Davao Del Sur),005,S 47° W,Magsaysay (Davao Del Sur)
