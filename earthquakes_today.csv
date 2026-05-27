@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-27T13:17:00.000Z,27 May 2026 - 01:17 PM,16.53,119.08,014,3.0,088km N 80° W of Bolinao (Pangasinan),088,N 80° W,Bolinao (Pangasinan)
+2026-05-27T11:32:00.000Z,27 May 2026 - 11:32 AM,16.59,119.03,018,2.4,095km N 76° W of Bolinao (Pangasinan),095,N 76° W,Bolinao (Pangasinan)
+2026-05-27T11:19:00.000Z,27 May 2026 - 11:19 AM,16.53,119.23,021,2.9,073km N 78° W of Bolinao (Pangasinan),073,N 78° W,Bolinao (Pangasinan)
+2026-05-27T11:15:00.000Z,27 May 2026 - 11:15 AM,16.58,119.07,024,3.4,090km N 77° W of Bolinao (Pangasinan),090,N 77° W,Bolinao (Pangasinan)
+2026-05-27T10:40:00.000Z,27 May 2026 - 10:40 AM,08.42,125.00,048,2.0,010km N 13° E of Sumilao (Bukidnon),010,N 13° E,Sumilao (Bukidnon)
+2026-05-27T10:14:00.000Z,27 May 2026 - 10:14 AM,14.42,121.40,020,1.4,003km S 78° W of Mabitac (Laguna),003,S 78° W,Mabitac (Laguna)
 2026-05-27T08:28:00.000Z,27 May 2026 - 08:28 AM,14.43,121.39,008,1.7,004km N 80° W of Mabitac (Laguna),004,N 80° W,Mabitac (Laguna)
 2026-05-27T08:03:00.000Z,27 May 2026 - 08:03 AM,07.44,127.18,026,2.1,069km N 79° E of Caraga (Davao Oriental),069,N 79° E,Caraga (Davao Oriental)
 2026-05-27T08:00:00.000Z,27 May 2026 - 08:00 AM,11.10,124.13,033,1.6,017km N 69° E of City Of Bogo (Cebu),017,N 69° E,City Of Bogo (Cebu)
