@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-27T18:25:00.000Z,27 May 2026 - 06:25 PM,12.79,121.19,005,2.3,030km S 73° W of Bansud (Oriental Mindoro),030,S 73° W,Bansud (Oriental Mindoro)
-2026-05-27T18:25:00.000Z,27 May 2026 - 06:25 PM,06.16,126.65,015,2.0,084km S 50° E of Governor Generoso (Davao Oriental),084,S 50° E,Governor Generoso (Davao Oriental)
-2026-05-27T17:46:00.000Z,27 May 2026 - 05:46 PM,09.17,126.66,014,2.3,047km N 62° E of Bayabas (Surigao Del Sur),047,N 62° E,Bayabas (Surigao Del Sur)
+2026-05-27T22:06:00.000Z,27 May 2026 - 10:06 PM,16.78,120.96,033,1.4,008km S 36° W of Hungduan (Ifugao),008,S 36° W,Hungduan (Ifugao)
+2026-05-27T22:06:00.000Z,27 May 2026 - 10:06 PM,18.92,122.00,024,1.9,014km N 84° E of Camiguin Island (Calayan) (Cagayan),014,N 84° E,Camiguin Island (Calayan) (Cagayan)
+2026-05-27T21:59:00.000Z,27 May 2026 - 09:59 PM,18.91,121.97,023,2.0,011km N 89° E of Camiguin Island (Calayan) (Cagayan),011,N 89° E,Camiguin Island (Calayan) (Cagayan)
+2026-05-27T21:46:00.000Z,27 May 2026 - 09:46 PM,06.49,126.46,025,2.7,047km S 67° E of Governor Generoso (Davao Oriental),047,S 67° E,Governor Generoso (Davao Oriental)
+2026-05-27T21:12:00.000Z,27 May 2026 - 09:12 PM,16.56,118.97,013,3.0,100km N 79° W of Bolinao (Pangasinan),100,N 79° W,Bolinao (Pangasinan)
