@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-29T06:28:00.000Z,29 May 2026 - 06:28 AM,16.56,119.06,014,2.0,091km N 78° W of Bolinao (Pangasinan),091,N 78° W,Bolinao (Pangasinan)
+2026-05-29T05:46:00.000Z,29 May 2026 - 05:46 AM,16.40,119.10,013,2.9,085km N 90° W of Bolinao (Pangasinan),085,N 90° W,Bolinao (Pangasinan)
+2026-05-29T05:24:00.000Z,29 May 2026 - 05:24 AM,16.55,119.02,015,3.1,095km N 79° W of Bolinao (Pangasinan),095,N 79° W,Bolinao (Pangasinan)
+2026-05-29T05:18:00.000Z,29 May 2026 - 05:18 AM,16.50,119.17,010,3.9,078km N 81° W of Bolinao (Pangasinan),078,N 81° W,Bolinao (Pangasinan)
 2026-05-29T03:22:00.000Z,29 May 2026 - 03:22 AM,18.15,121.96,012,2.6,013km S 24° E of Santa Teresita (Cagayan),013,S 24° E,Santa Teresita (Cagayan)
 2026-05-29T02:35:00.000Z,29 May 2026 - 02:35 AM,16.98,120.98,023,2.1,007km S 67° E of Sabangan (Mountain Province),007,S 67° E,Sabangan (Mountain Province)
 2026-05-29T02:20:00.000Z,29 May 2026 - 02:20 AM,16.58,118.99,032,3.3,099km N 78° W of Bolinao (Pangasinan),099,N 78° W,Bolinao (Pangasinan)
