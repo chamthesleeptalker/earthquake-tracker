@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-28T18:44:00.000Z,28 May 2026 - 06:44 PM,08.74,126.59,010,4.4,042km S 53° E of Bayabas (Surigao Del Sur),042,S 53° E,Bayabas (Surigao Del Sur)
+2026-05-28T18:03:00.000Z,28 May 2026 - 06:03 PM,07.58,124.50,011,2.5,016km N 64° E of Buldon (Maguindanao Del Norte),016,N 64° E,Buldon (Maguindanao Del Norte)
+2026-05-28T17:45:00.000Z,28 May 2026 - 05:45 PM,16.42,119.27,006,2.4,066km N 87° W of Bolinao (Pangasinan),066,N 87° W,Bolinao (Pangasinan)
+2026-05-28T17:17:00.000Z,28 May 2026 - 05:17 PM,16.53,119.16,010,3.1,080km N 79° W of Bolinao (Pangasinan),080,N 79° W,Bolinao (Pangasinan)
+2026-05-28T16:54:00.000Z,28 May 2026 - 04:54 PM,16.50,119.33,017,2.7,061km N 78° W of Bolinao (Pangasinan),061,N 78° W,Bolinao (Pangasinan)
+2026-05-28T16:44:00.000Z,28 May 2026 - 04:44 PM,16.55,118.98,021,2.5,099km N 79° W of Bolinao (Pangasinan),099,N 79° W,Bolinao (Pangasinan)
+2026-05-28T16:33:00.000Z,28 May 2026 - 04:33 PM,06.12,126.37,101,1.8,068km S 29° E of Governor Generoso (Davao Oriental),068,S 29° E,Governor Generoso (Davao Oriental)
+2026-05-28T16:11:00.000Z,28 May 2026 - 04:11 PM,16.48,119.14,016,2.7,081km N 83° W of Bolinao (Pangasinan),081,N 83° W,Bolinao (Pangasinan)
 2026-05-28T14:49:00.000Z,28 May 2026 - 02:49 PM,13.85,120.00,031,2.7,014km S 84° W of Lubang (Occidental Mindoro),014,S 84° W,Lubang (Occidental Mindoro)
 2026-05-28T14:42:00.000Z,28 May 2026 - 02:42 PM,14.10,120.26,084,2.1,031km N 29° E of Lubang (Occidental Mindoro),031,N 29° E,Lubang (Occidental Mindoro)
 2026-05-28T14:23:00.000Z,28 May 2026 - 02:23 PM,08.94,124.98,032,1.4,006km N 55° W of Medina (Misamis Oriental),006,N 55° W,Medina (Misamis Oriental)
