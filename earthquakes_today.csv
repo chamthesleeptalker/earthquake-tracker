@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-28T10:28:00.000Z,28 May 2026 - 10:28 AM,16.51,119.18,017,3.7,077km N 80° W of Bolinao (Pangasinan),077,N 80° W,Bolinao (Pangasinan)
+2026-05-28T10:27:00.000Z,28 May 2026 - 10:27 AM,18.17,120.59,032,1.5,001km S 39° W of San Nicolas (Ilocos Norte),001,S 39° W,San Nicolas (Ilocos Norte)
+2026-05-28T10:20:00.000Z,28 May 2026 - 10:20 AM,09.74,126.23,054,1.5,009km S 59° E of General Luna (Surigao Del Norte),009,S 59° E,General Luna (Surigao Del Norte)
+2026-05-28T09:35:00.000Z,28 May 2026 - 09:35 AM,07.92,127.06,011,2.9,067km N 55° E of Baganga (Davao Oriental),067,N 55° E,Baganga (Davao Oriental)
+2026-05-28T08:51:00.000Z,28 May 2026 - 08:51 AM,11.08,124.01,043,2.0,005km N 48° E of City Of Bogo (Cebu),005,N 48° E,City Of Bogo (Cebu)
+2026-05-28T08:27:00.000Z,28 May 2026 - 08:27 AM,19.04,121.28,019,3.4,010km S 46° E of Dalupiri Island (Calayan) (Cagayan),010,S 46° E,Dalupiri Island (Calayan) (Cagayan)
+2026-05-28T08:14:00.000Z,28 May 2026 - 08:14 AM,16.12,120.49,121,1.6,006km N 85° W of Pozorrubio (Pangasinan),006,N 85° W,Pozorrubio (Pangasinan)
+2026-05-28T07:41:00.000Z,28 May 2026 - 07:41 AM,07.87,127.00,018,2.4,058km N 56° E of Baganga (Davao Oriental),058,N 56° E,Baganga (Davao Oriental)
 2026-05-28T06:36:00.000Z,28 May 2026 - 06:36 AM,16.56,118.96,016,3.4,101km N 79° W of Bolinao (Pangasinan),101,N 79° W,Bolinao (Pangasinan)
 2026-05-28T06:03:00.000Z,28 May 2026 - 06:03 AM,05.96,125.49,079,2.7,018km N 74° W of Jose Abad Santos (Davao Occidental),018,N 74° W,Jose Abad Santos (Davao Occidental)
 2026-05-28T05:58:00.000Z,28 May 2026 - 05:58 AM,17.38,120.42,013,1.7,006km N 29° W of San Esteban (Ilocos Sur),006,N 29° W,San Esteban (Ilocos Sur)
