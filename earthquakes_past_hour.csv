@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-29T07:32:00.000Z,29 May 2026 - 07:32 AM,16.50,118.78,010,4.1,119km N 84° W of Bolinao (Pangasinan),119,N 84° W,Bolinao (Pangasinan)
-2026-05-29T06:54:00.000Z,29 May 2026 - 06:54 AM,16.50,119.17,015,2.6,078km N 81° W of Bolinao (Pangasinan),078,N 81° W,Bolinao (Pangasinan)
-2026-05-29T06:36:00.000Z,29 May 2026 - 06:36 AM,16.57,119.15,015,3.4,082km N 76° W of Bolinao (Pangasinan),082,N 76° W,Bolinao (Pangasinan)
+2026-05-29T12:35:00.000Z,29 May 2026 - 12:35 PM,11.08,124.08,032,2.4,012km N 72° E of City Of Bogo (Cebu),012,N 72° E,City Of Bogo (Cebu)
+2026-05-29T12:24:00.000Z,29 May 2026 - 12:24 PM,19.29,121.04,032,1.8,026km N 40° W of Dalupiri Island (Calayan) (Cagayan),026,N 40° W,Dalupiri Island (Calayan) (Cagayan)
+2026-05-29T12:09:00.000Z,29 May 2026 - 12:09 PM,16.48,120.50,011,1.7,002km S 40° E of Sablan (Benguet),002,S 40° E,Sablan (Benguet)
+2026-05-29T12:07:00.000Z,29 May 2026 - 12:07 PM,16.60,119.04,015,3.7,094km N 76° W of Bolinao (Pangasinan),094,N 76° W,Bolinao (Pangasinan)
+2026-05-29T12:04:00.000Z,29 May 2026 - 12:04 PM,11.10,124.07,008,2.0,012km N 58° E of City Of Bogo (Cebu),012,N 58° E,City Of Bogo (Cebu)
