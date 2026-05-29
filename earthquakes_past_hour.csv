@@ -1,6 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-29T12:35:00.000Z,29 May 2026 - 12:35 PM,11.08,124.08,032,2.4,012km N 72° E of City Of Bogo (Cebu),012,N 72° E,City Of Bogo (Cebu)
-2026-05-29T12:24:00.000Z,29 May 2026 - 12:24 PM,19.29,121.04,032,1.8,026km N 40° W of Dalupiri Island (Calayan) (Cagayan),026,N 40° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-29T12:09:00.000Z,29 May 2026 - 12:09 PM,16.48,120.50,011,1.7,002km S 40° E of Sablan (Benguet),002,S 40° E,Sablan (Benguet)
-2026-05-29T12:07:00.000Z,29 May 2026 - 12:07 PM,16.60,119.04,015,3.7,094km N 76° W of Bolinao (Pangasinan),094,N 76° W,Bolinao (Pangasinan)
-2026-05-29T12:04:00.000Z,29 May 2026 - 12:04 PM,11.10,124.07,008,2.0,012km N 58° E of City Of Bogo (Cebu),012,N 58° E,City Of Bogo (Cebu)
+2026-05-29T15:01:00.000Z,29 May 2026 - 03:01 PM,08.00,125.90,047,1.9,010km S 39° W of Veruela (Agusan Del Sur),010,S 39° W,Veruela (Agusan Del Sur)
+2026-05-29T14:46:00.000Z,29 May 2026 - 02:46 PM,10.10,126.06,014,2.4,009km N 09° W of Burgos (Surigao Del Norte),009,N 09° W,Burgos (Surigao Del Norte)
+2026-05-29T14:12:00.000Z,29 May 2026 - 02:12 PM,18.86,121.86,015,2.3,005km S 12° W of Camiguin Island (Calayan) (Cagayan),005,S 12° W,Camiguin Island (Calayan) (Cagayan)
