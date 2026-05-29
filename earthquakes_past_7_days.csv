@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-30T06:13:00.000Z,30 May 2026 - 06:13 AM,13.25,123.93,036,1.5,016km S 73° E of Bacacay (Albay),016,S 73° E,Bacacay (Albay)
+2026-05-30T05:25:00.000Z,30 May 2026 - 05:25 AM,10.96,123.97,013,2.0,009km S 03° W of City Of Bogo (Cebu),009,S 03° W,City Of Bogo (Cebu)
 2026-05-30T05:08:00.000Z,30 May 2026 - 05:08 AM,16.60,119.07,014,2.9,091km N 75° W of Bolinao (Pangasinan),091,N 75° W,Bolinao (Pangasinan)
 2026-05-30T05:02:00.000Z,30 May 2026 - 05:02 AM,09.05,122.39,024,1.5,048km S 35° W of Basay (Negros Oriental),048,S 35° W,Basay (Negros Oriental)
 2026-05-30T04:57:00.000Z,30 May 2026 - 04:57 AM,14.77,119.23,017,3.1,095km S 78° W of San Antonio (Zambales),095,S 78° W,San Antonio (Zambales)
@@ -473,7 +475,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-23T06:53:00.000Z,23 May 2026 - 06:53 AM,13.55,120.93,001,2.6,006km N 30° W of Puerto Galera (Oriental Mindoro),006,N 30° W,Puerto Galera (Oriental Mindoro)
 2026-05-23T06:37:00.000Z,23 May 2026 - 06:37 AM,11.35,126.12,015,2.5,054km N 58° E of Mercedes (Eastern Samar),054,N 58° E,Mercedes (Eastern Samar)
 2026-05-23T06:29:00.000Z,23 May 2026 - 06:29 AM,12.17,125.24,019,2.3,001km N 23° W of Maslog (Eastern Samar),001,N 23° W,Maslog (Eastern Samar)
-2026-05-23T05:49:00.000Z,23 May 2026 - 05:49 AM,16.14,122.00,034,1.6,005km S 83° E of Dinalungan (Aurora),005,S 83° E,Dinalungan (Aurora)
-2026-05-23T05:23:00.000Z,23 May 2026 - 05:23 AM,18.68,120.81,002,2.7,014km N 11° E of Pagudpud (Ilocos Norte),014,N 11° E,Pagudpud (Ilocos Norte)
-2026-05-23T05:17:00.000Z,23 May 2026 - 05:17 AM,10.92,123.93,002,2.9,015km S 23° W of City Of Bogo (Cebu),015,S 23° W,City Of Bogo (Cebu)
-2026-05-23T05:14:00.000Z,23 May 2026 - 05:14 AM,16.35,118.87,032,2.8,103km N 75° W of Agno (Pangasinan),103,N 75° W,Agno (Pangasinan)

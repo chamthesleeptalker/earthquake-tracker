@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-30T06:13:00.000Z,30 May 2026 - 06:13 AM,13.25,123.93,036,1.5,016km S 73° E of Bacacay (Albay),016,S 73° E,Bacacay (Albay)
+2026-05-30T05:25:00.000Z,30 May 2026 - 05:25 AM,10.96,123.97,013,2.0,009km S 03° W of City Of Bogo (Cebu),009,S 03° W,City Of Bogo (Cebu)
 2026-05-30T05:08:00.000Z,30 May 2026 - 05:08 AM,16.60,119.07,014,2.9,091km N 75° W of Bolinao (Pangasinan),091,N 75° W,Bolinao (Pangasinan)
 2026-05-30T05:02:00.000Z,30 May 2026 - 05:02 AM,09.05,122.39,024,1.5,048km S 35° W of Basay (Negros Oriental),048,S 35° W,Basay (Negros Oriental)
 2026-05-30T04:57:00.000Z,30 May 2026 - 04:57 AM,14.77,119.23,017,3.1,095km S 78° W of San Antonio (Zambales),095,S 78° W,San Antonio (Zambales)
