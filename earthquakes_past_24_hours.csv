@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-29T07:32:00.000Z,29 May 2026 - 07:32 AM,16.50,118.78,010,4.1,119km N 84° W of Bolinao (Pangasinan),119,N 84° W,Bolinao (Pangasinan)
+2026-05-29T06:54:00.000Z,29 May 2026 - 06:54 AM,16.50,119.17,015,2.6,078km N 81° W of Bolinao (Pangasinan),078,N 81° W,Bolinao (Pangasinan)
+2026-05-29T06:36:00.000Z,29 May 2026 - 06:36 AM,16.57,119.15,015,3.4,082km N 76° W of Bolinao (Pangasinan),082,N 76° W,Bolinao (Pangasinan)
 2026-05-29T06:28:00.000Z,29 May 2026 - 06:28 AM,16.56,119.06,014,2.0,091km N 78° W of Bolinao (Pangasinan),091,N 78° W,Bolinao (Pangasinan)
 2026-05-29T05:46:00.000Z,29 May 2026 - 05:46 AM,16.40,119.10,013,2.9,085km N 90° W of Bolinao (Pangasinan),085,N 90° W,Bolinao (Pangasinan)
 2026-05-29T05:24:00.000Z,29 May 2026 - 05:24 AM,16.55,119.02,015,3.1,095km N 79° W of Bolinao (Pangasinan),095,N 79° W,Bolinao (Pangasinan)
@@ -53,4 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-28T08:27:00.000Z,28 May 2026 - 08:27 AM,19.04,121.28,019,3.4,010km S 46° E of Dalupiri Island (Calayan) (Cagayan),010,S 46° E,Dalupiri Island (Calayan) (Cagayan)
 2026-05-28T08:14:00.000Z,28 May 2026 - 08:14 AM,16.12,120.49,121,1.6,006km N 85° W of Pozorrubio (Pangasinan),006,N 85° W,Pozorrubio (Pangasinan)
 2026-05-28T07:41:00.000Z,28 May 2026 - 07:41 AM,07.87,127.00,018,2.4,058km N 56° E of Baganga (Davao Oriental),058,N 56° E,Baganga (Davao Oriental)
-2026-05-28T06:36:00.000Z,28 May 2026 - 06:36 AM,16.56,118.96,016,3.4,101km N 79° W of Bolinao (Pangasinan),101,N 79° W,Bolinao (Pangasinan)
