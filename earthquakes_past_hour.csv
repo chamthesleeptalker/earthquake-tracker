@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-29T22:42:00.000Z,29 May 2026 - 10:42 PM,12.54,124.88,018,1.6,000km South of San Roque (Northern Samar),000,South of San,(Northern Samar)
-2026-05-29T22:40:00.000Z,29 May 2026 - 10:40 PM,19.06,121.32,004,2.4,012km S 67° E of Dalupiri Island (Calayan) (Cagayan),012,S 67° E,Dalupiri Island (Calayan) (Cagayan)
-2026-05-29T22:06:00.000Z,29 May 2026 - 10:06 PM,18.37,120.79,009,2.2,016km S 47° W of Adams (Ilocos Norte),016,S 47° W,Adams (Ilocos Norte)
+2026-05-30T02:28:00.000Z,30 May 2026 - 02:28 AM,07.52,127.41,022,3.2,094km S 86° E of Baganga (Davao Oriental),094,S 86° E,Baganga (Davao Oriental)
+2026-05-30T02:21:00.000Z,30 May 2026 - 02:21 AM,14.81,119.24,017,2.6,092km S 80° W of San Antonio (Zambales),092,S 80° W,San Antonio (Zambales)
+2026-05-30T02:09:00.000Z,30 May 2026 - 02:09 AM,08.84,126.56,033,1.4,029km N 81° E of Marihatag (Surigao Del Sur),029,N 81° E,Marihatag (Surigao Del Sur)
+2026-05-30T02:02:00.000Z,30 May 2026 - 02:02 AM,09.61,126.24,032,2.1,022km S 26° E of General Luna (Surigao Del Norte),022,S 26° E,General Luna (Surigao Del Norte)
+2026-05-30T02:00:00.000Z,30 May 2026 - 02:00 AM,08.26,123.13,015,2.9,002km N 68° E of Siayan (Zamboanga Del Norte),002,N 68° E,Siayan (Zamboanga Del Norte)
+2026-05-30T01:48:00.000Z,30 May 2026 - 01:48 AM,07.87,126.24,034,1.4,015km N 89° W of Boston (Davao Oriental),015,N 89° W,Boston (Davao Oriental)
+2026-05-30T01:45:00.000Z,30 May 2026 - 01:45 AM,08.42,125.92,008,2.4,015km S 77° E of Talacogon (Agusan Del Sur),015,S 77° E,Talacogon (Agusan Del Sur)
+2026-05-30T01:41:00.000Z,30 May 2026 - 01:41 AM,08.44,125.82,026,2.4,004km S 83° E of Talacogon (Agusan Del Sur),004,S 83° E,Talacogon (Agusan Del Sur)
