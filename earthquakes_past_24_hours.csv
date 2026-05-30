@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-31T04:12:00.000Z,31 May 2026 - 04:12 AM,06.83,123.84,024,2.1,033km S 37° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 37° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-05-31T03:06:00.000Z,31 May 2026 - 03:06 AM,10.65,125.46,022,1.8,031km S 70° W of Homonhon Island (Guiuan) (Eastern Samar),031,S 70° W,Homonhon Island (Guiuan) (Eastern Samar)
 2026-05-31T02:12:00.000Z,31 May 2026 - 02:12 AM,11.81,125.40,025,2.1,009km N 45° W of San Julian (Eastern Samar),009,N 45° W,San Julian (Eastern Samar)
 2026-05-31T02:04:00.000Z,31 May 2026 - 02:04 AM,09.88,125.58,030,1.6,009km S 19° W of Dinagat (Dinagat Islands),009,S 19° W,Dinagat (Dinagat Islands)
 2026-05-31T01:46:00.000Z,31 May 2026 - 01:46 AM,09.01,126.55,028,2.6,029km N 80° E of Bayabas (Surigao Del Sur),029,N 80° E,Bayabas (Surigao Del Sur)
@@ -72,10 +74,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-30T04:57:00.000Z,30 May 2026 - 04:57 AM,14.77,119.23,017,3.1,095km S 78° W of San Antonio (Zambales),095,S 78° W,San Antonio (Zambales)
 2026-05-30T04:53:00.000Z,30 May 2026 - 04:53 AM,16.86,119.13,005,2.5,096km N 58° W of Bolinao (Pangasinan),096,N 58° W,Bolinao (Pangasinan)
 2026-05-30T04:30:00.000Z,30 May 2026 - 04:30 AM,16.57,119.21,015,3.3,075km N 75° W of Bolinao (Pangasinan),075,N 75° W,Bolinao (Pangasinan)
-2026-05-30T03:43:00.000Z,30 May 2026 - 03:43 AM,16.63,119.10,005,3.5,088km N 72° W of Bolinao (Pangasinan),088,N 72° W,Bolinao (Pangasinan)
-2026-05-30T03:39:00.000Z,30 May 2026 - 03:39 AM,09.25,122.67,011,3.0,018km S 10° E of Basay (Negros Oriental),018,S 10° E,Basay (Negros Oriental)
-2026-05-30T03:29:00.000Z,30 May 2026 - 03:29 AM,07.93,126.07,033,1.3,007km S 41° E of Santa Josefa (Agusan Del Sur),007,S 41° E,Santa Josefa (Agusan Del Sur)
-2026-05-30T03:06:00.000Z,30 May 2026 - 03:06 AM,20.18,121.59,030,2.6,034km S 59° W of Sabtang (Batanes),034,S 59° W,Sabtang (Batanes)
-2026-05-30T03:06:00.000Z,30 May 2026 - 03:06 AM,14.77,119.33,017,3.2,084km S 77° W of San Antonio (Zambales),084,S 77° W,San Antonio (Zambales)
-2026-05-30T02:28:00.000Z,30 May 2026 - 02:28 AM,07.52,127.41,022,3.2,094km S 86° E of Baganga (Davao Oriental),094,S 86° E,Baganga (Davao Oriental)
-2026-05-30T02:21:00.000Z,30 May 2026 - 02:21 AM,14.81,119.24,017,2.6,092km S 80° W of San Antonio (Zambales),092,S 80° W,San Antonio (Zambales)

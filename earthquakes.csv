@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-31T04:12:00.000Z,31 May 2026 - 04:12 AM,06.83,123.84,024,2.1,033km S 37° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 37° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-05-31T03:06:00.000Z,31 May 2026 - 03:06 AM,10.65,125.46,022,1.8,031km S 70° W of Homonhon Island (Guiuan) (Eastern Samar),031,S 70° W,Homonhon Island (Guiuan) (Eastern Samar)
 2026-05-31T02:12:00.000Z,31 May 2026 - 02:12 AM,11.81,125.40,025,2.1,009km N 45° W of San Julian (Eastern Samar),009,N 45° W,San Julian (Eastern Samar)
 2026-05-31T02:04:00.000Z,31 May 2026 - 02:04 AM,09.88,125.58,030,1.6,009km S 19° W of Dinagat (Dinagat Islands),009,S 19° W,Dinagat (Dinagat Islands)
 2026-05-31T01:46:00.000Z,31 May 2026 - 01:46 AM,09.01,126.55,028,2.6,029km N 80° E of Bayabas (Surigao Del Sur),029,N 80° E,Bayabas (Surigao Del Sur)
