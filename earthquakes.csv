@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-30T19:19:00.000Z,30 May 2026 - 07:19 PM,05.98,126.49,003,2.8,087km S 32° E of Governor Generoso (Davao Oriental),087,S 32° E,Governor Generoso (Davao Oriental)
+2026-05-30T18:39:00.000Z,30 May 2026 - 06:39 PM,16.45,119.02,084,3.0,094km N 86° W of Bolinao (Pangasinan),094,N 86° W,Bolinao (Pangasinan)
+2026-05-30T18:37:00.000Z,30 May 2026 - 06:37 PM,16.47,119.15,089,2.6,079km N 83° W of Bolinao (Pangasinan),079,N 83° W,Bolinao (Pangasinan)
+2026-05-30T18:18:00.000Z,30 May 2026 - 06:18 PM,16.56,119.33,003,2.4,063km N 73° W of Bolinao (Pangasinan),063,N 73° W,Bolinao (Pangasinan)
+2026-05-30T18:10:00.000Z,30 May 2026 - 06:10 PM,16.52,119.22,019,3.2,073km N 78° W of Bolinao (Pangasinan),073,N 78° W,Bolinao (Pangasinan)
+2026-05-30T18:10:00.000Z,30 May 2026 - 06:10 PM,14.38,121.40,031,1.4,006km S 33° W of Mabitac (Laguna),006,S 33° W,Mabitac (Laguna)
+2026-05-30T17:57:00.000Z,30 May 2026 - 05:57 PM,16.49,119.11,015,3.4,085km N 82° W of Bolinao (Pangasinan),085,N 82° W,Bolinao (Pangasinan)
+2026-05-30T17:50:00.000Z,30 May 2026 - 05:50 PM,09.16,127.26,008,3.3,108km N 76° E of Cagwait (Surigao Del Sur),108,N 76° E,Cagwait (Surigao Del Sur)
+2026-05-29T22:05:00.000Z,29 May 2026 - 10:05 PM,18.48,120.65,005,2.3,004km S 03° E of Burgos (Ilocos Norte),004,S 03° E,Burgos (Ilocos Norte)
 2026-05-30T17:17:00.000Z,30 May 2026 - 05:17 PM,07.18,126.96,018,3.0,046km S 69° E of Caraga (Davao Oriental),046,S 69° E,Caraga (Davao Oriental)
 2026-05-30T17:14:00.000Z,30 May 2026 - 05:14 PM,16.59,119.02,128,2.7,096km N 77° W of Bolinao (Pangasinan),096,N 77° W,Bolinao (Pangasinan)
 2026-05-30T16:53:00.000Z,30 May 2026 - 04:53 PM,06.30,126.53,018,2.6,064km S 52° E of Governor Generoso (Davao Oriental),064,S 52° E,Governor Generoso (Davao Oriental)
