@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-30T06:13:00.000Z,30 May 2026 - 06:13 AM,13.25,123.93,036,1.5,016km S 73° E of Bacacay (Albay),016,S 73° E,Bacacay (Albay)
-2026-05-30T05:25:00.000Z,30 May 2026 - 05:25 AM,10.96,123.97,013,2.0,009km S 03° W of City Of Bogo (Cebu),009,S 03° W,City Of Bogo (Cebu)
+2026-05-30T12:07:00.000Z,30 May 2026 - 12:07 PM,19.20,121.23,031,2.1,011km N 15° E of Dalupiri Island (Calayan) (Cagayan),011,N 15° E,Dalupiri Island (Calayan) (Cagayan)
+2026-05-30T11:48:00.000Z,30 May 2026 - 11:48 AM,10.14,126.00,014,2.1,014km N 18° W of Santa Monica (Surigao Del Norte),014,N 18° W,Santa Monica (Surigao Del Norte)
+2026-05-30T11:36:00.000Z,30 May 2026 - 11:36 AM,07.25,123.56,034,2.3,029km S 35° E of Tabina (Zamboanga Del Sur),029,S 35° E,Tabina (Zamboanga Del Sur)
+2026-05-30T11:28:00.000Z,30 May 2026 - 11:28 AM,10.27,126.26,009,3.6,034km N 36° E of Burgos (Surigao Del Norte),034,N 36° E,Burgos (Surigao Del Norte)
