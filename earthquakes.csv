@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-30T21:18:00.000Z,30 May 2026 - 09:18 PM,05.66,126.54,033,3.5,103km S 74° E of Jose Abad Santos (Davao Occidental),103,S 74° E,Jose Abad Santos (Davao Occidental)
+2026-05-31T01:18:00.000Z,31 May 2026 - 01:18 AM,08.91,126.15,022,1.9,013km S 70° E of San Miguel (Surigao Del Sur),013,S 70° E,San Miguel (Surigao Del Sur)
+2026-05-31T00:53:00.000Z,31 May 2026 - 12:53 AM,14.05,120.68,002,1.8,003km N 65° E of Lian (Batangas),003,N 65° E,Lian (Batangas)
+2026-05-31T00:22:00.000Z,31 May 2026 - 12:22 AM,07.74,123.16,019,1.9,002km S 69° E of Kumalarang (Zamboanga Del Sur),002,S 69° E,Kumalarang (Zamboanga Del Sur)
+2026-05-31T00:08:00.000Z,31 May 2026 - 12:08 AM,16.67,118.97,010,3.2,100km N 72° W of Bolinao (Pangasinan),100,N 72° W,Bolinao (Pangasinan)
+2026-05-31T00:02:00.000Z,31 May 2026 - 12:02 AM,16.98,118.97,058,2.5,118km N 57° W of Bolinao (Pangasinan),118,N 57° W,Bolinao (Pangasinan)
+2026-05-31T00:00:00.000Z,31 May 2026 - 12:00 AM,16.63,119.33,119,2.5,062km N 66° W of Bolinao (Pangasinan),062,N 66° W,Bolinao (Pangasinan)
 2026-05-30T23:46:00.000Z,30 May 2026 - 11:46 PM,16.71,119.25,010,2.6,077km N 63° W of Bolinao (Pangasinan),077,N 63° W,Bolinao (Pangasinan)
 2026-05-30T23:42:00.000Z,30 May 2026 - 11:42 PM,04.88,126.31,036,2.9,113km S 54° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),113,S 54° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-30T23:17:00.000Z,30 May 2026 - 11:17 PM,18.09,121.09,021,2.0,012km N 54° W of Kabugao (Apayao),012,N 54° W,Kabugao (Apayao)
