@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-30T22:42:00.000Z,30 May 2026 - 10:42 PM,16.72,118.00,010,4.4,205km N 80° W of Bolinao (Pangasinan),205,N 80° W,Bolinao (Pangasinan)
+2026-05-30T22:21:00.000Z,30 May 2026 - 10:21 PM,16.48,119.17,010,4.0,077km N 82° W of Bolinao (Pangasinan),077,N 82° W,Bolinao (Pangasinan)
+2026-05-30T21:57:00.000Z,30 May 2026 - 09:57 PM,05.88,127.51,028,3.1,175km S 42° E of Tarragona (Davao Oriental),175,S 42° E,Tarragona (Davao Oriental)
+2026-05-30T21:52:00.000Z,30 May 2026 - 09:52 PM,10.06,123.26,031,1.7,004km N 36° E of La Libertad (Negros Oriental),004,N 36° E,La Libertad (Negros Oriental)
+2026-05-30T21:15:00.000Z,30 May 2026 - 09:15 PM,05.62,126.65,010,4.9,131km S 29° E of Governor Generoso (Davao Oriental),131,S 29° E,Governor Generoso (Davao Oriental)
 2026-05-30T21:08:00.000Z,30 May 2026 - 09:08 PM,10.26,122.53,001,1.8,029km S 22° W of Sibunag (Guimaras),029,S 22° W,Sibunag (Guimaras)
 2026-05-30T20:58:00.000Z,30 May 2026 - 08:58 PM,16.54,119.01,061,2.4,096km N 80° W of Bolinao (Pangasinan),096,N 80° W,Bolinao (Pangasinan)
 2026-05-30T20:55:00.000Z,30 May 2026 - 08:55 PM,16.47,119.13,024,3.2,082km N 84° W of Bolinao (Pangasinan),082,N 84° W,Bolinao (Pangasinan)
@@ -485,6 +490,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-23T23:05:00.000Z,23 May 2026 - 11:05 PM,12.49,124.66,009,1.6,003km S 79° E of Catarman (Northern Samar),003,S 79° E,Catarman (Northern Samar)
 2026-05-23T22:50:00.000Z,23 May 2026 - 10:50 PM,12.53,124.70,031,1.4,005km N 80° W of Mondragon (Northern Samar),005,N 80° W,Mondragon (Northern Samar)
 2026-05-23T22:43:00.000Z,23 May 2026 - 10:43 PM,07.89,123.31,033,1.5,010km N 39° W of Dumalinao (Zamboanga Del Sur),010,N 39° W,Dumalinao (Zamboanga Del Sur)
-2026-05-23T22:12:00.000Z,23 May 2026 - 10:12 PM,18.62,121.13,020,1.6,006km N 73° E of Claveria (Cagayan),006,N 73° E,Claveria (Cagayan)
-2026-05-23T21:50:00.000Z,23 May 2026 - 09:50 PM,19.51,121.62,011,1.6,031km S 89° W of Babuyan Island (Calayan) (Cagayan),031,S 89° W,Babuyan Island (Calayan) (Cagayan)
-2026-05-23T21:13:00.000Z,23 May 2026 - 09:13 PM,06.89,126.76,145,2.3,039km S 62° E of Tarragona (Davao Oriental),039,S 62° E,Tarragona (Davao Oriental)
