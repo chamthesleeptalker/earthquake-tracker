@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-30T19:19:00.000Z,30 May 2026 - 07:19 PM,05.98,126.49,003,2.8,087km S 32° E of Governor Generoso (Davao Oriental),087,S 32° E,Governor Generoso (Davao Oriental)
-2026-05-30T18:39:00.000Z,30 May 2026 - 06:39 PM,16.45,119.02,084,3.0,094km N 86° W of Bolinao (Pangasinan),094,N 86° W,Bolinao (Pangasinan)
-2026-05-30T18:37:00.000Z,30 May 2026 - 06:37 PM,16.47,119.15,089,2.6,079km N 83° W of Bolinao (Pangasinan),079,N 83° W,Bolinao (Pangasinan)
+2026-05-30T21:08:00.000Z,30 May 2026 - 09:08 PM,10.26,122.53,001,1.8,029km S 22° W of Sibunag (Guimaras),029,S 22° W,Sibunag (Guimaras)
+2026-05-30T20:58:00.000Z,30 May 2026 - 08:58 PM,16.54,119.01,061,2.4,096km N 80° W of Bolinao (Pangasinan),096,N 80° W,Bolinao (Pangasinan)
+2026-05-30T20:55:00.000Z,30 May 2026 - 08:55 PM,16.47,119.13,024,3.2,082km N 84° W of Bolinao (Pangasinan),082,N 84° W,Bolinao (Pangasinan)
+2026-05-30T20:34:00.000Z,30 May 2026 - 08:34 PM,13.20,123.95,003,3.3,012km N 46° E of Manito (Albay),012,N 46° E,Manito (Albay)
