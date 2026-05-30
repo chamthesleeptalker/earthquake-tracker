@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-30T17:17:00.000Z,30 May 2026 - 05:17 PM,07.18,126.96,018,3.0,046km S 69° E of Caraga (Davao Oriental),046,S 69° E,Caraga (Davao Oriental)
+2026-05-30T17:14:00.000Z,30 May 2026 - 05:14 PM,16.59,119.02,128,2.7,096km N 77° W of Bolinao (Pangasinan),096,N 77° W,Bolinao (Pangasinan)
+2026-05-30T16:53:00.000Z,30 May 2026 - 04:53 PM,06.30,126.53,018,2.6,064km S 52° E of Governor Generoso (Davao Oriental),064,S 52° E,Governor Generoso (Davao Oriental)
+2026-05-30T16:34:00.000Z,30 May 2026 - 04:34 PM,05.90,126.64,015,3.3,104km S 37° E of Governor Generoso (Davao Oriental),104,S 37° E,Governor Generoso (Davao Oriental)
+2026-05-30T15:45:00.000Z,30 May 2026 - 03:45 PM,05.50,126.85,033,2.8,141km S 71° E of Jose Abad Santos (Davao Occidental),141,S 71° E,Jose Abad Santos (Davao Occidental)
 2026-05-30T15:25:00.000Z,30 May 2026 - 03:25 PM,05.55,126.43,050,2.3,096km S 66° E of Jose Abad Santos (Davao Occidental),096,S 66° E,Jose Abad Santos (Davao Occidental)
 2026-05-30T15:16:00.000Z,30 May 2026 - 03:16 PM,05.75,127.22,127,3.1,161km S 52° E of Governor Generoso (Davao Oriental),161,S 52° E,Governor Generoso (Davao Oriental)
 2026-05-30T15:13:00.000Z,30 May 2026 - 03:13 PM,05.96,126.61,006,3.6,097km S 38° E of Governor Generoso (Davao Oriental),097,S 38° E,Governor Generoso (Davao Oriental)
@@ -60,5 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-29T17:51:00.000Z,29 May 2026 - 05:51 PM,16.46,118.98,016,3.0,098km N 86° W of Bolinao (Pangasinan),098,N 86° W,Bolinao (Pangasinan)
 2026-05-29T17:47:00.000Z,29 May 2026 - 05:47 PM,07.85,127.08,015,1.6,064km N 62° E of Baganga (Davao Oriental),064,N 62° E,Baganga (Davao Oriental)
 2026-05-29T17:20:00.000Z,29 May 2026 - 05:20 PM,09.60,124.39,018,2.7,006km S 17° E of Jagna (Bohol),006,S 17° E,Jagna (Bohol)
-2026-05-29T17:16:00.000Z,29 May 2026 - 05:16 PM,03.64,125.82,033,3.5,201km S 13° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),201,S 13° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-05-29T17:11:00.000Z,29 May 2026 - 05:11 PM,11.13,124.08,033,1.7,015km N 52° E of City Of Bogo (Cebu),015,N 52° E,City Of Bogo (Cebu)

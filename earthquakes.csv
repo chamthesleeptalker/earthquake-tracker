@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-30T17:17:00.000Z,30 May 2026 - 05:17 PM,07.18,126.96,018,3.0,046km S 69° E of Caraga (Davao Oriental),046,S 69° E,Caraga (Davao Oriental)
+2026-05-30T17:14:00.000Z,30 May 2026 - 05:14 PM,16.59,119.02,128,2.7,096km N 77° W of Bolinao (Pangasinan),096,N 77° W,Bolinao (Pangasinan)
+2026-05-30T16:53:00.000Z,30 May 2026 - 04:53 PM,06.30,126.53,018,2.6,064km S 52° E of Governor Generoso (Davao Oriental),064,S 52° E,Governor Generoso (Davao Oriental)
+2026-05-30T16:34:00.000Z,30 May 2026 - 04:34 PM,05.90,126.64,015,3.3,104km S 37° E of Governor Generoso (Davao Oriental),104,S 37° E,Governor Generoso (Davao Oriental)
+2026-05-30T15:45:00.000Z,30 May 2026 - 03:45 PM,05.50,126.85,033,2.8,141km S 71° E of Jose Abad Santos (Davao Occidental),141,S 71° E,Jose Abad Santos (Davao Occidental)
 2026-05-30T15:25:00.000Z,30 May 2026 - 03:25 PM,05.55,126.43,050,2.3,096km S 66° E of Jose Abad Santos (Davao Occidental),096,S 66° E,Jose Abad Santos (Davao Occidental)
 2026-05-30T15:16:00.000Z,30 May 2026 - 03:16 PM,05.75,127.22,127,3.1,161km S 52° E of Governor Generoso (Davao Oriental),161,S 52° E,Governor Generoso (Davao Oriental)
 2026-05-30T15:13:00.000Z,30 May 2026 - 03:13 PM,05.96,126.61,006,3.6,097km S 38° E of Governor Generoso (Davao Oriental),097,S 38° E,Governor Generoso (Davao Oriental)
