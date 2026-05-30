@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-31T02:12:00.000Z,31 May 2026 - 02:12 AM,11.81,125.40,025,2.1,009km N 45° W of San Julian (Eastern Samar),009,N 45° W,San Julian (Eastern Samar)
+2026-05-31T02:04:00.000Z,31 May 2026 - 02:04 AM,09.88,125.58,030,1.6,009km S 19° W of Dinagat (Dinagat Islands),009,S 19° W,Dinagat (Dinagat Islands)
+2026-05-31T01:46:00.000Z,31 May 2026 - 01:46 AM,09.01,126.55,028,2.6,029km N 80° E of Bayabas (Surigao Del Sur),029,N 80° E,Bayabas (Surigao Del Sur)
+2026-05-31T01:34:00.000Z,31 May 2026 - 01:34 AM,05.59,126.81,022,2.6,134km S 74° E of Jose Abad Santos (Davao Occidental),134,S 74° E,Jose Abad Santos (Davao Occidental)
+2026-05-31T01:28:00.000Z,31 May 2026 - 01:28 AM,13.36,123.29,034,1.8,007km N 48° E of Balatan (Camarines Sur),007,N 48° E,Balatan (Camarines Sur)
+2026-05-31T01:26:00.000Z,31 May 2026 - 01:26 AM,16.51,119.12,019,3.0,084km N 81° W of Bolinao (Pangasinan),084,N 81° W,Bolinao (Pangasinan)
+2026-05-31T01:25:00.000Z,31 May 2026 - 01:25 AM,16.52,119.29,018,2.4,066km N 77° W of Bolinao (Pangasinan),066,N 77° W,Bolinao (Pangasinan)
 2026-05-31T01:18:00.000Z,31 May 2026 - 01:18 AM,08.91,126.15,022,1.9,013km S 70° E of San Miguel (Surigao Del Sur),013,S 70° E,San Miguel (Surigao Del Sur)
-2026-05-31T00:53:00.000Z,31 May 2026 - 12:53 AM,14.05,120.68,002,1.8,003km N 65° E of Lian (Batangas),003,N 65° E,Lian (Batangas)
-2026-05-31T00:22:00.000Z,31 May 2026 - 12:22 AM,07.74,123.16,019,1.9,002km S 69° E of Kumalarang (Zamboanga Del Sur),002,S 69° E,Kumalarang (Zamboanga Del Sur)
