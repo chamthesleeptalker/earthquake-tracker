@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-31T04:12:00.000Z,31 May 2026 - 04:12 AM,06.83,123.84,024,2.1,033km S 37° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 37° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-05-31T05:50:00.000Z,31 May 2026 - 05:50 AM,10.63,125.76,022,1.8,013km S 17° E of Homonhon Island (Guiuan) (Eastern Samar),013,S 17° E,Homonhon Island (Guiuan) (Eastern Samar)
+2026-05-31T05:27:00.000Z,31 May 2026 - 05:27 AM,05.47,126.76,033,2.4,133km S 68° E of Jose Abad Santos (Davao Occidental),133,S 68° E,Jose Abad Santos (Davao Occidental)
+2026-05-31T05:20:00.000Z,31 May 2026 - 05:20 AM,05.90,126.48,029,3.5,095km S 28° E of Governor Generoso (Davao Oriental),095,S 28° E,Governor Generoso (Davao Oriental)
+2026-05-31T05:04:00.000Z,31 May 2026 - 05:04 AM,16.66,119.06,015,3.8,094km N 72° W of Bolinao (Pangasinan),094,N 72° W,Bolinao (Pangasinan)

@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-31T05:50:00.000Z,31 May 2026 - 05:50 AM,10.63,125.76,022,1.8,013km S 17° E of Homonhon Island (Guiuan) (Eastern Samar),013,S 17° E,Homonhon Island (Guiuan) (Eastern Samar)
+2026-05-31T05:27:00.000Z,31 May 2026 - 05:27 AM,05.47,126.76,033,2.4,133km S 68° E of Jose Abad Santos (Davao Occidental),133,S 68° E,Jose Abad Santos (Davao Occidental)
+2026-05-31T05:20:00.000Z,31 May 2026 - 05:20 AM,05.90,126.48,029,3.5,095km S 28° E of Governor Generoso (Davao Oriental),095,S 28° E,Governor Generoso (Davao Oriental)
+2026-05-31T05:04:00.000Z,31 May 2026 - 05:04 AM,16.66,119.06,015,3.8,094km N 72° W of Bolinao (Pangasinan),094,N 72° W,Bolinao (Pangasinan)
+2026-05-31T04:26:00.000Z,31 May 2026 - 04:26 AM,17.56,120.90,003,2.1,001km S 22° W of Licuan,001,S 22° W,Licuan
 2026-05-31T04:12:00.000Z,31 May 2026 - 04:12 AM,06.83,123.84,024,2.1,033km S 37° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 37° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-05-31T03:06:00.000Z,31 May 2026 - 03:06 AM,10.65,125.46,022,1.8,031km S 70° W of Homonhon Island (Guiuan) (Eastern Samar),031,S 70° W,Homonhon Island (Guiuan) (Eastern Samar)
 2026-05-31T02:12:00.000Z,31 May 2026 - 02:12 AM,11.81,125.40,025,2.1,009km N 45° W of San Julian (Eastern Samar),009,N 45° W,San Julian (Eastern Samar)
@@ -479,10 +484,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-24T08:43:00.000Z,24 May 2026 - 08:43 AM,19.76,121.87,005,2.6,028km N 09° W of Babuyan Island (Calayan) (Cagayan),028,N 09° W,Babuyan Island (Calayan) (Cagayan)
 2026-05-24T07:39:00.000Z,24 May 2026 - 07:39 AM,17.70,120.61,003,2.8,006km N 81° W of Danglas (Abra),006,N 81° W,Danglas (Abra)
 2026-05-24T07:32:00.000Z,24 May 2026 - 07:32 AM,09.12,126.45,019,1.7,025km N 47° E of Bayabas (Surigao Del Sur),025,N 47° E,Bayabas (Surigao Del Sur)
-2026-05-24T05:45:00.000Z,24 May 2026 - 05:45 AM,08.77,126.61,027,2.8,035km S 84° E of Marihatag (Surigao Del Sur),035,S 84° E,Marihatag (Surigao Del Sur)
-2026-05-24T05:42:00.000Z,24 May 2026 - 05:42 AM,17.67,120.48,009,3.3,006km S 74° E of Magsingal (Ilocos Sur),006,S 74° E,Magsingal (Ilocos Sur)
-2026-05-24T05:29:00.000Z,24 May 2026 - 05:29 AM,17.69,120.56,006,3.3,011km S 86° W of Danglas (Abra),011,S 86° W,Danglas (Abra)
-2026-05-24T05:24:00.000Z,24 May 2026 - 05:24 AM,13.74,120.58,098,1.3,012km S 28° W of Calatagan (Batangas),012,S 28° W,Calatagan (Batangas)
-2026-05-24T05:14:00.000Z,24 May 2026 - 05:14 AM,06.38,124.62,006,2.1,008km S 48° W of Santo Niño (South Cotabato),008,S 48° W,Santo NiÃ±o (South Cotabato)
-2026-05-24T04:31:00.000Z,24 May 2026 - 04:31 AM,17.58,120.42,002,2.1,004km N 75° E of City Of Vigan (Ilocos Sur),004,N 75° E,City Of Vigan (Ilocos Sur)
-2026-05-24T04:14:00.000Z,24 May 2026 - 04:14 AM,19.41,121.93,014,1.5,012km S 07° E of Babuyan Island (Calayan) (Cagayan),012,S 07° E,Babuyan Island (Calayan) (Cagayan)
