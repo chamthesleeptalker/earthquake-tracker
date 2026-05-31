@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-31T22:13:00.000Z,31 May 2026 - 10:13 PM,16.36,119.51,038,1.9,041km S 85° W of Bolinao (Pangasinan),041,S 85° W,Bolinao (Pangasinan)
+2026-05-31T22:10:00.000Z,31 May 2026 - 10:10 PM,16.42,119.40,038,3.7,053km N 86° W of Bolinao (Pangasinan),053,N 86° W,Bolinao (Pangasinan)
+2026-05-31T22:01:00.000Z,31 May 2026 - 10:01 PM,15.87,121.71,002,1.8,021km N 86° E of Dipaculao (Aurora),021,N 86° E,Dipaculao (Aurora)
+2026-05-31T22:00:00.000Z,31 May 2026 - 10:00 PM,13.87,120.49,038,1.6,016km N 73° W of Calatagan (Batangas),016,N 73° W,Calatagan (Batangas)
+2026-05-31T21:53:00.000Z,31 May 2026 - 09:53 PM,08.27,123.33,014,2.4,013km N 09° W of Dumingag (Zamboanga Del Sur),013,N 09° W,Dumingag (Zamboanga Del Sur)
+2026-05-31T21:18:00.000Z,31 May 2026 - 09:18 PM,16.42,119.21,027,3.0,073km N 87° W of Bolinao (Pangasinan),073,N 87° W,Bolinao (Pangasinan)
+2026-05-31T21:11:00.000Z,31 May 2026 - 09:11 PM,05.78,126.49,105,2.2,095km S 81° E of Jose Abad Santos (Davao Occidental),095,S 81° E,Jose Abad Santos (Davao Occidental)
 2026-05-31T20:39:00.000Z,31 May 2026 - 08:39 PM,06.88,127.38,025,3.2,100km S 68° E of Manay (Davao Oriental),100,S 68° E,Manay (Davao Oriental)
 2026-05-31T20:26:00.000Z,31 May 2026 - 08:26 PM,16.46,119.16,018,3.5,078km N 84° W of Bolinao (Pangasinan),078,N 84° W,Bolinao (Pangasinan)
 2026-05-31T19:43:00.000Z,31 May 2026 - 07:43 PM,06.88,127.32,022,2.5,094km S 67° E of Manay (Davao Oriental),094,S 67° E,Manay (Davao Oriental)
