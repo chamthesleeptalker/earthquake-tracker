@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-05-31T17:05:00.000Z,31 May 2026 - 05:05 PM,15.98,119.24,009,2.1,083km S 57° W of Bolinao (Pangasinan),083,S 57° W,Bolinao (Pangasinan)
+2026-05-31T17:01:00.000Z,31 May 2026 - 05:01 PM,16.51,119.04,015,3.5,092km N 82° W of Bolinao (Pangasinan),092,N 82° W,Bolinao (Pangasinan)
+2026-05-31T16:31:00.000Z,31 May 2026 - 04:31 PM,05.50,126.33,041,2.9,089km S 59° E of Jose Abad Santos (Davao Occidental),089,S 59° E,Jose Abad Santos (Davao Occidental)
+2026-05-31T16:01:00.000Z,31 May 2026 - 04:01 PM,05.99,126.58,015,3.3,092km S 38° E of Governor Generoso (Davao Oriental),092,S 38° E,Governor Generoso (Davao Oriental)
+2026-05-31T15:35:00.000Z,31 May 2026 - 03:35 PM,13.54,120.88,011,2.4,009km N 61° W of Puerto Galera (Oriental Mindoro),009,N 61° W,Puerto Galera (Oriental Mindoro)
+2026-05-31T15:09:00.000Z,31 May 2026 - 03:09 PM,15.09,123.13,034,2.1,071km N 16° E of Tinaga Island (Vinzons) (Camarines Norte),071,N 16° E,Tinaga Island (Vinzons) (Camarines Norte)
 2026-05-31T13:57:00.000Z,31 May 2026 - 01:57 PM,08.86,126.66,010,4.6,039km S 80° E of Cagwait (Surigao Del Sur),039,S 80° E,Cagwait (Surigao Del Sur)
 2026-05-31T13:04:00.000Z,31 May 2026 - 01:04 PM,06.62,127.38,023,3.3,114km S 55° E of Manay (Davao Oriental),114,S 55° E,Manay (Davao Oriental)
 2026-05-31T12:38:00.000Z,31 May 2026 - 12:38 PM,08.94,126.16,039,2.0,012km S 43° W of Tago (Surigao Del Sur),012,S 43° W,Tago (Surigao Del Sur)

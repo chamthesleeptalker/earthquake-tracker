@@ -1,3 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-05-31T13:57:00.000Z,31 May 2026 - 01:57 PM,08.86,126.66,010,4.6,039km S 80° E of Cagwait (Surigao Del Sur),039,S 80° E,Cagwait (Surigao Del Sur)
-2026-05-31T13:04:00.000Z,31 May 2026 - 01:04 PM,06.62,127.38,023,3.3,114km S 55° E of Manay (Davao Oriental),114,S 55° E,Manay (Davao Oriental)
+2026-05-31T17:05:00.000Z,31 May 2026 - 05:05 PM,15.98,119.24,009,2.1,083km S 57° W of Bolinao (Pangasinan),083,S 57° W,Bolinao (Pangasinan)
+2026-05-31T17:01:00.000Z,31 May 2026 - 05:01 PM,16.51,119.04,015,3.5,092km N 82° W of Bolinao (Pangasinan),092,N 82° W,Bolinao (Pangasinan)
+2026-05-31T16:31:00.000Z,31 May 2026 - 04:31 PM,05.50,126.33,041,2.9,089km S 59° E of Jose Abad Santos (Davao Occidental),089,S 59° E,Jose Abad Santos (Davao Occidental)
