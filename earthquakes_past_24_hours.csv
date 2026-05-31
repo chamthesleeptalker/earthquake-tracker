@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-01T02:22:00.000Z,01 June 2026 - 02:22 AM,13.75,120.58,110,1.7,011km S 34° W of Calatagan (Batangas),011,S 34° W,Calatagan (Batangas)
+2026-06-01T02:04:00.000Z,01 June 2026 - 02:04 AM,05.22,125.00,031,2.8,051km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-01T01:22:00.000Z,01 June 2026 - 01:22 AM,09.73,126.32,019,1.9,019km S 72° E of General Luna (Surigao Del Norte),019,S 72° E,General Luna (Surigao Del Norte)
 2026-06-01T01:11:00.000Z,01 June 2026 - 01:11 AM,06.20,126.99,052,2.6,111km S 32° E of Tarragona (Davao Oriental),111,S 32° E,Tarragona (Davao Oriental)
 2026-06-01T00:54:00.000Z,01 June 2026 - 12:54 AM,04.98,127.55,125,3.5,235km S 64° E of Jose Abad Santos (Davao Occidental),235,S 64° E,Jose Abad Santos (Davao Occidental)
@@ -48,10 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-31T04:26:00.000Z,31 May 2026 - 04:26 AM,17.56,120.90,003,2.1,001km S 22° W of Licuan,001,S 22° W,Licuan
 2026-05-31T04:12:00.000Z,31 May 2026 - 04:12 AM,06.83,123.84,024,2.1,033km S 37° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 37° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-05-31T03:06:00.000Z,31 May 2026 - 03:06 AM,10.65,125.46,022,1.8,031km S 70° W of Homonhon Island (Guiuan) (Eastern Samar),031,S 70° W,Homonhon Island (Guiuan) (Eastern Samar)
-2026-05-31T02:12:00.000Z,31 May 2026 - 02:12 AM,11.81,125.40,025,2.1,009km N 45° W of San Julian (Eastern Samar),009,N 45° W,San Julian (Eastern Samar)
-2026-05-31T02:04:00.000Z,31 May 2026 - 02:04 AM,09.88,125.58,030,1.6,009km S 19° W of Dinagat (Dinagat Islands),009,S 19° W,Dinagat (Dinagat Islands)
-2026-05-31T01:46:00.000Z,31 May 2026 - 01:46 AM,09.01,126.55,028,2.6,029km N 80° E of Bayabas (Surigao Del Sur),029,N 80° E,Bayabas (Surigao Del Sur)
-2026-05-31T01:34:00.000Z,31 May 2026 - 01:34 AM,05.59,126.81,022,2.6,134km S 74° E of Jose Abad Santos (Davao Occidental),134,S 74° E,Jose Abad Santos (Davao Occidental)
-2026-05-31T01:28:00.000Z,31 May 2026 - 01:28 AM,13.36,123.29,034,1.8,007km N 48° E of Balatan (Camarines Sur),007,N 48° E,Balatan (Camarines Sur)
-2026-05-31T01:26:00.000Z,31 May 2026 - 01:26 AM,16.51,119.12,019,3.0,084km N 81° W of Bolinao (Pangasinan),084,N 81° W,Bolinao (Pangasinan)
-2026-05-31T01:25:00.000Z,31 May 2026 - 01:25 AM,16.52,119.29,018,2.4,066km N 77° W of Bolinao (Pangasinan),066,N 77° W,Bolinao (Pangasinan)
