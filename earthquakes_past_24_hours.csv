@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-01T04:15:00.000Z,01 June 2026 - 04:15 AM,10.00,126.10,032,2.1,003km S 49° E of Burgos (Surigao Del Norte),003,S 49° E,Burgos (Surigao Del Norte)
+2026-06-01T03:36:00.000Z,01 June 2026 - 03:36 AM,07.06,126.01,044,2.8,011km N 02° E of Banaybanay (Davao Oriental),011,N 02° E,Banaybanay (Davao Oriental)
+2026-06-01T03:24:00.000Z,01 June 2026 - 03:24 AM,08.07,123.23,030,1.5,010km N 63° W of Midsalip (Zamboanga Del Sur),010,N 63° W,Midsalip (Zamboanga Del Sur)
 2026-06-01T02:22:00.000Z,01 June 2026 - 02:22 AM,13.75,120.58,110,1.7,011km S 34° W of Calatagan (Batangas),011,S 34° W,Calatagan (Batangas)
 2026-06-01T02:04:00.000Z,01 June 2026 - 02:04 AM,05.22,125.00,031,2.8,051km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-01T01:22:00.000Z,01 June 2026 - 01:22 AM,09.73,126.32,019,1.9,019km S 72° E of General Luna (Surigao Del Norte),019,S 72° E,General Luna (Surigao Del Norte)
@@ -48,5 +51,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-31T05:20:00.000Z,31 May 2026 - 05:20 AM,05.90,126.48,029,3.5,095km S 28° E of Governor Generoso (Davao Oriental),095,S 28° E,Governor Generoso (Davao Oriental)
 2026-05-31T05:04:00.000Z,31 May 2026 - 05:04 AM,16.66,119.06,015,3.8,094km N 72° W of Bolinao (Pangasinan),094,N 72° W,Bolinao (Pangasinan)
 2026-05-31T04:26:00.000Z,31 May 2026 - 04:26 AM,17.56,120.90,003,2.1,001km S 22° W of Licuan,001,S 22° W,Licuan
-2026-05-31T04:12:00.000Z,31 May 2026 - 04:12 AM,06.83,123.84,024,2.1,033km S 37° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),033,S 37° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-05-31T03:06:00.000Z,31 May 2026 - 03:06 AM,10.65,125.46,022,1.8,031km S 70° W of Homonhon Island (Guiuan) (Eastern Samar),031,S 70° W,Homonhon Island (Guiuan) (Eastern Samar)

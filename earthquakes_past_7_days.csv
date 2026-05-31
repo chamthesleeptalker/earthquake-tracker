@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-01T04:15:00.000Z,01 June 2026 - 04:15 AM,10.00,126.10,032,2.1,003km S 49° E of Burgos (Surigao Del Norte),003,S 49° E,Burgos (Surigao Del Norte)
+2026-06-01T03:36:00.000Z,01 June 2026 - 03:36 AM,07.06,126.01,044,2.8,011km N 02° E of Banaybanay (Davao Oriental),011,N 02° E,Banaybanay (Davao Oriental)
+2026-06-01T03:24:00.000Z,01 June 2026 - 03:24 AM,08.07,123.23,030,1.5,010km N 63° W of Midsalip (Zamboanga Del Sur),010,N 63° W,Midsalip (Zamboanga Del Sur)
 2026-06-01T02:22:00.000Z,01 June 2026 - 02:22 AM,13.75,120.58,110,1.7,011km S 34° W of Calatagan (Batangas),011,S 34° W,Calatagan (Batangas)
 2026-06-01T02:04:00.000Z,01 June 2026 - 02:04 AM,05.22,125.00,031,2.8,051km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-01T01:22:00.000Z,01 June 2026 - 01:22 AM,09.73,126.32,019,1.9,019km S 72° E of General Luna (Surigao Del Norte),019,S 72° E,General Luna (Surigao Del Norte)
@@ -459,8 +462,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-25T05:01:00.000Z,25 May 2026 - 05:01 AM,04.81,124.41,032,2.2,131km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),131,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-25T04:58:00.000Z,25 May 2026 - 04:58 AM,14.10,120.41,099,1.9,024km N 83° W of Nasugbu (Batangas),024,N 83° W,Nasugbu (Batangas)
 2026-05-25T04:40:00.000Z,25 May 2026 - 04:40 AM,14.66,119.12,030,2.0,109km S 73° W of San Antonio (Zambales),109,S 73° W,San Antonio (Zambales)
-2026-05-25T03:19:00.000Z,25 May 2026 - 03:19 AM,09.19,126.27,018,2.7,024km N 03° W of Bayabas (Surigao Del Sur),024,N 03° W,Bayabas (Surigao Del Sur)
-2026-05-25T03:15:00.000Z,25 May 2026 - 03:15 AM,09.14,126.34,033,1.9,020km N 18° E of Bayabas (Surigao Del Sur),020,N 18° E,Bayabas (Surigao Del Sur)
-2026-05-25T02:59:00.000Z,25 May 2026 - 02:59 AM,07.34,126.79,023,2.8,025km N 87° E of Caraga (Davao Oriental),025,N 87° E,Caraga (Davao Oriental)
-2026-05-25T02:44:00.000Z,25 May 2026 - 02:44 AM,09.96,124.17,003,1.9,006km N 81° W of Danao (Bohol),006,N 81° W,Danao (Bohol)
-2026-05-25T02:39:00.000Z,25 May 2026 - 02:39 AM,09.16,126.43,022,2.2,026km N 37° E of Bayabas (Surigao Del Sur),026,N 37° E,Bayabas (Surigao Del Sur)
