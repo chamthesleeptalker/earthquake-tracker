@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-01T01:22:00.000Z,01 June 2026 - 01:22 AM,09.73,126.32,019,1.9,019km S 72° E of General Luna (Surigao Del Norte),019,S 72° E,General Luna (Surigao Del Norte)
+2026-06-01T01:11:00.000Z,01 June 2026 - 01:11 AM,06.20,126.99,052,2.6,111km S 32° E of Tarragona (Davao Oriental),111,S 32° E,Tarragona (Davao Oriental)
+2026-06-01T00:54:00.000Z,01 June 2026 - 12:54 AM,04.98,127.55,125,3.5,235km S 64° E of Jose Abad Santos (Davao Occidental),235,S 64° E,Jose Abad Santos (Davao Occidental)
+2026-06-01T00:41:00.000Z,01 June 2026 - 12:41 AM,17.76,120.42,005,3.4,004km N 63° W of San Juan (Ilocos Sur),004,N 63° W,San Juan (Ilocos Sur)
 2026-05-31T23:45:00.000Z,31 May 2026 - 11:45 PM,16.56,119.05,020,3.0,092km N 78° W of Bolinao (Pangasinan),092,N 78° W,Bolinao (Pangasinan)
 2026-05-31T23:44:00.000Z,31 May 2026 - 11:44 PM,05.99,126.59,023,2.5,093km S 38° E of Governor Generoso (Davao Oriental),093,S 38° E,Governor Generoso (Davao Oriental)
 2026-05-31T23:11:00.000Z,31 May 2026 - 11:11 PM,18.57,120.84,025,2.1,006km N 75° E of Pagudpud (Ilocos Norte),006,N 75° E,Pagudpud (Ilocos Norte)
