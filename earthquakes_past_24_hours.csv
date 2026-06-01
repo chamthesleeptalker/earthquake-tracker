@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-01T08:44:00.000Z,01 June 2026 - 08:44 AM,15.39,120.11,034,1.4,014km N 40° E of Botolan (Zambales),014,N 40° E,Botolan (Zambales)
+2026-06-01T08:27:00.000Z,01 June 2026 - 08:27 AM,10.11,126.09,017,2.3,011km N 08° E of Burgos (Surigao Del Norte),011,N 08° E,Burgos (Surigao Del Norte)
 2026-06-01T06:37:00.000Z,01 June 2026 - 06:37 AM,09.58,126.34,020,1.4,031km S 42° E of General Luna (Surigao Del Norte),031,S 42° E,General Luna (Surigao Del Norte)
 2026-06-01T06:26:00.000Z,01 June 2026 - 06:26 AM,13.82,120.86,006,1.9,007km S 55° W of San Luis (Batangas),007,S 55° W,San Luis (Batangas)
 2026-06-01T06:19:00.000Z,01 June 2026 - 06:19 AM,06.57,124.99,028,2.4,013km S 13° E of Columbio (Sultan Kudarat),013,S 13° E,Columbio (Sultan Kudarat)
@@ -47,8 +49,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-31T11:29:00.000Z,31 May 2026 - 11:29 AM,19.07,121.21,010,2.7,004km South of Dalupiri Island (Calayan) (Cagayan),004,South of Dalupiri,(Calayan) (Cagayan)
 2026-05-31T11:13:00.000Z,31 May 2026 - 11:13 AM,03.56,126.57,048,3.6,242km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),242,S 32° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-31T11:02:00.000Z,31 May 2026 - 11:02 AM,15.01,122.05,004,1.8,021km N 26° E of Burdeos (Quezon),021,N 26° E,Burdeos (Quezon)
-2026-05-31T07:49:00.000Z,31 May 2026 - 07:49 AM,05.63,126.79,027,2.6,130km S 76° E of Jose Abad Santos (Davao Occidental),130,S 76° E,Jose Abad Santos (Davao Occidental)
-2026-05-31T07:26:00.000Z,31 May 2026 - 07:26 AM,16.59,119.12,009,2.3,086km N 75° W of Bolinao (Pangasinan),086,N 75° W,Bolinao (Pangasinan)
-2026-05-31T07:24:00.000Z,31 May 2026 - 07:24 AM,16.24,119.13,110,2.6,083km S 79° W of Bolinao (Pangasinan),083,S 79° W,Bolinao (Pangasinan)
-2026-05-31T07:15:00.000Z,31 May 2026 - 07:15 AM,19.06,121.19,012,2.6,006km S 15° W of Dalupiri Island (Calayan) (Cagayan),006,S 15° W,Dalupiri Island (Calayan) (Cagayan)
-2026-05-31T07:05:00.000Z,31 May 2026 - 07:05 AM,16.49,119.14,007,2.7,081km N 82° W of Bolinao (Pangasinan),081,N 82° W,Bolinao (Pangasinan)

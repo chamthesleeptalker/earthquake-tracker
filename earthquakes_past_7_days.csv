@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-01T08:44:00.000Z,01 June 2026 - 08:44 AM,15.39,120.11,034,1.4,014km N 40° E of Botolan (Zambales),014,N 40° E,Botolan (Zambales)
+2026-06-01T08:27:00.000Z,01 June 2026 - 08:27 AM,10.11,126.09,017,2.3,011km N 08° E of Burgos (Surigao Del Norte),011,N 08° E,Burgos (Surigao Del Norte)
 2026-06-01T06:37:00.000Z,01 June 2026 - 06:37 AM,09.58,126.34,020,1.4,031km S 42° E of General Luna (Surigao Del Norte),031,S 42° E,General Luna (Surigao Del Norte)
 2026-06-01T06:26:00.000Z,01 June 2026 - 06:26 AM,13.82,120.86,006,1.9,007km S 55° W of San Luis (Batangas),007,S 55° W,San Luis (Batangas)
 2026-06-01T06:19:00.000Z,01 June 2026 - 06:19 AM,06.57,124.99,028,2.4,013km S 13° E of Columbio (Sultan Kudarat),013,S 13° E,Columbio (Sultan Kudarat)
@@ -457,10 +459,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-25T10:20:00.000Z,25 May 2026 - 10:20 AM,10.37,125.20,010,1.9,003km S 04° W of Hinunangan (Southern Leyte),003,S 04° W,Hinunangan (Southern Leyte)
 2026-05-25T09:31:00.000Z,25 May 2026 - 09:31 AM,13.58,120.67,106,1.6,016km N 21° W of Abra De Ilog (Occidental Mindoro),016,N 21° W,Abra De Ilog (Occidental Mindoro)
 2026-05-25T09:21:00.000Z,25 May 2026 - 09:21 AM,09.39,125.93,033,1.4,003km N 46° W of Carrascal (Surigao Del Sur),003,N 46° W,Carrascal (Surigao Del Sur)
-2026-05-25T08:16:00.000Z,25 May 2026 - 08:16 AM,09.19,126.55,015,1.7,038km N 51° E of Bayabas (Surigao Del Sur),038,N 51° E,Bayabas (Surigao Del Sur)
-2026-05-25T08:00:00.000Z,25 May 2026 - 08:00 AM,12.99,125.84,033,2.4,085km N 48° E of Mapanas (Northern Samar),085,N 48° E,Mapanas (Northern Samar)
-2026-05-25T07:58:00.000Z,25 May 2026 - 07:58 AM,12.91,124.26,102,2.5,013km N 68° E of Barcelona (Sorsogon),013,N 68° E,Barcelona (Sorsogon)
-2026-05-25T07:46:00.000Z,25 May 2026 - 07:46 AM,09.10,126.96,027,2.8,076km N 79° E of Bayabas (Surigao Del Sur),076,N 79° E,Bayabas (Surigao Del Sur)
-2026-05-25T07:23:00.000Z,25 May 2026 - 07:23 AM,08.83,123.83,033,1.6,027km N 29° E of Plaridel (Misamis Occidental),027,N 29° E,Plaridel (Misamis Occidental)
-2026-05-25T07:21:00.000Z,25 May 2026 - 07:21 AM,09.56,126.10,003,2.4,025km S 13° W of General Luna (Surigao Del Norte),025,S 13° W,General Luna (Surigao Del Norte)
-2026-05-25T06:49:00.000Z,25 May 2026 - 06:49 AM,09.15,126.45,035,1.8,027km N 43° E of Bayabas (Surigao Del Sur),027,N 43° E,Bayabas (Surigao Del Sur)
