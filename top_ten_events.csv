@@ -1,11 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-05-30T21:15:00.000Z,30 May 2026 - 09:15 PM,05.62,126.65,10,4.9,131km S 29° E of Governor Generoso (Davao Oriental),131,S 29° E,Governor Generoso (Davao Oriental)
+2026-06-01T18:43:00.000Z,01 June 2026 - 06:43 PM,12.16,123.94,10,4.6,002km N 49° E of Palanas (Masbate),002,N 49° E,Palanas (Masbate)
 2026-05-31T13:57:00.000Z,31 May 2026 - 01:57 PM,08.86,126.66,10,4.6,039km S 80° E of Cagwait (Surigao Del Sur),039,S 80° E,Cagwait (Surigao Del Sur)
 2026-05-30T22:42:00.000Z,30 May 2026 - 10:42 PM,16.72,118.00,10,4.4,205km N 80° W of Bolinao (Pangasinan),205,N 80° W,Bolinao (Pangasinan)
 2026-05-28T18:44:00.000Z,28 May 2026 - 06:44 PM,08.74,126.59,10,4.4,042km S 53° E of Bayabas (Surigao Del Sur),042,S 53° E,Bayabas (Surigao Del Sur)
+2026-06-01T18:57:00.000Z,01 June 2026 - 06:57 PM,06.81,126.16,24,4.3,008km S 74° E of San Isidro (Davao Oriental),008,S 74° E,San Isidro (Davao Oriental)
 2026-05-25T23:57:00.000Z,25 May 2026 - 11:57 PM,02.69,126.15,32,4.2,312km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),312,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-30T13:48:00.000Z,30 May 2026 - 01:48 PM,05.80,126.67,13,4.1,114km S 84° E of Jose Abad Santos (Davao Occidental),114,S 84° E,Jose Abad Santos (Davao Occidental)
 2026-05-29T07:32:00.000Z,29 May 2026 - 07:32 AM,16.50,118.78,10,4.1,119km N 84° W of Bolinao (Pangasinan),119,N 84° W,Bolinao (Pangasinan)
 2026-05-28T20:27:00.000Z,28 May 2026 - 08:27 PM,04.49,125.21,33,4.1,105km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),105,S 13° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-05-30T22:21:00.000Z,30 May 2026 - 10:21 PM,16.48,119.17,10,4.0,077km N 82° W of Bolinao (Pangasinan),077,N 82° W,Bolinao (Pangasinan)
-2026-05-28T11:25:00.000Z,28 May 2026 - 11:25 AM,16.58,118.89,15,4.0,110km N 79° W of Bolinao (Pangasinan),110,N 79° W,Bolinao (Pangasinan)
