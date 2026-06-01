@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-01T14:35:00.000Z,01 June 2026 - 02:35 PM,09.64,126.21,033,1.4,017km S 21° E of General Luna (Surigao Del Norte),017,S 21° E,General Luna (Surigao Del Norte)
+2026-06-01T13:25:00.000Z,01 June 2026 - 01:25 PM,11.19,124.06,011,2.1,018km N 31° E of City Of Bogo (Cebu),018,N 31° E,City Of Bogo (Cebu)
+2026-06-01T13:21:00.000Z,01 June 2026 - 01:21 PM,15.38,119.63,030,1.9,030km S 78° W of Palauig (Zambales),030,S 78° W,Palauig (Zambales)
+2026-06-01T12:42:00.000Z,01 June 2026 - 12:42 PM,06.81,123.78,001,3.9,037km N 58° W of Lebak (Sultan Kudarat),037,N 58° W,Lebak (Sultan Kudarat)
+2026-06-01T11:21:00.000Z,01 June 2026 - 11:21 AM,18.80,121.39,029,1.4,006km S 22° E of Fuga Island (Aparri) (Cagayan),006,S 22° E,Fuga Island (Aparri) (Cagayan)
+2026-06-01T09:52:00.000Z,01 June 2026 - 09:52 AM,08.66,125.78,011,2.5,006km S 32° E of City Of Bayugan (Agusan Del Sur),006,S 32° E,City Of Bayugan (Agusan Del Sur)
 2026-06-01T08:44:00.000Z,01 June 2026 - 08:44 AM,15.39,120.11,034,1.4,014km N 40° E of Botolan (Zambales),014,N 40° E,Botolan (Zambales)
 2026-06-01T08:27:00.000Z,01 June 2026 - 08:27 AM,10.11,126.09,017,2.3,011km N 08° E of Burgos (Surigao Del Norte),011,N 08° E,Burgos (Surigao Del Norte)
 2026-06-01T06:37:00.000Z,01 June 2026 - 06:37 AM,09.58,126.34,020,1.4,031km S 42° E of General Luna (Surigao Del Norte),031,S 42° E,General Luna (Surigao Del Norte)
