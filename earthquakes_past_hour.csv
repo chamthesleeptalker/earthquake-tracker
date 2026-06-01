@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-01T18:57:00.000Z,01 June 2026 - 06:57 PM,06.81,126.16,024,4.3,008km S 74° E of San Isidro (Davao Oriental),008,S 74° E,San Isidro (Davao Oriental)
-2026-06-01T18:47:00.000Z,01 June 2026 - 06:47 PM,16.91,120.20,013,1.8,019km N 72° W of Luna (La Union),019,N 72° W,Luna (La Union)
-2026-06-01T18:43:00.000Z,01 June 2026 - 06:43 PM,12.16,123.94,010,4.6,002km N 49° E of Palanas (Masbate),002,N 49° E,Palanas (Masbate)
+2026-06-02T02:24:00.000Z,02 June 2026 - 02:24 AM,14.97,122.05,014,2.0,016km N 31° E of Burdeos (Quezon),016,N 31° E,Burdeos (Quezon)
+2026-06-02T02:16:00.000Z,02 June 2026 - 02:16 AM,09.71,126.12,028,2.1,009km S 56° E of Dapa (Surigao Del Norte),009,S 56° E,Dapa (Surigao Del Norte)
+2026-06-02T02:04:00.000Z,02 June 2026 - 02:04 AM,07.25,126.70,022,1.9,018km S 60° E of Caraga (Davao Oriental),018,S 60° E,Caraga (Davao Oriental)
+2026-06-02T02:01:00.000Z,02 June 2026 - 02:01 AM,16.44,120.59,031,1.5,001km South of La Trinidad (Benguet),001,South of La,(Benguet)
+2026-06-02T01:57:00.000Z,02 June 2026 - 01:57 AM,12.16,123.89,002,2.8,004km N 62° W of Palanas (Masbate),004,N 62° W,Palanas (Masbate)
+2026-06-02T01:55:00.000Z,02 June 2026 - 01:55 AM,07.86,126.05,033,1.5,004km N 03° W of Monkayo (Davao De Oro),004,N 03° W,Monkayo (Davao De Oro)
+2026-06-02T01:43:00.000Z,02 June 2026 - 01:43 AM,17.57,121.05,012,2.2,005km S 79° E of Malibcong (Abra),005,S 79° E,Malibcong (Abra)
+2026-06-02T01:31:00.000Z,02 June 2026 - 01:31 AM,08.77,126.46,028,2.0,018km S 81° E of Marihatag (Surigao Del Sur),018,S 81° E,Marihatag (Surigao Del Sur)
