@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-02T19:19:00.000Z,02 June 2026 - 07:19 PM,13.60,120.67,107,1.7,018km N 21° W of Abra De Ilog (Occidental Mindoro),018,N 21° W,Abra De Ilog (Occidental Mindoro)
+2026-06-02T19:17:00.000Z,02 June 2026 - 07:17 PM,09.12,126.49,018,2.3,028km N 53° E of Bayabas (Surigao Del Sur),028,N 53° E,Bayabas (Surigao Del Sur)
+2026-06-02T17:04:00.000Z,02 June 2026 - 05:04 PM,18.58,120.90,045,1.8,013km N 35° E of Pagudpud (Ilocos Norte),013,N 35° E,Pagudpud (Ilocos Norte)
+2026-06-02T17:03:00.000Z,02 June 2026 - 05:03 PM,14.91,120.03,033,2.5,008km S 52° W of San Antonio (Zambales),008,S 52° W,San Antonio (Zambales)
+2026-06-02T16:46:00.000Z,02 June 2026 - 04:46 PM,13.78,120.55,096,1.8,010km S 55° W of Calatagan (Batangas),010,S 55° W,Calatagan (Batangas)
 2026-06-02T14:44:00.000Z,02 June 2026 - 02:44 PM,11.12,124.02,004,1.5,009km N 31° E of City Of Bogo (Cebu),009,N 31° E,City Of Bogo (Cebu)
 2026-06-02T13:56:00.000Z,02 June 2026 - 01:56 PM,17.19,120.24,062,1.5,021km N 82° W of City Of Candon (Ilocos Sur),021,N 82° W,City Of Candon (Ilocos Sur)
 2026-06-02T13:15:00.000Z,02 June 2026 - 01:15 PM,09.46,126.11,036,1.5,020km N 46° E of Cantilan (Surigao Del Sur),020,N 46° E,Cantilan (Surigao Del Sur)
