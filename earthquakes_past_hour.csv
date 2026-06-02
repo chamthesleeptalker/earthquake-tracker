@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-02T07:38:00.000Z,02 June 2026 - 07:38 AM,11.04,124.14,035,2.1,018km S 87° E of City Of Bogo (Cebu),018,S 87° E,City Of Bogo (Cebu)
+2026-06-02T10:52:00.000Z,02 June 2026 - 10:52 AM,12.46,124.98,009,1.9,010km N 54° W of Catubig (Northern Samar),010,N 54° W,Catubig (Northern Samar)
+2026-06-02T10:37:00.000Z,02 June 2026 - 10:37 AM,09.90,126.05,034,1.8,006km S 48° W of San Isidro (Surigao Del Norte),006,S 48° W,San Isidro (Surigao Del Norte)
+2026-06-02T10:34:00.000Z,02 June 2026 - 10:34 AM,16.79,118.69,031,3.1,136km N 71° W of Bolinao (Pangasinan),136,N 71° W,Bolinao (Pangasinan)
+2026-06-02T10:29:00.000Z,02 June 2026 - 10:29 AM,13.89,120.23,030,1.5,013km N 72° E of Lubang (Occidental Mindoro),013,N 72° E,Lubang (Occidental Mindoro)
+2026-06-02T10:03:00.000Z,02 June 2026 - 10:03 AM,11.08,123.95,020,1.4,005km N 42° W of City Of Bogo (Cebu),005,N 42° W,City Of Bogo (Cebu)
