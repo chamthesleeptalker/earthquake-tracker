@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-04T04:47:00.000Z,04 June 2026 - 04:47 AM,09.42,125.94,134,2.4,006km N 09° W of Carrascal (Surigao Del Sur),006,N 09° W,Carrascal (Surigao Del Sur)
+2026-06-04T04:44:00.000Z,04 June 2026 - 04:44 AM,11.16,123.96,003,1.7,013km N 11° W of City Of Bogo (Cebu),013,N 11° W,City Of Bogo (Cebu)
+2026-06-04T04:32:00.000Z,04 June 2026 - 04:32 AM,08.50,126.62,006,2.8,034km N 64° E of Hinatuan (Surigao Del Sur),034,N 64° E,Hinatuan (Surigao Del Sur)
+2026-06-04T04:18:00.000Z,04 June 2026 - 04:18 AM,17.63,120.68,024,2.2,003km N 55° E of Tayum (Abra),003,N 55° E,Tayum (Abra)
+2026-06-04T04:15:00.000Z,04 June 2026 - 04:15 AM,16.76,122.50,019,2.1,034km S 14° E of Palanan (Isabela),034,S 14° E,Palanan (Isabela)
+2026-06-04T04:14:00.000Z,04 June 2026 - 04:14 AM,15.30,120.30,116,2.3,026km S 41° W of San Jose (Tarlac),026,S 41° W,San Jose (Tarlac)
+2026-06-04T04:05:00.000Z,04 June 2026 - 04:05 AM,16.80,120.52,010,1.6,005km S 03° E of Sugpon (Ilocos Sur),005,S 03° E,Sugpon (Ilocos Sur)
+2026-06-04T03:53:00.000Z,04 June 2026 - 03:53 AM,10.07,122.42,035,2.3,025km N 64° W of Cauayan (Negros Occidental),025,N 64° W,Cauayan (Negros Occidental)
 2026-06-04T02:43:00.000Z,04 June 2026 - 02:43 AM,08.25,126.71,034,2.5,040km N 55° E of Lingig (Surigao Del Sur),040,N 55° E,Lingig (Surigao Del Sur)
 2026-06-04T01:56:00.000Z,04 June 2026 - 01:56 AM,07.80,126.78,022,1.6,035km N 44° E of Baganga (Davao Oriental),035,N 44° E,Baganga (Davao Oriental)
 2026-06-04T01:19:00.000Z,04 June 2026 - 01:19 AM,11.21,123.94,010,2.9,019km N 13° W of City Of Bogo (Cebu),019,N 13° W,City Of Bogo (Cebu)
