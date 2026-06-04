@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-04T20:02:00.000Z,04 June 2026 - 08:02 PM,06.54,125.03,033,2.0,016km N 49° E of Tampakan (South Cotabato),016,N 49° E,Tampakan (South Cotabato)
+2026-06-04T19:31:00.000Z,04 June 2026 - 07:31 PM,11.04,123.98,032,1.6,001km S 06° E of City Of Bogo (Cebu),001,S 06° E,City Of Bogo (Cebu)
+2026-06-04T19:07:00.000Z,04 June 2026 - 07:07 PM,07.81,126.73,012,2.0,030km N 86° E of Cateel (Davao Oriental),030,N 86° E,Cateel (Davao Oriental)
+2026-06-04T18:49:00.000Z,04 June 2026 - 06:49 PM,05.77,126.85,007,3.3,130km S 41° E of Governor Generoso (Davao Oriental),130,S 41° E,Governor Generoso (Davao Oriental)
+2026-06-04T18:44:00.000Z,04 June 2026 - 06:44 PM,15.06,122.10,001,1.8,028km N 30° E of Burdeos (Quezon),028,N 30° E,Burdeos (Quezon)
+2026-06-03T21:09:00.000Z,03 June 2026 - 09:09 PM,14.98,121.97,019,1.8,016km N 02° E of Burdeos (Quezon),016,N 02° E,Burdeos (Quezon)
 2026-06-04T16:55:00.000Z,04 June 2026 - 04:55 PM,10.24,126.08,022,2.2,025km N 01° E of Burgos (Surigao Del Norte),025,N 01° E,Burgos (Surigao Del Norte)
 2026-06-04T16:52:00.000Z,04 June 2026 - 04:52 PM,15.17,122.81,001,2.5,074km N 44° E of Jomalig (Quezon),074,N 44° E,Jomalig (Quezon)
 2026-06-04T16:30:00.000Z,04 June 2026 - 04:30 PM,19.09,121.01,034,2.3,021km S 84° W of Dalupiri Island (Calayan) (Cagayan),021,S 84° W,Dalupiri Island (Calayan) (Cagayan)
@@ -48,6 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-03T21:08:00.000Z,03 June 2026 - 09:08 PM,15.01,122.01,016,1.9,020km N 14° E of Burdeos (Quezon),020,N 14° E,Burdeos (Quezon)
 2026-06-03T20:49:00.000Z,03 June 2026 - 08:49 PM,11.15,124.65,009,2.3,010km S 68° E of Kananga (Leyte),010,S 68° E,Kananga (Leyte)
 2026-06-03T20:20:00.000Z,03 June 2026 - 08:20 PM,07.90,126.78,026,1.8,038km N 72° E of Cateel (Davao Oriental),038,N 72° E,Cateel (Davao Oriental)
-2026-06-03T19:14:00.000Z,03 June 2026 - 07:14 PM,09.97,122.15,003,1.9,038km N 54° W of City Of Sipalay (Negros Occidental),038,N 54° W,City Of Sipalay (Negros Occidental)
-2026-06-03T19:08:00.000Z,03 June 2026 - 07:08 PM,09.20,125.90,024,2.7,010km S 49° W of Madrid (Surigao Del Sur),010,S 49° W,Madrid (Surigao Del Sur)
-2026-06-03T17:33:00.000Z,03 June 2026 - 05:33 PM,15.84,121.59,016,1.9,006km S 75° E of Dipaculao (Aurora),006,S 75° E,Dipaculao (Aurora)
