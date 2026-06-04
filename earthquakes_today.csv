@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-04T07:47:00.000Z,04 June 2026 - 07:47 AM,10.80,125.24,003,1.8,025km N 76° E of Abuyog (Leyte),025,N 76° E,Abuyog (Leyte)
+2026-06-04T07:10:00.000Z,04 June 2026 - 07:10 AM,13.63,120.36,034,3.8,016km S 50° E of Looc (Occidental Mindoro),016,S 50° E,Looc (Occidental Mindoro)
+2026-06-04T06:08:00.000Z,04 June 2026 - 06:08 AM,07.30,127.32,027,2.5,084km S 88° E of Caraga (Davao Oriental),084,S 88° E,Caraga (Davao Oriental)
+2026-06-04T06:06:00.000Z,04 June 2026 - 06:06 AM,07.28,126.27,009,2.8,016km S 75° E of Maragusan (Davao De Oro),016,S 75° E,Maragusan (Davao De Oro)
 2026-06-04T04:47:00.000Z,04 June 2026 - 04:47 AM,09.42,125.94,134,2.4,006km N 09° W of Carrascal (Surigao Del Sur),006,N 09° W,Carrascal (Surigao Del Sur)
 2026-06-04T04:44:00.000Z,04 June 2026 - 04:44 AM,11.16,123.96,003,1.7,013km N 11° W of City Of Bogo (Cebu),013,N 11° W,City Of Bogo (Cebu)
 2026-06-04T04:32:00.000Z,04 June 2026 - 04:32 AM,08.50,126.62,006,2.8,034km N 64° E of Hinatuan (Surigao Del Sur),034,N 64° E,Hinatuan (Surigao Del Sur)
