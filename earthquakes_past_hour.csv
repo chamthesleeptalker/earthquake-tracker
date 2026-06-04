@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-05T03:45:00.000Z,05 June 2026 - 03:45 AM,09.63,126.24,033,1.3,019km S 30° E of General Luna (Surigao Del Norte),019,S 30° E,General Luna (Surigao Del Norte)
-2026-06-05T03:35:00.000Z,05 June 2026 - 03:35 AM,07.23,126.95,002,2.3,044km S 76° E of Caraga (Davao Oriental),044,S 76° E,Caraga (Davao Oriental)
-2026-06-05T03:24:00.000Z,05 June 2026 - 03:24 AM,05.69,126.09,143,4.3,055km S 64° E of Jose Abad Santos (Davao Occidental),055,S 64° E,Jose Abad Santos (Davao Occidental)
-2026-06-05T02:56:00.000Z,05 June 2026 - 02:56 AM,15.21,120.35,032,1.8,024km S 80° W of Mabalacat City (Pampanga),024,S 80° W,Mabalacat City (Pampanga)
-2026-06-05T02:52:00.000Z,05 June 2026 - 02:52 AM,11.05,126.12,019,2.5,044km N 88° E of Guiuan (Eastern Samar),044,N 88° E,Guiuan (Eastern Samar)
-2026-06-05T02:46:00.000Z,05 June 2026 - 02:46 AM,15.26,120.37,022,2.9,021km N 86° W of Mabalacat City (Pampanga),021,N 86° W,Mabalacat City (Pampanga)
+2026-06-05T06:03:00.000Z,05 June 2026 - 06:03 AM,11.43,125.32,010,1.7,020km S 67° W of Balangkayan (Eastern Samar),020,S 67° W,Balangkayan (Eastern Samar)
+2026-06-05T05:33:00.000Z,05 June 2026 - 05:33 AM,10.11,123.24,018,2.6,004km S 78° W of City Of Guihulngan (Negros Oriental),004,S 78° W,City Of Guihulngan (Negros Oriental)
+2026-06-05T05:12:00.000Z,05 June 2026 - 05:12 AM,07.48,127.05,015,2.3,054km S 79° E of Baganga (Davao Oriental),054,S 79° E,Baganga (Davao Oriental)
+2026-06-05T05:06:00.000Z,05 June 2026 - 05:06 AM,10.04,126.07,033,1.8,002km N 21° W of Burgos (Surigao Del Norte),002,N 21° W,Burgos (Surigao Del Norte)
+2026-06-05T05:05:00.000Z,05 June 2026 - 05:05 AM,12.20,120.49,005,3.2,058km S 61° W of Rizal (Occidental Mindoro),058,S 61° W,Rizal (Occidental Mindoro)
