@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-04T13:02:00.000Z,04 June 2026 - 01:02 PM,16.52,119.07,015,2.8,089km N 81° W of Bolinao (Pangasinan),089,N 81° W,Bolinao (Pangasinan)
+2026-06-04T12:29:00.000Z,04 June 2026 - 12:29 PM,10.22,123.24,024,2.1,011km N 18° W of City Of Guihulngan (Negros Oriental),011,N 18° W,City Of Guihulngan (Negros Oriental)
+2026-06-04T12:16:00.000Z,04 June 2026 - 12:16 PM,17.54,121.36,027,1.9,010km S 30° W of Pinukpuk (Kalinga),010,S 30° W,Pinukpuk (Kalinga)
+2026-06-04T11:16:00.000Z,04 June 2026 - 11:16 AM,07.78,126.61,026,2.2,023km N 15° E of Baganga (Davao Oriental),023,N 15° E,Baganga (Davao Oriental)
+2026-06-04T11:07:00.000Z,04 June 2026 - 11:07 AM,10.92,123.95,007,1.9,015km S 11° W of City Of Bogo (Cebu),015,S 11° W,City Of Bogo (Cebu)
+2026-06-04T10:58:00.000Z,04 June 2026 - 10:58 AM,07.77,126.78,021,2.7,032km N 49° E of Baganga (Davao Oriental),032,N 49° E,Baganga (Davao Oriental)
+2026-06-04T10:02:00.000Z,04 June 2026 - 10:02 AM,07.66,126.63,025,1.9,012km N 38° E of Baganga (Davao Oriental),012,N 38° E,Baganga (Davao Oriental)
+2026-06-04T08:24:00.000Z,04 June 2026 - 08:24 AM,14.95,122.10,024,1.7,019km N 50° E of Burdeos (Quezon),019,N 50° E,Burdeos (Quezon)
 2026-06-04T07:47:00.000Z,04 June 2026 - 07:47 AM,10.80,125.24,003,1.8,025km N 76° E of Abuyog (Leyte),025,N 76° E,Abuyog (Leyte)
 2026-06-04T07:10:00.000Z,04 June 2026 - 07:10 AM,13.63,120.36,034,3.8,016km S 50° E of Looc (Occidental Mindoro),016,S 50° E,Looc (Occidental Mindoro)
 2026-06-04T06:08:00.000Z,04 June 2026 - 06:08 AM,07.30,127.32,027,2.5,084km S 88° E of Caraga (Davao Oriental),084,S 88° E,Caraga (Davao Oriental)
