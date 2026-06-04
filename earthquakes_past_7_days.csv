@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-05T07:25:00.000Z,05 June 2026 - 07:25 AM,19.74,121.31,007,2.8,071km N 09° E of Dalupiri Island (Calayan) (Cagayan),071,N 09° E,Dalupiri Island (Calayan) (Cagayan)
+2026-06-05T07:11:00.000Z,05 June 2026 - 07:11 AM,13.49,120.07,039,1.4,032km S 37° W of Looc (Occidental Mindoro),032,S 37° W,Looc (Occidental Mindoro)
+2026-06-05T06:34:00.000Z,05 June 2026 - 06:34 AM,15.33,120.46,033,1.6,013km N 69° W of Bamban (Tarlac),013,N 69° W,Bamban (Tarlac)
 2026-06-05T06:03:00.000Z,05 June 2026 - 06:03 AM,11.43,125.32,010,1.7,020km S 67° W of Balangkayan (Eastern Samar),020,S 67° W,Balangkayan (Eastern Samar)
 2026-06-05T05:33:00.000Z,05 June 2026 - 05:33 AM,10.11,123.24,018,2.6,004km S 78° W of City Of Guihulngan (Negros Oriental),004,S 78° W,City Of Guihulngan (Negros Oriental)
 2026-06-05T05:12:00.000Z,05 June 2026 - 05:12 AM,07.48,127.05,015,2.3,054km S 79° E of Baganga (Davao Oriental),054,S 79° E,Baganga (Davao Oriental)
@@ -426,6 +429,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-29T10:49:00.000Z,29 May 2026 - 10:49 AM,12.39,123.61,017,3.3,002km N 45° W of City Of Masbate (Masbate),002,N 45° W,City Of Masbate (Masbate)
 2026-05-29T08:37:00.000Z,29 May 2026 - 08:37 AM,16.63,119.10,027,3.8,089km N 72° W of Bolinao (Pangasinan),089,N 72° W,Bolinao (Pangasinan)
 2026-05-29T07:32:00.000Z,29 May 2026 - 07:32 AM,16.50,118.78,010,4.1,119km N 84° W of Bolinao (Pangasinan),119,N 84° W,Bolinao (Pangasinan)
-2026-05-29T06:54:00.000Z,29 May 2026 - 06:54 AM,16.50,119.17,015,2.6,078km N 81° W of Bolinao (Pangasinan),078,N 81° W,Bolinao (Pangasinan)
-2026-05-29T06:36:00.000Z,29 May 2026 - 06:36 AM,16.57,119.15,015,3.4,082km N 76° W of Bolinao (Pangasinan),082,N 76° W,Bolinao (Pangasinan)
-2026-05-29T06:28:00.000Z,29 May 2026 - 06:28 AM,16.56,119.06,014,2.0,091km N 78° W of Bolinao (Pangasinan),091,N 78° W,Bolinao (Pangasinan)
