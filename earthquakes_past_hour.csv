@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-06T04:37:00.000Z,06 June 2026 - 04:37 AM,09.64,126.29,020,3.1,022km S 43° E of General Luna (Surigao Del Norte),022,S 43° E,General Luna (Surigao Del Norte)
-2026-06-06T04:37:00.000Z,06 June 2026 - 04:37 AM,16.42,119.06,028,2.7,086km N 67° W of Agno (Pangasinan),086,N 67° W,Agno (Pangasinan)
+2026-06-06T05:47:00.000Z,06 June 2026 - 05:47 AM,12.36,123.76,003,2.8,010km S 02° W of Batuan (Masbate),010,S 02° W,Batuan (Masbate)
+2026-06-06T05:23:00.000Z,06 June 2026 - 05:23 AM,06.91,126.04,038,2.7,003km N 66° E of Lupon (Davao Oriental),003,N 66° E,Lupon (Davao Oriental)
+2026-06-06T05:03:00.000Z,06 June 2026 - 05:03 AM,16.51,119.05,007,3.2,091km N 62° W of Agno (Pangasinan),091,N 62° W,Agno (Pangasinan)
+2026-06-06T05:02:00.000Z,06 June 2026 - 05:02 AM,13.22,123.90,005,2.8,011km N 18° E of Manito (Albay),011,N 18° E,Manito (Albay)

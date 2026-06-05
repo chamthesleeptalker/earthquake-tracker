@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-06T05:47:00.000Z,06 June 2026 - 05:47 AM,12.36,123.76,003,2.8,010km S 02° W of Batuan (Masbate),010,S 02° W,Batuan (Masbate)
+2026-06-06T05:23:00.000Z,06 June 2026 - 05:23 AM,06.91,126.04,038,2.7,003km N 66° E of Lupon (Davao Oriental),003,N 66° E,Lupon (Davao Oriental)
+2026-06-06T05:03:00.000Z,06 June 2026 - 05:03 AM,16.51,119.05,007,3.2,091km N 62° W of Agno (Pangasinan),091,N 62° W,Agno (Pangasinan)
+2026-06-06T05:02:00.000Z,06 June 2026 - 05:02 AM,13.22,123.90,005,2.8,011km N 18° E of Manito (Albay),011,N 18° E,Manito (Albay)
 2026-06-06T04:37:00.000Z,06 June 2026 - 04:37 AM,09.64,126.29,020,3.1,022km S 43° E of General Luna (Surigao Del Norte),022,S 43° E,General Luna (Surigao Del Norte)
 2026-06-06T04:37:00.000Z,06 June 2026 - 04:37 AM,16.42,119.06,028,2.7,086km N 67° W of Agno (Pangasinan),086,N 67° W,Agno (Pangasinan)
 2026-06-06T03:31:00.000Z,06 June 2026 - 03:31 AM,09.57,126.20,020,2.1,024km S 13° E of General Luna (Surigao Del Norte),024,S 13° E,General Luna (Surigao Del Norte)
@@ -416,8 +420,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-30T08:44:00.000Z,30 May 2026 - 08:44 AM,14.77,119.19,016,3.4,099km S 78° W of San Antonio (Zambales),099,S 78° W,San Antonio (Zambales)
 2026-05-30T08:34:00.000Z,30 May 2026 - 08:34 AM,05.27,126.41,034,2.7,107km S 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),107,S 78° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-05-30T06:13:00.000Z,30 May 2026 - 06:13 AM,13.25,123.93,036,1.5,016km S 73° E of Bacacay (Albay),016,S 73° E,Bacacay (Albay)
-2026-05-30T05:25:00.000Z,30 May 2026 - 05:25 AM,10.96,123.97,013,2.0,009km S 03° W of City Of Bogo (Cebu),009,S 03° W,City Of Bogo (Cebu)
-2026-05-30T05:08:00.000Z,30 May 2026 - 05:08 AM,16.60,119.07,014,2.9,091km N 75° W of Bolinao (Pangasinan),091,N 75° W,Bolinao (Pangasinan)
-2026-05-30T05:02:00.000Z,30 May 2026 - 05:02 AM,09.05,122.39,024,1.5,048km S 35° W of Basay (Negros Oriental),048,S 35° W,Basay (Negros Oriental)
-2026-05-30T04:57:00.000Z,30 May 2026 - 04:57 AM,14.77,119.23,017,3.1,095km S 78° W of San Antonio (Zambales),095,S 78° W,San Antonio (Zambales)
-2026-05-30T04:53:00.000Z,30 May 2026 - 04:53 AM,16.86,119.13,005,2.5,096km N 58° W of Bolinao (Pangasinan),096,N 58° W,Bolinao (Pangasinan)
