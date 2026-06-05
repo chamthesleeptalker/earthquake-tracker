@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-05T14:50:00.000Z,05 June 2026 - 02:50 PM,12.70,124.80,120,2.9,020km N 25° W of San Roque (Northern Samar),020,N 25° W,San Roque (Northern Samar)
+2026-06-05T14:08:00.000Z,05 June 2026 - 02:08 PM,06.61,126.86,064,2.1,066km S 43° E of Tarragona (Davao Oriental),066,S 43° E,Tarragona (Davao Oriental)
+2026-06-05T13:27:00.000Z,05 June 2026 - 01:27 PM,12.32,123.78,001,2.1,011km S 02° W of Batuan (Masbate),011,S 02° W,Batuan (Masbate)
+2026-06-05T13:02:00.000Z,05 June 2026 - 01:02 PM,10.20,125.87,021,2.1,027km N 43° W of Santa Monica (Surigao Del Norte),027,N 43° W,Santa Monica (Surigao Del Norte)
+2026-06-05T12:45:00.000Z,05 June 2026 - 12:45 PM,16.46,119.30,025,3.4,063km N 82° W of Bolinao (Pangasinan),063,N 82° W,Bolinao (Pangasinan)
+2026-06-05T12:33:00.000Z,05 June 2026 - 12:33 PM,16.75,119.07,011,2.7,097km N 66° W of Bolinao (Pangasinan),097,N 66° W,Bolinao (Pangasinan)
+2026-06-05T12:29:00.000Z,05 June 2026 - 12:29 PM,16.53,119.15,006,2.9,080km N 79° W of Bolinao (Pangasinan),080,N 79° W,Bolinao (Pangasinan)
+2026-06-05T12:27:00.000Z,05 June 2026 - 12:27 PM,16.49,119.01,024,2.7,095km N 84° W of Bolinao (Pangasinan),095,N 84° W,Bolinao (Pangasinan)
+2026-06-04T14:00:00.000Z,04 June 2026 - 02:00 PM,16.52,119.25,022,3.5,070km N 78° W of Bolinao (Pangasinan),070,N 78° W,Bolinao (Pangasinan)
 2026-06-05T11:16:00.000Z,05 June 2026 - 11:16 AM,16.53,119.08,017,2.7,088km N 80° W of Bolinao (Pangasinan),088,N 80° W,Bolinao (Pangasinan)
 2026-06-05T11:16:00.000Z,05 June 2026 - 11:16 AM,16.53,119.08,017,2.7,088km N 80° W of Bolinao (Pangasinan),088,N 80° W,Bolinao (Pangasinan)
 2026-06-05T10:55:00.000Z,05 June 2026 - 10:55 AM,16.50,121.03,006,3.0,004km S 03° E of Ambaguio (Nueva Vizcaya),004,S 03° E,Ambaguio (Nueva Vizcaya)
