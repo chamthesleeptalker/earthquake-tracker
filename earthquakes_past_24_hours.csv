@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-06T20:44:00.000Z,06 June 2026 - 08:44 PM,13.48,124.11,032,1.7,013km S 05° E of San Andres (Catanduanes),013,S 05° E,San Andres (Catanduanes)
+2026-06-06T20:38:00.000Z,06 June 2026 - 08:38 PM,04.50,126.24,033,3.6,136km S 42° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),136,S 42° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-06T20:06:00.000Z,06 June 2026 - 08:06 PM,13.82,120.70,102,1.6,007km S 81° E of Calatagan (Batangas),007,S 81° E,Calatagan (Batangas)
+2026-06-06T19:43:00.000Z,06 June 2026 - 07:43 PM,18.41,120.76,027,1.6,013km S 24° W of Dumalneg (Ilocos Norte),013,S 24° W,Dumalneg (Ilocos Norte)
 2026-06-06T18:33:00.000Z,06 June 2026 - 06:33 PM,16.87,121.04,011,2.2,005km N 46° E of Hungduan (Ifugao),005,N 46° E,Hungduan (Ifugao)
 2026-06-06T18:28:00.000Z,06 June 2026 - 06:28 PM,08.14,126.63,018,2.7,026km N 64° E of Lingig (Surigao Del Sur),026,N 64° E,Lingig (Surigao Del Sur)
 2026-06-06T17:58:00.000Z,06 June 2026 - 05:58 PM,13.38,123.96,015,1.5,025km N 51° E of Santo Domingo (Albay),025,N 51° E,Santo Domingo (Albay)
@@ -51,8 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-05T21:42:00.000Z,05 June 2026 - 09:42 PM,06.84,123.44,030,2.2,069km S 69° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),069,S 69° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
 2026-06-05T20:50:00.000Z,05 June 2026 - 08:50 PM,09.89,124.04,006,2.4,005km N 44° E of Catigbian (Bohol),005,N 44° E,Catigbian (Bohol)
 2026-06-05T20:50:00.000Z,05 June 2026 - 08:50 PM,18.99,121.10,008,2.8,017km S 42° W of Dalupiri Island (Calayan) (Cagayan),017,S 42° W,Dalupiri Island (Calayan) (Cagayan)
-2026-06-05T20:33:00.000Z,05 June 2026 - 08:33 PM,19.16,121.19,027,2.2,006km N 19° W of Dalupiri Island (Calayan) (Cagayan),006,N 19° W,Dalupiri Island (Calayan) (Cagayan)
-2026-06-05T20:29:00.000Z,05 June 2026 - 08:29 PM,09.88,126.80,037,2.5,072km N 82° E of General Luna (Surigao Del Norte),072,N 82° E,General Luna (Surigao Del Norte)
-2026-06-05T20:09:00.000Z,05 June 2026 - 08:09 PM,13.25,123.82,015,3.1,005km N 79° E of Santo Domingo (Albay),005,N 79° E,Santo Domingo (Albay)
-2026-06-05T19:44:00.000Z,05 June 2026 - 07:44 PM,19.24,121.16,033,2.1,016km N 20° W of Dalupiri Island (Calayan) (Cagayan),016,N 20° W,Dalupiri Island (Calayan) (Cagayan)
-2026-06-05T19:22:00.000Z,05 June 2026 - 07:22 PM,13.20,123.92,001,2.7,010km N 34° E of Manito (Albay),010,N 34° E,Manito (Albay)
