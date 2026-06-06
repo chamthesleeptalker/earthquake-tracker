@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-06T23:01:00.000Z,06 June 2026 - 11:01 PM,14.38,123.71,002,2.6,055km N 01° W of Garchitorena (Camarines Sur),055,N 01° W,Garchitorena (Camarines Sur)
-2026-06-06T22:33:00.000Z,06 June 2026 - 10:33 PM,10.85,123.73,017,2.1,035km S 50° W of City Of Bogo (Cebu),035,S 50° W,City Of Bogo (Cebu)
-2026-06-06T22:16:00.000Z,06 June 2026 - 10:16 PM,10.92,123.84,020,2.1,021km S 48° W of City Of Bogo (Cebu),021,S 48° W,City Of Bogo (Cebu)
-2026-06-06T22:08:00.000Z,06 June 2026 - 10:08 PM,17.94,120.68,007,1.6,003km N 26° E of Nueva Era (Ilocos Norte),003,N 26° E,Nueva Era (Ilocos Norte)
+2026-06-07T00:26:00.000Z,07 June 2026 - 12:26 AM,10.78,122.09,024,2.4,005km S 02° W of San Remigio (Antique),005,S 02° W,San Remigio (Antique)
+2026-06-07T00:15:00.000Z,07 June 2026 - 12:15 AM,10.91,123.74,020,2.5,030km S 60° W of City Of Bogo (Cebu),030,S 60° W,City Of Bogo (Cebu)
+2026-06-07T00:07:00.000Z,07 June 2026 - 12:07 AM,09.24,126.20,033,1.5,004km S 17° E of Cortes (Surigao Del Sur),004,S 17° E,Cortes (Surigao Del Sur)
+2026-06-07T00:02:00.000Z,07 June 2026 - 12:02 AM,09.62,126.10,025,2.1,015km N 90° E of Socorro (Surigao Del Norte),015,N 90° E,Socorro (Surigao Del Norte)
+2026-06-06T23:57:00.000Z,06 June 2026 - 11:57 PM,13.10,124.12,035,1.6,009km S 06° W of Rapu-rapu (Albay),009,S 06° W,Rapu-rapu (Albay)
+2026-06-06T23:54:00.000Z,06 June 2026 - 11:54 PM,13.33,123.86,019,1.7,014km N 42° E of Santo Domingo (Albay),014,N 42° E,Santo Domingo (Albay)
