@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-06T17:47:00.000Z,06 June 2026 - 05:47 PM,13.24,123.91,035,1.5,015km East of Santo Domingo (Albay),015,East of Santo,(Albay)
+2026-06-06T17:18:00.000Z,06 June 2026 - 05:18 PM,10.16,121.91,033,2.2,029km S 04° W of Anini-y (Antique),029,S 04° W,Anini-y (Antique)
+2026-06-06T17:13:00.000Z,06 June 2026 - 05:13 PM,17.54,120.88,021,1.2,004km S 38° W of Licuan,004,S 38° W,Licuan
+2026-06-06T17:10:00.000Z,06 June 2026 - 05:10 PM,10.32,121.30,057,2.5,069km S 80° W of Anini-y (Antique),069,S 80° W,Anini-y (Antique)
+2026-06-06T17:07:00.000Z,06 June 2026 - 05:07 PM,10.18,121.59,002,3.8,046km S 53° W of Anini-y (Antique),046,S 53° W,Anini-y (Antique)
+2026-06-06T16:38:00.000Z,06 June 2026 - 04:38 PM,13.24,123.91,035,1.2,014km N 90° E of Santo Domingo (Albay),014,N 90° E,Santo Domingo (Albay)
 2026-06-06T15:04:00.000Z,06 June 2026 - 03:04 PM,13.27,123.86,035,2.1,010km N 71° E of Santo Domingo (Albay),010,N 71° E,Santo Domingo (Albay)
 2026-06-06T14:35:00.000Z,06 June 2026 - 02:35 PM,13.64,120.67,110,1.8,022km S 12° E of Calatagan (Batangas),022,S 12° E,Calatagan (Batangas)
 2026-06-06T13:28:00.000Z,06 June 2026 - 01:28 PM,12.27,123.99,014,2.5,015km N 29° E of Palanas (Masbate),015,N 29° E,Palanas (Masbate)
@@ -405,12 +411,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-30T18:10:00.000Z,30 May 2026 - 06:10 PM,14.38,121.40,031,1.4,006km S 33° W of Mabitac (Laguna),006,S 33° W,Mabitac (Laguna)
 2026-05-30T17:57:00.000Z,30 May 2026 - 05:57 PM,16.49,119.11,015,3.4,085km N 82° W of Bolinao (Pangasinan),085,N 82° W,Bolinao (Pangasinan)
 2026-05-30T17:50:00.000Z,30 May 2026 - 05:50 PM,09.16,127.26,008,3.3,108km N 76° E of Cagwait (Surigao Del Sur),108,N 76° E,Cagwait (Surigao Del Sur)
-2026-05-30T17:17:00.000Z,30 May 2026 - 05:17 PM,07.18,126.96,018,3.0,046km S 69° E of Caraga (Davao Oriental),046,S 69° E,Caraga (Davao Oriental)
-2026-05-30T17:14:00.000Z,30 May 2026 - 05:14 PM,16.59,119.02,128,2.7,096km N 77° W of Bolinao (Pangasinan),096,N 77° W,Bolinao (Pangasinan)
-2026-05-30T16:53:00.000Z,30 May 2026 - 04:53 PM,06.30,126.53,018,2.6,064km S 52° E of Governor Generoso (Davao Oriental),064,S 52° E,Governor Generoso (Davao Oriental)
-2026-05-30T16:34:00.000Z,30 May 2026 - 04:34 PM,05.90,126.64,015,3.3,104km S 37° E of Governor Generoso (Davao Oriental),104,S 37° E,Governor Generoso (Davao Oriental)
-2026-05-30T15:45:00.000Z,30 May 2026 - 03:45 PM,05.50,126.85,033,2.8,141km S 71° E of Jose Abad Santos (Davao Occidental),141,S 71° E,Jose Abad Santos (Davao Occidental)
-2026-05-30T15:25:00.000Z,30 May 2026 - 03:25 PM,05.55,126.43,050,2.3,096km S 66° E of Jose Abad Santos (Davao Occidental),096,S 66° E,Jose Abad Santos (Davao Occidental)
-2026-05-30T15:16:00.000Z,30 May 2026 - 03:16 PM,05.75,127.22,127,3.1,161km S 52° E of Governor Generoso (Davao Oriental),161,S 52° E,Governor Generoso (Davao Oriental)
-2026-05-30T15:13:00.000Z,30 May 2026 - 03:13 PM,05.96,126.61,006,3.6,097km S 38° E of Governor Generoso (Davao Oriental),097,S 38° E,Governor Generoso (Davao Oriental)
-2026-05-30T15:08:00.000Z,30 May 2026 - 03:08 PM,05.85,126.69,013,3.5,113km S 37° E of Governor Generoso (Davao Oriental),113,S 37° E,Governor Generoso (Davao Oriental)

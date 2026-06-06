@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-06T17:47:00.000Z,06 June 2026 - 05:47 PM,13.24,123.91,035,1.5,015km East of Santo Domingo (Albay),015,East of Santo,(Albay)
+2026-06-06T17:18:00.000Z,06 June 2026 - 05:18 PM,10.16,121.91,033,2.2,029km S 04° W of Anini-y (Antique),029,S 04° W,Anini-y (Antique)
+2026-06-06T17:13:00.000Z,06 June 2026 - 05:13 PM,17.54,120.88,021,1.2,004km S 38° W of Licuan,004,S 38° W,Licuan
+2026-06-06T17:10:00.000Z,06 June 2026 - 05:10 PM,10.32,121.30,057,2.5,069km S 80° W of Anini-y (Antique),069,S 80° W,Anini-y (Antique)
+2026-06-06T17:07:00.000Z,06 June 2026 - 05:07 PM,10.18,121.59,002,3.8,046km S 53° W of Anini-y (Antique),046,S 53° W,Anini-y (Antique)
+2026-06-06T16:38:00.000Z,06 June 2026 - 04:38 PM,13.24,123.91,035,1.2,014km N 90° E of Santo Domingo (Albay),014,N 90° E,Santo Domingo (Albay)
 2026-06-06T15:04:00.000Z,06 June 2026 - 03:04 PM,13.27,123.86,035,2.1,010km N 71° E of Santo Domingo (Albay),010,N 71° E,Santo Domingo (Albay)
 2026-06-06T14:35:00.000Z,06 June 2026 - 02:35 PM,13.64,120.67,110,1.8,022km S 12° E of Calatagan (Batangas),022,S 12° E,Calatagan (Batangas)
 2026-06-06T13:28:00.000Z,06 June 2026 - 01:28 PM,12.27,123.99,014,2.5,015km N 29° E of Palanas (Masbate),015,N 29° E,Palanas (Masbate)
