@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-06T07:19:00.000Z,06 June 2026 - 07:19 AM,04.98,126.27,104,3.8,104km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),104,S 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-06T06:34:00.000Z,06 June 2026 - 06:34 AM,05.85,126.84,080,3.1,123km S 44° E of Governor Generoso (Davao Oriental),123,S 44° E,Governor Generoso (Davao Oriental)
 2026-06-06T05:47:00.000Z,06 June 2026 - 05:47 AM,12.36,123.76,003,2.8,010km S 02° W of Batuan (Masbate),010,S 02° W,Batuan (Masbate)
 2026-06-06T05:23:00.000Z,06 June 2026 - 05:23 AM,06.91,126.04,038,2.7,003km N 66° E of Lupon (Davao Oriental),003,N 66° E,Lupon (Davao Oriental)
 2026-06-06T05:03:00.000Z,06 June 2026 - 05:03 AM,16.51,119.05,007,3.2,091km N 62° W of Agno (Pangasinan),091,N 62° W,Agno (Pangasinan)
@@ -419,4 +421,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-05-30T09:29:00.000Z,30 May 2026 - 09:29 AM,13.98,122.16,007,2.3,004km S 44° W of Quezon (Quezon),004,S 44° W,Quezon (Quezon)
 2026-05-30T08:44:00.000Z,30 May 2026 - 08:44 AM,14.77,119.19,016,3.4,099km S 78° W of San Antonio (Zambales),099,S 78° W,San Antonio (Zambales)
 2026-05-30T08:34:00.000Z,30 May 2026 - 08:34 AM,05.27,126.41,034,2.7,107km S 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),107,S 78° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-05-30T06:13:00.000Z,30 May 2026 - 06:13 AM,13.25,123.93,036,1.5,016km S 73° E of Bacacay (Albay),016,S 73° E,Bacacay (Albay)
