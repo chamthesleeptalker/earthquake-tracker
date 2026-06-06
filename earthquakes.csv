@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-06T12:11:00.000Z,06 June 2026 - 12:11 PM,07.92,122.19,051,1.8,014km N 19° E of Baliguian (Zamboanga Del Norte),014,N 19° E,Baliguian (Zamboanga Del Norte)
+2026-06-06T10:16:00.000Z,06 June 2026 - 10:16 AM,07.83,122.82,033,1.4,008km N 64° E of Kabasalan (Zamboanga Sibugay),008,N 64° E,Kabasalan (Zamboanga Sibugay)
+2026-06-06T08:59:00.000Z,06 June 2026 - 08:59 AM,15.82,120.11,011,2.3,016km S 61° W of Aguilar (Pangasinan),016,S 61° W,Aguilar (Pangasinan)
+2026-06-06T08:11:00.000Z,06 June 2026 - 08:11 AM,06.44,127.59,030,2.8,143km S 62° E of Tarragona (Davao Oriental),143,S 62° E,Tarragona (Davao Oriental)
+2026-06-05T10:19:00.000Z,05 June 2026 - 10:19 AM,05.78,125.25,060,2.9,007km S 50° E of Glan (Sarangani),007,S 50° E,Glan (Sarangani)
 2026-06-06T07:19:00.000Z,06 June 2026 - 07:19 AM,04.98,126.27,104,3.8,104km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),104,S 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-06T06:34:00.000Z,06 June 2026 - 06:34 AM,05.85,126.84,080,3.1,123km S 44° E of Governor Generoso (Davao Oriental),123,S 44° E,Governor Generoso (Davao Oriental)
 2026-06-06T05:47:00.000Z,06 June 2026 - 05:47 AM,12.36,123.76,003,2.8,010km S 02° W of Batuan (Masbate),010,S 02° W,Batuan (Masbate)
