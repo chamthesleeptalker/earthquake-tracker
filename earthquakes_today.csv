@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-06T15:04:00.000Z,06 June 2026 - 03:04 PM,13.27,123.86,035,2.1,010km N 71° E of Santo Domingo (Albay),010,N 71° E,Santo Domingo (Albay)
+2026-06-06T14:35:00.000Z,06 June 2026 - 02:35 PM,13.64,120.67,110,1.8,022km S 12° E of Calatagan (Batangas),022,S 12° E,Calatagan (Batangas)
+2026-06-06T13:28:00.000Z,06 June 2026 - 01:28 PM,12.27,123.99,014,2.5,015km N 29° E of Palanas (Masbate),015,N 29° E,Palanas (Masbate)
+2026-06-06T12:55:00.000Z,06 June 2026 - 12:55 PM,15.31,122.17,006,3.1,056km N 22° E of Burdeos (Quezon),056,N 22° E,Burdeos (Quezon)
 2026-06-06T12:11:00.000Z,06 June 2026 - 12:11 PM,07.92,122.19,051,1.8,014km N 19° E of Baliguian (Zamboanga Del Norte),014,N 19° E,Baliguian (Zamboanga Del Norte)
 2026-06-06T10:16:00.000Z,06 June 2026 - 10:16 AM,07.83,122.82,033,1.4,008km N 64° E of Kabasalan (Zamboanga Sibugay),008,N 64° E,Kabasalan (Zamboanga Sibugay)
 2026-06-06T08:59:00.000Z,06 June 2026 - 08:59 AM,15.82,120.11,011,2.3,016km S 61° W of Aguilar (Pangasinan),016,S 61° W,Aguilar (Pangasinan)
