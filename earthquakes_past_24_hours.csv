@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-07T01:30:00.000Z,07 June 2026 - 01:30 AM,12.58,125.36,014,2.8,016km N 44° E of Mapanas (Northern Samar),016,N 44° E,Mapanas (Northern Samar)
+2026-06-07T01:25:00.000Z,07 June 2026 - 01:25 AM,13.32,124.45,025,1.8,036km S 27° E of Bato (Catanduanes),036,S 27° E,Bato (Catanduanes)
+2026-06-07T01:20:00.000Z,07 June 2026 - 01:20 AM,16.86,120.07,029,3.1,032km N 88° W of Luna (La Union),032,N 88° W,Luna (La Union)
+2026-06-07T01:03:00.000Z,07 June 2026 - 01:03 AM,14.88,119.60,031,1.8,053km S 82° W of San Antonio (Zambales),053,S 82° W,San Antonio (Zambales)
+2026-06-07T00:55:00.000Z,07 June 2026 - 12:55 AM,10.25,121.64,004,3.6,037km S 57° W of Anini-y (Antique),037,S 57° W,Anini-y (Antique)
 2026-06-07T00:26:00.000Z,07 June 2026 - 12:26 AM,10.78,122.09,024,2.4,005km S 02° W of San Remigio (Antique),005,S 02° W,San Remigio (Antique)
 2026-06-07T00:15:00.000Z,07 June 2026 - 12:15 AM,10.91,123.74,020,2.5,030km S 60° W of City Of Bogo (Cebu),030,S 60° W,City Of Bogo (Cebu)
 2026-06-07T00:07:00.000Z,07 June 2026 - 12:07 AM,09.24,126.20,033,1.5,004km S 17° E of Cortes (Surigao Del Sur),004,S 17° E,Cortes (Surigao Del Sur)
@@ -52,8 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-06T02:26:00.000Z,06 June 2026 - 02:26 AM,13.30,123.89,004,2.3,015km N 60° E of Santo Domingo (Albay),015,N 60° E,Santo Domingo (Albay)
 2026-06-06T02:07:00.000Z,06 June 2026 - 02:07 AM,09.19,126.84,007,2.9,066km N 63° E of Cagwait (Surigao Del Sur),066,N 63° E,Cagwait (Surigao Del Sur)
 2026-06-06T01:48:00.000Z,06 June 2026 - 01:48 AM,18.08,121.10,016,1.7,011km N 57° W of Kabugao (Apayao),011,N 57° W,Kabugao (Apayao)
-2026-06-06T01:24:00.000Z,06 June 2026 - 01:24 AM,13.24,123.96,008,2.3,019km N 90° E of Santo Domingo (Albay),019,N 90° E,Santo Domingo (Albay)
-2026-06-06T00:54:00.000Z,06 June 2026 - 12:54 AM,13.17,123.95,001,3.0,020km S 69° E of Santo Domingo (Albay),020,S 69° E,Santo Domingo (Albay)
-2026-06-06T00:48:00.000Z,06 June 2026 - 12:48 AM,04.69,124.77,042,4.2,107km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),107,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-06T00:40:00.000Z,06 June 2026 - 12:40 AM,13.44,123.91,006,2.1,027km N 33° E of Santo Domingo (Albay),027,N 33° E,Santo Domingo (Albay)
-2026-06-06T00:32:00.000Z,06 June 2026 - 12:32 AM,08.99,126.19,028,1.8,006km S 52° W of Tago (Surigao Del Sur),006,S 52° W,Tago (Surigao Del Sur)
