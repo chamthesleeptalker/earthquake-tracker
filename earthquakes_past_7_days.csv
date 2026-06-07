@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-08T04:42:00.000Z,08 June 2026 - 04:42 AM,09.68,122.24,025,2.5,023km S 66° W of City Of Sipalay (Negros Occidental),023,S 66° W,City Of Sipalay (Negros Occidental)
+2026-06-08T04:26:00.000Z,08 June 2026 - 04:26 AM,17.59,120.70,032,1.4,004km S 52° W of Lagangilang (Abra),004,S 52° W,Lagangilang (Abra)
+2026-06-08T03:48:00.000Z,08 June 2026 - 03:48 AM,09.96,126.07,033,1.7,004km N 31° W of San Isidro (Surigao Del Norte),004,N 31° W,San Isidro (Surigao Del Norte)
 2026-06-08T03:38:00.000Z,08 June 2026 - 03:38 AM,13.29,122.11,010,2.2,005km S 37° E of Torrijos (Marinduque),005,S 37° E,Torrijos (Marinduque)
 2026-06-08T03:28:00.000Z,08 June 2026 - 03:28 AM,12.91,123.12,007,1.5,013km N 84° W of Claveria (Masbate),013,N 84° W,Claveria (Masbate)
 2026-06-08T03:05:00.000Z,08 June 2026 - 03:05 AM,13.74,120.57,057,1.6,012km S 34° W of Calatagan (Batangas),012,S 34° W,Calatagan (Batangas)
@@ -463,6 +466,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-01T06:26:00.000Z,01 June 2026 - 06:26 AM,13.82,120.86,006,1.9,007km S 55° W of San Luis (Batangas),007,S 55° W,San Luis (Batangas)
 2026-06-01T06:19:00.000Z,01 June 2026 - 06:19 AM,06.57,124.99,028,2.4,013km S 13° E of Columbio (Sultan Kudarat),013,S 13° E,Columbio (Sultan Kudarat)
 2026-06-01T04:43:00.000Z,01 June 2026 - 04:43 AM,06.96,125.93,026,2.5,009km S 87° W of Banaybanay (Davao Oriental),009,S 87° W,Banaybanay (Davao Oriental)
-2026-06-01T04:37:00.000Z,01 June 2026 - 04:37 AM,10.13,122.20,018,3.5,045km S 42° E of Anini-y (Antique),045,S 42° E,Anini-y (Antique)
-2026-06-01T04:30:00.000Z,01 June 2026 - 04:30 AM,09.32,126.52,004,2.1,037km N 83° E of Cortes (Surigao Del Sur),037,N 83° E,Cortes (Surigao Del Sur)
-2026-06-01T04:15:00.000Z,01 June 2026 - 04:15 AM,10.00,126.10,032,2.1,003km S 49° E of Burgos (Surigao Del Norte),003,S 49° E,Burgos (Surigao Del Norte)
