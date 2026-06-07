@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-07T07:43:00.000Z,07 June 2026 - 07:43 AM,08.28,122.44,033,2.4,026km N 21° W of Labason (Zamboanga Del Norte),026,N 21° W,Labason (Zamboanga Del Norte)
-2026-06-07T06:59:00.000Z,07 June 2026 - 06:59 AM,15.08,122.06,034,1.6,028km N 19° E of Burdeos (Quezon),028,N 19° E,Burdeos (Quezon)
-2026-06-07T06:53:00.000Z,07 June 2026 - 06:53 AM,12.15,125.53,021,1.5,004km S 40° E of San Policarpo (Eastern Samar),004,S 40° E,San Policarpo (Eastern Samar)
-2026-06-07T06:44:00.000Z,07 June 2026 - 06:44 AM,09.53,126.17,027,1.9,024km S 67° E of Socorro (Surigao Del Norte),024,S 67° E,Socorro (Surigao Del Norte)
+2026-06-07T12:48:00.000Z,07 June 2026 - 12:48 PM,10.03,126.10,011,2.9,003km N 71° E of Burgos (Surigao Del Norte),003,N 71° E,Burgos (Surigao Del Norte)
+2026-06-07T12:43:00.000Z,07 June 2026 - 12:43 PM,08.94,126.33,029,3.4,006km S 57° E of Bayabas (Surigao Del Sur),006,S 57° E,Bayabas (Surigao Del Sur)
+2026-06-07T12:31:00.000Z,07 June 2026 - 12:31 PM,08.91,126.43,006,2.2,014km S 86° E of Cagwait (Surigao Del Sur),014,S 86° E,Cagwait (Surigao Del Sur)
