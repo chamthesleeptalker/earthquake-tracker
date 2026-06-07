@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-08T01:41:00.000Z,08 June 2026 - 01:41 AM,16.42,119.11,021,2.3,084km N 88° W of Bolinao (Pangasinan),084,N 88° W,Bolinao (Pangasinan)
+2026-06-08T01:39:00.000Z,08 June 2026 - 01:39 AM,16.47,119.15,029,3.4,080km N 84° W of Bolinao (Pangasinan),080,N 84° W,Bolinao (Pangasinan)
+2026-06-08T01:29:00.000Z,08 June 2026 - 01:29 AM,16.48,119.07,015,3.3,089km N 84° W of Bolinao (Pangasinan),089,N 84° W,Bolinao (Pangasinan)
+2026-06-08T01:27:00.000Z,08 June 2026 - 01:27 AM,14.90,121.91,030,1.6,009km N 44° W of Burdeos (Quezon),009,N 44° W,Burdeos (Quezon)
+2026-06-08T01:17:00.000Z,08 June 2026 - 01:17 AM,09.81,122.55,020,2.1,014km N 71° E of City Of Sipalay (Negros Occidental),014,N 71° E,City Of Sipalay (Negros Occidental)
+2026-06-08T01:08:00.000Z,08 June 2026 - 01:08 AM,08.14,126.27,069,1.0,010km S 35° W of City Of Bislig (Surigao Del Sur),010,S 35° W,City Of Bislig (Surigao Del Sur)
+2026-06-08T00:57:00.000Z,08 June 2026 - 12:57 AM,13.59,120.40,064,2.0,020km N 19° W of Paluan (Occidental Mindoro),020,N 19° W,Paluan (Occidental Mindoro)
+2026-06-08T00:52:00.000Z,08 June 2026 - 12:52 AM,09.05,126.52,022,2.1,027km N 72° E of Bayabas (Surigao Del Sur),027,N 72° E,Bayabas (Surigao Del Sur)
 2026-06-08T00:21:00.000Z,08 June 2026 - 12:21 AM,12.72,123.20,022,2.4,021km S 13° W of Claveria (Masbate),021,S 13° W,Claveria (Masbate)
 2026-06-08T00:09:00.000Z,08 June 2026 - 12:09 AM,13.24,123.91,009,2.2,014km N 88° E of Santo Domingo (Albay),014,N 88° E,Santo Domingo (Albay)
 2026-06-07T23:56:00.000Z,07 June 2026 - 11:56 PM,19.15,121.12,033,2.3,010km N 61° W of Dalupiri Island (Calayan) (Cagayan),010,N 61° W,Dalupiri Island (Calayan) (Cagayan)
@@ -451,5 +459,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-01T03:24:00.000Z,01 June 2026 - 03:24 AM,08.07,123.23,030,1.5,010km N 63° W of Midsalip (Zamboanga Del Sur),010,N 63° W,Midsalip (Zamboanga Del Sur)
 2026-06-01T02:22:00.000Z,01 June 2026 - 02:22 AM,13.75,120.58,110,1.7,011km S 34° W of Calatagan (Batangas),011,S 34° W,Calatagan (Batangas)
 2026-06-01T02:04:00.000Z,01 June 2026 - 02:04 AM,05.22,125.00,031,2.8,051km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-01T01:22:00.000Z,01 June 2026 - 01:22 AM,09.73,126.32,019,1.9,019km S 72° E of General Luna (Surigao Del Norte),019,S 72° E,General Luna (Surigao Del Norte)
-2026-06-01T01:11:00.000Z,01 June 2026 - 01:11 AM,06.20,126.99,052,2.6,111km S 32° E of Tarragona (Davao Oriental),111,S 32° E,Tarragona (Davao Oriental)
