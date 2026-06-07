@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-07T07:43:00.000Z,07 June 2026 - 07:43 AM,08.28,122.44,033,2.4,026km N 21° W of Labason (Zamboanga Del Norte),026,N 21° W,Labason (Zamboanga Del Norte)
+2026-06-07T06:59:00.000Z,07 June 2026 - 06:59 AM,15.08,122.06,034,1.6,028km N 19° E of Burdeos (Quezon),028,N 19° E,Burdeos (Quezon)
+2026-06-07T06:53:00.000Z,07 June 2026 - 06:53 AM,12.15,125.53,021,1.5,004km S 40° E of San Policarpo (Eastern Samar),004,S 40° E,San Policarpo (Eastern Samar)
+2026-06-07T06:44:00.000Z,07 June 2026 - 06:44 AM,09.53,126.17,027,1.9,024km S 67° E of Socorro (Surigao Del Norte),024,S 67° E,Socorro (Surigao Del Norte)
+2026-06-07T06:37:00.000Z,07 June 2026 - 06:37 AM,10.20,123.28,023,2.3,009km N 08° E of City Of Guihulngan (Negros Oriental),009,N 08° E,City Of Guihulngan (Negros Oriental)
 2026-06-07T06:25:00.000Z,07 June 2026 - 06:25 AM,09.57,126.24,035,1.5,025km S 21° E of General Luna (Surigao Del Norte),025,S 21° E,General Luna (Surigao Del Norte)
 2026-06-07T05:50:00.000Z,07 June 2026 - 05:50 AM,10.13,123.24,022,2.3,004km N 70° W of City Of Guihulngan (Negros Oriental),004,N 70° W,City Of Guihulngan (Negros Oriental)
 2026-06-07T05:46:00.000Z,07 June 2026 - 05:46 AM,09.60,125.89,033,1.5,009km S 76° W of Socorro (Surigao Del Norte),009,S 76° W,Socorro (Surigao Del Norte)

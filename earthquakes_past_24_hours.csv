@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-07T07:43:00.000Z,07 June 2026 - 07:43 AM,08.28,122.44,033,2.4,026km N 21° W of Labason (Zamboanga Del Norte),026,N 21° W,Labason (Zamboanga Del Norte)
+2026-06-07T06:59:00.000Z,07 June 2026 - 06:59 AM,15.08,122.06,034,1.6,028km N 19° E of Burdeos (Quezon),028,N 19° E,Burdeos (Quezon)
+2026-06-07T06:53:00.000Z,07 June 2026 - 06:53 AM,12.15,125.53,021,1.5,004km S 40° E of San Policarpo (Eastern Samar),004,S 40° E,San Policarpo (Eastern Samar)
+2026-06-07T06:44:00.000Z,07 June 2026 - 06:44 AM,09.53,126.17,027,1.9,024km S 67° E of Socorro (Surigao Del Norte),024,S 67° E,Socorro (Surigao Del Norte)
+2026-06-07T06:37:00.000Z,07 June 2026 - 06:37 AM,10.20,123.28,023,2.3,009km N 08° E of City Of Guihulngan (Negros Oriental),009,N 08° E,City Of Guihulngan (Negros Oriental)
 2026-06-07T06:25:00.000Z,07 June 2026 - 06:25 AM,09.57,126.24,035,1.5,025km S 21° E of General Luna (Surigao Del Norte),025,S 21° E,General Luna (Surigao Del Norte)
 2026-06-07T05:50:00.000Z,07 June 2026 - 05:50 AM,10.13,123.24,022,2.3,004km N 70° W of City Of Guihulngan (Negros Oriental),004,N 70° W,City Of Guihulngan (Negros Oriental)
 2026-06-07T05:46:00.000Z,07 June 2026 - 05:46 AM,09.60,125.89,033,1.5,009km S 76° W of Socorro (Surigao Del Norte),009,S 76° W,Socorro (Surigao Del Norte)
@@ -74,5 +79,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-06T10:16:00.000Z,06 June 2026 - 10:16 AM,07.83,122.82,033,1.4,008km N 64° E of Kabasalan (Zamboanga Sibugay),008,N 64° E,Kabasalan (Zamboanga Sibugay)
 2026-06-06T08:59:00.000Z,06 June 2026 - 08:59 AM,15.82,120.11,011,2.3,016km S 61° W of Aguilar (Pangasinan),016,S 61° W,Aguilar (Pangasinan)
 2026-06-06T08:11:00.000Z,06 June 2026 - 08:11 AM,06.44,127.59,030,2.8,143km S 62° E of Tarragona (Davao Oriental),143,S 62° E,Tarragona (Davao Oriental)
-2026-06-06T07:19:00.000Z,06 June 2026 - 07:19 AM,04.98,126.27,104,3.8,104km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),104,S 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-06T06:34:00.000Z,06 June 2026 - 06:34 AM,05.85,126.84,080,3.1,123km S 44° E of Governor Generoso (Davao Oriental),123,S 44° E,Governor Generoso (Davao Oriental)
