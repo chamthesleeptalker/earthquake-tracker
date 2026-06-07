@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-07T15:38:00.000Z,07 June 2026 - 03:38 PM,09.19,126.36,032,2.2,021km S 63° E of Cortes (Surigao Del Sur),021,S 63° E,Cortes (Surigao Del Sur)
+2026-06-07T13:53:00.000Z,07 June 2026 - 01:53 PM,13.95,121.40,036,2.1,004km N 56° W of Candelaria (Quezon),004,N 56° W,Candelaria (Quezon)
+2026-06-07T13:52:00.000Z,07 June 2026 - 01:52 PM,11.07,123.66,025,2.7,012km S 29° W of Bantayan (Cebu),012,S 29° W,Bantayan (Cebu)
 2026-06-07T12:48:00.000Z,07 June 2026 - 12:48 PM,10.03,126.10,011,2.9,003km N 71° E of Burgos (Surigao Del Norte),003,N 71° E,Burgos (Surigao Del Norte)
 2026-06-07T12:43:00.000Z,07 June 2026 - 12:43 PM,08.94,126.33,029,3.4,006km S 57° E of Bayabas (Surigao Del Sur),006,S 57° E,Bayabas (Surigao Del Sur)
 2026-06-07T12:31:00.000Z,07 June 2026 - 12:31 PM,08.91,126.43,006,2.2,014km S 86° E of Cagwait (Surigao Del Sur),014,S 86° E,Cagwait (Surigao Del Sur)
@@ -89,7 +92,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-06T17:10:00.000Z,06 June 2026 - 05:10 PM,10.32,121.30,057,2.5,069km S 80° W of Anini-y (Antique),069,S 80° W,Anini-y (Antique)
 2026-06-06T17:07:00.000Z,06 June 2026 - 05:07 PM,10.18,121.59,002,3.8,046km S 53° W of Anini-y (Antique),046,S 53° W,Anini-y (Antique)
 2026-06-06T16:38:00.000Z,06 June 2026 - 04:38 PM,13.24,123.91,035,1.2,014km N 90° E of Santo Domingo (Albay),014,N 90° E,Santo Domingo (Albay)
-2026-06-06T15:04:00.000Z,06 June 2026 - 03:04 PM,13.27,123.86,035,2.1,010km N 71° E of Santo Domingo (Albay),010,N 71° E,Santo Domingo (Albay)
-2026-06-06T14:35:00.000Z,06 June 2026 - 02:35 PM,13.64,120.67,110,1.8,022km S 12° E of Calatagan (Batangas),022,S 12° E,Calatagan (Batangas)
-2026-06-06T13:28:00.000Z,06 June 2026 - 01:28 PM,12.27,123.99,014,2.5,015km N 29° E of Palanas (Masbate),015,N 29° E,Palanas (Masbate)
-2026-06-06T12:55:00.000Z,06 June 2026 - 12:55 PM,15.31,122.17,006,3.1,056km N 22° E of Burdeos (Quezon),056,N 22° E,Burdeos (Quezon)
