@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-08T04:42:00.000Z,08 June 2026 - 04:42 AM,09.68,122.24,025,2.5,023km S 66° W of City Of Sipalay (Negros Occidental),023,S 66° W,City Of Sipalay (Negros Occidental)
-2026-06-08T04:26:00.000Z,08 June 2026 - 04:26 AM,17.59,120.70,032,1.4,004km S 52° W of Lagangilang (Abra),004,S 52° W,Lagangilang (Abra)
-2026-06-08T03:48:00.000Z,08 June 2026 - 03:48 AM,09.96,126.07,033,1.7,004km N 31° W of San Isidro (Surigao Del Norte),004,N 31° W,San Isidro (Surigao Del Norte)
+2026-06-08T07:37:00.000Z,08 June 2026 - 07:37 AM,05.99,125.17,010,7.0,013km S 0° W of City Of General Santos ( ),013,S 0° W,City Of General Santos ( )
+2026-06-08T07:48:00.000Z,08 June 2026 - 07:48 AM,05.37,125.18,062,3.5,027km S 81° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 81° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-08T07:30:00.000Z,08 June 2026 - 07:30 AM,19.93,121.35,006,1.9,071km S 51° W of Sabtang (Batanes),071,S 51° W,Sabtang (Batanes)
+2026-06-08T07:29:00.000Z,08 June 2026 - 07:29 AM,14.10,120.40,113,2.2,025km N 83° W of Nasugbu (Batangas),025,N 83° W,Nasugbu (Batangas)
