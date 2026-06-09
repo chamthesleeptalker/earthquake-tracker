@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-10T06:00:00.000Z,10 June 2026 - 06:00 AM,04.32,125.75,001,4.2,126km S 17° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),126,S 17° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-10T05:49:00.000Z,10 June 2026 - 05:49 AM,05.39,125.14,001,3.2,032km S 86° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),032,S 86° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-10T05:36:00.000Z,10 June 2026 - 05:36 AM,05.68,125.33,006,2.6,021km S 43° E of Glan (Sarangani),021,S 43° E,Glan (Sarangani)
+2026-06-10T05:22:00.000Z,10 June 2026 - 05:22 AM,05.56,125.39,005,1.8,013km N 40° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),013,N 40° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-10T05:08:00.000Z,10 June 2026 - 05:08 AM,06.00,125.37,001,3.4,009km N 72° E of Malapatan (Sarangani),009,N 72° E,Malapatan (Sarangani)
+2026-06-10T04:59:00.000Z,10 June 2026 - 04:59 AM,06.09,125.13,008,2.9,029km N 30° E of Maasim (Sarangani),029,N 30° E,Maasim (Sarangani)
+2026-06-10T04:50:00.000Z,10 June 2026 - 04:50 AM,05.79,125.36,009,3.0,017km S 80° E of Glan (Sarangani),017,S 80° E,Glan (Sarangani)
 2026-06-10T04:40:00.000Z,10 June 2026 - 04:40 AM,05.20,125.26,042,2.1,030km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-10T04:26:00.000Z,10 June 2026 - 04:26 AM,05.91,125.44,004,2.8,018km S 70° E of Malapatan (Sarangani),018,S 70° E,Malapatan (Sarangani)
 2026-06-10T04:25:00.000Z,10 June 2026 - 04:25 AM,05.53,125.27,029,2.1,021km N 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -953,5 +960,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-03T07:11:00.000Z,03 June 2026 - 07:11 AM,09.76,122.17,009,2.1,029km S 88° W of City Of Sipalay (Negros Occidental),029,S 88° W,City Of Sipalay (Negros Occidental)
 2026-06-03T06:52:00.000Z,03 June 2026 - 06:52 AM,06.53,126.14,015,1.9,015km S 30° E of Governor Generoso (Davao Oriental),015,S 30° E,Governor Generoso (Davao Oriental)
 2026-06-03T06:02:00.000Z,03 June 2026 - 06:02 AM,07.72,127.07,014,3.2,059km N 74° E of Baganga (Davao Oriental),059,N 74° E,Baganga (Davao Oriental)
-2026-06-03T05:55:00.000Z,03 June 2026 - 05:55 AM,12.75,124.48,021,2.2,015km N 57° E of Biri (Northern Samar),015,N 57° E,Biri (Northern Samar)
-2026-06-03T05:13:00.000Z,03 June 2026 - 05:13 AM,11.41,123.85,036,1.8,018km N 47° E of Madridejos (Cebu),018,N 47° E,Madridejos (Cebu)
