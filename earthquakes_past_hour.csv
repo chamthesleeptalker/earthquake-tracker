@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-13T23:02:00.000Z,13 June 2026 - 11:02 PM,11.08,123.95,033,1.7,005km N 43° W of City Of Bogo (Cebu),005,N 43° W,City Of Bogo (Cebu)
-2026-06-13T22:50:00.000Z,13 June 2026 - 10:50 PM,09.66,122.84,088,2.0,013km S 48° W of Mabinay (Negros Oriental),013,S 48° W,Mabinay (Negros Oriental)
-2026-06-13T22:32:00.000Z,13 June 2026 - 10:32 PM,05.54,125.65,012,2.8,021km N 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 69° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-13T22:28:00.000Z,13 June 2026 - 10:28 PM,11.20,124.06,032,1.7,019km N 26° E of City Of Bogo (Cebu),019,N 26° E,City Of Bogo (Cebu)
-2026-06-13T22:05:00.000Z,13 June 2026 - 10:05 PM,07.90,126.80,014,2.2,040km N 73° E of Cateel (Davao Oriental),040,N 73° E,Cateel (Davao Oriental)
+2026-06-14T00:32:00.000Z,14 June 2026 - 12:32 AM,05.42,125.02,032,3.1,045km N 88° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,N 88° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-14T00:21:00.000Z,14 June 2026 - 12:21 AM,05.13,125.17,010,2.9,042km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),042,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-14T00:15:00.000Z,14 June 2026 - 12:15 AM,07.20,127.23,045,2.6,075km S 79° E of Caraga (Davao Oriental),075,S 79° E,Caraga (Davao Oriental)
+2026-06-14T00:15:00.000Z,14 June 2026 - 12:15 AM,06.76,125.62,021,1.8,024km S 70° E of Santa Cruz (Davao Del Sur),024,S 70° E,Santa Cruz (Davao Del Sur)
+2026-06-13T23:57:00.000Z,13 June 2026 - 11:57 PM,05.16,125.27,097,3.0,029km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-13T23:45:00.000Z,13 June 2026 - 11:45 PM,05.04,125.24,010,3.9,045km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
