@@ -1,7 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-13T12:37:00.000Z,13 June 2026 - 12:37 PM,08.82,125.58,040,1.8,010km N 14° W of Las Nieves (Agusan Del Norte),010,N 14° W,Las Nieves (Agusan Del Norte)
-2026-06-13T12:29:00.000Z,13 June 2026 - 12:29 PM,05.83,125.30,019,2.5,011km N 82° E of Glan (Sarangani),011,N 82° E,Glan (Sarangani)
-2026-06-13T12:24:00.000Z,13 June 2026 - 12:24 PM,08.47,126.02,033,1.7,006km S 49° E of San Francisco (Agusan Del Sur),006,S 49° E,San Francisco (Agusan Del Sur)
-2026-06-13T12:16:00.000Z,13 June 2026 - 12:16 PM,05.58,125.49,010,3.3,012km N 09° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 09° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-13T12:09:00.000Z,13 June 2026 - 12:09 PM,05.45,125.10,001,2.4,036km N 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,N 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-13T11:39:00.000Z,13 June 2026 - 11:39 AM,05.48,125.36,004,3.1,010km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),010,N 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-13T16:15:00.000Z,13 June 2026 - 04:15 PM,10.66,123.43,018,2.8,009km N 37° W of Calatrava (Negros Occidental),009,N 37° W,Calatrava (Negros Occidental)
+2026-06-13T15:30:00.000Z,13 June 2026 - 03:30 PM,05.77,124.90,026,2.3,015km S 47° W of Maasim (Sarangani),015,S 47° W,Maasim (Sarangani)
+2026-06-13T15:16:00.000Z,13 June 2026 - 03:16 PM,05.80,125.01,016,3.7,007km S 10° E of Maasim (Sarangani),007,S 10° E,Maasim (Sarangani)
