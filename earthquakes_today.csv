@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-15T01:53:00.000Z,15 June 2026 - 01:53 AM,05.56,125.47,034,1.8,010km N 03° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),010,N 03° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-15T01:43:00.000Z,15 June 2026 - 01:43 AM,05.29,125.35,050,2.6,016km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-15T01:30:00.000Z,15 June 2026 - 01:30 AM,05.32,125.28,030,2.3,019km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-15T01:21:00.000Z,15 June 2026 - 01:21 AM,07.81,127.19,012,3.7,074km N 70° E of Baganga (Davao Oriental),074,N 70° E,Baganga (Davao Oriental)
+2026-06-15T01:12:00.000Z,15 June 2026 - 01:12 AM,06.84,125.53,029,1.8,013km N 89° E of Santa Cruz (Davao Del Sur),013,N 89° E,Santa Cruz (Davao Del Sur)
+2026-06-15T01:01:00.000Z,15 June 2026 - 01:01 AM,12.22,125.38,009,1.9,005km S 13° E of Arteche (Eastern Samar),005,S 13° E,Arteche (Eastern Samar)
+2026-06-15T00:59:00.000Z,15 June 2026 - 12:59 AM,10.23,122.20,003,2.0,037km S 53° E of Anini-y (Antique),037,S 53° E,Anini-y (Antique)
+2026-06-15T00:52:00.000Z,15 June 2026 - 12:52 AM,05.12,125.33,006,3.2,032km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),032,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-15T00:45:00.000Z,15 June 2026 - 12:45 AM,05.21,125.48,032,2.6,024km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 16° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-15T00:41:00.000Z,15 June 2026 - 12:41 AM,05.26,124.86,018,3.1,064km S 75° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),064,S 75° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-15T00:39:00.000Z,15 June 2026 - 12:39 AM,10.20,122.19,002,2.4,038km S 49° E of Anini-y (Antique),038,S 49° E,Anini-y (Antique)
 2026-06-15T00:38:00.000Z,15 June 2026 - 12:38 AM,05.68,125.27,025,2.1,017km S 24° E of Glan (Sarangani),017,S 24° E,Glan (Sarangani)
