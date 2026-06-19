@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-20T06:15:00.000Z,20 June 2026 - 06:15 AM,05.45,125.37,048,1.9,007km N 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,N 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-20T06:12:00.000Z,20 June 2026 - 06:12 AM,05.56,125.37,023,2.1,015km N 51° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 51° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-20T06:09:00.000Z,20 June 2026 - 06:09 AM,05.45,125.24,033,1.7,021km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-20T06:05:00.000Z,20 June 2026 - 06:05 AM,05.42,125.50,003,1.9,006km S 27° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),006,S 27° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-20T05:56:00.000Z,20 June 2026 - 05:56 AM,04.95,125.05,015,3.7,066km S 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),066,S 39° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-20T05:53:00.000Z,20 June 2026 - 05:53 AM,13.11,120.81,031,1.9,010km N 72° E of Santa Cruz (Occidental Mindoro),010,N 72° E,Santa Cruz (Occidental Mindoro)
+2026-06-20T05:24:00.000Z,20 June 2026 - 05:24 AM,06.20,125.72,118,2.2,003km East of Don Marcelino (Davao Occidental),003,East of Don,(Davao Occidental)
+2026-06-20T05:06:00.000Z,20 June 2026 - 05:06 AM,04.98,124.88,025,3.3,076km S 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),076,S 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-20T05:05:00.000Z,20 June 2026 - 05:05 AM,16.32,119.81,043,1.8,012km S 46° W of Bolinao (Pangasinan),012,S 46° W,Bolinao (Pangasinan)
 2026-06-20T04:54:00.000Z,20 June 2026 - 04:54 AM,16.46,119.28,024,2.8,066km N 84° W of Bolinao (Pangasinan),066,N 84° W,Bolinao (Pangasinan)
 2026-06-20T04:44:00.000Z,20 June 2026 - 04:44 AM,05.92,125.35,010,2.5,009km S 51° E of Malapatan (Sarangani),009,S 51° E,Malapatan (Sarangani)
 2026-06-20T04:38:00.000Z,20 June 2026 - 04:38 AM,09.90,125.40,013,2.7,014km S 83° E of San Ricardo (Southern Leyte),014,S 83° E,San Ricardo (Southern Leyte)
