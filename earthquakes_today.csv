@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-22T06:05:00.000Z,22 June 2026 - 06:05 AM,13.94,120.21,036,1.6,013km N 48° E of Lubang (Occidental Mindoro),013,N 48° E,Lubang (Occidental Mindoro)
+2026-06-22T05:54:00.000Z,22 June 2026 - 05:54 AM,11.77,125.51,032,1.7,006km N 75° E of San Julian (Eastern Samar),006,N 75° E,San Julian (Eastern Samar)
+2026-06-22T05:50:00.000Z,22 June 2026 - 05:50 AM,05.70,125.18,021,1.9,014km S 10° W of Glan (Sarangani),014,S 10° W,Glan (Sarangani)
+2026-06-22T05:46:00.000Z,22 June 2026 - 05:46 AM,05.37,125.32,016,2.2,012km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-22T05:45:00.000Z,22 June 2026 - 05:45 AM,20.08,121.10,020,2.7,086km S 71° W of Sabtang (Batanes),086,S 71° W,Sabtang (Batanes)
 2026-06-22T05:10:00.000Z,22 June 2026 - 05:10 AM,05.18,125.55,024,2.5,029km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 29° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-22T05:05:00.000Z,22 June 2026 - 05:05 AM,05.51,125.07,008,2.1,037km S 24° W of Glan (Sarangani),037,S 24° W,Glan (Sarangani)
 2026-06-22T04:59:00.000Z,22 June 2026 - 04:59 AM,08.58,125.96,035,2.6,005km S 66° E of Prosperidad (Agusan Del Sur),005,S 66° E,Prosperidad (Agusan Del Sur)
