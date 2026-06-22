@@ -1,8 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-22T15:22:00.000Z,22 June 2026 - 03:22 PM,05.88,125.35,007,2.4,012km S 31° E of Malapatan (Sarangani),012,S 31° E,Malapatan (Sarangani)
-2026-06-22T14:53:00.000Z,22 June 2026 - 02:53 PM,04.39,124.53,009,2.1,146km S 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),146,S 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-22T14:41:00.000Z,22 June 2026 - 02:41 PM,05.57,125.30,022,1.8,022km N 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,N 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-22T14:39:00.000Z,22 June 2026 - 02:39 PM,05.63,125.33,022,1.6,023km N 41° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 41° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-22T14:36:00.000Z,22 June 2026 - 02:36 PM,09.89,124.11,032,1.5,003km S 40° E of Sagbayan (Bohol),003,S 40° E,Sagbayan (Bohol)
-2026-06-22T14:26:00.000Z,22 June 2026 - 02:26 PM,05.24,125.34,037,1.9,021km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 24° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-22T14:25:00.000Z,22 June 2026 - 02:25 PM,05.55,125.14,024,1.7,031km S 14° W of Glan (Sarangani),031,S 14° W,Glan (Sarangani)
+2026-06-22T22:09:00.000Z,22 June 2026 - 10:09 PM,05.76,125.34,021,1.7,017km S 67° E of Glan (Sarangani),017,S 67° E,Glan (Sarangani)
+2026-06-22T21:48:00.000Z,22 June 2026 - 09:48 PM,05.45,125.11,021,1.8,035km N 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,N 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-22T21:35:00.000Z,22 June 2026 - 09:35 PM,05.86,125.29,023,2.7,010km N 65° E of Glan (Sarangani),010,N 65° E,Glan (Sarangani)
+2026-06-22T21:13:00.000Z,22 June 2026 - 09:13 PM,05.84,125.28,011,1.8,008km N 75° E of Glan (Sarangani),008,N 75° E,Glan (Sarangani)
