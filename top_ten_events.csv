@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-15T23:30:00.000Z,15 June 2026 - 11:30 PM,05.67,125.27,44,5.5,018km S 24° E of Glan (Sarangani),018,S 24° E,Glan (Sarangani)
 2026-06-20T02:38:00.000Z,20 June 2026 - 02:38 AM,04.99,125.14,21,5.4,056km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),056,S 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-18T14:57:00.000Z,18 June 2026 - 02:57 PM,05.61,125.16,33,5.4,024km S 11° W of Glan (Sarangani),024,S 11° W,Glan (Sarangani)
 2026-06-19T00:34:00.000Z,19 June 2026 - 12:34 AM,06.52,126.67,22,5.2,064km S 22° E of Tarragona (Davao Oriental),064,S 22° E,Tarragona (Davao Oriental)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-20T22:05:00.000Z,20 June 2026 - 10:05 PM,05.27,125.39,10,4.7,016km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-20T21:45:00.000Z,20 June 2026 - 09:45 PM,05.19,125.36,26,4.7,025km S 15° W of Sarangani (Davao Occidental),025,S 15° W,Sarangani (Davao Occidental)
 2026-06-20T20:56:00.000Z,20 June 2026 - 08:56 PM,04.87,125.27,10,4.7,062km S 15° W of Sarangani (Davao Occidental),062,S 15° W,Sarangani (Davao Occidental)
+2026-06-16T13:43:00.000Z,16 June 2026 - 01:43 PM,05.28,125.17,5,4.7,031km S 62° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 62° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
