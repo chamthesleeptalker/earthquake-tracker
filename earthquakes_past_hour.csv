@@ -1,6 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-22T09:49:00.000Z,22 June 2026 - 09:49 AM,05.50,125.33,015,1.7,014km N 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,N 46° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-22T09:48:00.000Z,22 June 2026 - 09:48 AM,18.65,120.88,030,2.2,014km N 43° E of Pagudpud (Ilocos Norte),014,N 43° E,Pagudpud (Ilocos Norte)
-2026-06-22T09:43:00.000Z,22 June 2026 - 09:43 AM,05.53,125.20,027,1.9,028km N 62° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 62° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-22T09:35:00.000Z,22 June 2026 - 09:35 AM,02.81,128.35,230,4.2,434km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),434,S 48° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-22T09:25:00.000Z,22 June 2026 - 09:25 AM,05.54,125.26,025,1.9,023km N 51° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 51° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-22T15:22:00.000Z,22 June 2026 - 03:22 PM,05.88,125.35,007,2.4,012km S 31° E of Malapatan (Sarangani),012,S 31° E,Malapatan (Sarangani)
+2026-06-22T14:53:00.000Z,22 June 2026 - 02:53 PM,04.39,124.53,009,2.1,146km S 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),146,S 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-22T14:41:00.000Z,22 June 2026 - 02:41 PM,05.57,125.30,022,1.8,022km N 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,N 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-22T14:39:00.000Z,22 June 2026 - 02:39 PM,05.63,125.33,022,1.6,023km N 41° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 41° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-22T14:36:00.000Z,22 June 2026 - 02:36 PM,09.89,124.11,032,1.5,003km S 40° E of Sagbayan (Bohol),003,S 40° E,Sagbayan (Bohol)
+2026-06-22T14:26:00.000Z,22 June 2026 - 02:26 PM,05.24,125.34,037,1.9,021km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 24° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-22T14:25:00.000Z,22 June 2026 - 02:25 PM,05.55,125.14,024,1.7,031km S 14° W of Glan (Sarangani),031,S 14° W,Glan (Sarangani)
