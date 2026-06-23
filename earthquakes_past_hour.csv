@@ -1,10 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-23T12:48:00.000Z,23 June 2026 - 12:48 PM,13.27,123.88,009,2.3,009km S 72° E of Bacacay (Albay),009,S 72° E,Bacacay (Albay)
-2026-06-23T12:34:00.000Z,23 June 2026 - 12:34 PM,14.15,120.39,114,2.2,027km N 73° W of Nasugbu (Batangas),027,N 73° W,Nasugbu (Batangas)
-2026-06-23T12:27:00.000Z,23 June 2026 - 12:27 PM,05.76,125.28,022,1.3,011km S 48° E of Glan (Sarangani),011,S 48° E,Glan (Sarangani)
-2026-06-23T12:26:00.000Z,23 June 2026 - 12:26 PM,05.63,125.36,031,1.4,021km N 35° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 35° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-23T12:24:00.000Z,23 June 2026 - 12:24 PM,05.63,125.34,020,2.6,022km N 39° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 39° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-23T12:22:00.000Z,23 June 2026 - 12:22 PM,05.66,125.31,012,2.4,021km S 34° E of Glan (Sarangani),021,S 34° E,Glan (Sarangani)
-2026-06-23T12:21:00.000Z,23 June 2026 - 12:21 PM,05.19,125.64,032,1.9,034km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-23T12:06:00.000Z,23 June 2026 - 12:06 PM,05.55,125.19,025,1.6,030km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-23T11:55:00.000Z,23 June 2026 - 11:55 AM,13.88,120.57,121,1.8,009km N 49° W of Calatagan (Batangas),009,N 49° W,Calatagan (Batangas)
+2026-06-23T17:06:00.000Z,23 June 2026 - 05:06 PM,05.63,125.35,026,1.4,022km N 37° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 37° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-23T16:54:00.000Z,23 June 2026 - 04:54 PM,09.10,126.53,012,2.3,030km N 62° E of Bayabas (Surigao Del Sur),030,N 62° E,Bayabas (Surigao Del Sur)
+2026-06-23T16:43:00.000Z,23 June 2026 - 04:43 PM,07.46,126.84,023,2.7,033km S 67° E of Baganga (Davao Oriental),033,S 67° E,Baganga (Davao Oriental)
