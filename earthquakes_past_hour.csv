@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-23T07:00:00.000Z,23 June 2026 - 07:00 AM,05.78,125.38,019,1.8,020km S 76° E of Glan (Sarangani),020,S 76° E,Glan (Sarangani)
+2026-06-23T08:24:00.000Z,23 June 2026 - 08:24 AM,05.11,125.43,014,4.3,033km S 02° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),033,S 02° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-23T08:14:00.000Z,23 June 2026 - 08:14 AM,05.95,125.51,083,1.4,015km N 75° W of Jose Abad Santos (Davao Occidental),015,N 75° W,Jose Abad Santos (Davao Occidental)
+2026-06-23T07:47:00.000Z,23 June 2026 - 07:47 AM,05.38,125.31,027,1.5,013km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-23T07:40:00.000Z,23 June 2026 - 07:40 AM,05.30,125.34,032,2.5,015km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
