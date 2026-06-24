@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-25T06:20:00.000Z,25 June 2026 - 06:20 AM,05.84,125.31,020,2.7,012km N 79° E of Glan (Sarangani),012,N 79° E,Glan (Sarangani)
+2026-06-25T05:51:00.000Z,25 June 2026 - 05:51 AM,09.63,126.63,018,2.7,054km S 72° E of General Luna (Surigao Del Norte),054,S 72° E,General Luna (Surigao Del Norte)
+2026-06-25T05:37:00.000Z,25 June 2026 - 05:37 AM,14.78,119.11,015,2.5,107km S 80° W of San Antonio (Zambales),107,S 80° W,San Antonio (Zambales)
+2026-06-25T05:35:00.000Z,25 June 2026 - 05:35 AM,05.74,125.34,016,2.8,018km S 59° E of Glan (Sarangani),018,S 59° E,Glan (Sarangani)
+2026-06-25T05:17:00.000Z,25 June 2026 - 05:17 AM,05.49,125.41,026,3.3,007km N 77° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),007,N 77° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-25T05:14:00.000Z,25 June 2026 - 05:14 AM,05.42,125.42,027,3.3,001km N 18° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),001,N 18° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-25T05:02:00.000Z,25 June 2026 - 05:02 AM,03.05,128.67,247,4.1,445km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),445,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-25T04:41:00.000Z,25 June 2026 - 04:41 AM,07.00,126.02,104,2.1,003km N 14° E of Banaybanay (Davao Oriental),003,N 14° E,Banaybanay (Davao Oriental)
 2026-06-25T04:35:00.000Z,25 June 2026 - 04:35 AM,05.40,125.24,039,2.0,020km S 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 85° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-25T04:32:00.000Z,25 June 2026 - 04:32 AM,05.75,125.33,021,1.7,016km S 61° E of Glan (Sarangani),016,S 61° E,Glan (Sarangani)
