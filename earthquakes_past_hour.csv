@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-26T02:19:00.000Z,26 June 2026 - 02:19 AM,05.79,125.28,016,2.2,010km S 65° E of Glan (Sarangani),010,S 65° E,Glan (Sarangani)
-2026-06-26T01:44:00.000Z,26 June 2026 - 01:44 AM,05.38,125.25,036,1.7,020km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-26T01:29:00.000Z,26 June 2026 - 01:29 AM,10.31,122.27,033,2.1,034km S 24° E of San Joaquin (Iloilo),034,S 24° E,San Joaquin (Iloilo)
-2026-06-26T01:20:00.000Z,26 June 2026 - 01:20 AM,13.46,123.35,035,1.2,002km N 78° W of Baao (Camarines Sur),002,N 78° W,Baao (Camarines Sur)
-2026-06-26T01:20:00.000Z,26 June 2026 - 01:20 AM,16.46,119.17,030,3.2,078km N 61° W of Agno (Pangasinan),078,N 61° W,Agno (Pangasinan)
-2026-06-26T01:20:00.000Z,26 June 2026 - 01:20 AM,19.29,121.48,012,2.2,003km N 12° E of Calayan (Cagayan),003,N 12° E,Calayan (Cagayan)
+2026-06-26T04:28:00.000Z,26 June 2026 - 04:28 AM,07.02,125.94,033,2.0,010km N 55° W of Banaybanay (Davao Oriental),010,N 55° W,Banaybanay (Davao Oriental)
+2026-06-26T04:24:00.000Z,26 June 2026 - 04:24 AM,13.53,123.11,003,1.8,005km S 50° W of San Fernando (Camarines Sur),005,S 50° W,San Fernando (Camarines Sur)
+2026-06-26T03:50:00.000Z,26 June 2026 - 03:50 AM,05.86,124.83,025,2.7,019km S 88° W of Maasim (Sarangani),019,S 88° W,Maasim (Sarangani)
+2026-06-26T03:48:00.000Z,26 June 2026 - 03:48 AM,19.25,121.26,014,2.4,017km N 18° E of Dalupiri Island (Calayan) (Cagayan),017,N 18° E,Dalupiri Island (Calayan) (Cagayan)
+2026-06-26T03:32:00.000Z,26 June 2026 - 03:32 AM,12.77,123.03,012,2.8,027km S 58° W of Claveria (Masbate),027,S 58° W,Claveria (Masbate)
