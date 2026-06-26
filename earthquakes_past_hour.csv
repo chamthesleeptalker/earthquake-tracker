@@ -1,2 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-26T07:11:00.000Z,26 June 2026 - 07:11 AM,05.85,125.64,002,3.3,007km S 03° W of Jose Abad Santos (Davao Occidental),007,S 03° W,Jose Abad Santos (Davao Occidental)
+2026-06-26T10:36:00.000Z,26 June 2026 - 10:36 AM,17.62,121.09,020,2.3,010km N 60° E of Malibcong (Abra),010,N 60° E,Malibcong (Abra)
+2026-06-26T10:24:00.000Z,26 June 2026 - 10:24 AM,14.79,119.21,018,2.9,096km S 80° W of San Antonio (Zambales),096,S 80° W,San Antonio (Zambales)
+2026-06-26T10:22:00.000Z,26 June 2026 - 10:22 AM,14.83,119.12,023,2.6,106km S 82° W of San Antonio (Zambales),106,S 82° W,San Antonio (Zambales)
+2026-06-26T10:14:00.000Z,26 June 2026 - 10:14 AM,05.87,125.59,002,2.7,007km S 52° W of Jose Abad Santos (Davao Occidental),007,S 52° W,Jose Abad Santos (Davao Occidental)
+2026-06-26T10:04:00.000Z,26 June 2026 - 10:04 AM,05.87,125.35,017,2.1,013km S 32° E of Malapatan (Sarangani),013,S 32° E,Malapatan (Sarangani)
+2026-06-26T09:56:00.000Z,26 June 2026 - 09:56 AM,05.88,125.60,003,2.1,006km S 55° W of Jose Abad Santos (Davao Occidental),006,S 55° W,Jose Abad Santos (Davao Occidental)
+2026-06-26T09:45:00.000Z,26 June 2026 - 09:45 AM,05.96,125.58,004,2.6,009km N 55° W of Jose Abad Santos (Davao Occidental),009,N 55° W,Jose Abad Santos (Davao Occidental)
