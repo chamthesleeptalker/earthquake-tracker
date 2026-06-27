@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-28T01:43:00.000Z,28 June 2026 - 01:43 AM,14.97,120.16,069,2.5,001km East of San Marcelino (Zambales),001,East of San,(Zambales)
+2026-06-28T01:40:00.000Z,28 June 2026 - 01:40 AM,05.54,125.34,072,1.6,014km N 41° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),014,N 41° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-28T01:37:00.000Z,28 June 2026 - 01:37 AM,05.30,125.13,027,2.1,035km S 69° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 69° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-28T01:36:00.000Z,28 June 2026 - 01:36 AM,05.66,125.10,014,1.7,021km S 33° W of Glan (Sarangani),021,S 33° W,Glan (Sarangani)
+2026-06-28T01:18:00.000Z,28 June 2026 - 01:18 AM,04.49,125.53,055,3.0,103km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),103,S 07° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-28T00:49:00.000Z,28 June 2026 - 12:49 AM,05.50,125.10,021,2.3,037km N 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,N 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-28T00:45:00.000Z,28 June 2026 - 12:45 AM,11.94,120.73,008,2.5,058km S 83° E of Coron (Palawan),058,S 83° E,Coron (Palawan)
+2026-06-28T00:38:00.000Z,28 June 2026 - 12:38 AM,05.40,124.94,031,2.5,051km S 07° W of Maasim (Sarangani),051,S 07° W,Maasim (Sarangani)
+2026-06-28T00:37:00.000Z,28 June 2026 - 12:37 AM,14.00,124.95,036,2.5,065km N 68° E of Gigmoto (Catanduanes),065,N 68° E,Gigmoto (Catanduanes)
 2026-06-28T00:22:00.000Z,28 June 2026 - 12:22 AM,05.76,125.34,019,2.4,017km S 65° E of Glan (Sarangani),017,S 65° E,Glan (Sarangani)
 2026-06-28T00:16:00.000Z,28 June 2026 - 12:16 AM,09.65,126.24,025,2.8,017km S 33° E of General Luna (Surigao Del Norte),017,S 33° E,General Luna (Surigao Del Norte)
 2026-06-27T23:49:00.000Z,27 June 2026 - 11:49 PM,09.07,126.43,035,2.7,019km N 56° E of Bayabas (Surigao Del Sur),019,N 56° E,Bayabas (Surigao Del Sur)
