@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-28T00:22:00.000Z,28 June 2026 - 12:22 AM,05.76,125.34,019,2.4,017km S 65° E of Glan (Sarangani),017,S 65° E,Glan (Sarangani)
+2026-06-28T00:16:00.000Z,28 June 2026 - 12:16 AM,09.65,126.24,025,2.8,017km S 33° E of General Luna (Surigao Del Norte),017,S 33° E,General Luna (Surigao Del Norte)
+2026-06-27T23:49:00.000Z,27 June 2026 - 11:49 PM,09.07,126.43,035,2.7,019km N 56° E of Bayabas (Surigao Del Sur),019,N 56° E,Bayabas (Surigao Del Sur)
+2026-06-27T23:31:00.000Z,27 June 2026 - 11:31 PM,05.66,125.30,024,1.5,021km S 32° E of Glan (Sarangani),021,S 32° E,Glan (Sarangani)
+2026-06-27T23:30:00.000Z,27 June 2026 - 11:30 PM,05.39,126.38,044,1.8,101km S 84° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),101,S 84° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-27T23:26:00.000Z,27 June 2026 - 11:26 PM,05.31,125.12,029,2.2,035km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-27T23:20:00.000Z,27 June 2026 - 11:20 PM,11.22,125.39,022,2.3,012km N 48° E of Lawaan (Eastern Samar),012,N 48° E,Lawaan (Eastern Samar)
+2026-06-27T23:13:00.000Z,27 June 2026 - 11:13 PM,05.63,125.36,026,1.9,021km N 35° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 35° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-27T23:12:00.000Z,27 June 2026 - 11:12 PM,05.21,125.40,043,1.9,022km S 07° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,S 07° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-27T23:03:00.000Z,27 June 2026 - 11:03 PM,07.82,126.52,024,1.8,008km N 69° E of Cateel (Davao Oriental),008,N 69° E,Cateel (Davao Oriental)
 2026-06-27T22:44:00.000Z,27 June 2026 - 10:44 PM,19.27,121.96,005,2.6,027km S 09° E of Babuyan Island (Calayan) (Cagayan),027,S 09° E,Babuyan Island (Calayan) (Cagayan)
 2026-06-27T22:44:00.000Z,27 June 2026 - 10:44 PM,05.76,125.33,027,2.0,015km S 65° E of Glan (Sarangani),015,S 65° E,Glan (Sarangani)
