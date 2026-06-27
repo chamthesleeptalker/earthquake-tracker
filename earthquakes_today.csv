@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-27T21:25:00.000Z,27 June 2026 - 09:25 PM,04.78,125.36,033,2.0,070km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),070,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-27T21:18:00.000Z,27 June 2026 - 09:18 PM,09.95,124.22,012,1.7,001km S 68° W of Danao (Bohol),001,S 68° W,Danao (Bohol)
+2026-06-27T21:15:00.000Z,27 June 2026 - 09:15 PM,05.75,125.41,034,2.7,024km S 71° E of Glan (Sarangani),024,S 71° E,Glan (Sarangani)
+2026-06-27T21:07:00.000Z,27 June 2026 - 09:07 PM,05.73,125.40,036,2.6,024km S 65° E of Glan (Sarangani),024,S 65° E,Glan (Sarangani)
+2026-06-27T20:53:00.000Z,27 June 2026 - 08:53 PM,05.29,125.42,022,3.5,013km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 01° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-27T20:41:00.000Z,27 June 2026 - 08:41 PM,05.54,125.14,014,2.2,032km S 12° W of Glan (Sarangani),032,S 12° W,Glan (Sarangani)
+2026-06-27T20:19:00.000Z,27 June 2026 - 08:19 PM,05.51,125.12,019,2.1,035km N 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,N 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-27T20:12:00.000Z,27 June 2026 - 08:12 PM,10.89,123.85,005,3.5,022km S 39° W of City Of Bogo (Cebu),022,S 39° W,City Of Bogo (Cebu)
+2026-06-27T00:46:00.000Z,27 June 2026 - 12:46 AM,05.27,124.98,022,2.9,051km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-27T19:41:00.000Z,27 June 2026 - 07:41 PM,05.83,125.63,009,2.0,009km S 09° W of Jose Abad Santos (Davao Occidental),009,S 09° W,Jose Abad Santos (Davao Occidental)
 2026-06-27T19:23:00.000Z,27 June 2026 - 07:23 PM,10.89,123.89,005,2.3,020km S 29° W of City Of Bogo (Cebu),020,S 29° W,City Of Bogo (Cebu)
 2026-06-27T19:22:00.000Z,27 June 2026 - 07:22 PM,05.79,125.31,012,2.4,012km S 72° E of Glan (Sarangani),012,S 72° E,Glan (Sarangani)
