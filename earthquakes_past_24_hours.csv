@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-06-28T07:41:00.000Z,28 June 2026 - 07:41 AM,05.45,125.16,023,2.0,030km N 82° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,N 82° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-28T07:37:00.000Z,28 June 2026 - 07:37 AM,07.71,124.46,023,1.9,017km S 79° E of Butig (Lanao Del Sur),017,S 79° E,Butig (Lanao Del Sur)
+2026-06-28T07:09:00.000Z,28 June 2026 - 07:09 AM,05.37,125.28,031,1.8,016km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-28T07:06:00.000Z,28 June 2026 - 07:06 AM,05.71,125.41,020,2.5,026km S 60° E of Glan (Sarangani),026,S 60° E,Glan (Sarangani)
+2026-06-28T07:00:00.000Z,28 June 2026 - 07:00 AM,05.61,126.29,019,2.3,079km S 65° E of Jose Abad Santos (Davao Occidental),079,S 65° E,Jose Abad Santos (Davao Occidental)
+2026-06-28T06:53:00.000Z,28 June 2026 - 06:53 AM,09.26,126.78,003,2.5,063km N 60° E of Bayabas (Surigao Del Sur),063,N 60° E,Bayabas (Surigao Del Sur)
+2026-06-28T06:49:00.000Z,28 June 2026 - 06:49 AM,09.26,126.24,015,1.8,006km S 73° E of Cortes (Surigao Del Sur),006,S 73° E,Cortes (Surigao Del Sur)
+2026-06-28T06:42:00.000Z,28 June 2026 - 06:42 AM,08.20,123.74,033,1.8,012km S 67° W of Tudela (Misamis Occidental),012,S 67° W,Tudela (Misamis Occidental)
 2026-06-28T06:18:00.000Z,28 June 2026 - 06:18 AM,09.22,126.63,011,2.6,047km N 54° E of Bayabas (Surigao Del Sur),047,N 54° E,Bayabas (Surigao Del Sur)
 2026-06-28T06:06:00.000Z,28 June 2026 - 06:06 AM,12.24,120.67,005,2.6,041km S 53° W of Rizal (Occidental Mindoro),041,S 53° W,Rizal (Occidental Mindoro)
 2026-06-28T06:02:00.000Z,28 June 2026 - 06:02 AM,10.33,121.38,032,2.1,061km S 79° W of Anini-y (Antique),061,S 79° W,Anini-y (Antique)
