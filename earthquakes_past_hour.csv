@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-29T06:39:00.000Z,29 June 2026 - 06:39 AM,16.47,119.29,031,2.6,065km N 82° W of Bolinao (Pangasinan),065,N 82° W,Bolinao (Pangasinan)
-2026-06-29T05:50:00.000Z,29 June 2026 - 05:50 AM,16.59,119.09,016,3.0,089km N 75° W of Bolinao (Pangasinan),089,N 75° W,Bolinao (Pangasinan)
-2026-06-29T05:49:00.000Z,29 June 2026 - 05:49 AM,16.49,119.20,036,2.3,074km N 81° W of Bolinao (Pangasinan),074,N 81° W,Bolinao (Pangasinan)
+2026-06-29T09:19:00.000Z,29 June 2026 - 09:19 AM,13.93,120.56,003,1.7,013km N 34° W of Calatagan (Batangas),013,N 34° W,Calatagan (Batangas)
+2026-06-29T09:15:00.000Z,29 June 2026 - 09:15 AM,18.56,120.91,032,2.1,009km S 89° W of Santa Praxedes (Cagayan),009,S 89° W,Santa Praxedes (Cagayan)
+2026-06-29T08:54:00.000Z,29 June 2026 - 08:54 AM,05.88,124.56,008,2.9,014km S 29° W of Kiamba (Sarangani),014,S 29° W,Kiamba (Sarangani)
+2026-06-29T08:30:00.000Z,29 June 2026 - 08:30 AM,05.63,125.56,036,1.7,019km N 29° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),019,N 29° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
