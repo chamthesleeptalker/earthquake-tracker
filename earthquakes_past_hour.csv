@@ -1,7 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-29T13:46:00.000Z,29 June 2026 - 01:46 PM,19.28,121.10,033,1.8,022km N 31° W of Dalupiri Island (Calayan) (Cagayan),022,N 31° W,Dalupiri Island (Calayan) (Cagayan)
-2026-06-29T13:46:00.000Z,29 June 2026 - 01:46 PM,09.91,122.39,012,1.7,016km N 16° W of City Of Sipalay (Negros Occidental),016,N 16° W,City Of Sipalay (Negros Occidental)
-2026-06-29T13:19:00.000Z,29 June 2026 - 01:19 PM,04.77,125.10,074,2.5,079km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),079,S 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-29T13:19:00.000Z,29 June 2026 - 01:19 PM,09.58,126.75,011,2.8,069km S 71° E of General Luna (Surigao Del Norte),069,S 71° E,General Luna (Surigao Del Norte)
-2026-06-29T13:07:00.000Z,29 June 2026 - 01:07 PM,05.34,124.90,024,2.4,059km S 82° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),059,S 82° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-29T13:04:00.000Z,29 June 2026 - 01:04 PM,04.84,124.85,013,3.2,089km S 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),089,S 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-29T19:43:00.000Z,29 June 2026 - 07:43 PM,09.94,124.83,003,1.5,019km S 40° W of Macrohon (Southern Leyte),019,S 40° W,Macrohon (Southern Leyte)
+2026-06-29T19:40:00.000Z,29 June 2026 - 07:40 PM,15.98,121.83,034,1.4,022km S 38° W of Dinalungan (Aurora),022,S 38° W,Dinalungan (Aurora)
+2026-06-29T19:14:00.000Z,29 June 2026 - 07:14 PM,07.67,126.29,033,1.6,022km N 52° E of New Bataan (Davao De Oro),022,N 52° E,New Bataan (Davao De Oro)
