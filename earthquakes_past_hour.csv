@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-30T12:19:00.000Z,30 June 2026 - 12:19 PM,05.47,125.17,033,2.4,028km N 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 77° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-30T11:51:00.000Z,30 June 2026 - 11:51 AM,05.96,126.58,049,2.0,095km S 36° E of Governor Generoso (Davao Oriental),095,S 36° E,Governor Generoso (Davao Oriental)
-2026-06-30T11:46:00.000Z,30 June 2026 - 11:46 AM,05.54,125.28,034,1.9,021km N 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 48° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-06-30T15:57:00.000Z,30 June 2026 - 03:57 PM,05.63,125.27,034,1.9,023km S 20° E of Glan (Sarangani),023,S 20° E,Glan (Sarangani)
+2026-06-30T15:56:00.000Z,30 June 2026 - 03:56 PM,05.41,125.32,028,1.9,011km West of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,West of Balut,(Municipality Of Sarangani) (Davao Occidental)
+2026-06-30T15:48:00.000Z,30 June 2026 - 03:48 PM,05.03,124.50,044,2.7,107km S 07° W of Kiamba (Sarangani),107,S 07° W,Kiamba (Sarangani)
+2026-06-30T15:40:00.000Z,30 June 2026 - 03:40 PM,05.71,125.35,019,2.2,020km S 52° E of Glan (Sarangani),020,S 52° E,Glan (Sarangani)
+2026-06-30T15:36:00.000Z,30 June 2026 - 03:36 PM,13.13,125.34,018,2.9,069km N 20° E of Palapag (Northern Samar),069,N 20° E,Palapag (Northern Samar)
+2026-06-30T15:10:00.000Z,30 June 2026 - 03:10 PM,05.30,125.40,008,2.5,013km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
