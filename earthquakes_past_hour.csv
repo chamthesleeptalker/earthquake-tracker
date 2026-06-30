@@ -1,8 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-06-30T19:09:00.000Z,30 June 2026 - 07:09 PM,03.58,126.07,113,2.8,215km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),215,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-30T19:05:00.000Z,30 June 2026 - 07:05 PM,05.38,125.28,025,2.4,016km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-30T18:57:00.000Z,30 June 2026 - 06:57 PM,18.12,120.84,021,1.5,003km S 36° E of Carasi (Ilocos Norte),003,S 36° E,Carasi (Ilocos Norte)
-2026-06-30T18:20:00.000Z,30 June 2026 - 06:20 PM,04.99,125.46,127,2.1,046km S 05° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),046,S 05° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-30T18:18:00.000Z,30 June 2026 - 06:18 PM,05.86,125.34,021,1.5,013km S 26° E of Malapatan (Sarangani),013,S 26° E,Malapatan (Sarangani)
-2026-06-30T18:17:00.000Z,30 June 2026 - 06:17 PM,11.79,125.36,044,1.5,011km N 70° W of San Julian (Eastern Samar),011,N 70° W,San Julian (Eastern Samar)
-2026-06-30T18:15:00.000Z,30 June 2026 - 06:15 PM,09.68,126.15,032,1.5,012km S 04° W of General Luna (Surigao Del Norte),012,S 04° W,General Luna (Surigao Del Norte)
+2026-06-30T20:59:00.000Z,30 June 2026 - 08:59 PM,13.13,123.79,032,1.5,006km S 83° E of City Of Legazpi (Albay),006,S 83° E,City Of Legazpi (Albay)
+2026-06-30T20:38:00.000Z,30 June 2026 - 08:38 PM,05.91,125.39,008,2.4,013km S 59° E of Malapatan (Sarangani),013,S 59° E,Malapatan (Sarangani)
+2026-06-30T20:28:00.000Z,30 June 2026 - 08:28 PM,12.19,121.43,016,1.8,017km S 31° E of Bulalacao (Oriental Mindoro),017,S 31° E,Bulalacao (Oriental Mindoro)
+2026-06-30T20:00:00.000Z,30 June 2026 - 08:00 PM,09.37,126.29,013,2.1,015km N 45° E of Cortes (Surigao Del Sur),015,N 45° E,Cortes (Surigao Del Sur)
