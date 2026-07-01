@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-02T07:12:00.000Z,02 July 2026 - 07:12 AM,12.98,123.15,017,1.7,014km N 51° W of Claveria (Masbate),014,N 51° W,Claveria (Masbate)
+2026-07-02T06:34:00.000Z,02 July 2026 - 06:34 AM,05.62,125.38,026,2.4,019km N 31° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),019,N 31° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-02T06:24:00.000Z,02 July 2026 - 06:24 AM,05.83,124.87,022,1.8,014km S 74° W of Maasim (Sarangani),014,S 74° W,Maasim (Sarangani)
 2026-07-02T05:46:00.000Z,02 July 2026 - 05:46 AM,18.71,121.84,003,2.7,022km S 07° W of Camiguin Island (Calayan) (Cagayan),022,S 07° W,Camiguin Island (Calayan) (Cagayan)
 2026-07-02T05:38:00.000Z,02 July 2026 - 05:38 AM,19.21,121.09,024,2.5,017km N 46° W of Dalupiri Island (Calayan) (Cagayan),017,N 46° W,Dalupiri Island (Calayan) (Cagayan)
 2026-07-02T05:26:00.000Z,02 July 2026 - 05:26 AM,05.76,125.01,010,1.5,012km S 05° E of Maasim (Sarangani),012,S 05° E,Maasim (Sarangani)
@@ -893,7 +896,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-25T07:31:00.000Z,25 June 2026 - 07:31 AM,07.41,127.24,015,3.4,075km N 83° E of Caraga (Davao Oriental),075,N 83° E,Caraga (Davao Oriental)
 2026-06-25T07:30:00.000Z,25 June 2026 - 07:30 AM,16.53,119.01,017,3.1,096km N 62° W of Agno (Pangasinan),096,N 62° W,Agno (Pangasinan)
 2026-06-25T07:25:00.000Z,25 June 2026 - 07:25 AM,05.86,125.43,020,2.0,020km S 50° E of Malapatan (Sarangani),020,S 50° E,Malapatan (Sarangani)
-2026-06-25T06:56:00.000Z,25 June 2026 - 06:56 AM,05.88,125.49,071,1.4,018km S 77° W of Jose Abad Santos (Davao Occidental),018,S 77° W,Jose Abad Santos (Davao Occidental)
-2026-06-25T06:52:00.000Z,25 June 2026 - 06:52 AM,05.83,125.23,016,2.6,003km N 82° E of Glan (Sarangani),003,N 82° E,Glan (Sarangani)
-2026-06-25T06:20:00.000Z,25 June 2026 - 06:20 AM,05.84,125.31,020,2.7,012km N 79° E of Glan (Sarangani),012,N 79° E,Glan (Sarangani)
-2026-06-25T05:51:00.000Z,25 June 2026 - 05:51 AM,09.63,126.63,018,2.7,054km S 72° E of General Luna (Surigao Del Norte),054,S 72° E,General Luna (Surigao Del Norte)
