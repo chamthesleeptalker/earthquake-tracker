@@ -1,3 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-02T09:18:00.000Z,02 July 2026 - 09:18 AM,17.04,120.17,023,1.7,030km S 80° W of Santa Cruz (Ilocos Sur),030,S 80° W,Santa Cruz (Ilocos Sur)
-2026-07-02T08:52:00.000Z,02 July 2026 - 08:52 AM,05.39,125.05,010,2.1,041km S 87° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),041,S 87° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-02T13:40:00.000Z,02 July 2026 - 01:40 PM,05.73,125.15,029,1.7,012km S 29° W of Glan (Sarangani),012,S 29° W,Glan (Sarangani)
+2026-07-02T13:29:00.000Z,02 July 2026 - 01:29 PM,05.46,125.32,029,1.5,012km N 65° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,N 65° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-02T13:27:00.000Z,02 July 2026 - 01:27 PM,05.50,124.64,014,2.1,055km S 02° E of Kiamba (Sarangani),055,S 02° E,Kiamba (Sarangani)
+2026-07-02T13:22:00.000Z,02 July 2026 - 01:22 PM,13.23,123.77,033,2.4,001km S 48° W of Santo Domingo (Albay),001,S 48° W,Santo Domingo (Albay)
+2026-07-02T13:14:00.000Z,02 July 2026 - 01:14 PM,13.21,123.75,035,2.4,004km S 43° W of Santo Domingo (Albay),004,S 43° W,Santo Domingo (Albay)
+2026-07-02T13:01:00.000Z,02 July 2026 - 01:01 PM,05.07,125.33,010,2.2,039km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),039,S 15° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-02T12:49:00.000Z,02 July 2026 - 12:49 PM,04.75,125.07,013,2.4,083km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 28° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
