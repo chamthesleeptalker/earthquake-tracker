@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-04T19:52:00.000Z,04 July 2026 - 07:52 PM,05.41,125.50,039,1.9,008km S 27° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),008,S 27° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-04T19:43:00.000Z,04 July 2026 - 07:43 PM,07.60,124.83,030,2.1,009km S 88° W of Kadingilan (Bukidnon),009,S 88° W,Kadingilan (Bukidnon)
+2026-07-04T18:37:00.000Z,04 July 2026 - 06:37 PM,09.11,126.26,022,1.2,010km N 18° E of Tago (Surigao Del Sur),010,N 18° E,Tago (Surigao Del Sur)
+2026-07-04T18:30:00.000Z,04 July 2026 - 06:30 PM,05.81,125.47,023,2.9,022km S 60° W of Jose Abad Santos (Davao Occidental),022,S 60° W,Jose Abad Santos (Davao Occidental)
 2026-07-04T18:24:00.000Z,04 July 2026 - 06:24 PM,05.66,125.28,009,2.8,020km S 26° E of Glan (Sarangani),020,S 26° E,Glan (Sarangani)
 2026-07-04T18:04:00.000Z,04 July 2026 - 06:04 PM,05.37,125.31,030,1.6,014km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-04T17:54:00.000Z,04 July 2026 - 05:54 PM,05.28,124.70,123,2.9,072km S 27° W of Maasim (Sarangani),072,S 27° W,Maasim (Sarangani)
@@ -1048,9 +1052,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-27T20:41:00.000Z,27 June 2026 - 08:41 PM,05.54,125.14,014,2.2,032km S 12° W of Glan (Sarangani),032,S 12° W,Glan (Sarangani)
 2026-06-27T20:19:00.000Z,27 June 2026 - 08:19 PM,05.51,125.12,019,2.1,035km N 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,N 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-27T20:12:00.000Z,27 June 2026 - 08:12 PM,10.89,123.85,005,3.5,022km S 39° W of City Of Bogo (Cebu),022,S 39° W,City Of Bogo (Cebu)
-2026-06-27T19:41:00.000Z,27 June 2026 - 07:41 PM,05.83,125.63,009,2.0,009km S 09° W of Jose Abad Santos (Davao Occidental),009,S 09° W,Jose Abad Santos (Davao Occidental)
-2026-06-27T19:23:00.000Z,27 June 2026 - 07:23 PM,10.89,123.89,005,2.3,020km S 29° W of City Of Bogo (Cebu),020,S 29° W,City Of Bogo (Cebu)
-2026-06-27T19:22:00.000Z,27 June 2026 - 07:22 PM,05.79,125.31,012,2.4,012km S 72° E of Glan (Sarangani),012,S 72° E,Glan (Sarangani)
-2026-06-27T19:05:00.000Z,27 June 2026 - 07:05 PM,05.51,125.10,019,2.1,037km N 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,N 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-06-27T18:34:00.000Z,27 June 2026 - 06:34 PM,09.36,126.30,027,4.2,015km N 53° E of Cortes (Surigao Del Sur),015,N 53° E,Cortes (Surigao Del Sur)
-2026-06-27T18:24:00.000Z,27 June 2026 - 06:24 PM,05.62,125.28,033,1.7,024km S 20° E of Glan (Sarangani),024,S 20° E,Glan (Sarangani)
