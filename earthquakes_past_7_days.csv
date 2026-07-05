@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-06T01:00:00.000Z,06 July 2026 - 01:00 AM,05.84,125.32,022,2.3,014km N 79° E of Glan (Sarangani),014,N 79° E,Glan (Sarangani)
+2026-07-06T00:50:00.000Z,06 July 2026 - 12:50 AM,05.36,125.20,014,2.0,025km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:44:00.000Z,06 July 2026 - 12:44 AM,05.33,125.09,038,2.4,037km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:39:00.000Z,06 July 2026 - 12:39 AM,05.48,125.41,028,2.8,007km N 82° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),007,N 82° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:38:00.000Z,06 July 2026 - 12:38 AM,08.54,127.54,035,3.7,134km N 82° E of Hinatuan (Surigao Del Sur),134,N 82° E,Hinatuan (Surigao Del Sur)
+2026-07-06T00:35:00.000Z,06 July 2026 - 12:35 AM,05.00,125.33,017,2.4,047km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),047,S 13° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:30:00.000Z,06 July 2026 - 12:30 AM,06.01,125.42,023,2.8,015km N 71° E of Malapatan (Sarangani),015,N 71° E,Malapatan (Sarangani)
+2026-07-06T00:14:00.000Z,06 July 2026 - 12:14 AM,13.29,123.87,033,1.7,011km N 59° E of Santo Domingo (Albay),011,N 59° E,Santo Domingo (Albay)
+2026-07-06T00:06:00.000Z,06 July 2026 - 12:06 AM,05.87,125.35,020,1.6,013km S 31° E of Malapatan (Sarangani),013,S 31° E,Malapatan (Sarangani)
 2026-07-05T23:52:00.000Z,05 July 2026 - 11:52 PM,05.36,125.31,027,2.0,014km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-05T23:51:00.000Z,05 July 2026 - 11:51 PM,17.95,120.66,034,1.8,003km N 10° W of Nueva Era (Ilocos Norte),003,N 10° W,Nueva Era (Ilocos Norte)
 2026-07-05T23:41:00.000Z,05 July 2026 - 11:41 PM,06.34,127.32,030,3.0,124km S 51° E of Tarragona (Davao Oriental),124,S 51° E,Tarragona (Davao Oriental)
@@ -1071,8 +1080,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-06-29T01:26:00.000Z,29 June 2026 - 01:26 AM,05.29,125.12,055,2.2,036km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-29T01:12:00.000Z,29 June 2026 - 01:12 AM,05.42,125.41,032,2.5,001km N 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),001,N 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-06-29T01:02:00.000Z,29 June 2026 - 01:02 AM,10.30,123.02,034,1.5,003km S 04° W of La Castellana (Negros Occidental),003,S 04° W,La Castellana (Negros Occidental)
-2026-06-29T00:44:00.000Z,29 June 2026 - 12:44 AM,18.21,120.29,032,1.8,029km N 55° W of Paoay (Ilocos Norte),029,N 55° W,Paoay (Ilocos Norte)
-2026-06-29T00:35:00.000Z,29 June 2026 - 12:35 AM,05.82,125.29,020,1.9,009km East of Glan (Sarangani),009,East of Glan,
-2026-06-29T00:27:00.000Z,29 June 2026 - 12:27 AM,09.26,126.32,014,1.6,014km S 82° E of Cortes (Surigao Del Sur),014,S 82° E,Cortes (Surigao Del Sur)
-2026-06-29T00:25:00.000Z,29 June 2026 - 12:25 AM,05.64,125.27,023,1.5,021km S 19° E of Glan (Sarangani),021,S 19° E,Glan (Sarangani)
-2026-06-29T00:01:00.000Z,29 June 2026 - 12:01 AM,16.68,121.32,031,2.2,006km N 65° W of Diadi (Nueva Vizcaya),006,N 65° W,Diadi (Nueva Vizcaya)

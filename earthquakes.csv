@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-06T01:00:00.000Z,06 July 2026 - 01:00 AM,05.84,125.32,022,2.3,014km N 79° E of Glan (Sarangani),014,N 79° E,Glan (Sarangani)
+2026-07-06T00:50:00.000Z,06 July 2026 - 12:50 AM,05.36,125.20,014,2.0,025km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:44:00.000Z,06 July 2026 - 12:44 AM,05.33,125.09,038,2.4,037km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:39:00.000Z,06 July 2026 - 12:39 AM,05.48,125.41,028,2.8,007km N 82° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),007,N 82° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:38:00.000Z,06 July 2026 - 12:38 AM,08.54,127.54,035,3.7,134km N 82° E of Hinatuan (Surigao Del Sur),134,N 82° E,Hinatuan (Surigao Del Sur)
+2026-07-06T00:35:00.000Z,06 July 2026 - 12:35 AM,05.00,125.33,017,2.4,047km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),047,S 13° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-06T00:30:00.000Z,06 July 2026 - 12:30 AM,06.01,125.42,023,2.8,015km N 71° E of Malapatan (Sarangani),015,N 71° E,Malapatan (Sarangani)
+2026-07-06T00:14:00.000Z,06 July 2026 - 12:14 AM,13.29,123.87,033,1.7,011km N 59° E of Santo Domingo (Albay),011,N 59° E,Santo Domingo (Albay)
+2026-07-06T00:06:00.000Z,06 July 2026 - 12:06 AM,05.87,125.35,020,1.6,013km S 31° E of Malapatan (Sarangani),013,S 31° E,Malapatan (Sarangani)
 2026-07-05T23:52:00.000Z,05 July 2026 - 11:52 PM,05.36,125.31,027,2.0,014km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-05T23:51:00.000Z,05 July 2026 - 11:51 PM,17.95,120.66,034,1.8,003km N 10° W of Nueva Era (Ilocos Norte),003,N 10° W,Nueva Era (Ilocos Norte)
 2026-07-05T23:41:00.000Z,05 July 2026 - 11:41 PM,06.34,127.32,030,3.0,124km S 51° E of Tarragona (Davao Oriental),124,S 51° E,Tarragona (Davao Oriental)
