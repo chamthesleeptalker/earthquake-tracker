@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-07T04:46:00.000Z,07 July 2026 - 04:46 AM,13.82,120.50,070,1.4,014km S 86° W of Calatagan (Batangas),014,S 86° W,Calatagan (Batangas)
+2026-07-07T04:33:00.000Z,07 July 2026 - 04:33 AM,05.98,125.35,019,1.9,007km N 84° E of Malapatan (Sarangani),007,N 84° E,Malapatan (Sarangani)
+2026-07-07T04:32:00.000Z,07 July 2026 - 04:32 AM,18.69,120.98,025,2.4,014km N 50° W of Claveria (Cagayan),014,N 50° W,Claveria (Cagayan)
+2026-07-07T03:48:00.000Z,07 July 2026 - 03:48 AM,09.74,126.14,032,2.5,005km S 23° W of General Luna (Surigao Del Norte),005,S 23° W,General Luna (Surigao Del Norte)
+2026-07-07T03:36:00.000Z,07 July 2026 - 03:36 AM,12.86,122.72,048,1.5,040km S 43° W of San Pascual (Masbate),040,S 43° W,San Pascual (Masbate)
+2026-07-07T03:40:00.000Z,07 July 2026 - 03:40 AM,13.58,120.70,098,2.0,015km N 12° W of Abra De Ilog (Occidental Mindoro),015,N 12° W,Abra De Ilog (Occidental Mindoro)
+2026-07-07T03:32:00.000Z,07 July 2026 - 03:32 AM,05.11,125.14,001,2.7,046km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),046,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T02:38:00.000Z,07 July 2026 - 02:38 AM,08.01,126.14,003,2.4,009km S 71° E of Trento (Agusan Del Sur),009,S 71° E,Trento (Agusan Del Sur)
 2026-07-07T02:09:00.000Z,07 July 2026 - 02:09 AM,04.85,124.99,004,3.5,079km S 38° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),079,S 38° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T01:48:00.000Z,07 July 2026 - 01:48 AM,05.52,125.32,005,4.1,016km N 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,N 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
