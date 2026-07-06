@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-07T02:38:00.000Z,07 July 2026 - 02:38 AM,08.01,126.14,003,2.4,009km S 71° E of Trento (Agusan Del Sur),009,S 71° E,Trento (Agusan Del Sur)
+2026-07-07T02:09:00.000Z,07 July 2026 - 02:09 AM,04.85,124.99,004,3.5,079km S 38° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),079,S 38° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-07T01:48:00.000Z,07 July 2026 - 01:48 AM,05.52,125.32,005,4.1,016km N 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,N 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-07T01:34:00.000Z,07 July 2026 - 01:34 AM,05.83,125.37,019,1.7,018km N 89° E of Glan (Sarangani),018,N 89° E,Glan (Sarangani)
+2026-07-07T01:24:00.000Z,07 July 2026 - 01:24 AM,09.92,125.47,160,3.1,014km N 11° W of City Of Surigao (Surigao Del Norte),014,N 11° W,City Of Surigao (Surigao Del Norte)
+2026-07-07T01:13:00.000Z,07 July 2026 - 01:13 AM,05.39,125.19,042,3.7,026km S 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T00:36:00.000Z,07 July 2026 - 12:36 AM,05.65,125.32,005,2.3,023km S 34° E of Glan (Sarangani),023,S 34° E,Glan (Sarangani)
 2026-07-07T00:19:00.000Z,07 July 2026 - 12:19 AM,13.47,120.65,082,1.4,009km N 71° W of Abra De Ilog (Occidental Mindoro),009,N 71° W,Abra De Ilog (Occidental Mindoro)
 2026-07-07T00:17:00.000Z,07 July 2026 - 12:17 AM,05.69,125.25,012,2.6,015km S 19° E of Glan (Sarangani),015,S 19° E,Glan (Sarangani)
