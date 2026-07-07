@@ -1,5 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-07T23:01:00.000Z,07 July 2026 - 11:01 PM,04.95,125.12,026,3.0,061km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),061,S 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-07T22:25:00.000Z,07 July 2026 - 10:25 PM,09.19,126.06,034,2.0,004km S 04° E of Lanuza (Surigao Del Sur),004,S 04° E,Lanuza (Surigao Del Sur)
-2026-07-07T22:21:00.000Z,07 July 2026 - 10:21 PM,02.97,126.84,141,4.1,313km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),313,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-07T22:10:00.000Z,07 July 2026 - 10:10 PM,10.13,126.20,029,2.2,019km N 50° E of Burgos (Surigao Del Norte),019,N 50° E,Burgos (Surigao Del Norte)
+2026-07-08T02:19:00.000Z,08 July 2026 - 02:19 AM,05.56,124.75,004,2.9,043km S 39° W of Maasim (Sarangani),043,S 39° W,Maasim (Sarangani)
+2026-07-08T02:11:00.000Z,08 July 2026 - 02:11 AM,05.65,125.18,020,1.7,019km S 08° W of Glan (Sarangani),019,S 08° W,Glan (Sarangani)
+2026-07-08T01:54:00.000Z,08 July 2026 - 01:54 AM,13.21,123.71,032,1.7,006km N 63° E of Camalig (Albay),006,N 63° E,Camalig (Albay)
+2026-07-08T01:47:00.000Z,08 July 2026 - 01:47 AM,18.90,122.15,004,2.0,030km S 87° E of Camiguin Island (Calayan) (Cagayan),030,S 87° E,Camiguin Island (Calayan) (Cagayan)
+2026-07-08T01:44:00.000Z,08 July 2026 - 01:44 AM,15.07,121.98,009,2.3,025km N 02° E of Burdeos (Quezon),025,N 02° E,Burdeos (Quezon)
+2026-07-08T01:44:00.000Z,08 July 2026 - 01:44 AM,05.91,125.16,024,1.8,011km N 24° W of Glan (Sarangani),011,N 24° W,Glan (Sarangani)
+2026-07-08T01:39:00.000Z,08 July 2026 - 01:39 AM,14.95,121.99,013,1.5,012km N 10° E of Burdeos (Quezon),012,N 10° E,Burdeos (Quezon)
+2026-07-08T01:29:00.000Z,08 July 2026 - 01:29 AM,05.62,125.06,010,2.0,027km S 35° W of Glan (Sarangani),027,S 35° W,Glan (Sarangani)
