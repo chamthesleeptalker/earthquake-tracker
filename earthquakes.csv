@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-08T05:27:00.000Z,08 July 2026 - 05:27 AM,05.82,125.22,015,3.2,002km S 74° E of Glan (Sarangani),002,S 74° E,Glan (Sarangani)
+2026-07-08T05:23:00.000Z,08 July 2026 - 05:23 AM,05.71,125.11,004,2.2,016km S 43° W of Glan (Sarangani),016,S 43° W,Glan (Sarangani)
+2026-07-08T05:14:00.000Z,08 July 2026 - 05:14 AM,05.74,125.25,009,3.4,010km S 26° E of Glan (Sarangani),010,S 26° E,Glan (Sarangani)
+2026-07-06T18:43:00.000Z,06 July 2026 - 06:43 PM,04.68,125.15,030,3.7,087km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),087,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-08T04:37:00.000Z,08 July 2026 - 04:37 AM,13.72,120.48,087,4.5,024km N 89° E of Looc (Occidental Mindoro),024,N 89° E,Looc (Occidental Mindoro)
 2026-07-08T04:32:00.000Z,08 July 2026 - 04:32 AM,05.07,125.39,035,2.0,034km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,S 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-08T04:25:00.000Z,08 July 2026 - 04:25 AM,10.72,126.39,040,3.2,072km S 88° E of Homonhon Island (Guiuan) (Eastern Samar),072,S 88° E,Homonhon Island (Guiuan) (Eastern Samar)

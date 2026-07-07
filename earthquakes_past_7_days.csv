@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-08T05:27:00.000Z,08 July 2026 - 05:27 AM,05.82,125.22,015,3.2,002km S 74° E of Glan (Sarangani),002,S 74° E,Glan (Sarangani)
+2026-07-08T05:23:00.000Z,08 July 2026 - 05:23 AM,05.71,125.11,004,2.2,016km S 43° W of Glan (Sarangani),016,S 43° W,Glan (Sarangani)
+2026-07-08T05:14:00.000Z,08 July 2026 - 05:14 AM,05.74,125.25,009,3.4,010km S 26° E of Glan (Sarangani),010,S 26° E,Glan (Sarangani)
+2026-07-06T18:43:00.000Z,06 July 2026 - 06:43 PM,04.68,125.15,030,3.7,087km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),087,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-08T04:37:00.000Z,08 July 2026 - 04:37 AM,13.72,120.48,087,4.5,024km N 89° E of Looc (Occidental Mindoro),024,N 89° E,Looc (Occidental Mindoro)
 2026-07-08T04:32:00.000Z,08 July 2026 - 04:32 AM,05.07,125.39,035,2.0,034km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,S 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-08T04:25:00.000Z,08 July 2026 - 04:25 AM,10.72,126.39,040,3.2,072km S 88° E of Homonhon Island (Guiuan) (Eastern Samar),072,S 88° E,Homonhon Island (Guiuan) (Eastern Samar)
@@ -1034,7 +1038,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-01T05:49:00.000Z,01 July 2026 - 05:49 AM,05.49,125.06,010,2.7,040km S 23° W of Glan (Sarangani),040,S 23° W,Glan (Sarangani)
 2026-07-01T05:42:00.000Z,01 July 2026 - 05:42 AM,05.90,125.32,025,1.9,009km S 21° E of Malapatan (Sarangani),009,S 21° E,Malapatan (Sarangani)
 2026-07-01T05:34:00.000Z,01 July 2026 - 05:34 AM,04.98,125.43,010,5.4,048km S 1° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),048,S 1° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-01T05:13:00.000Z,01 July 2026 - 05:13 AM,05.76,125.43,019,2.3,025km S 76° E of Glan (Sarangani),025,S 76° E,Glan (Sarangani)
-2026-07-01T05:05:00.000Z,01 July 2026 - 05:05 AM,16.05,120.09,026,1.8,001km S 19° W of Sual (Pangasinan),001,S 19° W,Sual (Pangasinan)
-2026-07-01T04:58:00.000Z,01 July 2026 - 04:58 AM,08.95,126.51,032,2.2,023km N 81° E of Cagwait (Surigao Del Sur),023,N 81° E,Cagwait (Surigao Del Sur)
-2026-07-01T04:50:00.000Z,01 July 2026 - 04:50 AM,06.59,125.73,004,2.5,023km N 34° E of Malita (Davao Occidental),023,N 34° E,Malita (Davao Occidental)
