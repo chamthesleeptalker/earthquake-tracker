@@ -1,8 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-08T23:35:00.000Z,08 July 2026 - 11:35 PM,13.03,122.69,017,2.0,032km S 02° E of San Andres (Quezon),032,S 02° E,San Andres (Quezon)
-2026-07-08T23:25:00.000Z,08 July 2026 - 11:25 PM,05.79,125.37,042,2.0,019km S 78° E of Glan (Sarangani),019,S 78° E,Glan (Sarangani)
-2026-07-08T23:21:00.000Z,08 July 2026 - 11:21 PM,05.60,125.34,010,2.7,021km N 45° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 45° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-08T23:05:00.000Z,08 July 2026 - 11:05 PM,13.87,120.27,063,1.9,016km N 84° E of Lubang (Occidental Mindoro),016,N 84° E,Lubang (Occidental Mindoro)
-2026-07-08T22:59:00.000Z,08 July 2026 - 10:59 PM,05.64,125.51,087,1.4,019km N 14° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),019,N 14° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-08T22:58:00.000Z,08 July 2026 - 10:58 PM,05.73,125.30,013,1.5,015km S 48° E of Glan (Sarangani),015,S 48° E,Glan (Sarangani)
-2026-07-08T22:52:00.000Z,08 July 2026 - 10:52 PM,10.49,124.80,034,1.7,006km S 74° E of Inopacan (Leyte),006,S 74° E,Inopacan (Leyte)
+2026-07-09T01:38:00.000Z,09 July 2026 - 01:38 AM,05.86,125.30,022,1.6,011km N 67° E of Glan (Sarangani),011,N 67° E,Glan (Sarangani)
+2026-07-09T01:30:00.000Z,09 July 2026 - 01:30 AM,18.01,120.79,024,1.5,009km S 13° E of Solsona (Ilocos Norte),009,S 13° E,Solsona (Ilocos Norte)
+2026-07-09T01:14:00.000Z,09 July 2026 - 01:14 AM,16.47,119.16,023,2.9,078km N 60° W of Agno (Pangasinan),078,N 60° W,Agno (Pangasinan)
+2026-07-09T00:52:00.000Z,09 July 2026 - 12:52 AM,09.59,126.17,036,2.2,021km S 05° E of General Luna (Surigao Del Norte),021,S 05° E,General Luna (Surigao Del Norte)
