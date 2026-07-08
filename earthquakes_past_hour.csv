@@ -1,5 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-08T21:35:00.000Z,08 July 2026 - 09:35 PM,04.90,124.53,033,4.0,114km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),114,S 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-08T21:35:00.000Z,08 July 2026 - 09:35 PM,09.82,123.86,019,2.2,006km N 49° W of Antequera (Bohol),006,N 49° W,Antequera (Bohol)
-2026-07-08T21:32:00.000Z,08 July 2026 - 09:32 PM,05.58,125.31,015,2.0,022km N 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,N 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-08T20:38:00.000Z,08 July 2026 - 08:38 PM,18.11,120.87,007,3.0,007km S 54° E of Carasi (Ilocos Norte),007,S 54° E,Carasi (Ilocos Norte)
+2026-07-08T23:35:00.000Z,08 July 2026 - 11:35 PM,13.03,122.69,017,2.0,032km S 02° E of San Andres (Quezon),032,S 02° E,San Andres (Quezon)
+2026-07-08T23:25:00.000Z,08 July 2026 - 11:25 PM,05.79,125.37,042,2.0,019km S 78° E of Glan (Sarangani),019,S 78° E,Glan (Sarangani)
+2026-07-08T23:21:00.000Z,08 July 2026 - 11:21 PM,05.60,125.34,010,2.7,021km N 45° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 45° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-08T23:05:00.000Z,08 July 2026 - 11:05 PM,13.87,120.27,063,1.9,016km N 84° E of Lubang (Occidental Mindoro),016,N 84° E,Lubang (Occidental Mindoro)
+2026-07-08T22:59:00.000Z,08 July 2026 - 10:59 PM,05.64,125.51,087,1.4,019km N 14° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),019,N 14° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-08T22:58:00.000Z,08 July 2026 - 10:58 PM,05.73,125.30,013,1.5,015km S 48° E of Glan (Sarangani),015,S 48° E,Glan (Sarangani)
+2026-07-08T22:52:00.000Z,08 July 2026 - 10:52 PM,10.49,124.80,034,1.7,006km S 74° E of Inopacan (Leyte),006,S 74° E,Inopacan (Leyte)
