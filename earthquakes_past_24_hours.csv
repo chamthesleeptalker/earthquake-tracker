@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-08T08:14:00.000Z,08 July 2026 - 08:14 AM,06.25,125.50,021,1.5,022km N 75° W of Don Marcelino (Davao Occidental),022,N 75° W,Don Marcelino (Davao Occidental)
+2026-07-08T08:05:00.000Z,08 July 2026 - 08:05 AM,05.85,125.42,023,2.4,020km S 48° E of Malapatan (Sarangani),020,S 48° E,Malapatan (Sarangani)
+2026-07-08T07:31:00.000Z,08 July 2026 - 07:31 AM,05.88,125.46,022,1.7,021km S 81° W of Jose Abad Santos (Davao Occidental),021,S 81° W,Jose Abad Santos (Davao Occidental)
 2026-07-08T07:18:00.000Z,08 July 2026 - 07:18 AM,08.27,123.88,029,1.9,004km N 52° E of Tudela (Misamis Occidental),004,N 52° E,Tudela (Misamis Occidental)
 2026-07-08T06:53:00.000Z,08 July 2026 - 06:53 AM,05.86,125.46,021,2.1,021km S 73° W of Jose Abad Santos (Davao Occidental),021,S 73° W,Jose Abad Santos (Davao Occidental)
 2026-07-08T06:50:00.000Z,08 July 2026 - 06:50 AM,05.54,126.47,035,3.3,100km S 66° E of Jose Abad Santos (Davao Occidental),100,S 66° E,Jose Abad Santos (Davao Occidental)
@@ -46,7 +49,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-07T22:25:00.000Z,07 July 2026 - 10:25 PM,09.19,126.06,034,2.0,004km S 04° E of Lanuza (Surigao Del Sur),004,S 04° E,Lanuza (Surigao Del Sur)
 2026-07-07T22:21:00.000Z,07 July 2026 - 10:21 PM,02.97,126.84,141,4.1,313km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),313,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T22:10:00.000Z,07 July 2026 - 10:10 PM,10.13,126.20,029,2.2,019km N 50° E of Burgos (Surigao Del Norte),019,N 50° E,Burgos (Surigao Del Norte)
-2026-07-07T07:35:00.000Z,07 July 2026 - 07:35 AM,19.93,121.40,009,2.8,067km S 48° W of Sabtang (Batanes),067,S 48° W,Sabtang (Batanes)
 2026-07-07T21:17:00.000Z,07 July 2026 - 09:17 PM,16.50,118.97,009,3.2,099km N 83° W of Bolinao (Pangasinan),099,N 83° W,Bolinao (Pangasinan)
 2026-07-07T20:43:00.000Z,07 July 2026 - 08:43 PM,05.26,125.37,032,3.3,018km S 18° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 18° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T20:34:00.000Z,07 July 2026 - 08:34 PM,05.47,125.29,048,1.7,016km N 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,N 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -90,6 +92,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-07T08:56:00.000Z,07 July 2026 - 08:56 AM,06.27,125.96,027,2.4,031km N 75° E of Don Marcelino (Davao Occidental),031,N 75° E,Don Marcelino (Davao Occidental)
 2026-07-07T08:25:00.000Z,07 July 2026 - 08:25 AM,05.29,125.28,033,2.0,021km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T08:15:00.000Z,07 July 2026 - 08:15 AM,09.75,126.31,002,2.9,017km S 79° E of General Luna (Surigao Del Norte),017,S 79° E,General Luna (Surigao Del Norte)
-2026-07-07T08:07:00.000Z,07 July 2026 - 08:07 AM,05.74,125.27,025,2.4,012km S 40° E of Glan (Sarangani),012,S 40° E,Glan (Sarangani)
-2026-07-07T07:54:00.000Z,07 July 2026 - 07:54 AM,05.59,125.27,003,3.0,026km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-07T07:34:00.000Z,07 July 2026 - 07:34 AM,19.93,121.29,003,2.9,075km S 54° W of Sabtang (Batanes),075,S 54° W,Sabtang (Batanes)
