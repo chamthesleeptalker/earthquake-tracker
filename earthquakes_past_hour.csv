@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-09T12:16:00.000Z,09 July 2026 - 12:16 PM,13.69,120.74,035,2.1,015km N 77° W of Tingloy (Batangas),015,N 77° W,Tingloy (Batangas)
-2026-07-09T12:00:00.000Z,09 July 2026 - 12:00 PM,04.67,125.50,090,2.4,082km S 06° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),082,S 06° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-09T15:08:00.000Z,09 July 2026 - 03:08 PM,05.42,125.22,028,2.1,022km N 88° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,N 88° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-09T15:00:00.000Z,09 July 2026 - 03:00 PM,12.93,120.66,008,2.5,016km N 55° W of Sablayan (Occidental Mindoro),016,N 55° W,Sablayan (Occidental Mindoro)
+2026-07-09T14:39:00.000Z,09 July 2026 - 02:39 PM,16.39,120.57,033,1.7,001km S 71° E of Tuba (Benguet),001,S 71° E,Tuba (Benguet)
+2026-07-09T14:33:00.000Z,09 July 2026 - 02:33 PM,16.33,120.47,011,4.5,001km N 12° W of Pugo (La Union),001,N 12° W,Pugo (La Union)
