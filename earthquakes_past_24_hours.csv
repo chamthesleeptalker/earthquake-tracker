@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-09T07:45:00.000Z,09 July 2026 - 07:45 AM,08.24,126.67,010,2.9,036km N 52° E of Lingig (Surigao Del Sur),036,N 52° E,Lingig (Surigao Del Sur)
+2026-07-09T07:42:00.000Z,09 July 2026 - 07:42 AM,05.56,125.34,023,2.4,019km N 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-09T07:17:00.000Z,09 July 2026 - 07:17 AM,05.55,125.32,015,2.4,018km N 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,N 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-09T07:03:00.000Z,09 July 2026 - 07:03 AM,10.04,125.23,026,1.9,008km S 80° E of San Francisco (Southern Leyte),008,S 80° E,San Francisco (Southern Leyte)
 2026-07-09T05:54:00.000Z,09 July 2026 - 05:54 AM,05.29,124.87,008,3.1,062km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-09T05:24:00.000Z,09 July 2026 - 05:24 AM,07.36,126.79,012,2.8,026km N 82° E of Caraga (Davao Oriental),026,N 82° E,Caraga (Davao Oriental)
 2026-07-09T05:16:00.000Z,09 July 2026 - 05:16 AM,05.81,125.36,012,2.8,017km S 85° E of Glan (Sarangani),017,S 85° E,Glan (Sarangani)
@@ -77,7 +81,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-08T08:55:00.000Z,08 July 2026 - 08:55 AM,19.01,121.27,002,2.1,012km S 30° E of Dalupiri Island (Calayan) (Cagayan),012,S 30° E,Dalupiri Island (Calayan) (Cagayan)
 2026-07-08T08:14:00.000Z,08 July 2026 - 08:14 AM,06.25,125.50,021,1.5,022km N 75° W of Don Marcelino (Davao Occidental),022,N 75° W,Don Marcelino (Davao Occidental)
 2026-07-08T08:05:00.000Z,08 July 2026 - 08:05 AM,05.85,125.42,023,2.4,020km S 48° E of Malapatan (Sarangani),020,S 48° E,Malapatan (Sarangani)
-2026-07-08T07:31:00.000Z,08 July 2026 - 07:31 AM,05.88,125.46,022,1.7,021km S 81° W of Jose Abad Santos (Davao Occidental),021,S 81° W,Jose Abad Santos (Davao Occidental)
-2026-07-08T07:18:00.000Z,08 July 2026 - 07:18 AM,08.27,123.88,029,1.9,004km N 52° E of Tudela (Misamis Occidental),004,N 52° E,Tudela (Misamis Occidental)
-2026-07-08T06:53:00.000Z,08 July 2026 - 06:53 AM,05.86,125.46,021,2.1,021km S 73° W of Jose Abad Santos (Davao Occidental),021,S 73° W,Jose Abad Santos (Davao Occidental)
-2026-07-08T06:50:00.000Z,08 July 2026 - 06:50 AM,05.54,126.47,035,3.3,100km S 66° E of Jose Abad Santos (Davao Occidental),100,S 66° E,Jose Abad Santos (Davao Occidental)

@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-09T07:45:00.000Z,09 July 2026 - 07:45 AM,08.24,126.67,010,2.9,036km N 52° E of Lingig (Surigao Del Sur),036,N 52° E,Lingig (Surigao Del Sur)
+2026-07-09T07:42:00.000Z,09 July 2026 - 07:42 AM,05.56,125.34,023,2.4,019km N 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-09T07:17:00.000Z,09 July 2026 - 07:17 AM,05.55,125.32,015,2.4,018km N 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,N 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-09T07:03:00.000Z,09 July 2026 - 07:03 AM,10.04,125.23,026,1.9,008km S 80° E of San Francisco (Southern Leyte),008,S 80° E,San Francisco (Southern Leyte)
 2026-07-09T05:54:00.000Z,09 July 2026 - 05:54 AM,05.29,124.87,008,3.1,062km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-09T05:24:00.000Z,09 July 2026 - 05:24 AM,07.36,126.79,012,2.8,026km N 82° E of Caraga (Davao Oriental),026,N 82° E,Caraga (Davao Oriental)
 2026-07-09T05:16:00.000Z,09 July 2026 - 05:16 AM,05.81,125.36,012,2.8,017km S 85° E of Glan (Sarangani),017,S 85° E,Glan (Sarangani)
@@ -956,6 +960,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-02T08:13:00.000Z,02 July 2026 - 08:13 AM,05.45,125.11,019,1.8,035km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-02T08:06:00.000Z,02 July 2026 - 08:06 AM,05.78,125.37,010,1.8,019km S 74° E of Glan (Sarangani),019,S 74° E,Glan (Sarangani)
 2026-07-02T08:05:00.000Z,02 July 2026 - 08:05 AM,05.10,125.40,016,2.0,035km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-02T07:12:00.000Z,02 July 2026 - 07:12 AM,12.98,123.15,017,1.7,014km N 51° W of Claveria (Masbate),014,N 51° W,Claveria (Masbate)
-2026-07-02T06:34:00.000Z,02 July 2026 - 06:34 AM,05.62,125.38,026,2.4,019km N 31° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),019,N 31° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-02T06:24:00.000Z,02 July 2026 - 06:24 AM,05.83,124.87,022,1.8,014km S 74° W of Maasim (Sarangani),014,S 74° W,Maasim (Sarangani)
