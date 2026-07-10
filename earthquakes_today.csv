@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-10T20:42:00.000Z,10 July 2026 - 08:42 PM,05.58,125.38,016,4.2,015km N 41° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 41° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-10T20:25:00.000Z,10 July 2026 - 08:25 PM,05.94,126.39,032,2.4,082km S 69° E of Don Marcelino (Davao Occidental),082,S 69° E,Don Marcelino (Davao Occidental)
+2026-07-10T20:21:00.000Z,10 July 2026 - 08:21 PM,05.38,125.11,023,2.1,034km S 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,S 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-10T20:10:00.000Z,10 July 2026 - 08:10 PM,05.61,125.05,029,1.5,028km S 36° W of Glan (Sarangani),028,S 36° W,Glan (Sarangani)
+2026-07-10T19:38:00.000Z,10 July 2026 - 07:38 PM,09.77,125.56,002,2.6,007km S 70° E of City Of Surigao (Surigao Del Norte),007,S 70° E,City Of Surigao (Surigao Del Norte)
 2026-07-10T19:03:00.000Z,10 July 2026 - 07:03 PM,11.28,124.58,010,2.5,007km S 81° W of Capoocan (Leyte),007,S 81° W,Capoocan (Leyte)
 2026-07-10T18:56:00.000Z,10 July 2026 - 06:56 PM,06.97,125.46,154,1.8,016km N 18° E of Santa Cruz (Davao Del Sur),016,N 18° E,Santa Cruz (Davao Del Sur)
 2026-07-10T18:47:00.000Z,10 July 2026 - 06:47 PM,06.09,125.85,030,1.7,021km S 54° E of Don Marcelino (Davao Occidental),021,S 54° E,Don Marcelino (Davao Occidental)
