@@ -1,6 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-12T00:09:00.000Z,12 July 2026 - 12:09 AM,09.58,122.61,021,2.2,016km S 82° E of Hinoba-an (Negros Occidental),016,S 82° E,Hinoba-an (Negros Occidental)
+2026-07-12T00:07:00.000Z,12 July 2026 - 12:07 AM,08.67,126.90,005,2.3,068km S 78° E of Marihatag (Surigao Del Sur),068,S 78° E,Marihatag (Surigao Del Sur)
+2026-07-12T00:05:00.000Z,12 July 2026 - 12:05 AM,16.59,119.02,012,3.2,096km N 77° W of Bolinao (Pangasinan),096,N 77° W,Bolinao (Pangasinan)
+2026-07-11T23:52:00.000Z,11 July 2026 - 11:52 PM,06.73,125.83,026,1.9,027km S 47° W of Lupon (Davao Oriental),027,S 47° W,Lupon (Davao Oriental)
+2026-07-11T23:45:00.000Z,11 July 2026 - 11:45 PM,16.57,119.06,033,2.3,091km N 77° W of Bolinao (Pangasinan),091,N 77° W,Bolinao (Pangasinan)
+2026-07-11T23:40:00.000Z,11 July 2026 - 11:40 PM,16.60,119.01,015,2.2,097km N 76° W of Bolinao (Pangasinan),097,N 76° W,Bolinao (Pangasinan)
 2026-07-11T23:11:00.000Z,11 July 2026 - 11:11 PM,09.00,122.10,028,2.5,074km S 53° W of Basay (Negros Oriental),074,S 53° W,Basay (Negros Oriental)
 2026-07-11T23:09:00.000Z,11 July 2026 - 11:09 PM,16.63,119.06,015,2.3,093km N 73° W of Bolinao (Pangasinan),093,N 73° W,Bolinao (Pangasinan)
-2026-07-11T22:56:00.000Z,11 July 2026 - 10:56 PM,05.92,124.92,023,1.6,011km N 53° W of Maasim (Sarangani),011,N 53° W,Maasim (Sarangani)
-2026-07-11T22:55:00.000Z,11 July 2026 - 10:55 PM,05.84,125.49,022,1.8,019km S 65° W of Jose Abad Santos (Davao Occidental),019,S 65° W,Jose Abad Santos (Davao Occidental)
-2026-07-11T22:54:00.000Z,11 July 2026 - 10:54 PM,10.22,125.93,027,1.6,026km N 28° W of Santa Monica (Surigao Del Norte),026,N 28° W,Santa Monica (Surigao Del Norte)
