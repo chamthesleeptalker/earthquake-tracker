@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-11T15:50:00.000Z,11 July 2026 - 03:50 PM,05.82,125.27,023,2.2,007km S 87° E of Glan (Sarangani),007,S 87° E,Glan (Sarangani)
+2026-07-11T15:23:00.000Z,11 July 2026 - 03:23 PM,05.29,125.16,032,3.4,032km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),032,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-11T15:09:00.000Z,11 July 2026 - 03:09 PM,05.60,125.20,016,2.5,024km S 01° W of Glan (Sarangani),024,S 01° W,Glan (Sarangani)
 2026-07-11T14:04:00.000Z,11 July 2026 - 02:04 PM,11.92,124.46,029,1.8,002km S 78° E of Santo Niño (Samar),002,S 78° E,Santo NiÃ±o (Samar)
 2026-07-11T13:31:00.000Z,11 July 2026 - 01:31 PM,05.37,124.95,023,3.5,052km S 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),052,S 85° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-11T13:22:00.000Z,11 July 2026 - 01:22 PM,05.26,125.32,023,2.6,021km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -54,5 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-10T16:00:00.000Z,10 July 2026 - 04:00 PM,05.56,125.23,021,1.8,027km N 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,N 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-10T15:58:00.000Z,10 July 2026 - 03:58 PM,05.67,125.41,082,2.4,023km N 16° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 16° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-10T15:52:00.000Z,10 July 2026 - 03:52 PM,05.16,125.04,034,2.9,051km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-10T14:32:00.000Z,10 July 2026 - 02:32 PM,05.91,125.38,015,2.4,012km S 58° E of Malapatan (Sarangani),012,S 58° E,Malapatan (Sarangani)
-2026-07-10T14:19:00.000Z,10 July 2026 - 02:19 PM,05.54,125.35,003,2.7,015km N 63° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 63° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
