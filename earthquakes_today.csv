@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-13T04:22:00.000Z,13 July 2026 - 04:22 AM,05.59,125.30,019,2.1,022km N 56° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 56° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-13T04:20:00.000Z,13 July 2026 - 04:20 AM,07.10,126.04,035,1.9,015km N 11° E of Banaybanay (Davao Oriental),015,N 11° E,Banaybanay (Davao Oriental)
+2026-07-13T04:15:00.000Z,13 July 2026 - 04:15 AM,10.19,126.36,028,2.0,036km N 59° E of Burgos (Surigao Del Norte),036,N 59° E,Burgos (Surigao Del Norte)
+2026-07-13T03:55:00.000Z,13 July 2026 - 03:55 AM,06.55,125.77,104,2.1,023km N 50° E of Malita (Davao Occidental),023,N 50° E,Malita (Davao Occidental)
 2026-07-13T03:27:00.000Z,13 July 2026 - 03:27 AM,20.70,119.95,034,2.3,197km S 87° W of Itbayat (Batanes),197,S 87° W,Itbayat (Batanes)
 2026-07-13T03:25:00.000Z,13 July 2026 - 03:25 AM,17.65,120.57,033,1.7,008km N 39° W of Bangued (Abra),008,N 39° W,Bangued (Abra)
 2026-07-13T02:55:00.000Z,13 July 2026 - 02:55 AM,17.61,120.70,019,2.2,007km S 07° E of La Paz (Abra),007,S 07° E,La Paz (Abra)

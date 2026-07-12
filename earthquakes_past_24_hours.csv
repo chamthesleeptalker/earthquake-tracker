@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-13T04:22:00.000Z,13 July 2026 - 04:22 AM,05.59,125.30,019,2.1,022km N 56° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 56° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-13T04:20:00.000Z,13 July 2026 - 04:20 AM,07.10,126.04,035,1.9,015km N 11° E of Banaybanay (Davao Oriental),015,N 11° E,Banaybanay (Davao Oriental)
+2026-07-13T04:15:00.000Z,13 July 2026 - 04:15 AM,10.19,126.36,028,2.0,036km N 59° E of Burgos (Surigao Del Norte),036,N 59° E,Burgos (Surigao Del Norte)
+2026-07-13T03:55:00.000Z,13 July 2026 - 03:55 AM,06.55,125.77,104,2.1,023km N 50° E of Malita (Davao Occidental),023,N 50° E,Malita (Davao Occidental)
 2026-07-13T03:27:00.000Z,13 July 2026 - 03:27 AM,20.70,119.95,034,2.3,197km S 87° W of Itbayat (Batanes),197,S 87° W,Itbayat (Batanes)
 2026-07-13T03:25:00.000Z,13 July 2026 - 03:25 AM,17.65,120.57,033,1.7,008km N 39° W of Bangued (Abra),008,N 39° W,Bangued (Abra)
 2026-07-13T02:55:00.000Z,13 July 2026 - 02:55 AM,17.61,120.70,019,2.2,007km S 07° E of La Paz (Abra),007,S 07° E,La Paz (Abra)
@@ -76,6 +80,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-12T05:06:00.000Z,12 July 2026 - 05:06 AM,05.31,125.30,021,1.8,017km S 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T05:02:00.000Z,12 July 2026 - 05:02 AM,05.11,125.27,041,3.0,037km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T04:29:00.000Z,12 July 2026 - 04:29 AM,20.40,121.55,030,2.0,035km N 78° W of Sabtang (Batanes),035,N 78° W,Sabtang (Batanes)
-2026-07-12T03:51:00.000Z,12 July 2026 - 03:51 AM,09.96,126.49,004,3.2,041km N 61° E of General Luna (Surigao Del Norte),041,N 61° E,General Luna (Surigao Del Norte)
-2026-07-12T03:45:00.000Z,12 July 2026 - 03:45 AM,12.70,124.87,010,2.2,016km N 21° W of Pambujan (Northern Samar),016,N 21° W,Pambujan (Northern Samar)
-2026-07-12T03:39:00.000Z,12 July 2026 - 03:39 AM,16.48,122.13,020,2.0,013km N 44° W of Dilasag (Aurora),013,N 44° W,Dilasag (Aurora)
