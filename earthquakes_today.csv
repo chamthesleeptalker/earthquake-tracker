@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-12T08:43:00.000Z,12 July 2026 - 08:43 AM,02.94,127.03,011,4.8,327km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),327,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-12T08:35:00.000Z,12 July 2026 - 08:35 AM,05.58,124.78,002,3.0,039km S 37° W of Maasim (Sarangani),039,S 37° W,Maasim (Sarangani)
+2026-07-12T08:32:00.000Z,12 July 2026 - 08:32 AM,05.09,125.39,002,2.3,035km S 06° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 06° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-12T07:57:00.000Z,12 July 2026 - 07:57 AM,05.84,125.29,012,2.0,009km N 78° E of Glan (Sarangani),009,N 78° E,Glan (Sarangani)
+2026-07-12T07:45:00.000Z,12 July 2026 - 07:45 AM,10.08,126.15,029,2.9,011km N 47° E of Burgos (Surigao Del Norte),011,N 47° E,Burgos (Surigao Del Norte)
+2026-07-12T07:39:00.000Z,12 July 2026 - 07:39 AM,17.91,120.76,008,2.5,010km S 86° E of Nueva Era (Ilocos Norte),010,S 86° E,Nueva Era (Ilocos Norte)
+2026-07-12T07:33:00.000Z,12 July 2026 - 07:33 AM,06.72,126.11,033,1.6,008km N 30° E of Governor Generoso (Davao Oriental),008,N 30° E,Governor Generoso (Davao Oriental)
 2026-07-12T07:11:00.000Z,12 July 2026 - 07:11 AM,05.40,125.31,003,2.6,013km S 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T07:02:00.000Z,12 July 2026 - 07:02 AM,05.34,125.34,026,3.4,012km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T06:25:00.000Z,12 July 2026 - 06:25 AM,07.38,126.29,033,1.8,019km N 69° E of Maragusan (Davao De Oro),019,N 69° E,Maragusan (Davao De Oro)
