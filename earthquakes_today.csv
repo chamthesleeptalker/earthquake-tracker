@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-13T05:02:00.000Z,13 July 2026 - 05:02 AM,06.74,125.79,032,1.6,030km S 55° W of Lupon (Davao Oriental),030,S 55° W,Lupon (Davao Oriental)
+2026-07-13T04:43:00.000Z,13 July 2026 - 04:43 AM,05.22,125.32,011,3.9,024km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-13T04:22:00.000Z,13 July 2026 - 04:22 AM,05.59,125.30,019,2.1,022km N 56° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 56° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-13T04:20:00.000Z,13 July 2026 - 04:20 AM,07.10,126.04,035,1.9,015km N 11° E of Banaybanay (Davao Oriental),015,N 11° E,Banaybanay (Davao Oriental)
 2026-07-13T04:15:00.000Z,13 July 2026 - 04:15 AM,10.19,126.36,028,2.0,036km N 59° E of Burgos (Surigao Del Norte),036,N 59° E,Burgos (Surigao Del Norte)
