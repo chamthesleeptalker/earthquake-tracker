@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-12T23:06:00.000Z,12 July 2026 - 11:06 PM,05.22,125.49,034,3.6,023km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T22:36:00.000Z,12 July 2026 - 10:36 PM,06.53,125.80,065,2.0,024km N 59° E of Malita (Davao Occidental),024,N 59° E,Malita (Davao Occidental)
 2026-07-12T22:34:00.000Z,12 July 2026 - 10:34 PM,05.32,125.36,010,2.3,012km S 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,S 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T22:29:00.000Z,12 July 2026 - 10:29 PM,05.74,126.22,133,2.3,067km S 73° E of Jose Abad Santos (Davao Occidental),067,S 73° E,Jose Abad Santos (Davao Occidental)
@@ -591,6 +592,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-05T23:41:00.000Z,05 July 2026 - 11:41 PM,06.34,127.32,030,3.0,124km S 51° E of Tarragona (Davao Oriental),124,S 51° E,Tarragona (Davao Oriental)
 2026-07-05T23:27:00.000Z,05 July 2026 - 11:27 PM,06.66,124.80,033,1.7,002km N 58° E of Mangudadatu (Maguindanao Del Sur),002,N 58° E,Mangudadatu (Maguindanao Del Sur)
 2026-07-05T23:15:00.000Z,05 July 2026 - 11:15 PM,10.81,125.27,135,2.0,029km N 75° E of Abuyog (Leyte),029,N 75° E,Abuyog (Leyte)
-2026-07-05T23:02:00.000Z,05 July 2026 - 11:02 PM,05.76,125.32,022,3.7,015km S 63° E of Glan (Sarangani),015,S 63° E,Glan (Sarangani)
-2026-07-05T22:48:00.000Z,05 July 2026 - 10:48 PM,05.62,125.27,024,1.7,023km S 18° E of Glan (Sarangani),023,S 18° E,Glan (Sarangani)
-2026-07-05T22:48:00.000Z,05 July 2026 - 10:48 PM,07.42,124.78,022,2.1,013km S 47° E of Banisilan (Cotabato),013,S 47° E,Banisilan (Cotabato)
