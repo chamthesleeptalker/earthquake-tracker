@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-12T19:13:00.000Z,12 July 2026 - 07:13 PM,17.96,121.16,030,2.9,007km S 23° W of Kabugao (Apayao),007,S 23° W,Kabugao (Apayao)
-2026-07-12T18:55:00.000Z,12 July 2026 - 06:55 PM,11.83,125.29,046,2.3,020km N 65° W of San Julian (Eastern Samar),020,N 65° W,San Julian (Eastern Samar)
-2026-07-12T18:50:00.000Z,12 July 2026 - 06:50 PM,05.43,125.26,032,1.4,018km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-12T18:43:00.000Z,12 July 2026 - 06:43 PM,10.87,123.93,008,3.2,020km S 15° W of City Of Bogo (Cebu),020,S 15° W,City Of Bogo (Cebu)
-2026-07-12T18:35:00.000Z,12 July 2026 - 06:35 PM,05.38,125.31,001,2.6,013km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-12T21:20:00.000Z,12 July 2026 - 09:20 PM,04.66,124.54,010,2.7,127km S 51° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),127,S 51° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-12T21:03:00.000Z,12 July 2026 - 09:03 PM,05.86,125.38,023,2.1,016km S 37° E of Malapatan (Sarangani),016,S 37° E,Malapatan (Sarangani)
+2026-07-12T20:49:00.000Z,12 July 2026 - 08:49 PM,06.11,125.67,071,1.9,010km S 12° W of Don Marcelino (Davao Occidental),010,S 12° W,Don Marcelino (Davao Occidental)
+2026-07-12T20:23:00.000Z,12 July 2026 - 08:23 PM,16.48,119.22,017,3.5,073km N 82° W of Bolinao (Pangasinan),073,N 82° W,Bolinao (Pangasinan)
