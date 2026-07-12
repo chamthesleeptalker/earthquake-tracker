@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-12T18:35:00.000Z,12 July 2026 - 06:35 PM,05.38,125.31,001,2.6,013km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-12T18:09:00.000Z,12 July 2026 - 06:09 PM,05.77,125.36,026,3.0,018km S 72° E of Glan (Sarangani),018,S 72° E,Glan (Sarangani)
+2026-07-12T18:06:00.000Z,12 July 2026 - 06:06 PM,05.37,124.87,033,1.8,056km S 14° W of Maasim (Sarangani),056,S 14° W,Maasim (Sarangani)
+2026-07-12T18:03:00.000Z,12 July 2026 - 06:03 PM,05.73,125.32,006,2.8,017km S 51° E of Glan (Sarangani),017,S 51° E,Glan (Sarangani)
+2026-07-12T17:38:00.000Z,12 July 2026 - 05:38 PM,06.23,126.89,044,2.7,102km S 63° E of Governor Generoso (Davao Oriental),102,S 63° E,Governor Generoso (Davao Oriental)
+2026-07-11T18:45:00.000Z,11 July 2026 - 06:45 PM,05.55,125.26,015,2.1,025km N 71° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 71° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T17:15:00.000Z,12 July 2026 - 05:15 PM,05.75,125.42,020,1.7,025km S 71° E of Glan (Sarangani),025,S 71° E,Glan (Sarangani)
 2026-07-12T16:51:00.000Z,12 July 2026 - 04:51 PM,08.83,126.45,028,2.1,017km N 80° E of Marihatag (Surigao Del Sur),017,N 80° E,Marihatag (Surigao Del Sur)
 2026-07-12T16:45:00.000Z,12 July 2026 - 04:45 PM,10.15,122.12,033,3.0,038km S 34° E of Anini-y (Antique),038,S 34° E,Anini-y (Antique)
@@ -89,7 +95,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-11T18:51:00.000Z,11 July 2026 - 06:51 PM,04.45,125.65,010,5.7,109km S 13° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),109,S 13° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-11T18:47:00.000Z,11 July 2026 - 06:47 PM,05.82,126.49,049,3.2,095km S 84° E of Jose Abad Santos (Davao Occidental),095,S 84° E,Jose Abad Santos (Davao Occidental)
 2026-07-11T18:44:00.000Z,11 July 2026 - 06:44 PM,05.68,125.41,077,2.1,024km N 15° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),024,N 15° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-11T18:25:00.000Z,11 July 2026 - 06:25 PM,07.83,122.79,030,1.4,005km N 47° E of Kabasalan (Zamboanga Sibugay),005,N 47° E,Kabasalan (Zamboanga Sibugay)
-2026-07-11T18:11:00.000Z,11 July 2026 - 06:11 PM,05.53,125.38,002,2.6,012km N 57° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 57° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-11T17:56:00.000Z,11 July 2026 - 05:56 PM,05.69,124.82,002,2.6,028km S 46° W of Maasim (Sarangani),028,S 46° W,Maasim (Sarangani)
-2026-07-11T17:46:00.000Z,11 July 2026 - 05:46 PM,05.59,125.37,002,2.7,017km N 39° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),017,N 39° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
