@@ -1,2 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-13T17:12:00.000Z,13 July 2026 - 05:12 PM,12.80,123.09,004,3.1,020km S 58° W of Claveria (Masbate),020,S 58° W,Claveria (Masbate)
+2026-07-13T19:54:00.000Z,13 July 2026 - 07:54 PM,05.70,125.14,027,1.9,016km S 28° W of Glan (Sarangani),016,S 28° W,Glan (Sarangani)
+2026-07-13T19:47:00.000Z,13 July 2026 - 07:47 PM,13.67,120.53,044,1.6,021km S 32° W of Calatagan (Batangas),021,S 32° W,Calatagan (Batangas)
+2026-07-13T19:42:00.000Z,13 July 2026 - 07:42 PM,05.58,125.24,006,2.0,023km S 02° E of Glan (Sarangani),023,S 02° E,Glan (Sarangani)
+2026-07-13T19:18:00.000Z,13 July 2026 - 07:18 PM,05.79,124.57,004,2.3,023km S 15° W of Kiamba (Sarangani),023,S 15° W,Kiamba (Sarangani)
+2026-07-13T19:13:00.000Z,13 July 2026 - 07:13 PM,19.20,121.18,025,1.8,011km N 15° W of Dalupiri Island (Calayan) (Cagayan),011,N 15° W,Dalupiri Island (Calayan) (Cagayan)
+2026-07-13T18:56:00.000Z,13 July 2026 - 06:56 PM,08.98,126.06,026,2.0,004km N 32° E of San Miguel (Surigao Del Sur),004,N 32° E,San Miguel (Surigao Del Sur)
