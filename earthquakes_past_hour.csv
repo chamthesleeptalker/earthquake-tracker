@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-13T23:11:00.000Z,13 July 2026 - 11:11 PM,16.41,118.93,026,3.2,103km N 89° W of Bolinao (Pangasinan),103,N 89° W,Bolinao (Pangasinan)
-2026-07-13T22:57:00.000Z,13 July 2026 - 10:57 PM,05.82,125.19,023,2.0,001km S 61° W of Glan (Sarangani),001,S 61° W,Glan (Sarangani)
-2026-07-13T22:28:00.000Z,13 July 2026 - 10:28 PM,16.35,122.09,016,1.5,008km N 24° W of Casiguran (Aurora),008,N 24° W,Casiguran (Aurora)
+2026-07-14T01:18:00.000Z,14 July 2026 - 01:18 AM,05.63,125.37,007,2.8,021km N 34° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 34° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-14T01:05:00.000Z,14 July 2026 - 01:05 AM,05.05,125.28,024,3.9,043km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),043,S 22° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-14T00:44:00.000Z,14 July 2026 - 12:44 AM,05.47,125.14,025,2.3,031km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,N 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-14T00:41:00.000Z,14 July 2026 - 12:41 AM,05.64,125.12,024,2.1,022km S 24° W of Glan (Sarangani),022,S 24° W,Glan (Sarangani)
+2026-07-14T00:38:00.000Z,14 July 2026 - 12:38 AM,05.26,125.34,019,2.2,019km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
