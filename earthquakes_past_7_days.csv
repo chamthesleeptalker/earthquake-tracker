@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-15T07:42:00.000Z,15 July 2026 - 07:42 AM,05.59,125.40,024,2.1,015km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 30° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-15T07:39:00.000Z,15 July 2026 - 07:39 AM,10.32,125.57,086,3.0,002km S 42° E of Tubajon (Dinagat Islands),002,S 42° E,Tubajon (Dinagat Islands)
+2026-07-15T06:41:00.000Z,15 July 2026 - 06:41 AM,05.97,125.46,020,2.0,019km S 88° E of Malapatan (Sarangani),019,S 88° E,Malapatan (Sarangani)
 2026-07-15T05:57:00.000Z,15 July 2026 - 05:57 AM,06.38,125.83,004,2.1,025km N 38° E of Don Marcelino (Davao Occidental),025,N 38° E,Don Marcelino (Davao Occidental)
 2026-07-15T05:53:00.000Z,15 July 2026 - 05:53 AM,12.95,123.18,014,2.3,009km N 51° W of Claveria (Masbate),009,N 51° W,Claveria (Masbate)
 2026-07-15T05:53:00.000Z,15 July 2026 - 05:53 AM,12.95,123.18,014,2.3,009km N 51° W of Claveria (Masbate),009,N 51° W,Claveria (Masbate)
@@ -572,7 +575,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-08T08:55:00.000Z,08 July 2026 - 08:55 AM,19.01,121.27,002,2.1,012km S 30° E of Dalupiri Island (Calayan) (Cagayan),012,S 30° E,Dalupiri Island (Calayan) (Cagayan)
 2026-07-08T08:14:00.000Z,08 July 2026 - 08:14 AM,06.25,125.50,021,1.5,022km N 75° W of Don Marcelino (Davao Occidental),022,N 75° W,Don Marcelino (Davao Occidental)
 2026-07-08T08:05:00.000Z,08 July 2026 - 08:05 AM,05.85,125.42,023,2.4,020km S 48° E of Malapatan (Sarangani),020,S 48° E,Malapatan (Sarangani)
-2026-07-08T07:31:00.000Z,08 July 2026 - 07:31 AM,05.88,125.46,022,1.7,021km S 81° W of Jose Abad Santos (Davao Occidental),021,S 81° W,Jose Abad Santos (Davao Occidental)
-2026-07-08T07:18:00.000Z,08 July 2026 - 07:18 AM,08.27,123.88,029,1.9,004km N 52° E of Tudela (Misamis Occidental),004,N 52° E,Tudela (Misamis Occidental)
-2026-07-08T06:53:00.000Z,08 July 2026 - 06:53 AM,05.86,125.46,021,2.1,021km S 73° W of Jose Abad Santos (Davao Occidental),021,S 73° W,Jose Abad Santos (Davao Occidental)
-2026-07-08T06:50:00.000Z,08 July 2026 - 06:50 AM,05.54,126.47,035,3.3,100km S 66° E of Jose Abad Santos (Davao Occidental),100,S 66° E,Jose Abad Santos (Davao Occidental)
