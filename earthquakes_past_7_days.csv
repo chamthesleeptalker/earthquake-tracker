@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-14T13:38:00.000Z,14 July 2026 - 01:38 PM,11.45,126.56,034,3.5,100km N 67° E of Mercedes (Eastern Samar),100,N 67° E,Mercedes (Eastern Samar)
+2026-07-14T12:17:00.000Z,14 July 2026 - 12:17 PM,12.87,123.15,004,2.7,011km S 70° W of Claveria (Masbate),011,S 70° W,Claveria (Masbate)
+2026-07-14T12:17:00.000Z,14 July 2026 - 12:17 PM,12.78,123.15,009,3.1,017km S 39° W of Claveria (Masbate),017,S 39° W,Claveria (Masbate)
+2026-07-14T11:56:00.000Z,14 July 2026 - 11:56 AM,05.22,124.65,013,2.5,081km S 28° W of Maasim (Sarangani),081,S 28° W,Maasim (Sarangani)
 2026-07-14T11:42:00.000Z,14 July 2026 - 11:42 AM,04.70,125.16,020,4.0,084km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),084,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-14T11:39:00.000Z,14 July 2026 - 11:39 AM,05.67,125.25,026,1.6,017km S 16° E of Glan (Sarangani),017,S 16° E,Glan (Sarangani)
 2026-07-14T11:33:00.000Z,14 July 2026 - 11:33 AM,05.68,125.44,017,1.6,023km N 08° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 08° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -544,9 +548,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-07T14:05:00.000Z,07 July 2026 - 02:05 PM,04.85,125.21,031,4.1,067km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),067,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T13:42:00.000Z,07 July 2026 - 01:42 PM,05.09,125.21,004,1.9,043km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),043,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-07T13:41:00.000Z,07 July 2026 - 01:41 PM,05.76,125.33,014,1.9,016km S 62° E of Glan (Sarangani),016,S 62° E,Glan (Sarangani)
-2026-07-07T13:37:00.000Z,07 July 2026 - 01:37 PM,05.65,125.33,016,2.3,023km S 36° E of Glan (Sarangani),023,S 36° E,Glan (Sarangani)
-2026-07-07T13:16:00.000Z,07 July 2026 - 01:16 PM,10.62,122.45,031,1.6,008km S 18° W of Oton (Iloilo),008,S 18° W,Oton (Iloilo)
-2026-07-07T13:01:00.000Z,07 July 2026 - 01:01 PM,16.49,118.91,015,3.5,104km N 66° W of Agno (Pangasinan),104,N 66° W,Agno (Pangasinan)
-2026-07-07T13:00:00.000Z,07 July 2026 - 01:00 PM,05.63,125.05,023,2.4,026km S 14° E of Maasim (Sarangani),026,S 14° E,Maasim (Sarangani)
-2026-07-07T12:22:00.000Z,07 July 2026 - 12:22 PM,06.89,125.30,011,1.7,005km N 12° E of Bansalan (Davao Del Sur),005,N 12° E,Bansalan (Davao Del Sur)
-2026-07-07T11:53:00.000Z,07 July 2026 - 11:53 AM,13.72,120.43,074,1.6,019km N 89° E of Looc (Occidental Mindoro),019,N 89° E,Looc (Occidental Mindoro)
