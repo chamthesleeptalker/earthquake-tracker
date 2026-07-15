@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-16T05:33:00.000Z,16 July 2026 - 05:33 AM,19.79,121.35,024,4.1,060km N 12° W of Calayan (Cagayan),060,N 12° W,Calayan (Cagayan)
+2026-07-16T05:14:00.000Z,16 July 2026 - 05:14 AM,19.21,121.27,024,2.4,013km N 32° E of Dalupiri Island (Calayan) (Cagayan),013,N 32° E,Dalupiri Island (Calayan) (Cagayan)
+2026-07-16T04:51:00.000Z,16 July 2026 - 04:51 AM,10.27,126.57,006,4.0,061km N 63° E of Burgos (Surigao Del Norte),061,N 63° E,Burgos (Surigao Del Norte)
+2026-07-16T04:40:00.000Z,16 July 2026 - 04:40 AM,18.63,121.13,016,2.0,006km N 59° E of Claveria (Cagayan),006,N 59° E,Claveria (Cagayan)
+2026-07-16T04:29:00.000Z,16 July 2026 - 04:29 AM,13.40,124.22,018,1.9,020km S 02° W of Virac (Catanduanes),020,S 02° W,Virac (Catanduanes)
+2026-07-16T04:22:00.000Z,16 July 2026 - 04:22 AM,11.59,125.25,035,1.7,020km S 85° W of City Of Borongan (Eastern Samar),020,S 85° W,City Of Borongan (Eastern Samar)
+2026-07-16T04:22:00.000Z,16 July 2026 - 04:22 AM,05.38,125.18,049,2.2,027km S 81° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 81° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-16T04:20:00.000Z,16 July 2026 - 04:20 AM,10.40,123.13,005,1.8,010km N 79° W of City Of Canlaon (Negros Oriental),010,N 79° W,City Of Canlaon (Negros Oriental)
 2026-07-16T04:15:00.000Z,16 July 2026 - 04:15 AM,17.17,120.68,014,2.3,004km N 02° E of Quirino (Ilocos Sur),004,N 02° E,Quirino (Ilocos Sur)
 2026-07-16T04:07:00.000Z,16 July 2026 - 04:07 AM,17.14,119.13,021,2.1,116km N 44° W of Bolinao (Pangasinan),116,N 44° W,Bolinao (Pangasinan)
