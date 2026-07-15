@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-15T20:24:00.000Z,15 July 2026 - 08:24 PM,13.57,120.09,033,1.5,025km S 47° W of Looc (Occidental Mindoro),025,S 47° W,Looc (Occidental Mindoro)
+2026-07-15T20:16:00.000Z,15 July 2026 - 08:16 PM,05.97,124.50,025,1.5,010km S 02° E of Maitum (Sarangani),010,S 02° E,Maitum (Sarangani)
+2026-07-15T20:12:00.000Z,15 July 2026 - 08:12 PM,06.96,123.73,024,1.6,034km S 69° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),034,S 69° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-07-15T20:03:00.000Z,15 July 2026 - 08:03 PM,08.10,123.24,033,1.6,012km N 48° W of Midsalip (Zamboanga Del Sur),012,N 48° W,Midsalip (Zamboanga Del Sur)
+2026-07-15T19:37:00.000Z,15 July 2026 - 07:37 PM,13.05,123.41,016,2.3,005km N 89° W of Pio Duran (Albay),005,N 89° W,Pio Duran (Albay)
+2026-07-15T19:29:00.000Z,15 July 2026 - 07:29 PM,13.84,120.62,086,1.4,002km N 53° W of Calatagan (Batangas),002,N 53° W,Calatagan (Batangas)
+2026-07-15T19:05:00.000Z,15 July 2026 - 07:05 PM,14.67,121.89,024,1.5,007km S 48° W of Polillo (Quezon),007,S 48° W,Polillo (Quezon)
+2026-07-15T16:46:00.000Z,15 July 2026 - 04:46 PM,08.91,126.94,034,1.8,070km S 89° E of Cagwait (Surigao Del Sur),070,S 89° E,Cagwait (Surigao Del Sur)
 2026-07-15T18:45:00.000Z,15 July 2026 - 06:45 PM,05.14,125.01,033,3.3,054km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-15T18:32:00.000Z,15 July 2026 - 06:32 PM,05.58,125.15,018,1.4,027km S 13° W of Glan (Sarangani),027,S 13° W,Glan (Sarangani)
 2026-07-15T18:31:00.000Z,15 July 2026 - 06:31 PM,06.09,125.28,008,1.6,013km N 06° W of Malapatan (Sarangani),013,N 06° W,Malapatan (Sarangani)
