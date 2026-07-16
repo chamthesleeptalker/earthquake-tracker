@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-17T05:16:00.000Z,17 July 2026 - 05:16 AM,13.82,120.58,183,1.9,005km S 75° W of Calatagan (Batangas),005,S 75° W,Calatagan (Batangas)
+2026-07-17T05:07:00.000Z,17 July 2026 - 05:07 AM,08.81,121.62,170,3.3,096km S 28° E of Cagayancillo (Palawan),096,S 28° E,Cagayancillo (Palawan)
+2026-07-17T05:03:00.000Z,17 July 2026 - 05:03 AM,05.20,125.12,033,1.6,040km S 55° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 55° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-17T04:29:00.000Z,17 July 2026 - 04:29 AM,04.95,125.25,004,2.7,055km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),055,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-17T04:21:00.000Z,17 July 2026 - 04:21 AM,05.42,124.90,015,3.2,050km S 13° W of Maasim (Sarangani),050,S 13° W,Maasim (Sarangani)
 2026-07-17T04:05:00.000Z,17 July 2026 - 04:05 AM,05.22,125.06,032,2.6,045km S 61° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,S 61° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -81,7 +84,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-16T06:12:00.000Z,16 July 2026 - 06:12 AM,11.10,123.99,008,2.1,006km N 06° E of City Of Bogo (Cebu),006,N 06° E,City Of Bogo (Cebu)
 2026-07-16T05:52:00.000Z,16 July 2026 - 05:52 AM,09.15,122.26,028,2.2,051km S 56° W of Basay (Negros Oriental),051,S 56° W,Basay (Negros Oriental)
 2026-07-16T05:33:00.000Z,16 July 2026 - 05:33 AM,19.79,121.35,024,4.1,060km N 12° W of Calayan (Cagayan),060,N 12° W,Calayan (Cagayan)
-2026-07-16T05:14:00.000Z,16 July 2026 - 05:14 AM,19.21,121.27,024,2.4,013km N 32° E of Dalupiri Island (Calayan) (Cagayan),013,N 32° E,Dalupiri Island (Calayan) (Cagayan)
-2026-07-16T04:51:00.000Z,16 July 2026 - 04:51 AM,10.27,126.57,006,4.0,061km N 63° E of Burgos (Surigao Del Norte),061,N 63° E,Burgos (Surigao Del Norte)
-2026-07-16T04:40:00.000Z,16 July 2026 - 04:40 AM,18.63,121.13,016,2.0,006km N 59° E of Claveria (Cagayan),006,N 59° E,Claveria (Cagayan)
-2026-07-16T04:29:00.000Z,16 July 2026 - 04:29 AM,13.40,124.22,018,1.9,020km S 02° W of Virac (Catanduanes),020,S 02° W,Virac (Catanduanes)
