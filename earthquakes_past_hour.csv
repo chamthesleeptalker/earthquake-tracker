@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-17T00:17:00.000Z,17 July 2026 - 12:17 AM,09.50,122.04,011,3.0,049km S 77° W of Hinoba-an (Negros Occidental),049,S 77° W,Hinoba-an (Negros Occidental)
-2026-07-16T23:58:00.000Z,16 July 2026 - 11:58 PM,06.73,123.74,009,3.0,038km N 74° W of Lebak (Sultan Kudarat),038,N 74° W,Lebak (Sultan Kudarat)
-2026-07-16T23:25:00.000Z,16 July 2026 - 11:25 PM,07.50,126.84,031,1.9,031km S 75° E of Baganga (Davao Oriental),031,S 75° E,Baganga (Davao Oriental)
+2026-07-17T01:40:00.000Z,17 July 2026 - 01:40 AM,14.07,120.41,112,1.6,024km S 88° W of Nasugbu (Batangas),024,S 88° W,Nasugbu (Batangas)
+2026-07-17T01:37:00.000Z,17 July 2026 - 01:37 AM,20.29,121.43,028,2.8,046km S 84° W of Sabtang (Batanes),046,S 84° W,Sabtang (Batanes)
+2026-07-17T01:31:00.000Z,17 July 2026 - 01:31 AM,05.37,125.24,031,2.1,021km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-17T01:20:00.000Z,17 July 2026 - 01:20 AM,05.19,126.02,122,2.7,068km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),068,S 63° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-17T01:09:00.000Z,17 July 2026 - 01:09 AM,05.86,125.33,024,1.4,013km S 19° E of Malapatan (Sarangani),013,S 19° E,Malapatan (Sarangani)
+2026-07-17T00:56:00.000Z,17 July 2026 - 12:56 AM,07.55,126.93,006,1.9,041km S 86° E of Baganga (Davao Oriental),041,S 86° E,Baganga (Davao Oriental)
+2026-07-17T00:54:00.000Z,17 July 2026 - 12:54 AM,05.67,125.32,021,2.9,021km S 39° E of Glan (Sarangani),021,S 39° E,Glan (Sarangani)
+2026-07-17T00:50:00.000Z,17 July 2026 - 12:50 AM,05.66,125.10,007,2.5,021km S 34° W of Glan (Sarangani),021,S 34° W,Glan (Sarangani)
+2026-07-17T00:46:00.000Z,17 July 2026 - 12:46 AM,04.88,125.19,010,4.7,064km S 23° W of Sarangani (Davao Occidental),064,S 23° W,Sarangani (Davao Occidental)
