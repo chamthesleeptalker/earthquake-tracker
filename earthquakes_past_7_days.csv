@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-17T07:02:00.000Z,17 July 2026 - 07:02 AM,05.89,125.36,019,1.7,012km S 44° E of Malapatan (Sarangani),012,S 44° E,Malapatan (Sarangani)
+2026-07-17T06:31:00.000Z,17 July 2026 - 06:31 AM,05.28,125.43,029,2.4,015km S 05° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 05° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-17T06:31:00.000Z,17 July 2026 - 06:31 AM,16.52,118.99,022,3.0,098km N 81° W of Bolinao (Pangasinan),098,N 81° W,Bolinao (Pangasinan)
+2026-07-17T06:29:00.000Z,17 July 2026 - 06:29 AM,05.46,125.18,025,1.9,027km N 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,N 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-17T05:16:00.000Z,17 July 2026 - 05:16 AM,13.82,120.58,183,1.9,005km S 75° W of Calatagan (Batangas),005,S 75° W,Calatagan (Batangas)
 2026-07-17T05:07:00.000Z,17 July 2026 - 05:07 AM,08.81,121.62,170,3.3,096km S 28° E of Cagayancillo (Palawan),096,S 28° E,Cagayancillo (Palawan)
 2026-07-17T05:03:00.000Z,17 July 2026 - 05:03 AM,05.20,125.12,033,1.6,040km S 55° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 55° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -627,5 +631,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-10T07:50:00.000Z,10 July 2026 - 07:50 AM,05.43,125.23,002,3.3,021km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-10T07:38:00.000Z,10 July 2026 - 07:38 AM,05.52,125.30,021,1.8,018km N 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,N 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-10T07:21:00.000Z,10 July 2026 - 07:21 AM,05.58,125.18,026,1.4,027km S 06° W of Glan (Sarangani),027,S 06° W,Glan (Sarangani)
-2026-07-10T06:25:00.000Z,10 July 2026 - 06:25 AM,11.08,121.07,020,2.7,016km S 59° E of Agutaya (Palawan),016,S 59° E,Agutaya (Palawan)
-2026-07-10T06:11:00.000Z,10 July 2026 - 06:11 AM,07.59,124.28,033,1.9,009km N 56° E of Kapatagan (Lanao Del Sur),009,N 56° E,Kapatagan (Lanao Del Sur)
