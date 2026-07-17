@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-18T05:50:00.000Z,18 July 2026 - 05:50 AM,05.53,125.05,018,2.2,037km S 29° W of Glan (Sarangani),037,S 29° W,Glan (Sarangani)
+2026-07-18T05:38:00.000Z,18 July 2026 - 05:38 AM,05.42,125.33,025,1.7,010km N 88° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),010,N 88° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-18T05:36:00.000Z,18 July 2026 - 05:36 AM,05.65,125.45,045,1.4,020km N 07° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 07° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-18T05:34:00.000Z,18 July 2026 - 05:34 AM,05.37,125.24,044,2.2,021km S 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 77° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-18T05:26:00.000Z,18 July 2026 - 05:26 AM,07.75,126.41,032,2.1,006km S 47° W of Cateel (Davao Oriental),006,S 47° W,Cateel (Davao Oriental)
+2026-07-18T05:20:00.000Z,18 July 2026 - 05:20 AM,05.17,124.93,019,3.4,061km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),061,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-18T05:15:00.000Z,18 July 2026 - 05:15 AM,06.23,126.01,139,2.0,035km N 83° E of Don Marcelino (Davao Occidental),035,N 83° E,Don Marcelino (Davao Occidental)
 2026-07-18T04:23:00.000Z,18 July 2026 - 04:23 AM,15.51,119.95,044,1.4,003km S 28° W of Masinloc (Zambales),003,S 28° W,Masinloc (Zambales)
 2026-07-18T04:02:00.000Z,18 July 2026 - 04:02 AM,05.74,126.10,033,1.9,054km S 69° E of Jose Abad Santos (Davao Occidental),054,S 69° E,Jose Abad Santos (Davao Occidental)
 2026-07-18T03:46:00.000Z,18 July 2026 - 03:46 AM,05.94,125.35,021,1.4,008km S 62° E of Malapatan (Sarangani),008,S 62° E,Malapatan (Sarangani)
@@ -653,6 +660,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-11T08:02:00.000Z,11 July 2026 - 08:02 AM,11.69,125.28,034,1.5,019km N 61° W of City Of Borongan (Eastern Samar),019,N 61° W,City Of Borongan (Eastern Samar)
 2026-07-11T07:38:00.000Z,11 July 2026 - 07:38 AM,09.97,124.45,032,1.6,008km N 06° E of Alicia (Bohol),008,N 06° E,Alicia (Bohol)
 2026-07-11T06:48:00.000Z,11 July 2026 - 06:48 AM,05.64,125.11,025,1.6,023km S 27° W of Glan (Sarangani),023,S 27° W,Glan (Sarangani)
-2026-07-11T04:58:00.000Z,11 July 2026 - 04:58 AM,16.11,120.09,036,1.5,005km N 01° W of Sual (Pangasinan),005,N 01° W,Sual (Pangasinan)
-2026-07-11T04:45:00.000Z,11 July 2026 - 04:45 AM,10.91,122.88,034,1.5,011km N 75° W of Enrique B. Magalona (Negros Occidental),011,N 75° W,Enrique B. Magalona (Negros Occidental)
-2026-07-11T04:28:00.000Z,11 July 2026 - 04:28 AM,09.95,126.31,013,3.2,025km N 42° E of General Luna (Surigao Del Norte),025,N 42° E,General Luna (Surigao Del Norte)
