@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-18T15:29:00.000Z,18 July 2026 - 03:29 PM,05.10,125.19,077,3.2,043km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),043,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-18T14:49:00.000Z,18 July 2026 - 02:49 PM,08.99,125.69,013,3.8,014km S 61° E of Remedios T. Romualdez (Agusan Del Norte),014,S 61° E,Remedios T. Romualdez (Agusan Del Norte)
 2026-07-18T13:49:00.000Z,18 July 2026 - 01:49 PM,19.10,121.18,031,2.5,003km S 65° W of Dalupiri Island (Calayan) (Cagayan),003,S 65° W,Dalupiri Island (Calayan) (Cagayan)
 2026-07-18T12:59:00.000Z,18 July 2026 - 12:59 PM,11.08,124.06,032,2.5,009km N 66° E of City Of Bogo (Cebu),009,N 66° E,City Of Bogo (Cebu)
 2026-07-18T12:41:00.000Z,18 July 2026 - 12:41 PM,05.93,125.41,021,1.7,014km S 69° E of Malapatan (Sarangani),014,S 69° E,Malapatan (Sarangani)
@@ -664,6 +666,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-11T16:57:00.000Z,11 July 2026 - 04:57 PM,05.37,125.27,029,1.8,017km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-11T16:51:00.000Z,11 July 2026 - 04:51 PM,12.54,124.98,024,1.7,004km S 49° W of Laoang (Northern Samar),004,S 49° W,Laoang (Northern Samar)
 2026-07-11T15:50:00.000Z,11 July 2026 - 03:50 PM,05.82,125.27,023,2.2,007km S 87° E of Glan (Sarangani),007,S 87° E,Glan (Sarangani)
-2026-07-11T15:23:00.000Z,11 July 2026 - 03:23 PM,05.29,125.16,032,3.4,032km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),032,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-11T15:09:00.000Z,11 July 2026 - 03:09 PM,05.60,125.20,016,2.5,024km S 01° W of Glan (Sarangani),024,S 01° W,Glan (Sarangani)
-2026-07-11T14:04:00.000Z,11 July 2026 - 02:04 PM,11.92,124.46,029,1.8,002km S 78° E of Santo Niño (Samar),002,S 78° E,Santo NiÃ±o (Samar)
