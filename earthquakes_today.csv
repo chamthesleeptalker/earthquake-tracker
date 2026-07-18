@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-19T04:03:00.000Z,19 July 2026 - 04:03 AM,08.92,125.68,012,1.7,012km N 05° W of Sibagat (Agusan Del Sur),012,N 05° W,Sibagat (Agusan Del Sur)
+2026-07-19T03:17:00.000Z,19 July 2026 - 03:17 AM,05.74,125.08,014,2.2,016km S 59° W of Glan (Sarangani),016,S 59° W,Glan (Sarangani)
+2026-07-19T03:25:00.000Z,19 July 2026 - 03:25 AM,05.34,125.20,033,3.0,026km S 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-19T03:18:00.000Z,19 July 2026 - 03:18 AM,09.99,125.19,009,2.8,008km S 26° E of San Francisco (Southern Leyte),008,S 26° E,San Francisco (Southern Leyte)
+2026-07-19T03:17:00.000Z,19 July 2026 - 03:17 AM,07.76,126.20,024,2.1,016km N 51° E of Compostela (Davao De Oro),016,N 51° E,Compostela (Davao De Oro)
+2026-07-19T03:08:00.000Z,19 July 2026 - 03:08 AM,06.47,124.22,030,2.1,011km N 84° W of Senator Ninoy Aquino (Sultan Kudarat),011,N 84° W,Senator Ninoy Aquino (Sultan Kudarat)
 2026-07-19T02:47:00.000Z,19 July 2026 - 02:47 AM,04.76,125.28,004,2.4,074km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),074,S 13° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-19T02:42:00.000Z,19 July 2026 - 02:42 AM,06.83,125.76,037,2.1,028km S 11° E of Island Garden City Of Samal (Davao Del Norte),028,S 11° E,Island Garden City Of Samal (Davao Del Norte)
 2026-07-19T02:32:00.000Z,19 July 2026 - 02:32 AM,09.17,126.27,023,1.9,014km S 38° E of Cortes (Surigao Del Sur),014,S 38° E,Cortes (Surigao Del Sur)
