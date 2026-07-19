@@ -1,5 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-19T20:06:00.000Z,19 July 2026 - 08:06 PM,05.74,125.31,004,2.8,015km S 52° E of Glan (Sarangani),015,S 52° E,Glan (Sarangani)
-2026-07-19T20:02:00.000Z,19 July 2026 - 08:02 PM,08.99,126.34,029,1.8,007km N 66° E of Bayabas (Surigao Del Sur),007,N 66° E,Bayabas (Surigao Del Sur)
-2026-07-19T19:23:00.000Z,19 July 2026 - 07:23 PM,05.09,125.29,015,3.1,039km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),039,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-19T19:10:00.000Z,19 July 2026 - 07:10 PM,08.17,126.76,022,1.7,041km N 69° E of Lingig (Surigao Del Sur),041,N 69° E,Lingig (Surigao Del Sur)
+2026-07-19T22:18:00.000Z,19 July 2026 - 10:18 PM,12.33,124.39,031,1.7,009km S 47° E of San Isidro (Northern Samar),009,S 47° E,San Isidro (Northern Samar)
+2026-07-19T22:17:00.000Z,19 July 2026 - 10:17 PM,09.55,124.55,032,2.1,022km S 07° W of Anda (Bohol),022,S 07° W,Anda (Bohol)
+2026-07-19T22:04:00.000Z,19 July 2026 - 10:04 PM,06.94,126.92,068,2.4,052km S 54° E of Manay (Davao Oriental),052,S 54° E,Manay (Davao Oriental)
+2026-07-19T21:53:00.000Z,19 July 2026 - 09:53 PM,11.47,126.29,009,2.6,071km N 78° E of Hernani (Eastern Samar),071,N 78° E,Hernani (Eastern Samar)
+2026-07-19T21:48:00.000Z,19 July 2026 - 09:48 PM,10.93,123.96,006,2.4,013km S 10° W of City Of Bogo (Cebu),013,S 10° W,City Of Bogo (Cebu)
+2026-07-19T21:43:00.000Z,19 July 2026 - 09:43 PM,05.87,125.33,019,2.2,012km S 20° E of Malapatan (Sarangani),012,S 20° E,Malapatan (Sarangani)
+2026-07-19T21:26:00.000Z,19 July 2026 - 09:26 PM,10.63,121.40,027,1.9,050km S 60° E of Cuyo (Palawan),050,S 60° E,Cuyo (Palawan)
