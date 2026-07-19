@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-19T19:23:00.000Z,19 July 2026 - 07:23 PM,05.09,125.29,015,3.1,039km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),039,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-19T19:10:00.000Z,19 July 2026 - 07:10 PM,08.17,126.76,022,1.7,041km N 69° E of Lingig (Surigao Del Sur),041,N 69° E,Lingig (Surigao Del Sur)
 2026-07-19T18:40:00.000Z,19 July 2026 - 06:40 PM,05.86,125.29,023,2.4,011km N 67° E of Glan (Sarangani),011,N 67° E,Glan (Sarangani)
 2026-07-19T18:38:00.000Z,19 July 2026 - 06:38 PM,11.80,125.41,023,2.7,005km S 63° W of Sulat (Eastern Samar),005,S 63° W,Sulat (Eastern Samar)
 2026-07-19T18:26:00.000Z,19 July 2026 - 06:26 PM,06.23,125.74,084,1.4,006km N 58° E of Don Marcelino (Davao Occidental),006,N 58° E,Don Marcelino (Davao Occidental)
@@ -702,7 +704,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-12T20:23:00.000Z,12 July 2026 - 08:23 PM,16.48,119.22,017,3.5,073km N 82° W of Bolinao (Pangasinan),073,N 82° W,Bolinao (Pangasinan)
 2026-07-12T19:59:00.000Z,12 July 2026 - 07:59 PM,05.50,125.23,003,2.3,024km N 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,N 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-12T19:51:00.000Z,12 July 2026 - 07:51 PM,16.50,119.22,025,4.0,073km N 81° W of Bolinao (Pangasinan),073,N 81° W,Bolinao (Pangasinan)
-2026-07-12T19:13:00.000Z,12 July 2026 - 07:13 PM,17.96,121.16,030,2.9,007km S 23° W of Kabugao (Apayao),007,S 23° W,Kabugao (Apayao)
-2026-07-12T18:55:00.000Z,12 July 2026 - 06:55 PM,11.83,125.29,046,2.3,020km N 65° W of San Julian (Eastern Samar),020,N 65° W,San Julian (Eastern Samar)
-2026-07-12T18:50:00.000Z,12 July 2026 - 06:50 PM,05.43,125.26,032,1.4,018km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-12T18:43:00.000Z,12 July 2026 - 06:43 PM,10.87,123.93,008,3.2,020km S 15° W of City Of Bogo (Cebu),020,S 15° W,City Of Bogo (Cebu)
