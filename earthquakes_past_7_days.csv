@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-20T16:38:00.000Z,20 July 2026 - 04:38 PM,05.95,124.92,023,1.7,012km N 43° W of Maasim (Sarangani),012,N 43° W,Maasim (Sarangani)
+2026-07-20T16:31:00.000Z,20 July 2026 - 04:31 PM,05.88,125.31,021,1.8,010km S 14° E of Malapatan (Sarangani),010,S 14° E,Malapatan (Sarangani)
+2026-07-20T15:55:00.000Z,20 July 2026 - 03:55 PM,04.96,124.68,024,2.3,097km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),097,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-20T15:35:00.000Z,20 July 2026 - 03:35 PM,05.43,127.38,109,3.4,198km S 47° E of Governor Generoso (Davao Oriental),198,S 47° E,Governor Generoso (Davao Oriental)
+2026-07-20T14:08:00.000Z,20 July 2026 - 02:08 PM,05.61,125.17,012,3.2,024km S 09° W of Glan (Sarangani),024,S 09° W,Glan (Sarangani)
 2026-07-20T13:59:00.000Z,20 July 2026 - 01:59 PM,07.54,126.18,032,1.8,005km S 76° E of New Bataan (Davao De Oro),005,S 76° E,New Bataan (Davao De Oro)
 2026-07-20T13:14:00.000Z,20 July 2026 - 01:14 PM,05.40,125.17,029,2.5,028km S 86° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,S 86° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-20T12:51:00.000Z,20 July 2026 - 12:51 PM,05.83,125.30,007,1.8,010km N 86° E of Glan (Sarangani),010,N 86° E,Glan (Sarangani)
@@ -708,7 +713,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-13T18:14:00.000Z,13 July 2026 - 06:14 PM,16.33,121.40,033,1.2,011km N 84° E of Kasibu (Nueva Vizcaya),011,N 84° E,Kasibu (Nueva Vizcaya)
 2026-07-13T17:41:00.000Z,13 July 2026 - 05:41 PM,05.85,125.39,005,2.9,018km S 40° E of Malapatan (Sarangani),018,S 40° E,Malapatan (Sarangani)
 2026-07-13T17:12:00.000Z,13 July 2026 - 05:12 PM,12.80,123.09,004,3.1,020km S 58° W of Claveria (Masbate),020,S 58° W,Claveria (Masbate)
-2026-07-13T15:36:00.000Z,13 July 2026 - 03:36 PM,10.88,123.98,006,2.6,018km S 01° W of City Of Bogo (Cebu),018,S 01° W,City Of Bogo (Cebu)
-2026-07-13T15:30:00.000Z,13 July 2026 - 03:30 PM,05.80,125.33,010,1.5,014km S 80° E of Glan (Sarangani),014,S 80° E,Glan (Sarangani)
-2026-07-13T14:56:00.000Z,13 July 2026 - 02:56 PM,05.70,125.39,010,2.6,025km S 56° E of Glan (Sarangani),025,S 56° E,Glan (Sarangani)
-2026-07-13T14:54:00.000Z,13 July 2026 - 02:54 PM,05.87,126.86,032,2.7,123km S 45° E of Governor Generoso (Davao Oriental),123,S 45° E,Governor Generoso (Davao Oriental)
