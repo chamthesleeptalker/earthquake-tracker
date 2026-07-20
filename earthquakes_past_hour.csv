@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-20T16:38:00.000Z,20 July 2026 - 04:38 PM,05.95,124.92,023,1.7,012km N 43° W of Maasim (Sarangani),012,N 43° W,Maasim (Sarangani)
-2026-07-20T16:31:00.000Z,20 July 2026 - 04:31 PM,05.88,125.31,021,1.8,010km S 14° E of Malapatan (Sarangani),010,S 14° E,Malapatan (Sarangani)
-2026-07-20T15:55:00.000Z,20 July 2026 - 03:55 PM,04.96,124.68,024,2.3,097km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),097,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-20T19:55:00.000Z,20 July 2026 - 07:55 PM,19.10,121.52,049,1.4,019km S 13° E of Calayan (Cagayan),019,S 13° E,Calayan (Cagayan)
+2026-07-20T19:51:00.000Z,20 July 2026 - 07:51 PM,11.83,125.27,003,2.5,017km S 64° W of Taft (Eastern Samar),017,S 64° W,Taft (Eastern Samar)
+2026-07-20T19:24:00.000Z,20 July 2026 - 07:24 PM,12.58,123.18,045,2.1,037km S 11° W of Claveria (Masbate),037,S 11° W,Claveria (Masbate)
+2026-07-20T19:09:00.000Z,20 July 2026 - 07:09 PM,14.45,124.09,011,2.5,045km N 11° W of Pandan (Catanduanes),045,N 11° W,Pandan (Catanduanes)
