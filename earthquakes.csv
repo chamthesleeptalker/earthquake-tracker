@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-22T06:11:00.000Z,22 July 2026 - 06:11 AM,05.63,125.39,004,2.4,020km N 27° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 27° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-22T05:56:00.000Z,22 July 2026 - 05:56 AM,05.63,125.25,020,1.9,022km S 13° E of Glan (Sarangani),022,S 13° E,Glan (Sarangani)
+2026-07-22T05:48:00.000Z,22 July 2026 - 05:48 AM,08.23,126.59,029,2.3,029km N 42° E of Lingig (Surigao Del Sur),029,N 42° E,Lingig (Surigao Del Sur)
+2026-07-22T05:45:00.000Z,22 July 2026 - 05:45 AM,18.18,120.51,031,2.3,009km S 77° W of City Of Laoag (Ilocos Norte),009,S 77° W,City Of Laoag (Ilocos Norte)
+2026-07-22T05:36:00.000Z,22 July 2026 - 05:36 AM,09.13,126.40,019,2.4,022km N 36° E of Bayabas (Surigao Del Sur),022,N 36° E,Bayabas (Surigao Del Sur)
 2026-07-22T05:05:00.000Z,22 July 2026 - 05:05 AM,05.70,125.34,005,2.9,020km S 47° E of Glan (Sarangani),020,S 47° E,Glan (Sarangani)
 2026-07-22T04:33:00.000Z,22 July 2026 - 04:33 AM,08.68,126.45,043,4.0,022km S 51° E of Marihatag (Surigao Del Sur),022,S 51° E,Marihatag (Surigao Del Sur)
 2026-07-22T04:16:00.000Z,22 July 2026 - 04:16 AM,19.45,121.10,042,1.5,040km N 17° W of Dalupiri Island (Calayan) (Cagayan),040,N 17° W,Dalupiri Island (Calayan) (Cagayan)
