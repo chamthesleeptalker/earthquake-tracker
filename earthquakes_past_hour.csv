@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-22T07:01:00.000Z,22 July 2026 - 07:01 AM,05.78,126.91,019,2.9,134km S 44° E of Governor Generoso (Davao Oriental),134,S 44° E,Governor Generoso (Davao Oriental)
+2026-07-22T06:53:00.000Z,22 July 2026 - 06:53 AM,08.18,122.30,033,1.5,025km N 27° W of Gutalac (Zamboanga Del Norte),025,N 27° W,Gutalac (Zamboanga Del Norte)
+2026-07-22T06:32:00.000Z,22 July 2026 - 06:32 AM,05.39,125.37,019,2.0,006km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-22T06:11:00.000Z,22 July 2026 - 06:11 AM,05.63,125.39,004,2.4,020km N 27° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 27° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-22T05:56:00.000Z,22 July 2026 - 05:56 AM,05.63,125.25,020,1.9,022km S 13° E of Glan (Sarangani),022,S 13° E,Glan (Sarangani)
-2026-07-22T05:48:00.000Z,22 July 2026 - 05:48 AM,08.23,126.59,029,2.3,029km N 42° E of Lingig (Surigao Del Sur),029,N 42° E,Lingig (Surigao Del Sur)
-2026-07-22T05:45:00.000Z,22 July 2026 - 05:45 AM,18.18,120.51,031,2.3,009km S 77° W of City Of Laoag (Ilocos Norte),009,S 77° W,City Of Laoag (Ilocos Norte)
-2026-07-22T05:36:00.000Z,22 July 2026 - 05:36 AM,09.13,126.40,019,2.4,022km N 36° E of Bayabas (Surigao Del Sur),022,N 36° E,Bayabas (Surigao Del Sur)
