@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-21T20:31:00.000Z,21 July 2026 - 08:31 PM,06.94,126.99,025,2.2,058km S 59° E of Manay (Davao Oriental),058,S 59° E,Manay (Davao Oriental)
+2026-07-21T19:54:00.000Z,21 July 2026 - 07:54 PM,15.75,121.96,006,1.7,043km S 89° E of Baler (Aurora),043,S 89° E,Baler (Aurora)
+2026-07-21T19:53:00.000Z,21 July 2026 - 07:53 PM,15.73,121.96,003,2.1,043km S 86° E of Baler (Aurora),043,S 86° E,Baler (Aurora)
+2026-07-21T19:52:00.000Z,21 July 2026 - 07:52 PM,05.63,125.19,012,1.7,022km S 04° W of Glan (Sarangani),022,S 04° W,Glan (Sarangani)
 2026-07-21T19:09:00.000Z,21 July 2026 - 07:09 PM,07.05,126.92,004,2.9,046km S 67° E of Manay (Davao Oriental),046,S 67° E,Manay (Davao Oriental)
 2026-07-21T18:58:00.000Z,21 July 2026 - 06:58 PM,10.62,125.80,029,2.3,016km S 33° E of Homonhon Island (Guiuan) (Eastern Samar),016,S 33° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-07-21T18:54:00.000Z,21 July 2026 - 06:54 PM,05.42,125.36,004,1.9,007km N 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,N 85° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -80,8 +84,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-20T20:44:00.000Z,20 July 2026 - 08:44 PM,12.89,120.97,021,1.7,021km N 77° E of Sablayan (Occidental Mindoro),021,N 77° E,Sablayan (Occidental Mindoro)
 2026-07-20T20:41:00.000Z,20 July 2026 - 08:41 PM,06.04,125.05,027,2.2,020km S 04° W of Polomolok (South Cotabato),020,S 04° W,Polomolok (South Cotabato)
 2026-07-20T20:34:00.000Z,20 July 2026 - 08:34 PM,18.16,121.23,026,2.0,016km N 18° E of Kabugao (Apayao),016,N 18° E,Kabugao (Apayao)
-2026-07-20T20:17:00.000Z,20 July 2026 - 08:17 PM,12.87,122.99,020,1.8,028km S 83° W of Claveria (Masbate),028,S 83° W,Claveria (Masbate)
-2026-07-20T19:55:00.000Z,20 July 2026 - 07:55 PM,19.10,121.52,049,1.4,019km S 13° E of Calayan (Cagayan),019,S 13° E,Calayan (Cagayan)
-2026-07-20T19:51:00.000Z,20 July 2026 - 07:51 PM,11.83,125.27,003,2.5,017km S 64° W of Taft (Eastern Samar),017,S 64° W,Taft (Eastern Samar)
-2026-07-20T19:24:00.000Z,20 July 2026 - 07:24 PM,12.58,123.18,045,2.1,037km S 11° W of Claveria (Masbate),037,S 11° W,Claveria (Masbate)
-2026-07-20T19:09:00.000Z,20 July 2026 - 07:09 PM,14.45,124.09,011,2.5,045km N 11° W of Pandan (Catanduanes),045,N 11° W,Pandan (Catanduanes)
