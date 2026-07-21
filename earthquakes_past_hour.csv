@@ -1,5 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-22T01:59:00.000Z,22 July 2026 - 01:59 AM,17.52,120.56,007,2.0,005km S 56° E of San Quintin (Abra),005,S 56° E,San Quintin (Abra)
-2026-07-22T01:55:00.000Z,22 July 2026 - 01:55 AM,09.20,125.64,005,2.7,011km S 51° E of Santiago (Agusan Del Norte),011,S 51° E,Santiago (Agusan Del Norte)
-2026-07-22T01:33:00.000Z,22 July 2026 - 01:33 AM,15.08,121.95,019,2.3,027km N 04° W of Burdeos (Quezon),027,N 04° W,Burdeos (Quezon)
-2026-07-22T01:28:00.000Z,22 July 2026 - 01:28 AM,11.68,125.26,028,2.0,020km N 68° W of City Of Borongan (Eastern Samar),020,N 68° W,City Of Borongan (Eastern Samar)
+2026-07-22T03:43:00.000Z,22 July 2026 - 03:43 AM,13.34,120.30,028,1.6,020km S 65° W of Paluan (Occidental Mindoro),020,S 65° W,Paluan (Occidental Mindoro)
+2026-07-22T03:08:00.000Z,22 July 2026 - 03:08 AM,17.87,120.30,024,1.5,017km N 88° W of Sinait (Ilocos Sur),017,N 88° W,Sinait (Ilocos Sur)
