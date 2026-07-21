@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-21T14:09:00.000Z,21 July 2026 - 02:09 PM,13.45,123.86,033,1.6,017km N 54° E of City Of Tabaco (Albay),017,N 54° E,City Of Tabaco (Albay)
-2026-07-21T13:37:00.000Z,21 July 2026 - 01:37 PM,09.79,124.72,002,2.2,017km N 73° E of Anda (Bohol),017,N 73° E,Anda (Bohol)
-2026-07-21T13:11:00.000Z,21 July 2026 - 01:11 PM,15.79,121.67,019,1.6,012km N 75° E of Baler (Aurora),012,N 75° E,Baler (Aurora)
+2026-07-21T16:59:00.000Z,21 July 2026 - 04:59 PM,16.47,122.26,033,2.0,006km S 05° W of Dinapigue (Isabela),006,S 05° W,Dinapigue (Isabela)
+2026-07-21T16:43:00.000Z,21 July 2026 - 04:43 PM,04.68,125.27,034,1.9,083km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),083,S 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-21T16:25:00.000Z,21 July 2026 - 04:25 PM,11.59,125.41,015,2.0,003km S 54° W of City Of Borongan (Eastern Samar),003,S 54° W,City Of Borongan (Eastern Samar)
+2026-07-21T16:03:00.000Z,21 July 2026 - 04:03 PM,05.69,125.22,027,2.0,015km S 06° E of Glan (Sarangani),015,S 06° E,Glan (Sarangani)
