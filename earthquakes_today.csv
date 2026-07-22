@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-22T21:27:00.000Z,22 July 2026 - 09:27 PM,05.78,125.31,004,2.7,013km S 67° E of Glan (Sarangani),013,S 67° E,Glan (Sarangani)
+2026-07-22T21:21:00.000Z,22 July 2026 - 09:21 PM,05.68,125.30,023,1.4,019km S 34° E of Glan (Sarangani),019,S 34° E,Glan (Sarangani)
+2026-07-22T20:51:00.000Z,22 July 2026 - 08:51 PM,05.69,124.77,021,2.3,032km S 53° W of Maasim (Sarangani),032,S 53° W,Maasim (Sarangani)
+2026-07-22T20:50:00.000Z,22 July 2026 - 08:50 PM,08.58,124.66,018,1.6,011km N 65° W of Tagoloan (Misamis Oriental),011,N 65° W,Tagoloan (Misamis Oriental)
+2026-07-22T20:36:00.000Z,22 July 2026 - 08:36 PM,06.68,125.69,047,1.6,028km N 59° E of Santa Maria (Davao Occidental),028,N 59° E,Santa Maria (Davao Occidental)
+2026-07-22T20:14:00.000Z,22 July 2026 - 08:14 PM,05.71,125.32,017,1.8,018km S 47° E of Glan (Sarangani),018,S 47° E,Glan (Sarangani)
+2026-07-22T20:08:00.000Z,22 July 2026 - 08:08 PM,09.77,125.03,034,1.6,018km S 17° W of Limasawa (Southern Leyte),018,S 17° W,Limasawa (Southern Leyte)
 2026-07-22T19:28:00.000Z,22 July 2026 - 07:28 PM,12.79,122.99,029,2.2,030km S 67° W of Claveria (Masbate),030,S 67° W,Claveria (Masbate)
 2026-07-22T18:51:00.000Z,22 July 2026 - 06:51 PM,17.85,121.75,019,1.9,003km N 71° E of Amulung (Cagayan),003,N 71° E,Amulung (Cagayan)
 2026-07-22T18:51:00.000Z,22 July 2026 - 06:51 PM,05.53,125.42,011,3.5,009km N 42° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,N 42° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
