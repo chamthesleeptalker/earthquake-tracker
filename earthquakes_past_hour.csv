@@ -1,5 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-22T07:01:00.000Z,22 July 2026 - 07:01 AM,05.78,126.91,019,2.9,134km S 44° E of Governor Generoso (Davao Oriental),134,S 44° E,Governor Generoso (Davao Oriental)
-2026-07-22T06:53:00.000Z,22 July 2026 - 06:53 AM,08.18,122.30,033,1.5,025km N 27° W of Gutalac (Zamboanga Del Norte),025,N 27° W,Gutalac (Zamboanga Del Norte)
-2026-07-22T06:32:00.000Z,22 July 2026 - 06:32 AM,05.39,125.37,019,2.0,006km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-22T06:11:00.000Z,22 July 2026 - 06:11 AM,05.63,125.39,004,2.4,020km N 27° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 27° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-22T08:42:00.000Z,22 July 2026 - 08:42 AM,05.26,125.27,036,2.0,024km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 44° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-22T08:35:00.000Z,22 July 2026 - 08:35 AM,05.36,125.38,021,2.5,007km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
