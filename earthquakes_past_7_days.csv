@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-23T14:08:00.000Z,23 July 2026 - 02:08 PM,05.73,125.25,006,2.0,012km S 27° E of Glan (Sarangani),012,S 27° E,Glan (Sarangani)
+2026-07-23T13:58:00.000Z,23 July 2026 - 01:58 PM,09.45,125.39,034,2.1,017km S 56° W of Mainit (Surigao Del Norte),017,S 56° W,Mainit (Surigao Del Norte)
 2026-07-23T11:56:00.000Z,23 July 2026 - 11:56 AM,05.86,125.30,022,1.8,012km N 69° E of Glan (Sarangani),012,N 69° E,Glan (Sarangani)
 2026-07-23T11:36:00.000Z,23 July 2026 - 11:36 AM,15.62,121.46,032,1.5,013km S 32° W of San Luis (Aurora),013,S 32° W,San Luis (Aurora)
 2026-07-23T10:33:00.000Z,23 July 2026 - 10:33 AM,17.99,120.53,032,1.6,004km N 01° E of Pinili (Ilocos Norte),004,N 01° E,Pinili (Ilocos Norte)
@@ -653,9 +655,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-16T14:59:00.000Z,16 July 2026 - 02:59 PM,19.33,121.27,040,2.4,022km N 71° W of Calayan (Cagayan),022,N 71° W,Calayan (Cagayan)
 2026-07-16T14:54:00.000Z,16 July 2026 - 02:54 PM,12.95,124.61,025,2.0,040km N 42° E of Biri (Northern Samar),040,N 42° E,Biri (Northern Samar)
 2026-07-16T14:26:00.000Z,16 July 2026 - 02:26 PM,12.74,123.00,009,2.7,032km S 57° W of Claveria (Masbate),032,S 57° W,Claveria (Masbate)
-2026-07-16T13:55:00.000Z,16 July 2026 - 01:55 PM,04.91,125.40,004,3.6,056km S 03° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),056,S 03° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-16T13:36:00.000Z,16 July 2026 - 01:36 PM,10.20,125.62,052,2.0,009km N 87° E of Libjo (Dinagat Islands),009,N 87° E,Libjo (Dinagat Islands)
-2026-07-16T12:51:00.000Z,16 July 2026 - 12:51 PM,07.62,122.95,026,1.4,003km S 45° E of Imelda (Zamboanga Sibugay),003,S 45° E,Imelda (Zamboanga Sibugay)
-2026-07-16T12:44:00.000Z,16 July 2026 - 12:44 PM,05.24,125.20,032,3.0,031km S 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-16T12:35:00.000Z,16 July 2026 - 12:35 PM,10.42,123.17,002,2.3,006km N 56° W of City Of Canlaon (Negros Oriental),006,N 56° W,City Of Canlaon (Negros Oriental)
-2026-07-16T11:56:00.000Z,16 July 2026 - 11:56 AM,09.39,122.03,006,2.6,054km S 64° W of Hinoba-an (Negros Occidental),054,S 64° W,Hinoba-an (Negros Occidental)
