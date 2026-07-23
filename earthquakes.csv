@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-24T03:11:00.000Z,24 July 2026 - 03:11 AM,05.91,125.43,010,1.6,017km S 67° E of Malapatan (Sarangani),017,S 67° E,Malapatan (Sarangani)
+2026-07-24T03:07:00.000Z,24 July 2026 - 03:07 AM,05.45,125.36,007,2.1,008km N 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),008,N 56° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-24T02:46:00.000Z,24 July 2026 - 02:46 AM,05.36,125.36,032,1.8,009km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),009,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T02:32:00.000Z,24 July 2026 - 02:32 AM,05.14,125.40,023,2.6,030km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T02:26:00.000Z,24 July 2026 - 02:26 AM,05.26,125.35,013,2.5,019km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T02:09:00.000Z,24 July 2026 - 02:09 AM,16.40,119.00,021,2.4,091km N 70° W of Agno (Pangasinan),091,N 70° W,Agno (Pangasinan)

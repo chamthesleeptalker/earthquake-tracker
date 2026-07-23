@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-24T03:11:00.000Z,24 July 2026 - 03:11 AM,05.91,125.43,010,1.6,017km S 67° E of Malapatan (Sarangani),017,S 67° E,Malapatan (Sarangani)
+2026-07-24T03:07:00.000Z,24 July 2026 - 03:07 AM,05.45,125.36,007,2.1,008km N 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),008,N 56° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-24T02:46:00.000Z,24 July 2026 - 02:46 AM,05.36,125.36,032,1.8,009km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),009,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T02:32:00.000Z,24 July 2026 - 02:32 AM,05.14,125.40,023,2.6,030km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T02:26:00.000Z,24 July 2026 - 02:26 AM,05.26,125.35,013,2.5,019km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T02:09:00.000Z,24 July 2026 - 02:09 AM,16.40,119.00,021,2.4,091km N 70° W of Agno (Pangasinan),091,N 70° W,Agno (Pangasinan)
@@ -646,8 +649,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-17T03:39:00.000Z,17 July 2026 - 03:39 AM,09.93,126.11,035,1.4,002km S 81° E of San Isidro (Surigao Del Norte),002,S 81° E,San Isidro (Surigao Del Norte)
 2026-07-17T03:25:00.000Z,17 July 2026 - 03:25 AM,13.52,121.00,031,1.4,006km N 67° E of Puerto Galera (Oriental Mindoro),006,N 67° E,Puerto Galera (Oriental Mindoro)
 2026-07-17T03:13:00.000Z,17 July 2026 - 03:13 AM,15.04,121.41,033,1.3,038km N 79° E of Doña Remedios Trinidad (Bulacan),038,N 79° E,DoÃ±a Remedios Trinidad (Bulacan)
-2026-07-17T03:09:00.000Z,17 July 2026 - 03:09 AM,10.96,123.89,006,2.5,014km S 43° W of City Of Bogo (Cebu),014,S 43° W,City Of Bogo (Cebu)
-2026-07-17T03:04:00.000Z,17 July 2026 - 03:04 AM,09.88,125.96,034,2.0,002km N 40° W of Del Carmen (Surigao Del Norte),002,N 40° W,Del Carmen (Surigao Del Norte)
-2026-07-17T02:59:00.000Z,17 July 2026 - 02:59 AM,06.40,126.50,009,2.5,055km S 59° E of Governor Generoso (Davao Oriental),055,S 59° E,Governor Generoso (Davao Oriental)
-2026-07-17T02:55:00.000Z,17 July 2026 - 02:55 AM,11.08,125.30,029,2.2,007km S 01° W of Lawaan (Eastern Samar),007,S 01° W,Lawaan (Eastern Samar)
-2026-07-17T02:38:00.000Z,17 July 2026 - 02:38 AM,05.81,125.39,017,1.4,021km S 88° E of Glan (Sarangani),021,S 88° E,Glan (Sarangani)
