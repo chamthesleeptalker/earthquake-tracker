@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-23T17:18:00.000Z,23 July 2026 - 05:18 PM,17.98,120.72,009,1.7,007km S 87° E of Banna (Ilocos Norte),007,S 87° E,Banna (Ilocos Norte)
+2026-07-23T16:25:00.000Z,23 July 2026 - 04:25 PM,16.19,120.61,001,1.4,009km S 43° W of Cabarroguis (Quirino),009,S 43° W,Cabarroguis (Quirino)
+2026-07-23T16:21:00.000Z,23 July 2026 - 04:21 PM,05.80,125.35,014,2.3,016km S 83° E of Glan (Sarangani),016,S 83° E,Glan (Sarangani)
+2026-07-23T15:15:00.000Z,23 July 2026 - 03:15 PM,12.82,122.96,002,2.8,032km S 74° W of Claveria (Masbate),032,S 74° W,Claveria (Masbate)
+2026-07-23T14:56:00.000Z,23 July 2026 - 02:56 PM,07.40,124.92,005,1.9,010km S 12° W of Damulog (Bukidnon),010,S 12° W,Damulog (Bukidnon)
 2026-07-23T14:08:00.000Z,23 July 2026 - 02:08 PM,05.73,125.25,006,2.0,012km S 27° E of Glan (Sarangani),012,S 27° E,Glan (Sarangani)
 2026-07-23T13:58:00.000Z,23 July 2026 - 01:58 PM,09.45,125.39,034,2.1,017km S 56° W of Mainit (Surigao Del Norte),017,S 56° W,Mainit (Surigao Del Norte)
 2026-07-23T11:56:00.000Z,23 July 2026 - 11:56 AM,05.86,125.30,022,1.8,012km N 69° E of Glan (Sarangani),012,N 69° E,Glan (Sarangani)
@@ -650,8 +655,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-16T18:01:00.000Z,16 July 2026 - 06:01 PM,14.03,120.30,047,1.4,027km N 46° E of Lubang (Occidental Mindoro),027,N 46° E,Lubang (Occidental Mindoro)
 2026-07-16T17:54:00.000Z,16 July 2026 - 05:54 PM,11.13,125.43,009,2.7,002km N 74° W of Giporlos (Eastern Samar),002,N 74° W,Giporlos (Eastern Samar)
 2026-07-16T17:45:00.000Z,16 July 2026 - 05:45 PM,09.02,125.69,019,2.6,012km S 74° E of Remedios T. Romualdez (Agusan Del Norte),012,S 74° E,Remedios T. Romualdez (Agusan Del Norte)
-2026-07-16T16:43:00.000Z,16 July 2026 - 04:43 PM,05.38,125.24,046,1.7,020km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-16T15:23:00.000Z,16 July 2026 - 03:23 PM,05.64,125.23,004,2.4,021km S 09° E of Glan (Sarangani),021,S 09° E,Glan (Sarangani)
-2026-07-16T14:59:00.000Z,16 July 2026 - 02:59 PM,19.33,121.27,040,2.4,022km N 71° W of Calayan (Cagayan),022,N 71° W,Calayan (Cagayan)
-2026-07-16T14:54:00.000Z,16 July 2026 - 02:54 PM,12.95,124.61,025,2.0,040km N 42° E of Biri (Northern Samar),040,N 42° E,Biri (Northern Samar)
-2026-07-16T14:26:00.000Z,16 July 2026 - 02:26 PM,12.74,123.00,009,2.7,032km S 57° W of Claveria (Masbate),032,S 57° W,Claveria (Masbate)
