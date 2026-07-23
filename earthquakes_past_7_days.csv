@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-24T06:34:00.000Z,24 July 2026 - 06:34 AM,18.31,120.61,018,1.5,003km S 10° W of Pasuquin (Ilocos Norte),003,S 10° W,Pasuquin (Ilocos Norte)
+2026-07-24T06:06:00.000Z,24 July 2026 - 06:06 AM,09.66,126.17,039,1.9,014km S 05° E of General Luna (Surigao Del Norte),014,S 05° E,General Luna (Surigao Del Norte)
 2026-07-24T05:06:00.000Z,24 July 2026 - 05:06 AM,09.02,125.66,010,2.1,009km S 66° E of Remedios T. Romualdez (Agusan Del Norte),009,S 66° E,Remedios T. Romualdez (Agusan Del Norte)
 2026-07-24T04:40:00.000Z,24 July 2026 - 04:40 AM,05.89,125.00,017,2.7,004km N 04° E of Maasim (Sarangani),004,N 04° E,Maasim (Sarangani)
 2026-07-24T04:17:00.000Z,24 July 2026 - 04:17 AM,12.93,121.01,023,1.6,027km N 69° E of Sablayan (Occidental Mindoro),027,N 69° E,Sablayan (Occidental Mindoro)
@@ -636,8 +638,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-17T11:30:00.000Z,17 July 2026 - 11:30 AM,06.23,125.59,011,1.2,013km N 73° W of Don Marcelino (Davao Occidental),013,N 73° W,Don Marcelino (Davao Occidental)
 2026-07-17T08:01:00.000Z,17 July 2026 - 08:01 AM,11.02,124.28,026,2.5,033km S 85° E of City Of Bogo (Cebu),033,S 85° E,City Of Bogo (Cebu)
 2026-07-17T07:02:00.000Z,17 July 2026 - 07:02 AM,05.89,125.36,019,1.7,012km S 44° E of Malapatan (Sarangani),012,S 44° E,Malapatan (Sarangani)
-2026-07-17T06:31:00.000Z,17 July 2026 - 06:31 AM,05.28,125.43,029,2.4,015km S 05° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 05° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-17T06:31:00.000Z,17 July 2026 - 06:31 AM,16.52,118.99,022,3.0,098km N 81° W of Bolinao (Pangasinan),098,N 81° W,Bolinao (Pangasinan)
-2026-07-17T06:29:00.000Z,17 July 2026 - 06:29 AM,05.46,125.18,025,1.9,027km N 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,N 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-17T05:16:00.000Z,17 July 2026 - 05:16 AM,13.82,120.58,183,1.9,005km S 75° W of Calatagan (Batangas),005,S 75° W,Calatagan (Batangas)
-2026-07-17T05:07:00.000Z,17 July 2026 - 05:07 AM,08.81,121.62,170,3.3,096km S 28° E of Cagayancillo (Palawan),096,S 28° E,Cagayancillo (Palawan)

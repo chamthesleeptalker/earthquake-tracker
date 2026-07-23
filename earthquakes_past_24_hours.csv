@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-24T06:34:00.000Z,24 July 2026 - 06:34 AM,18.31,120.61,018,1.5,003km S 10° W of Pasuquin (Ilocos Norte),003,S 10° W,Pasuquin (Ilocos Norte)
+2026-07-24T06:06:00.000Z,24 July 2026 - 06:06 AM,09.66,126.17,039,1.9,014km S 05° E of General Luna (Surigao Del Norte),014,S 05° E,General Luna (Surigao Del Norte)
 2026-07-24T05:06:00.000Z,24 July 2026 - 05:06 AM,09.02,125.66,010,2.1,009km S 66° E of Remedios T. Romualdez (Agusan Del Norte),009,S 66° E,Remedios T. Romualdez (Agusan Del Norte)
 2026-07-24T04:40:00.000Z,24 July 2026 - 04:40 AM,05.89,125.00,017,2.7,004km N 04° E of Maasim (Sarangani),004,N 04° E,Maasim (Sarangani)
 2026-07-24T04:17:00.000Z,24 July 2026 - 04:17 AM,12.93,121.01,023,1.6,027km N 69° E of Sablayan (Occidental Mindoro),027,N 69° E,Sablayan (Occidental Mindoro)
@@ -59,11 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-23T06:47:00.000Z,23 July 2026 - 06:47 AM,07.82,126.46,008,1.8,003km N 02° E of Cateel (Davao Oriental),003,N 02° E,Cateel (Davao Oriental)
 2026-07-23T06:45:00.000Z,23 July 2026 - 06:45 AM,07.72,127.06,003,2.6,058km N 73° E of Baganga (Davao Oriental),058,N 73° E,Baganga (Davao Oriental)
 2026-07-23T06:38:00.000Z,23 July 2026 - 06:38 AM,05.19,125.39,017,3.2,025km S 08° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 08° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-23T06:00:00.000Z,23 July 2026 - 06:00 AM,05.62,126.04,025,1.9,054km S 53° E of Jose Abad Santos (Davao Occidental),054,S 53° E,Jose Abad Santos (Davao Occidental)
-2026-07-23T05:47:00.000Z,23 July 2026 - 05:47 AM,13.54,121.43,100,1.3,027km S 63° E of Lobo (Batangas),027,S 63° E,Lobo (Batangas)
-2026-07-23T05:34:00.000Z,23 July 2026 - 05:34 AM,06.09,124.70,017,1.9,014km N 35° E of Kiamba (Sarangani),014,N 35° E,Kiamba (Sarangani)
-2026-07-23T05:20:00.000Z,23 July 2026 - 05:20 AM,07.84,122.83,029,1.2,009km N 61° E of Kabasalan (Zamboanga Sibugay),009,N 61° E,Kabasalan (Zamboanga Sibugay)
-2026-07-23T05:14:00.000Z,23 July 2026 - 05:14 AM,04.46,124.47,071,2.7,149km S 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),149,S 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-23T05:13:00.000Z,23 July 2026 - 05:13 AM,09.67,122.31,037,1.3,017km S 49° W of City Of Sipalay (Negros Occidental),017,S 49° W,City Of Sipalay (Negros Occidental)
-2026-07-23T05:11:00.000Z,23 July 2026 - 05:11 AM,16.20,122.32,007,1.8,023km S 69° E of Casiguran (Aurora),023,S 69° E,Casiguran (Aurora)
-2026-07-23T05:08:00.000Z,23 July 2026 - 05:08 AM,17.38,120.16,002,2.0,030km S 53° W of Caoayan (Ilocos Sur),030,S 53° W,Caoayan (Ilocos Sur)
