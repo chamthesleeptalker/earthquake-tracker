@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-23T21:30:00.000Z,23 July 2026 - 09:30 PM,18.48,120.85,011,2.2,005km N 70° W of Adams (Ilocos Norte),005,N 70° W,Adams (Ilocos Norte)
+2026-07-23T21:02:00.000Z,23 July 2026 - 09:02 PM,07.79,124.35,010,1.7,004km S 27° E of Masiu (Lanao Del Sur),004,S 27° E,Masiu (Lanao Del Sur)
+2026-07-23T20:17:00.000Z,23 July 2026 - 08:17 PM,08.69,126.56,028,2.6,031km S 66° E of Marihatag (Surigao Del Sur),031,S 66° E,Marihatag (Surigao Del Sur)
+2026-07-23T20:15:00.000Z,23 July 2026 - 08:15 PM,16.48,119.17,024,3.5,078km N 83° W of Bolinao (Pangasinan),078,N 83° W,Bolinao (Pangasinan)
+2026-07-23T19:55:00.000Z,23 July 2026 - 07:55 PM,09.71,127.26,068,2.1,122km S 86° E of General Luna (Surigao Del Norte),122,S 86° E,General Luna (Surigao Del Norte)
+2026-07-23T19:49:00.000Z,23 July 2026 - 07:49 PM,05.22,125.24,019,2.8,030km S 43° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 43° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-23T18:44:00.000Z,23 July 2026 - 06:44 PM,18.73,120.67,032,1.4,023km N 35° W of Pagudpud (Ilocos Norte),023,N 35° W,Pagudpud (Ilocos Norte)
 2026-07-23T18:05:00.000Z,23 July 2026 - 06:05 PM,09.45,122.53,021,2.4,013km N 67° W of Basay (Negros Oriental),013,N 67° W,Basay (Negros Oriental)
 2026-07-23T17:18:00.000Z,23 July 2026 - 05:18 PM,17.98,120.72,009,1.7,007km S 87° E of Banna (Ilocos Norte),007,S 87° E,Banna (Ilocos Norte)
