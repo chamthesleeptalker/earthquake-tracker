@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-24T20:21:00.000Z,24 July 2026 - 08:21 PM,05.78,125.32,011,2.9,014km S 69° E of Glan (Sarangani),014,S 69° E,Glan (Sarangani)
+2026-07-24T19:46:00.000Z,24 July 2026 - 07:46 PM,15.04,119.94,034,1.5,014km S 79° W of San Felipe (Zambales),014,S 79° W,San Felipe (Zambales)
+2026-07-24T19:42:00.000Z,24 July 2026 - 07:42 PM,10.54,125.44,007,3.0,025km N 37° W of Loreto (Dinagat Islands),025,N 37° W,Loreto (Dinagat Islands)
+2026-07-24T19:07:00.000Z,24 July 2026 - 07:07 PM,09.63,126.16,022,1.7,017km S 01° E of General Luna (Surigao Del Norte),017,S 01° E,General Luna (Surigao Del Norte)
 2026-07-24T18:57:00.000Z,24 July 2026 - 06:57 PM,05.50,125.30,055,1.7,017km N 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T18:43:00.000Z,24 July 2026 - 06:43 PM,05.37,125.30,027,2.4,014km S 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-24T18:01:00.000Z,24 July 2026 - 06:01 PM,13.71,120.61,140,2.4,014km S 09° W of Calatagan (Batangas),014,S 09° W,Calatagan (Batangas)
