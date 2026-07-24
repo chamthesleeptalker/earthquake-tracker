@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-24T14:06:00.000Z,24 July 2026 - 02:06 PM,09.35,125.48,010,3.4,004km N 78° W of Jabonga (Agusan Del Norte),004,N 78° W,Jabonga (Agusan Del Norte)
+2026-07-24T14:01:00.000Z,24 July 2026 - 02:01 PM,12.47,124.57,021,1.5,008km S 70° W of Catarman (Northern Samar),008,S 70° W,Catarman (Northern Samar)
+2026-07-24T13:19:00.000Z,24 July 2026 - 01:19 PM,13.72,120.58,138,3.5,014km S 26° W of Calatagan (Batangas),014,S 26° W,Calatagan (Batangas)
+2026-07-24T11:44:00.000Z,24 July 2026 - 11:44 AM,05.86,124.93,040,2.5,007km S 84° W of Maasim (Sarangani),007,S 84° W,Maasim (Sarangani)
+2026-07-24T11:40:00.000Z,24 July 2026 - 11:40 AM,19.39,121.37,026,2.3,018km N 36° W of Calayan (Cagayan),018,N 36° W,Calayan (Cagayan)
 2026-07-24T11:16:00.000Z,24 July 2026 - 11:16 AM,08.81,126.52,024,2.8,025km N 88° E of Marihatag (Surigao Del Sur),025,N 88° E,Marihatag (Surigao Del Sur)
 2026-07-24T11:05:00.000Z,24 July 2026 - 11:05 AM,05.97,125.36,024,1.6,008km N 88° E of Malapatan (Sarangani),008,N 88° E,Malapatan (Sarangani)
 2026-07-24T10:36:00.000Z,24 July 2026 - 10:36 AM,17.96,120.05,019,2.2,045km N 77° W of Sinait (Ilocos Sur),045,N 77° W,Sinait (Ilocos Sur)
@@ -639,8 +644,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-17T14:22:00.000Z,17 July 2026 - 02:22 PM,10.92,124.04,024,2.1,016km S 25° E of City Of Bogo (Cebu),016,S 25° E,City Of Bogo (Cebu)
 2026-07-17T14:08:00.000Z,17 July 2026 - 02:08 PM,15.98,119.80,011,2.2,008km S 85° W of Dasol (Pangasinan),008,S 85° W,Dasol (Pangasinan)
 2026-07-17T14:06:00.000Z,17 July 2026 - 02:06 PM,05.64,125.24,024,1.8,021km S 11° E of Glan (Sarangani),021,S 11° E,Glan (Sarangani)
-2026-07-17T13:43:00.000Z,17 July 2026 - 01:43 PM,06.88,125.67,027,1.5,022km S 11° W of Island Garden City Of Samal (Davao Del Norte),022,S 11° W,Island Garden City Of Samal (Davao Del Norte)
-2026-07-17T13:05:00.000Z,17 July 2026 - 01:05 PM,05.38,125.33,025,1.3,010km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),010,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-17T13:02:00.000Z,17 July 2026 - 01:02 PM,09.67,125.78,001,2.1,011km N 22° E of Gigaquit (Surigao Del Norte),011,N 22° E,Gigaquit (Surigao Del Norte)
-2026-07-17T12:57:00.000Z,17 July 2026 - 12:57 PM,16.43,118.95,029,3.2,097km N 69° W of Agno (Pangasinan),097,N 69° W,Agno (Pangasinan)
-2026-07-17T11:30:00.000Z,17 July 2026 - 11:30 AM,06.23,125.59,011,1.2,013km N 73° W of Don Marcelino (Davao Occidental),013,N 73° W,Don Marcelino (Davao Occidental)

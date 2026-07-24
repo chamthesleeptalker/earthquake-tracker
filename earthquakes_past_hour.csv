@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-24T11:16:00.000Z,24 July 2026 - 11:16 AM,08.81,126.52,024,2.8,025km N 88° E of Marihatag (Surigao Del Sur),025,N 88° E,Marihatag (Surigao Del Sur)
-2026-07-24T11:05:00.000Z,24 July 2026 - 11:05 AM,05.97,125.36,024,1.6,008km N 88° E of Malapatan (Sarangani),008,N 88° E,Malapatan (Sarangani)
-2026-07-24T10:36:00.000Z,24 July 2026 - 10:36 AM,17.96,120.05,019,2.2,045km N 77° W of Sinait (Ilocos Sur),045,N 77° W,Sinait (Ilocos Sur)
-2026-07-24T10:30:00.000Z,24 July 2026 - 10:30 AM,12.73,122.99,026,2.1,034km S 56° W of Claveria (Masbate),034,S 56° W,Claveria (Masbate)
+2026-07-24T14:06:00.000Z,24 July 2026 - 02:06 PM,09.35,125.48,010,3.4,004km N 78° W of Jabonga (Agusan Del Norte),004,N 78° W,Jabonga (Agusan Del Norte)
+2026-07-24T14:01:00.000Z,24 July 2026 - 02:01 PM,12.47,124.57,021,1.5,008km S 70° W of Catarman (Northern Samar),008,S 70° W,Catarman (Northern Samar)
+2026-07-24T13:19:00.000Z,24 July 2026 - 01:19 PM,13.72,120.58,138,3.5,014km S 26° W of Calatagan (Batangas),014,S 26° W,Calatagan (Batangas)
