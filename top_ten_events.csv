@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-07-18T10:23:00.000Z,18 July 2026 - 10:23 AM,04.81,124.73,15,5.6,102km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),102,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-18T00:12:00.000Z,18 July 2026 - 12:12 AM,05.40,125.33,14,5.5,010km S 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),010,S 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-22T17:47:00.000Z,22 July 2026 - 05:47 PM,05.21,125.51,16,5.1,024km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-20T17:40:00.000Z,20 July 2026 - 05:40 PM,02.03,127.09,163,5.1,418km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),418,S 26° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-19T16:19:00.000Z,19 July 2026 - 04:19 PM,05.05,125.44,10,5.0,040km S 2° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 2° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-21T21:48:00.000Z,21 July 2026 - 09:48 PM,12.78,123.00,8,4.2,030km S 63° W of Claveria (Masbate),030,S 63° W,Claveria (Masbate)
 2026-07-19T09:57:00.000Z,19 July 2026 - 09:57 AM,02.98,128.59,237,4.2,442km S 51° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),442,S 51° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-18T02:10:00.000Z,18 July 2026 - 02:10 AM,12.75,122.99,2,4.2,033km S 58° W of Claveria (Masbate),033,S 58° W,Claveria (Masbate)
+2026-07-23T00:37:00.000Z,23 July 2026 - 12:37 AM,05.51,125.22,6,4.0,024km N 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,N 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
