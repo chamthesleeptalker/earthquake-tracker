@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-24T22:31:00.000Z,24 July 2026 - 10:31 PM,05.62,125.09,028,2.4,026km S 30° W of Glan (Sarangani),026,S 30° W,Glan (Sarangani)
+2026-07-24T22:07:00.000Z,24 July 2026 - 10:07 PM,04.79,125.37,034,3.7,069km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),069,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-24T21:25:00.000Z,24 July 2026 - 09:25 PM,18.93,121.14,001,2.5,021km S 19° W of Dalupiri Island (Calayan) (Cagayan),021,S 19° W,Dalupiri Island (Calayan) (Cagayan)
+2026-07-24T20:57:00.000Z,24 July 2026 - 08:57 PM,08.01,123.19,022,2.2,014km S 79° W of Midsalip (Zamboanga Del Sur),014,S 79° W,Midsalip (Zamboanga Del Sur)
 2026-07-24T20:21:00.000Z,24 July 2026 - 08:21 PM,05.78,125.32,011,2.9,014km S 69° E of Glan (Sarangani),014,S 69° E,Glan (Sarangani)
 2026-07-24T19:46:00.000Z,24 July 2026 - 07:46 PM,15.04,119.94,034,1.5,014km S 79° W of San Felipe (Zambales),014,S 79° W,San Felipe (Zambales)
 2026-07-24T19:42:00.000Z,24 July 2026 - 07:42 PM,10.54,125.44,007,3.0,025km N 37° W of Loreto (Dinagat Islands),025,N 37° W,Loreto (Dinagat Islands)
@@ -54,7 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-23T23:26:00.000Z,23 July 2026 - 11:26 PM,16.42,119.33,008,3.0,059km N 56° W of Agno (Pangasinan),059,N 56° W,Agno (Pangasinan)
 2026-07-23T23:18:00.000Z,23 July 2026 - 11:18 PM,20.25,120.62,038,3.1,131km S 86° W of Sabtang (Batanes),131,S 86° W,Sabtang (Batanes)
 2026-07-23T22:53:00.000Z,23 July 2026 - 10:53 PM,12.94,123.16,024,2.1,010km N 68° W of Claveria (Masbate),010,N 68° W,Claveria (Masbate)
-2026-07-23T22:26:00.000Z,23 July 2026 - 10:26 PM,18.57,120.11,009,2.1,057km N 84° W of Burgos (Ilocos Norte),057,N 84° W,Burgos (Ilocos Norte)
-2026-07-23T21:56:00.000Z,23 July 2026 - 09:56 PM,05.84,125.38,028,1.4,018km S 36° E of Malapatan (Sarangani),018,S 36° E,Malapatan (Sarangani)
-2026-07-23T21:30:00.000Z,23 July 2026 - 09:30 PM,18.48,120.85,011,2.2,005km N 70° W of Adams (Ilocos Norte),005,N 70° W,Adams (Ilocos Norte)
-2026-07-23T21:02:00.000Z,23 July 2026 - 09:02 PM,07.79,124.35,010,1.7,004km S 27° E of Masiu (Lanao Del Sur),004,S 27° E,Masiu (Lanao Del Sur)
