@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-25T23:45:00.000Z,25 July 2026 - 11:45 PM,05.78,125.32,020,2.2,013km S 69° E of Glan (Sarangani),013,S 69° E,Glan (Sarangani)
-2026-07-25T23:32:00.000Z,25 July 2026 - 11:32 PM,09.87,124.01,008,2.6,002km N 08° E of Catigbian (Bohol),002,N 08° E,Catigbian (Bohol)
-2026-07-25T23:07:00.000Z,25 July 2026 - 11:07 PM,09.31,125.50,019,2.0,004km S 17° W of Jabonga (Agusan Del Norte),004,S 17° W,Jabonga (Agusan Del Norte)
+2026-07-26T01:00:00.000Z,26 July 2026 - 01:00 AM,13.78,124.07,015,2.7,021km N 09° W of San Andres (Catanduanes),021,N 09° W,San Andres (Catanduanes)
+2026-07-26T00:52:00.000Z,26 July 2026 - 12:52 AM,06.06,124.84,150,2.7,017km S 05° E of T'boli (South Cotabato),017,S 05° E,T'boli (South Cotabato)
+2026-07-26T00:48:00.000Z,26 July 2026 - 12:48 AM,08.53,126.64,017,2.2,038km N 61° E of Hinatuan (Surigao Del Sur),038,N 61° E,Hinatuan (Surigao Del Sur)
+2026-07-26T00:28:00.000Z,26 July 2026 - 12:28 AM,07.70,126.70,022,2.3,020km N 48° E of Baganga (Davao Oriental),020,N 48° E,Baganga (Davao Oriental)
+2026-07-26T00:05:00.000Z,26 July 2026 - 12:05 AM,05.28,125.36,015,2.5,017km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
