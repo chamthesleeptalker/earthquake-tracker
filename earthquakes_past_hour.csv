@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-25T16:07:00.000Z,25 July 2026 - 04:07 PM,05.53,125.89,009,3.1,047km N 82° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),047,N 82° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-25T15:29:00.000Z,25 July 2026 - 03:29 PM,06.83,123.77,003,2.7,038km S 46° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),038,S 46° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-07-25T17:51:00.000Z,25 July 2026 - 05:51 PM,05.00,125.36,047,2.5,044km S 07° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),044,S 07° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-25T17:29:00.000Z,25 July 2026 - 05:29 PM,06.48,125.76,179,2.4,018km N 66° E of Malita (Davao Occidental),018,N 66° E,Malita (Davao Occidental)
+2026-07-25T17:25:00.000Z,25 July 2026 - 05:25 PM,09.42,125.55,005,2.3,004km S 45° W of Kitcharao (Agusan Del Norte),004,S 45° W,Kitcharao (Agusan Del Norte)
+2026-07-25T17:21:00.000Z,25 July 2026 - 05:21 PM,10.52,125.69,028,2.0,021km N 34° E of Loreto (Dinagat Islands),021,N 34° E,Loreto (Dinagat Islands)
+2026-07-25T17:17:00.000Z,25 July 2026 - 05:17 PM,05.43,125.17,039,1.7,028km N 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 85° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
