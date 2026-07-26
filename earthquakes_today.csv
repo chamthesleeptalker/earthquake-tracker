@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-27T05:47:00.000Z,27 July 2026 - 05:47 AM,16.42,121.33,018,1.7,010km S 41° E of Quezon (Nueva Vizcaya),010,S 41° E,Quezon (Nueva Vizcaya)
+2026-07-27T05:45:00.000Z,27 July 2026 - 05:45 AM,12.27,125.06,027,2.8,009km S 23° E of Las Navas (Northern Samar),009,S 23° E,Las Navas (Northern Samar)
+2026-07-27T05:34:00.000Z,27 July 2026 - 05:34 AM,05.82,125.00,009,3.3,005km S 01° W of Maasim (Sarangani),005,S 01° W,Maasim (Sarangani)
+2026-07-27T05:22:00.000Z,27 July 2026 - 05:22 AM,14.91,122.59,005,2.7,036km N 50° E of Jomalig (Quezon),036,N 50° E,Jomalig (Quezon)
+2026-07-27T05:19:00.000Z,27 July 2026 - 05:19 AM,14.97,122.64,004,3.4,046km N 48° E of Jomalig (Quezon),046,N 48° E,Jomalig (Quezon)
+2026-07-27T04:49:00.000Z,27 July 2026 - 04:49 AM,02.10,126.96,052,4.2,404km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),404,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-27T04:23:00.000Z,27 July 2026 - 04:23 AM,07.45,124.18,032,1.6,009km S 42° E of Balabagan (Lanao Del Sur),009,S 42° E,Balabagan (Lanao Del Sur)
 2026-07-27T04:22:00.000Z,27 July 2026 - 04:22 AM,05.67,125.11,025,2.0,020km S 31° W of Glan (Sarangani),020,S 31° W,Glan (Sarangani)
 2026-07-27T04:16:00.000Z,27 July 2026 - 04:16 AM,10.98,124.03,008,2.1,009km S 37° E of City Of Bogo (Cebu),009,S 37° E,City Of Bogo (Cebu)
