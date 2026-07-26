@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-26T11:22:00.000Z,26 July 2026 - 11:22 AM,12.40,124.68,035,1.5,012km S 24° E of Catarman (Northern Samar),012,S 24° E,Catarman (Northern Samar)
-2026-07-26T11:19:00.000Z,26 July 2026 - 11:19 AM,16.50,119.23,027,2.7,072km N 80° W of Bolinao (Pangasinan),072,N 80° W,Bolinao (Pangasinan)
-2026-07-26T11:14:00.000Z,26 July 2026 - 11:14 AM,05.57,127.22,057,2.7,174km S 47° E of Governor Generoso (Davao Oriental),174,S 47° E,Governor Generoso (Davao Oriental)
-2026-07-26T11:02:00.000Z,26 July 2026 - 11:02 AM,08.47,127.03,006,3.4,077km N 81° E of Hinatuan (Surigao Del Sur),077,N 81° E,Hinatuan (Surigao Del Sur)
+2026-07-26T14:06:00.000Z,26 July 2026 - 02:06 PM,15.60,119.87,021,3.6,007km S 66° W of Candelaria (Zambales),007,S 66° W,Candelaria (Zambales)
+2026-07-26T13:38:00.000Z,26 July 2026 - 01:38 PM,11.02,124.03,006,3.0,006km S 60° E of City Of Bogo (Cebu),006,S 60° E,City Of Bogo (Cebu)
+2026-07-26T13:07:00.000Z,26 July 2026 - 01:07 PM,10.09,121.51,041,2.2,059km S 50° W of Anini-y (Antique),059,S 50° W,Anini-y (Antique)
