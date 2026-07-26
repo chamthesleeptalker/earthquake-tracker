@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-26T19:48:00.000Z,26 July 2026 - 07:48 PM,05.37,125.28,027,2.1,016km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-26T19:31:00.000Z,26 July 2026 - 07:31 PM,06.13,124.49,028,1.8,008km N 03° W of Maitum (Sarangani),008,N 03° W,Maitum (Sarangani)
+2026-07-26T19:07:00.000Z,26 July 2026 - 07:07 PM,05.65,125.06,027,1.6,024km S 39° W of Glan (Sarangani),024,S 39° W,Glan (Sarangani)
+2026-07-26T19:03:00.000Z,26 July 2026 - 07:03 PM,05.68,125.35,019,2.4,022km S 47° E of Glan (Sarangani),022,S 47° E,Glan (Sarangani)
 2026-07-26T18:42:00.000Z,26 July 2026 - 06:42 PM,05.22,124.38,063,3.6,089km S 18° W of Kiamba (Sarangani),089,S 18° W,Kiamba (Sarangani)
 2026-07-26T18:32:00.000Z,26 July 2026 - 06:32 PM,05.78,125.31,016,2.6,012km S 66° E of Glan (Sarangani),012,S 66° E,Glan (Sarangani)
 2026-07-26T18:20:00.000Z,26 July 2026 - 06:20 PM,10.15,125.77,041,2.0,021km N 63° E of Basilisa (Dinagat Islands),021,N 63° E,Basilisa (Dinagat Islands)
@@ -71,7 +75,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-25T21:06:00.000Z,25 July 2026 - 09:06 PM,13.72,120.30,010,3.0,005km N 89° E of Looc (Occidental Mindoro),005,N 89° E,Looc (Occidental Mindoro)
 2026-07-25T21:04:00.000Z,25 July 2026 - 09:04 PM,05.81,124.42,010,4.6,029km S 16° W of Maitum (Sarangani),029,S 16° W,Maitum (Sarangani)
 2026-07-25T20:49:00.000Z,25 July 2026 - 08:49 PM,09.37,125.60,018,2.1,009km S 11° E of Kitcharao (Agusan Del Norte),009,S 11° E,Kitcharao (Agusan Del Norte)
-2026-07-25T19:45:00.000Z,25 July 2026 - 07:45 PM,13.28,124.83,003,2.3,065km S 50° E of Baras (Catanduanes),065,S 50° E,Baras (Catanduanes)
-2026-07-25T19:15:00.000Z,25 July 2026 - 07:15 PM,05.97,125.33,019,1.5,005km N 88° E of Malapatan (Sarangani),005,N 88° E,Malapatan (Sarangani)
-2026-07-25T19:10:00.000Z,25 July 2026 - 07:10 PM,05.55,124.63,129,1.9,048km S 01° E of Kiamba (Sarangani),048,S 01° E,Kiamba (Sarangani)
-2026-07-25T18:52:00.000Z,25 July 2026 - 06:52 PM,10.34,126.13,024,1.8,036km N 09° E of Burgos (Surigao Del Norte),036,N 09° E,Burgos (Surigao Del Norte)
