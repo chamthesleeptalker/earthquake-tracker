@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-28T02:38:00.000Z,28 July 2026 - 02:38 AM,09.46,125.55,002,2.3,003km N 74° W of Kitcharao (Agusan Del Norte),003,N 74° W,Kitcharao (Agusan Del Norte)
+2026-07-28T02:25:00.000Z,28 July 2026 - 02:25 AM,11.28,124.43,005,1.8,007km S 67° E of Tabango (Leyte),007,S 67° E,Tabango (Leyte)
+2026-07-28T02:11:00.000Z,28 July 2026 - 02:11 AM,05.39,125.39,029,1.6,005km S 55° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),005,S 55° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-28T02:08:00.000Z,28 July 2026 - 02:08 AM,05.97,125.56,020,1.6,011km N 56° W of Jose Abad Santos (Davao Occidental),011,N 56° W,Jose Abad Santos (Davao Occidental)
+2026-07-28T01:56:00.000Z,28 July 2026 - 01:56 AM,13.36,120.66,009,1.9,012km S 40° W of Abra De Ilog (Occidental Mindoro),012,S 40° W,Abra De Ilog (Occidental Mindoro)
+2026-07-28T01:49:00.000Z,28 July 2026 - 01:49 AM,13.55,125.38,003,1.8,108km S 83° E of Baras (Catanduanes),108,S 83° E,Baras (Catanduanes)
+2026-07-28T01:48:00.000Z,28 July 2026 - 01:48 AM,07.83,123.87,001,2.7,004km S 58° E of Sapad (Lanao Del Norte),004,S 58° E,Sapad (Lanao Del Norte)
+2026-07-28T01:38:00.000Z,28 July 2026 - 01:38 AM,05.84,125.48,018,1.9,025km S 55° E of Malapatan (Sarangani),025,S 55° E,Malapatan (Sarangani)
+2026-07-28T01:35:00.000Z,28 July 2026 - 01:35 AM,05.91,125.40,022,1.4,014km S 60° E of Malapatan (Sarangani),014,S 60° E,Malapatan (Sarangani)
 2026-07-28T00:59:00.000Z,28 July 2026 - 12:59 AM,05.68,125.39,008,2.7,025km N 22° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 22° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-28T00:49:00.000Z,28 July 2026 - 12:49 AM,09.71,126.08,025,2.1,006km S 27° E of Dapa (Surigao Del Norte),006,S 27° E,Dapa (Surigao Del Norte)
 2026-07-28T00:15:00.000Z,28 July 2026 - 12:15 AM,05.84,125.35,019,1.9,017km N 84° E of Glan (Sarangani),017,N 84° E,Glan (Sarangani)
