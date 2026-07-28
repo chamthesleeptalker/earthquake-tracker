@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-28T10:58:00.000Z,28 July 2026 - 10:58 AM,08.10,126.68,041,3.4,031km N 77° E of Lingig (Surigao Del Sur),031,N 77° E,Lingig (Surigao Del Sur)
-2026-07-28T10:41:00.000Z,28 July 2026 - 10:41 AM,16.08,119.85,032,1.4,003km N 29° W of Burgos (Pangasinan),003,N 29° W,Burgos (Pangasinan)
-2026-07-28T10:34:00.000Z,28 July 2026 - 10:34 AM,12.89,123.10,029,1.4,016km S 85° W of Claveria (Masbate),016,S 85° W,Claveria (Masbate)
-2026-07-28T10:21:00.000Z,28 July 2026 - 10:21 AM,05.73,125.31,018,2.5,015km S 48° E of Glan (Sarangani),015,S 48° E,Glan (Sarangani)
-2026-07-28T10:04:00.000Z,28 July 2026 - 10:04 AM,05.79,125.19,001,1.9,004km S 27° W of Glan (Sarangani),004,S 27° W,Glan (Sarangani)
+2026-07-28T13:09:00.000Z,28 July 2026 - 01:09 PM,13.50,120.53,037,3.0,012km N 38° E of Paluan (Occidental Mindoro),012,N 38° E,Paluan (Occidental Mindoro)
+2026-07-28T12:56:00.000Z,28 July 2026 - 12:56 PM,05.34,125.05,029,3.5,042km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),042,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-28T12:49:00.000Z,28 July 2026 - 12:49 PM,07.54,126.59,026,2.4,005km S 44° E of Baganga (Davao Oriental),005,S 44° E,Baganga (Davao Oriental)
+2026-07-28T12:22:00.000Z,28 July 2026 - 12:22 PM,19.31,121.15,033,3.0,023km N 14° W of Dalupiri Island (Calayan) (Cagayan),023,N 14° W,Dalupiri Island (Calayan) (Cagayan)
+2026-07-28T12:17:00.000Z,28 July 2026 - 12:17 PM,04.96,124.51,028,3.6,113km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),113,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-28T12:14:00.000Z,28 July 2026 - 12:14 PM,05.15,124.88,012,3.6,066km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),066,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
