@@ -1,7 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-28T13:09:00.000Z,28 July 2026 - 01:09 PM,13.50,120.53,037,3.0,012km N 38° E of Paluan (Occidental Mindoro),012,N 38° E,Paluan (Occidental Mindoro)
-2026-07-28T12:56:00.000Z,28 July 2026 - 12:56 PM,05.34,125.05,029,3.5,042km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),042,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-28T12:49:00.000Z,28 July 2026 - 12:49 PM,07.54,126.59,026,2.4,005km S 44° E of Baganga (Davao Oriental),005,S 44° E,Baganga (Davao Oriental)
-2026-07-28T12:22:00.000Z,28 July 2026 - 12:22 PM,19.31,121.15,033,3.0,023km N 14° W of Dalupiri Island (Calayan) (Cagayan),023,N 14° W,Dalupiri Island (Calayan) (Cagayan)
-2026-07-28T12:17:00.000Z,28 July 2026 - 12:17 PM,04.96,124.51,028,3.6,113km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),113,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-28T12:14:00.000Z,28 July 2026 - 12:14 PM,05.15,124.88,012,3.6,066km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),066,S 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-28T16:53:00.000Z,28 July 2026 - 04:53 PM,15.01,119.79,034,1.3,030km S 79° W of San Felipe (Zambales),030,S 79° W,San Felipe (Zambales)
+2026-07-28T16:53:00.000Z,28 July 2026 - 04:53 PM,17.80,120.24,042,1.4,022km N 90° W of Cabugao (Ilocos Sur),022,N 90° W,Cabugao (Ilocos Sur)
+2026-07-28T16:50:00.000Z,28 July 2026 - 04:50 PM,05.83,125.64,031,2.4,009km S 06° W of Jose Abad Santos (Davao Occidental),009,S 06° W,Jose Abad Santos (Davao Occidental)
+2026-07-28T16:14:00.000Z,28 July 2026 - 04:14 PM,05.52,125.29,028,3.0,019km N 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
