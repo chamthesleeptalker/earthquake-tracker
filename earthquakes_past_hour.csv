@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-29T22:55:00.000Z,29 July 2026 - 10:55 PM,05.90,125.43,021,2.2,018km S 65° E of Malapatan (Sarangani),018,S 65° E,Malapatan (Sarangani)
-2026-07-29T22:23:00.000Z,29 July 2026 - 10:23 PM,06.36,125.81,074,2.3,022km N 35° E of Don Marcelino (Davao Occidental),022,N 35° E,Don Marcelino (Davao Occidental)
-2026-07-29T22:11:00.000Z,29 July 2026 - 10:11 PM,15.38,122.83,010,5.6,093km N 36° E of Jomalig (Quezon),093,N 36° E,Jomalig (Quezon)
-2026-07-29T22:02:00.000Z,29 July 2026 - 10:02 PM,06.72,125.76,042,1.8,033km S 55° W of Lupon (Davao Oriental),033,S 55° W,Lupon (Davao Oriental)
-2026-07-29T22:01:00.000Z,29 July 2026 - 10:01 PM,08.98,125.52,018,2.0,004km South of Magallanes (Agusan Del Norte),004,South of Magallanes,Del Norte)
-2026-07-29T21:56:00.000Z,29 July 2026 - 09:56 PM,05.34,125.32,023,2.0,014km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-30T00:12:00.000Z,30 July 2026 - 12:12 AM,01.59,125.37,273,4.8,423km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),423,S 01° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-30T00:10:00.000Z,30 July 2026 - 12:10 AM,07.54,126.63,025,2.4,009km S 66° E of Baganga (Davao Oriental),009,S 66° E,Baganga (Davao Oriental)
+2026-07-30T00:01:00.000Z,30 July 2026 - 12:01 AM,06.48,125.86,033,2.1,029km N 76° E of Malita (Davao Occidental),029,N 76° E,Malita (Davao Occidental)
+2026-07-30T00:00:00.000Z,30 July 2026 - 12:00 AM,10.31,122.68,030,2.2,019km N 75° W of Hinigaran (Negros Occidental),019,N 75° W,Hinigaran (Negros Occidental)
+2026-07-29T23:23:00.000Z,29 July 2026 - 11:23 PM,12.36,124.68,019,2.4,009km N 42° E of Lope De Vega (Northern Samar),009,N 42° E,Lope De Vega (Northern Samar)
