@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-29T12:14:00.000Z,29 July 2026 - 12:14 PM,17.76,120.18,045,2.3,027km N 72° W of Magsingal (Ilocos Sur),027,N 72° W,Magsingal (Ilocos Sur)
+2026-07-29T11:10:00.000Z,29 July 2026 - 11:10 AM,08.71,126.51,012,2.1,025km S 68° E of Marihatag (Surigao Del Sur),025,S 68° E,Marihatag (Surigao Del Sur)
+2026-07-29T10:30:00.000Z,29 July 2026 - 10:30 AM,05.60,125.26,021,2.0,026km S 14° E of Glan (Sarangani),026,S 14° E,Glan (Sarangani)
+2026-07-29T10:27:00.000Z,29 July 2026 - 10:27 AM,08.71,126.22,031,2.1,004km South of San Agustin (Surigao Del Sur),004,South of San,(Surigao Del Sur)
+2026-07-29T10:06:00.000Z,29 July 2026 - 10:06 AM,13.08,123.95,035,2.0,010km S 64° E of Manito (Albay),010,S 64° E,Manito (Albay)
+2026-07-29T09:33:00.000Z,29 July 2026 - 09:33 AM,05.55,125.10,021,3.1,033km S 21° W of Glan (Sarangani),033,S 21° W,Glan (Sarangani)
+2026-07-29T09:10:00.000Z,29 July 2026 - 09:10 AM,05.28,125.27,010,3.7,022km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-29T09:06:00.000Z,29 July 2026 - 09:06 AM,10.11,125.99,025,2.4,011km N 25° W of Santa Monica (Surigao Del Norte),011,N 25° W,Santa Monica (Surigao Del Norte)
 2026-07-29T08:50:00.000Z,29 July 2026 - 08:50 AM,05.59,125.33,009,2.6,020km N 52° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 52° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-29T08:43:00.000Z,29 July 2026 - 08:43 AM,10.10,125.98,021,2.8,011km N 36° W of Santa Monica (Surigao Del Norte),011,N 36° W,Santa Monica (Surigao Del Norte)
 2026-07-29T08:39:00.000Z,29 July 2026 - 08:39 AM,10.24,126.30,010,5.0,034km N 45° E of Burgos (Surigao Del Norte),034,N 45° E,Burgos (Surigao Del Norte)
