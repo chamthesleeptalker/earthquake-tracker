@@ -1,2 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-29T12:14:00.000Z,29 July 2026 - 12:14 PM,17.76,120.18,045,2.3,027km N 72° W of Magsingal (Ilocos Sur),027,N 72° W,Magsingal (Ilocos Sur)
+2026-07-29T15:21:00.000Z,29 July 2026 - 03:21 PM,12.53,123.51,025,1.6,007km N 16° E of Baleno (Masbate),007,N 16° E,Baleno (Masbate)
+2026-07-29T15:11:00.000Z,29 July 2026 - 03:11 PM,10.15,126.19,014,3.0,019km N 42° E of Burgos (Surigao Del Norte),019,N 42° E,Burgos (Surigao Del Norte)
+2026-07-29T15:06:00.000Z,29 July 2026 - 03:06 PM,10.87,122.84,028,2.4,015km S 39° E of Anilao (Iloilo),015,S 39° E,Anilao (Iloilo)
+2026-07-29T14:43:00.000Z,29 July 2026 - 02:43 PM,05.04,125.93,016,3.4,070km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),070,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
