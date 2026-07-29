@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-07-28T07:06:00.000Z,28 July 2026 - 07:06 AM,07.52,126.86,20,5.6,033km S 79° E of Baganga (Davao Oriental),033,S 79° E,Baganga (Davao Oriental)
-2026-07-22T17:47:00.000Z,22 July 2026 - 05:47 PM,05.21,125.51,16,5.1,024km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-29T08:39:00.000Z,29 July 2026 - 08:39 AM,10.24,126.30,10,5.0,034km N 45° E of Burgos (Surigao Del Norte),034,N 45° E,Burgos (Surigao Del Norte)
 2026-07-25T03:06:00.000Z,25 July 2026 - 03:06 AM,04.75,125.29,10,4.7,075km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),075,S 11° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-27T12:47:00.000Z,27 July 2026 - 12:47 PM,05.43,125.31,10,4.6,012km N 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,N 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-25T14:46:00.000Z,25 July 2026 - 02:46 PM,04.78,125.35,15,4.5,071km S 06° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),071,S 06° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-27T04:49:00.000Z,27 July 2026 - 04:49 AM,02.10,126.96,52,4.2,404km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),404,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-26T23:22:00.000Z,26 July 2026 - 11:22 PM,05.17,125.09,17,4.1,046km S 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),046,S 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-23T00:37:00.000Z,23 July 2026 - 12:37 AM,05.51,125.22,6,4.0,024km N 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,N 64° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
