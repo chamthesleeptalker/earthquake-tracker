@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-30T04:41:00.000Z,30 July 2026 - 04:41 AM,09.63,125.93,007,3.2,004km N 73° W of Socorro (Surigao Del Norte),004,N 73° W,Socorro (Surigao Del Norte)
+2026-07-30T04:33:00.000Z,30 July 2026 - 04:33 AM,08.52,126.55,032,1.7,029km N 55° E of Hinatuan (Surigao Del Sur),029,N 55° E,Hinatuan (Surigao Del Sur)
+2026-07-30T04:07:00.000Z,30 July 2026 - 04:07 AM,09.27,126.29,015,1.7,011km S 89° E of Cortes (Surigao Del Sur),011,S 89° E,Cortes (Surigao Del Sur)
+2026-07-30T03:48:00.000Z,30 July 2026 - 03:48 AM,05.63,125.09,030,2.0,024km S 30° W of Glan (Sarangani),024,S 30° W,Glan (Sarangani)
+2026-07-30T03:47:00.000Z,30 July 2026 - 03:47 AM,05.83,125.34,023,1.9,015km N 87° E of Glan (Sarangani),015,N 87° E,Glan (Sarangani)
+2026-07-30T03:41:00.000Z,30 July 2026 - 03:41 AM,05.08,127.22,138,3.6,197km S 62° E of Jose Abad Santos (Davao Occidental),197,S 62° E,Jose Abad Santos (Davao Occidental)
 2026-07-30T03:10:00.000Z,30 July 2026 - 03:10 AM,05.29,125.03,027,2.3,045km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-30T03:06:00.000Z,30 July 2026 - 03:06 AM,11.46,126.58,036,3.0,103km N 67° E of Mercedes (Eastern Samar),103,N 67° E,Mercedes (Eastern Samar)
 2026-07-30T02:38:00.000Z,30 July 2026 - 02:38 AM,05.59,125.31,010,3.0,024km N 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,N 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
