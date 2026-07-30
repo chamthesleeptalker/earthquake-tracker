@@ -1,3 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-30T14:09:00.000Z,30 July 2026 - 02:09 PM,06.50,126.69,032,2.5,066km S 24° E of Tarragona (Davao Oriental),066,S 24° E,Tarragona (Davao Oriental)
-2026-07-30T13:15:00.000Z,30 July 2026 - 01:15 PM,05.31,125.23,039,2.0,024km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 63° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-30T16:27:00.000Z,30 July 2026 - 04:27 PM,13.36,123.00,103,2.0,017km S 15° W of Pasacao (Camarines Sur),017,S 15° W,Pasacao (Camarines Sur)
+2026-07-30T16:27:00.000Z,30 July 2026 - 04:27 PM,12.72,123.02,022,1.3,032km S 50° W of Claveria (Masbate),032,S 50° W,Claveria (Masbate)
+2026-07-30T16:21:00.000Z,30 July 2026 - 04:21 PM,08.04,126.37,001,2.3,004km S 85° W of Lingig (Surigao Del Sur),004,S 85° W,Lingig (Surigao Del Sur)
+2026-07-30T16:04:00.000Z,30 July 2026 - 04:04 PM,15.18,122.23,004,4.1,047km N 36° E of Burdeos (Quezon),047,N 36° E,Burdeos (Quezon)
+2026-07-30T15:54:00.000Z,30 July 2026 - 03:54 PM,05.59,125.29,002,3.3,024km N 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,N 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-30T15:46:00.000Z,30 July 2026 - 03:46 PM,05.32,125.34,001,1.5,014km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-30T15:43:00.000Z,30 July 2026 - 03:43 PM,09.84,125.98,027,2.6,003km S 23° E of Del Carmen (Surigao Del Norte),003,S 23° E,Del Carmen (Surigao Del Norte)
