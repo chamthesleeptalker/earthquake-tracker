@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-31T06:09:00.000Z,31 July 2026 - 06:09 AM,05.30,124.31,053,2.4,084km S 25° W of Kiamba (Sarangani),084,S 25° W,Kiamba (Sarangani)
+2026-07-31T05:46:00.000Z,31 July 2026 - 05:46 AM,05.84,125.28,026,2.5,009km N 77° E of Glan (Sarangani),009,N 77° E,Glan (Sarangani)
+2026-07-31T05:45:00.000Z,31 July 2026 - 05:45 AM,09.03,126.20,045,1.9,006km S 36° E of City Of Tandag (Surigao Del Sur),006,S 36° E,City Of Tandag (Surigao Del Sur)
+2026-07-31T05:29:00.000Z,31 July 2026 - 05:29 AM,06.88,125.86,035,1.7,021km N 71° E of Malita (Davao Occidental),021,N 71° E,Malita (Davao Occidental)
 2026-07-31T05:18:00.000Z,31 July 2026 - 05:18 AM,05.61,125.15,022,1.6,024km S 13° W of Glan (Sarangani),024,S 13° W,Glan (Sarangani)
 2026-07-31T04:57:00.000Z,31 July 2026 - 04:57 AM,20.15,121.94,033,1.5,021km S 18° E of Sabtang (Batanes),021,S 18° E,Sabtang (Batanes)
 2026-07-31T04:37:00.000Z,31 July 2026 - 04:37 AM,09.66,126.22,032,1.5,016km S 25° E of General Luna (Surigao Del Norte),016,S 25° E,General Luna (Surigao Del Norte)
@@ -71,4 +75,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-30T07:22:00.000Z,30 July 2026 - 07:22 AM,07.45,124.06,012,2.9,010km S 48° W of Balabagan (Lanao Del Sur),010,S 48° W,Balabagan (Lanao Del Sur)
 2026-07-30T07:21:00.000Z,30 July 2026 - 07:21 AM,15.54,121.70,024,1.7,028km S 43° E of San Luis (Aurora),028,S 43° E,San Luis (Aurora)
 2026-07-30T06:50:00.000Z,30 July 2026 - 06:50 AM,13.18,124.56,008,2.3,043km N 69° E of Prieto Diaz (Sorsogon),043,N 69° E,Prieto Diaz (Sorsogon)
-2026-07-30T05:39:00.000Z,30 July 2026 - 05:39 AM,05.83,125.31,021,1.8,012km N 85° E of Glan (Sarangani),012,N 85° E,Glan (Sarangani)
