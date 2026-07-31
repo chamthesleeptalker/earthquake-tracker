@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-01T00:29:00.000Z,01 August 2026 - 12:29 AM,09.61,126.24,033,1.7,021km S 25° E of General Luna (Surigao Del Norte),021,S 25° E,General Luna (Surigao Del Norte)
+2026-08-01T00:28:00.000Z,01 August 2026 - 12:28 AM,10.83,122.65,016,2.0,007km N 78° W of Dumangas (Iloilo),007,N 78° W,Dumangas (Iloilo)
+2026-08-01T00:11:00.000Z,01 August 2026 - 12:11 AM,05.73,125.43,019,1.7,027km S 68° E of Glan (Sarangani),027,S 68° E,Glan (Sarangani)
+2026-08-01T00:07:00.000Z,01 August 2026 - 12:07 AM,18.00,120.64,012,2.2,003km N 28° W of Banna (Ilocos Norte),003,N 28° W,Banna (Ilocos Norte)
+2026-08-01T00:01:00.000Z,01 August 2026 - 12:01 AM,05.31,126.30,018,3.3,094km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),094,S 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-31T23:40:00.000Z,31 July 2026 - 11:40 PM,07.96,127.37,007,2.0,099km N 65° E of Baganga (Davao Oriental),099,N 65° E,Baganga (Davao Oriental)
+2026-07-31T23:29:00.000Z,31 July 2026 - 11:29 PM,07.86,126.79,024,1.5,038km N 79° E of Cateel (Davao Oriental),038,N 79° E,Cateel (Davao Oriental)
+2026-07-31T23:23:00.000Z,31 July 2026 - 11:23 PM,05.85,125.47,032,1.9,021km S 71° W of Jose Abad Santos (Davao Occidental),021,S 71° W,Jose Abad Santos (Davao Occidental)
 2026-07-31T23:06:00.000Z,31 July 2026 - 11:06 PM,06.62,126.28,013,1.4,023km S 81° E of Governor Generoso (Davao Oriental),023,S 81° E,Governor Generoso (Davao Oriental)
 2026-07-31T23:03:00.000Z,31 July 2026 - 11:03 PM,03.09,126.23,114,3.2,272km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),272,S 19° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-31T22:46:00.000Z,31 July 2026 - 10:46 PM,05.98,125.42,021,1.8,014km N 84° E of Malapatan (Sarangani),014,N 84° E,Malapatan (Sarangani)
