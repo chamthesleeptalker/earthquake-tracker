@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-07-31T12:08:00.000Z,31 July 2026 - 12:08 PM,07.92,124.61,007,1.3,017km N 27° W of Amai Manabilang (Lanao Del Sur),017,N 27° W,Amai Manabilang (Lanao Del Sur)
+2026-07-31T10:45:00.000Z,31 July 2026 - 10:45 AM,20.46,121.93,029,2.4,004km N 76° W of Basco (Batanes),004,N 76° W,Basco (Batanes)
+2026-07-31T10:43:00.000Z,31 July 2026 - 10:43 AM,13.13,122.95,027,2.2,036km S 54° E of San Andres (Quezon),036,S 54° E,San Andres (Quezon)
+2026-07-31T10:39:00.000Z,31 July 2026 - 10:39 AM,05.85,124.83,024,2.9,018km S 86° W of Maasim (Sarangani),018,S 86° W,Maasim (Sarangani)
+2026-07-31T10:19:00.000Z,31 July 2026 - 10:19 AM,07.78,126.45,023,2.0,001km S 14° W of Cateel (Davao Oriental),001,S 14° W,Cateel (Davao Oriental)
+2026-07-31T10:07:00.000Z,31 July 2026 - 10:07 AM,09.97,126.27,016,1.8,020km N 80° E of San Isidro (Surigao Del Norte),020,N 80° E,San Isidro (Surigao Del Norte)
+2026-07-31T09:43:00.000Z,31 July 2026 - 09:43 AM,05.31,125.18,036,4.2,029km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-07-31T09:27:00.000Z,31 July 2026 - 09:27 AM,05.71,125.13,021,2.1,014km S 33° W of Glan (Sarangani),014,S 33° W,Glan (Sarangani)
+2026-07-31T09:12:00.000Z,31 July 2026 - 09:12 AM,05.57,126.72,081,3.1,125km S 72° E of Jose Abad Santos (Davao Occidental),125,S 72° E,Jose Abad Santos (Davao Occidental)
 2026-07-31T08:33:00.000Z,31 July 2026 - 08:33 AM,07.36,126.62,139,2.6,006km N 61° E of Caraga (Davao Oriental),006,N 61° E,Caraga (Davao Oriental)
 2026-07-31T08:10:00.000Z,31 July 2026 - 08:10 AM,05.90,126.35,135,2.2,078km S 89° E of Jose Abad Santos (Davao Occidental),078,S 89° E,Jose Abad Santos (Davao Occidental)
 2026-07-31T07:56:00.000Z,31 July 2026 - 07:56 AM,05.62,125.25,021,2.5,023km S 12° E of Glan (Sarangani),023,S 12° E,Glan (Sarangani)
