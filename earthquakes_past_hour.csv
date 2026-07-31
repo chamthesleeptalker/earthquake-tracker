@@ -1,6 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-07-31T06:09:00.000Z,31 July 2026 - 06:09 AM,05.30,124.31,053,2.4,084km S 25° W of Kiamba (Sarangani),084,S 25° W,Kiamba (Sarangani)
-2026-07-31T05:46:00.000Z,31 July 2026 - 05:46 AM,05.84,125.28,026,2.5,009km N 77° E of Glan (Sarangani),009,N 77° E,Glan (Sarangani)
-2026-07-31T05:45:00.000Z,31 July 2026 - 05:45 AM,09.03,126.20,045,1.9,006km S 36° E of City Of Tandag (Surigao Del Sur),006,S 36° E,City Of Tandag (Surigao Del Sur)
-2026-07-31T05:29:00.000Z,31 July 2026 - 05:29 AM,06.88,125.86,035,1.7,021km N 71° E of Malita (Davao Occidental),021,N 71° E,Malita (Davao Occidental)
-2026-07-31T05:18:00.000Z,31 July 2026 - 05:18 AM,05.61,125.15,022,1.6,024km S 13° W of Glan (Sarangani),024,S 13° W,Glan (Sarangani)
+2026-07-31T08:33:00.000Z,31 July 2026 - 08:33 AM,07.36,126.62,139,2.6,006km N 61° E of Caraga (Davao Oriental),006,N 61° E,Caraga (Davao Oriental)
+2026-07-31T08:10:00.000Z,31 July 2026 - 08:10 AM,05.90,126.35,135,2.2,078km S 89° E of Jose Abad Santos (Davao Occidental),078,S 89° E,Jose Abad Santos (Davao Occidental)
+2026-07-31T07:56:00.000Z,31 July 2026 - 07:56 AM,05.62,125.25,021,2.5,023km S 12° E of Glan (Sarangani),023,S 12° E,Glan (Sarangani)
