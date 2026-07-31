@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-01T03:47:00.000Z,01 August 2026 - 03:47 AM,06.78,125.87,033,1.6,020km S 50° W of Lupon (Davao Oriental),020,S 50° W,Lupon (Davao Oriental)
+2026-08-01T03:35:00.000Z,01 August 2026 - 03:35 AM,12.84,123.00,022,3.6,028km S 75° W of Claveria (Masbate),028,S 75° W,Claveria (Masbate)
+2026-08-01T03:32:00.000Z,01 August 2026 - 03:32 AM,05.45,125.24,011,2.6,021km N 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 77° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-01T03:14:00.000Z,01 August 2026 - 03:14 AM,04.64,125.20,024,3.2,089km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),089,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-01T02:39:00.000Z,01 August 2026 - 02:39 AM,09.31,124.96,035,1.5,025km N 47° E of Mahinog (Camiguin),025,N 47° E,Mahinog (Camiguin)
 2026-08-01T02:12:00.000Z,01 August 2026 - 02:12 AM,13.37,124.51,033,2.0,035km S 25° E of Baras (Catanduanes),035,S 25° E,Baras (Catanduanes)
 2026-08-01T02:09:00.000Z,01 August 2026 - 02:09 AM,11.26,122.05,033,1.6,004km S 30° E of Tibiao (Antique),004,S 30° E,Tibiao (Antique)
 2026-08-01T02:06:00.000Z,01 August 2026 - 02:06 AM,06.56,125.67,023,1.8,017km N 21° E of Malita (Davao Occidental),017,N 21° E,Malita (Davao Occidental)
