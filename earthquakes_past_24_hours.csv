@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-01T17:54:00.000Z,01 August 2026 - 05:54 PM,05.57,125.07,016,3.2,031km S 28° W of Glan (Sarangani),031,S 28° W,Glan (Sarangani)
+2026-08-01T17:51:00.000Z,01 August 2026 - 05:51 PM,10.33,125.68,059,3.0,011km S 74° E of Loreto (Dinagat Islands),011,S 74° E,Loreto (Dinagat Islands)
+2026-08-01T17:12:00.000Z,01 August 2026 - 05:12 PM,06.79,124.22,017,1.6,011km S 50° E of South Upi (Maguindanao Del Sur),011,S 50° E,South Upi (Maguindanao Del Sur)
 2026-08-01T13:22:00.000Z,01 August 2026 - 01:22 PM,05.75,125.33,018,1.7,016km S 61° E of Glan (Sarangani),016,S 61° E,Glan (Sarangani)
 2026-08-01T12:39:00.000Z,01 August 2026 - 12:39 PM,08.68,125.99,006,2.0,012km N 43° E of Prosperidad (Agusan Del Sur),012,N 43° E,Prosperidad (Agusan Del Sur)
 2026-08-01T12:34:00.000Z,01 August 2026 - 12:34 PM,08.54,122.80,030,2.1,027km N 66° W of Jose Dalman (Zamboanga Del Norte),027,N 66° W,Jose Dalman (Zamboanga Del Norte)
@@ -72,8 +75,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-31T18:58:00.000Z,31 July 2026 - 06:58 PM,14.77,121.38,011,2.4,025km N 81° E of Rodriguez (Rizal),025,N 81° E,Rodriguez (Rizal)
 2026-07-31T18:22:00.000Z,31 July 2026 - 06:22 PM,05.74,125.24,006,2.0,010km S 23° E of Glan (Sarangani),010,S 23° E,Glan (Sarangani)
 2026-07-31T18:09:00.000Z,31 July 2026 - 06:09 PM,10.61,126.11,028,2.6,045km S 71° E of Homonhon Island (Guiuan) (Eastern Samar),045,S 71° E,Homonhon Island (Guiuan) (Eastern Samar)
-2026-07-31T17:15:00.000Z,31 July 2026 - 05:15 PM,04.98,125.60,022,2.2,051km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 23° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-31T16:51:00.000Z,31 July 2026 - 04:51 PM,05.61,125.38,027,2.4,018km N 35° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),018,N 35° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-31T16:11:00.000Z,31 July 2026 - 04:11 PM,20.61,120.39,018,3.6,152km S 82° W of Itbayat (Batanes),152,S 82° W,Itbayat (Batanes)
-2026-07-31T14:30:00.000Z,31 July 2026 - 02:30 PM,08.98,126.21,022,3.0,005km S 31° W of Tago (Surigao Del Sur),005,S 31° W,Tago (Surigao Del Sur)
-2026-07-31T13:34:00.000Z,31 July 2026 - 01:34 PM,17.97,120.99,009,2.0,022km S 74° W of Kabugao (Apayao),022,S 74° W,Kabugao (Apayao)
