@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-02T07:45:00.000Z,02 August 2026 - 07:45 AM,13.61,121.68,029,2.0,026km N 45° W of Boac (Marinduque),026,N 45° W,Boac (Marinduque)
+2026-08-02T07:16:00.000Z,02 August 2026 - 07:16 AM,15.16,122.20,009,2.6,044km N 35° E of Burdeos (Quezon),044,N 35° E,Burdeos (Quezon)
 2026-08-02T06:34:00.000Z,02 August 2026 - 06:34 AM,08.41,125.83,019,2.4,006km S 49° E of Talacogon (Agusan Del Sur),006,S 49° E,Talacogon (Agusan Del Sur)
 2026-08-02T06:16:00.000Z,02 August 2026 - 06:16 AM,11.11,124.69,005,2.8,013km S 49° W of Jaro (Leyte),013,S 49° W,Jaro (Leyte)
 2026-08-02T04:39:00.000Z,02 August 2026 - 04:39 AM,10.71,124.18,020,2.1,018km S 84° E of Catmon (Cebu),018,S 84° E,Catmon (Cebu)
@@ -63,8 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-01T09:35:00.000Z,01 August 2026 - 09:35 AM,05.65,125.22,015,3.3,019km S 07° E of Glan (Sarangani),019,S 07° E,Glan (Sarangani)
 2026-08-01T08:40:00.000Z,01 August 2026 - 08:40 AM,09.56,125.90,141,2.0,010km S 47° W of Socorro (Surigao Del Norte),010,S 47° W,Socorro (Surigao Del Norte)
 2026-08-01T08:11:00.000Z,01 August 2026 - 08:11 AM,05.81,125.31,017,1.9,012km S 82° E of Glan (Sarangani),012,S 82° E,Glan (Sarangani)
-2026-08-01T07:36:00.000Z,01 August 2026 - 07:36 AM,10.77,126.36,006,4.0,069km N 88° E of Homonhon Island (Guiuan) (Eastern Samar),069,N 88° E,Homonhon Island (Guiuan) (Eastern Samar)
-2026-08-01T07:11:00.000Z,01 August 2026 - 07:11 AM,05.55,125.30,026,2.1,021km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-01T06:40:00.000Z,01 August 2026 - 06:40 AM,12.84,123.14,029,1.9,014km S 59° W of Claveria (Masbate),014,S 59° W,Claveria (Masbate)
-2026-08-01T06:39:00.000Z,01 August 2026 - 06:39 AM,06.59,125.79,043,2.1,028km N 45° E of Malita (Davao Occidental),028,N 45° E,Malita (Davao Occidental)
-2026-08-01T06:37:00.000Z,01 August 2026 - 06:37 AM,05.75,125.32,033,1.7,015km S 56° E of Glan (Sarangani),015,S 56° E,Glan (Sarangani)
