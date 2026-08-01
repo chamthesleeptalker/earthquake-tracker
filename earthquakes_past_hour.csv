@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-01T11:42:00.000Z,01 August 2026 - 11:42 AM,05.60,125.25,010,4.9,025km S 11° E of Glan (Sarangani),025,S 11° E,Glan (Sarangani)
-2026-08-01T11:10:00.000Z,01 August 2026 - 11:10 AM,05.49,125.32,006,2.8,015km N 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,N 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-01T10:42:00.000Z,01 August 2026 - 10:42 AM,04.64,125.53,010,5.0,086km S 8° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),086,S 8° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-01T13:22:00.000Z,01 August 2026 - 01:22 PM,05.75,125.33,018,1.7,016km S 61° E of Glan (Sarangani),016,S 61° E,Glan (Sarangani)
+2026-08-01T12:39:00.000Z,01 August 2026 - 12:39 PM,08.68,125.99,006,2.0,012km N 43° E of Prosperidad (Agusan Del Sur),012,N 43° E,Prosperidad (Agusan Del Sur)
+2026-08-01T12:34:00.000Z,01 August 2026 - 12:34 PM,08.54,122.80,030,2.1,027km N 66° W of Jose Dalman (Zamboanga Del Norte),027,N 66° W,Jose Dalman (Zamboanga Del Norte)
+2026-08-01T12:29:00.000Z,01 August 2026 - 12:29 PM,15.06,122.07,010,3.6,026km N 24° E of Burdeos (Quezon),026,N 24° E,Burdeos (Quezon)
+2026-08-01T12:25:00.000Z,01 August 2026 - 12:25 PM,06.41,126.19,133,2.2,030km S 25° E of Governor Generoso (Davao Oriental),030,S 25° E,Governor Generoso (Davao Oriental)
