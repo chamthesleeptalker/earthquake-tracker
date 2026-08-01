@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-01T17:54:00.000Z,01 August 2026 - 05:54 PM,05.57,125.07,016,3.2,031km S 28° W of Glan (Sarangani),031,S 28° W,Glan (Sarangani)
-2026-08-01T17:51:00.000Z,01 August 2026 - 05:51 PM,10.33,125.68,059,3.0,011km S 74° E of Loreto (Dinagat Islands),011,S 74° E,Loreto (Dinagat Islands)
-2026-08-01T17:12:00.000Z,01 August 2026 - 05:12 PM,06.79,124.22,017,1.6,011km S 50° E of South Upi (Maguindanao Del Sur),011,S 50° E,South Upi (Maguindanao Del Sur)
+2026-08-01T19:51:00.000Z,01 August 2026 - 07:51 PM,05.64,125.32,003,2.7,020km S 32° E of Glan (Sarangani),020,S 32° E,Glan (Sarangani)
+2026-08-01T19:47:00.000Z,01 August 2026 - 07:47 PM,05.96,127.15,008,2.9,142km S 57° E of Governor Generoso (Davao Oriental),142,S 57° E,Governor Generoso (Davao Oriental)
+2026-08-01T19:24:00.000Z,01 August 2026 - 07:24 PM,05.71,125.20,003,2.1,012km S 01° W of Glan (Sarangani),012,S 01° W,Glan (Sarangani)
+2026-08-01T19:06:00.000Z,01 August 2026 - 07:06 PM,11.89,125.92,013,3.0,050km S 70° E of Dolores (Eastern Samar),050,S 70° E,Dolores (Eastern Samar)
+2026-08-01T19:05:00.000Z,01 August 2026 - 07:05 PM,18.56,120.59,007,2.1,008km N 46° W of Burgos (Ilocos Norte),008,N 46° W,Burgos (Ilocos Norte)
