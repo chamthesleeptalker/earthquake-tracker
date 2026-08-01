@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-01T11:42:00.000Z,01 August 2026 - 11:42 AM,05.60,125.25,010,4.9,025km S 11° E of Glan (Sarangani),025,S 11° E,Glan (Sarangani)
+2026-08-01T11:10:00.000Z,01 August 2026 - 11:10 AM,05.49,125.32,006,2.8,015km N 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,N 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-01T10:42:00.000Z,01 August 2026 - 10:42 AM,04.64,125.53,010,5.0,086km S 8° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),086,S 8° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-01T10:04:00.000Z,01 August 2026 - 10:04 AM,09.59,126.09,024,2.2,014km S 78° E of Socorro (Surigao Del Norte),014,S 78° E,Socorro (Surigao Del Norte)
+2026-08-01T10:04:00.000Z,01 August 2026 - 10:04 AM,09.76,126.25,029,2.0,011km S 82° E of General Luna (Surigao Del Norte),011,S 82° E,General Luna (Surigao Del Norte)
+2026-08-01T09:35:00.000Z,01 August 2026 - 09:35 AM,05.65,125.22,015,3.3,019km S 07° E of Glan (Sarangani),019,S 07° E,Glan (Sarangani)
+2026-08-01T08:40:00.000Z,01 August 2026 - 08:40 AM,09.56,125.90,141,2.0,010km S 47° W of Socorro (Surigao Del Norte),010,S 47° W,Socorro (Surigao Del Norte)
+2026-08-01T08:11:00.000Z,01 August 2026 - 08:11 AM,05.81,125.31,017,1.9,012km S 82° E of Glan (Sarangani),012,S 82° E,Glan (Sarangani)
 2026-08-01T07:36:00.000Z,01 August 2026 - 07:36 AM,10.77,126.36,006,4.0,069km N 88° E of Homonhon Island (Guiuan) (Eastern Samar),069,N 88° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-08-01T07:11:00.000Z,01 August 2026 - 07:11 AM,05.55,125.30,026,2.1,021km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-01T06:40:00.000Z,01 August 2026 - 06:40 AM,12.84,123.14,029,1.9,014km S 59° W of Claveria (Masbate),014,S 59° W,Claveria (Masbate)
