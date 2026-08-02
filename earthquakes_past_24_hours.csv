@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-02T17:47:00.000Z,02 August 2026 - 05:47 PM,11.06,122.88,034,2.0,004km N 65° E of Barotac Viejo (Iloilo),004,N 65° E,Barotac Viejo (Iloilo)
+2026-08-02T17:45:00.000Z,02 August 2026 - 05:45 PM,14.01,120.18,002,2.5,018km N 22° E of Lubang (Occidental Mindoro),018,N 22° E,Lubang (Occidental Mindoro)
+2026-08-02T17:18:00.000Z,02 August 2026 - 05:18 PM,16.88,119.72,019,3.0,058km N 18° W of Bolinao (Pangasinan),058,N 18° W,Bolinao (Pangasinan)
+2026-08-02T16:48:00.000Z,02 August 2026 - 04:48 PM,06.06,126.34,049,2.7,073km S 78° E of Don Marcelino (Davao Occidental),073,S 78° E,Don Marcelino (Davao Occidental)
+2026-08-02T16:41:00.000Z,02 August 2026 - 04:41 PM,05.56,125.30,016,2.2,021km N 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 39° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T16:38:00.000Z,02 August 2026 - 04:38 PM,06.14,125.56,088,1.9,016km S 68° W of Don Marcelino (Davao Occidental),016,S 68° W,Don Marcelino (Davao Occidental)
 2026-08-02T15:47:00.000Z,02 August 2026 - 03:47 PM,08.80,127.31,020,2.2,111km N 90° E of Marihatag (Surigao Del Sur),111,N 90° E,Marihatag (Surigao Del Sur)
 2026-08-02T15:43:00.000Z,02 August 2026 - 03:43 PM,06.54,126.31,031,1.8,030km S 64° E of Governor Generoso (Davao Oriental),030,S 64° E,Governor Generoso (Davao Oriental)
 2026-08-02T15:35:00.000Z,02 August 2026 - 03:35 PM,10.94,124.05,030,1.9,014km S 31° E of City Of Bogo (Cebu),014,S 31° E,City Of Bogo (Cebu)
@@ -67,4 +73,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-01T19:05:00.000Z,01 August 2026 - 07:05 PM,18.56,120.59,007,2.1,008km N 46° W of Burgos (Ilocos Norte),008,N 46° W,Burgos (Ilocos Norte)
 2026-08-01T17:54:00.000Z,01 August 2026 - 05:54 PM,05.57,125.07,016,3.2,031km S 28° W of Glan (Sarangani),031,S 28° W,Glan (Sarangani)
 2026-08-01T17:51:00.000Z,01 August 2026 - 05:51 PM,10.33,125.68,059,3.0,011km S 74° E of Loreto (Dinagat Islands),011,S 74° E,Loreto (Dinagat Islands)
-2026-08-01T17:12:00.000Z,01 August 2026 - 05:12 PM,06.79,124.22,017,1.6,011km S 50° E of South Upi (Maguindanao Del Sur),011,S 50° E,South Upi (Maguindanao Del Sur)
