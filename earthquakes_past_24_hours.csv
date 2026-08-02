@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-02T18:59:00.000Z,02 August 2026 - 06:59 PM,05.48,125.24,002,3.2,021km N 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T18:32:00.000Z,02 August 2026 - 06:32 PM,05.48,125.47,027,1.9,001km N 23° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),001,N 23° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T18:31:00.000Z,02 August 2026 - 06:31 PM,09.48,126.76,016,2.4,067km N 70° E of Cortes (Surigao Del Sur),067,N 70° E,Cortes (Surigao Del Sur)
 2026-08-02T17:47:00.000Z,02 August 2026 - 05:47 PM,11.06,122.88,034,2.0,004km N 65° E of Barotac Viejo (Iloilo),004,N 65° E,Barotac Viejo (Iloilo)
 2026-08-02T17:45:00.000Z,02 August 2026 - 05:45 PM,14.01,120.18,002,2.5,018km N 22° E of Lubang (Occidental Mindoro),018,N 22° E,Lubang (Occidental Mindoro)
 2026-08-02T17:18:00.000Z,02 August 2026 - 05:18 PM,16.88,119.72,019,3.0,058km N 18° W of Bolinao (Pangasinan),058,N 18° W,Bolinao (Pangasinan)
@@ -71,5 +74,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-01T19:24:00.000Z,01 August 2026 - 07:24 PM,05.71,125.20,003,2.1,012km S 01° W of Glan (Sarangani),012,S 01° W,Glan (Sarangani)
 2026-08-01T19:06:00.000Z,01 August 2026 - 07:06 PM,11.89,125.92,013,3.0,050km S 70° E of Dolores (Eastern Samar),050,S 70° E,Dolores (Eastern Samar)
 2026-08-01T19:05:00.000Z,01 August 2026 - 07:05 PM,18.56,120.59,007,2.1,008km N 46° W of Burgos (Ilocos Norte),008,N 46° W,Burgos (Ilocos Norte)
-2026-08-01T17:54:00.000Z,01 August 2026 - 05:54 PM,05.57,125.07,016,3.2,031km S 28° W of Glan (Sarangani),031,S 28° W,Glan (Sarangani)
-2026-08-01T17:51:00.000Z,01 August 2026 - 05:51 PM,10.33,125.68,059,3.0,011km S 74° E of Loreto (Dinagat Islands),011,S 74° E,Loreto (Dinagat Islands)

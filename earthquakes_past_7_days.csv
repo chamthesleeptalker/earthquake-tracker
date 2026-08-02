@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-02T18:59:00.000Z,02 August 2026 - 06:59 PM,05.48,125.24,002,3.2,021km N 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T18:32:00.000Z,02 August 2026 - 06:32 PM,05.48,125.47,027,1.9,001km N 23° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),001,N 23° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T18:31:00.000Z,02 August 2026 - 06:31 PM,09.48,126.76,016,2.4,067km N 70° E of Cortes (Surigao Del Sur),067,N 70° E,Cortes (Surigao Del Sur)
 2026-08-02T17:47:00.000Z,02 August 2026 - 05:47 PM,11.06,122.88,034,2.0,004km N 65° E of Barotac Viejo (Iloilo),004,N 65° E,Barotac Viejo (Iloilo)
 2026-08-02T17:45:00.000Z,02 August 2026 - 05:45 PM,14.01,120.18,002,2.5,018km N 22° E of Lubang (Occidental Mindoro),018,N 22° E,Lubang (Occidental Mindoro)
 2026-08-02T17:18:00.000Z,02 August 2026 - 05:18 PM,16.88,119.72,019,3.0,058km N 18° W of Bolinao (Pangasinan),058,N 18° W,Bolinao (Pangasinan)
@@ -541,8 +544,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-26T19:31:00.000Z,26 July 2026 - 07:31 PM,06.13,124.49,028,1.8,008km N 03° W of Maitum (Sarangani),008,N 03° W,Maitum (Sarangani)
 2026-07-26T19:07:00.000Z,26 July 2026 - 07:07 PM,05.65,125.06,027,1.6,024km S 39° W of Glan (Sarangani),024,S 39° W,Glan (Sarangani)
 2026-07-26T19:03:00.000Z,26 July 2026 - 07:03 PM,05.68,125.35,019,2.4,022km S 47° E of Glan (Sarangani),022,S 47° E,Glan (Sarangani)
-2026-07-26T18:42:00.000Z,26 July 2026 - 06:42 PM,05.22,124.38,063,3.6,089km S 18° W of Kiamba (Sarangani),089,S 18° W,Kiamba (Sarangani)
-2026-07-26T18:32:00.000Z,26 July 2026 - 06:32 PM,05.78,125.31,016,2.6,012km S 66° E of Glan (Sarangani),012,S 66° E,Glan (Sarangani)
-2026-07-26T18:20:00.000Z,26 July 2026 - 06:20 PM,10.15,125.77,041,2.0,021km N 63° E of Basilisa (Dinagat Islands),021,N 63° E,Basilisa (Dinagat Islands)
-2026-07-26T18:15:00.000Z,26 July 2026 - 06:15 PM,15.23,120.30,032,1.6,027km N 74° E of Cabangan (Zambales),027,N 74° E,Cabangan (Zambales)
-2026-07-26T17:52:00.000Z,26 July 2026 - 05:52 PM,14.10,120.15,046,2.5,027km N 07° E of Lubang (Occidental Mindoro),027,N 07° E,Lubang (Occidental Mindoro)
