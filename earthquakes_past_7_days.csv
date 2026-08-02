@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-03T03:18:00.000Z,03 August 2026 - 03:18 AM,12.95,124.64,009,2.0,042km N 45° E of Biri (Northern Samar),042,N 45° E,Biri (Northern Samar)
+2026-08-03T02:54:00.000Z,03 August 2026 - 02:54 AM,16.46,120.39,030,1.9,005km N 58° E of Caba (La Union),005,N 58° E,Caba (La Union)
+2026-08-03T02:52:00.000Z,03 August 2026 - 02:52 AM,05.64,125.38,015,2.8,021km N 28° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 28° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-03T02:20:00.000Z,03 August 2026 - 02:20 AM,12.82,122.95,022,2.0,033km S 74° W of Claveria (Masbate),033,S 74° W,Claveria (Masbate)
 2026-08-03T02:17:00.000Z,03 August 2026 - 02:17 AM,08.17,125.80,041,1.9,007km S 84° W of Loreto (Agusan Del Sur),007,S 84° W,Loreto (Agusan Del Sur)
 2026-08-03T02:15:00.000Z,03 August 2026 - 02:15 AM,07.35,126.79,021,2.6,024km N 85° E of Caraga (Davao Oriental),024,N 85° E,Caraga (Davao Oriental)
 2026-08-03T02:06:00.000Z,03 August 2026 - 02:06 AM,10.98,123.66,013,2.4,036km S 78° W of City Of Bogo (Cebu),036,S 78° W,City Of Bogo (Cebu)
@@ -509,6 +513,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-27T03:45:00.000Z,27 July 2026 - 03:45 AM,05.52,125.14,019,2.0,034km N 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,N 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-27T03:38:00.000Z,27 July 2026 - 03:38 AM,18.54,121.21,028,2.1,003km S 50° W of Sanchez-mira (Cagayan),003,S 50° W,Sanchez-mira (Cagayan)
 2026-07-27T03:34:00.000Z,27 July 2026 - 03:34 AM,05.03,124.60,034,1.9,100km S 65° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),100,S 65° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-27T03:10:00.000Z,27 July 2026 - 03:10 AM,05.48,125.42,040,2.4,006km N 79° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),006,N 79° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-27T02:49:00.000Z,27 July 2026 - 02:49 AM,08.26,126.31,070,2.4,005km N 06° W of City Of Bislig (Surigao Del Sur),005,N 06° W,City Of Bislig (Surigao Del Sur)
-2026-07-27T02:41:00.000Z,27 July 2026 - 02:41 AM,09.32,126.74,008,2.5,060km N 86° E of Cortes (Surigao Del Sur),060,N 86° E,Cortes (Surigao Del Sur)
