@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-02T12:54:00.000Z,02 August 2026 - 12:54 PM,12.75,123.08,025,2.4,025km S 46° W of Claveria (Masbate),025,S 46° W,Claveria (Masbate)
-2026-08-02T12:48:00.000Z,02 August 2026 - 12:48 PM,07.79,124.63,001,1.8,004km N 56° W of Kalilangan (Bukidnon),004,N 56° W,Kalilangan (Bukidnon)
+2026-08-02T15:47:00.000Z,02 August 2026 - 03:47 PM,08.80,127.31,020,2.2,111km N 90° E of Marihatag (Surigao Del Sur),111,N 90° E,Marihatag (Surigao Del Sur)
+2026-08-02T15:43:00.000Z,02 August 2026 - 03:43 PM,06.54,126.31,031,1.8,030km S 64° E of Governor Generoso (Davao Oriental),030,S 64° E,Governor Generoso (Davao Oriental)
+2026-08-02T15:35:00.000Z,02 August 2026 - 03:35 PM,10.94,124.05,030,1.9,014km S 31° E of City Of Bogo (Cebu),014,S 31° E,City Of Bogo (Cebu)
+2026-08-02T15:24:00.000Z,02 August 2026 - 03:24 PM,08.54,125.70,021,2.1,006km N 41° W of San Luis (Agusan Del Sur),006,N 41° W,San Luis (Agusan Del Sur)
+2026-08-02T14:53:00.000Z,02 August 2026 - 02:53 PM,05.54,125.43,018,3.3,009km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,N 30° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
