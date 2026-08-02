@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-02T23:38:00.000Z,02 August 2026 - 11:38 PM,15.18,122.21,010,3.8,045km N 35° E of Burdeos (Quezon),045,N 35° E,Burdeos (Quezon)
+2026-08-02T22:47:00.000Z,02 August 2026 - 10:47 PM,05.36,125.28,031,2.1,016km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-02T22:20:00.000Z,02 August 2026 - 10:20 PM,05.83,124.86,030,2.3,015km S 77° W of Maasim (Sarangani),015,S 77° W,Maasim (Sarangani)
 2026-08-02T22:17:00.000Z,02 August 2026 - 10:17 PM,09.15,122.20,006,2.3,058km S 30° W of Hinoba-an (Negros Occidental),058,S 30° W,Hinoba-an (Negros Occidental)
 2026-08-02T22:11:00.000Z,02 August 2026 - 10:11 PM,05.64,125.40,028,2.4,020km N 23° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 23° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
