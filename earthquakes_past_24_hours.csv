@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-03T04:31:00.000Z,03 August 2026 - 04:31 AM,06.70,126.58,109,3.6,042km S 21° E of Tarragona (Davao Oriental),042,S 21° E,Tarragona (Davao Oriental)
+2026-08-03T04:30:00.000Z,03 August 2026 - 04:30 AM,10.80,126.24,043,2.1,057km N 84° E of Homonhon Island (Guiuan) (Eastern Samar),057,N 84° E,Homonhon Island (Guiuan) (Eastern Samar)
+2026-08-03T04:21:00.000Z,03 August 2026 - 04:21 AM,08.36,126.58,029,3.3,027km S 90° E of Hinatuan (Surigao Del Sur),027,S 90° E,Hinatuan (Surigao Del Sur)
+2026-08-03T04:20:00.000Z,03 August 2026 - 04:20 AM,08.37,126.59,025,2.5,028km East of Hinatuan (Surigao Del Sur),028,East of Hinatuan,Del Sur)
+2026-08-03T04:14:00.000Z,03 August 2026 - 04:14 AM,08.22,122.00,040,1.8,048km N 19° W of Baliguian (Zamboanga Del Norte),048,N 19° W,Baliguian (Zamboanga Del Norte)
 2026-08-03T03:18:00.000Z,03 August 2026 - 03:18 AM,12.95,124.64,009,2.0,042km N 45° E of Biri (Northern Samar),042,N 45° E,Biri (Northern Samar)
 2026-08-03T02:54:00.000Z,03 August 2026 - 02:54 AM,16.46,120.39,030,1.9,005km N 58° E of Caba (La Union),005,N 58° E,Caba (La Union)
 2026-08-03T02:52:00.000Z,03 August 2026 - 02:52 AM,05.64,125.38,015,2.8,021km N 28° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 28° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -55,5 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-02T06:16:00.000Z,02 August 2026 - 06:16 AM,11.11,124.69,005,2.8,013km S 49° W of Jaro (Leyte),013,S 49° W,Jaro (Leyte)
 2026-08-02T04:39:00.000Z,02 August 2026 - 04:39 AM,10.71,124.18,020,2.1,018km S 84° E of Catmon (Cebu),018,S 84° E,Catmon (Cebu)
 2026-08-02T04:35:00.000Z,02 August 2026 - 04:35 AM,05.41,125.10,021,1.8,036km S 90° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 90° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-02T04:08:00.000Z,02 August 2026 - 04:08 AM,02.79,126.25,179,3.7,304km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),304,S 18° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-02T04:01:00.000Z,02 August 2026 - 04:01 AM,05.48,125.39,007,2.1,009km N 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),009,N 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
