@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-03T05:22:00.000Z,03 August 2026 - 05:22 AM,05.76,126.99,015,2.6,150km S 83° E of Jose Abad Santos (Davao Occidental),150,S 83° E,Jose Abad Santos (Davao Occidental)
 2026-08-03T04:31:00.000Z,03 August 2026 - 04:31 AM,06.70,126.58,109,3.6,042km S 21° E of Tarragona (Davao Oriental),042,S 21° E,Tarragona (Davao Oriental)
 2026-08-03T04:30:00.000Z,03 August 2026 - 04:30 AM,10.80,126.24,043,2.1,057km N 84° E of Homonhon Island (Guiuan) (Eastern Samar),057,N 84° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-08-03T04:21:00.000Z,03 August 2026 - 04:21 AM,08.36,126.58,029,3.3,027km S 90° E of Hinatuan (Surigao Del Sur),027,S 90° E,Hinatuan (Surigao Del Sur)
@@ -509,5 +510,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-27T05:45:00.000Z,27 July 2026 - 05:45 AM,12.27,125.06,027,2.8,009km S 23° E of Las Navas (Northern Samar),009,S 23° E,Las Navas (Northern Samar)
 2026-07-27T05:34:00.000Z,27 July 2026 - 05:34 AM,05.82,125.00,009,3.3,005km S 01° W of Maasim (Sarangani),005,S 01° W,Maasim (Sarangani)
 2026-07-27T05:22:00.000Z,27 July 2026 - 05:22 AM,14.91,122.59,005,2.7,036km N 50° E of Jomalig (Quezon),036,N 50° E,Jomalig (Quezon)
-2026-07-27T05:19:00.000Z,27 July 2026 - 05:19 AM,14.97,122.64,004,3.4,046km N 48° E of Jomalig (Quezon),046,N 48° E,Jomalig (Quezon)
-2026-07-27T04:49:00.000Z,27 July 2026 - 04:49 AM,02.10,126.96,052,4.2,404km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),404,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)

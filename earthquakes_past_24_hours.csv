@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-03T05:22:00.000Z,03 August 2026 - 05:22 AM,05.76,126.99,015,2.6,150km S 83° E of Jose Abad Santos (Davao Occidental),150,S 83° E,Jose Abad Santos (Davao Occidental)
 2026-08-03T04:31:00.000Z,03 August 2026 - 04:31 AM,06.70,126.58,109,3.6,042km S 21° E of Tarragona (Davao Oriental),042,S 21° E,Tarragona (Davao Oriental)
 2026-08-03T04:30:00.000Z,03 August 2026 - 04:30 AM,10.80,126.24,043,2.1,057km N 84° E of Homonhon Island (Guiuan) (Eastern Samar),057,N 84° E,Homonhon Island (Guiuan) (Eastern Samar)
 2026-08-03T04:21:00.000Z,03 August 2026 - 04:21 AM,08.36,126.58,029,3.3,027km S 90° E of Hinatuan (Surigao Del Sur),027,S 90° E,Hinatuan (Surigao Del Sur)
@@ -58,5 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-02T07:16:00.000Z,02 August 2026 - 07:16 AM,15.16,122.20,009,2.6,044km N 35° E of Burdeos (Quezon),044,N 35° E,Burdeos (Quezon)
 2026-08-02T06:34:00.000Z,02 August 2026 - 06:34 AM,08.41,125.83,019,2.4,006km S 49° E of Talacogon (Agusan Del Sur),006,S 49° E,Talacogon (Agusan Del Sur)
 2026-08-02T06:16:00.000Z,02 August 2026 - 06:16 AM,11.11,124.69,005,2.8,013km S 49° W of Jaro (Leyte),013,S 49° W,Jaro (Leyte)
-2026-08-02T04:39:00.000Z,02 August 2026 - 04:39 AM,10.71,124.18,020,2.1,018km S 84° E of Catmon (Cebu),018,S 84° E,Catmon (Cebu)
-2026-08-02T04:35:00.000Z,02 August 2026 - 04:35 AM,05.41,125.10,021,1.8,036km S 90° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 90° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
