@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-02T12:54:00.000Z,02 August 2026 - 12:54 PM,12.75,123.08,025,2.4,025km S 46° W of Claveria (Masbate),025,S 46° W,Claveria (Masbate)
+2026-08-02T12:48:00.000Z,02 August 2026 - 12:48 PM,07.79,124.63,001,1.8,004km N 56° W of Kalilangan (Bukidnon),004,N 56° W,Kalilangan (Bukidnon)
+2026-08-02T11:00:00.000Z,02 August 2026 - 11:00 AM,05.38,125.30,011,1.8,014km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T10:47:00.000Z,02 August 2026 - 10:47 AM,05.28,126.05,097,3.1,068km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),068,S 72° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T10:44:00.000Z,02 August 2026 - 10:44 AM,05.22,126.00,002,2.8,065km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),065,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-02T10:33:00.000Z,02 August 2026 - 10:33 AM,12.47,124.64,029,2.1,003km S 02° E of Catarman (Northern Samar),003,S 02° E,Catarman (Northern Samar)
 2026-08-02T10:24:00.000Z,02 August 2026 - 10:24 AM,05.76,125.42,020,1.9,024km S 73° E of Glan (Sarangani),024,S 73° E,Glan (Sarangani)
 2026-08-02T10:17:00.000Z,02 August 2026 - 10:17 AM,06.72,125.16,020,1.9,004km S 13° E of Magsaysay (Davao Del Sur),004,S 13° E,Magsaysay (Davao Del Sur)
 2026-08-02T08:41:00.000Z,02 August 2026 - 08:41 AM,08.16,125.95,007,2.2,006km S 69° W of Bunawan (Agusan Del Sur),006,S 69° W,Bunawan (Agusan Del Sur)
