@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-03T20:10:00.000Z,03 August 2026 - 08:10 PM,03.73,127.21,010,3.0,269km S 47° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),269,S 47° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-03T19:45:00.000Z,03 August 2026 - 07:45 PM,05.80,125.29,021,1.7,010km S 77° E of Glan (Sarangani),010,S 77° E,Glan (Sarangani)
+2026-08-03T18:57:00.000Z,03 August 2026 - 06:57 PM,07.18,122.18,006,2.2,017km S 45° E of Sibuco (Zamboanga Del Norte),017,S 45° E,Sibuco (Zamboanga Del Norte)
+2026-08-03T18:50:00.000Z,03 August 2026 - 06:50 PM,15.11,122.26,003,3.5,042km N 48° E of Burdeos (Quezon),042,N 48° E,Burdeos (Quezon)
 2026-08-03T18:08:00.000Z,03 August 2026 - 06:08 PM,05.44,125.10,024,1.9,036km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T18:02:00.000Z,03 August 2026 - 06:02 PM,15.16,122.16,013,3.1,041km N 31° E of Burdeos (Quezon),041,N 31° E,Burdeos (Quezon)
 2026-08-03T16:54:00.000Z,03 August 2026 - 04:54 PM,13.86,120.52,075,2.9,013km N 77° W of Calatagan (Batangas),013,N 77° W,Calatagan (Batangas)
@@ -58,7 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-02T22:20:00.000Z,02 August 2026 - 10:20 PM,05.83,124.86,030,2.3,015km S 77° W of Maasim (Sarangani),015,S 77° W,Maasim (Sarangani)
 2026-08-02T22:17:00.000Z,02 August 2026 - 10:17 PM,09.15,122.20,006,2.3,058km S 30° W of Hinoba-an (Negros Occidental),058,S 30° W,Hinoba-an (Negros Occidental)
 2026-08-02T22:11:00.000Z,02 August 2026 - 10:11 PM,05.64,125.40,028,2.4,020km N 23° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 23° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-02T19:39:00.000Z,02 August 2026 - 07:39 PM,12.79,123.09,008,2.0,021km S 55° W of Claveria (Masbate),021,S 55° W,Claveria (Masbate)
-2026-08-02T18:59:00.000Z,02 August 2026 - 06:59 PM,05.48,125.24,002,3.2,021km N 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-02T18:32:00.000Z,02 August 2026 - 06:32 PM,05.48,125.47,027,1.9,001km N 23° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),001,N 23° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-02T18:31:00.000Z,02 August 2026 - 06:31 PM,09.48,126.76,016,2.4,067km N 70° E of Cortes (Surigao Del Sur),067,N 70° E,Cortes (Surigao Del Sur)

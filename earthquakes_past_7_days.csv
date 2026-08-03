@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-03T20:10:00.000Z,03 August 2026 - 08:10 PM,03.73,127.21,010,3.0,269km S 47° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),269,S 47° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-03T19:45:00.000Z,03 August 2026 - 07:45 PM,05.80,125.29,021,1.7,010km S 77° E of Glan (Sarangani),010,S 77° E,Glan (Sarangani)
+2026-08-03T18:57:00.000Z,03 August 2026 - 06:57 PM,07.18,122.18,006,2.2,017km S 45° E of Sibuco (Zamboanga Del Norte),017,S 45° E,Sibuco (Zamboanga Del Norte)
+2026-08-03T18:50:00.000Z,03 August 2026 - 06:50 PM,15.11,122.26,003,3.5,042km N 48° E of Burdeos (Quezon),042,N 48° E,Burdeos (Quezon)
 2026-08-03T18:08:00.000Z,03 August 2026 - 06:08 PM,05.44,125.10,024,1.9,036km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T18:02:00.000Z,03 August 2026 - 06:02 PM,15.16,122.16,013,3.1,041km N 31° E of Burdeos (Quezon),041,N 31° E,Burdeos (Quezon)
 2026-08-03T16:54:00.000Z,03 August 2026 - 04:54 PM,13.86,120.52,075,2.9,013km N 77° W of Calatagan (Batangas),013,N 77° W,Calatagan (Batangas)
@@ -489,8 +493,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-27T20:36:00.000Z,27 July 2026 - 08:36 PM,09.33,126.38,034,1.4,022km N 73° E of Cortes (Surigao Del Sur),022,N 73° E,Cortes (Surigao Del Sur)
 2026-07-27T20:35:00.000Z,27 July 2026 - 08:35 PM,06.60,123.94,024,2.3,014km N 67° W of Kalamansig (Sultan Kudarat),014,N 67° W,Kalamansig (Sultan Kudarat)
 2026-07-27T20:15:00.000Z,27 July 2026 - 08:15 PM,05.81,125.40,020,1.5,022km S 86° E of Glan (Sarangani),022,S 86° E,Glan (Sarangani)
-2026-07-27T19:28:00.000Z,27 July 2026 - 07:28 PM,15.11,122.13,010,3.2,034km N 31° E of Burdeos (Quezon),034,N 31° E,Burdeos (Quezon)
-2026-07-27T19:15:00.000Z,27 July 2026 - 07:15 PM,09.97,126.01,033,1.6,002km N 25° E of San Benito (Surigao Del Norte),002,N 25° E,San Benito (Surigao Del Norte)
-2026-07-27T18:56:00.000Z,27 July 2026 - 06:56 PM,04.85,125.23,005,2.8,066km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),066,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-07-27T18:45:00.000Z,27 July 2026 - 06:45 PM,07.14,123.68,032,1.9,038km N 78° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),038,N 78° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-07-27T18:25:00.000Z,27 July 2026 - 06:25 PM,06.88,126.41,029,2.8,019km S 12° W of Tarragona (Davao Oriental),019,S 12° W,Tarragona (Davao Oriental)
