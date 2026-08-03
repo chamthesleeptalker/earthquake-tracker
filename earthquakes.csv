@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-04T03:58:00.000Z,04 August 2026 - 03:58 AM,12.94,124.54,032,1.6,035km N 34° E of Biri (Northern Samar),035,N 34° E,Biri (Northern Samar)
+2026-08-04T03:43:00.000Z,04 August 2026 - 03:43 AM,08.44,125.89,009,2.6,011km S 85° E of Talacogon (Agusan Del Sur),011,S 85° E,Talacogon (Agusan Del Sur)
+2026-08-04T03:07:00.000Z,04 August 2026 - 03:07 AM,11.35,125.45,040,2.3,013km S 55° W of Llorente (Eastern Samar),013,S 55° W,Llorente (Eastern Samar)
+2026-08-04T03:03:00.000Z,04 August 2026 - 03:03 AM,05.67,125.02,010,2.6,021km S 08° E of Maasim (Sarangani),021,S 08° E,Maasim (Sarangani)
+2026-08-04T02:56:00.000Z,04 August 2026 - 02:56 AM,13.52,120.09,052,3.1,028km S 39° W of Looc (Occidental Mindoro),028,S 39° W,Looc (Occidental Mindoro)
+2026-08-04T02:47:00.000Z,04 August 2026 - 02:47 AM,05.30,125.22,033,3.3,026km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-04T02:41:00.000Z,04 August 2026 - 02:41 AM,04.97,125.33,017,3.6,050km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 11° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-04T02:32:00.000Z,04 August 2026 - 02:32 AM,05.50,125.31,027,1.8,013km S 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-04T01:14:00.000Z,04 August 2026 - 01:14 AM,13.53,124.08,033,1.8,007km S 16° W of San Andres (Catanduanes),007,S 16° W,San Andres (Catanduanes)
 2026-08-04T01:13:00.000Z,04 August 2026 - 01:13 AM,13.62,124.08,033,1.6,003km N 42° W of San Andres (Catanduanes),003,N 42° W,San Andres (Catanduanes)
 2026-08-04T01:09:00.000Z,04 August 2026 - 01:09 AM,15.29,120.10,029,2.0,008km N 88° E of Botolan (Zambales),008,N 88° E,Botolan (Zambales)
