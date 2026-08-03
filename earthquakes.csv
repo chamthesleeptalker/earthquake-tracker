@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-04T01:14:00.000Z,04 August 2026 - 01:14 AM,13.53,124.08,033,1.8,007km S 16° W of San Andres (Catanduanes),007,S 16° W,San Andres (Catanduanes)
+2026-08-04T01:13:00.000Z,04 August 2026 - 01:13 AM,13.62,124.08,033,1.6,003km N 42° W of San Andres (Catanduanes),003,N 42° W,San Andres (Catanduanes)
+2026-08-04T01:09:00.000Z,04 August 2026 - 01:09 AM,15.29,120.10,029,2.0,008km N 88° E of Botolan (Zambales),008,N 88° E,Botolan (Zambales)
+2026-08-04T01:04:00.000Z,04 August 2026 - 01:04 AM,05.48,127.28,041,3.0,186km S 46° E of Governor Generoso (Davao Oriental),186,S 46° E,Governor Generoso (Davao Oriental)
+2026-08-04T00:40:00.000Z,04 August 2026 - 12:40 AM,05.05,125.49,193,2.6,041km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),041,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T23:53:00.000Z,03 August 2026 - 11:53 PM,05.34,125.14,031,1.6,034km S 69° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,S 69° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T23:12:00.000Z,03 August 2026 - 11:12 PM,06.80,126.41,024,2.6,027km S 52° E of City Of Mati (Davao Oriental),027,S 52° E,City Of Mati (Davao Oriental)
 2026-08-03T22:54:00.000Z,03 August 2026 - 10:54 PM,16.35,121.39,010,2.7,011km N 68° E of Kasibu (Nueva Vizcaya),011,N 68° E,Kasibu (Nueva Vizcaya)
