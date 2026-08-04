@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-04T13:09:00.000Z,04 August 2026 - 01:09 PM,21.27,121.23,022,2.8,083km N 50° W of Itbayat (Batanes),083,N 50° W,Itbayat (Batanes)
+2026-08-04T12:48:00.000Z,04 August 2026 - 12:48 PM,06.25,126.47,048,2.3,063km S 45° E of Governor Generoso (Davao Oriental),063,S 45° E,Governor Generoso (Davao Oriental)
+2026-08-04T12:24:00.000Z,04 August 2026 - 12:24 PM,05.65,125.29,011,1.6,021km S 25° E of Glan (Sarangani),021,S 25° E,Glan (Sarangani)
+2026-08-04T12:14:00.000Z,04 August 2026 - 12:14 PM,13.28,123.83,033,2.0,005km S 67° E of Bacacay (Albay),005,S 67° E,Bacacay (Albay)
 2026-08-04T11:31:00.000Z,04 August 2026 - 11:31 AM,09.70,126.26,034,1.8,015km S 51° E of General Luna (Surigao Del Norte),015,S 51° E,General Luna (Surigao Del Norte)
 2026-08-04T10:34:00.000Z,04 August 2026 - 10:34 AM,05.74,125.22,034,1.7,010km S 11° E of Glan (Sarangani),010,S 11° E,Glan (Sarangani)
 2026-08-04T10:06:00.000Z,04 August 2026 - 10:06 AM,05.77,125.24,009,1.7,007km S 30° E of Glan (Sarangani),007,S 30° E,Glan (Sarangani)
