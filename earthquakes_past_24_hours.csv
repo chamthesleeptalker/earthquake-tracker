@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-04T07:50:00.000Z,04 August 2026 - 07:50 AM,13.64,121.50,006,2.4,023km S 28° E of San Juan (Batangas),023,S 28° E,San Juan (Batangas)
 2026-08-04T06:45:00.000Z,04 August 2026 - 06:45 AM,12.18,121.41,005,2.3,018km S 25° E of Bulalacao (Oriental Mindoro),018,S 25° E,Bulalacao (Oriental Mindoro)
 2026-08-04T06:44:00.000Z,04 August 2026 - 06:44 AM,06.06,124.62,014,2.4,007km North of Kiamba (Sarangani),007,North of Kiamba,
 2026-08-04T06:31:00.000Z,04 August 2026 - 06:31 AM,10.61,125.61,003,2.4,019km S 40° W of Homonhon Island (Guiuan) (Eastern Samar),019,S 40° W,Homonhon Island (Guiuan) (Eastern Samar)
@@ -56,9 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-03T09:51:00.000Z,03 August 2026 - 09:51 AM,09.47,126.47,014,4.1,037km N 54° E of Cortes (Surigao Del Sur),037,N 54° E,Cortes (Surigao Del Sur)
 2026-08-03T08:49:00.000Z,03 August 2026 - 08:49 AM,05.81,125.47,026,1.5,022km S 60° W of Jose Abad Santos (Davao Occidental),022,S 60° W,Jose Abad Santos (Davao Occidental)
 2026-08-03T08:47:00.000Z,03 August 2026 - 08:47 AM,08.63,123.33,022,2.4,005km N 14° W of City Of Dipolog (Zamboanga Del Norte),005,N 14° W,City Of Dipolog (Zamboanga Del Norte)
-2026-08-03T07:45:00.000Z,03 August 2026 - 07:45 AM,17.21,120.36,024,1.9,009km N 62° W of City Of Candon (Ilocos Sur),009,N 62° W,City Of Candon (Ilocos Sur)
-2026-08-03T07:16:00.000Z,03 August 2026 - 07:16 AM,15.57,120.60,031,1.4,009km N 04° E of City Of Tarlac (Tarlac),009,N 04° E,City Of Tarlac (Tarlac)
-2026-08-03T07:12:00.000Z,03 August 2026 - 07:12 AM,09.80,126.53,018,2.9,041km N 87° E of General Luna (Surigao Del Norte),041,N 87° E,General Luna (Surigao Del Norte)
-2026-08-03T07:06:00.000Z,03 August 2026 - 07:06 AM,05.56,125.29,028,1.6,022km N 40° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,N 40° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-03T07:04:00.000Z,03 August 2026 - 07:04 AM,05.96,125.43,023,1.7,016km S 87° E of Malapatan (Sarangani),016,S 87° E,Malapatan (Sarangani)
-2026-08-03T06:48:00.000Z,03 August 2026 - 06:48 AM,05.02,125.37,010,4.9,043km S 7° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),043,S 7° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
