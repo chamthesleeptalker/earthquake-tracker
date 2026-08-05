@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-05T08:27:00.000Z,05 August 2026 - 08:27 AM,05.52,125.42,028,2.6,008km N 51° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),008,N 51° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-05T08:24:00.000Z,05 August 2026 - 08:24 AM,06.59,127.05,163,2.3,084km S 53° E of Tarragona (Davao Oriental),084,S 53° E,Tarragona (Davao Oriental)
+2026-08-05T08:01:00.000Z,05 August 2026 - 08:01 AM,06.67,125.77,081,2.6,034km N 31° E of Malita (Davao Occidental),034,N 31° E,Malita (Davao Occidental)
+2026-08-05T07:14:00.000Z,05 August 2026 - 07:14 AM,06.43,123.99,003,1.9,015km S 24° W of Kalamansig (Sultan Kudarat),015,S 24° W,Kalamansig (Sultan Kudarat)
 2026-08-05T06:43:00.000Z,05 August 2026 - 06:43 AM,05.15,125.22,014,2.3,036km S 38° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 38° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-05T06:08:00.000Z,05 August 2026 - 06:08 AM,12.81,123.02,007,2.7,026km S 67° W of Claveria (Masbate),026,S 67° W,Claveria (Masbate)
 2026-08-05T06:02:00.000Z,05 August 2026 - 06:02 AM,11.32,125.37,011,2.5,020km N 65° W of General Macarthur (Eastern Samar),020,N 65° W,General Macarthur (Eastern Samar)
@@ -490,8 +494,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-07-29T08:50:00.000Z,29 July 2026 - 08:50 AM,05.59,125.33,009,2.6,020km N 52° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 52° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-07-29T08:43:00.000Z,29 July 2026 - 08:43 AM,10.10,125.98,021,2.8,011km N 36° W of Santa Monica (Surigao Del Norte),011,N 36° W,Santa Monica (Surigao Del Norte)
 2026-07-29T08:39:00.000Z,29 July 2026 - 08:39 AM,10.24,126.30,010,5.0,034km N 45° E of Burgos (Surigao Del Norte),034,N 45° E,Burgos (Surigao Del Norte)
-2026-07-29T08:23:00.000Z,29 July 2026 - 08:23 AM,13.82,120.46,176,3.1,019km S 87° W of Calatagan (Batangas),019,S 87° W,Calatagan (Batangas)
-2026-07-29T07:44:00.000Z,29 July 2026 - 07:44 AM,12.85,123.63,010,2.0,002km N 80° E of Donsol (Sorsogon),002,N 80° E,Donsol (Sorsogon)
-2026-07-29T07:26:00.000Z,29 July 2026 - 07:26 AM,13.77,120.65,117,2.1,007km S 12° E of Calatagan (Batangas),007,S 12° E,Calatagan (Batangas)
-2026-07-29T06:55:00.000Z,29 July 2026 - 06:55 AM,05.98,125.39,003,1.7,011km N 87° E of Malapatan (Sarangani),011,N 87° E,Malapatan (Sarangani)
-2026-07-29T06:51:00.000Z,29 July 2026 - 06:51 AM,11.24,121.21,033,2.5,031km N 73° E of Agutaya (Palawan),031,N 73° E,Agutaya (Palawan)
