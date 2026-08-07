@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-08T01:41:00.000Z,08 August 2026 - 01:41 AM,05.34,125.30,029,2.4,016km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-08T01:33:00.000Z,08 August 2026 - 01:33 AM,05.09,125.34,007,1.7,037km S 14° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 14° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T01:02:00.000Z,08 August 2026 - 01:02 AM,17.34,120.38,025,1.9,007km N 77° W of San Esteban (Ilocos Sur),007,N 77° W,San Esteban (Ilocos Sur)
 2026-08-08T00:46:00.000Z,08 August 2026 - 12:46 AM,05.02,125.37,030,1.9,044km S 08° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),044,S 08° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T00:40:00.000Z,08 August 2026 - 12:40 AM,05.88,125.37,019,1.6,013km S 40° E of Malapatan (Sarangani),013,S 40° E,Malapatan (Sarangani)
@@ -82,7 +84,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-07T03:10:00.000Z,07 August 2026 - 03:10 AM,04.99,124.92,002,2.8,072km S 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-07T03:07:00.000Z,07 August 2026 - 03:07 AM,16.27,121.41,010,2.1,013km S 70° E of Kasibu (Nueva Vizcaya),013,S 70° E,Kasibu (Nueva Vizcaya)
 2026-08-07T02:04:00.000Z,07 August 2026 - 02:04 AM,06.05,125.81,080,1.6,020km S 38° E of Don Marcelino (Davao Occidental),020,S 38° E,Don Marcelino (Davao Occidental)
-2026-08-07T01:39:00.000Z,07 August 2026 - 01:39 AM,04.99,125.20,027,2.4,053km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),053,S 28° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T01:30:00.000Z,07 August 2026 - 01:30 AM,12.83,122.94,007,2.5,033km S 08° W of San Pascual (Masbate),033,S 08° W,San Pascual (Masbate)
-2026-08-07T01:15:00.000Z,07 August 2026 - 01:15 AM,05.25,125.20,015,2.6,031km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T01:09:00.000Z,07 August 2026 - 01:09 AM,05.13,125.25,007,3.1,037km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
