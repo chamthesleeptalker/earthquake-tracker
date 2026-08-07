@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-07T12:39:00.000Z,07 August 2026 - 12:39 PM,05.61,125.16,025,1.6,024km S 13° W of Glan (Sarangani),024,S 13° W,Glan (Sarangani)
+2026-08-07T12:09:00.000Z,07 August 2026 - 12:09 PM,09.85,124.62,007,2.3,011km S 81° E of Mabini (Bohol),011,S 81° E,Mabini (Bohol)
+2026-08-07T11:59:00.000Z,07 August 2026 - 11:59 AM,09.98,126.09,033,1.7,005km S 19° E of Burgos (Surigao Del Norte),005,S 19° E,Burgos (Surigao Del Norte)
+2026-08-07T11:59:00.000Z,07 August 2026 - 11:59 AM,13.25,120.48,019,2.0,013km N 80° W of Mamburao (Occidental Mindoro),013,N 80° W,Mamburao (Occidental Mindoro)
+2026-08-07T11:57:00.000Z,07 August 2026 - 11:57 AM,09.98,124.35,026,1.4,002km S 54° E of San Miguel (Bohol),002,S 54° E,San Miguel (Bohol)
+2026-08-07T11:55:00.000Z,07 August 2026 - 11:55 AM,09.87,124.55,002,2.2,003km N 79° E of Mabini (Bohol),003,N 79° E,Mabini (Bohol)
+2026-08-07T11:42:00.000Z,07 August 2026 - 11:42 AM,05.32,124.93,010,3.1,055km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),055,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-07T11:27:00.000Z,07 August 2026 - 11:27 AM,13.19,120.82,029,2.3,024km S 81° E of Mamburao (Occidental Mindoro),024,S 81° E,Mamburao (Occidental Mindoro)
 2026-08-07T11:18:00.000Z,07 August 2026 - 11:18 AM,13.30,120.66,015,2.0,011km N 41° E of Mamburao (Occidental Mindoro),011,N 41° E,Mamburao (Occidental Mindoro)
 2026-08-07T11:03:00.000Z,07 August 2026 - 11:03 AM,09.23,123.24,028,1.4,006km N 35° W of Dauin (Negros Oriental),006,N 35° W,Dauin (Negros Oriental)
 2026-08-07T10:38:00.000Z,07 August 2026 - 10:38 AM,13.16,120.50,014,5.4,013km S 57° W of Mamburao (Occidental Mindoro),013,S 57° W,Mamburao (Occidental Mindoro)
