@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-07T14:58:00.000Z,07 August 2026 - 02:58 PM,05.18,125.21,016,2.8,035km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-07T14:49:00.000Z,07 August 2026 - 02:49 PM,05.27,125.44,006,2.7,016km S 09° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 09° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-07T14:23:00.000Z,07 August 2026 - 02:23 PM,04.64,126.17,022,3.7,118km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),118,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-07T14:12:00.000Z,07 August 2026 - 02:12 PM,06.22,126.09,124,2.7,043km N 87° E of Don Marcelino (Davao Occidental),043,N 87° E,Don Marcelino (Davao Occidental)
 2026-08-07T14:07:00.000Z,07 August 2026 - 02:07 PM,05.76,125.32,024,1.7,014km S 63° E of Glan (Sarangani),014,S 63° E,Glan (Sarangani)
@@ -97,6 +99,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-06T15:38:00.000Z,06 August 2026 - 03:38 PM,05.26,125.35,014,2.5,018km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-06T15:37:00.000Z,06 August 2026 - 03:37 PM,05.75,125.28,014,1.9,012km S 45° E of Glan (Sarangani),012,S 45° E,Glan (Sarangani)
 2026-08-06T15:09:00.000Z,06 August 2026 - 03:09 PM,13.17,120.44,044,3.5,018km S 71° W of Mamburao (Occidental Mindoro),018,S 71° W,Mamburao (Occidental Mindoro)
-2026-08-06T14:35:00.000Z,06 August 2026 - 02:35 PM,07.76,122.18,013,2.3,006km S 33° E of Baliguian (Zamboanga Del Norte),006,S 33° E,Baliguian (Zamboanga Del Norte)
-2026-08-06T14:30:00.000Z,06 August 2026 - 02:30 PM,09.94,125.38,006,2.2,012km N 76° E of San Ricardo (Southern Leyte),012,N 76° E,San Ricardo (Southern Leyte)
-2026-08-06T14:27:00.000Z,06 August 2026 - 02:27 PM,15.11,119.92,033,2.2,016km S 68° W of Cabangan (Zambales),016,S 68° W,Cabangan (Zambales)
