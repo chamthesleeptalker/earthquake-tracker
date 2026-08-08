@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-08T16:59:00.000Z,08 August 2026 - 04:59 PM,05.42,125.37,007,2.8,006km N 82° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,N 82° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T15:37:00.000Z,08 August 2026 - 03:37 PM,05.79,125.35,023,2.6,016km S 78° E of Glan (Sarangani),016,S 78° E,Glan (Sarangani)
 2026-08-08T15:04:00.000Z,08 August 2026 - 03:04 PM,05.37,125.24,028,2.6,021km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T14:59:00.000Z,08 August 2026 - 02:59 PM,07.98,127.00,005,2.5,064km N 71° E of Cateel (Davao Oriental),064,N 71° E,Cateel (Davao Oriental)
@@ -76,6 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-07T18:32:00.000Z,07 August 2026 - 06:32 PM,05.23,125.24,006,1.8,029km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 44° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-07T18:29:00.000Z,07 August 2026 - 06:29 PM,05.49,125.05,003,2.0,041km S 25° W of Glan (Sarangani),041,S 25° W,Glan (Sarangani)
 2026-08-07T16:59:00.000Z,07 August 2026 - 04:59 PM,12.96,120.87,032,1.7,016km N 36° E of Sablayan (Occidental Mindoro),016,N 36° E,Sablayan (Occidental Mindoro)
-2026-08-07T16:52:00.000Z,07 August 2026 - 04:52 PM,04.93,125.18,027,3.0,059km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),059,S 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T16:43:00.000Z,07 August 2026 - 04:43 PM,05.36,125.35,003,4.2,011km N 87° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,N 87° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T16:33:00.000Z,07 August 2026 - 04:33 PM,07.88,126.83,013,2.4,043km N 77° E of Cateel (Davao Oriental),043,N 77° E,Cateel (Davao Oriental)
