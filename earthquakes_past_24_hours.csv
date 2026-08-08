@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-08T12:26:00.000Z,08 August 2026 - 12:26 PM,05.13,125.27,015,3.6,035km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-08T11:26:00.000Z,08 August 2026 - 11:26 AM,05.22,125.27,014,2.6,027km S 38° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 38° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T11:06:00.000Z,08 August 2026 - 11:06 AM,05.54,125.17,002,2.2,031km S 09° W of Glan (Sarangani),031,S 09° W,Glan (Sarangani)
 2026-08-08T10:45:00.000Z,08 August 2026 - 10:45 AM,05.27,125.07,007,3.8,043km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),043,S 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-07T14:22:00.000Z,07 August 2026 - 02:22 PM,04.20,126.29,073,3.8,165km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),165,S 36° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -81,11 +83,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-07T13:26:00.000Z,07 August 2026 - 01:26 PM,07.67,121.99,007,1.4,017km S 78° W of Siocon (Zamboanga Del Norte),017,S 78° W,Siocon (Zamboanga Del Norte)
 2026-08-07T13:08:00.000Z,07 August 2026 - 01:08 PM,05.21,125.27,005,2.6,027km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-07T12:39:00.000Z,07 August 2026 - 12:39 PM,05.61,125.16,025,1.6,024km S 13° W of Glan (Sarangani),024,S 13° W,Glan (Sarangani)
-2026-08-07T12:09:00.000Z,07 August 2026 - 12:09 PM,09.85,124.62,007,2.3,011km S 81° E of Mabini (Bohol),011,S 81° E,Mabini (Bohol)
-2026-08-07T11:59:00.000Z,07 August 2026 - 11:59 AM,09.98,126.09,033,1.7,005km S 19° E of Burgos (Surigao Del Norte),005,S 19° E,Burgos (Surigao Del Norte)
-2026-08-07T11:59:00.000Z,07 August 2026 - 11:59 AM,13.25,120.48,019,2.0,013km N 80° W of Mamburao (Occidental Mindoro),013,N 80° W,Mamburao (Occidental Mindoro)
-2026-08-07T11:57:00.000Z,07 August 2026 - 11:57 AM,09.98,124.35,026,1.4,002km S 54° E of San Miguel (Bohol),002,S 54° E,San Miguel (Bohol)
-2026-08-07T11:55:00.000Z,07 August 2026 - 11:55 AM,09.87,124.55,002,2.2,003km N 79° E of Mabini (Bohol),003,N 79° E,Mabini (Bohol)
-2026-08-07T11:42:00.000Z,07 August 2026 - 11:42 AM,05.32,124.93,010,3.1,055km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),055,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T11:27:00.000Z,07 August 2026 - 11:27 AM,13.19,120.82,029,2.3,024km S 81° E of Mamburao (Occidental Mindoro),024,S 81° E,Mamburao (Occidental Mindoro)
-2026-08-07T11:18:00.000Z,07 August 2026 - 11:18 AM,13.30,120.66,015,2.0,011km N 41° E of Mamburao (Occidental Mindoro),011,N 41° E,Mamburao (Occidental Mindoro)
