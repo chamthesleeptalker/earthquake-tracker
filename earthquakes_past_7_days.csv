@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-08T22:22:00.000Z,08 August 2026 - 10:22 PM,05.80,125.40,013,2.4,022km S 84° E of Glan (Sarangani),022,S 84° E,Glan (Sarangani)
+2026-08-08T22:17:00.000Z,08 August 2026 - 10:17 PM,05.83,125.42,021,1.9,021km S 43° E of Malapatan (Sarangani),021,S 43° E,Malapatan (Sarangani)
 2026-08-08T20:36:00.000Z,08 August 2026 - 08:36 PM,05.81,125.34,022,1.8,015km S 84° E of Glan (Sarangani),015,S 84° E,Glan (Sarangani)
 2026-08-08T19:27:00.000Z,08 August 2026 - 07:27 PM,05.88,125.29,018,2.0,010km S 01° E of Malapatan (Sarangani),010,S 01° E,Malapatan (Sarangani)
 2026-08-08T19:20:00.000Z,08 August 2026 - 07:20 PM,05.01,125.28,023,2.9,047km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),047,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -639,8 +641,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-01T22:45:00.000Z,01 August 2026 - 10:45 PM,13.50,120.94,020,2.4,002km S 75° W of Puerto Galera (Oriental Mindoro),002,S 75° W,Puerto Galera (Oriental Mindoro)
 2026-08-01T22:43:00.000Z,01 August 2026 - 10:43 PM,06.41,126.23,026,1.7,032km S 32° E of Governor Generoso (Davao Oriental),032,S 32° E,Governor Generoso (Davao Oriental)
 2026-08-01T22:40:00.000Z,01 August 2026 - 10:40 PM,10.11,126.02,020,2.1,010km N 11° W of Santa Monica (Surigao Del Norte),010,N 11° W,Santa Monica (Surigao Del Norte)
-2026-08-01T22:13:00.000Z,01 August 2026 - 10:13 PM,08.70,126.62,024,2.2,037km S 72° E of Marihatag (Surigao Del Sur),037,S 72° E,Marihatag (Surigao Del Sur)
-2026-08-01T22:09:00.000Z,01 August 2026 - 10:09 PM,13.55,120.97,011,1.8,005km N 14° E of Puerto Galera (Oriental Mindoro),005,N 14° E,Puerto Galera (Oriental Mindoro)
-2026-08-01T21:17:00.000Z,01 August 2026 - 09:17 PM,05.01,125.44,026,3.7,044km S 02° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),044,S 02° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-01T20:59:00.000Z,01 August 2026 - 08:59 PM,18.48,120.71,032,1.8,008km S 61° E of Burgos (Ilocos Norte),008,S 61° E,Burgos (Ilocos Norte)
-2026-08-01T20:37:00.000Z,01 August 2026 - 08:37 PM,08.86,121.85,033,2.5,107km S 42° E of Cagayancillo (Palawan),107,S 42° E,Cagayancillo (Palawan)
