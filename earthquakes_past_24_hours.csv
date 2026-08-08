@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-08T13:16:00.000Z,08 August 2026 - 01:16 PM,12.84,123.03,020,1.8,024km S 74° W of Claveria (Masbate),024,S 74° W,Claveria (Masbate)
+2026-08-08T13:14:00.000Z,08 August 2026 - 01:14 PM,09.68,122.44,006,2.6,009km N 16° W of Hinoba-an (Negros Occidental),009,N 16° W,Hinoba-an (Negros Occidental)
+2026-08-08T13:10:00.000Z,08 August 2026 - 01:10 PM,08.00,126.83,015,3.1,046km S 85° E of Lingig (Surigao Del Sur),046,S 85° E,Lingig (Surigao Del Sur)
 2026-08-08T12:26:00.000Z,08 August 2026 - 12:26 PM,05.13,125.27,015,3.6,035km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T11:26:00.000Z,08 August 2026 - 11:26 AM,05.22,125.27,014,2.6,027km S 38° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 38° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T11:06:00.000Z,08 August 2026 - 11:06 AM,05.54,125.17,002,2.2,031km S 09° W of Glan (Sarangani),031,S 09° W,Glan (Sarangani)
@@ -81,5 +84,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-07T13:34:00.000Z,07 August 2026 - 01:34 PM,05.62,125.29,002,1.7,022km S 25° E of Glan (Sarangani),022,S 25° E,Glan (Sarangani)
 2026-08-07T13:29:00.000Z,07 August 2026 - 01:29 PM,05.57,125.27,021,1.7,024km N 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,N 45° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-07T13:26:00.000Z,07 August 2026 - 01:26 PM,07.67,121.99,007,1.4,017km S 78° W of Siocon (Zamboanga Del Norte),017,S 78° W,Siocon (Zamboanga Del Norte)
-2026-08-07T13:08:00.000Z,07 August 2026 - 01:08 PM,05.21,125.27,005,2.6,027km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T12:39:00.000Z,07 August 2026 - 12:39 PM,05.61,125.16,025,1.6,024km S 13° W of Glan (Sarangani),024,S 13° W,Glan (Sarangani)

@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-08T13:16:00.000Z,08 August 2026 - 01:16 PM,12.84,123.03,020,1.8,024km S 74° W of Claveria (Masbate),024,S 74° W,Claveria (Masbate)
+2026-08-08T13:14:00.000Z,08 August 2026 - 01:14 PM,09.68,122.44,006,2.6,009km N 16° W of Hinoba-an (Negros Occidental),009,N 16° W,Hinoba-an (Negros Occidental)
+2026-08-08T13:10:00.000Z,08 August 2026 - 01:10 PM,08.00,126.83,015,3.1,046km S 85° E of Lingig (Surigao Del Sur),046,S 85° E,Lingig (Surigao Del Sur)
 2026-08-08T12:26:00.000Z,08 August 2026 - 12:26 PM,05.13,125.27,015,3.6,035km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T11:26:00.000Z,08 August 2026 - 11:26 AM,05.22,125.27,014,2.6,027km S 38° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 38° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-08T11:06:00.000Z,08 August 2026 - 11:06 AM,05.54,125.17,002,2.2,031km S 09° W of Glan (Sarangani),031,S 09° W,Glan (Sarangani)
@@ -632,6 +635,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-01T17:51:00.000Z,01 August 2026 - 05:51 PM,10.33,125.68,059,3.0,011km S 74° E of Loreto (Dinagat Islands),011,S 74° E,Loreto (Dinagat Islands)
 2026-08-01T17:12:00.000Z,01 August 2026 - 05:12 PM,06.79,124.22,017,1.6,011km S 50° E of South Upi (Maguindanao Del Sur),011,S 50° E,South Upi (Maguindanao Del Sur)
 2026-08-01T13:22:00.000Z,01 August 2026 - 01:22 PM,05.75,125.33,018,1.7,016km S 61° E of Glan (Sarangani),016,S 61° E,Glan (Sarangani)
-2026-08-01T12:39:00.000Z,01 August 2026 - 12:39 PM,08.68,125.99,006,2.0,012km N 43° E of Prosperidad (Agusan Del Sur),012,N 43° E,Prosperidad (Agusan Del Sur)
-2026-08-01T12:34:00.000Z,01 August 2026 - 12:34 PM,08.54,122.80,030,2.1,027km N 66° W of Jose Dalman (Zamboanga Del Norte),027,N 66° W,Jose Dalman (Zamboanga Del Norte)
-2026-08-01T12:29:00.000Z,01 August 2026 - 12:29 PM,15.06,122.07,010,3.6,026km N 24° E of Burdeos (Quezon),026,N 24° E,Burdeos (Quezon)
