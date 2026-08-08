@@ -1,8 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-08T07:06:00.000Z,08 August 2026 - 07:06 AM,05.89,125.35,015,1.5,011km S 36° E of Malapatan (Sarangani),011,S 36° E,Malapatan (Sarangani)
-2026-08-08T07:04:00.000Z,08 August 2026 - 07:04 AM,06.35,127.17,182,2.7,111km S 46° E of Tarragona (Davao Oriental),111,S 46° E,Tarragona (Davao Oriental)
-2026-08-08T06:55:00.000Z,08 August 2026 - 06:55 AM,05.84,125.69,131,2.8,009km S 32° E of Jose Abad Santos (Davao Occidental),009,S 32° E,Jose Abad Santos (Davao Occidental)
-2026-08-08T06:53:00.000Z,08 August 2026 - 06:53 AM,05.82,125.67,132,3.3,011km S 18° E of Jose Abad Santos (Davao Occidental),011,S 18° E,Jose Abad Santos (Davao Occidental)
-2026-08-08T06:43:00.000Z,08 August 2026 - 06:43 AM,05.58,125.13,019,1.6,028km S 17° W of Glan (Sarangani),028,S 17° W,Glan (Sarangani)
-2026-08-08T06:24:00.000Z,08 August 2026 - 06:24 AM,15.00,122.71,005,2.6,052km N 51° E of Jomalig (Quezon),052,N 51° E,Jomalig (Quezon)
-2026-08-08T06:08:00.000Z,08 August 2026 - 06:08 AM,05.49,125.30,027,1.4,016km N 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,N 56° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-08T09:44:00.000Z,08 August 2026 - 09:44 AM,09.93,122.69,082,1.6,009km S 58° E of Cauayan (Negros Occidental),009,S 58° E,Cauayan (Negros Occidental)
