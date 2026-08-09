@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-10T04:52:00.000Z,10 August 2026 - 04:52 AM,06.05,124.71,027,1.6,012km N 55° E of Kiamba (Sarangani),012,N 55° E,Kiamba (Sarangani)
 2026-08-10T03:55:00.000Z,10 August 2026 - 03:55 AM,05.80,125.17,022,2.0,005km S 62° W of Glan (Sarangani),005,S 62° W,Glan (Sarangani)
 2026-08-10T03:13:00.000Z,10 August 2026 - 03:13 AM,05.65,125.21,008,2.0,019km S 03° E of Glan (Sarangani),019,S 03° E,Glan (Sarangani)
 2026-08-10T02:53:00.000Z,10 August 2026 - 02:53 AM,05.94,125.43,020,1.9,016km S 73° E of Malapatan (Sarangani),016,S 73° E,Malapatan (Sarangani)
@@ -632,8 +633,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-03T06:12:00.000Z,03 August 2026 - 06:12 AM,05.34,125.39,016,2.1,009km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),009,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T05:59:00.000Z,03 August 2026 - 05:59 AM,05.43,125.15,027,1.8,030km N 86° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,N 86° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T05:22:00.000Z,03 August 2026 - 05:22 AM,05.76,126.99,015,2.6,150km S 83° E of Jose Abad Santos (Davao Occidental),150,S 83° E,Jose Abad Santos (Davao Occidental)
-2026-08-03T04:31:00.000Z,03 August 2026 - 04:31 AM,06.70,126.58,109,3.6,042km S 21° E of Tarragona (Davao Oriental),042,S 21° E,Tarragona (Davao Oriental)
-2026-08-03T04:30:00.000Z,03 August 2026 - 04:30 AM,10.80,126.24,043,2.1,057km N 84° E of Homonhon Island (Guiuan) (Eastern Samar),057,N 84° E,Homonhon Island (Guiuan) (Eastern Samar)
-2026-08-03T04:21:00.000Z,03 August 2026 - 04:21 AM,08.36,126.58,029,3.3,027km S 90° E of Hinatuan (Surigao Del Sur),027,S 90° E,Hinatuan (Surigao Del Sur)
-2026-08-03T04:20:00.000Z,03 August 2026 - 04:20 AM,08.37,126.59,025,2.5,028km East of Hinatuan (Surigao Del Sur),028,East of Hinatuan,Del Sur)
-2026-08-03T04:14:00.000Z,03 August 2026 - 04:14 AM,08.22,122.00,040,1.8,048km N 19° W of Baliguian (Zamboanga Del Norte),048,N 19° W,Baliguian (Zamboanga Del Norte)
