@@ -1,7 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-09T23:18:00.000Z,09 August 2026 - 11:18 PM,05.91,125.43,021,1.6,017km S 67° E of Malapatan (Sarangani),017,S 67° E,Malapatan (Sarangani)
+2026-08-09T22:31:00.000Z,09 August 2026 - 10:31 PM,13.27,120.63,033,1.6,006km N 41° E of Mamburao (Occidental Mindoro),006,N 41° E,Mamburao (Occidental Mindoro)
 2026-08-09T22:24:00.000Z,09 August 2026 - 10:24 PM,05.34,125.27,030,1.8,019km S 65° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 65° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T22:15:00.000Z,09 August 2026 - 10:15 PM,05.07,125.24,051,3.7,044km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),044,S 28° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T22:03:00.000Z,09 August 2026 - 10:03 PM,09.83,124.70,002,2.3,017km N 53° E of Anda (Bohol),017,N 53° E,Anda (Bohol)
-2026-08-09T21:56:00.000Z,09 August 2026 - 09:56 PM,10.72,124.92,006,3.5,010km S 77° W of Abuyog (Leyte),010,S 77° W,Abuyog (Leyte)
-2026-08-09T21:46:00.000Z,09 August 2026 - 09:46 PM,04.30,125.72,151,4.9,128km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),128,S 15° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T21:44:00.000Z,09 August 2026 - 09:44 PM,13.29,120.64,033,1.5,008km N 36° E of Mamburao (Occidental Mindoro),008,N 36° E,Mamburao (Occidental Mindoro)
