@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-09T13:45:00.000Z,09 August 2026 - 01:45 PM,08.55,126.27,031,2.2,016km N 51° E of Tagbina (Surigao Del Sur),016,N 51° E,Tagbina (Surigao Del Sur)
+2026-08-09T13:21:00.000Z,09 August 2026 - 01:21 PM,04.86,124.26,024,2.6,131km S 18° W of Kiamba (Sarangani),131,S 18° W,Kiamba (Sarangani)
+2026-08-09T13:18:00.000Z,09 August 2026 - 01:18 PM,05.37,125.26,028,1.9,019km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-09T12:57:00.000Z,09 August 2026 - 12:57 PM,05.93,125.36,032,1.8,010km S 62° E of Malapatan (Sarangani),010,S 62° E,Malapatan (Sarangani)
 2026-08-09T12:21:00.000Z,09 August 2026 - 12:21 PM,05.86,125.32,019,2.4,013km N 72° E of Glan (Sarangani),013,N 72° E,Glan (Sarangani)
 2026-08-09T11:49:00.000Z,09 August 2026 - 11:49 AM,05.78,125.33,025,1.6,015km S 74° E of Glan (Sarangani),015,S 74° E,Glan (Sarangani)
 2026-08-09T11:30:00.000Z,09 August 2026 - 11:30 AM,07.71,124.67,009,1.4,009km S 65° W of Kalilangan (Bukidnon),009,S 65° W,Kalilangan (Bukidnon)
