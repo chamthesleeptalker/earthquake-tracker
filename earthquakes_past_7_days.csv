@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-10T01:41:00.000Z,10 August 2026 - 01:41 AM,11.35,126.43,025,2.9,084km N 70° E of Mercedes (Eastern Samar),084,N 70° E,Mercedes (Eastern Samar)
 2026-08-10T01:10:00.000Z,10 August 2026 - 01:10 AM,05.88,126.05,116,2.6,045km S 85° E of Jose Abad Santos (Davao Occidental),045,S 85° E,Jose Abad Santos (Davao Occidental)
 2026-08-10T01:05:00.000Z,10 August 2026 - 01:05 AM,11.50,125.48,034,4.9,002km S 87° W of Maydolong (Eastern Samar),002,S 87° W,Maydolong (Eastern Samar)
 2026-08-10T00:48:00.000Z,10 August 2026 - 12:48 AM,05.78,125.45,006,2.3,026km S 55° W of Jose Abad Santos (Davao Occidental),026,S 55° W,Jose Abad Santos (Davao Occidental)
@@ -640,7 +641,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-03T02:06:00.000Z,03 August 2026 - 02:06 AM,10.98,123.66,013,2.4,036km S 78° W of City Of Bogo (Cebu),036,S 78° W,City Of Bogo (Cebu)
 2026-08-03T02:00:00.000Z,03 August 2026 - 02:00 AM,05.12,126.88,051,2.6,161km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),161,S 76° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T01:44:00.000Z,03 August 2026 - 01:44 AM,05.43,125.50,045,1.6,006km S 39° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),006,S 39° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-03T01:32:00.000Z,03 August 2026 - 01:32 AM,03.64,126.07,009,3.2,209km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),209,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-03T01:31:00.000Z,03 August 2026 - 01:31 AM,13.77,122.31,007,1.9,014km S 25° E of Lopez (Quezon),014,S 25° E,Lopez (Quezon)
-2026-08-03T01:27:00.000Z,03 August 2026 - 01:27 AM,09.85,125.49,021,1.7,006km N 03° W of City Of Surigao (Surigao Del Norte),006,N 03° W,City Of Surigao (Surigao Del Norte)
-2026-08-03T01:12:00.000Z,03 August 2026 - 01:12 AM,11.14,124.13,007,1.8,019km N 58° E of City Of Bogo (Cebu),019,N 58° E,City Of Bogo (Cebu)
