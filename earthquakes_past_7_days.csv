@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-10T02:53:00.000Z,10 August 2026 - 02:53 AM,05.94,125.43,020,1.9,016km S 73° E of Malapatan (Sarangani),016,S 73° E,Malapatan (Sarangani)
+2026-08-10T02:07:00.000Z,10 August 2026 - 02:07 AM,06.28,126.93,176,2.7,100km S 32° E of Tarragona (Davao Oriental),100,S 32° E,Tarragona (Davao Oriental)
+2026-08-09T21:47:00.000Z,09 August 2026 - 09:47 PM,04.93,125.64,143,4.5,059km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),059,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T01:41:00.000Z,10 August 2026 - 01:41 AM,11.35,126.43,025,2.9,084km N 70° E of Mercedes (Eastern Samar),084,N 70° E,Mercedes (Eastern Samar)
 2026-08-10T01:10:00.000Z,10 August 2026 - 01:10 AM,05.88,126.05,116,2.6,045km S 85° E of Jose Abad Santos (Davao Occidental),045,S 85° E,Jose Abad Santos (Davao Occidental)
 2026-08-10T01:05:00.000Z,10 August 2026 - 01:05 AM,11.50,125.48,034,4.9,002km S 87° W of Maydolong (Eastern Samar),002,S 87° W,Maydolong (Eastern Samar)
@@ -634,10 +637,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-03T04:14:00.000Z,03 August 2026 - 04:14 AM,08.22,122.00,040,1.8,048km N 19° W of Baliguian (Zamboanga Del Norte),048,N 19° W,Baliguian (Zamboanga Del Norte)
 2026-08-03T03:18:00.000Z,03 August 2026 - 03:18 AM,12.95,124.64,009,2.0,042km N 45° E of Biri (Northern Samar),042,N 45° E,Biri (Northern Samar)
 2026-08-03T02:54:00.000Z,03 August 2026 - 02:54 AM,16.46,120.39,030,1.9,005km N 58° E of Caba (La Union),005,N 58° E,Caba (La Union)
-2026-08-03T02:52:00.000Z,03 August 2026 - 02:52 AM,05.64,125.38,015,2.8,021km N 28° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 28° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-03T02:20:00.000Z,03 August 2026 - 02:20 AM,12.82,122.95,022,2.0,033km S 74° W of Claveria (Masbate),033,S 74° W,Claveria (Masbate)
-2026-08-03T02:17:00.000Z,03 August 2026 - 02:17 AM,08.17,125.80,041,1.9,007km S 84° W of Loreto (Agusan Del Sur),007,S 84° W,Loreto (Agusan Del Sur)
-2026-08-03T02:15:00.000Z,03 August 2026 - 02:15 AM,07.35,126.79,021,2.6,024km N 85° E of Caraga (Davao Oriental),024,N 85° E,Caraga (Davao Oriental)
-2026-08-03T02:06:00.000Z,03 August 2026 - 02:06 AM,10.98,123.66,013,2.4,036km S 78° W of City Of Bogo (Cebu),036,S 78° W,City Of Bogo (Cebu)
-2026-08-03T02:00:00.000Z,03 August 2026 - 02:00 AM,05.12,126.88,051,2.6,161km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),161,S 76° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-03T01:44:00.000Z,03 August 2026 - 01:44 AM,05.43,125.50,045,1.6,006km S 39° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),006,S 39° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
