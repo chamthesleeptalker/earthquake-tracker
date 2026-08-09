@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-09T14:37:00.000Z,09 August 2026 - 02:37 PM,18.84,120.75,072,2.1,031km N 07° W of Pagudpud (Ilocos Norte),031,N 07° W,Pagudpud (Ilocos Norte)
+2026-08-09T14:30:00.000Z,09 August 2026 - 02:30 PM,16.19,121.96,027,1.4,006km N 02° E of Dinalungan (Aurora),006,N 02° E,Dinalungan (Aurora)
 2026-08-09T13:45:00.000Z,09 August 2026 - 01:45 PM,08.55,126.27,031,2.2,016km N 51° E of Tagbina (Surigao Del Sur),016,N 51° E,Tagbina (Surigao Del Sur)
 2026-08-09T13:21:00.000Z,09 August 2026 - 01:21 PM,04.86,124.26,024,2.6,131km S 18° W of Kiamba (Sarangani),131,S 18° W,Kiamba (Sarangani)
 2026-08-09T13:18:00.000Z,09 August 2026 - 01:18 PM,05.37,125.26,028,1.9,019km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -54,4 +56,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-08T14:59:00.000Z,08 August 2026 - 02:59 PM,07.98,127.00,005,2.5,064km N 71° E of Cateel (Davao Oriental),064,N 71° E,Cateel (Davao Oriental)
 2026-08-08T14:40:00.000Z,08 August 2026 - 02:40 PM,07.69,124.75,026,2.0,006km S 09° E of Kalilangan (Bukidnon),006,S 09° E,Kalilangan (Bukidnon)
 2026-08-08T14:40:00.000Z,08 August 2026 - 02:40 PM,07.92,126.61,022,2.0,022km N 49° E of Cateel (Davao Oriental),022,N 49° E,Cateel (Davao Oriental)
-2026-08-08T14:29:00.000Z,08 August 2026 - 02:29 PM,07.98,126.96,005,2.6,059km N 70° E of Cateel (Davao Oriental),059,N 70° E,Cateel (Davao Oriental)
