@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-09T16:25:00.000Z,09 August 2026 - 04:25 PM,13.14,121.32,006,2.7,006km S 46° E of Victoria (Oriental Mindoro),006,S 46° E,Victoria (Oriental Mindoro)
+2026-08-09T16:05:00.000Z,09 August 2026 - 04:05 PM,13.13,120.50,048,3.8,015km S 44° W of Mamburao (Occidental Mindoro),015,S 44° W,Mamburao (Occidental Mindoro)
+2026-08-09T15:50:00.000Z,09 August 2026 - 03:50 PM,06.87,126.22,020,3.0,009km S 03° E of City Of Mati (Davao Oriental),009,S 03° E,City Of Mati (Davao Oriental)
+2026-08-09T15:30:00.000Z,09 August 2026 - 03:30 PM,13.27,123.93,007,2.1,015km S 79° E of Bacacay (Albay),015,S 79° E,Bacacay (Albay)
 2026-08-09T14:37:00.000Z,09 August 2026 - 02:37 PM,18.84,120.75,072,2.1,031km N 07° W of Pagudpud (Ilocos Norte),031,N 07° W,Pagudpud (Ilocos Norte)
 2026-08-09T14:30:00.000Z,09 August 2026 - 02:30 PM,16.19,121.96,027,1.4,006km N 02° E of Dinalungan (Aurora),006,N 02° E,Dinalungan (Aurora)
 2026-08-09T13:45:00.000Z,09 August 2026 - 01:45 PM,08.55,126.27,031,2.2,016km N 51° E of Tagbina (Surigao Del Sur),016,N 51° E,Tagbina (Surigao Del Sur)

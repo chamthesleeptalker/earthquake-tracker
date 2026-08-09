@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-09T16:25:00.000Z,09 August 2026 - 04:25 PM,13.14,121.32,006,2.7,006km S 46° E of Victoria (Oriental Mindoro),006,S 46° E,Victoria (Oriental Mindoro)
+2026-08-09T16:05:00.000Z,09 August 2026 - 04:05 PM,13.13,120.50,048,3.8,015km S 44° W of Mamburao (Occidental Mindoro),015,S 44° W,Mamburao (Occidental Mindoro)
+2026-08-09T15:50:00.000Z,09 August 2026 - 03:50 PM,06.87,126.22,020,3.0,009km S 03° E of City Of Mati (Davao Oriental),009,S 03° E,City Of Mati (Davao Oriental)
+2026-08-09T15:30:00.000Z,09 August 2026 - 03:30 PM,13.27,123.93,007,2.1,015km S 79° E of Bacacay (Albay),015,S 79° E,Bacacay (Albay)
 2026-08-09T14:37:00.000Z,09 August 2026 - 02:37 PM,18.84,120.75,072,2.1,031km N 07° W of Pagudpud (Ilocos Norte),031,N 07° W,Pagudpud (Ilocos Norte)
 2026-08-09T14:30:00.000Z,09 August 2026 - 02:30 PM,16.19,121.96,027,1.4,006km N 02° E of Dinalungan (Aurora),006,N 02° E,Dinalungan (Aurora)
 2026-08-09T13:45:00.000Z,09 August 2026 - 01:45 PM,08.55,126.27,031,2.2,016km N 51° E of Tagbina (Surigao Del Sur),016,N 51° E,Tagbina (Surigao Del Sur)
@@ -625,8 +629,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-02T16:48:00.000Z,02 August 2026 - 04:48 PM,06.06,126.34,049,2.7,073km S 78° E of Don Marcelino (Davao Occidental),073,S 78° E,Don Marcelino (Davao Occidental)
 2026-08-02T16:41:00.000Z,02 August 2026 - 04:41 PM,05.56,125.30,016,2.2,021km N 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 39° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-02T16:38:00.000Z,02 August 2026 - 04:38 PM,06.14,125.56,088,1.9,016km S 68° W of Don Marcelino (Davao Occidental),016,S 68° W,Don Marcelino (Davao Occidental)
-2026-08-02T15:47:00.000Z,02 August 2026 - 03:47 PM,08.80,127.31,020,2.2,111km N 90° E of Marihatag (Surigao Del Sur),111,N 90° E,Marihatag (Surigao Del Sur)
-2026-08-02T15:43:00.000Z,02 August 2026 - 03:43 PM,06.54,126.31,031,1.8,030km S 64° E of Governor Generoso (Davao Oriental),030,S 64° E,Governor Generoso (Davao Oriental)
-2026-08-02T15:35:00.000Z,02 August 2026 - 03:35 PM,10.94,124.05,030,1.9,014km S 31° E of City Of Bogo (Cebu),014,S 31° E,City Of Bogo (Cebu)
-2026-08-02T15:24:00.000Z,02 August 2026 - 03:24 PM,08.54,125.70,021,2.1,006km N 41° W of San Luis (Agusan Del Sur),006,N 41° W,San Luis (Agusan Del Sur)
-2026-08-02T14:53:00.000Z,02 August 2026 - 02:53 PM,05.54,125.43,018,3.3,009km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,N 30° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
