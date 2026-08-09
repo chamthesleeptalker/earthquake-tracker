@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-10T01:10:00.000Z,10 August 2026 - 01:10 AM,05.88,126.05,116,2.6,045km S 85° E of Jose Abad Santos (Davao Occidental),045,S 85° E,Jose Abad Santos (Davao Occidental)
+2026-08-10T01:05:00.000Z,10 August 2026 - 01:05 AM,11.50,125.48,034,4.9,002km S 87° W of Maydolong (Eastern Samar),002,S 87° W,Maydolong (Eastern Samar)
+2026-08-10T00:48:00.000Z,10 August 2026 - 12:48 AM,05.78,125.45,006,2.3,026km S 55° W of Jose Abad Santos (Davao Occidental),026,S 55° W,Jose Abad Santos (Davao Occidental)
+2026-08-10T00:41:00.000Z,10 August 2026 - 12:41 AM,08.99,125.63,033,2.0,009km S 37° E of Remedios T. Romualdez (Agusan Del Norte),009,S 37° E,Remedios T. Romualdez (Agusan Del Norte)
+2026-08-10T00:41:00.000Z,10 August 2026 - 12:41 AM,15.70,121.91,013,1.7,038km S 80° E of Baler (Aurora),038,S 80° E,Baler (Aurora)
 2026-08-10T00:30:00.000Z,10 August 2026 - 12:30 AM,10.44,126.54,010,3.1,069km N 48° E of Burgos (Surigao Del Norte),069,N 48° E,Burgos (Surigao Del Norte)
 2026-08-10T00:22:00.000Z,10 August 2026 - 12:22 AM,05.74,125.13,023,1.5,012km S 44° W of Glan (Sarangani),012,S 44° W,Glan (Sarangani)
 2026-08-10T00:11:00.000Z,10 August 2026 - 12:11 AM,12.99,121.22,035,1.6,021km S 70° W of Socorro (Oriental Mindoro),021,S 70° W,Socorro (Oriental Mindoro)
@@ -639,7 +644,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-03T01:31:00.000Z,03 August 2026 - 01:31 AM,13.77,122.31,007,1.9,014km S 25° E of Lopez (Quezon),014,S 25° E,Lopez (Quezon)
 2026-08-03T01:27:00.000Z,03 August 2026 - 01:27 AM,09.85,125.49,021,1.7,006km N 03° W of City Of Surigao (Surigao Del Norte),006,N 03° W,City Of Surigao (Surigao Del Norte)
 2026-08-03T01:12:00.000Z,03 August 2026 - 01:12 AM,11.14,124.13,007,1.8,019km N 58° E of City Of Bogo (Cebu),019,N 58° E,City Of Bogo (Cebu)
-2026-08-03T01:07:00.000Z,03 August 2026 - 01:07 AM,04.02,125.97,077,3.4,166km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),166,S 22° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-03T01:02:00.000Z,03 August 2026 - 01:02 AM,08.26,127.16,002,2.4,086km N 73° E of Lingig (Surigao Del Sur),086,N 73° E,Lingig (Surigao Del Sur)
-2026-08-03T01:01:00.000Z,03 August 2026 - 01:01 AM,08.72,126.24,161,1.8,003km S 23° E of San Agustin (Surigao Del Sur),003,S 23° E,San Agustin (Surigao Del Sur)
-2026-08-03T00:43:00.000Z,03 August 2026 - 12:43 AM,05.79,125.29,022,1.7,010km S 68° E of Glan (Sarangani),010,S 68° E,Glan (Sarangani)
