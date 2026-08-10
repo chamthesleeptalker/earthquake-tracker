@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-10T17:02:00.000Z,10 August 2026 - 05:02 PM,04.94,125.11,016,4.4,062km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-10T16:04:00.000Z,10 August 2026 - 04:04 PM,08.20,125.97,024,2.2,004km N 58° W of Bunawan (Agusan Del Sur),004,N 58° W,Bunawan (Agusan Del Sur)
 2026-08-10T14:10:00.000Z,10 August 2026 - 02:10 PM,05.83,125.32,018,3.0,013km N 84° E of Glan (Sarangani),013,N 84° E,Glan (Sarangani)
 2026-08-10T13:35:00.000Z,10 August 2026 - 01:35 PM,08.89,126.59,010,4.6,031km S 84° E of Cagwait (Surigao Del Sur),031,S 84° E,Cagwait (Surigao Del Sur)
 2026-08-10T13:15:00.000Z,10 August 2026 - 01:15 PM,07.83,126.47,017,2.3,005km N 22° E of Cateel (Davao Oriental),005,N 22° E,Cateel (Davao Oriental)
@@ -624,7 +626,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-03T18:50:00.000Z,03 August 2026 - 06:50 PM,15.11,122.26,003,3.5,042km N 48° E of Burdeos (Quezon),042,N 48° E,Burdeos (Quezon)
 2026-08-03T18:08:00.000Z,03 August 2026 - 06:08 PM,05.44,125.10,024,1.9,036km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-03T18:02:00.000Z,03 August 2026 - 06:02 PM,15.16,122.16,013,3.1,041km N 31° E of Burdeos (Quezon),041,N 31° E,Burdeos (Quezon)
-2026-08-03T16:54:00.000Z,03 August 2026 - 04:54 PM,13.86,120.52,075,2.9,013km N 77° W of Calatagan (Batangas),013,N 77° W,Calatagan (Batangas)
-2026-08-03T16:08:00.000Z,03 August 2026 - 04:08 PM,05.71,125.46,034,1.8,026km N 04° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),026,N 04° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-03T15:34:00.000Z,03 August 2026 - 03:34 PM,12.83,123.11,009,3.1,017km S 62° W of Claveria (Masbate),017,S 62° W,Claveria (Masbate)
-2026-08-03T15:07:00.000Z,03 August 2026 - 03:07 PM,05.86,126.54,035,2.7,099km S 87° E of Jose Abad Santos (Davao Occidental),099,S 87° E,Jose Abad Santos (Davao Occidental)
