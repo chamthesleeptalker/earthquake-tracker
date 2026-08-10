@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-10T07:40:00.000Z,10 August 2026 - 07:40 AM,05.06,125.22,023,2.9,045km S 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,S 30° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-10T07:39:00.000Z,10 August 2026 - 07:39 AM,07.35,126.75,033,2.3,020km N 83° E of Caraga (Davao Oriental),020,N 83° E,Caraga (Davao Oriental)
 2026-08-10T07:16:00.000Z,10 August 2026 - 07:16 AM,05.88,125.45,029,1.9,028km N 77° E of Glan (Sarangani),028,N 77° E,Glan (Sarangani)
 2026-08-10T07:08:00.000Z,10 August 2026 - 07:08 AM,05.46,125.30,025,1.9,014km N 69° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,N 69° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T06:44:00.000Z,10 August 2026 - 06:44 AM,03.97,126.83,015,3.8,223km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),223,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -628,4 +630,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-03T08:49:00.000Z,03 August 2026 - 08:49 AM,05.81,125.47,026,1.5,022km S 60° W of Jose Abad Santos (Davao Occidental),022,S 60° W,Jose Abad Santos (Davao Occidental)
 2026-08-03T08:47:00.000Z,03 August 2026 - 08:47 AM,08.63,123.33,022,2.4,005km N 14° W of City Of Dipolog (Zamboanga Del Norte),005,N 14° W,City Of Dipolog (Zamboanga Del Norte)
 2026-08-03T07:45:00.000Z,03 August 2026 - 07:45 AM,17.21,120.36,024,1.9,009km N 62° W of City Of Candon (Ilocos Sur),009,N 62° W,City Of Candon (Ilocos Sur)
-2026-08-03T07:16:00.000Z,03 August 2026 - 07:16 AM,15.57,120.60,031,1.4,009km N 04° E of City Of Tarlac (Tarlac),009,N 04° E,City Of Tarlac (Tarlac)
