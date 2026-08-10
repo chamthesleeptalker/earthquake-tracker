@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-11T02:35:00.000Z,11 August 2026 - 02:35 AM,05.57,124.91,014,2.4,034km S 16° W of Maasim (Sarangani),034,S 16° W,Maasim (Sarangani)
+2026-08-11T02:34:00.000Z,11 August 2026 - 02:34 AM,05.61,125.31,018,1.4,024km N 48° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),024,N 48° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-11T02:28:00.000Z,11 August 2026 - 02:28 AM,05.48,124.85,004,1.4,045km S 21° W of Maasim (Sarangani),045,S 21° W,Maasim (Sarangani)
+2026-08-11T02:15:00.000Z,11 August 2026 - 02:15 AM,05.05,125.21,024,2.4,046km S 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),046,S 30° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-11T02:12:00.000Z,11 August 2026 - 02:12 AM,09.43,125.54,024,2.7,004km S 63° W of Kitcharao (Agusan Del Norte),004,S 63° W,Kitcharao (Agusan Del Norte)
+2026-08-11T02:01:00.000Z,11 August 2026 - 02:01 AM,05.15,125.24,015,3.4,036km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 35° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-11T01:56:00.000Z,11 August 2026 - 01:56 AM,18.84,120.70,004,2.9,032km N 17° W of Pagudpud (Ilocos Norte),032,N 17° W,Pagudpud (Ilocos Norte)
+2026-08-11T01:49:00.000Z,11 August 2026 - 01:49 AM,06.90,125.88,003,1.8,014km S 89° W of Lupon (Davao Oriental),014,S 89° W,Lupon (Davao Oriental)
+2026-08-11T01:47:00.000Z,11 August 2026 - 01:47 AM,06.43,125.88,079,1.3,030km N 87° E of Malita (Davao Occidental),030,N 87° E,Malita (Davao Occidental)
 2026-08-11T01:43:00.000Z,11 August 2026 - 01:43 AM,06.79,126.37,031,2.1,025km S 43° E of City Of Mati (Davao Oriental),025,S 43° E,City Of Mati (Davao Oriental)
 2026-08-11T00:58:00.000Z,11 August 2026 - 12:58 AM,06.18,125.51,007,1.6,021km S 84° W of Don Marcelino (Davao Occidental),021,S 84° W,Don Marcelino (Davao Occidental)
 2026-08-11T00:55:00.000Z,11 August 2026 - 12:55 AM,05.62,125.18,014,1.8,023km S 07° W of Glan (Sarangani),023,S 07° W,Glan (Sarangani)
