@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-10T20:42:00.000Z,10 August 2026 - 08:42 PM,13.14,124.22,021,1.8,028km N 68° E of Prieto Diaz (Sorsogon),028,N 68° E,Prieto Diaz (Sorsogon)
+2026-08-10T20:30:00.000Z,10 August 2026 - 08:30 PM,05.12,125.21,015,3.8,040km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-10T19:37:00.000Z,10 August 2026 - 07:37 PM,05.14,125.17,005,2.9,041km S 43° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),041,S 43° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T18:58:00.000Z,10 August 2026 - 06:58 PM,08.84,126.22,030,1.6,010km N 61° W of Marihatag (Surigao Del Sur),010,N 61° W,Marihatag (Surigao Del Sur)
 2026-08-10T18:42:00.000Z,10 August 2026 - 06:42 PM,05.03,125.17,075,3.4,050km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T18:33:00.000Z,10 August 2026 - 06:33 PM,05.98,124.82,014,2.5,021km S 86° E of Kiamba (Sarangani),021,S 86° E,Kiamba (Sarangani)
@@ -61,7 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T21:12:00.000Z,09 August 2026 - 09:12 PM,05.51,125.31,026,1.6,016km N 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,N 48° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-09T21:12:00.000Z,09 August 2026 - 09:12 PM,05.94,125.23,033,1.8,013km N 11° E of Glan (Sarangani),013,N 11° E,Glan (Sarangani)
 2026-08-09T20:48:00.000Z,09 August 2026 - 08:48 PM,05.06,125.01,010,2.6,060km S 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),060,S 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T20:26:00.000Z,09 August 2026 - 08:26 PM,13.99,123.36,010,2.3,012km S 74° E of Siruma (Camarines Sur),012,S 74° E,Siruma (Camarines Sur)
-2026-08-09T20:13:00.000Z,09 August 2026 - 08:13 PM,05.39,125.39,029,1.9,004km S 58° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),004,S 58° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T20:02:00.000Z,09 August 2026 - 08:02 PM,05.42,125.31,016,2.0,012km N 87° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,N 87° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T19:25:00.000Z,09 August 2026 - 07:25 PM,05.11,125.38,025,2.7,034km S 08° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,S 08° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)

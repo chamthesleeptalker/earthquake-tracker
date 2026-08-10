@@ -1,8 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-10T18:58:00.000Z,10 August 2026 - 06:58 PM,08.84,126.22,030,1.6,010km N 61° W of Marihatag (Surigao Del Sur),010,N 61° W,Marihatag (Surigao Del Sur)
-2026-08-10T18:42:00.000Z,10 August 2026 - 06:42 PM,05.03,125.17,075,3.4,050km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T18:33:00.000Z,10 August 2026 - 06:33 PM,05.98,124.82,014,2.5,021km S 86° E of Kiamba (Sarangani),021,S 86° E,Kiamba (Sarangani)
-2026-08-10T18:17:00.000Z,10 August 2026 - 06:17 PM,05.76,125.38,005,1.7,021km S 70° E of Glan (Sarangani),021,S 70° E,Glan (Sarangani)
-2026-08-10T18:09:00.000Z,10 August 2026 - 06:09 PM,05.91,125.56,067,2.0,009km West of Jose Abad Santos (Davao Occidental),009,West of Jose,Santos (Davao Occidental)
-2026-08-10T18:08:00.000Z,10 August 2026 - 06:08 PM,05.14,125.22,005,1.7,037km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T17:59:00.000Z,10 August 2026 - 05:59 PM,05.36,125.29,028,2.0,016km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-10T20:42:00.000Z,10 August 2026 - 08:42 PM,13.14,124.22,021,1.8,028km N 68° E of Prieto Diaz (Sorsogon),028,N 68° E,Prieto Diaz (Sorsogon)
+2026-08-10T20:30:00.000Z,10 August 2026 - 08:30 PM,05.12,125.21,015,3.8,040km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
