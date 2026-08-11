@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-12T06:15:00.000Z,12 August 2026 - 06:15 AM,18.03,121.14,022,1.4,005km N 79° W of Kabugao (Apayao),005,N 79° W,Kabugao (Apayao)
+2026-08-12T06:04:00.000Z,12 August 2026 - 06:04 AM,13.07,124.00,024,2.0,010km N 13° W of City Of Sorsogon (Sorsogon),010,N 13° W,City Of Sorsogon (Sorsogon)
+2026-08-12T06:01:00.000Z,12 August 2026 - 06:01 AM,06.23,126.43,124,1.9,062km S 40° E of Governor Generoso (Davao Oriental),062,S 40° E,Governor Generoso (Davao Oriental)
+2026-08-12T05:52:00.000Z,12 August 2026 - 05:52 AM,13.24,120.36,026,1.7,022km S 29° W of Paluan (Occidental Mindoro),022,S 29° W,Paluan (Occidental Mindoro)
+2026-08-12T05:34:00.000Z,12 August 2026 - 05:34 AM,05.60,125.25,005,2.4,025km S 11° E of Glan (Sarangani),025,S 11° E,Glan (Sarangani)
 2026-08-12T05:27:00.000Z,12 August 2026 - 05:27 AM,17.46,120.17,031,2.1,025km S 66° W of Caoayan (Ilocos Sur),025,S 66° W,Caoayan (Ilocos Sur)
 2026-08-12T05:14:00.000Z,12 August 2026 - 05:14 AM,04.76,125.45,033,2.1,072km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 03° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-12T04:55:00.000Z,12 August 2026 - 04:55 AM,02.89,126.07,123,4.4,288km S 14° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),288,S 14° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -638,7 +643,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-05T08:01:00.000Z,05 August 2026 - 08:01 AM,06.67,125.77,081,2.6,034km N 31° E of Malita (Davao Occidental),034,N 31° E,Malita (Davao Occidental)
 2026-08-05T07:14:00.000Z,05 August 2026 - 07:14 AM,06.43,123.99,003,1.9,015km S 24° W of Kalamansig (Sultan Kudarat),015,S 24° W,Kalamansig (Sultan Kudarat)
 2026-08-05T06:43:00.000Z,05 August 2026 - 06:43 AM,05.15,125.22,014,2.3,036km S 38° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 38° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-05T06:08:00.000Z,05 August 2026 - 06:08 AM,12.81,123.02,007,2.7,026km S 67° W of Claveria (Masbate),026,S 67° W,Claveria (Masbate)
-2026-08-05T06:02:00.000Z,05 August 2026 - 06:02 AM,11.32,125.37,011,2.5,020km N 65° W of General Macarthur (Eastern Samar),020,N 65° W,General Macarthur (Eastern Samar)
-2026-08-05T05:50:00.000Z,05 August 2026 - 05:50 AM,12.52,124.59,032,2.3,006km N 68° W of Catarman (Northern Samar),006,N 68° W,Catarman (Northern Samar)
-2026-08-05T05:45:00.000Z,05 August 2026 - 05:45 AM,10.38,126.41,029,2.5,054km N 43° E of Burgos (Surigao Del Norte),054,N 43° E,Burgos (Surigao Del Norte)
