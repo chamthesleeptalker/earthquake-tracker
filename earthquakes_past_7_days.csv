@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-11T20:33:00.000Z,11 August 2026 - 08:33 PM,09.88,125.92,033,1.5,006km N 80° W of Del Carmen (Surigao Del Norte),006,N 80° W,Del Carmen (Surigao Del Norte)
+2026-08-11T20:18:00.000Z,11 August 2026 - 08:18 PM,16.04,119.78,006,1.6,009km S 13° W of Agno (Pangasinan),009,S 13° W,Agno (Pangasinan)
+2026-08-11T20:14:00.000Z,11 August 2026 - 08:14 PM,08.45,126.09,118,2.3,008km S 79° W of Tagbina (Surigao Del Sur),008,S 79° W,Tagbina (Surigao Del Sur)
 2026-08-11T19:29:00.000Z,11 August 2026 - 07:29 PM,04.93,125.20,031,3.5,058km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),058,S 24° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T19:17:00.000Z,11 August 2026 - 07:17 PM,05.65,125.45,030,1.9,020km N 08° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 08° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T19:05:00.000Z,11 August 2026 - 07:05 PM,15.54,120.01,028,1.7,005km N 81° E of Masinloc (Zambales),005,N 81° E,Masinloc (Zambales)
@@ -637,7 +640,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-04T22:18:00.000Z,04 August 2026 - 10:18 PM,10.27,122.21,005,2.6,036km S 60° E of Anini-y (Antique),036,S 60° E,Anini-y (Antique)
 2026-08-04T21:38:00.000Z,04 August 2026 - 09:38 PM,05.38,125.32,043,1.5,012km S 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,S 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-04T21:16:00.000Z,04 August 2026 - 09:16 PM,12.41,124.75,029,2.1,012km S 01° W of Mondragon (Northern Samar),012,S 01° W,Mondragon (Northern Samar)
-2026-08-04T20:30:00.000Z,04 August 2026 - 08:30 PM,06.37,126.81,029,2.4,085km S 28° E of Tarragona (Davao Oriental),085,S 28° E,Tarragona (Davao Oriental)
-2026-08-04T20:07:00.000Z,04 August 2026 - 08:07 PM,09.22,126.09,009,2.3,003km S 64° E of Lanuza (Surigao Del Sur),003,S 64° E,Lanuza (Surigao Del Sur)
-2026-08-04T20:00:00.000Z,04 August 2026 - 08:00 PM,06.23,126.01,158,2.0,036km N 84° E of Don Marcelino (Davao Occidental),036,N 84° E,Don Marcelino (Davao Occidental)
-2026-08-04T19:59:00.000Z,04 August 2026 - 07:59 PM,05.81,125.32,021,1.9,012km S 86° E of Glan (Sarangani),012,S 86° E,Glan (Sarangani)
