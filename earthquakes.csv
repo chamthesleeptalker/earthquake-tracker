@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-11T09:05:00.000Z,11 August 2026 - 09:05 AM,09.50,126.25,020,1.6,025km N 14° E of Cortes (Surigao Del Sur),025,N 14° E,Cortes (Surigao Del Sur)
+2026-08-11T08:59:00.000Z,11 August 2026 - 08:59 AM,13.63,120.56,101,2.0,024km S 19° W of Calatagan (Batangas),024,S 19° W,Calatagan (Batangas)
+2026-08-11T08:57:00.000Z,11 August 2026 - 08:57 AM,05.70,125.28,002,1.7,016km S 32° E of Glan (Sarangani),016,S 32° E,Glan (Sarangani)
+2026-08-11T08:07:00.000Z,11 August 2026 - 08:07 AM,13.07,125.08,096,1.4,056km N 08° E of Laoang (Northern Samar),056,N 08° E,Laoang (Northern Samar)
+2026-08-11T07:49:00.000Z,11 August 2026 - 07:49 AM,05.00,125.21,034,1.9,051km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-11T07:31:00.000Z,11 August 2026 - 07:31 AM,19.57,121.63,005,2.7,030km N 77° W of Babuyan Island (Calayan) (Cagayan),030,N 77° W,Babuyan Island (Calayan) (Cagayan)
 2026-08-11T07:17:00.000Z,11 August 2026 - 07:17 AM,05.43,125.50,009,2.5,006km S 34° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),006,S 34° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T07:16:00.000Z,11 August 2026 - 07:16 AM,05.12,125.76,064,1.9,049km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),049,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T07:13:00.000Z,11 August 2026 - 07:13 AM,09.85,126.14,017,1.6,005km S 75° E of Pilar (Surigao Del Norte),005,S 75° E,Pilar (Surigao Del Norte)
