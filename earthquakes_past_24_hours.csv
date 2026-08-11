@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-12T05:27:00.000Z,12 August 2026 - 05:27 AM,17.46,120.17,031,2.1,025km S 66° W of Caoayan (Ilocos Sur),025,S 66° W,Caoayan (Ilocos Sur)
+2026-08-12T05:14:00.000Z,12 August 2026 - 05:14 AM,04.76,125.45,033,2.1,072km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 03° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-12T04:55:00.000Z,12 August 2026 - 04:55 AM,02.89,126.07,123,4.4,288km S 14° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),288,S 14° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-12T04:53:00.000Z,12 August 2026 - 04:53 AM,06.54,124.40,035,2.1,013km N 45° E of Senator Ninoy Aquino (Sultan Kudarat),013,N 45° E,Senator Ninoy Aquino (Sultan Kudarat)
+2026-08-12T04:51:00.000Z,12 August 2026 - 04:51 AM,11.89,125.52,013,2.3,011km N 41° E of Sulat (Eastern Samar),011,N 41° E,Sulat (Eastern Samar)
 2026-08-12T04:29:00.000Z,12 August 2026 - 04:29 AM,11.41,125.79,007,2.5,020km N 68° E of Hernani (Eastern Samar),020,N 68° E,Hernani (Eastern Samar)
 2026-08-12T04:14:00.000Z,12 August 2026 - 04:14 AM,05.97,125.47,021,1.5,020km N 73° W of Jose Abad Santos (Davao Occidental),020,N 73° W,Jose Abad Santos (Davao Occidental)
 2026-08-12T04:11:00.000Z,12 August 2026 - 04:11 AM,05.01,125.26,056,2.3,048km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),048,S 22° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -65,7 +70,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-11T06:21:00.000Z,11 August 2026 - 06:21 AM,05.05,125.21,040,2.0,046km S 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),046,S 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T05:38:00.000Z,11 August 2026 - 05:38 AM,07.04,125.51,129,1.6,022km S 78° W of Island Garden City Of Samal (Davao Del Norte),022,S 78° W,Island Garden City Of Samal (Davao Del Norte)
 2026-08-11T05:34:00.000Z,11 August 2026 - 05:34 AM,14.45,122.78,014,2.0,018km S 80° W of Tinaga Island (Vinzons) (Camarines Norte),018,S 80° W,Tinaga Island (Vinzons) (Camarines Norte)
-2026-08-11T05:05:00.000Z,11 August 2026 - 05:05 AM,05.22,125.18,011,2.4,034km S 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,S 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-11T05:04:00.000Z,11 August 2026 - 05:04 AM,13.76,123.45,033,1.9,008km N 73° W of Lagonoy (Camarines Sur),008,N 73° W,Lagonoy (Camarines Sur)
-2026-08-11T05:00:00.000Z,11 August 2026 - 05:00 AM,13.89,123.47,015,1.8,017km N 17° W of Lagonoy (Camarines Sur),017,N 17° W,Lagonoy (Camarines Sur)
-2026-08-11T04:50:00.000Z,11 August 2026 - 04:50 AM,05.68,125.10,024,2.2,019km S 35° W of Glan (Sarangani),019,S 35° W,Glan (Sarangani)
