@@ -1,6 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-12T02:11:00.000Z,12 August 2026 - 02:11 AM,14.66,121.90,021,1.5,007km S 34° W of Polillo (Quezon),007,S 34° W,Polillo (Quezon)
-2026-08-12T02:08:00.000Z,12 August 2026 - 02:08 AM,12.30,125.41,017,2.0,006km N 50° E of Arteche (Eastern Samar),006,N 50° E,Arteche (Eastern Samar)
-2026-08-12T02:04:00.000Z,12 August 2026 - 02:04 AM,07.54,126.97,028,3.7,046km S 85° E of Baganga (Davao Oriental),046,S 85° E,Baganga (Davao Oriental)
-2026-08-12T01:47:00.000Z,12 August 2026 - 01:47 AM,12.71,124.96,016,1.7,017km N 19° W of Laoang (Northern Samar),017,N 19° W,Laoang (Northern Samar)
-2026-08-12T01:44:00.000Z,12 August 2026 - 01:44 AM,05.72,125.20,005,2.5,011km S 02° W of Glan (Sarangani),011,S 02° W,Glan (Sarangani)
+2026-08-12T03:12:00.000Z,12 August 2026 - 03:12 AM,04.96,125.30,039,2.4,052km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),052,S 15° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-12T03:00:00.000Z,12 August 2026 - 03:00 AM,06.06,125.87,111,3.5,025km S 52° E of Don Marcelino (Davao Occidental),025,S 52° E,Don Marcelino (Davao Occidental)
+2026-08-12T02:25:00.000Z,12 August 2026 - 02:25 AM,16.71,119.90,011,2.1,036km N 01° E of Bolinao (Pangasinan),036,N 01° E,Bolinao (Pangasinan)
