@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-11T16:29:00.000Z,11 August 2026 - 04:29 PM,13.23,120.42,024,2.4,019km N 88° W of Mamburao (Occidental Mindoro),019,N 88° W,Mamburao (Occidental Mindoro)
 2026-08-11T15:16:00.000Z,11 August 2026 - 03:16 PM,08.85,126.47,033,2.9,020km S 68° E of Cagwait (Surigao Del Sur),020,S 68° E,Cagwait (Surigao Del Sur)
 2026-08-11T15:16:00.000Z,11 August 2026 - 03:16 PM,08.93,126.49,024,2.4,021km N 86° E of Cagwait (Surigao Del Sur),021,N 86° E,Cagwait (Surigao Del Sur)
 2026-08-11T14:46:00.000Z,11 August 2026 - 02:46 PM,09.57,126.09,031,1.6,015km S 67° E of Socorro (Surigao Del Norte),015,S 67° E,Socorro (Surigao Del Norte)
@@ -76,4 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-10T17:59:00.000Z,10 August 2026 - 05:59 PM,05.36,125.29,028,2.0,016km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T17:49:00.000Z,10 August 2026 - 05:49 PM,05.14,125.44,029,1.7,030km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 04° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T17:02:00.000Z,10 August 2026 - 05:02 PM,04.94,125.11,016,4.4,062km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),062,S 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T16:04:00.000Z,10 August 2026 - 04:04 PM,08.20,125.97,024,2.2,004km N 58° W of Bunawan (Agusan Del Sur),004,N 58° W,Bunawan (Agusan Del Sur)
