@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-12T00:10:00.000Z,12 August 2026 - 12:10 AM,08.09,126.74,018,1.9,037km N 81° E of Lingig (Surigao Del Sur),037,N 81° E,Lingig (Surigao Del Sur)
+2026-08-11T23:56:00.000Z,11 August 2026 - 11:56 PM,08.73,126.86,007,2.2,062km S 82° E of Marihatag (Surigao Del Sur),062,S 82° E,Marihatag (Surigao Del Sur)
+2026-08-11T23:53:00.000Z,11 August 2026 - 11:53 PM,05.09,125.20,028,2.2,044km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),044,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T22:39:00.000Z,11 August 2026 - 10:39 PM,17.73,120.75,003,2.5,005km N 82° E of Lagayan (Abra),005,N 82° E,Lagayan (Abra)
 2026-08-11T07:15:00.000Z,11 August 2026 - 07:15 AM,02.16,127.13,188,3.5,407km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),407,S 28° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T22:02:00.000Z,11 August 2026 - 10:02 PM,05.96,125.36,022,1.8,008km S 85° E of Malapatan (Sarangani),008,S 85° E,Malapatan (Sarangani)
@@ -73,6 +76,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-11T00:16:00.000Z,11 August 2026 - 12:16 AM,05.00,125.45,032,2.1,046km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),046,S 04° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-11T00:14:00.000Z,11 August 2026 - 12:14 AM,05.92,125.79,028,1.5,017km N 88° E of Jose Abad Santos (Davao Occidental),017,N 88° E,Jose Abad Santos (Davao Occidental)
 2026-08-11T00:13:00.000Z,11 August 2026 - 12:13 AM,14.51,123.90,021,1.8,059km N 30° W of Pandan (Catanduanes),059,N 30° W,Pandan (Catanduanes)
-2026-08-10T23:57:00.000Z,10 August 2026 - 11:57 PM,06.04,127.66,137,2.9,175km S 50° E of Tarragona (Davao Oriental),175,S 50° E,Tarragona (Davao Oriental)
-2026-08-10T23:20:00.000Z,10 August 2026 - 11:20 PM,17.78,120.36,046,1.7,010km S 80° W of Cabugao (Ilocos Sur),010,S 80° W,Cabugao (Ilocos Sur)
-2026-08-10T22:43:00.000Z,10 August 2026 - 10:43 PM,10.57,126.16,146,1.9,052km S 68° E of Homonhon Island (Guiuan) (Eastern Samar),052,S 68° E,Homonhon Island (Guiuan) (Eastern Samar)
