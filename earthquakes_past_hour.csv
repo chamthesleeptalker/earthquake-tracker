@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-12T18:12:00.000Z,12 August 2026 - 06:12 PM,15.18,122.13,016,1.9,041km N 25° E of Burdeos (Quezon),041,N 25° E,Burdeos (Quezon)
-2026-08-12T17:35:00.000Z,12 August 2026 - 05:35 PM,08.02,126.39,027,2.1,003km S 54° W of Lingig (Surigao Del Sur),003,S 54° W,Lingig (Surigao Del Sur)
-2026-08-12T17:18:00.000Z,12 August 2026 - 05:18 PM,05.72,125.10,002,2.5,016km S 44° W of Glan (Sarangani),016,S 44° W,Glan (Sarangani)
+2026-08-12T19:52:00.000Z,12 August 2026 - 07:52 PM,05.84,125.27,002,2.3,008km N 74° E of Glan (Sarangani),008,N 74° E,Glan (Sarangani)
+2026-08-12T19:35:00.000Z,12 August 2026 - 07:35 PM,15.78,121.68,019,1.6,013km N 79° E of Baler (Aurora),013,N 79° E,Baler (Aurora)
+2026-08-12T19:33:00.000Z,12 August 2026 - 07:33 PM,05.44,125.24,021,2.7,021km N 81° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 81° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-12T19:21:00.000Z,12 August 2026 - 07:21 PM,08.82,126.35,017,1.9,006km N 62° E of Marihatag (Surigao Del Sur),006,N 62° E,Marihatag (Surigao Del Sur)
