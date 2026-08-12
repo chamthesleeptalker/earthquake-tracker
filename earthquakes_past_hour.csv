@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-12T09:02:00.000Z,12 August 2026 - 09:02 AM,06.08,125.44,021,1.6,017km S 82° E of Alabel (Sarangani),017,S 82° E,Alabel (Sarangani)
-2026-08-12T08:10:00.000Z,12 August 2026 - 08:10 AM,13.71,120.52,092,1.9,018km S 42° W of Calatagan (Batangas),018,S 42° W,Calatagan (Batangas)
+2026-08-12T11:50:00.000Z,12 August 2026 - 11:50 AM,07.20,125.45,008,2.3,026km S 70° W of City Of Panabo (Davao Del Norte),026,S 70° W,City Of Panabo (Davao Del Norte)
+2026-08-12T11:38:00.000Z,12 August 2026 - 11:38 AM,05.73,126.31,164,4.7,076km S 74° E of Jose Abad Santos (Davao Occidental),076,S 74° E,Jose Abad Santos (Davao Occidental)
+2026-08-12T11:37:00.000Z,12 August 2026 - 11:37 AM,13.78,120.20,033,1.9,008km N 39° W of Looc (Occidental Mindoro),008,N 39° W,Looc (Occidental Mindoro)
+2026-08-12T11:35:00.000Z,12 August 2026 - 11:35 AM,10.28,126.15,012,3.5,030km N 16° E of Burgos (Surigao Del Norte),030,N 16° E,Burgos (Surigao Del Norte)
