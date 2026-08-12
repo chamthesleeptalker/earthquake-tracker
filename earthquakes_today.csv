@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-12T18:12:00.000Z,12 August 2026 - 06:12 PM,15.18,122.13,016,1.9,041km N 25° E of Burdeos (Quezon),041,N 25° E,Burdeos (Quezon)
 2026-08-12T17:35:00.000Z,12 August 2026 - 05:35 PM,08.02,126.39,027,2.1,003km S 54° W of Lingig (Surigao Del Sur),003,S 54° W,Lingig (Surigao Del Sur)
 2026-08-12T17:18:00.000Z,12 August 2026 - 05:18 PM,05.72,125.10,002,2.5,016km S 44° W of Glan (Sarangani),016,S 44° W,Glan (Sarangani)
 2026-08-12T16:22:00.000Z,12 August 2026 - 04:22 PM,09.70,126.37,035,1.9,025km S 69° E of General Luna (Surigao Del Norte),025,S 69° E,General Luna (Surigao Del Norte)
