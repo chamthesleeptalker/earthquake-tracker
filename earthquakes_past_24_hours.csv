@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-13T01:51:00.000Z,13 August 2026 - 01:51 AM,18.24,122.05,021,1.6,006km S 64° E of Gonzaga (Cagayan),006,S 64° E,Gonzaga (Cagayan)
+2026-08-13T01:45:00.000Z,13 August 2026 - 01:45 AM,13.48,123.96,050,2.1,020km S 48° W of San Andres (Catanduanes),020,S 48° W,San Andres (Catanduanes)
+2026-08-13T01:38:00.000Z,13 August 2026 - 01:38 AM,05.71,124.35,010,2.1,042km S 22° W of Maitum (Sarangani),042,S 22° W,Maitum (Sarangani)
+2026-08-13T01:33:00.000Z,13 August 2026 - 01:33 AM,06.29,125.29,007,1.7,010km S 09° E of Malungon (Sarangani),010,S 09° E,Malungon (Sarangani)
+2026-08-13T01:30:00.000Z,13 August 2026 - 01:30 AM,04.93,125.17,036,2.8,060km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),060,S 28° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-13T01:14:00.000Z,13 August 2026 - 01:14 AM,04.97,125.25,026,3.3,052km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),052,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-13T00:48:00.000Z,13 August 2026 - 12:48 AM,05.70,125.13,025,1.6,015km S 31° W of Glan (Sarangani),015,S 31° W,Glan (Sarangani)
 2026-08-13T00:33:00.000Z,13 August 2026 - 12:33 AM,09.65,126.14,004,1.8,015km S 40° E of Dapa (Surigao Del Norte),015,S 40° E,Dapa (Surigao Del Norte)
 2026-08-13T00:09:00.000Z,13 August 2026 - 12:09 AM,10.46,123.12,001,1.8,014km N 50° W of City Of Canlaon (Negros Oriental),014,N 50° W,City Of Canlaon (Negros Oriental)
@@ -63,6 +69,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T02:11:00.000Z,12 August 2026 - 02:11 AM,14.66,121.90,021,1.5,007km S 34° W of Polillo (Quezon),007,S 34° W,Polillo (Quezon)
 2026-08-12T02:08:00.000Z,12 August 2026 - 02:08 AM,12.30,125.41,017,2.0,006km N 50° E of Arteche (Eastern Samar),006,N 50° E,Arteche (Eastern Samar)
 2026-08-12T02:04:00.000Z,12 August 2026 - 02:04 AM,07.54,126.97,028,3.7,046km S 85° E of Baganga (Davao Oriental),046,S 85° E,Baganga (Davao Oriental)
-2026-08-12T01:47:00.000Z,12 August 2026 - 01:47 AM,12.71,124.96,016,1.7,017km N 19° W of Laoang (Northern Samar),017,N 19° W,Laoang (Northern Samar)
-2026-08-12T01:44:00.000Z,12 August 2026 - 01:44 AM,05.72,125.20,005,2.5,011km S 02° W of Glan (Sarangani),011,S 02° W,Glan (Sarangani)
-2026-08-12T00:59:00.000Z,12 August 2026 - 12:59 AM,10.26,126.56,024,1.9,060km N 63° E of Burgos (Surigao Del Norte),060,N 63° E,Burgos (Surigao Del Norte)
