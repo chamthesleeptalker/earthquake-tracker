@@ -1,7 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-13T01:51:00.000Z,13 August 2026 - 01:51 AM,18.24,122.05,021,1.6,006km S 64° E of Gonzaga (Cagayan),006,S 64° E,Gonzaga (Cagayan)
-2026-08-13T01:45:00.000Z,13 August 2026 - 01:45 AM,13.48,123.96,050,2.1,020km S 48° W of San Andres (Catanduanes),020,S 48° W,San Andres (Catanduanes)
-2026-08-13T01:38:00.000Z,13 August 2026 - 01:38 AM,05.71,124.35,010,2.1,042km S 22° W of Maitum (Sarangani),042,S 22° W,Maitum (Sarangani)
-2026-08-13T01:33:00.000Z,13 August 2026 - 01:33 AM,06.29,125.29,007,1.7,010km S 09° E of Malungon (Sarangani),010,S 09° E,Malungon (Sarangani)
-2026-08-13T01:30:00.000Z,13 August 2026 - 01:30 AM,04.93,125.17,036,2.8,060km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),060,S 28° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-13T01:14:00.000Z,13 August 2026 - 01:14 AM,04.97,125.25,026,3.3,052km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),052,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-13T03:15:00.000Z,13 August 2026 - 03:15 AM,06.11,125.38,021,1.2,010km N 89° E of Alabel (Sarangani),010,N 89° E,Alabel (Sarangani)
+2026-08-13T02:29:00.000Z,13 August 2026 - 02:29 AM,05.13,125.07,016,3.1,050km S 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
