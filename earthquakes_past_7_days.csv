@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-14T06:13:00.000Z,14 August 2026 - 06:13 AM,06.38,125.74,016,2.8,014km S 77° E of Malita (Davao Occidental),014,S 77° E,Malita (Davao Occidental)
+2026-08-14T05:50:00.000Z,14 August 2026 - 05:50 AM,13.09,124.21,002,2.3,005km N 18° E of Prieto Diaz (Sorsogon),005,N 18° E,Prieto Diaz (Sorsogon)
+2026-08-14T05:46:00.000Z,14 August 2026 - 05:46 AM,13.39,120.26,028,1.9,022km S 84° W of Paluan (Occidental Mindoro),022,S 84° W,Paluan (Occidental Mindoro)
 2026-08-14T04:48:00.000Z,14 August 2026 - 04:48 AM,08.30,126.69,024,1.8,039km S 80° E of Hinatuan (Surigao Del Sur),039,S 80° E,Hinatuan (Surigao Del Sur)
 2026-08-14T04:44:00.000Z,14 August 2026 - 04:44 AM,05.94,125.40,052,1.8,013km S 76° E of Malapatan (Sarangani),013,S 76° E,Malapatan (Sarangani)
 2026-08-14T04:40:00.000Z,14 August 2026 - 04:40 AM,06.57,126.41,013,2.4,039km S 76° E of Governor Generoso (Davao Oriental),039,S 76° E,Governor Generoso (Davao Oriental)
@@ -480,8 +483,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-07T08:26:00.000Z,07 August 2026 - 08:26 AM,15.20,122.20,002,2.4,047km N 32° E of Burdeos (Quezon),047,N 32° E,Burdeos (Quezon)
 2026-08-07T06:59:00.000Z,07 August 2026 - 06:59 AM,06.23,125.51,030,1.5,021km N 79° W of Don Marcelino (Davao Occidental),021,N 79° W,Don Marcelino (Davao Occidental)
 2026-08-07T06:31:00.000Z,07 August 2026 - 06:31 AM,05.58,125.28,024,2.1,025km N 40° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,N 40° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T05:51:00.000Z,07 August 2026 - 05:51 AM,05.40,126.07,014,2.5,067km S 83° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),067,S 83° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-07T05:42:00.000Z,07 August 2026 - 05:42 AM,06.87,123.88,009,1.6,027km S 36° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),027,S 36° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
-2026-08-07T05:17:00.000Z,07 August 2026 - 05:17 AM,05.81,125.36,015,3.0,018km S 85° E of Glan (Sarangani),018,S 85° E,Glan (Sarangani)
-2026-08-07T05:02:00.000Z,07 August 2026 - 05:02 AM,15.84,123.68,001,3.0,169km S 68° E of Dilasag (Aurora),169,S 68° E,Dilasag (Aurora)
-2026-08-07T05:00:00.000Z,07 August 2026 - 05:00 AM,04.75,125.37,028,2.5,074km S 04° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),074,S 04° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
