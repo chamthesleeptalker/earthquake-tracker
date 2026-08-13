@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-13T16:17:00.000Z,13 August 2026 - 04:17 PM,05.53,125.29,026,2.1,019km N 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-13T13:01:00.000Z,13 August 2026 - 01:01 PM,05.21,126.20,054,1.6,085km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),085,S 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-13T13:01:00.000Z,13 August 2026 - 01:01 PM,14.84,119.29,006,2.9,087km S 82° W of San Antonio (Zambales),087,S 82° W,San Antonio (Zambales)
 2026-08-13T11:28:00.000Z,13 August 2026 - 11:28 AM,08.79,126.55,026,2.4,027km S 89° E of Marihatag (Surigao Del Sur),027,S 89° E,Marihatag (Surigao Del Sur)
@@ -498,12 +499,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-06T16:52:00.000Z,06 August 2026 - 04:52 PM,19.29,121.18,042,2.4,020km N 08° W of Dalupiri Island (Calayan) (Cagayan),020,N 08° W,Dalupiri Island (Calayan) (Cagayan)
 2026-08-06T16:49:00.000Z,06 August 2026 - 04:49 PM,05.31,125.26,004,2.1,021km S 58° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 58° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-06T16:20:00.000Z,06 August 2026 - 04:20 PM,08.82,126.43,026,3.4,015km N 82° E of Marihatag (Surigao Del Sur),015,N 82° E,Marihatag (Surigao Del Sur)
-2026-08-06T15:38:00.000Z,06 August 2026 - 03:38 PM,05.26,125.35,014,2.5,018km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-06T15:37:00.000Z,06 August 2026 - 03:37 PM,05.75,125.28,014,1.9,012km S 45° E of Glan (Sarangani),012,S 45° E,Glan (Sarangani)
-2026-08-06T15:09:00.000Z,06 August 2026 - 03:09 PM,13.17,120.44,044,3.5,018km S 71° W of Mamburao (Occidental Mindoro),018,S 71° W,Mamburao (Occidental Mindoro)
-2026-08-06T14:35:00.000Z,06 August 2026 - 02:35 PM,07.76,122.18,013,2.3,006km S 33° E of Baliguian (Zamboanga Del Norte),006,S 33° E,Baliguian (Zamboanga Del Norte)
-2026-08-06T14:30:00.000Z,06 August 2026 - 02:30 PM,09.94,125.38,006,2.2,012km N 76° E of San Ricardo (Southern Leyte),012,N 76° E,San Ricardo (Southern Leyte)
-2026-08-06T14:27:00.000Z,06 August 2026 - 02:27 PM,15.11,119.92,033,2.2,016km S 68° W of Cabangan (Zambales),016,S 68° W,Cabangan (Zambales)
-2026-08-06T13:56:00.000Z,06 August 2026 - 01:56 PM,07.72,122.19,012,1.8,006km N 80° E of Siocon (Zamboanga Del Norte),006,N 80° E,Siocon (Zamboanga Del Norte)
-2026-08-06T13:54:00.000Z,06 August 2026 - 01:54 PM,17.04,122.13,003,3.0,015km N 65° E of San Mariano (Isabela),015,N 65° E,San Mariano (Isabela)
-2026-08-06T13:30:00.000Z,06 August 2026 - 01:30 PM,05.05,125.16,018,3.0,050km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
