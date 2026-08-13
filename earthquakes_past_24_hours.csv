@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-14T07:28:00.000Z,14 August 2026 - 07:28 AM,10.01,125.85,168,2.5,018km N 74° W of San Benito (Surigao Del Norte),018,N 74° W,San Benito (Surigao Del Norte)
 2026-08-14T06:13:00.000Z,14 August 2026 - 06:13 AM,06.38,125.74,016,2.8,014km S 77° E of Malita (Davao Occidental),014,S 77° E,Malita (Davao Occidental)
 2026-08-14T05:50:00.000Z,14 August 2026 - 05:50 AM,13.09,124.21,002,2.3,005km N 18° E of Prieto Diaz (Sorsogon),005,N 18° E,Prieto Diaz (Sorsogon)
 2026-08-14T05:46:00.000Z,14 August 2026 - 05:46 AM,13.39,120.26,028,1.9,022km S 84° W of Paluan (Occidental Mindoro),022,S 84° W,Paluan (Occidental Mindoro)
@@ -57,4 +58,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-13T07:46:00.000Z,13 August 2026 - 07:46 AM,20.40,121.96,033,2.3,002km S 27° E of Mahatao (Batanes),002,S 27° E,Mahatao (Batanes)
 2026-08-13T07:39:00.000Z,13 August 2026 - 07:39 AM,05.30,125.07,041,3.0,040km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-13T07:38:00.000Z,13 August 2026 - 07:38 AM,09.47,126.48,010,2.3,038km N 56° E of Cortes (Surigao Del Sur),038,N 56° E,Cortes (Surigao Del Sur)
-2026-08-13T06:21:00.000Z,13 August 2026 - 06:21 AM,08.31,128.60,546,4.5,238km N 70° E of Baganga (Davao Oriental),238,N 70° E,Baganga (Davao Oriental)

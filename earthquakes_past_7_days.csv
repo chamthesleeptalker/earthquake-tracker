@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-14T07:28:00.000Z,14 August 2026 - 07:28 AM,10.01,125.85,168,2.5,018km N 74° W of San Benito (Surigao Del Norte),018,N 74° W,San Benito (Surigao Del Norte)
 2026-08-14T06:13:00.000Z,14 August 2026 - 06:13 AM,06.38,125.74,016,2.8,014km S 77° E of Malita (Davao Occidental),014,S 77° E,Malita (Davao Occidental)
 2026-08-14T05:50:00.000Z,14 August 2026 - 05:50 AM,13.09,124.21,002,2.3,005km N 18° E of Prieto Diaz (Sorsogon),005,N 18° E,Prieto Diaz (Sorsogon)
 2026-08-14T05:46:00.000Z,14 August 2026 - 05:46 AM,13.39,120.26,028,1.9,022km S 84° W of Paluan (Occidental Mindoro),022,S 84° W,Paluan (Occidental Mindoro)
@@ -481,5 +482,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-07T08:33:00.000Z,07 August 2026 - 08:33 AM,05.79,125.37,017,1.6,019km S 78° E of Glan (Sarangani),019,S 78° E,Glan (Sarangani)
 2026-08-07T08:29:00.000Z,07 August 2026 - 08:29 AM,09.27,126.32,024,2.5,014km S 89° E of Cortes (Surigao Del Sur),014,S 89° E,Cortes (Surigao Del Sur)
 2026-08-07T08:26:00.000Z,07 August 2026 - 08:26 AM,15.20,122.20,002,2.4,047km N 32° E of Burdeos (Quezon),047,N 32° E,Burdeos (Quezon)
-2026-08-07T06:59:00.000Z,07 August 2026 - 06:59 AM,06.23,125.51,030,1.5,021km N 79° W of Don Marcelino (Davao Occidental),021,N 79° W,Don Marcelino (Davao Occidental)
-2026-08-07T06:31:00.000Z,07 August 2026 - 06:31 AM,05.58,125.28,024,2.1,025km N 40° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,N 40° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
