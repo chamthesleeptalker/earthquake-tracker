@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-13T19:02:00.000Z,13 August 2026 - 07:02 PM,08.67,125.66,054,2.3,002km S 69° E of Esperanza (Agusan Del Sur),002,S 69° E,Esperanza (Agusan Del Sur)
-2026-08-13T18:22:00.000Z,13 August 2026 - 06:22 PM,05.59,125.33,033,1.6,021km N 51° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 51° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-13T21:37:00.000Z,13 August 2026 - 09:37 PM,05.78,125.12,017,2.4,011km S 63° W of Glan (Sarangani),011,S 63° W,Glan (Sarangani)
+2026-08-13T21:25:00.000Z,13 August 2026 - 09:25 PM,08.69,126.41,023,2.3,017km S 46° E of Marihatag (Surigao Del Sur),017,S 46° E,Marihatag (Surigao Del Sur)
+2026-08-13T21:23:00.000Z,13 August 2026 - 09:23 PM,06.16,125.85,070,2.4,017km S 76° E of Don Marcelino (Davao Occidental),017,S 76° E,Don Marcelino (Davao Occidental)
+2026-08-13T21:13:00.000Z,13 August 2026 - 09:13 PM,12.00,125.72,010,3.8,026km S 80° E of Dolores (Eastern Samar),026,S 80° E,Dolores (Eastern Samar)
