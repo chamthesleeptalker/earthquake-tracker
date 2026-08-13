@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-13T13:01:00.000Z,13 August 2026 - 01:01 PM,05.21,126.20,054,1.6,085km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),085,S 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-13T13:01:00.000Z,13 August 2026 - 01:01 PM,14.84,119.29,006,2.9,087km S 82° W of San Antonio (Zambales),087,S 82° W,San Antonio (Zambales)
 2026-08-13T11:28:00.000Z,13 August 2026 - 11:28 AM,08.79,126.55,026,2.4,027km S 89° E of Marihatag (Surigao Del Sur),027,S 89° E,Marihatag (Surigao Del Sur)
 2026-08-13T09:19:00.000Z,13 August 2026 - 09:19 AM,10.94,123.94,006,1.7,013km S 19° W of City Of Bogo (Cebu),013,S 19° W,City Of Bogo (Cebu)
 2026-08-13T08:09:00.000Z,13 August 2026 - 08:09 AM,13.23,120.39,024,3.0,022km N 88° W of Mamburao (Occidental Mindoro),022,N 88° W,Mamburao (Occidental Mindoro)
@@ -59,8 +61,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T15:19:00.000Z,12 August 2026 - 03:19 PM,09.78,126.45,024,2.4,032km N 90° E of General Luna (Surigao Del Norte),032,N 90° E,General Luna (Surigao Del Norte)
 2026-08-12T14:28:00.000Z,12 August 2026 - 02:28 PM,15.99,119.01,028,2.0,085km S 80° W of Agno (Pangasinan),085,S 80° W,Agno (Pangasinan)
 2026-08-12T14:20:00.000Z,12 August 2026 - 02:20 PM,06.36,126.77,101,2.5,084km S 67° E of Governor Generoso (Davao Oriental),084,S 67° E,Governor Generoso (Davao Oriental)
-2026-08-12T12:13:00.000Z,12 August 2026 - 12:13 PM,05.74,125.87,141,3.0,032km S 52° E of Jose Abad Santos (Davao Occidental),032,S 52° E,Jose Abad Santos (Davao Occidental)
-2026-08-12T11:50:00.000Z,12 August 2026 - 11:50 AM,07.20,125.45,008,2.3,026km S 70° W of City Of Panabo (Davao Del Norte),026,S 70° W,City Of Panabo (Davao Del Norte)
-2026-08-12T11:38:00.000Z,12 August 2026 - 11:38 AM,05.73,126.31,164,4.7,076km S 74° E of Jose Abad Santos (Davao Occidental),076,S 74° E,Jose Abad Santos (Davao Occidental)
-2026-08-12T11:37:00.000Z,12 August 2026 - 11:37 AM,13.78,120.20,033,1.9,008km N 39° W of Looc (Occidental Mindoro),008,N 39° W,Looc (Occidental Mindoro)
-2026-08-12T11:35:00.000Z,12 August 2026 - 11:35 AM,10.28,126.15,012,3.5,030km N 16° E of Burgos (Surigao Del Norte),030,N 16° E,Burgos (Surigao Del Norte)
