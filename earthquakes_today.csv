@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T03:04:00.000Z,15 August 2026 - 03:04 AM,15.83,119.94,033,1.6,004km N 77° E of Infanta (Pangasinan),004,N 77° E,Infanta (Pangasinan)
+2026-08-15T02:56:00.000Z,15 August 2026 - 02:56 AM,03.58,128.28,014,3.6,376km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),376,S 56° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-15T02:55:00.000Z,15 August 2026 - 02:55 AM,08.80,126.02,034,1.5,017km S 06° W of San Miguel (Surigao Del Sur),017,S 06° W,San Miguel (Surigao Del Sur)
+2026-08-15T02:54:00.000Z,15 August 2026 - 02:54 AM,05.77,125.26,018,2.1,009km S 51° E of Glan (Sarangani),009,S 51° E,Glan (Sarangani)
+2026-08-15T02:51:00.000Z,15 August 2026 - 02:51 AM,04.94,125.45,037,2.3,052km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),052,S 03° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-15T02:39:00.000Z,15 August 2026 - 02:39 AM,05.40,125.41,020,2.2,002km S 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),002,S 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T02:32:00.000Z,15 August 2026 - 02:32 AM,16.41,122.01,003,2.0,019km N 40° W of Casiguran (Aurora),019,N 40° W,Casiguran (Aurora)
 2026-08-15T02:23:00.000Z,15 August 2026 - 02:23 AM,16.45,119.77,024,3.1,015km N 63° W of Bolinao (Pangasinan),015,N 63° W,Bolinao (Pangasinan)
 2026-08-15T02:03:00.000Z,15 August 2026 - 02:03 AM,04.04,128.43,010,4.9,364km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),364,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
