@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T03:42:00.000Z,15 August 2026 - 03:42 AM,17.44,120.36,018,2.5,009km S 54° W of Santa (Ilocos Sur),009,S 54° W,Santa (Ilocos Sur)
+2026-08-15T03:40:00.000Z,15 August 2026 - 03:40 AM,05.37,125.32,012,2.0,013km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T03:04:00.000Z,15 August 2026 - 03:04 AM,15.83,119.94,033,1.6,004km N 77° E of Infanta (Pangasinan),004,N 77° E,Infanta (Pangasinan)
 2026-08-15T02:56:00.000Z,15 August 2026 - 02:56 AM,03.58,128.28,014,3.6,376km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),376,S 56° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T02:55:00.000Z,15 August 2026 - 02:55 AM,08.80,126.02,034,1.5,017km S 06° W of San Miguel (Surigao Del Sur),017,S 06° W,San Miguel (Surigao Del Sur)
