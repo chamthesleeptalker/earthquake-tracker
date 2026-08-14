@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-14T19:08:00.000Z,14 August 2026 - 07:08 PM,14.78,119.57,029,2.4,058km S 71° W of San Antonio (Zambales),058,S 71° W,San Antonio (Zambales)
-2026-08-14T19:00:00.000Z,14 August 2026 - 07:00 PM,05.30,125.37,020,2.2,014km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 23° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-14T18:13:00.000Z,14 August 2026 - 06:13 PM,05.38,125.32,066,2.8,011km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-14T21:37:00.000Z,14 August 2026 - 09:37 PM,05.70,125.27,016,2.1,015km S 29° E of Glan (Sarangani),015,S 29° E,Glan (Sarangani)
+2026-08-14T21:35:00.000Z,14 August 2026 - 09:35 PM,05.95,125.39,023,2.0,012km S 80° E of Malapatan (Sarangani),012,S 80° E,Malapatan (Sarangani)
+2026-08-14T21:31:00.000Z,14 August 2026 - 09:31 PM,06.58,125.64,026,2.0,019km N 11° E of Malita (Davao Occidental),019,N 11° E,Malita (Davao Occidental)
+2026-08-14T21:01:00.000Z,14 August 2026 - 09:01 PM,05.51,125.01,020,2.0,040km S 03° E of Maasim (Sarangani),040,S 03° E,Maasim (Sarangani)
+2026-08-14T20:49:00.000Z,14 August 2026 - 08:49 PM,08.77,126.55,005,1.7,028km S 82° E of Marihatag (Surigao Del Sur),028,S 82° E,Marihatag (Surigao Del Sur)
