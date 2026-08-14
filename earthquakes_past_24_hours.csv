@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-14T11:55:00.000Z,14 August 2026 - 11:55 AM,05.99,125.26,009,2.3,004km N 50° W of Malapatan (Sarangani),004,N 50° W,Malapatan (Sarangani)
+2026-08-14T10:52:00.000Z,14 August 2026 - 10:52 AM,08.66,126.59,031,2.2,036km S 64° E of Marihatag (Surigao Del Sur),036,S 64° E,Marihatag (Surigao Del Sur)
+2026-08-14T10:43:00.000Z,14 August 2026 - 10:43 AM,08.54,125.84,004,2.4,010km S 53° W of Prosperidad (Agusan Del Sur),010,S 53° W,Prosperidad (Agusan Del Sur)
+2026-08-14T09:56:00.000Z,14 August 2026 - 09:56 AM,05.84,125.05,025,2.6,006km S 71° E of Maasim (Sarangani),006,S 71° E,Maasim (Sarangani)
+2026-08-14T09:55:00.000Z,14 August 2026 - 09:55 AM,09.57,126.18,031,2.1,024km S 07° E of General Luna (Surigao Del Norte),024,S 07° E,General Luna (Surigao Del Norte)
+2026-08-14T09:39:00.000Z,14 August 2026 - 09:39 AM,13.69,120.89,033,1.9,004km N 36° E of Tingloy (Batangas),004,N 36° E,Tingloy (Batangas)
 2026-08-14T09:14:00.000Z,14 August 2026 - 09:14 AM,05.21,125.07,010,5.2,044km S 60° W of Sarangani (Davao Occidental),044,S 60° W,Sarangani (Davao Occidental)
 2026-08-14T08:50:00.000Z,14 August 2026 - 08:50 AM,06.13,125.90,071,2.5,024km S 72° E of Don Marcelino (Davao Occidental),024,S 72° E,Don Marcelino (Davao Occidental)
 2026-08-14T08:37:00.000Z,14 August 2026 - 08:37 AM,05.26,125.36,045,2.5,018km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -57,5 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-13T16:17:00.000Z,13 August 2026 - 04:17 PM,05.53,125.29,026,2.1,019km N 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-13T13:01:00.000Z,13 August 2026 - 01:01 PM,05.21,126.20,054,1.6,085km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),085,S 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-13T13:01:00.000Z,13 August 2026 - 01:01 PM,14.84,119.29,006,2.9,087km S 82° W of San Antonio (Zambales),087,S 82° W,San Antonio (Zambales)
-2026-08-13T11:28:00.000Z,13 August 2026 - 11:28 AM,08.79,126.55,026,2.4,027km S 89° E of Marihatag (Surigao Del Sur),027,S 89° E,Marihatag (Surigao Del Sur)
-2026-08-13T09:19:00.000Z,13 August 2026 - 09:19 AM,10.94,123.94,006,1.7,013km S 19° W of City Of Bogo (Cebu),013,S 19° W,City Of Bogo (Cebu)
