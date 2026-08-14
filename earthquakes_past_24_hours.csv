@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T04:30:00.000Z,15 August 2026 - 04:30 AM,12.13,124.01,005,2.4,009km S 81° E of Palanas (Masbate),009,S 81° E,Palanas (Masbate)
+2026-08-15T04:30:00.000Z,15 August 2026 - 04:30 AM,16.21,119.48,010,2.3,036km N 73° W of Agno (Pangasinan),036,N 73° W,Agno (Pangasinan)
+2026-08-15T04:26:00.000Z,15 August 2026 - 04:26 AM,16.03,120.18,028,1.8,004km N 81° E of Labrador (Pangasinan),004,N 81° E,Labrador (Pangasinan)
 2026-08-15T03:42:00.000Z,15 August 2026 - 03:42 AM,17.44,120.36,018,2.5,009km S 54° W of Santa (Ilocos Sur),009,S 54° W,Santa (Ilocos Sur)
 2026-08-15T03:40:00.000Z,15 August 2026 - 03:40 AM,05.37,125.32,012,2.0,013km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T03:04:00.000Z,15 August 2026 - 03:04 AM,15.83,119.94,033,1.6,004km N 77° E of Infanta (Pangasinan),004,N 77° E,Infanta (Pangasinan)
@@ -69,6 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T04:44:00.000Z,14 August 2026 - 04:44 AM,05.94,125.40,052,1.8,013km S 76° E of Malapatan (Sarangani),013,S 76° E,Malapatan (Sarangani)
 2026-08-14T04:40:00.000Z,14 August 2026 - 04:40 AM,06.57,126.41,013,2.4,039km S 76° E of Governor Generoso (Davao Oriental),039,S 76° E,Governor Generoso (Davao Oriental)
 2026-08-14T04:39:00.000Z,14 August 2026 - 04:39 AM,09.68,126.15,028,2.1,011km S 04° W of General Luna (Surigao Del Norte),011,S 04° W,General Luna (Surigao Del Norte)
-2026-08-14T03:54:00.000Z,14 August 2026 - 03:54 AM,11.40,125.69,012,2.6,010km N 56° E of Hernani (Eastern Samar),010,N 56° E,Hernani (Eastern Samar)
-2026-08-14T03:52:00.000Z,14 August 2026 - 03:52 AM,05.78,125.26,006,2.2,008km S 50° E of Glan (Sarangani),008,S 50° E,Glan (Sarangani)
-2026-08-14T03:42:00.000Z,14 August 2026 - 03:42 AM,05.72,125.12,014,1.5,015km S 40° W of Glan (Sarangani),015,S 40° W,Glan (Sarangani)
