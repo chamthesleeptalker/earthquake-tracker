@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T04:32:00.000Z,16 August 2026 - 04:32 AM,06.73,126.05,026,1.7,008km N 18° W of Governor Generoso (Davao Oriental),008,N 18° W,Governor Generoso (Davao Oriental)
+2026-08-16T04:30:00.000Z,16 August 2026 - 04:30 AM,08.93,126.46,029,2.6,018km N 87° E of Cagwait (Surigao Del Sur),018,N 87° E,Cagwait (Surigao Del Sur)
+2026-08-16T04:21:00.000Z,16 August 2026 - 04:21 AM,06.48,126.82,099,3.3,075km S 33° E of Tarragona (Davao Oriental),075,S 33° E,Tarragona (Davao Oriental)
+2026-08-16T04:11:00.000Z,16 August 2026 - 04:11 AM,05.46,125.29,019,2.5,015km N 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,N 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T04:02:00.000Z,16 August 2026 - 04:02 AM,09.90,126.11,034,1.4,004km N 14° E of Pilar (Surigao Del Norte),004,N 14° E,Pilar (Surigao Del Norte)
 2026-08-16T04:01:00.000Z,16 August 2026 - 04:01 AM,09.59,123.73,034,2.3,002km N 77° W of Panglao (Bohol),002,N 77° W,Panglao (Bohol)
 2026-08-16T03:43:00.000Z,16 August 2026 - 03:43 AM,17.74,120.48,003,2.3,002km S 81° E of San Juan (Ilocos Sur),002,S 81° E,San Juan (Ilocos Sur)
@@ -466,4 +470,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T05:36:00.000Z,09 August 2026 - 05:36 AM,08.91,126.82,009,2.2,057km S 89° E of Cagwait (Surigao Del Sur),057,S 89° E,Cagwait (Surigao Del Sur)
 2026-08-09T05:07:00.000Z,09 August 2026 - 05:07 AM,16.32,122.10,007,1.7,005km N 28° W of Casiguran (Aurora),005,N 28° W,Casiguran (Aurora)
 2026-08-09T04:40:00.000Z,09 August 2026 - 04:40 AM,05.43,125.53,018,2.1,008km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),008,S 57° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T04:22:00.000Z,09 August 2026 - 04:22 AM,05.53,125.23,003,3.0,025km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
