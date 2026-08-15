@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T01:17:00.000Z,16 August 2026 - 01:17 AM,05.27,126.09,034,2.0,072km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),072,S 72° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-16T01:15:00.000Z,16 August 2026 - 01:15 AM,17.58,120.49,006,2.6,005km N 32° W of San Quintin (Abra),005,N 32° W,San Quintin (Abra)
+2026-08-16T01:13:00.000Z,16 August 2026 - 01:13 AM,05.78,125.30,020,2.2,012km S 69° E of Glan (Sarangani),012,S 69° E,Glan (Sarangani)
 2026-08-16T00:08:00.000Z,16 August 2026 - 12:08 AM,08.50,125.81,026,1.6,007km N 25° E of Talacogon (Agusan Del Sur),007,N 25° E,Talacogon (Agusan Del Sur)
 2026-08-15T23:55:00.000Z,15 August 2026 - 11:55 PM,05.38,125.20,025,2.0,025km S 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T23:25:00.000Z,15 August 2026 - 11:25 PM,17.63,120.42,030,1.7,002km S 39° E of Santo Domingo (Ilocos Sur),002,S 39° E,Santo Domingo (Ilocos Sur)
@@ -458,4 +461,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T02:24:00.000Z,09 August 2026 - 02:24 AM,06.18,125.48,017,1.8,022km N 67° E of Alabel (Sarangani),022,N 67° E,Alabel (Sarangani)
 2026-08-09T01:37:00.000Z,09 August 2026 - 01:37 AM,09.38,126.09,027,1.8,013km N 69° E of Cantilan (Surigao Del Sur),013,N 69° E,Cantilan (Surigao Del Sur)
 2026-08-09T01:34:00.000Z,09 August 2026 - 01:34 AM,05.30,125.20,032,3.0,027km S 62° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 62° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T00:17:00.000Z,09 August 2026 - 12:17 AM,04.63,126.59,036,3.1,155km S 53° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),155,S 53° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
