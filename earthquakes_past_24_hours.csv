@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T23:25:00.000Z,15 August 2026 - 11:25 PM,17.63,120.42,030,1.7,002km S 39° E of Santo Domingo (Ilocos Sur),002,S 39° E,Santo Domingo (Ilocos Sur)
+2026-08-15T23:16:00.000Z,15 August 2026 - 11:16 PM,06.10,125.72,033,2.1,011km S 13° E of Don Marcelino (Davao Occidental),011,S 13° E,Don Marcelino (Davao Occidental)
+2026-08-15T23:12:00.000Z,15 August 2026 - 11:12 PM,15.53,120.02,033,1.4,007km N 89° E of Masinloc (Zambales),007,N 89° E,Masinloc (Zambales)
 2026-08-15T23:07:00.000Z,15 August 2026 - 11:07 PM,05.23,125.24,032,2.4,028km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,S 44° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T22:29:00.000Z,15 August 2026 - 10:29 PM,05.40,125.23,030,1.3,021km S 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 85° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T22:01:00.000Z,15 August 2026 - 10:01 PM,11.13,124.23,026,2.2,019km N 63° W of Palompon (Leyte),019,N 63° W,Palompon (Leyte)
@@ -60,6 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-15T00:16:00.000Z,15 August 2026 - 12:16 AM,05.34,125.25,015,2.1,020km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 67° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T00:01:00.000Z,15 August 2026 - 12:01 AM,17.23,121.17,017,2.5,005km S 33° E of Tinglayan (Kalinga),005,S 33° E,Tinglayan (Kalinga)
 2026-08-14T23:57:00.000Z,14 August 2026 - 11:57 PM,05.42,125.22,013,1.8,022km N 89° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,N 89° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-14T23:21:00.000Z,14 August 2026 - 11:21 PM,13.28,120.45,028,1.3,015km S 04° W of Paluan (Occidental Mindoro),015,S 04° W,Paluan (Occidental Mindoro)
-2026-08-14T23:18:00.000Z,14 August 2026 - 11:18 PM,06.83,124.50,033,1.4,005km S 87° E of Ampatuan (Maguindanao Del Sur),005,S 87° E,Ampatuan (Maguindanao Del Sur)
-2026-08-14T23:10:00.000Z,14 August 2026 - 11:10 PM,10.34,126.34,006,1.5,047km N 39° E of Burgos (Surigao Del Norte),047,N 39° E,Burgos (Surigao Del Norte)
