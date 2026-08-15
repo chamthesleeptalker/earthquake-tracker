@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T22:01:00.000Z,15 August 2026 - 10:01 PM,11.13,124.23,026,2.2,019km N 63° W of Palompon (Leyte),019,N 63° W,Palompon (Leyte)
 2026-08-15T21:21:00.000Z,15 August 2026 - 09:21 PM,10.64,125.07,010,2.4,013km S 30° E of Abuyog (Leyte),013,S 30° E,Abuyog (Leyte)
 2026-08-15T21:10:00.000Z,15 August 2026 - 09:10 PM,05.81,124.91,027,2.0,011km S 58° W of Maasim (Sarangani),011,S 58° W,Maasim (Sarangani)
 2026-08-15T20:58:00.000Z,15 August 2026 - 08:58 PM,06.57,126.44,033,3.1,042km S 78° E of Governor Generoso (Davao Oriental),042,S 78° E,Governor Generoso (Davao Oriental)
@@ -63,6 +64,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T22:31:00.000Z,14 August 2026 - 10:31 PM,07.86,123.46,026,1.5,005km N 39° E of City Of Pagadian  (Zamboanga Del Sur),005,N 39° E,City Of Pagadian  (Zamboanga Del Sur)
 2026-08-14T22:27:00.000Z,14 August 2026 - 10:27 PM,06.87,124.63,011,2.2,003km S 82° E of Sultan Sa Barongis (Maguindanao Del Sur),003,S 82° E,Sultan Sa Barongis (Maguindanao Del Sur)
 2026-08-14T22:17:00.000Z,14 August 2026 - 10:17 PM,05.63,125.43,024,2.0,018km N 16° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),018,N 16° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-14T21:37:00.000Z,14 August 2026 - 09:37 PM,05.70,125.27,016,2.1,015km S 29° E of Glan (Sarangani),015,S 29° E,Glan (Sarangani)
-2026-08-14T21:35:00.000Z,14 August 2026 - 09:35 PM,05.95,125.39,023,2.0,012km S 80° E of Malapatan (Sarangani),012,S 80° E,Malapatan (Sarangani)
-2026-08-14T21:31:00.000Z,14 August 2026 - 09:31 PM,06.58,125.64,026,2.0,019km N 11° E of Malita (Davao Occidental),019,N 11° E,Malita (Davao Occidental)

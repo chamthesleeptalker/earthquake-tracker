@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T22:01:00.000Z,15 August 2026 - 10:01 PM,11.13,124.23,026,2.2,019km N 63° W of Palompon (Leyte),019,N 63° W,Palompon (Leyte)
 2026-08-15T21:21:00.000Z,15 August 2026 - 09:21 PM,10.64,125.07,010,2.4,013km S 30° E of Abuyog (Leyte),013,S 30° E,Abuyog (Leyte)
 2026-08-15T21:10:00.000Z,15 August 2026 - 09:10 PM,05.81,124.91,027,2.0,011km S 58° W of Maasim (Sarangani),011,S 58° W,Maasim (Sarangani)
 2026-08-15T20:58:00.000Z,15 August 2026 - 08:58 PM,06.57,126.44,033,3.1,042km S 78° E of Governor Generoso (Davao Oriental),042,S 78° E,Governor Generoso (Davao Oriental)
