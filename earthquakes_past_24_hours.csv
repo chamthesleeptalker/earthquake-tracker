@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T21:10:00.000Z,15 August 2026 - 09:10 PM,05.81,124.91,027,2.0,011km S 58° W of Maasim (Sarangani),011,S 58° W,Maasim (Sarangani)
+2026-08-15T20:58:00.000Z,15 August 2026 - 08:58 PM,06.57,126.44,033,3.1,042km S 78° E of Governor Generoso (Davao Oriental),042,S 78° E,Governor Generoso (Davao Oriental)
+2026-08-15T20:29:00.000Z,15 August 2026 - 08:29 PM,05.69,125.19,027,1.8,015km S 07° W of Glan (Sarangani),015,S 07° W,Glan (Sarangani)
 2026-08-15T20:13:00.000Z,15 August 2026 - 08:13 PM,05.34,125.29,019,2.5,016km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T18:57:00.000Z,15 August 2026 - 06:57 PM,05.85,125.27,027,2.0,007km N 69° E of Glan (Sarangani),007,N 69° E,Glan (Sarangani)
 2026-08-15T18:34:00.000Z,15 August 2026 - 06:34 PM,18.19,122.08,016,1.9,012km S 46° E of Gonzaga (Cagayan),012,S 46° E,Gonzaga (Cagayan)
@@ -62,6 +65,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T21:37:00.000Z,14 August 2026 - 09:37 PM,05.70,125.27,016,2.1,015km S 29° E of Glan (Sarangani),015,S 29° E,Glan (Sarangani)
 2026-08-14T21:35:00.000Z,14 August 2026 - 09:35 PM,05.95,125.39,023,2.0,012km S 80° E of Malapatan (Sarangani),012,S 80° E,Malapatan (Sarangani)
 2026-08-14T21:31:00.000Z,14 August 2026 - 09:31 PM,06.58,125.64,026,2.0,019km N 11° E of Malita (Davao Occidental),019,N 11° E,Malita (Davao Occidental)
-2026-08-14T21:01:00.000Z,14 August 2026 - 09:01 PM,05.51,125.01,020,2.0,040km S 03° E of Maasim (Sarangani),040,S 03° E,Maasim (Sarangani)
-2026-08-14T20:49:00.000Z,14 August 2026 - 08:49 PM,08.77,126.55,005,1.7,028km S 82° E of Marihatag (Surigao Del Sur),028,S 82° E,Marihatag (Surigao Del Sur)
-2026-08-14T20:26:00.000Z,14 August 2026 - 08:26 PM,05.20,125.27,018,2.0,029km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 35° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
