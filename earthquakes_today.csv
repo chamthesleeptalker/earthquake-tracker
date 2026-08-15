@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T04:02:00.000Z,16 August 2026 - 04:02 AM,09.90,126.11,034,1.4,004km N 14° E of Pilar (Surigao Del Norte),004,N 14° E,Pilar (Surigao Del Norte)
+2026-08-16T04:01:00.000Z,16 August 2026 - 04:01 AM,09.59,123.73,034,2.3,002km N 77° W of Panglao (Bohol),002,N 77° W,Panglao (Bohol)
+2026-08-16T03:43:00.000Z,16 August 2026 - 03:43 AM,17.74,120.48,003,2.3,002km S 81° E of San Juan (Ilocos Sur),002,S 81° E,San Juan (Ilocos Sur)
+2026-08-16T03:41:00.000Z,16 August 2026 - 03:41 AM,13.39,120.26,034,1.8,022km S 83° W of Paluan (Occidental Mindoro),022,S 83° W,Paluan (Occidental Mindoro)
+2026-08-16T03:37:00.000Z,16 August 2026 - 03:37 AM,13.38,120.24,034,2.5,025km S 82° W of Paluan (Occidental Mindoro),025,S 82° W,Paluan (Occidental Mindoro)
 2026-08-16T03:35:00.000Z,16 August 2026 - 03:35 AM,17.65,120.49,024,1.9,009km S 59° E of Magsingal (Ilocos Sur),009,S 59° E,Magsingal (Ilocos Sur)
 2026-08-16T03:16:00.000Z,16 August 2026 - 03:16 AM,04.84,125.46,106,2.5,063km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),063,S 04° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T03:02:00.000Z,16 August 2026 - 03:02 AM,05.61,125.10,025,2.3,027km S 27° W of Glan (Sarangani),027,S 27° W,Glan (Sarangani)
