@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T20:13:00.000Z,15 August 2026 - 08:13 PM,05.34,125.29,019,2.5,016km S 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T18:57:00.000Z,15 August 2026 - 06:57 PM,05.85,125.27,027,2.0,007km N 69° E of Glan (Sarangani),007,N 69° E,Glan (Sarangani)
 2026-08-15T18:34:00.000Z,15 August 2026 - 06:34 PM,18.19,122.08,016,1.9,012km S 46° E of Gonzaga (Cagayan),012,S 46° E,Gonzaga (Cagayan)
 2026-08-15T16:43:00.000Z,15 August 2026 - 04:43 PM,05.79,125.43,023,1.4,025km S 81° E of Glan (Sarangani),025,S 81° E,Glan (Sarangani)
@@ -456,7 +457,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-08T22:22:00.000Z,08 August 2026 - 10:22 PM,05.80,125.40,013,2.4,022km S 84° E of Glan (Sarangani),022,S 84° E,Glan (Sarangani)
 2026-08-08T22:17:00.000Z,08 August 2026 - 10:17 PM,05.83,125.42,021,1.9,021km S 43° E of Malapatan (Sarangani),021,S 43° E,Malapatan (Sarangani)
 2026-08-08T20:36:00.000Z,08 August 2026 - 08:36 PM,05.81,125.34,022,1.8,015km S 84° E of Glan (Sarangani),015,S 84° E,Glan (Sarangani)
-2026-08-08T19:27:00.000Z,08 August 2026 - 07:27 PM,05.88,125.29,018,2.0,010km S 01° E of Malapatan (Sarangani),010,S 01° E,Malapatan (Sarangani)
-2026-08-08T19:20:00.000Z,08 August 2026 - 07:20 PM,05.01,125.28,023,2.9,047km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),047,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-08T19:16:00.000Z,08 August 2026 - 07:16 PM,05.17,125.38,007,3.2,027km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 11° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-08T18:59:00.000Z,08 August 2026 - 06:59 PM,09.65,126.21,033,1.7,016km S 23° E of General Luna (Surigao Del Norte),016,S 23° E,General Luna (Surigao Del Norte)
