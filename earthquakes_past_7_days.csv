@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-15T18:34:00.000Z,15 August 2026 - 06:34 PM,18.19,122.08,016,1.9,012km S 46° E of Gonzaga (Cagayan),012,S 46° E,Gonzaga (Cagayan)
 2026-08-15T16:43:00.000Z,15 August 2026 - 04:43 PM,05.79,125.43,023,1.4,025km S 81° E of Glan (Sarangani),025,S 81° E,Glan (Sarangani)
 2026-08-15T16:12:00.000Z,15 August 2026 - 04:12 PM,08.41,123.35,023,1.5,013km S 30° E of Katipunan (Zamboanga Del Norte),013,S 30° E,Katipunan (Zamboanga Del Norte)
 2026-08-15T15:49:00.000Z,15 August 2026 - 03:49 PM,05.65,125.13,017,1.5,021km S 23° W of Glan (Sarangani),021,S 23° W,Glan (Sarangani)
@@ -461,7 +462,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-08T18:43:00.000Z,08 August 2026 - 06:43 PM,09.45,126.09,001,1.7,018km N 43° E of Cantilan (Surigao Del Sur),018,N 43° E,Cantilan (Surigao Del Sur)
 2026-08-08T18:41:00.000Z,08 August 2026 - 06:41 PM,19.30,121.04,022,2.2,028km N 40° W of Dalupiri Island (Calayan) (Cagayan),028,N 40° W,Dalupiri Island (Calayan) (Cagayan)
 2026-08-08T18:40:00.000Z,08 August 2026 - 06:40 PM,05.83,125.35,033,2.5,016km N 88° E of Glan (Sarangani),016,N 88° E,Glan (Sarangani)
-2026-08-08T18:20:00.000Z,08 August 2026 - 06:20 PM,05.13,125.21,009,3.9,039km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),039,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-08T17:34:00.000Z,08 August 2026 - 05:34 PM,05.30,125.34,019,2.0,015km S 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 39° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-08T17:26:00.000Z,08 August 2026 - 05:26 PM,09.01,126.48,029,2.6,022km N 78° E of Bayabas (Surigao Del Sur),022,N 78° E,Bayabas (Surigao Del Sur)
-2026-08-08T16:59:00.000Z,08 August 2026 - 04:59 PM,05.42,125.37,007,2.8,006km N 82° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,N 82° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
