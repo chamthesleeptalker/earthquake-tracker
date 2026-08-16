@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T12:17:00.000Z,16 August 2026 - 12:17 PM,05.52,125.37,052,1.4,012km N 67° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 67° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-16T11:45:00.000Z,16 August 2026 - 11:45 AM,13.83,124.47,006,2.2,011km N 59° E of Gigmoto (Catanduanes),011,N 59° E,Gigmoto (Catanduanes)
 2026-08-16T11:11:00.000Z,16 August 2026 - 11:11 AM,13.87,120.31,083,2.0,018km N 21° E of Looc (Occidental Mindoro),018,N 21° E,Looc (Occidental Mindoro)
 2026-08-16T11:01:00.000Z,16 August 2026 - 11:01 AM,08.65,126.19,030,1.8,011km N 81° E of Lianga (Surigao Del Sur),011,N 81° E,Lianga (Surigao Del Sur)
 2026-08-16T10:41:00.000Z,16 August 2026 - 10:41 AM,09.63,126.28,031,1.8,022km S 38° E of General Luna (Surigao Del Norte),022,S 38° E,General Luna (Surigao Del Norte)
@@ -479,6 +481,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T13:18:00.000Z,09 August 2026 - 01:18 PM,05.37,125.26,028,1.9,019km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-09T12:57:00.000Z,09 August 2026 - 12:57 PM,05.93,125.36,032,1.8,010km S 62° E of Malapatan (Sarangani),010,S 62° E,Malapatan (Sarangani)
 2026-08-09T12:21:00.000Z,09 August 2026 - 12:21 PM,05.86,125.32,019,2.4,013km N 72° E of Glan (Sarangani),013,N 72° E,Glan (Sarangani)
-2026-08-09T11:49:00.000Z,09 August 2026 - 11:49 AM,05.78,125.33,025,1.6,015km S 74° E of Glan (Sarangani),015,S 74° E,Glan (Sarangani)
-2026-08-09T11:30:00.000Z,09 August 2026 - 11:30 AM,07.71,124.67,009,1.4,009km S 65° W of Kalilangan (Bukidnon),009,S 65° W,Kalilangan (Bukidnon)
-2026-08-09T11:14:00.000Z,09 August 2026 - 11:14 AM,05.18,125.27,007,2.3,031km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
