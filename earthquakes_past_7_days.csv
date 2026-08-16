@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T15:19:00.000Z,16 August 2026 - 03:19 PM,18.03,120.06,023,2.0,046km N 76° W of Badoc (Ilocos Norte),046,N 76° W,Badoc (Ilocos Norte)
 2026-08-16T14:14:00.000Z,16 August 2026 - 02:14 PM,09.62,122.21,027,2.9,029km S 55° W of City Of Sipalay (Negros Occidental),029,S 55° W,City Of Sipalay (Negros Occidental)
 2026-08-16T14:01:00.000Z,16 August 2026 - 02:01 PM,05.79,125.32,018,2.1,014km S 75° E of Glan (Sarangani),014,S 75° E,Glan (Sarangani)
 2026-08-16T13:38:00.000Z,16 August 2026 - 01:38 PM,12.65,123.36,022,1.5,016km N 16° W of Aroroy (Masbate),016,N 16° W,Aroroy (Masbate)
@@ -422,7 +423,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-10T10:09:00.000Z,10 August 2026 - 10:09 AM,19.84,121.16,004,2.5,072km N 27° W of Calayan (Cagayan),072,N 27° W,Calayan (Cagayan)
 2026-08-10T08:46:00.000Z,10 August 2026 - 08:46 AM,11.49,125.36,025,2.3,015km S 83° W of Maydolong (Eastern Samar),015,S 83° W,Maydolong (Eastern Samar)
 2026-08-10T08:19:00.000Z,10 August 2026 - 08:19 AM,04.98,125.19,027,3.2,054km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T14:38:00.000Z,09 August 2026 - 02:38 PM,18.85,120.80,029,2.2,032km N 02° E of Pagudpud (Ilocos Norte),032,N 02° E,Pagudpud (Ilocos Norte)
 2026-08-10T07:40:00.000Z,10 August 2026 - 07:40 AM,05.06,125.22,023,2.9,045km S 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,S 30° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T07:39:00.000Z,10 August 2026 - 07:39 AM,07.35,126.75,033,2.3,020km N 83° E of Caraga (Davao Oriental),020,N 83° E,Caraga (Davao Oriental)
 2026-08-10T07:16:00.000Z,10 August 2026 - 07:16 AM,05.88,125.45,029,1.9,028km N 77° E of Glan (Sarangani),028,N 77° E,Glan (Sarangani)
@@ -478,5 +478,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T16:05:00.000Z,09 August 2026 - 04:05 PM,13.13,120.50,048,3.8,015km S 44° W of Mamburao (Occidental Mindoro),015,S 44° W,Mamburao (Occidental Mindoro)
 2026-08-09T15:50:00.000Z,09 August 2026 - 03:50 PM,06.87,126.22,020,3.0,009km S 03° E of City Of Mati (Davao Oriental),009,S 03° E,City Of Mati (Davao Oriental)
 2026-08-09T15:30:00.000Z,09 August 2026 - 03:30 PM,13.27,123.93,007,2.1,015km S 79° E of Bacacay (Albay),015,S 79° E,Bacacay (Albay)
-2026-08-09T14:37:00.000Z,09 August 2026 - 02:37 PM,18.84,120.75,072,2.1,031km N 07° W of Pagudpud (Ilocos Norte),031,N 07° W,Pagudpud (Ilocos Norte)
-2026-08-09T14:30:00.000Z,09 August 2026 - 02:30 PM,16.19,121.96,027,1.4,006km N 02° E of Dinalungan (Aurora),006,N 02° E,Dinalungan (Aurora)
