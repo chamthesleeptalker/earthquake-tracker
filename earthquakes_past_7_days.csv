@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T17:45:00.000Z,16 August 2026 - 05:45 PM,05.74,125.35,022,1.9,018km S 61° E of Glan (Sarangani),018,S 61° E,Glan (Sarangani)
+2026-08-16T17:28:00.000Z,16 August 2026 - 05:28 PM,05.29,125.00,030,2.0,049km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),049,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-16T17:23:00.000Z,16 August 2026 - 05:23 PM,09.69,126.26,032,3.9,015km S 50° E of General Luna (Surigao Del Norte),015,S 50° E,General Luna (Surigao Del Norte)
 2026-08-16T16:58:00.000Z,16 August 2026 - 04:58 PM,17.36,119.29,015,2.4,117km S 77° W of Santa Catalina (Ilocos Sur),117,S 77° W,Santa Catalina (Ilocos Sur)
 2026-08-16T16:46:00.000Z,16 August 2026 - 04:46 PM,09.65,126.28,027,2.0,019km S 43° E of General Luna (Surigao Del Norte),019,S 43° E,General Luna (Surigao Del Norte)
 2026-08-16T16:43:00.000Z,16 August 2026 - 04:43 PM,05.31,125.33,014,2.7,015km S 43° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 43° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -475,5 +478,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T18:04:00.000Z,09 August 2026 - 06:04 PM,04.98,125.12,022,3.7,058km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),058,S 35° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-09T18:03:00.000Z,09 August 2026 - 06:03 PM,05.08,125.30,033,1.5,039km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),039,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-09T18:01:00.000Z,09 August 2026 - 06:01 PM,05.14,125.23,003,3.1,037km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 35° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T17:37:00.000Z,09 August 2026 - 05:37 PM,13.60,121.10,031,1.9,008km N 24° E of Verde Island (Batangas City) (Batangas),008,N 24° E,Verde Island (Batangas City) (Batangas)
-2026-08-09T17:30:00.000Z,09 August 2026 - 05:30 PM,05.36,125.21,029,2.0,024km S 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 77° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
