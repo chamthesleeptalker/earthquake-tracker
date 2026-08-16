@@ -1,9 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-17T05:20:00.000Z,17 August 2026 - 05:20 AM,09.61,126.02,033,1.7,006km S 76° E of Socorro (Surigao Del Norte),006,S 76° E,Socorro (Surigao Del Norte)
-2026-08-17T04:51:00.000Z,17 August 2026 - 04:51 AM,16.50,119.24,003,2.7,071km N 80° W of Bolinao (Pangasinan),071,N 80° W,Bolinao (Pangasinan)
-2026-08-17T04:41:00.000Z,17 August 2026 - 04:41 AM,05.77,125.47,018,1.7,030km S 80° E of Glan (Sarangani),030,S 80° E,Glan (Sarangani)
-2026-08-17T04:37:00.000Z,17 August 2026 - 04:37 AM,05.69,125.26,019,2.0,016km S 23° E of Glan (Sarangani),016,S 23° E,Glan (Sarangani)
-2026-08-17T04:36:00.000Z,17 August 2026 - 04:36 AM,08.50,126.81,008,2.5,054km N 74° E of Hinatuan (Surigao Del Sur),054,N 74° E,Hinatuan (Surigao Del Sur)
-2026-08-17T04:33:00.000Z,17 August 2026 - 04:33 AM,12.83,123.07,020,2.0,020km S 67° W of Claveria (Masbate),020,S 67° W,Claveria (Masbate)
-2026-08-17T04:29:00.000Z,17 August 2026 - 04:29 AM,08.42,126.35,026,2.0,006km N 13° E of Hinatuan (Surigao Del Sur),006,N 13° E,Hinatuan (Surigao Del Sur)
-2026-08-17T04:24:00.000Z,17 August 2026 - 04:24 AM,05.82,125.32,022,2.0,013km N 90° E of Glan (Sarangani),013,N 90° E,Glan (Sarangani)
+2026-08-17T07:16:00.000Z,17 August 2026 - 07:16 AM,05.32,125.21,033,2.2,019km N 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
