@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T10:09:00.000Z,16 August 2026 - 10:09 AM,08.08,126.09,030,1.2,005km N 28° E of Trento (Agusan Del Sur),005,N 28° E,Trento (Agusan Del Sur)
+2026-08-16T10:01:00.000Z,16 August 2026 - 10:01 AM,13.68,120.70,159,2.0,018km S 23° E of Calatagan (Batangas),018,S 23° E,Calatagan (Batangas)
+2026-08-16T09:37:00.000Z,16 August 2026 - 09:37 AM,17.68,120.54,004,2.6,011km S 50° E of San Juan (Ilocos Sur),011,S 50° E,San Juan (Ilocos Sur)
+2026-08-16T09:34:00.000Z,16 August 2026 - 09:34 AM,10.94,123.93,018,2.2,013km S 27° W of City Of Bogo (Cebu),013,S 27° W,City Of Bogo (Cebu)
+2026-08-16T09:30:00.000Z,16 August 2026 - 09:30 AM,14.19,122.29,002,3.3,011km N 85° W of Santa Elena (Camarines Norte),011,N 85° W,Santa Elena (Camarines Norte)
+2026-08-16T09:00:00.000Z,16 August 2026 - 09:00 AM,06.06,126.21,019,3.7,060km S 75° E of Don Marcelino (Davao Occidental),060,S 75° E,Don Marcelino (Davao Occidental)
 2026-08-16T08:31:00.000Z,16 August 2026 - 08:31 AM,10.30,126.02,025,1.4,031km N 03° W of Santa Monica (Surigao Del Norte),031,N 03° W,Santa Monica (Surigao Del Norte)
 2026-08-16T06:32:00.000Z,16 August 2026 - 06:32 AM,07.14,126.30,032,2.1,019km N 57° W of Tarragona (Davao Oriental),019,N 57° W,Tarragona (Davao Oriental)
 2026-08-16T06:16:00.000Z,16 August 2026 - 06:16 AM,04.99,125.31,008,3.0,048km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),048,S 15° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -474,5 +480,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T11:14:00.000Z,09 August 2026 - 11:14 AM,05.18,125.27,007,2.3,031km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-09T10:54:00.000Z,09 August 2026 - 10:54 AM,05.24,125.20,013,2.4,031km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-09T10:20:00.000Z,09 August 2026 - 10:20 AM,06.30,124.87,011,1.9,010km S 71° W of Tupi (South Cotabato),010,S 71° W,Tupi (South Cotabato)
-2026-08-09T10:06:00.000Z,09 August 2026 - 10:06 AM,15.58,119.25,006,2.6,072km N 77° W of Palauig (Zambales),072,N 77° W,Palauig (Zambales)
-2026-08-09T09:26:00.000Z,09 August 2026 - 09:26 AM,04.20,126.05,088,3.0,151km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),151,S 27° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
