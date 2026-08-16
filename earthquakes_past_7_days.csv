@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T13:38:00.000Z,16 August 2026 - 01:38 PM,12.65,123.36,022,1.5,016km N 16° W of Aroroy (Masbate),016,N 16° W,Aroroy (Masbate)
 2026-08-16T12:43:00.000Z,16 August 2026 - 12:43 PM,16.41,120.46,023,1.8,009km N 33° E of Tubao (La Union),009,N 33° E,Tubao (La Union)
 2026-08-16T12:17:00.000Z,16 August 2026 - 12:17 PM,05.52,125.37,052,1.4,012km N 67° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 67° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T11:45:00.000Z,16 August 2026 - 11:45 AM,13.83,124.47,006,2.2,011km N 59° E of Gigmoto (Catanduanes),011,N 59° E,Gigmoto (Catanduanes)
@@ -478,6 +479,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T14:37:00.000Z,09 August 2026 - 02:37 PM,18.84,120.75,072,2.1,031km N 07° W of Pagudpud (Ilocos Norte),031,N 07° W,Pagudpud (Ilocos Norte)
 2026-08-09T14:30:00.000Z,09 August 2026 - 02:30 PM,16.19,121.96,027,1.4,006km N 02° E of Dinalungan (Aurora),006,N 02° E,Dinalungan (Aurora)
 2026-08-09T13:45:00.000Z,09 August 2026 - 01:45 PM,08.55,126.27,031,2.2,016km N 51° E of Tagbina (Surigao Del Sur),016,N 51° E,Tagbina (Surigao Del Sur)
-2026-08-09T13:21:00.000Z,09 August 2026 - 01:21 PM,04.86,124.26,024,2.6,131km S 18° W of Kiamba (Sarangani),131,S 18° W,Kiamba (Sarangani)
-2026-08-09T13:18:00.000Z,09 August 2026 - 01:18 PM,05.37,125.26,028,1.9,019km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-09T12:57:00.000Z,09 August 2026 - 12:57 PM,05.93,125.36,032,1.8,010km S 62° E of Malapatan (Sarangani),010,S 62° E,Malapatan (Sarangani)
