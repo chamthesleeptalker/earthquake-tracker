@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-16T23:07:00.000Z,16 August 2026 - 11:07 PM,05.47,125.03,014,1.7,043km S 27° W of Glan (Sarangani),043,S 27° W,Glan (Sarangani)
 2026-08-16T22:25:00.000Z,16 August 2026 - 10:25 PM,17.42,120.58,032,1.6,001km N 81° W of Pilar (Abra),001,N 81° W,Pilar (Abra)
 2026-08-16T22:16:00.000Z,16 August 2026 - 10:16 PM,07.86,126.93,008,2.2,051km N 52° E of Baganga (Davao Oriental),051,N 52° E,Baganga (Davao Oriental)
 2026-08-16T01:58:00.000Z,16 August 2026 - 01:58 AM,05.69,126.62,053,2.7,111km S 77° E of Jose Abad Santos (Davao Occidental),111,S 77° E,Jose Abad Santos (Davao Occidental)
@@ -473,4 +474,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-09T23:46:00.000Z,09 August 2026 - 11:46 PM,05.88,125.38,019,1.5,014km S 43° E of Malapatan (Sarangani),014,S 43° E,Malapatan (Sarangani)
 2026-08-09T23:23:00.000Z,09 August 2026 - 11:23 PM,05.91,125.38,022,1.5,012km S 58° E of Malapatan (Sarangani),012,S 58° E,Malapatan (Sarangani)
 2026-08-09T23:18:00.000Z,09 August 2026 - 11:18 PM,05.91,125.43,021,1.6,017km S 67° E of Malapatan (Sarangani),017,S 67° E,Malapatan (Sarangani)
-2026-08-09T22:31:00.000Z,09 August 2026 - 10:31 PM,13.27,120.63,033,1.6,006km N 41° E of Mamburao (Occidental Mindoro),006,N 41° E,Mamburao (Occidental Mindoro)
