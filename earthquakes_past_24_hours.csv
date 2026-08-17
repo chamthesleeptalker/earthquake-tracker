@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-18T07:37:00.000Z,18 August 2026 - 07:37 AM,16.74,120.12,024,1.6,025km N 84° W of Bacnotan (La Union),025,N 84° W,Bacnotan (La Union)
 2026-08-18T06:18:00.000Z,18 August 2026 - 06:18 AM,04.65,125.16,013,2.8,089km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),089,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T06:06:00.000Z,18 August 2026 - 06:06 AM,05.85,124.85,023,1.5,016km S 86° W of Maasim (Sarangani),016,S 86° W,Maasim (Sarangani)
 2026-08-18T05:29:00.000Z,18 August 2026 - 05:29 AM,13.51,120.28,026,1.4,022km N 63° W of Paluan (Occidental Mindoro),022,N 63° W,Paluan (Occidental Mindoro)
@@ -40,4 +41,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T11:18:00.000Z,17 August 2026 - 11:18 AM,06.84,125.08,032,1.8,013km N 42° W of Magsaysay (Davao Del Sur),013,N 42° W,Magsaysay (Davao Del Sur)
 2026-08-17T10:03:00.000Z,17 August 2026 - 10:03 AM,21.69,121.84,030,3.0,100km N 01° W of Itbayat (Batanes),100,N 01° W,Itbayat (Batanes)
 2026-08-17T08:51:00.000Z,17 August 2026 - 08:51 AM,05.13,125.24,026,2.9,037km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-17T07:16:00.000Z,17 August 2026 - 07:16 AM,05.32,125.21,033,2.2,019km N 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
