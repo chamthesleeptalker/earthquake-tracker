@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-17T23:57:00.000Z,17 August 2026 - 11:57 PM,10.70,122.53,055,2.0,005km N 80° W of City Of Iloilo (Iloilo),005,N 80° W,City Of Iloilo (Iloilo)
+2026-08-17T23:40:00.000Z,17 August 2026 - 11:40 PM,17.81,120.54,011,1.6,009km N 78° E of Cabugao (Ilocos Sur),009,N 78° E,Cabugao (Ilocos Sur)
 2026-08-17T23:10:00.000Z,17 August 2026 - 11:10 PM,06.54,123.68,005,3.7,041km S 87° W of Kalamansig (Sultan Kudarat),041,S 87° W,Kalamansig (Sultan Kudarat)
 2026-08-17T22:43:00.000Z,17 August 2026 - 10:43 PM,09.85,124.08,034,1.5,007km S 11° W of Sagbayan (Bohol),007,S 11° W,Sagbayan (Bohol)
 2026-08-17T22:17:00.000Z,17 August 2026 - 10:17 PM,05.92,125.33,023,1.6,007km S 41° E of Malapatan (Sarangani),007,S 41° E,Malapatan (Sarangani)
