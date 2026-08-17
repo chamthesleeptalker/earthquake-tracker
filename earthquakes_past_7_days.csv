@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-17T21:03:00.000Z,17 August 2026 - 09:03 PM,05.78,125.37,021,1.4,019km S 75° E of Glan (Sarangani),019,S 75° E,Glan (Sarangani)
+2026-08-17T20:45:00.000Z,17 August 2026 - 08:45 PM,11.07,124.06,007,1.8,009km N 70° E of City Of Bogo (Cebu),009,N 70° E,City Of Bogo (Cebu)
 2026-08-17T20:15:00.000Z,17 August 2026 - 08:15 PM,05.01,125.21,029,3.1,050km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 28° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-17T19:58:00.000Z,17 August 2026 - 07:58 PM,07.68,126.15,007,2.5,007km N 80° E of Compostela (Davao De Oro),007,N 80° E,Compostela (Davao De Oro)
 2026-08-17T19:41:00.000Z,17 August 2026 - 07:41 PM,05.27,125.52,033,2.2,019km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -461,7 +463,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-10T22:20:00.000Z,10 August 2026 - 10:20 PM,08.67,126.23,032,1.4,009km S 01° E of San Agustin (Surigao Del Sur),009,S 01° E,San Agustin (Surigao Del Sur)
 2026-08-10T22:17:00.000Z,10 August 2026 - 10:17 PM,14.36,124.10,004,3.1,036km N 12° W of Pandan (Catanduanes),036,N 12° W,Pandan (Catanduanes)
 2026-08-10T22:11:00.000Z,10 August 2026 - 10:11 PM,05.11,125.28,004,3.2,037km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 26° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T20:53:00.000Z,10 August 2026 - 08:53 PM,07.37,125.13,001,1.4,002km N 03° W of Arakan (Cotabato),002,N 03° W,Arakan (Cotabato)
-2026-08-10T20:53:00.000Z,10 August 2026 - 08:53 PM,07.77,125.47,021,1.4,019km N 36° W of Talaingod (Davao Del Norte),019,N 36° W,Talaingod (Davao Del Norte)
-2026-08-10T20:42:00.000Z,10 August 2026 - 08:42 PM,13.14,124.22,021,1.8,028km N 68° E of Prieto Diaz (Sorsogon),028,N 68° E,Prieto Diaz (Sorsogon)
-2026-08-10T20:30:00.000Z,10 August 2026 - 08:30 PM,05.12,125.21,015,3.8,040km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
