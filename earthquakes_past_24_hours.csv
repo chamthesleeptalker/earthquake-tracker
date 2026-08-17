@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-17T18:24:00.000Z,17 August 2026 - 06:24 PM,12.99,121.10,035,1.4,028km S 43° W of Victoria (Oriental Mindoro),028,S 43° W,Victoria (Oriental Mindoro)
 2026-08-17T16:54:00.000Z,17 August 2026 - 04:54 PM,18.01,121.19,016,2.4,002km S 39° E of Kabugao (Apayao),002,S 39° E,Kabugao (Apayao)
 2026-08-17T16:36:00.000Z,17 August 2026 - 04:36 PM,05.83,125.34,020,1.5,015km N 88° E of Glan (Sarangani),015,N 88° E,Glan (Sarangani)
 2026-08-17T15:05:00.000Z,17 August 2026 - 03:05 PM,05.70,126.42,075,2.8,089km S 75° E of Jose Abad Santos (Davao Occidental),089,S 75° E,Jose Abad Santos (Davao Occidental)
@@ -46,8 +47,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-16T19:10:00.000Z,16 August 2026 - 07:10 PM,07.64,121.70,022,1.6,048km S 81° W of Siocon (Zamboanga Del Norte),048,S 81° W,Siocon (Zamboanga Del Norte)
 2026-08-16T18:33:00.000Z,16 August 2026 - 06:33 PM,05.53,125.32,021,1.8,017km N 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 39° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T18:30:00.000Z,16 August 2026 - 06:30 PM,06.36,125.80,014,2.8,022km N 33° E of Don Marcelino (Davao Occidental),022,N 33° E,Don Marcelino (Davao Occidental)
-2026-08-16T17:58:00.000Z,16 August 2026 - 05:58 PM,06.66,126.38,021,2.5,034km N 89° E of Governor Generoso (Davao Oriental),034,N 89° E,Governor Generoso (Davao Oriental)
-2026-08-16T17:45:00.000Z,16 August 2026 - 05:45 PM,05.74,125.35,022,1.9,018km S 61° E of Glan (Sarangani),018,S 61° E,Glan (Sarangani)
-2026-08-16T17:28:00.000Z,16 August 2026 - 05:28 PM,05.29,125.00,030,2.0,049km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),049,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-16T17:23:00.000Z,16 August 2026 - 05:23 PM,09.69,126.26,032,3.9,015km S 50° E of General Luna (Surigao Del Norte),015,S 50° E,General Luna (Surigao Del Norte)
-2026-08-16T16:58:00.000Z,16 August 2026 - 04:58 PM,17.36,119.29,015,2.4,117km S 77° W of Santa Catalina (Ilocos Sur),117,S 77° W,Santa Catalina (Ilocos Sur)
