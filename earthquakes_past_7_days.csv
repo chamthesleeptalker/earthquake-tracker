@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-17T13:13:00.000Z,17 August 2026 - 01:13 PM,05.74,125.43,023,2.0,027km S 70° E of Glan (Sarangani),027,S 70° E,Glan (Sarangani)
 2026-08-17T11:18:00.000Z,17 August 2026 - 11:18 AM,06.84,125.08,032,1.8,013km N 42° W of Magsaysay (Davao Del Sur),013,N 42° W,Magsaysay (Davao Del Sur)
 2026-08-17T10:03:00.000Z,17 August 2026 - 10:03 AM,21.69,121.84,030,3.0,100km N 01° W of Itbayat (Batanes),100,N 01° W,Itbayat (Batanes)
 2026-08-17T08:51:00.000Z,17 August 2026 - 08:51 AM,05.13,125.24,026,2.9,037km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -465,6 +466,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-10T14:10:00.000Z,10 August 2026 - 02:10 PM,05.83,125.32,018,3.0,013km N 84° E of Glan (Sarangani),013,N 84° E,Glan (Sarangani)
 2026-08-10T13:35:00.000Z,10 August 2026 - 01:35 PM,08.89,126.59,010,4.6,031km S 84° E of Cagwait (Surigao Del Sur),031,S 84° E,Cagwait (Surigao Del Sur)
 2026-08-10T13:15:00.000Z,10 August 2026 - 01:15 PM,07.83,126.47,017,2.3,005km N 22° E of Cateel (Davao Oriental),005,N 22° E,Cateel (Davao Oriental)
-2026-08-10T12:46:00.000Z,10 August 2026 - 12:46 PM,08.61,122.70,013,2.4,040km N 63° W of Jose Dalman (Zamboanga Del Norte),040,N 63° W,Jose Dalman (Zamboanga Del Norte)
-2026-08-10T12:42:00.000Z,10 August 2026 - 12:42 PM,08.15,127.20,011,2.6,088km N 82° E of Lingig (Surigao Del Sur),088,N 82° E,Lingig (Surigao Del Sur)
-2026-08-10T11:59:00.000Z,10 August 2026 - 11:59 AM,09.14,126.80,013,2.7,060km N 72° E of Bayabas (Surigao Del Sur),060,N 72° E,Bayabas (Surigao Del Sur)
