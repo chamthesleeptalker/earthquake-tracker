@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-17T19:13:00.000Z,17 August 2026 - 07:13 PM,09.60,126.25,032,1.7,023km S 26° E of General Luna (Surigao Del Norte),023,S 26° E,General Luna (Surigao Del Norte)
+2026-08-17T19:07:00.000Z,17 August 2026 - 07:07 PM,13.56,120.36,011,1.9,019km N 36° W of Paluan (Occidental Mindoro),019,N 36° W,Paluan (Occidental Mindoro)
 2026-08-17T18:24:00.000Z,17 August 2026 - 06:24 PM,12.99,121.10,035,1.4,028km S 43° W of Victoria (Oriental Mindoro),028,S 43° W,Victoria (Oriental Mindoro)
 2026-08-17T16:54:00.000Z,17 August 2026 - 04:54 PM,18.01,121.19,016,2.4,002km S 39° E of Kabugao (Apayao),002,S 39° E,Kabugao (Apayao)
 2026-08-17T16:36:00.000Z,17 August 2026 - 04:36 PM,05.83,125.34,020,1.5,015km N 88° E of Glan (Sarangani),015,N 88° E,Glan (Sarangani)
@@ -459,6 +461,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-10T20:42:00.000Z,10 August 2026 - 08:42 PM,13.14,124.22,021,1.8,028km N 68° E of Prieto Diaz (Sorsogon),028,N 68° E,Prieto Diaz (Sorsogon)
 2026-08-10T20:30:00.000Z,10 August 2026 - 08:30 PM,05.12,125.21,015,3.8,040km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),040,S 36° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-10T19:37:00.000Z,10 August 2026 - 07:37 PM,05.14,125.17,005,2.9,041km S 43° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),041,S 43° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T18:58:00.000Z,10 August 2026 - 06:58 PM,08.84,126.22,030,1.6,010km N 61° W of Marihatag (Surigao Del Sur),010,N 61° W,Marihatag (Surigao Del Sur)
-2026-08-10T18:42:00.000Z,10 August 2026 - 06:42 PM,05.03,125.17,075,3.4,050km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T18:33:00.000Z,10 August 2026 - 06:33 PM,05.98,124.82,014,2.5,021km S 86° E of Kiamba (Sarangani),021,S 86° E,Kiamba (Sarangani)
