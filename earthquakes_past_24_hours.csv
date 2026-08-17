@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-17T11:18:00.000Z,17 August 2026 - 11:18 AM,06.84,125.08,032,1.8,013km N 42° W of Magsaysay (Davao Del Sur),013,N 42° W,Magsaysay (Davao Del Sur)
 2026-08-17T10:03:00.000Z,17 August 2026 - 10:03 AM,21.69,121.84,030,3.0,100km N 01° W of Itbayat (Batanes),100,N 01° W,Itbayat (Batanes)
 2026-08-17T08:51:00.000Z,17 August 2026 - 08:51 AM,05.13,125.24,026,2.9,037km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-17T07:16:00.000Z,17 August 2026 - 07:16 AM,05.32,125.21,033,2.2,019km N 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -53,8 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-16T12:43:00.000Z,16 August 2026 - 12:43 PM,16.41,120.46,023,1.8,009km N 33° E of Tubao (La Union),009,N 33° E,Tubao (La Union)
 2026-08-16T12:17:00.000Z,16 August 2026 - 12:17 PM,05.52,125.37,052,1.4,012km N 67° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 67° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T11:45:00.000Z,16 August 2026 - 11:45 AM,13.83,124.47,006,2.2,011km N 59° E of Gigmoto (Catanduanes),011,N 59° E,Gigmoto (Catanduanes)
-2026-08-16T11:11:00.000Z,16 August 2026 - 11:11 AM,13.87,120.31,083,2.0,018km N 21° E of Looc (Occidental Mindoro),018,N 21° E,Looc (Occidental Mindoro)
-2026-08-16T11:01:00.000Z,16 August 2026 - 11:01 AM,08.65,126.19,030,1.8,011km N 81° E of Lianga (Surigao Del Sur),011,N 81° E,Lianga (Surigao Del Sur)
-2026-08-16T10:41:00.000Z,16 August 2026 - 10:41 AM,09.63,126.28,031,1.8,022km S 38° E of General Luna (Surigao Del Norte),022,S 38° E,General Luna (Surigao Del Norte)
-2026-08-16T10:23:00.000Z,16 August 2026 - 10:23 AM,05.90,125.32,032,2.2,008km S 21° E of Malapatan (Sarangani),008,S 21° E,Malapatan (Sarangani)
-2026-08-16T10:09:00.000Z,16 August 2026 - 10:09 AM,08.08,126.09,030,1.2,005km N 28° E of Trento (Agusan Del Sur),005,N 28° E,Trento (Agusan Del Sur)
