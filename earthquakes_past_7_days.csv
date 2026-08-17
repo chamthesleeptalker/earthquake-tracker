@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-17T08:51:00.000Z,17 August 2026 - 08:51 AM,05.13,125.24,026,2.9,037km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-17T07:16:00.000Z,17 August 2026 - 07:16 AM,05.32,125.21,033,2.2,019km N 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-17T05:20:00.000Z,17 August 2026 - 05:20 AM,09.61,126.02,033,1.7,006km S 76° E of Socorro (Surigao Del Norte),006,S 76° E,Socorro (Surigao Del Norte)
 2026-08-17T04:51:00.000Z,17 August 2026 - 04:51 AM,16.50,119.24,003,2.7,071km N 80° W of Bolinao (Pangasinan),071,N 80° W,Bolinao (Pangasinan)
@@ -467,8 +468,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-10T11:59:00.000Z,10 August 2026 - 11:59 AM,09.14,126.80,013,2.7,060km N 72° E of Bayabas (Surigao Del Sur),060,N 72° E,Bayabas (Surigao Del Sur)
 2026-08-10T10:46:00.000Z,10 August 2026 - 10:46 AM,08.87,126.40,031,2.2,012km S 65° E of Cagwait (Surigao Del Sur),012,S 65° E,Cagwait (Surigao Del Sur)
 2026-08-10T10:09:00.000Z,10 August 2026 - 10:09 AM,19.84,121.16,004,2.5,072km N 27° W of Calayan (Cagayan),072,N 27° W,Calayan (Cagayan)
-2026-08-10T08:46:00.000Z,10 August 2026 - 08:46 AM,11.49,125.36,025,2.3,015km S 83° W of Maydolong (Eastern Samar),015,S 83° W,Maydolong (Eastern Samar)
-2026-08-10T08:19:00.000Z,10 August 2026 - 08:19 AM,04.98,125.19,027,3.2,054km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T07:40:00.000Z,10 August 2026 - 07:40 AM,05.06,125.22,023,2.9,045km S 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,S 30° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-10T07:39:00.000Z,10 August 2026 - 07:39 AM,07.35,126.75,033,2.3,020km N 83° E of Caraga (Davao Oriental),020,N 83° E,Caraga (Davao Oriental)
-2026-08-10T07:16:00.000Z,10 August 2026 - 07:16 AM,05.88,125.45,029,1.9,028km N 77° E of Glan (Sarangani),028,N 77° E,Glan (Sarangani)
