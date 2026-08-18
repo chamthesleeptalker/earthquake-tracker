@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T05:08:00.000Z,19 August 2026 - 05:08 AM,09.94,122.37,021,1.4,021km N 21° W of City Of Sipalay (Negros Occidental),021,N 21° W,City Of Sipalay (Negros Occidental)
+2026-08-19T04:57:00.000Z,19 August 2026 - 04:57 AM,13.94,120.67,139,1.6,007km N 89° W of Balayan (Batangas),007,N 89° W,Balayan (Batangas)
 2026-08-19T04:18:00.000Z,19 August 2026 - 04:18 AM,09.69,126.16,028,1.7,010km S 04° E of General Luna (Surigao Del Norte),010,S 04° E,General Luna (Surigao Del Norte)
 2026-08-19T03:39:00.000Z,19 August 2026 - 03:39 AM,19.63,121.53,033,1.9,041km N 08° E of Calayan (Cagayan),041,N 08° E,Calayan (Cagayan)
 2026-08-19T03:31:00.000Z,19 August 2026 - 03:31 AM,07.27,126.74,012,1.8,020km S 72° E of Caraga (Davao Oriental),020,S 72° E,Caraga (Davao Oriental)
@@ -440,7 +442,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T05:34:00.000Z,12 August 2026 - 05:34 AM,05.60,125.25,005,2.4,025km S 11° E of Glan (Sarangani),025,S 11° E,Glan (Sarangani)
 2026-08-12T05:27:00.000Z,12 August 2026 - 05:27 AM,17.46,120.17,031,2.1,025km S 66° W of Caoayan (Ilocos Sur),025,S 66° W,Caoayan (Ilocos Sur)
 2026-08-12T05:14:00.000Z,12 August 2026 - 05:14 AM,04.76,125.45,033,2.1,072km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 03° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-12T04:55:00.000Z,12 August 2026 - 04:55 AM,02.89,126.07,123,4.4,288km S 14° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),288,S 14° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-12T04:53:00.000Z,12 August 2026 - 04:53 AM,06.54,124.40,035,2.1,013km N 45° E of Senator Ninoy Aquino (Sultan Kudarat),013,N 45° E,Senator Ninoy Aquino (Sultan Kudarat)
-2026-08-12T04:51:00.000Z,12 August 2026 - 04:51 AM,11.89,125.52,013,2.3,011km N 41° E of Sulat (Eastern Samar),011,N 41° E,Sulat (Eastern Samar)
-2026-08-12T04:29:00.000Z,12 August 2026 - 04:29 AM,11.41,125.79,007,2.5,020km N 68° E of Hernani (Eastern Samar),020,N 68° E,Hernani (Eastern Samar)
