@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T04:18:00.000Z,19 August 2026 - 04:18 AM,09.69,126.16,028,1.7,010km S 04° E of General Luna (Surigao Del Norte),010,S 04° E,General Luna (Surigao Del Norte)
 2026-08-19T03:39:00.000Z,19 August 2026 - 03:39 AM,19.63,121.53,033,1.9,041km N 08° E of Calayan (Cagayan),041,N 08° E,Calayan (Cagayan)
 2026-08-19T03:31:00.000Z,19 August 2026 - 03:31 AM,07.27,126.74,012,1.8,020km S 72° E of Caraga (Davao Oriental),020,S 72° E,Caraga (Davao Oriental)
 2026-08-19T03:26:00.000Z,19 August 2026 - 03:26 AM,05.87,125.39,013,1.9,016km S 46° E of Malapatan (Sarangani),016,S 46° E,Malapatan (Sarangani)
@@ -443,6 +444,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T04:53:00.000Z,12 August 2026 - 04:53 AM,06.54,124.40,035,2.1,013km N 45° E of Senator Ninoy Aquino (Sultan Kudarat),013,N 45° E,Senator Ninoy Aquino (Sultan Kudarat)
 2026-08-12T04:51:00.000Z,12 August 2026 - 04:51 AM,11.89,125.52,013,2.3,011km N 41° E of Sulat (Eastern Samar),011,N 41° E,Sulat (Eastern Samar)
 2026-08-12T04:29:00.000Z,12 August 2026 - 04:29 AM,11.41,125.79,007,2.5,020km N 68° E of Hernani (Eastern Samar),020,N 68° E,Hernani (Eastern Samar)
-2026-08-12T04:14:00.000Z,12 August 2026 - 04:14 AM,05.97,125.47,021,1.5,020km N 73° W of Jose Abad Santos (Davao Occidental),020,N 73° W,Jose Abad Santos (Davao Occidental)
-2026-08-12T04:11:00.000Z,12 August 2026 - 04:11 AM,05.01,125.26,056,2.3,048km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),048,S 22° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-12T03:43:00.000Z,12 August 2026 - 03:43 AM,05.69,125.35,025,1.8,022km S 50° E of Glan (Sarangani),022,S 50° E,Glan (Sarangani)
