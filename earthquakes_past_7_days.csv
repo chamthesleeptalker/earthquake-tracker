@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T07:36:00.000Z,19 August 2026 - 07:36 AM,05.61,124.85,019,1.3,032km S 31° W of Maasim (Sarangani),032,S 31° W,Maasim (Sarangani)
+2026-08-19T07:28:00.000Z,19 August 2026 - 07:28 AM,05.36,125.28,016,1.7,017km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-19T07:24:00.000Z,19 August 2026 - 07:24 AM,05.60,125.24,022,1.9,025km S 09° E of Glan (Sarangani),025,S 09° E,Glan (Sarangani)
 2026-08-19T07:03:00.000Z,19 August 2026 - 07:03 AM,05.17,125.44,033,1.3,027km S 06° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 06° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T06:56:00.000Z,19 August 2026 - 06:56 AM,05.16,126.34,008,2.9,102km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T05:53:00.000Z,19 August 2026 - 05:53 AM,05.39,124.93,011,1.9,053km S 08° W of Maasim (Sarangani),053,S 08° W,Maasim (Sarangani)
@@ -436,5 +439,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T09:47:00.000Z,12 August 2026 - 09:47 AM,05.95,125.28,032,1.5,002km S 24° W of Malapatan (Sarangani),002,S 24° W,Malapatan (Sarangani)
 2026-08-12T09:02:00.000Z,12 August 2026 - 09:02 AM,06.08,125.44,021,1.6,017km S 82° E of Alabel (Sarangani),017,S 82° E,Alabel (Sarangani)
 2026-08-12T08:10:00.000Z,12 August 2026 - 08:10 AM,13.71,120.52,092,1.9,018km S 42° W of Calatagan (Batangas),018,S 42° W,Calatagan (Batangas)
-2026-08-12T07:25:00.000Z,12 August 2026 - 07:25 AM,18.73,121.25,030,1.6,019km S 44° W of Fuga Island (Aparri) (Cagayan),019,S 44° W,Fuga Island (Aparri) (Cagayan)
-2026-08-12T07:14:00.000Z,12 August 2026 - 07:14 AM,07.42,127.39,027,3.8,092km N 84° E of Caraga (Davao Oriental),092,N 84° E,Caraga (Davao Oriental)
