@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-18T20:23:00.000Z,18 August 2026 - 08:23 PM,15.86,121.00,033,1.3,008km N 12° E of San Jose City (Nueva Ecija),008,N 12° E,San Jose City (Nueva Ecija)
+2026-08-18T20:21:00.000Z,18 August 2026 - 08:21 PM,15.90,121.02,031,1.2,009km S 35° W of Carranglan (Nueva Ecija),009,S 35° W,Carranglan (Nueva Ecija)
 2026-08-18T19:38:00.000Z,18 August 2026 - 07:38 PM,05.65,125.26,002,2.0,020km S 19° E of Glan (Sarangani),020,S 19° E,Glan (Sarangani)
 2026-08-18T19:21:00.000Z,18 August 2026 - 07:21 PM,05.64,125.16,021,1.3,020km S 13° W of Glan (Sarangani),020,S 13° W,Glan (Sarangani)
 2026-08-18T18:49:00.000Z,18 August 2026 - 06:49 PM,15.89,121.01,013,1.7,010km S 32° W of Carranglan (Nueva Ecija),010,S 32° W,Carranglan (Nueva Ecija)

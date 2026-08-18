@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-18T20:23:00.000Z,18 August 2026 - 08:23 PM,15.86,121.00,033,1.3,008km N 12° E of San Jose City (Nueva Ecija),008,N 12° E,San Jose City (Nueva Ecija)
+2026-08-18T20:21:00.000Z,18 August 2026 - 08:21 PM,15.90,121.02,031,1.2,009km S 35° W of Carranglan (Nueva Ecija),009,S 35° W,Carranglan (Nueva Ecija)
 2026-08-18T19:38:00.000Z,18 August 2026 - 07:38 PM,05.65,125.26,002,2.0,020km S 19° E of Glan (Sarangani),020,S 19° E,Glan (Sarangani)
 2026-08-18T19:21:00.000Z,18 August 2026 - 07:21 PM,05.64,125.16,021,1.3,020km S 13° W of Glan (Sarangani),020,S 13° W,Glan (Sarangani)
 2026-08-18T18:49:00.000Z,18 August 2026 - 06:49 PM,15.89,121.01,013,1.7,010km S 32° W of Carranglan (Nueva Ecija),010,S 32° W,Carranglan (Nueva Ecija)
@@ -52,6 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T21:26:00.000Z,17 August 2026 - 09:26 PM,04.56,126.61,015,4.0,162km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),162,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-17T21:03:00.000Z,17 August 2026 - 09:03 PM,05.78,125.37,021,1.4,019km S 75° E of Glan (Sarangani),019,S 75° E,Glan (Sarangani)
 2026-08-17T20:45:00.000Z,17 August 2026 - 08:45 PM,11.07,124.06,007,1.8,009km N 70° E of City Of Bogo (Cebu),009,N 70° E,City Of Bogo (Cebu)
-2026-08-17T20:15:00.000Z,17 August 2026 - 08:15 PM,05.01,125.21,029,3.1,050km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 28° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-17T19:58:00.000Z,17 August 2026 - 07:58 PM,07.68,126.15,007,2.5,007km N 80° E of Compostela (Davao De Oro),007,N 80° E,Compostela (Davao De Oro)
-2026-08-17T19:41:00.000Z,17 August 2026 - 07:41 PM,05.27,125.52,033,2.2,019km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 33° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
