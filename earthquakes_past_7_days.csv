@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T00:31:00.000Z,19 August 2026 - 12:31 AM,18.02,120.71,029,1.5,005km S 55° E of Marcos (Ilocos Norte),005,S 55° E,Marcos (Ilocos Norte)
+2026-08-19T00:05:00.000Z,19 August 2026 - 12:05 AM,08.90,126.34,021,1.7,005km S 69° E of Cagwait (Surigao Del Sur),005,S 69° E,Cagwait (Surigao Del Sur)
+2026-08-18T23:53:00.000Z,18 August 2026 - 11:53 PM,10.33,126.00,028,1.8,035km N 08° W of Santa Monica (Surigao Del Norte),035,N 08° W,Santa Monica (Surigao Del Norte)
 2026-08-18T23:46:00.000Z,18 August 2026 - 11:46 PM,14.91,120.60,140,1.5,003km S 02° W of Lubao (Pampanga),003,S 02° W,Lubao (Pampanga)
 2026-08-18T23:35:00.000Z,18 August 2026 - 11:35 PM,05.21,125.37,031,3.4,023km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T23:09:00.000Z,18 August 2026 - 11:09 PM,05.82,126.56,033,3.5,102km S 84° E of Jose Abad Santos (Davao Occidental),102,S 84° E,Jose Abad Santos (Davao Occidental)
@@ -440,7 +443,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T00:45:00.000Z,12 August 2026 - 12:45 AM,10.86,124.10,033,1.2,024km S 32° E of City Of Bogo (Cebu),024,S 32° E,City Of Bogo (Cebu)
 2026-08-12T00:44:00.000Z,12 August 2026 - 12:44 AM,10.26,124.23,024,1.5,015km N 33° E of Getafe (Bohol),015,N 33° E,Getafe (Bohol)
 2026-08-12T00:37:00.000Z,12 August 2026 - 12:37 AM,09.76,126.17,014,1.5,003km S 42° E of General Luna (Surigao Del Norte),003,S 42° E,General Luna (Surigao Del Norte)
-2026-08-12T00:16:00.000Z,12 August 2026 - 12:16 AM,09.39,125.92,024,2.2,004km N 45° W of Carrascal (Surigao Del Sur),004,N 45° W,Carrascal (Surigao Del Sur)
-2026-08-12T00:10:00.000Z,12 August 2026 - 12:10 AM,08.09,126.74,018,1.9,037km N 81° E of Lingig (Surigao Del Sur),037,N 81° E,Lingig (Surigao Del Sur)
-2026-08-11T23:56:00.000Z,11 August 2026 - 11:56 PM,08.73,126.86,007,2.2,062km S 82° E of Marihatag (Surigao Del Sur),062,S 82° E,Marihatag (Surigao Del Sur)
-2026-08-11T23:53:00.000Z,11 August 2026 - 11:53 PM,05.09,125.20,028,2.2,044km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),044,S 34° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)

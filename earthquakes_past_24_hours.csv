@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T00:31:00.000Z,19 August 2026 - 12:31 AM,18.02,120.71,029,1.5,005km S 55° E of Marcos (Ilocos Norte),005,S 55° E,Marcos (Ilocos Norte)
+2026-08-19T00:05:00.000Z,19 August 2026 - 12:05 AM,08.90,126.34,021,1.7,005km S 69° E of Cagwait (Surigao Del Sur),005,S 69° E,Cagwait (Surigao Del Sur)
+2026-08-18T23:53:00.000Z,18 August 2026 - 11:53 PM,10.33,126.00,028,1.8,035km N 08° W of Santa Monica (Surigao Del Norte),035,N 08° W,Santa Monica (Surigao Del Norte)
 2026-08-18T23:46:00.000Z,18 August 2026 - 11:46 PM,14.91,120.60,140,1.5,003km S 02° W of Lubao (Pampanga),003,S 02° W,Lubao (Pampanga)
 2026-08-18T23:35:00.000Z,18 August 2026 - 11:35 PM,05.21,125.37,031,3.4,023km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 16° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T23:09:00.000Z,18 August 2026 - 11:09 PM,05.82,126.56,033,3.5,102km S 84° E of Jose Abad Santos (Davao Occidental),102,S 84° E,Jose Abad Santos (Davao Occidental)
@@ -52,5 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T03:05:00.000Z,18 August 2026 - 03:05 AM,08.73,125.87,010,2.5,013km N 84° E of City Of Bayugan (Agusan Del Sur),013,N 84° E,City Of Bayugan (Agusan Del Sur)
 2026-08-18T02:00:00.000Z,18 August 2026 - 02:00 AM,17.81,120.65,029,1.4,011km N 31° W of Lagayan (Abra),011,N 31° W,Lagayan (Abra)
 2026-08-18T01:32:00.000Z,18 August 2026 - 01:32 AM,05.88,125.33,021,2.2,011km S 26° E of Malapatan (Sarangani),011,S 26° E,Malapatan (Sarangani)
-2026-08-18T00:23:00.000Z,18 August 2026 - 12:23 AM,05.41,125.52,023,1.5,009km S 38° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,S 38° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-17T23:57:00.000Z,17 August 2026 - 11:57 PM,10.70,122.53,055,2.0,005km N 80° W of City Of Iloilo (Iloilo),005,N 80° W,City Of Iloilo (Iloilo)
