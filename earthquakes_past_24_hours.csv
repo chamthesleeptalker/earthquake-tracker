@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-18T09:48:00.000Z,18 August 2026 - 09:48 AM,09.20,125.68,084,2.2,016km S 62° E of Santiago (Agusan Del Norte),016,S 62° E,Santiago (Agusan Del Norte)
+2026-08-18T09:32:00.000Z,18 August 2026 - 09:32 AM,11.07,124.13,033,1.7,017km N 80° E of City Of Bogo (Cebu),017,N 80° E,City Of Bogo (Cebu)
 2026-08-18T08:45:00.000Z,18 August 2026 - 08:45 AM,05.36,124.97,039,2.0,051km S 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T07:59:00.000Z,18 August 2026 - 07:59 AM,05.05,124.54,033,2.1,103km S 29° W of Maasim (Sarangani),103,S 29° W,Maasim (Sarangani)
 2026-08-18T07:43:00.000Z,18 August 2026 - 07:43 AM,16.48,119.24,022,2.7,071km N 82° W of Bolinao (Pangasinan),071,N 82° W,Bolinao (Pangasinan)
@@ -43,4 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T13:13:00.000Z,17 August 2026 - 01:13 PM,05.74,125.43,023,2.0,027km S 70° E of Glan (Sarangani),027,S 70° E,Glan (Sarangani)
 2026-08-17T11:18:00.000Z,17 August 2026 - 11:18 AM,06.84,125.08,032,1.8,013km N 42° W of Magsaysay (Davao Del Sur),013,N 42° W,Magsaysay (Davao Del Sur)
 2026-08-17T10:03:00.000Z,17 August 2026 - 10:03 AM,21.69,121.84,030,3.0,100km N 01° W of Itbayat (Batanes),100,N 01° W,Itbayat (Batanes)
-2026-08-17T08:51:00.000Z,17 August 2026 - 08:51 AM,05.13,125.24,026,2.9,037km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
