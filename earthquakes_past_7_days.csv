@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T05:53:00.000Z,19 August 2026 - 05:53 AM,05.39,124.93,011,1.9,053km S 08° W of Maasim (Sarangani),053,S 08° W,Maasim (Sarangani)
+2026-08-19T05:49:00.000Z,19 August 2026 - 05:49 AM,12.95,124.69,011,2.6,046km N 50° E of Biri (Northern Samar),046,N 50° E,Biri (Northern Samar)
 2026-08-19T05:08:00.000Z,19 August 2026 - 05:08 AM,09.94,122.37,021,1.4,021km N 21° W of City Of Sipalay (Negros Occidental),021,N 21° W,City Of Sipalay (Negros Occidental)
 2026-08-19T04:57:00.000Z,19 August 2026 - 04:57 AM,13.94,120.67,139,1.6,007km N 89° W of Balayan (Batangas),007,N 89° W,Balayan (Batangas)
 2026-08-19T04:18:00.000Z,19 August 2026 - 04:18 AM,09.69,126.16,028,1.7,010km S 04° E of General Luna (Surigao Del Norte),010,S 04° E,General Luna (Surigao Del Norte)
@@ -438,7 +440,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T06:15:00.000Z,12 August 2026 - 06:15 AM,18.03,121.14,022,1.4,005km N 79° W of Kabugao (Apayao),005,N 79° W,Kabugao (Apayao)
 2026-08-12T06:04:00.000Z,12 August 2026 - 06:04 AM,13.07,124.00,024,2.0,010km N 13° W of City Of Sorsogon (Sorsogon),010,N 13° W,City Of Sorsogon (Sorsogon)
 2026-08-12T06:01:00.000Z,12 August 2026 - 06:01 AM,06.23,126.43,124,1.9,062km S 40° E of Governor Generoso (Davao Oriental),062,S 40° E,Governor Generoso (Davao Oriental)
-2026-08-12T05:52:00.000Z,12 August 2026 - 05:52 AM,13.24,120.36,026,1.7,022km S 29° W of Paluan (Occidental Mindoro),022,S 29° W,Paluan (Occidental Mindoro)
-2026-08-12T05:34:00.000Z,12 August 2026 - 05:34 AM,05.60,125.25,005,2.4,025km S 11° E of Glan (Sarangani),025,S 11° E,Glan (Sarangani)
-2026-08-12T05:27:00.000Z,12 August 2026 - 05:27 AM,17.46,120.17,031,2.1,025km S 66° W of Caoayan (Ilocos Sur),025,S 66° W,Caoayan (Ilocos Sur)
-2026-08-12T05:14:00.000Z,12 August 2026 - 05:14 AM,04.76,125.45,033,2.1,072km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 03° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
