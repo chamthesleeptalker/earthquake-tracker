@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-18T13:07:00.000Z,18 August 2026 - 01:07 PM,19.93,121.08,050,2.3,085km N 29° W of Calayan (Cagayan),085,N 29° W,Calayan (Cagayan)
 2026-08-18T11:08:00.000Z,18 August 2026 - 11:08 AM,09.15,126.42,019,2.6,025km N 37° E of Bayabas (Surigao Del Sur),025,N 37° E,Bayabas (Surigao Del Sur)
 2026-08-18T09:48:00.000Z,18 August 2026 - 09:48 AM,09.20,125.68,084,2.2,016km S 62° E of Santiago (Agusan Del Norte),016,S 62° E,Santiago (Agusan Del Norte)
 2026-08-18T09:32:00.000Z,18 August 2026 - 09:32 AM,11.07,124.13,033,1.7,017km N 80° E of City Of Bogo (Cebu),017,N 80° E,City Of Bogo (Cebu)
@@ -44,4 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T14:51:00.000Z,17 August 2026 - 02:51 PM,10.80,125.06,012,2.6,007km N 42° E of Abuyog (Leyte),007,N 42° E,Abuyog (Leyte)
 2026-08-17T14:03:00.000Z,17 August 2026 - 02:03 PM,10.51,124.26,002,1.5,020km S 43° W of San Francisco (Cebu),020,S 43° W,San Francisco (Cebu)
 2026-08-17T13:13:00.000Z,17 August 2026 - 01:13 PM,05.74,125.43,023,2.0,027km S 70° E of Glan (Sarangani),027,S 70° E,Glan (Sarangani)
-2026-08-17T11:18:00.000Z,17 August 2026 - 11:18 AM,06.84,125.08,032,1.8,013km N 42° W of Magsaysay (Davao Del Sur),013,N 42° W,Magsaysay (Davao Del Sur)
