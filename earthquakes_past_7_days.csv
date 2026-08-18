@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-18T19:38:00.000Z,18 August 2026 - 07:38 PM,05.65,125.26,002,2.0,020km S 19° E of Glan (Sarangani),020,S 19° E,Glan (Sarangani)
+2026-08-18T19:21:00.000Z,18 August 2026 - 07:21 PM,05.64,125.16,021,1.3,020km S 13° W of Glan (Sarangani),020,S 13° W,Glan (Sarangani)
 2026-08-18T18:49:00.000Z,18 August 2026 - 06:49 PM,15.89,121.01,013,1.7,010km S 32° W of Carranglan (Nueva Ecija),010,S 32° W,Carranglan (Nueva Ecija)
 2026-08-17T19:06:00.000Z,17 August 2026 - 07:06 PM,13.60,120.28,023,1.9,014km S 15° E of Looc (Occidental Mindoro),014,S 15° E,Looc (Occidental Mindoro)
 2026-08-18T18:34:00.000Z,18 August 2026 - 06:34 PM,05.54,125.42,035,1.6,009km N 40° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,N 40° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -439,6 +441,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-11T20:33:00.000Z,11 August 2026 - 08:33 PM,09.88,125.92,033,1.5,006km N 80° W of Del Carmen (Surigao Del Norte),006,N 80° W,Del Carmen (Surigao Del Norte)
 2026-08-11T20:18:00.000Z,11 August 2026 - 08:18 PM,16.04,119.78,006,1.6,009km S 13° W of Agno (Pangasinan),009,S 13° W,Agno (Pangasinan)
 2026-08-11T20:14:00.000Z,11 August 2026 - 08:14 PM,08.45,126.09,118,2.3,008km S 79° W of Tagbina (Surigao Del Sur),008,S 79° W,Tagbina (Surigao Del Sur)
-2026-08-11T19:29:00.000Z,11 August 2026 - 07:29 PM,04.93,125.20,031,3.5,058km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),058,S 24° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-11T19:17:00.000Z,11 August 2026 - 07:17 PM,05.65,125.45,030,1.9,020km N 08° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 08° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-11T19:05:00.000Z,11 August 2026 - 07:05 PM,15.54,120.01,028,1.7,005km N 81° E of Masinloc (Zambales),005,N 81° E,Masinloc (Zambales)
