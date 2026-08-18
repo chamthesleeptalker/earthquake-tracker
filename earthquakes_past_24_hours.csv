@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-18T15:14:00.000Z,18 August 2026 - 03:14 PM,10.98,125.74,010,2.4,007km S 19° E of Guiuan (Eastern Samar),007,S 19° E,Guiuan (Eastern Samar)
+2026-08-18T14:54:00.000Z,18 August 2026 - 02:54 PM,13.73,120.47,120,2.8,020km S 57° W of Calatagan (Batangas),020,S 57° W,Calatagan (Batangas)
 2026-08-18T14:01:00.000Z,18 August 2026 - 02:01 PM,05.11,125.31,014,2.4,036km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T13:22:00.000Z,18 August 2026 - 01:22 PM,10.25,126.58,014,2.7,061km N 65° E of Burgos (Surigao Del Norte),061,N 65° E,Burgos (Surigao Del Norte)
 2026-08-18T13:07:00.000Z,18 August 2026 - 01:07 PM,19.93,121.08,050,2.3,085km N 29° W of Calayan (Cagayan),085,N 29° W,Calayan (Cagayan)
@@ -43,6 +45,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T18:24:00.000Z,17 August 2026 - 06:24 PM,12.99,121.10,035,1.4,028km S 43° W of Victoria (Oriental Mindoro),028,S 43° W,Victoria (Oriental Mindoro)
 2026-08-17T16:54:00.000Z,17 August 2026 - 04:54 PM,18.01,121.19,016,2.4,002km S 39° E of Kabugao (Apayao),002,S 39° E,Kabugao (Apayao)
 2026-08-17T16:36:00.000Z,17 August 2026 - 04:36 PM,05.83,125.34,020,1.5,015km N 88° E of Glan (Sarangani),015,N 88° E,Glan (Sarangani)
-2026-08-17T15:05:00.000Z,17 August 2026 - 03:05 PM,05.70,126.42,075,2.8,089km S 75° E of Jose Abad Santos (Davao Occidental),089,S 75° E,Jose Abad Santos (Davao Occidental)
-2026-08-17T14:51:00.000Z,17 August 2026 - 02:51 PM,10.80,125.06,012,2.6,007km N 42° E of Abuyog (Leyte),007,N 42° E,Abuyog (Leyte)
-2026-08-17T14:03:00.000Z,17 August 2026 - 02:03 PM,10.51,124.26,002,1.5,020km S 43° W of San Francisco (Cebu),020,S 43° W,San Francisco (Cebu)
