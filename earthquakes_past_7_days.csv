@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T16:17:00.000Z,19 August 2026 - 04:17 PM,05.55,125.24,028,2.1,025km N 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,N 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-19T16:09:00.000Z,19 August 2026 - 04:09 PM,05.67,126.39,029,1.9,087km S 72° E of Jose Abad Santos (Davao Occidental),087,S 72° E,Jose Abad Santos (Davao Occidental)
 2026-08-19T15:15:00.000Z,19 August 2026 - 03:15 PM,05.73,125.07,034,1.4,017km S 28° E of Maasim (Sarangani),017,S 28° E,Maasim (Sarangani)
 2026-08-19T15:14:00.000Z,19 August 2026 - 03:14 PM,02.92,125.36,224,4.0,276km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),276,S 01° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T14:50:00.000Z,19 August 2026 - 02:50 PM,19.58,121.85,002,3.2,010km N 40° W of Babuyan Island (Calayan) (Cagayan),010,N 40° W,Babuyan Island (Calayan) (Cagayan)
@@ -448,5 +450,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T17:35:00.000Z,12 August 2026 - 05:35 PM,08.02,126.39,027,2.1,003km S 54° W of Lingig (Surigao Del Sur),003,S 54° W,Lingig (Surigao Del Sur)
 2026-08-12T17:18:00.000Z,12 August 2026 - 05:18 PM,05.72,125.10,002,2.5,016km S 44° W of Glan (Sarangani),016,S 44° W,Glan (Sarangani)
 2026-08-12T16:22:00.000Z,12 August 2026 - 04:22 PM,09.70,126.37,035,1.9,025km S 69° E of General Luna (Surigao Del Norte),025,S 69° E,General Luna (Surigao Del Norte)
-2026-08-12T15:45:00.000Z,12 August 2026 - 03:45 PM,05.39,125.25,027,1.8,019km S 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-12T15:19:00.000Z,12 August 2026 - 03:19 PM,09.78,126.45,024,2.4,032km N 90° E of General Luna (Surigao Del Norte),032,N 90° E,General Luna (Surigao Del Norte)
