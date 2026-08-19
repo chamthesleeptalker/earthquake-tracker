@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T10:00:00.000Z,19 August 2026 - 10:00 AM,13.08,122.65,019,1.9,027km S 05° W of San Andres (Quezon),027,S 05° W,San Andres (Quezon)
+2026-08-19T08:46:00.000Z,19 August 2026 - 08:46 AM,05.60,125.28,034,2.2,026km N 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T08:26:00.000Z,19 August 2026 - 08:26 AM,09.62,126.23,034,1.5,020km S 26° E of General Luna (Surigao Del Norte),020,S 26° E,General Luna (Surigao Del Norte)
 2026-08-19T08:13:00.000Z,19 August 2026 - 08:13 AM,10.92,124.78,004,1.4,009km N 89° E of Albuera (Leyte),009,N 89° E,Albuera (Leyte)
 2026-08-19T08:00:00.000Z,19 August 2026 - 08:00 AM,09.66,126.28,023,2.5,019km S 46° E of General Luna (Surigao Del Norte),019,S 46° E,General Luna (Surigao Del Norte)

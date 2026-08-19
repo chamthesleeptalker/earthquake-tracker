@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T10:00:00.000Z,19 August 2026 - 10:00 AM,13.08,122.65,019,1.9,027km S 05° W of San Andres (Quezon),027,S 05° W,San Andres (Quezon)
+2026-08-19T08:46:00.000Z,19 August 2026 - 08:46 AM,05.60,125.28,034,2.2,026km N 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T08:26:00.000Z,19 August 2026 - 08:26 AM,09.62,126.23,034,1.5,020km S 26° E of General Luna (Surigao Del Norte),020,S 26° E,General Luna (Surigao Del Norte)
 2026-08-19T08:13:00.000Z,19 August 2026 - 08:13 AM,10.92,124.78,004,1.4,009km N 89° E of Albuera (Leyte),009,N 89° E,Albuera (Leyte)
 2026-08-19T08:00:00.000Z,19 August 2026 - 08:00 AM,09.66,126.28,023,2.5,019km S 46° E of General Luna (Surigao Del Norte),019,S 46° E,General Luna (Surigao Del Norte)
@@ -439,5 +441,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T11:35:00.000Z,12 August 2026 - 11:35 AM,10.28,126.15,012,3.5,030km N 16° E of Burgos (Surigao Del Norte),030,N 16° E,Burgos (Surigao Del Norte)
 2026-08-12T10:31:00.000Z,12 August 2026 - 10:31 AM,09.91,124.14,011,2.1,005km S 81° E of Sagbayan (Bohol),005,S 81° E,Sagbayan (Bohol)
 2026-08-12T10:03:00.000Z,12 August 2026 - 10:03 AM,05.36,125.17,031,1.6,029km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-12T09:47:00.000Z,12 August 2026 - 09:47 AM,05.95,125.28,032,1.5,002km S 24° W of Malapatan (Sarangani),002,S 24° W,Malapatan (Sarangani)
-2026-08-12T09:02:00.000Z,12 August 2026 - 09:02 AM,06.08,125.44,021,1.6,017km S 82° E of Alabel (Sarangani),017,S 82° E,Alabel (Sarangani)
