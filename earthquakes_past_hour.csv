@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-20T07:09:00.000Z,20 August 2026 - 07:09 AM,05.58,125.19,033,2.1,026km S 04° W of Glan (Sarangani),026,S 04° W,Glan (Sarangani)
+2026-08-20T07:00:00.000Z,20 August 2026 - 07:00 AM,05.65,125.22,018,1.9,019km S 06° E of Glan (Sarangani),019,S 06° E,Glan (Sarangani)
+2026-08-20T06:45:00.000Z,20 August 2026 - 06:45 AM,12.75,124.45,073,2.9,012km N 54° E of Biri (Northern Samar),012,N 54° E,Biri (Northern Samar)
 2026-08-20T06:33:00.000Z,20 August 2026 - 06:33 AM,12.90,123.09,026,2.0,017km S 88° W of Claveria (Masbate),017,S 88° W,Claveria (Masbate)
-2026-08-20T05:44:00.000Z,20 August 2026 - 05:44 AM,05.66,125.27,004,1.5,019km S 24° E of Glan (Sarangani),019,S 24° E,Glan (Sarangani)
