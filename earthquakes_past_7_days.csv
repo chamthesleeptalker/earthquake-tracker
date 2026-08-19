@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T18:14:00.000Z,19 August 2026 - 06:14 PM,13.20,120.81,037,2.1,016km N 38° E of Santa Cruz (Occidental Mindoro),016,N 38° E,Santa Cruz (Occidental Mindoro)
+2026-08-19T18:14:00.000Z,19 August 2026 - 06:14 PM,05.42,125.09,024,1.9,037km N 89° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,N 89° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-19T17:47:00.000Z,19 August 2026 - 05:47 PM,06.46,126.82,031,2.5,077km S 32° E of Tarragona (Davao Oriental),077,S 32° E,Tarragona (Davao Oriental)
+2026-08-19T17:43:00.000Z,19 August 2026 - 05:43 PM,04.93,125.23,033,2.4,057km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),057,S 22° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-19T17:34:00.000Z,19 August 2026 - 05:34 PM,05.44,125.33,007,3.3,011km N 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,N 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T17:19:00.000Z,19 August 2026 - 05:19 PM,13.22,124.80,009,1.9,067km S 44° E of Baras (Catanduanes),067,S 44° E,Baras (Catanduanes)
 2026-08-19T17:11:00.000Z,19 August 2026 - 05:11 PM,10.08,126.23,024,2.0,018km N 67° E of Burgos (Surigao Del Norte),018,N 67° E,Burgos (Surigao Del Norte)
 2026-08-19T17:04:00.000Z,19 August 2026 - 05:04 PM,17.74,120.54,033,2.0,009km S 86° E of San Juan (Ilocos Sur),009,S 86° E,San Juan (Ilocos Sur)
@@ -451,5 +456,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-12T19:35:00.000Z,12 August 2026 - 07:35 PM,15.78,121.68,019,1.6,013km N 79° E of Baler (Aurora),013,N 79° E,Baler (Aurora)
 2026-08-12T19:33:00.000Z,12 August 2026 - 07:33 PM,05.44,125.24,021,2.7,021km N 81° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,N 81° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-12T19:21:00.000Z,12 August 2026 - 07:21 PM,08.82,126.35,017,1.9,006km N 62° E of Marihatag (Surigao Del Sur),006,N 62° E,Marihatag (Surigao Del Sur)
-2026-08-12T18:12:00.000Z,12 August 2026 - 06:12 PM,15.18,122.13,016,1.9,041km N 25° E of Burdeos (Quezon),041,N 25° E,Burdeos (Quezon)
-2026-08-12T17:35:00.000Z,12 August 2026 - 05:35 PM,08.02,126.39,027,2.1,003km S 54° W of Lingig (Surigao Del Sur),003,S 54° W,Lingig (Surigao Del Sur)
