@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-20T00:50:00.000Z,20 August 2026 - 12:50 AM,19.41,121.66,013,2.0,026km N 49° E of Calayan (Cagayan),026,N 49° E,Calayan (Cagayan)
+2026-08-20T00:32:00.000Z,20 August 2026 - 12:32 AM,08.52,123.07,004,2.1,003km N 85° W of Manukan (Zamboanga Del Norte),003,N 85° W,Manukan (Zamboanga Del Norte)
 2026-08-20T00:24:00.000Z,20 August 2026 - 12:24 AM,08.10,122.23,033,1.8,023km N 56° W of Gutalac (Zamboanga Del Norte),023,N 56° W,Gutalac (Zamboanga Del Norte)
 2026-08-20T00:22:00.000Z,20 August 2026 - 12:22 AM,05.82,125.31,021,1.8,011km S 89° E of Glan (Sarangani),011,S 89° E,Glan (Sarangani)
 2026-08-20T00:05:00.000Z,20 August 2026 - 12:05 AM,12.83,122.97,010,2.3,031km S 74° W of Claveria (Masbate),031,S 74° W,Claveria (Masbate)

@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-20T00:50:00.000Z,20 August 2026 - 12:50 AM,19.41,121.66,013,2.0,026km N 49° E of Calayan (Cagayan),026,N 49° E,Calayan (Cagayan)
+2026-08-20T00:32:00.000Z,20 August 2026 - 12:32 AM,08.52,123.07,004,2.1,003km N 85° W of Manukan (Zamboanga Del Norte),003,N 85° W,Manukan (Zamboanga Del Norte)
 2026-08-20T00:24:00.000Z,20 August 2026 - 12:24 AM,08.10,122.23,033,1.8,023km N 56° W of Gutalac (Zamboanga Del Norte),023,N 56° W,Gutalac (Zamboanga Del Norte)
 2026-08-20T00:22:00.000Z,20 August 2026 - 12:22 AM,05.82,125.31,021,1.8,011km S 89° E of Glan (Sarangani),011,S 89° E,Glan (Sarangani)
 2026-08-20T00:05:00.000Z,20 August 2026 - 12:05 AM,12.83,122.97,010,2.3,031km S 74° W of Claveria (Masbate),031,S 74° W,Claveria (Masbate)
@@ -86,8 +88,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-19T01:01:00.000Z,19 August 2026 - 01:01 AM,17.70,120.56,002,2.7,011km S 66° E of San Juan (Ilocos Sur),011,S 66° E,San Juan (Ilocos Sur)
 2026-08-19T00:56:00.000Z,19 August 2026 - 12:56 AM,05.60,125.10,025,1.8,027km S 24° W of Glan (Sarangani),027,S 24° W,Glan (Sarangani)
 2026-08-19T00:51:00.000Z,19 August 2026 - 12:51 AM,05.88,125.28,025,1.3,010km S 05° W of Malapatan (Sarangani),010,S 05° W,Malapatan (Sarangani)
-2026-08-19T00:49:00.000Z,19 August 2026 - 12:49 AM,06.28,126.22,122,1.9,044km S 22° E of Governor Generoso (Davao Oriental),044,S 22° E,Governor Generoso (Davao Oriental)
-2026-08-19T00:47:00.000Z,19 August 2026 - 12:47 AM,12.87,123.05,007,1.8,022km S 81° W of Claveria (Masbate),022,S 81° W,Claveria (Masbate)
-2026-08-19T00:47:00.000Z,19 August 2026 - 12:47 AM,18.01,122.04,029,1.3,023km N 53° E of Baggao (Cagayan),023,N 53° E,Baggao (Cagayan)
-2026-08-19T00:45:00.000Z,19 August 2026 - 12:45 AM,05.75,125.33,010,2.5,016km S 62° E of Glan (Sarangani),016,S 62° E,Glan (Sarangani)
-2026-08-19T00:31:00.000Z,19 August 2026 - 12:31 AM,18.02,120.71,029,1.5,005km S 55° E of Marcos (Ilocos Norte),005,S 55° E,Marcos (Ilocos Norte)
