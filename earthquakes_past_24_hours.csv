@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T11:26:00.000Z,19 August 2026 - 11:26 AM,11.08,124.11,032,1.6,015km N 77° E of City Of Bogo (Cebu),015,N 77° E,City Of Bogo (Cebu)
+2026-08-19T11:13:00.000Z,19 August 2026 - 11:13 AM,10.95,124.09,024,2.0,007km N 79° E of Tabogon (Cebu),007,N 79° E,Tabogon (Cebu)
+2026-08-19T11:05:00.000Z,19 August 2026 - 11:05 AM,05.77,125.26,017,1.6,008km S 48° E of Glan (Sarangani),008,S 48° E,Glan (Sarangani)
+2026-08-19T10:49:00.000Z,19 August 2026 - 10:49 AM,09.67,126.20,029,2.2,014km S 20° E of General Luna (Surigao Del Norte),014,S 20° E,General Luna (Surigao Del Norte)
+2026-08-19T10:38:00.000Z,19 August 2026 - 10:38 AM,05.50,125.10,020,2.8,037km N 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,N 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T10:00:00.000Z,19 August 2026 - 10:00 AM,13.08,122.65,019,1.9,027km S 05° W of San Andres (Quezon),027,S 05° W,San Andres (Quezon)
 2026-08-19T08:46:00.000Z,19 August 2026 - 08:46 AM,05.60,125.28,034,2.2,026km N 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T08:26:00.000Z,19 August 2026 - 08:26 AM,09.62,126.23,034,1.5,020km S 26° E of General Luna (Surigao Del Norte),020,S 26° E,General Luna (Surigao Del Norte)
@@ -65,4 +70,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T14:01:00.000Z,18 August 2026 - 02:01 PM,05.11,125.31,014,2.4,036km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T13:22:00.000Z,18 August 2026 - 01:22 PM,10.25,126.58,014,2.7,061km N 65° E of Burgos (Surigao Del Norte),061,N 65° E,Burgos (Surigao Del Norte)
 2026-08-18T13:07:00.000Z,18 August 2026 - 01:07 PM,19.93,121.08,050,2.3,085km N 29° W of Calayan (Cagayan),085,N 29° W,Calayan (Cagayan)
-2026-08-18T11:08:00.000Z,18 August 2026 - 11:08 AM,09.15,126.42,019,2.6,025km N 37° E of Bayabas (Surigao Del Sur),025,N 37° E,Bayabas (Surigao Del Sur)
