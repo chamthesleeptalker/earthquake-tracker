@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T23:03:00.000Z,19 August 2026 - 11:03 PM,19.65,121.71,022,2.5,026km N 53° W of Babuyan Island (Calayan) (Cagayan),026,N 53° W,Babuyan Island (Calayan) (Cagayan)
+2026-08-19T23:02:00.000Z,19 August 2026 - 11:02 PM,05.91,125.35,020,1.8,010km S 46° E of Malapatan (Sarangani),010,S 46° E,Malapatan (Sarangani)
+2026-08-19T22:49:00.000Z,19 August 2026 - 10:49 PM,17.65,120.50,004,1.6,010km N 46° W of Langiden (Abra),010,N 46° W,Langiden (Abra)
+2026-08-19T22:41:00.000Z,19 August 2026 - 10:41 PM,17.61,120.53,008,1.9,005km N 44° W of Langiden (Abra),005,N 44° W,Langiden (Abra)
+2026-08-19T22:37:00.000Z,19 August 2026 - 10:37 PM,05.37,125.27,032,1.6,017km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T22:18:00.000Z,19 August 2026 - 10:18 PM,17.64,120.53,002,2.4,008km N 26° W of Langiden (Abra),008,N 26° W,Langiden (Abra)
 2026-08-19T22:03:00.000Z,19 August 2026 - 10:03 PM,13.09,125.65,033,2.6,080km N 33° E of Mapanas (Northern Samar),080,N 33° E,Mapanas (Northern Samar)
 2026-08-19T21:46:00.000Z,19 August 2026 - 09:46 PM,19.58,121.75,011,2.7,019km N 64° W of Babuyan Island (Calayan) (Cagayan),019,N 64° W,Babuyan Island (Calayan) (Cagayan)
