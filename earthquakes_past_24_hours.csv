@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-19T14:29:00.000Z,19 August 2026 - 02:29 PM,05.54,125.31,021,4.2,019km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T13:34:00.000Z,19 August 2026 - 01:34 PM,07.82,126.35,025,1.9,006km S 29° W of Boston (Davao Oriental),006,S 29° W,Boston (Davao Oriental)
 2026-08-19T13:25:00.000Z,19 August 2026 - 01:25 PM,11.01,123.99,028,1.8,004km S 22° E of City Of Bogo (Cebu),004,S 22° E,City Of Bogo (Cebu)
 2026-08-19T13:24:00.000Z,19 August 2026 - 01:24 PM,10.91,123.87,002,2.4,019km S 38° W of City Of Bogo (Cebu),019,S 38° W,City Of Bogo (Cebu)
@@ -75,4 +76,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T15:41:00.000Z,18 August 2026 - 03:41 PM,13.86,120.44,093,3.0,022km N 81° W of Calatagan (Batangas),022,N 81° W,Calatagan (Batangas)
 2026-08-18T15:14:00.000Z,18 August 2026 - 03:14 PM,10.98,125.74,010,2.4,007km S 19° E of Guiuan (Eastern Samar),007,S 19° E,Guiuan (Eastern Samar)
 2026-08-18T14:54:00.000Z,18 August 2026 - 02:54 PM,13.73,120.47,120,2.8,020km S 57° W of Calatagan (Batangas),020,S 57° W,Calatagan (Batangas)
-2026-08-18T14:01:00.000Z,18 August 2026 - 02:01 PM,05.11,125.31,014,2.4,036km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
