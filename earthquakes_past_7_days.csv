@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T05:03:00.000Z,21 August 2026 - 05:03 AM,08.89,126.22,031,2.2,010km S 72° W of Cagwait (Surigao Del Sur),010,S 72° W,Cagwait (Surigao Del Sur)
+2026-08-21T04:58:00.000Z,21 August 2026 - 04:58 AM,06.62,126.40,049,1.9,036km S 84° E of Governor Generoso (Davao Oriental),036,S 84° E,Governor Generoso (Davao Oriental)
 2026-08-21T04:40:00.000Z,21 August 2026 - 04:40 AM,05.63,125.33,021,2.1,023km N 42° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 42° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T04:17:00.000Z,21 August 2026 - 04:17 AM,07.89,126.40,022,1.8,004km N 46° E of Boston (Davao Oriental),004,N 46° E,Boston (Davao Oriental)
 2026-08-21T04:12:00.000Z,21 August 2026 - 04:12 AM,05.86,125.38,002,1.4,020km N 77° E of Glan (Sarangani),020,N 77° E,Glan (Sarangani)
@@ -475,6 +477,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T06:13:00.000Z,14 August 2026 - 06:13 AM,06.38,125.74,016,2.8,014km S 77° E of Malita (Davao Occidental),014,S 77° E,Malita (Davao Occidental)
 2026-08-14T05:50:00.000Z,14 August 2026 - 05:50 AM,13.09,124.21,002,2.3,005km N 18° E of Prieto Diaz (Sorsogon),005,N 18° E,Prieto Diaz (Sorsogon)
 2026-08-14T05:46:00.000Z,14 August 2026 - 05:46 AM,13.39,120.26,028,1.9,022km S 84° W of Paluan (Occidental Mindoro),022,S 84° W,Paluan (Occidental Mindoro)
-2026-08-14T04:48:00.000Z,14 August 2026 - 04:48 AM,08.30,126.69,024,1.8,039km S 80° E of Hinatuan (Surigao Del Sur),039,S 80° E,Hinatuan (Surigao Del Sur)
-2026-08-14T04:44:00.000Z,14 August 2026 - 04:44 AM,05.94,125.40,052,1.8,013km S 76° E of Malapatan (Sarangani),013,S 76° E,Malapatan (Sarangani)
-2026-08-14T04:40:00.000Z,14 August 2026 - 04:40 AM,06.57,126.41,013,2.4,039km S 76° E of Governor Generoso (Davao Oriental),039,S 76° E,Governor Generoso (Davao Oriental)
