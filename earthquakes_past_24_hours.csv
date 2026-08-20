@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-20T17:15:00.000Z,20 August 2026 - 05:15 PM,03.95,124.67,303,3.3,182km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),182,S 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-20T17:01:00.000Z,20 August 2026 - 05:01 PM,06.54,126.41,040,2.9,040km S 71° E of Governor Generoso (Davao Oriental),040,S 71° E,Governor Generoso (Davao Oriental)
+2026-08-20T16:55:00.000Z,20 August 2026 - 04:55 PM,08.79,126.22,032,1.6,005km North of San Agustin (Surigao Del Sur),005,North of San,(Surigao Del Sur)
+2026-08-20T16:48:00.000Z,20 August 2026 - 04:48 PM,05.77,125.21,020,1.6,006km S 06° E of Glan (Sarangani),006,S 06° E,Glan (Sarangani)
 2026-08-20T16:06:00.000Z,20 August 2026 - 04:06 PM,05.52,125.24,027,3.4,023km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-20T15:58:00.000Z,20 August 2026 - 03:58 PM,03.86,126.81,035,3.9,230km S 42° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),230,S 42° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-20T14:42:00.000Z,20 August 2026 - 02:42 PM,10.09,125.79,019,1.4,022km N 84° E of Basilisa (Dinagat Islands),022,N 84° E,Basilisa (Dinagat Islands)
@@ -63,9 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-19T17:43:00.000Z,19 August 2026 - 05:43 PM,04.93,125.23,033,2.4,057km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),057,S 22° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T17:34:00.000Z,19 August 2026 - 05:34 PM,05.44,125.33,007,3.3,011km N 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,N 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T17:19:00.000Z,19 August 2026 - 05:19 PM,13.22,124.80,009,1.9,067km S 44° E of Baras (Catanduanes),067,S 44° E,Baras (Catanduanes)
-2026-08-19T17:11:00.000Z,19 August 2026 - 05:11 PM,10.08,126.23,024,2.0,018km N 67° E of Burgos (Surigao Del Norte),018,N 67° E,Burgos (Surigao Del Norte)
-2026-08-19T17:04:00.000Z,19 August 2026 - 05:04 PM,17.74,120.54,033,2.0,009km S 86° E of San Juan (Ilocos Sur),009,S 86° E,San Juan (Ilocos Sur)
-2026-08-19T16:59:00.000Z,19 August 2026 - 04:59 PM,05.18,125.20,016,2.4,035km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 44° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-19T16:39:00.000Z,19 August 2026 - 04:39 PM,08.00,126.40,029,1.9,005km S 22° W of Lingig (Surigao Del Sur),005,S 22° W,Lingig (Surigao Del Sur)
-2026-08-19T16:17:00.000Z,19 August 2026 - 04:17 PM,05.55,125.24,028,2.1,025km N 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,N 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-19T16:09:00.000Z,19 August 2026 - 04:09 PM,05.67,126.39,029,1.9,087km S 72° E of Jose Abad Santos (Davao Occidental),087,S 72° E,Jose Abad Santos (Davao Occidental)
