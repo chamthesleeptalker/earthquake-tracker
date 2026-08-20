@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-20T20:30:00.000Z,20 August 2026 - 08:30 PM,05.75,125.35,024,2.1,018km S 63° E of Glan (Sarangani),018,S 63° E,Glan (Sarangani)
+2026-08-20T20:27:00.000Z,20 August 2026 - 08:27 PM,05.92,125.37,022,2.2,010km S 59° E of Malapatan (Sarangani),010,S 59° E,Malapatan (Sarangani)
+2026-08-20T19:43:00.000Z,20 August 2026 - 07:43 PM,10.83,124.99,029,1.8,001km West of Macarthur (Leyte),001,West of Macarthur,
 2026-08-20T19:03:00.000Z,20 August 2026 - 07:03 PM,05.97,124.45,027,1.4,011km S 28° W of Maitum (Sarangani),011,S 28° W,Maitum (Sarangani)
 2026-08-20T19:01:00.000Z,20 August 2026 - 07:01 PM,05.70,125.41,011,2.1,026km N 16° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),026,N 16° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-20T18:23:00.000Z,20 August 2026 - 06:23 PM,05.91,125.34,025,1.8,009km S 39° E of Malapatan (Sarangani),009,S 39° E,Malapatan (Sarangani)
@@ -465,8 +468,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-13T21:25:00.000Z,13 August 2026 - 09:25 PM,08.69,126.41,023,2.3,017km S 46° E of Marihatag (Surigao Del Sur),017,S 46° E,Marihatag (Surigao Del Sur)
 2026-08-13T21:23:00.000Z,13 August 2026 - 09:23 PM,06.16,125.85,070,2.4,017km S 76° E of Don Marcelino (Davao Occidental),017,S 76° E,Don Marcelino (Davao Occidental)
 2026-08-13T21:13:00.000Z,13 August 2026 - 09:13 PM,12.00,125.72,010,3.8,026km S 80° E of Dolores (Eastern Samar),026,S 80° E,Dolores (Eastern Samar)
-2026-08-13T20:20:00.000Z,13 August 2026 - 08:20 PM,06.03,126.05,063,2.4,044km S 65° E of Don Marcelino (Davao Occidental),044,S 65° E,Don Marcelino (Davao Occidental)
-2026-08-13T20:01:00.000Z,13 August 2026 - 08:01 PM,19.28,121.18,016,3.0,019km N 07° W of Dalupiri Island (Calayan) (Cagayan),019,N 07° W,Dalupiri Island (Calayan) (Cagayan)
-2026-08-13T19:53:00.000Z,13 August 2026 - 07:53 PM,06.38,125.79,015,2.9,020km S 78° E of Malita (Davao Occidental),020,S 78° E,Malita (Davao Occidental)
-2026-08-13T19:41:00.000Z,13 August 2026 - 07:41 PM,17.16,120.28,022,2.2,017km S 90° W of City Of Candon (Ilocos Sur),017,S 90° W,City Of Candon (Ilocos Sur)
-2026-08-13T19:22:00.000Z,13 August 2026 - 07:22 PM,05.79,125.30,023,1.6,011km S 72° E of Glan (Sarangani),011,S 72° E,Glan (Sarangani)
