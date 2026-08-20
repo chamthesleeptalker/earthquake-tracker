@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T04:40:00.000Z,21 August 2026 - 04:40 AM,05.63,125.33,021,2.1,023km N 42° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 42° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T04:17:00.000Z,21 August 2026 - 04:17 AM,07.89,126.40,022,1.8,004km N 46° E of Boston (Davao Oriental),004,N 46° E,Boston (Davao Oriental)
 2026-08-21T04:12:00.000Z,21 August 2026 - 04:12 AM,05.86,125.38,002,1.4,020km N 77° E of Glan (Sarangani),020,N 77° E,Glan (Sarangani)
 2026-08-21T04:05:00.000Z,21 August 2026 - 04:05 AM,08.09,127.13,005,3.4,079km N 86° E of Lingig (Surigao Del Sur),079,N 86° E,Lingig (Surigao Del Sur)
@@ -68,4 +69,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T05:44:00.000Z,20 August 2026 - 05:44 AM,05.66,125.27,004,1.5,019km S 24° E of Glan (Sarangani),019,S 24° E,Glan (Sarangani)
 2026-08-20T05:31:00.000Z,20 August 2026 - 05:31 AM,19.42,121.72,014,1.9,023km S 63° W of Babuyan Island (Calayan) (Cagayan),023,S 63° W,Babuyan Island (Calayan) (Cagayan)
 2026-08-20T04:43:00.000Z,20 August 2026 - 04:43 AM,05.61,125.27,023,1.6,024km S 17° E of Glan (Sarangani),024,S 17° E,Glan (Sarangani)
-2026-08-20T04:27:00.000Z,20 August 2026 - 04:27 AM,09.74,126.38,025,2.1,025km S 80° E of General Luna (Surigao Del Norte),025,S 80° E,General Luna (Surigao Del Norte)
