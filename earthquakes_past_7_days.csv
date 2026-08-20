@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T01:41:00.000Z,21 August 2026 - 01:41 AM,05.39,126.79,067,3.7,139km S 65° E of Jose Abad Santos (Davao Occidental),139,S 65° E,Jose Abad Santos (Davao Occidental)
+2026-08-21T01:33:00.000Z,21 August 2026 - 01:33 AM,03.68,125.75,139,3.7,195km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),195,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-21T01:26:00.000Z,21 August 2026 - 01:26 AM,07.03,124.36,006,3.4,002km S 54° W of Talitay (Maguindanao Del Norte),002,S 54° W,Talitay (Maguindanao Del Norte)
 2026-08-21T01:00:00.000Z,21 August 2026 - 01:00 AM,05.23,125.27,023,1.6,026km S 40° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 40° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T00:57:00.000Z,21 August 2026 - 12:57 AM,19.23,121.63,001,2.1,016km S 77° E of Calayan (Cagayan),016,S 77° E,Calayan (Cagayan)
 2026-08-21T00:55:00.000Z,21 August 2026 - 12:55 AM,06.62,126.55,026,2.2,048km S 14° E of Tarragona (Davao Oriental),048,S 14° E,Tarragona (Davao Oriental)
@@ -470,6 +473,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T02:10:00.000Z,14 August 2026 - 02:10 AM,11.40,125.67,010,2.9,008km N 47° E of Hernani (Eastern Samar),008,N 47° E,Hernani (Eastern Samar)
 2026-08-14T02:05:00.000Z,14 August 2026 - 02:05 AM,11.80,124.21,007,2.8,015km S 35° W of Almagro (Samar),015,S 35° W,Almagro (Samar)
 2026-08-14T01:58:00.000Z,14 August 2026 - 01:58 AM,05.29,125.58,005,2.7,022km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-14T01:31:00.000Z,14 August 2026 - 01:31 AM,06.64,125.13,008,2.7,012km S 51° W of Matanao (Davao Del Sur),012,S 51° W,Matanao (Davao Del Sur)
-2026-08-14T01:10:00.000Z,14 August 2026 - 01:10 AM,11.45,125.37,023,3.1,015km S 67° W of Maydolong (Eastern Samar),015,S 67° W,Maydolong (Eastern Samar)
-2026-08-14T01:06:00.000Z,14 August 2026 - 01:06 AM,05.68,125.08,020,1.4,021km S 40° W of Glan (Sarangani),021,S 40° W,Glan (Sarangani)

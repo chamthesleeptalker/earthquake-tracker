@@ -1,6 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T01:41:00.000Z,21 August 2026 - 01:41 AM,05.39,126.79,067,3.7,139km S 65° E of Jose Abad Santos (Davao Occidental),139,S 65° E,Jose Abad Santos (Davao Occidental)
+2026-08-21T01:33:00.000Z,21 August 2026 - 01:33 AM,03.68,125.75,139,3.7,195km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),195,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-21T01:26:00.000Z,21 August 2026 - 01:26 AM,07.03,124.36,006,3.4,002km S 54° W of Talitay (Maguindanao Del Norte),002,S 54° W,Talitay (Maguindanao Del Norte)
 2026-08-21T01:00:00.000Z,21 August 2026 - 01:00 AM,05.23,125.27,023,1.6,026km S 40° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 40° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T00:57:00.000Z,21 August 2026 - 12:57 AM,19.23,121.63,001,2.1,016km S 77° E of Calayan (Cagayan),016,S 77° E,Calayan (Cagayan)
 2026-08-21T00:55:00.000Z,21 August 2026 - 12:55 AM,06.62,126.55,026,2.2,048km S 14° E of Tarragona (Davao Oriental),048,S 14° E,Tarragona (Davao Oriental)
-2026-08-21T00:03:00.000Z,21 August 2026 - 12:03 AM,18.14,121.65,037,1.0,006km S 16° W of Lal-lo (Cagayan),006,S 16° W,Lal-lo (Cagayan)
-2026-08-21T00:00:00.000Z,21 August 2026 - 12:00 AM,07.31,126.78,020,2.3,024km S 86° E of Caraga (Davao Oriental),024,S 86° E,Caraga (Davao Oriental)
