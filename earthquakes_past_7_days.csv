@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T07:08:00.000Z,21 August 2026 - 07:08 AM,20.06,121.37,024,2.3,061km S 60° W of Sabtang (Batanes),061,S 60° W,Sabtang (Batanes)
+2026-08-21T06:51:00.000Z,21 August 2026 - 06:51 AM,05.66,124.96,022,2.0,023km S 11° W of Maasim (Sarangani),023,S 11° W,Maasim (Sarangani)
+2026-08-21T06:50:00.000Z,21 August 2026 - 06:50 AM,06.65,125.74,029,1.5,030km N 30° E of Malita (Davao Occidental),030,N 30° E,Malita (Davao Occidental)
 2026-08-21T05:56:00.000Z,21 August 2026 - 05:56 AM,05.76,125.03,030,2.1,012km S 21° E of Maasim (Sarangani),012,S 21° E,Maasim (Sarangani)
 2026-08-21T05:46:00.000Z,21 August 2026 - 05:46 AM,05.32,126.65,049,2.7,129km S 60° E of Jose Abad Santos (Davao Occidental),129,S 60° E,Jose Abad Santos (Davao Occidental)
 2026-08-21T05:03:00.000Z,21 August 2026 - 05:03 AM,08.89,126.22,031,2.2,010km S 72° W of Cagwait (Surigao Del Sur),010,S 72° W,Cagwait (Surigao Del Sur)
@@ -437,7 +440,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T23:21:00.000Z,14 August 2026 - 11:21 PM,13.28,120.45,028,1.3,015km S 04° W of Paluan (Occidental Mindoro),015,S 04° W,Paluan (Occidental Mindoro)
 2026-08-14T23:18:00.000Z,14 August 2026 - 11:18 PM,06.83,124.50,033,1.4,005km S 87° E of Ampatuan (Maguindanao Del Sur),005,S 87° E,Ampatuan (Maguindanao Del Sur)
 2026-08-14T23:10:00.000Z,14 August 2026 - 11:10 PM,10.34,126.34,006,1.5,047km N 39° E of Burgos (Surigao Del Norte),047,N 39° E,Burgos (Surigao Del Norte)
-2026-08-14T06:12:00.000Z,14 August 2026 - 06:12 AM,06.36,125.92,017,2.8,031km N 54° E of Don Marcelino (Davao Occidental),031,N 54° E,Don Marcelino (Davao Occidental)
 2026-08-14T22:31:00.000Z,14 August 2026 - 10:31 PM,07.86,123.46,026,1.5,005km N 39° E of City Of Pagadian  (Zamboanga Del Sur),005,N 39° E,City Of Pagadian  (Zamboanga Del Sur)
 2026-08-14T22:27:00.000Z,14 August 2026 - 10:27 PM,06.87,124.63,011,2.2,003km S 82° E of Sultan Sa Barongis (Maguindanao Del Sur),003,S 82° E,Sultan Sa Barongis (Maguindanao Del Sur)
 2026-08-14T22:17:00.000Z,14 August 2026 - 10:17 PM,05.63,125.43,024,2.0,018km N 16° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),018,N 16° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -476,4 +478,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T08:04:00.000Z,14 August 2026 - 08:04 AM,07.35,126.25,033,1.8,014km N 75° E of Maragusan (Davao De Oro),014,N 75° E,Maragusan (Davao De Oro)
 2026-08-14T07:53:00.000Z,14 August 2026 - 07:53 AM,11.64,125.23,032,1.7,019km S 70° E of Hinabangan (Samar),019,S 70° E,Hinabangan (Samar)
 2026-08-14T07:28:00.000Z,14 August 2026 - 07:28 AM,10.01,125.85,168,2.5,018km N 74° W of San Benito (Surigao Del Norte),018,N 74° W,San Benito (Surigao Del Norte)
-2026-08-14T06:13:00.000Z,14 August 2026 - 06:13 AM,06.38,125.74,016,2.8,014km S 77° E of Malita (Davao Occidental),014,S 77° E,Malita (Davao Occidental)
