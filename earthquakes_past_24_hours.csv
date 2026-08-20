@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T05:56:00.000Z,21 August 2026 - 05:56 AM,05.76,125.03,030,2.1,012km S 21° E of Maasim (Sarangani),012,S 21° E,Maasim (Sarangani)
+2026-08-21T05:46:00.000Z,21 August 2026 - 05:46 AM,05.32,126.65,049,2.7,129km S 60° E of Jose Abad Santos (Davao Occidental),129,S 60° E,Jose Abad Santos (Davao Occidental)
 2026-08-21T05:03:00.000Z,21 August 2026 - 05:03 AM,08.89,126.22,031,2.2,010km S 72° W of Cagwait (Surigao Del Sur),010,S 72° W,Cagwait (Surigao Del Sur)
 2026-08-21T04:58:00.000Z,21 August 2026 - 04:58 AM,06.62,126.40,049,1.9,036km S 84° E of Governor Generoso (Davao Oriental),036,S 84° E,Governor Generoso (Davao Oriental)
 2026-08-21T04:40:00.000Z,21 August 2026 - 04:40 AM,05.63,125.33,021,2.1,023km N 42° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 42° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -68,5 +70,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T07:00:00.000Z,20 August 2026 - 07:00 AM,05.65,125.22,018,1.9,019km S 06° E of Glan (Sarangani),019,S 06° E,Glan (Sarangani)
 2026-08-20T06:45:00.000Z,20 August 2026 - 06:45 AM,12.75,124.45,073,2.9,012km N 54° E of Biri (Northern Samar),012,N 54° E,Biri (Northern Samar)
 2026-08-20T06:33:00.000Z,20 August 2026 - 06:33 AM,12.90,123.09,026,2.0,017km S 88° W of Claveria (Masbate),017,S 88° W,Claveria (Masbate)
-2026-08-20T05:44:00.000Z,20 August 2026 - 05:44 AM,05.66,125.27,004,1.5,019km S 24° E of Glan (Sarangani),019,S 24° E,Glan (Sarangani)
-2026-08-20T05:31:00.000Z,20 August 2026 - 05:31 AM,19.42,121.72,014,1.9,023km S 63° W of Babuyan Island (Calayan) (Cagayan),023,S 63° W,Babuyan Island (Calayan) (Cagayan)
