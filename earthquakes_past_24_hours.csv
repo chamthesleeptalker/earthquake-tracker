@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T03:39:00.000Z,21 August 2026 - 03:39 AM,06.93,126.48,081,2.8,014km S 15° E of Tarragona (Davao Oriental),014,S 15° E,Tarragona (Davao Oriental)
 2026-08-21T03:02:00.000Z,21 August 2026 - 03:02 AM,04.96,125.38,008,2.3,050km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T02:49:00.000Z,21 August 2026 - 02:49 AM,06.84,125.76,027,2.1,027km S 11° E of Island Garden City Of Samal (Davao Del Norte),027,S 11° E,Island Garden City Of Samal (Davao Del Norte)
 2026-08-21T02:46:00.000Z,21 August 2026 - 02:46 AM,18.54,121.04,014,1.7,006km S 59° E of Santa Praxedes (Cagayan),006,S 59° E,Santa Praxedes (Cagayan)
@@ -6,7 +7,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-21T02:39:00.000Z,21 August 2026 - 02:39 AM,08.82,126.67,037,2.2,040km N 87° E of Marihatag (Surigao Del Sur),040,N 87° E,Marihatag (Surigao Del Sur)
 2026-08-21T02:29:00.000Z,21 August 2026 - 02:29 AM,05.55,125.40,020,3.0,012km N 43° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 43° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T02:29:00.000Z,21 August 2026 - 02:29 AM,05.34,125.17,031,1.6,029km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-20T03:27:00.000Z,20 August 2026 - 03:27 AM,03.59,126.78,132,3.2,252km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),252,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T02:15:00.000Z,21 August 2026 - 02:15 AM,15.72,121.94,019,2.4,041km S 84° E of Baler (Aurora),041,S 84° E,Baler (Aurora)
 2026-08-21T02:11:00.000Z,21 August 2026 - 02:11 AM,12.88,124.30,093,1.7,017km N 82° E of Barcelona (Sorsogon),017,N 82° E,Barcelona (Sorsogon)
 2026-08-21T02:00:00.000Z,21 August 2026 - 02:00 AM,08.89,126.42,029,2.8,013km S 75° E of Cagwait (Surigao Del Sur),013,S 75° E,Cagwait (Surigao Del Sur)
@@ -66,7 +66,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T04:43:00.000Z,20 August 2026 - 04:43 AM,05.61,125.27,023,1.6,024km S 17° E of Glan (Sarangani),024,S 17° E,Glan (Sarangani)
 2026-08-20T04:27:00.000Z,20 August 2026 - 04:27 AM,09.74,126.38,025,2.1,025km S 80° E of General Luna (Surigao Del Norte),025,S 80° E,General Luna (Surigao Del Norte)
 2026-08-20T03:48:00.000Z,20 August 2026 - 03:48 AM,16.37,119.97,059,1.8,008km S 73° E of Bolinao (Pangasinan),008,S 73° E,Bolinao (Pangasinan)
-2026-08-20T03:36:00.000Z,20 August 2026 - 03:36 AM,15.54,119.46,019,2.2,050km N 76° W of Palauig (Zambales),050,N 76° W,Palauig (Zambales)
-2026-08-20T03:29:00.000Z,20 August 2026 - 03:29 AM,07.08,122.05,033,2.0,019km N 08° W of City Of Zamboanga,019,N 08° W,City Of Zamboanga
-2026-08-20T03:26:00.000Z,20 August 2026 - 03:26 AM,03.59,127.35,209,3.0,294km S 47° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),294,S 47° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-20T03:19:00.000Z,20 August 2026 - 03:19 AM,12.30,123.29,029,1.6,009km N 01° E of Mandaon (Masbate),009,N 01° E,Mandaon (Masbate)
