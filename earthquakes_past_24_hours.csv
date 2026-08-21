@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T19:20:00.000Z,21 August 2026 - 07:20 PM,09.32,125.51,010,4.2,002km S 14° W of Jabonga (Agusan Del Norte),002,S 14° W,Jabonga (Agusan Del Norte)
+2026-08-21T19:05:00.000Z,21 August 2026 - 07:05 PM,09.29,125.49,006,2.6,007km S 28° W of Jabonga (Agusan Del Norte),007,S 28° W,Jabonga (Agusan Del Norte)
 2026-08-21T18:35:00.000Z,21 August 2026 - 06:35 PM,09.24,125.45,021,3.1,013km S 31° W of Jabonga (Agusan Del Norte),013,S 31° W,Jabonga (Agusan Del Norte)
 2026-08-21T18:20:00.000Z,21 August 2026 - 06:20 PM,09.30,125.55,004,2.1,006km S 37° E of Jabonga (Agusan Del Norte),006,S 37° E,Jabonga (Agusan Del Norte)
 2026-08-21T18:19:00.000Z,21 August 2026 - 06:19 PM,09.35,125.46,013,2.9,006km N 87° W of Jabonga (Agusan Del Norte),006,N 87° W,Jabonga (Agusan Del Norte)
@@ -81,5 +83,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T20:30:00.000Z,20 August 2026 - 08:30 PM,05.75,125.35,024,2.1,018km S 63° E of Glan (Sarangani),018,S 63° E,Glan (Sarangani)
 2026-08-20T20:27:00.000Z,20 August 2026 - 08:27 PM,05.92,125.37,022,2.2,010km S 59° E of Malapatan (Sarangani),010,S 59° E,Malapatan (Sarangani)
 2026-08-20T19:43:00.000Z,20 August 2026 - 07:43 PM,10.83,124.99,029,1.8,001km West of Macarthur (Leyte),001,West of Macarthur,
-2026-08-20T19:03:00.000Z,20 August 2026 - 07:03 PM,05.97,124.45,027,1.4,011km S 28° W of Maitum (Sarangani),011,S 28° W,Maitum (Sarangani)
-2026-08-20T19:01:00.000Z,20 August 2026 - 07:01 PM,05.70,125.41,011,2.1,026km N 16° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),026,N 16° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
