@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T10:14:00.000Z,21 August 2026 - 10:14 AM,05.60,125.24,020,1.7,025km S 08° E of Glan (Sarangani),025,S 08° E,Glan (Sarangani)
+2026-08-21T10:12:00.000Z,21 August 2026 - 10:12 AM,02.27,128.62,025,4.0,497km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),497,S 46° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-21T09:24:00.000Z,21 August 2026 - 09:24 AM,08.40,126.07,067,1.8,009km N 73° E of Rosario (Agusan Del Sur),009,N 73° E,Rosario (Agusan Del Sur)
+2026-08-21T09:19:00.000Z,21 August 2026 - 09:19 AM,08.24,126.21,050,2.0,012km N 77° W of City Of Bislig (Surigao Del Sur),012,N 77° W,City Of Bislig (Surigao Del Sur)
+2026-08-20T17:33:00.000Z,20 August 2026 - 05:33 PM,05.79,125.25,017,2.5,006km S 58° E of Glan (Sarangani),006,S 58° E,Glan (Sarangani)
 2026-08-21T08:42:00.000Z,21 August 2026 - 08:42 AM,05.40,125.27,020,2.1,016km S 86° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 86° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T08:38:00.000Z,21 August 2026 - 08:38 AM,20.03,121.41,010,2.5,060km S 55° W of Sabtang (Batanes),060,S 55° W,Sabtang (Batanes)
 2026-08-21T07:08:00.000Z,21 August 2026 - 07:08 AM,20.06,121.37,024,2.3,061km S 60° W of Sabtang (Batanes),061,S 60° W,Sabtang (Batanes)
@@ -469,8 +474,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T11:55:00.000Z,14 August 2026 - 11:55 AM,05.99,125.26,009,2.3,004km N 50° W of Malapatan (Sarangani),004,N 50° W,Malapatan (Sarangani)
 2026-08-14T10:52:00.000Z,14 August 2026 - 10:52 AM,08.66,126.59,031,2.2,036km S 64° E of Marihatag (Surigao Del Sur),036,S 64° E,Marihatag (Surigao Del Sur)
 2026-08-14T10:43:00.000Z,14 August 2026 - 10:43 AM,08.54,125.84,004,2.4,010km S 53° W of Prosperidad (Agusan Del Sur),010,S 53° W,Prosperidad (Agusan Del Sur)
-2026-08-14T09:56:00.000Z,14 August 2026 - 09:56 AM,05.84,125.05,025,2.6,006km S 71° E of Maasim (Sarangani),006,S 71° E,Maasim (Sarangani)
-2026-08-14T09:55:00.000Z,14 August 2026 - 09:55 AM,09.57,126.18,031,2.1,024km S 07° E of General Luna (Surigao Del Norte),024,S 07° E,General Luna (Surigao Del Norte)
-2026-08-14T09:39:00.000Z,14 August 2026 - 09:39 AM,13.69,120.89,033,1.9,004km N 36° E of Tingloy (Batangas),004,N 36° E,Tingloy (Batangas)
-2026-08-14T09:14:00.000Z,14 August 2026 - 09:14 AM,05.21,125.07,010,5.2,044km S 60° W of Sarangani (Davao Occidental),044,S 60° W,Sarangani (Davao Occidental)
-2026-08-14T08:50:00.000Z,14 August 2026 - 08:50 AM,06.13,125.90,071,2.5,024km S 72° E of Don Marcelino (Davao Occidental),024,S 72° E,Don Marcelino (Davao Occidental)
