@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T20:27:00.000Z,21 August 2026 - 08:27 PM,08.68,126.13,010,2.2,007km N 37° E of Lianga (Surigao Del Sur),007,N 37° E,Lianga (Surigao Del Sur)
+2026-08-21T20:21:00.000Z,21 August 2026 - 08:21 PM,06.06,125.11,024,1.5,019km S 15° E of Polomolok (South Cotabato),019,S 15° E,Polomolok (South Cotabato)
+2026-08-21T20:19:00.000Z,21 August 2026 - 08:19 PM,05.16,125.23,024,2.7,035km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-21T20:14:00.000Z,21 August 2026 - 08:14 PM,09.33,125.45,012,2.8,007km S 82° W of Jabonga (Agusan Del Norte),007,S 82° W,Jabonga (Agusan Del Norte)
+2026-08-21T20:05:00.000Z,21 August 2026 - 08:05 PM,09.26,125.48,011,2.0,010km S 23° W of Jabonga (Agusan Del Norte),010,S 23° W,Jabonga (Agusan Del Norte)
+2026-08-21T19:23:00.000Z,21 August 2026 - 07:23 PM,09.28,125.50,010,2.5,007km S 14° W of Jabonga (Agusan Del Norte),007,S 14° W,Jabonga (Agusan Del Norte)
 2026-08-21T19:20:00.000Z,21 August 2026 - 07:20 PM,09.32,125.51,010,4.2,002km S 14° W of Jabonga (Agusan Del Norte),002,S 14° W,Jabonga (Agusan Del Norte)
 2026-08-21T19:05:00.000Z,21 August 2026 - 07:05 PM,09.29,125.49,006,2.6,007km S 28° W of Jabonga (Agusan Del Norte),007,S 28° W,Jabonga (Agusan Del Norte)
 2026-08-21T18:35:00.000Z,21 August 2026 - 06:35 PM,09.24,125.45,021,3.1,013km S 31° W of Jabonga (Agusan Del Norte),013,S 31° W,Jabonga (Agusan Del Norte)
@@ -480,5 +486,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T21:31:00.000Z,14 August 2026 - 09:31 PM,06.58,125.64,026,2.0,019km N 11° E of Malita (Davao Occidental),019,N 11° E,Malita (Davao Occidental)
 2026-08-14T21:01:00.000Z,14 August 2026 - 09:01 PM,05.51,125.01,020,2.0,040km S 03° E of Maasim (Sarangani),040,S 03° E,Maasim (Sarangani)
 2026-08-14T20:49:00.000Z,14 August 2026 - 08:49 PM,08.77,126.55,005,1.7,028km S 82° E of Marihatag (Surigao Del Sur),028,S 82° E,Marihatag (Surigao Del Sur)
-2026-08-14T20:26:00.000Z,14 August 2026 - 08:26 PM,05.20,125.27,018,2.0,029km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 35° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-14T19:56:00.000Z,14 August 2026 - 07:56 PM,04.60,125.45,032,2.9,090km S 02° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),090,S 02° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
