@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-22T05:09:00.000Z,22 August 2026 - 05:09 AM,18.31,120.67,048,3.1,006km S 61° E of Pasuquin (Ilocos Norte),006,S 61° E,Pasuquin (Ilocos Norte)
 2026-08-22T04:28:00.000Z,22 August 2026 - 04:28 AM,05.67,125.35,011,2.2,023km S 44° E of Glan (Sarangani),023,S 44° E,Glan (Sarangani)
 2026-08-22T04:15:00.000Z,22 August 2026 - 04:15 AM,04.55,125.95,135,3.5,112km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),112,S 31° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-22T03:30:00.000Z,22 August 2026 - 03:30 AM,11.56,125.13,031,1.7,014km S 59° E of Calbiga (Samar),014,S 59° E,Calbiga (Samar)
@@ -61,6 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-21T06:50:00.000Z,21 August 2026 - 06:50 AM,06.65,125.74,029,1.5,030km N 30° E of Malita (Davao Occidental),030,N 30° E,Malita (Davao Occidental)
 2026-08-21T05:56:00.000Z,21 August 2026 - 05:56 AM,05.76,125.03,030,2.1,012km S 21° E of Maasim (Sarangani),012,S 21° E,Maasim (Sarangani)
 2026-08-21T05:46:00.000Z,21 August 2026 - 05:46 AM,05.32,126.65,049,2.7,129km S 60° E of Jose Abad Santos (Davao Occidental),129,S 60° E,Jose Abad Santos (Davao Occidental)
-2026-08-21T05:03:00.000Z,21 August 2026 - 05:03 AM,08.89,126.22,031,2.2,010km S 72° W of Cagwait (Surigao Del Sur),010,S 72° W,Cagwait (Surigao Del Sur)
-2026-08-21T04:58:00.000Z,21 August 2026 - 04:58 AM,06.62,126.40,049,1.9,036km S 84° E of Governor Generoso (Davao Oriental),036,S 84° E,Governor Generoso (Davao Oriental)
-2026-08-21T04:40:00.000Z,21 August 2026 - 04:40 AM,05.63,125.33,021,2.1,023km N 42° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 42° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
