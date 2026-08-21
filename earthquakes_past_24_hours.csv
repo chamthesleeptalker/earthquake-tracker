@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T13:46:00.000Z,21 August 2026 - 01:46 PM,05.25,125.24,034,3.3,027km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T13:01:00.000Z,21 August 2026 - 01:01 PM,04.79,125.14,033,2.2,075km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),075,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T12:43:00.000Z,21 August 2026 - 12:43 PM,19.30,120.78,002,2.4,050km N 65° W of Dalupiri Island (Calayan) (Cagayan),050,N 65° W,Dalupiri Island (Calayan) (Cagayan)
 2026-08-21T12:41:00.000Z,21 August 2026 - 12:41 PM,05.36,125.95,014,2.7,055km S 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),055,S 77° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -78,4 +79,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T15:58:00.000Z,20 August 2026 - 03:58 PM,03.86,126.81,035,3.9,230km S 42° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),230,S 42° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-20T14:42:00.000Z,20 August 2026 - 02:42 PM,10.09,125.79,019,1.4,022km N 84° E of Basilisa (Dinagat Islands),022,N 84° E,Basilisa (Dinagat Islands)
 2026-08-20T14:19:00.000Z,20 August 2026 - 02:19 PM,10.95,124.03,024,1.9,013km S 29° E of City Of Bogo (Cebu),013,S 29° E,City Of Bogo (Cebu)
-2026-08-20T13:17:00.000Z,20 August 2026 - 01:17 PM,10.05,126.05,026,1.5,004km N 38° W of Burgos (Surigao Del Norte),004,N 38° W,Burgos (Surigao Del Norte)
