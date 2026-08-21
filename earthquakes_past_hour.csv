@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T14:45:00.000Z,21 August 2026 - 02:45 PM,17.38,122.65,010,2.7,038km N 82° E of Divilacan (Isabela),038,N 82° E,Divilacan (Isabela)
+2026-08-21T14:29:00.000Z,21 August 2026 - 02:29 PM,05.77,125.27,030,1.6,009km S 54° E of Glan (Sarangani),009,S 54° E,Glan (Sarangani)
+2026-08-21T14:19:00.000Z,21 August 2026 - 02:19 PM,09.34,125.49,016,2.4,003km S 80° W of Jabonga (Agusan Del Norte),003,S 80° W,Jabonga (Agusan Del Norte)
+2026-08-21T14:08:00.000Z,21 August 2026 - 02:08 PM,05.36,125.20,016,1.9,026km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T13:46:00.000Z,21 August 2026 - 01:46 PM,05.25,125.24,034,3.3,027km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-21T13:01:00.000Z,21 August 2026 - 01:01 PM,04.79,125.14,033,2.2,075km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),075,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
