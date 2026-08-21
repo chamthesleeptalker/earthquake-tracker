@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-22T06:01:00.000Z,22 August 2026 - 06:01 AM,06.90,125.71,036,2.0,020km S 01° W of Island Garden City Of Samal (Davao Del Norte),020,S 01° W,Island Garden City Of Samal (Davao Del Norte)
 2026-08-22T05:37:00.000Z,22 August 2026 - 05:37 AM,12.28,125.15,033,2.8,009km S 83° W of Jipapad (Eastern Samar),009,S 83° W,Jipapad (Eastern Samar)
 2026-08-22T05:09:00.000Z,22 August 2026 - 05:09 AM,18.31,120.67,048,3.1,006km S 61° E of Pasuquin (Ilocos Norte),006,S 61° E,Pasuquin (Ilocos Norte)
 2026-08-22T04:28:00.000Z,22 August 2026 - 04:28 AM,05.67,125.35,011,2.2,023km S 44° E of Glan (Sarangani),023,S 44° E,Glan (Sarangani)
@@ -465,6 +466,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-15T07:38:00.000Z,15 August 2026 - 07:38 AM,04.68,125.19,033,3.8,085km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),085,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T06:28:00.000Z,15 August 2026 - 06:28 AM,17.65,120.48,004,2.3,007km S 58° E of Magsingal (Ilocos Sur),007,S 58° E,Magsingal (Ilocos Sur)
 2026-08-15T06:23:00.000Z,15 August 2026 - 06:23 AM,17.67,120.42,037,2.0,002km S 10° W of Magsingal (Ilocos Sur),002,S 10° W,Magsingal (Ilocos Sur)
-2026-08-15T05:57:00.000Z,15 August 2026 - 05:57 AM,17.69,120.49,026,3.2,007km N 81° E of Magsingal (Ilocos Sur),007,N 81° E,Magsingal (Ilocos Sur)
-2026-08-15T05:38:00.000Z,15 August 2026 - 05:38 AM,07.07,126.67,141,2.2,021km S 45° E of Manay (Davao Oriental),021,S 45° E,Manay (Davao Oriental)
-2026-08-15T05:37:00.000Z,15 August 2026 - 05:37 AM,14.83,122.55,010,2.2,027km N 58° E of Jomalig (Quezon),027,N 58° E,Jomalig (Quezon)
