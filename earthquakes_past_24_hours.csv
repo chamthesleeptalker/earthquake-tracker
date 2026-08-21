@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T17:22:00.000Z,21 August 2026 - 05:22 PM,09.31,125.50,010,4.9,004km S 26° W of Jabonga (Agusan Del Norte),004,S 26° W,Jabonga (Agusan Del Norte)
+2026-08-21T17:12:00.000Z,21 August 2026 - 05:12 PM,09.37,125.45,010,5.1,007km N 67° W of Jabonga (Agusan Del Norte),007,N 67° W,Jabonga (Agusan Del Norte)
+2026-08-21T17:10:00.000Z,21 August 2026 - 05:10 PM,11.20,124.65,031,2.3,010km S 06° E of Capoocan (Leyte),010,S 06° E,Capoocan (Leyte)
 2026-08-21T15:55:00.000Z,21 August 2026 - 03:55 PM,05.71,125.29,033,1.6,015km S 37° E of Glan (Sarangani),015,S 37° E,Glan (Sarangani)
 2026-08-21T15:46:00.000Z,21 August 2026 - 03:46 PM,13.22,124.81,003,1.8,068km S 45° E of Baras (Catanduanes),068,S 45° E,Baras (Catanduanes)
 2026-08-21T15:39:00.000Z,21 August 2026 - 03:39 PM,05.54,125.20,034,1.9,028km N 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -78,9 +81,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T18:23:00.000Z,20 August 2026 - 06:23 PM,05.91,125.34,025,1.8,009km S 39° E of Malapatan (Sarangani),009,S 39° E,Malapatan (Sarangani)
 2026-08-20T17:49:00.000Z,20 August 2026 - 05:49 PM,18.26,120.97,004,1.9,008km N 85° W of Calanasan (Apayao),008,N 85° W,Calanasan (Apayao)
 2026-08-20T17:32:00.000Z,20 August 2026 - 05:32 PM,05.55,125.19,039,2.5,030km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-20T17:15:00.000Z,20 August 2026 - 05:15 PM,03.95,124.67,303,3.3,182km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),182,S 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-20T17:01:00.000Z,20 August 2026 - 05:01 PM,06.54,126.41,040,2.9,040km S 71° E of Governor Generoso (Davao Oriental),040,S 71° E,Governor Generoso (Davao Oriental)
-2026-08-20T16:55:00.000Z,20 August 2026 - 04:55 PM,08.79,126.22,032,1.6,005km North of San Agustin (Surigao Del Sur),005,North of San,(Surigao Del Sur)
-2026-08-20T16:48:00.000Z,20 August 2026 - 04:48 PM,05.77,125.21,020,1.6,006km S 06° E of Glan (Sarangani),006,S 06° E,Glan (Sarangani)
-2026-08-20T16:06:00.000Z,20 August 2026 - 04:06 PM,05.52,125.24,027,3.4,023km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-20T15:58:00.000Z,20 August 2026 - 03:58 PM,03.86,126.81,035,3.9,230km S 42° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),230,S 42° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
