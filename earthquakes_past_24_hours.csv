@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T10:41:00.000Z,21 August 2026 - 10:41 AM,21.54,122.16,033,2.7,089km N 22° E of Itbayat (Batanes),089,N 22° E,Itbayat (Batanes)
 2026-08-21T10:14:00.000Z,21 August 2026 - 10:14 AM,05.60,125.24,020,1.7,025km S 08° E of Glan (Sarangani),025,S 08° E,Glan (Sarangani)
 2026-08-21T10:12:00.000Z,21 August 2026 - 10:12 AM,02.27,128.62,025,4.0,497km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),497,S 46° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T09:24:00.000Z,21 August 2026 - 09:24 AM,08.40,126.07,067,1.8,009km N 73° E of Rosario (Agusan Del Sur),009,N 73° E,Rosario (Agusan Del Sur)
@@ -71,4 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T14:42:00.000Z,20 August 2026 - 02:42 PM,10.09,125.79,019,1.4,022km N 84° E of Basilisa (Dinagat Islands),022,N 84° E,Basilisa (Dinagat Islands)
 2026-08-20T14:19:00.000Z,20 August 2026 - 02:19 PM,10.95,124.03,024,1.9,013km S 29° E of City Of Bogo (Cebu),013,S 29° E,City Of Bogo (Cebu)
 2026-08-20T13:17:00.000Z,20 August 2026 - 01:17 PM,10.05,126.05,026,1.5,004km N 38° W of Burgos (Surigao Del Norte),004,N 38° W,Burgos (Surigao Del Norte)
-2026-08-20T10:14:00.000Z,20 August 2026 - 10:14 AM,05.85,125.36,012,1.9,016km S 29° E of Malapatan (Sarangani),016,S 29° E,Malapatan (Sarangani)
