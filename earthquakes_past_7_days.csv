@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-22T02:18:00.000Z,22 August 2026 - 02:18 AM,06.35,125.74,105,2.7,016km S 63° E of Malita (Davao Occidental),016,S 63° E,Malita (Davao Occidental)
+2026-08-22T02:04:00.000Z,22 August 2026 - 02:04 AM,05.94,125.41,004,3.3,014km S 76° E of Malapatan (Sarangani),014,S 76° E,Malapatan (Sarangani)
+2026-08-22T01:48:00.000Z,22 August 2026 - 01:48 AM,08.37,123.26,027,2.3,016km S 11° W of Katipunan (Zamboanga Del Norte),016,S 11° W,Katipunan (Zamboanga Del Norte)
 2026-08-22T01:44:00.000Z,22 August 2026 - 01:44 AM,05.58,125.33,006,3.4,020km N 53° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 53° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-22T01:39:00.000Z,22 August 2026 - 01:39 AM,17.40,122.80,032,2.9,054km N 82° E of Divilacan (Isabela),054,N 82° E,Divilacan (Isabela)
 2026-08-21T23:04:00.000Z,21 August 2026 - 11:04 PM,16.14,122.08,015,2.4,013km N 90° E of Dinalungan (Aurora),013,N 90° E,Dinalungan (Aurora)
@@ -469,5 +472,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-15T02:39:00.000Z,15 August 2026 - 02:39 AM,05.40,125.41,020,2.2,002km S 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),002,S 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-15T02:32:00.000Z,15 August 2026 - 02:32 AM,16.41,122.01,003,2.0,019km N 40° W of Casiguran (Aurora),019,N 40° W,Casiguran (Aurora)
 2026-08-15T02:23:00.000Z,15 August 2026 - 02:23 AM,16.45,119.77,024,3.1,015km N 63° W of Bolinao (Pangasinan),015,N 63° W,Bolinao (Pangasinan)
-2026-08-15T02:03:00.000Z,15 August 2026 - 02:03 AM,04.04,128.43,010,4.9,364km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),364,S 64° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-15T01:50:00.000Z,15 August 2026 - 01:50 AM,10.39,126.33,006,2.0,050km N 34° E of Burgos (Surigao Del Norte),050,N 34° E,Burgos (Surigao Del Norte)
