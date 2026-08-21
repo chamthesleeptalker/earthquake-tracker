@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-21T18:35:00.000Z,21 August 2026 - 06:35 PM,09.24,125.45,021,3.1,013km S 31° W of Jabonga (Agusan Del Norte),013,S 31° W,Jabonga (Agusan Del Norte)
+2026-08-21T18:20:00.000Z,21 August 2026 - 06:20 PM,09.30,125.55,004,2.1,006km S 37° E of Jabonga (Agusan Del Norte),006,S 37° E,Jabonga (Agusan Del Norte)
+2026-08-21T18:19:00.000Z,21 August 2026 - 06:19 PM,09.35,125.46,013,2.9,006km N 87° W of Jabonga (Agusan Del Norte),006,N 87° W,Jabonga (Agusan Del Norte)
 2026-08-21T18:13:00.000Z,21 August 2026 - 06:13 PM,09.32,125.48,010,4.2,004km S 57° W of Jabonga (Agusan Del Norte),004,S 57° W,Jabonga (Agusan Del Norte)
 2026-08-21T18:05:00.000Z,21 August 2026 - 06:05 PM,09.37,125.49,012,2.6,005km N 44° W of Jabonga (Agusan Del Norte),005,N 44° W,Jabonga (Agusan Del Norte)
 2026-08-21T17:28:00.000Z,21 August 2026 - 05:28 PM,09.29,125.48,009,2.5,007km S 37° W of Jabonga (Agusan Del Norte),007,S 37° W,Jabonga (Agusan Del Norte)
@@ -479,4 +482,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-14T19:56:00.000Z,14 August 2026 - 07:56 PM,04.60,125.45,032,2.9,090km S 02° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),090,S 02° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-14T19:08:00.000Z,14 August 2026 - 07:08 PM,14.78,119.57,029,2.4,058km S 71° W of San Antonio (Zambales),058,S 71° W,San Antonio (Zambales)
 2026-08-14T19:00:00.000Z,14 August 2026 - 07:00 PM,05.30,125.37,020,2.2,014km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 23° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-14T18:13:00.000Z,14 August 2026 - 06:13 PM,05.38,125.32,066,2.8,011km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
