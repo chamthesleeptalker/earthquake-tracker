@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-22T18:39:00.000Z,22 August 2026 - 06:39 PM,12.93,123.11,026,1.7,015km N 80° W of Claveria (Masbate),015,N 80° W,Claveria (Masbate)
+2026-08-22T18:15:00.000Z,22 August 2026 - 06:15 PM,17.40,122.73,018,2.3,047km N 81° E of Divilacan (Isabela),047,N 81° E,Divilacan (Isabela)
 2026-08-22T17:52:00.000Z,22 August 2026 - 05:52 PM,04.77,125.48,033,2.4,072km S 05° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 05° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-22T17:47:00.000Z,22 August 2026 - 05:47 PM,17.46,122.76,027,1.9,051km N 74° E of Divilacan (Isabela),051,N 74° E,Divilacan (Isabela)
 2026-08-22T17:43:00.000Z,22 August 2026 - 05:43 PM,09.93,122.23,012,2.5,028km N 52° W of City Of Sipalay (Negros Occidental),028,N 52° W,City Of Sipalay (Negros Occidental)
@@ -75,8 +77,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-21T19:23:00.000Z,21 August 2026 - 07:23 PM,09.28,125.50,010,2.5,007km S 14° W of Jabonga (Agusan Del Norte),007,S 14° W,Jabonga (Agusan Del Norte)
 2026-08-21T19:20:00.000Z,21 August 2026 - 07:20 PM,09.32,125.51,010,4.2,002km S 14° W of Jabonga (Agusan Del Norte),002,S 14° W,Jabonga (Agusan Del Norte)
 2026-08-21T19:05:00.000Z,21 August 2026 - 07:05 PM,09.29,125.49,006,2.6,007km S 28° W of Jabonga (Agusan Del Norte),007,S 28° W,Jabonga (Agusan Del Norte)
-2026-08-21T18:35:00.000Z,21 August 2026 - 06:35 PM,09.24,125.45,021,3.1,013km S 31° W of Jabonga (Agusan Del Norte),013,S 31° W,Jabonga (Agusan Del Norte)
-2026-08-21T18:20:00.000Z,21 August 2026 - 06:20 PM,09.30,125.55,004,2.1,006km S 37° E of Jabonga (Agusan Del Norte),006,S 37° E,Jabonga (Agusan Del Norte)
-2026-08-21T18:19:00.000Z,21 August 2026 - 06:19 PM,09.35,125.46,013,2.9,006km N 87° W of Jabonga (Agusan Del Norte),006,N 87° W,Jabonga (Agusan Del Norte)
-2026-08-21T18:13:00.000Z,21 August 2026 - 06:13 PM,09.32,125.48,010,4.2,004km S 57° W of Jabonga (Agusan Del Norte),004,S 57° W,Jabonga (Agusan Del Norte)
-2026-08-21T18:05:00.000Z,21 August 2026 - 06:05 PM,09.37,125.49,012,2.6,005km N 44° W of Jabonga (Agusan Del Norte),005,N 44° W,Jabonga (Agusan Del Norte)
