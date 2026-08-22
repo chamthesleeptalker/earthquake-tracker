@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T04:49:00.000Z,23 August 2026 - 04:49 AM,16.83,119.55,002,3.2,061km N 37° W of Bolinao (Pangasinan),061,N 37° W,Bolinao (Pangasinan)
+2026-08-23T04:43:00.000Z,23 August 2026 - 04:43 AM,04.98,125.23,026,3.4,053km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),053,S 24° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T04:39:00.000Z,23 August 2026 - 04:39 AM,08.71,125.60,020,1.5,003km S 12° W of Las Nieves (Agusan Del Norte),003,S 12° W,Las Nieves (Agusan Del Norte)
 2026-08-23T04:23:00.000Z,23 August 2026 - 04:23 AM,12.00,121.48,032,1.6,010km N 48° W of Caluya (Antique),010,N 48° W,Caluya (Antique)
 2026-08-23T04:16:00.000Z,23 August 2026 - 04:16 AM,05.90,125.36,021,1.4,011km S 48° E of Malapatan (Sarangani),011,S 48° E,Malapatan (Sarangani)
@@ -511,5 +513,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-16T04:53:00.000Z,16 August 2026 - 04:53 AM,05.28,125.24,033,1.5,025km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T04:52:00.000Z,16 August 2026 - 04:52 AM,13.57,121.30,007,2.4,013km S 49° E of Lobo (Batangas),013,S 49° E,Lobo (Batangas)
 2026-08-16T04:51:00.000Z,16 August 2026 - 04:51 AM,07.08,125.39,012,2.5,027km N 06° W of Santa Cruz (Davao Del Sur),027,N 06° W,Santa Cruz (Davao Del Sur)
-2026-08-16T04:47:00.000Z,16 August 2026 - 04:47 AM,11.71,125.52,014,2.4,009km S 55° E of San Julian (Eastern Samar),009,S 55° E,San Julian (Eastern Samar)
-2026-08-16T04:41:00.000Z,16 August 2026 - 04:41 AM,06.29,127.29,148,2.7,125km S 48° E of Tarragona (Davao Oriental),125,S 48° E,Tarragona (Davao Oriental)
