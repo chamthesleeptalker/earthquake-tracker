@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-22T16:09:00.000Z,22 August 2026 - 04:09 PM,06.58,125.24,024,2.4,005km S 21° W of Kiblawan (Davao Del Sur),005,S 21° W,Kiblawan (Davao Del Sur)
+2026-08-22T16:05:00.000Z,22 August 2026 - 04:05 PM,08.85,125.58,034,1.6,013km N 13° W of Las Nieves (Agusan Del Norte),013,N 13° W,Las Nieves (Agusan Del Norte)
+2026-08-22T15:57:00.000Z,22 August 2026 - 03:57 PM,06.58,125.25,024,2.6,005km S 03° W of Kiblawan (Davao Del Sur),005,S 03° W,Kiblawan (Davao Del Sur)
+2026-08-22T15:53:00.000Z,22 August 2026 - 03:53 PM,11.79,125.37,030,2.0,010km N 69° W of San Julian (Eastern Samar),010,N 69° W,San Julian (Eastern Samar)
 2026-08-22T15:20:00.000Z,22 August 2026 - 03:20 PM,09.32,125.56,035,2.0,005km S 65° E of Jabonga (Agusan Del Norte),005,S 65° E,Jabonga (Agusan Del Norte)
 2026-08-22T14:57:00.000Z,22 August 2026 - 02:57 PM,05.79,125.31,007,1.6,012km S 71° E of Glan (Sarangani),012,S 71° E,Glan (Sarangani)
 2026-08-22T14:52:00.000Z,22 August 2026 - 02:52 PM,05.87,125.35,002,3.0,017km N 72° E of Glan (Sarangani),017,N 72° E,Glan (Sarangani)
@@ -485,5 +489,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-15T18:34:00.000Z,15 August 2026 - 06:34 PM,18.19,122.08,016,1.9,012km S 46° E of Gonzaga (Cagayan),012,S 46° E,Gonzaga (Cagayan)
 2026-08-15T16:43:00.000Z,15 August 2026 - 04:43 PM,05.79,125.43,023,1.4,025km S 81° E of Glan (Sarangani),025,S 81° E,Glan (Sarangani)
 2026-08-15T16:12:00.000Z,15 August 2026 - 04:12 PM,08.41,123.35,023,1.5,013km S 30° E of Katipunan (Zamboanga Del Norte),013,S 30° E,Katipunan (Zamboanga Del Norte)
-2026-08-15T15:49:00.000Z,15 August 2026 - 03:49 PM,05.65,125.13,017,1.5,021km S 23° W of Glan (Sarangani),021,S 23° W,Glan (Sarangani)
-2026-08-15T15:44:00.000Z,15 August 2026 - 03:44 PM,13.15,120.43,032,1.4,020km S 63° W of Mamburao (Occidental Mindoro),020,S 63° W,Mamburao (Occidental Mindoro)

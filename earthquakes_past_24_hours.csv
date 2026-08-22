@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-22T16:09:00.000Z,22 August 2026 - 04:09 PM,06.58,125.24,024,2.4,005km S 21° W of Kiblawan (Davao Del Sur),005,S 21° W,Kiblawan (Davao Del Sur)
+2026-08-22T16:05:00.000Z,22 August 2026 - 04:05 PM,08.85,125.58,034,1.6,013km N 13° W of Las Nieves (Agusan Del Norte),013,N 13° W,Las Nieves (Agusan Del Norte)
+2026-08-22T15:57:00.000Z,22 August 2026 - 03:57 PM,06.58,125.25,024,2.6,005km S 03° W of Kiblawan (Davao Del Sur),005,S 03° W,Kiblawan (Davao Del Sur)
+2026-08-22T15:53:00.000Z,22 August 2026 - 03:53 PM,11.79,125.37,030,2.0,010km N 69° W of San Julian (Eastern Samar),010,N 69° W,San Julian (Eastern Samar)
 2026-08-22T15:20:00.000Z,22 August 2026 - 03:20 PM,09.32,125.56,035,2.0,005km S 65° E of Jabonga (Agusan Del Norte),005,S 65° E,Jabonga (Agusan Del Norte)
 2026-08-22T14:57:00.000Z,22 August 2026 - 02:57 PM,05.79,125.31,007,1.6,012km S 71° E of Glan (Sarangani),012,S 71° E,Glan (Sarangani)
 2026-08-22T14:52:00.000Z,22 August 2026 - 02:52 PM,05.87,125.35,002,3.0,017km N 72° E of Glan (Sarangani),017,N 72° E,Glan (Sarangani)
@@ -74,6 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-21T17:22:00.000Z,21 August 2026 - 05:22 PM,09.31,125.50,010,4.9,004km S 26° W of Jabonga (Agusan Del Norte),004,S 26° W,Jabonga (Agusan Del Norte)
 2026-08-21T17:12:00.000Z,21 August 2026 - 05:12 PM,09.37,125.45,010,5.1,007km N 67° W of Jabonga (Agusan Del Norte),007,N 67° W,Jabonga (Agusan Del Norte)
 2026-08-21T17:10:00.000Z,21 August 2026 - 05:10 PM,11.20,124.65,031,2.3,010km S 06° E of Capoocan (Leyte),010,S 06° E,Capoocan (Leyte)
-2026-08-21T15:55:00.000Z,21 August 2026 - 03:55 PM,05.71,125.29,033,1.6,015km S 37° E of Glan (Sarangani),015,S 37° E,Glan (Sarangani)
-2026-08-21T15:46:00.000Z,21 August 2026 - 03:46 PM,13.22,124.81,003,1.8,068km S 45° E of Baras (Catanduanes),068,S 45° E,Baras (Catanduanes)
-2026-08-21T15:39:00.000Z,21 August 2026 - 03:39 PM,05.54,125.20,034,1.9,028km N 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 60° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
