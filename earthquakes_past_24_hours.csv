@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T00:50:00.000Z,23 August 2026 - 12:50 AM,09.38,125.48,004,2.6,005km N 44° W of Jabonga (Agusan Del Norte),005,N 44° W,Jabonga (Agusan Del Norte)
+2026-08-23T00:46:00.000Z,23 August 2026 - 12:46 AM,09.28,125.52,018,2.2,007km S 07° E of Jabonga (Agusan Del Norte),007,S 07° E,Jabonga (Agusan Del Norte)
+2026-08-23T00:44:00.000Z,23 August 2026 - 12:44 AM,19.33,121.24,025,2.5,025km N 08° E of Dalupiri Island (Calayan) (Cagayan),025,N 08° E,Dalupiri Island (Calayan) (Cagayan)
 2026-08-23T00:43:00.000Z,23 August 2026 - 12:43 AM,05.60,125.34,019,1.6,020km N 46° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 46° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T00:38:00.000Z,23 August 2026 - 12:38 AM,07.23,125.97,023,2.0,014km N 35° E of Pantukan (Davao De Oro),014,N 35° E,Pantukan (Davao De Oro)
 2026-08-23T00:25:00.000Z,23 August 2026 - 12:25 AM,10.01,126.08,033,2.2,001km S 32° E of Burgos (Surigao Del Norte),001,S 32° E,Burgos (Surigao Del Norte)
