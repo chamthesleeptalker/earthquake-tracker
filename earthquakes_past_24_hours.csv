@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T03:12:00.000Z,23 August 2026 - 03:12 AM,05.73,126.03,032,2.5,048km S 64° E of Jose Abad Santos (Davao Occidental),048,S 64° E,Jose Abad Santos (Davao Occidental)
+2026-08-23T02:53:00.000Z,23 August 2026 - 02:53 AM,07.98,126.70,024,1.7,032km S 78° E of Lingig (Surigao Del Sur),032,S 78° E,Lingig (Surigao Del Sur)
 2026-08-23T02:28:00.000Z,23 August 2026 - 02:28 AM,05.45,125.55,011,1.9,009km S 71° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,S 71° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T02:28:00.000Z,23 August 2026 - 02:28 AM,13.78,120.62,124,1.8,006km S 15° W of Calatagan (Batangas),006,S 15° W,Calatagan (Batangas)
 2026-08-23T02:19:00.000Z,23 August 2026 - 02:19 AM,05.15,125.40,027,1.8,029km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -96,8 +98,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-22T03:30:00.000Z,22 August 2026 - 03:30 AM,11.56,125.13,031,1.7,014km S 59° E of Calbiga (Samar),014,S 59° E,Calbiga (Samar)
 2026-08-22T03:28:00.000Z,22 August 2026 - 03:28 AM,11.60,125.18,023,2.0,016km S 48° E of Hinabangan (Samar),016,S 48° E,Hinabangan (Samar)
 2026-08-22T03:25:00.000Z,22 August 2026 - 03:25 AM,05.81,125.14,064,1.9,007km S 82° W of Glan (Sarangani),007,S 82° W,Glan (Sarangani)
-2026-08-22T03:05:00.000Z,22 August 2026 - 03:05 AM,11.98,125.35,031,2.3,011km S 81° W of Can-avid (Eastern Samar),011,S 81° W,Can-avid (Eastern Samar)
-2026-08-22T03:04:00.000Z,22 August 2026 - 03:04 AM,19.09,121.12,013,2.3,009km S 76° W of Dalupiri Island (Calayan) (Cagayan),009,S 76° W,Dalupiri Island (Calayan) (Cagayan)
-2026-08-22T02:54:00.000Z,22 August 2026 - 02:54 AM,12.80,123.07,004,3.4,022km S 59° W of Claveria (Masbate),022,S 59° W,Claveria (Masbate)
-2026-08-22T02:54:00.000Z,22 August 2026 - 02:54 AM,19.57,120.64,021,3.1,078km N 49° W of Dalupiri Island (Calayan) (Cagayan),078,N 49° W,Dalupiri Island (Calayan) (Cagayan)
-2026-08-22T02:31:00.000Z,22 August 2026 - 02:31 AM,18.53,122.48,018,2.5,037km N 77° E of Santa Ana (Cagayan),037,N 77° E,Santa Ana (Cagayan)
