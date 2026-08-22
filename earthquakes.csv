@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-22T11:20:00.000Z,22 August 2026 - 11:20 AM,13.61,120.24,021,2.0,012km S 03° W of Looc (Occidental Mindoro),012,S 03° W,Looc (Occidental Mindoro)
+2026-08-22T10:48:00.000Z,22 August 2026 - 10:48 AM,16.80,121.36,033,1.6,015km N 04° W of Diadi (Nueva Vizcaya),015,N 04° W,Diadi (Nueva Vizcaya)
+2026-08-22T10:45:00.000Z,22 August 2026 - 10:45 AM,05.82,125.28,021,1.6,008km N 88° E of Glan (Sarangani),008,N 88° E,Glan (Sarangani)
+2026-08-21T11:44:00.000Z,21 August 2026 - 11:44 AM,15.98,122.40,008,2.8,044km S 41° E of Casiguran (Aurora),044,S 41° E,Casiguran (Aurora)
 2026-08-22T10:24:00.000Z,22 August 2026 - 10:24 AM,05.75,125.19,034,1.5,008km S 13° W of Glan (Sarangani),008,S 13° W,Glan (Sarangani)
 2026-08-22T10:26:00.000Z,22 August 2026 - 10:26 AM,13.40,120.08,010,4.1,039km S 28° W of Looc (Occidental Mindoro),039,S 28° W,Looc (Occidental Mindoro)
 2026-08-22T10:22:00.000Z,22 August 2026 - 10:22 AM,18.42,120.91,011,2.4,005km S 14° E of Adams (Ilocos Norte),005,S 14° E,Adams (Ilocos Norte)
