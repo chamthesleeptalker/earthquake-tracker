@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T04:10:00.000Z,23 August 2026 - 04:10 AM,14.38,123.98,004,1.7,043km N 29° W of Pandan (Catanduanes),043,N 29° W,Pandan (Catanduanes)
+2026-08-23T04:06:00.000Z,23 August 2026 - 04:06 AM,12.69,126.00,033,1.8,078km N 43° E of San Policarpo (Eastern Samar),078,N 43° E,San Policarpo (Eastern Samar)
+2026-08-23T03:53:00.000Z,23 August 2026 - 03:53 AM,05.32,125.24,033,2.2,015km N 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,N 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T03:49:00.000Z,23 August 2026 - 03:49 AM,06.41,126.24,029,1.9,033km S 35° E of Governor Generoso (Davao Oriental),033,S 35° E,Governor Generoso (Davao Oriental)
+2026-08-23T03:47:00.000Z,23 August 2026 - 03:47 AM,06.47,126.22,025,3.1,027km S 39° E of Governor Generoso (Davao Oriental),027,S 39° E,Governor Generoso (Davao Oriental)
+2026-08-23T03:45:00.000Z,23 August 2026 - 03:45 AM,05.87,125.27,030,1.6,009km N 53° E of Glan (Sarangani),009,N 53° E,Glan (Sarangani)
 2026-08-23T03:28:00.000Z,23 August 2026 - 03:28 AM,06.56,125.93,007,1.8,019km S 57° W of Governor Generoso (Davao Oriental),019,S 57° W,Governor Generoso (Davao Oriental)
 2026-08-23T03:27:00.000Z,23 August 2026 - 03:27 AM,16.40,121.20,022,1.6,010km N 81° E of Bambang (Nueva Vizcaya),010,N 81° E,Bambang (Nueva Vizcaya)
 2026-08-23T03:12:00.000Z,23 August 2026 - 03:12 AM,05.73,126.03,032,2.5,048km S 64° E of Jose Abad Santos (Davao Occidental),048,S 64° E,Jose Abad Santos (Davao Occidental)
@@ -97,5 +103,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-22T05:09:00.000Z,22 August 2026 - 05:09 AM,18.31,120.67,048,3.1,006km S 61° E of Pasuquin (Ilocos Norte),006,S 61° E,Pasuquin (Ilocos Norte)
 2026-08-22T04:28:00.000Z,22 August 2026 - 04:28 AM,05.67,125.35,011,2.2,023km S 44° E of Glan (Sarangani),023,S 44° E,Glan (Sarangani)
 2026-08-22T04:15:00.000Z,22 August 2026 - 04:15 AM,04.55,125.95,135,3.5,112km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),112,S 31° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-22T03:30:00.000Z,22 August 2026 - 03:30 AM,11.56,125.13,031,1.7,014km S 59° E of Calbiga (Samar),014,S 59° E,Calbiga (Samar)
-2026-08-22T03:28:00.000Z,22 August 2026 - 03:28 AM,11.60,125.18,023,2.0,016km S 48° E of Hinabangan (Samar),016,S 48° E,Hinabangan (Samar)
