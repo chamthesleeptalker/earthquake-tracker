@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T02:19:00.000Z,23 August 2026 - 02:19 AM,05.15,125.40,027,1.8,029km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 05° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T01:58:00.000Z,23 August 2026 - 01:58 AM,12.87,123.09,010,1.6,018km S 79° W of Claveria (Masbate),018,S 79° W,Claveria (Masbate)
+2026-08-23T01:50:00.000Z,23 August 2026 - 01:50 AM,05.60,125.34,020,1.5,020km N 45° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 45° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T01:48:00.000Z,23 August 2026 - 01:48 AM,05.33,125.18,007,1.7,028km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T01:39:00.000Z,23 August 2026 - 01:39 AM,06.61,126.16,032,2.2,010km S 65° E of Governor Generoso (Davao Oriental),010,S 65° E,Governor Generoso (Davao Oriental)
 2026-08-23T01:16:00.000Z,23 August 2026 - 01:16 AM,15.43,119.91,026,1.5,001km S 15° E of Palauig (Zambales),001,S 15° E,Palauig (Zambales)
 2026-08-23T00:50:00.000Z,23 August 2026 - 12:50 AM,09.38,125.48,004,2.6,005km N 44° W of Jabonga (Agusan Del Norte),005,N 44° W,Jabonga (Agusan Del Norte)
 2026-08-23T00:46:00.000Z,23 August 2026 - 12:46 AM,09.28,125.52,018,2.2,007km S 07° E of Jabonga (Agusan Del Norte),007,S 07° E,Jabonga (Agusan Del Norte)
@@ -94,8 +99,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-22T02:54:00.000Z,22 August 2026 - 02:54 AM,12.80,123.07,004,3.4,022km S 59° W of Claveria (Masbate),022,S 59° W,Claveria (Masbate)
 2026-08-22T02:54:00.000Z,22 August 2026 - 02:54 AM,19.57,120.64,021,3.1,078km N 49° W of Dalupiri Island (Calayan) (Cagayan),078,N 49° W,Dalupiri Island (Calayan) (Cagayan)
 2026-08-22T02:31:00.000Z,22 August 2026 - 02:31 AM,18.53,122.48,018,2.5,037km N 77° E of Santa Ana (Cagayan),037,N 77° E,Santa Ana (Cagayan)
-2026-08-22T02:18:00.000Z,22 August 2026 - 02:18 AM,06.35,125.74,105,2.7,016km S 63° E of Malita (Davao Occidental),016,S 63° E,Malita (Davao Occidental)
-2026-08-22T02:04:00.000Z,22 August 2026 - 02:04 AM,05.94,125.41,004,3.3,014km S 76° E of Malapatan (Sarangani),014,S 76° E,Malapatan (Sarangani)
-2026-08-22T01:48:00.000Z,22 August 2026 - 01:48 AM,08.37,123.26,027,2.3,016km S 11° W of Katipunan (Zamboanga Del Norte),016,S 11° W,Katipunan (Zamboanga Del Norte)
-2026-08-22T01:44:00.000Z,22 August 2026 - 01:44 AM,05.58,125.33,006,3.4,020km N 53° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 53° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-22T01:39:00.000Z,22 August 2026 - 01:39 AM,17.40,122.80,032,2.9,054km N 82° E of Divilacan (Isabela),054,N 82° E,Divilacan (Isabela)
