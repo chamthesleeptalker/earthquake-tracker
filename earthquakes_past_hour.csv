@@ -1,6 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-24T04:55:00.000Z,24 August 2026 - 04:55 AM,19.45,121.30,041,3.1,027km N 41° W of Calayan (Cagayan),027,N 41° W,Calayan (Cagayan)
-2026-08-24T04:31:00.000Z,24 August 2026 - 04:31 AM,09.37,126.89,011,2.5,078km N 83° E of Cortes (Surigao Del Sur),078,N 83° E,Cortes (Surigao Del Sur)
-2026-08-24T04:25:00.000Z,24 August 2026 - 04:25 AM,05.44,126.69,034,3.0,127km S 66° E of Jose Abad Santos (Davao Occidental),127,S 66° E,Jose Abad Santos (Davao Occidental)
-2026-08-24T04:17:00.000Z,24 August 2026 - 04:17 AM,05.77,126.12,088,2.4,055km S 73° E of Jose Abad Santos (Davao Occidental),055,S 73° E,Jose Abad Santos (Davao Occidental)
-2026-08-24T03:55:00.000Z,24 August 2026 - 03:55 AM,07.22,126.36,021,2.0,020km N 88° W of Manay (Davao Oriental),020,N 88° W,Manay (Davao Oriental)
+2026-08-24T06:09:00.000Z,24 August 2026 - 06:09 AM,05.52,125.12,024,2.6,035km N 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,N 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
