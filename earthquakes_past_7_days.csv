@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T04:55:00.000Z,24 August 2026 - 04:55 AM,19.45,121.30,041,3.1,027km N 41° W of Calayan (Cagayan),027,N 41° W,Calayan (Cagayan)
 2026-08-24T04:31:00.000Z,24 August 2026 - 04:31 AM,09.37,126.89,011,2.5,078km N 83° E of Cortes (Surigao Del Sur),078,N 83° E,Cortes (Surigao Del Sur)
 2026-08-24T04:25:00.000Z,24 August 2026 - 04:25 AM,05.44,126.69,034,3.0,127km S 66° E of Jose Abad Santos (Davao Occidental),127,S 66° E,Jose Abad Santos (Davao Occidental)
 2026-08-24T04:17:00.000Z,24 August 2026 - 04:17 AM,05.77,126.12,088,2.4,055km S 73° E of Jose Abad Santos (Davao Occidental),055,S 73° E,Jose Abad Santos (Davao Occidental)
@@ -513,8 +514,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T08:51:00.000Z,17 August 2026 - 08:51 AM,05.13,125.24,026,2.9,037km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-17T07:16:00.000Z,17 August 2026 - 07:16 AM,05.32,125.21,033,2.2,019km N 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-17T05:20:00.000Z,17 August 2026 - 05:20 AM,09.61,126.02,033,1.7,006km S 76° E of Socorro (Surigao Del Norte),006,S 76° E,Socorro (Surigao Del Norte)
-2026-08-17T04:51:00.000Z,17 August 2026 - 04:51 AM,16.50,119.24,003,2.7,071km N 80° W of Bolinao (Pangasinan),071,N 80° W,Bolinao (Pangasinan)
-2026-08-17T04:41:00.000Z,17 August 2026 - 04:41 AM,05.77,125.47,018,1.7,030km S 80° E of Glan (Sarangani),030,S 80° E,Glan (Sarangani)
-2026-08-17T04:37:00.000Z,17 August 2026 - 04:37 AM,05.69,125.26,019,2.0,016km S 23° E of Glan (Sarangani),016,S 23° E,Glan (Sarangani)
-2026-08-17T04:36:00.000Z,17 August 2026 - 04:36 AM,08.50,126.81,008,2.5,054km N 74° E of Hinatuan (Surigao Del Sur),054,N 74° E,Hinatuan (Surigao Del Sur)
-2026-08-17T04:33:00.000Z,17 August 2026 - 04:33 AM,12.83,123.07,020,2.0,020km S 67° W of Claveria (Masbate),020,S 67° W,Claveria (Masbate)
