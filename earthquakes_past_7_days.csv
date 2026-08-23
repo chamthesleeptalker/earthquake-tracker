@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T19:36:00.000Z,23 August 2026 - 07:36 PM,04.98,125.33,029,2.9,049km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),049,S 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T19:33:00.000Z,23 August 2026 - 07:33 PM,05.14,125.45,080,1.8,031km S 06° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 06° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T19:23:00.000Z,23 August 2026 - 07:23 PM,05.33,125.29,033,2.0,017km S 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 56° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T19:22:00.000Z,23 August 2026 - 07:22 PM,05.11,125.57,101,2.8,037km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-23T19:18:00.000Z,23 August 2026 - 07:18 PM,09.03,125.59,033,1.6,003km S 15° E of Remedios T. Romualdez (Agusan Del Norte),003,S 15° E,Remedios T. Romualdez (Agusan Del Norte)
+2026-08-23T19:10:00.000Z,23 August 2026 - 07:10 PM,13.50,120.11,004,2.4,029km S 31° W of Looc (Occidental Mindoro),029,S 31° W,Looc (Occidental Mindoro)
 2026-08-23T19:09:00.000Z,23 August 2026 - 07:09 PM,08.92,125.63,025,2.2,013km N 32° W of Sibagat (Agusan Del Sur),013,N 32° W,Sibagat (Agusan Del Sur)
 2026-08-23T19:07:00.000Z,23 August 2026 - 07:07 PM,05.72,125.41,023,1.8,025km S 64° E of Glan (Sarangani),025,S 64° E,Glan (Sarangani)
 2026-08-23T18:31:00.000Z,23 August 2026 - 06:31 PM,20.44,120.64,033,2.8,130km N 85° W of Sabtang (Batanes),130,N 85° W,Sabtang (Batanes)
@@ -506,6 +512,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-16T20:12:00.000Z,16 August 2026 - 08:12 PM,05.25,125.33,034,1.7,021km S 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 31° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T20:08:00.000Z,16 August 2026 - 08:08 PM,13.46,120.04,028,1.7,037km S 38° W of Looc (Occidental Mindoro),037,S 38° W,Looc (Occidental Mindoro)
 2026-08-16T19:52:00.000Z,16 August 2026 - 07:52 PM,13.02,122.78,070,1.8,052km N 76° W of Claveria (Masbate),052,N 76° W,Claveria (Masbate)
-2026-08-16T19:33:00.000Z,16 August 2026 - 07:33 PM,11.40,125.46,034,1.9,009km S 34° W of Balangkayan (Eastern Samar),009,S 34° W,Balangkayan (Eastern Samar)
-2026-08-16T19:27:00.000Z,16 August 2026 - 07:27 PM,12.97,121.70,013,2.3,006km N 18° W of Concepcion (Romblon),006,N 18° W,Concepcion (Romblon)
-2026-08-16T19:10:00.000Z,16 August 2026 - 07:10 PM,07.64,121.70,022,1.6,048km S 81° W of Siocon (Zamboanga Del Norte),048,S 81° W,Siocon (Zamboanga Del Norte)
