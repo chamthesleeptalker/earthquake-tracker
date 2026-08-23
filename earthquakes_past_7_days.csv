@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T08:44:00.000Z,23 August 2026 - 08:44 AM,06.05,126.38,024,2.7,075km S 27° E of Governor Generoso (Davao Oriental),075,S 27° E,Governor Generoso (Davao Oriental)
+2026-08-23T08:32:00.000Z,23 August 2026 - 08:32 AM,06.51,126.72,033,2.2,067km S 26° E of Tarragona (Davao Oriental),067,S 26° E,Tarragona (Davao Oriental)
 2026-08-23T07:24:00.000Z,23 August 2026 - 07:24 AM,05.62,126.45,058,3.3,094km S 70° E of Jose Abad Santos (Davao Occidental),094,S 70° E,Jose Abad Santos (Davao Occidental)
 2026-08-23T07:12:00.000Z,23 August 2026 - 07:12 AM,05.09,125.37,034,1.9,037km S 09° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 09° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T07:12:00.000Z,23 August 2026 - 07:12 AM,07.91,126.40,015,1.3,005km N 30° E of Boston (Davao Oriental),005,N 30° E,Boston (Davao Oriental)
@@ -509,4 +511,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-16T09:34:00.000Z,16 August 2026 - 09:34 AM,10.94,123.93,018,2.2,013km S 27° W of City Of Bogo (Cebu),013,S 27° W,City Of Bogo (Cebu)
 2026-08-16T09:30:00.000Z,16 August 2026 - 09:30 AM,14.19,122.29,002,3.3,011km N 85° W of Santa Elena (Camarines Norte),011,N 85° W,Santa Elena (Camarines Norte)
 2026-08-16T09:00:00.000Z,16 August 2026 - 09:00 AM,06.06,126.21,019,3.7,060km S 75° E of Don Marcelino (Davao Occidental),060,S 75° E,Don Marcelino (Davao Occidental)
-2026-08-16T08:31:00.000Z,16 August 2026 - 08:31 AM,10.30,126.02,025,1.4,031km N 03° W of Santa Monica (Surigao Del Norte),031,N 03° W,Santa Monica (Surigao Del Norte)
