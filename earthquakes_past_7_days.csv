@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T15:14:00.000Z,23 August 2026 - 03:14 PM,11.58,125.52,047,2.2,009km N 15° E of Maydolong (Eastern Samar),009,N 15° E,Maydolong (Eastern Samar)
+2026-08-23T14:43:00.000Z,23 August 2026 - 02:43 PM,09.61,126.25,033,1.7,021km S 30° E of General Luna (Surigao Del Norte),021,S 30° E,General Luna (Surigao Del Norte)
+2026-08-23T14:31:00.000Z,23 August 2026 - 02:31 PM,05.65,125.32,021,2.0,023km S 33° E of Glan (Sarangani),023,S 33° E,Glan (Sarangani)
 2026-08-23T14:13:00.000Z,23 August 2026 - 02:13 PM,10.06,122.16,028,2.6,044km N 42° W of City Of Sipalay (Negros Occidental),044,N 42° W,City Of Sipalay (Negros Occidental)
 2026-08-23T13:56:00.000Z,23 August 2026 - 01:56 PM,11.56,125.13,031,1.5,014km S 59° E of Calbiga (Samar),014,S 59° E,Calbiga (Samar)
 2026-08-23T13:11:00.000Z,23 August 2026 - 01:11 PM,05.80,125.29,014,2.0,010km S 78° E of Glan (Sarangani),010,S 78° E,Glan (Sarangani)
@@ -510,4 +513,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-16T16:46:00.000Z,16 August 2026 - 04:46 PM,09.65,126.28,027,2.0,019km S 43° E of General Luna (Surigao Del Norte),019,S 43° E,General Luna (Surigao Del Norte)
 2026-08-16T16:43:00.000Z,16 August 2026 - 04:43 PM,05.31,125.33,014,2.7,015km S 43° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 43° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T15:19:00.000Z,16 August 2026 - 03:19 PM,18.03,120.06,023,2.0,046km N 76° W of Badoc (Ilocos Norte),046,N 76° W,Badoc (Ilocos Norte)
-2026-08-16T14:14:00.000Z,16 August 2026 - 02:14 PM,09.62,122.21,027,2.9,029km S 55° W of City Of Sipalay (Negros Occidental),029,S 55° W,City Of Sipalay (Negros Occidental)
