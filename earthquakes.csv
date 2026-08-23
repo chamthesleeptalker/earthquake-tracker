@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T14:13:00.000Z,23 August 2026 - 02:13 PM,10.06,122.16,028,2.6,044km N 42° W of City Of Sipalay (Negros Occidental),044,N 42° W,City Of Sipalay (Negros Occidental)
+2026-08-23T13:56:00.000Z,23 August 2026 - 01:56 PM,11.56,125.13,031,1.5,014km S 59° E of Calbiga (Samar),014,S 59° E,Calbiga (Samar)
 2026-08-23T13:11:00.000Z,23 August 2026 - 01:11 PM,05.80,125.29,014,2.0,010km S 78° E of Glan (Sarangani),010,S 78° E,Glan (Sarangani)
 2026-08-23T12:51:00.000Z,23 August 2026 - 12:51 PM,05.99,124.51,006,1.8,008km S 09° E of Maitum (Sarangani),008,S 09° E,Maitum (Sarangani)
 2026-08-23T12:49:00.000Z,23 August 2026 - 12:49 PM,09.10,125.84,033,1.6,023km S 38° W of Madrid (Surigao Del Sur),023,S 38° W,Madrid (Surigao Del Sur)

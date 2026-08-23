@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-23T14:13:00.000Z,23 August 2026 - 02:13 PM,10.06,122.16,028,2.6,044km N 42° W of City Of Sipalay (Negros Occidental),044,N 42° W,City Of Sipalay (Negros Occidental)
+2026-08-23T13:56:00.000Z,23 August 2026 - 01:56 PM,11.56,125.13,031,1.5,014km S 59° E of Calbiga (Samar),014,S 59° E,Calbiga (Samar)
 2026-08-23T13:11:00.000Z,23 August 2026 - 01:11 PM,05.80,125.29,014,2.0,010km S 78° E of Glan (Sarangani),010,S 78° E,Glan (Sarangani)
 2026-08-23T12:51:00.000Z,23 August 2026 - 12:51 PM,05.99,124.51,006,1.8,008km S 09° E of Maitum (Sarangani),008,S 09° E,Maitum (Sarangani)
 2026-08-23T12:49:00.000Z,23 August 2026 - 12:49 PM,09.10,125.84,033,1.6,023km S 38° W of Madrid (Surigao Del Sur),023,S 38° W,Madrid (Surigao Del Sur)
@@ -509,5 +511,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-16T16:43:00.000Z,16 August 2026 - 04:43 PM,05.31,125.33,014,2.7,015km S 43° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 43° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-16T15:19:00.000Z,16 August 2026 - 03:19 PM,18.03,120.06,023,2.0,046km N 76° W of Badoc (Ilocos Norte),046,N 76° W,Badoc (Ilocos Norte)
 2026-08-16T14:14:00.000Z,16 August 2026 - 02:14 PM,09.62,122.21,027,2.9,029km S 55° W of City Of Sipalay (Negros Occidental),029,S 55° W,City Of Sipalay (Negros Occidental)
-2026-08-16T14:01:00.000Z,16 August 2026 - 02:01 PM,05.79,125.32,018,2.1,014km S 75° E of Glan (Sarangani),014,S 75° E,Glan (Sarangani)
-2026-08-16T13:38:00.000Z,16 August 2026 - 01:38 PM,12.65,123.36,022,1.5,016km N 16° W of Aroroy (Masbate),016,N 16° W,Aroroy (Masbate)
