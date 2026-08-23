@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-24T01:46:00.000Z,24 August 2026 - 01:46 AM,05.25,125.22,033,2.3,029km S 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-24T01:19:00.000Z,24 August 2026 - 01:19 AM,05.73,125.24,010,1.7,011km S 23° E of Glan (Sarangani),011,S 23° E,Glan (Sarangani)
+2026-08-24T03:08:00.000Z,24 August 2026 - 03:08 AM,08.65,124.39,013,2.3,006km N 17° W of Gitagum (Misamis Oriental),006,N 17° W,Gitagum (Misamis Oriental)
+2026-08-24T03:01:00.000Z,24 August 2026 - 03:01 AM,05.91,126.35,020,2.8,078km S 90° E of Jose Abad Santos (Davao Occidental),078,S 90° E,Jose Abad Santos (Davao Occidental)
+2026-08-24T02:57:00.000Z,24 August 2026 - 02:57 AM,05.57,126.49,027,4.2,112km S 52° E of Don Marcelino (Davao Occidental),112,S 52° E,Don Marcelino (Davao Occidental)
+2026-08-24T02:50:00.000Z,24 August 2026 - 02:50 AM,05.76,126.31,021,3.8,076km S 77° E of Jose Abad Santos (Davao Occidental),076,S 77° E,Jose Abad Santos (Davao Occidental)
