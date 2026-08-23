@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T04:31:00.000Z,24 August 2026 - 04:31 AM,09.37,126.89,011,2.5,078km N 83° E of Cortes (Surigao Del Sur),078,N 83° E,Cortes (Surigao Del Sur)
+2026-08-24T04:25:00.000Z,24 August 2026 - 04:25 AM,05.44,126.69,034,3.0,127km S 66° E of Jose Abad Santos (Davao Occidental),127,S 66° E,Jose Abad Santos (Davao Occidental)
+2026-08-24T04:17:00.000Z,24 August 2026 - 04:17 AM,05.77,126.12,088,2.4,055km S 73° E of Jose Abad Santos (Davao Occidental),055,S 73° E,Jose Abad Santos (Davao Occidental)
 2026-08-24T03:55:00.000Z,24 August 2026 - 03:55 AM,07.22,126.36,021,2.0,020km N 88° W of Manay (Davao Oriental),020,N 88° W,Manay (Davao Oriental)
 2026-08-24T03:52:00.000Z,24 August 2026 - 03:52 AM,05.74,125.29,014,3.1,013km S 47° E of Glan (Sarangani),013,S 47° E,Glan (Sarangani)
 2026-08-24T03:47:00.000Z,24 August 2026 - 03:47 AM,07.28,126.69,025,2.6,015km S 68° E of Caraga (Davao Oriental),015,S 68° E,Caraga (Davao Oriental)
@@ -71,8 +74,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-23T04:49:00.000Z,23 August 2026 - 04:49 AM,16.83,119.55,002,3.2,061km N 37° W of Bolinao (Pangasinan),061,N 37° W,Bolinao (Pangasinan)
 2026-08-23T04:43:00.000Z,23 August 2026 - 04:43 AM,04.98,125.23,026,3.4,053km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),053,S 24° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T04:39:00.000Z,23 August 2026 - 04:39 AM,08.71,125.60,020,1.5,003km S 12° W of Las Nieves (Agusan Del Norte),003,S 12° W,Las Nieves (Agusan Del Norte)
-2026-08-23T04:23:00.000Z,23 August 2026 - 04:23 AM,12.00,121.48,032,1.6,010km N 48° W of Caluya (Antique),010,N 48° W,Caluya (Antique)
-2026-08-23T04:16:00.000Z,23 August 2026 - 04:16 AM,05.90,125.36,021,1.4,011km S 48° E of Malapatan (Sarangani),011,S 48° E,Malapatan (Sarangani)
-2026-08-23T04:14:00.000Z,23 August 2026 - 04:14 AM,05.49,127.15,003,2.2,173km S 74° E of Jose Abad Santos (Davao Occidental),173,S 74° E,Jose Abad Santos (Davao Occidental)
-2026-08-23T04:10:00.000Z,23 August 2026 - 04:10 AM,14.38,123.98,004,1.7,043km N 29° W of Pandan (Catanduanes),043,N 29° W,Pandan (Catanduanes)
-2026-08-23T04:06:00.000Z,23 August 2026 - 04:06 AM,12.69,126.00,033,1.8,078km N 43° E of San Policarpo (Eastern Samar),078,N 43° E,San Policarpo (Eastern Samar)
