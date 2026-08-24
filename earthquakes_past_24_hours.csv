@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T02:53:00.000Z,25 August 2026 - 02:53 AM,13.22,123.89,030,1.6,012km N 11° E of Manito (Albay),012,N 11° E,Manito (Albay)
 2026-08-25T02:12:00.000Z,25 August 2026 - 02:12 AM,09.54,126.39,037,2.2,036km N 37° E of Cortes (Surigao Del Sur),036,N 37° E,Cortes (Surigao Del Sur)
 2026-08-25T02:08:00.000Z,25 August 2026 - 02:08 AM,06.66,126.90,025,2.6,065km S 49° E of Tarragona (Davao Oriental),065,S 49° E,Tarragona (Davao Oriental)
 2026-08-25T01:49:00.000Z,25 August 2026 - 01:49 AM,06.15,126.47,054,2.4,070km S 38° E of Governor Generoso (Davao Oriental),070,S 38° E,Governor Generoso (Davao Oriental)
@@ -56,4 +57,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-24T03:08:00.000Z,24 August 2026 - 03:08 AM,08.65,124.39,013,2.3,006km N 17° W of Gitagum (Misamis Oriental),006,N 17° W,Gitagum (Misamis Oriental)
 2026-08-24T03:01:00.000Z,24 August 2026 - 03:01 AM,05.91,126.35,020,2.8,078km S 90° E of Jose Abad Santos (Davao Occidental),078,S 90° E,Jose Abad Santos (Davao Occidental)
 2026-08-24T02:57:00.000Z,24 August 2026 - 02:57 AM,05.57,126.49,027,4.2,112km S 52° E of Don Marcelino (Davao Occidental),112,S 52° E,Don Marcelino (Davao Occidental)
-2026-08-24T02:50:00.000Z,24 August 2026 - 02:50 AM,05.76,126.31,021,3.8,076km S 77° E of Jose Abad Santos (Davao Occidental),076,S 77° E,Jose Abad Santos (Davao Occidental)
