@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T21:12:00.000Z,24 August 2026 - 09:12 PM,05.86,126.53,036,2.0,098km S 87° E of Jose Abad Santos (Davao Occidental),098,S 87° E,Jose Abad Santos (Davao Occidental)
+2026-08-24T20:43:00.000Z,24 August 2026 - 08:43 PM,06.82,126.32,039,2.2,018km S 37° E of City Of Mati (Davao Oriental),018,S 37° E,City Of Mati (Davao Oriental)
+2026-08-24T20:40:00.000Z,24 August 2026 - 08:40 PM,12.43,125.03,033,1.7,003km N 49° W of Catubig (Northern Samar),003,N 49° W,Catubig (Northern Samar)
 2026-08-24T20:34:00.000Z,24 August 2026 - 08:34 PM,05.90,125.34,025,2.2,010km S 35° E of Malapatan (Sarangani),010,S 35° E,Malapatan (Sarangani)
 2026-08-24T20:01:00.000Z,24 August 2026 - 08:01 PM,10.94,123.94,002,2.1,012km S 23° W of City Of Bogo (Cebu),012,S 23° W,City Of Bogo (Cebu)
 2026-08-24T18:42:00.000Z,24 August 2026 - 06:42 PM,17.92,120.53,028,2.4,004km S 06° E of Pinili (Ilocos Norte),004,S 06° E,Pinili (Ilocos Norte)
@@ -52,4 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-23T22:09:00.000Z,23 August 2026 - 10:09 PM,05.45,125.42,012,3.0,004km N 07° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),004,N 07° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T21:53:00.000Z,23 August 2026 - 09:53 PM,19.00,121.21,024,2.7,012km S 01° W of Dalupiri Island (Calayan) (Cagayan),012,S 01° W,Dalupiri Island (Calayan) (Cagayan)
 2026-08-23T21:27:00.000Z,23 August 2026 - 09:27 PM,09.72,122.22,024,2.1,024km S 76° W of City Of Sipalay (Negros Occidental),024,S 76° W,City Of Sipalay (Negros Occidental)
-2026-08-23T20:46:00.000Z,23 August 2026 - 08:46 PM,05.82,124.69,004,1.7,020km S 21° E of Kiamba (Sarangani),020,S 21° E,Kiamba (Sarangani)
