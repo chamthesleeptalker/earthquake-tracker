@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T22:16:00.000Z,24 August 2026 - 10:16 PM,15.04,122.20,011,1.9,031km N 04° W of Patnanungan (Quezon),031,N 04° W,Patnanungan (Quezon)
+2026-08-24T22:08:00.000Z,24 August 2026 - 10:08 PM,07.03,123.24,025,2.3,047km S 10° W of Pitogo (Zamboanga Del Sur),047,S 10° W,Pitogo (Zamboanga Del Sur)
+2026-08-24T22:05:00.000Z,24 August 2026 - 10:05 PM,07.00,123.26,025,1.6,051km S 06° W of Pitogo (Zamboanga Del Sur),051,S 06° W,Pitogo (Zamboanga Del Sur)
+2026-08-24T22:04:00.000Z,24 August 2026 - 10:04 PM,07.03,123.24,020,2.5,048km S 09° W of Pitogo (Zamboanga Del Sur),048,S 09° W,Pitogo (Zamboanga Del Sur)
 2026-08-24T21:12:00.000Z,24 August 2026 - 09:12 PM,05.86,126.53,036,2.0,098km S 87° E of Jose Abad Santos (Davao Occidental),098,S 87° E,Jose Abad Santos (Davao Occidental)
 2026-08-24T20:43:00.000Z,24 August 2026 - 08:43 PM,06.82,126.32,039,2.2,018km S 37° E of City Of Mati (Davao Oriental),018,S 37° E,City Of Mati (Davao Oriental)
 2026-08-24T20:40:00.000Z,24 August 2026 - 08:40 PM,12.43,125.03,033,1.7,003km N 49° W of Catubig (Northern Samar),003,N 49° W,Catubig (Northern Samar)
@@ -50,8 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-23T23:20:00.000Z,23 August 2026 - 11:20 PM,05.36,125.26,033,1.3,019km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T23:01:00.000Z,23 August 2026 - 11:01 PM,04.51,125.24,008,1.8,102km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),102,S 11° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-23T22:52:00.000Z,23 August 2026 - 10:52 PM,12.87,123.21,005,2.0,006km S 49° W of Claveria (Masbate),006,S 49° W,Claveria (Masbate)
-2026-08-23T22:15:00.000Z,23 August 2026 - 10:15 PM,05.60,125.18,001,2.5,024km S 07° W of Glan (Sarangani),024,S 07° W,Glan (Sarangani)
-2026-08-23T22:12:00.000Z,23 August 2026 - 10:12 PM,06.81,123.87,017,2.5,028km N 48° W of Lebak (Sultan Kudarat),028,N 48° W,Lebak (Sultan Kudarat)
-2026-08-23T22:09:00.000Z,23 August 2026 - 10:09 PM,05.45,125.42,012,3.0,004km N 07° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),004,N 07° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-23T21:53:00.000Z,23 August 2026 - 09:53 PM,19.00,121.21,024,2.7,012km S 01° W of Dalupiri Island (Calayan) (Cagayan),012,S 01° W,Dalupiri Island (Calayan) (Cagayan)
-2026-08-23T21:27:00.000Z,23 August 2026 - 09:27 PM,09.72,122.22,024,2.1,024km S 76° W of City Of Sipalay (Negros Occidental),024,S 76° W,City Of Sipalay (Negros Occidental)

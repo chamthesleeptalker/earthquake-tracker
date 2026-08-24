@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T22:16:00.000Z,24 August 2026 - 10:16 PM,15.04,122.20,011,1.9,031km N 04° W of Patnanungan (Quezon),031,N 04° W,Patnanungan (Quezon)
+2026-08-24T22:08:00.000Z,24 August 2026 - 10:08 PM,07.03,123.24,025,2.3,047km S 10° W of Pitogo (Zamboanga Del Sur),047,S 10° W,Pitogo (Zamboanga Del Sur)
+2026-08-24T22:05:00.000Z,24 August 2026 - 10:05 PM,07.00,123.26,025,1.6,051km S 06° W of Pitogo (Zamboanga Del Sur),051,S 06° W,Pitogo (Zamboanga Del Sur)
+2026-08-24T22:04:00.000Z,24 August 2026 - 10:04 PM,07.03,123.24,020,2.5,048km S 09° W of Pitogo (Zamboanga Del Sur),048,S 09° W,Pitogo (Zamboanga Del Sur)
 2026-08-24T21:12:00.000Z,24 August 2026 - 09:12 PM,05.86,126.53,036,2.0,098km S 87° E of Jose Abad Santos (Davao Occidental),098,S 87° E,Jose Abad Santos (Davao Occidental)
 2026-08-24T20:43:00.000Z,24 August 2026 - 08:43 PM,06.82,126.32,039,2.2,018km S 37° E of City Of Mati (Davao Oriental),018,S 37° E,City Of Mati (Davao Oriental)
 2026-08-24T20:40:00.000Z,24 August 2026 - 08:40 PM,12.43,125.03,033,1.7,003km N 49° W of Catubig (Northern Samar),003,N 49° W,Catubig (Northern Samar)
@@ -519,5 +523,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T23:10:00.000Z,17 August 2026 - 11:10 PM,06.54,123.68,005,3.7,041km S 87° W of Kalamansig (Sultan Kudarat),041,S 87° W,Kalamansig (Sultan Kudarat)
 2026-08-17T22:43:00.000Z,17 August 2026 - 10:43 PM,09.85,124.08,034,1.5,007km S 11° W of Sagbayan (Bohol),007,S 11° W,Sagbayan (Bohol)
 2026-08-17T22:17:00.000Z,17 August 2026 - 10:17 PM,05.92,125.33,023,1.6,007km S 41° E of Malapatan (Sarangani),007,S 41° E,Malapatan (Sarangani)
-2026-08-17T21:59:00.000Z,17 August 2026 - 09:59 PM,04.32,126.16,013,3.0,140km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),140,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-17T21:26:00.000Z,17 August 2026 - 09:26 PM,04.56,126.61,015,4.0,162km S 54° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),162,S 54° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
