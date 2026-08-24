@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T01:49:00.000Z,25 August 2026 - 01:49 AM,06.15,126.47,054,2.4,070km S 38° E of Governor Generoso (Davao Oriental),070,S 38° E,Governor Generoso (Davao Oriental)
+2026-08-25T01:43:00.000Z,25 August 2026 - 01:43 AM,07.05,123.36,034,2.0,044km S 06° E of Pitogo (Zamboanga Del Sur),044,S 06° E,Pitogo (Zamboanga Del Sur)
 2026-08-25T01:17:00.000Z,25 August 2026 - 01:17 AM,09.28,125.52,020,2.7,004km N 61° W of Santiago (Agusan Del Norte),004,N 61° W,Santiago (Agusan Del Norte)
 2026-08-25T00:58:00.000Z,25 August 2026 - 12:58 AM,08.75,124.23,031,2.4,025km N 33° W of Libertad (Misamis Oriental),025,N 33° W,Libertad (Misamis Oriental)
 2026-08-25T00:54:00.000Z,25 August 2026 - 12:54 AM,07.32,125.83,135,2.2,003km N 76° W of Mabini (Davao De Oro),003,N 76° W,Mabini (Davao De Oro)
@@ -53,5 +55,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-24T03:01:00.000Z,24 August 2026 - 03:01 AM,05.91,126.35,020,2.8,078km S 90° E of Jose Abad Santos (Davao Occidental),078,S 90° E,Jose Abad Santos (Davao Occidental)
 2026-08-24T02:57:00.000Z,24 August 2026 - 02:57 AM,05.57,126.49,027,4.2,112km S 52° E of Don Marcelino (Davao Occidental),112,S 52° E,Don Marcelino (Davao Occidental)
 2026-08-24T02:50:00.000Z,24 August 2026 - 02:50 AM,05.76,126.31,021,3.8,076km S 77° E of Jose Abad Santos (Davao Occidental),076,S 77° E,Jose Abad Santos (Davao Occidental)
-2026-08-24T01:46:00.000Z,24 August 2026 - 01:46 AM,05.25,125.22,033,2.3,029km S 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-24T01:19:00.000Z,24 August 2026 - 01:19 AM,05.73,125.24,010,1.7,011km S 23° E of Glan (Sarangani),011,S 23° E,Glan (Sarangani)

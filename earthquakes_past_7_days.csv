@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T01:49:00.000Z,25 August 2026 - 01:49 AM,06.15,126.47,054,2.4,070km S 38° E of Governor Generoso (Davao Oriental),070,S 38° E,Governor Generoso (Davao Oriental)
+2026-08-25T01:43:00.000Z,25 August 2026 - 01:43 AM,07.05,123.36,034,2.0,044km S 06° E of Pitogo (Zamboanga Del Sur),044,S 06° E,Pitogo (Zamboanga Del Sur)
 2026-08-25T01:17:00.000Z,25 August 2026 - 01:17 AM,09.28,125.52,020,2.7,004km N 61° W of Santiago (Agusan Del Norte),004,N 61° W,Santiago (Agusan Del Norte)
 2026-08-25T00:58:00.000Z,25 August 2026 - 12:58 AM,08.75,124.23,031,2.4,025km N 33° W of Libertad (Misamis Oriental),025,N 33° W,Libertad (Misamis Oriental)
 2026-08-25T00:54:00.000Z,25 August 2026 - 12:54 AM,07.32,125.83,135,2.2,003km N 76° W of Mabini (Davao De Oro),003,N 76° W,Mabini (Davao De Oro)
@@ -528,4 +530,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T03:41:00.000Z,18 August 2026 - 03:41 AM,08.05,126.90,003,2.1,053km N 88° E of Lingig (Surigao Del Sur),053,N 88° E,Lingig (Surigao Del Sur)
 2026-08-18T03:05:00.000Z,18 August 2026 - 03:05 AM,08.73,125.87,010,2.5,013km N 84° E of City Of Bayugan (Agusan Del Sur),013,N 84° E,City Of Bayugan (Agusan Del Sur)
 2026-08-18T02:00:00.000Z,18 August 2026 - 02:00 AM,17.81,120.65,029,1.4,011km N 31° W of Lagayan (Abra),011,N 31° W,Lagayan (Abra)
-2026-08-18T01:32:00.000Z,18 August 2026 - 01:32 AM,05.88,125.33,021,2.2,011km S 26° E of Malapatan (Sarangani),011,S 26° E,Malapatan (Sarangani)
