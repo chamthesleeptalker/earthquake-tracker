@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T07:20:00.000Z,25 August 2026 - 07:20 AM,05.77,125.27,018,2.0,010km S 53° E of Glan (Sarangani),010,S 53° E,Glan (Sarangani)
 2026-08-25T07:12:00.000Z,25 August 2026 - 07:12 AM,13.44,124.95,034,2.0,067km S 69° E of Baras (Catanduanes),067,S 69° E,Baras (Catanduanes)
 2026-08-25T06:53:00.000Z,25 August 2026 - 06:53 AM,13.32,125.01,009,2.6,079km S 61° E of Baras (Catanduanes),079,S 61° E,Baras (Catanduanes)
 2026-08-25T05:25:00.000Z,25 August 2026 - 05:25 AM,07.10,123.29,029,1.8,039km S 03° W of Pitogo (Zamboanga Del Sur),039,S 03° W,Pitogo (Zamboanga Del Sur)
@@ -53,4 +54,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-24T08:06:00.000Z,24 August 2026 - 08:06 AM,17.62,120.56,010,1.9,005km N 01° W of Langiden (Abra),005,N 01° W,Langiden (Abra)
 2026-08-24T08:02:00.000Z,24 August 2026 - 08:02 AM,18.92,120.48,012,2.4,048km N 21° W of Burgos (Ilocos Norte),048,N 21° W,Burgos (Ilocos Norte)
 2026-08-24T07:53:00.000Z,24 August 2026 - 07:53 AM,07.21,125.79,019,1.8,013km S 34° W of Mabini (Davao De Oro),013,S 34° W,Mabini (Davao De Oro)
-2026-08-24T07:18:00.000Z,24 August 2026 - 07:18 AM,05.14,125.39,069,3.1,030km S 07° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 07° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
