@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T15:44:00.000Z,24 August 2026 - 03:44 PM,04.07,125.40,010,3.1,148km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 01° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-24T15:17:00.000Z,24 August 2026 - 03:17 PM,06.07,126.07,124,1.7,043km S 71° E of Don Marcelino (Davao Occidental),043,S 71° E,Don Marcelino (Davao Occidental)
 2026-08-24T13:42:00.000Z,24 August 2026 - 01:42 PM,05.49,125.29,020,2.0,017km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-24T12:07:00.000Z,24 August 2026 - 12:07 PM,05.45,125.22,019,2.6,023km N 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-24T11:59:00.000Z,24 August 2026 - 11:59 AM,04.98,125.35,010,5.0,048km S 9° W of Sarangani (Davao Occidental),048,S 9° W,Sarangani (Davao Occidental)
@@ -60,8 +62,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-23T18:18:00.000Z,23 August 2026 - 06:18 PM,05.78,125.34,026,1.5,015km S 73° E of Glan (Sarangani),015,S 73° E,Glan (Sarangani)
 2026-08-23T18:15:00.000Z,23 August 2026 - 06:15 PM,06.59,126.60,019,2.2,054km S 19° E of Tarragona (Davao Oriental),054,S 19° E,Tarragona (Davao Oriental)
 2026-08-23T17:54:00.000Z,23 August 2026 - 05:54 PM,17.32,121.58,035,1.6,003km N 77° W of Quezon (Isabela),003,N 77° W,Quezon (Isabela)
-2026-08-23T15:14:00.000Z,23 August 2026 - 03:14 PM,11.58,125.52,047,2.2,009km N 15° E of Maydolong (Eastern Samar),009,N 15° E,Maydolong (Eastern Samar)
-2026-08-23T14:43:00.000Z,23 August 2026 - 02:43 PM,09.61,126.25,033,1.7,021km S 30° E of General Luna (Surigao Del Norte),021,S 30° E,General Luna (Surigao Del Norte)
-2026-08-23T14:31:00.000Z,23 August 2026 - 02:31 PM,05.65,125.32,021,2.0,023km S 33° E of Glan (Sarangani),023,S 33° E,Glan (Sarangani)
-2026-08-23T14:13:00.000Z,23 August 2026 - 02:13 PM,10.06,122.16,028,2.6,044km N 42° W of City Of Sipalay (Negros Occidental),044,N 42° W,City Of Sipalay (Negros Occidental)
-2026-08-23T13:56:00.000Z,23 August 2026 - 01:56 PM,11.56,125.13,031,1.5,014km S 59° E of Calbiga (Samar),014,S 59° E,Calbiga (Samar)
