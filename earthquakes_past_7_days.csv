@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T03:30:00.000Z,25 August 2026 - 03:30 AM,11.74,125.28,025,2.7,019km S 85° W of San Julian (Eastern Samar),019,S 85° W,San Julian (Eastern Samar)
 2026-08-25T02:53:00.000Z,25 August 2026 - 02:53 AM,13.22,123.89,030,1.6,012km N 11° E of Manito (Albay),012,N 11° E,Manito (Albay)
 2026-08-25T02:12:00.000Z,25 August 2026 - 02:12 AM,09.54,126.39,037,2.2,036km N 37° E of Cortes (Surigao Del Sur),036,N 37° E,Cortes (Surigao Del Sur)
 2026-08-25T02:08:00.000Z,25 August 2026 - 02:08 AM,06.66,126.90,025,2.6,065km S 49° E of Tarragona (Davao Oriental),065,S 49° E,Tarragona (Davao Oriental)
@@ -531,4 +532,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T04:04:00.000Z,18 August 2026 - 04:04 AM,14.21,123.40,056,2.1,026km N 36° E of Siruma (Camarines Sur),026,N 36° E,Siruma (Camarines Sur)
 2026-08-18T03:56:00.000Z,18 August 2026 - 03:56 AM,05.02,125.30,062,3.4,045km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),045,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T03:41:00.000Z,18 August 2026 - 03:41 AM,08.05,126.90,003,2.1,053km N 88° E of Lingig (Surigao Del Sur),053,N 88° E,Lingig (Surigao Del Sur)
-2026-08-18T03:05:00.000Z,18 August 2026 - 03:05 AM,08.73,125.87,010,2.5,013km N 84° E of City Of Bayugan (Agusan Del Sur),013,N 84° E,City Of Bayugan (Agusan Del Sur)
