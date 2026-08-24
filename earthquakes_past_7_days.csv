@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T13:42:00.000Z,24 August 2026 - 01:42 PM,05.49,125.29,020,2.0,017km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-24T12:07:00.000Z,24 August 2026 - 12:07 PM,05.45,125.22,019,2.6,023km N 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-24T11:59:00.000Z,24 August 2026 - 11:59 AM,04.98,125.35,010,5.0,048km S 9° W of Sarangani (Davao Occidental),048,S 9° W,Sarangani (Davao Occidental)
 2026-08-24T11:44:00.000Z,24 August 2026 - 11:44 AM,05.68,125.30,013,2.0,019km S 32° E of Glan (Sarangani),019,S 32° E,Glan (Sarangani)
@@ -523,4 +524,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T15:05:00.000Z,17 August 2026 - 03:05 PM,05.70,126.42,075,2.8,089km S 75° E of Jose Abad Santos (Davao Occidental),089,S 75° E,Jose Abad Santos (Davao Occidental)
 2026-08-17T14:51:00.000Z,17 August 2026 - 02:51 PM,10.80,125.06,012,2.6,007km N 42° E of Abuyog (Leyte),007,N 42° E,Abuyog (Leyte)
 2026-08-17T14:03:00.000Z,17 August 2026 - 02:03 PM,10.51,124.26,002,1.5,020km S 43° W of San Francisco (Cebu),020,S 43° W,San Francisco (Cebu)
-2026-08-17T13:13:00.000Z,17 August 2026 - 01:13 PM,05.74,125.43,023,2.0,027km S 70° E of Glan (Sarangani),027,S 70° E,Glan (Sarangani)
