@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T11:29:00.000Z,24 August 2026 - 11:29 AM,12.17,124.93,024,2.1,005km N 57° E of Matuguinao (Samar),005,N 57° E,Matuguinao (Samar)
+2026-08-24T10:53:00.000Z,24 August 2026 - 10:53 AM,09.62,126.00,031,2.3,003km N 79° E of Socorro (Surigao Del Norte),003,N 79° E,Socorro (Surigao Del Norte)
 2026-08-24T10:21:00.000Z,24 August 2026 - 10:21 AM,05.71,125.34,017,2.5,019km S 50° E of Glan (Sarangani),019,S 50° E,Glan (Sarangani)
 2026-08-24T09:46:00.000Z,24 August 2026 - 09:46 AM,05.76,125.15,032,1.9,009km S 45° W of Glan (Sarangani),009,S 45° W,Glan (Sarangani)
 2026-08-24T09:33:00.000Z,24 August 2026 - 09:33 AM,05.61,125.00,034,2.1,028km S 01° E of Maasim (Sarangani),028,S 01° E,Maasim (Sarangani)
@@ -519,4 +521,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-17T14:51:00.000Z,17 August 2026 - 02:51 PM,10.80,125.06,012,2.6,007km N 42° E of Abuyog (Leyte),007,N 42° E,Abuyog (Leyte)
 2026-08-17T14:03:00.000Z,17 August 2026 - 02:03 PM,10.51,124.26,002,1.5,020km S 43° W of San Francisco (Cebu),020,S 43° W,San Francisco (Cebu)
 2026-08-17T13:13:00.000Z,17 August 2026 - 01:13 PM,05.74,125.43,023,2.0,027km S 70° E of Glan (Sarangani),027,S 70° E,Glan (Sarangani)
-2026-08-17T11:18:00.000Z,17 August 2026 - 11:18 AM,06.84,125.08,032,1.8,013km N 42° W of Magsaysay (Davao Del Sur),013,N 42° W,Magsaysay (Davao Del Sur)

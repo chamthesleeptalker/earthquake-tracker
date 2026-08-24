@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T11:29:00.000Z,24 August 2026 - 11:29 AM,12.17,124.93,024,2.1,005km N 57° E of Matuguinao (Samar),005,N 57° E,Matuguinao (Samar)
+2026-08-24T10:53:00.000Z,24 August 2026 - 10:53 AM,09.62,126.00,031,2.3,003km N 79° E of Socorro (Surigao Del Norte),003,N 79° E,Socorro (Surigao Del Norte)
 2026-08-24T10:21:00.000Z,24 August 2026 - 10:21 AM,05.71,125.34,017,2.5,019km S 50° E of Glan (Sarangani),019,S 50° E,Glan (Sarangani)
 2026-08-24T09:46:00.000Z,24 August 2026 - 09:46 AM,05.76,125.15,032,1.9,009km S 45° W of Glan (Sarangani),009,S 45° W,Glan (Sarangani)
 2026-08-24T09:33:00.000Z,24 August 2026 - 09:33 AM,05.61,125.00,034,2.1,028km S 01° E of Maasim (Sarangani),028,S 01° E,Maasim (Sarangani)
@@ -67,6 +69,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-23T12:20:00.000Z,23 August 2026 - 12:20 PM,05.61,125.26,024,2.1,025km S 15° E of Glan (Sarangani),025,S 15° E,Glan (Sarangani)
 2026-08-23T12:14:00.000Z,23 August 2026 - 12:14 PM,08.97,122.03,030,3.3,083km S 54° W of Basay (Negros Oriental),083,S 54° W,Basay (Negros Oriental)
 2026-08-23T11:35:00.000Z,23 August 2026 - 11:35 AM,11.58,125.10,031,1.6,010km S 58° E of Calbiga (Samar),010,S 58° E,Calbiga (Samar)
-2026-08-23T11:17:00.000Z,23 August 2026 - 11:17 AM,09.37,125.72,026,1.8,018km S 59° E of Kitcharao (Agusan Del Norte),018,S 59° E,Kitcharao (Agusan Del Norte)
-2026-08-23T11:04:00.000Z,23 August 2026 - 11:04 AM,11.57,125.22,027,1.9,022km S 73° E of Calbiga (Samar),022,S 73° E,Calbiga (Samar)
-2026-08-23T10:47:00.000Z,23 August 2026 - 10:47 AM,12.45,124.95,025,2.9,012km N 70° W of Catubig (Northern Samar),012,N 70° W,Catubig (Northern Samar)
