@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T00:22:00.000Z,25 August 2026 - 12:22 AM,05.44,125.14,030,1.9,028km N 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-25T00:02:00.000Z,25 August 2026 - 12:02 AM,09.66,126.07,015,3.1,011km S 10° E of Dapa (Surigao Del Norte),011,S 10° E,Dapa (Surigao Del Norte)
+2026-08-25T00:01:00.000Z,25 August 2026 - 12:01 AM,16.08,120.47,136,2.5,004km N 24° W of Manaoag (Pangasinan),004,N 24° W,Manaoag (Pangasinan)
+2026-08-24T23:38:00.000Z,24 August 2026 - 11:38 PM,17.76,122.29,018,3.3,042km N 07° E of Maconacon (Isabela),042,N 07° E,Maconacon (Isabela)
+2026-08-24T23:30:00.000Z,24 August 2026 - 11:30 PM,07.09,123.30,029,1.7,040km S 03° W of Pitogo (Zamboanga Del Sur),040,S 03° W,Pitogo (Zamboanga Del Sur)
 2026-08-24T23:23:00.000Z,24 August 2026 - 11:23 PM,09.41,126.44,015,3.5,031km N 61° E of Cortes (Surigao Del Sur),031,N 61° E,Cortes (Surigao Del Sur)
 2026-08-24T22:16:00.000Z,24 August 2026 - 10:16 PM,15.04,122.20,011,1.9,031km N 04° W of Patnanungan (Quezon),031,N 04° W,Patnanungan (Quezon)
 2026-08-24T22:08:00.000Z,24 August 2026 - 10:08 PM,07.03,123.24,025,2.3,047km S 10° W of Pitogo (Zamboanga Del Sur),047,S 10° W,Pitogo (Zamboanga Del Sur)
