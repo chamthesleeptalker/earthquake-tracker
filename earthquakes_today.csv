@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T01:17:00.000Z,25 August 2026 - 01:17 AM,09.28,125.52,020,2.7,004km N 61° W of Santiago (Agusan Del Norte),004,N 61° W,Santiago (Agusan Del Norte)
+2026-08-25T00:58:00.000Z,25 August 2026 - 12:58 AM,08.75,124.23,031,2.4,025km N 33° W of Libertad (Misamis Oriental),025,N 33° W,Libertad (Misamis Oriental)
+2026-08-25T00:54:00.000Z,25 August 2026 - 12:54 AM,07.32,125.83,135,2.2,003km N 76° W of Mabini (Davao De Oro),003,N 76° W,Mabini (Davao De Oro)
+2026-08-25T00:53:00.000Z,25 August 2026 - 12:53 AM,07.12,126.00,122,2.2,011km S 88° E of Pantukan (Davao De Oro),011,S 88° E,Pantukan (Davao De Oro)
+2026-08-25T00:49:00.000Z,25 August 2026 - 12:49 AM,05.68,125.34,024,1.8,022km S 44° E of Glan (Sarangani),022,S 44° E,Glan (Sarangani)
+2026-08-25T00:27:00.000Z,25 August 2026 - 12:27 AM,05.32,125.24,007,1.8,022km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,S 63° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-25T00:22:00.000Z,25 August 2026 - 12:22 AM,05.44,125.14,030,1.9,028km N 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-25T00:02:00.000Z,25 August 2026 - 12:02 AM,09.66,126.07,015,3.1,011km S 10° E of Dapa (Surigao Del Norte),011,S 10° E,Dapa (Surigao Del Norte)
 2026-08-25T00:01:00.000Z,25 August 2026 - 12:01 AM,16.08,120.47,136,2.5,004km N 24° W of Manaoag (Pangasinan),004,N 24° W,Manaoag (Pangasinan)
