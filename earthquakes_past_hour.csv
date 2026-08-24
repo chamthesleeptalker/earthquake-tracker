@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T08:06:00.000Z,24 August 2026 - 08:06 AM,17.62,120.56,010,1.9,005km N 01° W of Langiden (Abra),005,N 01° W,Langiden (Abra)
+2026-08-24T08:02:00.000Z,24 August 2026 - 08:02 AM,18.92,120.48,012,2.4,048km N 21° W of Burgos (Ilocos Norte),048,N 21° W,Burgos (Ilocos Norte)
+2026-08-24T07:53:00.000Z,24 August 2026 - 07:53 AM,07.21,125.79,019,1.8,013km S 34° W of Mabini (Davao De Oro),013,S 34° W,Mabini (Davao De Oro)
 2026-08-24T07:18:00.000Z,24 August 2026 - 07:18 AM,05.14,125.39,069,3.1,030km S 07° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 07° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-24T06:47:00.000Z,24 August 2026 - 06:47 AM,08.99,126.11,032,1.8,009km N 58° E of San Miguel (Surigao Del Sur),009,N 58° E,San Miguel (Surigao Del Sur)
