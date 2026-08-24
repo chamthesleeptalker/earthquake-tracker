@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T07:12:00.000Z,25 August 2026 - 07:12 AM,13.44,124.95,034,2.0,067km S 69° E of Baras (Catanduanes),067,S 69° E,Baras (Catanduanes)
+2026-08-25T06:53:00.000Z,25 August 2026 - 06:53 AM,13.32,125.01,009,2.6,079km S 61° E of Baras (Catanduanes),079,S 61° E,Baras (Catanduanes)
 2026-08-25T05:25:00.000Z,25 August 2026 - 05:25 AM,07.10,123.29,029,1.8,039km S 03° W of Pitogo (Zamboanga Del Sur),039,S 03° W,Pitogo (Zamboanga Del Sur)
 2026-08-25T05:24:00.000Z,25 August 2026 - 05:24 AM,07.14,123.32,033,1.6,035km S 01° E of Pitogo (Zamboanga Del Sur),035,S 01° E,Pitogo (Zamboanga Del Sur)
 2026-08-25T04:56:00.000Z,25 August 2026 - 04:56 AM,12.85,123.02,033,1.5,025km S 78° W of Claveria (Masbate),025,S 78° W,Claveria (Masbate)

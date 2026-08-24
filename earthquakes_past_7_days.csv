@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T07:12:00.000Z,25 August 2026 - 07:12 AM,13.44,124.95,034,2.0,067km S 69° E of Baras (Catanduanes),067,S 69° E,Baras (Catanduanes)
+2026-08-25T06:53:00.000Z,25 August 2026 - 06:53 AM,13.32,125.01,009,2.6,079km S 61° E of Baras (Catanduanes),079,S 61° E,Baras (Catanduanes)
 2026-08-25T05:25:00.000Z,25 August 2026 - 05:25 AM,07.10,123.29,029,1.8,039km S 03° W of Pitogo (Zamboanga Del Sur),039,S 03° W,Pitogo (Zamboanga Del Sur)
 2026-08-25T05:24:00.000Z,25 August 2026 - 05:24 AM,07.14,123.32,033,1.6,035km S 01° E of Pitogo (Zamboanga Del Sur),035,S 01° E,Pitogo (Zamboanga Del Sur)
 2026-08-25T04:56:00.000Z,25 August 2026 - 04:56 AM,12.85,123.02,033,1.5,025km S 78° W of Claveria (Masbate),025,S 78° W,Claveria (Masbate)
@@ -527,6 +529,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T07:59:00.000Z,18 August 2026 - 07:59 AM,05.05,124.54,033,2.1,103km S 29° W of Maasim (Sarangani),103,S 29° W,Maasim (Sarangani)
 2026-08-18T07:43:00.000Z,18 August 2026 - 07:43 AM,16.48,119.24,022,2.7,071km N 82° W of Bolinao (Pangasinan),071,N 82° W,Bolinao (Pangasinan)
 2026-08-18T07:37:00.000Z,18 August 2026 - 07:37 AM,16.74,120.12,024,1.6,025km N 84° W of Bacnotan (La Union),025,N 84° W,Bacnotan (La Union)
-2026-08-18T06:18:00.000Z,18 August 2026 - 06:18 AM,04.65,125.16,013,2.8,089km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),089,S 19° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-18T06:06:00.000Z,18 August 2026 - 06:06 AM,05.85,124.85,023,1.5,016km S 86° W of Maasim (Sarangani),016,S 86° W,Maasim (Sarangani)
-2026-08-18T05:29:00.000Z,18 August 2026 - 05:29 AM,13.51,120.28,026,1.4,022km N 63° W of Paluan (Occidental Mindoro),022,N 63° W,Paluan (Occidental Mindoro)
