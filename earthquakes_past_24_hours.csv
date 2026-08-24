@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-24T10:21:00.000Z,24 August 2026 - 10:21 AM,05.71,125.34,017,2.5,019km S 50° E of Glan (Sarangani),019,S 50° E,Glan (Sarangani)
+2026-08-24T09:46:00.000Z,24 August 2026 - 09:46 AM,05.76,125.15,032,1.9,009km S 45° W of Glan (Sarangani),009,S 45° W,Glan (Sarangani)
+2026-08-24T09:33:00.000Z,24 August 2026 - 09:33 AM,05.61,125.00,034,2.1,028km S 01° E of Maasim (Sarangani),028,S 01° E,Maasim (Sarangani)
+2026-08-24T09:32:00.000Z,24 August 2026 - 09:32 AM,05.41,125.28,007,2.3,015km S 90° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 90° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-24T08:06:00.000Z,24 August 2026 - 08:06 AM,17.62,120.56,010,1.9,005km N 01° W of Langiden (Abra),005,N 01° W,Langiden (Abra)
 2026-08-24T08:02:00.000Z,24 August 2026 - 08:02 AM,18.92,120.48,012,2.4,048km N 21° W of Burgos (Ilocos Norte),048,N 21° W,Burgos (Ilocos Norte)
 2026-08-24T07:53:00.000Z,24 August 2026 - 07:53 AM,07.21,125.79,019,1.8,013km S 34° W of Mabini (Davao De Oro),013,S 34° W,Mabini (Davao De Oro)
@@ -66,7 +70,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-23T11:17:00.000Z,23 August 2026 - 11:17 AM,09.37,125.72,026,1.8,018km S 59° E of Kitcharao (Agusan Del Norte),018,S 59° E,Kitcharao (Agusan Del Norte)
 2026-08-23T11:04:00.000Z,23 August 2026 - 11:04 AM,11.57,125.22,027,1.9,022km S 73° E of Calbiga (Samar),022,S 73° E,Calbiga (Samar)
 2026-08-23T10:47:00.000Z,23 August 2026 - 10:47 AM,12.45,124.95,025,2.9,012km N 70° W of Catubig (Northern Samar),012,N 70° W,Catubig (Northern Samar)
-2026-08-23T10:08:00.000Z,23 August 2026 - 10:08 AM,12.95,124.63,033,1.8,042km N 45° E of Biri (Northern Samar),042,N 45° E,Biri (Northern Samar)
-2026-08-23T09:24:00.000Z,23 August 2026 - 09:24 AM,05.66,125.23,032,2.5,018km S 08° E of Glan (Sarangani),018,S 08° E,Glan (Sarangani)
-2026-08-23T08:44:00.000Z,23 August 2026 - 08:44 AM,06.05,126.38,024,2.7,075km S 27° E of Governor Generoso (Davao Oriental),075,S 27° E,Governor Generoso (Davao Oriental)
-2026-08-23T08:32:00.000Z,23 August 2026 - 08:32 AM,06.51,126.72,033,2.2,067km S 26° E of Tarragona (Davao Oriental),067,S 26° E,Tarragona (Davao Oriental)
