@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T20:26:00.000Z,25 August 2026 - 08:26 PM,06.01,126.65,019,2.6,095km S 42° E of Governor Generoso (Davao Oriental),095,S 42° E,Governor Generoso (Davao Oriental)
+2026-08-25T19:57:00.000Z,25 August 2026 - 07:57 PM,15.55,120.02,024,1.9,007km N 70° E of Masinloc (Zambales),007,N 70° E,Masinloc (Zambales)
+2026-08-25T19:48:00.000Z,25 August 2026 - 07:48 PM,08.61,125.86,011,2.2,006km N 80° W of Prosperidad (Agusan Del Sur),006,N 80° W,Prosperidad (Agusan Del Sur)
 2026-08-25T19:40:00.000Z,25 August 2026 - 07:40 PM,13.55,120.80,115,1.4,014km N 37° E of Abra De Ilog (Occidental Mindoro),014,N 37° E,Abra De Ilog (Occidental Mindoro)
 2026-08-25T19:26:00.000Z,25 August 2026 - 07:26 PM,10.17,124.97,010,2.1,003km N 76° W of Malitbog (Southern Leyte),003,N 76° W,Malitbog (Southern Leyte)
 2026-08-25T19:19:00.000Z,25 August 2026 - 07:19 PM,17.14,122.35,005,1.5,012km N 44° W of Palanan (Isabela),012,N 44° W,Palanan (Isabela)
@@ -517,5 +520,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T21:31:00.000Z,18 August 2026 - 09:31 PM,07.94,124.39,031,1.4,001km S 45° E of Buadiposo-buntong (Lanao Del Sur),001,S 45° E,Buadiposo-buntong (Lanao Del Sur)
 2026-08-18T20:56:00.000Z,18 August 2026 - 08:56 PM,05.16,125.51,083,3.1,029km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 21° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-18T20:36:00.000Z,18 August 2026 - 08:36 PM,06.72,125.78,037,1.6,032km S 52° W of Lupon (Davao Oriental),032,S 52° W,Lupon (Davao Oriental)
-2026-08-18T20:23:00.000Z,18 August 2026 - 08:23 PM,15.86,121.00,033,1.3,008km N 12° E of San Jose City (Nueva Ecija),008,N 12° E,San Jose City (Nueva Ecija)
-2026-08-18T20:21:00.000Z,18 August 2026 - 08:21 PM,15.90,121.02,031,1.2,009km S 35° W of Carranglan (Nueva Ecija),009,S 35° W,Carranglan (Nueva Ecija)
