@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T21:39:00.000Z,25 August 2026 - 09:39 PM,09.00,126.36,035,1.5,009km N 65° E of Bayabas (Surigao Del Sur),009,N 65° E,Bayabas (Surigao Del Sur)
+2026-08-25T21:17:00.000Z,25 August 2026 - 09:17 PM,13.34,120.28,013,3.3,021km S 67° W of Paluan (Occidental Mindoro),021,S 67° W,Paluan (Occidental Mindoro)
+2026-08-25T21:02:00.000Z,25 August 2026 - 09:02 PM,05.42,125.10,043,2.2,035km N 89° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),035,N 89° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-25T20:52:00.000Z,25 August 2026 - 08:52 PM,02.02,126.67,009,3.1,400km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),400,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-25T20:49:00.000Z,25 August 2026 - 08:49 PM,10.30,121.44,027,1.6,056km S 75° W of Anini-y (Antique),056,S 75° W,Anini-y (Antique)
+2026-08-25T20:46:00.000Z,25 August 2026 - 08:46 PM,10.32,121.35,034,2.1,065km S 79° W of Anini-y (Antique),065,S 79° W,Anini-y (Antique)
 2026-08-25T20:26:00.000Z,25 August 2026 - 08:26 PM,06.01,126.65,019,2.6,095km S 42° E of Governor Generoso (Davao Oriental),095,S 42° E,Governor Generoso (Davao Oriental)
 2026-08-25T19:57:00.000Z,25 August 2026 - 07:57 PM,15.55,120.02,024,1.9,007km N 70° E of Masinloc (Zambales),007,N 70° E,Masinloc (Zambales)
 2026-08-25T19:48:00.000Z,25 August 2026 - 07:48 PM,08.61,125.86,011,2.2,006km N 80° W of Prosperidad (Agusan Del Sur),006,N 80° W,Prosperidad (Agusan Del Sur)
@@ -53,7 +59,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-24T22:08:00.000Z,24 August 2026 - 10:08 PM,07.03,123.24,025,2.3,047km S 10° W of Pitogo (Zamboanga Del Sur),047,S 10° W,Pitogo (Zamboanga Del Sur)
 2026-08-24T22:05:00.000Z,24 August 2026 - 10:05 PM,07.00,123.26,025,1.6,051km S 06° W of Pitogo (Zamboanga Del Sur),051,S 06° W,Pitogo (Zamboanga Del Sur)
 2026-08-24T22:04:00.000Z,24 August 2026 - 10:04 PM,07.03,123.24,020,2.5,048km S 09° W of Pitogo (Zamboanga Del Sur),048,S 09° W,Pitogo (Zamboanga Del Sur)
-2026-08-24T21:12:00.000Z,24 August 2026 - 09:12 PM,05.86,126.53,036,2.0,098km S 87° E of Jose Abad Santos (Davao Occidental),098,S 87° E,Jose Abad Santos (Davao Occidental)
-2026-08-24T20:43:00.000Z,24 August 2026 - 08:43 PM,06.82,126.32,039,2.2,018km S 37° E of City Of Mati (Davao Oriental),018,S 37° E,City Of Mati (Davao Oriental)
-2026-08-24T20:40:00.000Z,24 August 2026 - 08:40 PM,12.43,125.03,033,1.7,003km N 49° W of Catubig (Northern Samar),003,N 49° W,Catubig (Northern Samar)
-2026-08-24T20:34:00.000Z,24 August 2026 - 08:34 PM,05.90,125.34,025,2.2,010km S 35° E of Malapatan (Sarangani),010,S 35° E,Malapatan (Sarangani)
