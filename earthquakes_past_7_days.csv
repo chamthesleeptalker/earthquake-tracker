@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T08:50:00.000Z,25 August 2026 - 08:50 AM,17.58,120.65,004,2.9,002km North of Peñarrubia (Abra),002,North of Peñarrubia,
 2026-08-25T07:20:00.000Z,25 August 2026 - 07:20 AM,05.77,125.27,018,2.0,010km S 53° E of Glan (Sarangani),010,S 53° E,Glan (Sarangani)
 2026-08-25T07:12:00.000Z,25 August 2026 - 07:12 AM,13.44,124.95,034,2.0,067km S 69° E of Baras (Catanduanes),067,S 69° E,Baras (Catanduanes)
 2026-08-25T06:53:00.000Z,25 August 2026 - 06:53 AM,13.32,125.01,009,2.6,079km S 61° E of Baras (Catanduanes),079,S 61° E,Baras (Catanduanes)
@@ -526,7 +527,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T11:08:00.000Z,18 August 2026 - 11:08 AM,09.15,126.42,019,2.6,025km N 37° E of Bayabas (Surigao Del Sur),025,N 37° E,Bayabas (Surigao Del Sur)
 2026-08-18T09:48:00.000Z,18 August 2026 - 09:48 AM,09.20,125.68,084,2.2,016km S 62° E of Santiago (Agusan Del Norte),016,S 62° E,Santiago (Agusan Del Norte)
 2026-08-18T09:32:00.000Z,18 August 2026 - 09:32 AM,11.07,124.13,033,1.7,017km N 80° E of City Of Bogo (Cebu),017,N 80° E,City Of Bogo (Cebu)
-2026-08-18T08:45:00.000Z,18 August 2026 - 08:45 AM,05.36,124.97,039,2.0,051km S 83° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 83° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-18T07:59:00.000Z,18 August 2026 - 07:59 AM,05.05,124.54,033,2.1,103km S 29° W of Maasim (Sarangani),103,S 29° W,Maasim (Sarangani)
-2026-08-18T07:43:00.000Z,18 August 2026 - 07:43 AM,16.48,119.24,022,2.7,071km N 82° W of Bolinao (Pangasinan),071,N 82° W,Bolinao (Pangasinan)
-2026-08-18T07:37:00.000Z,18 August 2026 - 07:37 AM,16.74,120.12,024,1.6,025km N 84° W of Bacnotan (La Union),025,N 84° W,Bacnotan (La Union)
