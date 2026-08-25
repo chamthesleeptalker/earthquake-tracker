@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T14:18:00.000Z,25 August 2026 - 02:18 PM,15.74,119.70,016,2.6,022km S 83° W of Santa Cruz (Zambales),022,S 83° W,Santa Cruz (Zambales)
 2026-08-25T10:58:00.000Z,25 August 2026 - 10:58 AM,05.06,125.27,021,3.0,042km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),042,S 23° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-25T10:35:00.000Z,25 August 2026 - 10:35 AM,05.47,125.40,033,1.9,007km N 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,N 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-25T10:33:00.000Z,25 August 2026 - 10:33 AM,05.15,127.03,017,2.9,176km S 61° E of Jose Abad Santos (Davao Occidental),176,S 61° E,Jose Abad Santos (Davao Occidental)
@@ -47,8 +48,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-24T17:39:00.000Z,24 August 2026 - 05:39 PM,19.23,121.21,002,2.5,012km N 04° W of Dalupiri Island (Calayan) (Cagayan),012,N 04° W,Dalupiri Island (Calayan) (Cagayan)
 2026-08-24T15:44:00.000Z,24 August 2026 - 03:44 PM,04.07,125.40,010,3.1,148km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),148,S 01° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-24T15:17:00.000Z,24 August 2026 - 03:17 PM,06.07,126.07,124,1.7,043km S 71° E of Don Marcelino (Davao Occidental),043,S 71° E,Don Marcelino (Davao Occidental)
-2026-08-24T13:42:00.000Z,24 August 2026 - 01:42 PM,05.49,125.29,020,2.0,017km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-24T12:07:00.000Z,24 August 2026 - 12:07 PM,05.45,125.22,019,2.6,023km N 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-24T11:59:00.000Z,24 August 2026 - 11:59 AM,04.98,125.35,010,5.0,048km S 9° W of Sarangani (Davao Occidental),048,S 9° W,Sarangani (Davao Occidental)
-2026-08-24T11:44:00.000Z,24 August 2026 - 11:44 AM,05.68,125.30,013,2.0,019km S 32° E of Glan (Sarangani),019,S 32° E,Glan (Sarangani)
-2026-08-24T11:29:00.000Z,24 August 2026 - 11:29 AM,12.17,124.93,024,2.1,005km N 57° E of Matuguinao (Samar),005,N 57° E,Matuguinao (Samar)
