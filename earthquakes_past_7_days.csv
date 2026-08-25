@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T19:40:00.000Z,25 August 2026 - 07:40 PM,13.55,120.80,115,1.4,014km N 37° E of Abra De Ilog (Occidental Mindoro),014,N 37° E,Abra De Ilog (Occidental Mindoro)
+2026-08-25T19:26:00.000Z,25 August 2026 - 07:26 PM,10.17,124.97,010,2.1,003km N 76° W of Malitbog (Southern Leyte),003,N 76° W,Malitbog (Southern Leyte)
+2026-08-25T19:19:00.000Z,25 August 2026 - 07:19 PM,17.14,122.35,005,1.5,012km N 44° W of Palanan (Isabela),012,N 44° W,Palanan (Isabela)
 2026-08-25T17:34:00.000Z,25 August 2026 - 05:34 PM,05.77,125.32,026,1.5,014km S 66° E of Glan (Sarangani),014,S 66° E,Glan (Sarangani)
 2026-08-25T17:19:00.000Z,25 August 2026 - 05:19 PM,15.76,120.12,010,1.7,019km S 78° W of Mangatarem (Pangasinan),019,S 78° W,Mangatarem (Pangasinan)
 2026-08-25T16:52:00.000Z,25 August 2026 - 04:52 PM,07.81,124.73,033,1.5,006km N 59° E of Amai Manabilang (Lanao Del Sur),006,N 59° E,Amai Manabilang (Lanao Del Sur)
@@ -425,9 +428,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-19T22:49:00.000Z,19 August 2026 - 10:49 PM,17.65,120.50,004,1.6,010km N 46° W of Langiden (Abra),010,N 46° W,Langiden (Abra)
 2026-08-19T22:41:00.000Z,19 August 2026 - 10:41 PM,17.61,120.53,008,1.9,005km N 44° W of Langiden (Abra),005,N 44° W,Langiden (Abra)
 2026-08-19T22:37:00.000Z,19 August 2026 - 10:37 PM,05.37,125.27,032,1.6,017km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-18T18:47:00.000Z,18 August 2026 - 06:47 PM,05.54,125.42,035,1.6,"009km N 40° W of Sarangani Island (Municipality Of Sarangani) (Davao
-								Occidental)",009,N 40° W,"Sarangani Island (Municipality Of Sarangani) (Davao
-								Occidental)"
 2026-08-19T22:18:00.000Z,19 August 2026 - 10:18 PM,17.64,120.53,002,2.4,008km N 26° W of Langiden (Abra),008,N 26° W,Langiden (Abra)
 2026-08-19T22:03:00.000Z,19 August 2026 - 10:03 PM,13.09,125.65,033,2.6,080km N 33° E of Mapanas (Northern Samar),080,N 33° E,Mapanas (Northern Samar)
 2026-08-19T21:46:00.000Z,19 August 2026 - 09:46 PM,19.58,121.75,011,2.7,019km N 64° W of Babuyan Island (Calayan) (Cagayan),019,N 64° W,Babuyan Island (Calayan) (Cagayan)
@@ -519,15 +519,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T20:36:00.000Z,18 August 2026 - 08:36 PM,06.72,125.78,037,1.6,032km S 52° W of Lupon (Davao Oriental),032,S 52° W,Lupon (Davao Oriental)
 2026-08-18T20:23:00.000Z,18 August 2026 - 08:23 PM,15.86,121.00,033,1.3,008km N 12° E of San Jose City (Nueva Ecija),008,N 12° E,San Jose City (Nueva Ecija)
 2026-08-18T20:21:00.000Z,18 August 2026 - 08:21 PM,15.90,121.02,031,1.2,009km S 35° W of Carranglan (Nueva Ecija),009,S 35° W,Carranglan (Nueva Ecija)
-2026-08-18T19:38:00.000Z,18 August 2026 - 07:38 PM,05.65,125.26,002,2.0,020km S 19° E of Glan (Sarangani),020,S 19° E,Glan (Sarangani)
-2026-08-18T19:21:00.000Z,18 August 2026 - 07:21 PM,05.64,125.16,021,1.3,020km S 13° W of Glan (Sarangani),020,S 13° W,Glan (Sarangani)
-2026-08-18T18:49:00.000Z,18 August 2026 - 06:49 PM,15.89,121.01,013,1.7,010km S 32° W of Carranglan (Nueva Ecija),010,S 32° W,Carranglan (Nueva Ecija)
-2026-08-18T18:34:00.000Z,18 August 2026 - 06:34 PM,05.54,125.42,035,1.6,009km N 40° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,N 40° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-18T18:29:00.000Z,18 August 2026 - 06:29 PM,09.53,125.86,118,2.0,015km S 71° E of Claver (Surigao Del Norte),015,S 71° E,Claver (Surigao Del Norte)
-2026-08-18T18:20:00.000Z,18 August 2026 - 06:20 PM,15.89,121.02,031,1.5,009km S 30° W of Carranglan (Nueva Ecija),009,S 30° W,Carranglan (Nueva Ecija)
-2026-08-18T18:00:00.000Z,18 August 2026 - 06:00 PM,15.58,121.59,023,1.3,017km S 25° E of San Luis (Aurora),017,S 25° E,San Luis (Aurora)
-2026-08-18T18:13:00.000Z,18 August 2026 - 06:13 PM,15.86,120.97,021,1.5,009km S 31° W of Carranglan (Nueva Ecija),009,S 31° W,Carranglan (Nueva Ecija)
-2026-08-18T18:06:00.000Z,18 August 2026 - 06:06 PM,16.18,119.91,033,1.4,005km S 82° E of Bani (Pangasinan),005,S 82° E,Bani (Pangasinan)
-2026-08-18T19:00:00.000Z,18 August 2026 - 07:00 PM,15.59,121.58,022,1.3,016km S 24° E of San Luis (Aurora),016,S 24° E,San Luis (Aurora)
-2026-08-18T17:58:00.000Z,18 August 2026 - 05:58 PM,07.08,125.52,021,1.7,022km N 89° W of Island Garden City Of Samal (Davao Del Norte),022,N 89° W,Island Garden City Of Samal (Davao Del Norte)
-2026-08-18T17:41:00.000Z,18 August 2026 - 05:41 PM,15.86,121.01,005,2.3,008km N 15° E of San Jose City (Nueva Ecija),008,N 15° E,San Jose City (Nueva Ecija)
