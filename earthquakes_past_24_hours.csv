@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-26T05:39:00.000Z,26 August 2026 - 05:39 AM,05.83,125.30,009,1.3,011km N 83° E of Glan (Sarangani),011,N 83° E,Glan (Sarangani)
 2026-08-26T05:12:00.000Z,26 August 2026 - 05:12 AM,05.37,125.31,025,2.6,013km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-26T05:10:00.000Z,26 August 2026 - 05:10 AM,13.15,124.42,008,1.4,027km N 64° E of Prieto Diaz (Sorsogon),027,N 64° E,Prieto Diaz (Sorsogon)
 2026-08-26T04:39:00.000Z,26 August 2026 - 04:39 AM,05.65,125.41,018,2.3,021km N 20° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 20° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -66,5 +67,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-25T07:20:00.000Z,25 August 2026 - 07:20 AM,05.77,125.27,018,2.0,010km S 53° E of Glan (Sarangani),010,S 53° E,Glan (Sarangani)
 2026-08-25T07:12:00.000Z,25 August 2026 - 07:12 AM,13.44,124.95,034,2.0,067km S 69° E of Baras (Catanduanes),067,S 69° E,Baras (Catanduanes)
 2026-08-25T06:53:00.000Z,25 August 2026 - 06:53 AM,13.32,125.01,009,2.6,079km S 61° E of Baras (Catanduanes),079,S 61° E,Baras (Catanduanes)
-2026-08-25T05:25:00.000Z,25 August 2026 - 05:25 AM,07.10,123.29,029,1.8,039km S 03° W of Pitogo (Zamboanga Del Sur),039,S 03° W,Pitogo (Zamboanga Del Sur)
-2026-08-25T05:24:00.000Z,25 August 2026 - 05:24 AM,07.14,123.32,033,1.6,035km S 01° E of Pitogo (Zamboanga Del Sur),035,S 01° E,Pitogo (Zamboanga Del Sur)
