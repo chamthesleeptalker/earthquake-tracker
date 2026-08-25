@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-25T09:59:00.000Z,25 August 2026 - 09:59 AM,09.26,127.09,005,2.8,095km N 70° E of Bayabas (Surigao Del Sur),095,N 70° E,Bayabas (Surigao Del Sur)
+2026-08-25T09:30:00.000Z,25 August 2026 - 09:30 AM,05.50,125.11,022,2.7,036km N 75° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,N 75° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-25T08:50:00.000Z,25 August 2026 - 08:50 AM,17.58,120.65,004,2.9,002km North of Peñarrubia (Abra),002,North of Peñarrubia,
 2026-08-25T07:20:00.000Z,25 August 2026 - 07:20 AM,05.77,125.27,018,2.0,010km S 53° E of Glan (Sarangani),010,S 53° E,Glan (Sarangani)
 2026-08-25T07:12:00.000Z,25 August 2026 - 07:12 AM,13.44,124.95,034,2.0,067km S 69° E of Baras (Catanduanes),067,S 69° E,Baras (Catanduanes)
@@ -525,5 +527,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-18T13:22:00.000Z,18 August 2026 - 01:22 PM,10.25,126.58,014,2.7,061km N 65° E of Burgos (Surigao Del Norte),061,N 65° E,Burgos (Surigao Del Norte)
 2026-08-18T13:07:00.000Z,18 August 2026 - 01:07 PM,19.93,121.08,050,2.3,085km N 29° W of Calayan (Cagayan),085,N 29° W,Calayan (Cagayan)
 2026-08-18T11:08:00.000Z,18 August 2026 - 11:08 AM,09.15,126.42,019,2.6,025km N 37° E of Bayabas (Surigao Del Sur),025,N 37° E,Bayabas (Surigao Del Sur)
-2026-08-18T09:48:00.000Z,18 August 2026 - 09:48 AM,09.20,125.68,084,2.2,016km S 62° E of Santiago (Agusan Del Norte),016,S 62° E,Santiago (Agusan Del Norte)
-2026-08-18T09:32:00.000Z,18 August 2026 - 09:32 AM,11.07,124.13,033,1.7,017km N 80° E of City Of Bogo (Cebu),017,N 80° E,City Of Bogo (Cebu)
