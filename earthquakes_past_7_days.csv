@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-26T05:12:00.000Z,26 August 2026 - 05:12 AM,05.37,125.31,025,2.6,013km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),013,S 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-26T05:10:00.000Z,26 August 2026 - 05:10 AM,13.15,124.42,008,1.4,027km N 64° E of Prieto Diaz (Sorsogon),027,N 64° E,Prieto Diaz (Sorsogon)
 2026-08-26T04:39:00.000Z,26 August 2026 - 04:39 AM,05.65,125.41,018,2.3,021km N 20° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),021,N 20° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-26T04:35:00.000Z,26 August 2026 - 04:35 AM,07.03,126.70,053,2.0,027km S 41° E of Manay (Davao Oriental),027,S 41° E,Manay (Davao Oriental)
 2026-08-26T04:31:00.000Z,26 August 2026 - 04:31 AM,05.47,125.14,028,1.5,032km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),032,N 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -526,5 +528,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-19T06:56:00.000Z,19 August 2026 - 06:56 AM,05.16,126.34,008,2.9,102km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),102,S 70° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T05:53:00.000Z,19 August 2026 - 05:53 AM,05.39,124.93,011,1.9,053km S 08° W of Maasim (Sarangani),053,S 08° W,Maasim (Sarangani)
 2026-08-19T05:49:00.000Z,19 August 2026 - 05:49 AM,12.95,124.69,011,2.6,046km N 50° E of Biri (Northern Samar),046,N 50° E,Biri (Northern Samar)
-2026-08-19T05:08:00.000Z,19 August 2026 - 05:08 AM,09.94,122.37,021,1.4,021km N 21° W of City Of Sipalay (Negros Occidental),021,N 21° W,City Of Sipalay (Negros Occidental)
-2026-08-19T04:57:00.000Z,19 August 2026 - 04:57 AM,13.94,120.67,139,1.6,007km N 89° W of Balayan (Batangas),007,N 89° W,Balayan (Batangas)
