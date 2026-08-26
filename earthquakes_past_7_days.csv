@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-26T15:34:00.000Z,26 August 2026 - 03:34 PM,05.77,125.22,024,2.1,005km S 17° E of Glan (Sarangani),005,S 17° E,Glan (Sarangani)
 2026-08-26T14:26:00.000Z,26 August 2026 - 02:26 PM,10.79,123.01,008,2.4,004km S 69° E of City Of Silay (Negros Occidental),004,S 69° E,City Of Silay (Negros Occidental)
 2026-08-26T14:16:00.000Z,26 August 2026 - 02:16 PM,05.36,125.25,028,1.6,020km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-26T13:32:00.000Z,26 August 2026 - 01:32 PM,18.71,121.09,015,2.2,012km N 05° E of Claveria (Cagayan),012,N 05° E,Claveria (Cagayan)
@@ -504,8 +505,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-19T16:39:00.000Z,19 August 2026 - 04:39 PM,08.00,126.40,029,1.9,005km S 22° W of Lingig (Surigao Del Sur),005,S 22° W,Lingig (Surigao Del Sur)
 2026-08-19T16:17:00.000Z,19 August 2026 - 04:17 PM,05.55,125.24,028,2.1,025km N 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,N 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-19T16:09:00.000Z,19 August 2026 - 04:09 PM,05.67,126.39,029,1.9,087km S 72° E of Jose Abad Santos (Davao Occidental),087,S 72° E,Jose Abad Santos (Davao Occidental)
-2026-08-19T15:15:00.000Z,19 August 2026 - 03:15 PM,05.73,125.07,034,1.4,017km S 28° E of Maasim (Sarangani),017,S 28° E,Maasim (Sarangani)
-2026-08-19T15:14:00.000Z,19 August 2026 - 03:14 PM,02.92,125.36,224,4.0,276km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),276,S 01° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-19T14:50:00.000Z,19 August 2026 - 02:50 PM,19.58,121.85,002,3.2,010km N 40° W of Babuyan Island (Calayan) (Cagayan),010,N 40° W,Babuyan Island (Calayan) (Cagayan)
-2026-08-19T14:41:00.000Z,19 August 2026 - 02:41 PM,11.28,126.11,016,2.9,049km N 65° E of Mercedes (Eastern Samar),049,N 65° E,Mercedes (Eastern Samar)
-2026-08-19T14:29:00.000Z,19 August 2026 - 02:29 PM,05.54,125.31,021,4.2,019km N 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
