@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-19T12:22:00.000Z,19 August 2026 - 12:22 PM,21.69,120.84,10,5.7,144km N 47° W of Itbayat (Batanes),144,N 47° W,Itbayat (Batanes)
 2026-08-22T14:43:00.000Z,22 August 2026 - 02:43 PM,06.56,127.03,83,5.3,084km S 49° E of Tarragona (Davao Oriental),084,S 49° E,Tarragona (Davao Oriental)
 2026-08-19T19:01:00.000Z,19 August 2026 - 07:01 PM,04.95,125.35,10,5.2,052km S 8° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),052,S 8° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-21T17:12:00.000Z,21 August 2026 - 05:12 PM,09.37,125.45,10,5.1,007km N 67° W of Jabonga (Agusan Del Norte),007,N 67° W,Jabonga (Agusan Del Norte)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-20T01:19:00.000Z,20 August 2026 - 01:19 AM,05.74,126.43,22,4.4,096km S 58° E of Don Marcelino (Davao Occidental),096,S 58° E,Don Marcelino (Davao Occidental)
 2026-08-24T02:57:00.000Z,24 August 2026 - 02:57 AM,05.57,126.49,27,4.2,112km S 52° E of Don Marcelino (Davao Occidental),112,S 52° E,Don Marcelino (Davao Occidental)
 2026-08-21T19:20:00.000Z,21 August 2026 - 07:20 PM,09.32,125.51,10,4.2,002km S 14° W of Jabonga (Agusan Del Norte),002,S 14° W,Jabonga (Agusan Del Norte)
+2026-08-21T18:13:00.000Z,21 August 2026 - 06:13 PM,09.32,125.48,10,4.2,004km S 57° W of Jabonga (Agusan Del Norte),004,S 57° W,Jabonga (Agusan Del Norte)
