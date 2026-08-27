@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-27T05:41:00.000Z,27 August 2026 - 05:41 AM,09.26,126.27,026,2.6,009km S 78° E of Cortes (Surigao Del Sur),009,S 78° E,Cortes (Surigao Del Sur)
+2026-08-27T05:04:00.000Z,27 August 2026 - 05:04 AM,07.61,122.02,010,1.5,013km N 78° W of Sirawai (Zamboanga Del Norte),013,N 78° W,Sirawai (Zamboanga Del Norte)
 2026-08-27T03:04:00.000Z,27 August 2026 - 03:04 AM,18.81,120.83,026,2.5,028km N 09° E of Pagudpud (Ilocos Norte),028,N 09° E,Pagudpud (Ilocos Norte)
 2026-08-27T03:00:00.000Z,27 August 2026 - 03:00 AM,09.35,126.81,011,3.3,068km N 83° E of Cortes (Surigao Del Sur),068,N 83° E,Cortes (Surigao Del Sur)
 2026-08-27T02:33:00.000Z,27 August 2026 - 02:33 AM,10.11,126.09,007,3.1,011km N 11° E of Burgos (Surigao Del Norte),011,N 11° E,Burgos (Surigao Del Norte)
