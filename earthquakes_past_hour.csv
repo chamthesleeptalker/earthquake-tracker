@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-28T11:46:00.000Z,28 August 2026 - 11:46 AM,17.24,120.81,032,1.2,009km S 75° E of Tubo (Abra),009,S 75° E,Tubo (Abra)
-2026-08-28T11:32:00.000Z,28 August 2026 - 11:32 AM,18.06,121.00,010,1.9,020km N 80° W of Kabugao (Apayao),020,N 80° W,Kabugao (Apayao)
-2026-08-28T11:23:00.000Z,28 August 2026 - 11:23 AM,18.59,121.74,020,1.9,028km N 22° E of Aparri (Cagayan),028,N 22° E,Aparri (Cagayan)
+2026-08-29T01:09:00.000Z,29 August 2026 - 01:09 AM,05.46,125.26,006,2.5,018km N 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,N 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-29T00:56:00.000Z,29 August 2026 - 12:56 AM,09.41,126.23,009,2.0,014km N 07° E of Cortes (Surigao Del Sur),014,N 07° E,Cortes (Surigao Del Sur)
+2026-08-29T00:27:00.000Z,29 August 2026 - 12:27 AM,10.23,126.01,027,1.7,023km N 06° W of Santa Monica (Surigao Del Norte),023,N 06° W,Santa Monica (Surigao Del Norte)
+2026-08-29T00:17:00.000Z,29 August 2026 - 12:17 AM,18.51,120.95,033,1.9,007km N 44° E of Adams (Ilocos Norte),007,N 44° E,Adams (Ilocos Norte)
+2026-08-29T00:15:00.000Z,29 August 2026 - 12:15 AM,05.78,125.92,026,2.5,034km S 64° E of Jose Abad Santos (Davao Occidental),034,S 64° E,Jose Abad Santos (Davao Occidental)
