@@ -1,6 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-29T15:15:00.000Z,29 August 2026 - 03:15 PM,18.68,120.83,021,1.7,015km N 19° E of Pagudpud (Ilocos Norte),015,N 19° E,Pagudpud (Ilocos Norte)
-2026-08-29T15:06:00.000Z,29 August 2026 - 03:06 PM,09.92,126.41,018,2.5,031km N 61° E of General Luna (Surigao Del Norte),031,N 61° E,General Luna (Surigao Del Norte)
-2026-08-29T14:53:00.000Z,29 August 2026 - 02:53 PM,10.68,125.18,001,2.1,017km N 05° E of Silago (Southern Leyte),017,N 05° E,Silago (Southern Leyte)
-2026-08-29T14:32:00.000Z,29 August 2026 - 02:32 PM,09.88,126.13,002,4.5,003km N 61° E of Pilar (Surigao Del Norte),003,N 61° E,Pilar (Surigao Del Norte)
-2026-08-29T14:23:00.000Z,29 August 2026 - 02:23 PM,12.95,122.96,005,2.2,020km S 05° W of San Pascual (Masbate),020,S 05° W,San Pascual (Masbate)
+2026-08-29T21:43:00.000Z,29 August 2026 - 09:43 PM,10.00,125.77,035,1.8,013km N 53° E of Cagdianao (Dinagat Islands),013,N 53° E,Cagdianao (Dinagat Islands)
+2026-08-29T21:10:00.000Z,29 August 2026 - 09:10 PM,06.14,125.56,021,1.6,017km S 67° W of Don Marcelino (Davao Occidental),017,S 67° W,Don Marcelino (Davao Occidental)
+2026-08-29T21:07:00.000Z,29 August 2026 - 09:07 PM,06.63,125.76,039,1.8,029km N 35° E of Malita (Davao Occidental),029,N 35° E,Malita (Davao Occidental)
+2026-08-29T20:47:00.000Z,29 August 2026 - 08:47 PM,08.67,126.24,030,1.7,009km S 16° E of San Agustin (Surigao Del Sur),009,S 16° E,San Agustin (Surigao Del Sur)
