@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-29T15:15:00.000Z,29 August 2026 - 03:15 PM,18.68,120.83,021,1.7,015km N 19° E of Pagudpud (Ilocos Norte),015,N 19° E,Pagudpud (Ilocos Norte)
+2026-08-29T15:06:00.000Z,29 August 2026 - 03:06 PM,09.92,126.41,018,2.5,031km N 61° E of General Luna (Surigao Del Norte),031,N 61° E,General Luna (Surigao Del Norte)
+2026-08-29T14:53:00.000Z,29 August 2026 - 02:53 PM,10.68,125.18,001,2.1,017km N 05° E of Silago (Southern Leyte),017,N 05° E,Silago (Southern Leyte)
+2026-08-29T14:32:00.000Z,29 August 2026 - 02:32 PM,09.88,126.13,002,4.5,003km N 61° E of Pilar (Surigao Del Norte),003,N 61° E,Pilar (Surigao Del Norte)
+2026-08-29T14:23:00.000Z,29 August 2026 - 02:23 PM,12.95,122.96,005,2.2,020km S 05° W of San Pascual (Masbate),020,S 05° W,San Pascual (Masbate)
+2026-08-29T10:26:00.000Z,29 August 2026 - 10:26 AM,11.83,125.34,032,2.2,011km S 47° W of Taft (Eastern Samar),011,S 47° W,Taft (Eastern Samar)
+2026-08-29T10:16:00.000Z,29 August 2026 - 10:16 AM,13.01,122.96,002,2.2,013km S 09° W of San Pascual (Masbate),013,S 09° W,San Pascual (Masbate)
+2026-08-29T09:59:00.000Z,29 August 2026 - 09:59 AM,18.73,122.19,032,1.8,031km N 10° E of Santa Ana (Cagayan),031,N 10° E,Santa Ana (Cagayan)
 2026-08-29T08:45:00.000Z,29 August 2026 - 08:45 AM,10.46,122.30,017,2.4,021km S 18° E of Miagao (Iloilo),021,S 18° E,Miagao (Iloilo)
 2026-08-29T08:15:00.000Z,29 August 2026 - 08:15 AM,05.33,125.48,014,2.0,011km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,S 37° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-29T06:45:00.000Z,29 August 2026 - 06:45 AM,12.90,123.20,012,1.9,005km S 89° W of Claveria (Masbate),005,S 89° W,Claveria (Masbate)
