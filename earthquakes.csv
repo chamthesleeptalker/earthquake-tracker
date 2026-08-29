@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-30T06:04:00.000Z,30 August 2026 - 06:04 AM,15.20,122.75,033,1.7,072km N 39° E of Jomalig (Quezon),072,N 39° E,Jomalig (Quezon)
+2026-08-30T05:57:00.000Z,30 August 2026 - 05:57 AM,14.56,122.36,016,1.4,015km S 11° E of Jomalig (Quezon),015,S 11° E,Jomalig (Quezon)
+2026-08-30T05:54:00.000Z,30 August 2026 - 05:54 AM,06.88,124.33,016,2.0,005km S 14° E of Datu Anggal Midtimbang (Maguindanao Del Sur),005,S 14° E,Datu Anggal Midtimbang (Maguindanao Del Sur)
+2026-08-30T05:40:00.000Z,30 August 2026 - 05:40 AM,06.44,126.01,136,2.3,025km S 18° W of Governor Generoso (Davao Oriental),025,S 18° W,Governor Generoso (Davao Oriental)
+2026-08-30T05:01:00.000Z,30 August 2026 - 05:01 AM,09.72,125.83,016,3.0,019km N 33° E of Claver (Surigao Del Norte),019,N 33° E,Claver (Surigao Del Norte)
+2026-08-30T04:51:00.000Z,30 August 2026 - 04:51 AM,14.76,122.51,008,2.0,020km N 70° E of Jomalig (Quezon),020,N 70° E,Jomalig (Quezon)
+2026-08-30T04:16:00.000Z,30 August 2026 - 04:16 AM,10.35,125.19,006,2.2,005km S 16° W of Hinunangan (Southern Leyte),005,S 16° W,Hinunangan (Southern Leyte)
 2026-08-30T04:01:00.000Z,30 August 2026 - 04:01 AM,11.88,125.52,034,1.5,010km N 43° E of Sulat (Eastern Samar),010,N 43° E,Sulat (Eastern Samar)
 2026-08-30T04:00:00.000Z,30 August 2026 - 04:00 AM,12.31,123.61,029,1.5,006km S 57° W of Mobo (Masbate),006,S 57° W,Mobo (Masbate)
 2026-08-30T03:35:00.000Z,30 August 2026 - 03:35 AM,18.33,120.63,034,2.2,001km S 57° E of Pasuquin (Ilocos Norte),001,S 57° E,Pasuquin (Ilocos Norte)
