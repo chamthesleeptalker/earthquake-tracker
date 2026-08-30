@@ -1,7 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-30T20:47:00.000Z,30 August 2026 - 08:47 PM,10.97,124.75,022,2.1,009km N 46° E of Albuera (Leyte),009,N 46° E,Albuera (Leyte)
-2026-08-30T20:45:00.000Z,30 August 2026 - 08:45 PM,19.41,121.67,014,1.8,026km N 50° E of Calayan (Cagayan),026,N 50° E,Calayan (Cagayan)
-2026-08-30T20:39:00.000Z,30 August 2026 - 08:39 PM,11.03,124.72,006,3.2,013km N 13° E of Albuera (Leyte),013,N 13° E,Albuera (Leyte)
-2026-08-30T20:31:00.000Z,30 August 2026 - 08:31 PM,12.72,122.99,015,2.7,034km S 55° W of Claveria (Masbate),034,S 55° W,Claveria (Masbate)
-2026-08-30T20:30:00.000Z,30 August 2026 - 08:30 PM,10.91,122.83,036,1.2,010km S 09° E of Banate (Iloilo),010,S 09° E,Banate (Iloilo)
-2026-08-30T20:08:00.000Z,30 August 2026 - 08:08 PM,05.49,125.10,042,4.6,036km N 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,N 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-31T01:12:00.000Z,31 August 2026 - 01:12 AM,12.73,124.33,023,1.8,006km N 37° W of Biri (Northern Samar),006,N 37° W,Biri (Northern Samar)
+2026-08-31T00:32:00.000Z,31 August 2026 - 12:32 AM,05.37,125.32,026,1.8,012km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,S 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-31T00:25:00.000Z,31 August 2026 - 12:25 AM,14.94,123.16,024,2.0,057km N 24° E of Tinaga Island (Vinzons) (Camarines Norte),057,N 24° E,Tinaga Island (Vinzons) (Camarines Norte)
