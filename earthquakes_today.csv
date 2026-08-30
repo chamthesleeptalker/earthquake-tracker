@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-08-31T03:18:00.000Z,31 August 2026 - 03:18 AM,05.90,125.45,026,1.9,019km S 67° E of Malapatan (Sarangani),019,S 67° E,Malapatan (Sarangani)
+2026-08-31T02:44:00.000Z,31 August 2026 - 02:44 AM,15.16,122.21,010,2.4,043km N 37° E of Burdeos (Quezon),043,N 37° E,Burdeos (Quezon)
+2026-08-31T01:58:00.000Z,31 August 2026 - 01:58 AM,05.63,125.39,026,2.3,020km N 27° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 27° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-31T01:42:00.000Z,31 August 2026 - 01:42 AM,17.83,120.29,003,3.4,018km S 76° W of Sinait (Ilocos Sur),018,S 76° W,Sinait (Ilocos Sur)
+2026-08-31T01:39:00.000Z,31 August 2026 - 01:39 AM,06.38,126.84,049,2.3,085km S 30° E of Tarragona (Davao Oriental),085,S 30° E,Tarragona (Davao Oriental)
 2026-08-31T01:12:00.000Z,31 August 2026 - 01:12 AM,12.73,124.33,023,1.8,006km N 37° W of Biri (Northern Samar),006,N 37° W,Biri (Northern Samar)
 2026-08-31T00:32:00.000Z,31 August 2026 - 12:32 AM,05.37,125.32,026,1.8,012km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,S 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-31T00:25:00.000Z,31 August 2026 - 12:25 AM,14.94,123.16,024,2.0,057km N 24° E of Tinaga Island (Vinzons) (Camarines Norte),057,N 24° E,Tinaga Island (Vinzons) (Camarines Norte)
