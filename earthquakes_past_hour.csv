@@ -1,2 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-08-31T08:40:00.000Z,31 August 2026 - 08:40 AM,05.63,125.47,021,2.7,018km N 02° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),018,N 02° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-08-31T15:15:00.000Z,31 August 2026 - 03:15 PM,09.25,126.01,009,1.4,003km N 20° W of Carmen (Surigao Del Sur),003,N 20° W,Carmen (Surigao Del Sur)
+2026-08-31T15:13:00.000Z,31 August 2026 - 03:13 PM,09.70,126.12,030,1.8,010km S 25° W of General Luna (Surigao Del Norte),010,S 25° W,General Luna (Surigao Del Norte)
+2026-08-31T14:58:00.000Z,31 August 2026 - 02:58 PM,09.66,126.16,032,1.6,014km S 01° E of General Luna (Surigao Del Norte),014,S 01° E,General Luna (Surigao Del Norte)
+2026-08-31T14:56:00.000Z,31 August 2026 - 02:56 PM,05.96,125.70,011,1.6,008km N 47° E of Jose Abad Santos (Davao Occidental),008,N 47° E,Jose Abad Santos (Davao Occidental)
+2026-08-31T14:37:00.000Z,31 August 2026 - 02:37 PM,05.68,125.28,010,2.2,018km S 28° E of Glan (Sarangani),018,S 28° E,Glan (Sarangani)
