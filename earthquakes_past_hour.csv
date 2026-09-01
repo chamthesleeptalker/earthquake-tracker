@@ -1,5 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-01T07:47:00.000Z,01 September 2026 - 07:47 AM,12.36,125.48,024,2.4,016km N 50° E of Arteche (Eastern Samar),016,N 50° E,Arteche (Eastern Samar)
-2026-09-01T07:45:00.000Z,01 September 2026 - 07:45 AM,09.26,126.76,007,1.9,062km N 59° E of Bayabas (Surigao Del Sur),062,N 59° E,Bayabas (Surigao Del Sur)
-2026-09-01T07:22:00.000Z,01 September 2026 - 07:22 AM,20.18,121.31,022,2.9,061km S 73° W of Sabtang (Batanes),061,S 73° W,Sabtang (Batanes)
-2026-09-01T06:55:00.000Z,01 September 2026 - 06:55 AM,05.59,125.39,026,2.5,015km N 35° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 35° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-01T13:02:00.000Z,01 September 2026 - 01:02 PM,05.43,127.33,162,3.3,194km S 74° E of Jose Abad Santos (Davao Occidental),194,S 74° E,Jose Abad Santos (Davao Occidental)
+2026-09-01T12:27:00.000Z,01 September 2026 - 12:27 PM,05.06,125.05,019,2.4,057km S 47° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),057,S 47° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
