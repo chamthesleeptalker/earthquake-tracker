@@ -1,7 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-02T02:24:00.000Z,02 September 2026 - 02:24 AM,08.40,125.94,027,2.0,007km N 77° W of Rosario (Agusan Del Sur),007,N 77° W,Rosario (Agusan Del Sur)
-2026-09-02T02:16:00.000Z,02 September 2026 - 02:16 AM,12.46,123.76,011,1.9,002km S 14° W of San Fernando (Masbate),002,S 14° W,San Fernando (Masbate)
-2026-09-02T02:14:00.000Z,02 September 2026 - 02:14 AM,06.00,125.61,096,1.7,011km N 19° W of Jose Abad Santos (Davao Occidental),011,N 19° W,Jose Abad Santos (Davao Occidental)
-2026-09-02T02:01:00.000Z,02 September 2026 - 02:01 AM,10.24,125.27,028,1.7,004km S 22° E of Anahawan (Southern Leyte),004,S 22° E,Anahawan (Southern Leyte)
-2026-09-02T01:53:00.000Z,02 September 2026 - 01:53 AM,05.52,125.13,012,1.6,034km N 69° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),034,N 69° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-02T01:42:00.000Z,02 September 2026 - 01:42 AM,13.89,120.54,076,3.1,012km N 58° W of Calatagan (Batangas),012,N 58° W,Calatagan (Batangas)
+2026-09-02T05:06:00.000Z,02 September 2026 - 05:06 AM,09.24,126.07,019,1.5,001km N 52° E of Lanuza (Surigao Del Sur),001,N 52° E,Lanuza (Surigao Del Sur)
+2026-09-02T05:05:00.000Z,02 September 2026 - 05:05 AM,09.86,122.15,022,1.4,032km N 73° W of City Of Sipalay (Negros Occidental),032,N 73° W,City Of Sipalay (Negros Occidental)
+2026-09-02T04:48:00.000Z,02 September 2026 - 04:48 AM,05.41,125.29,023,1.5,014km S 89° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 89° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-02T04:07:00.000Z,02 September 2026 - 04:07 AM,05.55,125.38,032,1.6,013km N 49° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),013,N 49° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
