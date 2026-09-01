@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-01T16:35:00.000Z,01 September 2026 - 04:35 PM,06.77,123.85,019,1.9,032km N 44° W of Kalamansig (Sultan Kudarat),032,N 44° W,Kalamansig (Sultan Kudarat)
-2026-09-01T16:16:00.000Z,01 September 2026 - 04:16 PM,17.58,120.54,010,1.9,003km West of Langiden (Abra),003,West of Langiden,
-2026-09-01T15:57:00.000Z,01 September 2026 - 03:57 PM,05.80,125.30,017,1.7,011km S 76° E of Glan (Sarangani),011,S 76° E,Glan (Sarangani)
+2026-09-01T23:10:00.000Z,01 September 2026 - 11:10 PM,04.99,125.62,002,1.9,051km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-01T22:52:00.000Z,01 September 2026 - 10:52 PM,05.07,125.29,056,1.8,041km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),041,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-01T22:45:00.000Z,01 September 2026 - 10:45 PM,05.58,125.14,019,1.5,028km S 15° W of Glan (Sarangani),028,S 15° W,Glan (Sarangani)
+2026-09-01T22:22:00.000Z,01 September 2026 - 10:22 PM,06.01,125.41,019,1.6,014km N 70° E of Malapatan (Sarangani),014,N 70° E,Malapatan (Sarangani)
+2026-09-01T22:18:00.000Z,01 September 2026 - 10:18 PM,09.80,125.46,202,3.0,003km N 73° W of City Of Surigao (Surigao Del Norte),003,N 73° W,City Of Surigao (Surigao Del Norte)
