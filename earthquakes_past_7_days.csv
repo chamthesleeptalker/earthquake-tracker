@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-01T07:47:00.000Z,01 September 2026 - 07:47 AM,12.36,125.48,024,2.4,016km N 50° E of Arteche (Eastern Samar),016,N 50° E,Arteche (Eastern Samar)
+2026-09-01T07:45:00.000Z,01 September 2026 - 07:45 AM,09.26,126.76,007,1.9,062km N 59° E of Bayabas (Surigao Del Sur),062,N 59° E,Bayabas (Surigao Del Sur)
+2026-09-01T07:22:00.000Z,01 September 2026 - 07:22 AM,20.18,121.31,022,2.9,061km S 73° W of Sabtang (Batanes),061,S 73° W,Sabtang (Batanes)
+2026-09-01T06:55:00.000Z,01 September 2026 - 06:55 AM,05.59,125.39,026,2.5,015km N 35° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 35° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-01T06:46:00.000Z,01 September 2026 - 06:46 AM,05.87,125.35,015,3.2,013km S 29° E of Malapatan (Sarangani),013,S 29° E,Malapatan (Sarangani)
+2026-09-01T06:11:00.000Z,01 September 2026 - 06:11 AM,19.66,121.80,014,2.9,020km N 36° W of Babuyan Island (Calayan) (Cagayan),020,N 36° W,Babuyan Island (Calayan) (Cagayan)
+2026-09-01T04:52:00.000Z,01 September 2026 - 04:52 AM,08.81,123.18,007,2.4,032km S 04° W of Zamboanguita (Negros Oriental),032,S 04° W,Zamboanguita (Negros Oriental)
+2026-09-01T04:49:00.000Z,01 September 2026 - 04:49 AM,19.66,121.82,012,1.8,020km N 31° W of Babuyan Island (Calayan) (Cagayan),020,N 31° W,Babuyan Island (Calayan) (Cagayan)
+2026-09-01T04:45:00.000Z,01 September 2026 - 04:45 AM,07.62,126.62,029,2.5,008km N 56° E of Baganga (Davao Oriental),008,N 56° E,Baganga (Davao Oriental)
 2026-09-01T04:36:00.000Z,01 September 2026 - 04:36 AM,09.40,122.44,013,1.5,023km S 09° W of Hinoba-an (Negros Occidental),023,S 09° W,Hinoba-an (Negros Occidental)
 2026-09-01T04:34:00.000Z,01 September 2026 - 04:34 AM,09.76,126.40,014,2.5,027km S 86° E of General Luna (Surigao Del Norte),027,S 86° E,General Luna (Surigao Del Norte)
 2026-09-01T03:50:00.000Z,01 September 2026 - 03:50 AM,05.66,125.41,024,1.7,022km N 18° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 18° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -370,9 +379,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-25T09:59:00.000Z,25 August 2026 - 09:59 AM,09.26,127.09,005,2.8,095km N 70° E of Bayabas (Surigao Del Sur),095,N 70° E,Bayabas (Surigao Del Sur)
 2026-08-25T09:30:00.000Z,25 August 2026 - 09:30 AM,05.50,125.11,022,2.7,036km N 75° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,N 75° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-25T08:50:00.000Z,25 August 2026 - 08:50 AM,17.58,120.65,004,2.9,002km North of Peñarrubia (Abra),002,North of Peñarrubia,
-2026-08-25T07:20:00.000Z,25 August 2026 - 07:20 AM,05.77,125.27,018,2.0,010km S 53° E of Glan (Sarangani),010,S 53° E,Glan (Sarangani)
-2026-08-25T07:12:00.000Z,25 August 2026 - 07:12 AM,13.44,124.95,034,2.0,067km S 69° E of Baras (Catanduanes),067,S 69° E,Baras (Catanduanes)
-2026-08-25T06:53:00.000Z,25 August 2026 - 06:53 AM,13.32,125.01,009,2.6,079km S 61° E of Baras (Catanduanes),079,S 61° E,Baras (Catanduanes)
-2026-08-25T05:25:00.000Z,25 August 2026 - 05:25 AM,07.10,123.29,029,1.8,039km S 03° W of Pitogo (Zamboanga Del Sur),039,S 03° W,Pitogo (Zamboanga Del Sur)
-2026-08-25T05:24:00.000Z,25 August 2026 - 05:24 AM,07.14,123.32,033,1.6,035km S 01° E of Pitogo (Zamboanga Del Sur),035,S 01° E,Pitogo (Zamboanga Del Sur)
-2026-08-25T04:56:00.000Z,25 August 2026 - 04:56 AM,12.85,123.02,033,1.5,025km S 78° W of Claveria (Masbate),025,S 78° W,Claveria (Masbate)
