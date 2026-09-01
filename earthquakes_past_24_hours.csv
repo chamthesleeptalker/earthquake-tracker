@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-01T16:35:00.000Z,01 September 2026 - 04:35 PM,06.77,123.85,019,1.9,032km N 44° W of Kalamansig (Sultan Kudarat),032,N 44° W,Kalamansig (Sultan Kudarat)
+2026-09-01T16:16:00.000Z,01 September 2026 - 04:16 PM,17.58,120.54,010,1.9,003km West of Langiden (Abra),003,West of Langiden,
+2026-09-01T15:57:00.000Z,01 September 2026 - 03:57 PM,05.80,125.30,017,1.7,011km S 76° E of Glan (Sarangani),011,S 76° E,Glan (Sarangani)
+2026-09-01T13:23:00.000Z,01 September 2026 - 01:23 PM,12.41,123.66,002,2.9,005km N 45° E of City Of Masbate (Masbate),005,N 45° E,City Of Masbate (Masbate)
 2026-09-01T13:02:00.000Z,01 September 2026 - 01:02 PM,05.43,127.33,162,3.3,194km S 74° E of Jose Abad Santos (Davao Occidental),194,S 74° E,Jose Abad Santos (Davao Occidental)
 2026-09-01T12:27:00.000Z,01 September 2026 - 12:27 PM,05.06,125.05,019,2.4,057km S 47° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),057,S 47° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-01T11:35:00.000Z,01 September 2026 - 11:35 AM,05.73,125.33,022,1.5,018km S 53° E of Glan (Sarangani),018,S 53° E,Glan (Sarangani)
@@ -56,11 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-31T17:01:00.000Z,31 August 2026 - 05:01 PM,05.12,125.07,027,3.1,051km S 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 50° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-31T16:45:00.000Z,31 August 2026 - 04:45 PM,05.49,125.35,026,1.5,012km N 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,N 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-08-31T16:38:00.000Z,31 August 2026 - 04:38 PM,16.04,121.08,045,1.6,009km N 12° E of Carranglan (Nueva Ecija),009,N 12° E,Carranglan (Nueva Ecija)
-2026-08-31T16:33:00.000Z,31 August 2026 - 04:33 PM,05.66,125.27,018,1.8,020km S 20° E of Glan (Sarangani),020,S 20° E,Glan (Sarangani)
-2026-08-31T16:12:00.000Z,31 August 2026 - 04:12 PM,19.08,121.75,003,2.5,022km N 34° W of Camiguin Island (Calayan) (Cagayan),022,N 34° W,Camiguin Island (Calayan) (Cagayan)
-2026-08-31T16:10:00.000Z,31 August 2026 - 04:10 PM,13.37,123.84,034,2.2,010km N 32° E of Bacacay (Albay),010,N 32° E,Bacacay (Albay)
-2026-08-31T15:15:00.000Z,31 August 2026 - 03:15 PM,09.25,126.01,009,1.4,003km N 20° W of Carmen (Surigao Del Sur),003,N 20° W,Carmen (Surigao Del Sur)
-2026-08-31T15:13:00.000Z,31 August 2026 - 03:13 PM,09.70,126.12,030,1.8,010km S 25° W of General Luna (Surigao Del Norte),010,S 25° W,General Luna (Surigao Del Norte)
-2026-08-31T14:58:00.000Z,31 August 2026 - 02:58 PM,09.66,126.16,032,1.6,014km S 01° E of General Luna (Surigao Del Norte),014,S 01° E,General Luna (Surigao Del Norte)
-2026-08-31T14:56:00.000Z,31 August 2026 - 02:56 PM,05.96,125.70,011,1.6,008km N 47° E of Jose Abad Santos (Davao Occidental),008,N 47° E,Jose Abad Santos (Davao Occidental)
-2026-08-31T14:37:00.000Z,31 August 2026 - 02:37 PM,05.68,125.28,010,2.2,018km S 28° E of Glan (Sarangani),018,S 28° E,Glan (Sarangani)
