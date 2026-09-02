@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-03T00:28:00.000Z,03 September 2026 - 12:28 AM,17.54,120.17,020,2.6,022km S 75° W of Santa Catalina (Ilocos Sur),022,S 75° W,Santa Catalina (Ilocos Sur)
+2026-09-02T23:54:00.000Z,02 September 2026 - 11:54 PM,16.35,120.56,002,2.6,005km South of Tuba (Benguet),005,South of Tuba,
+2026-09-02T23:44:00.000Z,02 September 2026 - 11:44 PM,13.63,120.61,108,2.6,023km S 05° W of Calatagan (Batangas),023,S 05° W,Calatagan (Batangas)
+2026-09-02T23:36:00.000Z,02 September 2026 - 11:36 PM,05.32,125.28,033,1.7,019km S 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 56° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-02T22:51:00.000Z,02 September 2026 - 10:51 PM,10.41,125.17,004,3.4,011km N 52° W of Hinundayan (Southern Leyte),011,N 52° W,Hinundayan (Southern Leyte)
+2026-09-02T22:47:00.000Z,02 September 2026 - 10:47 PM,09.28,126.25,024,1.4,006km N 86° E of Cortes (Surigao Del Sur),006,N 86° E,Cortes (Surigao Del Sur)
+2026-09-02T22:44:00.000Z,02 September 2026 - 10:44 PM,09.32,126.47,023,2.4,031km N 81° E of Cortes (Surigao Del Sur),031,N 81° E,Cortes (Surigao Del Sur)
+2026-09-02T22:34:00.000Z,02 September 2026 - 10:34 PM,07.91,126.21,022,1.8,018km N 77° W of Boston (Davao Oriental),018,N 77° W,Boston (Davao Oriental)
+2026-09-02T21:47:00.000Z,02 September 2026 - 09:47 PM,05.54,125.31,040,2.1,019km N 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 39° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-02T19:56:00.000Z,02 September 2026 - 07:56 PM,05.26,125.32,025,1.8,020km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-02T19:14:00.000Z,02 September 2026 - 07:14 PM,12.95,121.00,019,1.8,026km N 63° E of Sablayan (Occidental Mindoro),026,N 63° E,Sablayan (Occidental Mindoro)
 2026-09-02T16:53:00.000Z,02 September 2026 - 04:53 PM,18.47,120.68,020,2.5,006km S 34° E of Burgos (Ilocos Norte),006,S 34° E,Burgos (Ilocos Norte)
