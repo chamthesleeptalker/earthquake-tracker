@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-03T07:31:00.000Z,03 September 2026 - 07:31 AM,09.99,126.01,024,2.5,003km N 15° E of San Benito (Surigao Del Norte),003,N 15° E,San Benito (Surigao Del Norte)
+2026-09-03T07:24:00.000Z,03 September 2026 - 07:24 AM,16.92,121.42,016,3.9,007km West of Alfonso Lista (Ifugao),007,West of Alfonso,(Ifugao)
+2026-09-03T06:17:00.000Z,03 September 2026 - 06:17 AM,16.92,121.47,010,2.5,002km West of Alfonso Lista (Ifugao),002,West of Alfonso,(Ifugao)
 2026-09-03T05:56:00.000Z,03 September 2026 - 05:56 AM,13.30,120.41,007,1.9,014km S 24° W of Paluan (Occidental Mindoro),014,S 24° W,Paluan (Occidental Mindoro)
 2026-09-03T05:46:00.000Z,03 September 2026 - 05:46 AM,06.53,126.68,032,2.7,063km S 24° E of Tarragona (Davao Oriental),063,S 24° E,Tarragona (Davao Oriental)
 2026-09-03T05:45:00.000Z,03 September 2026 - 05:45 AM,18.37,120.46,026,2.5,017km N 77° W of Pasuquin (Ilocos Norte),017,N 77° W,Pasuquin (Ilocos Norte)
