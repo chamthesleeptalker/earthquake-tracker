@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-04T01:13:00.000Z,04 September 2026 - 01:13 AM,07.28,124.95,132,2.6,013km N 74° W of Antipas (Cotabato),013,N 74° W,Antipas (Cotabato)
-2026-09-04T00:35:00.000Z,04 September 2026 - 12:35 AM,13.02,124.28,027,1.8,010km S 73° E of Prieto Diaz (Sorsogon),010,S 73° E,Prieto Diaz (Sorsogon)
-2026-09-04T00:30:00.000Z,04 September 2026 - 12:30 AM,05.47,125.26,028,1.9,019km N 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,N 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-04T04:16:00.000Z,04 September 2026 - 04:16 AM,14.84,121.94,028,1.7,003km S 88° W of Burdeos (Quezon),003,S 88° W,Burdeos (Quezon)
+2026-09-04T04:14:00.000Z,04 September 2026 - 04:14 AM,13.58,125.47,063,2.5,119km S 79° E of Gigmoto (Catanduanes),119,S 79° E,Gigmoto (Catanduanes)
+2026-09-04T04:07:00.000Z,04 September 2026 - 04:07 AM,04.95,125.24,030,3.1,055km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),055,S 21° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-04T03:23:00.000Z,04 September 2026 - 03:23 AM,18.66,120.79,035,1.8,011km N 04° E of Pagudpud (Ilocos Norte),011,N 04° E,Pagudpud (Ilocos Norte)
