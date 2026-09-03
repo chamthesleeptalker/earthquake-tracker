@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-03T12:30:00.000Z,03 September 2026 - 12:30 PM,05.54,125.04,035,1.5,036km S 31° W of Glan (Sarangani),036,S 31° W,Glan (Sarangani)
+2026-09-03T10:52:00.000Z,03 September 2026 - 10:52 AM,07.24,123.40,002,3.0,025km S 02° W of Tabina (Zamboanga Del Sur),025,S 02° W,Tabina (Zamboanga Del Sur)
+2026-09-03T09:08:00.000Z,03 September 2026 - 09:08 AM,05.68,125.21,032,2.0,015km S 02° E of Glan (Sarangani),015,S 02° E,Glan (Sarangani)
+2026-09-03T08:48:00.000Z,03 September 2026 - 08:48 AM,07.18,121.86,032,1.7,026km S 60° W of Sibuco (Zamboanga Del Norte),026,S 60° W,Sibuco (Zamboanga Del Norte)
+2026-09-03T08:40:00.000Z,03 September 2026 - 08:40 AM,13.16,124.20,033,1.6,008km S 68° E of Rapu-rapu (Albay),008,S 68° E,Rapu-rapu (Albay)
+2026-09-03T08:17:00.000Z,03 September 2026 - 08:17 AM,08.74,126.23,032,1.8,001km S 68° E of San Agustin (Surigao Del Sur),001,S 68° E,San Agustin (Surigao Del Sur)
 2026-09-03T07:31:00.000Z,03 September 2026 - 07:31 AM,09.99,126.01,024,2.5,003km N 15° E of San Benito (Surigao Del Norte),003,N 15° E,San Benito (Surigao Del Norte)
 2026-09-03T07:24:00.000Z,03 September 2026 - 07:24 AM,16.92,121.42,016,3.9,007km West of Alfonso Lista (Ifugao),007,West of Alfonso,(Ifugao)
 2026-09-03T06:17:00.000Z,03 September 2026 - 06:17 AM,16.92,121.47,010,2.5,002km West of Alfonso Lista (Ifugao),002,West of Alfonso,(Ifugao)
