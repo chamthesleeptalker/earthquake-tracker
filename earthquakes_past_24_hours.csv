@@ -1,4 +1,14 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-05T06:33:00.000Z,05 September 2026 - 06:33 AM,05.55,125.41,034,2.2,011km N 38° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),011,N 38° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T05:59:00.000Z,05 September 2026 - 05:59 AM,19.02,121.44,013,2.2,021km N 21° E of Fuga Island (Aparri) (Cagayan),021,N 21° E,Fuga Island (Aparri) (Cagayan)
+2026-09-05T05:54:00.000Z,05 September 2026 - 05:54 AM,05.54,125.21,034,1.8,027km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,N 59° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T05:43:00.000Z,05 September 2026 - 05:43 AM,08.48,125.84,035,2.0,007km N 60° E of Talacogon (Agusan Del Sur),007,N 60° E,Talacogon (Agusan Del Sur)
+2026-09-05T05:34:00.000Z,05 September 2026 - 05:34 AM,05.53,125.36,029,1.7,014km N 63° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),014,N 63° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T05:29:00.000Z,05 September 2026 - 05:29 AM,06.18,126.59,034,2.1,077km S 47° E of Governor Generoso (Davao Oriental),077,S 47° E,Governor Generoso (Davao Oriental)
+2026-09-05T05:11:00.000Z,05 September 2026 - 05:11 AM,05.71,125.29,029,1.8,016km S 38° E of Glan (Sarangani),016,S 38° E,Glan (Sarangani)
+2026-09-05T05:08:00.000Z,05 September 2026 - 05:08 AM,05.23,125.22,004,2.5,027km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 68° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T05:07:00.000Z,05 September 2026 - 05:07 AM,09.22,122.00,009,3.4,066km S 51° W of Hinoba-an (Negros Occidental),066,S 51° W,Hinoba-an (Negros Occidental)
+2026-09-05T04:53:00.000Z,05 September 2026 - 04:53 AM,13.98,120.33,110,3.7,026km N 60° E of Lubang (Occidental Mindoro),026,N 60° E,Lubang (Occidental Mindoro)
 2026-09-05T04:39:00.000Z,05 September 2026 - 04:39 AM,12.71,120.41,025,1.8,043km S 70° W of Sablayan (Occidental Mindoro),043,S 70° W,Sablayan (Occidental Mindoro)
 2026-09-05T04:37:00.000Z,05 September 2026 - 04:37 AM,18.79,121.08,023,1.6,020km North of Claveria (Cagayan),020,North of Claveria,
 2026-09-05T04:34:00.000Z,05 September 2026 - 04:34 AM,17.04,120.92,029,1.9,003km N 02° W of Sabangan (Mountain Province),003,N 02° W,Sabangan (Mountain Province)
@@ -68,6 +78,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-04T07:07:00.000Z,04 September 2026 - 07:07 AM,07.12,123.58,026,3.0,042km S 26° E of Tabina (Zamboanga Del Sur),042,S 26° E,Tabina (Zamboanga Del Sur)
 2026-09-04T06:58:00.000Z,04 September 2026 - 06:58 AM,05.67,125.31,033,1.6,020km S 36° E of Glan (Sarangani),020,S 36° E,Glan (Sarangani)
 2026-09-04T06:48:00.000Z,04 September 2026 - 06:48 AM,12.64,123.24,022,1.7,022km N 50° W of Aroroy (Masbate),022,N 50° W,Aroroy (Masbate)
-2026-09-04T05:53:00.000Z,04 September 2026 - 05:53 AM,05.58,125.05,019,2.1,032km S 32° W of Glan (Sarangani),032,S 32° W,Glan (Sarangani)
-2026-09-04T05:22:00.000Z,04 September 2026 - 05:22 AM,09.17,126.20,031,2.9,011km N 21° E of City Of Tandag (Surigao Del Sur),011,N 21° E,City Of Tandag (Surigao Del Sur)
-2026-09-04T05:18:00.000Z,04 September 2026 - 05:18 AM,10.07,126.41,048,1.5,037km N 81° E of Burgos (Surigao Del Norte),037,N 81° E,Burgos (Surigao Del Norte)
