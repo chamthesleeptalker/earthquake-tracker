@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-06T01:09:00.000Z,06 September 2026 - 01:09 AM,05.47,125.47,033,2.6,001km N 79° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),001,N 79° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-06T00:29:00.000Z,06 September 2026 - 12:29 AM,08.14,127.04,025,3.1,070km N 81° E of Lingig (Surigao Del Sur),070,N 81° E,Lingig (Surigao Del Sur)
+2026-09-06T00:25:00.000Z,06 September 2026 - 12:25 AM,19.91,121.66,014,2.9,052km S 26° W of Sabtang (Batanes),052,S 26° W,Sabtang (Batanes)
+2026-09-06T00:17:00.000Z,06 September 2026 - 12:17 AM,09.30,126.26,015,1.7,008km N 69° E of Cortes (Surigao Del Sur),008,N 69° E,Cortes (Surigao Del Sur)
+2026-09-06T00:04:00.000Z,06 September 2026 - 12:04 AM,07.65,124.68,033,2.0,005km N 79° W of Wao (Lanao Del Sur),005,N 79° W,Wao (Lanao Del Sur)
+2026-09-06T00:01:00.000Z,06 September 2026 - 12:01 AM,05.74,125.28,029,1.8,013km S 42° E of Glan (Sarangani),013,S 42° E,Glan (Sarangani)
 2026-09-05T23:35:00.000Z,05 September 2026 - 11:35 PM,05.35,125.09,041,3.4,037km S 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-05T23:15:00.000Z,05 September 2026 - 11:15 PM,10.95,123.79,010,3.5,023km S 63° W of City Of Bogo (Cebu),023,S 63° W,City Of Bogo (Cebu)
 2026-09-05T22:47:00.000Z,05 September 2026 - 10:47 PM,11.14,121.00,010,1.6,007km S 76° E of Agutaya (Palawan),007,S 76° E,Agutaya (Palawan)
