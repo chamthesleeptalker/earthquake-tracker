@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-05T23:35:00.000Z,05 September 2026 - 11:35 PM,05.35,125.09,041,3.4,037km S 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),037,S 80° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T23:15:00.000Z,05 September 2026 - 11:15 PM,10.95,123.79,010,3.5,023km S 63° W of City Of Bogo (Cebu),023,S 63° W,City Of Bogo (Cebu)
+2026-09-05T22:47:00.000Z,05 September 2026 - 10:47 PM,11.14,121.00,010,1.6,007km S 76° E of Agutaya (Palawan),007,S 76° E,Agutaya (Palawan)
+2026-09-05T22:28:00.000Z,05 September 2026 - 10:28 PM,09.27,126.62,005,2.0,047km S 89° E of Cortes (Surigao Del Sur),047,S 89° E,Cortes (Surigao Del Sur)
+2026-09-05T22:04:00.000Z,05 September 2026 - 10:04 PM,09.81,125.98,032,1.4,006km S 11° E of Del Carmen (Surigao Del Norte),006,S 11° E,Del Carmen (Surigao Del Norte)
+2026-09-05T21:54:00.000Z,05 September 2026 - 09:54 PM,05.20,125.37,017,2.2,024km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 13° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T21:51:00.000Z,05 September 2026 - 09:51 PM,14.95,120.23,019,2.0,004km N 69° E of Castillejos (Zambales),004,N 69° E,Castillejos (Zambales)
+2026-09-05T21:31:00.000Z,05 September 2026 - 09:31 PM,10.16,126.02,024,2.2,015km N 07° W of Santa Monica (Surigao Del Norte),015,N 07° W,Santa Monica (Surigao Del Norte)
+2026-09-05T21:10:00.000Z,05 September 2026 - 09:10 PM,10.92,123.81,004,4.0,023km S 51° W of City Of Bogo (Cebu),023,S 51° W,City Of Bogo (Cebu)
 2026-09-05T19:10:00.000Z,05 September 2026 - 07:10 PM,12.98,123.08,012,2.2,020km N 65° W of Claveria (Masbate),020,N 65° W,Claveria (Masbate)
 2026-09-05T19:08:00.000Z,05 September 2026 - 07:08 PM,18.72,120.61,010,3.8,023km N 9° W of Burgos (Ilocos Norte),023,N 9° W,Burgos (Ilocos Norte)
 2026-09-05T19:06:00.000Z,05 September 2026 - 07:06 PM,05.41,126.42,002,2.7,103km S 57° E of Jose Abad Santos (Davao Occidental),103,S 57° E,Jose Abad Santos (Davao Occidental)
