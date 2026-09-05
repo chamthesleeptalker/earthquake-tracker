@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-05T12:05:00.000Z,05 September 2026 - 12:05 PM,05.63,125.38,023,2.0,020km N 31° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 31° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T11:25:00.000Z,05 September 2026 - 11:25 AM,05.65,125.11,028,1.5,021km S 28° W of Glan (Sarangani),021,S 28° W,Glan (Sarangani)
+2026-09-05T10:32:00.000Z,05 September 2026 - 10:32 AM,16.04,120.04,034,1.5,006km S 63° W of Sual (Pangasinan),006,S 63° W,Sual (Pangasinan)
+2026-09-05T09:49:00.000Z,05 September 2026 - 09:49 AM,05.32,125.34,031,2.1,014km S 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-05T09:23:00.000Z,05 September 2026 - 09:23 AM,13.20,123.95,012,1.9,012km N 47° E of Manito (Albay),012,N 47° E,Manito (Albay)
+2026-09-05T09:14:00.000Z,05 September 2026 - 09:14 AM,15.33,120.28,035,1.4,026km S 49° W of San Jose (Tarlac),026,S 49° W,San Jose (Tarlac)
+2026-09-04T12:20:00.000Z,04 September 2026 - 12:20 PM,08.02,125.62,020,2.2,034km N 69° E of San Fernando (Bukidnon),034,N 69° E,San Fernando (Bukidnon)
 2026-09-05T08:11:00.000Z,05 September 2026 - 08:11 AM,19.24,121.49,008,2.5,003km S 30° E of Calayan (Cagayan),003,S 30° E,Calayan (Cagayan)
 2026-09-05T06:49:00.000Z,05 September 2026 - 06:49 AM,14.87,120.01,055,1.8,012km S 42° W of San Antonio (Zambales),012,S 42° W,San Antonio (Zambales)
 2026-09-05T06:49:00.000Z,05 September 2026 - 06:49 AM,05.28,125.23,033,2.3,026km S 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 54° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
