@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-06T22:53:00.000Z,06 September 2026 - 10:53 PM,11.76,125.40,002,1.8,006km N 80° W of San Julian (Eastern Samar),006,N 80° W,San Julian (Eastern Samar)
-2026-09-06T22:09:00.000Z,06 September 2026 - 10:09 PM,14.77,121.87,004,1.7,010km N 46° W of Polillo (Quezon),010,N 46° W,Polillo (Quezon)
-2026-09-06T21:53:00.000Z,06 September 2026 - 09:53 PM,12.65,120.81,033,1.5,017km N 58° W of Calintaan (Occidental Mindoro),017,N 58° W,Calintaan (Occidental Mindoro)
+2026-09-07T01:26:00.000Z,07 September 2026 - 01:26 AM,07.91,126.96,009,1.9,057km N 76° E of Cateel (Davao Oriental),057,N 76° E,Cateel (Davao Oriental)
+2026-09-07T01:15:00.000Z,07 September 2026 - 01:15 AM,09.66,126.22,024,2.3,015km S 30° E of General Luna (Surigao Del Norte),015,S 30° E,General Luna (Surigao Del Norte)
+2026-09-07T01:05:00.000Z,07 September 2026 - 01:05 AM,10.66,122.56,031,1.8,005km S 32° W of City Of Iloilo (Iloilo),005,S 32° W,City Of Iloilo (Iloilo)
+2026-09-07T01:04:00.000Z,07 September 2026 - 01:04 AM,06.15,125.90,131,2.0,023km S 78° E of Don Marcelino (Davao Occidental),023,S 78° E,Don Marcelino (Davao Occidental)
+2026-09-07T00:28:00.000Z,07 September 2026 - 12:28 AM,16.55,120.51,008,3.6,010km S 74° W of Kapangan (Benguet),010,S 74° W,Kapangan (Benguet)
