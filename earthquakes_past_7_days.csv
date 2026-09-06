@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-06T09:19:00.000Z,06 September 2026 - 09:19 AM,09.44,126.29,010,2.5,021km N 31° E of Cortes (Surigao Del Sur),021,N 31° E,Cortes (Surigao Del Sur)
+2026-09-06T08:57:00.000Z,06 September 2026 - 08:57 AM,05.42,125.47,033,2.1,005km N 77° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),005,N 77° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-06T06:00:00.000Z,06 September 2026 - 06:00 AM,08.77,126.69,021,2.2,043km S 86° E of Marihatag (Surigao Del Sur),043,S 86° E,Marihatag (Surigao Del Sur)
 2026-09-06T05:56:00.000Z,06 September 2026 - 05:56 AM,05.70,126.63,041,2.7,112km S 78° E of Jose Abad Santos (Davao Occidental),112,S 78° E,Jose Abad Santos (Davao Occidental)
 2026-09-06T05:34:00.000Z,06 September 2026 - 05:34 AM,05.41,126.19,002,3.3,079km S 85° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),079,S 85° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -416,11 +418,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-30T10:20:00.000Z,30 August 2026 - 10:20 AM,09.68,126.15,024,2.1,011km S 05° W of General Luna (Surigao Del Norte),011,S 05° W,General Luna (Surigao Del Norte)
 2026-08-30T10:09:00.000Z,30 August 2026 - 10:09 AM,11.27,124.62,006,2.0,003km S 41° W of Capoocan (Leyte),003,S 41° W,Capoocan (Leyte)
 2026-08-30T10:02:00.000Z,30 August 2026 - 10:02 AM,06.84,126.21,009,2.5,013km S 05° W of City Of Mati (Davao Oriental),013,S 05° W,City Of Mati (Davao Oriental)
-2026-08-30T08:47:00.000Z,30 August 2026 - 08:47 AM,05.69,125.10,025,1.7,018km S 39° W of Glan (Sarangani),018,S 39° W,Glan (Sarangani)
-2026-08-30T08:17:00.000Z,30 August 2026 - 08:17 AM,17.20,120.26,022,1.9,020km N 80° W of City Of Candon (Ilocos Sur),020,N 80° W,City Of Candon (Ilocos Sur)
-2026-08-30T08:06:00.000Z,30 August 2026 - 08:06 AM,11.17,124.05,033,1.5,016km N 30° E of City Of Bogo (Cebu),016,N 30° E,City Of Bogo (Cebu)
-2026-08-30T07:37:00.000Z,30 August 2026 - 07:37 AM,05.50,125.15,017,1.7,032km N 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),032,N 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-30T06:45:00.000Z,30 August 2026 - 06:45 AM,11.03,124.05,005,2.1,008km S 74° E of City Of Bogo (Cebu),008,S 74° E,City Of Bogo (Cebu)
-2026-08-30T06:45:00.000Z,30 August 2026 - 06:45 AM,09.83,126.24,023,2.8,010km N 61° E of General Luna (Surigao Del Norte),010,N 61° E,General Luna (Surigao Del Norte)
-2026-08-30T06:43:00.000Z,30 August 2026 - 06:43 AM,06.97,126.11,032,2.1,012km N 79° W of City Of Mati (Davao Oriental),012,N 79° W,City Of Mati (Davao Oriental)
-2026-08-30T06:04:00.000Z,30 August 2026 - 06:04 AM,15.20,122.75,033,1.7,072km N 39° E of Jomalig (Quezon),072,N 39° E,Jomalig (Quezon)
