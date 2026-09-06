@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-07T03:24:00.000Z,07 September 2026 - 03:24 AM,13.49,121.55,016,1.9,031km N 81° W of Boac (Marinduque),031,N 81° W,Boac (Marinduque)
+2026-09-07T03:07:00.000Z,07 September 2026 - 03:07 AM,07.00,123.95,002,2.0,011km S 44° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),011,S 44° W,Datu Blah T. Sinsuat (Maguindanao Del Norte)
+2026-09-07T02:34:00.000Z,07 September 2026 - 02:34 AM,06.75,126.96,012,3.4,066km S 60° E of Tarragona (Davao Oriental),066,S 60° E,Tarragona (Davao Oriental)
+2026-09-07T01:40:00.000Z,07 September 2026 - 01:40 AM,07.94,126.88,023,3.1,053km S 79° E of Lingig (Surigao Del Sur),053,S 79° E,Lingig (Surigao Del Sur)
+2026-09-07T01:35:00.000Z,07 September 2026 - 01:35 AM,05.91,127.14,017,2.3,144km S 55° E of Governor Generoso (Davao Oriental),144,S 55° E,Governor Generoso (Davao Oriental)
 2026-09-07T01:26:00.000Z,07 September 2026 - 01:26 AM,07.91,126.96,009,1.9,057km N 76° E of Cateel (Davao Oriental),057,N 76° E,Cateel (Davao Oriental)
 2026-09-07T01:15:00.000Z,07 September 2026 - 01:15 AM,09.66,126.22,024,2.3,015km S 30° E of General Luna (Surigao Del Norte),015,S 30° E,General Luna (Surigao Del Norte)
 2026-09-07T01:05:00.000Z,07 September 2026 - 01:05 AM,10.66,122.56,031,1.8,005km S 32° W of City Of Iloilo (Iloilo),005,S 32° W,City Of Iloilo (Iloilo)
@@ -405,8 +410,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-31T06:18:00.000Z,31 August 2026 - 06:18 AM,05.73,125.31,024,1.7,016km S 49° E of Glan (Sarangani),016,S 49° E,Glan (Sarangani)
 2026-08-31T05:18:00.000Z,31 August 2026 - 05:18 AM,19.28,121.78,010,2.1,029km S 28° W of Babuyan Island (Calayan) (Cagayan),029,S 28° W,Babuyan Island (Calayan) (Cagayan)
 2026-08-31T04:42:00.000Z,31 August 2026 - 04:42 AM,05.07,125.19,021,2.5,046km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),046,S 33° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-31T03:18:00.000Z,31 August 2026 - 03:18 AM,05.90,125.45,026,1.9,019km S 67° E of Malapatan (Sarangani),019,S 67° E,Malapatan (Sarangani)
-2026-08-31T02:44:00.000Z,31 August 2026 - 02:44 AM,15.16,122.21,010,2.4,043km N 37° E of Burdeos (Quezon),043,N 37° E,Burdeos (Quezon)
-2026-08-31T01:58:00.000Z,31 August 2026 - 01:58 AM,05.63,125.39,026,2.3,020km N 27° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 27° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-31T01:42:00.000Z,31 August 2026 - 01:42 AM,17.83,120.29,003,3.4,018km S 76° W of Sinait (Ilocos Sur),018,S 76° W,Sinait (Ilocos Sur)
-2026-08-31T01:39:00.000Z,31 August 2026 - 01:39 AM,06.38,126.84,049,2.3,085km S 30° E of Tarragona (Davao Oriental),085,S 30° E,Tarragona (Davao Oriental)
