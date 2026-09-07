@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-07T07:44:00.000Z,07 September 2026 - 07:44 AM,11.12,124.07,020,2.0,013km N 51° E of City Of Bogo (Cebu),013,N 51° E,City Of Bogo (Cebu)
+2026-09-07T06:13:00.000Z,07 September 2026 - 06:13 AM,13.66,120.61,108,3.0,020km S 09° W of Calatagan (Batangas),020,S 09° W,Calatagan (Batangas)
 2026-09-07T05:49:00.000Z,07 September 2026 - 05:49 AM,11.14,124.14,011,2.3,020km N 58° E of City Of Bogo (Cebu),020,N 58° E,City Of Bogo (Cebu)
 2026-09-07T05:40:00.000Z,07 September 2026 - 05:40 AM,05.35,125.21,032,2.2,025km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-07T04:50:00.000Z,07 September 2026 - 04:50 AM,08.05,126.07,002,1.8,002km N 12° W of Trento (Agusan Del Sur),002,N 12° W,Trento (Agusan Del Sur)
@@ -413,5 +415,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-08-31T10:50:00.000Z,31 August 2026 - 10:50 AM,19.45,121.26,031,1.9,031km N 47° W of Calayan (Cagayan),031,N 47° W,Calayan (Cagayan)
 2026-08-31T10:47:00.000Z,31 August 2026 - 10:47 AM,05.67,125.14,027,2.6,019km S 22° W of Glan (Sarangani),019,S 22° W,Glan (Sarangani)
 2026-08-31T08:40:00.000Z,31 August 2026 - 08:40 AM,05.63,125.47,021,2.7,018km N 02° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),018,N 02° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-31T06:23:00.000Z,31 August 2026 - 06:23 AM,05.40,125.32,045,2.4,011km S 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,S 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-08-31T06:18:00.000Z,31 August 2026 - 06:18 AM,05.73,125.31,024,1.7,016km S 49° E of Glan (Sarangani),016,S 49° E,Glan (Sarangani)

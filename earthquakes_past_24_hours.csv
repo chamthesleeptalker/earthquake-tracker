@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-07T07:44:00.000Z,07 September 2026 - 07:44 AM,11.12,124.07,020,2.0,013km N 51° E of City Of Bogo (Cebu),013,N 51° E,City Of Bogo (Cebu)
+2026-09-07T06:13:00.000Z,07 September 2026 - 06:13 AM,13.66,120.61,108,3.0,020km S 09° W of Calatagan (Batangas),020,S 09° W,Calatagan (Batangas)
 2026-09-07T05:49:00.000Z,07 September 2026 - 05:49 AM,11.14,124.14,011,2.3,020km N 58° E of City Of Bogo (Cebu),020,N 58° E,City Of Bogo (Cebu)
 2026-09-07T05:40:00.000Z,07 September 2026 - 05:40 AM,05.35,125.21,032,2.2,025km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 74° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-07T04:50:00.000Z,07 September 2026 - 04:50 AM,08.05,126.07,002,1.8,002km N 12° W of Trento (Agusan Del Sur),002,N 12° W,Trento (Agusan Del Sur)
@@ -42,5 +44,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-06T11:33:00.000Z,06 September 2026 - 11:33 AM,17.28,121.42,023,1.5,011km N 11° E of Paracelis (Mountain Province),011,N 11° E,Paracelis (Mountain Province)
 2026-09-06T09:19:00.000Z,06 September 2026 - 09:19 AM,09.44,126.29,010,2.5,021km N 31° E of Cortes (Surigao Del Sur),021,N 31° E,Cortes (Surigao Del Sur)
 2026-09-06T08:57:00.000Z,06 September 2026 - 08:57 AM,05.42,125.47,033,2.1,005km N 77° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),005,N 77° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-06T06:00:00.000Z,06 September 2026 - 06:00 AM,08.77,126.69,021,2.2,043km S 86° E of Marihatag (Surigao Del Sur),043,S 86° E,Marihatag (Surigao Del Sur)
-2026-09-06T05:56:00.000Z,06 September 2026 - 05:56 AM,05.70,126.63,041,2.7,112km S 78° E of Jose Abad Santos (Davao Occidental),112,S 78° E,Jose Abad Santos (Davao Occidental)
