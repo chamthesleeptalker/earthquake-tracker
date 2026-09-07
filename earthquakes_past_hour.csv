@@ -1,2 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-07T07:44:00.000Z,07 September 2026 - 07:44 AM,11.12,124.07,020,2.0,013km N 51° E of City Of Bogo (Cebu),013,N 51° E,City Of Bogo (Cebu)
+2026-09-07T11:47:00.000Z,07 September 2026 - 11:47 AM,05.63,125.35,021,1.6,023km N 38° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 38° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-07T11:42:00.000Z,07 September 2026 - 11:42 AM,14.07,125.11,056,3.5,084km N 68° E of Gigmoto (Catanduanes),084,N 68° E,Gigmoto (Catanduanes)
+2026-09-07T11:08:00.000Z,07 September 2026 - 11:08 AM,05.27,125.27,030,2.6,023km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 46° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
