@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-07T11:47:00.000Z,07 September 2026 - 11:47 AM,05.63,125.35,021,1.6,023km N 38° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 38° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-07T11:42:00.000Z,07 September 2026 - 11:42 AM,14.07,125.11,056,3.5,084km N 68° E of Gigmoto (Catanduanes),084,N 68° E,Gigmoto (Catanduanes)
-2026-09-07T11:08:00.000Z,07 September 2026 - 11:08 AM,05.27,125.27,030,2.6,023km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 46° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-07T17:58:00.000Z,07 September 2026 - 05:58 PM,09.41,126.18,017,2.2,015km N 05° W of Cortes (Surigao Del Sur),015,N 05° W,Cortes (Surigao Del Sur)
+2026-09-07T17:53:00.000Z,07 September 2026 - 05:53 PM,05.35,125.42,033,4.0,007km S 02° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,S 02° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-07T17:12:00.000Z,07 September 2026 - 05:12 PM,11.68,124.32,009,2.9,004km N 84° W of Kawayan (Biliran),004,N 84° W,Kawayan (Biliran)
+2026-09-07T17:04:00.000Z,07 September 2026 - 05:04 PM,05.48,125.44,008,2.4,004km N 83° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),004,N 83° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
