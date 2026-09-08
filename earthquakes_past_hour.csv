@@ -1,7 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-08T05:11:00.000Z,08 September 2026 - 05:11 AM,08.06,125.87,033,2.1,009km S 81° W of Veruela (Agusan Del Sur),009,S 81° W,Veruela (Agusan Del Sur)
-2026-09-08T05:03:00.000Z,08 September 2026 - 05:03 AM,18.35,120.69,022,2.3,008km N 76° E of Pasuquin (Ilocos Norte),008,N 76° E,Pasuquin (Ilocos Norte)
-2026-09-08T04:40:00.000Z,08 September 2026 - 04:40 AM,09.60,125.31,012,2.5,010km S 75° W of Malimono (Surigao Del Norte),010,S 75° W,Malimono (Surigao Del Norte)
-2026-09-08T04:32:00.000Z,08 September 2026 - 04:32 AM,06.58,126.44,043,2.1,041km S 79° E of Governor Generoso (Davao Oriental),041,S 79° E,Governor Generoso (Davao Oriental)
-2026-09-08T04:23:00.000Z,08 September 2026 - 04:23 AM,11.19,121.28,031,2.0,037km N 84° E of Agutaya (Palawan),037,N 84° E,Agutaya (Palawan)
-2026-09-08T04:11:00.000Z,08 September 2026 - 04:11 AM,11.16,121.17,017,2.8,025km N 89° E of Agutaya (Palawan),025,N 89° E,Agutaya (Palawan)
+2026-09-08T08:39:00.000Z,08 September 2026 - 08:39 AM,05.34,125.49,018,2.2,011km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-08T08:09:00.000Z,08 September 2026 - 08:09 AM,13.00,124.26,095,3.4,009km S 58° E of Prieto Diaz (Sorsogon),009,S 58° E,Prieto Diaz (Sorsogon)
+2026-09-08T08:01:00.000Z,08 September 2026 - 08:01 AM,05.38,125.38,034,1.7,006km S 47° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,S 47° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
