@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-09T06:43:00.000Z,09 September 2026 - 06:43 AM,05.28,125.00,050,2.8,048km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),048,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-09T06:20:00.000Z,09 September 2026 - 06:20 AM,05.29,124.67,014,2.0,083km S 45° W of Glan (Sarangani),083,S 45° W,Glan (Sarangani)
+2026-09-09T05:48:00.000Z,09 September 2026 - 05:48 AM,09.97,126.76,012,2.4,070km N 73° E of General Luna (Surigao Del Norte),070,N 73° E,General Luna (Surigao Del Norte)
+2026-09-09T05:44:00.000Z,09 September 2026 - 05:44 AM,10.95,123.99,005,3.0,011km S 06° E of City Of Bogo (Cebu),011,S 06° E,City Of Bogo (Cebu)
+2026-09-09T05:40:00.000Z,09 September 2026 - 05:40 AM,04.57,125.94,136,2.9,110km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),110,S 32° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-09T05:21:00.000Z,09 September 2026 - 05:21 AM,19.37,121.76,009,2.7,023km S 46° W of Babuyan Island (Calayan) (Cagayan),023,S 46° W,Babuyan Island (Calayan) (Cagayan)
 2026-09-09T04:39:00.000Z,09 September 2026 - 04:39 AM,09.85,126.63,005,3.8,052km N 82° E of General Luna (Surigao Del Norte),052,N 82° E,General Luna (Surigao Del Norte)
 2026-09-09T04:09:00.000Z,09 September 2026 - 04:09 AM,16.60,119.23,022,2.9,074km N 72° W of Bolinao (Pangasinan),074,N 72° W,Bolinao (Pangasinan)
 2026-09-09T03:58:00.000Z,09 September 2026 - 03:58 AM,16.61,119.00,031,2.5,098km N 76° W of Bolinao (Pangasinan),098,N 76° W,Bolinao (Pangasinan)
@@ -44,6 +50,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-08T08:39:00.000Z,08 September 2026 - 08:39 AM,05.34,125.49,018,2.2,011km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-08T08:09:00.000Z,08 September 2026 - 08:09 AM,13.00,124.26,095,3.4,009km S 58° E of Prieto Diaz (Sorsogon),009,S 58° E,Prieto Diaz (Sorsogon)
 2026-09-08T08:01:00.000Z,08 September 2026 - 08:01 AM,05.38,125.38,034,1.7,006km S 47° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,S 47° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-08T05:11:00.000Z,08 September 2026 - 05:11 AM,08.06,125.87,033,2.1,009km S 81° W of Veruela (Agusan Del Sur),009,S 81° W,Veruela (Agusan Del Sur)
-2026-09-08T05:03:00.000Z,08 September 2026 - 05:03 AM,18.35,120.69,022,2.3,008km N 76° E of Pasuquin (Ilocos Norte),008,N 76° E,Pasuquin (Ilocos Norte)
-2026-09-08T04:40:00.000Z,08 September 2026 - 04:40 AM,09.60,125.31,012,2.5,010km S 75° W of Malimono (Surigao Del Norte),010,S 75° W,Malimono (Surigao Del Norte)
