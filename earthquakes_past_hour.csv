@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-09T02:01:00.000Z,09 September 2026 - 02:01 AM,08.33,127.40,040,2.8,113km N 74° E of Lingig (Surigao Del Sur),113,N 74° E,Lingig (Surigao Del Sur)
-2026-09-09T01:34:00.000Z,09 September 2026 - 01:34 AM,05.41,127.05,106,2.8,166km S 70° E of Jose Abad Santos (Davao Occidental),166,S 70° E,Jose Abad Santos (Davao Occidental)
-2026-09-09T01:24:00.000Z,09 September 2026 - 01:24 AM,11.11,124.14,008,2.3,019km N 67° E of City Of Bogo (Cebu),019,N 67° E,City Of Bogo (Cebu)
+2026-09-09T04:39:00.000Z,09 September 2026 - 04:39 AM,09.85,126.63,005,3.8,052km N 82° E of General Luna (Surigao Del Norte),052,N 82° E,General Luna (Surigao Del Norte)
+2026-09-09T04:09:00.000Z,09 September 2026 - 04:09 AM,16.60,119.23,022,2.9,074km N 72° W of Bolinao (Pangasinan),074,N 72° W,Bolinao (Pangasinan)
+2026-09-09T03:58:00.000Z,09 September 2026 - 03:58 AM,16.61,119.00,031,2.5,098km N 76° W of Bolinao (Pangasinan),098,N 76° W,Bolinao (Pangasinan)
+2026-09-09T03:54:00.000Z,09 September 2026 - 03:54 AM,16.62,119.10,029,2.3,088km N 73° W of Bolinao (Pangasinan),088,N 73° W,Bolinao (Pangasinan)
