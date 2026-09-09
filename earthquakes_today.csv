@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-09T15:59:00.000Z,09 September 2026 - 03:59 PM,13.78,120.51,103,4.3,028km N 76° E of Looc (Occidental Mindoro),028,N 76° E,Looc (Occidental Mindoro)
+2026-09-09T15:07:00.000Z,09 September 2026 - 03:07 PM,04.35,125.09,010,4.6,123km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),123,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-09T14:25:00.000Z,09 September 2026 - 02:25 PM,05.72,125.27,010,2.8,014km S 34° E of Glan (Sarangani),014,S 34° E,Glan (Sarangani)
+2026-09-09T14:15:00.000Z,09 September 2026 - 02:15 PM,05.36,125.25,028,1.9,020km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-09T11:58:00.000Z,09 September 2026 - 11:58 AM,12.98,124.49,029,2.9,036km N 22° E of Biri (Northern Samar),036,N 22° E,Biri (Northern Samar)
 2026-09-09T10:52:00.000Z,09 September 2026 - 10:52 AM,18.35,121.18,093,3.2,018km N 56° E of Calanasan (Apayao),018,N 56° E,Calanasan (Apayao)
 2026-09-09T09:57:00.000Z,09 September 2026 - 09:57 AM,06.02,126.14,042,2.7,053km S 69° E of Don Marcelino (Davao Occidental),053,S 69° E,Don Marcelino (Davao Occidental)
 2026-09-09T09:28:00.000Z,09 September 2026 - 09:28 AM,06.61,126.29,121,2.6,024km S 77° E of Governor Generoso (Davao Oriental),024,S 77° E,Governor Generoso (Davao Oriental)
