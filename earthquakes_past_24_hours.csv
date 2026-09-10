@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-10T12:21:00.000Z,10 September 2026 - 12:21 PM,12.74,123.37,024,1.8,022km S 37° E of Claveria (Masbate),022,S 37° E,Claveria (Masbate)
+2026-09-10T11:55:00.000Z,10 September 2026 - 11:55 AM,08.70,126.44,028,1.9,019km S 54° E of Marihatag (Surigao Del Sur),019,S 54° E,Marihatag (Surigao Del Sur)
+2026-09-10T11:10:00.000Z,10 September 2026 - 11:10 AM,06.16,125.21,094,2.6,011km N 56° W of Alabel (Sarangani),011,N 56° W,Alabel (Sarangani)
+2026-09-10T10:33:00.000Z,10 September 2026 - 10:33 AM,05.38,125.19,032,1.6,026km S 81° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 81° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-10T09:55:00.000Z,10 September 2026 - 09:55 AM,12.21,123.85,015,1.6,002km N 26° W of Dimasalang (Masbate),002,N 26° W,Dimasalang (Masbate)
 2026-09-10T08:08:00.000Z,10 September 2026 - 08:08 AM,10.17,122.00,029,1.7,030km S 16° E of Anini-y (Antique),030,S 16° E,Anini-y (Antique)
 2026-09-10T07:57:00.000Z,10 September 2026 - 07:57 AM,16.50,121.06,013,2.8,005km S 48° E of Ambaguio (Nueva Vizcaya),005,S 48° E,Ambaguio (Nueva Vizcaya)
 2026-09-10T07:11:00.000Z,10 September 2026 - 07:11 AM,18.84,121.32,023,1.5,006km S 83° W of Fuga Island (Aparri) (Cagayan),006,S 83° W,Fuga Island (Aparri) (Cagayan)
@@ -67,8 +72,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-09T15:07:00.000Z,09 September 2026 - 03:07 PM,04.35,125.09,010,4.6,123km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),123,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-09T14:25:00.000Z,09 September 2026 - 02:25 PM,05.72,125.27,010,2.8,014km S 34° E of Glan (Sarangani),014,S 34° E,Glan (Sarangani)
 2026-09-09T14:15:00.000Z,09 September 2026 - 02:15 PM,05.36,125.25,028,1.9,020km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),020,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-09T11:58:00.000Z,09 September 2026 - 11:58 AM,12.98,124.49,029,2.9,036km N 22° E of Biri (Northern Samar),036,N 22° E,Biri (Northern Samar)
-2026-09-09T10:52:00.000Z,09 September 2026 - 10:52 AM,18.35,121.18,093,3.2,018km N 56° E of Calanasan (Apayao),018,N 56° E,Calanasan (Apayao)
-2026-09-09T09:57:00.000Z,09 September 2026 - 09:57 AM,06.02,126.14,042,2.7,053km S 69° E of Don Marcelino (Davao Occidental),053,S 69° E,Don Marcelino (Davao Occidental)
-2026-09-09T09:28:00.000Z,09 September 2026 - 09:28 AM,06.61,126.29,121,2.6,024km S 77° E of Governor Generoso (Davao Oriental),024,S 77° E,Governor Generoso (Davao Oriental)
-2026-09-09T08:54:00.000Z,09 September 2026 - 08:54 AM,08.34,126.70,031,1.6,040km S 85° E of Hinatuan (Surigao Del Sur),040,S 85° E,Hinatuan (Surigao Del Sur)

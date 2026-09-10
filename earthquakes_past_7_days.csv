@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-10T12:21:00.000Z,10 September 2026 - 12:21 PM,12.74,123.37,024,1.8,022km S 37° E of Claveria (Masbate),022,S 37° E,Claveria (Masbate)
+2026-09-10T11:55:00.000Z,10 September 2026 - 11:55 AM,08.70,126.44,028,1.9,019km S 54° E of Marihatag (Surigao Del Sur),019,S 54° E,Marihatag (Surigao Del Sur)
+2026-09-10T11:10:00.000Z,10 September 2026 - 11:10 AM,06.16,125.21,094,2.6,011km N 56° W of Alabel (Sarangani),011,N 56° W,Alabel (Sarangani)
+2026-09-10T10:33:00.000Z,10 September 2026 - 10:33 AM,05.38,125.19,032,1.6,026km S 81° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 81° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-10T09:55:00.000Z,10 September 2026 - 09:55 AM,12.21,123.85,015,1.6,002km N 26° W of Dimasalang (Masbate),002,N 26° W,Dimasalang (Masbate)
 2026-09-10T08:08:00.000Z,10 September 2026 - 08:08 AM,10.17,122.00,029,1.7,030km S 16° E of Anini-y (Antique),030,S 16° E,Anini-y (Antique)
 2026-09-10T07:57:00.000Z,10 September 2026 - 07:57 AM,16.50,121.06,013,2.8,005km S 48° E of Ambaguio (Nueva Vizcaya),005,S 48° E,Ambaguio (Nueva Vizcaya)
 2026-09-10T07:11:00.000Z,10 September 2026 - 07:11 AM,18.84,121.32,023,1.5,006km S 83° W of Fuga Island (Aparri) (Cagayan),006,S 83° W,Fuga Island (Aparri) (Cagayan)
@@ -405,8 +410,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-03T13:18:00.000Z,03 September 2026 - 01:18 PM,06.00,126.46,119,2.7,085km S 30° E of Governor Generoso (Davao Oriental),085,S 30° E,Governor Generoso (Davao Oriental)
 2026-09-03T13:00:00.000Z,03 September 2026 - 01:00 PM,19.03,121.24,011,2.2,010km S 24° E of Dalupiri Island (Calayan) (Cagayan),010,S 24° E,Dalupiri Island (Calayan) (Cagayan)
 2026-09-03T12:30:00.000Z,03 September 2026 - 12:30 PM,05.54,125.04,035,1.5,036km S 31° W of Glan (Sarangani),036,S 31° W,Glan (Sarangani)
-2026-09-03T10:52:00.000Z,03 September 2026 - 10:52 AM,07.24,123.40,002,3.0,025km S 02° W of Tabina (Zamboanga Del Sur),025,S 02° W,Tabina (Zamboanga Del Sur)
-2026-09-03T09:08:00.000Z,03 September 2026 - 09:08 AM,05.68,125.21,032,2.0,015km S 02° E of Glan (Sarangani),015,S 02° E,Glan (Sarangani)
-2026-09-03T08:48:00.000Z,03 September 2026 - 08:48 AM,07.18,121.86,032,1.7,026km S 60° W of Sibuco (Zamboanga Del Norte),026,S 60° W,Sibuco (Zamboanga Del Norte)
-2026-09-03T08:40:00.000Z,03 September 2026 - 08:40 AM,13.16,124.20,033,1.6,008km S 68° E of Rapu-rapu (Albay),008,S 68° E,Rapu-rapu (Albay)
-2026-09-03T08:17:00.000Z,03 September 2026 - 08:17 AM,08.74,126.23,032,1.8,001km S 68° E of San Agustin (Surigao Del Sur),001,S 68° E,San Agustin (Surigao Del Sur)
