@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-12T05:50:00.000Z,12 September 2026 - 05:50 AM,05.55,125.27,018,3.2,023km N 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 48° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-12T05:50:00.000Z,12 September 2026 - 05:50 AM,13.65,123.08,017,1.8,005km S 20° E of Libmanan (Camarines Sur),005,S 20° E,Libmanan (Camarines Sur)
 2026-09-12T03:57:00.000Z,12 September 2026 - 03:57 AM,08.89,127.45,033,2.8,127km S 89° E of Cagwait (Surigao Del Sur),127,S 89° E,Cagwait (Surigao Del Sur)
 2026-09-12T03:52:00.000Z,12 September 2026 - 03:52 AM,11.72,125.53,015,2.6,009km S 67° E of San Julian (Eastern Samar),009,S 67° E,San Julian (Eastern Samar)
 2026-09-12T03:33:00.000Z,12 September 2026 - 03:33 AM,10.78,125.64,050,2.4,010km N 69° W of Homonhon Island (Guiuan) (Eastern Samar),010,N 69° W,Homonhon Island (Guiuan) (Eastern Samar)
