@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-11T12:09:00.000Z,11 September 2026 - 12:09 PM,05.68,125.33,015,3.9,021km S 42° E of Glan (Sarangani),021,S 42° E,Glan (Sarangani)
+2026-09-11T11:08:00.000Z,11 September 2026 - 11:08 AM,12.61,123.46,003,3.3,016km N 15° W of Baleno (Masbate),016,N 15° W,Baleno (Masbate)
+2026-09-11T10:49:00.000Z,11 September 2026 - 10:49 AM,05.33,125.14,019,1.6,033km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),033,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-11T10:08:00.000Z,11 September 2026 - 10:08 AM,06.39,124.57,006,1.7,012km S 70° W of Santo Niño (South Cotabato),012,S 70° W,Santo NiÃ±o (South Cotabato)
+2026-09-11T09:40:00.000Z,11 September 2026 - 09:40 AM,05.47,125.46,035,2.2,002km S 79° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),002,S 79° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-11T09:30:00.000Z,11 September 2026 - 09:30 AM,18.12,120.83,009,2.3,002km S 23° E of Carasi (Ilocos Norte),002,S 23° E,Carasi (Ilocos Norte)
+2026-09-11T09:24:00.000Z,11 September 2026 - 09:24 AM,16.91,120.58,029,2.1,006km N 61° E of Alilem (Ilocos Sur),006,N 61° E,Alilem (Ilocos Sur)
+2026-09-11T08:35:00.000Z,11 September 2026 - 08:35 AM,12.48,123.72,005,2.7,005km S 86° W of San Fernando (Masbate),005,S 86° W,San Fernando (Masbate)
 2026-09-11T08:36:00.000Z,11 September 2026 - 08:36 AM,05.40,127.23,030,4.1,185km S 72° E of Jose Abad Santos (Davao Occidental),185,S 72° E,Jose Abad Santos (Davao Occidental)
 2026-09-11T08:21:00.000Z,11 September 2026 - 08:21 AM,20.08,121.16,029,2.2,080km S 69° W of Sabtang (Batanes),080,S 69° W,Sabtang (Batanes)
 2026-09-11T07:48:00.000Z,11 September 2026 - 07:48 AM,05.43,125.45,035,2.4,004km N 65° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),004,N 65° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -414,4 +422,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-04T14:43:00.000Z,04 September 2026 - 02:43 PM,12.16,124.30,016,3.1,020km N 52° E of Tagapul-an (Samar),020,N 52° E,Tagapul-an (Samar)
 2026-09-04T13:54:00.000Z,04 September 2026 - 01:54 PM,10.12,125.20,031,2.8,008km N 37° E of San Francisco (Southern Leyte),008,N 37° E,San Francisco (Southern Leyte)
 2026-09-04T12:21:00.000Z,04 September 2026 - 12:21 PM,07.96,125.57,023,2.2,027km N 80° E of San Fernando (Bukidnon),027,N 80° E,San Fernando (Bukidnon)
-2026-09-04T08:37:00.000Z,04 September 2026 - 08:37 AM,04.91,124.48,037,2.8,119km S 62° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),119,S 62° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
