@@ -1,8 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-13T01:09:00.000Z,13 September 2026 - 01:09 AM,13.14,120.26,001,2.1,038km S 76° W of Mamburao (Occidental Mindoro),038,S 76° W,Mamburao (Occidental Mindoro)
-2026-09-13T00:39:00.000Z,13 September 2026 - 12:39 AM,11.94,121.39,017,3.6,017km N 87° W of Caluya (Antique),017,N 87° W,Caluya (Antique)
-2026-09-13T00:28:00.000Z,13 September 2026 - 12:28 AM,11.94,121.37,006,2.9,019km N 88° W of Caluya (Antique),019,N 88° W,Caluya (Antique)
-2026-09-13T00:24:00.000Z,13 September 2026 - 12:24 AM,12.04,121.37,034,1.9,023km N 58° W of Caluya (Antique),023,N 58° W,Caluya (Antique)
-2026-09-13T00:22:00.000Z,13 September 2026 - 12:22 AM,05.39,125.26,035,2.0,018km S 81° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 81° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-13T00:16:00.000Z,13 September 2026 - 12:16 AM,11.95,121.38,018,4.0,018km N 83° W of Caluya (Antique),018,N 83° W,Caluya (Antique)
-2026-09-13T00:15:00.000Z,13 September 2026 - 12:15 AM,11.32,124.57,004,2.7,008km N 71° W of Capoocan (Leyte),008,N 71° W,Capoocan (Leyte)
+2026-09-13T03:16:00.000Z,13 September 2026 - 03:16 AM,05.13,127.43,076,2.7,220km S 80° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),220,S 80° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-13T03:14:00.000Z,13 September 2026 - 03:14 AM,09.18,122.66,026,1.5,026km S 06° E of Basay (Negros Oriental),026,S 06° E,Basay (Negros Oriental)
+2026-09-13T03:08:00.000Z,13 September 2026 - 03:08 AM,12.10,121.42,030,1.7,023km N 36° W of Caluya (Antique),023,N 36° W,Caluya (Antique)
+2026-09-13T02:45:00.000Z,13 September 2026 - 02:45 AM,07.37,127.19,017,2.6,069km N 86° E of Caraga (Davao Oriental),069,N 86° E,Caraga (Davao Oriental)
+2026-09-13T02:27:00.000Z,13 September 2026 - 02:27 AM,11.93,121.39,021,1.6,017km S 89° W of Caluya (Antique),017,S 89° W,Caluya (Antique)
