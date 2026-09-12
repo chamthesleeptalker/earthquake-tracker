@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-12T18:14:00.000Z,12 September 2026 - 06:14 PM,06.27,127.73,009,2.9,165km S 51° E of Manay (Davao Oriental),165,S 51° E,Manay (Davao Oriental)
+2026-09-12T18:14:00.000Z,12 September 2026 - 06:14 PM,14.83,120.20,024,1.9,007km S 40° W of Subic (Zambales),007,S 40° W,Subic (Zambales)
+2026-09-12T17:53:00.000Z,12 September 2026 - 05:53 PM,07.76,122.08,032,2.1,009km N 45° W of Siocon (Zamboanga Del Norte),009,N 45° W,Siocon (Zamboanga Del Norte)
+2026-09-12T17:44:00.000Z,12 September 2026 - 05:44 PM,05.18,124.24,030,1.9,099km S 26° W of Kiamba (Sarangani),099,S 26° W,Kiamba (Sarangani)
+2026-09-12T17:31:00.000Z,12 September 2026 - 05:31 PM,05.63,125.41,050,1.9,019km N 21° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),019,N 21° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-12T17:10:00.000Z,12 September 2026 - 05:10 PM,07.73,126.03,033,1.7,006km N 57° E of Montevista (Davao De Oro),006,N 57° E,Montevista (Davao De Oro)
+2026-09-12T15:54:00.000Z,12 September 2026 - 03:54 PM,12.80,122.88,005,3.0,042km S 75° W of Claveria (Masbate),042,S 75° W,Claveria (Masbate)
+2026-09-12T13:54:00.000Z,12 September 2026 - 01:54 PM,18.76,121.34,027,2.0,011km S 19° W of Fuga Island (Aparri) (Cagayan),011,S 19° W,Fuga Island (Aparri) (Cagayan)
 2026-09-12T13:55:00.000Z,12 September 2026 - 01:55 PM,16.44,121.01,034,2.0,010km S 09° W of Ambaguio (Nueva Vizcaya),010,S 09° W,Ambaguio (Nueva Vizcaya)
 2026-09-12T13:22:00.000Z,12 September 2026 - 01:22 PM,16.49,121.01,008,3.2,004km S 21° W of Ambaguio (Nueva Vizcaya),004,S 21° W,Ambaguio (Nueva Vizcaya)
 2026-09-12T13:21:00.000Z,12 September 2026 - 01:21 PM,16.43,121.02,002,2.0,011km S 05° W of Ambaguio (Nueva Vizcaya),011,S 05° W,Ambaguio (Nueva Vizcaya)
