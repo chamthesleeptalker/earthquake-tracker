@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-13T07:29:00.000Z,13 September 2026 - 07:29 AM,04.84,125.21,002,2.6,067km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),067,S 20° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-13T07:25:00.000Z,13 September 2026 - 07:25 AM,08.26,122.19,030,1.7,039km N 38° W of Gutalac (Zamboanga Del Norte),039,N 38° W,Gutalac (Zamboanga Del Norte)
+2026-09-13T07:13:00.000Z,13 September 2026 - 07:13 AM,03.12,126.11,045,3.8,264km S 17° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),264,S 17° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-13T07:00:00.000Z,13 September 2026 - 07:00 AM,12.71,123.19,009,1.8,022km S 15° W of Claveria (Masbate),022,S 15° W,Claveria (Masbate)
+2026-09-13T06:58:00.000Z,13 September 2026 - 06:58 AM,11.92,121.44,008,1.6,012km S 83° W of Caluya (Antique),012,S 83° W,Caluya (Antique)
+2026-09-13T06:14:00.000Z,13 September 2026 - 06:14 AM,17.16,120.43,011,1.9,001km S 55° W of City Of Candon (Ilocos Sur),001,S 55° W,City Of Candon (Ilocos Sur)
+2026-09-13T05:59:00.000Z,13 September 2026 - 05:59 AM,08.09,126.24,005,1.7,016km S 31° W of City Of Bislig (Surigao Del Sur),016,S 31° W,City Of Bislig (Surigao Del Sur)
+2026-09-13T05:45:00.000Z,13 September 2026 - 05:45 AM,05.31,125.30,003,2.4,018km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-13T05:38:00.000Z,13 September 2026 - 05:38 AM,11.98,125.65,012,2.2,019km S 71° E of Dolores (Eastern Samar),019,S 71° E,Dolores (Eastern Samar)
 2026-09-13T05:33:00.000Z,13 September 2026 - 05:33 AM,16.44,121.04,031,1.8,010km S 06° E of Ambaguio (Nueva Vizcaya),010,S 06° E,Ambaguio (Nueva Vizcaya)
 2026-09-13T05:16:00.000Z,13 September 2026 - 05:16 AM,16.55,121.09,033,2.2,007km N 71° E of Ambaguio (Nueva Vizcaya),007,N 71° E,Ambaguio (Nueva Vizcaya)
@@ -105,5 +113,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-12T10:15:00.000Z,12 September 2026 - 10:15 AM,16.50,121.06,006,3.4,004km S 43° E of Ambaguio (Nueva Vizcaya),004,S 43° E,Ambaguio (Nueva Vizcaya)
 2026-09-12T08:32:00.000Z,12 September 2026 - 08:32 AM,05.57,125.20,025,4.1,028km S 01° W of Glan (Sarangani),028,S 01° W,Glan (Sarangani)
 2026-09-12T07:54:00.000Z,12 September 2026 - 07:54 AM,08.01,127.30,029,2.3,094km N 60° E of Baganga (Davao Oriental),094,N 60° E,Baganga (Davao Oriental)
-2026-09-12T05:50:00.000Z,12 September 2026 - 05:50 AM,05.55,125.27,018,3.2,023km N 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,N 48° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-12T05:50:00.000Z,12 September 2026 - 05:50 AM,13.65,123.08,017,1.8,005km S 20° E of Libmanan (Camarines Sur),005,S 20° E,Libmanan (Camarines Sur)
