@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-12T08:32:00.000Z,12 September 2026 - 08:32 AM,05.57,125.20,025,4.1,028km S 01° W of Glan (Sarangani),028,S 01° W,Glan (Sarangani)
-2026-09-12T07:54:00.000Z,12 September 2026 - 07:54 AM,08.01,127.30,029,2.3,094km N 60° E of Baganga (Davao Oriental),094,N 60° E,Baganga (Davao Oriental)
+2026-09-12T13:55:00.000Z,12 September 2026 - 01:55 PM,16.44,121.01,034,2.0,010km S 09° W of Ambaguio (Nueva Vizcaya),010,S 09° W,Ambaguio (Nueva Vizcaya)
+2026-09-12T13:22:00.000Z,12 September 2026 - 01:22 PM,16.49,121.01,008,3.2,004km S 21° W of Ambaguio (Nueva Vizcaya),004,S 21° W,Ambaguio (Nueva Vizcaya)
+2026-09-12T13:21:00.000Z,12 September 2026 - 01:21 PM,16.43,121.02,002,2.0,011km S 05° W of Ambaguio (Nueva Vizcaya),011,S 05° W,Ambaguio (Nueva Vizcaya)
+2026-09-12T13:10:00.000Z,12 September 2026 - 01:10 PM,16.49,121.03,008,3.5,004km S 01° E of Ambaguio (Nueva Vizcaya),004,S 01° E,Ambaguio (Nueva Vizcaya)

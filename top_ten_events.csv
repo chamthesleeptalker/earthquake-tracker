@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-12T11:37:00.000Z,12 September 2026 - 11:37 AM,03.39,127.34,152,4.8,308km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),308,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-09T15:07:00.000Z,09 September 2026 - 03:07 PM,04.35,125.09,10,4.6,123km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),123,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-12T12:10:00.000Z,12 September 2026 - 12:10 PM,18.85,121.27,10,4.3,010km S 89° W of Fuga Island (Aparri) (Cagayan),010,S 89° W,Fuga Island (Aparri) (Cagayan)
 2026-09-09T15:59:00.000Z,09 September 2026 - 03:59 PM,13.78,120.51,103,4.3,028km N 76° E of Looc (Occidental Mindoro),028,N 76° E,Looc (Occidental Mindoro)
 2026-09-12T08:32:00.000Z,12 September 2026 - 08:32 AM,05.57,125.20,25,4.1,028km S 01° W of Glan (Sarangani),028,S 01° W,Glan (Sarangani)
 2026-09-11T08:36:00.000Z,11 September 2026 - 08:36 AM,05.40,127.23,30,4.1,185km S 72° E of Jose Abad Santos (Davao Occidental),185,S 72° E,Jose Abad Santos (Davao Occidental)
@@ -7,5 +9,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-09T15:58:00.000Z,09 September 2026 - 03:58 PM,13.75,120.54,107,4.1,032km N 84° E of Looc (Occidental Mindoro),032,N 84° E,Looc (Occidental Mindoro)
 2026-09-11T23:51:00.000Z,11 September 2026 - 11:51 PM,05.03,125.48,16,4.0,043km S 08° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),043,S 08° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-07T17:53:00.000Z,07 September 2026 - 05:53 PM,05.35,125.42,33,4.0,007km S 02° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,S 02° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-07T00:12:00.000Z,07 September 2026 - 12:12 AM,05.39,127.44,21,4.0,206km S 47° E of Governor Generoso (Davao Oriental),206,S 47° E,Governor Generoso (Davao Oriental)
-2026-09-06T18:52:00.000Z,06 September 2026 - 06:52 PM,14.25,124.77,10,4.0,062km N 57° E of Bagamanoc (Catanduanes),062,N 57° E,Bagamanoc (Catanduanes)
