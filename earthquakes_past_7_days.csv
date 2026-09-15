@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-16T07:43:00.000Z,16 September 2026 - 07:43 AM,07.87,125.26,021,2.5,009km S 54° W of San Fernando (Bukidnon),009,S 54° W,San Fernando (Bukidnon)
+2026-09-16T06:11:00.000Z,16 September 2026 - 06:11 AM,19.02,121.43,011,2.3,025km S 69° E of Dalupiri Island (Calayan) (Cagayan),025,S 69° E,Dalupiri Island (Calayan) (Cagayan)
 2026-09-16T05:23:00.000Z,16 September 2026 - 05:23 AM,20.13,120.43,009,2.2,137km N 35° W of Dalupiri Island (Calayan) (Cagayan),137,N 35° W,Dalupiri Island (Calayan) (Cagayan)
 2026-09-16T05:04:00.000Z,16 September 2026 - 05:04 AM,16.55,122.08,033,2.1,020km N 82° W of Dinapigue (Isabela),020,N 82° W,Dinapigue (Isabela)
 2026-09-16T04:20:00.000Z,16 September 2026 - 04:20 AM,12.10,123.92,005,2.3,005km S 09° W of Palanas (Masbate),005,S 09° W,Palanas (Masbate)
@@ -470,7 +472,6 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-09T17:09:00.000Z,09 September 2026 - 05:09 PM,12.74,123.02,022,1.6,030km S 53° W of Claveria (Masbate),030,S 53° W,Claveria (Masbate)
 2026-09-09T16:08:00.000Z,09 September 2026 - 04:08 PM,12.45,123.67,011,1.8,010km N 30° E of City Of Masbate (Masbate),010,N 30° E,City Of Masbate (Masbate)
 2026-09-09T15:58:00.000Z,09 September 2026 - 03:58 PM,13.75,120.54,107,4.1,032km N 84° E of Looc (Occidental Mindoro),032,N 84° E,Looc (Occidental Mindoro)
-2026-09-09T05:49:00.000Z,09 September 2026 - 05:49 AM,09.63,126.26,015,2.6,020km S 33° E of General Luna (Surigao Del Norte),020,S 33° E,General Luna (Surigao Del Norte)
 2026-09-09T15:59:00.000Z,09 September 2026 - 03:59 PM,13.78,120.51,103,4.3,028km N 76° E of Looc (Occidental Mindoro),028,N 76° E,Looc (Occidental Mindoro)
 2026-09-09T15:07:00.000Z,09 September 2026 - 03:07 PM,04.35,125.09,010,4.6,123km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),123,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-09T14:25:00.000Z,09 September 2026 - 02:25 PM,05.72,125.27,010,2.8,014km S 34° E of Glan (Sarangani),014,S 34° E,Glan (Sarangani)
@@ -481,8 +482,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-09T09:28:00.000Z,09 September 2026 - 09:28 AM,06.61,126.29,121,2.6,024km S 77° E of Governor Generoso (Davao Oriental),024,S 77° E,Governor Generoso (Davao Oriental)
 2026-09-09T08:54:00.000Z,09 September 2026 - 08:54 AM,08.34,126.70,031,1.6,040km S 85° E of Hinatuan (Surigao Del Sur),040,S 85° E,Hinatuan (Surigao Del Sur)
 2026-09-09T08:06:00.000Z,09 September 2026 - 08:06 AM,09.76,126.35,002,3.3,021km S 85° E of General Luna (Surigao Del Norte),021,S 85° E,General Luna (Surigao Del Norte)
-2026-09-09T06:43:00.000Z,09 September 2026 - 06:43 AM,05.28,125.00,050,2.8,048km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),048,S 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-09T06:20:00.000Z,09 September 2026 - 06:20 AM,05.29,124.67,014,2.0,083km S 45° W of Glan (Sarangani),083,S 45° W,Glan (Sarangani)
-2026-09-09T05:48:00.000Z,09 September 2026 - 05:48 AM,09.97,126.76,012,2.4,070km N 73° E of General Luna (Surigao Del Norte),070,N 73° E,General Luna (Surigao Del Norte)
-2026-09-09T05:44:00.000Z,09 September 2026 - 05:44 AM,10.95,123.99,005,3.0,011km S 06° E of City Of Bogo (Cebu),011,S 06° E,City Of Bogo (Cebu)
-2026-09-09T05:40:00.000Z,09 September 2026 - 05:40 AM,04.57,125.94,136,2.9,110km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),110,S 32° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
