@@ -1,3 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-18T17:51:00.000Z,18 September 2026 - 05:51 PM,12.92,123.18,008,1.7,007km N 70° W of Claveria (Masbate),007,N 70° W,Claveria (Masbate)
-2026-09-18T16:53:00.000Z,18 September 2026 - 04:53 PM,16.52,121.31,032,1.5,006km N 54° E of Quezon (Nueva Vizcaya),006,N 54° E,Quezon (Nueva Vizcaya)
+2026-09-18T22:28:00.000Z,18 September 2026 - 10:28 PM,10.13,124.99,028,2.1,002km N 78° W of Malitbog (Southern Leyte),002,N 78° W,Malitbog (Southern Leyte)
+2026-09-18T22:20:00.000Z,18 September 2026 - 10:20 PM,05.47,125.14,010,3.0,032km N 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),032,N 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-18T22:12:00.000Z,18 September 2026 - 10:12 PM,05.41,125.44,031,2.5,002km S 70° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),002,S 70° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-18T22:05:00.000Z,18 September 2026 - 10:05 PM,04.87,125.42,008,2.4,060km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),060,S 01° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-18T21:55:00.000Z,18 September 2026 - 09:55 PM,20.48,121.55,033,2.2,038km N 64° W of Sabtang (Batanes),038,N 64° W,Sabtang (Batanes)
+2026-09-18T21:52:00.000Z,18 September 2026 - 09:52 PM,07.57,127.07,024,2.9,057km S 89° E of Baganga (Davao Oriental),057,S 89° E,Baganga (Davao Oriental)
