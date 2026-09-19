@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-20T03:47:00.000Z,20 September 2026 - 03:47 AM,05.35,125.39,033,1.4,007km S 25° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),007,S 25° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-20T03:32:00.000Z,20 September 2026 - 03:32 AM,20.59,121.79,003,3.1,022km S 14° W of Itbayat (Batanes),022,S 14° W,Itbayat (Batanes)
+2026-09-20T03:30:00.000Z,20 September 2026 - 03:30 AM,05.20,125.43,177,2.6,024km S 02° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 02° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-20T03:27:00.000Z,20 September 2026 - 03:27 AM,09.07,126.20,052,2.3,003km S 75° E of City Of Tandag (Surigao Del Sur),003,S 75° E,City Of Tandag (Surigao Del Sur)
+2026-09-20T03:24:00.000Z,20 September 2026 - 03:24 AM,05.58,125.39,034,2.0,015km N 39° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),015,N 39° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-20T03:06:00.000Z,20 September 2026 - 03:06 AM,08.79,126.75,030,1.7,050km S 89° E of Marihatag (Surigao Del Sur),050,S 89° E,Marihatag (Surigao Del Sur)
+2026-09-20T02:25:00.000Z,20 September 2026 - 02:25 AM,05.50,125.57,068,2.4,011km N 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),011,N 75° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-20T02:12:00.000Z,20 September 2026 - 02:12 AM,19.87,121.24,006,2.8,071km N 20° W of Calayan (Cagayan),071,N 20° W,Calayan (Cagayan)
+2026-09-20T02:01:00.000Z,20 September 2026 - 02:01 AM,19.83,121.27,013,2.2,066km N 19° W of Calayan (Cagayan),066,N 19° W,Calayan (Cagayan)
 2026-09-20T01:15:00.000Z,20 September 2026 - 01:15 AM,16.32,119.92,023,2.1,005km N 47° W of Anda (Pangasinan),005,N 47° W,Anda (Pangasinan)
 2026-09-20T01:08:00.000Z,20 September 2026 - 01:08 AM,18.42,120.80,026,2.0,011km S 68° W of Adams (Ilocos Norte),011,S 68° W,Adams (Ilocos Norte)
 2026-09-20T01:06:00.000Z,20 September 2026 - 01:06 AM,13.10,124.14,018,1.6,009km N 40° W of Prieto Diaz (Sorsogon),009,N 40° W,Prieto Diaz (Sorsogon)
