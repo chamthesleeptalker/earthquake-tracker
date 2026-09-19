@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-19T09:03:00.000Z,19 September 2026 - 09:03 AM,16.77,119.85,030,2.0,043km N 07° W of Bolinao (Pangasinan),043,N 07° W,Bolinao (Pangasinan)
+2026-09-19T08:21:00.000Z,19 September 2026 - 08:21 AM,17.63,121.34,036,1.8,008km N 80° W of Pinukpuk (Kalinga),008,N 80° W,Pinukpuk (Kalinga)
+2026-09-19T07:30:00.000Z,19 September 2026 - 07:30 AM,08.83,126.48,028,1.8,020km N 81° E of Marihatag (Surigao Del Sur),020,N 81° E,Marihatag (Surigao Del Sur)
+2026-09-19T07:28:00.000Z,19 September 2026 - 07:28 AM,05.85,126.96,176,2.5,133km S 48° E of Governor Generoso (Davao Oriental),133,S 48° E,Governor Generoso (Davao Oriental)
+2026-09-19T07:22:00.000Z,19 September 2026 - 07:22 AM,05.80,125.41,008,2.1,023km S 83° E of Glan (Sarangani),023,S 83° E,Glan (Sarangani)
+2026-09-19T07:19:00.000Z,19 September 2026 - 07:19 AM,05.64,125.28,031,1.4,022km S 24° E of Glan (Sarangani),022,S 24° E,Glan (Sarangani)
 2026-09-19T06:59:00.000Z,19 September 2026 - 06:59 AM,06.06,126.32,121,2.0,073km S 77° E of Don Marcelino (Davao Occidental),073,S 77° E,Don Marcelino (Davao Occidental)
 2026-09-19T06:56:00.000Z,19 September 2026 - 06:56 AM,06.35,126.55,072,1.8,063km S 58° E of Governor Generoso (Davao Oriental),063,S 58° E,Governor Generoso (Davao Oriental)
 2026-09-19T06:45:00.000Z,19 September 2026 - 06:45 AM,04.89,125.30,008,2.4,060km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),060,S 13° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -492,5 +498,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-12T11:37:00.000Z,12 September 2026 - 11:37 AM,03.39,127.34,152,4.8,308km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),308,S 44° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-12T10:49:00.000Z,12 September 2026 - 10:49 AM,16.57,121.00,024,2.1,005km N 31° W of Ambaguio (Nueva Vizcaya),005,N 31° W,Ambaguio (Nueva Vizcaya)
 2026-09-12T10:15:00.000Z,12 September 2026 - 10:15 AM,16.50,121.06,006,3.4,004km S 43° E of Ambaguio (Nueva Vizcaya),004,S 43° E,Ambaguio (Nueva Vizcaya)
-2026-09-12T08:32:00.000Z,12 September 2026 - 08:32 AM,05.57,125.20,025,4.1,028km S 01° W of Glan (Sarangani),028,S 01° W,Glan (Sarangani)
-2026-09-12T07:54:00.000Z,12 September 2026 - 07:54 AM,08.01,127.30,029,2.3,094km N 60° E of Baganga (Davao Oriental),094,N 60° E,Baganga (Davao Oriental)
