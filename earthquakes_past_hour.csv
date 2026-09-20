@@ -1,8 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-20T06:05:00.000Z,20 September 2026 - 06:05 AM,19.05,121.05,031,2.3,018km S 68° W of Dalupiri Island (Calayan) (Cagayan),018,S 68° W,Dalupiri Island (Calayan) (Cagayan)
-2026-09-20T06:02:00.000Z,20 September 2026 - 06:02 AM,05.44,125.29,012,2.7,015km N 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,N 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-20T05:46:00.000Z,20 September 2026 - 05:46 AM,05.37,125.22,033,2.5,023km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),023,S 79° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-20T05:35:00.000Z,20 September 2026 - 05:35 AM,06.40,126.68,026,2.7,073km S 67° E of Governor Generoso (Davao Oriental),073,S 67° E,Governor Generoso (Davao Oriental)
-2026-09-20T05:34:00.000Z,20 September 2026 - 05:34 AM,08.82,126.23,023,1.8,008km N 72° W of Marihatag (Surigao Del Sur),008,N 72° W,Marihatag (Surigao Del Sur)
-2026-09-20T05:21:00.000Z,20 September 2026 - 05:21 AM,06.94,124.85,028,2.5,003km S 86° W of M'lang (Cotabato),003,S 86° W,M'lang (Cotabato)
-2026-09-20T05:17:00.000Z,20 September 2026 - 05:17 AM,18.84,121.40,027,1.7,003km S 62° E of Fuga Island (Aparri) (Cagayan),003,S 62° E,Fuga Island (Aparri) (Cagayan)
+2026-09-20T07:17:00.000Z,20 September 2026 - 07:17 AM,05.31,125.35,008,2.1,014km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,S 37° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-20T07:10:00.000Z,20 September 2026 - 07:10 AM,09.41,126.21,021,2.1,015km N 09° E of Cortes (Surigao Del Sur),015,N 09° E,Cortes (Surigao Del Sur)
+2026-09-20T06:41:00.000Z,20 September 2026 - 06:41 AM,05.42,125.46,038,2.3,004km N 72° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),004,N 72° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
