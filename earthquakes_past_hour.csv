@@ -1,8 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-21T08:17:00.000Z,21 September 2026 - 08:17 AM,06.55,124.52,021,1.9,005km N 70° W of Bagumbayan (Sultan Kudarat),005,N 70° W,Bagumbayan (Sultan Kudarat)
-2026-09-21T08:08:00.000Z,21 September 2026 - 08:08 AM,04.81,125.28,007,3.6,069km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),069,S 13° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-21T08:02:00.000Z,21 September 2026 - 08:02 AM,11.14,124.11,027,1.9,016km N 86° E of Medellin (Cebu),016,N 86° E,Medellin (Cebu)
-2026-09-21T08:01:00.000Z,21 September 2026 - 08:01 AM,05.61,125.27,029,1.7,025km S 17° E of Glan (Sarangani),025,S 17° E,Glan (Sarangani)
-2026-09-21T07:57:00.000Z,21 September 2026 - 07:57 AM,08.03,125.89,034,2.1,009km S 59° W of Veruela (Agusan Del Sur),009,S 59° W,Veruela (Agusan Del Sur)
-2026-09-21T07:48:00.000Z,21 September 2026 - 07:48 AM,11.19,125.73,008,1.7,009km N 56° E of Salcedo (Eastern Samar),009,N 56° E,Salcedo (Eastern Samar)
-2026-09-21T07:44:00.000Z,21 September 2026 - 07:44 AM,12.85,121.33,030,1.5,014km S 86° W of Bansud (Oriental Mindoro),014,S 86° W,Bansud (Oriental Mindoro)
+2026-09-21T13:31:00.000Z,21 September 2026 - 01:31 PM,05.49,125.31,019,1.8,015km N 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,N 53° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-21T12:40:00.000Z,21 September 2026 - 12:40 PM,06.88,124.78,004,2.6,007km N 28° E of General Salipada K. Pendatun (Maguindanao Del Sur),007,N 28° E,General Salipada K. Pendatun (Maguindanao Del Sur)
