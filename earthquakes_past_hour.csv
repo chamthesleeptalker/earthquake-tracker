@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-23T03:21:00.000Z,23 September 2026 - 03:21 AM,11.08,124.06,023,1.8,010km N 68° E of City Of Bogo (Cebu),010,N 68° E,City Of Bogo (Cebu)
-2026-09-23T02:26:00.000Z,23 September 2026 - 02:26 AM,05.19,125.44,033,1.7,025km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 04° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-23T02:23:00.000Z,23 September 2026 - 02:23 AM,06.89,125.64,038,2.3,022km S 21° W of Island Garden City Of Samal (Davao Del Norte),022,S 21° W,Island Garden City Of Samal (Davao Del Norte)
+2026-09-23T06:26:00.000Z,23 September 2026 - 06:26 AM,15.50,119.99,028,1.5,005km S 38° E of Masinloc (Zambales),005,S 38° E,Masinloc (Zambales)
+2026-09-23T06:10:00.000Z,23 September 2026 - 06:10 AM,11.70,125.50,021,2.0,008km S 40° E of San Julian (Eastern Samar),008,S 40° E,San Julian (Eastern Samar)
+2026-09-23T05:32:00.000Z,23 September 2026 - 05:32 AM,05.56,125.34,025,1.6,018km N 57° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),018,N 57° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-23T05:26:00.000Z,23 September 2026 - 05:26 AM,05.42,126.56,032,2.5,115km S 62° E of Jose Abad Santos (Davao Occidental),115,S 62° E,Jose Abad Santos (Davao Occidental)
