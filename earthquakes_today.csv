@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-23T13:03:00.000Z,23 September 2026 - 01:03 PM,03.44,126.43,052,3.6,245km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),245,S 27° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-23T12:51:00.000Z,23 September 2026 - 12:51 PM,10.14,122.18,006,2.2,043km S 41° E of Anini-y (Antique),043,S 41° E,Anini-y (Antique)
+2026-09-23T12:33:00.000Z,23 September 2026 - 12:33 PM,19.80,121.30,008,4.5,062km N 17° W of Calayan (Cagayan),062,N 17° W,Calayan (Cagayan)
+2026-09-23T12:26:00.000Z,23 September 2026 - 12:26 PM,07.74,127.11,005,2.9,063km N 73° E of Baganga (Davao Oriental),063,N 73° E,Baganga (Davao Oriental)
+2026-09-23T12:25:00.000Z,23 September 2026 - 12:25 PM,19.27,121.47,013,3.3,001km N 04° W of Calayan (Cagayan),001,N 04° W,Calayan (Cagayan)
+2026-09-23T11:21:00.000Z,23 September 2026 - 11:21 AM,10.92,124.06,007,1.7,016km S 33° E of City Of Bogo (Cebu),016,S 33° E,City Of Bogo (Cebu)
+2026-09-23T11:20:00.000Z,23 September 2026 - 11:20 AM,06.54,125.93,129,2.4,020km S 53° W of Governor Generoso (Davao Oriental),020,S 53° W,Governor Generoso (Davao Oriental)
+2026-09-23T10:09:00.000Z,23 September 2026 - 10:09 AM,16.14,121.97,010,1.5,002km S 86° E of Dinalungan (Aurora),002,S 86° E,Dinalungan (Aurora)
 2026-09-23T08:33:00.000Z,23 September 2026 - 08:33 AM,11.12,124.09,004,3.0,015km N 55° E of City Of Bogo (Cebu),015,N 55° E,City Of Bogo (Cebu)
 2026-09-23T08:28:00.000Z,23 September 2026 - 08:28 AM,05.26,125.29,018,2.8,022km S 40° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,S 40° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-23T06:39:00.000Z,23 September 2026 - 06:39 AM,15.63,119.97,028,2.0,005km N 84° E of Candelaria (Zambales),005,N 84° E,Candelaria (Zambales)
