@@ -1,5 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-16T19:50:00.000Z,16 September 2026 - 07:50 PM,07.68,127.15,16,4.8,066km N 80° E of Baganga (Davao Oriental),066,N 80° E,Baganga (Davao Oriental)
 2026-09-22T07:48:00.000Z,22 September 2026 - 07:48 AM,04.69,125.13,3,4.7,086km S 22° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),086,S 22° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-21T19:24:00.000Z,21 September 2026 - 07:24 PM,04.02,124.70,10,4.7,174km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),174,S 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-23T12:33:00.000Z,23 September 2026 - 12:33 PM,19.80,121.30,8,4.5,062km N 17° W of Calayan (Cagayan),062,N 17° W,Calayan (Cagayan)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-20T23:37:00.000Z,20 September 2026 - 11:37 PM,09.14,126.44,24,4.2,026km N 42° E of Bayabas (Surigao Del Sur),026,N 42° E,Bayabas (Surigao Del Sur)
 2026-09-22T14:48:00.000Z,22 September 2026 - 02:48 PM,11.12,124.06,2,4.1,011km S 83° E of Medellin (Cebu),011,S 83° E,Medellin (Cebu)
 2026-09-17T16:49:00.000Z,17 September 2026 - 04:49 PM,20.19,121.17,33,4.0,075km S 78° W of Sabtang (Batanes),075,S 78° W,Sabtang (Batanes)
+2026-09-17T16:50:00.000Z,17 September 2026 - 04:50 PM,19.92,121.20,17,4.0,079km N 22° W of Calayan (Cagayan),079,N 22° W,Calayan (Cagayan)
