@@ -1,3 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-24T03:12:00.000Z,24 September 2026 - 03:12 AM,08.96,126.09,100,2.1,005km N 74° E of San Miguel (Surigao Del Sur),005,N 74° E,San Miguel (Surigao Del Sur)
-2026-09-24T03:03:00.000Z,24 September 2026 - 03:03 AM,04.96,125.35,169,3.1,051km S 10° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 10° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-24T05:58:00.000Z,24 September 2026 - 05:58 AM,09.01,125.92,033,2.5,015km N 63° W of San Miguel (Surigao Del Sur),015,N 63° W,San Miguel (Surigao Del Sur)
+2026-09-24T05:42:00.000Z,24 September 2026 - 05:42 AM,15.73,121.99,010,2.8,046km S 85° E of Baler (Aurora),046,S 85° E,Baler (Aurora)
+2026-09-24T05:31:00.000Z,24 September 2026 - 05:31 AM,05.59,125.27,015,2.2,026km N 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-24T05:19:00.000Z,24 September 2026 - 05:19 AM,19.23,121.45,010,2.6,005km S 40° W of Calayan (Cagayan),005,S 40° W,Calayan (Cagayan)
