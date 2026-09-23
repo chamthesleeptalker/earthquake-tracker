@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-24T03:12:00.000Z,24 September 2026 - 03:12 AM,08.96,126.09,100,2.1,005km N 74° E of San Miguel (Surigao Del Sur),005,N 74° E,San Miguel (Surigao Del Sur)
+2026-09-24T03:03:00.000Z,24 September 2026 - 03:03 AM,04.96,125.35,169,3.1,051km S 10° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),051,S 10° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-24T01:52:00.000Z,24 September 2026 - 01:52 AM,06.74,126.33,019,2.3,027km S 27° E of City Of Mati (Davao Oriental),027,S 27° E,City Of Mati (Davao Oriental)
+2026-09-24T01:40:00.000Z,24 September 2026 - 01:40 AM,19.48,121.53,012,3.0,025km N 14° E of Calayan (Cagayan),025,N 14° E,Calayan (Cagayan)
+2026-09-24T01:34:00.000Z,24 September 2026 - 01:34 AM,09.96,126.10,029,1.6,003km N 36° E of San Isidro (Surigao Del Norte),003,N 36° E,San Isidro (Surigao Del Norte)
+2026-09-24T01:18:00.000Z,24 September 2026 - 01:18 AM,05.69,125.22,010,3.1,015km S 06° E of Glan (Sarangani),015,S 06° E,Glan (Sarangani)
+2026-09-24T01:16:00.000Z,24 September 2026 - 01:16 AM,11.25,124.29,001,2.8,011km S 54° W of Tabango (Leyte),011,S 54° W,Tabango (Leyte)
+2026-09-24T01:10:00.000Z,24 September 2026 - 01:10 AM,05.53,125.87,035,1.8,045km N 82° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),045,N 82° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-24T00:54:00.000Z,24 September 2026 - 12:54 AM,19.22,121.53,026,1.6,007km S 47° E of Calayan (Cagayan),007,S 47° E,Calayan (Cagayan)
 2026-09-23T23:15:00.000Z,23 September 2026 - 11:15 PM,05.08,125.23,054,2.8,042km S 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),042,S 30° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-23T23:07:00.000Z,23 September 2026 - 11:07 PM,11.12,124.08,007,2.0,013km N 55° E of City Of Bogo (Cebu),013,N 55° E,City Of Bogo (Cebu)
 2026-09-23T22:45:00.000Z,23 September 2026 - 10:45 PM,07.43,126.76,021,3.1,024km N 63° E of Caraga (Davao Oriental),024,N 63° E,Caraga (Davao Oriental)
