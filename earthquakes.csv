@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-24T08:51:00.000Z,24 September 2026 - 08:51 AM,17.35,122.37,015,1.8,009km N 75° E of Divilacan (Isabela),009,N 75° E,Divilacan (Isabela)
+2026-09-24T07:28:00.000Z,24 September 2026 - 07:28 AM,05.32,121.91,023,2.3,084km S 10° E of Tongkil (Sulu),084,S 10° E,Tongkil (Sulu)
+2026-09-24T07:20:00.000Z,24 September 2026 - 07:20 AM,09.11,125.42,033,1.7,013km S 86° W of City Of Cabadbaran (Agusan Del Norte),013,S 86° W,City Of Cabadbaran (Agusan Del Norte)
+2026-09-24T06:56:00.000Z,24 September 2026 - 06:56 AM,07.75,127.15,026,3.6,068km N 74° E of Baganga (Davao Oriental),068,N 74° E,Baganga (Davao Oriental)
+2026-09-24T06:43:00.000Z,24 September 2026 - 06:43 AM,05.85,125.44,023,2.6,021km S 53° E of Malapatan (Sarangani),021,S 53° E,Malapatan (Sarangani)
 2026-09-24T05:58:00.000Z,24 September 2026 - 05:58 AM,09.01,125.92,033,2.5,015km N 63° W of San Miguel (Surigao Del Sur),015,N 63° W,San Miguel (Surigao Del Sur)
 2026-09-24T05:42:00.000Z,24 September 2026 - 05:42 AM,15.73,121.99,010,2.8,046km S 85° E of Baler (Aurora),046,S 85° E,Baler (Aurora)
 2026-09-24T05:31:00.000Z,24 September 2026 - 05:31 AM,05.59,125.27,015,2.2,026km N 42° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 42° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
