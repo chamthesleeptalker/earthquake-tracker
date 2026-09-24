@@ -1,8 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-25T01:03:00.000Z,25 September 2026 - 01:03 AM,15.73,120.02,024,1.6,013km S 74° E of Santa Cruz (Zambales),013,S 74° E,Santa Cruz (Zambales)
-2026-09-25T00:52:00.000Z,25 September 2026 - 12:52 AM,18.38,121.84,015,1.6,010km N 04° E of Buguey (Cagayan),010,N 04° E,Buguey (Cagayan)
-2026-09-25T00:32:00.000Z,25 September 2026 - 12:32 AM,05.41,125.30,031,2.2,014km N 90° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),014,N 90° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-25T00:23:00.000Z,25 September 2026 - 12:23 AM,05.73,125.23,032,1.4,010km S 15° E of Glan (Sarangani),010,S 15° E,Glan (Sarangani)
-2026-09-25T00:20:00.000Z,25 September 2026 - 12:20 AM,17.79,120.88,033,1.4,010km N 37° E of Tineg (Abra),010,N 37° E,Tineg (Abra)
-2026-09-25T00:12:00.000Z,25 September 2026 - 12:12 AM,05.50,125.09,004,2.9,038km N 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),038,N 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-25T00:05:00.000Z,25 September 2026 - 12:05 AM,18.24,120.29,021,1.6,031km N 51° W of Paoay (Ilocos Norte),031,N 51° W,Paoay (Ilocos Norte)
+2026-09-25T04:17:00.000Z,25 September 2026 - 04:17 AM,15.84,119.97,026,2.4,007km N 77° E of Infanta (Pangasinan),007,N 77° E,Infanta (Pangasinan)
+2026-09-25T04:05:00.000Z,25 September 2026 - 04:05 AM,02.23,126.05,031,4.6,359km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),359,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-25T03:44:00.000Z,25 September 2026 - 03:44 AM,05.93,126.15,148,2.1,056km N 88° E of Jose Abad Santos (Davao Occidental),056,N 88° E,Jose Abad Santos (Davao Occidental)
+2026-09-25T03:39:00.000Z,25 September 2026 - 03:39 AM,05.38,125.29,032,2.4,015km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-25T03:22:00.000Z,25 September 2026 - 03:22 AM,05.85,126.57,044,2.5,103km S 86° E of Jose Abad Santos (Davao Occidental),103,S 86° E,Jose Abad Santos (Davao Occidental)
