@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-25T10:22:00.000Z,25 September 2026 - 10:22 AM,13.64,121.67,005,1.9,028km N 49° W of Mogpog (Marinduque),028,N 49° W,Mogpog (Marinduque)
+2026-09-25T10:19:00.000Z,25 September 2026 - 10:19 AM,07.36,126.75,026,3.1,021km N 81° E of Caraga (Davao Oriental),021,N 81° E,Caraga (Davao Oriental)
+2026-09-25T09:53:00.000Z,25 September 2026 - 09:53 AM,10.36,126.32,026,2.2,047km N 36° E of Burgos (Surigao Del Norte),047,N 36° E,Burgos (Surigao Del Norte)
+2026-09-25T09:04:00.000Z,25 September 2026 - 09:04 AM,09.68,126.17,030,1.6,011km S 06° E of General Luna (Surigao Del Norte),011,S 06° E,General Luna (Surigao Del Norte)
 2026-09-25T07:14:00.000Z,25 September 2026 - 07:14 AM,05.62,125.70,116,2.4,030km N 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),030,N 58° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-25T07:01:00.000Z,25 September 2026 - 07:01 AM,05.70,125.40,032,2.0,026km N 17° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),026,N 17° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-25T06:08:00.000Z,25 September 2026 - 06:08 AM,05.75,125.39,019,1.4,022km S 68° E of Glan (Sarangani),022,S 68° E,Glan (Sarangani)
