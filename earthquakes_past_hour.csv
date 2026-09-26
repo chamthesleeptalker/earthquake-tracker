@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-27T02:39:00.000Z,27 September 2026 - 02:39 AM,06.45,126.28,127,2.4,033km S 46° E of Governor Generoso (Davao Oriental),033,S 46° E,Governor Generoso (Davao Oriental)
-2026-09-27T02:34:00.000Z,27 September 2026 - 02:34 AM,09.90,126.67,002,2.4,058km N 76° E of General Luna (Surigao Del Norte),058,N 76° E,General Luna (Surigao Del Norte)
-2026-09-27T01:54:00.000Z,27 September 2026 - 01:54 AM,13.15,124.29,028,2.0,016km N 40° E of Prieto Diaz (Sorsogon),016,N 40° E,Prieto Diaz (Sorsogon)
-2026-09-27T01:39:00.000Z,27 September 2026 - 01:39 AM,12.93,123.05,011,2.0,021km N 80° W of Claveria (Masbate),021,N 80° W,Claveria (Masbate)
+2026-09-27T05:52:00.000Z,27 September 2026 - 05:52 AM,11.76,125.55,019,1.8,011km N 85° E of San Julian (Eastern Samar),011,N 85° E,San Julian (Eastern Samar)
+2026-09-27T05:41:00.000Z,27 September 2026 - 05:41 AM,05.88,125.36,022,1.6,013km S 36° E of Malapatan (Sarangani),013,S 36° E,Malapatan (Sarangani)
+2026-09-27T05:28:00.000Z,27 September 2026 - 05:28 AM,14.49,121.89,007,2.1,017km N 64° W of Balesin Island (Polillo) (Quezon),017,N 64° W,Balesin Island (Polillo) (Quezon)
+2026-09-27T05:18:00.000Z,27 September 2026 - 05:18 AM,07.44,126.69,023,4.1,019km N 47° E of Caraga (Davao Oriental),019,N 47° E,Caraga (Davao Oriental)
+2026-09-27T05:08:00.000Z,27 September 2026 - 05:08 AM,09.92,124.25,029,1.5,004km N 43° W of Dagohoy (Bohol),004,N 43° W,Dagohoy (Bohol)
