@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-26T12:54:00.000Z,26 September 2026 - 12:54 PM,09.88,126.60,007,2.9,050km N 78° E of General Luna (Surigao Del Norte),050,N 78° E,General Luna (Surigao Del Norte)
+2026-09-26T12:19:00.000Z,26 September 2026 - 12:19 PM,08.88,126.39,028,1.9,010km S 67° E of Cagwait (Surigao Del Sur),010,S 67° E,Cagwait (Surigao Del Sur)
+2026-09-26T11:44:00.000Z,26 September 2026 - 11:44 AM,13.23,124.20,028,1.4,010km N 59° E of Rapu-rapu (Albay),010,N 59° E,Rapu-rapu (Albay)
+2026-09-26T11:41:00.000Z,26 September 2026 - 11:41 AM,13.22,124.13,033,1.5,004km N 04° E of Rapu-rapu (Albay),004,N 04° E,Rapu-rapu (Albay)
+2026-09-26T11:39:00.000Z,26 September 2026 - 11:39 AM,05.42,125.39,034,1.7,003km N 82° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),003,N 82° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-26T11:39:00.000Z,26 September 2026 - 11:39 AM,19.10,121.22,002,2.3,002km S 35° E of Dalupiri Island (Calayan) (Cagayan),002,S 35° E,Dalupiri Island (Calayan) (Cagayan)
+2026-09-26T10:38:00.000Z,26 September 2026 - 10:38 AM,08.17,127.32,002,2.5,101km N 82° E of Lingig (Surigao Del Sur),101,N 82° E,Lingig (Surigao Del Sur)
+2026-09-26T09:47:00.000Z,26 September 2026 - 09:47 AM,05.52,125.64,003,2.7,020km N 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 74° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-26T09:20:00.000Z,26 September 2026 - 09:20 AM,08.74,126.55,028,1.8,029km S 77° E of Marihatag (Surigao Del Sur),029,S 77° E,Marihatag (Surigao Del Sur)
 2026-09-26T08:31:00.000Z,26 September 2026 - 08:31 AM,16.23,119.48,012,2.9,048km S 68° W of Bolinao (Pangasinan),048,S 68° W,Bolinao (Pangasinan)
 2026-09-26T07:33:00.000Z,26 September 2026 - 07:33 AM,15.65,120.11,036,1.7,019km N 81° E of Candelaria (Zambales),019,N 81° E,Candelaria (Zambales)
 2026-09-26T07:03:00.000Z,26 September 2026 - 07:03 AM,05.46,125.43,034,2.3,005km N 12° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),005,N 12° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -54,8 +63,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-09-25T14:37:00.000Z,25 September 2026 - 02:37 PM,13.98,123.95,007,1.7,020km West of Caramoran (Catanduanes),020,West of Caramoran,
 2026-09-25T14:05:00.000Z,25 September 2026 - 02:05 PM,10.30,122.34,002,1.8,033km S 41° W of Nueva Valencia (Guimaras),033,S 41° W,Nueva Valencia (Guimaras)
 2026-09-25T13:10:00.000Z,25 September 2026 - 01:10 PM,19.98,121.20,010,2.2,085km N 20° W of Calayan (Cagayan),085,N 20° W,Calayan (Cagayan)
-2026-09-25T12:32:00.000Z,25 September 2026 - 12:32 PM,05.69,124.79,030,2.4,030km S 50° W of Maasim (Sarangani),030,S 50° W,Maasim (Sarangani)
-2026-09-25T10:22:00.000Z,25 September 2026 - 10:22 AM,13.64,121.67,005,1.9,028km N 49° W of Mogpog (Marinduque),028,N 49° W,Mogpog (Marinduque)
-2026-09-25T10:19:00.000Z,25 September 2026 - 10:19 AM,07.36,126.75,026,3.1,021km N 81° E of Caraga (Davao Oriental),021,N 81° E,Caraga (Davao Oriental)
-2026-09-25T09:53:00.000Z,25 September 2026 - 09:53 AM,10.36,126.32,026,2.2,047km N 36° E of Burgos (Surigao Del Norte),047,N 36° E,Burgos (Surigao Del Norte)
-2026-09-25T09:04:00.000Z,25 September 2026 - 09:04 AM,09.68,126.17,030,1.6,011km S 06° E of General Luna (Surigao Del Norte),011,S 06° E,General Luna (Surigao Del Norte)
