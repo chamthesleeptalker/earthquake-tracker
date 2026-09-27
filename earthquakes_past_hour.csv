@@ -1,9 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-28T03:56:00.000Z,28 September 2026 - 03:56 AM,13.21,120.45,002,2.0,016km S 84° W of Mamburao (Occidental Mindoro),016,S 84° W,Mamburao (Occidental Mindoro)
-2026-09-28T03:49:00.000Z,28 September 2026 - 03:49 AM,05.57,125.25,006,3.1,026km N 47° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 47° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-28T03:31:00.000Z,28 September 2026 - 03:31 AM,06.45,123.84,003,2.3,026km S 64° W of Kalamansig (Sultan Kudarat),026,S 64° W,Kalamansig (Sultan Kudarat)
-2026-09-28T03:31:00.000Z,28 September 2026 - 03:31 AM,18.62,120.93,003,2.2,009km N 42° W of Santa Praxedes (Cagayan),009,N 42° W,Santa Praxedes (Cagayan)
-2026-09-28T03:18:00.000Z,28 September 2026 - 03:18 AM,19.43,121.10,051,2.2,044km N 64° W of Calayan (Cagayan),044,N 64° W,Calayan (Cagayan)
-2026-09-28T03:11:00.000Z,28 September 2026 - 03:11 AM,19.84,121.33,010,2.1,066km N 13° W of Calayan (Cagayan),066,N 13° W,Calayan (Cagayan)
-2026-09-28T02:58:00.000Z,28 September 2026 - 02:58 AM,05.35,125.33,019,2.1,012km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),012,S 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-09-28T02:57:00.000Z,28 September 2026 - 02:57 AM,05.63,125.31,025,2.0,024km S 28° E of Glan (Sarangani),024,S 28° E,Glan (Sarangani)
+2026-09-28T06:00:00.000Z,28 September 2026 - 06:00 AM,05.55,125.16,024,1.7,031km S 10° W of Glan (Sarangani),031,S 10° W,Glan (Sarangani)
+2026-09-28T05:49:00.000Z,28 September 2026 - 05:49 AM,13.27,120.45,002,1.8,016km S 06° W of Paluan (Occidental Mindoro),016,S 06° W,Paluan (Occidental Mindoro)
+2026-09-28T05:45:00.000Z,28 September 2026 - 05:45 AM,05.80,124.36,004,2.3,032km S 27° W of Maitum (Sarangani),032,S 27° W,Maitum (Sarangani)
+2026-09-28T05:01:00.000Z,28 September 2026 - 05:01 AM,19.37,121.82,073,1.9,018km S 31° W of Babuyan Island (Calayan) (Cagayan),018,S 31° W,Babuyan Island (Calayan) (Cagayan)
