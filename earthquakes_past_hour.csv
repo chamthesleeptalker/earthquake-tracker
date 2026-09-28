@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-28T15:57:00.000Z,28 September 2026 - 03:57 PM,09.08,125.59,027,2.0,003km N 11° E of Remedios T. Romualdez (Agusan Del Norte),003,N 11° E,Remedios T. Romualdez (Agusan Del Norte)
-2026-09-28T15:43:00.000Z,28 September 2026 - 03:43 PM,15.12,122.46,033,2.7,049km N 16° E of Jomalig (Quezon),049,N 16° E,Jomalig (Quezon)
-2026-09-28T15:28:00.000Z,28 September 2026 - 03:28 PM,15.41,119.68,016,2.3,025km S 85° W of Palauig (Zambales),025,S 85° W,Palauig (Zambales)
+2026-09-29T00:21:00.000Z,29 September 2026 - 12:21 AM,05.76,125.19,027,2.5,007km S 09° W of Glan (Sarangani),007,S 09° W,Glan (Sarangani)
+2026-09-29T00:20:00.000Z,29 September 2026 - 12:20 AM,11.23,125.77,022,2.7,015km N 53° E of Salcedo (Eastern Samar),015,N 53° E,Salcedo (Eastern Samar)
+2026-09-28T23:56:00.000Z,28 September 2026 - 11:56 PM,08.02,126.80,023,3.5,042km S 88° E of Lingig (Surigao Del Sur),042,S 88° E,Lingig (Surigao Del Sur)
+2026-09-28T23:52:00.000Z,28 September 2026 - 11:52 PM,18.65,120.71,032,1.7,013km N 27° W of Bangui (Ilocos Norte),013,N 27° W,Bangui (Ilocos Norte)
+2026-09-28T23:40:00.000Z,28 September 2026 - 11:40 PM,05.43,125.93,006,2.5,051km S 84° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),051,S 84° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-28T23:38:00.000Z,28 September 2026 - 11:38 PM,19.09,121.84,038,1.6,020km N 08° W of Camiguin Island (Calayan) (Cagayan),020,N 08° W,Camiguin Island (Calayan) (Cagayan)
+2026-09-28T23:36:00.000Z,28 September 2026 - 11:36 PM,15.67,120.53,169,2.2,006km N 88° W of Paniqui (Tarlac),006,N 88° W,Paniqui (Tarlac)
