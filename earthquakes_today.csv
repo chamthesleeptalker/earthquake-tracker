@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-29T09:54:00.000Z,29 September 2026 - 09:54 AM,19.22,121.47,010,1.7,004km S 01° W of Calayan (Cagayan),004,S 01° W,Calayan (Cagayan)
+2026-09-29T09:34:00.000Z,29 September 2026 - 09:34 AM,12.55,125.84,032,1.9,055km N 42° E of San Policarpo (Eastern Samar),055,N 42° E,San Policarpo (Eastern Samar)
+2026-09-29T09:16:00.000Z,29 September 2026 - 09:16 AM,05.58,125.24,021,1.7,027km S 07° E of Glan (Sarangani),027,S 07° E,Glan (Sarangani)
+2026-09-29T08:32:00.000Z,29 September 2026 - 08:32 AM,06.14,125.76,141,3.0,010km S 51° E of Don Marcelino (Davao Occidental),010,S 51° E,Don Marcelino (Davao Occidental)
+2026-09-29T07:43:00.000Z,29 September 2026 - 07:43 AM,05.83,125.35,016,2.0,016km N 87° E of Glan (Sarangani),016,N 87° E,Glan (Sarangani)
+2026-09-29T06:57:00.000Z,29 September 2026 - 06:57 AM,05.62,125.33,008,2.3,023km N 43° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 43° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-29T06:44:00.000Z,29 September 2026 - 06:44 AM,06.61,125.81,073,2.4,029km S 80° W of Governor Generoso (Davao Oriental),029,S 80° W,Governor Generoso (Davao Oriental)
+2026-09-29T06:28:00.000Z,29 September 2026 - 06:28 AM,09.67,126.21,032,2.2,014km S 26° E of General Luna (Surigao Del Norte),014,S 26° E,General Luna (Surigao Del Norte)
 2026-09-29T05:39:00.000Z,29 September 2026 - 05:39 AM,10.14,125.81,008,1.9,025km N 71° E of Basilisa (Dinagat Islands),025,N 71° E,Basilisa (Dinagat Islands)
 2026-09-29T05:31:00.000Z,29 September 2026 - 05:31 AM,06.53,123.84,002,3.0,023km S 84° W of Kalamansig (Sultan Kudarat),023,S 84° W,Kalamansig (Sultan Kudarat)
 2026-09-29T05:11:00.000Z,29 September 2026 - 05:11 AM,17.82,122.68,027,2.5,067km N 45° E of Maconacon (Isabela),067,N 45° E,Maconacon (Isabela)
