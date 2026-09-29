@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-29T09:54:00.000Z,29 September 2026 - 09:54 AM,19.22,121.47,010,1.7,004km S 01° W of Calayan (Cagayan),004,S 01° W,Calayan (Cagayan)
-2026-09-29T09:34:00.000Z,29 September 2026 - 09:34 AM,12.55,125.84,032,1.9,055km N 42° E of San Policarpo (Eastern Samar),055,N 42° E,San Policarpo (Eastern Samar)
-2026-09-29T09:16:00.000Z,29 September 2026 - 09:16 AM,05.58,125.24,021,1.7,027km S 07° E of Glan (Sarangani),027,S 07° E,Glan (Sarangani)
+2026-09-29T16:21:00.000Z,29 September 2026 - 04:21 PM,06.03,126.43,026,2.5,079km S 30° E of Governor Generoso (Davao Oriental),079,S 30° E,Governor Generoso (Davao Oriental)
+2026-09-29T16:08:00.000Z,29 September 2026 - 04:08 PM,07.73,124.42,007,2.6,013km S 83° E of Butig (Lanao Del Sur),013,S 83° E,Butig (Lanao Del Sur)
+2026-09-29T16:04:00.000Z,29 September 2026 - 04:04 PM,07.75,124.41,005,1.9,011km N 88° E of Butig (Lanao Del Sur),011,N 88° E,Butig (Lanao Del Sur)
+2026-09-29T15:46:00.000Z,29 September 2026 - 03:46 PM,08.56,121.47,033,2.2,112km N 42° W of Baliguian (Zamboanga Del Norte),112,N 42° W,Baliguian (Zamboanga Del Norte)
