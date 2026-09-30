@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-09-30T17:59:00.000Z,30 September 2026 - 05:59 PM,19.57,121.10,017,2.8,052km N 12° W of Dalupiri Island (Calayan) (Cagayan),052,N 12° W,Dalupiri Island (Calayan) (Cagayan)
-2026-09-30T17:37:00.000Z,30 September 2026 - 05:37 PM,06.94,126.11,028,1.6,012km S 75° E of Banaybanay (Davao Oriental),012,S 75° E,Banaybanay (Davao Oriental)
-2026-09-30T17:00:00.000Z,30 September 2026 - 05:00 PM,05.43,125.33,005,2.6,011km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),011,N 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-30T23:36:00.000Z,30 September 2026 - 11:36 PM,09.21,126.26,034,2.4,010km S 45° E of Cortes (Surigao Del Sur),010,S 45° E,Cortes (Surigao Del Sur)
+2026-09-30T23:35:00.000Z,30 September 2026 - 11:35 PM,06.26,125.39,042,1.5,019km S 44° E of Malungon (Sarangani),019,S 44° E,Malungon (Sarangani)
+2026-09-30T23:21:00.000Z,30 September 2026 - 11:21 PM,11.03,123.95,031,1.8,004km S 66° W of City Of Bogo (Cebu),004,S 66° W,City Of Bogo (Cebu)
+2026-09-30T22:59:00.000Z,30 September 2026 - 10:59 PM,17.17,121.51,021,2.5,012km S 65° W of Mallig (Isabela),012,S 65° W,Mallig (Isabela)
+2026-09-30T22:44:00.000Z,30 September 2026 - 10:44 PM,08.23,126.86,001,2.6,053km N 66° E of Lingig (Surigao Del Sur),053,N 66° E,Lingig (Surigao Del Sur)
