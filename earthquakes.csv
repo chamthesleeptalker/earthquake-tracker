@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-09-30T10:30:00.000Z,30 September 2026 - 10:30 AM,04.77,125.87,127,4.2,087km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),087,S 35° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-30T10:22:00.000Z,30 September 2026 - 10:22 AM,05.66,125.08,042,2.1,022km S 38° W of Glan (Sarangani),022,S 38° W,Glan (Sarangani)
+2026-09-30T09:55:00.000Z,30 September 2026 - 09:55 AM,13.21,120.32,025,2.4,027km S 34° W of Paluan (Occidental Mindoro),027,S 34° W,Paluan (Occidental Mindoro)
+2026-09-30T09:34:00.000Z,30 September 2026 - 09:34 AM,13.13,120.41,028,4.8,023km S 63° W of Mamburao (Occidental Mindoro),023,S 63° W,Mamburao (Occidental Mindoro)
+2026-09-30T07:58:00.000Z,30 September 2026 - 07:58 AM,07.68,124.72,031,1.5,004km N 07° W of Wao (Lanao Del Sur),004,N 07° W,Wao (Lanao Del Sur)
+2026-09-30T07:56:00.000Z,30 September 2026 - 07:56 AM,04.83,125.64,010,2.4,067km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),067,S 21° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-09-30T07:55:00.000Z,30 September 2026 - 07:55 AM,06.42,124.03,009,1.6,016km S 08° W of Kalamansig (Sultan Kudarat),016,S 08° W,Kalamansig (Sultan Kudarat)
 2026-09-30T07:12:00.000Z,30 September 2026 - 07:12 AM,12.84,124.87,005,2.7,031km N 10° W of Pambujan (Northern Samar),031,N 10° W,Pambujan (Northern Samar)
 2026-09-30T06:56:00.000Z,30 September 2026 - 06:56 AM,05.34,125.22,032,3.1,024km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,S 70° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-09-30T06:51:00.000Z,30 September 2026 - 06:51 AM,05.69,126.32,010,2.4,079km S 72° E of Jose Abad Santos (Davao Occidental),079,S 72° E,Jose Abad Santos (Davao Occidental)
