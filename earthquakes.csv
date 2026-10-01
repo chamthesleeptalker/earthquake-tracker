@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-01T13:34:00.000Z,01 October 2026 - 01:34 PM,06.04,123.79,010,4.9,047km S 66° W of Palimbang (Sultan Kudarat),047,S 66° W,Palimbang (Sultan Kudarat)
+2026-10-01T11:12:00.000Z,01 October 2026 - 11:12 AM,18.56,121.00,025,2.0,001km East of Santa Praxedes (Cagayan),001,East of Santa,(Cagayan)
+2026-10-01T10:28:00.000Z,01 October 2026 - 10:28 AM,05.75,125.14,026,2.0,010km S 43° W of Glan (Sarangani),010,S 43° W,Glan (Sarangani)
+2026-10-01T10:12:00.000Z,01 October 2026 - 10:12 AM,07.33,127.23,003,3.2,073km N 90° E of Caraga (Davao Oriental),073,N 90° E,Caraga (Davao Oriental)
+2026-10-01T09:06:00.000Z,01 October 2026 - 09:06 AM,05.47,125.41,016,1.9,006km N 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,N 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-01T08:42:00.000Z,01 October 2026 - 08:42 AM,05.42,125.35,023,2.1,008km N 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),008,N 85° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-01T08:10:00.000Z,01 October 2026 - 08:10 AM,06.57,126.48,029,2.3,046km S 79° E of Governor Generoso (Davao Oriental),046,S 79° E,Governor Generoso (Davao Oriental)
 2026-10-01T08:06:00.000Z,01 October 2026 - 08:06 AM,09.67,126.21,033,2.0,014km S 27° E of General Luna (Surigao Del Norte),014,S 27° E,General Luna (Surigao Del Norte)
 2026-10-01T07:54:00.000Z,01 October 2026 - 07:54 AM,09.55,126.22,029,2.0,026km S 16° E of General Luna (Surigao Del Norte),026,S 16° E,General Luna (Surigao Del Norte)
