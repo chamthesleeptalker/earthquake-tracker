@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-02T11:33:00.000Z,02 October 2026 - 11:33 AM,05.74,125.25,017,2.0,010km S 28° E of Glan (Sarangani),010,S 28° E,Glan (Sarangani)
+2026-10-02T11:03:00.000Z,02 October 2026 - 11:03 AM,15.42,121.76,004,2.0,040km N 85° E of Dingalan (Aurora),040,N 85° E,Dingalan (Aurora)
+2026-10-02T09:52:00.000Z,02 October 2026 - 09:52 AM,15.91,121.81,002,1.8,030km S 31° W of Dinalungan (Aurora),030,S 31° W,Dinalungan (Aurora)
+2026-10-02T08:44:00.000Z,02 October 2026 - 08:44 AM,11.14,124.13,010,2.0,019km N 58° E of City Of Bogo (Cebu),019,N 58° E,City Of Bogo (Cebu)
+2026-10-02T07:48:00.000Z,02 October 2026 - 07:48 AM,05.36,126.03,006,3.2,064km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),064,S 79° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-02T06:28:00.000Z,02 October 2026 - 06:28 AM,12.82,123.07,010,2.8,022km S 64° W of Claveria (Masbate),022,S 64° W,Claveria (Masbate)
 2026-10-02T06:06:00.000Z,02 October 2026 - 06:06 AM,10.25,122.07,007,2.4,043km S 31° E of Anini-y (Antique),043,S 31° E,Anini-y (Antique)
 2026-10-02T05:53:00.000Z,02 October 2026 - 05:53 AM,09.12,126.96,028,2.0,075km N 73° E of Cagwait (Surigao Del Sur),075,N 73° E,Cagwait (Surigao Del Sur)
