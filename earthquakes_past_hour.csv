@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-02T18:28:00.000Z,02 October 2026 - 06:28 PM,09.61,125.57,006,1.9,006km S 32° W of Placer (Surigao Del Norte),006,S 32° W,Placer (Surigao Del Norte)
-2026-10-02T18:14:00.000Z,02 October 2026 - 06:14 PM,07.27,123.43,021,1.6,022km S 04° E of Tabina (Zamboanga Del Sur),022,S 04° E,Tabina (Zamboanga Del Sur)
-2026-10-02T18:08:00.000Z,02 October 2026 - 06:08 PM,17.05,120.83,032,1.5,006km S 30° W of Besao (Mountain Province),006,S 30° W,Besao (Mountain Province)
-2026-10-02T17:50:00.000Z,02 October 2026 - 05:50 PM,18.95,121.34,012,2.2,012km N 16° W of Fuga Island (Aparri) (Cagayan),012,N 16° W,Fuga Island (Aparri) (Cagayan)
+2026-10-03T13:11:00.000Z,03 October 2026 - 01:11 PM,05.37,125.24,033,2.4,021km S 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 77° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-03T12:52:00.000Z,03 October 2026 - 12:52 PM,05.09,125.37,077,2.3,036km S 09° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 09° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-03T12:42:00.000Z,03 October 2026 - 12:42 PM,05.74,125.33,027,2.5,017km S 59° E of Glan (Sarangani),017,S 59° E,Glan (Sarangani)
+2026-10-03T12:41:00.000Z,03 October 2026 - 12:41 PM,18.95,121.19,027,1.6,018km S 05° W of Dalupiri Island (Calayan) (Cagayan),018,S 05° W,Dalupiri Island (Calayan) (Cagayan)
+2026-10-03T12:16:00.000Z,03 October 2026 - 12:16 PM,07.45,126.46,018,2.0,017km S 40° W of Baganga (Davao Oriental),017,S 40° W,Baganga (Davao Oriental)
