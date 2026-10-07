@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-08T01:43:00.000Z,08 October 2026 - 01:43 AM,07.47,127.00,004,2.6,050km S 77° E of Baganga (Davao Oriental),050,S 77° E,Baganga (Davao Oriental)
-2026-10-08T01:06:00.000Z,08 October 2026 - 01:06 AM,06.63,126.38,024,2.4,035km S 86° E of Governor Generoso (Davao Oriental),035,S 86° E,Governor Generoso (Davao Oriental)
-2026-10-08T00:58:00.000Z,08 October 2026 - 12:58 AM,16.68,120.56,121,4.0,010km S 79° W of Kibungan (Benguet),010,S 79° W,Kibungan (Benguet)
-2026-10-08T00:57:00.000Z,08 October 2026 - 12:57 AM,07.90,126.58,024,2.9,018km N 51° E of Cateel (Davao Oriental),018,N 51° E,Cateel (Davao Oriental)
+2026-10-08T05:22:00.000Z,08 October 2026 - 05:22 AM,11.42,125.43,022,2.0,010km S 56° W of Balangkayan (Eastern Samar),010,S 56° W,Balangkayan (Eastern Samar)
+2026-10-08T05:17:00.000Z,08 October 2026 - 05:17 AM,13.28,121.63,033,1.9,024km S 77° W of Gasan (Marinduque),024,S 77° W,Gasan (Marinduque)
+2026-10-08T04:55:00.000Z,08 October 2026 - 04:55 AM,11.07,124.08,021,1.9,011km N 74° E of City Of Bogo (Cebu),011,N 74° E,City Of Bogo (Cebu)
+2026-10-08T04:39:00.000Z,08 October 2026 - 04:39 AM,06.10,126.36,052,2.7,069km S 28° E of Governor Generoso (Davao Oriental),069,S 28° E,Governor Generoso (Davao Oriental)
+2026-10-08T04:25:00.000Z,08 October 2026 - 04:25 AM,17.68,120.79,009,2.5,006km S 83° E of San Juan (Abra),006,S 83° E,San Juan (Abra)
