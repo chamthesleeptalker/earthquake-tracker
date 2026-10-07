@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-08T00:42:00.000Z,08 October 2026 - 12:42 AM,05.21,125.89,115,4.9,057km S 67° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),057,S 67° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-01T13:34:00.000Z,01 October 2026 - 01:34 PM,06.04,123.79,10,4.9,047km S 66° W of Palimbang (Sultan Kudarat),047,S 66° W,Palimbang (Sultan Kudarat)
 2026-10-02T23:10:00.000Z,02 October 2026 - 11:10 PM,14.69,119.32,3,4.5,086km S 71° W of San Antonio (Zambales),086,S 71° W,San Antonio (Zambales)
 2026-10-01T14:42:00.000Z,01 October 2026 - 02:42 PM,17.97,120.75,6,4.4,011km N 56° E of Nueva Era (Ilocos Norte),011,N 56° E,Nueva Era (Ilocos Norte)
@@ -7,5 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-02T13:39:00.000Z,02 October 2026 - 01:39 PM,03.36,126.17,33,4.2,242km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),242,S 20° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-02T13:38:00.000Z,02 October 2026 - 01:38 PM,02.46,126.61,19,4.2,344km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),344,S 22° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-05T14:14:00.000Z,05 October 2026 - 02:14 PM,04.48,127.10,175,4.1,212km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),212,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-01T22:43:00.000Z,01 October 2026 - 10:43 PM,13.13,120.40,33,4.0,024km S 63° W of Mamburao (Occidental Mindoro),024,S 63° W,Mamburao (Occidental Mindoro)
-2026-10-04T23:52:00.000Z,04 October 2026 - 11:52 PM,06.52,126.43,23,3.9,042km S 69° E of Governor Generoso (Davao Oriental),042,S 69° E,Governor Generoso (Davao Oriental)
+2026-10-08T00:58:00.000Z,08 October 2026 - 12:58 AM,16.68,120.56,121,4.0,010km S 79° W of Kibungan (Benguet),010,S 79° W,Kibungan (Benguet)
