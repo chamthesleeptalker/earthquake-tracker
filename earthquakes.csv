@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-08T10:21:00.000Z,08 October 2026 - 10:21 AM,09.89,126.46,009,2.6,035km N 71° E of General Luna (Surigao Del Norte),035,N 71° E,General Luna (Surigao Del Norte)
+2026-10-08T10:11:00.000Z,08 October 2026 - 10:11 AM,09.10,126.33,033,1.4,013km N 49° E of Tago (Surigao Del Sur),013,N 49° E,Tago (Surigao Del Sur)
+2026-10-08T09:40:00.000Z,08 October 2026 - 09:40 AM,19.27,121.25,029,1.5,018km N 15° E of Dalupiri Island (Calayan) (Cagayan),018,N 15° E,Dalupiri Island (Calayan) (Cagayan)
+2026-10-08T08:31:00.000Z,08 October 2026 - 08:31 AM,10.16,122.18,011,2.6,040km S 43° E of Anini-y (Antique),040,S 43° E,Anini-y (Antique)
+2026-10-08T07:34:00.000Z,08 October 2026 - 07:34 AM,05.22,125.38,030,2.4,022km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,S 11° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-08T05:22:00.000Z,08 October 2026 - 05:22 AM,11.42,125.43,022,2.0,010km S 56° W of Balangkayan (Eastern Samar),010,S 56° W,Balangkayan (Eastern Samar)
 2026-10-08T05:17:00.000Z,08 October 2026 - 05:17 AM,13.28,121.63,033,1.9,024km S 77° W of Gasan (Marinduque),024,S 77° W,Gasan (Marinduque)
 2026-10-08T04:55:00.000Z,08 October 2026 - 04:55 AM,11.07,124.08,021,1.9,011km N 74° E of City Of Bogo (Cebu),011,N 74° E,City Of Bogo (Cebu)
