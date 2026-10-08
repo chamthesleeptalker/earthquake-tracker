@@ -1,7 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-09T00:53:00.000Z,09 October 2026 - 12:53 AM,09.55,122.40,033,1.9,009km S 52° W of Hinoba-an (Negros Occidental),009,S 52° W,Hinoba-an (Negros Occidental)
-2026-10-09T00:49:00.000Z,09 October 2026 - 12:49 AM,09.35,126.20,034,1.5,008km N 07° E of Cortes (Surigao Del Sur),008,N 07° E,Cortes (Surigao Del Sur)
-2026-10-09T00:29:00.000Z,09 October 2026 - 12:29 AM,09.62,126.11,033,1.5,016km S 22° E of Dapa (Surigao Del Norte),016,S 22° E,Dapa (Surigao Del Norte)
-2026-10-09T00:26:00.000Z,09 October 2026 - 12:26 AM,05.65,125.29,030,2.1,021km S 26° E of Glan (Sarangani),021,S 26° E,Glan (Sarangani)
-2026-10-09T00:18:00.000Z,09 October 2026 - 12:18 AM,05.44,125.43,025,2.3,003km N 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),003,N 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-09T00:04:00.000Z,09 October 2026 - 12:04 AM,14.59,120.25,022,1.5,010km S 09° W of Morong (Bataan),010,S 09° W,Morong (Bataan)
+2026-10-09T06:09:00.000Z,09 October 2026 - 06:09 AM,05.43,125.28,024,1.8,016km N 84° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,N 84° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-09T05:56:00.000Z,09 October 2026 - 05:56 AM,08.63,122.65,033,1.8,046km N 63° W of Jose Dalman (Zamboanga Del Norte),046,N 63° W,Jose Dalman (Zamboanga Del Norte)
+2026-10-09T05:29:00.000Z,09 October 2026 - 05:29 AM,09.73,126.29,013,2.1,016km S 66° E of General Luna (Surigao Del Norte),016,S 66° E,General Luna (Surigao Del Norte)
+2026-10-09T05:18:00.000Z,09 October 2026 - 05:18 AM,05.63,125.28,028,2.3,022km S 23° E of Glan (Sarangani),022,S 23° E,Glan (Sarangani)
