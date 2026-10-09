@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-10T00:13:00.000Z,10 October 2026 - 12:13 AM,11.77,125.20,045,1.7,016km N 63° E of Hinabangan (Samar),016,N 63° E,Hinabangan (Samar)
-2026-10-09T23:56:00.000Z,09 October 2026 - 11:56 PM,12.40,123.57,025,1.2,007km N 61° W of City Of Masbate (Masbate),007,N 61° W,City Of Masbate (Masbate)
-2026-10-09T23:55:00.000Z,09 October 2026 - 11:55 PM,19.27,121.17,033,1.5,019km N 12° W of Dalupiri Island (Calayan) (Cagayan),019,N 12° W,Dalupiri Island (Calayan) (Cagayan)
+2026-10-10T04:52:00.000Z,10 October 2026 - 04:52 AM,12.91,122.96,002,1.4,031km N 88° W of Claveria (Masbate),031,N 88° W,Claveria (Masbate)
+2026-10-10T04:06:00.000Z,10 October 2026 - 04:06 AM,12.11,125.07,041,2.3,008km N 41° E of San Jose De Buan (Samar),008,N 41° E,San Jose De Buan (Samar)
+2026-10-10T04:04:00.000Z,10 October 2026 - 04:04 AM,05.63,125.32,032,1.5,024km S 31° E of Glan (Sarangani),024,S 31° E,Glan (Sarangani)
+2026-10-10T03:59:00.000Z,10 October 2026 - 03:59 AM,05.74,125.19,009,1.6,009km S 07° W of Glan (Sarangani),009,S 07° W,Glan (Sarangani)
