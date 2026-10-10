@@ -1,7 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-10T21:35:00.000Z,10 October 2026 - 09:35 PM,05.63,125.27,028,1.9,022km S 19° E of Glan (Sarangani),022,S 19° E,Glan (Sarangani)
-2026-10-10T21:34:00.000Z,10 October 2026 - 09:34 PM,12.76,123.50,016,1.5,019km S 31° W of Donsol (Sorsogon),019,S 31° W,Donsol (Sorsogon)
-2026-10-10T21:02:00.000Z,10 October 2026 - 09:02 PM,13.48,119.87,033,2.2,049km S 57° W of Looc (Occidental Mindoro),049,S 57° W,Looc (Occidental Mindoro)
-2026-10-10T21:01:00.000Z,10 October 2026 - 09:01 PM,09.42,126.52,003,2.4,039km N 66° E of Cortes (Surigao Del Sur),039,N 66° E,Cortes (Surigao Del Sur)
-2026-10-10T20:57:00.000Z,10 October 2026 - 08:57 PM,05.64,125.29,029,1.7,022km S 26° E of Glan (Sarangani),022,S 26° E,Glan (Sarangani)
-2026-10-10T20:52:00.000Z,10 October 2026 - 08:52 PM,05.79,126.10,135,2.1,052km S 75° E of Jose Abad Santos (Davao Occidental),052,S 75° E,Jose Abad Santos (Davao Occidental)
+2026-10-11T02:34:00.000Z,11 October 2026 - 02:34 AM,11.47,122.06,004,2.5,002km S 18° W of Culasi (Antique),002,S 18° W,Culasi (Antique)
+2026-10-11T02:04:00.000Z,11 October 2026 - 02:04 AM,18.29,121.08,019,2.1,005km N 38° E of Calanasan (Apayao),005,N 38° E,Calanasan (Apayao)
+2026-10-11T02:02:00.000Z,11 October 2026 - 02:02 AM,07.81,124.82,019,1.4,002km S 18° W of Pangantucan (Bukidnon),002,S 18° W,Pangantucan (Bukidnon)
+2026-10-11T01:40:00.000Z,11 October 2026 - 01:40 AM,05.55,125.21,017,1.8,028km N 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
