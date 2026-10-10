@@ -1,5 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-10T08:54:00.000Z,10 October 2026 - 08:54 AM,05.63,125.27,033,2.1,022km S 19° E of Glan (Sarangani),022,S 19° E,Glan (Sarangani)
-2026-10-10T08:20:00.000Z,10 October 2026 - 08:20 AM,08.52,126.63,022,3.0,036km N 62° E of Hinatuan (Surigao Del Sur),036,N 62° E,Hinatuan (Surigao Del Sur)
-2026-10-10T08:08:00.000Z,10 October 2026 - 08:08 AM,07.00,126.41,023,2.4,007km S 38° W of Tarragona (Davao Oriental),007,S 38° W,Tarragona (Davao Oriental)
-2026-10-10T07:55:00.000Z,10 October 2026 - 07:55 AM,02.11,126.95,095,3.9,402km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),402,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-10T14:52:00.000Z,10 October 2026 - 02:52 PM,05.33,125.43,020,2.6,010km S 05° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),010,S 05° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-10T14:50:00.000Z,10 October 2026 - 02:50 PM,12.64,125.04,014,2.2,009km N 19° E of Laoang (Northern Samar),009,N 19° E,Laoang (Northern Samar)
+2026-10-10T14:42:00.000Z,10 October 2026 - 02:42 PM,15.45,119.92,023,2.4,002km N 14° E of Palauig (Zambales),002,N 14° E,Palauig (Zambales)
+2026-10-10T14:36:00.000Z,10 October 2026 - 02:36 PM,06.58,125.25,034,1.9,004km S 15° W of Kiblawan (Davao Del Sur),004,S 15° W,Kiblawan (Davao Del Sur)
+2026-10-10T14:09:00.000Z,10 October 2026 - 02:09 PM,12.28,120.68,008,1.6,037km S 57° W of Rizal (Occidental Mindoro),037,S 57° W,Rizal (Occidental Mindoro)
+2026-10-10T14:06:00.000Z,10 October 2026 - 02:06 PM,11.32,125.60,022,1.9,003km S 37° W of Hernani (Eastern Samar),003,S 37° W,Hernani (Eastern Samar)
+2026-10-10T14:02:00.000Z,10 October 2026 - 02:02 PM,05.65,125.41,033,1.6,020km N 19° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 19° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
