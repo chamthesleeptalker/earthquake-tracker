@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-10T08:54:00.000Z,10 October 2026 - 08:54 AM,05.63,125.27,033,2.1,022km S 19° E of Glan (Sarangani),022,S 19° E,Glan (Sarangani)
+2026-10-10T08:20:00.000Z,10 October 2026 - 08:20 AM,08.52,126.63,022,3.0,036km N 62° E of Hinatuan (Surigao Del Sur),036,N 62° E,Hinatuan (Surigao Del Sur)
+2026-10-10T08:08:00.000Z,10 October 2026 - 08:08 AM,07.00,126.41,023,2.4,007km S 38° W of Tarragona (Davao Oriental),007,S 38° W,Tarragona (Davao Oriental)
+2026-10-10T07:55:00.000Z,10 October 2026 - 07:55 AM,02.11,126.95,095,3.9,402km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),402,S 25° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-10T07:47:00.000Z,10 October 2026 - 07:47 AM,20.16,120.77,024,2.2,117km S 80° W of Sabtang (Batanes),117,S 80° W,Sabtang (Batanes)
+2026-10-10T07:05:00.000Z,10 October 2026 - 07:05 AM,05.06,125.14,045,2.4,050km S 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 39° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-10T06:13:00.000Z,10 October 2026 - 06:13 AM,11.20,124.11,022,1.6,023km N 40° E of City Of Bogo (Cebu),023,N 40° E,City Of Bogo (Cebu)
+2026-10-10T06:06:00.000Z,10 October 2026 - 06:06 AM,11.06,123.19,013,3.3,013km N 31° E of Manapla (Negros Occidental),013,N 31° E,Manapla (Negros Occidental)
+2026-10-10T05:40:00.000Z,10 October 2026 - 05:40 AM,05.60,125.41,033,1.4,016km N 28° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),016,N 28° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-10T04:52:00.000Z,10 October 2026 - 04:52 AM,12.91,122.96,002,1.4,031km N 88° W of Claveria (Masbate),031,N 88° W,Claveria (Masbate)
 2026-10-10T04:06:00.000Z,10 October 2026 - 04:06 AM,12.11,125.07,041,2.3,008km N 41° E of San Jose De Buan (Samar),008,N 41° E,San Jose De Buan (Samar)
 2026-10-10T04:04:00.000Z,10 October 2026 - 04:04 AM,05.63,125.32,032,1.5,024km S 31° E of Glan (Sarangani),024,S 31° E,Glan (Sarangani)
