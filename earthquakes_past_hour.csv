@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-11T02:34:00.000Z,11 October 2026 - 02:34 AM,11.47,122.06,004,2.5,002km S 18° W of Culasi (Antique),002,S 18° W,Culasi (Antique)
-2026-10-11T02:04:00.000Z,11 October 2026 - 02:04 AM,18.29,121.08,019,2.1,005km N 38° E of Calanasan (Apayao),005,N 38° E,Calanasan (Apayao)
-2026-10-11T02:02:00.000Z,11 October 2026 - 02:02 AM,07.81,124.82,019,1.4,002km S 18° W of Pangantucan (Bukidnon),002,S 18° W,Pangantucan (Bukidnon)
-2026-10-11T01:40:00.000Z,11 October 2026 - 01:40 AM,05.55,125.21,017,1.8,028km N 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),028,N 57° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-11T05:35:00.000Z,11 October 2026 - 05:35 AM,06.94,126.15,033,2.1,007km S 82° W of City Of Mati (Davao Oriental),007,S 82° W,City Of Mati (Davao Oriental)
+2026-10-11T05:28:00.000Z,11 October 2026 - 05:28 AM,06.77,124.55,025,2.0,006km N 34° E of Esperanza (Sultan Kudarat),006,N 34° E,Esperanza (Sultan Kudarat)
+2026-10-11T05:10:00.000Z,11 October 2026 - 05:10 AM,10.25,125.87,035,1.6,032km N 37° W of Santa Monica (Surigao Del Norte),032,N 37° W,Santa Monica (Surigao Del Norte)
+2026-10-11T05:06:00.000Z,11 October 2026 - 05:06 AM,07.80,123.61,015,2.2,007km S 28° E of Tukuran (Zamboanga Del Sur),007,S 28° E,Tukuran (Zamboanga Del Sur)
+2026-10-11T04:53:00.000Z,11 October 2026 - 04:53 AM,08.32,127.50,015,3.1,123km N 76° E of Lingig (Surigao Del Sur),123,N 76° E,Lingig (Surigao Del Sur)
+2026-10-11T04:47:00.000Z,11 October 2026 - 04:47 AM,05.49,125.20,023,2.4,026km N 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,N 72° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
