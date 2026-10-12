@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-12T09:23:00.000Z,12 October 2026 - 09:23 AM,10.70,124.95,004,3.9,009km S 56° W of Abuyog (Leyte),009,S 56° W,Abuyog (Leyte)
+2026-10-12T08:35:00.000Z,12 October 2026 - 08:35 AM,05.61,125.29,033,1.8,025km N 52° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 52° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-12T08:22:00.000Z,12 October 2026 - 08:22 AM,09.16,126.32,032,2.6,019km S 50° E of Cortes (Surigao Del Sur),019,S 50° E,Cortes (Surigao Del Sur)
+2026-10-12T07:58:00.000Z,12 October 2026 - 07:58 AM,10.12,125.44,123,2.4,013km S 50° W of Libjo (Dinagat Islands),013,S 50° W,Libjo (Dinagat Islands)
+2026-10-12T06:50:00.000Z,12 October 2026 - 06:50 AM,10.93,123.98,010,2.9,013km S 01° W of City Of Bogo (Cebu),013,S 01° W,City Of Bogo (Cebu)
 2026-10-12T06:24:00.000Z,12 October 2026 - 06:24 AM,11.29,125.54,024,3.4,005km N 06° E of General Macarthur (Eastern Samar),005,N 06° E,General Macarthur (Eastern Samar)
 2026-10-12T05:45:00.000Z,12 October 2026 - 05:45 AM,06.54,126.30,036,3.0,028km S 63° E of Governor Generoso (Davao Oriental),028,S 63° E,Governor Generoso (Davao Oriental)
 2026-10-12T04:41:00.000Z,12 October 2026 - 04:41 AM,18.59,120.21,033,1.7,047km N 79° W of Burgos (Ilocos Norte),047,N 79° W,Burgos (Ilocos Norte)
@@ -425,5 +430,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-05T10:43:00.000Z,05 October 2026 - 10:43 AM,05.60,125.14,033,1.4,026km S 15° W of Glan (Sarangani),026,S 15° W,Glan (Sarangani)
 2026-10-05T10:15:00.000Z,05 October 2026 - 10:15 AM,03.71,125.76,142,3.0,192km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),192,S 11° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-05T10:04:00.000Z,05 October 2026 - 10:04 AM,10.89,123.98,010,2.3,017km S 01° E of City Of Bogo (Cebu),017,S 01° E,City Of Bogo (Cebu)
-2026-10-05T08:04:00.000Z,05 October 2026 - 08:04 AM,14.37,121.33,031,1.6,001km N 13° E of Jala-jala (Rizal),001,N 13° E,Jala-jala (Rizal)
-2026-10-05T07:27:00.000Z,05 October 2026 - 07:27 AM,05.37,125.40,033,1.8,005km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),005,S 32° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
