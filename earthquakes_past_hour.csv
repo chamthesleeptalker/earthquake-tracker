@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-13T15:46:00.000Z,13 October 2026 - 03:46 PM,19.16,121.19,009,1.8,006km N 18° W of Dalupiri Island (Calayan) (Cagayan),006,N 18° W,Dalupiri Island (Calayan) (Cagayan)
-2026-10-13T15:40:00.000Z,13 October 2026 - 03:40 PM,13.44,125.47,026,2.0,105km N 21° E of Palapag (Northern Samar),105,N 21° E,Palapag (Northern Samar)
-2026-10-13T15:39:00.000Z,13 October 2026 - 03:39 PM,14.17,124.05,014,2.3,019km N 44° W of Pandan (Catanduanes),019,N 44° W,Pandan (Catanduanes)
+2026-10-14T00:06:00.000Z,14 October 2026 - 12:06 AM,06.39,123.96,012,2.6,021km S 30° W of Kalamansig (Sultan Kudarat),021,S 30° W,Kalamansig (Sultan Kudarat)
+2026-10-13T23:53:00.000Z,13 October 2026 - 11:53 PM,06.57,126.61,040,2.8,056km S 19° E of Tarragona (Davao Oriental),056,S 19° E,Tarragona (Davao Oriental)
+2026-10-13T23:26:00.000Z,13 October 2026 - 11:26 PM,14.06,121.19,032,2.2,004km N 78° E of Malvar (Batangas),004,N 78° E,Malvar (Batangas)
+2026-10-13T23:21:00.000Z,13 October 2026 - 11:21 PM,05.23,125.41,048,4.7,021km S 04° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),021,S 04° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
