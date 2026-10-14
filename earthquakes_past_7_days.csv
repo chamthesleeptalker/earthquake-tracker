@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-14T08:16:00.000Z,14 October 2026 - 08:16 AM,11.43,122.06,015,2.1,001km North of Culasi (Antique),001,North of Culasi,
+2026-10-14T08:02:00.000Z,14 October 2026 - 08:02 AM,07.17,123.59,028,2.6,038km S 31° E of Tabina (Zamboanga Del Sur),038,S 31° E,Tabina (Zamboanga Del Sur)
+2026-10-14T07:15:00.000Z,14 October 2026 - 07:15 AM,11.10,124.06,006,1.9,011km N 56° E of City Of Bogo (Cebu),011,N 56° E,City Of Bogo (Cebu)
+2026-10-14T06:10:00.000Z,14 October 2026 - 06:10 AM,05.44,125.27,027,1.9,017km N 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),017,N 78° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-14T05:57:00.000Z,14 October 2026 - 05:57 AM,09.50,124.24,032,1.8,012km S 15° E of Valencia (Bohol),012,S 15° E,Valencia (Bohol)
+2026-10-14T05:47:00.000Z,14 October 2026 - 05:47 AM,09.55,126.34,032,1.5,033km S 38° E of General Luna (Surigao Del Norte),033,S 38° E,General Luna (Surigao Del Norte)
+2026-10-14T05:42:00.000Z,14 October 2026 - 05:42 AM,13.10,123.60,035,1.6,003km N 04° W of Jovellar (Albay),003,N 04° W,Jovellar (Albay)
 2026-10-14T05:17:00.000Z,14 October 2026 - 05:17 AM,10.79,122.34,029,1.7,003km N 47° E of Tubungan (Iloilo),003,N 47° E,Tubungan (Iloilo)
 2026-10-14T05:11:00.000Z,14 October 2026 - 05:11 AM,05.55,125.26,027,2.9,024km N 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),024,N 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-14T05:03:00.000Z,14 October 2026 - 05:03 AM,06.52,126.57,026,3.0,057km S 75° E of Governor Generoso (Davao Oriental),057,S 75° E,Governor Generoso (Davao Oriental)
@@ -426,9 +433,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-07T08:39:00.000Z,07 October 2026 - 08:39 AM,04.20,127.00,018,3.7,221km S 53° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),221,S 53° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-07T08:24:00.000Z,07 October 2026 - 08:24 AM,10.46,123.10,003,2.0,016km N 58° W of City Of Canlaon (Negros Oriental),016,N 58° W,City Of Canlaon (Negros Oriental)
 2026-10-07T08:23:00.000Z,07 October 2026 - 08:23 AM,16.48,120.56,017,2.9,005km N 46° W of La Trinidad (Benguet),005,N 46° W,La Trinidad (Benguet)
-2026-10-07T08:06:00.000Z,07 October 2026 - 08:06 AM,05.83,125.30,016,1.9,011km N 85° E of Glan (Sarangani),011,N 85° E,Glan (Sarangani)
-2026-10-07T07:57:00.000Z,07 October 2026 - 07:57 AM,07.93,123.12,032,1.5,009km N 29° E of Lakewood (Zamboanga Del Sur),009,N 29° E,Lakewood (Zamboanga Del Sur)
-2026-10-07T07:13:00.000Z,07 October 2026 - 07:13 AM,10.79,124.94,029,1.3,001km S 18° E of Javier (Leyte),001,S 18° E,Javier (Leyte)
-2026-10-07T06:24:00.000Z,07 October 2026 - 06:24 AM,11.51,126.27,002,2.9,073km N 75° E of Hernani (Eastern Samar),073,N 75° E,Hernani (Eastern Samar)
-2026-10-07T06:16:00.000Z,07 October 2026 - 06:16 AM,12.62,121.78,034,1.5,029km N 83° E of Roxas (Oriental Mindoro),029,N 83° E,Roxas (Oriental Mindoro)
-2026-10-07T05:19:00.000Z,07 October 2026 - 05:19 AM,06.44,126.34,053,2.3,038km S 51° E of Governor Generoso (Davao Oriental),038,S 51° E,Governor Generoso (Davao Oriental)
