@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-15T03:43:00.000Z,15 October 2026 - 03:43 AM,11.51,124.40,011,2.7,006km S 02° W of Naval (Biliran),006,S 02° W,Naval (Biliran)
+2026-10-15T03:28:00.000Z,15 October 2026 - 03:28 AM,15.08,123.90,034,3.0,118km N 14° W of Pandan (Catanduanes),118,N 14° W,Pandan (Catanduanes)
+2026-10-15T03:06:00.000Z,15 October 2026 - 03:06 AM,08.88,126.28,021,2.4,005km S 32° W of Cagwait (Surigao Del Sur),005,S 32° W,Cagwait (Surigao Del Sur)
+2026-10-15T02:22:00.000Z,15 October 2026 - 02:22 AM,15.49,121.72,008,2.0,033km S 40° E of San Luis (Aurora),033,S 40° E,San Luis (Aurora)
+2026-10-15T01:41:00.000Z,15 October 2026 - 01:41 AM,05.12,124.78,027,3.1,078km S 65° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),078,S 65° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-15T00:03:00.000Z,15 October 2026 - 12:03 AM,19.49,121.62,029,1.6,029km N 32° E of Calayan (Cagayan),029,N 32° E,Calayan (Cagayan)
+2026-10-14T23:56:00.000Z,14 October 2026 - 11:56 PM,05.95,124.86,008,2.2,018km N 57° W of Maasim (Sarangani),018,N 57° W,Maasim (Sarangani)
 2026-10-14T23:39:00.000Z,14 October 2026 - 11:39 PM,07.45,126.72,010,2.2,022km N 53° E of Caraga (Davao Oriental),022,N 53° E,Caraga (Davao Oriental)
 2026-10-14T22:09:00.000Z,14 October 2026 - 10:09 PM,05.43,125.53,031,1.7,009km S 52° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),009,S 52° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-14T21:16:00.000Z,14 October 2026 - 09:16 PM,19.20,121.25,001,2.5,012km N 26° E of Dalupiri Island (Calayan) (Cagayan),012,N 26° E,Dalupiri Island (Calayan) (Cagayan)
