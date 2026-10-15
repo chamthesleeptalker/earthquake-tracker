@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-15T09:14:00.000Z,15 October 2026 - 09:14 AM,05.61,125.12,028,3.1,025km S 21° W of Glan (Sarangani),025,S 21° W,Glan (Sarangani)
+2026-10-15T08:32:00.000Z,15 October 2026 - 08:32 AM,13.28,120.16,002,3.2,036km S 67° W of Paluan (Occidental Mindoro),036,S 67° W,Paluan (Occidental Mindoro)
+2026-10-15T08:16:00.000Z,15 October 2026 - 08:16 AM,13.26,120.05,003,3.0,049km S 70° W of Paluan (Occidental Mindoro),049,S 70° W,Paluan (Occidental Mindoro)
+2026-10-15T08:01:00.000Z,15 October 2026 - 08:01 AM,05.54,125.50,037,1.7,008km N 19° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),008,N 19° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-15T07:49:00.000Z,15 October 2026 - 07:49 AM,09.16,126.68,009,2.9,048km N 64° E of Bayabas (Surigao Del Sur),048,N 64° E,Bayabas (Surigao Del Sur)
+2026-10-15T07:05:00.000Z,15 October 2026 - 07:05 AM,17.50,121.57,108,2.3,002km S 83° W of Rizal (Kalinga),002,S 83° W,Rizal (Kalinga)
+2026-10-15T07:02:00.000Z,15 October 2026 - 07:02 AM,06.65,124.01,091,1.9,007km N 74° W of Lebak (Sultan Kudarat),007,N 74° W,Lebak (Sultan Kudarat)
 2026-10-15T06:00:00.000Z,15 October 2026 - 06:00 AM,05.33,125.53,024,1.9,016km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 52° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-15T05:51:00.000Z,15 October 2026 - 05:51 AM,10.43,126.04,029,3.2,045km N 04° W of Burgos (Surigao Del Norte),045,N 04° W,Burgos (Surigao Del Norte)
 2026-10-15T05:43:00.000Z,15 October 2026 - 05:43 AM,05.62,125.36,026,1.5,020km N 36° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 36° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
@@ -432,5 +439,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-08T10:21:00.000Z,08 October 2026 - 10:21 AM,09.89,126.46,009,2.6,035km N 71° E of General Luna (Surigao Del Norte),035,N 71° E,General Luna (Surigao Del Norte)
 2026-10-08T10:11:00.000Z,08 October 2026 - 10:11 AM,09.10,126.33,033,1.4,013km N 49° E of Tago (Surigao Del Sur),013,N 49° E,Tago (Surigao Del Sur)
 2026-10-08T09:40:00.000Z,08 October 2026 - 09:40 AM,19.27,121.25,029,1.5,018km N 15° E of Dalupiri Island (Calayan) (Cagayan),018,N 15° E,Dalupiri Island (Calayan) (Cagayan)
-2026-10-08T08:31:00.000Z,08 October 2026 - 08:31 AM,10.16,122.18,011,2.6,040km S 43° E of Anini-y (Antique),040,S 43° E,Anini-y (Antique)
-2026-10-08T07:34:00.000Z,08 October 2026 - 07:34 AM,05.22,125.38,030,2.4,022km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),022,S 11° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
