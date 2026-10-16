@@ -1,4 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-16T15:17:00.000Z,16 October 2026 - 03:17 PM,09.07,125.01,016,2.2,016km N 58° E of Talisayan (Misamis Oriental),016,N 58° E,Talisayan (Misamis Oriental)
+2026-10-16T14:47:00.000Z,16 October 2026 - 02:47 PM,07.95,122.73,006,2.1,008km S 73° E of Tampilisan (Zamboanga Del Norte),008,S 73° E,Tampilisan (Zamboanga Del Norte)
+2026-10-16T14:17:00.000Z,16 October 2026 - 02:17 PM,06.11,125.63,091,2.1,012km S 37° W of Don Marcelino (Davao Occidental),012,S 37° W,Don Marcelino (Davao Occidental)
 2026-10-16T10:03:00.000Z,16 October 2026 - 10:03 AM,05.33,125.19,040,1.9,027km S 71° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),027,S 71° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-16T08:41:00.000Z,16 October 2026 - 08:41 AM,06.44,124.61,025,2.3,008km N 80° W of Santo Niño (South Cotabato),008,N 80° W,Santo NiÃ±o (South Cotabato)
 2026-10-16T08:39:00.000Z,16 October 2026 - 08:39 AM,16.37,120.46,032,1.5,005km N 04° W of Pugo (La Union),005,N 04° W,Pugo (La Union)
@@ -395,9 +398,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-09T15:45:00.000Z,09 October 2026 - 03:45 PM,14.04,120.35,113,2.8,031km S 83° W of Nasugbu (Batangas),031,S 83° W,Nasugbu (Batangas)
 2026-10-09T15:31:00.000Z,09 October 2026 - 03:31 PM,09.61,123.63,010,4.2,014km N 75° W of Panglao (Bohol),014,N 75° W,Panglao (Bohol)
 2026-10-09T15:21:00.000Z,09 October 2026 - 03:21 PM,19.22,121.99,018,1.8,033km S 14° E of Babuyan Island (Calayan) (Cagayan),033,S 14° E,Babuyan Island (Calayan) (Cagayan)
-2026-10-09T14:48:00.000Z,09 October 2026 - 02:48 PM,10.20,122.57,040,2.2,026km N 14° W of Cauayan (Negros Occidental),026,N 14° W,Cauayan (Negros Occidental)
-2026-10-09T13:37:00.000Z,09 October 2026 - 01:37 PM,04.76,125.28,024,3.4,073km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),073,S 12° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-09T13:29:00.000Z,09 October 2026 - 01:29 PM,12.81,124.27,012,2.0,014km S 67° E of Barcelona (Sorsogon),014,S 67° E,Barcelona (Sorsogon)
-2026-10-09T12:50:00.000Z,09 October 2026 - 12:50 PM,06.23,124.60,018,1.9,013km N 90° W of Lake Sebu (South Cotabato),013,N 90° W,Lake Sebu (South Cotabato)
-2026-10-09T12:26:00.000Z,09 October 2026 - 12:26 PM,17.17,122.31,012,1.7,017km N 48° W of Palanan (Isabela),017,N 48° W,Palanan (Isabela)
-2026-10-09T10:25:00.000Z,09 October 2026 - 10:25 AM,12.42,123.60,034,1.8,006km N 24° W of City Of Masbate (Masbate),006,N 24° W,City Of Masbate (Masbate)
