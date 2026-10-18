@@ -1,4 +1,12 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-19T05:08:00.000Z,19 October 2026 - 05:08 AM,06.02,125.36,009,1.8,010km N 55° E of Malapatan (Sarangani),010,N 55° E,Malapatan (Sarangani)
+2026-10-19T04:16:00.000Z,19 October 2026 - 04:16 AM,05.67,124.69,003,2.8,036km S 12° E of Kiamba (Sarangani),036,S 12° E,Kiamba (Sarangani)
+2026-10-19T03:44:00.000Z,19 October 2026 - 03:44 AM,05.41,125.43,028,1.9,001km N 80° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),001,N 80° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-19T03:36:00.000Z,19 October 2026 - 03:36 AM,19.44,121.78,008,1.5,016km S 59° W of Babuyan Island (Calayan) (Cagayan),016,S 59° W,Babuyan Island (Calayan) (Cagayan)
+2026-10-19T03:19:00.000Z,19 October 2026 - 03:19 AM,04.98,125.19,030,2.4,054km S 29° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 29° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-19T03:19:00.000Z,19 October 2026 - 03:19 AM,14.06,122.93,033,1.4,004km S 70° W of Basud (Camarines Norte),004,S 70° W,Basud (Camarines Norte)
+2026-10-19T03:15:00.000Z,19 October 2026 - 03:15 AM,13.87,122.77,029,1.6,006km N 17° W of Ragay (Camarines Sur),006,N 17° W,Ragay (Camarines Sur)
+2026-10-19T03:08:00.000Z,19 October 2026 - 03:08 AM,13.10,123.99,036,2.3,013km S 78° E of Manito (Albay),013,S 78° E,Manito (Albay)
 2026-10-19T02:35:00.000Z,19 October 2026 - 02:35 AM,12.64,124.66,038,3.3,015km N 8° E of Catarman (Northern Samar),015,N 8° E,Catarman (Northern Samar)
 2026-10-19T02:02:00.000Z,19 October 2026 - 02:02 AM,09.64,126.16,032,1.6,016km S 01° E of General Luna (Surigao Del Norte),016,S 01° E,General Luna (Surigao Del Norte)
 2026-10-19T01:31:00.000Z,19 October 2026 - 01:31 AM,06.42,126.02,147,2.0,027km S 13° W of Governor Generoso (Davao Oriental),027,S 13° W,Governor Generoso (Davao Oriental)
