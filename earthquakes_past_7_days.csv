@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-19T09:21:00.000Z,19 October 2026 - 09:21 AM,16.69,122.21,018,1.9,019km N 16° W of Dinapigue (Isabela),019,N 16° W,Dinapigue (Isabela)
+2026-10-19T09:20:00.000Z,19 October 2026 - 09:20 AM,15.77,121.16,032,1.6,004km S 29° E of Pantabangan (Nueva Ecija),004,S 29° E,Pantabangan (Nueva Ecija)
+2026-10-19T08:11:00.000Z,19 October 2026 - 08:11 AM,08.50,125.90,009,2.5,008km S 83° W of San Francisco (Agusan Del Sur),008,S 83° W,San Francisco (Agusan Del Sur)
+2026-10-19T07:51:00.000Z,19 October 2026 - 07:51 AM,03.11,128.04,133,4.2,386km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),386,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-19T07:48:00.000Z,19 October 2026 - 07:48 AM,02.93,127.86,024,3.6,385km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),385,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-19T07:17:00.000Z,19 October 2026 - 07:17 AM,17.35,122.35,087,1.7,006km N 64° E of Divilacan (Isabela),006,N 64° E,Divilacan (Isabela)
 2026-10-19T05:25:00.000Z,19 October 2026 - 05:25 AM,06.72,125.94,026,2.2,017km N 63° W of Governor Generoso (Davao Oriental),017,N 63° W,Governor Generoso (Davao Oriental)
 2026-10-19T05:14:00.000Z,19 October 2026 - 05:14 AM,06.47,124.09,014,2.3,010km S 25° E of Kalamansig (Sultan Kudarat),010,S 25° E,Kalamansig (Sultan Kudarat)
@@ -399,6 +404,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-12T12:56:00.000Z,12 October 2026 - 12:56 PM,12.88,123.20,005,1.6,006km S 62° W of Claveria (Masbate),006,S 62° W,Claveria (Masbate)
 2026-10-12T11:24:00.000Z,12 October 2026 - 11:24 AM,09.76,126.13,032,1.7,004km S 51° W of General Luna (Surigao Del Norte),004,S 51° W,General Luna (Surigao Del Norte)
 2026-10-12T09:23:00.000Z,12 October 2026 - 09:23 AM,10.70,124.95,004,3.9,009km S 56° W of Abuyog (Leyte),009,S 56° W,Abuyog (Leyte)
-2026-10-12T08:35:00.000Z,12 October 2026 - 08:35 AM,05.61,125.29,033,1.8,025km N 52° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),025,N 52° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-12T08:22:00.000Z,12 October 2026 - 08:22 AM,09.16,126.32,032,2.6,019km S 50° E of Cortes (Surigao Del Sur),019,S 50° E,Cortes (Surigao Del Sur)
-2026-10-12T07:58:00.000Z,12 October 2026 - 07:58 AM,10.12,125.44,123,2.4,013km S 50° W of Libjo (Dinagat Islands),013,S 50° W,Libjo (Dinagat Islands)
