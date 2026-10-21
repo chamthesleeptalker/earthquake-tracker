@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-21T13:12:00.000Z,21 October 2026 - 01:12 PM,05.47,125.45,002,2.5,002km N 82° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),002,N 82° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-21T10:36:00.000Z,21 October 2026 - 10:36 AM,10.79,122.00,009,3.3,002km N 70° W of Sibalom (Antique),002,N 70° W,Sibalom (Antique)
 2026-10-21T07:51:00.000Z,21 October 2026 - 07:51 AM,18.35,120.93,026,1.8,012km S 13° E of Adams (Ilocos Norte),012,S 13° E,Adams (Ilocos Norte)
 2026-10-21T06:39:00.000Z,21 October 2026 - 06:39 AM,05.77,124.99,033,2.1,011km S 04° W of Maasim (Sarangani),011,S 04° W,Maasim (Sarangani)
 2026-10-21T06:34:00.000Z,21 October 2026 - 06:34 AM,10.58,123.05,020,3.0,003km S 23° E of Murcia (Negros Occidental),003,S 23° E,Murcia (Negros Occidental)
@@ -395,15 +397,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-14T14:16:00.000Z,14 October 2026 - 02:16 PM,12.63,123.56,002,2.3,011km S 82° W of Monreal (Masbate),011,S 82° W,Monreal (Masbate)
 2026-10-14T13:58:00.000Z,14 October 2026 - 01:58 PM,05.66,125.07,022,1.8,023km S 41° W of Glan (Sarangani),023,S 41° W,Glan (Sarangani)
 2026-10-14T13:40:00.000Z,14 October 2026 - 01:40 PM,09.54,126.25,017,1.6,028km S 21° E of General Luna (Surigao Del Norte),028,S 21° E,General Luna (Surigao Del Norte)
-2026-10-14T12:30:00.000Z,14 October 2026 - 12:30 PM,05.78,126.16,121,2.2,059km S 76° E of Jose Abad Santos (Davao Occidental),059,S 76° E,Jose Abad Santos (Davao Occidental)
-2026-10-14T12:06:00.000Z,14 October 2026 - 12:06 PM,06.64,125.71,024,1.5,027km N 23° E of Malita (Davao Occidental),027,N 23° E,Malita (Davao Occidental)
-2026-10-14T12:04:00.000Z,14 October 2026 - 12:04 PM,08.02,123.33,032,2.0,002km S 55° E of Midsalip (Zamboanga Del Sur),002,S 55° E,Midsalip (Zamboanga Del Sur)
-2026-10-14T11:23:00.000Z,14 October 2026 - 11:23 AM,08.05,123.18,012,2.2,015km N 80° W of Midsalip (Zamboanga Del Sur),015,N 80° W,Midsalip (Zamboanga Del Sur)
-2026-10-14T11:17:00.000Z,14 October 2026 - 11:17 AM,07.26,127.05,013,2.4,054km S 82° E of Caraga (Davao Oriental),054,S 82° E,Caraga (Davao Oriental)
-2026-10-14T11:12:00.000Z,14 October 2026 - 11:12 AM,07.16,125.66,023,2.3,011km N 33° W of Island Garden City Of Samal (Davao Del Norte),011,N 33° W,Island Garden City Of Samal (Davao Del Norte)
-2026-10-14T10:39:00.000Z,14 October 2026 - 10:39 AM,17.76,120.26,021,2.5,020km N 64° W of Magsingal (Ilocos Sur),020,N 64° W,Magsingal (Ilocos Sur)
-2026-10-14T09:27:00.000Z,14 October 2026 - 09:27 AM,04.98,125.29,033,2.9,050km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),050,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-14T08:46:00.000Z,14 October 2026 - 08:46 AM,10.73,125.12,006,2.3,012km S 83° E of Abuyog (Leyte),012,S 83° E,Abuyog (Leyte)
-2026-10-14T08:42:00.000Z,14 October 2026 - 08:42 AM,05.89,125.33,021,2.1,010km S 25° E of Malapatan (Sarangani),010,S 25° E,Malapatan (Sarangani)
-2026-10-14T08:16:00.000Z,14 October 2026 - 08:16 AM,11.43,122.06,015,2.1,001km North of Culasi (Antique),001,North of Culasi,
-2026-10-14T08:02:00.000Z,14 October 2026 - 08:02 AM,07.17,123.59,028,2.6,038km S 31° E of Tabina (Zamboanga Del Sur),038,S 31° E,Tabina (Zamboanga Del Sur)
