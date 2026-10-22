@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-22T08:55:00.000Z,22 October 2026 - 08:55 AM,06.79,125.72,083,1.4,032km S 02° E of Island Garden City Of Samal (Davao Del Norte),032,S 02° E,Island Garden City Of Samal (Davao Del Norte)
-2026-10-22T08:51:00.000Z,22 October 2026 - 08:51 AM,17.00,120.85,037,1.6,002km N 27° W of Bauko (Mountain Province),002,N 27° W,Bauko (Mountain Province)
-2026-10-22T08:36:00.000Z,22 October 2026 - 08:36 AM,10.85,123.73,030,1.4,015km N 80° W of Tabuelan (Cebu),015,N 80° W,Tabuelan (Cebu)
+2026-10-22T15:19:00.000Z,22 October 2026 - 03:19 PM,05.68,125.30,005,1.6,019km S 34° E of Glan (Sarangani),019,S 34° E,Glan (Sarangani)
+2026-10-22T15:18:00.000Z,22 October 2026 - 03:18 PM,05.66,125.40,021,1.8,022km N 22° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 22° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-22T15:17:00.000Z,22 October 2026 - 03:17 PM,05.56,125.48,033,1.4,010km N 04° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),010,N 04° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-22T15:01:00.000Z,22 October 2026 - 03:01 PM,07.58,124.54,005,3.0,019km N 66° W of Banisilan (Cotabato),019,N 66° W,Banisilan (Cotabato)
