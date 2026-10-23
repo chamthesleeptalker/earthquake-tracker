@@ -1,3 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-23T12:02:00.000Z,23 October 2026 - 12:02 PM,05.61,125.25,034,2.1,024km S 13° E of Glan (Sarangani),024,S 13° E,Glan (Sarangani)
-2026-10-23T12:01:00.000Z,23 October 2026 - 12:01 PM,11.73,125.33,025,2.3,014km S 77° W of San Julian (Eastern Samar),014,S 77° W,San Julian (Eastern Samar)
+2026-10-23T17:30:00.000Z,23 October 2026 - 05:30 PM,05.61,125.28,029,3.1,025km S 21° E of Glan (Sarangani),025,S 21° E,Glan (Sarangani)
+2026-10-23T17:29:00.000Z,23 October 2026 - 05:29 PM,08.76,126.62,014,3.7,035km S 83° E of Marihatag (Surigao Del Sur),035,S 83° E,Marihatag (Surigao Del Sur)
+2026-10-23T17:23:00.000Z,23 October 2026 - 05:23 PM,13.51,120.90,030,2.1,006km N 82° W of Puerto Galera (Oriental Mindoro),006,N 82° W,Puerto Galera (Oriental Mindoro)
+2026-10-23T17:16:00.000Z,23 October 2026 - 05:16 PM,10.21,124.97,026,2.1,007km N 35° W of Malitbog (Southern Leyte),007,N 35° W,Malitbog (Southern Leyte)
+2026-10-23T17:09:00.000Z,23 October 2026 - 05:09 PM,06.40,124.09,598,4.7,018km S 15° E of Kalamansig (Sultan Kudarat),018,S 15° E,Kalamansig (Sultan Kudarat)
