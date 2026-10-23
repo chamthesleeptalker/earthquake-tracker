@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-24T06:18:00.000Z,24 October 2026 - 06:18 AM,17.26,121.15,014,2.6,000km S 71° W of Tinglayan (Kalinga),000,S 71° W,Tinglayan (Kalinga)
+2026-10-24T05:41:00.000Z,24 October 2026 - 05:41 AM,07.83,127.07,010,4.5,062km N 63° E of Baganga (Davao Oriental),062,N 63° E,Baganga (Davao Oriental)
+2026-10-24T05:16:00.000Z,24 October 2026 - 05:16 AM,18.50,121.29,005,1.8,006km N 53° W of Pamplona (Cagayan),006,N 53° W,Pamplona (Cagayan)
+2026-10-24T04:20:00.000Z,24 October 2026 - 04:20 AM,05.63,125.38,031,1.5,020km N 29° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),020,N 29° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-24T03:33:00.000Z,24 October 2026 - 03:33 AM,05.66,124.81,030,1.8,031km S 43° W of Maasim (Sarangani),031,S 43° W,Maasim (Sarangani)
 2026-10-24T03:20:00.000Z,24 October 2026 - 03:20 AM,08.27,123.71,033,1.2,015km S 85° W of Sinacaban (Misamis Occidental),015,S 85° W,Sinacaban (Misamis Occidental)
 2026-10-24T02:57:00.000Z,24 October 2026 - 02:57 AM,05.31,125.33,034,1.6,015km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 44° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
@@ -56,4 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-23T08:23:00.000Z,23 October 2026 - 08:23 AM,04.64,126.22,022,3.0,123km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),123,S 46° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-23T06:39:00.000Z,23 October 2026 - 06:39 AM,06.49,125.71,176,2.6,014km N 53° E of Malita (Davao Occidental),014,N 53° E,Malita (Davao Occidental)
 2026-10-23T06:36:00.000Z,23 October 2026 - 06:36 AM,10.45,125.50,033,2.1,013km N 43° W of Loreto (Dinagat Islands),013,N 43° W,Loreto (Dinagat Islands)
-2026-10-23T04:45:00.000Z,23 October 2026 - 04:45 AM,05.64,125.37,029,2.7,022km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),022,N 30° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
