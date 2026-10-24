@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-24T08:28:00.000Z,24 October 2026 - 08:28 AM,05.52,125.49,018,1.9,006km N 18° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),006,N 18° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-24T07:50:00.000Z,24 October 2026 - 07:50 AM,07.00,126.65,029,1.9,023km S 77° E of Tarragona (Davao Oriental),023,S 77° E,Tarragona (Davao Oriental)
+2026-10-24T06:46:00.000Z,24 October 2026 - 06:46 AM,12.59,121.65,035,1.4,014km S 90° E of Roxas (Oriental Mindoro),014,S 90° E,Roxas (Oriental Mindoro)
+2026-10-24T00:50:00.000Z,24 October 2026 - 12:50 AM,07.37,126.75,009,3.1,021km N 76° E of Caraga (Davao Oriental),021,N 76° E,Caraga (Davao Oriental)
 2026-10-24T06:18:00.000Z,24 October 2026 - 06:18 AM,17.26,121.15,014,2.6,000km S 71° W of Tinglayan (Kalinga),000,S 71° W,Tinglayan (Kalinga)
 2026-10-24T05:41:00.000Z,24 October 2026 - 05:41 AM,07.83,127.07,010,4.5,062km N 63° E of Baganga (Davao Oriental),062,N 63° E,Baganga (Davao Oriental)
 2026-10-24T05:16:00.000Z,24 October 2026 - 05:16 AM,18.50,121.29,005,1.8,006km N 53° W of Pamplona (Cagayan),006,N 53° W,Pamplona (Cagayan)
@@ -56,7 +60,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-23T10:38:00.000Z,23 October 2026 - 10:38 AM,05.99,125.86,130,3.0,026km N 71° E of Jose Abad Santos (Davao Occidental),026,N 71° E,Jose Abad Santos (Davao Occidental)
 2026-10-23T09:30:00.000Z,23 October 2026 - 09:30 AM,10.29,122.96,011,1.6,007km S 62° W of La Castellana (Negros Occidental),007,S 62° W,La Castellana (Negros Occidental)
 2026-10-23T09:16:00.000Z,23 October 2026 - 09:16 AM,18.46,120.87,007,2.4,003km West of Adams (Ilocos Norte),003,West of Adams,Norte)
-2026-10-23T08:25:00.000Z,23 October 2026 - 08:25 AM,09.37,125.85,017,3.0,011km N 88° W of Carrascal (Surigao Del Sur),011,N 88° W,Carrascal (Surigao Del Sur)
-2026-10-23T08:23:00.000Z,23 October 2026 - 08:23 AM,04.64,126.22,022,3.0,123km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),123,S 46° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-23T06:39:00.000Z,23 October 2026 - 06:39 AM,06.49,125.71,176,2.6,014km N 53° E of Malita (Davao Occidental),014,N 53° E,Malita (Davao Occidental)
-2026-10-23T06:36:00.000Z,23 October 2026 - 06:36 AM,10.45,125.50,033,2.1,013km N 43° W of Loreto (Dinagat Islands),013,N 43° W,Loreto (Dinagat Islands)
