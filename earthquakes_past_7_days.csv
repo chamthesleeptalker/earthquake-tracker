@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-25T05:23:00.000Z,25 October 2026 - 05:23 AM,20.66,121.48,021,2.4,040km S 69° W of Itbayat (Batanes),040,S 69° W,Itbayat (Batanes)
+2026-10-25T05:12:00.000Z,25 October 2026 - 05:12 AM,10.78,122.89,027,2.2,009km S 79° W of City Of Silay (Negros Occidental),009,S 79° W,City Of Silay (Negros Occidental)
+2026-10-25T05:04:00.000Z,25 October 2026 - 05:04 AM,16.82,121.54,012,2.4,005km N 13° E of Ramon (Isabela),005,N 13° E,Ramon (Isabela)
+2026-10-25T04:52:00.000Z,25 October 2026 - 04:52 AM,06.51,126.30,018,2.7,030km S 58° E of Governor Generoso (Davao Oriental),030,S 58° E,Governor Generoso (Davao Oriental)
 2026-10-25T03:47:00.000Z,25 October 2026 - 03:47 AM,15.64,119.96,032,1.7,004km N 64° E of Candelaria (Zambales),004,N 64° E,Candelaria (Zambales)
 2026-10-25T03:03:00.000Z,25 October 2026 - 03:03 AM,05.77,126.24,024,2.9,068km S 77° E of Jose Abad Santos (Davao Occidental),068,S 77° E,Jose Abad Santos (Davao Occidental)
 2026-10-25T02:26:00.000Z,25 October 2026 - 02:26 AM,05.82,126.04,143,2.8,045km S 77° E of Jose Abad Santos (Davao Occidental),045,S 77° E,Jose Abad Santos (Davao Occidental)
@@ -355,9 +359,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-18T06:22:00.000Z,18 October 2026 - 06:22 AM,11.22,124.18,005,2.6,020km S 80° E of Daanbantayan (Cebu),020,S 80° E,Daanbantayan (Cebu)
 2026-10-18T05:36:00.000Z,18 October 2026 - 05:36 AM,07.73,126.78,034,2.0,030km N 54° E of Baganga (Davao Oriental),030,N 54° E,Baganga (Davao Oriental)
 2026-10-18T05:28:00.000Z,18 October 2026 - 05:28 AM,05.87,125.35,014,2.2,013km S 30° E of Malapatan (Sarangani),013,S 30° E,Malapatan (Sarangani)
-2026-10-18T05:07:00.000Z,18 October 2026 - 05:07 AM,20.43,120.80,001,2.2,113km N 85° W of Sabtang (Batanes),113,N 85° W,Sabtang (Batanes)
-2026-10-18T04:57:00.000Z,18 October 2026 - 04:57 AM,13.72,120.61,160,1.9,013km S 12° W of Calatagan (Batangas),013,S 12° W,Calatagan (Batangas)
-2026-10-18T04:22:00.000Z,18 October 2026 - 04:22 AM,20.24,121.11,033,2.6,080km S 83° W of Sabtang (Batanes),080,S 83° W,Sabtang (Batanes)
-2026-10-18T04:05:00.000Z,18 October 2026 - 04:05 AM,12.21,121.19,030,1.9,012km S 23° E of Magsaysay (Occidental Mindoro),012,S 23° E,Magsaysay (Occidental Mindoro)
-2026-10-18T04:00:00.000Z,18 October 2026 - 04:00 AM,18.26,122.19,019,1.9,020km S 90° E of Gonzaga (Cagayan),020,S 90° E,Gonzaga (Cagayan)
-2026-10-18T03:54:00.000Z,18 October 2026 - 03:54 AM,19.98,121.52,017,2.9,054km S 44° W of Sabtang (Batanes),054,S 44° W,Sabtang (Batanes)
