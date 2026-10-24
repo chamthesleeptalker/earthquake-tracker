@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-25T03:47:00.000Z,25 October 2026 - 03:47 AM,15.64,119.96,032,1.7,004km N 64° E of Candelaria (Zambales),004,N 64° E,Candelaria (Zambales)
+2026-10-25T03:03:00.000Z,25 October 2026 - 03:03 AM,05.77,126.24,024,2.9,068km S 77° E of Jose Abad Santos (Davao Occidental),068,S 77° E,Jose Abad Santos (Davao Occidental)
+2026-10-25T02:26:00.000Z,25 October 2026 - 02:26 AM,05.82,126.04,143,2.8,045km S 77° E of Jose Abad Santos (Davao Occidental),045,S 77° E,Jose Abad Santos (Davao Occidental)
+2026-10-25T02:20:00.000Z,25 October 2026 - 02:20 AM,07.44,125.44,012,1.5,023km S 62° W of Santo Tomas (Davao Del Norte),023,S 62° W,Santo Tomas (Davao Del Norte)
+2026-10-25T02:05:00.000Z,25 October 2026 - 02:05 AM,15.02,122.52,002,2.1,041km N 29° E of Jomalig (Quezon),041,N 29° E,Jomalig (Quezon)
+2026-10-25T01:52:00.000Z,25 October 2026 - 01:52 AM,06.49,124.14,020,2.3,012km S 53° E of Kalamansig (Sultan Kudarat),012,S 53° E,Kalamansig (Sultan Kudarat)
+2026-10-25T01:39:00.000Z,25 October 2026 - 01:39 AM,05.22,125.23,003,2.4,030km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 44° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-25T00:53:00.000Z,25 October 2026 - 12:53 AM,12.61,123.60,009,2.7,007km S 62° W of Monreal (Masbate),007,S 62° W,Monreal (Masbate)
 2026-10-25T00:38:00.000Z,25 October 2026 - 12:38 AM,05.65,125.36,028,2.3,023km N 32° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),023,N 32° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-24T23:56:00.000Z,24 October 2026 - 11:56 PM,12.80,122.99,030,2.0,030km S 69° W of Claveria (Masbate),030,S 69° W,Claveria (Masbate)
