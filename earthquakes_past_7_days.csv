@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-26T06:58:00.000Z,26 October 2026 - 06:58 AM,05.33,125.16,033,2.0,030km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-26T05:11:00.000Z,26 October 2026 - 05:11 AM,05.78,127.15,021,2.7,154km S 51° E of Governor Generoso (Davao Oriental),154,S 51° E,Governor Generoso (Davao Oriental)
+2026-10-26T05:11:00.000Z,26 October 2026 - 05:11 AM,19.03,121.27,027,2.0,011km S 37° E of Dalupiri Island (Calayan) (Cagayan),011,S 37° E,Dalupiri Island (Calayan) (Cagayan)
+2026-10-26T05:10:00.000Z,26 October 2026 - 05:10 AM,07.36,126.61,129,2.2,006km N 54° E of Caraga (Davao Oriental),006,N 54° E,Caraga (Davao Oriental)
+2026-10-26T05:09:00.000Z,26 October 2026 - 05:09 AM,08.37,126.46,055,1.7,014km N 89° E of Hinatuan (Surigao Del Sur),014,N 89° E,Hinatuan (Surigao Del Sur)
 2026-10-26T04:52:00.000Z,26 October 2026 - 04:52 AM,18.36,121.48,062,2.2,007km S 35° W of Ballesteros (Cagayan),007,S 35° W,Ballesteros (Cagayan)
 2026-10-26T04:34:00.000Z,26 October 2026 - 04:34 AM,05.72,125.42,031,1.5,027km S 65° E of Glan (Sarangani),027,S 65° E,Glan (Sarangani)
 2026-10-26T04:18:00.000Z,26 October 2026 - 04:18 AM,12.69,123.11,029,1.7,028km S 33° W of Claveria (Masbate),028,S 33° W,Claveria (Masbate)
@@ -351,7 +356,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-19T07:51:00.000Z,19 October 2026 - 07:51 AM,03.11,128.04,133,4.2,386km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),386,S 49° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-19T07:48:00.000Z,19 October 2026 - 07:48 AM,02.93,127.86,024,3.6,385km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),385,S 45° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-19T07:17:00.000Z,19 October 2026 - 07:17 AM,17.35,122.35,087,1.7,006km N 64° E of Divilacan (Isabela),006,N 64° E,Divilacan (Isabela)
-2026-10-19T05:25:00.000Z,19 October 2026 - 05:25 AM,06.72,125.94,026,2.2,017km N 63° W of Governor Generoso (Davao Oriental),017,N 63° W,Governor Generoso (Davao Oriental)
-2026-10-19T05:14:00.000Z,19 October 2026 - 05:14 AM,06.47,124.09,014,2.3,010km S 25° E of Kalamansig (Sultan Kudarat),010,S 25° E,Kalamansig (Sultan Kudarat)
-2026-10-19T05:12:00.000Z,19 October 2026 - 05:12 AM,04.93,125.87,167,2.7,072km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),072,S 43° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-19T05:08:00.000Z,19 October 2026 - 05:08 AM,06.02,125.36,009,1.8,010km N 55° E of Malapatan (Sarangani),010,N 55° E,Malapatan (Sarangani)
