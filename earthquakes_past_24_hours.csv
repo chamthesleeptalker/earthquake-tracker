@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-10-26T09:01:00.000Z,26 October 2026 - 09:01 AM,18.42,120.78,009,1.7,012km S 13° W of Dumalneg (Ilocos Norte),012,S 13° W,Dumalneg (Ilocos Norte)
+2026-10-26T08:58:00.000Z,26 October 2026 - 08:58 AM,19.11,121.50,029,2.4,018km S 10° E of Calayan (Cagayan),018,S 10° E,Calayan (Cagayan)
+2026-10-26T08:23:00.000Z,26 October 2026 - 08:23 AM,09.75,125.94,034,1.6,012km S 84° W of Dapa (Surigao Del Norte),012,S 84° W,Dapa (Surigao Del Norte)
+2026-10-26T07:50:00.000Z,26 October 2026 - 07:50 AM,07.65,125.93,116,2.2,007km N 41° W of Nabunturan (Davao De Oro),007,N 41° W,Nabunturan (Davao De Oro)
 2026-10-26T06:58:00.000Z,26 October 2026 - 06:58 AM,05.33,125.16,033,2.0,030km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),030,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-10-26T05:11:00.000Z,26 October 2026 - 05:11 AM,05.78,127.15,021,2.7,154km S 51° E of Governor Generoso (Davao Oriental),154,S 51° E,Governor Generoso (Davao Oriental)
 2026-10-26T05:11:00.000Z,26 October 2026 - 05:11 AM,19.03,121.27,027,2.0,011km S 37° E of Dalupiri Island (Calayan) (Cagayan),011,S 37° E,Dalupiri Island (Calayan) (Cagayan)
@@ -48,9 +52,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-25T11:20:00.000Z,25 October 2026 - 11:20 AM,16.82,121.55,008,2.5,004km N 21° E of Ramon (Isabela),004,N 21° E,Ramon (Isabela)
 2026-10-25T10:58:00.000Z,25 October 2026 - 10:58 AM,16.86,121.62,006,2.7,004km S 59° E of San Mateo (Isabela),004,S 59° E,San Mateo (Isabela)
 2026-10-25T09:09:00.000Z,25 October 2026 - 09:09 AM,17.39,120.41,021,1.7,007km S 63° W of Narvacan (Ilocos Sur),007,S 63° W,Narvacan (Ilocos Sur)
-2026-10-25T08:54:00.000Z,25 October 2026 - 08:54 AM,05.06,125.31,004,2.9,042km S 18° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),042,S 18° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-25T08:17:00.000Z,25 October 2026 - 08:17 AM,05.36,125.26,031,1.8,019km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),019,S 73° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-25T07:37:00.000Z,25 October 2026 - 07:37 AM,10.93,123.97,011,2.4,013km S 07° W of City Of Bogo (Cebu),013,S 07° W,City Of Bogo (Cebu)
-2026-10-25T07:24:00.000Z,25 October 2026 - 07:24 AM,13.75,120.70,115,1.7,012km S 36° E of Calatagan (Batangas),012,S 36° E,Calatagan (Batangas)
-2026-10-25T07:23:00.000Z,25 October 2026 - 07:23 AM,05.34,125.11,032,3.1,036km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),036,S 76° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-25T06:58:00.000Z,25 October 2026 - 06:58 AM,06.38,126.63,016,3.2,069km S 63° E of Governor Generoso (Davao Oriental),069,S 63° E,Governor Generoso (Davao Oriental)
