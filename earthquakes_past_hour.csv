@@ -1,7 +1,4 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-29T22:09:00.000Z,29 October 2026 - 10:09 PM,13.69,120.43,031,1.2,020km S 81° E of Looc (Occidental Mindoro),020,S 81° E,Looc (Occidental Mindoro)
-2026-10-29T22:05:00.000Z,29 October 2026 - 10:05 PM,05.32,125.21,034,1.8,025km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-29T22:03:00.000Z,29 October 2026 - 10:03 PM,08.48,127.50,033,2.6,129km N 68° E of Lingig (Surigao Del Sur),129,N 68° E,Lingig (Surigao Del Sur)
-2026-10-29T21:38:00.000Z,29 October 2026 - 09:38 PM,08.50,127.65,006,2.3,141km S 87° E of Marihatag (Surigao Del Sur),141,S 87° E,Marihatag (Surigao Del Sur)
-2026-10-29T21:35:00.000Z,29 October 2026 - 09:35 PM,08.44,127.34,033,2.6,111km N 67° E of Lingig (Surigao Del Sur),111,N 67° E,Lingig (Surigao Del Sur)
-2026-10-29T21:23:00.000Z,29 October 2026 - 09:23 PM,10.14,124.93,018,2.3,007km N 14° W of Macrohon (Southern Leyte),007,N 14° W,Macrohon (Southern Leyte)
+2026-10-30T04:09:00.000Z,30 October 2026 - 04:09 AM,08.49,127.39,033,2.2,118km N 65° E of Lingig (Surigao Del Sur),118,N 65° E,Lingig (Surigao Del Sur)
+2026-10-30T03:51:00.000Z,30 October 2026 - 03:51 AM,06.64,126.01,048,2.4,007km S 79° W of Governor Generoso (Davao Oriental),007,S 79° W,Governor Generoso (Davao Oriental)
+2026-10-30T03:24:00.000Z,30 October 2026 - 03:24 AM,05.64,125.31,011,2.6,023km S 32° E of Glan (Sarangani),023,S 32° E,Glan (Sarangani)
