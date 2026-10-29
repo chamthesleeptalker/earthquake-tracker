@@ -1,5 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-29T15:48:00.000Z,29 October 2026 - 03:48 PM,07.81,126.39,030,2.2,007km S 12° E of Boston (Davao Oriental),007,S 12° E,Boston (Davao Oriental)
-2026-10-29T15:46:00.000Z,29 October 2026 - 03:46 PM,12.79,120.82,032,1.4,007km S 40° E of Sablayan (Occidental Mindoro),007,S 40° E,Sablayan (Occidental Mindoro)
-2026-10-29T15:37:00.000Z,29 October 2026 - 03:37 PM,05.51,125.30,005,3.3,018km N 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),018,N 52° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-29T15:31:00.000Z,29 October 2026 - 03:31 PM,08.47,127.84,010,5.6,164km N 73° E of Lingig (Surigao Del Sur),164,N 73° E,Lingig (Surigao Del Sur)
+2026-10-29T22:09:00.000Z,29 October 2026 - 10:09 PM,13.69,120.43,031,1.2,020km S 81° E of Looc (Occidental Mindoro),020,S 81° E,Looc (Occidental Mindoro)
+2026-10-29T22:05:00.000Z,29 October 2026 - 10:05 PM,05.32,125.21,034,1.8,025km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 66° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-10-29T22:03:00.000Z,29 October 2026 - 10:03 PM,08.48,127.50,033,2.6,129km N 68° E of Lingig (Surigao Del Sur),129,N 68° E,Lingig (Surigao Del Sur)
+2026-10-29T21:38:00.000Z,29 October 2026 - 09:38 PM,08.50,127.65,006,2.3,141km S 87° E of Marihatag (Surigao Del Sur),141,S 87° E,Marihatag (Surigao Del Sur)
+2026-10-29T21:35:00.000Z,29 October 2026 - 09:35 PM,08.44,127.34,033,2.6,111km N 67° E of Lingig (Surigao Del Sur),111,N 67° E,Lingig (Surigao Del Sur)
+2026-10-29T21:23:00.000Z,29 October 2026 - 09:23 PM,10.14,124.93,018,2.3,007km N 14° W of Macrohon (Southern Leyte),007,N 14° W,Macrohon (Southern Leyte)
