@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-10-31T22:51:00.000Z,31 October 2026 - 10:51 PM,08.49,127.54,040,2.4,133km N 84° E of Hinatuan (Surigao Del Sur),133,N 84° E,Hinatuan (Surigao Del Sur)
-2026-10-31T22:41:00.000Z,31 October 2026 - 10:41 PM,08.46,127.46,033,2.3,124km N 85° E of Hinatuan (Surigao Del Sur),124,N 85° E,Hinatuan (Surigao Del Sur)
-2026-10-31T22:05:00.000Z,31 October 2026 - 10:05 PM,19.15,121.29,016,2.2,010km N 58° E of Dalupiri Island (Calayan) (Cagayan),010,N 58° E,Dalupiri Island (Calayan) (Cagayan)
+2026-11-01T02:30:00.000Z,01 November 2026 - 02:30 AM,08.61,127.48,015,3.5,128km N 78° E of Hinatuan (Surigao Del Sur),128,N 78° E,Hinatuan (Surigao Del Sur)
+2026-11-01T02:20:00.000Z,01 November 2026 - 02:20 AM,11.19,124.43,011,1.6,005km S 60° E of Villaba (Leyte),005,S 60° E,Villaba (Leyte)
+2026-11-01T01:47:00.000Z,01 November 2026 - 01:47 AM,02.91,128.52,223,3.9,442km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),442,S 51° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-01T01:34:00.000Z,01 November 2026 - 01:34 AM,05.23,125.21,020,2.9,031km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),031,S 49° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
