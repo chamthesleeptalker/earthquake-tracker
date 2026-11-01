@@ -1,4 +1,10 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-01T22:27:00.000Z,01 November 2026 - 10:27 PM,16.49,119.07,025,2.5,089km N 62° W of Agno (Pangasinan),089,N 62° W,Agno (Pangasinan)
-2026-11-01T21:40:00.000Z,01 November 2026 - 09:40 PM,06.30,126.56,080,1.9,067km S 54° E of Governor Generoso (Davao Oriental),067,S 54° E,Governor Generoso (Davao Oriental)
-2026-11-01T21:36:00.000Z,01 November 2026 - 09:36 PM,13.10,123.79,033,1.8,007km S 52° E of City Of Legazpi (Albay),007,S 52° E,City Of Legazpi (Albay)
+2026-11-02T03:44:00.000Z,02 November 2026 - 03:44 AM,20.43,121.88,008,2.5,008km N 29° W of Ivana (Batanes),008,N 29° W,Ivana (Batanes)
+2026-11-02T03:33:00.000Z,02 November 2026 - 03:33 AM,06.45,126.67,024,3.7,069km S 71° E of Governor Generoso (Davao Oriental),069,S 71° E,Governor Generoso (Davao Oriental)
+2026-11-02T03:20:00.000Z,02 November 2026 - 03:20 AM,19.69,121.17,008,2.3,057km N 34° W of Calayan (Cagayan),057,N 34° W,Calayan (Cagayan)
+2026-11-02T03:22:00.000Z,02 November 2026 - 03:22 AM,19.29,121.48,002,2.1,003km N 16° E of Calayan (Cagayan),003,N 16° E,Calayan (Cagayan)
+2026-11-02T03:17:00.000Z,02 November 2026 - 03:17 AM,19.51,121.13,018,2.6,045km N 10° W of Dalupiri Island (Calayan) (Cagayan),045,N 10° W,Dalupiri Island (Calayan) (Cagayan)
+2026-11-02T02:52:00.000Z,02 November 2026 - 02:52 AM,19.35,121.47,002,2.2,010km N 05° W of Calayan (Cagayan),010,N 05° W,Calayan (Cagayan)
+2026-11-02T02:48:00.000Z,02 November 2026 - 02:48 AM,19.65,120.94,009,3.7,067km N 25° W of Dalupiri Island (Calayan) (Cagayan),067,N 25° W,Dalupiri Island (Calayan) (Cagayan)
+2026-11-02T02:46:00.000Z,02 November 2026 - 02:46 AM,19.82,121.02,011,1.9,078km N 38° W of Calayan (Cagayan),078,N 38° W,Calayan (Cagayan)
+2026-11-02T02:44:00.000Z,02 November 2026 - 02:44 AM,19.67,121.44,008,1.8,045km N 05° W of Calayan (Cagayan),045,N 05° W,Calayan (Cagayan)
