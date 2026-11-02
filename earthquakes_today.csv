@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-11-02T11:48:00.000Z,02 November 2026 - 11:48 AM,19.68,121.02,009,2.8,067km N 17° W of Dalupiri Island (Calayan) (Cagayan),067,N 17° W,Dalupiri Island (Calayan) (Cagayan)
+2026-11-02T11:12:00.000Z,02 November 2026 - 11:12 AM,13.03,124.44,011,3.3,026km S 87° E of Prieto Diaz (Sorsogon),026,S 87° E,Prieto Diaz (Sorsogon)
+2026-11-02T10:38:00.000Z,02 November 2026 - 10:38 AM,19.20,121.43,019,2.0,008km S 36° W of Calayan (Cagayan),008,S 36° W,Calayan (Cagayan)
+2026-11-02T10:10:00.000Z,02 November 2026 - 10:10 AM,08.57,127.25,014,2.5,103km N 77° E of Hinatuan (Surigao Del Sur),103,N 77° E,Hinatuan (Surigao Del Sur)
+2026-11-02T08:49:00.000Z,02 November 2026 - 08:49 AM,08.56,126.66,012,2.2,041km N 59° E of Hinatuan (Surigao Del Sur),041,N 59° E,Hinatuan (Surigao Del Sur)
 2026-11-02T06:58:00.000Z,02 November 2026 - 06:58 AM,18.00,122.09,023,2.2,026km N 62° E of Baggao (Cagayan),026,N 62° E,Baggao (Cagayan)
 2026-11-02T06:35:00.000Z,02 November 2026 - 06:35 AM,08.89,126.58,031,2.1,030km S 84° E of Cagwait (Surigao Del Sur),030,S 84° E,Cagwait (Surigao Del Sur)
 2026-11-02T05:52:00.000Z,02 November 2026 - 05:52 AM,12.62,123.54,002,2.5,014km S 81° W of Monreal (Masbate),014,S 81° W,Monreal (Masbate)
