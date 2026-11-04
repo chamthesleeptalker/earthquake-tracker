@@ -1,2 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-11-04T13:42:00.000Z,04 November 2026 - 01:42 PM,08.40,127.22,011,2.9,097km N 88° E of Hinatuan (Surigao Del Sur),097,N 88° E,Hinatuan (Surigao Del Sur)
+2026-11-04T13:38:00.000Z,04 November 2026 - 01:38 PM,19.79,121.23,007,2.8,064km N 24° W of Calayan (Cagayan),064,N 24° W,Calayan (Cagayan)
+2026-11-04T13:39:00.000Z,04 November 2026 - 01:39 PM,06.50,125.98,023,2.5,020km S 32° W of Governor Generoso (Davao Oriental),020,S 32° W,Governor Generoso (Davao Oriental)
+2026-11-04T13:18:00.000Z,04 November 2026 - 01:18 PM,18.13,121.22,121,1.7,012km N 17° E of Kabugao (Apayao),012,N 17° E,Kabugao (Apayao)
+2026-11-04T13:03:00.000Z,04 November 2026 - 01:03 PM,09.34,126.30,014,2.4,014km N 61° E of Cortes (Surigao Del Sur),014,N 61° E,Cortes (Surigao Del Sur)
 2026-11-04T13:01:00.000Z,04 November 2026 - 01:01 PM,09.27,126.83,008,2.8,069km N 61° E of Bayabas (Surigao Del Sur),069,N 61° E,Bayabas (Surigao Del Sur)
