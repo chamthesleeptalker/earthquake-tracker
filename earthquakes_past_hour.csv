@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-06T01:04:00.000Z,06 November 2026 - 01:04 AM,05.00,125.18,008,2.5,052km S 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),052,S 30° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-11-06T00:52:00.000Z,06 November 2026 - 12:52 AM,11.33,124.66,009,2.3,004km N 26° E of Capoocan (Leyte),004,N 26° E,Capoocan (Leyte)
-2026-11-06T00:48:00.000Z,06 November 2026 - 12:48 AM,11.24,124.61,010,3.7,006km S 31° W of Capoocan (Leyte),006,S 31° W,Capoocan (Leyte)
+2026-11-06T06:34:00.000Z,06 November 2026 - 06:34 AM,05.83,125.43,032,2.2,025km N 89° E of Glan (Sarangani),025,N 89° E,Glan (Sarangani)
+2026-11-06T06:23:00.000Z,06 November 2026 - 06:23 AM,05.58,125.44,033,2.3,012km N 14° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 14° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-06T06:21:00.000Z,06 November 2026 - 06:21 AM,06.63,123.79,003,2.2,030km N 74° W of Kalamansig (Sultan Kudarat),030,N 74° W,Kalamansig (Sultan Kudarat)
+2026-11-06T05:56:00.000Z,06 November 2026 - 05:56 AM,17.28,119.86,013,3.0,063km N 79° W of City Of Candon (Ilocos Sur),063,N 79° W,City Of Candon (Ilocos Sur)
+2026-11-06T05:54:00.000Z,06 November 2026 - 05:54 AM,09.62,126.04,103,2.7,008km N 89° E of Socorro (Surigao Del Norte),008,N 89° E,Socorro (Surigao Del Norte)
