@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-11-06T10:52:00.000Z,06 November 2026 - 10:52 AM,09.75,122.49,027,1.8,006km S 75° E of City Of Sipalay (Negros Occidental),006,S 75° E,City Of Sipalay (Negros Occidental)
+2026-11-06T10:15:00.000Z,06 November 2026 - 10:15 AM,16.13,121.71,025,1.8,015km S 48° E of Nagtipunan (Quirino),015,S 48° E,Nagtipunan (Quirino)
+2026-11-06T09:56:00.000Z,06 November 2026 - 09:56 AM,05.97,125.47,025,1.6,020km S 90° E of Malapatan (Sarangani),020,S 90° E,Malapatan (Sarangani)
+2026-11-06T08:23:00.000Z,06 November 2026 - 08:23 AM,13.67,120.49,097,3.3,024km S 41° W of Calatagan (Batangas),024,S 41° W,Calatagan (Batangas)
+2026-11-06T06:39:00.000Z,06 November 2026 - 06:39 AM,05.77,125.36,012,2.1,019km S 71° E of Glan (Sarangani),019,S 71° E,Glan (Sarangani)
 2026-11-06T06:34:00.000Z,06 November 2026 - 06:34 AM,05.83,125.43,032,2.2,025km N 89° E of Glan (Sarangani),025,N 89° E,Glan (Sarangani)
 2026-11-06T06:23:00.000Z,06 November 2026 - 06:23 AM,05.58,125.44,033,2.3,012km N 14° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),012,N 14° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
 2026-11-06T06:21:00.000Z,06 November 2026 - 06:21 AM,06.63,123.79,003,2.2,030km N 74° W of Kalamansig (Sultan Kudarat),030,N 74° W,Kalamansig (Sultan Kudarat)
