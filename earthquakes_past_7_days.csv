@@ -1,4 +1,11 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-11-07T09:26:00.000Z,07 November 2026 - 09:26 AM,06.04,125.01,025,1.5,020km N 04° E of Maasim (Sarangani),020,N 04° E,Maasim (Sarangani)
+2026-11-07T09:20:00.000Z,07 November 2026 - 09:20 AM,12.13,123.91,004,3.3,002km S 46° W of Palanas (Masbate),002,S 46° W,Palanas (Masbate)
+2026-11-07T08:46:00.000Z,07 November 2026 - 08:46 AM,06.14,124.31,033,1.2,016km S 62° E of Palimbang (Sultan Kudarat),016,S 62° E,Palimbang (Sultan Kudarat)
+2026-11-07T08:38:00.000Z,07 November 2026 - 08:38 AM,07.66,126.10,021,2.4,002km S 73° E of Compostela (Davao De Oro),002,S 73° E,Compostela (Davao De Oro)
+2026-11-07T08:25:00.000Z,07 November 2026 - 08:25 AM,12.96,123.06,005,1.8,020km S 25° E of San Pascual (Masbate),020,S 25° E,San Pascual (Masbate)
+2026-11-07T08:20:00.000Z,07 November 2026 - 08:20 AM,14.25,120.17,041,1.8,040km S 59° W of Mariveles (Bataan),040,S 59° W,Mariveles (Bataan)
+2026-11-07T07:29:00.000Z,07 November 2026 - 07:29 AM,06.46,126.30,130,2.1,033km S 49° E of Governor Generoso (Davao Oriental),033,S 49° E,Governor Generoso (Davao Oriental)
 2026-11-07T06:59:00.000Z,07 November 2026 - 06:59 AM,05.38,125.28,032,1.8,016km S 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),016,S 77° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-11-07T06:25:00.000Z,07 November 2026 - 06:25 AM,13.37,124.30,024,3.9,024km S 17° E of Virac (Catanduanes),024,S 17° E,Virac (Catanduanes)
 2026-11-07T05:46:00.000Z,07 November 2026 - 05:46 AM,10.38,126.25,034,1.6,044km N 25° E of Burgos (Surigao Del Norte),044,N 25° E,Burgos (Surigao Del Norte)
@@ -438,9 +445,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-10-31T12:50:00.000Z,31 October 2026 - 12:50 PM,10.39,122.20,028,1.8,022km S 16° E of San Joaquin (Iloilo),022,S 16° E,San Joaquin (Iloilo)
 2026-10-31T12:12:00.000Z,31 October 2026 - 12:12 PM,16.93,121.53,029,2.2,004km N 78° E of Alfonso Lista (Ifugao),004,N 78° E,Alfonso Lista (Ifugao)
 2026-10-31T11:13:00.000Z,31 October 2026 - 11:13 AM,15.35,122.16,004,3.0,058km N 39° E of Panukulan (Quezon),058,N 39° E,Panukulan (Quezon)
-2026-10-31T08:48:00.000Z,31 October 2026 - 08:48 AM,04.91,126.42,026,3.4,122km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),122,S 59° E,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-10-31T08:44:00.000Z,31 October 2026 - 08:44 AM,09.66,126.19,032,1.4,014km S 13° E of General Luna (Surigao Del Norte),014,S 13° E,General Luna (Surigao Del Norte)
-2026-10-31T08:37:00.000Z,31 October 2026 - 08:37 AM,05.88,125.42,021,1.7,018km S 56° E of Malapatan (Sarangani),018,S 56° E,Malapatan (Sarangani)
-2026-10-31T08:07:00.000Z,31 October 2026 - 08:07 AM,12.54,124.82,041,2.6,008km N 70° E of Mondragon (Northern Samar),008,N 70° E,Mondragon (Northern Samar)
-2026-10-31T07:56:00.000Z,31 October 2026 - 07:56 AM,05.66,125.22,019,2.3,018km S 06° E of Glan (Sarangani),018,S 06° E,Glan (Sarangani)
-2026-10-31T07:37:00.000Z,31 October 2026 - 07:37 AM,11.02,124.65,001,2.4,005km N 83° E of Ormoc City,005,N 83° E,Ormoc City
