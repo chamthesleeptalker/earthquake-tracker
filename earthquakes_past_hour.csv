@@ -1,4 +1,5 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-09T02:31:00.000Z,09 November 2026 - 02:31 AM,05.61,125.03,027,2.4,028km S 09° E of Maasim (Sarangani),028,S 09° E,Maasim (Sarangani)
-2026-11-09T02:16:00.000Z,09 November 2026 - 02:16 AM,13.71,123.33,032,1.5,011km S 03° W of Tinambac (Camarines Sur),011,S 03° W,Tinambac (Camarines Sur)
-2026-11-09T01:52:00.000Z,09 November 2026 - 01:52 AM,07.90,126.38,023,2.0,004km N 13° E of Boston (Davao Oriental),004,N 13° E,Boston (Davao Oriental)
+2026-11-09T05:00:00.000Z,09 November 2026 - 05:00 AM,11.09,124.12,006,2.2,016km N 71° E of City Of Bogo (Cebu),016,N 71° E,City Of Bogo (Cebu)
+2026-11-09T04:39:00.000Z,09 November 2026 - 04:39 AM,05.55,125.25,033,2.2,025km N 51° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,N 51° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-09T04:27:00.000Z,09 November 2026 - 04:27 AM,08.77,126.04,034,2.3,016km N 21° W of Lianga (Surigao Del Sur),016,N 21° W,Lianga (Surigao Del Sur)
+2026-11-09T04:20:00.000Z,09 November 2026 - 04:20 AM,11.16,124.10,027,1.6,018km N 47° E of City Of Bogo (Cebu),018,N 47° E,City Of Bogo (Cebu)
