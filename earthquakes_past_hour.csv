@@ -1,7 +1,7 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-10T19:17:00.000Z,10 November 2026 - 07:17 PM,05.65,125.24,027,1.7,019km S 11° E of Glan (Sarangani),019,S 11° E,Glan (Sarangani)
-2026-11-10T19:17:00.000Z,10 November 2026 - 07:17 PM,12.83,122.91,008,2.0,034km S 12° W of San Pascual (Masbate),034,S 12° W,San Pascual (Masbate)
-2026-11-10T19:09:00.000Z,10 November 2026 - 07:09 PM,15.39,122.42,006,2.3,074km N 17° E of Patnanungan (Quezon),074,N 17° E,Patnanungan (Quezon)
-2026-11-10T18:59:00.000Z,10 November 2026 - 06:59 PM,09.21,126.37,023,2.4,021km S 69° E of Cortes (Surigao Del Sur),021,S 69° E,Cortes (Surigao Del Sur)
-2026-11-10T18:56:00.000Z,10 November 2026 - 06:56 PM,09.14,126.49,019,4.1,029km N 50° E of Bayabas (Surigao Del Sur),029,N 50° E,Bayabas (Surigao Del Sur)
-2026-11-10T18:38:00.000Z,10 November 2026 - 06:38 PM,05.30,125.22,003,2.1,026km S 62° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),026,S 62° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-11T03:07:00.000Z,11 November 2026 - 03:07 AM,12.85,123.04,010,2.2,023km S 74° W of Claveria (Masbate),023,S 74° W,Claveria (Masbate)
+2026-11-11T02:54:00.000Z,11 November 2026 - 02:54 AM,06.02,125.39,019,1.6,012km N 65° E of Malapatan (Sarangani),012,N 65° E,Malapatan (Sarangani)
+2026-11-11T02:48:00.000Z,11 November 2026 - 02:48 AM,05.85,125.36,050,1.7,016km S 31° E of Malapatan (Sarangani),016,S 31° E,Malapatan (Sarangani)
+2026-11-11T02:41:00.000Z,11 November 2026 - 02:41 AM,12.87,123.06,010,2.0,021km S 79° W of Claveria (Masbate),021,S 79° W,Claveria (Masbate)
+2026-11-11T02:27:00.000Z,11 November 2026 - 02:27 AM,05.46,125.40,031,2.3,006km N 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,N 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-11T02:15:00.000Z,11 November 2026 - 02:15 AM,09.30,126.68,017,2.5,053km N 87° E of Cortes (Surigao Del Sur),053,N 87° E,Cortes (Surigao Del Sur)
