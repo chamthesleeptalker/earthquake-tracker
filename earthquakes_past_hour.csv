@@ -1,7 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-11T03:07:00.000Z,11 November 2026 - 03:07 AM,12.85,123.04,010,2.2,023km S 74° W of Claveria (Masbate),023,S 74° W,Claveria (Masbate)
-2026-11-11T02:54:00.000Z,11 November 2026 - 02:54 AM,06.02,125.39,019,1.6,012km N 65° E of Malapatan (Sarangani),012,N 65° E,Malapatan (Sarangani)
-2026-11-11T02:48:00.000Z,11 November 2026 - 02:48 AM,05.85,125.36,050,1.7,016km S 31° E of Malapatan (Sarangani),016,S 31° E,Malapatan (Sarangani)
-2026-11-11T02:41:00.000Z,11 November 2026 - 02:41 AM,12.87,123.06,010,2.0,021km S 79° W of Claveria (Masbate),021,S 79° W,Claveria (Masbate)
-2026-11-11T02:27:00.000Z,11 November 2026 - 02:27 AM,05.46,125.40,031,2.3,006km N 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),006,N 27° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-11-11T02:15:00.000Z,11 November 2026 - 02:15 AM,09.30,126.68,017,2.5,053km N 87° E of Cortes (Surigao Del Sur),053,N 87° E,Cortes (Surigao Del Sur)
+2026-11-11T07:52:00.000Z,11 November 2026 - 07:52 AM,16.50,121.29,033,1.5,003km N 60° E of Quezon (Nueva Vizcaya),003,N 60° E,Quezon (Nueva Vizcaya)
