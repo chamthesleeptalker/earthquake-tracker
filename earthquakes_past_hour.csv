@@ -1,5 +1,3 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-13T02:13:00.000Z,13 November 2026 - 02:13 AM,05.64,125.34,014,2.2,024km N 39° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),024,N 39° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
-2026-11-13T01:36:00.000Z,13 November 2026 - 01:36 AM,18.27,122.08,012,1.7,008km N 85° E of Gonzaga (Cagayan),008,N 85° E,Gonzaga (Cagayan)
-2026-11-13T01:32:00.000Z,13 November 2026 - 01:32 AM,15.25,122.48,030,2.2,061km N 27° E of Patnanungan (Quezon),061,N 27° E,Patnanungan (Quezon)
-2026-11-13T01:22:00.000Z,13 November 2026 - 01:22 AM,13.48,123.09,030,2.2,006km S 56° E of Pasacao (Camarines Sur),006,S 56° E,Pasacao (Camarines Sur)
+2026-11-13T07:32:00.000Z,13 November 2026 - 07:32 AM,19.68,121.36,013,2.4,047km N 15° W of Calayan (Cagayan),047,N 15° W,Calayan (Cagayan)
+2026-11-13T07:17:00.000Z,13 November 2026 - 07:17 AM,04.80,125.23,007,2.2,071km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),071,S 17° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
