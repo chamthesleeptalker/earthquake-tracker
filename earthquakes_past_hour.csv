@@ -1,7 +1,2 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-15T05:29:00.000Z,15 November 2026 - 05:29 AM,14.01,120.48,103,2.0,017km S 67° W of Nasugbu (Batangas),017,S 67° W,Nasugbu (Batangas)
-2026-11-15T05:20:00.000Z,15 November 2026 - 05:20 AM,07.99,125.95,033,2.0,009km N 86° W of Santa Josefa (Agusan Del Sur),009,N 86° W,Santa Josefa (Agusan Del Sur)
-2026-11-15T05:08:00.000Z,15 November 2026 - 05:08 AM,13.65,120.52,111,3.0,023km S 30° W of Calatagan (Batangas),023,S 30° W,Calatagan (Batangas)
-2026-11-15T05:04:00.000Z,15 November 2026 - 05:04 AM,04.94,126.13,060,3.6,094km S 57° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),094,S 57° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
-2026-11-15T04:47:00.000Z,15 November 2026 - 04:47 AM,05.66,125.34,019,1.5,023km S 41° E of Glan (Sarangani),023,S 41° E,Glan (Sarangani)
-2026-11-15T04:38:00.000Z,15 November 2026 - 04:38 AM,09.64,126.06,018,2.2,010km N 78° E of Socorro (Surigao Del Norte),010,N 78° E,Socorro (Surigao Del Norte)
+2026-11-15T12:28:00.000Z,15 November 2026 - 12:28 PM,05.32,125.32,026,1.6,015km S 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),015,S 48° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
