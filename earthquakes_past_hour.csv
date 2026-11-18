@@ -1,4 +1,8 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-18T04:12:00.000Z,18 November 2026 - 04:12 AM,15.51,119.55,010,4.4,039km N 78° W of Palauig (Zambales),039,N 78° W,Palauig (Zambales)
-2026-11-18T03:54:00.000Z,18 November 2026 - 03:54 AM,09.32,124.65,035,1.6,012km N 46° W of Mambajao (Camiguin),012,N 46° W,Mambajao (Camiguin)
-2026-11-18T03:14:00.000Z,18 November 2026 - 03:14 AM,07.02,125.65,024,2.1,009km S 47° W of Island Garden City Of Samal (Davao Del Norte),009,S 47° W,Island Garden City Of Samal (Davao Del Norte)
+2026-11-18T10:43:00.000Z,18 November 2026 - 10:43 AM,12.17,125.38,021,2.6,007km N 63° W of Oras (Eastern Samar),007,N 63° W,Oras (Eastern Samar)
+2026-11-18T10:19:00.000Z,18 November 2026 - 10:19 AM,11.55,123.75,024,2.5,028km N 03° E of Madridejos (Cebu),028,N 03° E,Madridejos (Cebu)
+2026-11-18T10:19:00.000Z,18 November 2026 - 10:19 AM,10.94,124.00,016,1.6,012km S 08° E of City Of Bogo (Cebu),012,S 08° E,City Of Bogo (Cebu)
+2026-11-18T10:19:00.000Z,18 November 2026 - 10:19 AM,16.21,120.66,034,1.4,016km S 07° W of Itogon (Benguet),016,S 07° W,Itogon (Benguet)
+2026-11-18T10:03:00.000Z,18 November 2026 - 10:03 AM,17.99,120.81,005,2.5,012km S 19° E of Solsona (Ilocos Norte),012,S 19° E,Solsona (Ilocos Norte)
+2026-11-18T10:02:00.000Z,18 November 2026 - 10:02 AM,13.14,120.49,054,3.0,015km S 49° W of Mamburao (Occidental Mindoro),015,S 49° W,Mamburao (Occidental Mindoro)
+2026-11-18T10:01:00.000Z,18 November 2026 - 10:01 AM,16.38,120.69,001,1.6,003km N 25° E of Itogon (Benguet),003,N 25° E,Itogon (Benguet)
