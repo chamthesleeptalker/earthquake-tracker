@@ -1,5 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
-2026-11-18T19:37:00.000Z,18 November 2026 - 07:37 PM,10.06,126.01,012,2.3,008km N 54° W of Burgos (Surigao Del Norte),008,N 54° W,Burgos (Surigao Del Norte)
-2026-11-18T19:05:00.000Z,18 November 2026 - 07:05 PM,09.54,126.18,030,1.6,026km S 05° E of General Luna (Surigao Del Norte),026,S 05° E,General Luna (Surigao Del Norte)
-2026-11-18T18:50:00.000Z,18 November 2026 - 06:50 PM,08.42,126.66,021,1.8,036km N 80° E of Hinatuan (Surigao Del Sur),036,N 80° E,Hinatuan (Surigao Del Sur)
-2026-11-18T18:45:00.000Z,18 November 2026 - 06:45 PM,18.46,120.81,004,2.2,007km S 01° E of Dumalneg (Ilocos Norte),007,S 01° E,Dumalneg (Ilocos Norte)
+2026-11-19T04:30:00.000Z,19 November 2026 - 04:30 AM,09.92,122.97,010,4.6,020km N 70° W of Ayungon (Negros Oriental),020,N 70° W,Ayungon (Negros Oriental)
+2026-11-19T04:01:00.000Z,19 November 2026 - 04:01 AM,09.36,126.73,004,2.0,060km N 81° E of Cortes (Surigao Del Sur),060,N 81° E,Cortes (Surigao Del Sur)
+2026-11-19T03:50:00.000Z,19 November 2026 - 03:50 AM,14.85,121.65,034,1.6,010km N 17° E of General Nakar (Quezon),010,N 17° E,General Nakar (Quezon)
+2026-11-19T03:41:00.000Z,19 November 2026 - 03:41 AM,17.48,121.03,032,1.7,010km S 16° E of Malibcong (Abra),010,S 16° E,Malibcong (Abra)
+2026-11-19T03:36:00.000Z,19 November 2026 - 03:36 AM,08.15,126.73,016,1.6,037km N 70° E of Lingig (Surigao Del Sur),037,N 70° E,Lingig (Surigao Del Sur)
