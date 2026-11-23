@@ -1,4 +1,13 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2026-11-23T18:38:00.000Z,23 November 2026 - 06:38 PM,04.39,125.84,052,2.7,123km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),123,S 22° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-23T16:23:00.000Z,23 November 2026 - 04:23 PM,07.78,126.14,032,1.8,011km S 63° E of Monkayo (Davao De Oro),011,S 63° E,Monkayo (Davao De Oro)
+2026-11-23T16:04:00.000Z,23 November 2026 - 04:04 PM,05.48,125.46,032,2.3,002km N 70° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),002,N 70° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-23T14:56:00.000Z,23 November 2026 - 02:56 PM,05.48,125.42,026,2.1,005km N 79° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),005,N 79° W,Sarangani Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-23T13:42:00.000Z,23 November 2026 - 01:42 PM,09.61,126.30,029,1.6,025km S 39° E of General Luna (Surigao Del Norte),025,S 39° E,General Luna (Surigao Del Norte)
+2026-11-23T13:41:00.000Z,23 November 2026 - 01:41 PM,05.04,125.10,024,1.9,054km S 41° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),054,S 41° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-23T12:59:00.000Z,23 November 2026 - 12:59 PM,12.43,124.63,032,2.6,007km S 08° W of Catarman (Northern Samar),007,S 08° W,Catarman (Northern Samar)
+2026-11-23T11:29:00.000Z,23 November 2026 - 11:29 AM,06.22,125.93,130,2.6,026km N 86° E of Don Marcelino (Davao Occidental),026,N 86° E,Don Marcelino (Davao Occidental)
+2026-11-23T10:15:00.000Z,23 November 2026 - 10:15 AM,17.88,120.82,024,2.0,017km N 01° E of Tineg (Abra),017,N 01° E,Tineg (Abra)
 2026-11-23T10:00:00.000Z,23 November 2026 - 10:00 AM,08.46,127.09,007,1.8,084km N 83° E of Hinatuan (Surigao Del Sur),084,N 83° E,Hinatuan (Surigao Del Sur)
 2026-11-23T09:55:00.000Z,23 November 2026 - 09:55 AM,17.42,120.00,002,2.2,043km S 70° W of Caoayan (Ilocos Sur),043,S 70° W,Caoayan (Ilocos Sur)
 2026-11-23T09:26:00.000Z,23 November 2026 - 09:26 AM,09.24,126.34,029,2.6,016km S 77° E of Cortes (Surigao Del Sur),016,S 77° E,Cortes (Surigao Del Sur)
