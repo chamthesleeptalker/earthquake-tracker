@@ -1,7 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
 2026-11-22T15:54:00.000Z,22 November 2026 - 03:54 PM,02.90,126.51,83,5.3,303km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),303,S 24° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-11-25T07:29:00.000Z,25 November 2026 - 07:29 AM,10.93,122.21,19,5.1,012km S 49° E of Valderrama (Antique),012,S 49° E,Valderrama (Antique)
-2026-11-20T21:09:00.000Z,20 November 2026 - 09:09 PM,05.31,125.22,37,4.8,025km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),025,S 63° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-11-22T08:23:00.000Z,22 November 2026 - 08:23 AM,05.23,125.23,10,4.6,029km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),029,S 46° W,Balut Island (Municipality Of Sarangani) (Davao Occidental)
 2026-11-25T01:01:00.000Z,25 November 2026 - 01:01 AM,08.51,122.54,10,4.4,045km N 18° W of Liloy (Zamboanga Del Norte),045,N 18° W,Liloy (Zamboanga Del Norte)
 2026-11-22T01:35:00.000Z,22 November 2026 - 01:35 AM,09.00,126.43,19,4.4,017km N 56° E of Cagwait (Surigao Del Sur),017,N 56° E,Cagwait (Surigao Del Sur)
@@ -9,3 +8,4 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2026-11-25T21:33:00.000Z,25 November 2026 - 09:33 PM,13.55,119.89,32,4.0,043km S 65° W of Looc (Occidental Mindoro),043,S 65° W,Looc (Occidental Mindoro)
 2026-11-25T23:02:00.000Z,25 November 2026 - 11:02 PM,13.67,120.52,94,3.9,022km S 33° W of Calatagan (Batangas),022,S 33° W,Calatagan (Batangas)
 2026-11-23T08:07:00.000Z,23 November 2026 - 08:07 AM,03.09,126.78,119,3.9,298km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),298,S 30° E,Balut Island (Municipality Of Sarangani) (Davao Occidental)
+2026-11-23T02:26:00.000Z,23 November 2026 - 02:26 AM,05.56,125.18,3,3.9,030km S 09° W of Glan (Sarangani),030,S 09° W,Glan (Sarangani)
